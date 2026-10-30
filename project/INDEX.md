@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 188 / 441 个视频。
+已编写 191 / 441 个视频。
 
 ## 各剧集进度
 
@@ -23,7 +23,7 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Electrical Safety Series | 3 / 25 |
+| Electrical Safety Series | 6 / 25 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
@@ -110,6 +110,9 @@
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 认识电：触电伤害与基本防护 | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 漏电保护器：两种型式与正确使用 | 62 | 5:10 | 14 / 5 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) · [审查](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/审查报告.md>) |
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 电动工具的危害与预防 | 60 | 5:00 | 20 / 6 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi/script.md>) · [审查](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi/审查报告.md>) |
+| Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 动火作业的危害与预防 | 61 | 5:05 | 25 / 6 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE/审查报告.md>) |
+| Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 电压等级与爆炸危险区域 | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/审查报告.md>) |
+| Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 用电安全知识问答 | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 看不见的污染：实验室防污染 | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 实验室里的人机工效 | 102 | 8:30 | 25 / 5 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] | 通风柜的正确使用 | 111 | 9:15 | 34 / 6 | [剧本](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]/script.md>) · [审查](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]/审查报告.md>) |
