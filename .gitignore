@@ -1,5 +1,7 @@
 push_*/
 *.part
 *.ytdl
-work/
 __pycache__/
+# 分析素材入库：转写、镜头、拼图、分析底稿；原视频和单帧不入库（可用 tools/analyze_video.py 重建）
+work/**/source.*
+work/**/frames/

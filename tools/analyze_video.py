@@ -199,6 +199,7 @@ def main():
     ap.add_argument("--only", nargs="*")
     ap.add_argument("--model", default="auto", help="auto（按语种选择）、small.en、small 等")
     ap.add_argument("--keep-video", action="store_true", help="保留下载的视频（默认分析完删除，省磁盘）")
+    ap.add_argument("--push", action="store_true", help="每分析完一个视频就提交并推送到 GitHub（tools/publish.py）")
     args = ap.parse_args()
     assets = [a for a in load_assets() if a["剧集"] == args.series and (not args.only or a["序号"] in args.only)]
     if not assets:
@@ -219,6 +220,9 @@ def main():
         print(f"   {ts(info['duration'])}，转写 {len(tr['segments'])} 段，镜头 {len(shots)} 个，拼图 {n} 张", flush=True)
         if not args.keep_video:
             src.unlink()
+        if args.push:
+            subprocess.run([sys.executable, str(ROOT / "tools" / "publish.py"), a["剧集"], a["视频名称"],
+                            "-m", f"Analyze {a['剧集']} / {a['视频名称']}"], check=False)
 
 
 if __name__ == "__main__":
