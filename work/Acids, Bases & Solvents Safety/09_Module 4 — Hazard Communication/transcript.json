@@ -1,0 +1,632 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "task": "transcribe",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.88,
+   "text": "Welcome to today's explainer. So today we're diving into something that is literally the"
+  },
+  {
+   "start": 4.88,
+   "end": 10.4,
+   "text": "backbone of lab operations. Now, I know it often gets a bad rap as dry, bureaucratic red tape,"
+  },
+  {
+   "start": 10.4,
+   "end": 14.32,
+   "text": "but stick with me. We're looking at OSHA's hazard communication standard,"
+  },
+  {
+   "start": 14.32,
+   "end": 22.16,
+   "text": "specifically 29 CFR 1910.1200. But instead of seeing this as just some boring list of rules,"
+  },
+  {
+   "start": 22.16,
+   "end": 25.68,
+   "text": "it's actually way more helpful to think of it as an incredibly intuitive,"
+  },
+  {
+   "start": 25.68,
+   "end": 30.88,
+   "text": "absolutely vital language. It is the language of safety. There's actually a quote from our"
+  },
+  {
+   "start": 30.88,
+   "end": 36.32,
+   "text": "source material that just hits the nail on the head. It says, Hascom is the language your laboratory"
+  },
+  {
+   "start": 36.32,
+   "end": 41.44,
+   "text": "speaks at every container, every shipment, every shift change. That's exactly the mindset we need"
+  },
+  {
+   "start": 41.44,
+   "end": 46.64,
+   "text": "today. Hascom isn't just compliance, it's a global language. If you're working around hazardous"
+  },
+  {
+   "start": 46.64,
+   "end": 51.52,
+   "text": "chemicals, you absolutely have to learn to read, speak and translate this language perfectly"
+  },
+  {
+   "start": 51.52,
+   "end": 55.6,
+   "text": "because out there on the floor or right at your bench, fluency in this language is what keeps"
+  },
+  {
+   "start": 55.6,
+   "end": 59.92,
+   "text": "you and everybody around you safe. Okay, here's a quick look at how we're going"
+  },
+  {
+   "start": 59.92,
+   "end": 65.52,
+   "text": "to break down today's explainer. We'll start with the language of safety, then we'll decode the GHS"
+  },
+  {
+   "start": 65.52,
+   "end": 70.88,
+   "text": "alphabet. After that, we'll navigate the SDS dictionary, check out the right to know program,"
+  },
+  {
+   "start": 70.88,
+   "end": 74.72,
+   "text": "and finally, we'll put the whole shebang to the test with some real world workflows."
+  },
+  {
+   "start": 75.52,
+   "end": 80.72,
+   "text": "Let's jump right into section one, the language of safety. It is absolutely crucial to understand"
+  },
+  {
+   "start": 80.72,
+   "end": 85.2,
+   "text": "right off the bat that Hascom applies to any workplace with hazardous chemicals. It's actually"
+  },
+  {
+   "start": 85.2,
+   "end": 89.04,
+   "text": "a lot broader than the standard laboratory standard you might be used to. Basically,"
+  },
+  {
+   "start": 89.04,
+   "end": 95.12,
+   "text": "if there's a hazardous chemical in the room, Hascom applies, period. Okay, let's dive into this. The"
+  },
+  {
+   "start": 95.12,
+   "end": 100.72,
+   "text": "modern version of Hascom, which got a massive update back in 2012, brought the US into alignment"
+  },
+  {
+   "start": 100.72,
+   "end": 106.56,
+   "text": "with what's called the Globally Harmonized System, or GHS. This is a United Nations system."
+  },
+  {
+   "start": 106.56,
+   "end": 111.12,
+   "text": "And why does that matter to us? Well, before this, safety labels were kind of a localized"
+  },
+  {
+   "start": 111.12,
+   "end": 116.88,
+   "text": "free-for-all, total chaos. But now, thanks to GHS, chemical hazard classifications,"
+  },
+  {
+   "start": 116.88,
+   "end": 122.0,
+   "text": "labels, and safety data sheets are completely standardized across countries. So, a chemist"
+  },
+  {
+   "start": 122.0,
+   "end": 126.56,
+   "text": "working in a lab in California is reading the exact same visual warnings as a chemist unpacking"
+  },
+  {
+   "start": 126.56,
+   "end": 130.24,
+   "text": "that exact same shipment over in Munich. It's pretty amazing when you realize we now"
+  },
+  {
+   "start": 130.24,
+   "end": 136.8,
+   "text": "share a truly international safety language. Alright, section two, decoding the GHS alphabet."
+  },
+  {
+   "start": 137.44,
+   "end": 142.96,
+   "text": "So, how do we actually read this language day to day? Well, the foundation is printed right on"
+  },
+  {
+   "start": 142.96,
+   "end": 147.52,
+   "text": "the container labels. And these labels have some incredibly strict visual rules."
+  },
+  {
+   "start": 148.16,
+   "end": 152.0,
+   "text": "Let's compare the two main types of labels you're going to interact with."
+  },
+  {
+   "start": 152.0,
+   "end": 157.04,
+   "text": "First up, you have primary labels. These are the ones affixed right by the manufacturer."
+  },
+  {
+   "start": 157.04,
+   "end": 161.68,
+   "text": "They are strictly GHS formatted, and whatever you do, they're non-removable."
+  },
+  {
+   "start": 161.68,
+   "end": 166.32,
+   "text": "When OSHA inspectors do a walkthrough, they are looking to see that these are perfectly intact."
+  },
+  {
+   "start": 166.8,
+   "end": 171.68,
+   "text": "But then, you have secondary labels. Say you're transferring a chemical from that primary bottle"
+  },
+  {
+   "start": 171.68,
+   "end": 176.88,
+   "text": "into a smaller wash bottle or a beaker for your bench work. You've got to label that new container."
+  },
+  {
+   "start": 176.88,
+   "end": 181.92,
+   "text": "It needs the product identifier and general hazard info. And let me emphasize this right now."
+  },
+  {
+   "start": 181.92,
+   "end": 187.2,
+   "text": "Secondary labels are a massive audit hotspot. Inspectors will literally check every single"
+  },
+  {
+   "start": 187.2,
+   "end": 192.24,
+   "text": "wash bottle sitting at your bench. Now, the most universally recognizable part of these labels?"
+  },
+  {
+   "start": 192.24,
+   "end": 197.12,
+   "text": "The pictograms. OSHA requires eight specific icons, and they're always housed in these distinct"
+  },
+  {
+   "start": 197.12,
+   "end": 201.76,
+   "text": "red-bordered diamonds. You've got the flame for flammables, the skull and crossbones for high"
+  },
+  {
+   "start": 201.76,
+   "end": 206.96,
+   "text": "acute toxicity, the exclamation mark for irritants, and so on. Now, these pictograms don't just sit"
+  },
+  {
+   "start": 206.96,
+   "end": 210.64,
+   "text": "there alone. They're always paired with a signal word to quickly communicate the severity of the"
+  },
+  {
+   "start": 210.64,
+   "end": 215.44,
+   "text": "hazard. You're going to see danger for severe hazards, like say a category one flammable,"
+  },
+  {
+   "start": 215.44,
+   "end": 217.44,
+   "text": "or you'll see warning for the less severe stuff."
+  },
+  {
+   "start": 218.08,
+   "end": 221.28,
+   "text": "Let's test your knowledge real quick with a real-world scenario."
+  },
+  {
+   "start": 221.36,
+   "end": 226.24,
+   "text": "Imagine a senior chemist transfers 250 milliliters of acetone into a squeeze bottle"
+  },
+  {
+   "start": 226.24,
+   "end": 231.2,
+   "text": "just for his own use during his shift. So is a full secondary label legally required here?"
+  },
+  {
+   "start": 231.2,
+   "end": 238.32,
+   "text": "Think about it for a second. The answer is, well, technically no. Under OSHA standard 1910.1200F8,"
+  },
+  {
+   "start": 238.32,
+   "end": 242.48,
+   "text": "if a container is portable, used during that exact same shift, and handled only by the"
+  },
+  {
+   "start": 242.48,
+   "end": 246.4,
+   "text": "person who actually made the transfer, it's technically exempt from full labeling. But"
+  },
+  {
+   "start": 246.4,
+   "end": 250.24,
+   "text": "keeping it real, slapping a minimal label with the chemical name on it, is always,"
+  },
+  {
+   "start": 250.24,
+   "end": 256.48,
+   "text": "always your best practice. Moving right along to Section 3, if container labels are the alphabet,"
+  },
+  {
+   "start": 256.48,
+   "end": 261.76,
+   "text": "then the safety data sheet is the dictionary. Let's look at how to navigate the modern SDS"
+  },
+  {
+   "start": 261.76,
+   "end": 267.2,
+   "text": "manual, which, thankfully, replaced those old, completely unstandardized yellow MSDS"
+  },
+  {
+   "start": 267.2,
+   "end": 270.72,
+   "text": "sheets we used to have to deal with. Let's see how this builds into a highly"
+  },
+  {
+   "start": 270.72,
+   "end": 277.04,
+   "text": "logical 16-section document. A lab worker typically uses an SDS in four practical steps."
+  },
+  {
+   "start": 277.84,
+   "end": 283.44,
+   "text": "Step one covers sections one through three. Think of this as the identity card. What exactly is this"
+  },
+  {
+   "start": 283.44,
+   "end": 289.44,
+   "text": "chemical, and what are its hazards? Step two, which is sections four through six, is all about"
+  },
+  {
+   "start": 289.44,
+   "end": 294.96,
+   "text": "emergency response. This is your go-to for first aid, firefighting, and accidental release"
+  },
+  {
+   "start": 294.96,
+   "end": 300.72,
+   "text": "measures. Step three hits sections seven and eight, covering handling, storage, and your"
+  },
+  {
+   "start": 300.72,
+   "end": 305.84,
+   "text": "personal protective equipment. Actually, pay super close attention here. Auditors love to"
+  },
+  {
+   "start": 305.84,
+   "end": 311.04,
+   "text": "check if the PPE you're actually wearing matches Section 8 perfectly. And finally,"
+  },
+  {
+   "start": 311.04,
+   "end": 315.92,
+   "text": "step four, sections nine through 11, dives into the physical properties, reactivity,"
+  },
+  {
+   "start": 315.92,
+   "end": 321.76,
+   "text": "and toxicology of the chemical. Okay, here's another scenario for you. An OSHA inspector asks"
+  },
+  {
+   "start": 321.76,
+   "end": 326.96,
+   "text": "a bench analyst to pull up the SDS for ethyl acetate. The analyst walks over to a terminal,"
+  },
+  {
+   "start": 326.96,
+   "end": 331.92,
+   "text": "searches the company internet, and pulls it up in, say, four minutes. Is that acceptable?"
+  },
+  {
+   "start": 331.92,
+   "end": 338.24,
+   "text": "The answer is a resounding yes. OSHA just requires an SDS to be readily accessible during a work shift."
+  },
+  {
+   "start": 338.24,
+   "end": 343.44,
+   "text": "So electronic access is perfectly fine, and four minutes definitely counts as readily accessible."
+  },
+  {
+   "start": 343.44,
+   "end": 347.84,
+   "text": "It's certainly a whole lot better than sprinting down a hallway frantically looking for some dusty"
+  },
+  {
+   "start": 347.84,
+   "end": 352.48,
+   "text": "old binder. Just remember, you absolutely must have a backup system, like printed binders,"
+  },
+  {
+   "start": 352.48,
+   "end": 357.12,
+   "text": "just in case the power goes out or the network crashes. All right, section four,"
+  },
+  {
+   "start": 357.12,
+   "end": 361.44,
+   "text": "the right to know program. This is where the programmatic elements come into play."
+  },
+  {
+   "start": 361.44,
+   "end": 366.32,
+   "text": "It's the blueprint for how an employer actually teaches their team to read and speak the Hazcom"
+  },
+  {
+   "start": 366.32,
+   "end": 370.88,
+   "text": "language through formal training and vital information sharing. Now, what's really"
+  },
+  {
+   "start": 370.88,
+   "end": 375.2,
+   "text": "interesting about this slide is that these common audit mistakes happen year after year"
+  },
+  {
+   "start": 375.2,
+   "end": 380.24,
+   "text": "after year, yet they're entirely preventable. Seriously, missing secondary labels? You can"
+  },
+  {
+   "start": 380.24,
+   "end": 384.32,
+   "text": "fix that right now by just keeping wash bottle template labels right at the bench."
+  },
+  {
+   "start": 384.32,
+   "end": 389.04,
+   "text": "What about a stale SDS database? Just integrate your SDS checks directly with your procurement"
+  },
+  {
+   "start": 389.04,
+   "end": 394.24,
+   "text": "software so any new order automatically triggers an SDS update. And training records that only show"
+  },
+  {
+   "start": 394.24,
+   "end": 398.0,
+   "text": "attendance? Time to upgrade that learning management system so it captures the specific"
+  },
+  {
+   "start": 398.0,
+   "end": 402.24,
+   "text": "topics taught, along with quiz assessments and acknowledgments. These are small workflow"
+  },
+  {
+   "start": 402.24,
+   "end": 406.8,
+   "text": "fixes, but man, they prevent massive audit headaches down the line. We also really need"
+  },
+  {
+   "start": 406.8,
+   "end": 413.52,
+   "text": "to talk about trade secrets, which are covered under 1910.1200i. Sometimes, a manufacturer will"
+  },
+  {
+   "start": 413.52,
+   "end": 418.32,
+   "text": "claim a specific chemical formula is a trade secret, so the absolutely crucial point here"
+  },
+  {
+   "start": 418.32,
+   "end": 423.04,
+   "text": "is this. They are allowed to withhold the specific chemical identity on the SDS. You know,"
+  },
+  {
+   "start": 423.04,
+   "end": 428.16,
+   "text": "they'll usually just call it a proprietary blend. But they absolutely cannot withhold the safety"
+  },
+  {
+   "start": 428.16,
+   "end": 433.84,
+   "text": "information. No way. They still have to list all the hazard categorizations, the required PPE,"
+  },
+  {
+   "start": 433.84,
+   "end": 438.24,
+   "text": "and all the first aid instructions. The bottom line is, you will always, always know how to"
+  },
+  {
+   "start": 438.24,
+   "end": 443.44,
+   "text": "protect yourself, even if you don't know the exact recipe. But what happens in a real emergency?"
+  },
+  {
+   "start": 443.44,
+   "end": 447.04,
+   "text": "Imagine a worker gets exposed to one of those proprietary blends, and at 2 a.m.,"
+  },
+  {
+   "start": 447.04,
+   "end": 451.36,
+   "text": "the treating physician calls up the manufacturer demanding that specific chemical identity."
+  },
+  {
+   "start": 451.36,
+   "end": 456.96,
+   "text": "Can the manufacturer refuse? Absolutely not. Trade secrets can never, ever block emergency"
+  },
+  {
+   "start": 456.96,
+   "end": 461.36,
+   "text": "medical care. The law explicitly requires immediate disclosure to a treating physician or"
+  },
+  {
+   "start": 461.36,
+   "end": 465.2,
+   "text": "nurse. All those legal confidentiality agreements regarding the trade secret?"
+  },
+  {
+   "start": 465.2,
+   "end": 469.2,
+   "text": "Those are simply signed after the fact. Safety always comes first."
+  },
+  {
+   "start": 469.2,
+   "end": 473.44,
+   "text": "And let's not forget contractors. They are another critical piece of the right-to-know"
+  },
+  {
+   "start": 473.44,
+   "end": 479.12,
+   "text": "puzzle. If an HVAC contractor comes into work in a lab corridor, isn't given a Hazcom briefing,"
+  },
+  {
+   "start": 479.12,
+   "end": 484.8,
+   "text": "and then ends up getting exposed to a solvent leak, who's liable? Well, on a multi-employer work site,"
+  },
+  {
+   "start": 484.8,
+   "end": 489.6,
+   "text": "citations typically go to both parties. The host employer gets cited for failing to inform"
+  },
+  {
+   "start": 489.6,
+   "end": 493.84,
+   "text": "the contractor of the hazards, and the contractor gets cited for failing to ask."
+  },
+  {
+   "start": 493.84,
+   "end": 497.36,
+   "text": "It's a two-way street, folks. The information flow has to go both ways."
+  },
+  {
+   "start": 498.0,
+   "end": 502.8,
+   "text": "Okay, let's wrap things up with Section 5 Real-World Hazcom Workflows. We're going to look"
+  },
+  {
+   "start": 502.8,
+   "end": 507.6,
+   "text": "at how this language of safety operates under pressure during actual daily workflows and,"
+  },
+  {
+   "start": 507.6,
+   "end": 512.32,
+   "text": "more importantly, crisis situations. Let's look at a real, high-stakes case,"
+  },
+  {
+   "start": 512.32,
+   "end": 517.04,
+   "text": "right from our source material. A specialty reagent arrived via a courier late at night,"
+  },
+  {
+   "start": 517.04,
+   "end": 522.32,
+   "text": "like 11 p.m. Security logged it and just stashed it in receiving. The very next morning,"
+  },
+  {
+   "start": 522.32,
+   "end": 527.6,
+   "text": "a postdoc grabbed it, decanted 100 grams for an extraction, and completely skipped checking the"
+  },
+  {
+   "start": 527.6,
+   "end": 534.56,
+   "text": "SDS. Well, 36 hours later, that postdoc developed severe contact dermatitis. Why? Because the reagent"
+  },
+  {
+   "start": 534.56,
+   "end": 539.68,
+   "text": "was actually a strong skin sensitizer that required specific chemically resistant gloves and a face"
+  },
+  {
+   "start": 539.68,
+   "end": 544.24,
+   "text": "shield. Because the lab didn't read the language of the label and the SDS at the receiving and"
+  },
+  {
+   "start": 544.24,
+   "end": 549.76,
+   "text": "decanting points, which, by the way, are massive Hazcom hotspots, a worker was seriously injured."
+  },
+  {
+   "start": 549.76,
+   "end": 554.48,
+   "text": "But when Hazcom workflows are integrated properly, this system is incredibly powerful."
+  },
+  {
+   "start": 554.56,
+   "end": 560.32,
+   "text": "Just look at this timeline from a 2023 acid spill. Minute zero, the spill occurs. By minute two,"
+  },
+  {
+   "start": 560.32,
+   "end": 565.44,
+   "text": "the responding Hazmat team has already received the exact SDS and an incident summary directly"
+  },
+  {
+   "start": 565.44,
+   "end": 570.24,
+   "text": "through the lab's mobile chemical inventory interface. And by minute 12, decontamination"
+  },
+  {
+   "start": 570.24,
+   "end": 574.88,
+   "text": "and neutralization were entirely complete. And this brilliantly illustrates how integrating your"
+  },
+  {
+   "start": 574.88,
+   "end": 579.52,
+   "text": "live chemical inventory with your SDS database empowers first responders to speak the language"
+  },
+  {
+   "start": 579.52,
+   "end": 584.24,
+   "text": "of Hazcom instantly. It saves critical, literal minutes when they matter the absolute most."
+  },
+  {
+   "start": 585.04,
+   "end": 590.56,
+   "text": "Ultimately, building a strong safety culture means Hazcom becomes ambient. It's not just some boring"
+  },
+  {
+   "start": 590.56,
+   "end": 595.76,
+   "text": "annual presentation you sit through, it's a living part of the daily conversation at the bench."
+  },
+  {
+   "start": 595.76,
+   "end": 599.92,
+   "text": "So, I'm going to leave you with this question to think about. If a chemical emergency happened in"
+  },
+  {
+   "start": 599.92,
+   "end": 605.28,
+   "text": "your workspace right this exact second, are your secondary labels readable? Are your SDSs"
+  },
+  {
+   "start": 605.28,
+   "end": 610.48,
+   "text": "readily accessible? Basically, are they ready to do the talking to keep you safe? Take a moment"
+  },
+  {
+   "start": 610.48,
+   "end": 614.88,
+   "text": "today to evaluate your own workbench. Thanks so much for joining me on This Explainer,"
+  },
+  {
+   "start": 614.88,
+   "end": 616.48,
+   "text": "and hey, stay safe out there."
+  }
+ ]
+}

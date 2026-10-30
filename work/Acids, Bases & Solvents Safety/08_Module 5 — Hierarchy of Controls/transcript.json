@@ -1,0 +1,787 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "task": "transcribe",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.12,
+   "text": "Let's jump right into this explainer because today we are going to fundamentally shift"
+  },
+  {
+   "start": 4.12,
+   "end": 5.12,
+   "text": "your mindset."
+  },
+  {
+   "start": 5.12,
+   "end": 8.94,
+   "text": "If you've ever thought about lab safety and immediately pictured safety goggles and a"
+  },
+  {
+   "start": 8.94,
+   "end": 13.52,
+   "text": "giant box of nitrile gloves, well, you're certainly not alone, but you're actually"
+  },
+  {
+   "start": 13.52,
+   "end": 16.56,
+   "text": "starting at the absolute wrong end of the equation."
+  },
+  {
+   "start": 16.56,
+   "end": 18.68,
+   "text": "Today we're flipping the lab safety script."
+  },
+  {
+   "start": 18.68,
+   "end": 22.44,
+   "text": "We're moving away from that default just wear gloves approach and getting into what"
+  },
+  {
+   "start": 22.44,
+   "end": 27.08,
+   "text": "true structural safety looks like using the hierarchy of controls."
+  },
+  {
+   "start": 27.08,
+   "end": 31.72,
+   "text": "You know, just wear gloves is arguably the most dangerous phrase you can utter in a"
+  },
+  {
+   "start": 31.72,
+   "end": 32.72,
+   "text": "laboratory."
+  },
+  {
+   "start": 32.72,
+   "end": 33.72,
+   "text": "Why?"
+  },
+  {
+   "start": 33.72,
+   "end": 38.4,
+   "text": "Because the hierarchy of controls is absolutely not a casual menu that you just pick and choose"
+  },
+  {
+   "start": 38.4,
+   "end": 40.2,
+   "text": "from based on what's convenient."
+  },
+  {
+   "start": 40.2,
+   "end": 42.64,
+   "text": "It is a strict priority order."
+  },
+  {
+   "start": 42.64,
+   "end": 46.56,
+   "text": "When we rely solely on personal protective equipment, we're basically trusting human"
+  },
+  {
+   "start": 46.56,
+   "end": 47.76,
+   "text": "perfection."
+  },
+  {
+   "start": 47.76,
+   "end": 51.6,
+   "text": "We are betting that a worker won't make a single mistake ever."
+  },
+  {
+   "start": 51.6,
+   "end": 56.28,
+   "text": "And let's be real, in a high stakes environment, that is the bet we are eventually going to"
+  },
+  {
+   "start": 56.28,
+   "end": 57.28,
+   "text": "lose."
+  },
+  {
+   "start": 57.28,
+   "end": 58.28,
+   "text": "Okay."
+  },
+  {
+   "start": 58.28,
+   "end": 59.72,
+   "text": "So here's our roadmap for today."
+  },
+  {
+   "start": 59.72,
+   "end": 64.96,
+   "text": "We'll be looking at the inverted pyramid, then elimination and substitution, engineering"
+  },
+  {
+   "start": 64.96,
+   "end": 70.24,
+   "text": "controls, administrative controls, and finally PPE as our absolute last line of defense."
+  },
+  {
+   "start": 70.24,
+   "end": 71.92,
+   "text": "Let's get to it."
+  },
+  {
+   "start": 71.92,
+   "end": 75.16,
+   "text": "Starting with section one, the inverted pyramid."
+  },
+  {
+   "start": 75.16,
+   "end": 77.52,
+   "text": "This is our top down blueprint."
+  },
+  {
+   "start": 77.52,
+   "end": 81.4,
+   "text": "This visualization right here, it's the gold standard published by NIOSH for a very"
+  },
+  {
+   "start": 81.4,
+   "end": 82.52,
+   "text": "good reason."
+  },
+  {
+   "start": 82.52,
+   "end": 85.2,
+   "text": "It demands a fat top and a narrow bottom."
+  },
+  {
+   "start": 85.28,
+   "end": 89.36,
+   "text": "That broad top, we have hazard elimination and those strategies should cover the vast"
+  },
+  {
+   "start": 89.36,
+   "end": 90.96,
+   "text": "majority of our risks."
+  },
+  {
+   "start": 90.96,
+   "end": 95.16,
+   "text": "Then cascading all the way down to that tiny narrow bottom, we have our personal protective"
+  },
+  {
+   "start": 95.16,
+   "end": 96.16,
+   "text": "equipment."
+  },
+  {
+   "start": 96.16,
+   "end": 99.84,
+   "text": "Now this deliberately reverses what most labs actually do in practice, right?"
+  },
+  {
+   "start": 99.84,
+   "end": 104.0,
+   "text": "Which is usually handing out bulk boxes of PPE while severely under investing in those"
+  },
+  {
+   "start": 104.0,
+   "end": 106.36,
+   "text": "crucial structural controls at the top."
+  },
+  {
+   "start": 106.36,
+   "end": 110.72,
+   "text": "The core difference we're looking at here really boils down to one word, reliability."
+  },
+  {
+   "start": 110.72,
+   "end": 114.64,
+   "text": "The higher you go up this pyramid, the less it matters if a worker makes a mistake."
+  },
+  {
+   "start": 114.64,
+   "end": 118.36,
+   "text": "Those higher levels literally eliminate the hazard entirely, regardless of human"
+  },
+  {
+   "start": 118.36,
+   "end": 119.36,
+   "text": "behavior."
+  },
+  {
+   "start": 119.36,
+   "end": 123.28,
+   "text": "Lower levels, on the other hand, rely completely on perfect human compliance,"
+  },
+  {
+   "start": 123.28,
+   "end": 125.44,
+   "text": "perfect fit, and perfect maintenance."
+  },
+  {
+   "start": 125.44,
+   "end": 129.04,
+   "text": "If you're tired, if you're rushed, or just distracted for a second, a lower level"
+  },
+  {
+   "start": 129.04,
+   "end": 131.6,
+   "text": "control will fail you, for sure."
+  },
+  {
+   "start": 131.6,
+   "end": 135.72,
+   "text": "Moving right along to section two, elimination and substitution."
+  },
+  {
+   "start": 135.72,
+   "end": 138.4,
+   "text": "These are your highest leverage controls."
+  },
+  {
+   "start": 138.4,
+   "end": 142.04,
+   "text": "Think about a pharmaceutical analytical method that relies on for bromo aniline,"
+  },
+  {
+   "start": 142.04,
+   "end": 144.12,
+   "text": "which is a suspected carcinogen."
+  },
+  {
+   "start": 144.12,
+   "end": 148.28,
+   "text": "Now, instead of just buying everyone fancy or respirators, they completely redesigned"
+  },
+  {
+   "start": 148.28,
+   "end": 151.72,
+   "text": "the method to remove that chemical from the workflow entirely."
+  },
+  {
+   "start": 151.72,
+   "end": 155.8,
+   "text": "Sure, it took six months to validate the new method, but it ended a 25-year exposure"
+  },
+  {
+   "start": 155.8,
+   "end": 157.72,
+   "text": "pattern literally overnight."
+  },
+  {
+   "start": 157.72,
+   "end": 159.36,
+   "text": "It's simple logic."
+  },
+  {
+   "start": 159.36,
+   "end": 162.56,
+   "text": "If the hazard isn't there, it simply cannot harm you."
+  },
+  {
+   "start": 162.56,
+   "end": 167.2,
+   "text": "Now, of course, complete elimination isn't always scientifically possible."
+  },
+  {
+   "start": 167.2,
+   "end": 169.8,
+   "text": "When that happens, we substitute."
+  },
+  {
+   "start": 169.8,
+   "end": 174.68,
+   "text": "Pfizer's redesign of their Zoloft synthesis is a massive success story for this."
+  },
+  {
+   "start": 174.68,
+   "end": 178.16,
+   "text": "By applying green chemistry principles and swapping out hazardous solvents for"
+  },
+  {
+   "start": 178.16,
+   "end": 181.72,
+   "text": "safer alternatives, they didn't just improve safety on the floor."
+  },
+  {
+   "start": 181.72,
+   "end": 185.68,
+   "text": "They actually achieved a massive 70% reduction in waste."
+  },
+  {
+   "start": 185.68,
+   "end": 188.6,
+   "text": "So safety and sustainability perfectly aligned."
+  },
+  {
+   "start": 188.6,
+   "end": 190.28,
+   "text": "A real win-win."
+  },
+  {
+   "start": 190.28,
+   "end": 194.28,
+   "text": "The absolute crucial takeaway here is that substitution is a rigorous,"
+  },
+  {
+   "start": 194.28,
+   "end": 195.64,
+   "text": "structured decision."
+  },
+  {
+   "start": 195.64,
+   "end": 198.12,
+   "text": "It is not just some wishful thought or a quick swap."
+  },
+  {
+   "start": 198.12,
+   "end": 199.16,
+   "text": "You don't just guess."
+  },
+  {
+   "start": 199.16,
+   "end": 202.4,
+   "text": "You have to identify the hazard, find candidate substitutes, compare their"
+  },
+  {
+   "start": 202.4,
+   "end": 206.6,
+   "text": "toxicological profiles, assess the feasibility and cost, and then run a pilot"
+  },
+  {
+   "start": 206.6,
+   "end": 211.12,
+   "text": "to validate the whole thing before implementing it with proper change control."
+  },
+  {
+   "start": 211.12,
+   "end": 214.0,
+   "text": "You've got to run the framework to make sure you aren't just trading one known"
+  },
+  {
+   "start": 214.0,
+   "end": 216.84,
+   "text": "hazard for a completely new, unexpected one."
+  },
+  {
+   "start": 216.84,
+   "end": 219.76,
+   "text": "Dropping down to section three, engineering controls."
+  },
+  {
+   "start": 219.76,
+   "end": 222.2,
+   "text": "This is all about isolating the hazard."
+  },
+  {
+   "start": 222.2,
+   "end": 226.68,
+   "text": "So when we can't remove or substitute the hazard, we have to isolate it."
+  },
+  {
+   "start": 226.68,
+   "end": 231.0,
+   "text": "We use physical means that are totally independent of worker behavior."
+  },
+  {
+   "start": 231.0,
+   "end": 235.04,
+   "text": "A chemical fume hood, for example, when operating correctly at a face velocity"
+  },
+  {
+   "start": 235.04,
+   "end": 240.12,
+   "text": "of 80 to 120 feet per minute, perfectly captures dangerous vapors right at the source."
+  },
+  {
+   "start": 240.12,
+   "end": 243.84,
+   "text": "Biological safety cabinets and glove boxes do the exact same thing."
+  },
+  {
+   "start": 243.84,
+   "end": 247.4,
+   "text": "These physical barriers are the scalable workhorses of the lab."
+  },
+  {
+   "start": 247.4,
+   "end": 250.24,
+   "text": "They capture hazard perfectly, regardless of whether a chemist happened to"
+  },
+  {
+   "start": 250.24,
+   "end": 252.16,
+   "text": "remember the safety rules that morning."
+  },
+  {
+   "start": 252.16,
+   "end": 254.72,
+   "text": "They're durable and they're highly reliable."
+  },
+  {
+   "start": 254.72,
+   "end": 258.24,
+   "text": "Down to section four now, administrative controls."
+  },
+  {
+   "start": 258.24,
+   "end": 261.2,
+   "text": "Here, we're looking at process and behavior."
+  },
+  {
+   "start": 261.2,
+   "end": 265.04,
+   "text": "These controls are entirely about modifying human behavior."
+  },
+  {
+   "start": 265.04,
+   "end": 268.72,
+   "text": "We're talking about detailed standard operating procedures, requiring prior"
+  },
+  {
+   "start": 268.72,
+   "end": 272.8,
+   "text": "approvals for scaling up a reaction, time of day scheduling so that high-risk"
+  },
+  {
+   "start": 272.8,
+   "end": 276.08,
+   "text": "work only ever happens when full emergency staff is actually in the"
+  },
+  {
+   "start": 276.08,
+   "end": 278.28,
+   "text": "building, and buddy systems."
+  },
+  {
+   "start": 278.28,
+   "end": 281.64,
+   "text": "But, and this is a big but, because they modify human behavior, their"
+  },
+  {
+   "start": 281.64,
+   "end": 284.8,
+   "text": "reliability rests heavily on supervision and compliance."
+  },
+  {
+   "start": 284.8,
+   "end": 287.92,
+   "text": "And as we all know, humans aren't exactly flawless robots, especially"
+  },
+  {
+   "start": 287.92,
+   "end": 289.32,
+   "text": "before their morning coffee."
+  },
+  {
+   "start": 289.32,
+   "end": 293.48,
+   "text": "Safely executing complex tasks like handling pyrophoric regions takes"
+  },
+  {
+   "start": 293.48,
+   "end": 296.36,
+   "text": "constant, unyielding vigilance at this level."
+  },
+  {
+   "start": 296.36,
+   "end": 301.48,
+   "text": "And finally, section five, PPE, the absolute last line of defense."
+  },
+  {
+   "start": 301.48,
+   "end": 304.6,
+   "text": "You know, that default assumption of just handing out standard nitrile"
+  },
+  {
+   "start": 304.6,
+   "end": 308.36,
+   "text": "gloves to everyone who walks in the door is dangerously incomplete."
+  },
+  {
+   "start": 308.36,
+   "end": 309.52,
+   "text": "Just look at the data."
+  },
+  {
+   "start": 309.52,
+   "end": 312.8,
+   "text": "Nitrile is great for incidental contact, sure, but it degrades really"
+  },
+  {
+   "start": 312.8,
+   "end": 314.4,
+   "text": "quickly against ketones."
+  },
+  {
+   "start": 314.4,
+   "end": 317.52,
+   "text": "Latex, it might be a decent biological barrier, but it's pretty"
+  },
+  {
+   "start": 317.52,
+   "end": 319.28,
+   "text": "terrible against most chemicals."
+  },
+  {
+   "start": 319.28,
+   "end": 322.2,
+   "text": "And then butyl rubber is excellent for ketones, but basically"
+  },
+  {
+   "start": 322.2,
+   "end": 323.88,
+   "text": "useless against hydrocarbons."
+  },
+  {
+   "start": 323.88,
+   "end": 327.16,
+   "text": "You literally have to match the specific glove material to the"
+  },
+  {
+   "start": 327.16,
+   "end": 328.8,
+   "text": "specific chemical hazard."
+  },
+  {
+   "start": 328.8,
+   "end": 331.16,
+   "text": "It is not one size fits all."
+  },
+  {
+   "start": 331.16,
+   "end": 335.88,
+   "text": "Let's ground this all in a real, incredibly sobering scenario."
+  },
+  {
+   "start": 335.88,
+   "end": 339.28,
+   "text": "Imagine a graduate student who's handling a new fluorinated reactive"
+  },
+  {
+   "start": 339.28,
+   "end": 340.28,
+   "text": "intermediate."
+  },
+  {
+   "start": 340.28,
+   "end": 343.44,
+   "text": "By all accounts, they're doing everything seemingly right."
+  },
+  {
+   "start": 343.44,
+   "end": 346.2,
+   "text": "They're working in a certified fume hood, and they faithfully wear"
+  },
+  {
+   "start": 346.2,
+   "end": 349.76,
+   "text": "their standard nitrile gloves every single day for six weeks."
+  },
+  {
+   "start": 349.76,
+   "end": 353.12,
+   "text": "They feel absolutely no skin contact, no burning sensation,"
+  },
+  {
+   "start": 353.12,
+   "end": 355.36,
+   "text": "and they report zero symptoms."
+  },
+  {
+   "start": 355.36,
+   "end": 359.08,
+   "text": "So given what we literally just saw about chemical compatibility,"
+  },
+  {
+   "start": 359.08,
+   "end": 362.76,
+   "text": "we really have to ask, did this baseline rule actually protect"
+  },
+  {
+   "start": 362.76,
+   "end": 363.64,
+   "text": "the student?"
+  },
+  {
+   "start": 363.64,
+   "end": 367.52,
+   "text": "Was throwing on generic PPE enough to prevent a silent dermal"
+  },
+  {
+   "start": 367.52,
+   "end": 368.6,
+   "text": "exposure?"
+  },
+  {
+   "start": 368.6,
+   "end": 372.68,
+   "text": "The shocking reality here is no, not at all."
+  },
+  {
+   "start": 372.68,
+   "end": 375.56,
+   "text": "The chemical permeated that nitrile glove in under 30"
+  },
+  {
+   "start": 375.56,
+   "end": 376.24,
+   "text": "minutes."
+  },
+  {
+   "start": 376.24,
+   "end": 379.08,
+   "text": "And because the breakthrough was completely silent and painless,"
+  },
+  {
+   "start": 379.08,
+   "end": 381.8,
+   "text": "it actually led to a severe elevation in the student's"
+  },
+  {
+   "start": 381.8,
+   "end": 385.08,
+   "text": "liver enzymes, which was only discovered during a routine"
+  },
+  {
+   "start": 385.08,
+   "end": 386.36,
+   "text": "medical screening."
+  },
+  {
+   "start": 386.36,
+   "end": 389.12,
+   "text": "This perfectly, perfectly illustrates the severe"
+  },
+  {
+   "start": 389.12,
+   "end": 392.0,
+   "text": "limitations and physical vulnerabilities of relying"
+  },
+  {
+   "start": 392.0,
+   "end": 393.88,
+   "text": "solely on default PPE."
+  },
+  {
+   "start": 393.88,
+   "end": 396.48,
+   "text": "A simple specialty glove worn underneath the nitrile would"
+  },
+  {
+   "start": 396.48,
+   "end": 398.6,
+   "text": "have completely prevented this, but the initial hazard"
+  },
+  {
+   "start": 398.6,
+   "end": 400.92,
+   "text": "assessment just failed them."
+  },
+  {
+   "start": 400.92,
+   "end": 404.52,
+   "text": "To prevent devastating tragedies like the UCLA Sanji case"
+  },
+  {
+   "start": 404.52,
+   "end": 406.76,
+   "text": "involving highly reactive materials,"
+  },
+  {
+   "start": 406.76,
+   "end": 410.52,
+   "text": "we absolutely must use what's known as a Swiss cheese"
+  },
+  {
+   "start": 410.52,
+   "end": 411.88,
+   "text": "layered approach."
+  },
+  {
+   "start": 411.88,
+   "end": 414.88,
+   "text": "Look, every single layer of protection has holes in it."
+  },
+  {
+   "start": 414.88,
+   "end": 417.76,
+   "text": "But if you substitute a safer surrogate where possible,"
+  },
+  {
+   "start": 417.76,
+   "end": 420.36,
+   "text": "and then use a glove box for engineering isolation,"
+  },
+  {
+   "start": 420.36,
+   "end": 422.32,
+   "text": "enforce a buddy system administratively,"
+  },
+  {
+   "start": 422.32,
+   "end": 425.28,
+   "text": "and wear a flame resistant coat as your final PPE,"
+  },
+  {
+   "start": 425.28,
+   "end": 427.12,
+   "text": "well, if one of those layers fails,"
+  },
+  {
+   "start": 427.12,
+   "end": 429.6,
+   "text": "the next layer is right there to catch the hazard."
+  },
+  {
+   "start": 429.6,
+   "end": 432.16,
+   "text": "Which brings us to our final thought for this explainer."
+  },
+  {
+   "start": 432.16,
+   "end": 435.24,
+   "text": "I want you to take a really hard look at your own daily lab"
+  },
+  {
+   "start": 435.24,
+   "end": 438.56,
+   "text": "routine and ask yourself, if your primary safety measure"
+  },
+  {
+   "start": 438.56,
+   "end": 440.72,
+   "text": "fails today, right now, do you"
+  },
+  {
+   "start": 440.72,
+   "end": 442.88,
+   "text": "have a higher level control already in place"
+  },
+  {
+   "start": 442.88,
+   "end": 444.2,
+   "text": "to catch that hazard?"
+  },
+  {
+   "start": 444.2,
+   "end": 446.96,
+   "text": "Or are you truly just waiting for a routine human error"
+  },
+  {
+   "start": 446.96,
+   "end": 450.24,
+   "text": "to completely bypass your only line of defense?"
+  },
+  {
+   "start": 450.24,
+   "end": 451.4,
+   "text": "Thanks for joining me today."
+  },
+  {
+   "start": 451.4,
+   "end": 453.6,
+   "text": "Stay safe out there, and start building your pyramid"
+  },
+  {
+   "start": 453.6,
+   "end": 455.76,
+   "text": "from the top down."
+  }
+ ]
+}
