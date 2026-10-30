@@ -1,0 +1,1414 @@
+{
+ "id": "06_Recrystallization and Melting Point Analysis",
+ "series": "Fume Hood & Cabinet Protocols",
+ "title": "重结晶与熔点测定",
+ "seconds": 520,
+ "source_doc": "course/Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis.md",
+ "author_source": "project/Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis/src.py",
+ "points": {
+  "K1": "从分离到纯化",
+  "K2": "回顾：沉淀与抽滤",
+  "K3": "沉淀会夹带杂质",
+  "K4": "重结晶靠溶解度差别",
+  "K5": "热溶冷析的原理",
+  "K6": "重结晶需要哪些器材",
+  "K7": "示例：粗苯甲酸与蒸馏水",
+  "K8": "选溶剂最关键",
+  "K9": "查溶解度数据选溶剂",
+  "K10": "预热溶剂，称取粗品",
+  "K11": "少量多次加热溶剂",
+  "K12": "溶剂越少越好",
+  "K13": "溶完取出玻璃棒和搅拌子",
+  "K14": "不溶杂质要趁热过滤",
+  "K15": "盖好静置，缓慢冷却",
+  "K16": "冰浴让产物析出完全",
+  "K17": "抽滤收集晶体",
+  "K18": "用纯溶剂洗涤晶体",
+  "K19": "抽干与干燥",
+  "K20": "用熔点检验纯度",
+  "K21": "装样与升温",
+  "K22": "记录熔程",
+  "K23": "熔程宽窄看纯度",
+  "K24": "用完关闭熔点仪",
+  "K25": "计算回收率",
+  "K26": "不结晶时刮擦器壁",
+  "K27": "加入晶种",
+  "K28": "混合溶剂重结晶",
+  "S1": "热烧杯用夹子或隔热手套",
+  "S2": "观察保持距离，戴好护目镜",
+  "S3": "先查安全说明，称粉末防扬尘",
+  "S4": "易燃溶剂：通风柜、不用明火",
+  "S5": "熔点仪与熔点管防烫防扎",
+  "S6": "烘箱干燥的注意事项",
+  "S7": "母液、滤液和碎玻璃的处置",
+  "S8": "烫伤、割伤与报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，手里托着一瓶闪亮的白色晶体，向镜头招手",
+   "prompt_en": "The panda mascot stands at a lab bench holding a small jar of sparkling white crystals and waves at the camera.",
+   "narration": "这一课讲重结晶和熔点测定。",
+   "overlay": [
+    "重结晶与熔点测定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "溶解、冷却、过滤、测熔点四个图标排成一行",
+   "prompt_en": "Four icons in a row: a beaker on a hot plate, a beaker with a snowflake, a funnel on a flask and a thin capillary tube in a heating block. No people.",
+   "narration": "热溶、冷析、抽滤、测熔点。",
+   "overlay": [],
+   "labels": [
+    "热溶",
+    "冷析",
+    "抽滤",
+    "测熔点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰举着一小瓶发黄的粉末，皱着眉",
+   "prompt_en": "The young male student holds up a small vial of slightly yellowish powder and frowns.",
+   "narration": "阿杰做出的产品，颜色发黄不纯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰空手去端加热板上的烧杯，小研赶紧递来烧杯夹",
+   "prompt_en": "The young male student reaches for a hot beaker on a hot plate with bare gloved fingers; the female graduate student quickly hands him beaker tongs.",
+   "narration": "他伸手就去拿热烧杯，被小研拦下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着白板上的空白流程图",
+   "prompt_en": "The female graduate student points at a blank flowchart on a whiteboard while the young male student listens.",
+   "narration": "小研说：重结晶，一步步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "既要提纯产品，也要护好自己。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从分离到纯化",
+   "scene": "漏斗、分液漏斗图标淡出，出现一个晶体图标",
+   "prompt_en": "A filter funnel icon and a separatory funnel icon fade back, and a shining crystal icon appears in front. No people.",
+   "narration": "前面学了过滤、萃取等分离方法。",
+   "overlay": [
+    "从分离到纯化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从分离到纯化",
+   "scene": "反应瓶中出现白色固体",
+   "prompt_en": "A reaction flask in which a white solid forms at the bottom. No people.",
+   "narration": "反应常常得到固体，还需要纯化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "回顾：沉淀与抽滤",
+   "scene": "锥形瓶里的水层析出白色沉淀",
+   "prompt_en": "An Erlenmeyer flask with a blank label in which a white precipitate forms in the water layer. No people.",
+   "narration": "之前萃取后，水层里析出了固体。",
+   "overlay": [
+    "回顾：沉淀与抽滤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "回顾：沉淀与抽滤",
+   "scene": "小研把浑浊液倒入布氏漏斗抽滤",
+   "prompt_en": "The female graduate student, wearing a lab coat, goggles and gloves, pours the cloudy mixture into a filter funnel on a suction flask.",
+   "narration": "当时用抽滤把它收集了下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "沉淀会夹带杂质",
+   "scene": "沉淀颗粒的晶格里夹着几个彩色杂质小点",
+   "prompt_en": "A close-up diagram of a crystal lattice with a few colored impurity dots trapped inside. No people.",
+   "narration": "可沉淀析出时，会把杂质夹在里面。",
+   "overlay": [
+    "沉淀会夹带杂质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "重结晶靠溶解度差别",
+   "scene": "产物和杂质两个图标，旁边各有一个溶解度条",
+   "prompt_en": "Two icons, a white product crystal and a colored impurity dot, each with a different height bar beside it. No people.",
+   "narration": "产物和杂质，溶解度不一样。",
+   "overlay": [
+    "重结晶靠溶解度差别"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "重结晶靠溶解度差别",
+   "scene": "针状晶体在烧杯中生长",
+   "prompt_en": "Clean needle-shaped crystals grow inside a beaker. No people.",
+   "narration": "利用这个差别，就能把产物提纯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "热溶冷析的原理",
+   "scene": "粗品粉末倒入热溶剂中溶解，温度计向上箭头",
+   "prompt_en": "Off-white powder dissolves in a beaker of hot solvent, with a thermometer icon and an upward arrow. No people.",
+   "narration": "先把粗品溶进热的溶剂里。",
+   "overlay": [
+    "热溶冷析的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "热溶冷析的原理",
+   "scene": "溶液冷却，白色晶体析出，彩色小点留在液体中",
+   "prompt_en": "The solution cools with a downward arrow; white crystals form while colored impurity dots stay floating in the liquid. No people.",
+   "narration": "冷却后，产物重新结晶析出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "热溶冷析的原理",
+   "scene": "彩色杂质小点在液体中游动",
+   "prompt_en": "Colored impurity dots drift freely in the clear liquid above the crystals. No people.",
+   "narration": "杂质更易溶，留在溶液里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "热溶冷析的原理",
+   "scene": "溶解度随温度升高的曲线",
+   "prompt_en": "A simple blank graph with a curve rising from left to right, a thermometer icon on the horizontal axis. No people.",
+   "narration": "多数固体，温度越高溶得越多。",
+   "overlay": [],
+   "labels": [
+    "温度高，溶得多",
+    "温度低，溶得少"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "重结晶需要哪些器材",
+   "scene": "小研举起大小两个烧杯",
+   "prompt_en": "The female graduate student in a lab coat and gloves holds up a large beaker and a small beaker.",
+   "narration": "器材：大小两个烧杯。",
+   "overlay": [
+    "重结晶需要哪些器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "重结晶需要哪些器材",
+   "scene": "加热搅拌器、搅拌子、玻璃棒特写",
+   "prompt_en": "Close-up of a hot plate stirrer, a white stir bar and a glass stirring rod on the bench. No people.",
+   "narration": "加热搅拌器、搅拌子、玻璃棒。",
+   "overlay": [],
+   "labels": [
+    "加热搅拌器",
+    "搅拌子",
+    "玻璃棒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "重结晶需要哪些器材",
+   "scene": "抽滤装置、粉末漏斗、表面皿、滴管特写",
+   "prompt_en": "Close-up of a suction filtration setup, a powder funnel, a watch glass and disposable droppers. No people.",
+   "narration": "抽滤装置、粉末漏斗、表面皿、滴管。",
+   "overlay": [],
+   "labels": [
+    "抽滤装置",
+    "粉末漏斗",
+    "表面皿",
+    "滴管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "示例：粗苯甲酸与蒸馏水",
+   "scene": "一瓶空白标签的白色粉末和一瓶蒸馏水",
+   "prompt_en": "A jar of off-white powder with a blank label next to a wash bottle of distilled water with a blank label. No people.",
+   "narration": "这次提纯粗苯甲酸，溶剂用蒸馏水。",
+   "overlay": [
+    "示例：粗苯甲酸与蒸馏水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "选溶剂最关键",
+   "scene": "欣欣举着一个问号卡片，旁边是几瓶不同溶剂",
+   "prompt_en": "The panda mascot holds a card with a question mark next to several solvent bottles with blank labels.",
+   "narration": "选对溶剂，是重结晶最关键的一步。",
+   "overlay": [
+    "选溶剂最关键"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "选溶剂最关键",
+   "scene": "杂质图标在冷热两个烧杯中都溶解",
+   "prompt_en": "Two beakers, one hot and one cold; colored impurity dots stay dissolved in both. No people.",
+   "narration": "杂质最好冷热都溶，或者冷热都不溶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "选溶剂最关键",
+   "scene": "产物图标只在热烧杯里溶解，冷烧杯里析出",
+   "prompt_en": "Two beakers: the white product dissolves in the hot one and forms crystals in the cold one. No people.",
+   "narration": "产物要热时溶、冷时析出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "查溶解度数据选溶剂",
+   "scene": "小研对着电脑屏幕查一张空白表格",
+   "prompt_en": "The female graduate student looks up a blank data table on a computer screen.",
+   "narration": "查溶解度数据，比较不同溶剂。",
+   "overlay": [
+    "查溶解度数据选溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "查溶解度数据选溶剂",
+   "scene": "沸水烧杯的溶解度条高，室温烧杯的低",
+   "prompt_en": "Two beakers with bars: a tall bar for a steaming hot water beaker and a short bar for a room temperature beaker. No people.",
+   "narration": "苯甲酸在沸水里溶得多，冷水里很少。",
+   "overlay": [],
+   "labels": [
+    "沸水：溶得多",
+    "室温：溶得少"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "查溶解度数据选溶剂",
+   "scene": "自来水龙头图标被打叉，蒸馏水瓶打勾",
+   "prompt_en": "A tap water faucet icon crossed out with a red X next to a distilled water bottle with a green check. No people.",
+   "narration": "用蒸馏水，免得自来水带进杂质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "预热溶剂，称取粗品",
+   "scene": "小研把蒸馏水倒进大烧杯，放到加热板上",
+   "prompt_en": "The female graduate student pours distilled water into the large beaker and sets it on the hot plate.",
+   "narration": "先在大烧杯里预热蒸馏水。",
+   "overlay": [
+    "预热溶剂，称取粗品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "预热溶剂，称取粗品",
+   "scene": "小研在天平上称粉末，经粉末漏斗倒入小烧杯",
+   "prompt_en": "The female graduate student weighs the powder on a balance and pours it through a powder funnel into a clean dry small beaker.",
+   "narration": "同时称好粗品，放进干净干燥的小烧杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "少量多次加热溶剂",
+   "scene": "小研用烧杯夹扶住热水烧杯，用滴管吸热水",
+   "prompt_en": "The female graduate student steadies the hot water beaker with beaker tongs and draws hot water with a disposable dropper.",
+   "narration": "用滴管吸热水，加到粗品里。",
+   "overlay": [
+    "少量多次加热溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "少量多次加热溶剂",
+   "scene": "小烧杯里粉末逐渐变少",
+   "prompt_en": "Inside the small beaker the powder slowly shrinks as a little hot water is added. No people.",
+   "narration": "每次少加一点，看着它慢慢溶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "少量多次加热溶剂",
+   "scene": "两个烧杯并排在加热板上，小烧杯里搅拌子转动",
+   "prompt_en": "Two beakers side by side on the hot plate; a stir bar spins in the small beaker. No people.",
+   "narration": "放入搅拌子，边加热边搅拌边加水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "少量多次加热溶剂",
+   "scene": "计算器图标旁一个估算的刻度线",
+   "prompt_en": "A calculator icon next to a beaker with a dashed estimated fill line. No people.",
+   "narration": "可以先按溶解度估算大概用量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "溶剂越少越好",
+   "scene": "刚好溶完的清澈溶液打勾，溶剂过多的大半杯打叉",
+   "prompt_en": "Two icons: a small beaker of just dissolved clear solution with a green check, and a beaker with far too much solvent crossed out with a red X. No people.",
+   "narration": "固体要溶完，但溶剂越少越好。",
+   "overlay": [
+    "溶剂越少越好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "溶剂越少越好",
+   "scene": "溶剂太多的烧杯冷却后只析出几粒晶体",
+   "prompt_en": "An icon of a beaker with too much solvent that forms only a few crystals after cooling, with a sad face. No people.",
+   "narration": "加多了，冷却后析出就少了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "溶完取出玻璃棒和搅拌子",
+   "scene": "小研用镊子取出搅拌子，拿出玻璃棒",
+   "prompt_en": "The female graduate student removes the stir bar with tweezers and takes out the glass rod.",
+   "narration": "溶完后，取出玻璃棒和搅拌子。",
+   "overlay": [
+    "溶完取出玻璃棒和搅拌子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不溶杂质要趁热过滤",
+   "scene": "清澈溶液中漂着几粒不溶的颗粒",
+   "prompt_en": "A hot clear solution with a few undissolved dark particles floating in it. No people.",
+   "narration": "冷却前，看看还有没有不溶的杂质。",
+   "overlay": [
+    "不溶杂质要趁热过滤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不溶杂质要趁热过滤",
+   "scene": "小研戴隔热手套，把热溶液倒入过滤漏斗",
+   "prompt_en": "The female graduate student, wearing heat resistant gloves and goggles, pours the hot solution into a filter funnel.",
+   "narration": "有的话，要立刻趁热过滤掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不溶杂质要趁热过滤",
+   "scene": "溶液冷却后晶体留在滤纸上的图标被打叉",
+   "prompt_en": "An icon of crystals stuck on filter paper after the solution cooled in the funnel, crossed out with a red X. No people.",
+   "narration": "等冷了再滤，产物也会被滤掉。",
+   "overlay": [],
+   "labels": [
+    "热过滤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盖好静置，缓慢冷却",
+   "scene": "小研给烧杯盖上表面皿，放在台面上",
+   "prompt_en": "The female graduate student covers the beaker of clear solution with a watch glass and leaves it on the bench.",
+   "narration": "溶液澄清后，盖上表面皿。",
+   "overlay": [
+    "盖好静置，缓慢冷却"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盖好静置，缓慢冷却",
+   "scene": "烧杯中晶体一根根慢慢长出",
+   "prompt_en": "Needle crystals slowly grow one by one inside the covered beaker. No people.",
+   "narration": "室温下慢慢冷却，晶体越长越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盖好静置，缓慢冷却",
+   "scene": "摇晃烧杯的手的图标被打叉",
+   "prompt_en": "An icon of a hand shaking a beaker, crossed out with a red X. No people.",
+   "narration": "耐心等，不要搬动或摇晃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冰浴让产物析出完全",
+   "scene": "烧杯放进冰水浴",
+   "prompt_en": "The beaker is set into a bowl of ice water. No people.",
+   "narration": "最后放进冰浴或冰箱几分钟。",
+   "overlay": [
+    "冰浴让产物析出完全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冰浴让产物析出完全",
+   "scene": "晶体沉在杯底，彩色杂质小点留在上方液体",
+   "prompt_en": "White crystals settle at the bottom while colored impurity dots stay in the liquid above. No people.",
+   "narration": "产物析出完全，杂质留在液体里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "抽滤收集晶体",
+   "scene": "小研用玻璃棒搅动后，把混合物倒入布氏漏斗",
+   "prompt_en": "The female graduate student stirs the mixture with a glass rod and pours it into a filter funnel on a suction flask.",
+   "narration": "搅一搅，倒进布氏漏斗抽滤。",
+   "overlay": [
+    "抽滤收集晶体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "抽滤收集晶体",
+   "scene": "晶体留在滤纸上，液体流进抽滤瓶",
+   "prompt_en": "Crystals collect on the filter paper while liquid drains into the suction flask. No people.",
+   "narration": "晶体留在滤纸上，常压过滤也行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用纯溶剂洗涤晶体",
+   "scene": "小研用洗瓶向晶体上淋少量冷水",
+   "prompt_en": "The female graduate student squirts a little cold distilled water over the crystals in the funnel.",
+   "narration": "用少量纯溶剂淋洗晶体。",
+   "overlay": [
+    "用纯溶剂洗涤晶体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用纯溶剂洗涤晶体",
+   "scene": "晶体表面的彩色液膜被冲走",
+   "prompt_en": "A thin colored liquid film on the crystals is washed away, leaving clean white crystals. No people.",
+   "narration": "把沾着杂质的母液洗下去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "抽干与干燥",
+   "scene": "抽滤继续，滤饼变干",
+   "prompt_en": "The suction keeps running and the white filter cake becomes dry and crumbly. No people.",
+   "narration": "再抽几分钟，让晶体更干。",
+   "overlay": [
+    "抽干与干燥"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "抽干与干燥",
+   "scene": "表面皿上的晶体在台面晾干，旁边是烘箱图标",
+   "prompt_en": "Crystals spread on a watch glass air drying on the bench, with a drying oven icon beside it. No people.",
+   "narration": "然后室温晾干，或放烘箱烘干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "用熔点检验纯度",
+   "scene": "欣欣举着放大镜看晶体",
+   "prompt_en": "The panda mascot looks at a watch glass of crystals through a magnifying glass.",
+   "narration": "提纯得怎么样？测熔点就知道。",
+   "overlay": [
+    "用熔点检验纯度"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "用熔点检验纯度",
+   "scene": "粗品、精制品、文献值三个图标并排",
+   "prompt_en": "Three icons side by side: an off-white powder, a white crystal and a blank book. No people.",
+   "narration": "和粗品、和文献值比一比。",
+   "overlay": [],
+   "labels": [
+    "粗品",
+    "精制品",
+    "文献值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "装样与升温",
+   "scene": "小研把熔点管开口端插进晶体里",
+   "prompt_en": "The female graduate student presses the open end of a thin capillary tube into the crystals.",
+   "narration": "取极少量样品，装进熔点管。",
+   "overlay": [
+    "装样与升温"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "装样与升温",
+   "scene": "熔点管在台面上轻敲，样品落到管底",
+   "prompt_en": "A capillary tube is tapped gently so the sample drops to the closed bottom. No people.",
+   "narration": "轻轻敲实，让样品落到管底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "装样与升温",
+   "scene": "小研把熔点管插进熔点仪，开机",
+   "prompt_en": "The female graduate student, wearing safety goggles, slides the capillary into a melting point apparatus and switches it on.",
+   "narration": "放进熔点仪，开机慢慢升温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "记录熔程",
+   "scene": "小研从目镜里观察",
+   "prompt_en": "The female graduate student looks through the eyepiece of the melting point apparatus.",
+   "narration": "接近预期温度时，从目镜观察。",
+   "overlay": [
+    "记录熔程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "记录熔程",
+   "scene": "管中样品出现第一滴液体，旁边温度计图标",
+   "prompt_en": "Inside the capillary the solid shows the first drop of liquid, with a thermometer icon beside it. No people.",
+   "narration": "一开始熔化，记下温度。",
+   "overlay": [],
+   "labels": [
+    "初熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "记录熔程",
+   "scene": "样品全部变成透明液体，温度计图标",
+   "prompt_en": "The sample in the capillary becomes completely clear liquid, with a thermometer icon beside it. No people.",
+   "narration": "全部熔化，再记一次，这就是熔程。",
+   "overlay": [],
+   "labels": [
+    "全熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "熔程宽窄看纯度",
+   "scene": "两条温度区间：宽的标黄，窄的标绿",
+   "prompt_en": "Two horizontal bars on a blank thermometer scale: a wide yellow bar and a narrow green bar. No people.",
+   "narration": "不纯的样品，熔程宽，差好几度。",
+   "overlay": [
+    "熔程宽窄看纯度"
+   ],
+   "labels": [
+    "熔程宽：不纯",
+    "熔点敏锐：纯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "熔程宽窄看纯度",
+   "scene": "窄区间紧挨着文献值虚线",
+   "prompt_en": "The narrow green bar sits right at a dashed reference line. No people.",
+   "narration": "纯的样品熔得快，接近文献值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "用完关闭熔点仪",
+   "scene": "小研按下熔点仪开关",
+   "prompt_en": "The female graduate student presses the power switch of the melting point apparatus off.",
+   "narration": "用完，记得关闭熔点仪。",
+   "overlay": [
+    "用完关闭熔点仪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "计算回收率",
+   "scene": "天平称表面皿上的晶体",
+   "prompt_en": "Crystals on a watch glass are weighed on a balance with a blank display. No people.",
+   "narration": "称一称得到的晶体。",
+   "overlay": [
+    "计算回收率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "计算回收率",
+   "scene": "公式图示：回收质量除以原质量乘一百",
+   "prompt_en": "A simple fraction diagram with a small crystal pile on top, a larger powder pile below, and a percent sign. No people.",
+   "narration": "回收率等于回收质量除以原质量。",
+   "overlay": [],
+   "labels": [
+    "回收质量",
+    "原质量",
+    "×100%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "计算回收率",
+   "scene": "百分比条没有满格",
+   "prompt_en": "A progress bar icon that stops short of full, with a small pile of lost crystals beside it. No people.",
+   "narration": "去掉了杂质，也会损失一些，总不到百分百。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "不结晶时刮擦器壁",
+   "scene": "冰浴中的烧杯迟迟不出晶体",
+   "prompt_en": "A beaker sits in an ice bath with a clear solution and no crystals, a clock icon beside it. No people.",
+   "narration": "有时冷到冰浴，晶体还是不出来。",
+   "overlay": [
+    "不结晶时刮擦器壁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "不结晶时刮擦器壁",
+   "scene": "小研用玻璃棒轻轻刮擦烧杯内壁",
+   "prompt_en": "The female graduate student gently scratches the inside wall of the beaker with a glass rod.",
+   "narration": "杯壁太光滑，可用玻璃棒轻刮内壁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "不结晶时刮擦器壁",
+   "scene": "刮痕处冒出小晶核并长大",
+   "prompt_en": "Tiny crystal seeds appear at the scratch marks and begin to grow. No people.",
+   "narration": "细小的颗粒，就是晶体生长的起点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "加入晶种",
+   "scene": "小研用刮刀加入几粒纯晶体",
+   "prompt_en": "The female graduate student adds a few tiny pure crystals to the solution with a spatula.",
+   "narration": "也可以加几粒纯产品当晶种。",
+   "overlay": [
+    "加入晶种"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "加入晶种",
+   "scene": "分子小球围着晶种排列成晶格",
+   "prompt_en": "Small molecule balls line up around a seed crystal and build a lattice. No people.",
+   "narration": "其他分子顺着晶种排列长大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "混合溶剂重结晶",
+   "scene": "第一种溶剂溶解粉末，加入第二种溶剂后析出晶体",
+   "prompt_en": "A beaker where powder dissolves in a first solvent, then a second solvent is added from a dropper and crystals slowly form. No people.",
+   "narration": "更复杂的，可用两种溶剂配合。",
+   "overlay": [
+    "混合溶剂重结晶"
+   ],
+   "labels": [
+    "溶剂一：溶解",
+    "溶剂二：析出"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "混合溶剂重结晶",
+   "scene": "欣欣竖起大拇指",
+   "prompt_en": "The panda mascot gives a thumbs up next to the beaker of crystals.",
+   "narration": "一种溶解，一种促使结晶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "热烧杯用夹子或隔热手套",
+   "scene": "欣欣举着烧杯夹和隔热手套",
+   "prompt_en": "The panda mascot holds up beaker tongs and a pair of heat resistant gloves.",
+   "narration": "热烧杯不能直接用手拿。",
+   "overlay": [
+    "热烧杯用夹子或隔热手套"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "热烧杯用夹子或隔热手套",
+   "scene": "薄手套抓热烧杯的图标被打叉",
+   "prompt_en": "An icon of a thin disposable glove grabbing a steaming beaker, crossed out with a red X. No people.",
+   "narration": "一次性手套不隔热，照样会烫伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "热烧杯用夹子或隔热手套",
+   "scene": "小研用烧杯夹夹起热烧杯",
+   "prompt_en": "The female graduate student lifts a hot beaker with beaker tongs.",
+   "narration": "用烧杯夹或隔热手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "热烧杯用夹子或隔热手套",
+   "scene": "关掉的加热板上方有热浪图标",
+   "prompt_en": "A switched off hot plate with wavy heat lines rising from its surface and a warning triangle. No people.",
+   "narration": "加热板关了，余热还在。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "观察保持距离，戴好护目镜",
+   "scene": "阿杰把脸凑近冒气的烧杯，被打叉",
+   "prompt_en": "An icon of a face leaning close over a steaming beaker, crossed out with a red X. No people.",
+   "narration": "不要把脸凑到热溶液上方看。",
+   "overlay": [
+    "观察保持距离，戴好护目镜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "观察保持距离，戴好护目镜",
+   "scene": "小研戴护目镜，站在一臂外平视烧杯",
+   "prompt_en": "The female graduate student wears safety goggles and looks at the beaker from an arm's length at eye level.",
+   "narration": "保持距离，平视观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "观察保持距离，戴好护目镜",
+   "scene": "护目镜、实验服、手套三个图标",
+   "prompt_en": "Icons of safety goggles, a lab coat and gloves with green checks. No people.",
+   "narration": "护目镜、实验服、手套全程穿戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "先查安全说明，称粉末防扬尘",
+   "scene": "小研翻看一份空白的化学品安全说明书",
+   "prompt_en": "The female graduate student reads a blank chemical safety data sheet next to a jar with a warning pictogram.",
+   "narration": "用之前，先看化学品安全说明书。",
+   "overlay": [
+    "先查安全说明，称粉末防扬尘"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "先查安全说明，称粉末防扬尘",
+   "scene": "粉末扬起的图标被打叉，轻轻倾倒的图标打勾",
+   "prompt_en": "Two icons: powder puffing up into the air crossed out with a red X, and a spatula gently transferring powder with a green check. No people.",
+   "narration": "称粉末动作要轻，别扬起粉尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "先查安全说明，称粉末防扬尘",
+   "scene": "称完后小研擦净天平，盖紧瓶盖",
+   "prompt_en": "The female graduate student wipes the balance pan clean and closes the jar lid tightly.",
+   "narration": "称完清理天平，试剂瓶盖紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "易燃溶剂：通风柜、不用明火",
+   "scene": "几瓶易燃溶剂和易燃液体警示标志",
+   "prompt_en": "Several solvent bottles with blank labels next to a flammable liquid warning sign. No people.",
+   "narration": "很多重结晶要用易燃有机溶剂。",
+   "overlay": [
+    "易燃溶剂：通风柜、不用明火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "易燃溶剂：通风柜、不用明火",
+   "scene": "本生灯火焰图标被打叉，水浴和电加热打勾",
+   "prompt_en": "An icon of a gas burner flame crossed out with a red X, next to a water bath and an electric heater with green checks. No people.",
+   "narration": "这时不能用明火，改用水浴或电加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "易燃溶剂：通风柜、不用明火",
+   "scene": "小研在通风柜内加热溶液",
+   "prompt_en": "The female graduate student heats a flask on a water bath inside a fume hood with the sash lowered.",
+   "narration": "在通风柜里操作，柜门按规定拉低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔点仪与熔点管防烫防扎",
+   "scene": "熔点仪加热块冒热浪，手指图标被打叉",
+   "prompt_en": "A melting point apparatus with heat lines over its heating block, and a finger icon crossed out with a red X. No people.",
+   "narration": "熔点仪加热块很烫，不要用手碰。",
+   "overlay": [
+    "熔点仪与熔点管防烫防扎"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔点仪与熔点管防烫防扎",
+   "scene": "小研等仪器降温后用镊子取出熔点管",
+   "prompt_en": "The female graduate student waits for the apparatus to cool and removes the capillary with tweezers.",
+   "narration": "冷下来再用镊子取熔点管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔点仪与熔点管防烫防扎",
+   "scene": "熔点管放进碎玻璃收集盒",
+   "prompt_en": "A used capillary tube is dropped into a sturdy broken glass disposal box. No people.",
+   "narration": "用过的熔点管放进碎玻璃盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "烘箱干燥的注意事项",
+   "scene": "烘箱图标旁温度计低于熔点线",
+   "prompt_en": "A drying oven icon with a thermometer whose level stays below a marked melting point line. No people.",
+   "narration": "烘箱温度要低于样品熔点。",
+   "overlay": [
+    "烘箱干燥的注意事项"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "烘箱干燥的注意事项",
+   "scene": "带易燃溶剂的湿样放进烘箱的图标被打叉",
+   "prompt_en": "An icon of a wet sample with a flammable liquid sign going into an oven, crossed out with a red X. No people.",
+   "narration": "沾着易燃溶剂的湿样，不能进普通烘箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "烘箱干燥的注意事项",
+   "scene": "烘箱旁的溶剂瓶被移开",
+   "prompt_en": "Solvent bottles are moved away from beside a drying oven. No people.",
+   "narration": "烘箱旁边不放易燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "母液、滤液和碎玻璃的处置",
+   "scene": "小研把滤液倒进废液桶",
+   "prompt_en": "The female graduate student pours the filtrate from the suction flask into a waste container with a blank label.",
+   "narration": "母液、洗涤液倒进废液桶。",
+   "overlay": [
+    "母液、滤液和碎玻璃的处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "母液、滤液和碎玻璃的处置",
+   "scene": "倒入水槽的图标被打叉",
+   "prompt_en": "An icon of liquid poured into a sink drain, crossed out with a red X. No people.",
+   "narration": "不要随手倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "母液、滤液和碎玻璃的处置",
+   "scene": "王老师检查废液桶标签和碎玻璃盒",
+   "prompt_en": "The safety administrator checks the blank labels on the waste container and the broken glass box.",
+   "narration": "按本校规定分类、标注、统一处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "烫伤、割伤与报告",
+   "scene": "阿杰在水槽边用流动冷水冲手",
+   "prompt_en": "The young male student cools his hand under running water at a lab sink.",
+   "narration": "被烫到，马上用流动冷水冲。",
+   "overlay": [
+    "烫伤、割伤与报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "烫伤、割伤与报告",
+   "scene": "镊子夹起碎玻璃，旁边是急救箱",
+   "prompt_en": "Tweezers pick up broken glass pieces next to an open first aid kit. No people.",
+   "narration": "碎玻璃用工具清理，割伤先止血。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "烫伤、割伤与报告",
+   "scene": "洗眼器标志和洗眼器",
+   "prompt_en": "An eyewash sign above a lab eyewash station with water flowing. No people.",
+   "narration": "化学品入眼，立即到洗眼器冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "烫伤、割伤与报告",
+   "scene": "电话图标旁有红十字",
+   "prompt_en": "A telephone icon with a red cross icon beside it. No people.",
+   "narration": "伤情严重，拨打120。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "烫伤、割伤与报告",
+   "scene": "小研向老周报告",
+   "prompt_en": "The female graduate student reports to the older man in the lab office.",
+   "narration": "无论大小，都要报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现溶剂瓶和溶解度曲线图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a solvent bottle and a rising solubility curve.",
+   "narration": "选对溶剂，热溶冷析。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "少量溶剂、热过滤、缓慢冷却三个打勾图标",
+   "prompt_en": "Three icons with green checks: a small amount of solvent, a hot filter funnel and a covered beaker cooling. No people.",
+   "narration": "溶剂要少，趁热过滤，静置冷却。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "抽滤、洗涤、干燥图标",
+   "prompt_en": "Icons of a filter funnel on a flask, a wash bottle and a watch glass of crystals. No people.",
+   "narration": "抽滤洗涤，再干燥。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "熔程窄条和回收率条图标",
+   "prompt_en": "Icons of a narrow melting range bar and a percent bar. No people.",
+   "narration": "测熔程判纯度，算回收率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "烧杯夹、护目镜、废液桶图标",
+   "prompt_en": "Icons of beaker tongs, safety goggles and a waste container. No people.",
+   "narration": "防烫、护眼，废液分类收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣捧着一瓶洁白晶体挥手道别",
+   "prompt_en": "The panda mascot holds a jar of pure white crystals and waves goodbye at the camera.",
+   "narration": "晶体纯纯的，实验稳稳的，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
