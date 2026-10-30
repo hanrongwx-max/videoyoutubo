@@ -1,10 +1,17 @@
 # 卡通教学视频制作目录
 
-已编写 9 个视频。知识点：原片 / 补充。
+已编写 16 个视频。知识点：原片 / 补充。
 
 | 剧集 | 原视频 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |
 |---|---|---|---|---|---|---|
+| ACS College Lab Safety Series | 01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1 | 从安全规则到风险管理 | 78 | 6:30 | 18 / 5 | [剧本](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1/script.md>) · [审查](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
+| Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
+| Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/审查报告.md>) |
+| Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 认识化学品的危害：SDS与标签 | 60 | 5:00 | 17 / 6 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4/script.md>) · [审查](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4/审查报告.md>) |
+| Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 安全操作化学品 | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5/审查报告.md>) |
+| Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 实验室的其他常见危害 | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6/审查报告.md>) |
+| Chemical Spillage & Response | 07_Lab Safety Survey | 安全巡查：找找隐患在哪里 | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 无菌操作与平板划线 | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/审查报告.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | pH电极的日常维护 | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/审查报告.md>) |
