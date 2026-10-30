@@ -1,12 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 158 / 441 个视频。
+已编写 168 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
 | Lab Safety Training - Essential Protocols | 23 / 23 |
+| Lab Safety Training Series | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 |
@@ -14,7 +15,6 @@
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
-| Lab Safety Training Series | 9 / 13 |
 | RSO Training Series | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 |
@@ -22,10 +22,10 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
+| CDC Laboratory Safety Series | 6 / 23 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
-| CDC Laboratory Safety Series | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
 | Electrical Safety Series | 0 / 25 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
@@ -77,6 +77,12 @@
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 身边的生物技术 | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/审查报告.md>) |
 | Animal & Plant Biotech Safety | 09_APB - Laboratory Notebooks | 实验记录本 | 66 | 5:30 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks/script.md>) · [审查](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks/审查报告.md>) |
 | Animal & Plant Biotech Safety | 10_APB - Moving Research into Production | 从实验室到生产 | 80 | 6:40 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production/script.md>) · [审查](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production/审查报告.md>) |
+| CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
+| CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
+| CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
+| CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 新实验，先评估 | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario/审查报告.md>) |
+| CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 一根电线引发的烫伤 | 29 | 2:25 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario/审查报告.md>) |
+| CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 是事故还是未遂 | 30 | 2:30 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/审查报告.md>) |
@@ -155,11 +161,15 @@
 | Lab Safety Training - Essential Protocols | 22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course | 防火灾、防滑倒、防劳损 | 49 | 4:05 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course/script.md>) · [审查](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai | 化学品溢洒与接触的应急处置 | 49 | 4:05 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai/script.md>) · [审查](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai/审查报告.md>) |
 | Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 细胞培养的无菌操作与生物安全 | 98 | 8:10 | 23 / 7 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/script.md>) · [审查](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/审查报告.md>) |
+| Lab Safety Training Series | 02_„General Laboratory Safety - Safety instructions | 化学实验室通用安全守则 | 175 | 14:35 | 35 / 7 | [剧本](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions/script.md>) · [审查](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions/审查报告.md>) |
+| Lab Safety Training Series | 03_Safety in laboratory | 实验室里的五类危险源与个人防护 | 118 | 9:50 | 28 / 7 | [剧本](<Lab Safety Training Series/03_Safety in laboratory/script.md>) · [审查](<Lab Safety Training Series/03_Safety in laboratory/审查报告.md>) |
 | Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 实验室里的人机工效 | 102 | 8:30 | 25 / 5 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) · [审查](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]/审查报告.md>) |
 | Lab Safety Training Series | 05_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3/审查报告.md>) |
 | Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
 | Lab Safety Training Series | 07_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 看不见的污染：实验室防污染 | 102 | 8:30 | 29 / 7 | [剧本](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) · [审查](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/审查报告.md>) |
+| Lab Safety Training Series | 08_Basic Lab Skills Training | 新生入门：九种基础仪器的规范使用 | 135 | 11:15 | 41 / 7 | [剧本](<Lab Safety Training Series/08_Basic Lab Skills Training/script.md>) · [审查](<Lab Safety Training Series/08_Basic Lab Skills Training/审查报告.md>) |
 | Lab Safety Training Series | 09_Safe Chemical Handling Lab Safety Video Part 5 | 安全操作化学品 | 59 | 4:55 | 24 / 5 | [剧本](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5/script.md>) · [审查](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5/审查报告.md>) |
+| Lab Safety Training Series | 10_Lab Techniques & Safety Crash Course Chemistry 21 | 实验室生存指南：穿戴、操作与应急 | 98 | 8:10 | 29 / 6 | [剧本](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21/script.md>) · [审查](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21/审查报告.md>) |
 | Lab Safety Training Series | 11_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 实验室安全入门 | 153 | 12:45 | 45 / 8 | [剧本](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]/script.md>) · [审查](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]/审查报告.md>) |
 | Lab Safety Training Series | 12_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Lab Safety Training Series/12_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Lab Safety Training Series/12_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
 | Lab Safety Training Series | 13_Chemical Hazards Lab Safety Video Part 4 | 认识化学品的危害：SDS与标签 | 60 | 5:00 | 17 / 6 | [剧本](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4/script.md>) · [审查](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4/审查报告.md>) |
