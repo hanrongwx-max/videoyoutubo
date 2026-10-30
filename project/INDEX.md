@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 138 / 441 个视频。
+已编写 148 / 441 个视频。
 
 ## 各剧集进度
 
@@ -8,6 +8,7 @@
 |---|---|
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
@@ -20,7 +21,6 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Fume Hood & Cabinet Protocols | 2 / 12 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | CDC Laboratory Safety Series | 0 / 23 |
@@ -95,6 +95,16 @@
 | Fire Safety & Extinguisher Training | 09_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 实验室安全入门 | 153 | 12:45 | 45 / 8 | [剧本](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 01_Introduction to Chemistry Laboratory Techniques | 走进化学实验室：技术与安全的第一课 | 47 | 3:55 | 8 / 6 | [剧本](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/script.md>) · [审查](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory | 认识化学实验室的常用仪器 | 123 | 10:15 | 33 / 5 | [剧本](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory/script.md>) · [审查](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 03_Gravity Filtration and Vacuum Filtration | 常压过滤与减压过滤 | 90 | 7:30 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration/script.md>) · [审查](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 04_Liquid-Liquid Extraction | 液液萃取：用分液漏斗分开溶液 | 92 | 7:40 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction/script.md>) · [审查](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 05_Simple Distillation | 简单蒸馏 | 110 | 9:10 | 21 / 8 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation/script.md>) · [审查](<Fume Hood & Cabinet Protocols/05_Simple Distillation/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 重结晶与熔点测定 | 104 | 8:40 | 28 / 8 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis/script.md>) · [审查](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 移液器具与标准溶液 | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 强酸强碱滴定 | 96 | 8:00 | 25 / 8 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base/script.md>) · [审查](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 09_Performing Thin Layer Chromatography (TLC) | 薄层色谱的操作与安全 | 97 | 8:05 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)/script.md>) · [审查](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 10_Performing Column Chromatography | 柱色谱的操作与安全 | 103 | 8:35 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography/script.md>) · [审查](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 11_Physically Constructing a Galvanic Cell (Electrochemistry) | 动手搭一个原电池 | 74 | 6:10 | 15 / 7 | [剧本](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)/script.md>) · [审查](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 12_Laboratory Synthesis of Aspirin | 阿司匹林合成实验与安全 | 104 | 8:40 | 24 / 9 | [剧本](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin/script.md>) · [审查](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 无菌操作与平板划线 | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/审查报告.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | pH电极的日常维护 | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/审查报告.md>) |

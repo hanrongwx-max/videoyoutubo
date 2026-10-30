@@ -1,0 +1,1324 @@
+{
+ "id": "09_Performing Thin Layer Chromatography (TLC)",
+ "series": "Fume Hood & Cabinet Protocols",
+ "title": "薄层色谱的操作与安全",
+ "seconds": 485,
+ "source_doc": "course/Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC).md",
+ "author_source": "project/Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)/src.py",
+ "points": {
+  "K1": "色谱按极性分离",
+  "K2": "什么是薄层色谱",
+  "K3": "先懂原理，再动手",
+  "K4": "流动相与固定相",
+  "K5": "准备薄层板",
+  "K6": "按样品选择展开剂",
+  "K7": "准备展开缸",
+  "K8": "标准品、混合物和未知样",
+  "K9": "镊子、铅笔、直尺、毛细管",
+  "K10": "铅笔轻画起始线",
+  "K11": "标出均匀分开的点样位置",
+  "K12": "毛细管轻触点样",
+  "K13": "一样一管，斑点分开",
+  "K14": "展开缸加液、盖盖",
+  "K15": "放板：液面低于起始线",
+  "K16": "极性不同，跑得不同",
+  "K17": "及时取板，画出前沿",
+  "K18": "紫外灯下显色",
+  "K19": "紫外线伤眼，要防护",
+  "K20": "读懂结果",
+  "K21": "计算比移值",
+  "K22": "用途一：确认产物",
+  "K23": "用途二：监测反应",
+  "K24": "用途三：为柱色谱选溶剂",
+  "S1": "溶剂操作放进通风柜",
+  "S2": "易燃溶剂远离火源",
+  "S3": "个人防护穿戴齐全",
+  "S4": "紫外灯的正确使用",
+  "S5": "化学显色也在通风柜内",
+  "S6": "废液和废弃物分类收集",
+  "S7": "溅洒、着火怎么办"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，手里举着一块空白薄层板，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a lab bench, holds up a small blank white plate and waves at the camera.",
+   "narration": "这一课学薄层色谱的操作与安全。",
+   "overlay": [
+    "薄层色谱的操作与安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "薄层板、展开缸、紫外灯、通风柜四个图标排成一行",
+   "prompt_en": "Four icons in a row: a small white plate with dots, a capped glass jar, a lamp with violet rays, and a fume hood. No people.",
+   "narration": "点得准、展得稳、看得清、做得安全。",
+   "overlay": [],
+   "labels": [
+    "点样",
+    "展开",
+    "显色",
+    "安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一份空白反应记录，挠头看着烧瓶",
+   "prompt_en": "The young male student holds a blank lab notebook and scratches his head while looking at a round-bottom flask.",
+   "narration": "阿杰想知道：反应到底做成没有？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在普通实验台上拧开一瓶溶剂，旁边有加热台",
+   "prompt_en": "The young male student opens a solvent bottle with a blank label on an open bench next to a hot plate.",
+   "narration": "他在敞开的台面上就要配展开剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "敞开台面倒溶剂的图标，被红叉划掉",
+   "prompt_en": "An icon of solvent being poured on an open bench with vapor wisps rising, crossed out with a red X. No people.",
+   "narration": "溶剂蒸气会飘满房间，还怕火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把阿杰引到通风柜前，指着拉下的柜门",
+   "prompt_en": "The female graduate student leads the young male student to a fume hood and points at its lowered sash.",
+   "narration": "小研说：走，到通风柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先学原理和步骤，再看安全要点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "色谱按极性分离",
+   "scene": "三个图标：分液漏斗、蒸馏烧瓶、色谱板",
+   "prompt_en": "Three icons side by side: a separatory funnel, a distillation flask and a small plate with colored dots. No people.",
+   "narration": "萃取靠溶解度，蒸馏靠沸点。",
+   "overlay": [
+    "色谱按极性分离"
+   ],
+   "labels": [
+    "溶解度",
+    "沸点",
+    "极性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "色谱按极性分离",
+   "scene": "色谱板上不同颜色的斑点分开排列",
+   "prompt_en": "A white plate with colored spots separating into different heights. No people.",
+   "narration": "色谱，则是按极性的差别来分离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是薄层色谱",
+   "scene": "欣欣指着一块放大的薄层板图标",
+   "prompt_en": "The panda mascot points at a large icon of a thin white plate with a pencil line near the bottom.",
+   "narration": "薄层色谱，简称TLC。",
+   "overlay": [
+    "什么是薄层色谱"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是薄层色谱",
+   "scene": "板的剖面：底板上覆一层细小颗粒",
+   "prompt_en": "A cutaway icon of a plate: a thin layer of fine white powder coated on a backing sheet. No people.",
+   "narration": "板上涂着薄薄一层吸附剂。",
+   "overlay": [],
+   "labels": [
+    "硅胶",
+    "氧化铝"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是薄层色谱",
+   "scene": "几个斑点在同一种溶剂中走出不同高度",
+   "prompt_en": "Several spots on a plate travel to different heights as liquid rises up the plate. No people.",
+   "narration": "比较各组分在溶剂里走多远，来分离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是薄层色谱",
+   "scene": "不挥发的样品瓶图标打勾",
+   "prompt_en": "An icon of a capped sample vial with a green check mark beside it. No people.",
+   "narration": "它适合分析不易挥发的样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先懂原理，再动手",
+   "scene": "小研在空白屏幕前讲原理，阿杰记笔记",
+   "prompt_en": "The female graduate student explains in front of a blank screen while the young male student takes notes.",
+   "narration": "原理课要先学，这里重点讲动手。",
+   "overlay": [
+    "先懂原理，再动手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "流动相与固定相",
+   "scene": "烧杯里立着一块板，底部有一层液体，两个箭头分别指向板和液体",
+   "prompt_en": "A beaker with a plate standing in a shallow layer of liquid; one arrow points to the plate, another to the liquid. No people.",
+   "narration": "色谱都有流动相和固定相。",
+   "overlay": [
+    "流动相与固定相"
+   ],
+   "labels": [
+    "固定相",
+    "流动相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "流动相与固定相",
+   "scene": "液体沿板上行，带着斑点移动",
+   "prompt_en": "Liquid creeps up the plate and carries colored spots upward with it. No people.",
+   "narration": "展开剂是流动相，沿板向上走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "流动相与固定相",
+   "scene": "板上吸附层被高亮",
+   "prompt_en": "The white coating layer of the plate is highlighted with a soft glow. No people.",
+   "narration": "板上的吸附层，就是固定相。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "准备薄层板",
+   "scene": "大小不同的几块空白薄层板",
+   "prompt_en": "Several blank white plates of different widths laid side by side on a dark bench. No people.",
+   "narration": "先准备薄层板，样品多就选宽一些。",
+   "overlay": [
+    "准备薄层板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按样品选择展开剂",
+   "scene": "小研在通风柜内拿起一瓶空白标签的溶剂瓶",
+   "prompt_en": "Inside a fume hood, the female graduate student in goggles, lab coat and gloves picks up a solvent bottle with a blank label.",
+   "narration": "展开剂要按待分离的物质来选。",
+   "overlay": [
+    "按样品选择展开剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按样品选择展开剂",
+   "scene": "两个溶剂瓶图标按比例混合",
+   "prompt_en": "Two solvent bottle icons pouring into one bottle with a ratio symbol. No people.",
+   "narration": "示例用乙酸乙酯加少量乙酸。",
+   "overlay": [],
+   "labels": [
+    "乙酸乙酯",
+    "少量乙酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按样品选择展开剂",
+   "scene": "极性旋钮图标，指针左右调节",
+   "prompt_en": "A dial icon labeled with plus and minus signs, its needle turning left and right. No people.",
+   "narration": "分不开，就调整展开剂的极性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "准备展开缸",
+   "scene": "带盖玻璃广口瓶",
+   "prompt_en": "A clean glass jar with a screw cap on a dark bench. No people.",
+   "narration": "再找一个能盖严的玻璃容器当展开缸。",
+   "overlay": [
+    "准备展开缸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标准品、混合物和未知样",
+   "scene": "四个样品瓶排成一行，分别标图示文字",
+   "prompt_en": "Four small capped sample vials in a row with blank labels. No people.",
+   "narration": "样品有四个：两个标准品、混合物和未知样。",
+   "overlay": [
+    "标准品、混合物和未知样"
+   ],
+   "labels": [
+    "A 咖啡因",
+    "B 阿司匹林",
+    "A+B",
+    "U 未知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标准品、混合物和未知样",
+   "scene": "未知样瓶子旁浮现问号，分别连到A和B",
+   "prompt_en": "A question mark floats above one vial, with dashed lines linking it to two other vials. No people.",
+   "narration": "未知样是A还是B，还是两者都有？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标准品、混合物和未知样",
+   "scene": "放大镜图标下的样品瓶",
+   "prompt_en": "A magnifying glass icon over a sample vial. No people.",
+   "narration": "这就是TLC的一大用途：鉴定物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "镊子、铅笔、直尺、毛细管",
+   "scene": "镊子、铅笔、直尺、毛细管四个物品摆在台面上",
+   "prompt_en": "A pair of tweezers, a pencil, a ruler and a box of thin glass capillary tubes laid out on a dark bench. No people.",
+   "narration": "还要镊子、铅笔、直尺和毛细管。",
+   "overlay": [
+    "镊子、铅笔、直尺、毛细管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "铅笔轻画起始线",
+   "scene": "小研用铅笔和直尺在板底轻轻画线",
+   "prompt_en": "The female graduate student in goggles and gloves gently draws a line near the bottom of a white plate with a pencil and ruler.",
+   "narration": "用铅笔在板底约一厘米处画起始线。",
+   "overlay": [
+    "铅笔轻画起始线"
+   ],
+   "labels": [
+    "约1厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "铅笔轻画起始线",
+   "scene": "起始线过低，被液面淹没的图标打红叉",
+   "prompt_en": "An icon of a plate whose bottom line sits below the liquid level, crossed out with a red X. No people.",
+   "narration": "线太低，样品会被溶剂直接冲走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "铅笔轻画起始线",
+   "scene": "铅笔用力刮破涂层的图标打红叉",
+   "prompt_en": "An icon of a pencil pressing hard and scratching the white coating, crossed out with a red X. No people.",
+   "narration": "下笔要轻，别刮破薄薄的涂层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标出均匀分开的点样位置",
+   "scene": "起始线上四个均匀间隔的小点",
+   "prompt_en": "A close-up of a white plate with four evenly spaced small dots on the bottom line. No people.",
+   "narration": "在线上标出四个点，间距均匀。",
+   "overlay": [
+    "标出均匀分开的点样位置"
+   ],
+   "labels": [
+    "A",
+    "B",
+    "A+B",
+    "U"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标出均匀分开的点样位置",
+   "scene": "点与点之间的间距用双箭头表示",
+   "prompt_en": "Double arrows show equal gaps between the dots on the plate. No people.",
+   "narration": "点要分得够开，各自标好记号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "毛细管轻触点样",
+   "scene": "毛细管伸进样品瓶，液体自动上升",
+   "prompt_en": "A thin glass capillary tube dips into a sample vial and liquid rises inside it by itself. No people.",
+   "narration": "毛细管蘸一下，液体会自己吸上来。",
+   "overlay": [
+    "毛细管轻触点样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "毛细管轻触点样",
+   "scene": "毛细管尖轻触板上的点",
+   "prompt_en": "A gloved hand lightly touches the tip of a capillary tube onto a dot on the white plate.",
+   "narration": "在对应的点上轻轻一碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "毛细管轻触点样",
+   "scene": "三次轻触的图标，斑点小而圆",
+   "prompt_en": "An icon showing three light taps and a small round spot on the plate. No people.",
+   "narration": "轻触几次，斑点越小分得越清。",
+   "overlay": [],
+   "labels": [
+    "约三次",
+    "斑点要小"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一样一管，斑点分开",
+   "scene": "四根毛细管各对应一个样品瓶",
+   "prompt_en": "Four capillary tubes, each paired with its own sample vial by a matching color line. No people.",
+   "narration": "换一个样品，就换一根毛细管。",
+   "overlay": [
+    "一样一管，斑点分开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一样一管，斑点分开",
+   "scene": "两个斑点连成一片的图标打红叉",
+   "prompt_en": "An icon of two spots bleeding into each other on the plate, crossed out with a red X. No people.",
+   "narration": "斑点不能连在一起，否则结果难读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "展开缸加液、盖盖",
+   "scene": "小研在通风柜内向广口瓶加入少量展开剂",
+   "prompt_en": "Inside a fume hood, the female graduate student in goggles and gloves adds a small amount of solvent into a glass jar with a dropper.",
+   "narration": "展开缸里只加浅浅一层展开剂。",
+   "overlay": [
+    "展开缸加液、盖盖"
+   ],
+   "labels": [
+    "小缸约5毫升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "展开缸加液、盖盖",
+   "scene": "盖上盖子的展开缸，旁边有沙漏图标",
+   "prompt_en": "A capped glass jar with a thin layer of liquid at the bottom, an hourglass icon beside it. No people.",
+   "narration": "盖上盖子，静置几分钟。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "放板：液面低于起始线",
+   "scene": "镊子夹着板放入展开缸",
+   "prompt_en": "A gloved hand uses tweezers to lower the white plate gently into the glass jar inside a fume hood.",
+   "narration": "用镊子夹板，轻轻放进展开缸。",
+   "overlay": [
+    "放板：液面低于起始线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "放板：液面低于起始线",
+   "scene": "液面与起始线对比图：液面在线下方打勾",
+   "prompt_en": "Two icons: liquid level below the pencil line with a green check, and liquid above the line crossed out with a red X. No people.",
+   "narration": "液面一定要低于起始线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "放板：液面低于起始线",
+   "scene": "展开缸盖上盖子",
+   "prompt_en": "A hand screws the cap onto the jar with the plate standing inside.",
+   "narration": "放好后马上盖盖，静静等待。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "极性不同，跑得不同",
+   "scene": "展开缸里液体沿板上升，斑点分开",
+   "prompt_en": "Inside a capped jar, liquid climbs up the plate and the spots begin to separate. No people.",
+   "narration": "展开剂往上爬，带着样品一起走。",
+   "overlay": [
+    "极性不同，跑得不同"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "极性不同，跑得不同",
+   "scene": "小球快速前进，另一个小球被小钩子拉住",
+   "prompt_en": "An icon of a smooth ball racing ahead on a track while another ball is held back by small hooks on the track. No people.",
+   "narration": "非极性物质跑得快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "极性不同，跑得不同",
+   "scene": "极性分子与表面羟基相互吸引的示意",
+   "prompt_en": "A simple diagram of a polar molecule icon attracted to small hook-shaped groups on a surface. No people.",
+   "narration": "极性物质被吸附层拉住，跑得慢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "及时取板，画出前沿",
+   "scene": "小研盯着展开缸，前沿接近顶部",
+   "prompt_en": "The female graduate student watches the jar as the liquid front nears the top of the plate.",
+   "narration": "盯住展开缸，别让前沿跑到顶。",
+   "overlay": [
+    "及时取板，画出前沿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "及时取板，画出前沿",
+   "scene": "镊子取出薄层板",
+   "prompt_en": "Tweezers lift the plate out of the opened jar inside a fume hood. No people.",
+   "narration": "前沿离顶部还差一点，就取出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "及时取板，画出前沿",
+   "scene": "铅笔沿湿润的前沿画线",
+   "prompt_en": "A pencil quickly draws a line along the damp liquid front on the plate. No people.",
+   "narration": "趁没干，马上画出溶剂前沿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "及时取板，画出前沿",
+   "scene": "板放在通风柜内晾干",
+   "prompt_en": "The plate rests on a clean tile inside a fume hood to dry. No people.",
+   "narration": "然后让整块板彻底晾干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "紫外灯下显色",
+   "scene": "肉眼看空白的板，问号",
+   "prompt_en": "A plain white plate with no visible spots and a question mark beside it. No people.",
+   "narration": "有色物质能直接看，多数却看不见。",
+   "overlay": [
+    "紫外灯下显色"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "紫外灯下显色",
+   "scene": "封闭式紫外观察箱里，板发出绿色荧光，显出暗斑",
+   "prompt_en": "A closed viewing cabinet with violet light inside; the plate glows green with dark spots. No people.",
+   "narration": "放到紫外灯下，斑点就显出来了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "紫外灯下显色",
+   "scene": "铅笔把斑点圈出来",
+   "prompt_en": "A pencil draws circles around the spots on the plate. No people.",
+   "narration": "用铅笔把每个斑点圈出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "紫外线伤眼，要防护",
+   "scene": "紫外线照向眼睛的图标，带警示三角",
+   "prompt_en": "An icon of violet rays shining toward an eye, with a yellow warning triangle. No people.",
+   "narration": "紫外线会伤眼睛。",
+   "overlay": [
+    "紫外线伤眼，要防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "紫外线伤眼，要防护",
+   "scene": "小研戴着防紫外护目镜操作紫外灯",
+   "prompt_en": "The female graduate student wearing UV protective goggles holds a handheld lamp pointed down at a plate.",
+   "narration": "没有封闭观察箱，一定要戴防护眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "读懂结果",
+   "scene": "圈好斑点的板，四列斑点",
+   "prompt_en": "A plate with four columns of circled spots: two single spots at different heights, one column with both, and one matching the higher spot. No people.",
+   "narration": "来读结果：B比A走得远。",
+   "overlay": [
+    "读懂结果"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "读懂结果",
+   "scene": "A+B那一列出现两个斑点",
+   "prompt_en": "The mixed column on the plate shows two circled spots, highlighted. No people.",
+   "narration": "混合样正好出现两个斑点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "读懂结果",
+   "scene": "未知样斑点与B连线打勾",
+   "prompt_en": "A dashed line links the unknown column spot to the B spot at the same height, with a green check. No people.",
+   "narration": "未知样和B一致，就是阿司匹林。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "读懂结果",
+   "scene": "A斑点旁出现极性符号",
+   "prompt_en": "The lower spot is highlighted with a small polarity symbol beside it. No people.",
+   "narration": "A走得近，说明A的极性更大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "计算比移值",
+   "scene": "欣欣指着板上的两个距离箭头",
+   "prompt_en": "The panda mascot points at a plate diagram with two arrows: a short one to a spot and a long one to the top line.",
+   "narration": "还能算出比移值，简称Rf。",
+   "overlay": [
+    "计算比移值"
+   ],
+   "labels": [
+    "Rf=a÷b"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "计算比移值",
+   "scene": "直尺测量起始线到斑点中心",
+   "prompt_en": "A ruler measures from the bottom pencil line to the center of a spot. No people.",
+   "narration": "量起始线到斑点中心的距离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "计算比移值",
+   "scene": "直尺测量起始线到前沿线",
+   "prompt_en": "A ruler measures from the bottom pencil line to the top front line. No people.",
+   "narration": "再量起始线到前沿线的距离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "计算比移值",
+   "scene": "计算器图标，结果小于1",
+   "prompt_en": "A calculator icon showing a fraction smaller than one. No people.",
+   "narration": "两者相除，Rf总是小于一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "计算比移值",
+   "scene": "数值与一本空白手册中的表格对照",
+   "prompt_en": "A number card compared with a table in a blank reference book. No people.",
+   "narration": "和文献数据比对，确认物质身份。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "用途一：确认产物",
+   "scene": "烧瓶和一块板，打勾",
+   "prompt_en": "A flask icon next to a plate with a single spot and a green check. No people.",
+   "narration": "TLC又快又方便，能确认产物。",
+   "overlay": [
+    "用途一：确认产物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "用途二：监测反应",
+   "scene": "加热搅拌台上的烧瓶，旁边三块板依次排开",
+   "prompt_en": "A flask on a stirring plate beside three plates in a row showing a spot fading and a new spot appearing. No people.",
+   "narration": "反应中途取样点板，可以追踪进度。",
+   "overlay": [
+    "用途二：监测反应"
+   ],
+   "labels": [
+    "原料",
+    "反应中",
+    "反应完成"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "用途二：监测反应",
+   "scene": "原料斑点消失，打勾",
+   "prompt_en": "On the last plate the starting spot has disappeared, with a green check. No people.",
+   "narration": "原料斑点没了，反应就完成了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "用途三：为柱色谱选溶剂",
+   "scene": "几块用不同展开剂跑的板，最好的一块打勾",
+   "prompt_en": "Three plates run with different solvents; the one with the best-separated spots gets a green check. No people.",
+   "narration": "多试几种展开剂，挑分得最好的。",
+   "overlay": [
+    "用途三：为柱色谱选溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "用途三：为柱色谱选溶剂",
+   "scene": "玻璃色谱柱中分成色带",
+   "prompt_en": "A glass chromatography column with colored bands separating as liquid flows down. No people.",
+   "narration": "再用到柱色谱里，大量分离样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "溶剂操作放进通风柜",
+   "scene": "欣欣站在通风柜旁，柜门半拉下",
+   "prompt_en": "The panda mascot stands beside a fume hood with its sash partly lowered.",
+   "narration": "展开剂易挥发，操作放进通风柜。",
+   "overlay": [
+    "溶剂操作放进通风柜"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "溶剂操作放进通风柜",
+   "scene": "配液、加液、取板、晾干四个图标都在通风柜框内",
+   "prompt_en": "Four icons inside a fume hood outline: mixing solvent, filling a jar, lifting a plate and drying a plate. No people.",
+   "narration": "配液、放板、取板、晾干都在柜内。",
+   "overlay": [],
+   "labels": [
+    "配液",
+    "放板",
+    "取板",
+    "晾干"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "溶剂操作放进通风柜",
+   "scene": "柜门高度标线，手在柜门下操作",
+   "prompt_en": "A fume hood sash lowered to a marked line; gloved hands work below it, the face stays behind the glass.",
+   "narration": "柜门拉到规定高度，头别伸进去。",
+   "overlay": [],
+   "labels": [
+    "以本校规定为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "溶剂操作放进通风柜",
+   "scene": "通风柜里堆满杂物的图标打红叉",
+   "prompt_en": "An icon of a fume hood crammed with bottles and boxes, crossed out with a red X. No people.",
+   "narration": "柜内别堆杂物，以免挡住气流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "易燃溶剂远离火源",
+   "scene": "易燃液体标志旁的溶剂瓶",
+   "prompt_en": "A flammable liquid warning sign beside a solvent bottle with a blank label. No people.",
+   "narration": "乙酸乙酯等溶剂易燃。",
+   "overlay": [
+    "易燃溶剂远离火源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "易燃溶剂远离火源",
+   "scene": "酒精灯和电热板靠近溶剂瓶，打红叉",
+   "prompt_en": "An icon of an alcohol burner and a hot plate next to a solvent bottle, crossed out with a red X. No people.",
+   "narration": "旁边不能有明火和热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "易燃溶剂远离火源",
+   "scene": "小瓶取用，大瓶盖好放回柜中",
+   "prompt_en": "A small dropper bottle on the bench while the large capped solvent bottle goes back into a cabinet. No people.",
+   "narration": "用多少取多少，用完立即盖好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人防护穿戴齐全",
+   "scene": "小研展示护目镜、实验服、手套",
+   "prompt_en": "The female graduate student shows her safety goggles, buttoned lab coat and nitrile gloves.",
+   "narration": "护目镜、实验服、手套都要穿戴好。",
+   "overlay": [
+    "个人防护穿戴齐全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人防护穿戴齐全",
+   "scene": "普通眼镜图标打红叉，护目镜打勾",
+   "prompt_en": "Two icons: ordinary glasses crossed out with a red X, and wraparound safety goggles with a green check. No people.",
+   "narration": "普通眼镜代替不了护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人防护穿戴齐全",
+   "scene": "沾了溶剂的手套被摘下，换上新手套",
+   "prompt_en": "A gloved hand with a wet stain peels off the glove and puts on a fresh one. No people.",
+   "narration": "手套沾了溶剂，及时更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "紫外灯的正确使用",
+   "scene": "紫外灯直视的图标打红叉",
+   "prompt_en": "An icon of an eye looking straight into a violet lamp, crossed out with a red X. No people.",
+   "narration": "不要直视紫外灯管。",
+   "overlay": [
+    "紫外灯的正确使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "紫外灯的正确使用",
+   "scene": "封闭观察箱打勾，手不伸进光下",
+   "prompt_en": "A closed viewing cabinet with a green check; hands stay outside the violet light. No people.",
+   "narration": "优先用封闭观察箱，皮肤少受照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "紫外灯的正确使用",
+   "scene": "用完关灯的图标",
+   "prompt_en": "A hand switches off the lamp, the violet rays disappear. No people.",
+   "narration": "看完及时关灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "化学显色也在通风柜内",
+   "scene": "通风柜内一个盖好的玻璃缸",
+   "prompt_en": "A covered glass staining jar inside a fume hood. No people.",
+   "narration": "有时还要用化学试剂显色。",
+   "overlay": [
+    "化学显色也在通风柜内"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "化学显色也在通风柜内",
+   "scene": "腐蚀和有毒警示标志",
+   "prompt_en": "A corrosive warning sign and a toxic warning sign side by side. No people.",
+   "narration": "显色剂多有毒或有腐蚀性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "化学显色也在通风柜内",
+   "scene": "小研在通风柜内用镊子操作",
+   "prompt_en": "The female graduate student in goggles and gloves handles a plate with tweezers inside a fume hood.",
+   "narration": "按老师给的规程，在通风柜内操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "废液和废弃物分类收集",
+   "scene": "用过的展开剂倒入有机废液桶",
+   "prompt_en": "Used solvent from the jar is poured through a funnel into a labeled waste container with a blank label inside a fume hood. No people.",
+   "narration": "用过的展开剂倒进有机废液桶。",
+   "overlay": [
+    "废液和废弃物分类收集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "废液和废弃物分类收集",
+   "scene": "水槽下水道图标打红叉",
+   "prompt_en": "An icon of solvent poured into a sink drain, crossed out with a red X. No people.",
+   "narration": "绝不能倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "废液和废弃物分类收集",
+   "scene": "毛细管放入碎玻璃收集盒",
+   "prompt_en": "Used glass capillary tubes go into a broken-glass collection box. No people.",
+   "narration": "毛细管属玻璃废物，放进专用盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "废液和废弃物分类收集",
+   "scene": "废薄层板放入固体废物袋",
+   "prompt_en": "Used plates go into a solid chemical waste bag. No people.",
+   "narration": "用过的板按固体化学废物收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "溅洒、着火怎么办",
+   "scene": "阿杰在洗眼器前冲洗眼睛，小研扶着他",
+   "prompt_en": "The young male student rinses his eyes at an eyewash station while the female graduate student supports him.",
+   "narration": "溶剂溅进眼睛，立即用洗眼器冲洗。",
+   "overlay": [
+    "溅洒、着火怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "溅洒、着火怎么办",
+   "scene": "手臂在水龙头下冲洗",
+   "prompt_en": "A forearm is rinsed under running water at a lab sink. No people.",
+   "narration": "溅到皮肤，脱去污染衣物，用水冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "溅洒、着火怎么办",
+   "scene": "小研用灭火毯盖住冒火的小烧杯",
+   "prompt_en": "The female graduate student covers a small flaming beaker with a fire blanket.",
+   "narration": "小火先断热源，用灭火毯盖灭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "溅洒、着火怎么办",
+   "scene": "电话图标，119和120",
+   "prompt_en": "A telephone icon with a fire icon and a red cross icon beside it. No people.",
+   "narration": "火势大立即撤离，拨打119、120。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "溅洒、着火怎么办",
+   "scene": "小研向老周报告",
+   "prompt_en": "The female graduate student reports to the older man at the lab doorway; he listens and nods.",
+   "narration": "事后都要报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现薄层板、毛细管、展开缸图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a plate, a capillary tube and a capped jar.",
+   "narration": "铅笔画线，一样一管，斑点要小。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "液面低于起始线、盖盖的图标",
+   "prompt_en": "Icons of a liquid level below the pencil line and a capped jar, both with green checks. No people.",
+   "narration": "液面低于起始线，放板后马上盖盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "前沿线、紫外灯、Rf公式图标",
+   "prompt_en": "Icons of a front line on a plate, a violet lamp and a simple fraction symbol. No people.",
+   "narration": "画前沿、紫外显色、算出Rf。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "通风柜、护目镜、废液桶图标",
+   "prompt_en": "Icons of a fume hood, safety goggles and a waste container with a blank label. No people.",
+   "narration": "通风柜里操作，戴好防护，废液回收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整洁的通风柜旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye beside a clean, tidy fume hood with its sash lowered.",
+   "narration": "小小一块板，安全不能少，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
