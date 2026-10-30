@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 120 / 441 个视频。
+已编写 124 / 441 个视频。
 
 ## 各剧集进度
 
@@ -8,6 +8,7 @@
 |---|---|
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | ACS Hazard Communication & Safety | 10 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
@@ -18,7 +19,6 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Animal & Plant Biotech Safety | 6 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
@@ -58,9 +58,13 @@
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 生物技术实验室安全入门 | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/审查报告.md>) |
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 质粒、细菌与遗传转化 | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/审查报告.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 做好背景调研，写好研究论文 | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/审查报告.md>) |
+| Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 同伴互评：帮同学把论文改得更好 | 66 | 5:30 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews/script.md>) · [审查](<Animal & Plant Biotech Safety/04_APB - Peer Reviews/审查报告.md>) |
+| Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 植物克隆：组织培养入门 | 65 | 5:25 | 12 / 5 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning/script.md>) · [审查](<Animal & Plant Biotech Safety/05_APB - Plant Cloning/审查报告.md>) |
 | Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 植物组织培养的无菌技术 | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning/审查报告.md>) |
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 胡萝卜组织培养 | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots/审查报告.md>) |
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 身边的生物技术 | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/审查报告.md>) |
+| Animal & Plant Biotech Safety | 09_APB - Laboratory Notebooks | 实验记录本 | 66 | 5:30 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks/script.md>) · [审查](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks/审查报告.md>) |
+| Animal & Plant Biotech Safety | 10_APB - Moving Research into Production | 从实验室到生产 | 80 | 6:40 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production/script.md>) · [审查](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/审查报告.md>) |
