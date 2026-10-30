@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 55 / 441 个视频。
+已编写 56 / 441 个视频。
 
 ## 各剧集进度
 
@@ -13,6 +13,7 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
+| Health Physics & Nuclear Medicine | 1 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -22,7 +23,6 @@
 | Cleanroom & Equipment Safety | 0 / 33 |
 | Electrical Safety Series | 0 / 25 |
 | Fume Hood & Cabinet Protocols | 0 / 12 |
-| Health Physics & Nuclear Medicine | 0 / 9 |
 | Lab Safety Training - Essential Protocols | 0 / 23 |
 | Lab Safety Training Series | 0 / 13 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
@@ -69,6 +69,7 @@
 | General Lab Safety Practices | 06_Centrifugation Hazards | 离心机的危害与安全使用 | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards/审查报告.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 用紫外分光光度计测DNA浓度 | 75 | 6:15 | 9 / 7 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/script.md>) · [审查](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/审查报告.md>) |
 | General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 合成生物学建模与生物安全 | 124 | 10:20 | 18 / 7 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/script.md>) · [审查](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea | 辐射剂量入门：从空气电离到人体风险 | 142 | 11:50 | 23 / 10 | [剧本](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea/script.md>) · [审查](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained | 卡套接头与气体管路安全 | 43 | 3:35 | 7 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 02_EquiTips GASLAB Industrial Fixed Gas Detection Explained | 固定式气体检测报警 | 47 | 3:55 | 9 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 液氮杜瓦罐的安全使用 | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/审查报告.md>) |
