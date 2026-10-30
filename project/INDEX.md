@@ -1,15 +1,15 @@
 # 卡通教学视频制作目录
 
-已编写 63 / 441 个视频。
+已编写 64 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
 | Fire Safety & Extinguisher Training | 9 / 9 |
+| Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
-| Health Physics & Nuclear Medicine | 8 / 9 |
 | Laser Equipment & Safety Training | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
@@ -77,6 +77,7 @@
 | Health Physics & Nuclear Medicine | 06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on | 辐射防护习题课：八道题里的安全道理 | 134 | 11:10 | 24 / 7 | [剧本](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on/script.md>) · [审查](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea | 辐射为什么伤人，又怎样治病 | 113 | 9:25 | 15 / 6 | [剧本](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea/script.md>) · [审查](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals | 核医学入门：把“小灯泡”送进身体 | 95 | 7:55 | 15 / 4 | [剧本](<Health Physics & Nuclear Medicine/08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals/script.md>) · [审查](<Health Physics & Nuclear Medicine/08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv | 挑一颗好核素：有效半衰期的秘密 | 114 | 9:30 | 22 / 5 | [剧本](<Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv/script.md>) · [审查](<Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained | 卡套接头与气体管路安全 | 43 | 3:35 | 7 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 02_EquiTips GASLAB Industrial Fixed Gas Detection Explained | 固定式气体检测报警 | 47 | 3:55 | 9 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 液氮杜瓦罐的安全使用 | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/审查报告.md>) |
