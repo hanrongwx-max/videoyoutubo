@@ -1,0 +1,1566 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "segments": [
+  {
+   "start": 9.9,
+   "end": 17.08,
+   "text": "Hello there, this is Mohasanovic from Indian River State College and LaserTech Center for Laser and Fiber Optics Education"
+  },
+  {
+   "start": 17.5,
+   "end": 20.3,
+   "text": "Welcome to our introduction to photonics video series"
+  },
+  {
+   "start": 20.62,
+   "end": 28.04,
+   "text": "This is going to be our first out of eight lectures. The title of this lecture is Nature and Basic Properties of Light"
+  },
+  {
+   "start": 28.78,
+   "end": 30.62,
+   "text": "What we are going to talk about today"
+  },
+  {
+   "start": 30.62,
+   "end": 35.86,
+   "text": "We are going to define the basic properties of light such as wavelength frequency and period"
+  },
+  {
+   "start": 36.18,
+   "end": 39.42,
+   "text": "We are going to talk a little bit about the dual nature of light"
+  },
+  {
+   "start": 40.18,
+   "end": 45.42,
+   "text": "We are going to describe electromagnetic spectrum and sketch a diagram of its main optical regions"
+  },
+  {
+   "start": 45.42,
+   "end": 47.78,
+   "text": "And then at the end of this lecture"
+  },
+  {
+   "start": 47.78,
+   "end": 54.78,
+   "text": "We are going to talk a little bit about electromagnetic waves and their properties and finally define index of refraction"
+  },
+  {
+   "start": 55.7,
+   "end": 60.98,
+   "text": "Since this is our first course in photonics. The first question that we must address is what the photonics is"
+  },
+  {
+   "start": 62.18,
+   "end": 68.34,
+   "text": "We understand photonics as a field of science that has everything to do with the light energy meaning"
+  },
+  {
+   "start": 69.0,
+   "end": 71.0,
+   "text": "generation, manipulation,"
+  },
+  {
+   "start": 71.78,
+   "end": 75.62,
+   "text": "transportation, detection and finally use of light energy"
+  },
+  {
+   "start": 76.14,
+   "end": 78.14,
+   "text": "Photonics can be found in many"
+  },
+  {
+   "start": 78.38,
+   "end": 80.7,
+   "text": "fields in many aspects of our life"
+  },
+  {
+   "start": 81.14,
+   "end": 87.26,
+   "text": "To the point that it is considered an enabling technology that basically helps many other fields of science"
+  },
+  {
+   "start": 87.94,
+   "end": 89.94,
+   "text": "prosper and develop"
+  },
+  {
+   "start": 90.02,
+   "end": 95.94,
+   "text": "Light is present in almost every aspect of our life to the point where we are very often not aware of"
+  },
+  {
+   "start": 96.5,
+   "end": 100.94,
+   "text": "Its daily uses so we can find it in our CD players"
+  },
+  {
+   "start": 101.34,
+   "end": 107.16,
+   "text": "Where laser laser light reflects off of a CD and transform the returning signal into the music we can find"
+  },
+  {
+   "start": 107.66,
+   "end": 112.46,
+   "text": "lasers and light in our groceries towards at the cashiers where"
+  },
+  {
+   "start": 113.06,
+   "end": 116.02,
+   "text": "Laser beams are reading barcodes. We can find"
+  },
+  {
+   "start": 116.58,
+   "end": 122.66,
+   "text": "laser in laser print ends that are recording images on the paper we can find lasers and"
+  },
+  {
+   "start": 123.18,
+   "end": 132.1,
+   "text": "and light in the field of fiber optics where we are transporting a huge amounts of data over so-called fiber optic cables"
+  },
+  {
+   "start": 132.7,
+   "end": 134.54,
+   "text": "We can find"
+  },
+  {
+   "start": 134.54,
+   "end": 136.02,
+   "text": "light and"
+  },
+  {
+   "start": 136.02,
+   "end": 138.02,
+   "text": "Lasers and photonics in the field of medicine"
+  },
+  {
+   "start": 138.78,
+   "end": 140.78,
+   "text": "very performing"
+  },
+  {
+   "start": 140.9,
+   "end": 144.1,
+   "text": "Different types of surgeries including eye surgeries"
+  },
+  {
+   "start": 144.94,
+   "end": 146.94,
+   "text": "popular asthlesic surgeries"
+  },
+  {
+   "start": 147.94,
+   "end": 155.06,
+   "text": "Light is also present in the military field where certain laser weapons are being developed, etc. Etc. So basically"
+  },
+  {
+   "start": 155.62,
+   "end": 161.58,
+   "text": "We are born with a light and we are experiencing light on a daily basis from you know"
+  },
+  {
+   "start": 161.58,
+   "end": 163.26,
+   "text": "our first day of"
+  },
+  {
+   "start": 163.26,
+   "end": 166.46,
+   "text": "bird all the way until the end of our life and"
+  },
+  {
+   "start": 167.82,
+   "end": 170.02,
+   "text": "We are basically we cannot"
+  },
+  {
+   "start": 170.82,
+   "end": 174.9,
+   "text": "Imagine our life without you know having a having a light"
+  },
+  {
+   "start": 174.9,
+   "end": 179.3,
+   "text": "So obviously the importance of light is extremely important and that also"
+  },
+  {
+   "start": 180.18,
+   "end": 187.38,
+   "text": "Translates to importance of this specific field of photonics that we are talking about and that is the main topic of this course"
+  },
+  {
+   "start": 188.02,
+   "end": 192.3,
+   "text": "now that we defined what the photonics is the next question that"
+  },
+  {
+   "start": 193.3,
+   "end": 198.14,
+   "text": "We have to talk about is how to understand the light and how to describe light"
+  },
+  {
+   "start": 199.1,
+   "end": 201.1,
+   "text": "This question has been"
+  },
+  {
+   "start": 201.14,
+   "end": 202.86,
+   "text": "puzzling"
+  },
+  {
+   "start": 202.86,
+   "end": 206.3,
+   "text": "scientists and humankind for for many centuries"
+  },
+  {
+   "start": 207.62,
+   "end": 209.14,
+   "text": "today"
+  },
+  {
+   "start": 209.14,
+   "end": 216.46,
+   "text": "The definition that is broadly accepted is that the light is a form of electromagnetic energy that has dual properties"
+  },
+  {
+   "start": 217.22,
+   "end": 223.58,
+   "text": "There are certain phenomena of light that can be explained only if you look at the light as a as a wave"
+  },
+  {
+   "start": 224.18,
+   "end": 231.02,
+   "text": "while other phenomena that pertain to light can be explained only if you look at the light as a particle, so"
+  },
+  {
+   "start": 231.94,
+   "end": 234.7,
+   "text": "When we are dealing with the light we are dealing basically with a"
+  },
+  {
+   "start": 235.34,
+   "end": 240.34,
+   "text": "so-called dual nature of light where we are looking at the light as both the wave and the"
+  },
+  {
+   "start": 240.5,
+   "end": 244.06,
+   "text": "Particle and then also as a form of electromagnetic energy"
+  },
+  {
+   "start": 244.46,
+   "end": 250.14,
+   "text": "so for example when the light travels through space and passes through small openings or"
+  },
+  {
+   "start": 251.7,
+   "end": 256.5,
+   "text": "When it moves from one medium into another it is going to refract or bend"
+  },
+  {
+   "start": 257.38,
+   "end": 262.82,
+   "text": "It is also going to reflect. So it is going to behave like a wave that's made up of"
+  },
+  {
+   "start": 264.06,
+   "end": 272.1,
+   "text": "many connected so-called electric and magnetic fields that are vibrating and traveling together both in space and time on the other side if"
+  },
+  {
+   "start": 272.26,
+   "end": 274.26,
+   "text": "we are looking at"
+  },
+  {
+   "start": 274.38,
+   "end": 276.38,
+   "text": "some other phenomena such as"
+  },
+  {
+   "start": 277.02,
+   "end": 284.62,
+   "text": "Absorption of light as it moves or propagates through a specific material if we are talking about emission of light"
+  },
+  {
+   "start": 285.5,
+   "end": 290.74,
+   "text": "Those types of phenomena can be only explained if you're looking at the light as a particle"
+  },
+  {
+   "start": 291.3,
+   "end": 295.34,
+   "text": "In order to properly describe light we have to establish the language of light"
+  },
+  {
+   "start": 295.34,
+   "end": 299.76,
+   "text": "We have to establish the terminology that we are going to use in the field of photonics"
+  },
+  {
+   "start": 300.22,
+   "end": 302.62,
+   "text": "So the slide that is in front of you"
+  },
+  {
+   "start": 303.06,
+   "end": 308.9,
+   "text": "Shows different types of quantities that we are going to use that are in a sense a language of light"
+  },
+  {
+   "start": 309.14,
+   "end": 312.42,
+   "text": "So using these terms that are listed on this slide"
+  },
+  {
+   "start": 313.06,
+   "end": 318.62,
+   "text": "Is gonna help us better understand light and better describe its properties"
+  },
+  {
+   "start": 318.62,
+   "end": 324.18,
+   "text": "So we are going to talk and define each of these different quantities such as wavelength frequency"
+  },
+  {
+   "start": 324.62,
+   "end": 327.02,
+   "text": "period amplitude speed phase"
+  },
+  {
+   "start": 327.46,
+   "end": 332.26,
+   "text": "Finally coherence polarization and energy all these terms are extremely important"
+  },
+  {
+   "start": 332.26,
+   "end": 339.58,
+   "text": "We are trying to establish the foundation of knowledge in the area of photonics without fully understanding these terms"
+  },
+  {
+   "start": 339.58,
+   "end": 341.58,
+   "text": "It's going to be very difficult to"
+  },
+  {
+   "start": 341.74,
+   "end": 343.94,
+   "text": "be employed or to deal with"
+  },
+  {
+   "start": 344.94,
+   "end": 350.02,
+   "text": "the different phenomena that relate to the light and to basically"
+  },
+  {
+   "start": 350.9,
+   "end": 356.38,
+   "text": "Build the career as a as a photonic or fiber optical is a technician"
+  },
+  {
+   "start": 357.02,
+   "end": 364.26,
+   "text": "The first quantity that we want to define and describe is the term wavelength before we talk about wavelength"
+  },
+  {
+   "start": 364.26,
+   "end": 369.42,
+   "text": "However, we want to address the concept of a wave. We said that the light"
+  },
+  {
+   "start": 369.98,
+   "end": 375.38,
+   "text": "Has a dual nature. It behaves both as a wave and as a particle. So what do we mean by a wave?"
+  },
+  {
+   "start": 375.38,
+   "end": 379.54,
+   "text": "How would we describe in simple terms? What the wave is?"
+  },
+  {
+   "start": 381.02,
+   "end": 385.38,
+   "text": "There seems to be a certain analogy that can be established"
+  },
+  {
+   "start": 386.02,
+   "end": 389.06,
+   "text": "Between different types of waves that surround us"
+  },
+  {
+   "start": 389.06,
+   "end": 393.06,
+   "text": "So light as an electromagnetic wave is just one type of a wave"
+  },
+  {
+   "start": 393.06,
+   "end": 397.42,
+   "text": "We also are very familiar with sound sound waves"
+  },
+  {
+   "start": 397.54,
+   "end": 400.82,
+   "text": "And even if you're looking at the ocean, you can see ocean waves"
+  },
+  {
+   "start": 400.98,
+   "end": 407.82,
+   "text": "So how would we describe a wave behavior? So when you talk about the wave, we are talking about certain repetitive"
+  },
+  {
+   "start": 408.34,
+   "end": 414.22,
+   "text": "behavior of a specific quantity be it water or air molecules in the case of a sound wave and"
+  },
+  {
+   "start": 414.82,
+   "end": 419.74,
+   "text": "We see this vibration of or repetitive behavior where a specific quantity"
+  },
+  {
+   "start": 420.22,
+   "end": 422.42,
+   "text": "Is basically undergoing true?"
+  },
+  {
+   "start": 423.14,
+   "end": 426.26,
+   "text": "Maxima and minima to crests and valleys"
+  },
+  {
+   "start": 426.82,
+   "end": 433.14,
+   "text": "So for example, if you're looking at the ocean wave, you will see these crests and the well values that are basically"
+  },
+  {
+   "start": 435.58,
+   "end": 440.26,
+   "text": "Distributed along the space right so at different locations you have"
+  },
+  {
+   "start": 440.54,
+   "end": 445.26,
+   "text": "a crest of the wave at the other location you have a valley of the wave and"
+  },
+  {
+   "start": 445.9,
+   "end": 450.98,
+   "text": "They repeat so there is a repetitive behavior. There is this vibrating behavior"
+  },
+  {
+   "start": 451.5,
+   "end": 456.54,
+   "text": "That's being distributed across the space, but that's just one aspect of the wave"
+  },
+  {
+   "start": 456.54,
+   "end": 461.34,
+   "text": "You also have in order to have a wave you also have to have a repetitive behavior"
+  },
+  {
+   "start": 461.94,
+   "end": 463.74,
+   "text": "In the time domain"
+  },
+  {
+   "start": 463.74,
+   "end": 464.86,
+   "text": "so for example"
+  },
+  {
+   "start": 464.86,
+   "end": 470.7,
+   "text": "If you're looking at the ocean wave and let's say you are anchored in a in a in a boat on a wavy"
+  },
+  {
+   "start": 471.22,
+   "end": 475.66,
+   "text": "Surface of water surface. You're also going to be moving up and down"
+  },
+  {
+   "start": 476.02,
+   "end": 478.58,
+   "text": "So in a specific time distance"
+  },
+  {
+   "start": 478.58,
+   "end": 482.7,
+   "text": "You're gonna be up on the crest of the wave and after a certain time"
+  },
+  {
+   "start": 482.7,
+   "end": 487.3,
+   "text": "You're gonna go down into the valley and then again, you're gonna go up on the crest of a wave"
+  },
+  {
+   "start": 487.7,
+   "end": 490.34,
+   "text": "So this repetitive behavior"
+  },
+  {
+   "start": 491.14,
+   "end": 493.22,
+   "text": "Is now happening in time?"
+  },
+  {
+   "start": 493.7,
+   "end": 500.18,
+   "text": "So in order to have a wave you have to have repetitive behavior or vibration both in space and time"
+  },
+  {
+   "start": 500.54,
+   "end": 502.54,
+   "text": "those two aspects are of"
+  },
+  {
+   "start": 503.34,
+   "end": 508.5,
+   "text": "Vibration both in space and time is what characterizes any kind of wave"
+  },
+  {
+   "start": 509.18,
+   "end": 510.3,
+   "text": "now"
+  },
+  {
+   "start": 510.3,
+   "end": 517.02,
+   "text": "Based on what vibrates you can have an ocean wave if you have a water vibrate be vibrating"
+  },
+  {
+   "start": 517.02,
+   "end": 523.76,
+   "text": "if you have air molecules vibrating you have a sound wave and specifically in our case if you have a"
+  },
+  {
+   "start": 524.58,
+   "end": 531.38,
+   "text": "Electric field and magnetic field vibrating. We are talking about so-called electromagnetic wave or light"
+  },
+  {
+   "start": 532.54,
+   "end": 536.38,
+   "text": "So what you'll see on this slide is a geometrical representation of this"
+  },
+  {
+   "start": 538.46,
+   "end": 540.46,
+   "text": "repetitive"
+  },
+  {
+   "start": 540.74,
+   "end": 546.62,
+   "text": "Behavior or vibration across the distance so you can see that here along the x-axis"
+  },
+  {
+   "start": 547.38,
+   "end": 551.94,
+   "text": "We are basically representing the distance and we see that at this different points"
+  },
+  {
+   "start": 551.94,
+   "end": 557.5,
+   "text": "We have a crest of the wave and then we also have you have a value of the wave in other words"
+  },
+  {
+   "start": 557.5,
+   "end": 559.5,
+   "text": "We have a maxima and minima"
+  },
+  {
+   "start": 560.18,
+   "end": 562.94,
+   "text": "Wavelength is defined as the distance between the two"
+  },
+  {
+   "start": 563.82,
+   "end": 564.94,
+   "text": "neighboring"
+  },
+  {
+   "start": 564.94,
+   "end": 569.5,
+   "text": "Crests as it's represented on this specific picture"
+  },
+  {
+   "start": 569.5,
+   "end": 573.46,
+   "text": "so we are talking about once more the vertical distance that's measured from the"
+  },
+  {
+   "start": 574.1,
+   "end": 578.18,
+   "text": "Equilibrium position at any point along the wave very often"
+  },
+  {
+   "start": 578.18,
+   "end": 581.98,
+   "text": "We also define a wavelength as the distance over which the wave repeats itself"
+  },
+  {
+   "start": 582.14,
+   "end": 586.74,
+   "text": "So if you measure the distance between the two crests of the wave"
+  },
+  {
+   "start": 587.14,
+   "end": 589.14,
+   "text": "you are going to"
+  },
+  {
+   "start": 589.78,
+   "end": 592.54,
+   "text": "Get the wavelength. So wavelength is"
+  },
+  {
+   "start": 593.34,
+   "end": 599.74,
+   "text": "Going to be represented by the Greek letter lambda and it's going to be measured in units of length beat inches or"
+  },
+  {
+   "start": 600.3,
+   "end": 605.74,
+   "text": "Meters and then also some other units such as millimeters nanometers in etc"
+  },
+  {
+   "start": 606.26,
+   "end": 611.86,
+   "text": "On the other side if we switch to the time domain and look at this repetitive behavior or vibration"
+  },
+  {
+   "start": 612.5,
+   "end": 614.06,
+   "text": "over time"
+  },
+  {
+   "start": 614.1,
+   "end": 620.06,
+   "text": "Then we are getting a different type of a plot such as the one that's shown on this slide"
+  },
+  {
+   "start": 620.06,
+   "end": 623.02,
+   "text": "As you can see here along the x-axis, we don't have"
+  },
+  {
+   "start": 623.54,
+   "end": 624.94,
+   "text": "Distance anymore now"
+  },
+  {
+   "start": 624.94,
+   "end": 629.66,
+   "text": "We are talking about the time domain where along the x-axis at time is represented"
+  },
+  {
+   "start": 629.66,
+   "end": 633.22,
+   "text": "And as you can see on this slide on this plot"
+  },
+  {
+   "start": 633.22,
+   "end": 638.46,
+   "text": "You also have a repetitive behavior that's shown as this sinusoidal curve"
+  },
+  {
+   "start": 638.7,
+   "end": 640.74,
+   "text": "Where after some time, you know"
+  },
+  {
+   "start": 640.74,
+   "end": 645.74,
+   "text": "We are going up on the crest of the wave and then we are going down into the minimum of the wave after some time"
+  },
+  {
+   "start": 645.74,
+   "end": 652.66,
+   "text": "And then then again up to the to the to the peak of the wave and then down to the negative peak of the wave"
+  },
+  {
+   "start": 652.82,
+   "end": 656.94,
+   "text": "Etc. So it's just that in this case all the repetitive"
+  },
+  {
+   "start": 657.66,
+   "end": 659.66,
+   "text": "Vibrational behavior is"
+  },
+  {
+   "start": 659.82,
+   "end": 667.3,
+   "text": "Taking place in time. We are defining the period as the interval of time over which the wave repeats itself"
+  },
+  {
+   "start": 667.38,
+   "end": 671.3,
+   "text": "So if you want to measure that that the time from"
+  },
+  {
+   "start": 671.94,
+   "end": 673.7,
+   "text": "the one"
+  },
+  {
+   "start": 673.7,
+   "end": 680.3,
+   "text": "positive peak to the next positive peak you are going to get the period obviously period is a period is a"
+  },
+  {
+   "start": 680.86,
+   "end": 682.38,
+   "text": "is a"
+  },
+  {
+   "start": 682.38,
+   "end": 689.14,
+   "text": "Represented in terms of units of time seconds. We also define another important quantity so-called frequency"
+  },
+  {
+   "start": 689.22,
+   "end": 692.86,
+   "text": "That basically represents how many times how many times?"
+  },
+  {
+   "start": 693.62,
+   "end": 700.18,
+   "text": "You are undergoing through the positive peak or the crest of the wave in a in a one second"
+  },
+  {
+   "start": 700.18,
+   "end": 706.34,
+   "text": "So once more frequency is defined as how many times or the number of cycles of the wave in one second"
+  },
+  {
+   "start": 706.46,
+   "end": 708.78,
+   "text": "We are going to use the Greek letter nu"
+  },
+  {
+   "start": 709.42,
+   "end": 714.7,
+   "text": "That's kind of like this this a curvy letter B that we are going to use that we are going to use to"
+  },
+  {
+   "start": 714.86,
+   "end": 721.3,
+   "text": "To describe the frequency and finally we also have a speed of a wave or in this case speed of light"
+  },
+  {
+   "start": 721.86,
+   "end": 726.46,
+   "text": "That is equal to three times ten to the eight meters per second in vacuum"
+  },
+  {
+   "start": 727.06,
+   "end": 732.66,
+   "text": "so the speed of light in vacuum is a constant and there is also a certain correlation that"
+  },
+  {
+   "start": 733.54,
+   "end": 738.3,
+   "text": "Exists between the speed of light and its wavelength and its frequency"
+  },
+  {
+   "start": 738.38,
+   "end": 741.78,
+   "text": "So there is a three formulas that are shown here on the right hand side"
+  },
+  {
+   "start": 742.06,
+   "end": 745.94,
+   "text": "That correlate these three important quantities that pertain to light"
+  },
+  {
+   "start": 746.1,
+   "end": 753.14,
+   "text": "So the speed of light the wavelength and the frequency are described by their equation C is equal to lambda times nu"
+  },
+  {
+   "start": 753.14,
+   "end": 756.78,
+   "text": "And then also its durations that are also shown on this slide"
+  },
+  {
+   "start": 757.26,
+   "end": 762.58,
+   "text": "So to summarize a light represents a form of electromagnetic energy that has a wavy behavior"
+  },
+  {
+   "start": 763.14,
+   "end": 770.14,
+   "text": "We are using the term electromagnetic wave, so we are talking about the disturbance that takes place both in space and in time"
+  },
+  {
+   "start": 770.9,
+   "end": 772.06,
+   "text": "and"
+  },
+  {
+   "start": 772.06,
+   "end": 780.34,
+   "text": "Through this form of electromagnetic energy that has a wave behavior. We also have a transfer of energy or propagation of energy"
+  },
+  {
+   "start": 781.34,
+   "end": 786.26,
+   "text": "We are talking about the disturbance in space that's been represented by the upper plot"
+  },
+  {
+   "start": 786.66,
+   "end": 791.94,
+   "text": "Thus we have a distance along the x-axis and on the bottom plot we"
+  },
+  {
+   "start": 792.46,
+   "end": 797.74,
+   "text": "Are representing disturbance in time thus we have a time along the x-axis"
+  },
+  {
+   "start": 798.42,
+   "end": 800.42,
+   "text": "another important quantity to be"
+  },
+  {
+   "start": 801.1,
+   "end": 804.34,
+   "text": "Defined is a is a amplitude amplitude"
+  },
+  {
+   "start": 805.1,
+   "end": 809.26,
+   "text": "represents the distance from the reference or zero zero line"
+  },
+  {
+   "start": 809.7,
+   "end": 816.9,
+   "text": "To the to the positive peak of of the wave so the light represents a specific type of electromagnetic wave"
+  },
+  {
+   "start": 816.9,
+   "end": 821.3,
+   "text": "That's visible to our eye the light waves travel in the straight lines"
+  },
+  {
+   "start": 822.14,
+   "end": 828.46,
+   "text": "Similar to other types of electromagnetic waves including a so-called microwave electromagnetic waves"
+  },
+  {
+   "start": 829.1,
+   "end": 832.86,
+   "text": "Waves at slightly lower frequencies compared to the light"
+  },
+  {
+   "start": 833.3,
+   "end": 840.26,
+   "text": "The speed of light is approximately three times ten to the eight meters per second or three hundred million meter per second"
+  },
+  {
+   "start": 840.58,
+   "end": 844.9,
+   "text": "Or about hundred eighty six thousand miles per second in free space"
+  },
+  {
+   "start": 844.9,
+   "end": 850.22,
+   "text": "So we are going to see that speed of light is going to change in different media"
+  },
+  {
+   "start": 850.82,
+   "end": 853.9,
+   "text": "For now, we are talking about air or vacuum"
+  },
+  {
+   "start": 854.14,
+   "end": 861.38,
+   "text": "So again, the speed of light rep is a constant that's equal to three hundred million meters per second in air or vacuum"
+  },
+  {
+   "start": 861.94,
+   "end": 867.98,
+   "text": "This slide briefly presents the units that are going to be used in photonics for some of the quantities that we"
+  },
+  {
+   "start": 868.82,
+   "end": 872.22,
+   "text": "Previously introduced so for wavelength. We are going to use"
+  },
+  {
+   "start": 873.02,
+   "end": 875.02,
+   "text": "units of length"
+  },
+  {
+   "start": 875.18,
+   "end": 877.78,
+   "text": "specifically nanometers and micrometers"
+  },
+  {
+   "start": 878.54,
+   "end": 881.42,
+   "text": "For the unit of frequency. We are going to use"
+  },
+  {
+   "start": 882.26,
+   "end": 888.86,
+   "text": "Megahertz gigahertz and terahertz and finally for a period we are going to use units of time"
+  },
+  {
+   "start": 890.1,
+   "end": 897.9,
+   "text": "Specifically microseconds and nanoseconds the table that you see on this slide also briefly presents"
+  },
+  {
+   "start": 898.46,
+   "end": 901.02,
+   "text": "Some of our different prefixes that we are using"
+  },
+  {
+   "start": 901.66,
+   "end": 908.38,
+   "text": "When we are expressing different different units that are used to measure quantities of photonics"
+  },
+  {
+   "start": 909.18,
+   "end": 912.14,
+   "text": "Now that we introduce the concept of a wave"
+  },
+  {
+   "start": 912.38,
+   "end": 920.46,
+   "text": "We also want to talk a little bit about electromagnetic waves light is a phenomenon. That's related to the electromagnetic wave behavior"
+  },
+  {
+   "start": 921.02,
+   "end": 924.82,
+   "text": "So we would want to look a little bit into the nature of electromagnetic waves"
+  },
+  {
+   "start": 924.86,
+   "end": 928.42,
+   "text": "So when we are talking about light or in general electromagnetic wave"
+  },
+  {
+   "start": 928.82,
+   "end": 934.62,
+   "text": "What basically vibrates in this type of a wave behavior are two quantities electric field and"
+  },
+  {
+   "start": 935.38,
+   "end": 937.06,
+   "text": "magnetic field"
+  },
+  {
+   "start": 937.06,
+   "end": 939.06,
+   "text": "these two terms are"
+  },
+  {
+   "start": 939.22,
+   "end": 943.62,
+   "text": "To a certain extent abstract because they cannot be measured directly"
+  },
+  {
+   "start": 944.3,
+   "end": 951.74,
+   "text": "But there is a correlation. There is direct correlation between two other quantities that we are using in a in a electrical engineering"
+  },
+  {
+   "start": 952.66,
+   "end": 954.66,
+   "text": "Or in general in electricity"
+  },
+  {
+   "start": 954.82,
+   "end": 962.06,
+   "text": "Namely electric field is directly related to the voltage while magnetic field is directly related to the current"
+  },
+  {
+   "start": 962.06,
+   "end": 963.94,
+   "text": "So there are certain"
+  },
+  {
+   "start": 963.94,
+   "end": 965.94,
+   "text": "formulas of if you wish"
+  },
+  {
+   "start": 966.26,
+   "end": 973.94,
+   "text": "So called Maxwell's equations that are relating the voltage to the electric field. There's a law called Gauss law"
+  },
+  {
+   "start": 974.42,
+   "end": 976.42,
+   "text": "that basically"
+  },
+  {
+   "start": 977.06,
+   "end": 978.82,
+   "text": "Correlates"
+  },
+  {
+   "start": 978.82,
+   "end": 988.02,
+   "text": "or establishes direct proportional relationship between the voltage on one side and the electric field on the other side and then similar applies for the"
+  },
+  {
+   "start": 988.94,
+   "end": 992.86,
+   "text": "quantity of current and magnetic field so to"
+  },
+  {
+   "start": 993.26,
+   "end": 997.9,
+   "text": "what it is what's important to remember here is that in the case of electromagnetic wave is"
+  },
+  {
+   "start": 998.54,
+   "end": 1002.9,
+   "text": "the quantities of electric field and magnetic field that vibrate and"
+  },
+  {
+   "start": 1004.46,
+   "end": 1005.74,
+   "text": "Show the"
+  },
+  {
+   "start": 1005.74,
+   "end": 1014.02,
+   "text": "Wave behavior and that the electric field can be directly related to the voltage while the magnetic field can be directly related to the current"
+  },
+  {
+   "start": 1014.9,
+   "end": 1016.82,
+   "text": "In the case of electromagnetic waves"
+  },
+  {
+   "start": 1016.98,
+   "end": 1023.02,
+   "text": "We are dealing with the transverse wave behavior in other words the electric field and magnetic field are"
+  },
+  {
+   "start": 1023.74,
+   "end": 1029.94,
+   "text": "orthogonal orthogonal to each other in other words the plane in which electric field vibrates is orthogonal or"
+  },
+  {
+   "start": 1030.74,
+   "end": 1035.3,
+   "text": "perpendicular to the field in which magnetic field field vibrates and then also"
+  },
+  {
+   "start": 1035.94,
+   "end": 1039.22,
+   "text": "the vibration of electric field and magnetic field is"
+  },
+  {
+   "start": 1040.26,
+   "end": 1046.54,
+   "text": "Perpendicular to the to the direction of the propagation. These are important properties of so-called transverse waves"
+  },
+  {
+   "start": 1046.98,
+   "end": 1050.82,
+   "text": "And electromagnetic waves are a type of a transverse wave"
+  },
+  {
+   "start": 1051.5,
+   "end": 1054.22,
+   "text": "what you see on this slide is a demonstration of"
+  },
+  {
+   "start": 1055.46,
+   "end": 1061.86,
+   "text": "Transverse wave behavior in the case of electric and magnetic field or electromagnetic waves, so we see"
+  },
+  {
+   "start": 1062.58,
+   "end": 1067.06,
+   "text": "Two planes a plane in which we see vibration of the yellow"
+  },
+  {
+   "start": 1067.66,
+   "end": 1073.46,
+   "text": "Yellow arrows that would represent an electric field and then also in horizontal plane"
+  },
+  {
+   "start": 1073.74,
+   "end": 1078.1,
+   "text": "You will see the vibration of the blue arrows that represent the magnetic field"
+  },
+  {
+   "start": 1078.3,
+   "end": 1084.62,
+   "text": "so in a in a in a xy plane, we have a vibration of the electric field while in"
+  },
+  {
+   "start": 1085.94,
+   "end": 1093.18,
+   "text": "Xz plane we have a vibration of the of the magnetic field and then the propagation is along the x-axis in other words the"
+  },
+  {
+   "start": 1093.58,
+   "end": 1097.98,
+   "text": "vibration of electric field magnetic field and direction of propagation are"
+  },
+  {
+   "start": 1098.58,
+   "end": 1104.06,
+   "text": "perpendicular to each other and that's as already mentioned is an important characteristic of"
+  },
+  {
+   "start": 1104.46,
+   "end": 1107.9,
+   "text": "Transverse wave now that we introduced the electromagnetic waves"
+  },
+  {
+   "start": 1108.5,
+   "end": 1115.16,
+   "text": "We also would like to take a step back and look at the entire electromagnetic wave spectrum"
+  },
+  {
+   "start": 1115.66,
+   "end": 1122.94,
+   "text": "As already mentioned light is a type of an electromagnetic wave. That's visible to the human eye"
+  },
+  {
+   "start": 1123.98,
+   "end": 1127.5,
+   "text": "But that's not the only electromagnetic wave that's present in the nature"
+  },
+  {
+   "start": 1128.38,
+   "end": 1130.38,
+   "text": "electromagnetic waves are"
+  },
+  {
+   "start": 1130.38,
+   "end": 1132.62,
+   "text": "spending the whole range of frequencies from"
+  },
+  {
+   "start": 1133.74,
+   "end": 1135.74,
+   "text": "low frequencies of"
+  },
+  {
+   "start": 1135.9,
+   "end": 1139.74,
+   "text": "60 Hertz where we have our power grid and then"
+  },
+  {
+   "start": 1140.14,
+   "end": 1146.42,
+   "text": "If you move frequencies to the kilo Hertz and megahertz range, we have radio and TV broadcast"
+  },
+  {
+   "start": 1147.14,
+   "end": 1150.1,
+   "text": "In few are going to 1 gigahertz"
+  },
+  {
+   "start": 1150.62,
+   "end": 1153.3,
+   "text": "Range and above up to 300 gigahertz"
+  },
+  {
+   "start": 1153.3,
+   "end": 1158.22,
+   "text": "We are talking about the microwave spectrum where we have a whole bunch of applications such as radars"
+  },
+  {
+   "start": 1159.26,
+   "end": 1162.34,
+   "text": "satellite communications, wireless communications, etc"
+  },
+  {
+   "start": 1162.34,
+   "end": 1169.56,
+   "text": "And then in the range of a terahertz, we have optical spectrum that consists of infrared"
+  },
+  {
+   "start": 1170.82,
+   "end": 1176.78,
+   "text": "Spectrum visible light spectrum and ultraviolet spectrum. That's of all these three that"
+  },
+  {
+   "start": 1177.34,
+   "end": 1183.06,
+   "text": "Make optical spectrum are of special interest for us in the in the photonics"
+  },
+  {
+   "start": 1183.38,
+   "end": 1189.46,
+   "text": "And finally if you go even higher in frequency, you're entering the range of extra rays and gamma rays and cosmic rays"
+  },
+  {
+   "start": 1189.86,
+   "end": 1196.9,
+   "text": "So this is a nice overview of the entire electromagnetic wave spectrum in photonics as I said"
+  },
+  {
+   "start": 1197.22,
+   "end": 1199.22,
+   "text": "We are analyzing specific"
+  },
+  {
+   "start": 1199.84,
+   "end": 1204.9,
+   "text": "Sub-region of so-called optical spectrum that consists of infrared"
+  },
+  {
+   "start": 1205.94,
+   "end": 1212.02,
+   "text": "Spectrum visible spectrum and finally ultraviolet spectrum. This slide presents just a specific"
+  },
+  {
+   "start": 1212.98,
+   "end": 1219.7,
+   "text": "Subsection of the entire electro electromagnetic wave spectrum. Namely we are talking about the visible light"
+  },
+  {
+   "start": 1220.06,
+   "end": 1225.34,
+   "text": "So as already mentioned light is a form of electromagnetic"
+  },
+  {
+   "start": 1226.26,
+   "end": 1228.1,
+   "text": "radiation"
+  },
+  {
+   "start": 1228.1,
+   "end": 1229.86,
+   "text": "and"
+  },
+  {
+   "start": 1229.86,
+   "end": 1236.3,
+   "text": "It's basically consists of a whole bunch of frequencies that are represented as different colors"
+  },
+  {
+   "start": 1236.78,
+   "end": 1241.9,
+   "text": "Ranging from ultraviolet on one side and infrared on the other side"
+  },
+  {
+   "start": 1242.62,
+   "end": 1246.82,
+   "text": "So the visible spectrum is basically starting with a with the purple or violet color"
+  },
+  {
+   "start": 1247.78,
+   "end": 1254.78,
+   "text": "Whose wavelengths are of about 400 nanometers and going all the way up to 700 nanometers"
+  },
+  {
+   "start": 1254.78,
+   "end": 1257.88,
+   "text": "Where we are in the range of red colors"
+  },
+  {
+   "start": 1258.42,
+   "end": 1264.86,
+   "text": "So in the case of a light we are dealing with the waves that have a very high frequencies or very small wavelengths"
+  },
+  {
+   "start": 1264.86,
+   "end": 1267.66,
+   "text": "So we are considering light waves as being a very short"
+  },
+  {
+   "start": 1268.46,
+   "end": 1270.46,
+   "text": "type of a waves"
+  },
+  {
+   "start": 1270.46,
+   "end": 1275.76,
+   "text": "Their wavelength is usually expressed in terms of nanometers or micrometers"
+  },
+  {
+   "start": 1276.86,
+   "end": 1280.22,
+   "text": "Specifically for the visible light. We are dealing with the range of"
+  },
+  {
+   "start": 1281.18,
+   "end": 1284.54,
+   "text": "400 nanometers all the way up to 700 nanometers"
+  },
+  {
+   "start": 1285.16,
+   "end": 1292.22,
+   "text": "Representing all the all the colors of the visible spectrum very often in photonics. We are also going to use the"
+  },
+  {
+   "start": 1293.02,
+   "end": 1295.74,
+   "text": "Different unit of length so called angstrom"
+  },
+  {
+   "start": 1296.62,
+   "end": 1300.74,
+   "text": "Where angstrom is equal to 10 to the negative 10 meters"
+  },
+  {
+   "start": 1300.74,
+   "end": 1308.34,
+   "text": "So a relatively small unit that is also found its application in a in a field of photonics"
+  },
+  {
+   "start": 1308.86,
+   "end": 1313.74,
+   "text": "This light presents the visible spectrum in terms of the frequency"
+  },
+  {
+   "start": 1314.34,
+   "end": 1318.82,
+   "text": "As it can be observed. We are dealing with very high frequencies of"
+  },
+  {
+   "start": 1319.54,
+   "end": 1321.54,
+   "text": "You know in a terahertz range"
+  },
+  {
+   "start": 1321.7,
+   "end": 1329.22,
+   "text": "the human eye responds to the very narrow visible spectrum that is expecting spending the frequencies from"
+  },
+  {
+   "start": 1329.86,
+   "end": 1333.86,
+   "text": "4.3 to about seven and a half times 10 to the 14 Hertz"
+  },
+  {
+   "start": 1334.06,
+   "end": 1339.92,
+   "text": "So this definitely is a terahertz range or very very high frequencies that represent"
+  },
+  {
+   "start": 1340.94,
+   "end": 1347.26,
+   "text": "electromagnetic waves that are visible to the human eye an important property of light propagation or"
+  },
+  {
+   "start": 1347.5,
+   "end": 1349.5,
+   "text": "electromagnetic wave propagation is"
+  },
+  {
+   "start": 1350.22,
+   "end": 1352.14,
+   "text": "the fact that"
+  },
+  {
+   "start": 1352.14,
+   "end": 1354.14,
+   "text": "electromagnetic waves or in this case"
+  },
+  {
+   "start": 1354.66,
+   "end": 1359.9,
+   "text": "Light is changing its speed of propagation if it's moving through different media"
+  },
+  {
+   "start": 1360.46,
+   "end": 1363.34,
+   "text": "so the speed of light as already"
+  },
+  {
+   "start": 1365.22,
+   "end": 1371.18,
+   "text": "Defined is equal to 3 times 10 to the 8 meters per second and this constant is"
+  },
+  {
+   "start": 1372.14,
+   "end": 1377.02,
+   "text": "Is can be applied only to the vacuum or to certain extent to air?"
+  },
+  {
+   "start": 1377.42,
+   "end": 1382.42,
+   "text": "If light propagates through a different media like water or glass"
+  },
+  {
+   "start": 1383.14,
+   "end": 1386.94,
+   "text": "the speed of light is going to be significantly reduced and"
+  },
+  {
+   "start": 1387.3,
+   "end": 1394.66,
+   "text": "The way how we are quantifying this behavior of light is through a quantity called index of refraction"
+  },
+  {
+   "start": 1395.5,
+   "end": 1397.5,
+   "text": "index of refraction is"
+  },
+  {
+   "start": 1398.02,
+   "end": 1400.02,
+   "text": "a unit less"
+  },
+  {
+   "start": 1400.02,
+   "end": 1403.46,
+   "text": "quantity that is basically telling us by"
+  },
+  {
+   "start": 1403.98,
+   "end": 1411.34,
+   "text": "How much is speed of light reduced in a specific medium so different media have different indexes of refraction?"
+  },
+  {
+   "start": 1411.74,
+   "end": 1413.06,
+   "text": "and"
+  },
+  {
+   "start": 1413.06,
+   "end": 1414.18,
+   "text": "again"
+  },
+  {
+   "start": 1414.18,
+   "end": 1415.86,
+   "text": "the"
+  },
+  {
+   "start": 1415.86,
+   "end": 1419.22,
+   "text": "index of refraction is a measure of"
+  },
+  {
+   "start": 1420.7,
+   "end": 1424.18,
+   "text": "How much is the speed of light reduced in that specific medium?"
+  },
+  {
+   "start": 1424.3,
+   "end": 1429.46,
+   "text": "It also turns out that the wavelength of light is going to change in a similar wave as the speed"
+  },
+  {
+   "start": 1429.58,
+   "end": 1434.94,
+   "text": "In other words the index of refraction is also going to be the factor that is going to tell us"
+  },
+  {
+   "start": 1435.3,
+   "end": 1442.26,
+   "text": "How much the wavelength of light is decreased in a specific in a specific medium so as this light presents?"
+  },
+  {
+   "start": 1442.26,
+   "end": 1445.54,
+   "text": "we on the bottom plot we are seeing the"
+  },
+  {
+   "start": 1446.58,
+   "end": 1448.58,
+   "text": "light or electromagnetic wave"
+  },
+  {
+   "start": 1449.3,
+   "end": 1455.04,
+   "text": "propagating through the air and we can see that when the light wave enters"
+  },
+  {
+   "start": 1455.52,
+   "end": 1459.0,
+   "text": "Different medium with the index of refraction and equal to 1.5"
+  },
+  {
+   "start": 1459.52,
+   "end": 1466.68,
+   "text": "You see the wavelength of the light has been decreased and then also the speed of light is going to be reduced"
+  },
+  {
+   "start": 1467.0,
+   "end": 1473.08,
+   "text": "so the fact that the index of refraction is equal to 1.5 means that the"
+  },
+  {
+   "start": 1473.68,
+   "end": 1475.88,
+   "text": "wavelength of light is going to be reduced by"
+  },
+  {
+   "start": 1477.08,
+   "end": 1478.96,
+   "text": "1.5 times"
+  },
+  {
+   "start": 1478.96,
+   "end": 1483.8,
+   "text": "Compared to the wavelength of light in the air and similar applies to the speed of light"
+  },
+  {
+   "start": 1483.8,
+   "end": 1489.76,
+   "text": "So in other words the speed of light in the medium whose index of refraction is equal to 1.5"
+  },
+  {
+   "start": 1489.76,
+   "end": 1495.36,
+   "text": "Is going to be reduced by 5.1.5 times compared to the speed of light in air"
+  },
+  {
+   "start": 1496.24,
+   "end": 1499.4,
+   "text": "So to summarize the index of refraction of a material"
+  },
+  {
+   "start": 1500.4,
+   "end": 1508.2,
+   "text": "Represents the ratio of speed of light in a vacuum compared to the speed of light in that material the index of refraction is always"
+  },
+  {
+   "start": 1508.8,
+   "end": 1514.4,
+   "text": "equal or greater than 1 it cannot be lower than 1 so index of refraction equal to 1"
+  },
+  {
+   "start": 1514.72,
+   "end": 1517.24,
+   "text": "means that we are dealing with a vacuum and"
+  },
+  {
+   "start": 1517.88,
+   "end": 1521.52,
+   "text": "For other materials index of refraction is going to be greater than 1"
+  },
+  {
+   "start": 1521.68,
+   "end": 1526.96,
+   "text": "It's also important to note that the frequency of light does not change"
+  },
+  {
+   "start": 1527.28,
+   "end": 1533.36,
+   "text": "When the light enters a different medium so the only two quantities that are changing their value"
+  },
+  {
+   "start": 1533.44,
+   "end": 1538.44,
+   "text": "As the light propagates from one medium into the other are the wavelength and the speed of light"
+  },
+  {
+   "start": 1538.64,
+   "end": 1545.36,
+   "text": "So once more the frequency of the light wave does not change as the light moves from one medium into the other"
+  }
+ ]
+}

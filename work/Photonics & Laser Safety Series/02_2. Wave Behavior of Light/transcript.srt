@@ -1,0 +1,1099 @@
+1
+00:00:09,680 --> 00:00:15,440
+Hello, everyone. We are continuing with our introduction to photonics video series with
+
+2
+00:00:15,440 --> 00:00:21,920
+lecture number two. Lecture number two deals with the wave behavior of light. We've seen
+
+3
+00:00:21,920 --> 00:00:28,720
+in the first lecture that light represents an electromagnetic wave or a form of electromagnetic
+
+4
+00:00:28,720 --> 00:00:35,600
+energy that has both wave and particle properties. In this lecture, we are going one step further
+
+5
+00:00:35,600 --> 00:00:41,680
+and analyzing some of the specific phenomena that can be explained only if you're looking at the
+
+6
+00:00:41,680 --> 00:00:48,880
+light as a wave. So we are going to be analyzing a few phenomena related to the light, specifically
+
+7
+00:00:48,880 --> 00:00:57,520
+reflection, refraction, and then also we are going to establish a few laws, specifically law of
+
+8
+00:00:57,520 --> 00:01:04,800
+reflection and so-called Snell's law of refraction that will be used to quantify the behavior of
+
+9
+00:01:05,360 --> 00:01:13,360
+light as a wave in the case of behavior when the light hits another medium or propagates from one
+
+10
+00:01:13,360 --> 00:01:18,320
+medium into the other medium, etc. And finally, at the end, we're also going to talk a little bit
+
+11
+00:01:18,320 --> 00:01:23,680
+about the diffraction and interference, which are also the phenomena that pertain to light
+
+12
+00:01:24,880 --> 00:01:30,560
+wave behavior. With this slide, we're introducing another quantity that is related to the wave
+
+13
+00:01:30,560 --> 00:01:40,080
+behavior, so-called phase. As already mentioned, waves exhibit a certain wave behavior that can
+
+14
+00:01:40,080 --> 00:01:49,040
+be represented by the sinusoidal curve as shown on the plot on this slide. And that wave behavior
+
+15
+00:01:49,040 --> 00:01:56,160
+or that sinusoidal behavior is both in a time domain and in a space domain. In other words,
+
+16
+00:01:56,240 --> 00:02:03,680
+we have a vibration both in time and space. Another way to represent the wave behavior is
+
+17
+00:02:03,680 --> 00:02:12,240
+in terms of so-called phase where on the x-axis instead of units of length or units of time,
+
+18
+00:02:12,240 --> 00:02:18,160
+we are putting the units of angles and we see that the total period
+
+19
+00:02:19,120 --> 00:02:32,320
+is equal to be correlated to the phase of 360 degrees. So by doing this type of correlation,
+
+20
+00:02:32,320 --> 00:02:39,200
+we can remove the dependence of the x-axis from time and space and look at everything in terms
+
+21
+00:02:39,200 --> 00:02:46,720
+of angles, which greatly simplifies the whole mathematical analysis of these types of
+
+22
+00:02:46,720 --> 00:02:57,120
+behaviors that can be described by sinusoidal curves. So we can define the phase of a wave as
+
+23
+00:02:58,640 --> 00:03:04,960
+the angular displacement of a specific point on the sinusoidal curve from the last positive
+
+24
+00:03:04,960 --> 00:03:11,280
+zero crossing of the wave, where a positive zero crossing occurs at those zero displacement points
+
+25
+00:03:11,280 --> 00:03:18,000
+where the new displacement is about to become positive. All these are the properties of
+
+26
+00:03:18,000 --> 00:03:25,520
+sinusoidal functions that can further be elaborated to the concepts of trigonometry
+
+27
+00:03:25,520 --> 00:03:33,680
+that's going to go beyond this class. Now why is the phase as a quantity important for us?
+
+28
+00:03:34,240 --> 00:03:40,000
+If you compare the two waves that you are seeing on this slide, you can see that both of these
+
+29
+00:03:40,000 --> 00:03:52,400
+waves exhibit a very similar pattern in the sense that their wavelength or frequency are
+
+30
+00:03:52,400 --> 00:04:01,600
+the same. In other words, the distance between the two peaks on these two curves is equal. In other
+
+31
+00:04:01,600 --> 00:04:06,480
+words, since we are dealing here with a distance along the x-axis, we are dealing with the
+
+32
+00:04:06,480 --> 00:04:12,000
+wavelength. In other words, the wavelength of the wave 1 and the wavelength of the wave 2 are the
+
+33
+00:04:12,000 --> 00:04:20,240
+same. However, you can also observe that the two peaks of the two waves are not perfectly
+
+34
+00:04:20,240 --> 00:04:26,320
+synchronized. In other words, they are not occurring at the same location. So if you
+
+35
+00:04:26,320 --> 00:04:31,360
+look at the peak of the wave 1, you can see that the peak of the wave 1 is at a different
+
+36
+00:04:31,360 --> 00:04:37,280
+location than the peak of the wave 2. In other words, we are talking about so-called phase
+
+37
+00:04:38,000 --> 00:04:44,400
+difference that in this case here is equal to 90 degrees that is going to result in a certain
+
+38
+00:04:45,200 --> 00:04:51,520
+interference behavior between these two waves if they are occurring in the same space.
+
+39
+00:04:52,880 --> 00:05:00,640
+We would use the term coherent to describe multiple light waves that are all in phase or in step
+
+40
+00:05:00,640 --> 00:05:08,000
+with one another. So the coherent behavior of multiple light waves is shown on a plot on
+
+41
+00:05:08,000 --> 00:05:16,640
+this slide. As you can see, the peaks of all these different six waves are basically occurring
+
+42
+00:05:18,320 --> 00:05:24,160
+at the same location if you are dealing with the sinusoidal curves that are represented as a
+
+43
+00:05:24,160 --> 00:05:31,680
+function of a space or a distance. So coherent light is made up of waves that each have the
+
+44
+00:05:31,680 --> 00:05:38,800
+same wavelength and that are all in phase and added together. These coherent waves would produce
+
+45
+00:05:39,600 --> 00:05:45,440
+an overall wave of a much greater amplitude with very, very high peaks and lower valleys.
+
+46
+00:05:45,440 --> 00:05:49,760
+So in other words, they are perfectly synchronized. It's almost like we are creating a
+
+47
+00:05:49,760 --> 00:05:56,160
+perfect storm that consists of all these different waves. We will see that coherent light
+
+48
+00:05:56,160 --> 00:06:04,320
+is actually a behavior of light that's coming out of the lasers and it's directly related to the
+
+49
+00:06:04,320 --> 00:06:12,560
+power of a light. In other words, if you want to establish a very, very high power of a specific
+
+50
+00:06:13,280 --> 00:06:20,240
+light source, you would want to create a coherent type of a light, which in this case,
+
+51
+00:06:20,240 --> 00:06:27,280
+as mentioned, is going to be most probably a laser. As opposed to the coherent light, we also
+
+52
+00:06:27,280 --> 00:06:33,440
+may have an incoherent light. So in the case of incoherent waves, these waves, they do not
+
+53
+00:06:33,440 --> 00:06:41,680
+possess identical phase angles along the vertical line. We can see that in this example, we are
+
+54
+00:06:41,680 --> 00:06:50,400
+having four waves that have different wavelengths or frequencies and if these waves are added
+
+55
+00:06:50,400 --> 00:06:55,840
+together, they will produce an overall wave of smaller displacements. So we may have different
+
+56
+00:06:55,840 --> 00:07:04,800
+types of interference here that can be either constructive or destructive based on how these
+
+57
+00:07:04,800 --> 00:07:12,080
+waves are lined up. So in this case, again, we are dealing about an incoherent light that
+
+58
+00:07:12,080 --> 00:07:17,440
+is a representation of light that's coming from different types of non-laser sources like
+
+59
+00:07:17,440 --> 00:07:22,160
+arc lamps, incandescent bulbs and also the light that's coming from the sun.
+
+60
+00:07:23,360 --> 00:07:31,680
+So in general, incoherent light is not having a strong power or it's having a significantly less
+
+61
+00:07:32,640 --> 00:07:39,360
+power than the coherent light that's produced from laser sources. So to summarize,
+
+62
+00:07:40,640 --> 00:07:50,080
+the light based on its phase may be either coherent, where the waves are synchronized
+
+63
+00:07:50,080 --> 00:07:56,720
+from the phase perspective and in order to have a coherent light, multiple waves would have to have
+
+64
+00:07:56,800 --> 00:08:02,880
+the same wavelength. As opposed to the coherent light, we may also have an incoherent light where
+
+65
+00:08:03,520 --> 00:08:11,520
+the waves are not phase synchronized and most of the time they also would have different wavelengths.
+
+66
+00:08:11,520 --> 00:08:20,240
+Incoherent light in general does not have a strong effect as the coherent light. In other words,
+
+67
+00:08:20,240 --> 00:08:26,000
+the power of the coherent light is much higher than the power that can be achieved by the
+
+68
+00:08:26,080 --> 00:08:34,400
+incoherent light. An important property of wave behavior is an ability to reflect
+
+69
+00:08:35,200 --> 00:08:42,240
+from a surface between the two media. So here we are dealing with an incident light ray
+
+70
+00:08:42,800 --> 00:08:51,840
+that is hitting a certain surface between the two media and what's going to happen
+
+71
+00:08:52,400 --> 00:08:57,440
+when the light hits that medium is explained through the concept of so-called reflection.
+
+72
+00:08:57,440 --> 00:09:03,520
+So we are going to have a reflection of light. The question is in what direction is light is going
+
+73
+00:09:03,520 --> 00:09:10,720
+to be reflected. It can be quantified through so-called law of reflection. So how we are
+
+74
+00:09:10,720 --> 00:09:16,240
+establishing the role of reflection, we are looking at the point of reflection of the light.
+
+75
+00:09:16,240 --> 00:09:21,600
+At that point of reflection, we are establishing the axis that is perpendicular to the surface
+
+76
+00:09:21,600 --> 00:09:28,240
+between the two media. So we have one medium from which the light originates that's represented
+
+77
+00:09:28,240 --> 00:09:35,120
+here as an incident ray and then down below this surface is a different medium. So when the light
+
+78
+00:09:35,120 --> 00:09:42,000
+hits this surface between the media above and the media below, it is going to reflect at that
+
+79
+00:09:42,000 --> 00:09:48,720
+point of contact or point of reflection. We are going to establish the axis or line that's
+
+80
+00:09:48,720 --> 00:09:53,280
+perpendicular to the surface between the two media and then we are going to be measuring two
+
+81
+00:09:53,280 --> 00:10:02,080
+angles. One angle is so-called incident angle represented here as angle A and then we are also
+
+82
+00:10:02,080 --> 00:10:07,600
+going to have a reflected angle which is basically the angle that the reflected light ray is going
+
+83
+00:10:07,600 --> 00:10:14,240
+to establish relative to the axis, to the normal axis, that is going to be the angle B. It turns
+
+84
+00:10:14,240 --> 00:10:20,320
+out that according to the law of reflection, these two angles are equal. In other words, the incident
+
+85
+00:10:20,320 --> 00:10:31,280
+angle A is equal to the incident angle B. So once more, the law of reflection states that the incident
+
+86
+00:10:31,280 --> 00:10:37,840
+angle and the reflected angle are equal to each other where incident angle is established by
+
+87
+00:10:38,800 --> 00:10:46,480
+the incident light ray and the axis normal to the surface of the reflection while the reflected
+
+88
+00:10:46,480 --> 00:10:53,120
+angle is established as an angle between the reflected light ray and normal axis.
+
+89
+00:10:54,560 --> 00:11:01,760
+It's also important to mention that incident light ray, reflected light ray and normal or the
+
+90
+00:11:01,760 --> 00:11:10,720
+axis perpendicular to the surface of reflection, are always positioned, are always lie in the same
+
+91
+00:11:10,720 --> 00:11:16,320
+plane surface. So this plane here that you can see that's being established by the incident
+
+92
+00:11:17,120 --> 00:11:22,320
+light ray and the reflected light ray and the normal axis is the plane in which all these
+
+93
+00:11:22,320 --> 00:11:30,880
+three light rays are positioned. Another important phenomenon that's related to the
+
+94
+00:11:30,880 --> 00:11:37,840
+wave behavior of light is so-called refraction or popularly known also as a bending of light.
+
+95
+00:11:37,840 --> 00:11:44,160
+So it turns out that light always propagates along the straight lines as long as it propagates
+
+96
+00:11:44,160 --> 00:11:52,320
+within the same media. If the light is going to move from one medium into the other medium,
+
+97
+00:11:53,920 --> 00:12:00,000
+a phenomenon that's known as a refraction or a bending is going to occur where the direction
+
+98
+00:12:00,000 --> 00:12:06,080
+of the propagation of light is going to change. So here we are dealing with two media, medium number
+
+99
+00:12:06,080 --> 00:12:12,640
+one that's characterized by the index of refraction and one that's a position above
+
+100
+00:12:12,640 --> 00:12:18,240
+this interface and then we also have the medium number two that's characterized by the index of
+
+101
+00:12:18,240 --> 00:12:25,760
+refraction and two that's positioned below the interface. And we can see that the light
+
+102
+00:12:25,760 --> 00:12:31,360
+is incident from the medium one. It's going to hit the surface between the two media
+
+103
+00:12:32,000 --> 00:12:36,560
+and then to a certain extent it's going to get reflected which is what's been already analyzed
+
+104
+00:12:36,560 --> 00:12:41,920
+on the previous slide. And then to a certain extent it's going to get bent or refracted into
+
+105
+00:12:41,920 --> 00:12:47,520
+the second medium. So we have incident light ray, we have a reflected light ray and we have a
+
+106
+00:12:47,520 --> 00:12:57,280
+refracted light ray. For the purpose of the refraction or bending what we are interested
+
+107
+00:12:57,280 --> 00:13:04,720
+here are the incident light ray and refracted light ray. So we want to quantify how much
+
+108
+00:13:04,720 --> 00:13:10,400
+is light going to get bent or going to get refracted relative to the incident light ray.
+
+109
+00:13:10,400 --> 00:13:15,840
+Is it going to get refracted towards the normal towards the axis or it's going to get
+
+110
+00:13:15,840 --> 00:13:21,680
+refracted away from the axis. So we want to establish direction of propagation of the
+
+111
+00:13:21,680 --> 00:13:29,360
+refracted light. There's a specific law known as Snell's law of refraction that quantifies this
+
+112
+00:13:30,480 --> 00:13:36,240
+behavior. The formula that represents the Snell's law is given here in the top right hand corner
+
+113
+00:13:37,200 --> 00:13:44,480
+and one times sine function of angle theta one is equal to and two times sine function of
+
+114
+00:13:44,480 --> 00:13:49,360
+angle theta two. So let's try to decipher what is this in this equation. What you see
+
+115
+00:13:49,360 --> 00:13:56,000
+on the left hand side of the equation is everything but pertains to the first medium or the medium
+
+116
+00:13:56,000 --> 00:14:02,960
+from which the light originates and once on the right hand side is everything but pertains to the
+
+117
+00:14:02,960 --> 00:14:09,440
+second medium or the medium into which the light is going to get refracted. And one represents the
+
+118
+00:14:09,440 --> 00:14:15,520
+index of refraction of the of the incident medium while n two represents the index of refraction of
+
+119
+00:14:15,520 --> 00:14:24,640
+the second medium. The angles theta one and theta two are are incident angle and refracted angle.
+
+120
+00:14:24,640 --> 00:14:30,640
+How we are establishing these two angles we are going to first establish the line that's
+
+121
+00:14:30,640 --> 00:14:36,320
+perpendicular to the surface between the two media. This is going to be this dotted line
+
+122
+00:14:36,960 --> 00:14:43,920
+and then the angle that incident light ray is going to establish with that axis is equal to theta one
+
+123
+00:14:43,920 --> 00:14:50,240
+while the angle that the refracted light ray is going to establish with that axis is represented
+
+124
+00:14:50,240 --> 00:14:55,920
+by theta two. So these two angles theta one and theta two that appear in the formula
+
+125
+00:14:57,120 --> 00:15:04,320
+for Snell's law of refraction are the incident angle and the refracted angle. And we can
+
+126
+00:15:04,320 --> 00:15:13,120
+also see that based on optical density of the two media optical density or that's been
+
+127
+00:15:13,120 --> 00:15:18,080
+characterized by the two indexes of refraction and one and then two. So the optical density
+
+128
+00:15:18,080 --> 00:15:24,240
+is going to have an effect on how much light is going to bend into the second medium. So for
+
+129
+00:15:24,240 --> 00:15:30,240
+different values of n two and n one we're going to have different amounts of refraction
+
+130
+00:15:31,200 --> 00:15:37,520
+and this is going to be analyzed in a in a greater detail in detail in the slides and lectures that
+
+131
+00:15:37,520 --> 00:15:44,160
+follow. Here we have a table that presents some of the indexes of refraction of the most popular
+
+132
+00:15:44,160 --> 00:15:51,120
+media used in the field of photonics. So for the for the case of air index of refraction is very
+
+133
+00:15:51,120 --> 00:15:57,760
+close to one and then we have a diamond with a index of refraction 2.42 gallium arsenide used
+
+134
+00:15:57,760 --> 00:16:03,360
+in semiconductor technologies and then we have a glass zircon etc. So all these different media
+
+135
+00:16:03,360 --> 00:16:08,400
+that you can see here have different indexes of refraction. So as already explained there is a
+
+136
+00:16:08,400 --> 00:16:15,360
+physical meaning of this number. We said that index of refraction represents the factor by
+
+137
+00:16:15,360 --> 00:16:21,920
+how much speed of light is reduced in a specific medium relative to the speed of light in in air
+
+138
+00:16:21,920 --> 00:16:28,160
+and then also these indexes of refraction would define would determine so-called optical density
+
+139
+00:16:28,160 --> 00:16:36,320
+of a specific medium and also are going to affect by how much the light is gonna bend or refract it
+
+140
+00:16:36,320 --> 00:16:44,640
+if that medium that medium is the medium in at which interface the refraction takes place.
+
+141
+00:16:44,640 --> 00:16:52,800
+The next phenomenon that characterizes the wave behavior of light is so-called interference or
+
+142
+00:16:53,440 --> 00:17:01,680
+so-called diffraction. So it turns out that when we have light waves multiple light waves of the
+
+143
+00:17:01,680 --> 00:17:07,200
+same wavelength that are in phase coming from two different sources and are directed onto screen
+
+144
+00:17:07,920 --> 00:17:16,240
+they could be made to overlap and interfere with one another. As briefly shown or presented
+
+145
+00:17:16,240 --> 00:17:21,200
+on this slide we can see two light waves that are hitting the screen and we can see that at
+
+146
+00:17:21,200 --> 00:17:28,480
+certain locations these two light waves are going to interfere in the sense that they will
+
+147
+00:17:28,480 --> 00:17:34,560
+be adding up creating the bright lines while on the other locations on the screen they will be
+
+148
+00:17:34,560 --> 00:17:41,680
+canceling each other out resulting in a dark line on the screen. So this is so-called interference
+
+149
+00:17:41,680 --> 00:17:46,560
+of a diffraction of light that is going to be analyzed further on the slides that follow.
+
+150
+00:17:47,600 --> 00:17:51,600
+So once more to emphasize the concept that's been introduced on the previous slide
+
+151
+00:17:51,600 --> 00:17:57,120
+we're dealing with the two light waves that are emanating from a slits s1 and s2. So we are
+
+152
+00:17:57,120 --> 00:18:05,040
+dealing with a filter here that consists of two slits through which we are passing the light.
+
+153
+00:18:05,840 --> 00:18:11,040
+So these two slits act as two separate sources of light creating two separate
+
+154
+00:18:11,680 --> 00:18:18,880
+waves and then these two waves will be interfering with one another. So the light
+
+155
+00:18:18,880 --> 00:18:24,320
+that's moving outwardly from s1 and s2 will overlap and reinforce each other along the
+
+156
+00:18:24,320 --> 00:18:29,360
+lines with solid dots. So if you're looking at the solid dots that's those are those would be
+
+157
+00:18:29,360 --> 00:18:36,160
+the points where the peak of one wave and the peak of the other wave are overlapping
+
+158
+00:18:36,880 --> 00:18:44,960
+while we also have locations with these unfilled dots where we have overlap of the positive peak
+
+159
+00:18:44,960 --> 00:18:50,560
+of one wave and the negative peak of the other wave where those two positive and negative peaks
+
+160
+00:18:50,560 --> 00:18:56,160
+will be canceling each other out. So if you put the screen in the back you'll see that you're
+
+161
+00:18:56,160 --> 00:19:04,080
+going to have an alternate position of the of the regions of bright and dark lines that would make
+
+162
+00:19:04,080 --> 00:19:11,440
+up so-called interference fringes that are also shown here on a right hand side. So at the
+
+163
+00:19:11,440 --> 00:19:18,880
+locations where you have so-called constructive interference where the positive peak of one wave
+
+164
+00:19:18,880 --> 00:19:23,840
+and positive peak of the other wave overlap those will be the locations where you have
+
+165
+00:19:24,960 --> 00:19:32,400
+a cumulative effect that results in a bright line while you're also going to have dark regions that
+
+166
+00:19:32,400 --> 00:19:40,640
+are shown darkest at the centers where there is an overlap between the positive peak of one wave
+
+167
+00:19:40,640 --> 00:19:44,640
+and the negative peak of the other wave in other words these two peaks positive and negative
+
+168
+00:19:44,640 --> 00:19:50,000
+will be canceling each other out resulting in a dark region. That dark region is going to
+
+169
+00:19:50,960 --> 00:19:57,200
+fade out gradually into the white regions because between the maximum dark and the maximum bright
+
+170
+00:19:57,200 --> 00:20:05,440
+region we're going to have limited interference between the two waves. In general when the light
+
+171
+00:20:06,400 --> 00:20:13,520
+interacts with small openings or sharp boundaries that are of a size that's comparable to the
+
+172
+00:20:13,520 --> 00:20:19,520
+wavelength of the light we are going to have the occurrence of the interference. So interference of
+
+173
+00:20:19,520 --> 00:20:25,520
+light waves would basically produce so-called diffraction patterns. Here we have a few examples
+
+174
+00:20:25,520 --> 00:20:33,920
+of diffraction patterns diffraction of a circular nature that results from a pinhole diffraction.
+
+175
+00:20:33,920 --> 00:20:39,360
+We may have single slit diffraction or diffraction created through the
+
+176
+00:20:39,920 --> 00:20:48,640
+straight edge so if the light hits the edge that's very sharp it's going to create also a type of a
+
+177
+00:20:48,640 --> 00:20:55,840
+diffraction. So all in all the diffraction is another phenomenon that relates to the wave
+
+178
+00:20:55,840 --> 00:21:02,000
+behavior of light and it's specific to the interaction of light with the small dimensions
+
+179
+00:21:02,000 --> 00:21:08,320
+such as the openings, sharp boundaries or edges etc. On a few slides that follow we are going to
+
+180
+00:21:08,320 --> 00:21:14,160
+go step by step to explain the diffraction. Diffraction is I would say a little bit more
+
+181
+00:21:14,160 --> 00:21:19,360
+complex phenomenon that's a little bit more difficult to be understood than the bending
+
+182
+00:21:19,360 --> 00:21:23,280
+of light and the reflection so we want to kind of focus a little bit on the diffraction and
+
+183
+00:21:24,960 --> 00:21:32,240
+analyze it step by step. So what we see here is a small gap or a slit in a in a filter at that
+
+184
+00:21:32,240 --> 00:21:37,840
+point where that location where the slit is positioned we are going to imagine that there is
+
+185
+00:21:37,840 --> 00:21:47,680
+a light source that creates the wave and here we see specifically one of the light rays that's
+
+186
+00:21:49,120 --> 00:21:54,160
+propagating along the horizontal axis. It has a wave behavior in other words the distance between
+
+187
+00:21:54,160 --> 00:21:58,800
+the two peaks is equal to 400 nanometers or we are dealing with the blue light.
+
+188
+00:21:59,760 --> 00:22:09,600
+If this light source or line this light ray is to be simplified instead of having a sinusoidal curve
+
+189
+00:22:09,600 --> 00:22:16,720
+we are going to establish the simplification where the peaks positive peaks of the in this
+
+190
+00:22:16,720 --> 00:22:23,200
+wave behavior are represented by the dark blue dots while negative peaks are represented by
+
+191
+00:22:23,200 --> 00:22:32,080
+the light blue dots and finally the positions at which the sinusoidal curve crosses zero are
+
+192
+00:22:32,080 --> 00:22:39,120
+represented by the unfilled dots. This can be established in different directions of propagation
+
+193
+00:22:39,120 --> 00:22:47,520
+as can be seen on this slide and then if we connect if we connect a specific type of dots
+
+194
+00:22:47,520 --> 00:22:55,600
+along the same crest we are going to establish so-called wave fronts. Here the wave front of
+
+195
+00:22:55,600 --> 00:23:05,200
+a positive peak are represented as as full lines and the lines of negative peaks
+
+196
+00:23:05,200 --> 00:23:13,520
+or negative wave fronts are represented by the dotted lines. Now we can further simplify our
+
+197
+00:23:13,520 --> 00:23:24,560
+model to present the wave fronts of our light wave and then even further go one step further
+
+198
+00:23:24,560 --> 00:23:30,720
+and just look at the at the positive wave fronts. Now let's imagine having two slits with two light
+
+199
+00:23:30,720 --> 00:23:37,520
+sources we can see that these two light sources are going to create two waves that are represented
+
+200
+00:23:37,520 --> 00:23:44,000
+by their corresponding wave fronts and we can see that here there are certain locations where
+
+201
+00:23:44,560 --> 00:23:51,040
+the crest of one wave overlaps with the crest on the other wave. So we can identify those
+
+202
+00:23:51,040 --> 00:23:56,400
+spots as the spots where we are going to have so-called constructive interference where we're
+
+203
+00:23:56,400 --> 00:24:03,040
+going to have a maximum cumulative effects where the positive peak of one wave and positive peak
+
+204
+00:24:03,040 --> 00:24:12,800
+of the other wave will add up and if you put the screen those at specific location those
+
+205
+00:24:13,920 --> 00:24:21,120
+points of constructive interference are going to result in a very in a lines or dots of a very
+
+206
+00:24:21,120 --> 00:24:28,320
+strong blue light that are positioned at a certain distance. We can do something similar
+
+207
+00:24:28,320 --> 00:24:33,200
+with the red light it's just in the case of red light we have to take into account that the
+
+208
+00:24:33,200 --> 00:24:40,800
+wavelength of light is going to be larger so we're moving from 400 nanometers to 700 nanometers
+
+209
+00:24:41,520 --> 00:24:50,160
+if we switch from the blue to the red light and we can also establish a similar model
+
+210
+00:24:50,160 --> 00:24:56,960
+for the red light as we established for the blue light. There's going to be certain differences
+
+211
+00:24:56,960 --> 00:25:02,960
+that are the result of the fact that the wavelength of the two waves is different so
+
+212
+00:25:04,000 --> 00:25:10,160
+shorter wavelength for the blue light would result in the blue spots being closer to one another
+
+213
+00:25:10,160 --> 00:25:19,280
+as opposed to the red spots red diffraction spots that are positioned further apart due to the
+
+214
+00:25:19,280 --> 00:25:24,880
+larger wavelength of a red light. If you are shooting the white light
+
+215
+00:25:27,760 --> 00:25:33,760
+from these two slits the white light consists of all the colors so different colors different
+
+216
+00:25:33,760 --> 00:25:40,080
+wavelengths will be acting in a different way in the sense that the position of dots of a specific
+
+217
+00:25:40,080 --> 00:25:46,640
+color is going to be different so in the case of a white light what we are going to see is
+
+218
+00:25:47,440 --> 00:25:52,800
+diffractive behavior where all colors will be shown at different locations in other words we are going
+
+219
+00:25:52,800 --> 00:26:01,840
+to break down the white light into different colors where dots of different colors will be
+
+220
+00:26:01,840 --> 00:26:11,200
+located at different locations. So that's how we can analyze the behavior of light
+
+221
+00:26:11,200 --> 00:26:15,600
+through specific types of so-called diffraction gradings that you're going to do in
+
+222
+00:26:15,600 --> 00:26:23,040
+hands on part of the course. There are certain equations that can be applied to quantify the
+
+223
+00:26:23,040 --> 00:26:30,320
+position of the dots so if you want to measure the distance between the dots from the center
+
+224
+00:26:30,320 --> 00:26:38,480
+dot to the first dots on either left or right side of the center dot we can use certain
+
+225
+00:26:38,480 --> 00:26:43,040
+approximations based on a trigonometry to come up with the formulas that are shown on
+
+226
+00:26:43,120 --> 00:26:50,640
+this slide without going further into derivations of these equations we can see that the
+
+227
+00:26:51,200 --> 00:26:58,240
+position of the first of the first dot is going to depend on the wavelength of light
+
+228
+00:26:58,880 --> 00:27:08,000
+distance between the diffraction grading and the screen and finally the distance between
+
+229
+00:27:08,000 --> 00:27:11,920
+the two openings in the diffraction grading so the formula that's shown all the way on the
+
+230
+00:27:11,920 --> 00:27:20,160
+bottom is basically a representation of the position y of the of the dot as a function of
+
+231
+00:27:20,160 --> 00:27:25,120
+lambda or wavelength capital D or a distance between the screen and the diffraction
+
+232
+00:27:25,120 --> 00:27:29,680
+grading and finally small d which represents the distance between the two slits in a
+
+233
+00:27:29,680 --> 00:27:38,160
+in diffraction grading. Small other m is an integer that basically gives us the flexibility to
+
+234
+00:27:38,960 --> 00:27:49,600
+to establish or calculate the position of the second third and other subsequent dots in a
+
+235
+00:27:49,600 --> 00:27:58,000
+in the diffraction pattern so for the first dot the dot the bright line that is
+
+236
+00:27:59,120 --> 00:28:04,000
+first next to the central line we're going to take m equal to one if you're looking for the second
+
+237
+00:28:04,720 --> 00:28:09,040
+dot or second line bright line in a in a diffraction pattern then we're going to
+
+238
+00:28:09,040 --> 00:28:16,720
+take m equal to two etc. Another important property of a wave behavior of light is so
+
+239
+00:28:16,720 --> 00:28:21,920
+called polarization when we talk about polarization we are talking about the orientation or direction
+
+240
+00:28:21,920 --> 00:28:28,080
+of vibration of the electric field as the wave propagates through space we can have
+
+241
+00:28:28,560 --> 00:28:33,520
+so-called unpolarized light we can have a horizontally or vertically polarized light
+
+242
+00:28:33,520 --> 00:28:38,640
+that are in general summarized as a linearly polarized light so what we are basically
+
+243
+00:28:39,440 --> 00:28:47,600
+trying to analyze here is how does the light vibrate or oscillate in a in a in time in other
+
+244
+00:28:47,600 --> 00:28:53,760
+words we are trying to establish the the planes of a vibration of of an electric field in an
+
+245
+00:28:53,760 --> 00:29:00,080
+electromagnetic wave on this slide here we have a demonstration of three different types of
+
+246
+00:29:00,080 --> 00:29:06,640
+polarized waves all the way on the left we see that all the vibration takes place in a in a in
+
+247
+00:29:06,640 --> 00:29:14,400
+a plane that's tilted at a certain angle in the center we have a vibration of light where
+
+248
+00:29:14,400 --> 00:29:20,160
+the the vector of vibration is basically moving along the circle so we're talking about circular
+
+249
+00:29:20,160 --> 00:29:25,760
+polarization and finally on the right hand side we see that vibration is occurring along the
+
+250
+00:29:25,760 --> 00:29:31,760
+elliptical shape so we're talking about so-called elliptical polarization circular and elliptical
+
+251
+00:29:31,760 --> 00:29:39,440
+polarization can also be defined as either left hand or right hand based on whether the vibration
+
+252
+00:29:39,440 --> 00:29:47,440
+occurs counter clockwise or clockwise while the linear polarization can be either horizontal or
+
+253
+00:29:47,440 --> 00:29:54,640
+vertical based on the plane in which the vibration takes place we can adjust the polarization of our
+
+254
+00:29:54,640 --> 00:30:03,360
+light by using so-called polarizers polarizers is basically a plastic sheet that is made out of
+
+255
+00:30:03,360 --> 00:30:11,040
+material that contains certain type of crystals that would affect the polarization of light that
+
+256
+00:30:11,120 --> 00:30:18,560
+is propagating through that type of a material so what basically is taking place as the light
+
+257
+00:30:18,560 --> 00:30:24,160
+propagates through the through the through this type of a polarizer is that the crystals would
+
+258
+00:30:24,160 --> 00:30:34,000
+be absorbing a specific component of a specific component of the light and would transmit other
+
+259
+00:30:34,000 --> 00:30:41,600
+component of a light so after passing through linear polarizers or un-polarized light would
+
+260
+00:30:41,600 --> 00:30:47,840
+be emerging as a linearly polarized light in this distance in this case like as shown on this slide
+
+261
+00:30:47,840 --> 00:30:54,800
+in a vertical direction so what you have in front of of the of the polarizes un-polarized
+
+262
+00:30:54,800 --> 00:31:00,000
+light that's represented by all these different arrows in other words the the light vibrates
+
+263
+00:31:00,000 --> 00:31:05,600
+in all possible directions so we're talking about we are talking about un-polarized light
+
+264
+00:31:06,240 --> 00:31:11,760
+it turns out that un-polarized light can be represented by two components the horizontal
+
+265
+00:31:11,760 --> 00:31:17,680
+component and the vertical component and if a horizontal vertical component are passing through
+
+266
+00:31:17,680 --> 00:31:24,560
+the this filter it turns out that all horizontal component contribution is going to be
+
+267
+00:31:24,640 --> 00:31:29,920
+is going to be blocked by the filter while the only component that's going to be passed
+
+268
+00:31:29,920 --> 00:31:34,960
+over on the other side is going to be a vertical component so what we have over on the other side
+
+269
+00:31:34,960 --> 00:31:41,840
+is a vertically polarized light this is a concept that has found many many applications many real
+
+270
+00:31:41,840 --> 00:31:48,960
+time applications specifically sun glasses polarized sunglasses are one specific application
+
+271
+00:31:48,960 --> 00:31:57,040
+of where linearly polarized materials are being being used so un-polarized light that's coming
+
+272
+00:31:57,040 --> 00:32:04,560
+from the sun is going through the through the through the effect of polarization over on the
+
+273
+00:32:04,560 --> 00:32:10,800
+other side the light is significantly reduced as only one polarized component is being passed
+
+274
+00:32:10,800 --> 00:32:18,400
+through and as a cumulative effect is what the light that's coming to our eyes significantly
+
+275
+00:32:18,400 --> 00:32:28,080
+reduced so we are getting this darkened effect of a of a of a of a environment that that surrounds us

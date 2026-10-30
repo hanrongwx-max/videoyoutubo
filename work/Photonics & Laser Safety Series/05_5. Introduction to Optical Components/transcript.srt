@@ -1,0 +1,3055 @@
+1
+00:00:10,060 --> 00:00:16,060
+Hi, you're watching lecture number 5 of the Introduction to Photonics video series.
+
+2
+00:00:16,060 --> 00:00:20,060
+Today we are going to talk about the optical components.
+
+3
+00:00:20,060 --> 00:00:24,060
+So we are slowly moving in the direction of doing practical stuff.
+
+4
+00:00:24,060 --> 00:00:29,060
+So the concepts and the subject that is going to be introduced today
+
+5
+00:00:29,060 --> 00:00:35,060
+is going to play an important role in your hands-on part of this course
+
+6
+00:00:35,060 --> 00:00:37,060
+that you're going to take at the end of it.
+
+7
+00:00:37,060 --> 00:00:43,060
+So again, direction number 5, we are going to introduce the optical components.
+
+8
+00:00:43,060 --> 00:00:49,060
+So specifically, we are going to talk about the thermal, mechanical and chemical properties of optical materials
+
+9
+00:00:49,060 --> 00:00:54,060
+in addition to their primary optical characteristics.
+
+10
+00:00:54,060 --> 00:00:56,060
+So we talked a little bit about optical materials.
+
+11
+00:00:56,060 --> 00:01:04,060
+Last time we explained and expanded on the topic of index of refraction.
+
+12
+00:01:04,060 --> 00:01:08,060
+Today we're going to also, as I said, look at some other non-optical properties
+
+13
+00:01:08,060 --> 00:01:13,060
+that are playing an important role in the selection of optical materials
+
+14
+00:01:13,060 --> 00:01:17,060
+such as thermal, mechanical and chemical properties.
+
+15
+00:01:17,060 --> 00:01:20,060
+We're also going to look at different optical materials
+
+16
+00:01:20,060 --> 00:01:25,060
+and we'll see how we can choose a specific type of optical material
+
+17
+00:01:25,060 --> 00:01:31,060
+for a specific use in different types of spectral regions
+
+18
+00:01:31,060 --> 00:01:34,060
+such as visible ultraviolet and infrared region.
+
+19
+00:01:34,060 --> 00:01:38,060
+And finally, we are going to shift our attention at the end
+
+20
+00:01:38,060 --> 00:01:42,060
+to different types of coatings and filters.
+
+21
+00:01:42,060 --> 00:01:52,060
+We'll see that very often coatings are being placed on a transparent material for different reasons.
+
+22
+00:01:52,060 --> 00:01:58,060
+And we're going to explain different processes to achieve that.
+
+23
+00:01:58,060 --> 00:02:01,060
+And finally, we're going to talk about different types of filters
+
+24
+00:02:01,060 --> 00:02:04,060
+that you can come across in a photonics lab.
+
+25
+00:02:04,060 --> 00:02:07,060
+In addition to optical properties of optical materials,
+
+26
+00:02:07,060 --> 00:02:12,060
+there's also other non-optical properties that have to be taken into account.
+
+27
+00:02:12,060 --> 00:02:17,060
+Specifically, we are going to talk first about thermal properties of optical materials.
+
+28
+00:02:17,060 --> 00:02:21,060
+Extreme heat or cold and rapid changes in temperature
+
+29
+00:02:21,060 --> 00:02:29,060
+can cause temporary or permanent changes in the physical characteristics of an optical material.
+
+30
+00:02:29,060 --> 00:02:32,060
+So the goal is to select the optical material
+
+31
+00:02:32,060 --> 00:02:36,060
+where these types of changes are reduced to the minimum.
+
+32
+00:02:36,060 --> 00:02:38,060
+Why is this important to us?
+
+33
+00:02:38,060 --> 00:02:42,060
+Very often you are going to take a specific type of optical component
+
+34
+00:02:42,060 --> 00:02:45,060
+made out of optical material.
+
+35
+00:02:45,060 --> 00:02:48,060
+Most of the time it's going to be some sort of glass.
+
+36
+00:02:48,060 --> 00:02:51,060
+And in order to establish an optical system,
+
+37
+00:02:51,060 --> 00:02:54,060
+you are going to mount these optical components,
+
+38
+00:02:54,060 --> 00:03:03,060
+be it prisms or optical windows or lenses or mirrors made out of glass.
+
+39
+00:03:03,060 --> 00:03:10,060
+You're going to mount them into some sort of optical mount that is going to be made out of metal.
+
+40
+00:03:10,060 --> 00:03:16,060
+So that's a specific example where thermal properties of both materials
+
+41
+00:03:16,060 --> 00:03:19,060
+would start playing an important role.
+
+42
+00:03:19,060 --> 00:03:20,060
+Why?
+
+43
+00:03:20,060 --> 00:03:27,060
+Because the thermal expansion of glass and thermal expansion of metal are not going to be the same.
+
+44
+00:03:27,060 --> 00:03:31,060
+So if your optical system, if your optical component in the system
+
+45
+00:03:31,060 --> 00:03:35,060
+is exposed to variations in the temperature,
+
+46
+00:03:35,060 --> 00:03:39,060
+those variations in temperature may result,
+
+47
+00:03:39,060 --> 00:03:45,060
+may cause thermal expansion of glass and metal at different rates,
+
+48
+00:03:45,060 --> 00:03:51,060
+which in turn is going to result in a specific amount of stress
+
+49
+00:03:51,060 --> 00:03:58,060
+on the optical elements that can be serious to the point where the optical component can even break.
+
+50
+00:03:58,060 --> 00:04:01,060
+So once more, if a lens is held in a metallic mount,
+
+51
+00:04:01,060 --> 00:04:04,060
+the combination is subjected to a high temperature,
+
+52
+00:04:04,060 --> 00:04:07,060
+the primary heat loss that's going to be experienced by the lens
+
+53
+00:04:07,060 --> 00:04:10,060
+will be through its edges and onto the mount.
+
+54
+00:04:10,060 --> 00:04:14,060
+This will make the window hotter at the center and cooler at the edges.
+
+55
+00:04:14,060 --> 00:04:17,060
+And not only that you're introducing the stress,
+
+56
+00:04:17,060 --> 00:04:23,060
+this condition can also create certain distortion in optical properties to optical material
+
+57
+00:04:23,060 --> 00:04:30,060
+that can significantly have an impact on the performance of your optical system.
+
+58
+00:04:30,060 --> 00:04:35,060
+The table on the right-hand side shows thermal properties of some of the typical materials
+
+59
+00:04:35,060 --> 00:04:39,060
+that we are coming across in a photonic slab.
+
+60
+00:04:39,060 --> 00:04:44,060
+You can see a few different types of metals such as copper, silver and steel.
+
+61
+00:04:44,060 --> 00:04:48,060
+And then down on the bottom you have different crystals and glasses
+
+62
+00:04:48,060 --> 00:04:55,060
+that would be different types of transparent materials that optical components are made out of.
+
+63
+00:04:55,060 --> 00:04:58,060
+There's a few things that you can immediately observe.
+
+64
+00:04:58,060 --> 00:05:04,060
+You can see that, for example, the thermal conductivity of metals is significantly larger
+
+65
+00:05:04,060 --> 00:05:10,060
+than the thermal conductivity of glass-based types of materials.
+
+66
+00:05:10,060 --> 00:05:14,060
+In other words, if these materials are heated,
+
+67
+00:05:14,060 --> 00:05:20,060
+it's going to be much easier to take the heat away from the metals
+
+68
+00:05:20,060 --> 00:05:24,060
+as opposed to the glasses that are going to get hotter.
+
+69
+00:05:24,060 --> 00:05:31,060
+Also, the last column in the table shows the amount of thermal expansion
+
+70
+00:05:31,060 --> 00:05:33,060
+of each of these materials.
+
+71
+00:05:33,060 --> 00:05:38,060
+And you can see that the metals are expanding at much larger rates
+
+72
+00:05:38,060 --> 00:05:41,060
+than most of the crystals and glasses.
+
+73
+00:05:41,060 --> 00:05:50,060
+So if both metals and transparent materials are exposed to the temperature variations,
+
+74
+00:05:50,060 --> 00:05:53,060
+you're going to see a significant thermal expansion of the metals,
+
+75
+00:05:53,060 --> 00:06:00,060
+which may, as we already elaborated, which may cause the stress on the joints
+
+76
+00:06:00,060 --> 00:06:02,060
+between the metal and the glass.
+
+77
+00:06:02,060 --> 00:06:06,060
+There are certain ways how you can quantify the stress
+
+78
+00:06:06,060 --> 00:06:09,060
+that's caused through the thermal expansion.
+
+79
+00:06:09,060 --> 00:06:13,060
+So here's an example of an equation that can be used.
+
+80
+00:06:13,060 --> 00:06:18,060
+So if you want to figure out the stress,
+
+81
+00:06:18,060 --> 00:06:26,060
+that stress can be quantified through a certain relationship
+
+82
+00:06:26,060 --> 00:06:29,060
+between the thickness of the optical component,
+
+83
+00:06:29,060 --> 00:06:33,060
+the diameter of the component,
+
+84
+00:06:33,060 --> 00:06:37,060
+pressure difference between the sides of the optical component,
+
+85
+00:06:37,060 --> 00:06:40,060
+elasticity of the material, et cetera.
+
+86
+00:06:40,060 --> 00:06:46,060
+So we are not going to go much in detail about implementing the formula
+
+87
+00:06:46,060 --> 00:06:47,060
+that you are seeing here.
+
+88
+00:06:47,060 --> 00:06:50,060
+This formula, this equation is just given for reference
+
+89
+00:06:50,060 --> 00:06:53,060
+to show you that you can use certain concepts
+
+90
+00:06:53,060 --> 00:07:00,060
+from a thermodynamic to quantify the amount of stress
+
+91
+00:07:00,060 --> 00:07:05,060
+that can be induced in the case of significant thermal variations
+
+92
+00:07:05,060 --> 00:07:11,060
+on materials with different coefficients of expansion.
+
+93
+00:07:11,060 --> 00:07:14,060
+In addition to thermal properties,
+
+94
+00:07:14,060 --> 00:07:19,060
+chemical properties of optical materials can also affect
+
+95
+00:07:19,060 --> 00:07:22,060
+the performance of your optical system
+
+96
+00:07:22,060 --> 00:07:26,060
+and would have to be paid close attention.
+
+97
+00:07:26,060 --> 00:07:29,060
+So we're talking about the chemical damage to optical element
+
+98
+00:07:29,060 --> 00:07:34,060
+that can be caused by different chemicals
+
+99
+00:07:34,060 --> 00:07:39,060
+or chemical ability to etch or dissolve on a transparent medium.
+
+100
+00:07:39,060 --> 00:07:45,060
+So examples of such damage can be the effects of acetone
+
+101
+00:07:45,060 --> 00:07:48,060
+or plastics, as well the effects of water vapor
+
+102
+00:07:48,060 --> 00:07:55,060
+on ionic crystal windows such as different types of salt.
+
+103
+00:07:55,060 --> 00:08:00,060
+So this is another important aspect that has to be taken to account
+
+104
+00:08:00,060 --> 00:08:02,060
+if you're working in the photonic slab
+
+105
+00:08:02,060 --> 00:08:05,060
+based on the experiments that you are performing.
+
+106
+00:08:05,060 --> 00:08:12,060
+So if you are using certain chemicals for different experimentations,
+
+107
+00:08:12,060 --> 00:08:16,060
+you have to pay close attention what is going to be the effect
+
+108
+00:08:16,060 --> 00:08:21,060
+of those chemicals on different optical windows, prisms,
+
+109
+00:08:21,060 --> 00:08:27,060
+lenses, and other materials that you may be using in your optical lab.
+
+110
+00:08:27,060 --> 00:08:31,060
+Everything that we talked about so far about optical materials
+
+111
+00:08:31,060 --> 00:08:35,060
+and optical components is going to have a significant impact
+
+112
+00:08:35,060 --> 00:08:40,060
+on your decision or if you are tasked
+
+113
+00:08:40,060 --> 00:08:45,060
+to select specific optical components for your optical system.
+
+114
+00:08:45,060 --> 00:08:49,060
+So as a photonics technician, very often you will be tasked
+
+115
+00:08:49,060 --> 00:08:53,060
+with a task of establishing a specific optical system
+
+116
+00:08:53,060 --> 00:08:57,060
+that is going to also involve selection
+
+117
+00:08:57,060 --> 00:09:00,060
+and the order of different types of optical components.
+
+118
+00:09:00,060 --> 00:09:08,060
+So the prior knowledge of the concepts that we are introducing
+
+119
+00:09:08,060 --> 00:09:13,060
+in this and the previous lecture is going to play an important role
+
+120
+00:09:13,060 --> 00:09:20,060
+in the success of how you are executing that task of selection
+
+121
+00:09:20,060 --> 00:09:23,060
+and the order of optical components.
+
+122
+00:09:23,060 --> 00:09:27,060
+So again, to wrap up, to summarize,
+
+123
+00:09:27,060 --> 00:09:29,060
+when you are selecting an optical component,
+
+124
+00:09:29,060 --> 00:09:32,060
+you have to pay close attention to the optical properties
+
+125
+00:09:32,060 --> 00:09:36,060
+of the materials that your component is going to be made out of.
+
+126
+00:09:36,060 --> 00:09:41,060
+And not only optical properties, but also thermal properties, chemical properties.
+
+127
+00:09:42,060 --> 00:09:44,060
+And finally, also the cost.
+
+128
+00:09:44,060 --> 00:09:47,060
+So very often you are going to be dealing with a limited budget,
+
+129
+00:09:47,060 --> 00:09:52,060
+so you have to make a good decision as far as the quality
+
+130
+00:09:52,060 --> 00:09:54,060
+of the optical components that you are ordering
+
+131
+00:09:54,060 --> 00:09:58,060
+and as well as the pricing of these components.
+
+132
+00:09:58,060 --> 00:10:02,060
+So the cost of optical components will depend on many factors
+
+133
+00:10:02,060 --> 00:10:04,060
+that you have to take into account.
+
+134
+00:10:04,060 --> 00:10:07,060
+For example, if you're looking at the glass and fused quartz,
+
+135
+00:10:07,060 --> 00:10:12,060
+those types of components are comparatively expensive
+
+136
+00:10:12,060 --> 00:10:16,060
+because these materials have to be grounded and polished
+
+137
+00:10:16,060 --> 00:10:20,060
+and then tested and maintained for a correct flatness of curvature.
+
+138
+00:10:20,060 --> 00:10:24,060
+So in this case, if you are ordering glass
+
+139
+00:10:24,060 --> 00:10:26,060
+or fused quartz type of optical components,
+
+140
+00:10:26,060 --> 00:10:28,060
+those would be the most expensive.
+
+141
+00:10:28,060 --> 00:10:32,060
+You also have some cheaper alternatives such as plastic optics
+
+142
+00:10:32,060 --> 00:10:35,060
+because in the case of a plastic optics,
+
+143
+00:10:35,060 --> 00:10:37,060
+you don't have to do the polishing,
+
+144
+00:10:37,060 --> 00:10:42,060
+but rather you can make them using the molding processes.
+
+145
+00:10:42,060 --> 00:10:45,060
+Also, if you're looking at optical elements that are made out of crystals,
+
+146
+00:10:45,060 --> 00:10:48,060
+they are also expensive because these crystals have to be grown
+
+147
+00:10:48,060 --> 00:10:51,060
+in a large size with expensive equipment.
+
+148
+00:10:51,060 --> 00:10:54,060
+So pretty much the type of process that's being used
+
+149
+00:10:54,060 --> 00:10:58,060
+to manufacture a specific type of a material or a component
+
+150
+00:10:58,060 --> 00:11:03,060
+is going to play an important role in the cost of those components.
+
+151
+00:11:03,060 --> 00:11:06,060
+So knowing a little bit about different materials
+
+152
+00:11:06,060 --> 00:11:10,060
+and how a specific type of optical component is being made
+
+153
+00:11:10,060 --> 00:11:12,060
+would definitely not hurt,
+
+154
+00:11:12,060 --> 00:11:15,060
+and it's going to help you make a sound decision
+
+155
+00:11:15,060 --> 00:11:17,060
+about a specific optical component
+
+156
+00:11:17,060 --> 00:11:20,060
+that you're going to be buying for your photonic slab.
+
+157
+00:11:20,060 --> 00:11:23,060
+We also have to keep in mind that most of these optical components
+
+158
+00:11:23,060 --> 00:11:27,060
+would have a specific type of coating
+
+159
+00:11:27,060 --> 00:11:29,060
+that's going to be placed on the optical component
+
+160
+00:11:29,060 --> 00:11:31,060
+for different reasons,
+
+161
+00:11:31,060 --> 00:11:35,060
+such as anti-reflective coatings, anti-transmission coatings, et cetera,
+
+162
+00:11:35,060 --> 00:11:38,060
+and all those processes of applying the coating
+
+163
+00:11:38,060 --> 00:11:42,060
+would also increase the cost of these elements considerably.
+
+164
+00:11:42,060 --> 00:11:46,060
+So to summarize, the manufacturing cost of an optical element
+
+165
+00:11:46,060 --> 00:11:48,060
+depends on many factors,
+
+166
+00:11:48,060 --> 00:11:50,060
+size of the component,
+
+167
+00:11:50,060 --> 00:11:53,060
+type of a material that's being used,
+
+168
+00:11:53,060 --> 00:11:55,060
+surface curvature of the element,
+
+169
+00:11:55,060 --> 00:11:59,060
+it's easier to obviously make a flat component
+
+170
+00:11:59,060 --> 00:12:02,060
+if you have to make some sort of correct component, such as lens.
+
+171
+00:12:02,060 --> 00:12:05,060
+Accuracy of the flatness of the curvature
+
+172
+00:12:05,060 --> 00:12:07,060
+is going to play an important role.
+
+173
+00:12:07,060 --> 00:12:10,060
+Of course, it depends on the optical system that you're building.
+
+174
+00:12:10,060 --> 00:12:14,060
+You know how the accuracy of the flatness or curvature is important
+
+175
+00:12:14,060 --> 00:12:17,060
+is crucial for the performance of your optical system.
+
+176
+00:12:17,060 --> 00:12:19,060
+You also have to take into account
+
+177
+00:12:19,060 --> 00:12:21,060
+the wavelength of the light to be transmitted.
+
+178
+00:12:21,060 --> 00:12:23,060
+Different materials would be reacting
+
+179
+00:12:23,060 --> 00:12:26,060
+to different types of wavelengths in a different way.
+
+180
+00:12:26,060 --> 00:12:29,060
+And finally, the types of coatings on the surface,
+
+181
+00:12:29,060 --> 00:12:35,060
+and finally the aberrations that may be on the optical component
+
+182
+00:12:35,060 --> 00:12:37,060
+that would have to be corrected.
+
+183
+00:12:37,060 --> 00:12:40,060
+So all these different factors are going to play an important role
+
+184
+00:12:40,060 --> 00:12:43,060
+in establishing the cost of the optical component
+
+185
+00:12:43,060 --> 00:12:45,060
+and how much you're going to pay for them.
+
+186
+00:12:45,060 --> 00:12:47,060
+So as a photonics technician,
+
+187
+00:12:47,060 --> 00:12:50,060
+you have to know all these different aspects to a certain extent
+
+188
+00:12:50,060 --> 00:12:52,060
+to be able to make a sound decision
+
+189
+00:12:52,060 --> 00:12:54,060
+during the selection process
+
+190
+00:12:54,060 --> 00:12:57,060
+of the components for the optical system that you're building.
+
+191
+00:12:57,060 --> 00:12:59,060
+So what you're seeing on this slide
+
+192
+00:12:59,060 --> 00:13:02,060
+are different types of optical components
+
+193
+00:13:02,060 --> 00:13:05,060
+that you may come across in a photonics lab.
+
+194
+00:13:05,060 --> 00:13:07,060
+Most of them, if not all,
+
+195
+00:13:07,060 --> 00:13:09,060
+are made out of transparent materials,
+
+196
+00:13:09,060 --> 00:13:15,060
+the glass, fuse quartz, plastic optics.
+
+197
+00:13:15,060 --> 00:13:21,060
+And the shape would determine the type of the optical component,
+
+198
+00:13:21,060 --> 00:13:24,060
+so you may come across the front surface mirrors,
+
+199
+00:13:24,060 --> 00:13:28,060
+you may come across filters, lenses, prisms, et cetera.
+
+200
+00:13:28,060 --> 00:13:31,060
+Many of these components are also going to have
+
+201
+00:13:31,060 --> 00:13:33,060
+a specific type of optical coating.
+
+202
+00:13:33,060 --> 00:13:37,060
+You can see that certain surfaces of these components
+
+203
+00:13:37,060 --> 00:13:39,060
+are shown here in different colors,
+
+204
+00:13:39,060 --> 00:13:42,060
+and those colors are actually representing the optical coating
+
+205
+00:13:42,060 --> 00:13:46,060
+that has been placed on an optical component.
+
+206
+00:13:46,060 --> 00:13:50,060
+So we are talking about materials of a specific thickness
+
+207
+00:13:50,060 --> 00:13:54,060
+and composition that are deposited through a certain process
+
+208
+00:13:54,060 --> 00:13:56,060
+on the surface of the optical components
+
+209
+00:13:56,060 --> 00:13:59,060
+to control the amount of light that's passing through them.
+
+210
+00:13:59,060 --> 00:14:03,060
+So these optical coatings have a very, very, very
+
+211
+00:14:03,060 --> 00:14:08,060
+tightly controlled thickness through specific processes
+
+212
+00:14:08,060 --> 00:14:10,060
+because the thickness of the optical coating
+
+213
+00:14:10,060 --> 00:14:13,060
+is going to affect how that optical component
+
+214
+00:14:13,060 --> 00:14:17,060
+is going to be performing in the optical system.
+
+215
+00:14:17,060 --> 00:14:19,060
+In other words, you know how it is going to control
+
+216
+00:14:19,060 --> 00:14:22,060
+the reflection and the transmission of the light
+
+217
+00:14:22,060 --> 00:14:26,060
+as the light is being passed through that optical coating.
+
+218
+00:14:26,060 --> 00:14:30,060
+This light gives you a brief insight into the two
+
+219
+00:14:30,060 --> 00:14:35,060
+distinct processes that are being used in the photonics
+
+220
+00:14:35,060 --> 00:14:39,060
+to deposit or to apply an optical coating
+
+221
+00:14:39,060 --> 00:14:41,060
+onto an optical component.
+
+222
+00:14:41,060 --> 00:14:46,060
+So those two processes are evaporation and sputtering.
+
+223
+00:14:46,060 --> 00:14:48,060
+In the case of evaporation, the material that's
+
+224
+00:14:48,060 --> 00:14:51,060
+to be deposited is converted into a vapor
+
+225
+00:14:51,060 --> 00:14:53,060
+using a thermal or electronic beam,
+
+226
+00:14:53,060 --> 00:14:56,060
+and then that vapor is going to be depositing itself
+
+227
+00:14:56,060 --> 00:14:59,060
+onto the optical material substrate.
+
+228
+00:14:59,060 --> 00:15:03,060
+So there has to be some sort of control mechanism
+
+229
+00:15:03,060 --> 00:15:06,060
+as far as the duration of the whole deposition
+
+230
+00:15:06,060 --> 00:15:12,060
+because the longer you continue with this process,
+
+231
+00:15:12,060 --> 00:15:17,060
+the thickness of the optical coating is going to increase.
+
+232
+00:15:17,060 --> 00:15:21,060
+So there has to be some sort of dynamic control
+
+233
+00:15:21,060 --> 00:15:24,060
+or measurement of the thickness that is going to stop
+
+234
+00:15:24,060 --> 00:15:29,060
+the whole process when the optical coating
+
+235
+00:15:29,060 --> 00:15:32,060
+achieves the desired thickness.
+
+236
+00:15:32,060 --> 00:15:34,060
+The second process is so-called sputtering.
+
+237
+00:15:34,060 --> 00:15:38,060
+In this case, we are talking about the use of a high voltage
+
+238
+00:15:38,060 --> 00:15:40,060
+that creates a heavy ions of plasma,
+
+239
+00:15:40,060 --> 00:15:44,060
+and that plasma is going to bombard so-called target
+
+240
+00:15:44,060 --> 00:15:46,060
+and knock out small particles of the target
+
+241
+00:15:46,060 --> 00:15:50,060
+that are then going to be condensed on a cooled substrate.
+
+242
+00:15:50,060 --> 00:15:53,060
+So the optical coating is a material
+
+243
+00:15:53,060 --> 00:15:56,060
+that has been knocked out of the target
+
+244
+00:15:56,060 --> 00:15:58,060
+placed in a sputter.
+
+245
+00:15:58,060 --> 00:16:01,060
+And then, as I said, heavy ions of plasma
+
+246
+00:16:01,060 --> 00:16:03,060
+are going to be hitting that target
+
+247
+00:16:03,060 --> 00:16:06,060
+and knocking out small particles of the material
+
+248
+00:16:06,060 --> 00:16:09,060
+that is going to be then applied
+
+249
+00:16:09,060 --> 00:16:12,060
+in the form of a coating on the optical component.
+
+250
+00:16:12,060 --> 00:16:16,060
+Both of these processes are being used in optics
+
+251
+00:16:16,060 --> 00:16:18,060
+to create optical coatings.
+
+252
+00:16:18,060 --> 00:16:21,060
+And in addition to the process of application,
+
+253
+00:16:21,060 --> 00:16:23,060
+you also, as I mentioned,
+
+254
+00:16:23,060 --> 00:16:26,060
+have to have some sort of thickness control
+
+255
+00:16:26,060 --> 00:16:31,060
+in a dynamic means where the thickness
+
+256
+00:16:31,060 --> 00:16:35,060
+of the layer of coating that's being deposited
+
+257
+00:16:35,060 --> 00:16:38,060
+through these two processes is going to be controlled
+
+258
+00:16:38,060 --> 00:16:41,060
+during the actual process of application.
+
+259
+00:16:41,060 --> 00:16:44,060
+And when the thickness of the coating,
+
+260
+00:16:44,060 --> 00:16:49,060
+as I said, achieves a desired value,
+
+261
+00:16:49,060 --> 00:16:52,060
+the whole process would have to stop.
+
+262
+00:16:52,060 --> 00:16:53,060
+As we already mentioned,
+
+263
+00:16:53,060 --> 00:16:56,060
+the thickness control of the optical coating
+
+264
+00:16:56,060 --> 00:16:58,060
+is extremely important
+
+265
+00:16:58,060 --> 00:17:00,060
+because the thickness of the coating
+
+266
+00:17:00,060 --> 00:17:03,060
+is going to affect its optical properties.
+
+267
+00:17:03,060 --> 00:17:07,060
+So during the process of optical coating application,
+
+268
+00:17:07,060 --> 00:17:09,060
+you have to have some sort of way
+
+269
+00:17:09,060 --> 00:17:11,060
+of monitoring the thickness
+
+270
+00:17:11,060 --> 00:17:14,060
+while the optical component is in the chamber.
+
+271
+00:17:14,060 --> 00:17:17,060
+There's two distinct ways how is this being achieved.
+
+272
+00:17:17,060 --> 00:17:20,060
+The first one is the use of so-called crystal oscillators.
+
+273
+00:17:20,060 --> 00:17:23,060
+These crystal oscillators are based on the quartz crystal plates
+
+274
+00:17:23,060 --> 00:17:25,060
+that are placed in the same plane
+
+275
+00:17:25,060 --> 00:17:27,060
+as the substrate to be coated.
+
+276
+00:17:27,060 --> 00:17:30,060
+It turns out that the resonant frequency
+
+277
+00:17:30,060 --> 00:17:34,060
+of oscillation of such an oscillator
+
+278
+00:17:34,060 --> 00:17:36,060
+is going to depend on the mass of the crystal.
+
+279
+00:17:36,060 --> 00:17:39,060
+So as you are applying the coating
+
+280
+00:17:39,060 --> 00:17:41,060
+onto the optical component,
+
+281
+00:17:41,060 --> 00:17:43,060
+its mass is going to increase,
+
+282
+00:17:43,060 --> 00:17:46,060
+and that increase is going to result
+
+283
+00:17:46,060 --> 00:17:48,060
+in the change of the resonant frequency
+
+284
+00:17:48,060 --> 00:17:50,060
+of the crystal oscillator.
+
+285
+00:17:50,060 --> 00:17:52,060
+And that's going to be the mechanism
+
+286
+00:17:52,060 --> 00:17:54,060
+how you are controlling the thickness
+
+287
+00:17:54,060 --> 00:17:58,060
+of the optical component, of the optical coating.
+
+288
+00:17:58,060 --> 00:18:03,060
+Another way is the use of so-called interference effects.
+
+289
+00:18:03,060 --> 00:18:09,060
+So we are observing interference effects
+
+290
+00:18:09,060 --> 00:18:12,060
+through a transmitted or reflected optical beam,
+
+291
+00:18:12,060 --> 00:18:16,060
+and the transmittance obviously is going to change
+
+292
+00:18:16,060 --> 00:18:18,060
+as the thickness of the coating layer is building up,
+
+293
+00:18:18,060 --> 00:18:21,060
+and that is going to establish the mechanism
+
+294
+00:18:21,060 --> 00:18:22,060
+of how we are going to be controlling
+
+295
+00:18:22,060 --> 00:18:25,060
+the thickness of the optical coating.
+
+296
+00:18:25,060 --> 00:18:28,060
+Now that we introduced the process
+
+297
+00:18:28,060 --> 00:18:32,060
+of the optical coating application,
+
+298
+00:18:32,060 --> 00:18:34,060
+and the way how it's being controlled,
+
+299
+00:18:34,060 --> 00:18:37,060
+let's talk about a few different types
+
+300
+00:18:37,060 --> 00:18:39,060
+of optical coatings that you may come across
+
+301
+00:18:39,060 --> 00:18:43,060
+in the world of optics.
+
+302
+00:18:43,060 --> 00:18:46,060
+The first one is so-called anti-reflection coating.
+
+303
+00:18:46,060 --> 00:18:48,060
+This is a very popular type of coating,
+
+304
+00:18:48,060 --> 00:18:51,060
+very often is being put on a glass,
+
+305
+00:18:51,060 --> 00:18:54,060
+as you can see on the right-hand side.
+
+306
+00:18:54,060 --> 00:18:57,060
+So what we are trying to achieve here
+
+307
+00:18:57,060 --> 00:19:00,060
+is a reduction of the reflection.
+
+308
+00:19:00,060 --> 00:19:03,060
+So when the light hits this transparent optical medium
+
+309
+00:19:03,060 --> 00:19:05,060
+that's made out of glass,
+
+310
+00:19:05,060 --> 00:19:08,060
+as we already explained in the previous lecture,
+
+311
+00:19:08,060 --> 00:19:11,060
+there's going to be a certain amount of reflection
+
+312
+00:19:11,060 --> 00:19:14,060
+off of the surface of the glass,
+
+313
+00:19:14,060 --> 00:19:17,060
+based on the indices of reflection of the medium
+
+314
+00:19:17,060 --> 00:19:19,060
+that's surrounding the glass
+
+315
+00:19:19,060 --> 00:19:23,060
+and the index of reflection of the glass itself.
+
+316
+00:19:23,060 --> 00:19:27,060
+So the way how the coating is going to reduce the reflection
+
+317
+00:19:27,060 --> 00:19:30,060
+is a very creative way.
+
+318
+00:19:30,060 --> 00:19:32,060
+So if you're looking at what's shown here
+
+319
+00:19:32,060 --> 00:19:34,060
+on the left-hand side,
+
+320
+00:19:34,060 --> 00:19:36,060
+you can see here basically three layers.
+
+321
+00:19:36,060 --> 00:19:38,060
+The first layer is the air,
+
+322
+00:19:38,060 --> 00:19:40,060
+and then you have a dielectric coat,
+
+323
+00:19:40,060 --> 00:19:43,060
+and then on the bottom you have a glass.
+
+324
+00:19:43,060 --> 00:19:46,060
+So what's being shown here, again,
+
+325
+00:19:46,060 --> 00:19:49,060
+is a complete structure that consists of the glass
+
+326
+00:19:49,060 --> 00:19:51,060
+and then anti-reflective coating
+
+327
+00:19:51,060 --> 00:19:54,060
+and finally the surrounding medium.
+
+328
+00:19:54,060 --> 00:19:56,060
+So as the incident light is coming
+
+329
+00:19:56,060 --> 00:20:00,060
+from the face-first medium, in this case, air,
+
+330
+00:20:00,060 --> 00:20:03,060
+there's going to be a certain amount of reflection
+
+331
+00:20:03,060 --> 00:20:05,060
+on the first frontal surface
+
+332
+00:20:05,060 --> 00:20:08,060
+that's shown here as a reflected beam number one.
+
+333
+00:20:08,060 --> 00:20:13,060
+And then most of the light is going to enter into the coating,
+
+334
+00:20:13,060 --> 00:20:16,060
+and we can see that that transmitted light
+
+335
+00:20:16,060 --> 00:20:20,060
+that entered the coating is going to be reflected again
+
+336
+00:20:20,060 --> 00:20:25,060
+from the next surface between the coating and the glass.
+
+337
+00:20:25,060 --> 00:20:28,060
+And so that reflection is going to come back
+
+338
+00:20:28,060 --> 00:20:33,060
+and certain amount of it is going to pass back into the air.
+
+339
+00:20:33,060 --> 00:20:38,060
+So we are going to end up with two reflected beams,
+
+340
+00:20:38,060 --> 00:20:42,060
+the reflected beam one, or so-called primary reflected beam,
+
+341
+00:20:42,060 --> 00:20:44,060
+and then reflected beam number two,
+
+342
+00:20:44,060 --> 00:20:46,060
+or secondary reflected beam,
+
+343
+00:20:46,060 --> 00:20:49,060
+that has been produced through the reflection
+
+344
+00:20:49,060 --> 00:20:52,060
+between the optical coating and the glass.
+
+345
+00:20:52,060 --> 00:20:59,060
+So these two reflected beams are going to interfere,
+
+346
+00:20:59,060 --> 00:21:03,060
+and we're going to talk about that in lectures
+
+347
+00:21:03,060 --> 00:21:05,060
+that follow this one.
+
+348
+00:21:05,060 --> 00:21:07,060
+There's going to be certain, as I said, interference
+
+349
+00:21:07,060 --> 00:21:11,060
+where these two guys will either be adding up
+
+350
+00:21:11,060 --> 00:21:14,060
+or canceling out based on their phase,
+
+351
+00:21:14,060 --> 00:21:17,060
+and this so-called phase is going to be controlled
+
+352
+00:21:17,060 --> 00:21:21,060
+by the thickness of the optical coating.
+
+353
+00:21:21,060 --> 00:21:24,060
+So the phase of the two reflected beams
+
+354
+00:21:24,060 --> 00:21:27,060
+depends on their relative path lengths.
+
+355
+00:21:27,060 --> 00:21:30,060
+We can see that the path length of the reflected beam one
+
+356
+00:21:30,060 --> 00:21:33,060
+is significantly different than the path
+
+357
+00:21:33,060 --> 00:21:35,060
+of the reflected beam number two,
+
+358
+00:21:35,060 --> 00:21:37,060
+because reflected beam number two
+
+359
+00:21:37,060 --> 00:21:41,060
+have this extra route to go through,
+
+360
+00:21:41,060 --> 00:21:44,060
+which is equal to the approximately
+
+361
+00:21:44,060 --> 00:21:48,060
+twice the length of the optical coating.
+
+362
+00:21:48,060 --> 00:21:50,060
+So the path lengths are different,
+
+363
+00:21:50,060 --> 00:21:53,060
+phases are different, and these phases are so adjusted
+
+364
+00:21:53,060 --> 00:21:57,060
+for these two reflected beams to cancel out.
+
+365
+00:21:57,060 --> 00:22:01,060
+In such a case, we have achieved
+
+366
+00:22:01,060 --> 00:22:04,060
+a significant reduction of the reflection,
+
+367
+00:22:04,060 --> 00:22:06,060
+or maybe to better use the term,
+
+368
+00:22:06,060 --> 00:22:08,060
+instead of using the term reduction,
+
+369
+00:22:08,060 --> 00:22:13,060
+better to use the term of cancellation of the reflections.
+
+370
+00:22:14,060 --> 00:22:19,060
+So the reflection looks like it does not occur.
+
+371
+00:22:21,060 --> 00:22:24,060
+So the effect can be seen on the picture
+
+372
+00:22:24,060 --> 00:22:25,060
+on the right-hand side.
+
+373
+00:22:25,060 --> 00:22:29,060
+We can see that the glasses
+
+374
+00:22:29,060 --> 00:22:32,060
+on the picture on the left side
+
+375
+00:22:32,060 --> 00:22:34,060
+don't have optical coating,
+
+376
+00:22:34,060 --> 00:22:36,060
+so we see a significant reflection
+
+377
+00:22:36,060 --> 00:22:38,060
+of the surface of the glass,
+
+378
+00:22:38,060 --> 00:22:41,060
+as opposed to the optical glasses
+
+379
+00:22:41,060 --> 00:22:43,060
+on the picture on the right-hand side,
+
+380
+00:22:43,060 --> 00:22:45,060
+where there is no reflection,
+
+381
+00:22:45,060 --> 00:22:49,060
+where the reflection has been significantly reduced
+
+382
+00:22:49,060 --> 00:22:54,060
+to the process of entire reflection coating application.
+
+383
+00:22:54,060 --> 00:22:59,060
+Obviously, the thickness of the optical coating
+
+384
+00:22:59,060 --> 00:23:01,060
+is going to play an important role
+
+385
+00:23:01,060 --> 00:23:07,060
+as far as how the reflection is going to be,
+
+386
+00:23:07,060 --> 00:23:09,060
+what kind of interference is going to happen
+
+387
+00:23:09,060 --> 00:23:10,060
+between the reflected waves,
+
+388
+00:23:10,060 --> 00:23:12,060
+so there are certain formulas that can be used
+
+389
+00:23:12,060 --> 00:23:15,060
+to calculate the thickness of the optical coating
+
+390
+00:23:15,060 --> 00:23:18,060
+that's going to produce entire reflective properties.
+
+391
+00:23:18,060 --> 00:23:20,060
+Specifically on this slide,
+
+392
+00:23:20,060 --> 00:23:25,060
+you can see the whole concept being further expanded upon.
+
+393
+00:23:25,060 --> 00:23:27,060
+So we are talking about, again,
+
+394
+00:23:27,060 --> 00:23:30,060
+two reflected beams, beam number one
+
+395
+00:23:30,060 --> 00:23:32,060
+and beam number two,
+
+396
+00:23:32,060 --> 00:23:38,060
+that have a total of 180-degree phase difference
+
+397
+00:23:38,060 --> 00:23:42,060
+that is going to enable so-called
+
+398
+00:23:42,060 --> 00:23:44,060
+destructive interference or cancellation
+
+399
+00:23:44,060 --> 00:23:46,060
+of these two reflected beams.
+
+400
+00:23:46,060 --> 00:23:48,060
+There are certain formulas that can be used
+
+401
+00:23:48,060 --> 00:23:51,060
+to calculate the thickness of this coating
+
+402
+00:23:51,060 --> 00:23:55,060
+that is going to result in a 180-degree phase difference
+
+403
+00:23:55,060 --> 00:23:59,060
+between the two phases of these two reflected beams,
+
+404
+00:23:59,060 --> 00:24:02,060
+and if you do the proper math,
+
+405
+00:24:02,060 --> 00:24:03,060
+you're coming up with a formula
+
+406
+00:24:03,060 --> 00:24:05,060
+shown here on the right-hand side
+
+407
+00:24:05,060 --> 00:24:11,060
+that can be used as a direction
+
+408
+00:24:11,060 --> 00:24:14,060
+in terms of what kind of thickness
+
+409
+00:24:14,060 --> 00:24:20,060
+would have to be selected for an optical coating
+
+410
+00:24:20,060 --> 00:24:23,060
+to produce entire reflective properties
+
+411
+00:24:23,060 --> 00:24:28,060
+at a specific single wavelength of light, lambda.
+
+412
+00:24:28,060 --> 00:24:30,060
+Another popular type of coating
+
+413
+00:24:30,060 --> 00:24:33,060
+is so-called high-reflection coating.
+
+414
+00:24:33,060 --> 00:24:37,060
+So this type of coating has found many applications.
+
+415
+00:24:37,060 --> 00:24:40,060
+This slide here shows a specific type of application,
+
+416
+00:24:40,060 --> 00:24:44,060
+for example, in warmer regions of the country
+
+417
+00:24:44,060 --> 00:24:48,060
+where you want to have good control of air conditioning.
+
+418
+00:24:48,060 --> 00:24:51,060
+You don't want the solar energy
+
+419
+00:24:51,060 --> 00:25:00,060
+to heat the interior spaces of apartments or houses.
+
+420
+00:25:00,060 --> 00:25:04,060
+So you want to put a specific type of coating
+
+421
+00:25:04,060 --> 00:25:08,060
+on the frontal surface of the windows
+
+422
+00:25:08,060 --> 00:25:11,060
+that is going to enable a huge reflection
+
+423
+00:25:11,060 --> 00:25:15,060
+of the light that is coming from the sun.
+
+424
+00:25:15,060 --> 00:25:19,060
+So in such a case, you want to create
+
+425
+00:25:19,060 --> 00:25:22,060
+the so-called high-reflection type of coating
+
+426
+00:25:22,060 --> 00:25:25,060
+that is going to greatly increase the reflection.
+
+427
+00:25:25,060 --> 00:25:28,060
+The way how this type of coating works
+
+428
+00:25:28,060 --> 00:25:32,060
+is very similar to the previous anti-reflection coating.
+
+429
+00:25:32,060 --> 00:25:35,060
+It's just that here the condition is different.
+
+430
+00:25:35,060 --> 00:25:38,060
+So here we would want to establish
+
+431
+00:25:38,060 --> 00:25:41,060
+or achieve the thickness of the coating
+
+432
+00:25:41,060 --> 00:25:45,060
+that is going to enable the two reflective beams.
+
+433
+00:25:45,060 --> 00:25:47,060
+If you remember our beam one and beam number two,
+
+434
+00:25:47,060 --> 00:25:50,060
+you want these two beams this time
+
+435
+00:25:50,060 --> 00:25:52,060
+to interfere constructively
+
+436
+00:25:52,060 --> 00:25:55,060
+or you want them to add up.
+
+437
+00:25:55,060 --> 00:25:58,060
+And here very often multiple layers
+
+438
+00:25:58,060 --> 00:26:00,060
+of dielectric or metallic coatings
+
+439
+00:26:00,060 --> 00:26:03,060
+are being placed on a glass or a suitable surface.
+
+440
+00:26:03,060 --> 00:26:06,060
+You're going to see this type of application
+
+441
+00:26:06,060 --> 00:26:08,060
+also very often in lasers
+
+442
+00:26:08,060 --> 00:26:11,060
+because every laser has a cavity
+
+443
+00:26:11,060 --> 00:26:14,060
+that ends with two mirrors on each side
+
+444
+00:26:14,060 --> 00:26:16,060
+and those two mirrors have to have
+
+445
+00:26:16,060 --> 00:26:19,060
+very, very good reflective properties.
+
+446
+00:26:19,060 --> 00:26:21,060
+And the way how that's being achieved
+
+447
+00:26:21,060 --> 00:26:24,060
+is by creating multiple layers of coating
+
+448
+00:26:24,060 --> 00:26:26,060
+that is going to result
+
+449
+00:26:26,060 --> 00:26:31,060
+in a very, very efficient type of reflection.
+
+450
+00:26:31,060 --> 00:26:33,060
+So these coatings can be designed
+
+451
+00:26:33,060 --> 00:26:37,060
+for very high reflectance or partial reflectance.
+
+452
+00:26:37,060 --> 00:26:41,060
+It can be a function of wavelengths.
+
+453
+00:26:41,060 --> 00:26:44,060
+And in the case of high reflection coatings,
+
+454
+00:26:44,060 --> 00:26:47,060
+the thickness of the coating is, as I said,
+
+455
+00:26:47,060 --> 00:26:49,060
+adjusted to give constructive interference
+
+456
+00:26:49,060 --> 00:26:52,060
+between the reflected rays of light.
+
+457
+00:26:52,060 --> 00:26:53,060
+High reflectivity can be achieved
+
+458
+00:26:53,060 --> 00:26:55,060
+only in a narrow wavelength region
+
+459
+00:26:55,060 --> 00:26:58,060
+and also depends on the angle of incidence.
+
+460
+00:26:58,060 --> 00:27:00,060
+This is important, as I said, in the case of lasers
+
+461
+00:27:00,060 --> 00:27:03,060
+because lasers are devices
+
+462
+00:27:03,060 --> 00:27:05,060
+that are operating at a single wavelength.
+
+463
+00:27:05,060 --> 00:27:08,060
+So using a specific type of coating
+
+464
+00:27:08,060 --> 00:27:11,060
+is going to enable the reflection
+
+465
+00:27:11,060 --> 00:27:12,060
+of that specific wavelength
+
+466
+00:27:12,060 --> 00:27:15,060
+while other wavelengths are going to be passed
+
+467
+00:27:15,060 --> 00:27:16,060
+through the mirrors
+
+468
+00:27:16,060 --> 00:27:18,060
+as they are not playing an important role
+
+469
+00:27:18,060 --> 00:27:22,060
+in the performance of a laser system.
+
+470
+00:27:22,060 --> 00:27:24,060
+What you see on the right-hand side
+
+471
+00:27:24,060 --> 00:27:28,060
+are properties of different types of materials
+
+472
+00:27:28,060 --> 00:27:30,060
+based on the thickness of the layers
+
+473
+00:27:30,060 --> 00:27:31,060
+that have been applied.
+
+474
+00:27:31,060 --> 00:27:33,060
+And you can see here that
+
+475
+00:27:33,060 --> 00:27:36,060
+that specific wavelength, lambda sub-zero,
+
+476
+00:27:36,060 --> 00:27:39,060
+the reflectance is going to increase
+
+477
+00:27:39,060 --> 00:27:40,060
+if you add more layers.
+
+478
+00:27:40,060 --> 00:27:43,060
+So if you have applied just the two layers,
+
+479
+00:27:43,060 --> 00:27:46,060
+the reflectance is around 99%
+
+480
+00:27:46,060 --> 00:27:47,060
+and you can make it more efficient.
+
+481
+00:27:47,060 --> 00:27:48,060
+You can make it more reflective
+
+482
+00:27:48,060 --> 00:27:50,060
+by adding four or even five layers
+
+483
+00:27:50,060 --> 00:27:55,060
+where the reflectance goes from 99%
+
+484
+00:27:55,060 --> 00:27:58,060
+to almost 100%.
+
+485
+00:27:58,060 --> 00:28:02,060
+Every photonic slab has plenty of mirrors.
+
+486
+00:28:02,060 --> 00:28:03,060
+In the case of mirrors,
+
+487
+00:28:03,060 --> 00:28:05,060
+we are using metallic coatings.
+
+488
+00:28:05,060 --> 00:28:09,060
+So we are depositing certain coating
+
+489
+00:28:09,060 --> 00:28:12,060
+that's made out of a metal.
+
+490
+00:28:12,060 --> 00:28:13,060
+So in this case,
+
+491
+00:28:13,060 --> 00:28:15,060
+we are talking about highly reflective,
+
+492
+00:28:15,060 --> 00:28:18,060
+broadband, specular types of reflections,
+
+493
+00:28:18,060 --> 00:28:21,060
+as opposed to the optical coatings
+
+494
+00:28:21,060 --> 00:28:25,060
+made out of non-metallic materials
+
+495
+00:28:25,060 --> 00:28:28,060
+where the reflection is focused
+
+496
+00:28:28,060 --> 00:28:30,060
+on a specific single wavelength.
+
+497
+00:28:30,060 --> 00:28:32,060
+Here, we can produce the reflections
+
+498
+00:28:32,060 --> 00:28:36,060
+at a large range of different wavelengths.
+
+499
+00:28:36,060 --> 00:28:38,060
+And you can see here different types of metals
+
+500
+00:28:38,060 --> 00:28:41,060
+that are being used to produce metallic coatings,
+
+501
+00:28:41,060 --> 00:28:43,060
+aluminum, gold.
+
+502
+00:28:43,060 --> 00:28:45,060
+And it's very important to mention
+
+503
+00:28:45,060 --> 00:28:47,060
+that these metals are sensitive to corrosion
+
+504
+00:28:47,060 --> 00:28:49,060
+and therefore must be protected
+
+505
+00:28:49,060 --> 00:28:52,060
+by an additional protective dielectric coating.
+
+506
+00:28:52,060 --> 00:28:55,060
+Those nuances are addressed in some way
+
+507
+00:28:55,060 --> 00:28:58,060
+during the production of the mirrors
+
+508
+00:28:58,060 --> 00:29:01,060
+at the facilities that are making mirrors.
+
+509
+00:29:01,060 --> 00:29:03,060
+There's a few things that you would want
+
+510
+00:29:03,060 --> 00:29:06,060
+to pay close attention to.
+
+511
+00:29:06,060 --> 00:29:08,060
+You can see that, for example, aluminum
+
+512
+00:29:08,060 --> 00:29:11,060
+has relatively good properties
+
+513
+00:29:11,060 --> 00:29:14,060
+in terms of reflectance over the entire
+
+514
+00:29:14,060 --> 00:29:17,060
+ultraviolet and visible
+
+515
+00:29:17,060 --> 00:29:22,060
+and even infrared range that is about 90%.
+
+516
+00:29:22,060 --> 00:29:24,060
+As opposed to, for example, gold,
+
+517
+00:29:24,060 --> 00:29:26,060
+where you can see that the reflectance of gold
+
+518
+00:29:26,060 --> 00:29:29,060
+is good in infrared region about 700 nanometers,
+
+519
+00:29:29,060 --> 00:29:32,060
+while as you are moving into the visible region,
+
+520
+00:29:32,060 --> 00:29:35,060
+the reflectance of gold is kind of dropping down
+
+521
+00:29:35,060 --> 00:29:40,060
+to almost 40% at a color of violet
+
+522
+00:29:40,060 --> 00:29:43,060
+of 400 nanometers.
+
+523
+00:29:43,060 --> 00:29:46,060
+Let's slightly change the subject here
+
+524
+00:29:46,060 --> 00:29:48,060
+after we talked about coatings.
+
+525
+00:29:48,060 --> 00:29:50,060
+We also want to introduce optical filters.
+
+526
+00:29:50,060 --> 00:29:53,060
+Optical filters are also components
+
+527
+00:29:53,060 --> 00:29:58,060
+that are very frequently used in photonics labs.
+
+528
+00:29:58,060 --> 00:30:01,060
+You may come across many different types of filters
+
+529
+00:30:01,060 --> 00:30:05,060
+and here the classification is being presented.
+
+530
+00:30:05,060 --> 00:30:07,060
+So you may come across so-called
+
+531
+00:30:07,060 --> 00:30:10,060
+broadband filters, narrowband filters,
+
+532
+00:30:10,060 --> 00:30:13,060
+ND or neutral density filters,
+
+533
+00:30:13,060 --> 00:30:14,060
+stepped filters, radiometric,
+
+534
+00:30:14,060 --> 00:30:17,060
+photometric filters, polarizing filters,
+
+535
+00:30:17,060 --> 00:30:21,060
+and also certain special application filters.
+
+536
+00:30:21,060 --> 00:30:23,060
+In the following slides,
+
+537
+00:30:23,060 --> 00:30:28,060
+we're going to talk about some of the most popular
+
+538
+00:30:28,060 --> 00:30:32,060
+filters from this list.
+
+539
+00:30:32,060 --> 00:30:35,060
+The first type of filter that we're going to talk about
+
+540
+00:30:35,060 --> 00:30:36,060
+are so-called broadband filters.
+
+541
+00:30:36,060 --> 00:30:39,060
+Here we are talking about the filters that can transmit
+
+542
+00:30:39,060 --> 00:30:41,060
+a certain band of wavelengths of light
+
+543
+00:30:41,060 --> 00:30:45,060
+while blocking all other wavelengths outside of this band.
+
+544
+00:30:45,060 --> 00:30:49,060
+A typical performance curve of this type of broadband filter
+
+545
+00:30:49,060 --> 00:30:51,060
+is shown here on this slide.
+
+546
+00:30:51,060 --> 00:30:55,060
+You can see a bell-shaped type of a curve.
+
+547
+00:30:55,060 --> 00:30:58,060
+What this bell-shaped or Gaussian type of a curl
+
+548
+00:30:58,060 --> 00:31:01,060
+represents is basically what kind of wavelengths
+
+549
+00:31:01,060 --> 00:31:05,060
+are being passed to this type of a broadband filter.
+
+550
+00:31:05,060 --> 00:31:07,060
+So at the peak of the bell-shaped curve
+
+551
+00:31:07,060 --> 00:31:09,060
+is your central wavelength.
+
+552
+00:31:09,060 --> 00:31:11,060
+That's where you have the most of transmittance.
+
+553
+00:31:11,060 --> 00:31:14,060
+So if you select that wavelength,
+
+554
+00:31:14,060 --> 00:31:16,060
+most of the light at that wavelength
+
+555
+00:31:16,060 --> 00:31:18,060
+is going to be transmitted to this type of filter.
+
+556
+00:31:18,060 --> 00:31:21,060
+As you're moving away from the central wavelength,
+
+557
+00:31:21,060 --> 00:31:24,060
+you still have a certain range of wavelengths
+
+558
+00:31:24,060 --> 00:31:26,060
+around that central wavelength
+
+559
+00:31:26,060 --> 00:31:29,060
+where the transmittance is relatively high.
+
+560
+00:31:29,060 --> 00:31:31,060
+The way how you are establishing
+
+561
+00:31:31,060 --> 00:31:34,060
+so-called bandwidth of a broadband filter
+
+562
+00:31:34,060 --> 00:31:37,060
+is you're basically looking at the entire range
+
+563
+00:31:37,060 --> 00:31:40,060
+of the wavelengths where the transmittance
+
+564
+00:31:40,060 --> 00:31:43,060
+of a specific wavelength is about 50%
+
+565
+00:31:43,060 --> 00:31:45,060
+of the transmittance of the peak.
+
+566
+00:31:45,060 --> 00:31:49,060
+So, for example, if the peak has transmittance
+
+567
+00:31:49,060 --> 00:31:52,060
+of, let's say, 94%,
+
+568
+00:31:52,060 --> 00:31:55,060
+you're going to be looking at 50% of 94,
+
+569
+00:31:55,060 --> 00:31:58,060
+which in our case is going to be 47.
+
+570
+00:31:58,060 --> 00:32:01,060
+So at 47, you're going to look at the two wavelengths
+
+571
+00:32:01,060 --> 00:32:07,060
+where the transmittance is going to be dropped down to 47,
+
+572
+00:32:07,060 --> 00:32:10,060
+and you're going to establish the lower
+
+573
+00:32:10,060 --> 00:32:13,060
+and then higher end of your passband,
+
+574
+00:32:13,060 --> 00:32:15,060
+and that's going to define the bandwidth
+
+575
+00:32:15,060 --> 00:32:18,060
+of the broadband filter.
+
+576
+00:32:18,060 --> 00:32:19,060
+Another type of filter to mention
+
+577
+00:32:19,060 --> 00:32:21,060
+are so-called cutoff filters.
+
+578
+00:32:21,060 --> 00:32:23,060
+So these filters would allow radiation
+
+579
+00:32:23,060 --> 00:32:26,060
+up to a specific wavelength to pass
+
+580
+00:32:26,060 --> 00:32:30,060
+while cutting all other remaining wavelengths.
+
+581
+00:32:30,060 --> 00:32:34,060
+So for this specific type of curve that we're seeing here,
+
+582
+00:32:34,060 --> 00:32:37,060
+you can see that transmittance is very high,
+
+583
+00:32:37,060 --> 00:32:40,060
+is about 90% for all the wavelengths
+
+584
+00:32:40,060 --> 00:32:43,060
+above about 650 nanometers.
+
+585
+00:32:43,060 --> 00:32:45,060
+So this kind of filter is going to be passing
+
+586
+00:32:45,060 --> 00:32:48,060
+almost the entire infrared range
+
+587
+00:32:48,060 --> 00:32:50,060
+while cutting all the wavelengths
+
+588
+00:32:50,060 --> 00:32:53,060
+below 650 nanometers into the visible range
+
+589
+00:32:53,060 --> 00:32:56,060
+and further into the ultraviolet range.
+
+590
+00:32:56,060 --> 00:32:57,060
+We're going to find many applications
+
+591
+00:32:57,060 --> 00:32:59,060
+of these types of filters.
+
+592
+00:32:59,060 --> 00:33:04,060
+For example, if you're dealing with a specific type of a laser,
+
+593
+00:33:04,060 --> 00:33:08,060
+you want to address the safety concerns.
+
+594
+00:33:08,060 --> 00:33:11,060
+That laser is going to have a certain harmful radiation
+
+595
+00:33:11,060 --> 00:33:14,060
+at certain wavelengths,
+
+596
+00:33:14,060 --> 00:33:17,060
+so you would have to use a specific type of a filter
+
+597
+00:33:17,060 --> 00:33:19,060
+to cut off those wavelengths
+
+598
+00:33:19,060 --> 00:33:23,060
+so that you don't harm the eye
+
+599
+00:33:23,060 --> 00:33:24,060
+of the photonic technician
+
+600
+00:33:24,060 --> 00:33:26,060
+that is working with that type of a laser.
+
+601
+00:33:26,060 --> 00:33:30,060
+So specifically here, frequency double YAG laser
+
+602
+00:33:30,060 --> 00:33:34,060
+is mentioned that has output of 532 nanometers
+
+603
+00:33:34,060 --> 00:33:38,060
+and then also harmful infrared radiation
+
+604
+00:33:38,060 --> 00:33:41,060
+at 10, 60 nanometers.
+
+605
+00:33:41,060 --> 00:33:46,060
+So very often we would want to cut some of these wavelengths
+
+606
+00:33:46,060 --> 00:33:52,060
+in order to block any kind of potential damage
+
+607
+00:33:52,060 --> 00:33:56,060
+to either optical system
+
+608
+00:33:56,060 --> 00:34:02,060
+or to reduce the risk of any kind of hazard
+
+609
+00:34:02,060 --> 00:34:06,060
+to the people who are working in photonics lab.
+
+610
+00:34:06,060 --> 00:34:08,060
+Neutral density filters,
+
+611
+00:34:08,060 --> 00:34:11,060
+filters are the filters that are not wavelength sensitive.
+
+612
+00:34:11,060 --> 00:34:13,060
+They're intensity sensitive.
+
+613
+00:34:13,060 --> 00:34:15,060
+So we can see on the curves on the right-hand side
+
+614
+00:34:15,060 --> 00:34:18,060
+that the performance of these filters
+
+615
+00:34:18,060 --> 00:34:22,060
+is relatively flat over the entire range of wavelengths.
+
+616
+00:34:22,060 --> 00:34:27,060
+And these filters are also going to be very, very, very frequently used
+
+617
+00:34:27,060 --> 00:34:28,060
+in an optical lab.
+
+618
+00:34:28,060 --> 00:34:31,060
+So for example, you may have a certain equipment,
+
+619
+00:34:31,060 --> 00:34:33,060
+certain measurement equipment
+
+620
+00:34:33,060 --> 00:34:36,060
+that is sensitive to the irradiance
+
+621
+00:34:36,060 --> 00:34:42,060
+or the power of the light that is entering their detectors.
+
+622
+00:34:42,060 --> 00:34:45,060
+So you would want to put this type of filter
+
+623
+00:34:45,060 --> 00:34:47,060
+to reduce the intensity of light
+
+624
+00:34:47,060 --> 00:34:51,060
+so that it becomes non-harmful to the detectors
+
+625
+00:34:51,060 --> 00:34:55,060
+that are being used in these measuring devices.
+
+626
+00:34:55,060 --> 00:34:59,060
+You can see that according to the label
+
+627
+00:34:59,060 --> 00:35:03,060
+you may have ND30, ND20, ND10 or ND5
+
+628
+00:35:03,060 --> 00:35:05,060
+and many others.
+
+629
+00:35:05,060 --> 00:35:07,060
+And each of these different labels
+
+630
+00:35:07,060 --> 00:35:14,060
+would correspond to a specific amount of transmittance
+
+631
+00:35:14,060 --> 00:35:18,060
+through that type of neutral density filter.
+
+632
+00:35:18,060 --> 00:35:23,060
+The type of the filter depends also on something called optical density
+
+633
+00:35:23,060 --> 00:35:26,060
+or so-called number OD.
+
+634
+00:35:26,060 --> 00:35:30,060
+And we can see that the OD as shown on a plot
+
+635
+00:35:30,060 --> 00:35:31,060
+on the right-hand side
+
+636
+00:35:31,060 --> 00:35:34,060
+for different types of neutral density filter
+
+637
+00:35:34,060 --> 00:35:38,060
+can be translated into a specific amount of transmittance
+
+638
+00:35:38,060 --> 00:35:43,060
+using the formula shown in the equation on the left-hand side.
+
+639
+00:35:43,060 --> 00:35:51,060
+So for example, if you are considering the neutral density filter ND20
+
+640
+00:35:51,060 --> 00:35:57,060
+you can see that ND20 would have an optical density of about 2.
+
+641
+00:35:57,060 --> 00:36:00,060
+So ND20 has an optical density of about 2.
+
+642
+00:36:00,060 --> 00:36:04,060
+So if you take the OD equal to 2
+
+643
+00:36:04,060 --> 00:36:08,060
+and you substitute in the formula on the left-hand side
+
+644
+00:36:08,060 --> 00:36:11,060
+you're going to have 10 to the negative 2
+
+645
+00:36:11,060 --> 00:36:14,060
+which is equal to 0.01 or 1%.
+
+646
+00:36:14,060 --> 00:36:17,060
+In other words, that type of a filter is going to be passing
+
+647
+00:36:17,060 --> 00:36:20,060
+only 1% of the incident light.
+
+648
+00:36:20,060 --> 00:36:26,060
+So the ND20 filter is going to be passing only 1% of the incident light
+
+649
+00:36:26,060 --> 00:36:31,060
+while blocking the rest of 99% of that light.
+
+650
+00:36:31,060 --> 00:36:35,060
+So that's how you can translate a specific label
+
+651
+00:36:35,060 --> 00:36:39,060
+or type of neutral density filter based on the curve
+
+652
+00:36:39,060 --> 00:36:41,060
+that you see on the right-hand side
+
+653
+00:36:41,060 --> 00:36:44,060
+into a specific amount of transmittance.
+
+654
+00:36:44,060 --> 00:36:47,060
+Let's mention a few other types of filters.
+
+655
+00:36:47,060 --> 00:36:50,060
+Narrow band filter is a type of filter
+
+656
+00:36:50,060 --> 00:36:53,060
+that's going to pass the light only at a specific wavelength
+
+657
+00:36:53,060 --> 00:36:57,060
+while the rest of the spectrum is going to get reflected.
+
+658
+00:36:57,060 --> 00:37:00,060
+So it's kind of like very similar to a broadband filter
+
+659
+00:37:00,060 --> 00:37:03,060
+is just that in this case the whole bandwidth
+
+660
+00:37:03,060 --> 00:37:07,060
+is very, very, very reduced to a minimum
+
+661
+00:37:07,060 --> 00:37:09,060
+almost like a single wavelength is being passed
+
+662
+00:37:09,060 --> 00:37:10,060
+through this type of a filter.
+
+663
+00:37:10,060 --> 00:37:12,060
+Radiometric filters are the filters
+
+664
+00:37:12,060 --> 00:37:15,060
+that are going to transmit light equally at all wavelengths.
+
+665
+00:37:15,060 --> 00:37:18,060
+They have found different applications
+
+666
+00:37:18,060 --> 00:37:20,060
+such as in the case of light detectors
+
+667
+00:37:20,060 --> 00:37:23,060
+that often do not have a flat response
+
+668
+00:37:23,060 --> 00:37:24,060
+to all the wavelengths of light.
+
+669
+00:37:24,060 --> 00:37:26,060
+And these filters are going to be used
+
+670
+00:37:26,060 --> 00:37:29,060
+to establish that kind of balance
+
+671
+00:37:29,060 --> 00:37:32,060
+so that the light detector reacts
+
+672
+00:37:32,060 --> 00:37:37,060
+to the entire range of wavelengths of interest in the same way.
+
+673
+00:37:37,060 --> 00:37:39,060
+Photometric filters are the filters
+
+674
+00:37:39,060 --> 00:37:43,060
+that are transmitting maximum light at 550 nanometers
+
+675
+00:37:43,060 --> 00:37:46,060
+and then falls deeply on each side.
+
+676
+00:37:46,060 --> 00:37:49,060
+And these type of photometric filters
+
+677
+00:37:49,060 --> 00:37:52,060
+are basically a replica of the performance of a human eye.
+
+678
+00:37:52,060 --> 00:37:55,060
+So you can see the two curves on the left-hand side
+
+679
+00:37:55,060 --> 00:38:00,060
+one that represents the filtering properties of a human eye
+
+680
+00:38:00,060 --> 00:38:04,060
+another one that represents the filtering properties
+
+681
+00:38:04,060 --> 00:38:06,060
+of a photocell with a photometric filter.
+
+682
+00:38:06,060 --> 00:38:11,060
+So there's certain applications where you want to replicate
+
+683
+00:38:11,060 --> 00:38:14,060
+the filtering properties of the human eye
+
+684
+00:38:14,060 --> 00:38:16,060
+and that's where the photometric filters
+
+685
+00:38:16,060 --> 00:38:18,060
+are going to find their use.
+
+686
+00:38:18,060 --> 00:38:22,060
+And finally, at the end, since we are talking about the filters
+
+687
+00:38:22,060 --> 00:38:26,060
+we cannot avoid the subject of a protective eyewear.
+
+688
+00:38:26,060 --> 00:38:29,060
+This is an important subject that is going to be addressed
+
+689
+00:38:29,060 --> 00:38:33,060
+in a separate lecture at the end of this course.
+
+690
+00:38:33,060 --> 00:38:37,060
+We are going to soon talk about the human eye
+
+691
+00:38:37,060 --> 00:38:41,060
+and its sensitivity to the light
+
+692
+00:38:41,060 --> 00:38:45,060
+especially to a stronger power of the light beams.
+
+693
+00:38:45,060 --> 00:38:49,060
+So before we talk about that we're going to just
+
+694
+00:38:49,060 --> 00:38:51,060
+introduce the concept of the laser safety
+
+695
+00:38:51,060 --> 00:38:54,060
+and the safety in the photonics lab.
+
+696
+00:38:54,060 --> 00:38:57,060
+We are going to see that certain lasers
+
+697
+00:38:57,060 --> 00:39:00,060
+with the powers above certain thresholds
+
+698
+00:39:00,060 --> 00:39:02,060
+and the certain durations of exposure
+
+699
+00:39:02,060 --> 00:39:05,060
+will be having a hazardous effect
+
+700
+00:39:05,060 --> 00:39:08,060
+harmful effect to the human eye.
+
+701
+00:39:08,060 --> 00:39:13,060
+So as a photonics technician you would need to know
+
+702
+00:39:13,060 --> 00:39:16,060
+how to properly select a protective safety eyewear
+
+703
+00:39:16,060 --> 00:39:18,060
+in the photonics lab.
+
+704
+00:39:18,060 --> 00:39:21,060
+So again, laser safety is a very important factor
+
+705
+00:39:21,060 --> 00:39:24,060
+in the laser laboratory and this protective eyewear
+
+706
+00:39:24,060 --> 00:39:28,060
+is nothing else than a specific type of filter
+
+707
+00:39:28,060 --> 00:39:31,060
+that is blocking light at specific wavelengths
+
+708
+00:39:31,060 --> 00:39:34,060
+while passing the light at other wavelengths.
+
+709
+00:39:34,060 --> 00:39:37,060
+So if you're looking at a human body
+
+710
+00:39:37,060 --> 00:39:40,060
+with various organs it turns out that the eye
+
+711
+00:39:40,060 --> 00:39:43,060
+is the most vulnerable to the laser radiation
+
+712
+00:39:43,060 --> 00:39:46,060
+because if the reflected laser beam
+
+713
+00:39:46,060 --> 00:39:51,060
+or incident laser beam is focused on a retina of the eye
+
+714
+00:39:51,060 --> 00:39:54,060
+it can result in a significant damage
+
+715
+00:39:54,060 --> 00:39:57,060
+that may be severe and irreparable.
+
+716
+00:39:57,060 --> 00:40:00,060
+And in order for that to avoid
+
+717
+00:40:00,060 --> 00:40:03,060
+you have to use specific type of a protective eyewear,
+
+718
+00:40:03,060 --> 00:40:06,060
+specific type of safety goggles
+
+719
+00:40:06,060 --> 00:40:09,060
+that would have specific types of properties
+
+720
+00:40:09,060 --> 00:40:12,060
+and specific type of filtering characteristics.
+
+721
+00:40:12,060 --> 00:40:16,060
+So you can see here one type of laser protective eyewear
+
+722
+00:40:16,060 --> 00:40:19,060
+and then also a curve that presents the transmittance
+
+723
+00:40:19,060 --> 00:40:22,060
+through this type of laser safety eyewear.
+
+724
+00:40:22,060 --> 00:40:27,060
+You can see here that this type of laser safety eyewear
+
+725
+00:40:27,060 --> 00:40:30,060
+is going to have good blocking characteristics
+
+726
+00:40:30,060 --> 00:40:34,060
+at the wavelengths of 430 and below.
+
+727
+00:40:34,060 --> 00:40:37,060
+So this type of laser safety eyewear
+
+728
+00:40:37,060 --> 00:40:41,060
+is going to be used for that range, for the ultraviolet range
+
+729
+00:40:41,060 --> 00:40:44,060
+while at the same time is passing the visible range.
+
+730
+00:40:44,060 --> 00:40:46,060
+So if you are dealing with, for example,
+
+731
+00:40:46,060 --> 00:40:49,060
+the ultraviolet laser, UV laser
+
+732
+00:40:49,060 --> 00:40:53,060
+you want to protect your eyes from that UV radiation
+
+733
+00:40:53,060 --> 00:40:55,060
+that's coming off of the UV laser
+
+734
+00:40:55,060 --> 00:40:58,060
+and this type of laser safety eyewear
+
+735
+00:40:58,060 --> 00:41:00,060
+with this type of filtering curve
+
+736
+00:41:00,060 --> 00:41:04,060
+may be a good fit for that type of purpose
+
+737
+00:41:04,060 --> 00:41:06,060
+or for that type of application.
+
+738
+00:41:06,060 --> 00:41:10,060
+To conclude the lecture number five of our video series,
+
+739
+00:41:10,060 --> 00:41:15,060
+in this lecture we started considering certain practical aspects
+
+740
+00:41:15,060 --> 00:41:21,060
+of photonics lab after we introduced light
+
+741
+00:41:21,060 --> 00:41:24,060
+and important quantities that describes the light
+
+742
+00:41:24,060 --> 00:41:26,060
+in our first three lectures
+
+743
+00:41:26,060 --> 00:41:31,060
+and after we laid out the foundation of photonics
+
+744
+00:41:31,060 --> 00:41:34,060
+and after we talked about the terminology of light,
+
+745
+00:41:34,060 --> 00:41:38,060
+the nature of light, its interaction with the media.
+
+746
+00:41:38,060 --> 00:41:43,060
+In this lecture we are slowly moving into the photonics lab
+
+747
+00:41:43,060 --> 00:41:48,060
+and we are trying to see how all those basic foundations
+
+748
+00:41:48,060 --> 00:41:51,060
+of how the light interacts with the media
+
+749
+00:41:51,060 --> 00:41:55,060
+can be translated into its use in the photonics lab.
+
+750
+00:41:55,060 --> 00:41:58,060
+So we started talking about optical materials,
+
+751
+00:41:58,060 --> 00:42:02,060
+optical components, coatings, filters.
+
+752
+00:42:03,060 --> 00:42:06,060
+So these types of components
+
+753
+00:42:06,060 --> 00:42:09,060
+are going to be frequently used in the photonics lab.
+
+754
+00:42:09,060 --> 00:42:11,060
+So you're going to be frequently using them
+
+755
+00:42:11,060 --> 00:42:12,060
+as a photonics technician.
+
+756
+00:42:12,060 --> 00:42:15,060
+So it's important to understand the background
+
+757
+00:42:15,060 --> 00:42:18,060
+behind their operation.
+
+758
+00:42:18,060 --> 00:42:19,060
+Next time in the lecture six,
+
+759
+00:42:19,060 --> 00:42:21,060
+we are going to be talking about optical amounts
+
+760
+00:42:21,060 --> 00:42:26,060
+which is also going to be an important subject
+
+761
+00:42:26,060 --> 00:42:30,060
+that you should be aware as a photonics technician.
+
+762
+00:42:30,060 --> 00:42:33,060
+So here I'm going to conclude lecture number five.
+
+763
+00:42:33,060 --> 00:42:36,060
+I wish you the pleasant rest of the day
+
+764
+00:42:36,060 --> 00:42:37,060
+and see you next time.

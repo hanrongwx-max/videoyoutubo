@@ -1,0 +1,851 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "segments": [
+  {
+   "start": 9.97,
+   "end": 14.97,
+   "text": "Hi there, this is lecture 4 in the Introduction to Photonics video series."
+  },
+  {
+   "start": 14.97,
+   "end": 19.97,
+   "text": "The title of this lecture is More on Properties of Light."
+  },
+  {
+   "start": 19.97,
+   "end": 24.97,
+   "text": "In the previous three lectures, we laid foundations of photonics."
+  },
+  {
+   "start": 24.97,
+   "end": 28.97,
+   "text": "We established the terminology that describes the light."
+  },
+  {
+   "start": 28.97,
+   "end": 31.97,
+   "text": "We talked about different properties of light."
+  },
+  {
+   "start": 31.97,
+   "end": 34.97,
+   "text": "We established the dual nature of light."
+  },
+  {
+   "start": 34.97,
+   "end": 38.97,
+   "text": "We talked about absorption and emission in the previous lecture."
+  },
+  {
+   "start": 38.97,
+   "end": 43.97,
+   "text": "This lecture number 4 takes us one step further."
+  },
+  {
+   "start": 43.97,
+   "end": 49.97,
+   "text": "We are going to expand on the topics related to the properties of light."
+  },
+  {
+   "start": 49.97,
+   "end": 55.97,
+   "text": "We are going to expand on the stuff that we talked about in the previous three lectures."
+  },
+  {
+   "start": 55.97,
+   "end": 62.97,
+   "text": "Specifically, in this lecture, we are going to cover topics that are going to help us better understand"
+  },
+  {
+   "start": 62.97,
+   "end": 68.97,
+   "text": "the nature of optical materials and their transmission and reflection characteristics as a function of the wavelength."
+  },
+  {
+   "start": 68.97,
+   "end": 77.97,
+   "text": "We are also going to talk about the selection of optical materials for specific use in the visible ultraviolet or infrared region."
+  },
+  {
+   "start": 77.97,
+   "end": 84.97,
+   "text": "Finally, we are going to explain how a single and multiple anti-reflection coatings and filters are made and used."
+  },
+  {
+   "start": 84.97,
+   "end": 90.97,
+   "text": "With this lecture, we are slowly moving in the direction of an optical lab."
+  },
+  {
+   "start": 90.97,
+   "end": 100.97,
+   "text": "We are going to start talking about optical components and different amounts that are to be found in a standard optical lab."
+  },
+  {
+   "start": 100.97,
+   "end": 112.97,
+   "text": "We are going to try to make a transition from the basic theoretical foundations of photonics into more of a practical concept."
+  },
+  {
+   "start": 113.97,
+   "end": 121.97,
+   "text": "The first concept that we are going to mention is the optical materials that are to be found in an optical lab."
+  },
+  {
+   "start": 121.97,
+   "end": 127.97,
+   "text": "We are going to find a large variety of different optical materials and different optical components."
+  },
+  {
+   "start": 127.97,
+   "end": 135.97,
+   "text": "In general, we can classify them in so-called non-transparent and also so-called transparent types of optical materials."
+  },
+  {
+   "start": 135.97,
+   "end": 140.97,
+   "text": "We are going to define each of these throughout this lecture."
+  },
+  {
+   "start": 141.97,
+   "end": 144.97,
+   "text": "The first that we are going to talk about is the transparent optical medium."
+  },
+  {
+   "start": 144.97,
+   "end": 147.97,
+   "text": "Everyone knows what transparent means."
+  },
+  {
+   "start": 147.97,
+   "end": 152.97,
+   "text": "The most popular definition when we say transparent means something that we can see through."
+  },
+  {
+   "start": 152.97,
+   "end": 159.97,
+   "text": "But if you want to kind of be more specific and use the term from the field of photonics,"
+  },
+  {
+   "start": 159.97,
+   "end": 168.97,
+   "text": "we are going to define transparent optical medium as a medium that has a low absorption, low reflection,"
+  },
+  {
+   "start": 169.97,
+   "end": 175.97,
+   "text": "distortion of light that's passing through it is reduced to a minimum."
+  },
+  {
+   "start": 175.97,
+   "end": 180.97,
+   "text": "It also would have a high damage threshold for laser radiation."
+  },
+  {
+   "start": 180.97,
+   "end": 185.97,
+   "text": "And finally, it's going to have a minimal optical degradation to different environmental effects,"
+  },
+  {
+   "start": 185.97,
+   "end": 191.97,
+   "text": "such as temperature, water vapor, and other hostile environment conditions."
+  },
+  {
+   "start": 191.97,
+   "end": 197.97,
+   "text": "On this slide, we are going to further expand on the topic of our index of refraction."
+  },
+  {
+   "start": 198.97,
+   "end": 201.97,
+   "text": "In one of the previous lectures, we defined index of refraction."
+  },
+  {
+   "start": 201.97,
+   "end": 208.97,
+   "text": "We said that index of refraction represents a unitless quantity that characterizes a specific medium."
+  },
+  {
+   "start": 208.97,
+   "end": 215.97,
+   "text": "Every medium has a specific index of refraction that defines optical properties of that material."
+  },
+  {
+   "start": 215.97,
+   "end": 222.97,
+   "text": "To be more specific, index of refraction represents the number that shows us how much is the speed of light"
+  },
+  {
+   "start": 222.97,
+   "end": 228.97,
+   "text": "reduced in that specific medium relative to the speed of light in air or vacuum."
+  },
+  {
+   "start": 228.97,
+   "end": 234.97,
+   "text": "So once more, index of refraction or refractive index is defined as the ratio of the speed of light"
+  },
+  {
+   "start": 234.97,
+   "end": 238.97,
+   "text": "in a vacuum to the speed of light in a particular medium."
+  },
+  {
+   "start": 238.97,
+   "end": 244.97,
+   "text": "We are talking about a unitless quantity that's always greater than 1."
+  },
+  {
+   "start": 244.97,
+   "end": 250.97,
+   "text": "If index of refraction is equal to 1, it means that we are talking about the vacuum,"
+  },
+  {
+   "start": 250.97,
+   "end": 257.97,
+   "text": "we are talking about the medium that has a speed of light equal to the 3 times 10 to the 8 meters per second."
+  },
+  {
+   "start": 257.97,
+   "end": 266.97,
+   "text": "It's also important to understand that the index of refraction is also going to be a function of the wavelength."
+  },
+  {
+   "start": 266.97,
+   "end": 272.97,
+   "text": "That's something new that we haven't mentioned before, and we are introducing on this specific slide."
+  },
+  {
+   "start": 272.97,
+   "end": 286.97,
+   "text": "So if you're looking at a plot on our right-hand side, we see here two plots, three plots, three curves for three different types of material."
+  },
+  {
+   "start": 286.97,
+   "end": 292.97,
+   "text": "On the top we have a crown glass, and then we have acrylic, and finally on the bottom we have a fused quartz."
+  },
+  {
+   "start": 292.97,
+   "end": 302.97,
+   "text": "On a horizontal x-axis are different wavelengths that are covering a visible spectrum ranging from 400 nanometers all the way to 700 nanometers,"
+  },
+  {
+   "start": 302.97,
+   "end": 307.97,
+   "text": "and then on the vertical axis we have the index of refraction."
+  },
+  {
+   "start": 307.97,
+   "end": 314.97,
+   "text": "You can see that these three curves are not flat. In other words, the index of refraction is changing with the wavelength."
+  },
+  {
+   "start": 314.97,
+   "end": 321.97,
+   "text": "So for example, if you're looking at acrylic, which is a very popular type of medium used in many optical components in a photonics lab,"
+  },
+  {
+   "start": 321.97,
+   "end": 335.97,
+   "text": "we see that at the wavelength of red, the wavelength of violet, which is 400 nanometers, the index of refraction of acrylic is about 1.51."
+  },
+  {
+   "start": 335.97,
+   "end": 343.97,
+   "text": "And if you are going all the way to the right side, if you come closer to the 700 nanometers, which is the wavelength of red,"
+  },
+  {
+   "start": 343.97,
+   "end": 352.97,
+   "text": "we see that index of refraction of acrylic dropped from 1.51 all the way down to below 1.49."
+  },
+  {
+   "start": 352.97,
+   "end": 365.97,
+   "text": "So these differences are relatively small, so we're talking here about the range of change from 1.51 to 1.49 in the case of acrylic,"
+  },
+  {
+   "start": 365.97,
+   "end": 372.97,
+   "text": "but they are enough to produce a certain effect that we can very easily observe."
+  },
+  {
+   "start": 372.97,
+   "end": 381.97,
+   "text": "For example, if we have a prism that's made out of acrylic, if you're shooting the different colors of light,"
+  },
+  {
+   "start": 381.97,
+   "end": 390.97,
+   "text": "those different colors will be refracted at different angles due to the fact that index of refraction is different for those different colors."
+  },
+  {
+   "start": 390.97,
+   "end": 403.97,
+   "text": "In other words, if we are shooting white light through the prism made out of acrylic, what you'll see on the other side is that that white is going to be broken down into all the colors that it's made out of."
+  },
+  {
+   "start": 403.97,
+   "end": 409.97,
+   "text": "And that's exactly practical application of the concept that we're introducing on this specific slide."
+  },
+  {
+   "start": 409.97,
+   "end": 420.97,
+   "text": "So once more, index of refraction is a unit list quantity that describes the ratio of the speed of light in the vacuum to the speed of light in a specific medium."
+  },
+  {
+   "start": 420.97,
+   "end": 438.97,
+   "text": "And this unit list quantity is a function of the wavelength. In other words, it's changing with the wavelength. What we see on the right hand side is an example with three curves representing three different types of optical materials that are very popular materials used in photonics."
+  },
+  {
+   "start": 439.97,
+   "end": 445.97,
+   "text": "The next topic that we are going to expand in this lecture is a concept of absorption and transmission of light."
+  },
+  {
+   "start": 445.97,
+   "end": 451.97,
+   "text": "In the previous lecture, number three, we talked about particle properties of light."
+  },
+  {
+   "start": 451.97,
+   "end": 460.97,
+   "text": "And we translated those properties into specific phenomena that relate to the light, specifically interaction of light and the medium."
+  },
+  {
+   "start": 460.97,
+   "end": 477.97,
+   "text": "And we said that if light passes through a medium, an absorption phenomenon is taking place where the power of the light beam is being reduced as the light is propagating through that medium."
+  },
+  {
+   "start": 477.97,
+   "end": 487.97,
+   "text": "And why is that happening has been explained in the previous lecture. We talked about atomic model of a material."
+  },
+  {
+   "start": 487.97,
+   "end": 497.97,
+   "text": "We talked about different energy levels of different electrons, how they're moving from our lower to higher energy levels as they're absorbing the light, etc."
+  },
+  {
+   "start": 497.97,
+   "end": 501.97,
+   "text": "So on this slide, we are going to quantify that whole concept."
+  },
+  {
+   "start": 502.97,
+   "end": 513.97,
+   "text": "So what you see on the right hand side is a plot of an optical window of a thickness x. So this optical window is made out of certain material."
+  },
+  {
+   "start": 513.97,
+   "end": 522.97,
+   "text": "And the property of material is specified through this so-called absorbing material coefficient alpha."
+  },
+  {
+   "start": 522.97,
+   "end": 527.97,
+   "text": "So this number alpha is changing with different media."
+  },
+  {
+   "start": 527.97,
+   "end": 533.97,
+   "text": "From the left hand side, we have an incident light that carries a certain power."
+  },
+  {
+   "start": 533.97,
+   "end": 540.97,
+   "text": "And here we are also going to introduce the concept of so-called irradiance. Irradiance represents the power over the area."
+  },
+  {
+   "start": 540.97,
+   "end": 550.97,
+   "text": "So if you are, for example, looking at two different laser beams, and let's say both of those laser beams are carrying power of 10 watts."
+  },
+  {
+   "start": 550.97,
+   "end": 561.97,
+   "text": "However, one of the laser beams is very wide, while the other one is very thin."
+  },
+  {
+   "start": 561.97,
+   "end": 575.97,
+   "text": "The effect that a thin laser beam is going to make on the material is going to be much larger than the effect that a wider beam is going to make, although both of them are carrying the same power of 10 watts."
+  },
+  {
+   "start": 575.97,
+   "end": 596.97,
+   "text": "So in order to capture that type of effect, we have to look at a different quantity that's going to take into account both the power on the one side and then also the area or the thickness or if you wish, the width of the beam of that light."
+  },
+  {
+   "start": 596.97,
+   "end": 604.97,
+   "text": "And that quantity is so-called irradiance. So we define irradiance as a power of a specific area."
+  },
+  {
+   "start": 604.97,
+   "end": 620.97,
+   "text": "So this incident light that you're seeing here coming from the left side and entering the optical window is going to have a specific irradiance, E0, and it also is specified by the wavelength lambda."
+  },
+  {
+   "start": 620.97,
+   "end": 632.97,
+   "text": "What we also see is that same beam of light exits the optical window. We see that irradiance changed. It's not anymore E0."
+  },
+  {
+   "start": 632.97,
+   "end": 642.97,
+   "text": "Now it is equal to capital E. In other words, the irradiance has changed because a certain amount of power has been absorbed in this optical medium."
+  },
+  {
+   "start": 642.97,
+   "end": 654.97,
+   "text": "The question is how we can quantify, how we can calculate what is the power, what is the irradiance on the right side compared to the irradiance on the left side."
+  },
+  {
+   "start": 654.97,
+   "end": 664.97,
+   "text": "What is the comparison between the output power that exits the optical window and the input power that enters this optical window?"
+  },
+  {
+   "start": 664.97,
+   "end": 678.97,
+   "text": "It turns out that there is a specific formula, there is a specific law that's shown here in a box on the left-hand side where the output irradiance E is a function of the input irradiance E0"
+  },
+  {
+   "start": 678.97,
+   "end": 689.97,
+   "text": "and then also a function of the type of material that's captured to the coefficient alpha and then also is a function of the thickness of the window that's captured to the parameter x."
+  },
+  {
+   "start": 689.97,
+   "end": 697.97,
+   "text": "So once more E0, capital E0 represents the incident irradiance, incident power per unit area."
+  },
+  {
+   "start": 697.97,
+   "end": 704.97,
+   "text": "Capital E is going to capture the transmitted irradiance or the output irradiance."
+  },
+  {
+   "start": 704.97,
+   "end": 718.97,
+   "text": "Alpha is an absorption coefficient in the units of reciprocal length that captures the properties of the material that optical window is made out of and finally x represents the thickness of the optical window."
+  },
+  {
+   "start": 718.97,
+   "end": 729.97,
+   "text": "And we see that through the formula, through the law that's being shown here, the output irradiance is going to be the function of the input irradiance,"
+  },
+  {
+   "start": 729.97,
+   "end": 736.97,
+   "text": "type of material that optical window is made out of and finally thickness of that window."
+  },
+  {
+   "start": 736.97,
+   "end": 753.97,
+   "text": "We can also define so-called transmittance. The transmittance is basically a representation of how much percentage wise of the input power has been transmitted over to the other side of this optical window."
+  },
+  {
+   "start": 753.97,
+   "end": 764.97,
+   "text": "So if we take a ratio of the output irradiance E and the input irradiance E0 and multiply by 100, we are going to get so-called transmittance."
+  },
+  {
+   "start": 764.97,
+   "end": 768.97,
+   "text": "That's going to be the percentage quantity."
+  },
+  {
+   "start": 768.97,
+   "end": 789.97,
+   "text": "So it's very easy if we apply the formula from the previous slide to see that this transmittance, the quantity transmittance, is going to be determined by the properties of this optical window and also the thickness of the window."
+  },
+  {
+   "start": 789.97,
+   "end": 798.97,
+   "text": "So we can also observe that the absorption coefficient alpha depends on the nature of the material and the wavelength of the light."
+  },
+  {
+   "start": 798.97,
+   "end": 810.97,
+   "text": "It's also important to mention that most of the optical glass materials, transparent materials that are being used in photonics labs, would transmit nearly 100% of the visible light,"
+  },
+  {
+   "start": 810.97,
+   "end": 816.97,
+   "text": "meaning the entire range from the near ultraviolet all the way to the near infrared."
+  },
+  {
+   "start": 816.97,
+   "end": 827.97,
+   "text": "Now that we established the parameter transmittance, let's shift out our focus to the transmission properties of different optical materials used in the field of photonics."
+  },
+  {
+   "start": 827.97,
+   "end": 842.97,
+   "text": "So let's look at a fused silica and fused quartz first. These two materials are very popular and have been used for many types of optical components that are used in the photonics lab."
+  },
+  {
+   "start": 842.97,
+   "end": 850.97,
+   "text": "And it turns out that these two materials are used in the ultraviolet region from 0.2 to 0.4 micrometers."
+  },
+  {
+   "start": 850.97,
+   "end": 859.97,
+   "text": "We also have a whole bunch of different glasses that have reduced transmission beyond 3.4 microns in the infrared region, etc."
+  },
+  {
+   "start": 859.97,
+   "end": 866.97,
+   "text": "So we can identify a whole bunch of different types of materials. We mentioned here fused silica and fused quartz."
+  },
+  {
+   "start": 866.97,
+   "end": 877.97,
+   "text": "We also have a Pyrex, we have a Zerodur, etc. Now, it's also important to spend a few minutes explaining what you're seeing here on this plot on the left-hand side."
+  },
+  {
+   "start": 877.97,
+   "end": 883.97,
+   "text": "What you see here are the transmission properties of a few different types of materials."
+  },
+  {
+   "start": 883.97,
+   "end": 892.97,
+   "text": "On the bottom, on the horizontal axis, you have a wavelength, and then on the vertical axis, you have a transmittance in terms of percentage."
+  },
+  {
+   "start": 892.97,
+   "end": 899.97,
+   "text": "So for example, let's focus on the curve D that represents the curve for the material called Zerodur."
+  },
+  {
+   "start": 899.97,
+   "end": 913.97,
+   "text": "You can see that Zerodur has a relatively high transmittance in the range of, let's say, 0.7 microns all the way to, let's say, 3 microns."
+  },
+  {
+   "start": 913.97,
+   "end": 921.97,
+   "text": "So 0.7 microns is about 700 nanometers and above. So 700 nanometers and above, we are talking about infrared region."
+  },
+  {
+   "start": 921.97,
+   "end": 938.97,
+   "text": "As we are moving to the wavelengths below the infrared, if you're entering the visible spectrum, so from 0.7 microns up to 0.7 microns or 400 nanometers to 700 nanometers that represents the visible spectrum,"
+  },
+  {
+   "start": 938.97,
+   "end": 954.97,
+   "text": "you see that the transmittance of Zerodur significantly degrades to the point where at the wavelength of 400 nanometers that represents the violet color, we have the transmittance of about 30%."
+  },
+  {
+   "start": 954.97,
+   "end": 965.97,
+   "text": "So what this shows us is that this type of material, Zerodur, has a very, very different transmission properties at different wavelengths."
+  },
+  {
+   "start": 965.97,
+   "end": 983.97,
+   "text": "So if our goal is to create the optical component that is passing most of light in the infrared region while it is blocking a significant amount of light in the visible and ultraviolet region,"
+  },
+  {
+   "start": 983.97,
+   "end": 1005.97,
+   "text": "then this material may be a good candidate because, as I said, in infrared region, the transmittance of this material is around 90%, in other words, almost all the light, 90% of the light that's in infrared region will be passing through Zerodur."
+  },
+  {
+   "start": 1005.97,
+   "end": 1020.97,
+   "text": "You can draw similar conclusions for other materials, for other three materials, meaning fused silica, fused quartz, and pyrex from the other three curves A, B, and C on this plot."
+  },
+  {
+   "start": 1020.97,
+   "end": 1043.97,
+   "text": "So what you are seeing on this slide, this plot, is actually very important. So if you are working as a photonics technician in a photonics lab and you are operating a specific type of a laser or different type of optical system and you need to have a good transmission properties, transmission characteristics in infrared region,"
+  },
+  {
+   "start": 1043.97,
+   "end": 1060.97,
+   "text": "then you would be analyzing, if you are selecting a specific optical component made out of a specific material, you would want to look at the transmission characteristic of that medium, so you would be analyzing the curves similar to those that you are seeing here on this slide."
+  },
+  {
+   "start": 1060.97,
+   "end": 1072.97,
+   "text": "This slide further elaborates the properties of different optical materials that are used in the field of photonics. So here, a table is shown."
+  },
+  {
+   "start": 1072.97,
+   "end": 1088.97,
+   "text": "On the left side, you have a column that specifies different types of materials, and then, you know, there's a few other columns, columns that show the wavelength range, refractive index, and finally, certain other properties of this media."
+  },
+  {
+   "start": 1088.97,
+   "end": 1100.97,
+   "text": "So these types of tables start being very handy if you are performing certain types of experiments that involve these materials in a photonic lab."
+  },
+  {
+   "start": 1100.97,
+   "end": 1110.97,
+   "text": "Starting with this slide, we are shifting our focus from absorption and transmission to the concept of surface reflection."
+  },
+  {
+   "start": 1110.97,
+   "end": 1121.97,
+   "text": "So we are still looking at the boundary between the two media, as shown in the picture on the left side."
+  },
+  {
+   "start": 1121.97,
+   "end": 1130.97,
+   "text": "You can see that here we are dealing with the air on the left-hand side, and we are dealing with the glass on the right-hand side."
+  },
+  {
+   "start": 1130.97,
+   "end": 1137.97,
+   "text": "Each of these two media are characterized by the index of refraction. In the case of air, we are dealing with the index of refraction equal to one."
+  },
+  {
+   "start": 1137.97,
+   "end": 1145.97,
+   "text": "And then, in the case of a glass, we are dealing with a type of glass that has index of refraction equal to 1.5."
+  },
+  {
+   "start": 1145.97,
+   "end": 1154.97,
+   "text": "So what are we interested in this case here is what is happening when the light hits the boundary between the air and the glass."
+  },
+  {
+   "start": 1154.97,
+   "end": 1162.97,
+   "text": "We know that, according to the wave properties, there is going to be a certain reflection of light from this boundary."
+  },
+  {
+   "start": 1162.97,
+   "end": 1168.97,
+   "text": "We can use the law of reflection to determine the direction of the reflected beam."
+  },
+  {
+   "start": 1168.97,
+   "end": 1180.97,
+   "text": "But what we are interested on this slide to determine is what is the power, what is the irradiance that is in that reflected beam."
+  },
+  {
+   "start": 1180.97,
+   "end": 1190.97,
+   "text": "So that's what is basically being represented on this picture that's shown on the left-hand side."
+  },
+  {
+   "start": 1190.97,
+   "end": 1202.97,
+   "text": "It turns out that reflection, or so-called reflectance, which is going to basically be equal to the percentage of the input power that's being reflected,"
+  },
+  {
+   "start": 1202.97,
+   "end": 1206.97,
+   "text": "is a function of the two indices of refraction of the two media."
+  },
+  {
+   "start": 1206.97,
+   "end": 1212.97,
+   "text": "So the formula, the equation that you are seeing on the right-hand side, defines so-called reflectance."
+  },
+  {
+   "start": 1212.97,
+   "end": 1221.97,
+   "text": "So once more, reflectance is equal to the ratio of the reflected irradiance to the input irradiance or incident irradiance."
+  },
+  {
+   "start": 1221.97,
+   "end": 1228.97,
+   "text": "And it's a function of the two numbers, N1 and N2, according to the equation that you are seeing on the right-hand side."
+  },
+  {
+   "start": 1229.97,
+   "end": 1240.97,
+   "text": "So if we plug in the values for the index of refraction, N1 equal to 1, and index of refraction equal to 1.5 for the second medium,"
+  },
+  {
+   "start": 1240.97,
+   "end": 1246.97,
+   "text": "and do calculation, we are going to come up with the value of reflectance being equal to 4%."
+  },
+  {
+   "start": 1247.97,
+   "end": 1256.97,
+   "text": "This number 4% means that out of the total input irradiance that is in an incident ray, 4% is going to get reflected,"
+  },
+  {
+   "start": 1256.97,
+   "end": 1262.97,
+   "text": "while the rest of 96% is going to get transmitted into the glass."
+  },
+  {
+   "start": 1262.97,
+   "end": 1275.97,
+   "text": "And then as this transmitted ray that's equal to 96% of the incident irradiance is going to be absorbed slowly as the light beam is moving through the glass."
+  },
+  {
+   "start": 1275.97,
+   "end": 1287.97,
+   "text": "So using the formula on the right-hand side, we have determined the reflectance at the boundary between the air and the glass"
+  },
+  {
+   "start": 1287.97,
+   "end": 1296.97,
+   "text": "as a function of the two indices of refraction of the first medium, in our case air, and the second medium in our case glass."
+  },
+  {
+   "start": 1296.97,
+   "end": 1300.97,
+   "text": "The next case that we are going to analyze is a case of an optical window."
+  },
+  {
+   "start": 1300.97,
+   "end": 1313.97,
+   "text": "So in this case, we not only have the first boundary between the air and the glass, but also the second boundary from the glass back into the air."
+  },
+  {
+   "start": 1313.97,
+   "end": 1323.97,
+   "text": "So what of interest here is, again, how much light is going to get reflected from such an optical window."
+  },
+  {
+   "start": 1324.97,
+   "end": 1338.97,
+   "text": "What's important to notice here is that we don't have just one single reflection, as in the case of the single boundary between the air and the glass,"
+  },
+  {
+   "start": 1338.97,
+   "end": 1344.97,
+   "text": "but we have all these multiple reflections. How are these multiple reflections established?"
+  },
+  {
+   "start": 1344.97,
+   "end": 1346.97,
+   "text": "So let's look at the incident light beam."
+  },
+  {
+   "start": 1346.97,
+   "end": 1362.97,
+   "text": "So this incident light beam is going to hit the first boundary, and there's going to be a first single reflection that we calculated in the previous case to be equal to 4% in the case of a glass being equal to 1.5."
+  },
+  {
+   "start": 1362.97,
+   "end": 1371.97,
+   "text": "Now, the rest of the irradiance is going to get transmitted into the window, is going to continue propagating towards the right side."
+  },
+  {
+   "start": 1371.97,
+   "end": 1387.97,
+   "text": "And then when that light beam reaches the second boundary between the glass and the air, a certain amount of that power is going to get reflected back into the window while the rest is going to be transmitted into the air."
+  },
+  {
+   "start": 1387.97,
+   "end": 1396.97,
+   "text": "So the reflected amount of light that's from the second boundary is going to propagate back towards the first boundary."
+  },
+  {
+   "start": 1396.97,
+   "end": 1410.97,
+   "text": "And then the first boundary, a certain amount is going to get reflected back into the window, but also a certain amount is going to get transmitted into the air, and it's going to show up as the second reflection."
+  },
+  {
+   "start": 1410.97,
+   "end": 1421.97,
+   "text": "And then we have all this bouncing back and forth of the light. So the light is going to be bouncing back and forth in the window, a certain amount of that light is going to get transmitted, a certain amount of that light is going to get reflected."
+  },
+  {
+   "start": 1421.97,
+   "end": 1429.97,
+   "text": "And we're going to have all these multiple reflections that are going to be showing up in the air on the left hand side."
+  },
+  {
+   "start": 1429.97,
+   "end": 1449.97,
+   "text": "So what you can see here in this case, due to these multiple reflections, the amount of light that's going to get cumulatively reflected is going to be much, it's going to be more, it's going to be larger than the amount of light or irradiance"
+  },
+  {
+   "start": 1449.97,
+   "end": 1464.97,
+   "text": "in the case of the single reflection as we had in the previous case. So the formula that we established on the previous slide, where the reflectance has been defined as a function of the indices of refraction and one and then two,"
+  },
+  {
+   "start": 1464.97,
+   "end": 1477.97,
+   "text": "that formula has to be scratched in our case, and we have to establish a different type of a formula that's going to take into account all these multiple infractions that are showing up in the case of an optical window with the two boundaries,"
+  },
+  {
+   "start": 1477.97,
+   "end": 1488.97,
+   "text": "one on the left side and one on the right side. So after a certain derivations, we can come up with a new set of formulas that are shown here on this slide."
+  },
+  {
+   "start": 1488.97,
+   "end": 1499.97,
+   "text": "So the first thing that you're going to calculate is the quantity n sub r that's going to be equal to the ratio of the index of refraction of the window and the medium."
+  },
+  {
+   "start": 1499.97,
+   "end": 1512.97,
+   "text": "So in our case, we have index of refraction of the window, which is going to be equal to 1.6, and then index of refraction of the medium is the index of refraction of the medium that surrounds this window in our case is going to be air."
+  },
+  {
+   "start": 1512.97,
+   "end": 1533.97,
+   "text": "So you're going to take again 1.6 over 1, come up with a value for the n subscript r, and then you're going to substitute the value of this n subscript r factor into the formula on the left hand side and calculate the total reflectance."
+  },
+  {
+   "start": 1533.97,
+   "end": 1546.97,
+   "text": "If you do that, you're going to see that this total reflectance is going to be more than 4% as in the case of a single boundary where the window is of infinite thickness."
+  },
+  {
+   "start": 1546.97,
+   "end": 1569.97,
+   "text": "So the difference, again, between the two formulas, two equations or two cases, is the fact that in the case of the window of finite thickness, we have multiple reflections that have to be taken into account in the total cumulative reflectance that we want to determine in this specific example."
+  },
+  {
+   "start": 1569.97,
+   "end": 1582.97,
+   "text": "So with this slide, we are going to conclude the lecture number four. You're also going to see a few slides here that we did not elaborate on. There's a few slides as you study this material."
+  },
+  {
+   "start": 1582.97,
+   "end": 1604.97,
+   "text": "You're going to come across a few slides, as I said, that would give you links to specific types of small applets that you can open and play with to kind of strengthen your knowledge about the different properties of our light."
+  },
+  {
+   "start": 1604.97,
+   "end": 1620.97,
+   "text": "So, for example, if I scroll, you're going to see a small applet here. You have a link where you can play, you can adjust the incident angle and the wavelength, and you can kind of analyze the whole concept of reflection."
+  },
+  {
+   "start": 1620.97,
+   "end": 1628.97,
+   "text": "And then there's also a few other slides here that I skipped, such as this one here that talks a little bit about absorption filters."
+  },
+  {
+   "start": 1629.97,
+   "end": 1657.97,
+   "text": "You can establish the range or width of the passband of a filter. You can change the colors. So this can serve as an introductory assignment or introductory exercise for the next lecture number five, where we are going to go and talk more about the different types of filters that you may come across"
+  },
+  {
+   "start": 1657.97,
+   "end": 1678.97,
+   "text": "in a typical photonics lab. So with this one, I'm going to conclude the lecture number four. Please study this material in the next lecture. As I said, we're going to go into the filters and then move further into different practical aspects of a typical photonics lab."
+  },
+  {
+   "start": 1678.97,
+   "end": 1683.97,
+   "text": "With this, I wish you a pleasant rest of the day and see you next time."
+  }
+ ]
+}

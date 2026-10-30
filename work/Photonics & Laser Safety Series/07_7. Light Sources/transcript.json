@@ -1,0 +1,1396 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "segments": [
+  {
+   "start": 10.0,
+   "end": 15.04,
+   "text": "Hi and welcome to the lecture number seven of our introduction to photonics video series."
+  },
+  {
+   "start": 15.04,
+   "end": 20.56,
+   "text": "Today's topic is going to be the light sources and we are also going to describe the anatomy of"
+  },
+  {
+   "start": 20.56,
+   "end": 28.56,
+   "text": "the human eye. In general light sources can be defined as the sources that produce or emit"
+  },
+  {
+   "start": 28.56,
+   "end": 34.48,
+   "text": "in the light. We have natural light sources and we also have a man-made light sources."
+  },
+  {
+   "start": 34.48,
+   "end": 41.52,
+   "text": "Man-made light sources can be further broken down into non-laser light sources"
+  },
+  {
+   "start": 41.52,
+   "end": 48.64,
+   "text": "and laser light sources. This lecture is going to cover the subsection of so-called non-laser light"
+  },
+  {
+   "start": 48.64,
+   "end": 55.12,
+   "text": "sources. This slide presents the list of all non-laser light sources that you may come across"
+  },
+  {
+   "start": 55.68,
+   "end": 63.36,
+   "text": "in the field of photonics. So we are going to discuss so-called incandescent sources, fluorescent"
+  },
+  {
+   "start": 63.44,
+   "end": 70.24,
+   "text": "or low pressure discharge lamps, high intensity and high pressure discharge lamps, flash lamps and arc"
+  },
+  {
+   "start": 70.24,
+   "end": 77.52,
+   "text": "lamps, and finally light emitting diodes or popular LEDs. Popular incandescent light sources are using"
+  },
+  {
+   "start": 77.52,
+   "end": 85.68,
+   "text": "tungsten as a material that the filaments are made out of. So tungsten is having a few"
+  },
+  {
+   "start": 87.04,
+   "end": 92.0,
+   "text": "properties that are very interesting from the perspective of an incandescent light source"
+  },
+  {
+   "start": 92.64,
+   "end": 100.56,
+   "text": "among which the most important are low vapor pressure, high melting point of 3,655 Kelvin"
+  },
+  {
+   "start": 100.56,
+   "end": 106.32,
+   "text": "and finally the strength. It's also important to mention that most modern incandescent lamps"
+  },
+  {
+   "start": 106.32,
+   "end": 112.88,
+   "text": "in addition to the tungsten filament are also filled with a gas with the purpose of extending"
+  },
+  {
+   "start": 112.88,
+   "end": 118.08,
+   "text": "their lifetime, extending the lifetime of the filament and that gas is usually a mixture of"
+  },
+  {
+   "start": 118.08,
+   "end": 125.04,
+   "text": "argon and nitrogen, although we may also come across the lamps that are based on halogen."
+  },
+  {
+   "start": 125.92,
+   "end": 134.72,
+   "text": "So halogen is used in small amounts to basically prevent the particles of tungsten"
+  },
+  {
+   "start": 135.52,
+   "end": 143.2,
+   "text": "from filament to be depositing the glass. So during the process of operation of the incandescent lamp"
+  },
+  {
+   "start": 143.92,
+   "end": 148.16,
+   "text": "when the tungsten is being heated to high temperatures, there's going to be particles"
+  },
+  {
+   "start": 148.16,
+   "end": 153.76,
+   "text": "of tungsten that are going to be relieving the filament and deposit on the inner side of the"
+  },
+  {
+   "start": 153.76,
+   "end": 159.28,
+   "text": "glass bulb. Usually this is being observed as a black coating on the inner surface of the"
+  },
+  {
+   "start": 159.28,
+   "end": 164.56,
+   "text": "light bulb. In order to prevent that, we are adding special types of materials, so-called"
+  },
+  {
+   "start": 164.56,
+   "end": 169.68,
+   "text": "halogen, such as bromine, chlorine and iodine that are going to prevent this type of buildup"
+  },
+  {
+   "start": 169.68,
+   "end": 176.24,
+   "text": "on the inner surface of the glass of the light bulb. It's also important to mention"
+  },
+  {
+   "start": 176.24,
+   "end": 181.44,
+   "text": "that halogen lamps are hot and in general all incandescent light sources are hot."
+  },
+  {
+   "start": 182.64,
+   "end": 188.16,
+   "text": "There's multiple reasons why they are kept hot, among which the most important is"
+  },
+  {
+   "start": 190.72,
+   "end": 198.8,
+   "text": "need to keep the regenerating cycle going because nothing less than 500 degrees Fahrenheit"
+  },
+  {
+   "start": 198.8,
+   "end": 205.44,
+   "text": "will do this regeneration. It's also important to mention that ordinary glass doesn't stand at"
+  },
+  {
+   "start": 205.44,
+   "end": 211.04,
+   "text": "the high temperature that's needed for this regenerating cycle and for that reason all halogen"
+  },
+  {
+   "start": 211.04,
+   "end": 217.52,
+   "text": "lamps are made of special types of heat-resistant glass or quartz. That is basically the constitutive"
+  },
+  {
+   "start": 217.52,
+   "end": 224.4,
+   "text": "element of the most popular and modern types of incandescent light sources. So this slide further"
+  },
+  {
+   "start": 224.4,
+   "end": 230.4,
+   "text": "describes the lamp filament. As we already mentioned, lamp filaments are made out of tungsten"
+  },
+  {
+   "start": 230.4,
+   "end": 237.44,
+   "text": "wire and sometimes they are used in a straight length but very often they are formed into a coil"
+  },
+  {
+   "start": 237.44,
+   "end": 243.76,
+   "text": "in order to increase the luminescence of a light bulb. So the longer the filament is, it is going"
+  },
+  {
+   "start": 243.76,
+   "end": 250.24,
+   "text": "to have a better ability to produce brighter light. So that's the reason why very often the"
+  },
+  {
+   "start": 250.32,
+   "end": 256.96,
+   "text": "filaments are being coiled into or formed into a coil. Sometimes we also have closed spaced coils"
+  },
+  {
+   "start": 256.96,
+   "end": 263.2,
+   "text": "to secure the brighter and uniform light and sometimes we have a coil over the coil"
+  },
+  {
+   "start": 263.84,
+   "end": 270.88,
+   "text": "to further increase the total length of the filament. If you are interested in a cost affordable or"
+  },
+  {
+   "start": 270.88,
+   "end": 277.84,
+   "text": "less expensive types of light bulbs, they would have wide spaced filaments and these types of"
+  },
+  {
+   "start": 277.84,
+   "end": 282.72,
+   "text": "filaments are very practical for many applications such as light projectors that"
+  },
+  {
+   "start": 282.72,
+   "end": 290.8,
+   "text": "would not require a strong light. So as you can see from this slide, the filaments made out of"
+  },
+  {
+   "start": 290.8,
+   "end": 297.68,
+   "text": "tungsten are coming in different shapes and forms that would determine the luminescence or ability"
+  },
+  {
+   "start": 297.68,
+   "end": 304.0,
+   "text": "of the light bulb to produce a brighter or less bright light. The next type of light source that"
+  },
+  {
+   "start": 304.0,
+   "end": 309.2,
+   "text": "we are going to mention are so-called fluorescent light sources. So these types of light sources are"
+  },
+  {
+   "start": 309.2,
+   "end": 314.88,
+   "text": "not using thermal effect, they are actually using chemical effect to produce the light."
+  },
+  {
+   "start": 314.88,
+   "end": 321.44,
+   "text": "So we are talking about low pressure discharge lamps that have a fluorescent phosphor coating"
+  },
+  {
+   "start": 321.44,
+   "end": 327.6,
+   "text": "on the inside of the glass and most of these fluorescent lights would consist of a mercury"
+  },
+  {
+   "start": 327.6,
+   "end": 336.08,
+   "text": "discharge lamps that would emit 90% of their energy at wavelength of ultraviolet of 253.7 nanometers."
+  },
+  {
+   "start": 336.64,
+   "end": 343.04,
+   "text": "So what's basically happening in these fluorescent light sources or light bulbs is"
+  },
+  {
+   "start": 343.04,
+   "end": 349.92,
+   "text": "the ultraviolet photons that are present in fluorescent bulbs would be exciting a number"
+  },
+  {
+   "start": 349.92,
+   "end": 357.2,
+   "text": "of phosphors that would start producing the light and that we are seeing as a very bright"
+  },
+  {
+   "start": 357.2,
+   "end": 364.24,
+   "text": "white light in the case of fluorescent bulbs. It's also important to mention that a constitutive"
+  },
+  {
+   "start": 364.24,
+   "end": 371.28,
+   "text": "element of fluorescent lamps is also the electrodes, we have a cathode, hot cathode on one side"
+  },
+  {
+   "start": 371.28,
+   "end": 375.6,
+   "text": "and very often sometimes cathode can also be cold and then on the other side we have anode."
+  },
+  {
+   "start": 376.16,
+   "end": 383.04,
+   "text": "It's important to mention that there's different principles on which the cold and hot electrodes"
+  },
+  {
+   "start": 383.12,
+   "end": 388.48,
+   "text": "are working. So very often cold electrodes would be leading something called a rapid start"
+  },
+  {
+   "start": 389.68,
+   "end": 394.08,
+   "text": "while on the other side hot cathode electrodes would give greater luminous"
+  },
+  {
+   "start": 395.36,
+   "end": 403.84,
+   "text": "efficiency and because of that most lamps today use hot cathode electrodes. What we consider"
+  },
+  {
+   "start": 403.84,
+   "end": 409.44,
+   "text": "so-called luminous efficiency that's a ratio of the visible light energy produced by a light source"
+  },
+  {
+   "start": 410.24,
+   "end": 417.12,
+   "text": "to the electrical energy that is used as an input energy for these types of light sources."
+  },
+  {
+   "start": 417.12,
+   "end": 424.64,
+   "text": "So if you're talking about fluorescent light we are talking about 40 percent efficiency of a lamp"
+  },
+  {
+   "start": 424.64,
+   "end": 431.76,
+   "text": "that's about 80 inches long and it turns out that the luminous efficiency of fluorescent lamp is"
+  },
+  {
+   "start": 431.76,
+   "end": 438.0,
+   "text": "going to increase with its length so longer the fluorescent lamp is it's going to have better"
+  },
+  {
+   "start": 438.0,
+   "end": 445.04,
+   "text": "efficiency and it's going to produce by the light. So on this slide on the left hand side we see a"
+  },
+  {
+   "start": 445.04,
+   "end": 451.68,
+   "text": "pictorial view of the whole process that is taking place in a fluorescent light source. As we already"
+  },
+  {
+   "start": 451.68,
+   "end": 460.16,
+   "text": "mentioned we have a phosphor coating on the inside of the glass and we also have a mercury"
+  },
+  {
+   "start": 460.24,
+   "end": 469.44,
+   "text": "inside that's filling the glass tube. So when the electricity when the current is"
+  },
+  {
+   "start": 470.32,
+   "end": 477.36,
+   "text": "brought to the two electrodes on each side on each end of the fluorescent bulb these electrons are"
+  },
+  {
+   "start": 477.36,
+   "end": 489.36,
+   "text": "going to hit the mercury and mercury is going to produce ultraviolet radiation."
+  },
+  {
+   "start": 489.36,
+   "end": 494.32,
+   "text": "So these ultraviolet photons are going to be hitting the phosphorus coating on the inside"
+  },
+  {
+   "start": 495.12,
+   "end": 500.48,
+   "text": "glass of the glass tube and would be exciting phosphorus and then phosphorus would start"
+  },
+  {
+   "start": 501.12,
+   "end": 506.24,
+   "text": "producing bright light that we see on the outside of the of the fluorescent light."
+  },
+  {
+   "start": 506.88,
+   "end": 512.0,
+   "text": "It's also important to mention that the output of fluorescent lamp is also a function of the"
+  },
+  {
+   "start": 512.0,
+   "end": 519.36,
+   "text": "ballast that is being used. We already mentioned that we have a rapid start and also we can have a"
+  },
+  {
+   "start": 519.36,
+   "end": 526.24,
+   "text": "preheat ballast. Most of today's lamps operate with the rapid start balanced although the research"
+  },
+  {
+   "start": 526.24,
+   "end": 531.44,
+   "text": "has suggested that the preheat balance may deal up to 20 percent higher light output as compared to"
+  },
+  {
+   "start": 531.44,
+   "end": 538.72,
+   "text": "the the rapid start. A life cycle of fluorescent lamp can also be significantly affected by the"
+  },
+  {
+   "start": 538.72,
+   "end": 543.76,
+   "text": "choice of the ballast. So the ballast be it either rapid start or preheat plays an important"
+  },
+  {
+   "start": 543.76,
+   "end": 550.24,
+   "text": "role in the performance or function of the fluorescent light source. Next type of light"
+  },
+  {
+   "start": 550.24,
+   "end": 555.92,
+   "text": "source that we are going to mention are so-called HIDs or high intensity discharge lamps. Here we"
+  },
+  {
+   "start": 555.92,
+   "end": 562.96,
+   "text": "are talking about a specific type of a gas discharge lamp that is going to produce light"
+  },
+  {
+   "start": 562.96,
+   "end": 570.88,
+   "text": "by means of an electric arc and plasma formation. So electric arc is going to be formed between the"
+  },
+  {
+   "start": 570.88,
+   "end": 577.84,
+   "text": "tungsten electrodes that are housed inside of the of the glass bulb made out of either fused quartz"
+  },
+  {
+   "start": 577.84,
+   "end": 586.32,
+   "text": "or fused alumina. The tube is filled with both gas and metal salts where gas facilitates the initial"
+  },
+  {
+   "start": 586.32,
+   "end": 594.72,
+   "text": "strike of the arc and once we have an arc started what's going to happen is that the temperature is"
+  },
+  {
+   "start": 594.72,
+   "end": 601.36,
+   "text": "going to rise and the metal salts inside of the glass tube are going to start evaporating and"
+  },
+  {
+   "start": 601.36,
+   "end": 608.24,
+   "text": "forming plasma and the plasma formation in turn is going to increase the intensity of light that's"
+  },
+  {
+   "start": 608.24,
+   "end": 616.08,
+   "text": "being produced by the arc between the electrodes. As already mentioned fused quartz or fused"
+  },
+  {
+   "start": 616.08,
+   "end": 623.12,
+   "text": "alumina arc tubes are filled with different types of metal halides or mercury and sodium"
+  },
+  {
+   "start": 624.0,
+   "end": 628.56,
+   "text": "and they're under the pressure that's why they are called high intensity high pressure"
+  },
+  {
+   "start": 629.2,
+   "end": 635.28,
+   "text": "discharge lamps so the pressure is about two to four atmospheres and it's also important to"
+  },
+  {
+   "start": 635.28,
+   "end": 642.24,
+   "text": "mention that very often these lamps are going to have two glass envelopes the inner quartz"
+  },
+  {
+   "start": 642.24,
+   "end": 649.36,
+   "text": "discharge tube and an outer glass jacket. The outer glass jacket has a main purpose of absorption"
+  },
+  {
+   "start": 649.36,
+   "end": 654.88,
+   "text": "of ultraviolet radiation that's being produced or generated by the internal operation of the bulb."
+  },
+  {
+   "start": 655.52,
+   "end": 659.92,
+   "text": "In certain instances the outer jacket can be broken through certain external effect"
+  },
+  {
+   "start": 660.48,
+   "end": 667.92,
+   "text": "and in such a case if the outer jacket is broken a substantial levels of the ultraviolet"
+  },
+  {
+   "start": 667.92,
+   "end": 674.24,
+   "text": "radiation are going to be emitted outside of the bulb which poses certain risk for"
+  },
+  {
+   "start": 674.96,
+   "end": 681.28,
+   "text": "skin burn and eye inflammation from from this radiation so it's important for that to be"
+  },
+  {
+   "start": 682.24,
+   "end": 687.92,
+   "text": "addressed in certain way it turns out that the lamp that would that these types of lamps would"
+  },
+  {
+   "start": 688.56,
+   "end": 696.72,
+   "text": "automatically extinguish if the outer envelope is broken or punctured so that reduces the risk of"
+  },
+  {
+   "start": 697.28,
+   "end": 703.36,
+   "text": "of a skin burn or eye inflammation due to this dangerous UV radiation that can be getting out of"
+  },
+  {
+   "start": 703.36,
+   "end": 709.84,
+   "text": "these bulbs the outer jacket is broken. This slide presents a few pieces of information about"
+  },
+  {
+   "start": 709.84,
+   "end": 715.12,
+   "text": "flash lamps and arc lamps. Here we are still talking about high intensity discharge devices"
+  },
+  {
+   "start": 715.12,
+   "end": 719.44,
+   "text": "that are commonly used in photography and laser technology so we are talking about slightly"
+  },
+  {
+   "start": 719.44,
+   "end": 728.64,
+   "text": "smaller types of light sources. They also contain certain types of gases and their operation is also"
+  },
+  {
+   "start": 728.64,
+   "end": 733.92,
+   "text": "based on a flash or arc that's initiated by the high voltage across the discharge tube."
+  },
+  {
+   "start": 734.72,
+   "end": 740.08,
+   "text": "So what's going to happen inside is the ionization of the gas and production of the high intensity"
+  },
+  {
+   "start": 740.08,
+   "end": 744.96,
+   "text": "light with output peaks in both the visible and infrared regions of the electromagnetic spectrum."
+  },
+  {
+   "start": 745.6,
+   "end": 752.4,
+   "text": "If you are looking at the size of these so-called quartz tubes it's usually about 1.5 millimeter in"
+  },
+  {
+   "start": 752.4,
+   "end": 760.56,
+   "text": "thickness with the metal electrode at each end. There's also certain cases where water jackets"
+  },
+  {
+   "start": 760.56,
+   "end": 765.52,
+   "text": "are provided for cooling purposes of these types of lamps. And finally we are going to mention our"
+  },
+  {
+   "start": 765.52,
+   "end": 772.32,
+   "text": "good friend LED or light emitting a diode. Here we are talking about a semiconductor device"
+  },
+  {
+   "start": 772.32,
+   "end": 779.92,
+   "text": "that is emitting a light based on a certain different effect compared to the light sources"
+  },
+  {
+   "start": 779.92,
+   "end": 787.44,
+   "text": "that we already mentioned. Most of LED devices are made of aluminum gallium arsenide and they are"
+  },
+  {
+   "start": 787.44,
+   "end": 792.8,
+   "text": "very common in fiber optic communications, packet calculators and other visual displays."
+  },
+  {
+   "start": 793.6,
+   "end": 798.08,
+   "text": "We are very familiar with semic segment displays that are also used in electronics."
+  },
+  {
+   "start": 798.72,
+   "end": 803.52,
+   "text": "So these devices can emit light in both the visible and infrared regions of the spectrum"
+  },
+  {
+   "start": 804.4,
+   "end": 811.76,
+   "text": "based on the application. And there's certain differences between laser diodes and"
+  },
+  {
+   "start": 811.76,
+   "end": 818.4,
+   "text": "LED diodes that we are going to elaborate more in the classes that follow. So in the case of an"
+  },
+  {
+   "start": 818.4,
+   "end": 823.52,
+   "text": "LED or light emitting diode, light is emitted in all directions and it's based on so-called"
+  },
+  {
+   "start": 823.52,
+   "end": 828.88,
+   "text": "spontaneous emission as opposed to the to the laser, semiconductor laser diodes where"
+  },
+  {
+   "start": 829.52,
+   "end": 836.8,
+   "text": "above certain threshold so-called stimulated emission is taking place. So it's also important"
+  },
+  {
+   "start": 836.8,
+   "end": 843.52,
+   "text": "to elaborate that the power from LEDs is generally in the microwatt range up to maybe a few milliwatts"
+  },
+  {
+   "start": 843.52,
+   "end": 848.8,
+   "text": "so the power is not that high but there's a whole bunch of other advantages especially their size"
+  },
+  {
+   "start": 849.6,
+   "end": 856.64,
+   "text": "and their cost. So again LEDs are small in size, they are low temperature type of devices,"
+  },
+  {
+   "start": 856.64,
+   "end": 862.24,
+   "text": "they are rugged and they are relatively inexpensive. So not only that they use in electronics today"
+  },
+  {
+   "start": 862.24,
+   "end": 868.88,
+   "text": "we also have regular household types of light bulbs that are based on LED technology. They are"
+  },
+  {
+   "start": 868.88,
+   "end": 875.84,
+   "text": "slightly more expensive than regular traditional incandescent bulbs but they are also much more"
+  },
+  {
+   "start": 875.84,
+   "end": 881.76,
+   "text": "efficient than traditional incandescent bulbs. So in order to fully understand the operation of"
+  },
+  {
+   "start": 882.32,
+   "end": 888.32,
+   "text": "an LED you should have a little bit of a background in electronic devices, specifically"
+  },
+  {
+   "start": 889.2,
+   "end": 896.16,
+   "text": "the basics of semiconductor-based pn junctions. So here we are talking about semiconductor"
+  },
+  {
+   "start": 896.16,
+   "end": 902.96,
+   "text": "most of the time silicon that's being doped with n-type of material on one side"
+  },
+  {
+   "start": 902.96,
+   "end": 909.68,
+   "text": "and a p-type of material on the other side. So one side of the so-called n-type of silicon"
+  },
+  {
+   "start": 909.68,
+   "end": 916.8,
+   "text": "has excess of electrons while the other side has an excess of the holes or positive charges and then"
+  },
+  {
+   "start": 916.8,
+   "end": 923.04,
+   "text": "there's also the boundary or the barrier between the two that is three of any kind of electrons"
+  },
+  {
+   "start": 923.04,
+   "end": 931.52,
+   "text": "or holes and presents the barrier to the free flow of the current. This barrier can either shrink"
+  },
+  {
+   "start": 931.52,
+   "end": 939.12,
+   "text": "or expand based on how the diode is biased with an external source. So in the case of a forward"
+  },
+  {
+   "start": 939.12,
+   "end": 944.32,
+   "text": "bias this barrier between the p and n junction is going to shrink and is going to enable"
+  },
+  {
+   "start": 946.4,
+   "end": 951.36,
+   "text": "the current carriers to jump from one side to the other and establish the current."
+  },
+  {
+   "start": 951.36,
+   "end": 959.84,
+   "text": "And in the case of the reverse bias this barrier is going to expand and it's going to"
+  },
+  {
+   "start": 959.84,
+   "end": 967.36,
+   "text": "further prevent any kind of current through this barrier. In other words, in such a case,"
+  },
+  {
+   "start": 967.36,
+   "end": 973.36,
+   "text": "in the case of reverse bias, the pn junction or the diode is going to be blocking any kind of"
+  },
+  {
+   "start": 973.36,
+   "end": 979.04,
+   "text": "flow of the current. What is of interest for us when we are talking about light emitting diodes,"
+  },
+  {
+   "start": 979.04,
+   "end": 983.36,
+   "text": "which is just a special type of a diode, is that in the case of a forward bias"
+  },
+  {
+   "start": 984.0,
+   "end": 991.52,
+   "text": "when the barrier between the p and n type of a silicon is reduced to the minimum,"
+  },
+  {
+   "start": 992.8,
+   "end": 996.24,
+   "text": "the current carriers are going to be moving from one side to the other."
+  },
+  {
+   "start": 996.24,
+   "end": 1001.84,
+   "text": "And it turns out that as the current carriers or electrons are moving from one side to the other,"
+  },
+  {
+   "start": 1001.84,
+   "end": 1007.36,
+   "text": "they are going to be moving from the higher energy state to a lower energy state."
+  },
+  {
+   "start": 1008.24,
+   "end": 1016.56,
+   "text": "And in order to meet the law of conservation of the energy, these electrons will be releasing"
+  },
+  {
+   "start": 1016.56,
+   "end": 1021.52,
+   "text": "the energy in the form of photons, which is basically the light that we are observing on"
+  },
+  {
+   "start": 1021.52,
+   "end": 1029.52,
+   "text": "a macroscopic scale in the case of an LED. So that's in a nutshell how a light emitting"
+  },
+  {
+   "start": 1029.52,
+   "end": 1036.0,
+   "text": "diode works. So it's important to understand the basic theory behind the operation of the"
+  },
+  {
+   "start": 1036.08,
+   "end": 1043.2,
+   "text": "regular diode that's based on a pn junction on a specific type of semiconductor."
+  },
+  {
+   "start": 1043.92,
+   "end": 1047.52,
+   "text": "The next subject that we are going to study is the anatomy of a human eye."
+  },
+  {
+   "start": 1048.56,
+   "end": 1053.04,
+   "text": "This is an important subject from the perspective of the safety that has to be"
+  },
+  {
+   "start": 1054.0,
+   "end": 1062.0,
+   "text": "implemented in a photonics lab. It turns out that certain light sources of a laser type are"
+  },
+  {
+   "start": 1062.72,
+   "end": 1072.24,
+   "text": "posing a certain hazard, a safety hazard to sensitive parts of our body, especially to the"
+  },
+  {
+   "start": 1072.24,
+   "end": 1080.08,
+   "text": "human eye and also to the skin. So in order to really understand the whole background behind"
+  },
+  {
+   "start": 1080.08,
+   "end": 1085.84,
+   "text": "this laser safety hazard, we have to understand the anatomy of the human eye."
+  },
+  {
+   "start": 1085.84,
+   "end": 1093.28,
+   "text": "So a human eye represents a complex optical system that's designed to receive focus and detect light."
+  },
+  {
+   "start": 1094.32,
+   "end": 1099.36,
+   "text": "We are talking about a human organ that is roughly of the shape of a slightly elongated sphere"
+  },
+  {
+   "start": 1100.16,
+   "end": 1106.88,
+   "text": "about the size of a quarter of an inch of diameter. The outer white layer of the eye,"
+  },
+  {
+   "start": 1106.88,
+   "end": 1114.32,
+   "text": "so-called sclera, sclera has a certain internal fluids, specifically so-called vitreous humor and"
+  },
+  {
+   "start": 1114.72,
+   "end": 1120.32,
+   "text": "actuous humor that helps maintain the shape of the eye. The light is going to pass through the"
+  },
+  {
+   "start": 1121.36,
+   "end": 1130.16,
+   "text": "front portion of the eye, that so-called cornea, into the eye. And then once the light enters the"
+  },
+  {
+   "start": 1130.16,
+   "end": 1135.04,
+   "text": "eye, it's going to be passing through the lens that is going to be focusing all the light"
+  },
+  {
+   "start": 1135.04,
+   "end": 1141.76,
+   "text": "onto the small spot in the back of the eye, which is so-called the retina. So that's exactly"
+  },
+  {
+   "start": 1141.84,
+   "end": 1147.52,
+   "text": "why the certain light sources are dangerous to the eye, because the huge amounts of light that"
+  },
+  {
+   "start": 1147.52,
+   "end": 1152.72,
+   "text": "are entering through the front portion of the eye are going to be focused on the smallest part."
+  },
+  {
+   "start": 1152.72,
+   "end": 1157.68,
+   "text": "So the irradiance, the concept of the power over the area that we introduced"
+  },
+  {
+   "start": 1158.24,
+   "end": 1164.4,
+   "text": "in one of the previous lectures is going to increase significantly. So again, all the power"
+  },
+  {
+   "start": 1164.4,
+   "end": 1170.0,
+   "text": "that's entering through the pupil, through the front portion of the eye, is going to be"
+  },
+  {
+   "start": 1170.8,
+   "end": 1176.48,
+   "text": "focused on a small spot. So we are reducing the area, and in turn, we are increasing the"
+  },
+  {
+   "start": 1176.48,
+   "end": 1185.2,
+   "text": "irradiance of that light that's reaching the back of the eye. And that's what poses the safety hazard."
+  },
+  {
+   "start": 1185.92,
+   "end": 1192.64,
+   "text": "So when the light reaches the back of the eye, it is going to hit the optical nerve,"
+  },
+  {
+   "start": 1192.64,
+   "end": 1198.48,
+   "text": "and the cells of the optical nerve are going to relay that optical image in the"
+  },
+  {
+   "start": 1198.48,
+   "end": 1202.64,
+   "text": "form of electrical signals to the brain for interpretation. We already mentioned the"
+  },
+  {
+   "start": 1202.64,
+   "end": 1209.52,
+   "text": "irradiance, which is a power over the area. It turns out that the light irradiance on the retina"
+  },
+  {
+   "start": 1209.52,
+   "end": 1215.92,
+   "text": "is 100,000 times greater than the light irradiance at the front of the eye due to the focusing"
+  },
+  {
+   "start": 1215.92,
+   "end": 1221.92,
+   "text": "ability of the lens that's a part of the eye. So here we're talking about considerable optical gain"
+  },
+  {
+   "start": 1221.92,
+   "end": 1229.6,
+   "text": "that can create eye hazard when stray laser beams are entering the eye. A little bit more"
+  },
+  {
+   "start": 1229.6,
+   "end": 1236.08,
+   "text": "information about the anatomy of the human eye, specifically a little bit about the cornea and"
+  },
+  {
+   "start": 1236.08,
+   "end": 1240.8,
+   "text": "so-called aqueous humor. So when we're talking about the cornea, we're talking about the"
+  },
+  {
+   "start": 1240.8,
+   "end": 1249.6,
+   "text": "outermost transparent layer that covers the front of the eye. This part of the eye can withstand"
+  },
+  {
+   "start": 1249.6,
+   "end": 1256.24,
+   "text": "dust, sand, and other assaults from the environment. And the reason for that is because the cells of"
+  },
+  {
+   "start": 1256.24,
+   "end": 1264.8,
+   "text": "the cornea have ability to regenerate themselves or to replace themselves within 40 or 48 hours. So"
+  },
+  {
+   "start": 1265.52,
+   "end": 1271.44,
+   "text": "even mild injuries to the cornea are healed quickly. The aqueous humor is a liquid,"
+  },
+  {
+   "start": 1272.0,
+   "end": 1276.8,
+   "text": "mostly water, between the cornea and the lens. This water in the aqueous humor absorbs the"
+  },
+  {
+   "start": 1276.8,
+   "end": 1283.04,
+   "text": "heat and protects the internal portion of the eye from any kind of thermal radiation. It turns out"
+  },
+  {
+   "start": 1283.04,
+   "end": 1289.76,
+   "text": "that index of refraction of this part of the human eye is approximately 1.33, which is exactly"
+  },
+  {
+   "start": 1289.76,
+   "end": 1295.76,
+   "text": "the index of refraction of the water. We already mentioned the lens, which is a focusing mechanism"
+  },
+  {
+   "start": 1295.76,
+   "end": 1300.96,
+   "text": "in the eye. So we are talking about the flexible tissue that changes shape in the conjunction"
+  },
+  {
+   "start": 1300.96,
+   "end": 1306.24,
+   "text": "cornea. The lens will be focusing light on the back of the eye, and it has this ability"
+  },
+  {
+   "start": 1306.24,
+   "end": 1313.52,
+   "text": "to change the shape. And if it's changing shape, the focal length of this lens is going to change,"
+  },
+  {
+   "start": 1313.52,
+   "end": 1319.76,
+   "text": "which would enable the eye to focus on both near and far objects. We also have iris that controls"
+  },
+  {
+   "start": 1319.76,
+   "end": 1324.96,
+   "text": "the amount of light that enters the eye. That's going to be the pigmented or colored part of the"
+  },
+  {
+   "start": 1324.96,
+   "end": 1331.04,
+   "text": "eye that responds to the light intensity by adjusting its size. So if we are in a light"
+  },
+  {
+   "start": 1331.04,
+   "end": 1341.2,
+   "text": "environment, the pupil, which is the dark spot at the center of the iris, is going to reduce its"
+  },
+  {
+   "start": 1341.2,
+   "end": 1346.88,
+   "text": "size. And by doing that, naturally, it's going to prevent a huge amount of light from entering"
+  },
+  {
+   "start": 1346.88,
+   "end": 1352.8,
+   "text": "the eye. On the other side, if we are in a dark environment, the pupil is going to open or it's"
+  },
+  {
+   "start": 1352.8,
+   "end": 1358.48,
+   "text": "going to dilate, and it's going to enable the maximum of the light to enter the eye."
+  },
+  {
+   "start": 1359.04,
+   "end": 1364.08,
+   "text": "So as far as the pupil is concerned, again, we are talking about opening the center of the iris."
+  },
+  {
+   "start": 1364.08,
+   "end": 1369.2,
+   "text": "The size of the pupil is changing from two to seven millimeters. We are talking about the"
+  },
+  {
+   "start": 1369.2,
+   "end": 1375.68,
+   "text": "dilation of the pupil. And as already mentioned, dark in the environment, the larger the pupil,"
+  },
+  {
+   "start": 1375.68,
+   "end": 1381.6,
+   "text": "fully dilated pupil that's expanded to admit the greatest amount of light is about seven"
+  },
+  {
+   "start": 1381.68,
+   "end": 1389.6,
+   "text": "millimeters. We also have a so-called vitreous humor that is a colorless gel that fills the"
+  },
+  {
+   "start": 1389.6,
+   "end": 1396.16,
+   "text": "large area at the center of the eyeball. And it's main purpose is to help and maintain the"
+  },
+  {
+   "start": 1396.16,
+   "end": 1400.88,
+   "text": "shape of the eye. One of the most important parts of the human eye is so-called retina."
+  },
+  {
+   "start": 1400.88,
+   "end": 1408.56,
+   "text": "Retina is located in the back of the eye, and it is a light sensitive layer that can be viewed as"
+  },
+  {
+   "start": 1409.28,
+   "end": 1416.08,
+   "text": "a small screen onto which all the light is being focused through the cornea and the lens. Retina"
+  },
+  {
+   "start": 1416.08,
+   "end": 1423.52,
+   "text": "is directly connected to the optical nerve. So all the excitation from the light that's coming"
+  },
+  {
+   "start": 1423.52,
+   "end": 1429.12,
+   "text": "to the eye is going to be turned into the electrical pulses that are collected on the retina and"
+  },
+  {
+   "start": 1429.12,
+   "end": 1435.44,
+   "text": "further transferred to the optical nerve. The retina contains two types of photo-receptors,"
+  },
+  {
+   "start": 1436.16,
+   "end": 1442.8,
+   "text": "so-called rods and cones that are operating differently in different environments,"
+  },
+  {
+   "start": 1442.8,
+   "end": 1447.2,
+   "text": "either light or dark. It's often important to mention that signals that are transmitted"
+  },
+  {
+   "start": 1447.2,
+   "end": 1454.0,
+   "text": "through the optical nerve are going all the way to the brain, and that's how we are developing"
+  },
+  {
+   "start": 1454.0,
+   "end": 1461.6,
+   "text": "the sense of vision. We also have a fovea that represents the most sensitive central part of the"
+  },
+  {
+   "start": 1461.6,
+   "end": 1470.0,
+   "text": "retina, and that is the area that's responsible for the most detailed vision that each human being"
+  },
+  {
+   "start": 1470.0,
+   "end": 1476.56,
+   "text": "has. Foveal lesion caused by the laser radiation is a worst case scenario for vision, and that's"
+  },
+  {
+   "start": 1476.56,
+   "end": 1483.36,
+   "text": "exactly why we have the potential hazard when we are operating with the lasers, especially high"
+  },
+  {
+   "start": 1483.36,
+   "end": 1488.72,
+   "text": "power lasers. It's also important to mention that sensitivity of the human eye to the light"
+  },
+  {
+   "start": 1488.72,
+   "end": 1495.28,
+   "text": "is not the same for all the wavelengths. For example, it turns out that the ultraviolet range"
+  },
+  {
+   "start": 1495.28,
+   "end": 1505.6,
+   "text": "of light that ranges from 315 to 280 nanometers or 280 to 100 nanometers, which is ultraviolet B"
+  },
+  {
+   "start": 1505.6,
+   "end": 1512.16,
+   "text": "and finally ultraviolet C, are primarily absorbed in the cornea in the front portion of the eye."
+  },
+  {
+   "start": 1512.72,
+   "end": 1523.44,
+   "text": "And for that reason UV light in most cases is not as dangerous as other wavelengths of light."
+  },
+  {
+   "start": 1523.44,
+   "end": 1530.8,
+   "text": "If we are looking at the range of 315 to 400 nanometers, which we are still in an ultraviolet"
+  },
+  {
+   "start": 1530.8,
+   "end": 1537.52,
+   "text": "range, these wavelengths are going to be absorbed principally in the lens of the eye, so they are"
+  },
+  {
+   "start": 1537.52,
+   "end": 1545.68,
+   "text": "also not being transferred to the lens all the way to the back of the retina. The most hazardous"
+  },
+  {
+   "start": 1545.68,
+   "end": 1555.2,
+   "text": "is going to be the infrared radiation, especially infrared A range, and the reason for that is that"
+  },
+  {
+   "start": 1555.2,
+   "end": 1563.12,
+   "text": "the infrared radiation is passing to both the cornea and lens and finally reaches the retina,"
+  },
+  {
+   "start": 1563.12,
+   "end": 1570.88,
+   "text": "which is in the back of the eye. So the whole absorption of this type of light radiation is in"
+  },
+  {
+   "start": 1570.88,
+   "end": 1577.52,
+   "text": "a retinal pigment, which is the dark brown layer with exceptionally large blood vessels and high"
+  },
+  {
+   "start": 1577.52,
+   "end": 1583.76,
+   "text": "blood flow rate, which represents the most sensitive part of the retina, and that's the"
+  },
+  {
+   "start": 1583.76,
+   "end": 1589.36,
+   "text": "reason why these wavelengths are the most hazardous for the human eye. And finally, we also want to"
+  },
+  {
+   "start": 1589.36,
+   "end": 1597.6,
+   "text": "mention the safety hazard to a different human organ, which is our skin. So there's a certain"
+  },
+  {
+   "start": 1597.6,
+   "end": 1604.72,
+   "text": "potential risk to the skin, however these are considered secondary to the risks to the eyes."
+  },
+  {
+   "start": 1605.36,
+   "end": 1610.96,
+   "text": "So skin injuries due to laser exposure may affect only the external dead layer of the skin cells."
+  },
+  {
+   "start": 1610.96,
+   "end": 1616.32,
+   "text": "This impact can be either thermal or photochemical. In order to fully understand"
+  },
+  {
+   "start": 1616.32,
+   "end": 1621.12,
+   "text": "the impact of the laser light to the skin, we also have to understand the anatomy of the skin."
+  },
+  {
+   "start": 1621.84,
+   "end": 1625.76,
+   "text": "When we are talking about skin, we are talking about two main layers, so-called epidermis,"
+  },
+  {
+   "start": 1625.76,
+   "end": 1633.2,
+   "text": "which is the surface layer, and the dermis, which is underlying layer. So this outer layer also has"
+  },
+  {
+   "start": 1633.2,
+   "end": 1638.64,
+   "text": "its surface, the so-called stratum corneum, that consists mainly of the dead cells"
+  },
+  {
+   "start": 1639.28,
+   "end": 1644.96,
+   "text": "and gives protection against the water loss, abrasion, dust, air, and other environmental"
+  },
+  {
+   "start": 1644.96,
+   "end": 1650.96,
+   "text": "effects. If you're looking at a layer of epidermis that's just below the stratum corneum,"
+  },
+  {
+   "start": 1651.76,
+   "end": 1658.88,
+   "text": "there we have specialized cells that produce the melanin pigment granules, and that is responsible"
+  },
+  {
+   "start": 1658.88,
+   "end": 1666.48,
+   "text": "for the darkest of our skin, and that type of melanin pigment is actually responsible for"
+  },
+  {
+   "start": 1666.48,
+   "end": 1674.56,
+   "text": "the protection of our skin against harmful ultraviolet radiation. So these cells are"
+  },
+  {
+   "start": 1675.28,
+   "end": 1680.56,
+   "text": "absorbing the radiation, they darken, and they're responsible for the skin color change"
+  },
+  {
+   "start": 1680.56,
+   "end": 1687.44,
+   "text": "during the sun tanning. As we already mentioned, the laser light can also be a safety hazard for"
+  },
+  {
+   "start": 1687.44,
+   "end": 1693.52,
+   "text": "the skin. It turns out that the skin reflects most of the visible and infrared radiation,"
+  },
+  {
+   "start": 1693.52,
+   "end": 1699.36,
+   "text": "while the absorption happens in an ultraviolet range. For that reason, especially for the"
+  },
+  {
+   "start": 1700.64,
+   "end": 1709.6,
+   "text": "ultraviolet A and ultraviolet B range, the skin is very sensitive, so these types of radiations"
+  },
+  {
+   "start": 1709.6,
+   "end": 1718.4,
+   "text": "can be harmful from the perspective of their absorption in a human skin. So with enough"
+  },
+  {
+   "start": 1718.4,
+   "end": 1725.76,
+   "text": "power and duration, the instant radiation of any wavelength can penetrate the protective filters"
+  },
+  {
+   "start": 1725.76,
+   "end": 1731.92,
+   "text": "and layers of the epidermis and cause deep internal injuries. So again, important to"
+  },
+  {
+   "start": 1731.92,
+   "end": 1739.36,
+   "text": "mention that ultraviolet is the most critical, but we don't want to restrict potential hazards"
+  },
+  {
+   "start": 1739.36,
+   "end": 1748.0,
+   "text": "to the ultraviolet only because other wavelengths can also pose a safety risk if they reach certain"
+  },
+  {
+   "start": 1748.0,
+   "end": 1754.64,
+   "text": "powers and certain durations of exposure. Laser-induced thermal change to the skin"
+  },
+  {
+   "start": 1754.64,
+   "end": 1760.24,
+   "text": "is most pronounced in a far infrared wavelength, such as those produced by CO2 lasers, so"
+  },
+  {
+   "start": 1760.88,
+   "end": 1767.04,
+   "text": "certain types of lasers are also a safety risk for our skin in addition to the safety hazards"
+  },
+  {
+   "start": 1767.04,
+   "end": 1772.72,
+   "text": "to our eyes. With this, we are going to conclude our lecture number seven. So in this lecture,"
+  },
+  {
+   "start": 1772.72,
+   "end": 1780.8,
+   "text": "we elaborated on light sources. We mentioned at the beginning of this course that photonics deals"
+  },
+  {
+   "start": 1780.8,
+   "end": 1787.84,
+   "text": "with all aspects of the light, including the light production, so we are going to need light sources"
+  },
+  {
+   "start": 1787.84,
+   "end": 1794.0,
+   "text": "in our photonics labs, in our photonics experiments, because in order to create the optical system and"
+  },
+  {
+   "start": 1794.0,
+   "end": 1799.76,
+   "text": "in order to manipulate with the light and put it to proper use, we need to first produce the"
+  },
+  {
+   "start": 1799.76,
+   "end": 1804.72,
+   "text": "light, and for that purpose, we are going to be using the light sources that are elaborated to"
+  },
+  {
+   "start": 1804.72,
+   "end": 1810.48,
+   "text": "certain extent in this lecture. So we covered non-laser man-made types of light sources."
+  },
+  {
+   "start": 1810.48,
+   "end": 1819.28,
+   "text": "We are going to be talking about other light sources, especially laser types in the lectures"
+  },
+  {
+   "start": 1819.28,
+   "end": 1825.6,
+   "text": "that follow in different courses. And then finally, in this lecture, we also elaborated on the"
+  },
+  {
+   "start": 1825.68,
+   "end": 1830.48,
+   "text": "anatomy of the human eye and the skin from the perspective of the safety hazards that"
+  },
+  {
+   "start": 1831.2,
+   "end": 1839.44,
+   "text": "exist in photonics labs when we are operating with different types of light sources."
+  },
+  {
+   "start": 1839.44,
+   "end": 1843.52,
+   "text": "So next time, in lecture number eight, now that we know about anatomy of the human eye and the"
+  },
+  {
+   "start": 1843.52,
+   "end": 1849.12,
+   "text": "skin, we are going to talk about important aspects of the laser safety and how it is to be"
+  },
+  {
+   "start": 1849.12,
+   "end": 1855.76,
+   "text": "implemented in the photonics lab, so that everyone is safe and no risk to the safety of"
+  },
+  {
+   "start": 1855.76,
+   "end": 1864.0,
+   "text": "our eyes and our skin is increased or present in the lab. With this, we are going to conclude"
+  },
+  {
+   "start": 1864.0,
+   "end": 1868.8,
+   "text": "lecture number seven here, and I wish you the nice rest of the day, and I'll see you next time in"
+  },
+  {
+   "start": 1868.8,
+   "end": 1878.48,
+   "text": "lecture eight."
+  }
+ ]
+}

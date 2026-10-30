@@ -1,0 +1,675 @@
+1
+00:00:09,970 --> 00:00:14,970
+Hi there, this is lecture 4 in the Introduction to Photonics video series.
+
+2
+00:00:14,970 --> 00:00:19,970
+The title of this lecture is More on Properties of Light.
+
+3
+00:00:19,970 --> 00:00:24,970
+In the previous three lectures, we laid foundations of photonics.
+
+4
+00:00:24,970 --> 00:00:28,970
+We established the terminology that describes the light.
+
+5
+00:00:28,970 --> 00:00:31,970
+We talked about different properties of light.
+
+6
+00:00:31,970 --> 00:00:34,970
+We established the dual nature of light.
+
+7
+00:00:34,970 --> 00:00:38,970
+We talked about absorption and emission in the previous lecture.
+
+8
+00:00:38,970 --> 00:00:43,970
+This lecture number 4 takes us one step further.
+
+9
+00:00:43,970 --> 00:00:49,970
+We are going to expand on the topics related to the properties of light.
+
+10
+00:00:49,970 --> 00:00:55,970
+We are going to expand on the stuff that we talked about in the previous three lectures.
+
+11
+00:00:55,970 --> 00:01:02,970
+Specifically, in this lecture, we are going to cover topics that are going to help us better understand
+
+12
+00:01:02,970 --> 00:01:08,970
+the nature of optical materials and their transmission and reflection characteristics as a function of the wavelength.
+
+13
+00:01:08,970 --> 00:01:17,970
+We are also going to talk about the selection of optical materials for specific use in the visible ultraviolet or infrared region.
+
+14
+00:01:17,970 --> 00:01:24,970
+Finally, we are going to explain how a single and multiple anti-reflection coatings and filters are made and used.
+
+15
+00:01:24,970 --> 00:01:30,970
+With this lecture, we are slowly moving in the direction of an optical lab.
+
+16
+00:01:30,970 --> 00:01:40,970
+We are going to start talking about optical components and different amounts that are to be found in a standard optical lab.
+
+17
+00:01:40,970 --> 00:01:52,970
+We are going to try to make a transition from the basic theoretical foundations of photonics into more of a practical concept.
+
+18
+00:01:53,970 --> 00:02:01,970
+The first concept that we are going to mention is the optical materials that are to be found in an optical lab.
+
+19
+00:02:01,970 --> 00:02:07,970
+We are going to find a large variety of different optical materials and different optical components.
+
+20
+00:02:07,970 --> 00:02:15,970
+In general, we can classify them in so-called non-transparent and also so-called transparent types of optical materials.
+
+21
+00:02:15,970 --> 00:02:20,970
+We are going to define each of these throughout this lecture.
+
+22
+00:02:21,970 --> 00:02:24,970
+The first that we are going to talk about is the transparent optical medium.
+
+23
+00:02:24,970 --> 00:02:27,970
+Everyone knows what transparent means.
+
+24
+00:02:27,970 --> 00:02:32,970
+The most popular definition when we say transparent means something that we can see through.
+
+25
+00:02:32,970 --> 00:02:39,970
+But if you want to kind of be more specific and use the term from the field of photonics,
+
+26
+00:02:39,970 --> 00:02:48,970
+we are going to define transparent optical medium as a medium that has a low absorption, low reflection,
+
+27
+00:02:49,970 --> 00:02:55,970
+distortion of light that's passing through it is reduced to a minimum.
+
+28
+00:02:55,970 --> 00:03:00,970
+It also would have a high damage threshold for laser radiation.
+
+29
+00:03:00,970 --> 00:03:05,970
+And finally, it's going to have a minimal optical degradation to different environmental effects,
+
+30
+00:03:05,970 --> 00:03:11,970
+such as temperature, water vapor, and other hostile environment conditions.
+
+31
+00:03:11,970 --> 00:03:17,970
+On this slide, we are going to further expand on the topic of our index of refraction.
+
+32
+00:03:18,970 --> 00:03:21,970
+In one of the previous lectures, we defined index of refraction.
+
+33
+00:03:21,970 --> 00:03:28,970
+We said that index of refraction represents a unitless quantity that characterizes a specific medium.
+
+34
+00:03:28,970 --> 00:03:35,970
+Every medium has a specific index of refraction that defines optical properties of that material.
+
+35
+00:03:35,970 --> 00:03:42,970
+To be more specific, index of refraction represents the number that shows us how much is the speed of light
+
+36
+00:03:42,970 --> 00:03:48,970
+reduced in that specific medium relative to the speed of light in air or vacuum.
+
+37
+00:03:48,970 --> 00:03:54,970
+So once more, index of refraction or refractive index is defined as the ratio of the speed of light
+
+38
+00:03:54,970 --> 00:03:58,970
+in a vacuum to the speed of light in a particular medium.
+
+39
+00:03:58,970 --> 00:04:04,970
+We are talking about a unitless quantity that's always greater than 1.
+
+40
+00:04:04,970 --> 00:04:10,970
+If index of refraction is equal to 1, it means that we are talking about the vacuum,
+
+41
+00:04:10,970 --> 00:04:17,970
+we are talking about the medium that has a speed of light equal to the 3 times 10 to the 8 meters per second.
+
+42
+00:04:17,970 --> 00:04:26,970
+It's also important to understand that the index of refraction is also going to be a function of the wavelength.
+
+43
+00:04:26,970 --> 00:04:32,970
+That's something new that we haven't mentioned before, and we are introducing on this specific slide.
+
+44
+00:04:32,970 --> 00:04:46,970
+So if you're looking at a plot on our right-hand side, we see here two plots, three plots, three curves for three different types of material.
+
+45
+00:04:46,970 --> 00:04:52,970
+On the top we have a crown glass, and then we have acrylic, and finally on the bottom we have a fused quartz.
+
+46
+00:04:52,970 --> 00:05:02,970
+On a horizontal x-axis are different wavelengths that are covering a visible spectrum ranging from 400 nanometers all the way to 700 nanometers,
+
+47
+00:05:02,970 --> 00:05:07,970
+and then on the vertical axis we have the index of refraction.
+
+48
+00:05:07,970 --> 00:05:14,970
+You can see that these three curves are not flat. In other words, the index of refraction is changing with the wavelength.
+
+49
+00:05:14,970 --> 00:05:21,970
+So for example, if you're looking at acrylic, which is a very popular type of medium used in many optical components in a photonics lab,
+
+50
+00:05:21,970 --> 00:05:35,970
+we see that at the wavelength of red, the wavelength of violet, which is 400 nanometers, the index of refraction of acrylic is about 1.51.
+
+51
+00:05:35,970 --> 00:05:43,970
+And if you are going all the way to the right side, if you come closer to the 700 nanometers, which is the wavelength of red,
+
+52
+00:05:43,970 --> 00:05:52,970
+we see that index of refraction of acrylic dropped from 1.51 all the way down to below 1.49.
+
+53
+00:05:52,970 --> 00:06:05,970
+So these differences are relatively small, so we're talking here about the range of change from 1.51 to 1.49 in the case of acrylic,
+
+54
+00:06:05,970 --> 00:06:12,970
+but they are enough to produce a certain effect that we can very easily observe.
+
+55
+00:06:12,970 --> 00:06:21,970
+For example, if we have a prism that's made out of acrylic, if you're shooting the different colors of light,
+
+56
+00:06:21,970 --> 00:06:30,970
+those different colors will be refracted at different angles due to the fact that index of refraction is different for those different colors.
+
+57
+00:06:30,970 --> 00:06:43,970
+In other words, if we are shooting white light through the prism made out of acrylic, what you'll see on the other side is that that white is going to be broken down into all the colors that it's made out of.
+
+58
+00:06:43,970 --> 00:06:49,970
+And that's exactly practical application of the concept that we're introducing on this specific slide.
+
+59
+00:06:49,970 --> 00:07:00,970
+So once more, index of refraction is a unit list quantity that describes the ratio of the speed of light in the vacuum to the speed of light in a specific medium.
+
+60
+00:07:00,970 --> 00:07:18,970
+And this unit list quantity is a function of the wavelength. In other words, it's changing with the wavelength. What we see on the right hand side is an example with three curves representing three different types of optical materials that are very popular materials used in photonics.
+
+61
+00:07:19,970 --> 00:07:25,970
+The next topic that we are going to expand in this lecture is a concept of absorption and transmission of light.
+
+62
+00:07:25,970 --> 00:07:31,970
+In the previous lecture, number three, we talked about particle properties of light.
+
+63
+00:07:31,970 --> 00:07:40,970
+And we translated those properties into specific phenomena that relate to the light, specifically interaction of light and the medium.
+
+64
+00:07:40,970 --> 00:07:57,970
+And we said that if light passes through a medium, an absorption phenomenon is taking place where the power of the light beam is being reduced as the light is propagating through that medium.
+
+65
+00:07:57,970 --> 00:08:07,970
+And why is that happening has been explained in the previous lecture. We talked about atomic model of a material.
+
+66
+00:08:07,970 --> 00:08:17,970
+We talked about different energy levels of different electrons, how they're moving from our lower to higher energy levels as they're absorbing the light, etc.
+
+67
+00:08:17,970 --> 00:08:21,970
+So on this slide, we are going to quantify that whole concept.
+
+68
+00:08:22,970 --> 00:08:33,970
+So what you see on the right hand side is a plot of an optical window of a thickness x. So this optical window is made out of certain material.
+
+69
+00:08:33,970 --> 00:08:42,970
+And the property of material is specified through this so-called absorbing material coefficient alpha.
+
+70
+00:08:42,970 --> 00:08:47,970
+So this number alpha is changing with different media.
+
+71
+00:08:47,970 --> 00:08:53,970
+From the left hand side, we have an incident light that carries a certain power.
+
+72
+00:08:53,970 --> 00:09:00,970
+And here we are also going to introduce the concept of so-called irradiance. Irradiance represents the power over the area.
+
+73
+00:09:00,970 --> 00:09:10,970
+So if you are, for example, looking at two different laser beams, and let's say both of those laser beams are carrying power of 10 watts.
+
+74
+00:09:10,970 --> 00:09:21,970
+However, one of the laser beams is very wide, while the other one is very thin.
+
+75
+00:09:21,970 --> 00:09:35,970
+The effect that a thin laser beam is going to make on the material is going to be much larger than the effect that a wider beam is going to make, although both of them are carrying the same power of 10 watts.
+
+76
+00:09:35,970 --> 00:09:56,970
+So in order to capture that type of effect, we have to look at a different quantity that's going to take into account both the power on the one side and then also the area or the thickness or if you wish, the width of the beam of that light.
+
+77
+00:09:56,970 --> 00:10:04,970
+And that quantity is so-called irradiance. So we define irradiance as a power of a specific area.
+
+78
+00:10:04,970 --> 00:10:20,970
+So this incident light that you're seeing here coming from the left side and entering the optical window is going to have a specific irradiance, E0, and it also is specified by the wavelength lambda.
+
+79
+00:10:20,970 --> 00:10:32,970
+What we also see is that same beam of light exits the optical window. We see that irradiance changed. It's not anymore E0.
+
+80
+00:10:32,970 --> 00:10:42,970
+Now it is equal to capital E. In other words, the irradiance has changed because a certain amount of power has been absorbed in this optical medium.
+
+81
+00:10:42,970 --> 00:10:54,970
+The question is how we can quantify, how we can calculate what is the power, what is the irradiance on the right side compared to the irradiance on the left side.
+
+82
+00:10:54,970 --> 00:11:04,970
+What is the comparison between the output power that exits the optical window and the input power that enters this optical window?
+
+83
+00:11:04,970 --> 00:11:18,970
+It turns out that there is a specific formula, there is a specific law that's shown here in a box on the left-hand side where the output irradiance E is a function of the input irradiance E0
+
+84
+00:11:18,970 --> 00:11:29,970
+and then also a function of the type of material that's captured to the coefficient alpha and then also is a function of the thickness of the window that's captured to the parameter x.
+
+85
+00:11:29,970 --> 00:11:37,970
+So once more E0, capital E0 represents the incident irradiance, incident power per unit area.
+
+86
+00:11:37,970 --> 00:11:44,970
+Capital E is going to capture the transmitted irradiance or the output irradiance.
+
+87
+00:11:44,970 --> 00:11:58,970
+Alpha is an absorption coefficient in the units of reciprocal length that captures the properties of the material that optical window is made out of and finally x represents the thickness of the optical window.
+
+88
+00:11:58,970 --> 00:12:09,970
+And we see that through the formula, through the law that's being shown here, the output irradiance is going to be the function of the input irradiance,
+
+89
+00:12:09,970 --> 00:12:16,970
+type of material that optical window is made out of and finally thickness of that window.
+
+90
+00:12:16,970 --> 00:12:33,970
+We can also define so-called transmittance. The transmittance is basically a representation of how much percentage wise of the input power has been transmitted over to the other side of this optical window.
+
+91
+00:12:33,970 --> 00:12:44,970
+So if we take a ratio of the output irradiance E and the input irradiance E0 and multiply by 100, we are going to get so-called transmittance.
+
+92
+00:12:44,970 --> 00:12:48,970
+That's going to be the percentage quantity.
+
+93
+00:12:48,970 --> 00:13:09,970
+So it's very easy if we apply the formula from the previous slide to see that this transmittance, the quantity transmittance, is going to be determined by the properties of this optical window and also the thickness of the window.
+
+94
+00:13:09,970 --> 00:13:18,970
+So we can also observe that the absorption coefficient alpha depends on the nature of the material and the wavelength of the light.
+
+95
+00:13:18,970 --> 00:13:30,970
+It's also important to mention that most of the optical glass materials, transparent materials that are being used in photonics labs, would transmit nearly 100% of the visible light,
+
+96
+00:13:30,970 --> 00:13:36,970
+meaning the entire range from the near ultraviolet all the way to the near infrared.
+
+97
+00:13:36,970 --> 00:13:47,970
+Now that we established the parameter transmittance, let's shift out our focus to the transmission properties of different optical materials used in the field of photonics.
+
+98
+00:13:47,970 --> 00:14:02,970
+So let's look at a fused silica and fused quartz first. These two materials are very popular and have been used for many types of optical components that are used in the photonics lab.
+
+99
+00:14:02,970 --> 00:14:10,970
+And it turns out that these two materials are used in the ultraviolet region from 0.2 to 0.4 micrometers.
+
+100
+00:14:10,970 --> 00:14:19,970
+We also have a whole bunch of different glasses that have reduced transmission beyond 3.4 microns in the infrared region, etc.
+
+101
+00:14:19,970 --> 00:14:26,970
+So we can identify a whole bunch of different types of materials. We mentioned here fused silica and fused quartz.
+
+102
+00:14:26,970 --> 00:14:37,970
+We also have a Pyrex, we have a Zerodur, etc. Now, it's also important to spend a few minutes explaining what you're seeing here on this plot on the left-hand side.
+
+103
+00:14:37,970 --> 00:14:43,970
+What you see here are the transmission properties of a few different types of materials.
+
+104
+00:14:43,970 --> 00:14:52,970
+On the bottom, on the horizontal axis, you have a wavelength, and then on the vertical axis, you have a transmittance in terms of percentage.
+
+105
+00:14:52,970 --> 00:14:59,970
+So for example, let's focus on the curve D that represents the curve for the material called Zerodur.
+
+106
+00:14:59,970 --> 00:15:13,970
+You can see that Zerodur has a relatively high transmittance in the range of, let's say, 0.7 microns all the way to, let's say, 3 microns.
+
+107
+00:15:13,970 --> 00:15:21,970
+So 0.7 microns is about 700 nanometers and above. So 700 nanometers and above, we are talking about infrared region.
+
+108
+00:15:21,970 --> 00:15:38,970
+As we are moving to the wavelengths below the infrared, if you're entering the visible spectrum, so from 0.7 microns up to 0.7 microns or 400 nanometers to 700 nanometers that represents the visible spectrum,
+
+109
+00:15:38,970 --> 00:15:54,970
+you see that the transmittance of Zerodur significantly degrades to the point where at the wavelength of 400 nanometers that represents the violet color, we have the transmittance of about 30%.
+
+110
+00:15:54,970 --> 00:16:05,970
+So what this shows us is that this type of material, Zerodur, has a very, very different transmission properties at different wavelengths.
+
+111
+00:16:05,970 --> 00:16:23,970
+So if our goal is to create the optical component that is passing most of light in the infrared region while it is blocking a significant amount of light in the visible and ultraviolet region,
+
+112
+00:16:23,970 --> 00:16:45,970
+then this material may be a good candidate because, as I said, in infrared region, the transmittance of this material is around 90%, in other words, almost all the light, 90% of the light that's in infrared region will be passing through Zerodur.
+
+113
+00:16:45,970 --> 00:17:00,970
+You can draw similar conclusions for other materials, for other three materials, meaning fused silica, fused quartz, and pyrex from the other three curves A, B, and C on this plot.
+
+114
+00:17:00,970 --> 00:17:23,970
+So what you are seeing on this slide, this plot, is actually very important. So if you are working as a photonics technician in a photonics lab and you are operating a specific type of a laser or different type of optical system and you need to have a good transmission properties, transmission characteristics in infrared region,
+
+115
+00:17:23,970 --> 00:17:40,970
+then you would be analyzing, if you are selecting a specific optical component made out of a specific material, you would want to look at the transmission characteristic of that medium, so you would be analyzing the curves similar to those that you are seeing here on this slide.
+
+116
+00:17:40,970 --> 00:17:52,970
+This slide further elaborates the properties of different optical materials that are used in the field of photonics. So here, a table is shown.
+
+117
+00:17:52,970 --> 00:18:08,970
+On the left side, you have a column that specifies different types of materials, and then, you know, there's a few other columns, columns that show the wavelength range, refractive index, and finally, certain other properties of this media.
+
+118
+00:18:08,970 --> 00:18:20,970
+So these types of tables start being very handy if you are performing certain types of experiments that involve these materials in a photonic lab.
+
+119
+00:18:20,970 --> 00:18:30,970
+Starting with this slide, we are shifting our focus from absorption and transmission to the concept of surface reflection.
+
+120
+00:18:30,970 --> 00:18:41,970
+So we are still looking at the boundary between the two media, as shown in the picture on the left side.
+
+121
+00:18:41,970 --> 00:18:50,970
+You can see that here we are dealing with the air on the left-hand side, and we are dealing with the glass on the right-hand side.
+
+122
+00:18:50,970 --> 00:18:57,970
+Each of these two media are characterized by the index of refraction. In the case of air, we are dealing with the index of refraction equal to one.
+
+123
+00:18:57,970 --> 00:19:05,970
+And then, in the case of a glass, we are dealing with a type of glass that has index of refraction equal to 1.5.
+
+124
+00:19:05,970 --> 00:19:14,970
+So what are we interested in this case here is what is happening when the light hits the boundary between the air and the glass.
+
+125
+00:19:14,970 --> 00:19:22,970
+We know that, according to the wave properties, there is going to be a certain reflection of light from this boundary.
+
+126
+00:19:22,970 --> 00:19:28,970
+We can use the law of reflection to determine the direction of the reflected beam.
+
+127
+00:19:28,970 --> 00:19:40,970
+But what we are interested on this slide to determine is what is the power, what is the irradiance that is in that reflected beam.
+
+128
+00:19:40,970 --> 00:19:50,970
+So that's what is basically being represented on this picture that's shown on the left-hand side.
+
+129
+00:19:50,970 --> 00:20:02,970
+It turns out that reflection, or so-called reflectance, which is going to basically be equal to the percentage of the input power that's being reflected,
+
+130
+00:20:02,970 --> 00:20:06,970
+is a function of the two indices of refraction of the two media.
+
+131
+00:20:06,970 --> 00:20:12,970
+So the formula, the equation that you are seeing on the right-hand side, defines so-called reflectance.
+
+132
+00:20:12,970 --> 00:20:21,970
+So once more, reflectance is equal to the ratio of the reflected irradiance to the input irradiance or incident irradiance.
+
+133
+00:20:21,970 --> 00:20:28,970
+And it's a function of the two numbers, N1 and N2, according to the equation that you are seeing on the right-hand side.
+
+134
+00:20:29,970 --> 00:20:40,970
+So if we plug in the values for the index of refraction, N1 equal to 1, and index of refraction equal to 1.5 for the second medium,
+
+135
+00:20:40,970 --> 00:20:46,970
+and do calculation, we are going to come up with the value of reflectance being equal to 4%.
+
+136
+00:20:47,970 --> 00:20:56,970
+This number 4% means that out of the total input irradiance that is in an incident ray, 4% is going to get reflected,
+
+137
+00:20:56,970 --> 00:21:02,970
+while the rest of 96% is going to get transmitted into the glass.
+
+138
+00:21:02,970 --> 00:21:15,970
+And then as this transmitted ray that's equal to 96% of the incident irradiance is going to be absorbed slowly as the light beam is moving through the glass.
+
+139
+00:21:15,970 --> 00:21:27,970
+So using the formula on the right-hand side, we have determined the reflectance at the boundary between the air and the glass
+
+140
+00:21:27,970 --> 00:21:36,970
+as a function of the two indices of refraction of the first medium, in our case air, and the second medium in our case glass.
+
+141
+00:21:36,970 --> 00:21:40,970
+The next case that we are going to analyze is a case of an optical window.
+
+142
+00:21:40,970 --> 00:21:53,970
+So in this case, we not only have the first boundary between the air and the glass, but also the second boundary from the glass back into the air.
+
+143
+00:21:53,970 --> 00:22:03,970
+So what of interest here is, again, how much light is going to get reflected from such an optical window.
+
+144
+00:22:04,970 --> 00:22:18,970
+What's important to notice here is that we don't have just one single reflection, as in the case of the single boundary between the air and the glass,
+
+145
+00:22:18,970 --> 00:22:24,970
+but we have all these multiple reflections. How are these multiple reflections established?
+
+146
+00:22:24,970 --> 00:22:26,970
+So let's look at the incident light beam.
+
+147
+00:22:26,970 --> 00:22:42,970
+So this incident light beam is going to hit the first boundary, and there's going to be a first single reflection that we calculated in the previous case to be equal to 4% in the case of a glass being equal to 1.5.
+
+148
+00:22:42,970 --> 00:22:51,970
+Now, the rest of the irradiance is going to get transmitted into the window, is going to continue propagating towards the right side.
+
+149
+00:22:51,970 --> 00:23:07,970
+And then when that light beam reaches the second boundary between the glass and the air, a certain amount of that power is going to get reflected back into the window while the rest is going to be transmitted into the air.
+
+150
+00:23:07,970 --> 00:23:16,970
+So the reflected amount of light that's from the second boundary is going to propagate back towards the first boundary.
+
+151
+00:23:16,970 --> 00:23:30,970
+And then the first boundary, a certain amount is going to get reflected back into the window, but also a certain amount is going to get transmitted into the air, and it's going to show up as the second reflection.
+
+152
+00:23:30,970 --> 00:23:41,970
+And then we have all this bouncing back and forth of the light. So the light is going to be bouncing back and forth in the window, a certain amount of that light is going to get transmitted, a certain amount of that light is going to get reflected.
+
+153
+00:23:41,970 --> 00:23:49,970
+And we're going to have all these multiple reflections that are going to be showing up in the air on the left hand side.
+
+154
+00:23:49,970 --> 00:24:09,970
+So what you can see here in this case, due to these multiple reflections, the amount of light that's going to get cumulatively reflected is going to be much, it's going to be more, it's going to be larger than the amount of light or irradiance
+
+155
+00:24:09,970 --> 00:24:24,970
+in the case of the single reflection as we had in the previous case. So the formula that we established on the previous slide, where the reflectance has been defined as a function of the indices of refraction and one and then two,
+
+156
+00:24:24,970 --> 00:24:37,970
+that formula has to be scratched in our case, and we have to establish a different type of a formula that's going to take into account all these multiple infractions that are showing up in the case of an optical window with the two boundaries,
+
+157
+00:24:37,970 --> 00:24:48,970
+one on the left side and one on the right side. So after a certain derivations, we can come up with a new set of formulas that are shown here on this slide.
+
+158
+00:24:48,970 --> 00:24:59,970
+So the first thing that you're going to calculate is the quantity n sub r that's going to be equal to the ratio of the index of refraction of the window and the medium.
+
+159
+00:24:59,970 --> 00:25:12,970
+So in our case, we have index of refraction of the window, which is going to be equal to 1.6, and then index of refraction of the medium is the index of refraction of the medium that surrounds this window in our case is going to be air.
+
+160
+00:25:12,970 --> 00:25:33,970
+So you're going to take again 1.6 over 1, come up with a value for the n subscript r, and then you're going to substitute the value of this n subscript r factor into the formula on the left hand side and calculate the total reflectance.
+
+161
+00:25:33,970 --> 00:25:46,970
+If you do that, you're going to see that this total reflectance is going to be more than 4% as in the case of a single boundary where the window is of infinite thickness.
+
+162
+00:25:46,970 --> 00:26:09,970
+So the difference, again, between the two formulas, two equations or two cases, is the fact that in the case of the window of finite thickness, we have multiple reflections that have to be taken into account in the total cumulative reflectance that we want to determine in this specific example.
+
+163
+00:26:09,970 --> 00:26:22,970
+So with this slide, we are going to conclude the lecture number four. You're also going to see a few slides here that we did not elaborate on. There's a few slides as you study this material.
+
+164
+00:26:22,970 --> 00:26:44,970
+You're going to come across a few slides, as I said, that would give you links to specific types of small applets that you can open and play with to kind of strengthen your knowledge about the different properties of our light.
+
+165
+00:26:44,970 --> 00:27:00,970
+So, for example, if I scroll, you're going to see a small applet here. You have a link where you can play, you can adjust the incident angle and the wavelength, and you can kind of analyze the whole concept of reflection.
+
+166
+00:27:00,970 --> 00:27:08,970
+And then there's also a few other slides here that I skipped, such as this one here that talks a little bit about absorption filters.
+
+167
+00:27:09,970 --> 00:27:37,970
+You can establish the range or width of the passband of a filter. You can change the colors. So this can serve as an introductory assignment or introductory exercise for the next lecture number five, where we are going to go and talk more about the different types of filters that you may come across
+
+168
+00:27:37,970 --> 00:27:58,970
+in a typical photonics lab. So with this one, I'm going to conclude the lecture number four. Please study this material in the next lecture. As I said, we're going to go into the filters and then move further into different practical aspects of a typical photonics lab.
+
+169
+00:27:58,970 --> 00:28:03,970
+With this, I wish you a pleasant rest of the day and see you next time.
