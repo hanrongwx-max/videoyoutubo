@@ -1,0 +1,10 @@
+# 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained 分析底稿
+
+- 剧集：Industrial Gas & Cryogenic Equipment；原标题：EquiTips: RegO SK Series | Cryogenic Globe Valves Explained；链接：https://youtu.be/5DzXnbcWJi0
+- 时长 00:01:39，1920×1080，镜头 3 个，转写 19 段
+
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+|---|---|---|---|
+| 1 | 00:00:00–00:00:02 | shot_001.jpg |  |
+| 2 | 00:00:02–00:01:29 | shot_002_1.jpg, shot_002_2.jpg, shot_002_3.jpg, shot_002_4.jpg, shot_002_5.jpg, shot_002_6.jpg | Good morning, and welcome back to EquiTips. My name is Nico Arvelo, and I'm joined by Emily Harrell with Rego Products. Hi, good to have you here. Of course. Thank you, Emily. Thank you for having us. So where is here? Where are we? We are actually in Rego manufacturing site in Elan, North Carolina. Perfect. And how many total manufacturing plants do you have in the U.S.? For cryogenics, we have here in Elan, North Carolina, Allentown, Pennsylvania, as well as Tampa, Florida. Awesome. Great. And what are we looking at today? What do I have in my hand? This is an SK Advantage Series Globe Valve. It's the best on the market. It provides a lot of value for our customers. Perfect. And this is a new product for you guys? It's over 10 years old, but we have new features and benefits available, including sizes up to 3 inches and different end connections. Awesome. So tell me a little bit more about these features. What makes it better in a better competition? We have a spring-loaded cold seal packing system and a conical seat design. That combination makes it a lot easier to maintain. But mostly it reduces your maintenance, so increases your uptime. When you do have to maintain the valve, the one-piece seat design makes it very easy and fast. We also have the ergonomic hand wheel, which makes it very easy for operators in the field to turn. Great. So it sounds like a great product and a great company. Where can I buy this amazing product? You can contact your local distributor, including our valued partner, Ecogas, who's right down the street in North Carolina. There you have it folks. Just call 844-EQUIGAS today. |
+| 3 | 00:01:29–00:01:39 | shot_003.jpg |  |

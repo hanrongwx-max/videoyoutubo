@@ -1,0 +1,9 @@
+# 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained 分析底稿
+
+- 剧集：Industrial Gas & Cryogenic Equipment；原标题：EquiTips: CPV Manufacturing | High Pressure Valves & Fittings Explained；链接：https://youtu.be/RhaVYCsrPdk
+- 时长 00:01:38，720×1280，镜头 2 个，转写 18 段
+
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+|---|---|---|---|
+| 1 | 00:00:00–00:00:02 | shot_001.jpg |  |
+| 2 | 00:00:02–00:01:38 | shot_002_1.jpg, shot_002_2.jpg, shot_002_3.jpg, shot_002_4.jpg, shot_002_5.jpg, shot_002_6.jpg | Hello, everyone, and welcome back to EquiTips. For anyone who is new, thank you for joining us today. My name is Ava Casper, and today we'll be discussing about CPV manufacturing. Founded in 1915, CPV is manufactured in Kennon Square, PA. CPV has been one of the main leaders for high-pressure valves and fittings. Most of their valves and fittings have been in service for over 30 years. They are made in the USA, and what makes it so cool and unique is you can find some of their valves and fittings in NASA and in the US Navy. All of their valves are cleaned, tested, and packaged per CGA and ASTM standards. Now, what makes their design so unique and easy? Each design has been approved by an oxygen surge tester. Their design features an ergonomic handle, which makes it extremely easy to turn under high pressures. Now, talking about high pressures, their highest working pressure for inert gas is 7,800 PSI and 6,000 PSI for oxygen. Also, their design has a direct pipe thread connection for O-ring seal and welding. Now, these are just a few things that make them so unique and valuable. The sole purpose of our Equi-tip today was to get a better understanding of CPV manufacturing and what makes them safe and different. That's all I have for you today. If you have any additional questions or comments, please see below for our email and phone number. I will see you all next month for the next Equi-tip. Bye guys! |
