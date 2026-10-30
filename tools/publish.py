@@ -18,8 +18,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LOCK = ROOT / ".git" / "publish.lock"
-TRAILER = ("\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
-           "Claude-Session: https://claude.ai/code/session_0142QtstjsJxFPvhcX4d7ZN2")
+import os
+TRAILER = os.environ.get("COMMIT_TRAILER", "\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
+                         "Claude-Session: https://claude.ai/code/session_0142QtstjsJxFPvhcX4d7ZN2")
 
 
 def git(*args, check=True):
