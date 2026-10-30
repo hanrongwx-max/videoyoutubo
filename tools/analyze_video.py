@@ -207,7 +207,11 @@ def main():
     for a in assets:
         if (ROOT / "project" / a["剧集"] / a["视频名称"] / "src.py").exists():
             continue   # 已编写（含从其他剧集复制的重复视频），不再分析
-        d = WORK / a["剧集"] / a["视频名称"]
+        final = WORK / a["剧集"] / a["视频名称"]
+        if (final / "analysis.md").exists():
+            continue   # 已分析
+        # 分析过程中写在 work/.inprogress/（不入库），完成后再移到 work/<剧集>/<视频>/，避免半成品出现在仓库里
+        d = final if final.exists() else WORK / ".inprogress" / a["剧集"] / a["视频名称"]
         d.mkdir(parents=True, exist_ok=True)
         print(f"== {a['视频名称']}", flush=True)
         src = download(a, d)
@@ -220,6 +224,9 @@ def main():
         print(f"   {ts(info['duration'])}，转写 {len(tr['segments'])} 段，镜头 {len(shots)} 个，拼图 {n} 张", flush=True)
         if not args.keep_video:
             src.unlink()
+        if d != final:
+            final.parent.mkdir(parents=True, exist_ok=True)
+            d.rename(final)
         if args.push:
             subprocess.run([sys.executable, str(ROOT / "tools" / "publish.py"), a["剧集"], a["视频名称"],
                             "-m", f"Analyze {a['剧集']} / {a['视频名称']}"], check=False)
