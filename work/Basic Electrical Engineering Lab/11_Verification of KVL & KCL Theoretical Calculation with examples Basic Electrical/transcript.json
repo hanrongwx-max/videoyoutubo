@@ -1,0 +1,507 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "task": "transcribe",
+ "segments": [
+  {
+   "start": 1.2,
+   "end": 6.56,
+   "text": "Hello everyone welcome to basic electrical engineering laboratory in this video I will"
+  },
+  {
+   "start": 6.56,
+   "end": 12.76,
+   "text": "be demonstrating the experiment of verification of Kirchhoff voltage law and Kirchhoff current"
+  },
+  {
+   "start": 12.76,
+   "end": 19.24,
+   "text": "law in basic electrical engineering theory I have already explained both Kirchhoff voltage"
+  },
+  {
+   "start": 19.24,
+   "end": 23.6,
+   "text": "and Kirchhoff current law first of all you please watch that video completely later on"
+  },
+  {
+   "start": 23.6,
+   "end": 29.68,
+   "text": "you can go ahead with practical circuit verification ok so that video is available in the description"
+  },
+  {
+   "start": 29.68,
+   "end": 34.88,
+   "text": "box and the I button kindly go through that first the ultimate goal of the experiment is"
+  },
+  {
+   "start": 34.88,
+   "end": 43.6,
+   "text": "to verify KCL and KVL experimentally there is one DC circuit we need to verify those particular"
+  },
+  {
+   "start": 43.6,
+   "end": 50.4,
+   "text": "laws for the given DC circuit theoretically as well as practically what are the apparatus"
+  },
+  {
+   "start": 50.4,
+   "end": 58.2,
+   "text": "required we require one regulated DC power supply in the range of 0 to 30 volt to 1 then we need"
+  },
+  {
+   "start": 58.2,
+   "end": 69.36,
+   "text": "to have 3 DC lamps and we must have 3 moving coil ammeter in the range of 0 to 1 ampere and also we"
+  },
+  {
+   "start": 69.36,
+   "end": 76.64,
+   "text": "need 3 voltmeter it is also DC voltmeter moving coil ok in the range of 0 to 30 volt these are"
+  },
+  {
+   "start": 76.64,
+   "end": 81.48,
+   "text": "the requirement in case voltmeter is unavailable what you can do is you can use a multimeter"
+  },
+  {
+   "start": 81.48,
+   "end": 88.37,
+   "text": "and set the multimeter into DC mode I did the same thing initially you have to take some"
+  },
+  {
+   "start": 88.41,
+   "end": 92.73,
+   "text": "precautions so what are the precautions you are supposed to take means voltage knob should"
+  },
+  {
+   "start": 92.73,
+   "end": 96.93,
+   "text": "be at a minimum position in the RPS and the current knob should be kept at the maximum"
+  },
+  {
+   "start": 96.93,
+   "end": 101.87,
+   "text": "position in the same RPS that need to be taken care otherwise there are chances for"
+  },
+  {
+   "start": 101.87,
+   "end": 108.01,
+   "text": "spoiling of your regulated DC power supply RPS be careful let us go ahead with the"
+  },
+  {
+   "start": 108.01,
+   "end": 113.17,
+   "text": "procedure circuit connections are made as per the circuit diagram so this is your given"
+  },
+  {
+   "start": 113.17,
+   "end": 120.69,
+   "text": "DC circuit look at this so supply will be given from by RPS so that is denoted by V1 you can take"
+  },
+  {
+   "start": 120.69,
+   "end": 127.25,
+   "text": "the supply like 4 volt 6 volt 8 volt like 10 volt as it is even you can start from 1 or 2 volt"
+  },
+  {
+   "start": 127.25,
+   "end": 132.21,
+   "text": "itself there is no problem it is a variable voltage variable DC supply that is providing by"
+  },
+  {
+   "start": 132.21,
+   "end": 140.17,
+   "text": "RPS and we need we have 3 lamps in the range of 12 volt 10 watts look at this all lamps are"
+  },
+  {
+   "start": 140.17,
+   "end": 145.65,
+   "text": "having identical rating please note down this will be helpful for calculating the resistance"
+  },
+  {
+   "start": 145.65,
+   "end": 153.89,
+   "text": "of the lamp and also these are the ammeters we have 0 to 1 ampere moving coil okay so here"
+  },
+  {
+   "start": 153.89,
+   "end": 160.53,
+   "text": "also you can see 0 to 1 ampere moving coil better write MC 0 to 1 ampere moving coil that means"
+  },
+  {
+   "start": 160.53,
+   "end": 167.89,
+   "text": "this is your I1 then I2 I3 and also we have volt meters so V2 better mark in this manner"
+  },
+  {
+   "start": 167.97,
+   "end": 174.25,
+   "text": "because it is a DC meter so V2 and we have V3 look at this two lamps are connected in"
+  },
+  {
+   "start": 174.25,
+   "end": 179.97,
+   "text": "parallel therefore voltage across lamp 2 and lamp 3 are same so please refer the video on"
+  },
+  {
+   "start": 179.97,
+   "end": 184.89,
+   "text": "series and parallel connection I have done it in a elaborated manner so this is your"
+  },
+  {
+   "start": 184.89,
+   "end": 190.53,
+   "text": "circuit diagram I hope you have got an idea about the circuit diagram then supply switch"
+  },
+  {
+   "start": 190.53,
+   "end": 197.21,
+   "text": "of RPS is close to okay then set the value of voltage in RPS may be 3 volt or 4 volt 6"
+  },
+  {
+   "start": 197.21,
+   "end": 204.09,
+   "text": "volt then 8 volt 10 volt there are suppose there are 4 members are 4 or 5 members are in"
+  },
+  {
+   "start": 204.09,
+   "end": 209.05,
+   "text": "your group you can take individual reading may be 3 volt 4 volt 6 volt like phase okay"
+  },
+  {
+   "start": 209.05,
+   "end": 213.77,
+   "text": "note down the corresponding ammeter and voltmeter reading you have to set a certain voltmeter"
+  },
+  {
+   "start": 213.77,
+   "end": 220.57,
+   "text": "then what you can do you can measure I1 I2 I3 in parallel you can measure V1 V2 V3 yes V1 no"
+  },
+  {
+   "start": 220.57,
+   "end": 225.05,
+   "text": "problem whatever you are setting the value that is known as V1 look at this whatever you are"
+  },
+  {
+   "start": 225.05,
+   "end": 229.85,
+   "text": "going to set to that value itself is V1 now repeat the step 3 and 4 for different values"
+  },
+  {
+   "start": 229.85,
+   "end": 235.29,
+   "text": "of voltages and then afterwards switch of the supply okay and then remove the plug so these"
+  },
+  {
+   "start": 235.29,
+   "end": 241.81,
+   "text": "are the simple procedure okay hope you got an idea about the procedure now draw the table"
+  },
+  {
+   "start": 241.81,
+   "end": 246.81,
+   "text": "before taking the reading kindly draw the table theoretical verification as well as practical"
+  },
+  {
+   "start": 246.81,
+   "end": 251.93,
+   "text": "verification for key switch of voltage look look at this V1 V2 V3 V1 you are going to"
+  },
+  {
+   "start": 252.17,
+   "end": 261.17,
+   "text": "set so you can set like 3 volt or may be 4 volt or may be 6 volt then 8 volt 10 volt assume"
+  },
+  {
+   "start": 261.17,
+   "end": 266.57,
+   "text": "that there are 5 members in your group okay now you have to measure V now you have to"
+  },
+  {
+   "start": 266.57,
+   "end": 271.85,
+   "text": "calculate first theoretically you have to calculate you have to calculate theoretically and put"
+  },
+  {
+   "start": 271.85,
+   "end": 279.19,
+   "text": "down the values of V2 and V3 afterwards what you do is pick up the circuit apply 3 volt apply 3"
+  },
+  {
+   "start": 279.55,
+   "end": 284.63,
+   "text": "volt okay you have to apply the 3 volt then you have to measure V2 and V3 finally you need"
+  },
+  {
+   "start": 284.63,
+   "end": 289.51,
+   "text": "to verify that V1 is equal to V2 plus V3 likewise in practical case also you are supposed to"
+  },
+  {
+   "start": 289.51,
+   "end": 294.27,
+   "text": "verify in the same fashion you have to set a current okay you have to set a current the"
+  },
+  {
+   "start": 294.27,
+   "end": 301.39,
+   "text": "same 0.2 volt 2 amps then you have to measure I2 and I3 in theoretically and practically"
+  },
+  {
+   "start": 301.39,
+   "end": 305.39,
+   "text": "theoretically you have to work it out work out practically you have to measure okay same"
+  },
+  {
+   "start": 305.39,
+   "end": 310.41,
+   "text": "manner now if I show one sample calculation it will be very easy for you so let me show"
+  },
+  {
+   "start": 310.41,
+   "end": 314.63,
+   "text": "a sample calculation if you are having any queries please put up in the comment box I"
+  },
+  {
+   "start": 314.63,
+   "end": 319.67,
+   "text": "will clarify now instead of lamp what I am going to do is I am going to represent the"
+  },
+  {
+   "start": 319.67,
+   "end": 325.51,
+   "text": "resistance R1 R2 R3 same fashion I am going to club it first in the foremost I need to"
+  },
+  {
+   "start": 325.51,
+   "end": 330.43,
+   "text": "calculate the resistance of the lamp afterwards I need to compute the equivalent resistance of"
+  },
+  {
+   "start": 330.43,
+   "end": 336.95,
+   "text": "the given V3 circuit afterwards I need to calculate I1 I2 I3 separately so after computing"
+  },
+  {
+   "start": 336.95,
+   "end": 343.71,
+   "text": "I1 I2 I3 separately let me calculate V2 and V3 by using the ohms law that is the plan"
+  },
+  {
+   "start": 343.71,
+   "end": 350.27,
+   "text": "so power rating of the lamp is 10 watts then voltage rating of the lamp is 12 volt obviously"
+  },
+  {
+   "start": 350.27,
+   "end": 356.11,
+   "text": "I can calculate the resistance that means P is equal to V square by R use the formula"
+  },
+  {
+   "start": 356.11,
+   "end": 361.89,
+   "text": "definitely I will be calculate I will be getting 14.14 ohm please verify everybody so we can"
+  },
+  {
+   "start": 361.89,
+   "end": 366.79,
+   "text": "say that the rating of the lamps remain same therefore R1 equal to R2 is equal to R3 is equal"
+  },
+  {
+   "start": 366.79,
+   "end": 372.95,
+   "text": "to R that is nothing but 14.4 ohm now let me see how do you calculate I2 so you have"
+  },
+  {
+   "start": 372.95,
+   "end": 377.15,
+   "text": "to use the current division formula please refer the video of current division formula"
+  },
+  {
+   "start": 377.15,
+   "end": 383.19,
+   "text": "so I2 means the total current I1 into resistance of the opposite branch that is R3 divided"
+  },
+  {
+   "start": 383.19,
+   "end": 388.79,
+   "text": "by total resistance R2 plus R3 suppose if I want to calculate I3 total current is equal"
+  },
+  {
+   "start": 388.79,
+   "end": 394.59,
+   "text": "to I1 then resistance of the opposite branch is R2 then R2 plus R3 so same manner I have"
+  },
+  {
+   "start": 394.59,
+   "end": 398.95,
+   "text": "written over that look at this so before that I would like to calculate the equal resistance"
+  },
+  {
+   "start": 398.95,
+   "end": 407.11,
+   "text": "R1 R1 R equivalent is equal to R1 plus R2 R3 by R2 plus R3 this will be 21.6 ohm so"
+  },
+  {
+   "start": 407.11,
+   "end": 412.11,
+   "text": "later part I need to calculate I1 I2 I3 respectively so R equivalent anyway I computed"
+  },
+  {
+   "start": 412.11,
+   "end": 416.19,
+   "text": "therefore I can calculate the total current I1 is the total current look at this total"
+  },
+  {
+   "start": 416.19,
+   "end": 426.37,
+   "text": "current means total voltage by total resistance so V1 divided by R equivalent okay V1 initially"
+  },
+  {
+   "start": 426.37,
+   "end": 433.51,
+   "text": "I am taking for 4 volt 4 divided by R equivalent is equal to 21.6 that is equal to 0.185 amps"
+  },
+  {
+   "start": 433.51,
+   "end": 438.13,
+   "text": "so that is very clear choose you can choose like the 3 volt 4 volt 6 volt here I have"
+  },
+  {
+   "start": 438.13,
+   "end": 442.89,
+   "text": "chosen 4 volt likewise I2 I can calculate by using current division formula just I"
+  },
+  {
+   "start": 442.93,
+   "end": 448.53,
+   "text": "explained I1 into resistance of opposite branch by total resistance that is equal to 0.0925"
+  },
+  {
+   "start": 448.53,
+   "end": 455.93,
+   "text": "likewise I3 also can be computed I1 into resistance of opposite branch divided by total resistance so"
+  },
+  {
+   "start": 455.93,
+   "end": 462.25,
+   "text": "afterwards what I can do is I can verify the relation I1 is equal to I2 plus I3 so hope the"
+  },
+  {
+   "start": 462.25,
+   "end": 468.41,
+   "text": "relation is verified afterwards I can compute V2 V2 means I1 into R1 please refer the circuit"
+  },
+  {
+   "start": 468.41,
+   "end": 474.73,
+   "text": "diagram V2 is equal to I1 into R1 okay then I will be getting definitely I will be getting"
+  },
+  {
+   "start": 474.73,
+   "end": 480.89,
+   "text": "the particular answer so V2 is equal to look at this V2 is equal to I1 into R1 that is equal to"
+  },
+  {
+   "start": 480.89,
+   "end": 489.81,
+   "text": "2.664 now what you can do is consider a particular loop here V1 is equal to sum of V2 and V3 anyway"
+  },
+  {
+   "start": 489.81,
+   "end": 494.53,
+   "text": "I know the value of V1 and V2 therefore I can calculate V3 V3 is equal to total voltage"
+  },
+  {
+   "start": 494.53,
+   "end": 501.77,
+   "text": "minus this particular voltage I will be getting V3 so I have got the value of V3 okay so V3 is equal"
+  },
+  {
+   "start": 501.77,
+   "end": 510.61,
+   "text": "to V1 minus V2 that is equal to power minus 2.664 that is equal to 1.336 volt okay so it is found"
+  },
+  {
+   "start": 510.61,
+   "end": 517.69,
+   "text": "that V1 is equal to V2 plus V3 so we verified the KVL KVL we have verified theoretically so"
+  },
+  {
+   "start": 517.69,
+   "end": 523.25,
+   "text": "theoretical verification of KVL is power now what you are supposed to do is so please fill up"
+  },
+  {
+   "start": 523.49,
+   "end": 530.61,
+   "text": "the verification of KVL and KCL theoretical part so you can able to complete these two parts"
+  },
+  {
+   "start": 530.61,
+   "end": 537.65,
+   "text": "like theoretical value of KVL you can put down what is V1 what is V2 V3 okay similarly you can"
+  },
+  {
+   "start": 537.65,
+   "end": 544.61,
+   "text": "verify you can you can able to put down the value of KCL like this I1 I2 I3 you can able to no doubt"
+  },
+  {
+   "start": 544.61,
+   "end": 550.05,
+   "text": "clear so time being you can complete up to this now I am going to show you the demonstration"
+  },
+  {
+   "start": 550.05,
+   "end": 555.17,
+   "text": "video so demonstration video that will be sample calculation is just completed so I am going to show"
+  },
+  {
+   "start": 555.17,
+   "end": 560.53,
+   "text": "the demonstration in the next session so please watch the next session for the demonstration so"
+  },
+  {
+   "start": 560.53,
+   "end": 565.17,
+   "text": "if you are having any queries for the calculation you can put up in the comment box and also I"
+  },
+  {
+   "start": 565.17,
+   "end": 571.97,
+   "text": "request you to watch the following video of my previous presentation like what is KVL and KCL"
+  },
+  {
+   "start": 571.97,
+   "end": 576.29,
+   "text": "I have explained in detail with the help of numerical example and also you I request"
+  },
+  {
+   "start": 576.29,
+   "end": 582.13,
+   "text": "you to watch the videos on series and parallel circuit not only that you need to apply voltage"
+  },
+  {
+   "start": 582.13,
+   "end": 586.77,
+   "text": "division and the current division formula that also you can watch if you know what is a series"
+  },
+  {
+   "start": 586.77,
+   "end": 591.01,
+   "text": "parallel circuit okay so current division formula and voltage division formula that is mainly"
+  },
+  {
+   "start": 591.01,
+   "end": 597.49,
+   "text": "applicable when a series parallel circuit comes over the okay now let me demonstrate this"
+  },
+  {
+   "start": 597.49,
+   "end": 599.97,
+   "text": "particular experiment in the coming session thank you"
+  }
+ ]
+}
