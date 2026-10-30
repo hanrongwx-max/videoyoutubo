@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 64 / 441 个视频。
+已编写 68 / 441 个视频。
 
 ## 各剧集进度
 
@@ -14,6 +14,7 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
+| RSO Training Series | 4 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -30,7 +31,6 @@
 | MIT Digital Lab Techniques Manual | 0 / 17 |
 | Microbiology Biosafety | 0 / 59 |
 | Photonics & Laser Safety Series | 0 / 8 |
-| RSO Training Series | 0 / 9 |
 
 ## 已编写视频
 
@@ -102,3 +102,7 @@
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 激光切割机：徽章项目上机全流程 | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/审查报告.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 激光切割机：考核、授权与预约 | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 激光切割机：规程更新须知 | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/审查报告.md>) |
+| RSO Training Series | 01_Radiation Safety Basics | 辐射安全基础：来源、剂量与生物效应 | 86 | 7:10 | 16 / 9 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) · [审查](<RSO Training Series/01_Radiation Safety Basics/审查报告.md>) |
+| RSO Training Series | 02_RSO Training | 学生社团年度培训：管理、财务与活动安全 | 124 | 10:20 | 31 / 9 | [剧本](<RSO Training Series/02_RSO Training/script.md>) · [审查](<RSO Training Series/02_RSO Training/审查报告.md>) |
+| RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 放射性废物：从实验台到安全处置 | 70 | 5:50 | 14 / 8 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/script.md>) · [审查](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/审查报告.md>) |
+| RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 辐射剂量（上）：吸收剂量与当量剂量 | 71 | 5:55 | 13 / 8 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)/script.md>) · [审查](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)/审查报告.md>) |
