@@ -1,0 +1,2016 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "segments": [
+  {
+   "start": 10.61,
+   "end": 19.09,
+   "text": "Okay, so we will start. Welcome to the introduction to modeling for synthetic biology, the last"
+  },
+  {
+   "start": 19.09,
+   "end": 26.65,
+   "text": "webinar of the measurement committee. I'm Alejandro Vignoni and I will try to explain"
+  },
+  {
+   "start": 26.65,
+   "end": 37.82,
+   "text": "you a little bit. Sorry. First, what is a model and where is modeling and design, build and"
+  },
+  {
+   "start": 37.82,
+   "end": 44.78,
+   "text": "this cycle of synthetic biology. And finally, that part why it is important to model there."
+  },
+  {
+   "start": 44.78,
+   "end": 52.9,
+   "text": "That way, sorry, then I will, I will deal a bit with what we will want to model. I will give you"
+  },
+  {
+   "start": 52.9,
+   "end": 59.5,
+   "text": "some examples of models in synthetic biology. And then we will talk about a bit of report"
+  },
+  {
+   "start": 59.5,
+   "end": 67.74,
+   "text": "and reporters and calibration, which we deal with that in the measurement committee. Okay,"
+  },
+  {
+   "start": 67.74,
+   "end": 75.06,
+   "text": "so the survey, if we didn't fill it, fill it, please, I will take a look at the results. Okay,"
+  },
+  {
+   "start": 75.06,
+   "end": 86.16,
+   "text": "so 70% of the list of the people attending is IGM students from this year. So very good. And the"
+  },
+  {
+   "start": 86.16,
+   "end": 91.46,
+   "text": "backgrounds that I see here, there is a lot of biology, biochemistry, also some engineering"
+  },
+  {
+   "start": 91.5,
+   "end": 100.06,
+   "text": "and computer science. So we have a pretty good background. Okay, all the results will be used"
+  },
+  {
+   "start": 100.06,
+   "end": 106.7,
+   "text": "later to decide what we will do in the next, in the summer with the measurement committee. I will"
+  },
+  {
+   "start": 106.7,
+   "end": 114.74,
+   "text": "tell you later. Okay, so you told me in the survey, who you are, I will tell you who am I"
+  },
+  {
+   "start": 114.74,
+   "end": 119.74,
+   "text": "a little bit short. I'm Alejandro Vignoni. I studied electronic engineering in Argentina,"
+  },
+  {
+   "start": 119.86,
+   "end": 127.9,
+   "text": "I finished in 2009. Then I went to do my PhD in Spain in Valencia in control engineering. And I"
+  },
+  {
+   "start": 127.9,
+   "end": 134.94,
+   "text": "found IGM in 2010 as a student for the first time I went for as a student. And then I kept my"
+  },
+  {
+   "start": 134.94,
+   "end": 142.1,
+   "text": "relationship with IGM as a student, then as a advisor. In 2018, I was in structure of the"
+  },
+  {
+   "start": 142.1,
+   "end": 149.54,
+   "text": "Valencia UPV team, where we won the grand prize. We were very proud. And from that also,"
+  },
+  {
+   "start": 149.54,
+   "end": 157.98,
+   "text": "I started to be a judge and member of the measurement committee in since the last year."
+  },
+  {
+   "start": 157.98,
+   "end": 167.82,
+   "text": "And that was what brings me here. Okay, so two important things that we want you to get from"
+  },
+  {
+   "start": 167.82,
+   "end": 177.15,
+   "text": "this webinar. First, why it's important to model and design before the implementation, and before"
+  },
+  {
+   "start": 177.15,
+   "end": 184.23,
+   "text": "going to the lab. This is particularly important and interesting this year, because many labs in"
+  },
+  {
+   "start": 184.23,
+   "end": 190.55,
+   "text": "the world we know, are not able to go to the lab yet, because of the COVID pandemic. So it's,"
+  },
+  {
+   "start": 190.55,
+   "end": 196.55,
+   "text": "it's good that we take advantage of this situation and, and learn how to model and design"
+  },
+  {
+   "start": 196.55,
+   "end": 203.39,
+   "text": "before going to the lab. And the second thing is how to start modeling for synthetic biology"
+  },
+  {
+   "start": 203.39,
+   "end": 214.15,
+   "text": "in the second place. Okay, so first, but so what is the model? I will give you some examples,"
+  },
+  {
+   "start": 214.15,
+   "end": 222.01,
+   "text": "some are a little bit the joke to, to, to lighten the mood. Models, these are models,"
+  },
+  {
+   "start": 222.01,
+   "end": 229.69,
+   "text": "for example, fashion models. Also, different kinds of models, architectural models that architects"
+  },
+  {
+   "start": 229.69,
+   "end": 237.61,
+   "text": "build before going to the construction to see how everything will go beforehand. Another"
+  },
+  {
+   "start": 237.61,
+   "end": 244.45,
+   "text": "model that is very famous is the zebrafish is used by biologists to study other organisms"
+  },
+  {
+   "start": 244.45,
+   "end": 251.45,
+   "text": "is what is called a model organism. So to sum up, what is a model? A model is something"
+  },
+  {
+   "start": 251.45,
+   "end": 258.89,
+   "text": "that represents another system that we want to study. And the ones that are relevant, the"
+  },
+  {
+   "start": 258.89,
+   "end": 264.89,
+   "text": "models that are relevant for what we want to do, I will show here. So there are different"
+  },
+  {
+   "start": 264.89,
+   "end": 270.45,
+   "text": "types of model. First, the schematic models we are used to these ones are little sketches"
+  },
+  {
+   "start": 270.45,
+   "end": 278.45,
+   "text": "that tells us interactions between elements of the system. This is an example of a synthetic"
+  },
+  {
+   "start": 278.45,
+   "end": 290.03,
+   "text": "circuit. Then from those schematics, we can go on and try to write down the biochemical"
+  },
+  {
+   "start": 290.03,
+   "end": 296.51,
+   "text": "reactions underlying that, that system with will, that will tell us a bit more information"
+  },
+  {
+   "start": 296.51,
+   "end": 301.75,
+   "text": "about the kinetics of those species, how they change. And from these reactions, we"
+  },
+  {
+   "start": 301.75,
+   "end": 308.59,
+   "text": "can go and then build us a mathematical model, basically a set of ordinary differential"
+  },
+  {
+   "start": 308.59,
+   "end": 315.99,
+   "text": "equations, don't be scared that using the law of mass action kinetics, we can convert"
+  },
+  {
+   "start": 315.99,
+   "end": 322.11,
+   "text": "from the biochemical reactions into these sets of equations that will tell us basically how"
+  },
+  {
+   "start": 322.11,
+   "end": 329.31,
+   "text": "are changing in time, the different amounts or concentrations of the species in the system."
+  },
+  {
+   "start": 329.31,
+   "end": 339.78,
+   "text": "Okay. So how do we start? In general, I've seen this, this picture many times we go"
+  },
+  {
+   "start": 339.82,
+   "end": 351.42,
+   "text": "to the lab, we build our circuit, we get many experiments. For example, plate reader experiments,"
+  },
+  {
+   "start": 351.42,
+   "end": 356.82,
+   "text": "also flow cytometry experiments, that gives us information about fluorescence and the circuits"
+  },
+  {
+   "start": 356.82,
+   "end": 366.34,
+   "text": "in the cells, microscope pictures, et cetera. And what is generally the case, what happens?"
+  },
+  {
+   "start": 366.34,
+   "end": 373.02,
+   "text": "We will say, okay, let us make a mathematical model to fit all these experimental data and"
+  },
+  {
+   "start": 373.02,
+   "end": 379.62,
+   "text": "to see what happens. But let me tell you that this is not the way we want to do. And"
+  },
+  {
+   "start": 379.62,
+   "end": 386.1,
+   "text": "we take this out because this is not the way we want to go. Why? Because we want to,"
+  },
+  {
+   "start": 386.1,
+   "end": 393.7,
+   "text": "to work in synthetic biology using an approach, which is based on all the, all the engineering"
+  },
+  {
+   "start": 393.7,
+   "end": 402.98,
+   "text": "disciplines, which is the design, build and test cycle. If you were yesterday in the, in the webinar"
+  },
+  {
+   "start": 402.98,
+   "end": 410.82,
+   "text": "for, by the measurement committee, Ed was talking about how if a, if a civil engineer was a molecular"
+  },
+  {
+   "start": 410.82,
+   "end": 416.42,
+   "text": "biologist to go and then build a bridge, the bridge doesn't work, then you go and you build"
+  },
+  {
+   "start": 416.42,
+   "end": 422.9,
+   "text": "it again and again and again until it works. That is not the, this design, build and test"
+  },
+  {
+   "start": 422.9,
+   "end": 430.18,
+   "text": "cycle. What we want to do is to first design to, to have the idea of what we want to do and to model"
+  },
+  {
+   "start": 430.18,
+   "end": 436.58,
+   "text": "the system that we want to build. Then we go to the lab and, and build it. Yesterday we had"
+  },
+  {
+   "start": 436.58,
+   "end": 442.26,
+   "text": "the seminar from the, from the measurement committee also on assembly and cloning a little"
+  },
+  {
+   "start": 442.26,
+   "end": 450.02,
+   "text": "bit. And then once you have your circuit build, you can go and after having some calculations,"
+  },
+  {
+   "start": 450.02,
+   "end": 457.78,
+   "text": "you can, you can measure and test your system to see how it worked. And then as this is a cycle,"
+  },
+  {
+   "start": 457.78,
+   "end": 465.38,
+   "text": "you can go back and if it didn't work like you were expecting, you can redesign and go again."
+  },
+  {
+   "start": 466.34,
+   "end": 473.46,
+   "text": "So, but why is important to model? When we put modeling in this cycle,"
+  },
+  {
+   "start": 474.1,
+   "end": 481.14,
+   "text": "what is allowing us is to, to prove that an experimental design is feasible. Also,"
+  },
+  {
+   "start": 483.46,
+   "end": 488.1,
+   "text": "it can guide us in the selection of parts and assembly. We will see a bit of this."
+  },
+  {
+   "start": 488.98,
+   "end": 496.34,
+   "text": "We will, we will be able to predict the expected output of, of our circuit before going to the lab."
+  },
+  {
+   "start": 496.34,
+   "end": 502.9,
+   "text": "That one is important also. And when we cycle back, it will provide us maybe with a better"
+  },
+  {
+   "start": 502.9,
+   "end": 510.02,
+   "text": "design that we didn't think in the first place, we will be, we will be able to redesign our,"
+  },
+  {
+   "start": 510.02,
+   "end": 518.26,
+   "text": "our original design. Okay. This one has a lot of text, but I want, I will just go to, to,"
+  },
+  {
+   "start": 518.26,
+   "end": 525.3,
+   "text": "for by few of them, sorry, but it's to, to be them written there so we can go back if we want"
+  },
+  {
+   "start": 525.3,
+   "end": 530.9,
+   "text": "to, to read them. But basically I will pick the third one, which I think is important."
+  },
+  {
+   "start": 531.7,
+   "end": 536.74,
+   "text": "Mathematical model will allow you to perform experiments in conditions that would be dangerous"
+  },
+  {
+   "start": 536.74,
+   "end": 543.7,
+   "text": "or of high economic cost in the real system. And this basically is a kind of troubleshooting before"
+  },
+  {
+   "start": 543.7,
+   "end": 548.42,
+   "text": "the construction and the assembly. You can try different things in the model and see what"
+  },
+  {
+   "start": 548.42,
+   "end": 557.62,
+   "text": "happens. And then you can go back to, to the lab and select the one that, that did work"
+  },
+  {
+   "start": 557.62,
+   "end": 562.26,
+   "text": "for the construction. In the old times when modeling was not around in these areas,"
+  },
+  {
+   "start": 562.98,
+   "end": 571.06,
+   "text": "it was the normal work, workflow, sorry, was to build, test, doesn't work. You go back to build"
+  },
+  {
+   "start": 571.06,
+   "end": 578.1,
+   "text": "again and on and on until you find the one that works. With models, you can do this troubleshooting"
+  },
+  {
+   "start": 578.1,
+   "end": 583.86,
+   "text": "in the model, try to build the different alternatives in the design. And once you"
+  },
+  {
+   "start": 583.86,
+   "end": 590.9,
+   "text": "find the one that you like, you can go and build that one, saving time and in mind. Okay. So I,"
+  },
+  {
+   "start": 590.9,
+   "end": 597.7,
+   "text": "I leave them here for you to, to read them there. And when is it finished? So now"
+  },
+  {
+   "start": 599.06,
+   "end": 602.66,
+   "text": "we gave the introduction. Now what are we going to model?"
+  },
+  {
+   "start": 604.34,
+   "end": 610.82,
+   "text": "So the first things that, that has to come back to mind, many of you know it, but I will remember"
+  },
+  {
+   "start": 610.82,
+   "end": 617.54,
+   "text": "it. So basically what we will try to model is the central dogma of molecular biology, which is what"
+  },
+  {
+   "start": 618.26,
+   "end": 625.7,
+   "text": "information is stored in DNA. Jake was talking about this, this morning about the information"
+  },
+  {
+   "start": 625.7,
+   "end": 635.38,
+   "text": "processing. And then RNA polymerase converts that into mRNA and the ribosomes translate that"
+  },
+  {
+   "start": 635.38,
+   "end": 640.82,
+   "text": "into proteins, which are the, the elements that take action in the cell and responsible of,"
+  },
+  {
+   "start": 641.46,
+   "end": 647.54,
+   "text": "of many of the functions of a living organism. So we go from the information to the action"
+  },
+  {
+   "start": 647.54,
+   "end": 655.22,
+   "text": "from DNA to protein with this process. So, but putting that more into context of"
+  },
+  {
+   "start": 655.22,
+   "end": 662.9,
+   "text": "IgM and synthetic biology, in order to, that process to happen, we need to have these four"
+  },
+  {
+   "start": 662.9,
+   "end": 672.18,
+   "text": "basic elements in a, in a, in a device to be able to, the polymerase to find DNA, do the transcription,"
+  },
+  {
+   "start": 672.18,
+   "end": 679.62,
+   "text": "and then the ribosome find the RNA and do the translation. We need these four basic elements."
+  },
+  {
+   "start": 680.34,
+   "end": 686.98,
+   "text": "We were also talking about this in the previous seminar yesterday Alexis and Ian."
+  },
+  {
+   "start": 687.78,
+   "end": 694.66,
+   "text": "The four elements that we need promoter, RBS, coding sequence, and terminator. The first two,"
+  },
+  {
+   "start": 694.66,
+   "end": 702.66,
+   "text": "you can think of them as control elements. The promoter will control the relationship with the"
+  },
+  {
+   "start": 702.66,
+   "end": 710.66,
+   "text": "RNA polymerase polymerase, sorry, and how translation happens, sorry transcription. And then the RBS"
+  },
+  {
+   "start": 710.66,
+   "end": 718.66,
+   "text": "controls the initiation rate and the binding with the ribosome and affects more the translation."
+  },
+  {
+   "start": 718.66,
+   "end": 724.26,
+   "text": "Then of course, the more important element is the coding sequence. It will find what protein"
+  },
+  {
+   "start": 724.26,
+   "end": 730.58,
+   "text": "we want to produce and the terminator to finish the transcription. And then as Jake was talking"
+  },
+  {
+   "start": 730.58,
+   "end": 738.18,
+   "text": "this morning, we will like to go up in this ladder and be able to build systems with devices"
+  },
+  {
+   "start": 738.18,
+   "end": 745.3,
+   "text": "and transcriptional units and to, to be able to have a function. But for now we will concentrate"
+  },
+  {
+   "start": 745.3,
+   "end": 750.82,
+   "text": "in these two elements of the bottom, which are the ones that are more relevant to us now."
+  },
+  {
+   "start": 752.26,
+   "end": 759.38,
+   "text": "So how can probably most of you know, but just a reminder, how can gene expression be?"
+  },
+  {
+   "start": 759.38,
+   "end": 764.5,
+   "text": "It can be an unregulated process, which is a, what is called a constitutive expression. The"
+  },
+  {
+   "start": 764.5,
+   "end": 768.66,
+   "text": "gene is always on. This process that we were talking before is always happening."
+  },
+  {
+   "start": 769.38,
+   "end": 775.62,
+   "text": "RNA polymerase is transcribing, ribosomes are translating, and we produce protein."
+  },
+  {
+   "start": 776.74,
+   "end": 784.55,
+   "text": "And the second option is that we can have, sorry, we can have a regulated transcription"
+  },
+  {
+   "start": 784.55,
+   "end": 792.39,
+   "text": "in translation process. And that will lead us to the option of having the gene on and off"
+  },
+  {
+   "start": 792.39,
+   "end": 799.75,
+   "text": "and to decide when we want a gene expression to happen. And so let's go a little bit more"
+  },
+  {
+   "start": 799.75,
+   "end": 808.23,
+   "text": "deeper. This, the regulated version that we have when we want to do that will, will involve some"
+  },
+  {
+   "start": 808.23,
+   "end": 817.19,
+   "text": "proteins, which are the transcription factors, which will bind to the promoter and inhibit or activate"
+  },
+  {
+   "start": 817.19,
+   "end": 825.43,
+   "text": "the transcriptions of this transcription unit, depending on the way they are. So for example,"
+  },
+  {
+   "start": 827.43,
+   "end": 836.79,
+   "text": "sorry. So basically, that's it. We have the two kinds of gene expression, the constitutive and"
+  },
+  {
+   "start": 836.79,
+   "end": 842.07,
+   "text": "the control one. And the control one will depend on transcription factor, which in general is a"
+  },
+  {
+   "start": 842.07,
+   "end": 850.23,
+   "text": "protein or a collection of proteins that will tell us when this process wants to start or to stop."
+  },
+  {
+   "start": 850.95,
+   "end": 860.47,
+   "text": "So let's go to understand a little bit more deeper what's happening here. We want to model,"
+  },
+  {
+   "start": 860.47,
+   "end": 866.47,
+   "text": "we will start with the easy one. And we want to model this process that we were talking before."
+  },
+  {
+   "start": 867.11,
+   "end": 873.99,
+   "text": "We have a gene here, which has a rate of transcription, which depends on many things,"
+  },
+  {
+   "start": 873.99,
+   "end": 878.95,
+   "text": "the amount of polymerase, the binding affinity of the polymerase to the promoter and many other"
+  },
+  {
+   "start": 878.95,
+   "end": 886.95,
+   "text": "things. And with that rate, we will be producing mRNA. You don't see the pointer, don't you?"
+  },
+  {
+   "start": 886.95,
+   "end": 894.15,
+   "text": "So I will go to this one. Yeah, mRNA. And then ribosomes, as we explained before,"
+  },
+  {
+   "start": 894.15,
+   "end": 901.43,
+   "text": "will produce with a different rate, K2, will produce proteins. And of course, all the species,"
+  },
+  {
+   "start": 901.43,
+   "end": 906.95,
+   "text": "RNA, and protein will have degradation, because they are not here forever. They will have"
+  },
+  {
+   "start": 907.67,
+   "end": 914.79,
+   "text": "degradation rate. So with all this information, using the laws of mass action kinetics, we can"
+  },
+  {
+   "start": 914.79,
+   "end": 921.91,
+   "text": "write the differential equations that model this behavior. So there's a lot of information"
+  },
+  {
+   "start": 921.91,
+   "end": 928.39,
+   "text": "in this slide, but let's go step by step. The first one, here we are having the two"
+  },
+  {
+   "start": 928.39,
+   "end": 936.23,
+   "text": "equations that describe the dynamic, the changes of RNA, which is the end for mRNA, and for the"
+  },
+  {
+   "start": 936.23,
+   "end": 942.55,
+   "text": "protein, the B. And this one is written here is the notation for the time derivative. This means"
+  },
+  {
+   "start": 942.55,
+   "end": 949.35,
+   "text": "the changes of the mRNA related to time. And this one is the change of protein in time."
+  },
+  {
+   "start": 950.31,
+   "end": 956.79,
+   "text": "And what it's telling us, this equation, is that the amount of RNA will be depending on"
+  },
+  {
+   "start": 956.79,
+   "end": 961.91,
+   "text": "this number, K1, which comes from here, is the transcription rate."
+  },
+  {
+   "start": 963.11,
+   "end": 970.39,
+   "text": "And it will disappear, that's why the minus, at a rate which is proportional to this D1"
+  },
+  {
+   "start": 971.11,
+   "end": 976.47,
+   "text": "value, which is the one that represents the degradation rate of the mRNA."
+  },
+  {
+   "start": 977.19,
+   "end": 986.87,
+   "text": "Okay, so positive terms in these equations means that the amount of this guy mRNA in this case will"
+  },
+  {
+   "start": 986.87,
+   "end": 994.23,
+   "text": "go up, will increase, and negative terms will be responsible for the amount of mRNA going down."
+  },
+  {
+   "start": 995.75,
+   "end": 1000.87,
+   "text": "And then we can do the same with the protein. The amount of protein will change in this way,"
+  },
+  {
+   "start": 1000.87,
+   "end": 1008.47,
+   "text": "proportional to the constant K2, which is the translation rate, and proportional to the"
+  },
+  {
+   "start": 1008.47,
+   "end": 1015.19,
+   "text": "amount of mRNA M, which comes from the previous equation. This is the term that tells us how"
+  },
+  {
+   "start": 1015.19,
+   "end": 1020.87,
+   "text": "the protein amount will increase in time. And then the negative terms tell us how it will go"
+  },
+  {
+   "start": 1020.87,
+   "end": 1027.27,
+   "text": "down, how it will decrease, which will be proportional to D2 and the protein itself,"
+  },
+  {
+   "start": 1027.27,
+   "end": 1041.96,
+   "text": "which is the degradation rate. Okay, so what about those numbers? Where do we get those numbers?"
+  },
+  {
+   "start": 1041.96,
+   "end": 1049.88,
+   "text": "This is the first problem that we find when we try to go on with this. I will copy here"
+  },
+  {
+   "start": 1049.88,
+   "end": 1056.6,
+   "text": "in the chat the link to bio numbers. It's a database collected by a group in Harvard,"
+  },
+  {
+   "start": 1056.6,
+   "end": 1064.36,
+   "text": "which is taken from many, many papers, different values of concentrations and constants that"
+  },
+  {
+   "start": 1065.24,
+   "end": 1074.2,
+   "text": "are around. So we can use it for our models. For example, we can know that the half-life of"
+  },
+  {
+   "start": 1075.16,
+   "end": 1083.16,
+   "text": "a normal mRNA is around between 5 and 10 minutes. Also, that the half-life of GFP"
+  },
+  {
+   "start": 1083.16,
+   "end": 1090.2,
+   "text": "can be also around of 90 minutes. So we can try to go there and find values for the parameters we need."
+  },
+  {
+   "start": 1090.2,
+   "end": 1104.53,
+   "text": "Okay, so we have here again our equations that represent the changes in mRNA and protein"
+  },
+  {
+   "start": 1105.17,
+   "end": 1113.01,
+   "text": "in the constitutive gene expression case. And here what I put is a plot of,"
+  },
+  {
+   "start": 1113.73,
+   "end": 1118.61,
+   "text": "we will talk later about the unit that we have on this side. It's amount of protein,"
+  },
+  {
+   "start": 1118.61,
+   "end": 1122.85,
+   "text": "or is proportional to the amount of protein in molecules of equivalent fluorescence per"
+  },
+  {
+   "start": 1122.85,
+   "end": 1129.73,
+   "text": "particle. We will go back to that. But also, the same amount, the unit that I have here in the"
+  },
+  {
+   "start": 1131.89,
+   "end": 1140.21,
+   "text": "line is number of proteins. So what I'm showing here is three different cases of this model"
+  },
+  {
+   "start": 1140.21,
+   "end": 1146.85,
+   "text": "with different values of K2, which is the responsible of the translation rate, and that"
+  },
+  {
+   "start": 1146.85,
+   "end": 1153.41,
+   "text": "in the lab will be represented by different RBSs. So basically, these are three transcriptional units,"
+  },
+  {
+   "start": 1153.41,
+   "end": 1162.93,
+   "text": "constitutive expression with a fixed promoter and GFP. And changing the RBS, we can get"
+  },
+  {
+   "start": 1162.93,
+   "end": 1171.97,
+   "text": "different levels of expression. And in the model that is represented in changes in the value of K2"
+  },
+  {
+   "start": 1171.97,
+   "end": 1180.77,
+   "text": "that give you different values of the number of proteins here. So this is just an introduction."
+  },
+  {
+   "start": 1180.77,
+   "end": 1191.11,
+   "text": "We will come back to this later. Now, the constitutive expression is a little"
+  },
+  {
+   "start": 1191.11,
+   "end": 1194.39,
+   "text": "bit boring because it's always on, as you saw in the in the graph."
+  },
+  {
+   "start": 1195.99,
+   "end": 1200.71,
+   "text": "Changing a little bit from the initial condition, but it's basically boring because you can't change"
+  },
+  {
+   "start": 1200.71,
+   "end": 1209.75,
+   "text": "anything. Let's go to a more fun way of regulation of gene expression, which is activators and"
+  },
+  {
+   "start": 1209.75,
+   "end": 1217.89,
+   "text": "repressors, as we said before. So basically, the equations look very similar to the ones before."
+  },
+  {
+   "start": 1217.89,
+   "end": 1223.49,
+   "text": "The protein equation is the same. Protein changes depending on the translation rate"
+  },
+  {
+   "start": 1223.49,
+   "end": 1229.97,
+   "text": "and the amount of mRNA. And it goes down depending on the degradation rate of the protein."
+  },
+  {
+   "start": 1230.85,
+   "end": 1236.05,
+   "text": "But we have a difference in the equation of the mRNA. This part is the same. The"
+  },
+  {
+   "start": 1236.05,
+   "end": 1241.81,
+   "text": "degradation depends on the degradation rate. And the production of the mRNA depends on this"
+  },
+  {
+   "start": 1241.81,
+   "end": 1247.97,
+   "text": "equation, which is known as a hill function, that we will see how it works a bit later."
+  },
+  {
+   "start": 1248.61,
+   "end": 1255.73,
+   "text": "And if you see here, it depends on A. A is another variable in the system, which is"
+  },
+  {
+   "start": 1255.73,
+   "end": 1261.25,
+   "text": "the amount of activator that we have. Later on, we will be able to model also"
+  },
+  {
+   "start": 1261.89,
+   "end": 1267.65,
+   "text": "this A depending on what's going on. But for here can be something that we can put from"
+  },
+  {
+   "start": 1267.65,
+   "end": 1277.81,
+   "text": "outside, and we will be able to see how this changes the level of mRNA."
+  },
+  {
+   "start": 1277.81,
+   "end": 1289.46,
+   "text": "I see what is K again. Which K? There are many Ks here. It's my asking. K to the N."
+  },
+  {
+   "start": 1289.46,
+   "end": 1297.78,
+   "text": "This one I will explain in the next slide. This one is the dissociation rate of the activator."
+  },
+  {
+   "start": 1297.78,
+   "end": 1308.13,
+   "text": "We will see that in a moment. So exactly. To explain that, let me show you a little bit"
+  },
+  {
+   "start": 1309.25,
+   "end": 1320.45,
+   "text": "a small app. Do you all see this? So here we have a different way of writing the equation."
+  },
+  {
+   "start": 1320.45,
+   "end": 1327.33,
+   "text": "It's the normalized hill function. This beta zero is what is called the Basel expression."
+  },
+  {
+   "start": 1328.29,
+   "end": 1331.97,
+   "text": "If all this is zero, it's what will be expressed"
+  },
+  {
+   "start": 1334.69,
+   "end": 1343.09,
+   "text": "without any amount of activator. A is the amount of activator. N is what is called the"
+  },
+  {
+   "start": 1343.09,
+   "end": 1350.93,
+   "text": "hill coefficient. And Kd is the half concentration constant. It's not the dissociation constant."
+  },
+  {
+   "start": 1350.93,
+   "end": 1377.04,
+   "text": "If we change here, for example, we can change the value of the concentration constant."
+  },
+  {
+   "start": 1378.0,
+   "end": 1383.68,
+   "text": "And we can see how that affects the curve. First, let me explain a little bit the curve."
+  },
+  {
+   "start": 1385.36,
+   "end": 1392.88,
+   "text": "N is the hill coefficient. It's the exponent here. And it's what represents the amount of"
+  },
+  {
+   "start": 1393.92,
+   "end": 1398.08,
+   "text": "transcription factors of the cooperativity of the transcription factor that you need"
+  },
+  {
+   "start": 1398.08,
+   "end": 1405.12,
+   "text": "together to be active and bind to the promoter. So I see that this is bringing up a lot of"
+  },
+  {
+   "start": 1405.2,
+   "end": 1413.84,
+   "text": "questions. And we are thinking of making a more in-depth webinar in summer. And"
+  },
+  {
+   "start": 1413.84,
+   "end": 1420.96,
+   "text": "one of the things that I'm thinking of doing is to do all the equations that we need to get"
+  },
+  {
+   "start": 1420.96,
+   "end": 1426.88,
+   "text": "this equation, to understand exactly what are all these elements and where is this coming from."
+  },
+  {
+   "start": 1427.44,
+   "end": 1433.84,
+   "text": "But for now, we will only explain how it works. Kd is the half concentration constant. If you"
+  },
+  {
+   "start": 1433.84,
+   "end": 1441.68,
+   "text": "look. So it's related to the dissociation constant that Dogus says. But if you write the"
+  },
+  {
+   "start": 1441.68,
+   "end": 1446.88,
+   "text": "hill function in this way, it's called the half concentration constant. And if you look at the"
+  },
+  {
+   "start": 1446.88,
+   "end": 1458.48,
+   "text": "plot here, for example, I will put to the value 400. We put 400 and we find 400. We will put"
+  },
+  {
+   "start": 1458.48,
+   "end": 1466.24,
+   "text": "that expression to zero. So this is the ideal. Sorry. Yeah, there we go. This is the ideal"
+  },
+  {
+   "start": 1467.36,
+   "end": 1477.76,
+   "text": "for quality in a way, hill function. When there is zero molecules of the activator,"
+  },
+  {
+   "start": 1477.76,
+   "end": 1483.28,
+   "text": "there is no expression. There is no value in the hill function. When we increase the number"
+  },
+  {
+   "start": 1483.28,
+   "end": 1488.64,
+   "text": "of molecules of the activator, the number going out from the hill function goes up."
+  },
+  {
+   "start": 1489.28,
+   "end": 1496.32,
+   "text": "And it goes to 50 percent, which is here at the value of Kd, which is 400."
+  },
+  {
+   "start": 1497.52,
+   "end": 1506.36,
+   "text": "Okay. So if you look, 0.5 is here and this is 400. Okay. So what happens if we increase"
+  },
+  {
+   "start": 1506.36,
+   "end": 1516.36,
+   "text": "the number n, the hill coefficient to the hill coefficient in nature, it goes, this is not working."
+  },
+  {
+   "start": 1518.36,
+   "end": 1531.99,
+   "text": "Yeah, sorry. Sorry, I had to take this one out. So if we increase the hill coefficient,"
+  },
+  {
+   "start": 1531.99,
+   "end": 1537.99,
+   "text": "do you see that the slope here in the middle is getting more steep? This means that you need"
+  },
+  {
+   "start": 1537.99,
+   "end": 1543.51,
+   "text": "more molecules together. For example, a hill coefficient of four means that we need"
+  },
+  {
+   "start": 1543.51,
+   "end": 1550.87,
+   "text": "four molecules of the activator together to bind to the promoter and activate the expression."
+  },
+  {
+   "start": 1550.87,
+   "end": 1557.03,
+   "text": "So in nature, hill coefficient goes from one when there is no cooperativity, from two to four,"
+  },
+  {
+   "start": 1557.99,
+   "end": 1566.95,
+   "text": "depending on the biology behind. For example, the lac repressor is modeled"
+  },
+  {
+   "start": 1567.59,
+   "end": 1573.67,
+   "text": "with the hill coefficient of four. All that numbers you can find in the bio numbers that we showed"
+  },
+  {
+   "start": 1573.67,
+   "end": 1586.0,
+   "text": "before. Okay. So I will provide the code of this app later. We will see how we in the measurement."
+  },
+  {
+   "start": 1586.0,
+   "end": 1594.16,
+   "text": "Yeah, exactly. Like Alexis says, we will talk about later how we can give you this information."
+  },
+  {
+   "start": 1594.88,
+   "end": 1600.72,
+   "text": "Let's make it interactive. Victoria says if there is a free version of MATLAB,"
+  },
+  {
+   "start": 1600.72,
+   "end": 1609.28,
+   "text": "I think we have to check for this year, but I think MATLAB will provide licenses for"
+  },
+  {
+   "start": 1609.28,
+   "end": 1614.88,
+   "text": "our agent for this year. But we have to check with the HQ, with headquarters."
+  },
+  {
+   "start": 1614.88,
+   "end": 1620.08,
+   "text": "But I think that was the comment that I got from Tracy. But we can check and let you know later."
+  },
+  {
+   "start": 1620.08,
+   "end": 1632.21,
+   "text": "Okay. So let's go on. So what happens if instead of an activator, we have a repressor?"
+  },
+  {
+   "start": 1632.21,
+   "end": 1639.09,
+   "text": "This is the same. But instead of the transcription factor that comes here in the repressor,"
+  },
+  {
+   "start": 1639.09,
+   "end": 1644.29,
+   "text": "instead of activating, it represses. So if you look at the equations, they look very similar"
+  },
+  {
+   "start": 1644.29,
+   "end": 1655.32,
+   "text": "to the ones before. But we have the hill function which has now the K in the numerator instead of"
+  },
+  {
+   "start": 1655.32,
+   "end": 1662.84,
+   "text": "the activator that we had before. And here, instead of an A that we had before, we have an R,"
+  },
+  {
+   "start": 1662.84,
+   "end": 1669.32,
+   "text": "which is the representative of the repressor. But basically is the same than we had before."
+  },
+  {
+   "start": 1673.24,
+   "end": 1685.35,
+   "text": "And I can show you again the sorry about this. The same app, but with the repressor is not this"
+  },
+  {
+   "start": 1685.35,
+   "end": 1694.4,
+   "text": "one, it's this one. As we see, the shape of the function is similar to the one before."
+  },
+  {
+   "start": 1694.4,
+   "end": 1701.12,
+   "text": "But when there is no zero amount of molecules of the repressor, we have the maximum level of"
+  },
+  {
+   "start": 1701.12,
+   "end": 1706.8,
+   "text": "expression, which in the normalized case is one. And as we increase the number of molecules of the"
+  },
+  {
+   "start": 1706.8,
+   "end": 1713.6,
+   "text": "repressor, depending on the value of this constant here, the constant Kd, they have concentration"
+  },
+  {
+   "start": 1713.6,
+   "end": 1721.2,
+   "text": "constant is to 250 more or less. If we increase the number up to that value, we have half"
+  },
+  {
+   "start": 1722.0,
+   "end": 1728.4,
+   "text": "of the repression. If we increase more the number of molecules of the repressor, we can reach the"
+  },
+  {
+   "start": 1729.52,
+   "end": 1734.88,
+   "text": "higher level of repression. How much repression can we get? That depends on the leakiness of the"
+  },
+  {
+   "start": 1734.88,
+   "end": 1742.32,
+   "text": "promoter, which is the value of alpha here, alpha zero. If we have zero leakiness, it means that"
+  },
+  {
+   "start": 1743.12,
+   "end": 1750.88,
+   "text": "the promoter is an ideal promoter, that there is complete repression. When we have enough"
+  },
+  {
+   "start": 1751.52,
+   "end": 1759.44,
+   "text": "amount of the repressor, we get to zero amount of expression here. If we increase the value of the"
+  },
+  {
+   "start": 1759.44,
+   "end": 1771.52,
+   "text": "leakiness, a normal promoter in the lab will have between 20%, this number is 0.2, 0.1, 0.05."
+  },
+  {
+   "start": 1772.64,
+   "end": 1779.36,
+   "text": "If it's a very valid promoter, you can have a higher number here, which means that even if you"
+  },
+  {
+   "start": 1779.36,
+   "end": 1791.25,
+   "text": "have a lot of repressors, there still will be an amount of expression there. And again, if you"
+  },
+  {
+   "start": 1791.25,
+   "end": 1799.17,
+   "text": "increase the hill coefficient, the steepness of the transition will be higher than before."
+  },
+  {
+   "start": 1800.13,
+   "end": 1805.65,
+   "text": "Later, you will be able to play with this and to get familiarized more with the"
+  },
+  {
+   "start": 1806.53,
+   "end": 1814.13,
+   "text": "hill functions and models. To sum up, depending on if the promoter is an activator, an activator"
+  },
+  {
+   "start": 1814.13,
+   "end": 1820.53,
+   "text": "promoter, or a repress promoter, the action of the transcription factor will make expression go up"
+  },
+  {
+   "start": 1820.53,
+   "end": 1827.81,
+   "text": "as the number of activator transcription factor molecules go up. Or if it's a repressor,"
+  },
+  {
+   "start": 1828.53,
+   "end": 1836.45,
+   "text": "increasing the amount of the repressor transcription factor, it will lead to a reduction"
+  },
+  {
+   "start": 1838.93,
+   "end": 1845.17,
+   "text": "in the level of expression. The leakiness is related to this value here, the 0.2. Let me"
+  },
+  {
+   "start": 1845.17,
+   "end": 1853.49,
+   "text": "put the pointer. In this example, for example, this promoter has close to 0.2 of leakiness,"
+  },
+  {
+   "start": 1854.05,
+   "end": 1859.89,
+   "text": "meaning that even with the higher level of the transcription factor that represses the promoter,"
+  },
+  {
+   "start": 1859.89,
+   "end": 1867.49,
+   "text": "you will still have a residual amount of expression which is called the leakiness of the promoter."
+  },
+  {
+   "start": 1873.12,
+   "end": 1883.51,
+   "text": "Let's go on to make the models easier. What happens if this process that we had here before,"
+  },
+  {
+   "start": 1884.39,
+   "end": 1890.55,
+   "text": "the transcription, the conversion between DNA and mRNA is a fast process."
+  },
+  {
+   "start": 1892.07,
+   "end": 1899.83,
+   "text": "What is fast? It means that let me remind you the equation, the ordinary differential equation that"
+  },
+  {
+   "start": 1899.83,
+   "end": 1911.03,
+   "text": "models the change in the amount of mRNA, which is this m dot. This is the derivative of m with"
+  },
+  {
+   "start": 1911.03,
+   "end": 1920.23,
+   "text": "respect of time. If this is very fast, it means that we can set m dot, which is the derivative of"
+  },
+  {
+   "start": 1920.23,
+   "end": 1927.91,
+   "text": "the mRNA, to 0 because it's fast and it reaches the equilibrium really fast. This means that"
+  },
+  {
+   "start": 1927.91,
+   "end": 1932.71,
+   "text": "if you remember from math, from differential equations to obtain the equilibrium of this"
+  },
+  {
+   "start": 1932.71,
+   "end": 1939.27,
+   "text": "equation, which means the value that it will have when enough time happens and the changes"
+  },
+  {
+   "start": 1939.27,
+   "end": 1947.03,
+   "text": "reaches the state value, this will be, we will get it, doing m dot equal to 0, which is this guy"
+  },
+  {
+   "start": 1947.03,
+   "end": 1953.91,
+   "text": "as I'm writing here equal to 0. From there, in this equation, we can solve for the value of m."
+  },
+  {
+   "start": 1954.63,
+   "end": 1961.75,
+   "text": "We can put it in the in the other side as a sum and then divide by d1 and we will get"
+  },
+  {
+   "start": 1961.75,
+   "end": 1968.87,
+   "text": "an expression for the amount of mRNA that we will have in the equilibrium when the system"
+  },
+  {
+   "start": 1968.95,
+   "end": 1974.39,
+   "text": "reaches the equilibrium. As we say that the system is fast, we know that this process is fast,"
+  },
+  {
+   "start": 1974.39,
+   "end": 1982.07,
+   "text": "we can calculate that now. Using that, we can go to the, so this is what I was saying before,"
+  },
+  {
+   "start": 1982.79,
+   "end": 1988.07,
+   "text": "if this reaction is fast, we can solve for the value of m and we will get this expression."
+  },
+  {
+   "start": 1990.31,
+   "end": 1997.19,
+   "text": "If we go back to the equation of the protein, the differential equation that tells us how"
+  },
+  {
+   "start": 1997.19,
+   "end": 2006.47,
+   "text": "the protein changes in time and instead of m, we plug this guy, which is the value that m will have,"
+  },
+  {
+   "start": 2006.47,
+   "end": 2014.07,
+   "text": "which is here. We will get only one equation for our system, which is modeling how the amount of"
+  },
+  {
+   "start": 2014.07,
+   "end": 2020.87,
+   "text": "protein changes in time depending on, in this case, a. The only thing that changes here is a,"
+  },
+  {
+   "start": 2020.87,
+   "end": 2026.15,
+   "text": "which is the amount of activator that we put. This, for example, can be a molecule"
+  },
+  {
+   "start": 2026.63,
+   "end": 2031.03,
+   "text": "that we put from outside or it can be another protein that is expressed in our circuit."
+  },
+  {
+   "start": 2031.83,
+   "end": 2039.59,
+   "text": "All the other elements here, k2, d1, d0, etc., are fixed values, which are the parameters of this"
+  },
+  {
+   "start": 2039.59,
+   "end": 2045.11,
+   "text": "equation. That depends on the construction of the circuit, but they don't change in time."
+  },
+  {
+   "start": 2045.11,
+   "end": 2050.47,
+   "text": "The only one that is changing in time here is the a, which, as I said before, is the amount of"
+  },
+  {
+   "start": 2050.47,
+   "end": 2057.83,
+   "text": "activator. If we solve this equation in MATLAB, for example, using ODE45, or there are many ways of"
+  },
+  {
+   "start": 2057.83,
+   "end": 2063.35,
+   "text": "solving a differential equation, we can do it by hand, but if the equation is more difficult,"
+  },
+  {
+   "start": 2063.35,
+   "end": 2071.27,
+   "text": "we can use software to solve it. We will get this, for example, a plot which is like this one"
+  },
+  {
+   "start": 2071.27,
+   "end": 2079.83,
+   "text": "that I have down here, which I plot for different values of the activator. If I have a low level"
+  },
+  {
+   "start": 2079.83,
+   "end": 2087.43,
+   "text": "of activator, I will reach a low amount of molecules of the protein. If I increase the"
+  },
+  {
+   "start": 2087.43,
+   "end": 2094.15,
+   "text": "value of the activator, I will have the change in the proteins will go to a higher level."
+  },
+  {
+   "start": 2094.87,
+   "end": 2100.87,
+   "text": "This, if we see the final value here, depending on the amount of activator that I added to the"
+  },
+  {
+   "start": 2100.87,
+   "end": 2108.07,
+   "text": "system or that is in the system, we will have different levels of the amount of protein that"
+  },
+  {
+   "start": 2108.07,
+   "end": 2115.27,
+   "text": "we have in our circuit. The leaky promoter, we have some expression in the absence of"
+  },
+  {
+   "start": 2115.27,
+   "end": 2124.55,
+   "text": "induction. If the leaky is used for a repression, that means that if you put a lot of transcription"
+  },
+  {
+   "start": 2124.55,
+   "end": 2131.99,
+   "text": "faster repressing the promoter, you can still have an expression. When we talk about activators,"
+  },
+  {
+   "start": 2131.99,
+   "end": 2139.59,
+   "text": "it's called Basel expression and it's what you are writing there, Martin. It's the expression"
+  },
+  {
+   "start": 2139.59,
+   "end": 2151.89,
+   "text": "that you have when there is no activator in the system. What can we do with this? Let's"
+  },
+  {
+   "start": 2151.89,
+   "end": 2157.09,
+   "text": "relate it a little bit with the work that we will do in the lab. If we have an experiment,"
+  },
+  {
+   "start": 2157.73,
+   "end": 2164.93,
+   "text": "we can put a fixed amount of activator in our system and start to measure some way. We will"
+  },
+  {
+   "start": 2164.93,
+   "end": 2172.21,
+   "text": "see different ways of measuring later and the measurement committee is devoted to help you"
+  },
+  {
+   "start": 2173.25,
+   "end": 2180.05,
+   "text": "in measuring parts of your system or everything that we can do. If we measure, if we start the"
+  },
+  {
+   "start": 2180.05,
+   "end": 2190.85,
+   "text": "experiment, for example, we hit the system with the fixed amount of activator and the"
+  },
+  {
+   "start": 2190.85,
+   "end": 2198.53,
+   "text": "number of molecules of this protein start to increase until it reaches a steady-state value,"
+  },
+  {
+   "start": 2199.49,
+   "end": 2205.25,
+   "text": "which is here in this axis, we have time, different than the ones that we had before."
+  },
+  {
+   "start": 2207.25,
+   "end": 2211.57,
+   "text": "What we can do is with a plate reader, for example, we can measure the amount of protein"
+  },
+  {
+   "start": 2211.57,
+   "end": 2217.01,
+   "text": "if it's a fluorescent protein, we can measure it in time and then we can come to the model and"
+  },
+  {
+   "start": 2217.01,
+   "end": 2225.65,
+   "text": "compare it with the solution of these equations that we have here. There we will have a way of"
+  },
+  {
+   "start": 2225.65,
+   "end": 2232.53,
+   "text": "putting together the experiments and the results coming from the model. We are also planning on"
+  },
+  {
+   "start": 2232.53,
+   "end": 2238.93,
+   "text": "doing a webinar on this later in the summer, so if you like that part then keep tuned."
+  },
+  {
+   "start": 2240.93,
+   "end": 2249.09,
+   "text": "So, sorry, if we look at this value, the value that we get when we reach the equilibrium means"
+  },
+  {
+   "start": 2249.09,
+   "end": 2260.05,
+   "text": "when the value of the protein stops moving. For a different number of amounts of the activator"
+  },
+  {
+   "start": 2260.05,
+   "end": 2265.09,
+   "text": "concentration, we can do different experiments with different amounts, increasing the amount"
+  },
+  {
+   "start": 2265.09,
+   "end": 2271.57,
+   "text": "of activator and we can measure the number of molecules that we have in all different experiments"
+  },
+  {
+   "start": 2272.53,
+   "end": 2278.61,
+   "text": "and then we can go and do the same with the model. We can set different values for the activator"
+  },
+  {
+   "start": 2278.61,
+   "end": 2287.25,
+   "text": "for an end and plot the result and then we can combine them together and another way like"
+  },
+  {
+   "start": 2287.25,
+   "end": 2294.61,
+   "text": "we were talking before, this is another way that we can use to combine experimental and data and"
+  },
+  {
+   "start": 2294.61,
+   "end": 2299.57,
+   "text": "what we got from the model. So, in this way, having the equation of the protein,"
+  },
+  {
+   "start": 2300.53,
+   "end": 2306.29,
+   "text": "sorry, mathematically, so in the experiment, what we do is we wait enough time until the"
+  },
+  {
+   "start": 2306.29,
+   "end": 2312.53,
+   "text": "concentration of the protein reaches the equilibrium. Mathematically, what we do is we"
+  },
+  {
+   "start": 2312.53,
+   "end": 2320.37,
+   "text": "set the derivative of the protein which is p dot here to zero and we solve for the value of p."
+  },
+  {
+   "start": 2320.37,
+   "end": 2327.49,
+   "text": "So, when we solve, what we have here on this side is very similar to the heal function that I was"
+  },
+  {
+   "start": 2327.49,
+   "end": 2333.49,
+   "text": "showing you before. That was the importance of showing you that at that point because here,"
+  },
+  {
+   "start": 2333.49,
+   "end": 2340.13,
+   "text": "all these values, K2, D2, D1, these are fixed and depend on the circuit that you have"
+  },
+  {
+   "start": 2340.69,
+   "end": 2346.45,
+   "text": "and the only one that will change is that you can change the amount of the activator which"
+  },
+  {
+   "start": 2347.09,
+   "end": 2364.47,
+   "text": "will give you this shape of the heal function. So, in this way, we can relate the output of our"
+  },
+  {
+   "start": 2364.47,
+   "end": 2370.79,
+   "text": "model which in this case can be the red curve which is representing the amount of protein for"
+  },
+  {
+   "start": 2370.79,
+   "end": 2376.63,
+   "text": "different values of the activator. We can relate it with the result that we can get in the lab"
+  },
+  {
+   "start": 2376.63,
+   "end": 2391.62,
+   "text": "doing the same kind of experiments. Okay, so a very short, I'm getting close to the time."
+  },
+  {
+   "start": 2392.98,
+   "end": 2398.34,
+   "text": "These are three slides that I will show very, very quickly because I would like to go to"
+  },
+  {
+   "start": 2399.54,
+   "end": 2406.66,
+   "text": "the rest of the presentation. We are getting short with time. For example, imagine that you"
+  },
+  {
+   "start": 2406.66,
+   "end": 2413.86,
+   "text": "have a circuit like this that many of you may know is using the quantum sensing system, AHL."
+  },
+  {
+   "start": 2414.66,
+   "end": 2422.02,
+   "text": "Which goes in and out the cell and binds the transcription factor looks R, which when you have"
+  },
+  {
+   "start": 2422.02,
+   "end": 2428.98,
+   "text": "two of them, they demerize, they repress this promoter which make the amount of this protein"
+  },
+  {
+   "start": 2428.98,
+   "end": 2435.46,
+   "text": "go down and here we have two proteins. One is a protein of interest that can be GFP and the"
+  },
+  {
+   "start": 2435.46,
+   "end": 2442.18,
+   "text": "second one we have here is LaxI, which in turn is they produce the synthase of AHL."
+  },
+  {
+   "start": 2442.82,
+   "end": 2448.02,
+   "text": "So what it means that if you have higher level of this, you will have higher level of this,"
+  },
+  {
+   "start": 2448.02,
+   "end": 2457.7,
+   "text": "it will produce more AHL and this will repress this promoter which will make the amount of LaxI"
+  },
+  {
+   "start": 2457.7,
+   "end": 2466.1,
+   "text": "and GFP go down. This is implementing a negative feedback loop around LaxI and AHL."
+  },
+  {
+   "start": 2466.74,
+   "end": 2473.46,
+   "text": "So, but basically what I want to tell you is from this you can write all your reactions"
+  },
+  {
+   "start": 2474.1,
+   "end": 2482.66,
+   "text": "which in this case we have 22 reactions and 10 species and we can go there and make our model"
+  },
+  {
+   "start": 2482.66,
+   "end": 2490.42,
+   "text": "which will end in this case with 9 or 10, sorry, differential equations and finding values for these"
+  },
+  {
+   "start": 2491.38,
+   "end": 2500.66,
+   "text": "parameters we can simulate how our system will go and we can see if it works, if it doesn't work"
+  },
+  {
+   "start": 2501.3,
+   "end": 2507.22,
+   "text": "or what values of the parameters we will need to have in order to have the function that we"
+  },
+  {
+   "start": 2507.22,
+   "end": 2513.3,
+   "text": "wanted to have. So it's just an example. But the interesting part of the example is that"
+  },
+  {
+   "start": 2513.3,
+   "end": 2520.34,
+   "text": "from this bigger model that we have here with 9 equations, we can use some assumptions like"
+  },
+  {
+   "start": 2520.34,
+   "end": 2526.74,
+   "text": "the ones we used before, for example that the RNA is fast and we can get rid of some of the"
+  },
+  {
+   "start": 2526.74,
+   "end": 2533.94,
+   "text": "equations and obtain a smaller model that will be more easy to handle and to simulate."
+  },
+  {
+   "start": 2535.46,
+   "end": 2541.78,
+   "text": "And here just for showing you a comparison between those two models for some set of"
+  },
+  {
+   "start": 2541.78,
+   "end": 2548.98,
+   "text": "parameters. The red line is the reduced model and the dotted blue line is the complete one."
+  },
+  {
+   "start": 2549.54,
+   "end": 2554.82,
+   "text": "As you can see there are some differences in the dynamics in the changes but then when they reach"
+  },
+  {
+   "start": 2554.82,
+   "end": 2564.1,
+   "text": "the steady state all the two models they complete and the reduced go to the same value. So the bottom"
+  },
+  {
+   "start": 2564.1,
+   "end": 2569.94,
+   "text": "line here what I want to tell you is that it's okay to drop some complexity and to simplify"
+  },
+  {
+   "start": 2569.94,
+   "end": 2577.06,
+   "text": "our models to have models that are more easy to handle but we just need to know what we are"
+  },
+  {
+   "start": 2577.06,
+   "end": 2587.01,
+   "text": "okay. So this one is more now we change to a part which is more related directly to the"
+  },
+  {
+   "start": 2587.01,
+   "end": 2593.41,
+   "text": "measurement committee and is we imagine that we have our model we have values for the different"
+  },
+  {
+   "start": 2593.41,
+   "end": 2599.89,
+   "text": "proteins and concentrations and we want to relate that to the lab. So how can we measure"
+  },
+  {
+   "start": 2599.89,
+   "end": 2605.41,
+   "text": "what happens in the lab and fluorescence of course is a good way to to measure what happens"
+  },
+  {
+   "start": 2605.41,
+   "end": 2613.89,
+   "text": "inside the cell. It was discovered a few years back now but the original fluorescent protein"
+  },
+  {
+   "start": 2613.89,
+   "end": 2620.61,
+   "text": "it was the green fluorescent protein from the jellyfish at Korea Victoria and after this one"
+  },
+  {
+   "start": 2621.17,
+   "end": 2629.33,
+   "text": "which was the first one sorry so this one as you can see here is a microscope image of some"
+  },
+  {
+   "start": 2630.29,
+   "end": 2638.05,
+   "text": "I think it was HeLa cells and here is some protein purified is you can see it so we agree that it's"
+  },
+  {
+   "start": 2638.05,
+   "end": 2644.37,
+   "text": "a good reporter but there are many other fluorescent proteins and as we if you were in the in the"
+  },
+  {
+   "start": 2644.37,
+   "end": 2651.41,
+   "text": "previous webinars of the measurement committee we mentioned already that we have a we have a resource"
+  },
+  {
+   "start": 2651.41,
+   "end": 2657.41,
+   "text": "here in the in the measurement page in measurement hub which can help you to select the right"
+  },
+  {
+   "start": 2657.41,
+   "end": 2662.05,
+   "text": "fluorescent protein for your project there are many different fluorescent proteins and"
+  },
+  {
+   "start": 2662.05,
+   "end": 2667.57,
+   "text": "when you have to select one or more than one you need to study the different the emission and"
+  },
+  {
+   "start": 2667.57,
+   "end": 2675.57,
+   "text": "excitation spectra of the proteins and and see which one is better for your for your project"
+  },
+  {
+   "start": 2677.76,
+   "end": 2683.92,
+   "text": "and what happens if if we calibrate the measurement of as Jake was mentioning this"
+  },
+  {
+   "start": 2684.0,
+   "end": 2691.92,
+   "text": "this morning if we make a calibration so we can know what the value coming from the plate reader"
+  },
+  {
+   "start": 2692.64,
+   "end": 2700.32,
+   "text": "means in term of numbers of molecules of some fluorescent reporter and standard in the case of"
+  },
+  {
+   "start": 2700.32,
+   "end": 2706.0,
+   "text": "the green proteins we use fluorescein you have all the information in the in the page here"
+  },
+  {
+   "start": 2706.0,
+   "end": 2712.32,
+   "text": "and this year we are also including a standard for for red proteins the Texas red if you"
+  },
+  {
+   "start": 2712.32,
+   "end": 2718.48,
+   "text": "calibrate your fluorescence measurement with these tools and also if you calibrate the optical density"
+  },
+  {
+   "start": 2719.12,
+   "end": 2725.92,
+   "text": "the OD with the with the beds with the particles that tells you that relate the number of OD that"
+  },
+  {
+   "start": 2725.92,
+   "end": 2733.92,
+   "text": "you measure with an amount of cells that you have in your culture you can have an even better way to"
+  },
+  {
+   "start": 2733.92,
+   "end": 2742.4,
+   "text": "know what happened in the in the cell and how do we relate that with the model that's the interesting"
+  },
+  {
+   "start": 2742.4,
+   "end": 2749.44,
+   "text": "part if you do this calibration that I was talking before this if you look at this one it's a it's"
+  },
+  {
+   "start": 2749.44,
+   "end": 2757.28,
+   "text": "a growth curve of the culture that I have it here a calibrated in number of particles here"
+  },
+  {
+   "start": 2757.28,
+   "end": 2763.2,
+   "text": "I have a fluorescent measurement from a plate reader also calibrated with fluorescent in numbers"
+  },
+  {
+   "start": 2763.92,
+   "end": 2768.16,
+   "text": "molecules of fluorescent if we put this together we can get"
+  },
+  {
+   "start": 2769.76,
+   "end": 2774.8,
+   "text": "a unit which is the number of molecules of a fluorescent per particle and this"
+  },
+  {
+   "start": 2775.68,
+   "end": 2782.48,
+   "text": "is a unit that is equivalent of it's equivalent to sorry the number of molecules that we have"
+  },
+  {
+   "start": 2782.48,
+   "end": 2789.92,
+   "text": "inside the cell and that is what we were modeling with our p remember in the in the"
+  },
+  {
+   "start": 2790.0,
+   "end": 2795.6,
+   "text": "previous part of the presentation p was the number of molecules of the protein that we have"
+  },
+  {
+   "start": 2795.6,
+   "end": 2804.64,
+   "text": "inside one cell so here is the way that we will have to relate the the experimental data that we"
+  },
+  {
+   "start": 2804.64,
+   "end": 2811.52,
+   "text": "have if you have it calibrated with the the output that we get from the model so with these"
+  },
+  {
+   "start": 2811.52,
+   "end": 2820.96,
+   "text": "two together we can effectively go back from here in the cycle calibration and measurement will help"
+  },
+  {
+   "start": 2820.96,
+   "end": 2828.88,
+   "text": "us to go from from tests from measuring our system back into the design and modeling and"
+  },
+  {
+   "start": 2828.88,
+   "end": 2836.48,
+   "text": "simulation where we can feed back the information that we got from our our constructor and"
+  },
+  {
+   "start": 2837.36,
+   "end": 2848.26,
+   "text": "see okay and with that we reach the end of the webinar thank you for listening this was the last"
+  },
+  {
+   "start": 2848.26,
+   "end": 2855.22,
+   "text": "one from the measurement committee as we said before and Alexis wrote there in the in the chat"
+  },
+  {
+   "start": 2855.22,
+   "end": 2861.06,
+   "text": "the measurement committee will be actively working to prepare different workshops this summer"
+  },
+  {
+   "start": 2861.06,
+   "end": 2868.74,
+   "text": "so stay tuned feel the the survey that we have here and also the the other survey that"
+  },
+  {
+   "start": 2869.46,
+   "end": 2876.26,
+   "text": "we will post i think in the in the measurement committee web in the measurement hub about which"
+  },
+  {
+   "start": 2876.26,
+   "end": 2886.18,
+   "text": "kind of webinar we we will you will like to to be hearing this summer and that's it thank you"
+  },
+  {
+   "start": 2886.18,
+   "end": 2893.7,
+   "text": "for everything so let's let me check a few of the questions that we have here so"
+  },
+  {
+   "start": 2894.58,
+   "end": 2901.86,
+   "text": "we can try to answer them or we can get in contact so we can answer them effectively later"
+  },
+  {
+   "start": 2913.27,
+   "end": 2920.79,
+   "text": "i see some questions related to artificial intelligence where where was it i don't"
+  },
+  {
+   "start": 2920.79,
+   "end": 2927.19,
+   "text": "see where is it now but okay what i can tell you from artificial intelligence is that"
+  },
+  {
+   "start": 2927.83,
+   "end": 2932.79,
+   "text": "so now artificial intelligence involves many things but one of the things that is very"
+  },
+  {
+   "start": 2933.67,
+   "end": 2943.27,
+   "text": "very useful these days is deep learning or machine learning which is basically neural networks"
+  },
+  {
+   "start": 2943.27,
+   "end": 2949.35,
+   "text": "that you can train with data to obtain prediction of the model so is that's a different approach"
+  },
+  {
+   "start": 2949.99,
+   "end": 2957.19,
+   "text": "of modeling it's also useful but that one involves having much more data"
+  },
+  {
+   "start": 2958.47,
+   "end": 2965.27,
+   "text": "that's the reason why nowadays they are very trendy is because there is the amount of data"
+  },
+  {
+   "start": 2965.27,
+   "end": 2970.47,
+   "text": "in general that we have is much bigger than before but still the number of the amount of"
+  },
+  {
+   "start": 2970.47,
+   "end": 2978.39,
+   "text": "data you need it's a it's a very big on the other hand our model so those models rely on data the"
+  },
+  {
+   "start": 2978.39,
+   "end": 2986.23,
+   "text": "models that we are doing here are based on first principles they have different course train but"
+  },
+  {
+   "start": 2986.23,
+   "end": 2993.75,
+   "text": "depending on the level of of interest that you have you can explain mechanistically the different"
+  },
+  {
+   "start": 2993.75,
+   "end": 3001.75,
+   "text": "aspects of the of what happens inside the cells so what i what we are trying to to do here is more"
+  },
+  {
+   "start": 3001.75,
+   "end": 3009.91,
+   "text": "related to the to the first principles and the mechanics that are behind if you use deep"
+  },
+  {
+   "start": 3009.91,
+   "end": 3014.71,
+   "text": "learning or some or something like that that's what is called the black box model you put the"
+  },
+  {
+   "start": 3014.71,
+   "end": 3021.35,
+   "text": "data and you get the prediction but it doesn't explain you what the system is doing in terms"
+  },
+  {
+   "start": 3021.35,
+   "end": 3036.77,
+   "text": "of their function okay i hope i i answered that question i saw a question about recommending"
+  },
+  {
+   "start": 3036.77,
+   "end": 3043.81,
+   "text": "literature we will we will write a section in the page where we we recommend the literature"
+  },
+  {
+   "start": 3043.81,
+   "end": 3053.81,
+   "text": "there are many to my mind there is one of there is one which is called mathematical biology"
+  },
+  {
+   "start": 3053.81,
+   "end": 3062.61,
+   "text": "from murai okay but we will write the section about different literature that you can reach"
+  },
+  {
+   "start": 3062.61,
+   "end": 3081.38,
+   "text": "related to this um what else definitely i it's very difficult to reach the questions here in the"
+  },
+  {
+   "start": 3081.38,
+   "end": 3090.9,
+   "text": "chat because there are many and but definitely sorry definitely you can reach us via the measurement"
+  },
+  {
+   "start": 3090.9,
+   "end": 3102.02,
+   "text": "hub via email via slack and and you can ask the questions again and we will try to to answer"
+  },
+  {
+   "start": 3105.17,
+   "end": 3113.48,
+   "text": "okay thank you and thank you wrote it for hosting and we will"
+  },
+  {
+   "start": 3115.64,
+   "end": 3122.84,
+   "text": "we will hope that you have an exceptional item here and keep keeping touch and keep"
+  },
+  {
+   "start": 3122.84,
+   "end": 3132.84,
+   "text": "tuned to the to the measurement committee thank you"
+  }
+ ]
+}
