@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 59 / 441 个视频。
+已编写 61 / 441 个视频。
 
 ## 各剧集进度
 
@@ -13,7 +13,7 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Health Physics & Nuclear Medicine | 4 / 9 |
+| Health Physics & Nuclear Medicine | 6 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -73,6 +73,8 @@
 | Health Physics & Nuclear Medicine | 02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do | 剂量限值与剂量测量：管住体外，也管住体内 | 149 | 12:25 | 25 / 10 | [剧本](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do/script.md>) · [审查](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati | 辐射怎样伤人，屏蔽怎样护人 | 134 | 11:10 | 22 / 6 | [剧本](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati/script.md>) · [审查](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture | 辐射防护总复习：从剂量到屏蔽 | 147 | 12:15 | 28 / 6 | [剧本](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture/script.md>) · [审查](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual | 现场剂量测量：测环境，也测自己 | 117 | 9:45 | 17 / 6 | [剧本](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual/script.md>) · [审查](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on | 辐射防护习题课：八道题里的安全道理 | 134 | 11:10 | 24 / 7 | [剧本](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on/script.md>) · [审查](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained | 卡套接头与气体管路安全 | 43 | 3:35 | 7 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 02_EquiTips GASLAB Industrial Fixed Gas Detection Explained | 固定式气体检测报警 | 47 | 3:55 | 9 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 液氮杜瓦罐的安全使用 | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/审查报告.md>) |

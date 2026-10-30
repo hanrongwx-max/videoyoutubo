@@ -1,0 +1,1532 @@
+{
+ "id": "05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual",
+ "series": "Health Physics & Nuclear Medicine",
+ "title": "现场剂量测量：测环境，也测自己",
+ "seconds": 585,
+ "source_doc": "course/Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual.md",
+ "author_source": "project/Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual/src.py",
+ "points": {
+  "K1": "什么是现场剂量测量",
+  "K2": "两个问题：环境和个人",
+  "K3": "便携式盖革计数器",
+  "K4": "局限一：只听见敲门声",
+  "K5": "局限二：忙不过来会漏数",
+  "K6": "局限三：看不见中子",
+  "K7": "电离室巡测仪",
+  "K8": "两种仪器怎么选",
+  "K9": "估算点源剂量率",
+  "K10": "校准要对准能量",
+  "K11": "现场验证平方反比",
+  "K12": "从区域监测到个人追踪",
+  "K13": "笔形剂量计的结构",
+  "K14": "充电、受照、读数",
+  "K15": "笔形剂量计的脾气",
+  "K16": "笔形剂量计的优缺点",
+  "K17": "五种个人剂量计",
+  "S1": "仪器检定校准与使用前检查",
+  "S2": "剂量计按期送检，妥善保管",
+  "S3": "表面污染监测与去污",
+  "S4": "读数低不等于安全",
+  "S5": "测量要记录，异常要报告",
+  "S6": "剂量计报警怎么办"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣一手拿着便携巡测仪，一手举着一支笔形剂量计，向镜头招手",
+   "prompt_en": "The panda mascot holds a handheld survey meter in one paw and raises a pen-shaped pocket dosimeter in the other, waving at the camera.",
+   "narration": "这一课，学怎样在现场测辐射。",
+   "overlay": [
+    "现场剂量测量：测环境，也测自己"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "两个图标并排：一个房间、一个人形，中间一台仪器",
+   "prompt_en": "Two icons side by side, a room and a human figure, with a handheld meter in between. No people.",
+   "narration": "既要测环境，也要测自己。",
+   "overlay": [],
+   "labels": [
+    "测环境",
+    "测自己"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "核物理实验室，老李请阿杰在实验结束后巡测一遍房间",
+   "prompt_en": "In a nuclear physics teaching lab after an experiment, the facility engineer hands the young male student a handheld survey meter and gestures around the room.",
+   "narration": "实验结束，老李让阿杰测一遍房间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰随手拿起一台计数器，屏幕数字很小，他满意地点头",
+   "prompt_en": "The young male student picks up a handheld counter, glances at a blank display showing a low reading, and nods with satisfaction.",
+   "narration": "读数很低，阿杰说：没事了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴着剂量计走过来，皱眉指着仪器侧面空白的标签",
+   "prompt_en": "The female graduate student, wearing a dosimeter badge, walks over and frowns, pointing at a blank calibration label on the side of the meter.",
+   "narration": "小研问：这台仪器校准过吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研又指着阿杰空荡荡的胸前口袋",
+   "prompt_en": "The female graduate student points at the young male student's empty chest pocket where a dosimeter should be.",
+   "narration": "你的剂量计呢？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，面露尴尬",
+   "prompt_en": "The young male student scratches his head, looking embarrassed.",
+   "narration": "阿杰愣住了：测量还有这么多讲究？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起一根手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们就从现场测量讲起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是现场剂量测量",
+   "scene": "实验台旁，小研戴着剂量计，手持巡测仪在测量",
+   "prompt_en": "The female graduate student, wearing a dosimeter badge and gloves, holds a survey meter near a lab bench.",
+   "narration": "现场剂量测量，就是在工作现场实测。",
+   "overlay": [
+    "什么是现场剂量测量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是现场剂量测量",
+   "scene": "两个人形图标，一个指向自己，一个指向别人",
+   "prompt_en": "Two simple human icons: one pointing at itself, one pointing at another figure, both with small dosimeter badges. No people.",
+   "narration": "测别人受了多少，也测自己受了多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是现场剂量测量",
+   "scene": "实验课上用过的探测器图标和现场仪器图标之间连一条线",
+   "prompt_en": "A line connecting a lab detector setup icon on the left to a portable field meter icon on the right. No people.",
+   "narration": "用到的，正是实验课里学过的探测器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个问题：环境和个人",
+   "scene": "一个房间轮廓，里面浮着许多小光点，一个大问号",
+   "prompt_en": "A room outline filled with tiny floating light dots and a big question mark above it. No people.",
+   "narration": "第一个问题：这里有多少辐射？",
+   "overlay": [
+    "两个问题：环境和个人"
+   ],
+   "labels": [
+    "区域监测"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个问题：环境和个人",
+   "scene": "盖革计数器和电离室两台仪器图标",
+   "prompt_en": "Two instrument icons: a handheld counter with a long probe, and a boxy chamber-style survey meter. No people.",
+   "narration": "用盖革计数器或电离室来回答。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个问题：环境和个人",
+   "scene": "一个人形图标，胸前口袋插着一支笔，旁边问号",
+   "prompt_en": "A human figure icon with a pen-shaped dosimeter in the chest pocket and a question mark beside it. No people.",
+   "narration": "第二个问题：这个人受了多少？",
+   "overlay": [],
+   "labels": [
+    "个人剂量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个问题：环境和个人",
+   "scene": "小研低头看白大褂口袋里的笔形剂量计",
+   "prompt_en": "The female graduate student looks down at the pen-shaped pocket dosimeter clipped in her lab coat pocket.",
+   "narration": "口袋里这支笔，就是个人剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "便携式盖革计数器",
+   "scene": "便携式计数器：主机盒、电缆、长探头棒",
+   "prompt_en": "A portable radiation counter: a compact main box with a blank display, a coiled cable and a long cylindrical probe. No people.",
+   "narration": "便携式盖革计数器，带一根探头。",
+   "overlay": [
+    "便携式盖革计数器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "便携式盖革计数器",
+   "scene": "探头棒剖面，射线进入，里面闪出一道火花，变成一个脉冲",
+   "prompt_en": "A cutaway of the probe tube: a ray enters, a small spark cascade flashes inside the gas, and a single pulse travels down the cable. No people.",
+   "narration": "射线进管，气体放大成一个电脉冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "便携式盖革计数器",
+   "scene": "主机屏幕上的数字一下下往上跳",
+   "prompt_en": "Close-up of the main box display with blank digits ticking upward. No people.",
+   "narration": "主机数脉冲，显示计数率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "便携式盖革计数器",
+   "scene": "电池图标和结实的外壳，仪器被带到户外",
+   "prompt_en": "A battery icon and a rugged meter case; the meter is carried along an outdoor path. No people.",
+   "narration": "简单、结实、用电池，方便带到现场。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "便携式盖革计数器",
+   "scene": "实验室台面上固定的计数装置与手提仪器并排",
+   "prompt_en": "A fixed counting setup on a lab bench next to a handheld portable counter. No people.",
+   "narration": "和实验室里固定的装置不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "局限一：只听见敲门声",
+   "scene": "一扇关着的门，门外传来敲门声的波纹",
+   "prompt_en": "A closed door with sound ripples showing knocking from the other side. No people.",
+   "narration": "门关着，只听见有人敲门。",
+   "overlay": [
+    "局限一：只听见敲门声"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "局限一：只听见敲门声",
+   "scene": "门外的影子：小狗、大人、小孩轮流出现，问号",
+   "prompt_en": "Behind a frosted door, silhouettes of a dog, an adult and a child appear one after another, with a question mark. No people.",
+   "narration": "却不知道门外是谁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "局限一：只听见敲门声",
+   "scene": "α、β、γ三个图标进入计数管，出来的脉冲一模一样",
+   "prompt_en": "Three different ray icons enter the counter tube, and three identical pulses come out. No people.",
+   "narration": "盖革计数器分不清α、β、γ。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "局限一：只听见敲门声",
+   "scene": "能量高低不同的两条射线，读数相同，旁边问号",
+   "prompt_en": "A strong ray and a weak ray enter the tube and produce the same pulse, with a question mark beside them. No people.",
+   "narration": "也分不清射线能量高低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "局限二：忙不过来会漏数",
+   "scene": "收银台前，一个店员正在结账，后面排起长队",
+   "prompt_en": "A single cashier counter with one clerk icon busy scanning while a long queue of customers waits. No people.",
+   "narration": "一个脉冲要处理一会儿。",
+   "overlay": [
+    "局限二：忙不过来会漏数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "局限二：忙不过来会漏数",
+   "scene": "处理期间又来的射线被挡在外面，打着灰色问号",
+   "prompt_en": "While the tube is busy, newly arriving rays bounce off and fade into gray question marks. No people.",
+   "narration": "这段死时间里，再来的射线不计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "局限二：忙不过来会漏数",
+   "scene": "源离计数器远时，计数稀疏；放近时，射线密密麻麻",
+   "prompt_en": "Side-by-side panels: a source far from the counter with sparse rays, and a source close to it with dense rays. No people.",
+   "narration": "源越近、射线越多，漏掉越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "局限二：忙不过来会漏数",
+   "scene": "仪表指针偏低，旁边亮起警示三角",
+   "prompt_en": "A meter needle reading low while a yellow warning triangle glows beside it. No people.",
+   "narration": "强场里，它会低报真实危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "局限三：看不见中子",
+   "scene": "一个中子小球撞向计数管，弹开，旁边一个划掉的眼睛",
+   "prompt_en": "A small neutron ball bounces off the counter tube, with a crossed-out eye icon beside it. No people.",
+   "narration": "盖革计数器对中子基本看不见。",
+   "overlay": [
+    "局限三：看不见中子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "局限三：看不见中子",
+   "scene": "γ射线和带电粒子图标打绿勾，中子图标打红叉",
+   "prompt_en": "A gamma ray icon and a charged particle icon with green checks, and a neutron icon with a red X. No people.",
+   "narration": "它主要用来测γ射线和带电粒子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "局限三：看不见中子",
+   "scene": "老李在中子源区域换上一台专用仪器",
+   "prompt_en": "The facility engineer swaps in a different, larger dedicated meter at a doorway with an ionizing radiation warning sign.",
+   "narration": "有中子的场所，要用专门的仪器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电离室巡测仪",
+   "scene": "一台方盒式电离室巡测仪",
+   "prompt_en": "A boxy ionization chamber survey meter with a blank dial. No people.",
+   "narration": "再看电离室巡测仪。",
+   "overlay": [
+    "电离室巡测仪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电离室巡测仪",
+   "scene": "上方是一串尖尖的脉冲，下方是一条平滑的电流线",
+   "prompt_en": "Top: a row of sharp identical spikes; bottom: a smooth continuous wavy line. No people.",
+   "narration": "它不数脉冲，测的是连续的电流。",
+   "overlay": [],
+   "labels": [
+    "盖革：脉冲",
+    "电离室：电流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电离室巡测仪",
+   "scene": "仪表指针稳稳指向一个刻度，旁边小钟",
+   "prompt_en": "The meter needle points steadily on a blank scale, with a small clock icon beside it. No people.",
+   "narration": "直接读出剂量率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电离室巡测仪",
+   "scene": "一把很长的尺子横跨低、高两端，全程打勾",
+   "prompt_en": "A very long ruler spanning from a small dot to a big dot, with green checks along its length. No people.",
+   "narration": "量程宽，读数准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电离室巡测仪",
+   "scene": "台面上一点点污染小斑点，电离室指针几乎不动",
+   "prompt_en": "A few tiny contamination specks on a bench; the ionization chamber needle barely moves. No people.",
+   "narration": "但不够灵敏，找微量污染不合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两种仪器怎么选",
+   "scene": "左边盖革计数器在台面上找小斑点，右边电离室在房间中央测剂量率",
+   "prompt_en": "Split panel: on the left a counter probe sweeps a bench to find tiny specks; on the right a chamber meter measures in the middle of a room. No people.",
+   "narration": "盖革找污染，电离室测剂量率。",
+   "overlay": [
+    "两种仪器怎么选"
+   ],
+   "labels": [
+    "盖革：找污染",
+    "电离室：测剂量率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两种仪器怎么选",
+   "scene": "盖革计数器旁一个大放大镜，电离室旁一个稳稳的天平",
+   "prompt_en": "A big magnifying glass beside the counter, and a steady balance scale beside the chamber meter. No people.",
+   "narration": "盖革灵敏，电离室准确。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两种仪器怎么选",
+   "scene": "强辐射场图标前，盖革图标冒汗，电离室图标稳稳站着",
+   "prompt_en": "In front of a strong radiation field icon, the counter icon sweats nervously while the chamber icon stands calmly. No people.",
+   "narration": "强场里，电离室更可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两种仪器怎么选",
+   "scene": "电离室旁一条平坦的响应曲线",
+   "prompt_en": "Beside the chamber meter, a nearly flat response line across low and high energies. No people.",
+   "narration": "它不分辨能量，但能量响应更平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两种仪器怎么选",
+   "scene": "小研同时拿着两台仪器",
+   "prompt_en": "The female graduate student holds one instrument in each hand, comparing them.",
+   "narration": "两台仪器配合，各取所长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "估算点源剂量率",
+   "scene": "一颗发光的小点源，周围一圈圈光环",
+   "prompt_en": "A small glowing point source with concentric rings of light around it. No people.",
+   "narration": "测量之前，可以先估一估。",
+   "overlay": [
+    "估算点源剂量率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "估算点源剂量率",
+   "scene": "大桶小桶的发光弹珠，表示源强弱",
+   "prompt_en": "A big bucket and a small bucket of glowing marbles. No people.",
+   "narration": "源越强，剂量率越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "估算点源剂量率",
+   "scene": "两条射线，一条粗亮，一条细弱",
+   "prompt_en": "Two rays from a source: one thick and bright, one thin and faint. No people.",
+   "narration": "每次衰变放出的γ能量越高，也越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "估算点源剂量率",
+   "scene": "人形图标从源旁后退一步，地上光斑变淡成四分之一",
+   "prompt_en": "A stick figure steps back from a source; the light patch on the floor spreads and becomes four times fainter. No people.",
+   "narration": "距离加倍，剂量率降到四分之一。",
+   "overlay": [],
+   "labels": [
+    "距离加倍",
+    "降到四分之一"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "估算点源剂量率",
+   "scene": "几个不同的源罐，各有不同的小图标",
+   "prompt_en": "Several different small source containers, each with a different simple symbol on its lid. No people.",
+   "narration": "每种核素，还有自己的常数可查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准要对准能量",
+   "scene": "学生看着墙上空白的考试时间表，翻开对应的课本",
+   "prompt_en": "The young male student checks a blank exam timetable on the wall, then opens the matching textbook.",
+   "narration": "考试前，先看清考哪一科。",
+   "overlay": [
+    "校准要对准能量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准要对准能量",
+   "scene": "仪器旁一个能量刻度条，上面圈出一段",
+   "prompt_en": "Beside a survey meter, an energy scale bar with one segment circled. No people.",
+   "narration": "测量前，确认仪器对这个能量校准过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准要对准能量",
+   "scene": "用高能源校准的计数器去测低能射线，读数一高一低地乱跳",
+   "prompt_en": "A counter calibrated with a high-energy source is pointed at a low-energy source; its needle swings too high, then too low. No people.",
+   "narration": "用高能源校准，测低能射线会失准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准要对准能量",
+   "scene": "低能射线和高能射线与物质作用方式不同的示意",
+   "prompt_en": "Two rays of different energy hitting atoms: the low-energy ray gets swallowed often, the high-energy ray mostly passes through. No people.",
+   "narration": "因为不同能量，和物质作用不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准要对准能量",
+   "scene": "探头外加一层补偿外套，响应曲线变平",
+   "prompt_en": "A probe gets a thin compensating sleeve, and its response curve flattens out. No people.",
+   "narration": "办法是用能量补偿探头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "现场验证平方反比",
+   "scene": "小研在点源前近处放一台仪器测量",
+   "prompt_en": "The female graduate student, wearing a dosimeter badge and gloves, places a meter close to a small sealed source holder with long tongs nearby.",
+   "narration": "现场还能验证平方反比。",
+   "overlay": [
+    "现场验证平方反比"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "现场验证平方反比",
+   "scene": "同一台仪器移到两倍远处，再读一次",
+   "prompt_en": "The same meter is moved to twice the distance and read again; two blank reading cards on the bench. No people.",
+   "narration": "在两个距离各测一次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "现场验证平方反比",
+   "scene": "两个读数卡之间一个等号，打绿勾",
+   "prompt_en": "Two blank reading cards with an equals sign between them and a green check mark. No people.",
+   "narration": "比值符合距离平方，就对上了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "现场验证平方反比",
+   "scene": "旁边墙面反射出波纹，被打问号",
+   "prompt_en": "Wavy reflections bouncing off a nearby wall, marked with a question mark. No people.",
+   "narration": "对不上，可能有散射或源不是点源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "从区域监测到个人追踪",
+   "scene": "房间俯视图，几个区域涂着不同深浅",
+   "prompt_en": "Top view of a room with zones shaded in different intensities. No people.",
+   "narration": "区域监测，给出房间的整体情况。",
+   "overlay": [
+    "从区域监测到个人追踪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "从区域监测到个人追踪",
+   "scene": "阿杰在房间里走动，一会儿靠近源，一会儿远离",
+   "prompt_en": "The young male student walks around the lab, sometimes near the shielded source area and sometimes far away, wearing a dosimeter badge.",
+   "narration": "可人在走动，离源远近一直在变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "从区域监测到个人追踪",
+   "scene": "钟表和脚印图标",
+   "prompt_en": "A clock icon and a trail of footprints. No people.",
+   "narration": "停留多久，也一直在变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "从区域监测到个人追踪",
+   "scene": "胸前剂量计图标旁，一个向上累加的柱子",
+   "prompt_en": "A dosimeter icon on a chest with a bar beside it that grows step by step. No people.",
+   "narration": "所以要实时记录每个人的累计剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "笔形剂量计的结构",
+   "scene": "一支笔形剂量计放大，看起来像钢笔",
+   "prompt_en": "A large pen-shaped pocket dosimeter that looks like an ordinary fountain pen. No people.",
+   "narration": "这支笔不是写字用的。",
+   "overlay": [
+    "笔形剂量计的结构"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "笔形剂量计的结构",
+   "scene": "笔身剖开，里面是一个充气小腔",
+   "prompt_en": "The pen body cut open, revealing a sealed small gas-filled chamber inside. No people.",
+   "narration": "笔身是密封的小电离室，充着气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "笔形剂量计的结构",
+   "scene": "腔内两根电极之间悬着一根极细的丝",
+   "prompt_en": "Inside the chamber, an ultra-thin fiber hangs between two electrodes. No people.",
+   "narration": "里面悬着一根极细的石英丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "笔形剂量计的结构",
+   "scene": "一端是放大目镜和空白刻度，另一端是充电触点",
+   "prompt_en": "One end has a small magnifying eyepiece with a blank scale; the other end has a charging contact pin. No people.",
+   "narration": "一头是目镜刻度，一头是充电触点。",
+   "overlay": [],
+   "labels": [
+    "目镜",
+    "刻度",
+    "充电触点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "充电、受照、读数",
+   "scene": "剂量计插在充电座上，石英丝弹到零位",
+   "prompt_en": "The pen dosimeter sits on a small charger base; inside, the fiber swings to the zero end of a blank scale. No people.",
+   "narration": "先充电，同种电荷相斥，丝偏到零。",
+   "overlay": [
+    "充电、受照、读数"
+   ],
+   "labels": [
+    "1 充电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "充电、受照、读数",
+   "scene": "射线进入笔身，腔内气体冒出小正负号",
+   "prompt_en": "Wavy rays enter the pen; tiny plus and minus signs pop up in the gas inside. No people.",
+   "narration": "射线电离气体，中和掉一部分电荷。",
+   "overlay": [],
+   "labels": [
+    "2 受照"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "充电、受照、读数",
+   "scene": "石英丝慢慢向刻度另一边移动",
+   "prompt_en": "The fiber slowly drifts across the blank scale. No people.",
+   "narration": "电场变弱，丝就慢慢移过去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "充电、受照、读数",
+   "scene": "小研把剂量计对着窗户的光，从目镜看",
+   "prompt_en": "The female graduate student holds the pen dosimeter up toward a bright window and looks through the eyepiece.",
+   "narration": "对着光一看，就知道累计受了多少。",
+   "overlay": [],
+   "labels": [
+    "3 读数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "充电、受照、读数",
+   "scene": "笔形剂量计打绿勾，旁边一个冲洗暗盒打了个时钟",
+   "prompt_en": "The pen dosimeter with a green check, next to a film processing box with a clock icon. No people.",
+   "narration": "当场读数，不用送去冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "笔形剂量计的脾气",
+   "scene": "剂量计上方的刻度条，各型号范围不同",
+   "prompt_en": "Several pen dosimeters with scales of different lengths. No people.",
+   "narration": "量程多大，要看具体型号。",
+   "overlay": [
+    "笔形剂量计的脾气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "笔形剂量计的脾气",
+   "scene": "笔身上一个漏气般的小电荷慢慢溜走",
+   "prompt_en": "Tiny charge dots slowly leak out of the pen body. No people.",
+   "narration": "它会慢慢漏电，自己掉读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "笔形剂量计的脾气",
+   "scene": "阿杰上岗前把剂量计放到充电座上",
+   "prompt_en": "The young male student places his pen dosimeter on the charger before starting work.",
+   "narration": "所以每次用前都要重新充电归零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "笔形剂量计的脾气",
+   "scene": "低能β粒子图标被挡在笔外，中子图标打问号",
+   "prompt_en": "A low-energy beta particle icon stops at the pen wall, and a neutron icon has a question mark. No people.",
+   "narration": "对低能β不灵敏，对中子反应差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "笔形剂量计的优缺点",
+   "scene": "天平：一边是闪电和对勾，一边是警示三角",
+   "prompt_en": "A balance scale: one side holds a lightning bolt with a green check, the other side holds a yellow warning triangle. No people.",
+   "narration": "笔形剂量计，有长处也有短处。",
+   "overlay": [
+    "笔形剂量计的优缺点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "笔形剂量计的优缺点",
+   "scene": "防护墙后的短时操作，工作人员随时看剂量计",
+   "prompt_en": "Behind a protective wall, the older man performs a short task with long tongs and glances at his pen dosimeter.",
+   "narration": "长处：短时高风险作业，随时看读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "笔形剂量计的优缺点",
+   "scene": "一盒结实便宜的剂量计，可以人手一支",
+   "prompt_en": "A box full of identical sturdy pen dosimeters, ready to hand out. No people.",
+   "narration": "结实、便宜，可以大量配发。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "笔形剂量计的优缺点",
+   "scene": "读数偏低的笔旁打红色警示，旁边一本空白档案被打叉",
+   "prompt_en": "A pen dosimeter with a falsely low reading and a red warning mark, next to a blank record book crossed out. No people.",
+   "narration": "短处：会漏电虚低，不留永久记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "笔形剂量计的优缺点",
+   "scene": "昏暗房间里，看不清目镜的笔",
+   "prompt_en": "A pen dosimeter in a dim room, its eyepiece too dark to read. No people.",
+   "narration": "光线不够，还读不了数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五种个人剂量计",
+   "scene": "五种剂量计并排：笔、胶片盒、小晶片卡、薄片卡、电子小盒",
+   "prompt_en": "Five personal dosimeters in a row: a pen, a film badge holder, a small chip card, a thin strip card and a small electronic unit with a blank screen. No people.",
+   "narration": "个人剂量计不止一种。",
+   "overlay": [
+    "五种个人剂量计"
+   ],
+   "labels": [
+    "笔形",
+    "胶片",
+    "热释光",
+    "光释光",
+    "电子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五种个人剂量计",
+   "scene": "胶片、热释光、光释光三种送往实验室读出",
+   "prompt_en": "The film badge, the chip card and the strip card travel on a conveyor into a lab reader box. No people.",
+   "narration": "胶片、热释光、光释光，要送去读出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五种个人剂量计",
+   "scene": "这三种旁边一个上锁的档案柜",
+   "prompt_en": "Next to these three dosimeters, a locked filing cabinet with blank folders. No people.",
+   "narration": "它们留下记录，用于长期存档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五种个人剂量计",
+   "scene": "电子剂量计数字屏亮起，发出报警波纹",
+   "prompt_en": "The small electronic dosimeter lights up its blank digital screen and emits alarm ripples. No people.",
+   "narration": "电子剂量计实时显示，还能报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五种个人剂量计",
+   "scene": "笔形剂量计和档案柜之间连线",
+   "prompt_en": "A line linking the pen dosimeter to the filing cabinet. No people.",
+   "narration": "即时控制和长期存档，要配合使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仪器检定校准与使用前检查",
+   "scene": "仪器侧面的空白检定标签，旁边一个日历",
+   "prompt_en": "A blank calibration sticker on the side of a survey meter, next to a calendar icon. No people.",
+   "narration": "测量仪器要按规定定期检定校准。",
+   "overlay": [
+    "仪器检定校准与使用前检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仪器检定校准与使用前检查",
+   "scene": "过期的日历页被红叉划掉，仪器打问号",
+   "prompt_en": "An expired calendar page crossed out with a red X, and the meter with a question mark. No people.",
+   "narration": "超期未检的仪器，读数不能作数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仪器检定校准与使用前检查",
+   "scene": "阿杰打开仪器，看电池图标是满格",
+   "prompt_en": "The young male student switches on the meter and checks a full battery icon on its blank screen.",
+   "narration": "用前先查电池和外观。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仪器检定校准与使用前检查",
+   "scene": "在源柜外先测一下本底，再用检验源看仪器有反应",
+   "prompt_en": "The young male student first takes a background reading away from sources, then holds the probe near a small check source held in a fixture by the older man.",
+   "narration": "测本底，再用检验源看有无响应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仪器检定校准与使用前检查",
+   "scene": "小研把有问题的仪器放到一边，贴上空白停用牌",
+   "prompt_en": "The female graduate student sets a faulty meter aside and hangs a blank out-of-service tag on it.",
+   "narration": "有异常就停用，报给管理人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "剂量计按期送检，妥善保管",
+   "scene": "小研把剂量计夹在胸前，阿杰照着做",
+   "prompt_en": "The female graduate student clips a dosimeter badge on her chest, and the young male student copies her.",
+   "narration": "进场就戴，离场就收。",
+   "overlay": [
+    "剂量计按期送检，妥善保管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "剂量计按期送检，妥善保管",
+   "scene": "日历上按周期圈出几个日子，剂量计装进信封",
+   "prompt_en": "A calendar with several dates circled at regular intervals, and dosimeter badges going into a blank envelope. No people.",
+   "narration": "按规定周期送检，周期以现行规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "剂量计按期送检，妥善保管",
+   "scene": "两人交换剂量计的图标被红叉划掉",
+   "prompt_en": "Two hands swapping a dosimeter badge, crossed out with a red X. No people.",
+   "narration": "一人一个，不借用、不代戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "剂量计按期送检，妥善保管",
+   "scene": "剂量计挂在源旁边的图标被红叉划掉",
+   "prompt_en": "A dosimeter badge hanging next to a source container, crossed out with a red X. No people.",
+   "narration": "不放在工作场所里，不故意照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "剂量计按期送检，妥善保管",
+   "scene": "阿杰向王老师报告剂量计丢了",
+   "prompt_en": "The young male student reports to the safety administrator, showing his empty chest pocket.",
+   "narration": "丢失或损坏，马上报告补发。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "表面污染监测与去污",
+   "scene": "实验结束，阿杰用表面污染仪慢慢扫台面",
+   "prompt_en": "After an experiment, the young male student wearing gloves slowly sweeps a surface contamination probe over the bench.",
+   "narration": "开放源实验后，要测表面污染。",
+   "overlay": [
+    "表面污染监测与去污"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "表面污染监测与去污",
+   "scene": "探头扫过手套、袖口和鞋底",
+   "prompt_en": "The probe passes over gloves, sleeves and shoe soles of the female graduate student.",
+   "narration": "台面、地面、手和鞋都要测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "表面污染监测与去污",
+   "scene": "台面上一小块区域被圈出，周围放上警示标识",
+   "prompt_en": "A small area on the bench is outlined and surrounded by small ionizing radiation warning signs. No people.",
+   "narration": "发现污染，先标出范围，别扩散。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "表面污染监测与去污",
+   "scene": "阿杰拨电话报告，王老师赶来",
+   "prompt_en": "The young male student makes a phone call while the safety administrator hurries over.",
+   "narration": "报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "表面污染监测与去污",
+   "scene": "去污用品放进专用废物袋，再测一遍打勾",
+   "prompt_en": "Used cleaning materials go into a labeled radioactive waste bag, and a second survey shows a green check. No people.",
+   "narration": "按规程去污，废物进专用桶，再复测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "读数低不等于安全",
+   "scene": "仪表读数为零，旁边一个大问号",
+   "prompt_en": "A meter showing zero on a blank display with a big question mark beside it. No people.",
+   "narration": "读数为零，不一定就是安全。",
+   "overlay": [
+    "读数低不等于安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "读数低不等于安全",
+   "scene": "选错仪器、没开机、电池没电三个图标",
+   "prompt_en": "Three icons: a wrong type of meter, a switched-off meter and an empty battery. No people.",
+   "narration": "可能选错仪器，也可能没电了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "读数低不等于安全",
+   "scene": "强场中计数器指针反常地落下，警示三角",
+   "prompt_en": "In a strong field icon, a counter needle drops abnormally with a warning triangle. No people.",
+   "narration": "很强的场里，有的计数器反而读数低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "读数低不等于安全",
+   "scene": "小研换另一台仪器复核",
+   "prompt_en": "The female graduate student double-checks with a second, different meter.",
+   "narration": "拿不准，换一台仪器复核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "测量要记录，异常要报告",
+   "scene": "空白记录表，旁边时钟、地图钉和仪器图标",
+   "prompt_en": "A blank measurement record sheet with icons of a clock, a map pin and a meter. No people.",
+   "narration": "每次测量都要记录。",
+   "overlay": [
+    "测量要记录，异常要报告"
+   ],
+   "labels": [
+    "时间",
+    "地点",
+    "仪器",
+    "读数",
+    "测量人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "测量要记录，异常要报告",
+   "scene": "记录表放进档案夹",
+   "prompt_en": "The filled record sheet is placed into a blank binder on a shelf. No people.",
+   "narration": "记录存档，便于追溯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "测量要记录，异常要报告",
+   "scene": "读数突然升高，阿杰停下手里的事",
+   "prompt_en": "The young male student sees a sudden jump on the meter and stops what he is doing.",
+   "narration": "读数异常偏高，先停止操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "测量要记录，异常要报告",
+   "scene": "阿杰退出房间，关门，拨电话",
+   "prompt_en": "The young male student leaves the room, closes the door with an ionizing radiation warning sign, and makes a phone call.",
+   "narration": "退到安全处，立即报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "测量要记录，异常要报告",
+   "scene": "报告链：实验室负责人—学院—保卫处，旁边120",
+   "prompt_en": "Three linked icons in a chain: a lab room, a department building and a security office, with a red cross phone icon. No people.",
+   "narration": "层层上报；有人受伤拨120。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "保卫处",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "剂量计报警怎么办",
+   "scene": "电子剂量计闪烁报警",
+   "prompt_en": "A small electronic dosimeter on a chest flashes and emits alarm ripples. No people.",
+   "narration": "电子剂量计报警了，怎么办？",
+   "overlay": [
+    "剂量计报警怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "剂量计报警怎么办",
+   "scene": "老周放下工具，迅速离开源所在区域",
+   "prompt_en": "The older man puts down his tools and quickly walks away from the shielded source area.",
+   "narration": "立即停止操作，离开该区域。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "剂量计报警怎么办",
+   "scene": "按掉报警继续干活的图标被红叉划掉",
+   "prompt_en": "An icon of a hand silencing an alarm and continuing to work, crossed out with a red X. No people.",
+   "narration": "不要关掉报警继续干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "剂量计报警怎么办",
+   "scene": "老周向王老师报告，王老师记录读数",
+   "prompt_en": "The older man reports to the safety administrator, who notes down the reading on a blank form.",
+   "narration": "报告负责人，记下读数，查明原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现房间和人形两个图标",
+   "prompt_en": "The panda mascot stands beside two floating icons: a room and a human figure.",
+   "narration": "测环境用巡测仪，测个人用剂量计。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "盖革和电离室图标，一个放大镜一个天平",
+   "prompt_en": "Icons of a counter with a magnifying glass and a chamber meter with a balance scale. No people.",
+   "narration": "盖革灵敏找污染，电离室准确测剂量率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "敲门、收银台、中子小球三个图标",
+   "prompt_en": "Three icons: a knocking door, a busy cashier and a bouncing neutron ball. No people.",
+   "narration": "记住盖革的三个局限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检定标签和能量刻度条图标",
+   "prompt_en": "Icons of a blank calibration sticker and an energy scale bar. No people.",
+   "narration": "仪器要检定，能量要对准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "笔形剂量计、档案柜和电子剂量计图标",
+   "prompt_en": "Icons of a pen dosimeter, a filing cabinet and an electronic dosimeter. No people.",
+   "narration": "即时读数和长期存档，配合使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "记录表、电话和停止手势三个图标",
+   "prompt_en": "Icons of a record sheet, a phone and a stop hand. No people.",
+   "narration": "测量有记录，异常先撤离再报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣胸前别着剂量计，手提巡测仪挥手道别",
+   "prompt_en": "The panda mascot wears a dosimeter badge on its chest, holds a survey meter and waves goodbye.",
+   "narration": "测得准，戴得对，安全心里有数！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
