@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 68 / 441 个视频。
+已编写 79 / 441 个视频。
 
 ## 各剧集进度
 
@@ -11,10 +11,11 @@
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| RSO Training Series | 4 / 9 |
+| RSO Training Series | 7 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -30,7 +31,6 @@
 | Laser Maintenance Group Safety | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 0 / 17 |
 | Microbiology Biosafety | 0 / 59 |
-| Photonics & Laser Safety Series | 0 / 8 |
 
 ## 已编写视频
 
@@ -102,7 +102,18 @@
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 激光切割机：徽章项目上机全流程 | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/审查报告.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 激光切割机：考核、授权与预约 | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 激光切割机：规程更新须知 | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/审查报告.md>) |
+| Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
+| Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
+| Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
+| Photonics & Laser Safety Series | 04_4. More on Properties of Light | 光学材料：折射、吸收与反射 | 83 | 6:55 | 16 / 5 | [剧本](<Photonics & Laser Safety Series/04_4. More on Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/04_4. More on Properties of Light/审查报告.md>) |
+| Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 认识光学元件：材料、镀膜与滤光片 | 108 | 9:00 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components/script.md>) · [审查](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components/审查报告.md>) |
+| Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 光学元件的安装、定位与维护 | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care/审查报告.md>) |
+| Photonics & Laser Safety Series | 07_7. Light Sources | 光源与光对人体的作用 | 125 | 10:25 | 25 / 5 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources/script.md>) · [审查](<Photonics & Laser Safety Series/07_7. Light Sources/审查报告.md>) |
+| Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 激光安全入门 | 147 | 12:15 | 26 / 9 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety/script.md>) · [审查](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety/审查报告.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 辐射安全基础：来源、剂量与生物效应 | 86 | 7:10 | 16 / 9 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) · [审查](<RSO Training Series/01_Radiation Safety Basics/审查报告.md>) |
 | RSO Training Series | 02_RSO Training | 学生社团年度培训：管理、财务与活动安全 | 124 | 10:20 | 31 / 9 | [剧本](<RSO Training Series/02_RSO Training/script.md>) · [审查](<RSO Training Series/02_RSO Training/审查报告.md>) |
 | RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 放射性废物：从实验台到安全处置 | 70 | 5:50 | 14 / 8 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/script.md>) · [审查](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/审查报告.md>) |
 | RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 辐射剂量（上）：吸收剂量与当量剂量 | 71 | 5:55 | 13 / 8 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)/script.md>) · [审查](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)/审查报告.md>) |
+| RSO Training Series | 05_Spring 2016 RSO Training Module 2 | 学生社团安全守则：欺凌、集体活动、饮酒与出行 | 131 | 10:55 | 32 / 8 | [剧本](<RSO Training Series/05_Spring 2016 RSO Training Module 2/script.md>) · [审查](<RSO Training Series/05_Spring 2016 RSO Training Module 2/审查报告.md>) |
+| RSO Training Series | 06_Radiation Safety Training | 核医学身边的辐射安全：病人、溢洒与急救 | 107 | 8:55 | 31 / 9 | [剧本](<RSO Training Series/06_Radiation Safety Training/script.md>) · [审查](<RSO Training Series/06_Radiation Safety Training/审查报告.md>) |
+| RSO Training Series | 07_IONIZING RADIATION SAFETY | 电离辐射安全：从原理到日常防护 | 147 | 12:15 | 42 / 8 | [剧本](<RSO Training Series/07_IONIZING RADIATION SAFETY/script.md>) · [审查](<RSO Training Series/07_IONIZING RADIATION SAFETY/审查报告.md>) |
