@@ -1,0 +1,937 @@
+{
+ "language": "en",
+ "model": "small.en",
+ "task": "transcribe",
+ "segments": [
+  {
+   "start": 3.41,
+   "end": 8.41,
+   "text": "Hello and welcome to the first of the 12-part series of BioRisk Management."
+  },
+  {
+   "start": 8.41,
+   "end": 12.41,
+   "text": "Today's topic is Biological Agents."
+  },
+  {
+   "start": 12.41,
+   "end": 15.41,
+   "text": "This is our schedule for the next 12 months."
+  },
+  {
+   "start": 15.41,
+   "end": 24.41,
+   "text": "We have designed one lecture module per month in order to disseminate concepts pertaining to biological safety and biological security."
+  },
+  {
+   "start": 24.41,
+   "end": 34.71,
+   "text": "When we are first introduced to BioRisk Management, we have to understand that there are two aspects of BioRisk Management."
+  },
+  {
+   "start": 34.71,
+   "end": 39.71,
+   "text": "The first pertains to biosafety and the second pertains to biosecurity."
+  },
+  {
+   "start": 39.71,
+   "end": 43.71,
+   "text": "What differentiates these two aspects is the intent."
+  },
+  {
+   "start": 43.71,
+   "end": 50.71,
+   "text": "So in the case of biosafety, we focus on the unintentional release of biological agents."
+  },
+  {
+   "start": 50.71,
+   "end": 57.71,
+   "text": "In the case of biosecurity, we focus on the intended release of a biological agent."
+  },
+  {
+   "start": 57.71,
+   "end": 75.02,
+   "text": "So throughout this lecture series, we will be focused on the AMP module, which basically pertains to risk assessment, risk mitigation and performance assessment."
+  },
+  {
+   "start": 75.02,
+   "end": 82.02,
+   "text": "So these three components are based on continuous quality improvement."
+  },
+  {
+   "start": 82.02,
+   "end": 86.64,
+   "text": "Let's look at biological agents."
+  },
+  {
+   "start": 86.64,
+   "end": 94.64,
+   "text": "When we use the term biological agents, we refer to that from the context of biosafety."
+  },
+  {
+   "start": 94.64,
+   "end": 100.64,
+   "text": "However, in the case of biosecurity, we refer to biological agents as biological assets."
+  },
+  {
+   "start": 100.64,
+   "end": 117.63,
+   "text": "Some of the keywords we will be using today are index case, morbidity, nosocomial, cutaneous, percutaneous and epidemiology."
+  },
+  {
+   "start": 117.63,
+   "end": 120.63,
+   "text": "What is a biological agent?"
+  },
+  {
+   "start": 120.63,
+   "end": 131.63,
+   "text": "According to the Occupational Health and Safety Administration, biological agents include bacteria, viruses, fungi, other microorganisms and associated toxins."
+  },
+  {
+   "start": 131.63,
+   "end": 142.63,
+   "text": "They have the ability to adversely affect human health in a variety of ways, ranging from relatively mild allergic reactions to serious medical conditions or even death."
+  },
+  {
+   "start": 142.63,
+   "end": 151.63,
+   "text": "Now the key message which we should remember in this definition is that biological agents adversely affect human health."
+  },
+  {
+   "start": 151.63,
+   "end": 157.22,
+   "text": "There are various classes of biological agents."
+  },
+  {
+   "start": 157.22,
+   "end": 167.22,
+   "text": "One of the least common are prions, which have been linked to what is commonly referred to as the mad cow disease."
+  },
+  {
+   "start": 167.22,
+   "end": 172.22,
+   "text": "So they are a family of progressive neurodegenerative disorders."
+  },
+  {
+   "start": 172.22,
+   "end": 178.22,
+   "text": "So prion diseases are spread through animal hosts."
+  },
+  {
+   "start": 178.22,
+   "end": 183.88,
+   "text": "The second least common is mycoplasma."
+  },
+  {
+   "start": 183.88,
+   "end": 187.88,
+   "text": "So one of the common biological agents is mycoplasma pneumoniae."
+  },
+  {
+   "start": 187.88,
+   "end": 189.88,
+   "text": "It's an atypical bacterium."
+  },
+  {
+   "start": 189.88,
+   "end": 196.88,
+   "text": "It does not have a cell wall and does not respond to treatment with beta-lectum antibiotics."
+  },
+  {
+   "start": 196.88,
+   "end": 199.88,
+   "text": "So we need to use macrolides."
+  },
+  {
+   "start": 199.88,
+   "end": 210.7,
+   "text": "So mycoplasma is one of the biological agents, which is atypical, which means it's the only type of bacterium in its class."
+  },
+  {
+   "start": 210.7,
+   "end": 212.7,
+   "text": "Viruses are very commonly known."
+  },
+  {
+   "start": 212.7,
+   "end": 223.7,
+   "text": "And the most pathogenic viruses are the positive single-stranded RNA viruses, which include the Ebola virus, the maba virus, and the hunter viruses."
+  },
+  {
+   "start": 223.7,
+   "end": 227.7,
+   "text": "So viruses can cause viral hemorrhagic fevers."
+  },
+  {
+   "start": 227.7,
+   "end": 230.7,
+   "text": "And these are potentially lethal."
+  },
+  {
+   "start": 230.7,
+   "end": 234.7,
+   "text": "And in many cases, treatment for these viruses does not exist."
+  },
+  {
+   "start": 234.7,
+   "end": 239.24,
+   "text": "Among the bacteria, we have various types of bacteria."
+  },
+  {
+   "start": 239.24,
+   "end": 243.24,
+   "text": "For instance, we have bacillus anthracis, which is widely known."
+  },
+  {
+   "start": 243.24,
+   "end": 245.24,
+   "text": "It's a soil bacterium."
+  },
+  {
+   "start": 245.24,
+   "end": 252.24,
+   "text": "And the production of spores and their dispersals through aerosols is a potential hazard."
+  },
+  {
+   "start": 252.24,
+   "end": 258.24,
+   "text": "We have bulcoidea species, which are found in soils, vibrio and leptospyran."
+  },
+  {
+   "start": 258.24,
+   "end": 264.24,
+   "text": "These are some of the common bacteria which are associated with biological hazards."
+  },
+  {
+   "start": 264.24,
+   "end": 273.24,
+   "text": "Among the yeast, we have yeast such as cryptococcus neiformans, which is an encapsulated yeast, and which is pathogenic,"
+  },
+  {
+   "start": 273.24,
+   "end": 279.16,
+   "text": "especially in the case of immunocompromised patients."
+  },
+  {
+   "start": 279.16,
+   "end": 286.16,
+   "text": "In addition to yeast, we also have fungi, which have the ability to be dispersed via spores."
+  },
+  {
+   "start": 286.16,
+   "end": 290.16,
+   "text": "So aspergillus flavors can cause infection."
+  },
+  {
+   "start": 290.16,
+   "end": 295.16,
+   "text": "In fact, aspergillus flavors produces aflatoxin."
+  },
+  {
+   "start": 295.16,
+   "end": 302.16,
+   "text": "We have histoplasma, which is spread by guano, or in the feces of birds, and candida albicans,"
+  },
+  {
+   "start": 302.16,
+   "end": 305.16,
+   "text": "which is a common cell yeast."
+  },
+  {
+   "start": 305.16,
+   "end": 311.16,
+   "text": "However, in immunocompromised patients, it can manifest as an infection."
+  },
+  {
+   "start": 311.16,
+   "end": 316.16,
+   "text": "In addition to this, caution should be taken when working with DNA and RNA,"
+  },
+  {
+   "start": 316.16,
+   "end": 320.16,
+   "text": "because DNA and RNA represent potential infectious agents."
+  },
+  {
+   "start": 320.16,
+   "end": 328.37,
+   "text": "As has been reported in a paper, novel virus RNA is infectious in mammalian cells."
+  },
+  {
+   "start": 328.37,
+   "end": 337.37,
+   "text": "In addition to the naturally occurring infectious agents, genetically modified infectious agents represent a threat as well."
+  },
+  {
+   "start": 337.37,
+   "end": 342.37,
+   "text": "Modifications which increase virulence, expand the host range,"
+  },
+  {
+   "start": 342.37,
+   "end": 347.37,
+   "text": "improve the resistance, or increase resistance to therapeutic agents, such as antibiotics,"
+  },
+  {
+   "start": 347.37,
+   "end": 352.37,
+   "text": "and which mask their antigens from host immune system."
+  },
+  {
+   "start": 352.37,
+   "end": 359.37,
+   "text": "All these modifications can lead to a potential biological threat."
+  },
+  {
+   "start": 359.37,
+   "end": 363.37,
+   "text": "In addition to this, we have other parasites, like backbone parasites,"
+  },
+  {
+   "start": 363.37,
+   "end": 369.37,
+   "text": "such as those spread by the Aedes aegypti,"
+  },
+  {
+   "start": 369.37,
+   "end": 375.37,
+   "text": "as well as schistosoma, which is spread by aquatic snails."
+  },
+  {
+   "start": 375.37,
+   "end": 380.37,
+   "text": "We have ticks and fleas, which can serve as vectors for the transmission of bacterial pathogens,"
+  },
+  {
+   "start": 380.37,
+   "end": 384.37,
+   "text": "as well as ricin and other biologically derived toxins,"
+  },
+  {
+   "start": 384.37,
+   "end": 388.37,
+   "text": "which have the potential to cause harm even though they are non-living."
+  },
+  {
+   "start": 388.37,
+   "end": 396.45,
+   "text": "So, we have a wide range of biological agents. How are they classified?"
+  },
+  {
+   "start": 396.45,
+   "end": 400.45,
+   "text": "Biological agents are classified according to their risk group."
+  },
+  {
+   "start": 400.45,
+   "end": 405.45,
+   "text": "Risk group 1 do not cause diseases in healthy adult humans."
+  },
+  {
+   "start": 405.45,
+   "end": 411.45,
+   "text": "Lactobacillus, Lactis is a perfect example, it's a probiotic, it causes no harm."
+  },
+  {
+   "start": 411.45,
+   "end": 417.76,
+   "text": "Risk group 2 cause disease in humans, but the disease is treatable or preventable."
+  },
+  {
+   "start": 418.76,
+   "end": 422.76,
+   "text": "Therapies exist and the treatment protocols are well-defined."
+  },
+  {
+   "start": 422.76,
+   "end": 428.42,
+   "text": "Risk group 3 organisms can cause serious diseases in humans."
+  },
+  {
+   "start": 428.42,
+   "end": 431.42,
+   "text": "You can have mortality as well as morbidity."
+  },
+  {
+   "start": 431.42,
+   "end": 436.42,
+   "text": "However, treatment exists and vaccines for the diseases have been developed."
+  },
+  {
+   "start": 436.42,
+   "end": 443.09,
+   "text": "In the case of risk group 4, for example, in the Simeon herpes virus,"
+  },
+  {
+   "start": 443.09,
+   "end": 450.09,
+   "text": "they cause deadly disease and there is no treatment or vaccine available for this kind of pathogen."
+  },
+  {
+   "start": 450.09,
+   "end": 456.46,
+   "text": "One of the widely used references is the pathogen safety data sheet."
+  },
+  {
+   "start": 456.46,
+   "end": 461.46,
+   "text": "These pathogen safety data sheets have been developed by the Public Health Agency of Canada"
+  },
+  {
+   "start": 461.46,
+   "end": 467.46,
+   "text": "and they give an overview of the risk group as well as the therapeutic procedures"
+  },
+  {
+   "start": 467.46,
+   "end": 471.46,
+   "text": "which can be adopted by a clinician in the case of infection."
+  },
+  {
+   "start": 471.46,
+   "end": 476.12,
+   "text": "Now, we work in a laboratory setting."
+  },
+  {
+   "start": 476.12,
+   "end": 481.12,
+   "text": "So, what increases the level of risk is the processing of samples."
+  },
+  {
+   "start": 481.12,
+   "end": 486.12,
+   "text": "For instance, in this case, you can see that storage does not pose a significant risk"
+  },
+  {
+   "start": 486.12,
+   "end": 493.12,
+   "text": "because in a stored state, the bacterium or the biological agent is in a dormant state."
+  },
+  {
+   "start": 493.12,
+   "end": 497.12,
+   "text": "However, when this bacterium is thawed and brought into the lab for diagnosis,"
+  },
+  {
+   "start": 497.12,
+   "end": 501.12,
+   "text": "it poses a risk to the environment as well as to the laboratory worker."
+  },
+  {
+   "start": 501.12,
+   "end": 509.12,
+   "text": "When this organism is cultured, for instance, for development of vaccines or attenuated viruses,"
+  },
+  {
+   "start": 509.12,
+   "end": 517.12,
+   "text": "they can pose a risk to the larger context which means the laboratory worker as well as the environment."
+  },
+  {
+   "start": 517.12,
+   "end": 526.12,
+   "text": "So, as you can see in this depiction, the modification of viruses or the application of technologies"
+  },
+  {
+   "start": 526.12,
+   "end": 534.12,
+   "text": "to process risk groups or in this case, viruses can lead to greater levels of risk"
+  },
+  {
+   "start": 534.12,
+   "end": 540.01,
+   "text": "and these need to be taken into account when you are working in a laboratory setting."
+  },
+  {
+   "start": 540.01,
+   "end": 544.01,
+   "text": "So, we will be discussing risk in more detail in future lectures."
+  },
+  {
+   "start": 544.01,
+   "end": 550.01,
+   "text": "But just to touch upon risk, risk is a function of likelihood and consequence."
+  },
+  {
+   "start": 550.01,
+   "end": 556.01,
+   "text": "When we speak of likelihood, we ask the question, what is the probability of?"
+  },
+  {
+   "start": 556.01,
+   "end": 561.01,
+   "text": "When we speak of consequence, we ask the question, what would happen if?"
+  },
+  {
+   "start": 561.01,
+   "end": 566.58,
+   "text": "So, this is a risk matrix which defines likelihood and consequence."
+  },
+  {
+   "start": 566.58,
+   "end": 572.58,
+   "text": "So, a risk with a likelihood and consequence of 1 and 1 represents a low risk."
+  },
+  {
+   "start": 572.58,
+   "end": 578.58,
+   "text": "A risk with a likelihood and consequence of 5 and 5 represents a high risk."
+  },
+  {
+   "start": 578.58,
+   "end": 582.58,
+   "text": "Now, this is an indicator matrix which can be used for risk assessment."
+  },
+  {
+   "start": 582.58,
+   "end": 585.58,
+   "text": "So, how do we assess risk?"
+  },
+  {
+   "start": 585.58,
+   "end": 589.58,
+   "text": "What are the questions that we need to ask when we assess risk?"
+  },
+  {
+   "start": 589.58,
+   "end": 595.24,
+   "text": "The first question which we need to ask is the risk group."
+  },
+  {
+   "start": 595.24,
+   "end": 601.24,
+   "text": "Which risk group does my biological agent belong to?"
+  },
+  {
+   "start": 601.24,
+   "end": 604.24,
+   "text": "Which risk group can it be assigned to?"
+  },
+  {
+   "start": 604.24,
+   "end": 607.24,
+   "text": "The second question is the root of infection."
+  },
+  {
+   "start": 607.24,
+   "end": 612.24,
+   "text": "Do we get infected by inhalation, aerosols?"
+  },
+  {
+   "start": 612.24,
+   "end": 617.24,
+   "text": "Do we get infected by a contact which is percutaneous and cutaneous?"
+  },
+  {
+   "start": 617.24,
+   "end": 621.24,
+   "text": "Do we get infected by an injection which is percutaneous?"
+  },
+  {
+   "start": 621.24,
+   "end": 624.24,
+   "text": "Or do we get infected by an injection?"
+  },
+  {
+   "start": 624.24,
+   "end": 630.83,
+   "text": "The second aspect which we need to address is the mode of transmission."
+  },
+  {
+   "start": 630.83,
+   "end": 636.83,
+   "text": "If a vector is involved in the transmission of a virus from one human host to another,"
+  },
+  {
+   "start": 636.83,
+   "end": 642.83,
+   "text": "does this virus get transmitted directly as in the case of the Zika virus?"
+  },
+  {
+   "start": 642.83,
+   "end": 651.83,
+   "text": "Or does it have to go through the host life cycle as in the case of the Aedes aegypti carrying virus?"
+  },
+  {
+   "start": 651.83,
+   "end": 659.39,
+   "text": "Some of the host may be diverse."
+  },
+  {
+   "start": 659.39,
+   "end": 663.39,
+   "text": "For instance, Cryptococcus is actually present in plants,"
+  },
+  {
+   "start": 663.39,
+   "end": 666.39,
+   "text": "spread by spores and infects humans."
+  },
+  {
+   "start": 666.39,
+   "end": 670.39,
+   "text": "But it's also present in bird excreta or in bird droppings."
+  },
+  {
+   "start": 670.39,
+   "end": 675.39,
+   "text": "And these can be vectors for the transmission of this specific pathogen."
+  },
+  {
+   "start": 675.39,
+   "end": 684.56,
+   "text": "In addition to the root of transmission, we also have to look at the host range."
+  },
+  {
+   "start": 684.56,
+   "end": 688.56,
+   "text": "Some viruses can survive and propagate in multiple series of host."
+  },
+  {
+   "start": 688.56,
+   "end": 693.56,
+   "text": "They can propagate in mammals as well as in snails."
+  },
+  {
+   "start": 693.56,
+   "end": 700.9,
+   "text": "So we need to consider this aspect when we develop a bioresk management plan."
+  },
+  {
+   "start": 700.9,
+   "end": 702.9,
+   "text": "The next question is infectious dose."
+  },
+  {
+   "start": 702.9,
+   "end": 707.9,
+   "text": "How much of the biological agent is required in order to cause harm?"
+  },
+  {
+   "start": 707.9,
+   "end": 710.9,
+   "text": "In this case, morbidity or mortality."
+  },
+  {
+   "start": 710.9,
+   "end": 715.69,
+   "text": "The next aspect is endemicity."
+  },
+  {
+   "start": 715.69,
+   "end": 720.69,
+   "text": "Is the biological agent endemic to this specific region?"
+  },
+  {
+   "start": 720.69,
+   "end": 725.69,
+   "text": "So if a biological agent is endemic to a specific region,"
+  },
+  {
+   "start": 725.69,
+   "end": 728.69,
+   "text": "a geographic region in this case,"
+  },
+  {
+   "start": 728.69,
+   "end": 732.69,
+   "text": "it is likely that individuals who are endemic to that region"
+  },
+  {
+   "start": 732.69,
+   "end": 736.69,
+   "text": "have developed some level of immunity to this biological agent."
+  },
+  {
+   "start": 736.69,
+   "end": 743.32,
+   "text": "In addition to this, we need to look at the immune status of the laboratory worker."
+  },
+  {
+   "start": 743.32,
+   "end": 746.32,
+   "text": "Is the laboratory worker immunocompromised?"
+  },
+  {
+   "start": 746.32,
+   "end": 748.32,
+   "text": "So if they are immunocompromised,"
+  },
+  {
+   "start": 748.32,
+   "end": 753.32,
+   "text": "we need to put in place measures to mitigate the risk posed to this laboratory worker."
+  },
+  {
+   "start": 753.32,
+   "end": 758.05,
+   "text": "So finally, we come down to the risk assessment,"
+  },
+  {
+   "start": 758.05,
+   "end": 762.05,
+   "text": "which is basically a series of questions which we ask."
+  },
+  {
+   "start": 762.05,
+   "end": 765.05,
+   "text": "What is the biological agent?"
+  },
+  {
+   "start": 765.05,
+   "end": 767.05,
+   "text": "What is the risk group which can be assigned to?"
+  },
+  {
+   "start": 767.05,
+   "end": 770.05,
+   "text": "Is it endemic or exotic?"
+  },
+  {
+   "start": 770.05,
+   "end": 772.05,
+   "text": "Which risk group can it be assigned to?"
+  },
+  {
+   "start": 772.05,
+   "end": 774.05,
+   "text": "What is the mode of transmission?"
+  },
+  {
+   "start": 774.05,
+   "end": 776.05,
+   "text": "What is the root of infection?"
+  },
+  {
+   "start": 776.05,
+   "end": 778.05,
+   "text": "What is the infectious dose?"
+  },
+  {
+   "start": 778.05,
+   "end": 781.05,
+   "text": "And is treatment available?"
+  },
+  {
+   "start": 781.05,
+   "end": 784.05,
+   "text": "When we do risk assessment in the laboratory,"
+  },
+  {
+   "start": 784.05,
+   "end": 787.05,
+   "text": "these are some of the questions which we need to ask."
+  },
+  {
+   "start": 787.05,
+   "end": 791.05,
+   "text": "What is the immune status of the laboratory workers?"
+  },
+  {
+   "start": 791.05,
+   "end": 794.05,
+   "text": "What are the processes that will be employed in the laboratory workers"
+  },
+  {
+   "start": 794.05,
+   "end": 800.05,
+   "text": "as well as the volume of the culture which is going to be processed?"
+  },
+  {
+   "start": 800.05,
+   "end": 802.05,
+   "text": "How many processes are involved?"
+  },
+  {
+   "start": 803.05,
+   "end": 805.05,
+   "text": "Does the laboratory work involve a single step"
+  },
+  {
+   "start": 805.05,
+   "end": 808.05,
+   "text": "or does it encompass multiple steps?"
+  },
+  {
+   "start": 808.05,
+   "end": 811.05,
+   "text": "How many workers are exposed?"
+  },
+  {
+   "start": 811.05,
+   "end": 813.05,
+   "text": "Have they been trained?"
+  },
+  {
+   "start": 813.05,
+   "end": 816.05,
+   "text": "And has the facility been designed for a specific purpose?"
+  },
+  {
+   "start": 816.05,
+   "end": 820.86,
+   "text": "When we do risk assessment,"
+  },
+  {
+   "start": 820.86,
+   "end": 824.86,
+   "text": "we always address the iceberg analogy"
+  },
+  {
+   "start": 824.86,
+   "end": 831.86,
+   "text": "in which case a large portion of the risk is actually present but not visible"
+  },
+  {
+   "start": 831.86,
+   "end": 836.86,
+   "text": "and you may not be able to assess this risk"
+  },
+  {
+   "start": 836.86,
+   "end": 839.86,
+   "text": "using traditional approaches or traditional questions"
+  },
+  {
+   "start": 839.86,
+   "end": 843.86,
+   "text": "because there is no knowledge pertaining to previous cases."
+  },
+  {
+   "start": 843.86,
+   "end": 846.86,
+   "text": "We can only see the risk which is visible"
+  },
+  {
+   "start": 846.86,
+   "end": 852.3,
+   "text": "or which appears as a result of specific questions."
+  },
+  {
+   "start": 852.3,
+   "end": 856.3,
+   "text": "So in this case, we assume the highest level of risk."
+  },
+  {
+   "start": 856.3,
+   "end": 859.3,
+   "text": "So pertaining to the iceberg analogy,"
+  },
+  {
+   "start": 859.3,
+   "end": 861.3,
+   "text": "we always assume the highest level of risk"
+  },
+  {
+   "start": 861.3,
+   "end": 863.3,
+   "text": "in the case of genetically engineered molecules,"
+  },
+  {
+   "start": 863.3,
+   "end": 865.3,
+   "text": "be it RNA or DNA."
+  },
+  {
+   "start": 865.3,
+   "end": 868.3,
+   "text": "Rosocomial samples which may contain a multiplicity"
+  },
+  {
+   "start": 868.3,
+   "end": 870.3,
+   "text": "of biological agents or pathogens."
+  },
+  {
+   "start": 870.3,
+   "end": 875.3,
+   "text": "Soil samples which may lead to potential sporulation"
+  },
+  {
+   "start": 875.3,
+   "end": 880.3,
+   "text": "or which may lead to the development of bacteria or fungi with spores."
+  },
+  {
+   "start": 880.3,
+   "end": 883.3,
+   "text": "Samples run from healthy organisms"
+  },
+  {
+   "start": 883.3,
+   "end": 887.3,
+   "text": "which may not present the symptoms of infection."
+  },
+  {
+   "start": 887.3,
+   "end": 891.3,
+   "text": "However, which may be a host for that specific pathogen."
+  },
+  {
+   "start": 891.3,
+   "end": 894.3,
+   "text": "And samples derived from vile animals."
+  },
+  {
+   "start": 894.3,
+   "end": 901.51,
+   "text": "So once we address or assess the risk,"
+  },
+  {
+   "start": 901.51,
+   "end": 905.51,
+   "text": "we then mitigate the risk by the application of five controls"
+  },
+  {
+   "start": 905.51,
+   "end": 909.51,
+   "text": "which are elimination, substitution, engineering controls,"
+  },
+  {
+   "start": 909.51,
+   "end": 914.51,
+   "text": "administrative controls and personal protective equipment."
+  },
+  {
+   "start": 914.51,
+   "end": 916.51,
+   "text": "Once we have applied the control,"
+  },
+  {
+   "start": 916.51,
+   "end": 919.51,
+   "text": "we assess the performance of our controls"
+  },
+  {
+   "start": 919.51,
+   "end": 921.51,
+   "text": "by carrying out an audit of the processes"
+  },
+  {
+   "start": 921.51,
+   "end": 926.51,
+   "text": "and the standard operating procedures."
+  },
+  {
+   "start": 926.51,
+   "end": 928.51,
+   "text": "These are some of the references"
+  },
+  {
+   "start": 928.51,
+   "end": 933.51,
+   "text": "which have been relied upon to develop this presentation."
+  },
+  {
+   "start": 933.51,
+   "end": 939.18,
+   "text": "Our next module will focus on risk assessment."
+  },
+  {
+   "start": 939.18,
+   "end": 944.18,
+   "text": "Thank you for participating in this BiRisk Management Series."
+  }
+ ]
+}
