@@ -13,7 +13,7 @@
 用法：
     python3 tools/analyze_video.py --series "General Lab Safety Practices"           整个剧集
     python3 tools/analyze_video.py --series "General Lab Safety Practices" --only 01 04
-    python3 tools/analyze_video.py ... --model small.en --keep-video
+    python3 tools/analyze_video.py ... --model small.en --keep-video     （默认 auto：英语用 small.en，其他语种译成英文）
 依赖：gh（已登录）、ffmpeg、faster-whisper、Pillow
 """
 import argparse
@@ -74,19 +74,31 @@ def probe(src):
 _MODEL = {}
 
 
+def whisper(name):
+    from faster_whisper import WhisperModel
+    if name not in _MODEL:
+        _MODEL[name] = WhisperModel(name, device="cpu", compute_type="int8")
+    return _MODEL[name]
+
+
 def transcribe(src, d, model_name):
+    """model_name="auto"：先用多语种 small 模型识别语种，英语用 small.en 转写，
+    其他语种（如印地语）用 small 直接翻译成英文（task=translate），transcript.json 记下原语种。"""
     out = d / "transcript.json"
     if out.exists():
         return json.loads(out.read_text(encoding="utf-8"))
-    from faster_whisper import WhisperModel
-    if model_name not in _MODEL:
-        _MODEL[model_name] = WhisperModel(model_name, device="cpu", compute_type="int8")
     pcm = run_bytes(["ffmpeg", "-v", "error", "-i", str(src), "-vn", "-ac", "1", "-ar", "16000", "-f", "s16le", "-"])
     audio = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768
-    lang = "en" if model_name.endswith(".en") else None
-    segs, info = _MODEL[model_name].transcribe(audio, language=lang, vad_filter=True, beam_size=5)
+    task, lang = "transcribe", None
+    if model_name == "auto":
+        probe_at = min(len(audio) // 3, 16000 * 120)   # 跳过片头音乐，取 2 分钟附近 30 秒判断语种
+        lang, _, _ = whisper("small").detect_language(audio[probe_at:probe_at + 16000 * 30])
+        model_name, task = ("small.en", "transcribe") if lang == "en" else ("small", "translate")
+    elif model_name.endswith(".en"):
+        lang = "en"
+    segs, info = whisper(model_name).transcribe(audio, language=lang, task=task, vad_filter=True, beam_size=5)
     segs = [{"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip()} for s in segs]
-    data = {"language": info.language, "model": model_name, "segments": segs}
+    data = {"language": info.language, "model": model_name, "task": task, "segments": segs}
     out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     (d / "transcript.srt").write_text("\n".join(
         f"{i}\n{ts(s['start'], True)} --> {ts(s['end'], True)}\n{s['text']}\n" for i, s in enumerate(segs, 1)),
@@ -185,7 +197,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--series", required=True)
     ap.add_argument("--only", nargs="*")
-    ap.add_argument("--model", default="small.en")
+    ap.add_argument("--model", default="auto", help="auto（按语种选择）、small.en、small 等")
     ap.add_argument("--keep-video", action="store_true", help="保留下载的视频（默认分析完删除，省磁盘）")
     args = ap.parse_args()
     assets = [a for a in load_assets() if a["剧集"] == args.series and (not args.only or a["序号"] in args.only)]
