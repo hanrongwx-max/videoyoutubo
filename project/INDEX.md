@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 148 / 441 个视频。
+已编写 158 / 441 个视频。
 
 ## 各剧集进度
 
@@ -14,6 +14,7 @@
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
+| Lab Safety Training Series | 9 / 13 |
 | RSO Training Series | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 |
@@ -21,15 +22,14 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
+| MIT Digital Lab Techniques Manual | 1 / 17 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | CDC Laboratory Safety Series | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
 | Electrical Safety Series | 0 / 25 |
-| Lab Safety Training Series | 0 / 13 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
 | Laser Maintenance Group Safety | 0 / 17 |
-| MIT Digital Lab Techniques Manual | 0 / 17 |
 | Microbiology Biosafety | 0 / 59 |
 
 ## 已编写视频
@@ -154,6 +154,15 @@
 | Lab Safety Training - Essential Protocols | 21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course | 实验室安全，人人有责 | 41 | 3:25 | 11 / 4 | [剧本](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course/script.md>) · [审查](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course | 防火灾、防滑倒、防劳损 | 49 | 4:05 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course/script.md>) · [审查](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai | 化学品溢洒与接触的应急处置 | 49 | 4:05 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai/script.md>) · [审查](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai/审查报告.md>) |
+| Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 细胞培养的无菌操作与生物安全 | 98 | 8:10 | 23 / 7 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/script.md>) · [审查](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/审查报告.md>) |
+| Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 实验室里的人机工效 | 102 | 8:30 | 25 / 5 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) · [审查](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]/审查报告.md>) |
+| Lab Safety Training Series | 05_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3/审查报告.md>) |
+| Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
+| Lab Safety Training Series | 07_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 看不见的污染：实验室防污染 | 102 | 8:30 | 29 / 7 | [剧本](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) · [审查](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/审查报告.md>) |
+| Lab Safety Training Series | 09_Safe Chemical Handling Lab Safety Video Part 5 | 安全操作化学品 | 59 | 4:55 | 24 / 5 | [剧本](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5/script.md>) · [审查](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5/审查报告.md>) |
+| Lab Safety Training Series | 11_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 实验室安全入门 | 153 | 12:45 | 45 / 8 | [剧本](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]/script.md>) · [审查](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]/审查报告.md>) |
+| Lab Safety Training Series | 12_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Lab Safety Training Series/12_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Lab Safety Training Series/12_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
+| Lab Safety Training Series | 13_Chemical Hazards Lab Safety Video Part 4 | 认识化学品的危害：SDS与标签 | 60 | 5:00 | 17 / 6 | [剧本](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4/script.md>) · [审查](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4/审查报告.md>) |
 | Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 安全使用离心机 | 48 | 4:00 | 12 / 5 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/script.md>) · [审查](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/审查报告.md>) |
 | Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 洗眼器的定期冲洗 | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/审查报告.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 气瓶的储存与搬运 | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/审查报告.md>) |
@@ -169,6 +178,7 @@
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 激光切割机：徽章项目上机全流程 | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/审查报告.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 激光切割机：考核、授权与预约 | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 激光切割机：规程更新须知 | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
