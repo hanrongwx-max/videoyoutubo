@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 38 / 441 个视频。
+已编写 51 / 441 个视频。
 
 ## 各剧集进度
 
@@ -8,9 +8,11 @@
 |---|---|
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
+| Laser Equipment & Safety Training | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
+| Industrial Gas & Cryogenic Equipment | 5 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -21,11 +23,9 @@
 | Electrical Safety Series | 0 / 25 |
 | Fume Hood & Cabinet Protocols | 0 / 12 |
 | Health Physics & Nuclear Medicine | 0 / 9 |
-| Industrial Gas & Cryogenic Equipment | 0 / 9 |
 | Lab Safety Training - Essential Protocols | 0 / 23 |
 | Lab Safety Training Series | 0 / 13 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
-| Laser Equipment & Safety Training | 0 / 8 |
 | Laser Maintenance Group Safety | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 0 / 17 |
 | Microbiology Biosafety | 0 / 59 |
@@ -69,6 +69,11 @@
 | General Lab Safety Practices | 06_Centrifugation Hazards | 离心机的危害与安全使用 | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards/审查报告.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 用紫外分光光度计测DNA浓度 | 75 | 6:15 | 9 / 7 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/script.md>) · [审查](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/审查报告.md>) |
 | General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 合成生物学建模与生物安全 | 124 | 10:20 | 18 / 7 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/script.md>) · [审查](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained | 卡套接头与气体管路安全 | 43 | 3:35 | 7 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 02_EquiTips GASLAB Industrial Fixed Gas Detection Explained | 固定式气体检测报警 | 47 | 3:55 | 9 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 液氮杜瓦罐的安全使用 | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 低温截止阀的安全操作 | 40 | 3:20 | 7 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 空温式汽化器与储罐站安全 | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/审查报告.md>) |
 | Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 安全使用离心机 | 48 | 4:00 | 12 / 5 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/script.md>) · [审查](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/审查报告.md>) |
 | Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 洗眼器的定期冲洗 | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/审查报告.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 气瓶的储存与搬运 | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/审查报告.md>) |
@@ -76,3 +81,11 @@
 | Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 气瓶泄漏：大漏小漏怎么办 | 53 | 4:25 | 16 / 5 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/审查报告.md>) |
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 读懂气瓶上的标记 | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/审查报告.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 过氧化物试纸检测 | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/审查报告.md>) |
+| Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 认识激光切割机 | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/审查报告.md>) |
+| Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 激光切割机的运行安全 | 79 | 6:35 | 13 / 6 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) · [审查](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/审查报告.md>) |
+| Laser Equipment & Safety Training | 03_Laser Cutter 3 Materials | 激光切割的材料选择 | 67 | 5:35 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials/script.md>) · [审查](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials/审查报告.md>) |
+| Laser Equipment & Safety Training | 04_Laser Cutter 4 xTool Studio | 激光设计软件入门与加工前检查 | 53 | 4:25 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio/script.md>) · [审查](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio/审查报告.md>) |
+| Laser Equipment & Safety Training | 05_Laser Cutter 5 xTool Studio Design Set Up | 激光切割机：加工参数设置 | 78 | 6:30 | 16 / 5 | [剧本](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up/script.md>) · [审查](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up/审查报告.md>) |
+| Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 激光切割机：徽章项目上机全流程 | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/审查报告.md>) |
+| Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 激光切割机：考核、授权与预约 | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/审查报告.md>) |
+| Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 激光切割机：规程更新须知 | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/审查报告.md>) |
