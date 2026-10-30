@@ -1,6 +1,6 @@
 # 16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co 卡通剧本作者源
-# 原片为“认识压缩气体和气瓶”课程预览片段：保留全部知识点 K1–K13，审查补充 S1–S4
-# （乙炔瓶直立使用、气体管路标明名称和流向、低温容器不密封不堵通气口、用完先关瓶阀）
+# 原片为“认识压缩气体和气瓶”课程预览片段：保留全部知识点 K1–K13，审查补充 S1–S3
+# （乙炔瓶直立使用、气体管路标明名称和流向、用完先关瓶阀；低温容器不密封等见本剧集 13）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -21,8 +21,7 @@ META = {
         "K13": "认识之后，才谈安全使用",
         "S1": "乙炔瓶必须直立使用",
         "S2": "气体管路标明名称和流向",
-        "S3": "低温容器：不密封、不堵口",
-        "S4": "用完先关瓶阀",
+        "S3": "用完先关瓶阀",
     },
     "avoid": ["Atlantic", "Atlantic Training", "OSHA", "NFPA", "ANSI"],
 }
@@ -163,26 +162,13 @@ SHOTS = [
  "The facility engineer installs a gas line on the wall while the young male student watches from a distance.",
  "由专业人员安装，不私自改接。"),
 # S3
-("S3", "低温罐顶部的通气口和泄压阀被圈出",
- "The vent and relief valve on top of a cryogenic dewar are highlighted with a circle. No people.",
- "低温容器会不断产生气体。", "低温容器：不密封、不堵口"),
-("S3", "用胶带封住通气口的图标被打叉",
- "An icon of tape and a stopper sealing the vent of a dewar, crossed out with a red X. No people.",
- "不能密封，通气口不能堵。"),
-("S3", "拧动泄压阀的手图标被打叉",
- "An icon of a hand adjusting the relief valve with a wrench, crossed out with a red X. No people.",
- "泄压阀不能私自调整。"),
-("S3", "低温罐放在通风良好的房间里",
- "A cryogenic dewar stands in a well-ventilated room with airflow arrows from a wall grille. No people.",
- "放在通风良好的地方。"),
-# S4
-("S4", "小研用完气后，先关气瓶总阀",
+("S3", "小研用完气后，先关气瓶总阀",
  "The female graduate student, wearing safety goggles, closes the main cylinder valve after finishing her work.",
  "用完气，先关气瓶上的总阀。", "用完先关瓶阀"),
-("S4", "压力表指针回落到零",
+("S3", "压力表指针回落到零",
  "The regulator gauge needles drop back to zero. No people.",
  "再放掉管路余气，表针归零。"),
-("S4", "只关减压阀、总阀开着的图标被打叉",
+("S3", "只关减压阀、总阀开着的图标被打叉",
  "An icon of a cylinder with its main valve still open and only the regulator closed, crossed out with a red X. No people.",
  "只关减压阀，不算关好。"),
 # 小结
@@ -195,9 +181,9 @@ SHOTS = [
 ("小结", "带标签、链条固定、配套减压阀的气瓶",
  "A labeled cylinder chained to a rack with a matching regulator, green check mark. No people.",
  "标识清楚、固定牢靠、阀表配套。"),
-("小结", "直立的乙炔瓶和通气口畅通的低温罐",
- "An upright acetylene-type cylinder and a dewar with an open vent, both with green checks. No people.",
- "乙炔瓶直立，低温容器不密封。"),
+("小结", "直立的乙炔瓶和关紧的瓶阀",
+ "An upright acetylene-type cylinder and a closed cylinder valve, both with green checks. No people.",
+ "乙炔瓶直立，用完先关瓶阀。"),
 # 结尾
 ("结尾", "欣欣在气瓶架旁挥手道别",
  "The panda mascot waves goodbye beside a tidy, chained gas cylinder rack.",

@@ -18,7 +18,7 @@ META = {
         "K10": "气瓶倒下会砸人",
         "K11": "高压部件会飞出",
         "K12": "危害能控制，措施要落实",
-        "S1": "惰性气体也会让人窒息",
+        "S1": "惰性气体用气间：通风和氧含量报警",
         "S2": "有毒腐蚀气体泄漏：撤离报告",
         "S3": "富氧环境：衣物沾氧易燃",
         "S4": "气瓶不囤积，用完就退",
@@ -149,7 +149,7 @@ SHOTS = [
 # S1
 ("S1", "氮气、氩气、二氧化碳三只气瓶图标",
  "Three gas cylinder icons with blank labels and a cloud icon that shows no color and no smell. No people.",
- "氮气、氩气等惰性气体，也会致人窒息。", "惰性气体也会让人窒息", ["氮气", "氩气", "二氧化碳"]),
+ "氮气、氩气等惰性气体，也会致人窒息。", "惰性气体用气间：通风和氧含量报警", ["氮气", "氩气", "二氧化碳"]),
 ("S1", "无色无味图标，鼻子图标打叉",
  "An invisible gas cloud outline next to a nose icon crossed out, showing it cannot be smelled. No people.",
  "无色无味，闻不出来。"),

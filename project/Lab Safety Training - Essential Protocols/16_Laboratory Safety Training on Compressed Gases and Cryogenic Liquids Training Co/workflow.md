@@ -16,7 +16,7 @@
 
 1. 生成镜头（需本地 ComfyUI 已装 MiniMax H3 模型）：
    `COMFY_URL=http://127.0.0.1:8188 python3 tools/cartoon/generate.py "project/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co"`
-   片段写入 `project/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co/clips/shot_NNN.mp4`（51 镜）；加 `--tts` 时画外音镜头用 `prompt_tts`，
+   片段写入 `project/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co/clips/shot_NNN.mp4`（47 镜）；加 `--tts` 时画外音镜头用 `prompt_tts`，
    并把 `project/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co/tts/shot_NNN.wav` 合进片段（TTS 用 ppplus107 的 Qwen3-TTS 流程生成，旁白读法见 `prompts.json` 的 `spoken`）。
    每镜生成后检查：配音与旁白一致、结尾不截断、画面无伪字；不合格换种子重做（`--redo 镜号`）。
 2. 拼接：`python3 tools/cartoon/assemble.py "project/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co"`，按分镜顺序合并，烧录底部字幕、顶部文字和图示文字，
