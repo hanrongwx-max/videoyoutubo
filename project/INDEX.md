@@ -1,18 +1,18 @@
 # 卡通教学视频制作目录
 
-已编写 51 / 441 个视频。
+已编写 55 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
 | Fire Safety & Extinguisher Training | 9 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Industrial Gas & Cryogenic Equipment | 5 / 9 |
 | ACS Hazard Communication & Safety | 0 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
 | Animal & Plant Biotech Safety | 0 / 10 |
@@ -74,6 +74,10 @@
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 液氮杜瓦罐的安全使用 | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 低温截止阀的安全操作 | 40 | 3:20 | 7 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 空温式汽化器与储罐站安全 | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 减压阀与背压阀的安全使用 | 41 | 3:25 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 高压阀门与接头的安全使用 | 40 | 3:20 | 8 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications | 二氧化碳与干冰的安全使用 | 38 | 3:10 | 7 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA | 气瓶阀的安全使用 | 39 | 3:15 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA/审查报告.md>) |
 | Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 安全使用离心机 | 48 | 4:00 | 12 / 5 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/script.md>) · [审查](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/审查报告.md>) |
 | Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 洗眼器的定期冲洗 | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/审查报告.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 气瓶的储存与搬运 | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/审查报告.md>) |
