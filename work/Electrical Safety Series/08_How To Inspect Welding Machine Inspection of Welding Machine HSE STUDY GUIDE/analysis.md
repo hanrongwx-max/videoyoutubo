@@ -1,0 +1,15 @@
+# 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE 分析底稿
+
+- 剧集：Electrical Safety Series；原标题：How To Inspect Welding Machine | Inspection of Welding Machine | HSE STUDY GUIDE；链接：https://youtu.be/FMY5dX430gM
+- 时长 00:02:43，1920×1080，镜头 8 个，转写 42 段
+
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+|---|---|---|---|
+| 1 | 00:00:00–00:00:09 | shot_001.jpg | Hello friends, welcome to HSS Study Guide. In this video, we are going to learn how to inspect the welding machine. |
+| 2 | 00:00:09–00:00:11 | shot_002.jpg | So let's start the video. |
+| 3 | 00:00:11–00:00:48 | shot_003_1.jpg, shot_003_2.jpg | So friends, this is the welding machine in front of you. Whenever a new welding machine comes on our side, or if an old welding machine comes from the other side, then we have to inspect that welding machine before bringing it to work. So let's go. Now we know the point wise that when we have to inspect the welding machine, we have to check the points in it. So the first point is that we have to check in that welding machine that there is an on-off knob. That is, we have to check if the switch of the on-off is there or not. |
+| 4 | 00:00:48–00:01:12 | shot_004.jpg | And we have to check that there should be no damage, it should be in good condition and it should be properly insulated. Then we have to check that the regulator in the welding machine with which the indicator is provided or not is also checked. Then we have to check that the welding cables that we connect with the welding machine, |
+| 5 | 00:01:12–00:02:29 | shot_005_1.jpg, shot_005_2.jpg, shot_005_3.jpg, shot_005_4.jpg, shot_005_5.jpg | so that when we attach the welding cables to the welding machine, then the joints that are there, whether they are stuck or not, we have to check that too. Then we have to check that the insulation of the welding cables should not be damaged on it, we have to check that. Then we have to check that the holder of the electrode rod and the holder of the earthen, there should be no damage and it should be in good condition, we have to check that. Then we have to check that the welding machine which we attach power supply in it, then we have to check that it should be used for the industrial type plug for power supply. Then we have to check that the internal live electrical parts of the welding machine should not be exposed, it should be fully covered, we have to check that. Then we have to check that for the welding machine it should be used for 30 mA ALCB. Then we have to check that the trolley of the welding machine should not be damaged on the trolley, we have to check that. So all these points are to be checked when we inspect the welding machine. |
+| 6 | 00:02:29–00:02:32 | shot_006.jpg |  |
+| 7 | 00:02:32–00:02:38 | shot_007.jpg | So friends, I hope that you have come to know through this video that how we can inspect the welding machine. |
+| 8 | 00:02:38–00:02:43 | shot_008.jpg | So that's all for today's video, with a new topic, till then take care, bye-bye. |
