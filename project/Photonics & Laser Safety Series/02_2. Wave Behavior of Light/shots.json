@@ -1,0 +1,1298 @@
+{
+ "id": "02_2. Wave Behavior of Light",
+ "series": "Photonics & Laser Safety Series",
+ "title": "光的波动：反射、折射、干涉与偏振",
+ "seconds": 475,
+ "source_doc": "course/Photonics & Laser Safety Series/02_2. Wave Behavior of Light.md",
+ "author_source": "project/Photonics & Laser Safety Series/02_2. Wave Behavior of Light/src.py",
+ "points": {
+  "K1": "这一课讲光“像波”的本领",
+  "K2": "相位：波走到了哪一步",
+  "K3": "相位差：步子没对齐",
+  "K4": "相干光：整齐划一",
+  "K5": "非相干光：各走各的",
+  "K6": "相干与非相干对比",
+  "K7": "反射：光碰到界面会弹回",
+  "K8": "反射定律：反射角等于入射角",
+  "K9": "三线在同一平面",
+  "K10": "折射：换介质就拐弯",
+  "K11": "折射定律：算出拐弯方向",
+  "K12": "光学密度决定拐多少",
+  "K13": "常见材料的折射率",
+  "K14": "干涉：叠加出明暗",
+  "K15": "双缝实验：明暗条纹",
+  "K16": "衍射：光会绕过边缘",
+  "K17": "一步一步看衍射",
+  "K18": "颜色不同，亮点间距不同",
+  "K19": "亮点位置怎么估算",
+  "K20": "偏振：电场朝哪个方向振",
+  "K21": "偏振片：只放一个方向",
+  "K22": "偏光太阳镜",
+  "S1": "反射光一样伤眼",
+  "S2": "摘下手表首饰",
+  "S3": "光路高度避开眼睛",
+  "S4": "光束终止器与遮挡",
+  "S5": "眼睛被照到：报告与就医"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在光学平台旁，手里拿着一面小镜子",
+   "prompt_en": "The panda mascot stands beside an optical table holding a small round mirror and waves at the camera.",
+   "narration": "这一课讲光的波动本领。",
+   "overlay": [
+    "光的波动：反射、折射、干涉与偏振"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "镜子、拐弯的光线、明暗条纹、栅栏四个图标排成一行",
+   "prompt_en": "Four icons in a row: a mirror bouncing a ray, a ray bending into water, a striped bright and dark pattern, and a picket fence. No people.",
+   "narration": "反射、折射、干涉衍射，还有偏振。",
+   "overlay": [],
+   "labels": [
+    "反射",
+    "折射",
+    "干涉衍射",
+    "偏振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在光学平台上摆好一面小镜子，弯腰凑近看光点",
+   "prompt_en": "The young male student places a small mirror on an optical table and bends down close to look at a light spot.",
+   "narration": "阿杰在平台上摆镜子，弯腰凑近看光点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "一道反射光线从镜子斜着射向阿杰的眼睛方向，画面定格并出现红色警示",
+   "prompt_en": "A reflected ray from the mirror heads toward the young male student's eye level; the image freezes with a red warning outline.",
+   "narration": "镜子一歪，反射光就可能冲着眼睛来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研一把拉直阿杰，递给他防护眼镜",
+   "prompt_en": "The female graduate student pulls the young male student upright and hands him protective glasses.",
+   "narration": "小研拉起他：先想清光会往哪儿反射！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "懂了光的波动，才能预判光的去向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课讲光“像波”的本领",
+   "scene": "欣欣指着八本空白书脊，第二本发光",
+   "prompt_en": "The panda mascot points at a row of eight blank book spines; the second one glows softly.",
+   "narration": "上一课说光有两副面孔。",
+   "overlay": [
+    "这一课讲光“像波”的本领"
+   ],
+   "labels": [
+    "第二课"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课讲光“像波”的本领",
+   "scene": "五个图标依次亮起：镜子、拐弯光线、条纹、光点散开、栅栏",
+   "prompt_en": "Five icons light up one by one: a mirror, a bending ray, a striped pattern, spreading light spots, and a picket fence. No people.",
+   "narration": "这一课只看它像波的那一面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "相位：波走到了哪一步",
+   "scene": "一个摩天轮慢慢转动，一个车厢从底部升起",
+   "prompt_en": "A Ferris wheel turns slowly while one cabin rises from the middle height. No people.",
+   "narration": "波的起伏，就像摩天轮转圈。",
+   "overlay": [
+    "相位：波走到了哪一步"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "相位：波走到了哪一步",
+   "scene": "摩天轮转满一圈，旁边的波浪曲线正好画完一个起伏",
+   "prompt_en": "As the Ferris wheel completes one full turn, a wave line beside it finishes exactly one rise and fall. No people.",
+   "narration": "转一整圈，正好是一个完整周期。",
+   "overlay": [],
+   "labels": [
+    "一圈",
+    "一个周期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "相位：波走到了哪一步",
+   "scene": "车厢停在某个位置，一个角度小扇形亮起",
+   "prompt_en": "The cabin stops at one spot and a small angle wedge lights up from its starting point. No people.",
+   "narration": "转到哪个角度，就是此刻的相位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "相位差：步子没对齐",
+   "scene": "两个摩天轮并排，转速一样，但一个车厢在高处、一个在侧面",
+   "prompt_en": "Two identical Ferris wheels turn at the same speed, but one cabin is at the top while the other is at the side. No people.",
+   "narration": "两列波一样长，可步子没对齐。",
+   "overlay": [
+    "相位差：步子没对齐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "相位差：步子没对齐",
+   "scene": "两条波浪曲线上下排列，波峰错开四分之一",
+   "prompt_en": "Two wave lines stacked one above the other, their crests shifted a quarter step apart. No people.",
+   "narration": "错开的这一段，叫相位差。",
+   "overlay": [],
+   "labels": [
+    "相位差"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "相位差：步子没对齐",
+   "scene": "两条波浪叠在一起，合成的新波起伏不同",
+   "prompt_en": "The two shifted waves overlap and form a new combined wave with a different height. No people.",
+   "narration": "相位差决定两列波叠加的结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相干光：整齐划一",
+   "scene": "一队士兵图标迈着整齐的步子过桥",
+   "prompt_en": "A row of identical marching toy soldier icons crosses a bridge in perfect step. No people.",
+   "narration": "步子整齐、波长相同，叫相干光。",
+   "overlay": [
+    "相干光：整齐划一"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相干光：整齐划一",
+   "scene": "六条一样的波浪叠成一条又高又深的大浪",
+   "prompt_en": "Six identical aligned wave lines stack into one very tall wave with deep troughs. No people.",
+   "narration": "同步叠加，起伏一下子变得极大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相干光：整齐划一",
+   "scene": "激光器射出一条又细又直的光束",
+   "prompt_en": "A laser on an optical table emits a thin, perfectly straight beam into a beam stop. No people.",
+   "narration": "激光，就是这样的相干光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "非相干光：各走各的",
+   "scene": "一群小球各自乱跳，有高有低",
+   "prompt_en": "A crowd of small bouncing balls jumps at random heights and times. No people.",
+   "narration": "波长不同、步调各异，叫非相干光。",
+   "overlay": [
+    "非相干光：各走各的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "非相干光：各走各的",
+   "scene": "几条长短不一的波叠加，合成波起伏平缓",
+   "prompt_en": "Several waves of different lengths overlap and add up to a gentle, uneven wave. No people.",
+   "narration": "叠起来有加有减，起伏比较平缓。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "非相干光：各走各的",
+   "scene": "白炽灯、弧光灯、太阳三个图标",
+   "prompt_en": "Three icons: an incandescent bulb, an arc lamp, and the sun. No people.",
+   "narration": "灯泡、弧光灯、太阳光都是非相干光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "相干与非相干对比",
+   "scene": "左边整齐的士兵队列，右边乱跳的小球，中间一条分隔线",
+   "prompt_en": "Split screen: on the left, marching soldier icons in step; on the right, randomly bouncing balls. No people.",
+   "narration": "相干光步调一致，非相干光各走各的。",
+   "overlay": [
+    "相干与非相干对比"
+   ],
+   "labels": [
+    "相干",
+    "非相干"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "相干与非相干对比",
+   "scene": "激光细光束在远处仍是一个小亮点，手电光已经散开",
+   "prompt_en": "A thin laser beam still makes a tiny bright dot on a far wall, while a flashlight beam has spread wide. No people.",
+   "narration": "激光能量集中，走远了还很强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "相干与非相干对比",
+   "scene": "太阳和强光灯图标旁，眼睛图标带红色警示",
+   "prompt_en": "Next to icons of the sun and a bright lamp, an eye icon shows a red warning mark. No people.",
+   "narration": "但非相干强光同样能伤眼，别小看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "反射：光碰到界面会弹回",
+   "scene": "一个乒乓球打到桌面弹起",
+   "prompt_en": "A ping-pong ball hits a table surface and bounces back up. No people.",
+   "narration": "光碰到两种物质的分界面，会弹回来。",
+   "overlay": [
+    "反射：光碰到界面会弹回"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "反射：光碰到界面会弹回",
+   "scene": "镜面上的反射点竖起一条虚线",
+   "prompt_en": "A dashed line rises straight up from the point where a ray hits a flat mirror. No people.",
+   "narration": "在碰撞点立一条垂直线，叫法线。",
+   "overlay": [],
+   "labels": [
+    "法线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "入射光线和反射光线在法线两侧，两个夹角一样大",
+   "prompt_en": "An incoming ray and a reflected ray sit on either side of the dashed normal line, making two equal angle wedges. No people.",
+   "narration": "进来的角度，等于弹出去的角度。",
+   "overlay": [
+    "反射定律：反射角等于入射角"
+   ],
+   "labels": [
+    "入射角",
+    "反射角"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "台球杆击球，球撞边框按对称角度弹开",
+   "prompt_en": "A billiard ball hits the cushion and rebounds at a mirror-image angle. No people.",
+   "narration": "就像台球撞边，角度对称弹开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "镜子倾斜一点，反射光线大幅转向",
+   "prompt_en": "A mirror tilts slightly and the reflected ray swings to a very different direction. No people.",
+   "narration": "镜子稍一转，反射方向就跟着变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三线在同一平面",
+   "scene": "入射光、反射光、法线三根线贴在同一块透明薄板上",
+   "prompt_en": "The incoming ray, the reflected ray, and the normal line all lie on one thin transparent sheet. No people.",
+   "narration": "入射光、反射光和法线，在同一平面。",
+   "overlay": [
+    "三线在同一平面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射：换介质就拐弯",
+   "scene": "小推车从水泥地斜着推进草地，一侧先减速，车头转向",
+   "prompt_en": "A small cart rolls at an angle from pavement onto grass; one wheel slows first and the cart turns. No people.",
+   "narration": "光换一种介质，方向就会拐弯。",
+   "overlay": [
+    "折射：换介质就拐弯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射：换介质就拐弯",
+   "scene": "一根筷子插进水杯，看起来像折断了",
+   "prompt_en": "A chopstick placed in a glass of water looks bent at the water surface. No people.",
+   "narration": "水里的筷子像折断了，就是折射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射：换介质就拐弯",
+   "scene": "光线射到水面：一部分弹回，一部分拐进水里",
+   "prompt_en": "A ray hits a water surface: part of it bounces back up and part bends into the water. No people.",
+   "narration": "在界面上，一部分反射，一部分折射。",
+   "overlay": [],
+   "labels": [
+    "反射光",
+    "折射光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "折射定律：算出拐弯方向",
+   "scene": "界面上的法线虚线，入射光和折射光各有一个夹角",
+   "prompt_en": "A dashed normal line at an interface, with one angle wedge for the incoming ray and one for the bent ray. No people.",
+   "narration": "角度都从法线量起。",
+   "overlay": [
+    "折射定律：算出拐弯方向"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "折射定律：算出拐弯方向",
+   "scene": "一架天平，两边分别放两种材料和两个角度",
+   "prompt_en": "A balance scale with a material block and an angle wedge on each pan, perfectly level. No people.",
+   "narration": "两侧的材料和角度，有固定的对应关系。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "折射定律：算出拐弯方向",
+   "scene": "小研在空白计算器上输入，屏幕亮出一条光线方向",
+   "prompt_en": "The female graduate student taps on a blank calculator, and a ray direction arrow appears above it.",
+   "narration": "知道两种材料和入射方向，就能算出去向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学密度决定拐多少",
+   "scene": "光从空气进入水和进入钻石，弯折程度不同",
+   "prompt_en": "Two panels: a ray entering water bends a little; a ray entering a diamond bends much more. No people.",
+   "narration": "两边光学密度差得越多，拐得越厉害。",
+   "overlay": [
+    "光学密度决定拐多少"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "常见材料的折射率",
+   "scene": "一排材料图标：空气、水、玻璃、钻石、硅片",
+   "prompt_en": "A row of material icons: air, water drop, glass block, diamond, and a silicon wafer. No people.",
+   "narration": "不同材料，折射率各不相同。",
+   "overlay": [
+    "常见材料的折射率"
+   ],
+   "labels": [
+    "空气",
+    "水",
+    "玻璃",
+    "钻石",
+    "硅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "常见材料的折射率",
+   "scene": "空气最低，钻石、硅更高，柱状高低排列",
+   "prompt_en": "Simple bars of rising height above each material icon, with air the lowest and silicon among the highest. No people.",
+   "narration": "空气接近一，钻石、半导体材料高得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "常见材料的折射率",
+   "scene": "光速箭头穿过各材料，越高的柱子里箭头越短",
+   "prompt_en": "A speed arrow passes through each material; the taller the bar, the shorter the arrow. No people.",
+   "narration": "折射率越大，光在里面走得越慢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "干涉：叠加出明暗",
+   "scene": "池塘里两颗石子激起的水波相遇",
+   "prompt_en": "Two pebbles drop into a pond and their ripples meet and overlap. No people.",
+   "narration": "两列步调一致的波相遇，会叠加。",
+   "overlay": [
+    "干涉：叠加出明暗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "干涉：叠加出明暗",
+   "scene": "波峰碰波峰变高，波峰碰波谷抵消",
+   "prompt_en": "Close-up: where crest meets crest the water rises higher; where crest meets trough it goes flat. No people.",
+   "narration": "峰碰峰更亮，峰碰谷抵消变暗。",
+   "overlay": [],
+   "labels": [
+    "相长",
+    "相消"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "双缝实验：明暗条纹",
+   "scene": "一块挡板上开两条窄缝，光从后面照来",
+   "prompt_en": "A board with two narrow slits, lit evenly from behind. No people.",
+   "narration": "两条窄缝，就像两个同步的光源。",
+   "overlay": [
+    "双缝实验：明暗条纹"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "双缝实验：明暗条纹",
+   "scene": "两组弧形波前从缝中扩散，交点处亮起",
+   "prompt_en": "Two sets of curved wavefronts spread from the slits; bright dots appear where they cross. No people.",
+   "narration": "峰峰相遇处加强，峰谷相遇处抵消。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "双缝实验：明暗条纹",
+   "scene": "后方屏上出现明暗相间的条纹",
+   "prompt_en": "On a screen behind, stripes of bright and dark alternate. No people.",
+   "narration": "屏上就出现明暗相间的条纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "双缝实验：明暗条纹",
+   "scene": "暗纹中心最黑，向两边慢慢变亮",
+   "prompt_en": "Close-up of one dark stripe, darkest in the middle and gradually fading into the bright stripes. No people.",
+   "narration": "暗纹中间最暗，再慢慢过渡到亮纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "衍射：光会绕过边缘",
+   "scene": "光照过针孔，屏上出现一圈圈亮环",
+   "prompt_en": "Light passes through a pinhole and forms rings of bright circles on a screen. No people.",
+   "narration": "光穿过很小的孔，会散成一圈圈亮环。",
+   "overlay": [
+    "衍射：光会绕过边缘"
+   ],
+   "labels": [
+    "针孔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "衍射：光会绕过边缘",
+   "scene": "单缝和锋利边缘后的条纹图",
+   "prompt_en": "Two panels: stripes behind a single narrow slit, and fine fringes behind a sharp straight edge. No people.",
+   "narration": "窄缝、锋利边缘后面也有条纹。",
+   "overlay": [],
+   "labels": [
+    "单缝",
+    "直边"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "衍射：光会绕过边缘",
+   "scene": "影子边缘处，光悄悄绕进阴影里",
+   "prompt_en": "At the edge of a shadow, faint light fringes creep into the shadow area. No people.",
+   "narration": "孔和波长差不多大时，光会绕进影子里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一步一步看衍射",
+   "scene": "缝口一个小点，向外发出一条起伏的波线",
+   "prompt_en": "A tiny dot at a slit sends out a single wavy line to the right. No people.",
+   "narration": "把缝口想成一个小小的光源。",
+   "overlay": [
+    "一步一步看衍射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一步一步看衍射",
+   "scene": "波线上的波峰、波谷、零点换成深色点、浅色点、空心点",
+   "prompt_en": "The wavy line is replaced by dots: dark dots at crests, light dots at troughs, hollow dots at zero points. No people.",
+   "narration": "波峰、波谷用不同的点标出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一步一步看衍射",
+   "scene": "把各方向的同类点连起来，成一圈圈弧线",
+   "prompt_en": "Matching dots in all directions connect into rings of curved arcs spreading from the slit. No people.",
+   "narration": "同类点连成弧线，就是波前。",
+   "overlay": [],
+   "labels": [
+    "波前"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一步一步看衍射",
+   "scene": "两个缝的弧线交叉，交点处亮起，投到屏上成亮点",
+   "prompt_en": "Arcs from two slits cross; bright dots glow at the crossings and project onto a screen as bright spots. No people.",
+   "narration": "两组波前的交点，在屏上成亮点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "颜色不同，亮点间距不同",
+   "scene": "蓝色亮点排得密，红色亮点排得疏",
+   "prompt_en": "Two screens side by side: blue spots placed close together, red spots spaced farther apart. No people.",
+   "narration": "蓝光波长短，亮点挨得近。",
+   "overlay": [
+    "颜色不同，亮点间距不同"
+   ],
+   "labels": [
+    "蓝光",
+    "红光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "颜色不同，亮点间距不同",
+   "scene": "红光波浪更长，亮点更分散",
+   "prompt_en": "A long red wave next to a short blue wave, with arrows pointing to the wider red spacing. No people.",
+   "narration": "红光波长长，亮点隔得远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "颜色不同，亮点间距不同",
+   "scene": "一束白光穿过多缝的薄片，屏上出现彩虹色亮点",
+   "prompt_en": "A white beam passes through a thin plate with many fine slits and makes rainbow-colored spots on a screen. No people.",
+   "narration": "白光过光栅，按颜色分开排列。",
+   "overlay": [],
+   "labels": [
+    "衍射光栅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "颜色不同，亮点间距不同",
+   "scene": "阿杰在实验桌前拿起一片光栅，小研在旁看着",
+   "prompt_en": "The young male student picks up a thin grating slide at a lab bench while the female graduate student watches.",
+   "narration": "实操课上，会用衍射光栅亲手观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "亮点位置怎么估算",
+   "scene": "光栅、屏、亮点三者之间画着两条距离箭头",
+   "prompt_en": "A grating, a screen, and a row of spots, with arrows marking the distance between grating and screen. No people.",
+   "narration": "亮点离中心多远，可以估算。",
+   "overlay": [
+    "亮点位置怎么估算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "亮点位置怎么估算",
+   "scene": "屏推远，亮点散开；波长变长，亮点也散开",
+   "prompt_en": "When the screen moves back, the spots spread out; when the wave gets longer, the spots also spread out. No people.",
+   "narration": "波长越长、屏越远，亮点越分散。",
+   "overlay": [],
+   "labels": [
+    "波长",
+    "屏距"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "亮点位置怎么估算",
+   "scene": "两缝靠近，亮点反而散开",
+   "prompt_en": "When the two slits move closer together, the spots on the screen spread farther apart. No people.",
+   "narration": "两缝挨得越近，亮点反而越分散。",
+   "overlay": [],
+   "labels": [
+    "缝距"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "亮点位置怎么估算",
+   "scene": "亮点从中心往两边编号一、二、三",
+   "prompt_en": "Spots on the screen are marked with first, second, and third order dots outward from the center. No people.",
+   "narration": "从中心往外，依次是第一、第二个亮点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "偏振：电场朝哪个方向振",
+   "scene": "一根跳绳上下抖动，旁边一根左右抖动",
+   "prompt_en": "One jump rope shakes up and down; another shakes side to side. No people.",
+   "narration": "偏振，看的是电场朝哪个方向振。",
+   "overlay": [
+    "偏振：电场朝哪个方向振"
+   ],
+   "labels": [
+    "竖直",
+    "水平"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "偏振：电场朝哪个方向振",
+   "scene": "一个米字形箭头，各方向都有",
+   "prompt_en": "A star of arrows pointing in every direction. No people.",
+   "narration": "各方向乱振，叫非偏振光。",
+   "overlay": [],
+   "labels": [
+    "非偏振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "偏振：电场朝哪个方向振",
+   "scene": "跳绳甩成螺旋：圆形和椭圆形",
+   "prompt_en": "A rope is swung so the wave traces a circular spiral, then an oval spiral. No people.",
+   "narration": "还有圆偏振、椭圆偏振，分左旋右旋。",
+   "overlay": [],
+   "labels": [
+    "圆偏振",
+    "椭圆偏振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "偏振片：只放一个方向",
+   "scene": "跳绳穿过一道竖缝栅栏，上下抖动能过，左右抖动被挡住",
+   "prompt_en": "A rope passes through a fence with vertical gaps: up-and-down shaking passes through, side-to-side shaking is blocked. No people.",
+   "narration": "偏振片像一道竖缝栅栏。",
+   "overlay": [
+    "偏振片：只放一个方向"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "偏振片：只放一个方向",
+   "scene": "透明塑料薄片里排着细针状晶体",
+   "prompt_en": "A clear plastic sheet with rows of tiny needle-shaped crystals inside. No people.",
+   "narration": "片里的细针晶体，吸收一个方向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "偏振片：只放一个方向",
+   "scene": "米字形箭头穿过薄片，只剩竖直箭头",
+   "prompt_en": "A star of arrows passes through the sheet and only vertical arrows come out. No people.",
+   "narration": "非偏振光过去，变成线偏振光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "偏光太阳镜",
+   "scene": "老周戴着偏光太阳镜站在水边，水面反光变暗",
+   "prompt_en": "The older man wears polarized sunglasses by a lake; the glare on the water looks dimmer.",
+   "narration": "偏光太阳镜只放一个方向的光。",
+   "overlay": [
+    "偏光太阳镜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "偏光太阳镜",
+   "scene": "进入眼睛的光线箭头变少，周围景物变暗",
+   "prompt_en": "Fewer light arrows reach an eye icon through polarized lenses, and the scene looks darker. No people.",
+   "narration": "进眼的光少了，看出去就暗一些。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "偏光太阳镜",
+   "scene": "太阳镜图标打叉，旁边是激光器",
+   "prompt_en": "An icon of sunglasses crossed out with a red X next to a laser. No people.",
+   "narration": "注意：太阳镜挡不住激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "反射光一样伤眼",
+   "scene": "光学平台上，光束打到镜片、金属扳手、玻璃片后四处反射",
+   "prompt_en": "On an optical table, a beam hits a lens, a metal wrench, and a glass slide and scatters reflections in several directions. No people.",
+   "narration": "镜片、玻璃、金属面，都会反射激光。",
+   "overlay": [
+    "反射光一样伤眼"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "反射光一样伤眼",
+   "scene": "反射光线箭头指向眼睛图标，红色警示",
+   "prompt_en": "A reflected ray arrow points at an eye icon with a red warning mark. No people.",
+   "narration": "反射光和原光束一样能伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "反射光一样伤眼",
+   "scene": "小研对着光路图，用手指比划反射方向",
+   "prompt_en": "The female graduate student studies a blank layout sketch and traces the reflection directions with her finger.",
+   "narration": "开光前，用反射定律想好每一路光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "反射光一样伤眼",
+   "scene": "门上的激光警告标志和戴防护眼镜标志",
+   "prompt_en": "A laser warning sign and a mandatory sign for eye protection on the lab door. No people.",
+   "narration": "按规定戴好对应波长的防护眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下手表首饰",
+   "scene": "阿杰摘下手表、戒指，放进门口的空白收纳盒",
+   "prompt_en": "The young male student takes off his wristwatch and ring and puts them into a blank storage box by the door.",
+   "narration": "进激光实验室，先摘手表和首饰。",
+   "overlay": [
+    "摘下手表首饰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下手表首饰",
+   "scene": "亮闪闪的手表表盘反射出一道光线，被打叉",
+   "prompt_en": "A shiny watch face reflects a stray ray, crossed out with a red X. No people.",
+   "narration": "表盘、戒指都能把光反射到别人眼里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下手表首饰",
+   "scene": "工具盘里的工具换成哑光黑色",
+   "prompt_en": "A tool tray with dull black matte tools replacing shiny ones. No people.",
+   "narration": "光路附近尽量用不反光的工具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光路高度避开眼睛",
+   "scene": "侧视图：光束平面在腰部高度，人眼在更高处",
+   "prompt_en": "Side view: the beam plane runs at waist height on the optical table, well below the standing eye level of the female graduate student.",
+   "narration": "光路高度要低于站立和坐姿的眼睛。",
+   "overlay": [
+    "光路高度避开眼睛"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光路高度避开眼睛",
+   "scene": "眼睛图标与光束线同高，被打叉",
+   "prompt_en": "An eye icon lowered to the same level as a beam line on an optical table, crossed out with a red X. No people.",
+   "narration": "不要弯腰把眼睛凑到光束平面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光路高度避开眼睛",
+   "scene": "掉落的螺丝图标，旁边是已关闭的光闸图标打勾",
+   "prompt_en": "An icon of a dropped screw under the table next to a closed beam shutter icon with a check mark. No people.",
+   "narration": "东西掉了，先关光或挡光再去捡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光路高度避开眼睛",
+   "scene": "光束只在平台上水平走，没有朝上射的光",
+   "prompt_en": "Beams travel only flat across the optical table, and an upward-pointing beam icon is crossed out. No people.",
+   "narration": "光束尽量水平走，不朝上、不出平台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光束终止器与遮挡",
+   "scene": "光路末端一个黑色光束终止器接住光束",
+   "prompt_en": "At the end of a beam path, a black beam stop catches the beam. No people.",
+   "narration": "每一路光的尽头，都要有终止器接住。",
+   "overlay": [
+    "光束终止器与遮挡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光束终止器与遮挡",
+   "scene": "平台四周立起不透光的挡板",
+   "prompt_en": "Opaque side panels stand around the edges of the optical table. No people.",
+   "narration": "平台四周加挡板，挡住乱跑的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光束终止器与遮挡",
+   "scene": "衍射光栅后面散开的多束光都被挡板拦住",
+   "prompt_en": "Several diffracted beams fanning out behind a grating are all caught by a wide black screen. No people.",
+   "narration": "光栅分出的多束光，也要全部接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光束终止器与遮挡",
+   "scene": "小研调光路时把激光器调到低功率，再逐步开大",
+   "prompt_en": "The female graduate student aligns the optics with the laser turned low and a beam shutter at hand.",
+   "narration": "调光路用低功率，调好再开大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛被照到：报告与就医",
+   "scene": "阿杰捂着一只眼，小研立刻关闭激光器",
+   "prompt_en": "The young male student covers one eye with his hand while the female graduate student immediately switches off the laser.",
+   "narration": "万一眼睛被照到，先关光源。",
+   "overlay": [
+    "眼睛被照到：报告与就医"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛被照到：报告与就医",
+   "scene": "小研扶着阿杰坐下，同时打电话给老周",
+   "prompt_en": "The female graduate student helps the young male student sit down while calling the older man on her phone.",
+   "narration": "马上报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛被照到：报告与就医",
+   "scene": "眼睛图标和医院图标，中间有箭头",
+   "prompt_en": "An eye icon with an arrow to a hospital icon. No people.",
+   "narration": "尽快去眼科检查，不要揉眼。",
+   "overlay": [],
+   "labels": [
+    "尽快就医"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛被照到：报告与就医",
+   "scene": "手机屏幕上亮起数字图标，旁边是救护车",
+   "prompt_en": "A blank phone screen next to an ambulance icon. No people.",
+   "narration": "情况严重，拨打120。",
+   "overlay": [],
+   "labels": [
+    "急救120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛被照到：报告与就医",
+   "scene": "王老师在空白记录表上书写",
+   "prompt_en": "The safety administrator writes on a blank incident report form.",
+   "narration": "如实报告学院，查清原因再开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现士兵队列和乱跳小球",
+   "prompt_en": "Beside the panda mascot float icons of marching soldiers and bouncing balls.",
+   "narration": "相干光整齐，非相干光杂乱。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "镜子反射和筷子折射两个图标",
+   "prompt_en": "Two icons: a mirror reflecting a ray and a chopstick bending in water. No people.",
+   "narration": "反射角等于入射角，换介质会拐弯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双缝条纹和彩虹亮点",
+   "prompt_en": "Icons of double-slit stripes and rainbow-colored spots. No people.",
+   "narration": "干涉衍射出明暗，颜色不同间距不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "竖缝栅栏和偏光太阳镜图标",
+   "prompt_en": "Icons of a fence with vertical gaps and polarized sunglasses. No people.",
+   "narration": "偏振片只放一个方向的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "手表打叉、低位光束、终止器、急救电话四个图标",
+   "prompt_en": "Four icons: a crossed-out watch, a low beam line, a black beam stop, and a phone with an ambulance. No people.",
+   "narration": "摘首饰、光路低、光有终点、出事快报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着小镜子挥手道别",
+   "prompt_en": "The panda mascot holds up a small mirror and waves goodbye beside the optical table.",
+   "narration": "知道光往哪儿走，才能躲开它。再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
