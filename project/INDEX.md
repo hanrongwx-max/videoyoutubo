@@ -1,6 +1,40 @@
 # 卡通教学视频制作目录
 
-已编写 31 个视频。知识点：原片 / 补充。
+已编写 38 / 441 个视频。
+
+## 各剧集进度
+
+| 剧集 | 已编写 / 附件视频 |
+|---|---|
+| Fire Safety & Extinguisher Training | 9 / 9 |
+| General Lab Safety Practices | 8 / 8 |
+| ACS College Lab Safety Series | 7 / 7 |
+| Chemical Spillage & Response | 7 / 7 |
+| Laboratory Equipment Safety Series | 7 / 7 |
+| ACS Hazard Communication & Safety | 0 / 10 |
+| Acids, Bases & Solvents Safety | 0 / 12 |
+| Animal & Plant Biotech Safety | 0 / 10 |
+| BIORISK MANAGEMENT | 0 / 47 |
+| Basic Electrical Engineering Lab | 0 / 23 |
+| CDC Laboratory Safety Series | 0 / 23 |
+| Cleanroom & Equipment Safety | 0 / 33 |
+| Electrical Safety Series | 0 / 25 |
+| Fume Hood & Cabinet Protocols | 0 / 12 |
+| Health Physics & Nuclear Medicine | 0 / 9 |
+| Industrial Gas & Cryogenic Equipment | 0 / 9 |
+| Lab Safety Training - Essential Protocols | 0 / 23 |
+| Lab Safety Training Series | 0 / 13 |
+| Laboratory Ergonomics & RSI | 0 / 36 |
+| Laser Equipment & Safety Training | 0 / 8 |
+| Laser Maintenance Group Safety | 0 / 17 |
+| MIT Digital Lab Techniques Manual | 0 / 17 |
+| Microbiology Biosafety | 0 / 59 |
+| Photonics & Laser Safety Series | 0 / 8 |
+| RSO Training Series | 0 / 9 |
+
+## 已编写视频
+
+知识点：原片 / 补充。
 
 | 剧集 | 原视频 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |
 |---|---|---|---|---|---|---|
@@ -35,3 +69,10 @@
 | General Lab Safety Practices | 06_Centrifugation Hazards | 离心机的危害与安全使用 | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards/审查报告.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 用紫外分光光度计测DNA浓度 | 75 | 6:15 | 9 / 7 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/script.md>) · [审查](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/审查报告.md>) |
 | General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 合成生物学建模与生物安全 | 124 | 10:20 | 18 / 7 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/script.md>) · [审查](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/审查报告.md>) |
+| Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 安全使用离心机 | 48 | 4:00 | 12 / 5 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/script.md>) · [审查](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/审查报告.md>) |
+| Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 洗眼器的定期冲洗 | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/审查报告.md>) |
+| Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 气瓶的储存与搬运 | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/审查报告.md>) |
+| Laboratory Equipment Safety Series | 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet | 气瓶减压器的安装与拆卸 | 60 | 5:00 | 22 / 6 | [剧本](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet/script.md>) · [审查](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet/审查报告.md>) |
+| Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 气瓶泄漏：大漏小漏怎么办 | 53 | 4:25 | 16 / 5 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/script.md>) · [审查](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/审查报告.md>) |
+| Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 读懂气瓶上的标记 | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/审查报告.md>) |
+| Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 过氧化物试纸检测 | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/审查报告.md>) |

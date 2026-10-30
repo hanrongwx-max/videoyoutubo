@@ -204,8 +204,18 @@ def write_index():
         k = sum(1 for p in s["points"] if p.startswith("K"))
         rows.append(f"| {s['series']} | {s['id']} | {s['title']} | {len(s['shots'])} | {m}:{sec:02d} | "
                     f"{k} / {len(s['points']) - k} | [剧本](<{rel}/script.md>) · [审查](<{rel}/审查报告.md>) |")
+    import csv
+    total = defaultdict(int)
+    with open(ROOT / "tools" / "assets.tsv", encoding="utf-8") as f:
+        for r in csv.DictReader(f, delimiter="\t"):
+            total[r["剧集"]] += 1
+    done = defaultdict(int)
+    for f in PROJECT.glob("*/*/shots.json"):
+        done[f.parent.parent.name] += 1
+    prog = "\n".join(f"| {s} | {done[s]} / {n} |" for s, n in sorted(total.items(), key=lambda x: (-done[x[0]], x[0])))
     (PROJECT / "INDEX.md").write_text(
-        "# 卡通教学视频制作目录\n\n已编写 " + str(len(rows)) + " 个视频。知识点：原片 / 补充。\n\n"
+        "# 卡通教学视频制作目录\n\n已编写 " + str(len(rows)) + f" / {sum(total.values())} 个视频。\n\n"
+        "## 各剧集进度\n\n| 剧集 | 已编写 / 附件视频 |\n|---|---|\n" + prog + "\n\n## 已编写视频\n\n知识点：原片 / 补充。\n\n"
         "| 剧集 | 原视频 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|---|\n"
         + "\n".join(rows) + "\n", encoding="utf-8")
 
