@@ -1,12 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 124 / 441 个视频。
+已编写 138 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
 | Lab Safety Training - Essential Protocols | 23 / 23 |
+| Acids, Bases & Solvents Safety | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
@@ -19,13 +20,12 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| Acids, Bases & Solvents Safety | 0 / 12 |
+| Fume Hood & Cabinet Protocols | 2 / 12 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | CDC Laboratory Safety Series | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
 | Electrical Safety Series | 0 / 25 |
-| Fume Hood & Cabinet Protocols | 0 / 12 |
 | Lab Safety Training Series | 0 / 13 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
 | Laser Maintenance Group Safety | 0 / 17 |
@@ -55,6 +55,18 @@
 | ACS Hazard Communication & Safety | 08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com | 安全知识问答：制度、红线与不安全行为 | 72 | 6:00 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com/script.md>) · [审查](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com/审查报告.md>) |
 | ACS Hazard Communication & Safety | 09_Radiography Safety Officer (RSO) Interview Questions and Answers | 安全知识问答：射线探伤与辐射防护 | 74 | 6:10 | 12 / 5 | [剧本](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers/script.md>) · [审查](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers/审查报告.md>) |
 | ACS Hazard Communication & Safety | 10_Colour Code of Web Sling SWL of Web Sling | 安全知识问答：吊装带与重物搬运 | 40 | 3:20 | 3 / 5 | [剧本](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling/script.md>) · [审查](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 01_Module 12 — Safety Culture & Human Factors | 安全文化与人的因素 | 97 | 8:05 | 19 / 5 | [剧本](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors/script.md>) · [审查](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 02_Module 11 — Audit & Inspection Readiness | 天天准备好迎接安全检查 | 71 | 5:55 | 14 / 5 | [剧本](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness/script.md>) · [审查](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 03_Module 10 — Waste Management | 实验室废物的分类与处置 | 77 | 6:25 | 18 / 6 | [剧本](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management/script.md>) · [审查](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 实验室应急响应 | 80 | 6:40 | 17 / 6 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response/script.md>) · [审查](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 实验室设备与运行安全 | 78 | 6:30 | 16 / 5 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety/script.md>) · [审查](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 06_Module 7 — Chemical & Biological Safety | 化学与生物危害的日常操作 | 76 | 6:20 | 15 / 6 | [剧本](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety/script.md>) · [审查](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 07_Module 6 — Personal Protective Equipment | 个人防护装备：选对、穿对、脱对 | 105 | 8:45 | 25 / 5 | [剧本](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment/script.md>) · [审查](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 08_Module 5 — Hierarchy of Controls | 控制措施层级：从塔尖往下建 | 77 | 6:25 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls/script.md>) · [审查](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 09_Module 4 — Hazard Communication | 读懂化学品的安全语言 | 78 | 6:30 | 19 / 4 | [剧本](<Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication/script.md>) · [审查](<Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 10_Module 3 — Hazard Identification & Risk Assessment | 找出危险，评估风险 | 82 | 6:50 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment/script.md>) · [审查](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 11_Module 2 — The OSHA Laboratory Standard | 实验室安全制度：写在纸上，做在手上 | 70 | 5:50 | 16 / 3 | [剧本](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard/script.md>) · [审查](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 12_Module 1 — Introduction to Laboratory Safety | 实验室安全第一课 | 68 | 5:40 | 15 / 2 | [剧本](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety/script.md>) · [审查](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety/审查报告.md>) |
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 生物技术实验室安全入门 | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/审查报告.md>) |
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 质粒、细菌与遗传转化 | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/审查报告.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 做好背景调研，写好研究论文 | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/审查报告.md>) |
@@ -81,6 +93,8 @@
 | Fire Safety & Extinguisher Training | 07_Safety Showers and Eye Washes in the Laboratory - [Employee Training] | 紧急淋浴和洗眼器 | 100 | 8:20 | 31 / 5 | [剧本](<Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training] | 压缩气体钢瓶的安全使用 | 115 | 9:35 | 32 / 6 | [剧本](<Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 09_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 实验室安全入门 | 153 | 12:45 | 45 / 8 | [剧本](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 01_Introduction to Chemistry Laboratory Techniques | 走进化学实验室：技术与安全的第一课 | 47 | 3:55 | 8 / 6 | [剧本](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/script.md>) · [审查](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory | 认识化学实验室的常用仪器 | 123 | 10:15 | 33 / 5 | [剧本](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory/script.md>) · [审查](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 无菌操作与平板划线 | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/审查报告.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | pH电极的日常维护 | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/审查报告.md>) |
