@@ -204,6 +204,8 @@ def main():
     if not assets:
         sys.exit(f"tools/assets.tsv 中没有剧集 {args.series}")
     for a in assets:
+        if (ROOT / "project" / a["剧集"] / a["视频名称"] / "src.py").exists():
+            continue   # 已编写（含从其他剧集复制的重复视频），不再分析
         d = WORK / a["剧集"] / a["视频名称"]
         d.mkdir(parents=True, exist_ok=True)
         print(f"== {a['视频名称']}", flush=True)
