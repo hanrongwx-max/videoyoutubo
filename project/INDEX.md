@@ -1,12 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 105 / 441 个视频。
+已编写 120 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
 | Lab Safety Training - Essential Protocols | 23 / 23 |
+| ACS Hazard Communication & Safety | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
@@ -17,9 +18,8 @@
 | ACS College Lab Safety Series | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| ACS Hazard Communication & Safety | 1 / 10 |
+| Animal & Plant Biotech Safety | 6 / 10 |
 | Acids, Bases & Solvents Safety | 0 / 12 |
-| Animal & Plant Biotech Safety | 0 / 10 |
 | BIORISK MANAGEMENT | 0 / 47 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | CDC Laboratory Safety Series | 0 / 23 |
@@ -46,6 +46,21 @@
 | ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 化学实验室的应急处置 | 112 | 9:20 | 29 / 7 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6/script.md>) · [审查](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6/审查报告.md>) |
 | ACS College Lab Safety Series | 07_Meet Michael Mills -- Host of the ACS Safety Videos | 安全课幕后：为什么安全放在第一位 | 69 | 5:45 | 13 / 6 | [剧本](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos/script.md>) · [审查](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos/审查报告.md>) |
 | ACS Hazard Communication & Safety | 01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions | 安全知识问答：从基本概念到现场设备 | 129 | 10:45 | 37 / 6 | [剧本](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions/script.md>) · [审查](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions/审查报告.md>) |
+| ACS Hazard Communication & Safety | 02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions | 安全知识问答：施工现场与风险评估 | 107 | 8:55 | 33 / 6 | [剧本](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions/script.md>) · [审查](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions/审查报告.md>) |
+| ACS Hazard Communication & Safety | 03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions | 安全知识问答：实验室安全管理入门 | 66 | 5:30 | 15 / 6 | [剧本](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions/script.md>) · [审查](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions/审查报告.md>) |
+| ACS Hazard Communication & Safety | 04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question | 安全知识问答：燃烧、火灾分类与灭火器 | 93 | 7:45 | 25 / 6 | [剧本](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question/script.md>) · [审查](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question/审查报告.md>) |
+| ACS Hazard Communication & Safety | 05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S | 安全知识问答：气体、标识与作业许可 | 106 | 8:50 | 23 / 5 | [剧本](<ACS Hazard Communication & Safety/05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S/script.md>) · [审查](<ACS Hazard Communication & Safety/05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S/审查报告.md>) |
+| ACS Hazard Communication & Safety | 06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions | 安全知识问答：读懂职业接触限值 | 54 | 4:30 | 5 / 5 | [剧本](<ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions/script.md>) · [审查](<ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions/审查报告.md>) |
+| ACS Hazard Communication & Safety | 07_Safety Officer Interview Questions and Answers (Confined Space) | 安全知识问答：受限空间 | 74 | 6:10 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space)/script.md>) · [审查](<ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space)/审查报告.md>) |
+| ACS Hazard Communication & Safety | 08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com | 安全知识问答：制度、红线与不安全行为 | 72 | 6:00 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com/script.md>) · [审查](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com/审查报告.md>) |
+| ACS Hazard Communication & Safety | 09_Radiography Safety Officer (RSO) Interview Questions and Answers | 安全知识问答：射线探伤与辐射防护 | 74 | 6:10 | 12 / 5 | [剧本](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers/script.md>) · [审查](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers/审查报告.md>) |
+| ACS Hazard Communication & Safety | 10_Colour Code of Web Sling SWL of Web Sling | 安全知识问答：吊装带与重物搬运 | 40 | 3:20 | 3 / 5 | [剧本](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling/script.md>) · [审查](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling/审查报告.md>) |
+| Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 生物技术实验室安全入门 | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/审查报告.md>) |
+| Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 质粒、细菌与遗传转化 | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/审查报告.md>) |
+| Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 做好背景调研，写好研究论文 | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/审查报告.md>) |
+| Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 植物组织培养的无菌技术 | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning/审查报告.md>) |
+| Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 胡萝卜组织培养 | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots/审查报告.md>) |
+| Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 身边的生物技术 | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 进实验室，先穿对、戴好 | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/审查报告.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 实验室里的安全设备 | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 实验室里的行为规范 | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/审查报告.md>) |
