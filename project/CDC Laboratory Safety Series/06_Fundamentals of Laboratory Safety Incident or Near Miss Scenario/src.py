@@ -1,0 +1,130 @@
+# 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario 卡通剧本作者源
+# 原片为判断题（只提问不作答）：保留 K1–K6，审查补出答案 S1–S5
+# （事故与未遂的区别、针刺后立即处置、锐器不回套不重装、动物实验的保定与培训、暴露登记与医学随访）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "是事故还是未遂",
+    "points": {
+        "K1": "给实验猴注射",
+        "K2": "针头脱落，留在皮肤里",
+        "K3": "想把针头重新接回去",
+        "K4": "针扎到了手指",
+        "K5": "这是事故还是未遂",
+        "K6": "本课不能代替本实验室规程",
+        "S1": "事故与未遂的区别",
+        "S2": "针刺后立即处置",
+        "S3": "锐器：不回套、不重装",
+        "S4": "动物实验：保定与培训",
+        "S5": "暴露登记与医学随访",
+    },
+    "avoid": ["Centers for Disease Control", "Division of Laboratory Systems", "reach.cdc.gov",
+              "Public Health Service", "Health and Human Services"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在动物实验室门口，两手各举一张卡片：一张有对勾，一张有感叹号",
+ "The panda mascot stands at an animal facility door holding two blank cards, one with a check mark icon and one with an exclamation mark icon.",
+ "这一课：是事故，还是未遂事件？", "是事故还是未遂"),
+# K1
+("K1", "小研穿防护服、戴口罩面屏和手套，在动物实验室里，旁边是一个简化的猴子图标",
+ "The female graduate student in a gown, mask, face shield and gloves stands in an animal room next to a simple cartoon monkey icon on a padded table.",
+ "小研在动物实验室给实验猴做注射。", "给实验猴注射"),
+# K2
+("K2", "注射器图标和针头图标分开，中间有断开符号",
+ "An icon of a syringe body separated from its needle, with a small break symbol between them. No people.",
+ "注射后，针头和注射器脱开了。", "针头脱落，留在皮肤里"),
+("K2", "简化的猴子图标上插着一枚小针头，旁边警示三角",
+ "A simple cartoon monkey icon with a tiny needle icon on its arm and a yellow warning triangle beside it. No people.",
+ "针头还留在动物的皮肤里。"),
+# K3
+("K3", "徒手捏起针头的图标，被红叉划掉",
+ "An icon of bare fingers picking up a loose needle, crossed out with a red X. No people.",
+ "她用手把针头取了下来。", "想把针头重新接回去"),
+("K3", "注射器对准针头重新组装的图标，被红叉划掉",
+ "An icon of a syringe being pushed back onto a loose needle held in fingers, crossed out with a red X. No people.",
+ "又想接回注射器，一起丢进锐器盒。"),
+# K4
+("K4", "手指图标上出现一个红点和警示三角",
+ "A finger icon with a small red dot and a yellow warning triangle beside it. No people.",
+ "就在这时，针头扎进了手指。", "针扎到了手指"),
+# K5
+("K5", "欣欣在两张卡片之间来回看，头顶一个问号",
+ "The panda mascot looks back and forth between two blank cards labeled only with icons, a question mark above its head.",
+ "这算事故，还是未遂事件？", "这是事故还是未遂"),
+("K5", "欣欣举起带感叹号的卡片",
+ "The panda mascot holds up the card with the exclamation mark icon.",
+ "答案：已经扎伤，这是一起事故。", "", ["事故"]),
+# S1
+("S1", "左边：受伤的小人图标；右边：险些被砸到但没受伤的小人图标",
+ "Two icons side by side: on the left a person pictogram with a bandage, on the right a person pictogram stepping back from a falling object, unhurt. No people.",
+ "造成了伤害或暴露，就是事故。", "事故与未遂的区别", ["事故", "未遂事件"]),
+("S1", "右边图标放大：物体落在身边，人完好",
+ "Close-up of the right icon: an object lands right next to an unhurt person pictogram. No people.",
+ "差一点出事、但没有伤害，叫未遂。"),
+("S1", "两种卡片都被放进同一个报告箱",
+ "Both cards drop into the same blank report box. No people.",
+ "两者都要报告，都要找原因。"),
+# S2
+("S2", "小研立即停下，在水槽边冲洗手指",
+ "The female graduate student immediately stops and rinses her finger under running water at a sink.",
+ "被扎后，立即挤出血液，流动水冲洗。", "针刺后立即处置"),
+("S2", "消毒棉签和创可贴图标",
+ "Icons of an antiseptic swab and a bandage. No people.",
+ "冲洗后消毒，包扎伤口。"),
+("S2", "小研向老周报告，老周拿起电话",
+ "The female graduate student reports to the older man, who immediately picks up a telephone.",
+ "马上报告负责人，尽快就医评估。"),
+("S2", "猴子图标旁加一个红色感叹号和医院图标",
+ "A simple monkey icon with a red exclamation mark next to a hospital building icon. No people.",
+ "动物来源的针刺，风险更特殊，不能拖。"),
+# S3
+("S3", "锐器盒放在操作台旁，伸手可及",
+ "A yellow sharps container placed right next to the work table, within arm's reach. No people.",
+ "锐器盒放在手边，用完立即投入。", "锐器：不回套、不重装"),
+("S3", "回套针帽、徒手拆针、重装针头三个图标被红叉划掉",
+ "Three icons crossed out with red X marks: recapping a needle, removing a needle by hand, and reattaching a needle. No people.",
+ "不回套针帽，不徒手拆装针头。", "", ["不回套", "不徒手拆", "不重装"]),
+("S3", "镊子夹起一枚脱落的针头，放入锐器盒",
+ "Tweezers pick up a loose needle and drop it into a sharps container. No people.",
+ "针头掉了，用镊子夹起放进锐器盒。"),
+("S3", "一体式带锁口的注射器图标打勾",
+ "An icon of a syringe with a screw-lock needle connection and a green check mark. No people.",
+ "选用不易脱开的注射器和针头。"),
+# S4
+("S4", "老周和小研两人配合，动物图标被妥善保定",
+ "The older man and the female graduate student work together beside a simple monkey icon resting calmly in a padded restraint frame.",
+ "动物要妥善保定，必要时两人配合。", "动物实验：保定与培训"),
+("S4", "王老师给小研发放空白的培训合格证",
+ "The safety administrator hands the female graduate student a blank training certificate.",
+ "动物实验人员，须经培训合格上岗。"),
+# S5
+("S5", "王老师在空白登记表上记录，小研在旁说明",
+ "The safety administrator fills in a blank exposure record form while the female graduate student explains.",
+ "暴露要登记：时间、经过、处置。", "暴露登记与医学随访"),
+("S5", "日历图标上圈出几个复查日期，旁边是医院图标",
+ "A calendar icon with several follow-up dates circled next to a hospital icon. No people.",
+ "按医嘱随访复查，不能一扎了之。"),
+("S5", "老周和组员围着空白白板，讨论改进办法",
+ "The older man and team members gather around a blank whiteboard discussing improvements.",
+ "全组复盘，改进操作和器材。"),
+# K6
+("K6", "一张空白课程卡片和一本更大的空白规程手册",
+ "A small blank course card next to a larger blank procedure binder with a check mark. No people.",
+ "这门课不能代替本实验室的规程。", "本课不能代替本实验室规程"),
+# 小结
+("小结", "欣欣身旁浮现事故卡和未遂卡",
+ "The panda mascot stands beside floating cards with an exclamation mark icon and a check mark icon.",
+ "有伤害是事故，没伤害是未遂。", "小结"),
+("小结", "锐器盒和镊子图标",
+ "Icons of a sharps container and tweezers. No people.",
+ "针头不回套，不徒手，进锐器盒。"),
+("小结", "水龙头、电话、日历三个图标",
+ "Three icons: a running faucet, a telephone, and a calendar. No people.",
+ "扎伤先冲洗，再报告、就医、随访。"),
+# 结尾
+("结尾", "欣欣和小研在动物实验室门口挥手",
+ "The panda mascot and the female graduate student wave goodbye at the animal facility door.",
+ "锐器无小事，下次见！"),
+]
