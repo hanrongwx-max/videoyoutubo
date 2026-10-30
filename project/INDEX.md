@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 24 个视频。知识点：原片 / 补充。
+已编写 26 个视频。知识点：原片 / 补充。
 
 | 剧集 | 原视频 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |
 |---|---|---|---|---|---|---|
@@ -20,6 +20,8 @@
 | Chemical Spillage & Response | 07_Lab Safety Survey | 安全巡查：找找隐患在哪里 | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 看不见的污染：实验室防污染 | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 实验室里的人机工效 | 102 | 8:30 | 25 / 5 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) · [审查](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/审查报告.md>) |
+| Fire Safety & Extinguisher Training | 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] | 通风柜的正确使用 | 111 | 9:15 | 34 / 6 | [剧本](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]/script.md>) · [审查](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]/审查报告.md>) |
+| Fire Safety & Extinguisher Training | 04_GHS Safety Data Sheets in the Laboratory | 读懂化学品安全技术说明书 | 137 | 11:25 | 36 / 6 | [剧本](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory/script.md>) · [审查](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 无菌操作与平板划线 | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/审查报告.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | pH电极的日常维护 | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/审查报告.md>) |
