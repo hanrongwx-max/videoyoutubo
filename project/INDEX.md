@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 398 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 399 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -14,10 +14,10 @@
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
+| Laboratory Ergonomics & RSI | 13 / 36 | 0 / 8 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
-| Laboratory Ergonomics & RSI | 12 / 36 | 0 / 8 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
@@ -488,6 +488,7 @@
 | Laboratory Ergonomics & RSI | 10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te | 单一版 | 动火作业安全十问 | 81 | 6:45 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te/script.md>) · [审查](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet | 单一版 | 脚手架安全十问 | 72 | 6:00 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet/script.md>) · [审查](<Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te | 单一版 | 作业许可十问 | 67 | 5:35 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te/script.md>) · [审查](<Laboratory Ergonomics & RSI/12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T | 单一版 | 机械防护十问 | 66 | 5:30 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T/script.md>) · [审查](<Laboratory Ergonomics & RSI/13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
