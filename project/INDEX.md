@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 222 / 441 个视频。
+已编写 224 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 31 / 47 |
+| BIORISK MANAGEMENT | 33 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -108,6 +108,8 @@
 | BIORISK MANAGEMENT | 29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT | 生物风险管理学习路线 | 49 | 4:05 | 10 / 3 | [剧本](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse) | 把生物安全管成一个体系 | 118 | 9:50 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)/script.md>) · [审查](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)/审查报告.md>) |
 | BIORISK MANAGEMENT | 31_World Health Organization Risk Groups | 四个风险组怎么分 | 53 | 4:25 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups/script.md>) · [审查](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups/审查报告.md>) |
+| BIORISK MANAGEMENT | 32_MOOC INTRODUCTION TO BIORISK MANAGEMENT | 走进生物风险管理 | 39 | 3:15 | 7 / 4 | [剧本](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT/审查报告.md>) |
+| BIORISK MANAGEMENT | 34_GENERAL PRINCIPLES BIORISK MANAGEMENT | 风险分组与防护水平 | 70 | 5:50 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
