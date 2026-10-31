@@ -1,0 +1,597 @@
+{
+ "id": "05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工工具与直流稳压电源",
+ "seconds": 205,
+ "source_doc": "course/Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St.md",
+ "author_source": "project/Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St/src.py",
+ "points": {
+  "K1": "本课内容",
+  "K2": "试电笔：查有没有电",
+  "K3": "试电笔的结构",
+  "K4": "试电笔的原理",
+  "K5": "人体与大地的电容",
+  "K6": "试电笔品种多",
+  "K7": "螺丝刀",
+  "K8": "布线离不开螺丝刀",
+  "K9": "尖嘴钳",
+  "K10": "剥线用剥线钳",
+  "K11": "斜口钳",
+  "K12": "压线钳",
+  "K13": "稳压电源：开关和指示灯",
+  "K14": "两个通道",
+  "K15": "红正黑负",
+  "K16": "调电压、设限流",
+  "K17": "显示屏和铭牌",
+  "K18": "直流实验要用它",
+  "K19": "本课回顾"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在工具墙前，墙上挂着螺丝刀、试电笔、钳子，旁边一台双通道直流电源，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of a tool wall with screwdrivers, a voltage tester pen and pliers, next to a dual-channel DC power supply, waving at the camera.",
+   "narration": "这一课认识电工工具和直流稳压电源。",
+   "overlay": [
+    "电工工具与直流稳压电源"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "试电笔、螺丝刀、钳子、直流电源四个图标",
+   "prompt_en": "Four icons in a row: a voltage tester pen, a screwdriver, a pair of pliers and a DC power supply with blank displays. No people.",
+   "narration": "试电笔、螺丝刀、钳子、电源。",
+   "overlay": [],
+   "labels": [
+    "试电笔",
+    "螺丝刀",
+    "钳子",
+    "稳压电源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着工具墙上的试电笔、钳子发愣",
+   "prompt_en": "The young male student stares at a tool wall with a voltage tester screwdriver and several pliers, puzzled.",
+   "narration": "阿杰看着一墙工具，叫不出名字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰盯着双通道电源面板上的一排旋钮",
+   "prompt_en": "The young male student stares at the row of knobs on a dual-channel DC power supply panel.",
+   "narration": "电源上这么多旋钮，又该怎么调？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿起一支试电笔递给他",
+   "prompt_en": "The female graduate student picks up a voltage tester screwdriver and hands it to him.",
+   "narration": "小研说：一件一件认，很快就会用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先讲工具，再讲稳压电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课内容",
+   "scene": "欣欣依次指向工具和电源",
+   "prompt_en": "The panda mascot points in turn at the hand tools and the power supply.",
+   "narration": "螺丝刀、试电笔、钳子和稳压电源。",
+   "overlay": [
+    "本课内容"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "试电笔：查有没有电",
+   "scene": "试电笔笔尖接触插座的相线孔，氖泡发光",
+   "prompt_en": "The tip of a voltage tester screwdriver touches the live slot of a wall socket and its neon bulb glows. No people.",
+   "narration": "试电笔用来检查导体有没有电。",
+   "overlay": [
+    "试电笔：查有没有电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "试电笔：查有没有电",
+   "scene": "氖泡发光配闪电符号，不发光配一个空圈",
+   "prompt_en": "Two icons: a glowing neon bulb with a lightning symbol, and an unlit neon bulb with an empty circle. No people.",
+   "narration": "氖泡亮，说明带电；不亮，就是没电。",
+   "overlay": [],
+   "labels": [
+    "亮：有电",
+    "不亮：没电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "试电笔的结构",
+   "scene": "试电笔剖面：笔尖金属杆、电阻、氖泡、弹簧、尾部金属",
+   "prompt_en": "A cutaway icon of a voltage tester pen showing the metal tip, a resistor, a neon lamp, a spring and the metal end cap. No people.",
+   "narration": "里面有电阻、氖泡和弹簧。",
+   "overlay": [
+    "试电笔的结构"
+   ],
+   "labels": [
+    "笔尖",
+    "电阻",
+    "氖泡",
+    "弹簧",
+    "尾部金属"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "试电笔的原理",
+   "scene": "手指按住尾部金属，笔尖接触导体",
+   "prompt_en": "A hand holding a tester pen with a finger on the metal end cap while the tip touches a conductor. No people.",
+   "narration": "手按尾部金属，笔尖接触导体。",
+   "overlay": [
+    "试电笔的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "试电笔的原理",
+   "scene": "电流箭头从笔尖经电阻、氖泡、人体流入大地",
+   "prompt_en": "An icon of a tiny current arrow flowing from the conductor through the resistor, the neon lamp and a person pictogram to the ground. No people.",
+   "narration": "电流经电阻、氖泡和人体流入大地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "试电笔的原理",
+   "scene": "电压条大部分落在电阻上",
+   "prompt_en": "A voltage bar divided into sections, the biggest section across the resistor icon. No people.",
+   "narration": "大电阻分走大部分电压，电流极小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "人体与大地的电容",
+   "scene": "人体与大地之间画出电容符号",
+   "prompt_en": "An icon of a person standing on the ground with a capacitor symbol drawn between the body and the earth. Flat icon style.",
+   "narration": "人体和大地之间的电容，也构成回路。",
+   "overlay": [
+    "人体与大地的电容"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "人体与大地的电容",
+   "scene": "欣欣摊开双手微笑",
+   "prompt_en": "The panda mascot spreads her paws and smiles.",
+   "narration": "所以，用试电笔不会触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "试电笔品种多",
+   "scene": "几种不同样式的试电笔排成一排，旁边钱币图标高低不同",
+   "prompt_en": "Several voltage testers of different styles in a row, with coin stacks of different heights beside them. No people.",
+   "narration": "试电笔品种很多，价格相差也大。",
+   "overlay": [
+    "试电笔品种多"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "螺丝刀",
+   "scene": "一字和十字螺丝刀，手柄是绝缘材料",
+   "prompt_en": "A flat-head and a cross-head screwdriver with insulated handles. No people.",
+   "narration": "螺丝刀用来拧紧、松开螺钉。",
+   "overlay": [
+    "螺丝刀"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "螺丝刀",
+   "scene": "螺丝刀标出刀头、杆和手柄",
+   "prompt_en": "A screwdriver icon with its tip, shaft and handle highlighted. No people.",
+   "narration": "刀头卡住螺钉，转动手柄施力。",
+   "overlay": [],
+   "labels": [
+    "刀头",
+    "杆",
+    "绝缘手柄"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "布线离不开螺丝刀",
+   "scene": "老李用螺丝刀把开关面板固定在木布线板上",
+   "prompt_en": "The facility engineer uses a screwdriver to fix a switch plate onto a wooden wiring board.",
+   "narration": "装家用布线板，离不开螺丝刀。",
+   "overlay": [
+    "布线离不开螺丝刀"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "尖嘴钳",
+   "scene": "尖嘴钳夹住导线头弯成小圈",
+   "prompt_en": "Needle-nose pliers gripping the end of a wire and bending it into a small loop. No people.",
+   "narration": "尖嘴钳，能夹、能弯、能剪。",
+   "overlay": [
+    "尖嘴钳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "剥线用剥线钳",
+   "scene": "尖嘴钳夹住导线绝缘皮",
+   "prompt_en": "Long-nose pliers gripping the insulation of a wire end. No people.",
+   "narration": "尖嘴钳也能剥绝缘皮。",
+   "overlay": [
+    "剥线用剥线钳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "剥线用剥线钳",
+   "scene": "剥线钳剥下导线绝缘皮，打绿勾",
+   "prompt_en": "Wire strippers removing insulation from a wire end, with a green check. No people.",
+   "narration": "不过剥线，最好用剥线钳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "斜口钳",
+   "scene": "斜口钳剪断一根铜线",
+   "prompt_en": "Diagonal side cutters snipping a disconnected copper wire. No people.",
+   "narration": "斜口钳，专门用来剪线。",
+   "overlay": [
+    "斜口钳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "斜口钳",
+   "scene": "铜线、黄铜线、铁丝三个图标",
+   "prompt_en": "Icons of copper wire, brass wire and iron wire, each with a cut mark. No people.",
+   "narration": "铜线、铁丝都能剪断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "压线钳",
+   "scene": "压线钳把端子压在导线头上",
+   "prompt_en": "A crimping tool pressing a metal terminal onto the end of a wire. No people.",
+   "narration": "压线钳把端子压紧在导线上。",
+   "overlay": [
+    "压线钳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "压线钳",
+   "scene": "压好的端子打绿勾",
+   "prompt_en": "A finished crimped terminal on a wire with a green check. No people.",
+   "narration": "压接牢固，接头才不松不发热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "稳压电源：开关和指示灯",
+   "scene": "双通道直流稳压电源面板：电源开关和指示灯",
+   "prompt_en": "The front panel of a dual-channel DC regulated power supply with a power switch and an indicator lamp highlighted, displays blank. No people.",
+   "narration": "稳压电源：先认电源开关和指示灯。",
+   "overlay": [
+    "稳压电源：开关和指示灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "稳压电源：开关和指示灯",
+   "scene": "开关拨上，指示灯亮",
+   "prompt_en": "The power switch flipped up and the indicator lamp lighting up. No people.",
+   "narration": "开机后，指示灯亮起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "两个通道",
+   "scene": "面板左右两半分别高亮",
+   "prompt_en": "The left half and right half of the power supply panel highlighted in turn. No people.",
+   "narration": "它有两个通道，可以单独使用。",
+   "overlay": [
+    "两个通道"
+   ],
+   "labels": [
+    "通道1",
+    "通道2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "红正黑负",
+   "scene": "输出端一红一黑两个接线柱",
+   "prompt_en": "A red and a black output terminal on the power supply panel. No people.",
+   "narration": "输出端红色是正极，黑色是负极。",
+   "overlay": [
+    "红正黑负"
+   ],
+   "labels": [
+    "红 +",
+    "黑 −"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "红正黑负",
+   "scene": "小研对照电路图把红线接到正极",
+   "prompt_en": "The female graduate student connects a red lead to the positive terminal, checking a blank circuit diagram.",
+   "narration": "直流接线，正负极要分清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "调电压、设限流",
+   "scene": "电压和电流显示切换开关",
+   "prompt_en": "A display selector switch for voltage or current on the power supply panel. No people.",
+   "narration": "显示屏可切换看电压或电流。",
+   "overlay": [
+    "调电压、设限流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "调电压、设限流",
+   "scene": "粗调和细调两个电压旋钮",
+   "prompt_en": "Coarse and fine voltage knobs highlighted on the panel. No people.",
+   "narration": "粗调、细调旋钮配合设电压。",
+   "overlay": [],
+   "labels": [
+    "粗调",
+    "细调"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "调电压、设限流",
+   "scene": "限流旋钮被高亮，旁边是电流上限图标",
+   "prompt_en": "The current limit knob highlighted, with a current ceiling icon beside it. No people.",
+   "narration": "限流旋钮，设定输出电流的上限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "调电压、设限流",
+   "scene": "限流旋钮被拧到最大位置",
+   "prompt_en": "The current limit knob turned all the way to its maximum position. No people.",
+   "narration": "讲解里说：限流旋钮始终放在最大。",
+   "overlay": [],
+   "labels": [
+    "限流：最大"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "显示屏和铭牌",
+   "scene": "数字显示屏和底部空白铭牌",
+   "prompt_en": "The digital display and a blank nameplate at the bottom of the power supply. No people.",
+   "narration": "看显示屏读数，看铭牌的输出范围。",
+   "overlay": [
+    "显示屏和铭牌"
+   ],
+   "labels": [
+    "0–30 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "直流实验要用它",
+   "scene": "稳压电源接到一个直流电阻电路板上",
+   "prompt_en": "The power supply connected to a DC resistor network board on a bench. No people.",
+   "narration": "做直流电路实验，就用它供电。",
+   "overlay": [
+    "直流实验要用它"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "本课回顾",
+   "scene": "工具和电源图标依次亮起",
+   "prompt_en": "The tool icons and the power supply icon light up one by one. No people.",
+   "narration": "这些工具，各专业都用得上。",
+   "overlay": [
+    "本课回顾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "试电笔、螺丝刀、钳子图标",
+   "prompt_en": "Icons of a voltage tester, a screwdriver and several pliers. No people.",
+   "narration": "试电笔查电，螺丝刀拧，钳子夹剪压。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "稳压电源面板，旋钮和红黑端子高亮",
+   "prompt_en": "A power supply panel with its knobs and red and black terminals highlighted. No people.",
+   "narration": "稳压电源：红正黑负，调压设限流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣把工具一件件挂回工具墙，挥手道别",
+   "prompt_en": "The panda mascot hangs the tools back on the tool wall one by one and waves goodbye.",
+   "narration": "认识了工具和电源，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
