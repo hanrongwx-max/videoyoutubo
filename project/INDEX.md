@@ -13,7 +13,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 16 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 17 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
@@ -448,6 +448,7 @@
 | Lab Safety Training - Essential Protocols | 09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments | 国内版 | 压缩气瓶的安全使用（国内版） | 56 | 4:40 | 25 / 4 | [剧本](<Lab Safety Training - Essential Protocols/09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training | 原著版 | 从设计开始防电气危害 | 50 | 4:10 | 22 / 0 | [剧本](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training/script.md>) |
 | Lab Safety Training - Essential Protocols | 10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training | 国内版 | 从设计开始防电气危害（国内版） | 54 | 4:30 | 22 / 4 | [剧本](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 11_Laboratory Safety Training Handling Hazardous Materials with Confidence | 原著版 | 危险物料：心中有数再动手 | 27 | 2:15 | 9 / 0 | [剧本](<Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence/script.md>) |
 | Lab Safety Training - Essential Protocols | 11_Laboratory Safety Training Handling Hazardous Materials with Confidence | 国内版 | 危险物料：心中有数再动手（国内版） | 31 | 2:35 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course | 国内版 | 电气危害：认得清，躲得开（国内版） | 33 | 2:45 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course | 原著版 | 低温液体：冷得伤人 | 49 | 4:05 | 21 / 0 | [剧本](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course/script.md>) |
