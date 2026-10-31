@@ -1,0 +1,120 @@
+# 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu 原著版卡通剧本作者源
+# 照原片 K1–K8（定义、动机、后果、实施者、危害程度不一、因子三大类、严重犯罪、政府与国际组织防范），无补充知识点；
+# 生物安保底线：只到识别、预防、报告层面；因子只分细菌 / 病毒 / 毒素三类，不点名、不讲机理，原片可被利用的形式和真实事件全部不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字。
+
+META = {
+    "title": "生物恐怖怎么防：识别·预防·报告",
+    "edition": "原著版",
+    "points": {
+        "K1": "生物恐怖：故意用病原制造伤害",
+        "K2": "动机多是政治或社会目的",
+        "K3": "目标：大范围疾病、死亡与恐慌",
+        "K4": "实施者：个人、团体乃至国家",
+        "K5": "因子种类多，危害有高低",
+        "K6": "高危因子分细菌、病毒、毒素三类",
+        "K7": "恶意使用生物因子是严重犯罪",
+        "K8": "政府与国际组织努力防范",
+    },
+    "avoid": ["raqbamicrohub", "Ragba Micro Hub", "Ragba", "ARHMicroHub", "ARH Micro Hub",
+              "Bacillus anthracis", "Variola", "Yersinia pestis", "Clostridium botulinum"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验室门口，向镜头招手",
+ "The panda mascot stands at the door of a microbiology teaching lab and waves at the camera.",
+ "这一课讲生物恐怖怎么防。", "生物恐怖怎么防：识别·预防·报告"),
+("开场", "欣欣身旁浮现盾牌、眼睛、电话三个图标",
+ "The panda mascot points to three floating icons: a shield, an eye, and a telephone. Blank icons.",
+ "记住三件事：识别、预防、报告。", "", ["识别", "预防", "报告"]),
+# 情景
+("情景", "阿杰在休息区看着一本空白封面的课本",
+ "The young male student sits in a lounge reading a textbook with a blank cover, frowning.",
+ "阿杰在课本上读到生物恐怖这个词。"),
+("情景", "阿杰转身问小研",
+ "The young male student turns and asks the female graduate student a question.",
+ "他问：它和实验室安全有什么关系？"),
+("情景", "欣欣出现在两人身旁",
+ "The panda mascot appears beside the two students in the lab.",
+ "欣欣说：先弄懂什么是生物恐怖。"),
+# K1
+("K1", "一个生物危害图标，旁边一只握拳的手被打叉",
+ "A biohazard pictogram next to a clenched fist icon with a red cross over it. No people.",
+ "有人故意用病原制造伤害。", "什么是生物恐怖"),
+("K1", "细菌、病毒、毒素三个空白图标并排",
+ "Three simple blank pictograms in a row: a bacterium, a virus, and a toxin flask. No people.",
+ "细菌、病毒、毒素都可能被滥用。"),
+# K2
+("K2", "一群人形图标旁边一个问号",
+ "A group of blank human-figure icons beside a large question mark. No people shown in detail.",
+ "动机多是政治或社会目的。", "为什么会发生"),
+("K2", "欣欣表情严肃地对镜头说话",
+ "The panda mascot speaks to the camera with a serious expression.",
+ "说到底，是想害人、制造恐慌。"),
+# K3
+("K3", "一片人群图标上方出现警报标志",
+ "A crowd of blank figure icons with an alarm symbol floating above them. No people shown in detail.",
+ "目标是大范围的病、死和恐慌。", "想造成什么"),
+("K3", "一个惊恐表情图标向四周扩散",
+ "A single fearful-face icon with ripples spreading outward. No people.",
+ "制造恐惧，本身就是手段。"),
+# K4
+("K4", "一个人影、一群人影和一面空白旗帜，都被打叉",
+ "A single figure silhouette, a group silhouette, and a blank flag, all marked with red crosses. No people shown in detail.",
+ "实施者可能是个人或团体。", "谁会这么做"),
+("K4", "欣欣摇头",
+ "The panda mascot shakes its head.",
+ "甚至有国家怀着恶意去做。"),
+# K5
+("K5", "一架天平，两端放着大小不同的危害图标",
+ "A balance scale with hazard pictograms of different sizes on each pan. No people.",
+ "不同因子，危害差别很大。", "因子种类多，危害有高低"),
+("K5", "几个大小不同的警示三角排成一行",
+ "Several warning triangles of different sizes in a row. No people.",
+ "可能被滥用的因子种类很多。"),
+# K6
+("K6", "三个分组的方框，分别装着细菌、病毒、毒素图标",
+ "Three grouped boxes, each holding a simple icon: a bacterium, a virus, and a toxin flask. No people.",
+ "被关注的高危因子分三类。", "高危因子举例"),
+("K6", "细菌类图标，被一个圆圈标出",
+ "A simple bacterium pictogram circled. No people.",
+ "有的是细菌类。"),
+("K6", "病毒类图标，被一个圆圈标出",
+ "A simple virus pictogram circled. No people.",
+ "有的是病毒类。"),
+("K6", "毒素瓶图标，被一个圆圈标出并打叉",
+ "A simple toxin flask pictogram circled, with a red cross over it. No people.",
+ "有的是毒素类。"),
+("K6", "欣欣竖起一根手指提醒",
+ "The panda mascot raises one finger as a reminder.",
+ "细节不讲，记住它们很危险。"),
+# K7
+("K7", "一把法槌和一个生物危害图标并列",
+ "A judge's gavel next to a biohazard pictogram. No people.",
+ "恶意使用生物因子是重罪。", "这是严重犯罪"),
+("K7", "一副空白手铐图标",
+ "A pair of plain handcuffs icon. No people.",
+ "后果很严重，绝不能碰。"),
+# K8
+("K8", "一栋政府楼图标和一个地球图标",
+ "A government-building icon beside a globe icon. No people.",
+ "政府和国际组织一直在防。", "有人在防范"),
+("K8", "欣欣点头",
+ "The panda mascot nods at the camera.",
+ "我们能做的，是识别和报告。"),
+# 小结
+("小结", "欣欣和盾牌、眼睛、电话三个图标",
+ "The panda mascot stands with three icons: a shield, an eye, and a telephone. Blank icons.",
+ "三件事：识别、预防、报告。"),
+("小结", "生物危害图标被打叉，旁边法槌",
+ "A biohazard pictogram crossed out with a red X next to a judge's gavel. No people.",
+ "恶意使用生物因子，是严重犯罪。"),
+("小结", "政府楼和地球图标",
+ "A government-building icon beside a globe icon. No people.",
+ "各国和国际组织都在合力防范。"),
+# 结尾
+("结尾", "欣欣在实验室门口向镜头挥手告别",
+ "The panda mascot waves goodbye at the lab door.",
+ "识别、预防、报告，下次见！"),
+]
