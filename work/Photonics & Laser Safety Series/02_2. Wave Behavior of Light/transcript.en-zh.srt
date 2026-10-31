@@ -1,0 +1,1374 @@
+1
+00:00:09,680 --> 00:00:15,440
+Hello, everyone. We are continuing with our introduction to photonics video series with
+大家好。我们继续光子学入门系列视频，
+
+2
+00:00:15,440 --> 00:00:21,920
+lecture number two. Lecture number two deals with the wave behavior of light. We've seen
+进入第二讲。第二讲讲的是光的波动行为。我们在
+
+3
+00:00:21,920 --> 00:00:28,720
+in the first lecture that light represents an electromagnetic wave or a form of electromagnetic
+第一讲中看到，光是一种电磁波，或者说是一种电磁
+
+4
+00:00:28,720 --> 00:00:35,600
+energy that has both wave and particle properties. In this lecture, we are going one step further
+能，它同时具有波动性和粒子性。在本讲中，我们再进一步，
+
+5
+00:00:35,600 --> 00:00:41,680
+and analyzing some of the specific phenomena that can be explained only if you're looking at the
+分析一些只有把
+
+6
+00:00:41,680 --> 00:00:48,880
+light as a wave. So we are going to be analyzing a few phenomena related to the light, specifically
+光看作波才能解释的具体现象。所以我们将分析几种与光有关的现象，具体来说是
+
+7
+00:00:48,880 --> 00:00:57,520
+reflection, refraction, and then also we are going to establish a few laws, specifically law of
+反射、折射，然后我们还将建立几条定律，具体来说是
+
+8
+00:00:57,520 --> 00:01:04,800
+reflection and so-called Snell's law of refraction that will be used to quantify the behavior of
+反射定律和所谓的斯涅尔折射定律，它们将用来定量描述
+
+9
+00:01:05,360 --> 00:01:13,360
+light as a wave in the case of behavior when the light hits another medium or propagates from one
+光作为波的行为，也就是光照射到另一种介质，或者从一种
+
+10
+00:01:13,360 --> 00:01:18,320
+medium into the other medium, etc. And finally, at the end, we're also going to talk a little bit
+介质传播到另一种介质时的行为，等等。最后，我们还会稍微谈一谈
+
+11
+00:01:18,320 --> 00:01:23,680
+about the diffraction and interference, which are also the phenomena that pertain to light
+衍射和干涉，它们也是与光的
+
+12
+00:01:24,880 --> 00:01:30,560
+wave behavior. With this slide, we're introducing another quantity that is related to the wave
+波动行为有关的现象。在这张幻灯片上，我们引入另一个与波动
+
+13
+00:01:30,560 --> 00:01:40,080
+behavior, so-called phase. As already mentioned, waves exhibit a certain wave behavior that can
+行为有关的量，即所谓的相位。如前所述，波表现出某种波动行为，
+
+14
+00:01:40,080 --> 00:01:49,040
+be represented by the sinusoidal curve as shown on the plot on this slide. And that wave behavior
+可以用正弦曲线来表示，如本幻灯片上的图所示。而这种波动行为
+
+15
+00:01:49,040 --> 00:01:56,160
+or that sinusoidal behavior is both in a time domain and in a space domain. In other words,
+或者说正弦行为，既存在于时域中，也存在于空间域中。换句话说，
+
+16
+00:01:56,240 --> 00:02:03,680
+we have a vibration both in time and space. Another way to represent the wave behavior is
+我们在时间和空间上都有振动。表示波动行为的另一种方式是
+
+17
+00:02:03,680 --> 00:02:12,240
+in terms of so-called phase where on the x-axis instead of units of length or units of time,
+用所谓的相位来表示，这时在 x 轴上，我们不用长度单位或时间单位，
+
+18
+00:02:12,240 --> 00:02:18,160
+we are putting the units of angles and we see that the total period
+而是用角度单位，我们看到整个周期
+
+19
+00:02:19,120 --> 00:02:32,320
+is equal to be correlated to the phase of 360 degrees. So by doing this type of correlation,
+对应于 360 度的相位。所以通过这种对应，
+
+20
+00:02:32,320 --> 00:02:39,200
+we can remove the dependence of the x-axis from time and space and look at everything in terms
+我们可以去掉 x 轴对时间和空间的依赖，把一切都用
+
+21
+00:02:39,200 --> 00:02:46,720
+of angles, which greatly simplifies the whole mathematical analysis of these types of
+角度来看待，这大大简化了对这类
+
+22
+00:02:46,720 --> 00:02:57,120
+behaviors that can be described by sinusoidal curves. So we can define the phase of a wave as
+可以用正弦曲线描述的行为的整个数学分析。所以我们可以把波的相位定义为
+
+23
+00:02:58,640 --> 00:03:04,960
+the angular displacement of a specific point on the sinusoidal curve from the last positive
+正弦曲线上某一点相对于波上一次正向
+
+24
+00:03:04,960 --> 00:03:11,280
+zero crossing of the wave, where a positive zero crossing occurs at those zero displacement points
+过零点的角位移，正向过零点出现在那些位移为零、
+
+25
+00:03:11,280 --> 00:03:18,000
+where the new displacement is about to become positive. All these are the properties of
+且新的位移即将变为正值的点。所有这些都是
+
+26
+00:03:18,000 --> 00:03:25,520
+sinusoidal functions that can further be elaborated to the concepts of trigonometry
+正弦函数的性质，可以进一步延伸到三角学的概念，
+
+27
+00:03:25,520 --> 00:03:33,680
+that's going to go beyond this class. Now why is the phase as a quantity important for us?
+那就超出本课程的范围了。那么，为什么相位这个量对我们很重要呢？
+
+28
+00:03:34,240 --> 00:03:40,000
+If you compare the two waves that you are seeing on this slide, you can see that both of these
+如果你比较这张幻灯片上的两列波，你会看到这两列
+
+29
+00:03:40,000 --> 00:03:52,400
+waves exhibit a very similar pattern in the sense that their wavelength or frequency are
+波表现出非常相似的图样，也就是说它们的波长或频率
+
+30
+00:03:52,400 --> 00:04:01,600
+the same. In other words, the distance between the two peaks on these two curves is equal. In other
+是相同的。换句话说，这两条曲线上两个波峰之间的距离相等。换
+
+31
+00:04:01,600 --> 00:04:06,480
+words, since we are dealing here with a distance along the x-axis, we are dealing with the
+句话说，由于这里我们处理的是沿 x 轴的距离，所以我们处理的是
+
+32
+00:04:06,480 --> 00:04:12,000
+wavelength. In other words, the wavelength of the wave 1 and the wavelength of the wave 2 are the
+波长。换句话说，波 1 的波长和波 2 的波长是
+
+33
+00:04:12,000 --> 00:04:20,240
+same. However, you can also observe that the two peaks of the two waves are not perfectly
+相同的。但是，你也可以观察到两列波的两个波峰并不完全
+
+34
+00:04:20,240 --> 00:04:26,320
+synchronized. In other words, they are not occurring at the same location. So if you
+同步。换句话说，它们不出现在同一位置。所以如果你
+
+35
+00:04:26,320 --> 00:04:31,360
+look at the peak of the wave 1, you can see that the peak of the wave 1 is at a different
+看波 1 的波峰，你会看到波 1 的波峰所在的
+
+36
+00:04:31,360 --> 00:04:37,280
+location than the peak of the wave 2. In other words, we are talking about so-called phase
+位置与波 2 的波峰不同。换句话说，我们说的是所谓的相位
+
+37
+00:04:38,000 --> 00:04:44,400
+difference that in this case here is equal to 90 degrees that is going to result in a certain
+差，在这里它等于 90 度，如果这两列波出现在同一空间，
+
+38
+00:04:45,200 --> 00:04:51,520
+interference behavior between these two waves if they are occurring in the same space.
+这个相位差会导致它们之间产生某种干涉行为。
+
+39
+00:04:52,880 --> 00:05:00,640
+We would use the term coherent to describe multiple light waves that are all in phase or in step
+我们用“相干”这个词来描述多列彼此同相或步调一致的
+
+40
+00:05:00,640 --> 00:05:08,000
+with one another. So the coherent behavior of multiple light waves is shown on a plot on
+光波。所以多列光波的相干行为显示在
+
+41
+00:05:08,000 --> 00:05:16,640
+this slide. As you can see, the peaks of all these different six waves are basically occurring
+这张幻灯片的图上。如你所见，这六列不同的波的波峰基本上都
+
+42
+00:05:18,320 --> 00:05:24,160
+at the same location if you are dealing with the sinusoidal curves that are represented as a
+出现在同一位置，如果你处理的是表示为空间或距离
+
+43
+00:05:24,160 --> 00:05:31,680
+function of a space or a distance. So coherent light is made up of waves that each have the
+函数的正弦曲线的话。所以相干光由这样的波组成：每列波都有
+
+44
+00:05:31,680 --> 00:05:38,800
+same wavelength and that are all in phase and added together. These coherent waves would produce
+相同的波长，并且都同相叠加在一起。这些相干波会产生
+
+45
+00:05:39,600 --> 00:05:45,440
+an overall wave of a much greater amplitude with very, very high peaks and lower valleys.
+一个振幅大得多的合成波，波峰非常非常高，波谷更低。
+
+46
+00:05:45,440 --> 00:05:49,760
+So in other words, they are perfectly synchronized. It's almost like we are creating a
+换句话说，它们是完全同步的。这几乎就像我们在制造一场
+
+47
+00:05:49,760 --> 00:05:56,160
+perfect storm that consists of all these different waves. We will see that coherent light
+由所有这些不同的波组成的完美风暴。我们将看到，相干光
+
+48
+00:05:56,160 --> 00:06:04,320
+is actually a behavior of light that's coming out of the lasers and it's directly related to the
+实际上就是从激光器发出的光的一种行为，它与光的
+
+49
+00:06:04,320 --> 00:06:12,560
+power of a light. In other words, if you want to establish a very, very high power of a specific
+功率直接相关。换句话说，如果你想让某个特定光源
+
+50
+00:06:13,280 --> 00:06:20,240
+light source, you would want to create a coherent type of a light, which in this case,
+达到非常非常高的功率，你就要产生相干类型的光，在这种情况下，
+
+51
+00:06:20,240 --> 00:06:27,280
+as mentioned, is going to be most probably a laser. As opposed to the coherent light, we also
+如前所述，那很可能就是激光。与相干光相对，我们还
+
+52
+00:06:27,280 --> 00:06:33,440
+may have an incoherent light. So in the case of incoherent waves, these waves, they do not
+可能有非相干光。在非相干波的情况下，这些波
+
+53
+00:06:33,440 --> 00:06:41,680
+possess identical phase angles along the vertical line. We can see that in this example, we are
+沿垂直线并不具有相同的相位角。我们可以看到，在这个例子中，
+
+54
+00:06:41,680 --> 00:06:50,400
+having four waves that have different wavelengths or frequencies and if these waves are added
+有四列波具有不同的波长或频率，如果把这些波
+
+55
+00:06:50,400 --> 00:06:55,840
+together, they will produce an overall wave of smaller displacements. So we may have different
+叠加在一起，它们会产生一个位移较小的合成波。所以我们这里可能有不同
+
+56
+00:06:55,840 --> 00:07:04,800
+types of interference here that can be either constructive or destructive based on how these
+类型的干涉，可以是相长干涉，也可以是相消干涉，取决于这些
+
+57
+00:07:04,800 --> 00:07:12,080
+waves are lined up. So in this case, again, we are dealing about an incoherent light that
+波是如何排列的。所以在这种情况下，我们再次讨论的是非相干光，它
+
+58
+00:07:12,080 --> 00:07:17,440
+is a representation of light that's coming from different types of non-laser sources like
+代表来自各种非激光光源的光，比如
+
+59
+00:07:17,440 --> 00:07:22,160
+arc lamps, incandescent bulbs and also the light that's coming from the sun.
+弧光灯、白炽灯泡，还有来自太阳的光。
+
+60
+00:07:23,360 --> 00:07:31,680
+So in general, incoherent light is not having a strong power or it's having a significantly less
+所以一般来说，非相干光的功率不强，或者说它的功率明显
+
+61
+00:07:32,640 --> 00:07:39,360
+power than the coherent light that's produced from laser sources. So to summarize,
+低于激光光源产生的相干光。总结一下，
+
+62
+00:07:40,640 --> 00:07:50,080
+the light based on its phase may be either coherent, where the waves are synchronized
+光按其相位可以是相干的，即各列波
+
+63
+00:07:50,080 --> 00:07:56,720
+from the phase perspective and in order to have a coherent light, multiple waves would have to have
+从相位的角度看是同步的，而要得到相干光，多列波必须具有
+
+64
+00:07:56,800 --> 00:08:02,880
+the same wavelength. As opposed to the coherent light, we may also have an incoherent light where
+相同的波长。与相干光相对，我们也可能有非相干光，其中
+
+65
+00:08:03,520 --> 00:08:11,520
+the waves are not phase synchronized and most of the time they also would have different wavelengths.
+各列波相位不同步，而且大多数情况下它们的波长也不同。
+
+66
+00:08:11,520 --> 00:08:20,240
+Incoherent light in general does not have a strong effect as the coherent light. In other words,
+一般来说，非相干光的作用不如相干光强。换句话说，
+
+67
+00:08:20,240 --> 00:08:26,000
+the power of the coherent light is much higher than the power that can be achieved by the
+相干光的功率远高于
+
+68
+00:08:26,080 --> 00:08:34,400
+incoherent light. An important property of wave behavior is an ability to reflect
+非相干光所能达到的功率。波动行为的一个重要性质是能够
+
+69
+00:08:35,200 --> 00:08:42,240
+from a surface between the two media. So here we are dealing with an incident light ray
+在两种介质之间的表面上发生反射。所以这里我们有一条入射光线，
+
+70
+00:08:42,800 --> 00:08:51,840
+that is hitting a certain surface between the two media and what's going to happen
+它照射到两种介质之间的某个表面上，而
+
+71
+00:08:52,400 --> 00:08:57,440
+when the light hits that medium is explained through the concept of so-called reflection.
+光照射到该介质时会发生什么，可以用所谓的反射概念来解释。
+
+72
+00:08:57,440 --> 00:09:03,520
+So we are going to have a reflection of light. The question is in what direction is light is going
+所以我们会有光的反射。问题是光会
+
+73
+00:09:03,520 --> 00:09:10,720
+to be reflected. It can be quantified through so-called law of reflection. So how we are
+向哪个方向反射。这可以用所谓的反射定律来定量描述。那么我们如何
+
+74
+00:09:10,720 --> 00:09:16,240
+establishing the role of reflection, we are looking at the point of reflection of the light.
+建立反射定律呢？我们看光的反射点。
+
+75
+00:09:16,240 --> 00:09:21,600
+At that point of reflection, we are establishing the axis that is perpendicular to the surface
+在这个反射点上，我们建立一条垂直于
+
+76
+00:09:21,600 --> 00:09:28,240
+between the two media. So we have one medium from which the light originates that's represented
+两种介质之间表面的轴。所以我们有光所来自的一种介质，
+
+77
+00:09:28,240 --> 00:09:35,120
+here as an incident ray and then down below this surface is a different medium. So when the light
+这里用入射光线表示，而在这个表面下方是另一种介质。所以当光
+
+78
+00:09:35,120 --> 00:09:42,000
+hits this surface between the media above and the media below, it is going to reflect at that
+照射到上方介质和下方介质之间的这个表面时，它会在
+
+79
+00:09:42,000 --> 00:09:48,720
+point of contact or point of reflection. We are going to establish the axis or line that's
+这个接触点或反射点上发生反射。我们建立一条
+
+80
+00:09:48,720 --> 00:09:53,280
+perpendicular to the surface between the two media and then we are going to be measuring two
+垂直于两种介质之间表面的轴或直线，然后我们测量两个
+
+81
+00:09:53,280 --> 00:10:02,080
+angles. One angle is so-called incident angle represented here as angle A and then we are also
+角。一个角是所谓的入射角，这里表示为角 A，然后我们还
+
+82
+00:10:02,080 --> 00:10:07,600
+going to have a reflected angle which is basically the angle that the reflected light ray is going
+有一个反射角，它基本上就是反射光线
+
+83
+00:10:07,600 --> 00:10:14,240
+to establish relative to the axis, to the normal axis, that is going to be the angle B. It turns
+相对于这条轴，也就是法线，所形成的角，这就是角 B。结果
+
+84
+00:10:14,240 --> 00:10:20,320
+out that according to the law of reflection, these two angles are equal. In other words, the incident
+表明，根据反射定律，这两个角相等。换句话说，入射
+
+85
+00:10:20,320 --> 00:10:31,280
+angle A is equal to the incident angle B. So once more, the law of reflection states that the incident
+角 A 等于入射角 B。所以再说一遍，反射定律指出入射
+
+86
+00:10:31,280 --> 00:10:37,840
+angle and the reflected angle are equal to each other where incident angle is established by
+角和反射角彼此相等，其中入射角由
+
+87
+00:10:38,800 --> 00:10:46,480
+the incident light ray and the axis normal to the surface of the reflection while the reflected
+入射光线和垂直于反射面的法线构成，而反射
+
+88
+00:10:46,480 --> 00:10:53,120
+angle is established as an angle between the reflected light ray and normal axis.
+角是反射光线与法线之间的夹角。
+
+89
+00:10:54,560 --> 00:11:01,760
+It's also important to mention that incident light ray, reflected light ray and normal or the
+还要提到的重要一点是，入射光线、反射光线和法线，也就是
+
+90
+00:11:01,760 --> 00:11:10,720
+axis perpendicular to the surface of reflection, are always positioned, are always lie in the same
+垂直于反射面的轴，总是位于、总是处在同一个
+
+91
+00:11:10,720 --> 00:11:16,320
+plane surface. So this plane here that you can see that's being established by the incident
+平面内。所以你在这里看到的这个由入射
+
+92
+00:11:17,120 --> 00:11:22,320
+light ray and the reflected light ray and the normal axis is the plane in which all these
+光线、反射光线和法线构成的平面，就是这
+
+93
+00:11:22,320 --> 00:11:30,880
+three light rays are positioned. Another important phenomenon that's related to the
+三条线所在的平面。另一个与光的
+
+94
+00:11:30,880 --> 00:11:37,840
+wave behavior of light is so-called refraction or popularly known also as a bending of light.
+波动行为有关的重要现象是所谓的折射，也就是通常所说的光的弯折。
+
+95
+00:11:37,840 --> 00:11:44,160
+So it turns out that light always propagates along the straight lines as long as it propagates
+结果表明，只要光在同一种介质中传播，
+
+96
+00:11:44,160 --> 00:11:52,320
+within the same media. If the light is going to move from one medium into the other medium,
+它总是沿直线传播。如果光要从一种介质进入另一种介质，
+
+97
+00:11:53,920 --> 00:12:00,000
+a phenomenon that's known as a refraction or a bending is going to occur where the direction
+就会发生一种称为折射或弯折的现象，此时光的
+
+98
+00:12:00,000 --> 00:12:06,080
+of the propagation of light is going to change. So here we are dealing with two media, medium number
+传播方向会改变。所以这里我们有两种介质，介质
+
+99
+00:12:06,080 --> 00:12:12,640
+one that's characterized by the index of refraction and one that's a position above
+一，其折射率为 n1，位于
+
+100
+00:12:12,640 --> 00:12:18,240
+this interface and then we also have the medium number two that's characterized by the index of
+这个界面上方，然后我们还有介质二，其折射
+
+101
+00:12:18,240 --> 00:12:25,760
+refraction and two that's positioned below the interface. And we can see that the light
+率为 n2，位于界面下方。我们可以看到光
+
+102
+00:12:25,760 --> 00:12:31,360
+is incident from the medium one. It's going to hit the surface between the two media
+从介质一入射。它会照射到两种介质之间的表面上，
+
+103
+00:12:32,000 --> 00:12:36,560
+and then to a certain extent it's going to get reflected which is what's been already analyzed
+然后在一定程度上被反射，这在
+
+104
+00:12:36,560 --> 00:12:41,920
+on the previous slide. And then to a certain extent it's going to get bent or refracted into
+上一张幻灯片中已经分析过了。然后在一定程度上，它会弯折或折射进入
+
+105
+00:12:41,920 --> 00:12:47,520
+the second medium. So we have incident light ray, we have a reflected light ray and we have a
+第二种介质。所以我们有入射光线、反射光线和
+
+106
+00:12:47,520 --> 00:12:57,280
+refracted light ray. For the purpose of the refraction or bending what we are interested
+折射光线。就折射或弯折而言，我们感兴趣的
+
+107
+00:12:57,280 --> 00:13:04,720
+here are the incident light ray and refracted light ray. So we want to quantify how much
+是入射光线和折射光线。所以我们想定量描述
+
+108
+00:13:04,720 --> 00:13:10,400
+is light going to get bent or going to get refracted relative to the incident light ray.
+光相对于入射光线会弯折或折射多少。
+
+109
+00:13:10,400 --> 00:13:15,840
+Is it going to get refracted towards the normal towards the axis or it's going to get
+它是向法线、向这条轴折射，还是
+
+110
+00:13:15,840 --> 00:13:21,680
+refracted away from the axis. So we want to establish direction of propagation of the
+偏离这条轴折射？所以我们想确定
+
+111
+00:13:21,680 --> 00:13:29,360
+refracted light. There's a specific law known as Snell's law of refraction that quantifies this
+折射光的传播方向。有一条专门的定律，称为斯涅尔折射定律，用来定量描述这种
+
+112
+00:13:30,480 --> 00:13:36,240
+behavior. The formula that represents the Snell's law is given here in the top right hand corner
+行为。表示斯涅尔定律的公式在这里右上角给出：
+
+113
+00:13:37,200 --> 00:13:44,480
+and one times sine function of angle theta one is equal to and two times sine function of
+n1 乘以角 θ1 的正弦等于 n2 乘以
+
+114
+00:13:44,480 --> 00:13:49,360
+angle theta two. So let's try to decipher what is this in this equation. What you see
+角 θ2 的正弦。那么我们来试着解读一下这个方程里有什么。你在
+
+115
+00:13:49,360 --> 00:13:56,000
+on the left hand side of the equation is everything but pertains to the first medium or the medium
+方程左边看到的，全都属于第一种介质，也就是
+
+116
+00:13:56,000 --> 00:14:02,960
+from which the light originates and once on the right hand side is everything but pertains to the
+光所来自的介质，而右边的全都属于
+
+117
+00:14:02,960 --> 00:14:09,440
+second medium or the medium into which the light is going to get refracted. And one represents the
+第二种介质，也就是光将被折射进入的介质。n1 表示
+
+118
+00:14:09,440 --> 00:14:15,520
+index of refraction of the of the incident medium while n two represents the index of refraction of
+入射介质的折射率，而 n2 表示
+
+119
+00:14:15,520 --> 00:14:24,640
+the second medium. The angles theta one and theta two are are incident angle and refracted angle.
+第二种介质的折射率。角 θ1 和 θ2 是入射角和折射角。
+
+120
+00:14:24,640 --> 00:14:30,640
+How we are establishing these two angles we are going to first establish the line that's
+我们如何确定这两个角呢？我们首先作一条
+
+121
+00:14:30,640 --> 00:14:36,320
+perpendicular to the surface between the two media. This is going to be this dotted line
+垂直于两种介质之间表面的直线。这就是这条虚线，
+
+122
+00:14:36,960 --> 00:14:43,920
+and then the angle that incident light ray is going to establish with that axis is equal to theta one
+然后入射光线与这条轴所成的角等于 θ1，
+
+123
+00:14:43,920 --> 00:14:50,240
+while the angle that the refracted light ray is going to establish with that axis is represented
+而折射光线与这条轴所成的角用
+
+124
+00:14:50,240 --> 00:14:55,920
+by theta two. So these two angles theta one and theta two that appear in the formula
+θ2 表示。所以出现在斯涅尔折射定律公式中的
+
+125
+00:14:57,120 --> 00:15:04,320
+for Snell's law of refraction are the incident angle and the refracted angle. And we can
+这两个角 θ1 和 θ2 就是入射角和折射角。我们
+
+126
+00:15:04,320 --> 00:15:13,120
+also see that based on optical density of the two media optical density or that's been
+还可以看到，取决于两种介质的光密度，光密度
+
+127
+00:15:13,120 --> 00:15:18,080
+characterized by the two indexes of refraction and one and then two. So the optical density
+由两个折射率 n1 和 n2 来表征。所以光密度
+
+128
+00:15:18,080 --> 00:15:24,240
+is going to have an effect on how much light is going to bend into the second medium. So for
+会影响光在第二种介质中弯折多少。所以对于
+
+129
+00:15:24,240 --> 00:15:30,240
+different values of n two and n one we're going to have different amounts of refraction
+不同的 n2 和 n1 值，我们会有不同程度的折射，
+
+130
+00:15:31,200 --> 00:15:37,520
+and this is going to be analyzed in a in a greater detail in detail in the slides and lectures that
+这将在后面的幻灯片和讲座中更详细地
+
+131
+00:15:37,520 --> 00:15:44,160
+follow. Here we have a table that presents some of the indexes of refraction of the most popular
+分析。这里有一张表格，列出了光子学领域最常用的一些
+
+132
+00:15:44,160 --> 00:15:51,120
+media used in the field of photonics. So for the for the case of air index of refraction is very
+介质的折射率。对于空气，折射率非常
+
+133
+00:15:51,120 --> 00:15:57,760
+close to one and then we have a diamond with a index of refraction 2.42 gallium arsenide used
+接近 1，然后是钻石，折射率为 2.42，还有用于
+
+134
+00:15:57,760 --> 00:16:03,360
+in semiconductor technologies and then we have a glass zircon etc. So all these different media
+半导体技术的砷化镓，然后还有玻璃、锆石等等。所以你在这里看到的所有这些不同介质
+
+135
+00:16:03,360 --> 00:16:08,400
+that you can see here have different indexes of refraction. So as already explained there is a
+都有不同的折射率。所以如前所述，这个数有其
+
+136
+00:16:08,400 --> 00:16:15,360
+physical meaning of this number. We said that index of refraction represents the factor by
+物理意义。我们说过，折射率表示
+
+137
+00:16:15,360 --> 00:16:21,920
+how much speed of light is reduced in a specific medium relative to the speed of light in in air
+某种介质中的光速相对于空气中的光速降低了多少倍，
+
+138
+00:16:21,920 --> 00:16:28,160
+and then also these indexes of refraction would define would determine so-called optical density
+而且这些折射率还决定了某种介质的所谓光密度，
+
+139
+00:16:28,160 --> 00:16:36,320
+of a specific medium and also are going to affect by how much the light is gonna bend or refract it
+并且还会影响光弯折或折射的程度，
+
+140
+00:16:36,320 --> 00:16:44,640
+if that medium that medium is the medium in at which interface the refraction takes place.
+如果这种介质就是发生折射的界面所在的介质的话。
+
+141
+00:16:44,640 --> 00:16:52,800
+The next phenomenon that characterizes the wave behavior of light is so-called interference or
+下一个表征光的波动行为的现象是所谓的干涉或
+
+142
+00:16:53,440 --> 00:17:01,680
+so-called diffraction. So it turns out that when we have light waves multiple light waves of the
+所谓的衍射。结果表明，当我们有多列
+
+143
+00:17:01,680 --> 00:17:07,200
+same wavelength that are in phase coming from two different sources and are directed onto screen
+同波长、同相的光波来自两个不同的光源并射向屏幕时，
+
+144
+00:17:07,920 --> 00:17:16,240
+they could be made to overlap and interfere with one another. As briefly shown or presented
+它们可以被调节到相互重叠并彼此干涉。正如这张幻灯片上简要展示的，
+
+145
+00:17:16,240 --> 00:17:21,200
+on this slide we can see two light waves that are hitting the screen and we can see that at
+我们可以看到两列光波照射到屏幕上，并且可以看到在
+
+146
+00:17:21,200 --> 00:17:28,480
+certain locations these two light waves are going to interfere in the sense that they will
+某些位置，这两列光波会发生干涉，也就是说它们会
+
+147
+00:17:28,480 --> 00:17:34,560
+be adding up creating the bright lines while on the other locations on the screen they will be
+叠加，形成亮线，而在屏幕上的其他位置，它们会
+
+148
+00:17:34,560 --> 00:17:41,680
+canceling each other out resulting in a dark line on the screen. So this is so-called interference
+相互抵消，在屏幕上形成暗线。这就是所谓的光的干涉
+
+149
+00:17:41,680 --> 00:17:46,560
+of a diffraction of light that is going to be analyzed further on the slides that follow.
+或衍射，我们将在后面的幻灯片中进一步分析。
+
+150
+00:17:47,600 --> 00:17:51,600
+So once more to emphasize the concept that's been introduced on the previous slide
+所以再强调一下上一张幻灯片介绍的概念，
+
+151
+00:17:51,600 --> 00:17:57,120
+we're dealing with the two light waves that are emanating from a slits s1 and s2. So we are
+我们处理的是从狭缝 s1 和 s2 发出的两列光波。所以我们
+
+152
+00:17:57,120 --> 00:18:05,040
+dealing with a filter here that consists of two slits through which we are passing the light.
+这里处理的是一个由两条狭缝组成的滤光片，我们让光从中通过。
+
+153
+00:18:05,840 --> 00:18:11,040
+So these two slits act as two separate sources of light creating two separate
+这两条狭缝相当于两个独立的光源，产生两列独立的
+
+154
+00:18:11,680 --> 00:18:18,880
+waves and then these two waves will be interfering with one another. So the light
+波，然后这两列波会相互干涉。所以
+
+155
+00:18:18,880 --> 00:18:24,320
+that's moving outwardly from s1 and s2 will overlap and reinforce each other along the
+从 s1 和 s2 向外传播的光会沿着
+
+156
+00:18:24,320 --> 00:18:29,360
+lines with solid dots. So if you're looking at the solid dots that's those are those would be
+实心点所在的线相互重叠并相互加强。所以如果你看这些实心点，那些就是
+
+157
+00:18:29,360 --> 00:18:36,160
+the points where the peak of one wave and the peak of the other wave are overlapping
+一列波的波峰和另一列波的波峰重叠的点，
+
+158
+00:18:36,880 --> 00:18:44,960
+while we also have locations with these unfilled dots where we have overlap of the positive peak
+而还有一些空心点所在的位置，在那里一列波的正峰
+
+159
+00:18:44,960 --> 00:18:50,560
+of one wave and the negative peak of the other wave where those two positive and negative peaks
+与另一列波的负峰重叠，这两个正峰和负峰
+
+160
+00:18:50,560 --> 00:18:56,160
+will be canceling each other out. So if you put the screen in the back you'll see that you're
+会相互抵消。所以如果你在后面放一块屏幕，你会看到
+
+161
+00:18:56,160 --> 00:19:04,080
+going to have an alternate position of the of the regions of bright and dark lines that would make
+亮线区域和暗线区域交替出现，它们构成
+
+162
+00:19:04,080 --> 00:19:11,440
+up so-called interference fringes that are also shown here on a right hand side. So at the
+所谓的干涉条纹，右侧也显示了这些条纹。所以在
+
+163
+00:19:11,440 --> 00:19:18,880
+locations where you have so-called constructive interference where the positive peak of one wave
+发生所谓相长干涉的位置，也就是一列波的正峰
+
+164
+00:19:18,880 --> 00:19:23,840
+and positive peak of the other wave overlap those will be the locations where you have
+与另一列波的正峰重叠的位置，会产生
+
+165
+00:19:24,960 --> 00:19:32,400
+a cumulative effect that results in a bright line while you're also going to have dark regions that
+一种叠加效应，形成亮线，同时还会有暗区，
+
+166
+00:19:32,400 --> 00:19:40,640
+are shown darkest at the centers where there is an overlap between the positive peak of one wave
+在中心处最暗，那里一列波的正峰
+
+167
+00:19:40,640 --> 00:19:44,640
+and the negative peak of the other wave in other words these two peaks positive and negative
+与另一列波的负峰重叠，换句话说，这两个正负峰
+
+168
+00:19:44,640 --> 00:19:50,000
+will be canceling each other out resulting in a dark region. That dark region is going to
+会相互抵消，形成暗区。这个暗区会
+
+169
+00:19:50,960 --> 00:19:57,200
+fade out gradually into the white regions because between the maximum dark and the maximum bright
+逐渐过渡到白色区域，因为在最暗和最亮的
+
+170
+00:19:57,200 --> 00:20:05,440
+region we're going to have limited interference between the two waves. In general when the light
+区域之间，两列波之间只有有限的干涉。一般来说，当光
+
+171
+00:20:06,400 --> 00:20:13,520
+interacts with small openings or sharp boundaries that are of a size that's comparable to the
+与尺寸可与光的波长相比拟的小孔或锐利边界
+
+172
+00:20:13,520 --> 00:20:19,520
+wavelength of the light we are going to have the occurrence of the interference. So interference of
+相互作用时，就会出现干涉。所以
+
+173
+00:20:19,520 --> 00:20:25,520
+light waves would basically produce so-called diffraction patterns. Here we have a few examples
+光波的干涉基本上会产生所谓的衍射图样。这里有几个
+
+174
+00:20:25,520 --> 00:20:33,920
+of diffraction patterns diffraction of a circular nature that results from a pinhole diffraction.
+衍射图样的例子：由针孔衍射产生的圆形衍射。
+
+175
+00:20:33,920 --> 00:20:39,360
+We may have single slit diffraction or diffraction created through the
+我们可能有单缝衍射，或者由
+
+176
+00:20:39,920 --> 00:20:48,640
+straight edge so if the light hits the edge that's very sharp it's going to create also a type of a
+直边产生的衍射，所以如果光照射到非常锐利的边缘，它也会产生一种
+
+177
+00:20:48,640 --> 00:20:55,840
+diffraction. So all in all the diffraction is another phenomenon that relates to the wave
+衍射。所以总的来说，衍射是另一种与光的波动
+
+178
+00:20:55,840 --> 00:21:02,000
+behavior of light and it's specific to the interaction of light with the small dimensions
+行为有关的现象，它特指光与小尺寸物体的相互作用，
+
+179
+00:21:02,000 --> 00:21:08,320
+such as the openings, sharp boundaries or edges etc. On a few slides that follow we are going to
+比如小孔、锐利边界或边缘等等。在接下来的几张幻灯片中，我们将
+
+180
+00:21:08,320 --> 00:21:14,160
+go step by step to explain the diffraction. Diffraction is I would say a little bit more
+一步一步地解释衍射。我认为衍射是一种稍微
+
+181
+00:21:14,160 --> 00:21:19,360
+complex phenomenon that's a little bit more difficult to be understood than the bending
+复杂一些的现象，比光的弯折和反射
+
+182
+00:21:19,360 --> 00:21:23,280
+of light and the reflection so we want to kind of focus a little bit on the diffraction and
+稍微难理解一些，所以我们想把重点稍微放在衍射上，
+
+183
+00:21:24,960 --> 00:21:32,240
+analyze it step by step. So what we see here is a small gap or a slit in a in a filter at that
+一步一步地分析它。我们在这里看到的是滤光片上的一个小缝隙或狭缝，在
+
+184
+00:21:32,240 --> 00:21:37,840
+point where that location where the slit is positioned we are going to imagine that there is
+狭缝所在的那个位置，我们设想有
+
+185
+00:21:37,840 --> 00:21:47,680
+a light source that creates the wave and here we see specifically one of the light rays that's
+一个产生波的光源，这里我们具体看到其中一条
+
+186
+00:21:49,120 --> 00:21:54,160
+propagating along the horizontal axis. It has a wave behavior in other words the distance between
+沿水平轴传播的光线。它具有波动行为，换句话说，
+
+187
+00:21:54,160 --> 00:21:58,800
+the two peaks is equal to 400 nanometers or we are dealing with the blue light.
+两个波峰之间的距离等于 400 纳米，也就是说我们处理的是蓝光。
+
+188
+00:21:59,760 --> 00:22:09,600
+If this light source or line this light ray is to be simplified instead of having a sinusoidal curve
+如果要简化这个光源，或者说这条光线，我们不用正弦曲线，
+
+189
+00:22:09,600 --> 00:22:16,720
+we are going to establish the simplification where the peaks positive peaks of the in this
+而是建立这样一种简化：这个波动行为中的
+
+190
+00:22:16,720 --> 00:22:23,200
+wave behavior are represented by the dark blue dots while negative peaks are represented by
+波峰，也就是正峰，用深蓝色点表示，而负峰用
+
+191
+00:22:23,200 --> 00:22:32,080
+the light blue dots and finally the positions at which the sinusoidal curve crosses zero are
+浅蓝色点表示，最后，正弦曲线过零的位置
+
+192
+00:22:32,080 --> 00:22:39,120
+represented by the unfilled dots. This can be established in different directions of propagation
+用空心点表示。这可以在不同的传播方向上建立，
+
+193
+00:22:39,120 --> 00:22:47,520
+as can be seen on this slide and then if we connect if we connect a specific type of dots
+正如这张幻灯片所示，然后如果我们把
+
+194
+00:22:47,520 --> 00:22:55,600
+along the same crest we are going to establish so-called wave fronts. Here the wave front of
+同一波峰上某一种点连接起来，就得到所谓的波前。这里
+
+195
+00:22:55,600 --> 00:23:05,200
+a positive peak are represented as as full lines and the lines of negative peaks
+正峰的波前用实线表示，负峰所在的线，
+
+196
+00:23:05,200 --> 00:23:13,520
+or negative wave fronts are represented by the dotted lines. Now we can further simplify our
+也就是负波前，用虚线表示。现在我们可以进一步简化我们的
+
+197
+00:23:13,520 --> 00:23:24,560
+model to present the wave fronts of our light wave and then even further go one step further
+模型，表示出光波的波前，然后再更进一步，
+
+198
+00:23:24,560 --> 00:23:30,720
+and just look at the at the positive wave fronts. Now let's imagine having two slits with two light
+只看正波前。现在我们设想有两条狭缝和两个
+
+199
+00:23:30,720 --> 00:23:37,520
+sources we can see that these two light sources are going to create two waves that are represented
+光源，可以看到这两个光源会产生两列波，用
+
+200
+00:23:37,520 --> 00:23:44,000
+by their corresponding wave fronts and we can see that here there are certain locations where
+它们各自的波前表示，我们可以看到这里有某些位置，
+
+201
+00:23:44,560 --> 00:23:51,040
+the crest of one wave overlaps with the crest on the other wave. So we can identify those
+一列波的波峰与另一列波的波峰重叠。所以我们可以把这些
+
+202
+00:23:51,040 --> 00:23:56,400
+spots as the spots where we are going to have so-called constructive interference where we're
+点确定为发生所谓相长干涉的点，在那里
+
+203
+00:23:56,400 --> 00:24:03,040
+going to have a maximum cumulative effects where the positive peak of one wave and positive peak
+会有最大的叠加效应，一列波的正峰和另一列波的正峰
+
+204
+00:24:03,040 --> 00:24:12,800
+of the other wave will add up and if you put the screen those at specific location those
+会相加，如果你在特定位置放一块屏幕，这些
+
+205
+00:24:13,920 --> 00:24:21,120
+points of constructive interference are going to result in a very in a lines or dots of a very
+相长干涉点会形成一些
+
+206
+00:24:21,120 --> 00:24:28,320
+strong blue light that are positioned at a certain distance. We can do something similar
+非常强的蓝光线条或光点，它们相隔一定距离。我们可以对
+
+207
+00:24:28,320 --> 00:24:33,200
+with the red light it's just in the case of red light we have to take into account that the
+红光做类似的事情，只是在红光的情况下，我们必须考虑到
+
+208
+00:24:33,200 --> 00:24:40,800
+wavelength of light is going to be larger so we're moving from 400 nanometers to 700 nanometers
+光的波长会更长，所以如果我们从蓝光换成红光，
+
+209
+00:24:41,520 --> 00:24:50,160
+if we switch from the blue to the red light and we can also establish a similar model
+波长就从 400 纳米变成 700 纳米，我们也可以为红光
+
+210
+00:24:50,160 --> 00:24:56,960
+for the red light as we established for the blue light. There's going to be certain differences
+建立一个与蓝光类似的模型。会有一些不同之处，
+
+211
+00:24:56,960 --> 00:25:02,960
+that are the result of the fact that the wavelength of the two waves is different so
+这是由于两列波的波长不同造成的，所以
+
+212
+00:25:04,000 --> 00:25:10,160
+shorter wavelength for the blue light would result in the blue spots being closer to one another
+蓝光的波长较短，会使蓝色光点彼此靠得更近，
+
+213
+00:25:10,160 --> 00:25:19,280
+as opposed to the red spots red diffraction spots that are positioned further apart due to the
+而红色光点，也就是红色衍射光点，由于红光的波长较长，
+
+214
+00:25:19,280 --> 00:25:24,880
+larger wavelength of a red light. If you are shooting the white light
+彼此相隔更远。如果你让白光
+
+215
+00:25:27,760 --> 00:25:33,760
+from these two slits the white light consists of all the colors so different colors different
+通过这两条狭缝，白光包含所有颜色，所以不同颜色、不同
+
+216
+00:25:33,760 --> 00:25:40,080
+wavelengths will be acting in a different way in the sense that the position of dots of a specific
+波长会表现得不同，也就是说某种颜色的光点
+
+217
+00:25:40,080 --> 00:25:46,640
+color is going to be different so in the case of a white light what we are going to see is
+位置会不同，所以在白光的情况下，我们会看到
+
+218
+00:25:47,440 --> 00:25:52,800
+diffractive behavior where all colors will be shown at different locations in other words we are going
+衍射行为，所有颜色都显示在不同的位置，换句话说，我们会
+
+219
+00:25:52,800 --> 00:26:01,840
+to break down the white light into different colors where dots of different colors will be
+把白光分解成不同的颜色，不同颜色的光点会
+
+220
+00:26:01,840 --> 00:26:11,200
+located at different locations. So that's how we can analyze the behavior of light
+位于不同的位置。这就是我们如何
+
+221
+00:26:11,200 --> 00:26:15,600
+through specific types of so-called diffraction gradings that you're going to do in
+通过特定类型的所谓衍射光栅来分析光的行为，你们将在
+
+222
+00:26:15,600 --> 00:26:23,040
+hands on part of the course. There are certain equations that can be applied to quantify the
+本课程的动手实践部分做这个。有一些方程可以用来定量描述
+
+223
+00:26:23,040 --> 00:26:30,320
+position of the dots so if you want to measure the distance between the dots from the center
+光点的位置，所以如果你想测量光点之间的距离，从中央
+
+224
+00:26:30,320 --> 00:26:38,480
+dot to the first dots on either left or right side of the center dot we can use certain
+光点到中央光点左侧或右侧的第一个光点，我们可以利用一些
+
+225
+00:26:38,480 --> 00:26:43,040
+approximations based on a trigonometry to come up with the formulas that are shown on
+基于三角学的近似，得出
+
+226
+00:26:43,120 --> 00:26:50,640
+this slide without going further into derivations of these equations we can see that the
+这张幻灯片上的公式。我们不深入推导这些方程，但可以看到
+
+227
+00:26:51,200 --> 00:26:58,240
+position of the first of the first dot is going to depend on the wavelength of light
+第一个光点的位置取决于光的波长、
+
+228
+00:26:58,880 --> 00:27:08,000
+distance between the diffraction grading and the screen and finally the distance between
+衍射光栅与屏幕之间的距离，最后还有
+
+229
+00:27:08,000 --> 00:27:11,920
+the two openings in the diffraction grading so the formula that's shown all the way on the
+衍射光栅中两个开口之间的距离，所以最下面
+
+230
+00:27:11,920 --> 00:27:20,160
+bottom is basically a representation of the position y of the of the dot as a function of
+显示的公式基本上表示了光点的位置 y 作为
+
+231
+00:27:20,160 --> 00:27:25,120
+lambda or wavelength capital D or a distance between the screen and the diffraction
+λ，即波长，大写 D，即屏幕与衍射
+
+232
+00:27:25,120 --> 00:27:29,680
+grading and finally small d which represents the distance between the two slits in a
+光栅之间的距离，最后还有小写 d，它表示
+
+233
+00:27:29,680 --> 00:27:38,160
+in diffraction grading. Small other m is an integer that basically gives us the flexibility to
+衍射光栅中两条狭缝之间的距离的函数。小写 m 是一个整数，它基本上让我们能够灵活地
+
+234
+00:27:38,960 --> 00:27:49,600
+to establish or calculate the position of the second third and other subsequent dots in a
+确定或计算
+
+235
+00:27:49,600 --> 00:27:58,000
+in the diffraction pattern so for the first dot the dot the bright line that is
+衍射图样中第二个、第三个及后续光点的位置，所以对于第一个光点，也就是
+
+236
+00:27:59,120 --> 00:28:04,000
+first next to the central line we're going to take m equal to one if you're looking for the second
+紧挨着中央亮线的第一条亮线，我们取 m 等于 1，如果你要找
+
+237
+00:28:04,720 --> 00:28:09,040
+dot or second line bright line in a in a diffraction pattern then we're going to
+衍射图样中的第二个光点或第二条亮线，那么我们就
+
+238
+00:28:09,040 --> 00:28:16,720
+take m equal to two etc. Another important property of a wave behavior of light is so
+取 m 等于 2，依此类推。光的波动行为的另一个重要性质是所
+
+239
+00:28:16,720 --> 00:28:21,920
+called polarization when we talk about polarization we are talking about the orientation or direction
+谓的偏振，当我们谈论偏振时，我们谈的是波在空间中传播时
+
+240
+00:28:21,920 --> 00:28:28,080
+of vibration of the electric field as the wave propagates through space we can have
+电场振动的取向或方向。我们可以有
+
+241
+00:28:28,560 --> 00:28:33,520
+so-called unpolarized light we can have a horizontally or vertically polarized light
+所谓的非偏振光，可以有水平偏振光或垂直偏振光，
+
+242
+00:28:33,520 --> 00:28:38,640
+that are in general summarized as a linearly polarized light so what we are basically
+它们一般统称为线偏振光，所以我们这里基本上
+
+243
+00:28:39,440 --> 00:28:47,600
+trying to analyze here is how does the light vibrate or oscillate in a in a in time in other
+要分析的是光在时间上是如何振动或振荡的，换句话
+
+244
+00:28:47,600 --> 00:28:53,760
+words we are trying to establish the the planes of a vibration of of an electric field in an
+说，我们要确定电磁波中电场的
+
+245
+00:28:53,760 --> 00:29:00,080
+electromagnetic wave on this slide here we have a demonstration of three different types of
+振动平面。在这张幻灯片上，我们演示了三种不同类型的
+
+246
+00:29:00,080 --> 00:29:06,640
+polarized waves all the way on the left we see that all the vibration takes place in a in a in
+偏振波。最左边，我们看到所有振动都发生在
+
+247
+00:29:06,640 --> 00:29:14,400
+a plane that's tilted at a certain angle in the center we have a vibration of light where
+一个倾斜一定角度的平面内；中间是这样一种光的振动，
+
+248
+00:29:14,400 --> 00:29:20,160
+the the vector of vibration is basically moving along the circle so we're talking about circular
+振动矢量基本上沿着圆周运动，所以我们说的是圆
+
+249
+00:29:20,160 --> 00:29:25,760
+polarization and finally on the right hand side we see that vibration is occurring along the
+偏振；最后在右侧，我们看到振动沿着
+
+250
+00:29:25,760 --> 00:29:31,760
+elliptical shape so we're talking about so-called elliptical polarization circular and elliptical
+椭圆形状发生，所以我们说的是所谓的椭圆偏振。圆偏振和椭圆
+
+251
+00:29:31,760 --> 00:29:39,440
+polarization can also be defined as either left hand or right hand based on whether the vibration
+偏振还可以定义为左旋或右旋，取决于振动
+
+252
+00:29:39,440 --> 00:29:47,440
+occurs counter clockwise or clockwise while the linear polarization can be either horizontal or
+是逆时针还是顺时针发生，而线偏振可以是水平的或
+
+253
+00:29:47,440 --> 00:29:54,640
+vertical based on the plane in which the vibration takes place we can adjust the polarization of our
+垂直的，取决于振动所在的平面。我们可以用所谓的偏振片来调节
+
+254
+00:29:54,640 --> 00:30:03,360
+light by using so-called polarizers polarizers is basically a plastic sheet that is made out of
+光的偏振。偏振片基本上是一种塑料薄片，它由
+
+255
+00:30:03,360 --> 00:30:11,040
+material that contains certain type of crystals that would affect the polarization of light that
+含有某种晶体的材料制成，这种晶体会影响
+
+256
+00:30:11,120 --> 00:30:18,560
+is propagating through that type of a material so what basically is taking place as the light
+在这类材料中传播的光的偏振。所以当光
+
+257
+00:30:18,560 --> 00:30:24,160
+propagates through the through the through this type of a polarizer is that the crystals would
+通过这类偏振片传播时，基本上发生的是，晶体会
+
+258
+00:30:24,160 --> 00:30:34,000
+be absorbing a specific component of a specific component of the light and would transmit other
+吸收光的某一个分量，而透过光的另一个
+
+259
+00:30:34,000 --> 00:30:41,600
+component of a light so after passing through linear polarizers or un-polarized light would
+分量，所以通过线偏振片之后，非偏振光会
+
+260
+00:30:41,600 --> 00:30:47,840
+be emerging as a linearly polarized light in this distance in this case like as shown on this slide
+变成线偏振光出射，在这种情况下，如这张幻灯片所示，
+
+261
+00:30:47,840 --> 00:30:54,800
+in a vertical direction so what you have in front of of the of the polarizes un-polarized
+是在垂直方向上。所以在偏振片前面的是非偏振
+
+262
+00:30:54,800 --> 00:31:00,000
+light that's represented by all these different arrows in other words the the light vibrates
+光，用所有这些不同的箭头表示，换句话说，光
+
+263
+00:31:00,000 --> 00:31:05,600
+in all possible directions so we're talking about we are talking about un-polarized light
+在所有可能的方向上振动，所以我们说的是非偏振光。
+
+264
+00:31:06,240 --> 00:31:11,760
+it turns out that un-polarized light can be represented by two components the horizontal
+结果表明，非偏振光可以用两个分量来表示：水平
+
+265
+00:31:11,760 --> 00:31:17,680
+component and the vertical component and if a horizontal vertical component are passing through
+分量和垂直分量，如果水平分量和垂直分量通过
+
+266
+00:31:17,680 --> 00:31:24,560
+the this filter it turns out that all horizontal component contribution is going to be
+这个滤光片，结果是所有水平分量的贡献都会
+
+267
+00:31:24,640 --> 00:31:29,920
+is going to be blocked by the filter while the only component that's going to be passed
+被滤光片挡住，而唯一能够通过、
+
+268
+00:31:29,920 --> 00:31:34,960
+over on the other side is going to be a vertical component so what we have over on the other side
+到达另一侧的分量是垂直分量，所以我们在另一侧得到的
+
+269
+00:31:34,960 --> 00:31:41,840
+is a vertically polarized light this is a concept that has found many many applications many real
+是垂直偏振光。这个概念已经有了许多许多应用，许多实际
+
+270
+00:31:41,840 --> 00:31:48,960
+time applications specifically sun glasses polarized sunglasses are one specific application
+应用，特别是太阳镜，偏振太阳镜就是
+
+271
+00:31:48,960 --> 00:31:57,040
+of where linearly polarized materials are being being used so un-polarized light that's coming
+使用线偏振材料的一个具体应用。所以来自
+
+272
+00:31:57,040 --> 00:32:04,560
+from the sun is going through the through the through the effect of polarization over on the
+太阳的非偏振光经过偏振作用之后，在
+
+273
+00:32:04,560 --> 00:32:10,800
+other side the light is significantly reduced as only one polarized component is being passed
+另一侧光就明显减弱了，因为只有一个偏振分量能够
+
+274
+00:32:10,800 --> 00:32:18,400
+through and as a cumulative effect is what the light that's coming to our eyes significantly
+通过，作为累积效应，进入我们眼睛的光明显
+
+275
+00:32:18,400 --> 00:32:28,080
+reduced so we are getting this darkened effect of a of a of a of a environment that that surrounds us
+减弱，所以我们周围的环境看起来就变暗了。
