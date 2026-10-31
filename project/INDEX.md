@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 14 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 15 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -640,6 +640,7 @@
 | Laboratory Ergonomics & RSI | 13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T | 国内版 | 机械防护十问（国内版） | 66 | 5:30 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 14_HEALTH AND SAFETY QUIZ Safety Quiz Questions & Answers Safety Quiz Competition H | 原著版 | 健康与安全综合十问 | 37 | 3:05 | 10 / 0 | [剧本](<Laboratory Ergonomics & RSI/14_HEALTH AND SAFETY QUIZ Safety Quiz Questions & Answers Safety Quiz Competition H/script.md>) |
 | Laboratory Ergonomics & RSI | 14_HEALTH AND SAFETY QUIZ Safety Quiz Questions & Answers Safety Quiz Competition H | 国内版 | 健康与安全综合十问（国内版） | 62 | 5:10 | 10 / 5 | [剧本](<Laboratory Ergonomics & RSI/14_HEALTH AND SAFETY QUIZ Safety Quiz Questions & Answers Safety Quiz Competition H（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/14_HEALTH AND SAFETY QUIZ Safety Quiz Questions & Answers Safety Quiz Competition H（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 15_Test Your Safety Knowledge Work At Height Scaffolding Hot Work Work Permit Syste | 原著版 | 登高、搭架、动火、办票四十问 | 72 | 6:00 | 40 / 0 | [剧本](<Laboratory Ergonomics & RSI/15_Test Your Safety Knowledge Work At Height Scaffolding Hot Work Work Permit Syste/script.md>) |
 | Laboratory Ergonomics & RSI | 15_Test Your Safety Knowledge Work At Height Scaffolding Hot Work Work Permit Syste | 国内版 | 登高、搭架、动火、办票四十问（国内版） | 111 | 9:15 | 40 / 6 | [剧本](<Laboratory Ergonomics & RSI/15_Test Your Safety Knowledge Work At Height Scaffolding Hot Work Work Permit Syste（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/15_Test Your Safety Knowledge Work At Height Scaffolding Hot Work Work Permit Syste（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet | 国内版 | 五合一安全五十问（国内版） | 124 | 10:20 | 50 / 4 | [剧本](<Laboratory Ergonomics & RSI/16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ | 国内版 | 安全常识十五问（国内版） | 62 | 5:10 | 15 / 5 | [剧本](<Laboratory Ergonomics & RSI/17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（国内版）/审查报告.md>) |
