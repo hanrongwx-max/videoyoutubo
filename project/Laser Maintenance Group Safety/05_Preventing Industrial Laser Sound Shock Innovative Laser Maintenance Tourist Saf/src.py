@@ -1,0 +1,137 @@
+# 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf 卡通剧本作者源
+# 原著版：完全照原片（1 分 29 秒车间走访：别让突然的响声吓到访客），K1–K8，不加补充知识点、不做更正；
+# 保留原片说法：辅助气体用压缩空气、液氮或液氧；低温液体“低于零下 400 度”（原话，未注单位，照用不改）；
+# 安全阀嘶嘶排气、会突然起跳；结霜凝露是要排放的迹象；快起跳时别让访客站旁边；万向球台面气动升起也会吓人；
+# 讲解人手扶储罐、排放时就站在旁边，照原片；原片没讲低温冻伤、窒息、助燃，本版也不加
+# 公司名、网址和讲解人不出现，讲解人改为老李
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "别让突然的响声吓到人",
+    "edition": "原著版",
+    "points": {
+        "K1": "带访客，要照看好",
+        "K2": "辅助气体从哪里来",
+        "K3": "低温液体会不断升压",
+        "K4": "安全阀会嘶嘶排气",
+        "K5": "结霜凝露是预兆",
+        "K6": "白雾一喷，吓人一跳",
+        "K7": "快排放时，别让人站旁边",
+        "K8": "气动台面升起也会响",
+    },
+    "avoid": ["Innovative Laser", "Innovative Laser & Design", "InnovativeLaserCutting", "LaserServiceGuy", "Laser Maintenance Group", "LMG", "Kiser"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在车间门口，双手捂着耳朵又放下",
+ "The panda mascot stands at a workshop door, covers its ears, then lowers its paws and smiles.",
+ "车间里突然一响，访客会吓一跳。", "别让突然的响声吓到人"),
+("开场", "储罐、安全阀、白雾、气动台面四个图标排成一行",
+ "Four icons in a row: a cryogenic tank, a relief valve, a white vapor cloud and a ball transfer table. No people.",
+ "今天看看哪些声音会吓到人。", "", ["储罐", "安全阀", "台面"]),
+# 情景
+("情景", "办公区门口，几位访客跟着老李准备进车间",
+ "At an office door with a blank welcome sign, a few visitors follow the facility engineer toward the workshop.",
+ "老李带几位访客参观激光车间。"),
+("情景", "老李推开门，身后是满是机器的车间",
+ "The facility engineer pushes open a door to a workshop full of machines.",
+ "推开门，就是工业车间了。"),
+# K1
+("K1", "访客们指着远处的激光切割机，满脸好奇",
+ "Visitors point curiously at a laser cutting machine in the distance.",
+ "访客来了，都想看看激光。", "带访客，要照看好"),
+("K1", "家、办公室的图标，和一个满是机器的车间图标对比",
+ "Icons of a home and an office next to an icon of a busy industrial workshop. No people.",
+ "他们习惯的是家里和办公室。"),
+("K1", "访客东张西望，对车间很陌生",
+ "Visitors look around in confusion at the unfamiliar machines and tanks.",
+ "不熟悉工业车间里的情况。"),
+("K1", "老李走在访客身旁，伸手示意他们跟紧",
+ "The facility engineer walks beside the visitors and gestures for them to stay close.",
+ "带他们进来，就得照看好他们。"),
+# K2
+("K2", "激光切割机旁，一个压缩空气罐和两个不锈钢低温储罐",
+ "Next to a laser cutting machine: a compressed air tank and two stainless steel cryogenic tanks with blank labels. No people.",
+ "激光切割要用辅助气体。", "辅助气体从哪里来"),
+("K2", "压缩空气、液氮、液氧三个图标",
+ "Three icons: compressed air, liquid nitrogen and liquid oxygen. No people.",
+ "压缩空气，或者液氮、液氧。", "", ["压缩空气", "液氮", "液氧"]),
+# K3
+("K3", "储罐剖面示意：底部是液体，上方是气体，温度计图标很低",
+ "A cross-section of a cryogenic tank: liquid at the bottom, gas above, and a very low thermometer icon. No people.",
+ "这些低温液体非常冷。", "低温液体会不断升压"),
+("K3", "温度计图标旁写着零下400度",
+ "A thermometer icon with the mercury at the very bottom. No people.",
+ "老李说，低于零下400度。", "", ["零下400度以下"]),
+("K3", "外面的热量箭头传入罐内，罐里的压力表指针慢慢上升",
+ "Heat arrows flow into the tank from outside and a pressure gauge needle slowly rises. No people.",
+ "吸了热，罐里的压力就不断升高。"),
+# K4
+("K4", "老李手扶液氮储罐顶部，指着一个阀门",
+ "The facility engineer rests a hand on top of a nitrogen tank and points at a valve.",
+ "压力高了，安全阀会排气。", "安全阀会嘶嘶排气"),
+("K4", "储罐顶部的安全阀冒出细细的气流",
+ "A thin stream of gas hisses out of a relief valve on top of the tank. No people.",
+ "有时能听到嘶嘶的声音。"),
+("K4", "安全阀突然弹起，大声排气的示意",
+ "A diagram: the relief valve suddenly pops open with a loud burst of gas. No people.",
+ "有时还会突然起跳。"),
+("K4", "一位访客听到声音缩了一下",
+ "A visitor flinches at a sudden hissing sound.",
+ "这声音，会让访客心里发慌。"),
+# K5
+("K5", "老李走到另一台氧气储罐旁，旁边是黄色护栏",
+ "The facility engineer walks to an oxygen tank next to a yellow safety railing.",
+ "再看这台液氧储罐。", "结霜凝露是预兆"),
+("K5", "罐顶阀门附近一圈白霜和水珠",
+ "Close-up of white frost and water droplets forming around the valves on top of the tank. No people.",
+ "罐顶这里开始结霜、凝露了。"),
+("K5", "结霜图标连到安全阀图标，旁边一个感叹号",
+ "A frost icon linked by an arrow to a relief valve icon with an exclamation mark. No people.",
+ "这是压力升高、快要排放的迹象。"),
+# K6
+("K6", "储罐顶部突然喷出一大团白雾，老李就站在旁边",
+ "A big white vapor cloud suddenly bursts from the top of the tank while the facility engineer stands right next to it.",
+ "话音刚落，储罐喷出一团白雾。", "白雾一喷，吓人一跳"),
+("K6", "白雾慢慢散开，罐顶阀门落回",
+ "The white cloud slowly drifts away and the valve on top settles back. No people.",
+ "排放之前，它会先放出气体。"),
+("K6", "访客图标被吓得后退，头顶一个惊叹号",
+ "An icon of a visitor jumping back in surprise with an exclamation mark overhead. No people.",
+ "没准备的人，真会被吓一跳。"),
+# K7
+("K7", "老李站在液氧储罐旁对镜头说话",
+ "The facility engineer stands beside the oxygen tank and speaks to the camera.",
+ "觉得它快要起跳的时候，", "快排放时，别让人站旁边"),
+("K7", "访客站在储罐旁的图标，被红叉划掉",
+ "An icon of a visitor standing right beside a tank, crossed out with a red X. No people.",
+ "别让访客站在储罐旁边。"),
+# K8
+("K8", "老李走到上料台旁，台面布满万向球格栅",
+ "The facility engineer walks to a loading table covered with a grid of ball transfer units, next to a sheet metal rack.",
+ "再看这张上料台。", "气动台面升起也会响"),
+("K8", "老李按下侧面控制盒的按钮",
+ "The facility engineer presses a button on a control box on the side of the table.",
+ "按下按钮，台面的万向球气动升起。"),
+("K8", "万向球一齐升起，伴随一声响",
+ "All the transfer balls rise up together with a sudden loud sound. No people.",
+ "这一声，也会让人跳起来。"),
+("K8", "一位访客背对着台面，听到响声吓了一跳",
+ "A visitor with his back to the table jumps in surprise at the sound.",
+ "背对着、第一次来的人最容易被吓到。"),
+("K8", "耳朵图标和一个笑脸访客图标",
+ "An ear icon next to a smiling visitor icon. No people.",
+ "别让声音惊吓到你的访客。"),
+# 小结
+("小结", "欣欣身旁浮现储罐、结霜、白雾、万向球台四个图标",
+ "The panda mascot stands beside four icons: a cryogenic tank, frost, a vapor cloud and a ball transfer table.",
+ "低温储罐会升压，安全阀会嘶嘶起跳。", "小结"),
+("小结", "老李带着访客站在离储罐远一点的地方",
+ "The facility engineer leads the visitors to stand a little farther from the tanks.",
+ "结霜是预兆，别让访客站旁边。"),
+# 结尾
+("结尾", "欣欣和访客们在车间门口挥手",
+ "The panda mascot waves goodbye with the visitors at the workshop door.",
+ "带访客，别让声音吓到人，下次见！"),
+]
