@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 14 / 59 |
+| Microbiology Biosafety | 59 / 59 | 15 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -650,6 +650,7 @@
 | Microbiology Biosafety | 12_what is biosafety , biosafety microbiology laboratory raqbamicrohub | 国内版 | 什么是生物安全（国内版） | 26 | 2:10 | 4 / 3 | [剧本](<Microbiology Biosafety/12_what is biosafety , biosafety microbiology laboratory raqbamicrohub（国内版）/script.md>) · [审查](<Microbiology Biosafety/12_what is biosafety , biosafety microbiology laboratory raqbamicrohub（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 原著版 | 实验室里的八类危害 | 55 | 4:35 | 14 / 0 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz/script.md>) |
 | Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 国内版 | 实验室里的八类危害（国内版） | 71 | 5:55 | 14 / 4 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/script.md>) · [审查](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 14_What are the 8 general lab safety rules | 原著版 | 实验室八条通用安全规则 | 33 | 2:45 | 9 / 0 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules/script.md>) |
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 国内版 | 实验室八条通用安全规则（国内版） | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub | 国内版 | 生物安保的六个关键方面（国内版） | 46 | 3:50 | 8 / 3 | [剧本](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（国内版）/script.md>) · [审查](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（国内版）/审查报告.md>) |
