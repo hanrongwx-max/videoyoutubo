@@ -1,0 +1,659 @@
+{
+ "id": "57_What role do bacteriophages play in removing biological hazards microbiology tre",
+ "edition": "单一版",
+ "series": "Microbiology Biosafety",
+ "title": "噬菌体与治污微生物",
+ "seconds": 240,
+ "source_doc": "course/Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre.md",
+ "author_source": "project/Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre/src.py",
+ "points": {
+  "K1": "噬菌体：专杀特定细菌的病毒",
+  "K2": "精准清除污水和医院里的致病菌",
+  "K3": "微生物能间接中和强酸强碱",
+  "K4": "嗜酸菌：在酸性废物里生长",
+  "K5": "嗜碱菌：产有机酸，把碱降下来",
+  "K6": "生物滤池：微生物把有毒气体当食物",
+  "K7": "去氨、去硫化氢的两种菌",
+  "S1": "噬菌体实验：按宿主菌的风险定级",
+  "S2": "噬菌体会串染：分区操作，用后消毒",
+  "S3": "污水、医院污水样品：按感染性对待",
+  "S4": "配酸碱、调pH：防溅，酸入水",
+  "S5": "氨和硫化氢有毒：通风处操作"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在污水处理池模型旁，身旁浮着一个噬菌体图标",
+   "prompt_en": "The panda mascot stands beside a model of a wastewater treatment tank, a floating bacteriophage icon with a head and spider-like legs beside it, and waves at the camera.",
+   "narration": "有一种病毒，专门帮我们杀细菌。",
+   "overlay": [
+    "噬菌体与治污微生物"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指向三个图标：噬菌体、酸碱试纸、烟囱",
+   "prompt_en": "The panda mascot points to three floating icons: a bacteriophage, a pH test strip, and a chimney with fumes.",
+   "narration": "还有微生物能对付酸碱和臭气。",
+   "overlay": [],
+   "labels": [
+    "噬菌体",
+    "酸碱废水",
+    "有毒气体"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一瓶浑浊的污水样，准备倒进培养瓶",
+   "prompt_en": "The young male student holds a bottle of murky wastewater sample with a blank label at an open bench, about to pour it.",
+   "narration": "阿杰想从污水里分离噬菌体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研快步走来，指着生物安全柜",
+   "prompt_en": "The female graduate student hurries over and points to a biosafety cabinet.",
+   "narration": "小研说：等等，这是医院附近的污水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot nods in front of a blank whiteboard.",
+   "narration": "先了解噬菌体，再说怎么安全地做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "噬菌体：专杀特定细菌的病毒",
+   "scene": "噬菌体落在一个杆菌表面，把尾巴扎进去",
+   "prompt_en": "A bacteriophage lands on the surface of a rod-shaped bacterium and pushes its tail into it. No people.",
+   "narration": "噬菌体，是感染细菌的病毒。",
+   "overlay": [
+    "噬菌体：专杀特定细菌的病毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "噬菌体：专杀特定细菌的病毒",
+   "scene": "细菌里冒出许多小噬菌体，细菌破裂",
+   "prompt_en": "Many small bacteriophages form inside the bacterium, which then bursts open. No people.",
+   "narration": "它在细菌里复制，再把细菌撑破。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "噬菌体：专杀特定细菌的病毒",
+   "scene": "噬菌体只停在一种颜色的细菌上，别的颜色不碰",
+   "prompt_en": "Bacteriophages land only on bacteria of one color and ignore bacteria of other colors. No people.",
+   "narration": "而且只认特定的细菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "精准清除污水和医院里的致病菌",
+   "scene": "污水池里，噬菌体围住带红色警示的致病菌",
+   "prompt_en": "In a wastewater tank, bacteriophages surround bacteria marked with small red warning dots. No people.",
+   "narration": "在污水里，它能盯住致病菌，",
+   "overlay": [
+    "精准清除污水和医院里的致病菌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "精准清除污水和医院里的致病菌",
+   "scene": "医院建筑图标旁，带红点的细菌被噬菌体消灭",
+   "prompt_en": "Beside a hospital building icon, bacteria with red warning dots are destroyed by bacteriophages. No people.",
+   "narration": "医院环境里，也能派上用场。",
+   "overlay": [],
+   "labels": [
+    "污水",
+    "医院"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "精准清除污水和医院里的致病菌",
+   "scene": "绿色的有益菌安然无恙，旁边绿色对勾",
+   "prompt_en": "Green beneficial bacteria remain untouched, with a green check mark beside them. No people.",
+   "narration": "有益的微生物，它不伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "微生物能间接中和强酸强碱",
+   "scene": "工厂排水管流出两股水，一股带酸象形图，一股带碱",
+   "prompt_en": "A factory drain releases two streams, each marked with a corrosive pictogram. No people.",
+   "narration": "工业废水，常常酸碱很强。",
+   "overlay": [
+    "微生物能间接中和强酸强碱"
+   ],
+   "labels": [
+    "强酸",
+    "强碱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "微生物能间接中和强酸强碱",
+   "scene": "微生物不直接碰酸碱，而是放出小分子改变水质",
+   "prompt_en": "Microbes in the water release small molecules that slowly change the water color toward neutral green. No people.",
+   "narration": "微生物能帮忙，但是间接的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "嗜酸菌：在酸性废物里生长",
+   "scene": "酸性的红色水里，一群细菌照样活跃",
+   "prompt_en": "In red acidic water, a group of bacteria stays lively and active. No people.",
+   "narration": "嗜酸菌，比如酸硫杆菌，",
+   "overlay": [
+    "嗜酸菌：在酸性废物里生长"
+   ],
+   "labels": [
+    "嗜酸菌",
+    "酸硫杆菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "嗜酸菌：在酸性废物里生长",
+   "scene": "细菌周围黄色的硫颗粒出现又变化",
+   "prompt_en": "Yellow sulfur particles appear and change around the bacteria. No people.",
+   "narration": "能在酸性废物里生长，参与硫的转化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "嗜碱菌：产有机酸，把碱降下来",
+   "scene": "蓝紫色的碱性水里，杆菌活跃",
+   "prompt_en": "In blue-purple alkaline water, rod-shaped bacteria are active. No people.",
+   "narration": "嗜碱菌，比如耐盐芽孢杆菌，",
+   "overlay": [
+    "嗜碱菌：产有机酸，把碱降下来"
+   ],
+   "labels": [
+    "嗜碱菌",
+    "耐盐芽孢杆菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "嗜碱菌：产有机酸，把碱降下来",
+   "scene": "细菌放出小酸滴，水色从蓝紫变成绿色",
+   "prompt_en": "The bacteria release small acid droplets and the water color changes from blue-purple to green. No people.",
+   "narration": "会产生有机酸，把碱性废水的pH降下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "生物滤池：微生物把有毒气体当食物",
+   "scene": "生物滤池剖面：一层层滤料，表面长满细菌膜",
+   "prompt_en": "A cutaway of a biofilter tower: layers of packing material whose surfaces are covered with bacterial film. No people.",
+   "narration": "生物滤池和生物反应器，",
+   "overlay": [
+    "生物滤池：微生物把有毒气体当食物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "生物滤池：微生物把有毒气体当食物",
+   "scene": "带骷髅象形图的臭气从底部进入，向上穿过滤料",
+   "prompt_en": "Smelly gas with a skull pictogram enters from the bottom and rises through the packing layers. No people.",
+   "narration": "让有毒气体从滤料中间穿过，",
+   "overlay": [],
+   "labels": [
+    "氨",
+    "硫化氢",
+    "挥发性有机物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "生物滤池：微生物把有毒气体当食物",
+   "scene": "细菌把气体分子吃掉，顶部出来的是干净空气",
+   "prompt_en": "The bacteria absorb the gas molecules, and clean air comes out of the top. No people.",
+   "narration": "长在表面的微生物，把气体当食物吃掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "去氨、去硫化氢的两种菌",
+   "scene": "一种细菌抓住氨分子，变成另一个分子",
+   "prompt_en": "One kind of bacterium grabs an ammonia molecule icon and turns it into a different molecule icon. No people.",
+   "narration": "亚硝化单胞菌，把氨氧化成亚硝酸盐。",
+   "overlay": [
+    "去氨、去硫化氢的两种菌"
+   ],
+   "labels": [
+    "亚硝化单胞菌",
+    "氨→亚硝酸盐"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "去氨、去硫化氢的两种菌",
+   "scene": "另一种细菌抓住硫化氢分子，变成硫酸盐",
+   "prompt_en": "Another kind of bacterium grabs a hydrogen sulfide molecule icon and turns it into a sulfate icon. No people.",
+   "narration": "硫杆菌，把硫化氢氧化成硫酸盐。",
+   "overlay": [],
+   "labels": [
+    "硫杆菌",
+    "硫化氢→硫酸盐"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "噬菌体实验：按宿主菌的风险定级",
+   "scene": "欣欣举着一个培养皿，上面有噬菌斑小洞",
+   "prompt_en": "The panda mascot holds up a culture dish showing small clear spots in a bacterial lawn.",
+   "narration": "做噬菌体实验，离不开宿主菌。",
+   "overlay": [
+    "噬菌体实验：按宿主菌的风险定级"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "噬菌体实验：按宿主菌的风险定级",
+   "scene": "宿主菌图标带生物危害标志",
+   "prompt_en": "A bacterium icon with a biohazard warning sign next to a bacteriophage icon. No people.",
+   "narration": "要杀致病菌，宿主往往就是致病菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "噬菌体实验：按宿主菌的风险定级",
+   "scene": "王老师和老周在空白风险评估表上讨论",
+   "prompt_en": "The safety administrator and the older man discuss a blank risk assessment form.",
+   "narration": "防护级别，按宿主菌和样品来评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "噬菌体实验：按宿主菌的风险定级",
+   "scene": "小研在生物安全柜里操作培养皿",
+   "prompt_en": "The female graduate student works with culture dishes inside a biosafety cabinet, wearing lab coat, gloves and goggles.",
+   "narration": "致病宿主菌，在安全柜里规范操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "噬菌体会串染：分区操作，用后消毒",
+   "scene": "噬菌体从一个培养皿飘向旁边的另一排培养皿",
+   "prompt_en": "Tiny bacteriophage icons drift from one culture dish toward a row of other dishes. No people.",
+   "narration": "噬菌体很小，极易扩散，",
+   "overlay": [
+    "噬菌体会串染：分区操作，用后消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "噬菌体会串染：分区操作，用后消毒",
+   "scene": "隔壁的发酵瓶里细菌全部破裂，打了个问号",
+   "prompt_en": "In a neighboring fermentation flask, all the bacteria burst, with a question mark above it. No people.",
+   "narration": "会把别人的细菌培养全毁掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "噬菌体会串染：分区操作，用后消毒",
+   "scene": "实验台划分出噬菌体专区，有专用移液器",
+   "prompt_en": "A section of the bench is marked off as a dedicated area with its own pipettes and tip box. No people.",
+   "narration": "噬菌体实验，专区专用器材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "噬菌体会串染：分区操作，用后消毒",
+   "scene": "小研收工后用消毒液擦拭专区台面",
+   "prompt_en": "The female graduate student wipes down the dedicated bench area with disinfectant after work.",
+   "narration": "做完及时消毒，废物灭菌后处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "污水、医院污水样品：按感染性对待",
+   "scene": "医院建筑旁的污水管，样品瓶上有生物危害标志",
+   "prompt_en": "A drain pipe near a hospital building icon, and a sample bottle with a biohazard warning sign. No people.",
+   "narration": "污水，尤其医院污水，可能含病原。",
+   "overlay": [
+    "污水、医院污水样品：按感染性对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "污水、医院污水样品：按感染性对待",
+   "scene": "在开放实验台直接倒污水样的图标被打叉",
+   "prompt_en": "An icon of pouring a wastewater sample at an open bench, crossed out with a red X. No people.",
+   "narration": "不在开放台面上直接倾倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "污水、医院污水样品：按感染性对待",
+   "scene": "阿杰在二级实验室的安全柜里开样品瓶",
+   "prompt_en": "The young male student opens the sample bottle inside a biosafety cabinet, wearing lab coat, gloves and goggles, in a lab with a biohazard warning sign on the door.",
+   "narration": "评估后，一般在二级实验室操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "污水、医院污水样品：按感染性对待",
+   "scene": "密封样品瓶放在带盖的周转箱里",
+   "prompt_en": "Sealed sample bottles placed upright inside a closed carrying box with a biohazard warning sign. No people.",
+   "narration": "样品密封运送，防漏防洒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配酸碱、调pH：防溅，酸入水",
+   "scene": "带腐蚀象形图的酸瓶和碱瓶",
+   "prompt_en": "An acid bottle and an alkali bottle, both with corrosive pictograms. No people.",
+   "narration": "研究酸碱废水，要配酸碱、调pH。",
+   "overlay": [
+    "配酸碱、调pH：防溅，酸入水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配酸碱、调pH：防溅，酸入水",
+   "scene": "小研戴护目镜和手套，在通风柜里操作",
+   "prompt_en": "The female graduate student wears goggles, gloves and a lab coat while working in a fume hood with the sash lowered.",
+   "narration": "戴护目镜和手套，在通风柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配酸碱、调pH：防溅，酸入水",
+   "scene": "箭头：酸缓慢流入水中打勾，水倒入酸中打叉",
+   "prompt_en": "Two icons: acid slowly poured into water with a green check, water poured into acid with a red X. No people.",
+   "narration": "稀释时，把酸慢慢加进水里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配酸碱、调pH：防溅，酸入水",
+   "scene": "溅到皮肤，在水龙头下冲洗的图标",
+   "prompt_en": "An icon of a hand being rinsed under running water, and an eyewash sign beside it. No people.",
+   "narration": "溅到身上，立即大量清水冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "氨和硫化氢有毒：通风处操作",
+   "scene": "生物反应器出气口冒出带骷髅象形图的气体",
+   "prompt_en": "Gas with a skull pictogram rises from the outlet of a small lab bioreactor. No people.",
+   "narration": "氨和硫化氢，都是有毒气体。",
+   "overlay": [
+    "氨和硫化氢有毒：通风处操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "氨和硫化氢有毒：通风处操作",
+   "scene": "鼻子图标旁一个问号，气味线条逐渐消失",
+   "prompt_en": "A nose icon with a question mark, and smell lines fading away. No people.",
+   "narration": "硫化氢浓了，鼻子反而闻不到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "氨和硫化氢有毒：通风处操作",
+   "scene": "反应器放在通风柜里，旁边一个气体检测仪",
+   "prompt_en": "A small bioreactor sits inside a fume hood with a blank gas detector beside it. No people.",
+   "narration": "反应器放通风处，必要时配检测仪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "氨和硫化氢有毒：通风处操作",
+   "scene": "小研感到头晕，立刻离开房间并报告",
+   "prompt_en": "The female graduate student feels dizzy, leaves the room right away and reports to the older man.",
+   "narration": "头晕不适，马上离开，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在三个图标前：噬菌体、酸碱试纸、生物滤池",
+   "prompt_en": "The panda mascot stands in front of three icons: a bacteriophage, a pH strip and a biofilter tower.",
+   "narration": "一起回顾一下。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "噬菌体",
+    "酸碱废水",
+    "生物滤池"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "噬菌体攻击带红点的细菌，绿色细菌无恙",
+   "prompt_en": "Bacteriophages attack bacteria with red dots while green bacteria stay unharmed. No people.",
+   "narration": "噬菌体精准杀致病菌，不伤有益菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "水色由红、蓝变成绿色，滤池顶部出干净空气",
+   "prompt_en": "Red and blue water turn green, and clean air comes out of a biofilter tower. No people.",
+   "narration": "微生物间接调酸碱，滤池吃掉臭气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "安全柜、专区台面、样品箱图标",
+   "prompt_en": "Three icons: a biosafety cabinet, a dedicated bench area, and a closed sample box. No people.",
+   "narration": "按宿主定级，专区操作，污水样防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜和通风柜图标",
+   "prompt_en": "A pair of goggles and a fume hood icon side by side. No people.",
+   "narration": "酸碱防溅，有毒气体要通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、小研一起挥手告别",
+   "prompt_en": "The panda mascot waves goodbye together with the young male student and the female graduate student.",
+   "narration": "小小微生物，安全大学问，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

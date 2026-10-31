@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 311 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 312 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 58 / 59 | 6 / 56 |
+| Microbiology Biosafety | 59 / 59 | 6 / 56 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
@@ -493,6 +493,7 @@
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 国内版 | 生物统计：让微生物数据说真话（国内版） | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 国内版 | 吃农药、吸重金属的微生物（国内版） | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 56_How do fungi help in breaking down toxic compounds trending mycology toxic micro | 国内版 | 真菌和细菌：拆解难缠的毒物（国内版） | 46 | 3:50 | 7 / 4 | [剧本](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/script.md>) · [审查](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 57_What role do bacteriophages play in removing biological hazards microbiology tre | 单一版 | 噬菌体与治污微生物 | 48 | 4:00 | 7 / 5 | [剧本](<Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre/script.md>) |
 | Microbiology Biosafety | 58_How are genetically engineered microbes used for hazardous waste cleanup trendin | 单一版 | 工程菌治污：本事大，规矩更大 | 41 | 3:25 | 6 / 4 | [剧本](<Microbiology Biosafety/58_How are genetically engineered microbes used for hazardous waste cleanup trendin/script.md>) · [审查](<Microbiology Biosafety/58_How are genetically engineered microbes used for hazardous waste cleanup trendin/审查报告.md>) |
 | Microbiology Biosafety | 59_How do microbial consortia (mixed cultures) perform better than single strains i | 单一版 | 菌群接力：边解毒，边发电 | 39 | 3:15 | 5 / 4 | [剧本](<Microbiology Biosafety/59_How do microbial consortia (mixed cultures) perform better than single strains i/script.md>) · [审查](<Microbiology Biosafety/59_How do microbial consortia (mixed cultures) perform better than single strains i/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
