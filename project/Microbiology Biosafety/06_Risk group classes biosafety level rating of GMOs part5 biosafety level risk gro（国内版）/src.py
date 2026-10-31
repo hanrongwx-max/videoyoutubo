@@ -1,6 +1,6 @@
 # 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro 卡通剧本作者源
 # 原片（无语音的文字幻灯片）讲转基因生物的四个危险度类别和对应的四个生物安全级别：保留 K1–K12，
-# 审查补充 S1–S3（国内两套分级方向不同；一级也要守规矩；转基因动物防逃逸、做标识）
+# 审查补充 S1–S3（国内两套分级方向不同；转基因植物种子花粉不外流；转基因动物防逃逸、做标识）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -19,7 +19,7 @@ META = {
         "K11": "几类风险，配几级防护",
         "K12": "下集预告：风险管理",
         "S1": "国内两套分级，方向不一样",
-        "S2": "一级也要守规矩",
+        "S2": "转基因植物：种子花粉不外流",
         "S3": "转基因动物：防逃逸、做标识",
     },
     "avoid": ["Raqba Micro Hub", "raqbamicrohub", "ARHMicroHub", "Raqba"],
@@ -156,21 +156,21 @@ SHOTS = [
  "A blank document with a stamp icon. No people.",
  "具体划分，以现行文本为准。"),
 # S2
-("S2", "一级实验室里，阿杰穿实验服、戴手套",
- "The young male student in a lab coat and gloves works at an open bench in a simple lab.",
- "风险最低的一级，也不是没风险。", "一级也要守规矩"),
-("S2", "洗手池和洗手图标",
- "A lab sink with a hand-washing pictogram. No people.",
- "穿实验服，离开前洗手，"),
-("S2", "台面上食物和水杯图标被红叉划掉",
- "Icons of food and a drinking cup on a lab bench, crossed out with a red X. No people.",
- "实验室里不吃不喝，"),
-("S2", "小研用消毒剂擦拭台面",
- "The female graduate student wipes the bench with disinfectant while wearing gloves.",
- "用完台面要消毒，"),
-("S2", "废弃培养物装入专用袋，进入灭菌器",
- "Used culture plates go into a biohazard bag and then into an autoclave. No people.",
- "转基因废弃物灭活后再处置。"),
+("S2", "封闭温室里一排盆栽植物，门上有空白标识牌",
+ "A row of potted plants inside a closed greenhouse room with a blank sign on the door. No people.",
+ "转基因植物，也要在规定场所种植。", "转基因植物：种子花粉不外流"),
+("S2", "开花的植株套着透气隔离袋",
+ "Flowering potted plants wrapped in breathable isolation bags. No people.",
+ "开花时套袋隔离，防花粉飘散，"),
+("S2", "小研把收获的种子装进标记袋并登记",
+ "The female graduate student puts harvested seeds into a marked bag and writes in a blank logbook.",
+ "种子装袋、标识、登记清楚，"),
+("S2", "把种子揣进口袋、撒在路边的图标被红叉划掉",
+ "An icon of seeds carried away in a pocket and scattered by a roadside, crossed out with a red X. No people.",
+ "不私自带走，不随意种到外面，"),
+("S2", "废弃植株和土壤装入专用袋，进入灭菌器",
+ "Discarded plants and soil go into a biohazard bag and then into an autoclave. No people.",
+ "废弃植株和土壤，灭活后再处置。"),
 # S3
 ("S3", "动物房里一排带锁的笼子，每个笼卡空白",
  "A row of locked animal cages in an animal facility, each with a blank cage card. No people.",
@@ -198,9 +198,9 @@ SHOTS = [
 ("小结", "两排方向相反的台阶",
  "Two staircases with opposite danger arrows. No people.",
  "国内病原第一类最危险，别记反。"),
-("小结", "洗手、消毒、笼卡三个图标",
- "Icons of hand washing, a disinfectant spray bottle and a cage card. No people.",
- "一级也守规矩，动物防逃逸。"),
+("小结", "套袋的植株、种子袋、笼卡三个图标",
+ "Icons of a bagged flowering plant, a seed bag and a cage card. No people.",
+ "植物不外流，动物防逃逸。"),
 # 结尾
 ("结尾", "欣欣和阿杰站在实验室门口挥手",
  "The panda mascot and the young male student wave goodbye at a lab door with a shield icon.",
