@@ -1,4 +1,4 @@
-# 微生物实验室的化学品安全
+# 微生物实验室安全措施：化学品安全
 
 - 剧集：Microbiology Biosafety；对应原视频：21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol（内容分析见 `course/Microbiology Biosafety/21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol.md`）
 - 版本：原著版；国内版见 `../21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol（国内版）/`

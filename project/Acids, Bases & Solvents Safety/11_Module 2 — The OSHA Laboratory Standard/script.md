@@ -1,4 +1,4 @@
-# 实验室安全制度：写在纸上，做在手上
+# 第2单元：实验室安全法规标准
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：11_Module 2 — The OSHA Laboratory Standard（内容分析见 `course/Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard.md`）
 - 版本：原著版；国内版见 `../11_Module 2 — The OSHA Laboratory Standard（国内版）/`

@@ -1,4 +1,4 @@
-# 电工实验口试：单相功率篇
+# 单相功率测量实验口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（内容分析见 `course/Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single.md`）
 - 版本：原著版；国内版见 `../16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/`

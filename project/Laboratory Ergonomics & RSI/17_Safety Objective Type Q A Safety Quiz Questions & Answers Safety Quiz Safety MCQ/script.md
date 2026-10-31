@@ -1,4 +1,4 @@
-# 安全常识十五问
+# 安全常识测验：事故成本与安全色
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（内容分析见 `course/Laboratory Ergonomics & RSI/17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ.md`）
 - 版本：原著版；国内版见 `../17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（国内版）/`

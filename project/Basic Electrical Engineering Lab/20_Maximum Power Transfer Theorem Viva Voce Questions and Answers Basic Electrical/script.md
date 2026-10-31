@@ -1,4 +1,4 @@
-# 最大功率传输：口试问答与电池光伏安全
+# 最大功率传输定理口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（内容分析见 `course/Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical.md`）
 - 版本：原著版；国内版见 `../20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（国内版）/`

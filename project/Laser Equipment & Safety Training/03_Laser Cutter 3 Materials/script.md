@@ -1,4 +1,4 @@
-# 激光切割的材料选择
+# 激光切割机3：材料
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：03_Laser Cutter 3 Materials（内容分析见 `course/Laser Equipment & Safety Training/03_Laser Cutter 3 Materials.md`）
 - 版本：原著版；国内版见 `../03_Laser Cutter 3 Materials（国内版）/`

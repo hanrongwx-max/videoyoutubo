@@ -1,4 +1,4 @@
-# 在线仿真验证基尔霍夫定律
+# 用虚拟实验室验证KVL与KCL
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（内容分析见 `course/Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic.md`）
 - 版本：原著版；国内版见 `../22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（国内版）/`

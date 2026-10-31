@@ -1,4 +1,4 @@
-# 化学需氧量与测定安全
+# 什么是化学需氧量（COD）及去除率公式
 
 - 剧集：Microbiology Biosafety；对应原视频：33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog（内容分析见 `course/Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog.md`）
 - 版本：原著版；国内版见 `../33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog（国内版）/`

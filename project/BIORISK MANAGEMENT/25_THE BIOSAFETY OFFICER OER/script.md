@@ -1,4 +1,4 @@
-# 生物安全员是做什么的
+# 生物安全员
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：25_THE BIOSAFETY OFFICER OER（内容分析见 `course/BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER.md`）
 - 版本：原著版；国内版见 `../25_THE BIOSAFETY OFFICER OER（国内版）/`

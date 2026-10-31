@@ -1,4 +1,4 @@
-# 走进化学实验室：技术与安全的第一课
+# 化学实验室技术入门
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：01_Introduction to Chemistry Laboratory Techniques（内容分析见 `course/Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques.md`）
 - 版本：原著版；国内版见 `../01_Introduction to Chemistry Laboratory Techniques（国内版）/`

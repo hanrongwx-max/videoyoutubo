@@ -1,4 +1,4 @@
-# 安全巡查：找找隐患在哪里
+# 实验室安全巡查
 
 - 剧集：Chemical Spillage & Response；对应原视频：07_Lab Safety Survey（内容分析见 `course/Chemical Spillage & Response/07_Lab Safety Survey.md`）
 - 版本：原著版；国内版见 `../07_Lab Safety Survey（国内版）/`

@@ -1,4 +1,4 @@
-# 生物安全员：职责与担当
+# 生物安全员
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：44_THE BIOSAFETY OFFICER（内容分析见 `course/BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER.md`）
 - 版本：原著版；国内版见 `../44_THE BIOSAFETY OFFICER（国内版）/`

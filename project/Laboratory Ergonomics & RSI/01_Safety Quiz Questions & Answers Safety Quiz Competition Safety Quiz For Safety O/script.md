@@ -1,4 +1,4 @@
-# 安全日知识竞赛：二十道综合安全题
+# 安全竞赛问答：职业健康、环境与消防
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（内容分析见 `course/Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O.md`）
 - 版本：原著版；国内版见 `../01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（国内版）/`

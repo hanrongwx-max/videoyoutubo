@@ -1,4 +1,4 @@
-# 一份管用的生物风险管理计划
+# 生物风险管理计划应包括什么？
 
 - 剧集：Microbiology Biosafety；对应原视频：47_What should be included in a Biorisk management plan laboratory trending raqbami（内容分析见 `course/Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami.md`）
 - 版本：原著版；国内版见 `../47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/`

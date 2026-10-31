@@ -1,4 +1,4 @@
-# 用紫外分光光度计测DNA浓度
+# 用分光光度计定量DNA
 
 - 剧集：General Lab Safety Practices；对应原视频：07_How to Quantify DNA with a Spectrophotometer（内容分析见 `course/General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer.md`）
 - 版本：原著版；国内版见 `../07_How to Quantify DNA with a Spectrophotometer（国内版）/`

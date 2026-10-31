@@ -1,4 +1,4 @@
-# 薄层色谱入门
+# 薄层色谱：基础
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：03_TLC-The Basics（内容分析见 `course/MIT Digital Lab Techniques Manual/03_TLC-The Basics.md`）
 - 版本：原著版；国内版见 `../03_TLC-The Basics（国内版）/`

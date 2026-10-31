@@ -1,4 +1,4 @@
-# 读懂气瓶上的标记
+# 压缩气瓶：读懂气瓶标记
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（内容分析见 `course/Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe.md`）
 - 版本：原著版；国内版见 `../06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/`

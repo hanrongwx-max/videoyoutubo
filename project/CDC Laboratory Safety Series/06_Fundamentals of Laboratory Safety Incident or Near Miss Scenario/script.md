@@ -1,4 +1,4 @@
-# 是事故还是未遂
+# 实验室安全基础：事故或未遂事件情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（内容分析见 `course/CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario.md`）
 - 版本：原著版；国内版见 `../06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/`

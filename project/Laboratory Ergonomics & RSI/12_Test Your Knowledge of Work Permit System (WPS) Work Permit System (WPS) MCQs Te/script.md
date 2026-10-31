@@ -1,4 +1,4 @@
-# 作业许可十问
+# 作业许可制度知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te（内容分析见 `course/Laboratory Ergonomics & RSI/12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te.md`）
 - 版本：原著版；国内版见 `../12_Test Your Knowledge of Work Permit System (WPS) Work Permit System (WPS) MCQs Te（国内版）/`

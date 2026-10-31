@@ -1,4 +1,4 @@
-# 吃农药、吸重金属的微生物
+# 哪些微生物最能降解农药和除草剂？
 
 - 剧集：Microbiology Biosafety；对应原视频：55_Which microbes are most effective in degrading pesticides and herbicides microbi（内容分析见 `course/Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi.md`）
 - 版本：原著版；国内版见 `../55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/`

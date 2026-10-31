@@ -1,4 +1,4 @@
-# 实验室危害，伤的是谁
+# 实验室危害对人员的影响
 
 - 剧集：Microbiology Biosafety；对应原视频：29_Significance of lab hazards in terms of personal microbiology laboratory hazard（内容分析见 `course/Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard.md`）
 - 版本：原著版；国内版见 `../29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/`

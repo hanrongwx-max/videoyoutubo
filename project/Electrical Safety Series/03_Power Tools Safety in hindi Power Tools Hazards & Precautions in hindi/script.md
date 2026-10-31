@@ -1,4 +1,4 @@
-# 电动工具的危害与预防
+# 电动工具的危害与预防措施
 
 - 剧集：Electrical Safety Series；对应原视频：03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（内容分析见 `course/Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi.md`）
 - 版本：原著版；国内版见 `../03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/`

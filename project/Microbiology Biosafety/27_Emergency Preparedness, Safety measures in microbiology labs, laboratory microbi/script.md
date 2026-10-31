@@ -1,4 +1,4 @@
-# 微生物实验室的应急准备
+# 微生物实验室安全措施：应急准备
 
 - 剧集：Microbiology Biosafety；对应原视频：27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（内容分析见 `course/Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi.md`）
 - 版本：原著版；国内版见 `../27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/`

@@ -1,4 +1,4 @@
-# 作业许可三十问：签发人与接收人
+# 作业许可接收人安全测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q（内容分析见 `course/Laboratory Ergonomics & RSI/23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q.md`）
 - 版本：原著版；国内版见 `../23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q（国内版）/`

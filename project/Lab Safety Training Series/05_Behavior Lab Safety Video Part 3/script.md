@@ -1,4 +1,4 @@
-# 实验室里的行为规范
+# 实验室安全（三）：行为规范
 
 - 剧集：Lab Safety Training Series；对应原视频：05_Behavior Lab Safety Video Part 3（内容分析见 `course/Lab Safety Training Series/05_Behavior Lab Safety Video Part 3.md`）
 - 版本：原著版；国内版见 `../05_Behavior Lab Safety Video Part 3（国内版）/`

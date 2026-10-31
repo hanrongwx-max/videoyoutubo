@@ -1,4 +1,4 @@
-# 电焊机使用前检查
+# 如何检查电焊机
 
 - 剧集：Electrical Safety Series；对应原视频：08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（内容分析见 `course/Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE.md`）
 - 版本：原著版；国内版见 `../08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（国内版）/`

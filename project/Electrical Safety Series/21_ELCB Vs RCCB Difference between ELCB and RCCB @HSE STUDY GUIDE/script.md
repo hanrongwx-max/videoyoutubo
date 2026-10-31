@@ -1,4 +1,4 @@
-# 两种漏电保护器：十个方面比一比
+# ELCB与RCCB的区别
 
 - 剧集：Electrical Safety Series；对应原视频：21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE（内容分析见 `course/Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE.md`）
 - 版本：原著版；国内版见 `../21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE（国内版）/`

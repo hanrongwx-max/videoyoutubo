@@ -1,4 +1,4 @@
-# 身边的生物技术
+# 生物科学的生活方式
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：08_APB - A Bioscience Way of Life（内容分析见 `course/Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life.md`）
 - 版本：原著版；国内版见 `../08_APB - A Bioscience Way of Life（国内版）/`

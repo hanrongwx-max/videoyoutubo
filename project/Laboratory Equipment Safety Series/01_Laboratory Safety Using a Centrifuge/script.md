@@ -1,4 +1,4 @@
-# 安全使用离心机
+# 实验室安全：使用离心机
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：01_Laboratory Safety Using a Centrifuge（内容分析见 `course/Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge.md`）
 - 版本：原著版；国内版见 `../01_Laboratory Safety Using a Centrifuge（国内版）/`

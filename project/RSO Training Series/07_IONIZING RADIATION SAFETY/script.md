@@ -1,4 +1,4 @@
-# 电离辐射安全：从原理到日常防护
+# 电离辐射安全
 
 - 剧集：RSO Training Series；对应原视频：07_IONIZING RADIATION SAFETY（内容分析见 `course/RSO Training Series/07_IONIZING RADIATION SAFETY.md`）
 - 版本：原著版；国内版见 `../07_IONIZING RADIATION SAFETY（国内版）/`

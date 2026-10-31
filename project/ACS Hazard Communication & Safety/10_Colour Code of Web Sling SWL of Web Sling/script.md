@@ -1,4 +1,4 @@
-# 安全知识问答：吊装带与重物搬运
+# 扁平吊带的颜色代码与安全工作载荷
 
 - 剧集：ACS Hazard Communication & Safety；对应原视频：10_Colour Code of Web Sling SWL of Web Sling（内容分析见 `course/ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling.md`）
 - 版本：原著版；国内版见 `../10_Colour Code of Web Sling SWL of Web Sling（国内版）/`

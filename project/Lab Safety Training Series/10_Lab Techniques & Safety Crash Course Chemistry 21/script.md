@@ -1,4 +1,4 @@
-# 实验室生存指南：穿戴、操作与应急
+# 实验技术与安全
 
 - 剧集：Lab Safety Training Series；对应原视频：10_Lab Techniques & Safety Crash Course Chemistry 21（内容分析见 `course/Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21.md`）
 - 版本：原著版；国内版见 `../10_Lab Techniques & Safety Crash Course Chemistry 21（国内版）/`

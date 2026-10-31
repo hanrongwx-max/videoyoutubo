@@ -1,4 +1,4 @@
-# 核医学身边的辐射安全：病人、溢洒与急救
+# 辐射安全培训
 
 - 剧集：RSO Training Series；对应原视频：06_Radiation Safety Training（内容分析见 `course/RSO Training Series/06_Radiation Safety Training.md`）
 - 版本：原著版；国内版见 `../06_Radiation Safety Training（国内版）/`

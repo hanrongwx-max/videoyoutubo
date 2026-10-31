@@ -1,4 +1,4 @@
-# 激光焊机与切割机的维护保养
+# 第7课：如何延长激光焊切一体机的寿命
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：04_Lesson 7 How to Extend the Lifespan of MetalFab（内容分析见 `course/Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab.md`）
 - 版本：原著版；国内版见 `../04_Lesson 7 How to Extend the Lifespan of MetalFab（国内版）/`

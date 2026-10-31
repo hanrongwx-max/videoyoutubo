@@ -1,4 +1,4 @@
-# 化学品危害告知：一书一签
+# 危害告知标准：更聪明的做法，更安全的实验室
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（内容分析见 `course/Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices.md`）
 - 版本：原著版；国内版见 `../04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/`

@@ -1,4 +1,4 @@
-# 微生物实验室的生物安全措施
+# 微生物实验室安全措施：生物安全
 
 - 剧集：Microbiology Biosafety；对应原视频：26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（内容分析见 `course/Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology.md`）
 - 版本：原著版；国内版见 `../26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/`

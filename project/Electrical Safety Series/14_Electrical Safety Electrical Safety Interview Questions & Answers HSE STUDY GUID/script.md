@@ -1,4 +1,4 @@
-# 用电安全十五问
+# 用电安全面试问答（十五问）
 
 - 剧集：Electrical Safety Series；对应原视频：14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（内容分析见 `course/Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID.md`）
 - 版本：原著版；国内版见 `../14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/`

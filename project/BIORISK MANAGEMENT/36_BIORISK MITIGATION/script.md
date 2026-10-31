@@ -1,4 +1,4 @@
-# 五类控制减风险
+# 生物风险减缓
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：36_BIORISK MITIGATION（内容分析见 `course/BIORISK MANAGEMENT/36_BIORISK MITIGATION.md`）
 - 版本：原著版；国内版见 `../36_BIORISK MITIGATION（国内版）/`

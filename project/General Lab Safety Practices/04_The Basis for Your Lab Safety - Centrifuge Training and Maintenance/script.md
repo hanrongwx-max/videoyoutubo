@@ -1,4 +1,4 @@
-# 离心机的清洁维护与转子检查
+# 实验室安全的基础：离心机培训与维护
 
 - 剧集：General Lab Safety Practices；对应原视频：04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（内容分析见 `course/General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance.md`）
 - 版本：原著版；国内版见 `../04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/`

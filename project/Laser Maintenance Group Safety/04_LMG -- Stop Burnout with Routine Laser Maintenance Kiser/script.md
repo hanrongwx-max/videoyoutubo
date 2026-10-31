@@ -1,4 +1,4 @@
-# 一颗螺栓引发的连锁故障
+# 靠例行维护防止激光设备烧毁
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser（内容分析见 `course/Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser.md`）
 - 版本：原著版；国内版见 `../04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser（国内版）/`

@@ -1,4 +1,4 @@
-# 化学实验室怎样降低风险
+# 降低化学实验室的风险
 
 - 剧集：ACS College Lab Safety Series；对应原视频：04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（内容分析见 `course/ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4.md`）
 - 版本：原著版；国内版见 `../04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/`

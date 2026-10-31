@@ -1,4 +1,4 @@
-# 生物风险管理体系的六根支柱
+# 生物风险管理体系的核心组成
 
 - 剧集：Microbiology Biosafety；对应原视频：44_What are the core components of a Biorisk management system biorisk biosafety tr（内容分析见 `course/Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr.md`）
 - 版本：原著版；国内版见 `../44_What are the core components of a Biorisk management system biorisk biosafety tr（国内版）/`

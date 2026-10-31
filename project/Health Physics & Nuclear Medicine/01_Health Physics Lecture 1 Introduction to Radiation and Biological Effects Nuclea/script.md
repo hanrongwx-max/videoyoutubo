@@ -1,4 +1,4 @@
-# 辐射剂量入门：从空气电离到人体风险
+# 辐射入门与生物效应
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（内容分析见 `course/Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea.md`）
 - 版本：原著版；国内版见 `../01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（国内版）/`

@@ -1,4 +1,4 @@
-# 减压阀与背压阀的安全使用
+# 减压阀与背压阀解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained.md`）
 - 版本：原著版；国内版见 `../06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/`

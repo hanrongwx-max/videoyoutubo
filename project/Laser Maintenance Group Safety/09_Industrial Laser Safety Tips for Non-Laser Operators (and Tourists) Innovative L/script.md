@@ -1,4 +1,4 @@
-# 非操作人员的激光车间安全
+# 非激光操作人员与参观者的工业激光安全提示
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（内容分析见 `course/Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L.md`）
 - 版本：原著版；国内版见 `../09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（国内版）/`

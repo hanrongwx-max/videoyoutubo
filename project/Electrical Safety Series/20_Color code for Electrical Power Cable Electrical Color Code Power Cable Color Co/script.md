@@ -1,4 +1,4 @@
-# 电线的颜色：认得清，更要验得准
+# 电力电缆的颜色代码
 
 - 剧集：Electrical Safety Series；对应原视频：20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（内容分析见 `course/Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co.md`）
 - 版本：原著版；国内版见 `../20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/`

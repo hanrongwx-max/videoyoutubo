@@ -1,4 +1,4 @@
-# 激光焊接机更换清洗嘴
+# 激光焊机：如何更换不同喷嘴
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：28_xTool MetalFab Laser Welder – How to change different nozzle（内容分析见 `course/Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle.md`）
 - 版本：原著版；国内版见 `../28_xTool MetalFab Laser Welder – How to change different nozzle（国内版）/`

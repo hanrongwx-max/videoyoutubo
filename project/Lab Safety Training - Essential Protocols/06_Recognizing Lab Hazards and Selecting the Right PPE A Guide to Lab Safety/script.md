@@ -1,4 +1,4 @@
-# 识别危害，选对防护
+# 识别实验室危害，选对个人防护装备
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（内容分析见 `course/Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety.md`）
 - 版本：原著版；国内版见 `../06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/`

@@ -1,4 +1,4 @@
-# 手套破了，要不要说
+# 实验室安全基础：应急程序与报告情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（内容分析见 `course/CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario.md`）
 - 版本：原著版；国内版见 `../07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/`

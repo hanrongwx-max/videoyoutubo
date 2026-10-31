@@ -1,4 +1,4 @@
-# 看不见的污染：实验室防污染
+# 实验室防污染
 
 - 剧集：Lab Safety Training Series；对应原视频：07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（内容分析见 `course/Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video].md`）
 - 版本：原著版；国内版见 `../07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/`

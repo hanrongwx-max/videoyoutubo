@@ -1,4 +1,4 @@
-# 过氧化物试纸检测
+# 用过氧化物试纸检测过氧化物
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：07_How to test for peroxides using Quantofix dip strips（内容分析见 `course/Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips.md`）
 - 版本：原著版；国内版见 `../07_How to test for peroxides using Quantofix dip strips（国内版）/`

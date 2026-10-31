@@ -1,4 +1,4 @@
-# 激光切割机：徽章项目上机全流程
+# 激光切割机6：徽章项目
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：06_Laser Cutter 6 Badge Project（内容分析见 `course/Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project.md`）
 - 版本：原著版；国内版见 `../06_Laser Cutter 6 Badge Project（国内版）/`

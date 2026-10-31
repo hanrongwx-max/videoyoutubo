@@ -1,4 +1,4 @@
-# 用电安全知识问答
+# 用电安全面试问答
 
 - 剧集：Electrical Safety Series；对应原视频：06_Electrical Safety interview questions & answers in hindi Electrical interview qu（内容分析见 `course/Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu.md`）
 - 版本：原著版；国内版见 `../06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/`

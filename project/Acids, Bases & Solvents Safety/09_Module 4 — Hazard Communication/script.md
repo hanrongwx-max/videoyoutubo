@@ -1,4 +1,4 @@
-# 读懂化学品的安全语言
+# 第4单元：危害告知
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：09_Module 4 — Hazard Communication（内容分析见 `course/Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication.md`）
 - 版本：原著版；国内版见 `../09_Module 4 — Hazard Communication（国内版）/`

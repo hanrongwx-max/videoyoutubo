@@ -1,4 +1,4 @@
-# 细胞培养的无菌操作与生物安全
+# 细胞培养基础：用无菌操作保持无菌
 
 - 剧集：Lab Safety Training Series；对应原视频：01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（内容分析见 `course/Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training.md`）
 - 版本：原著版；国内版见 `../01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（国内版）/`

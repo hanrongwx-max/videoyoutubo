@@ -1,4 +1,4 @@
-# 作业许可十问：何时办、谁检查、何时停
+# 作业许可制度安全测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：24_Test Your Safety Knowledge Safety Quiz Safety Quiz on WPS Safety Quiz on Work Pe（内容分析见 `course/Laboratory Ergonomics & RSI/24_Test Your Safety Knowledge Safety Quiz Safety Quiz on WPS Safety Quiz on Work Pe.md`）
 - 版本：原著版；国内版见 `../24_Test Your Safety Knowledge Safety Quiz Safety Quiz on WPS Safety Quiz on Work Pe（国内版）/`

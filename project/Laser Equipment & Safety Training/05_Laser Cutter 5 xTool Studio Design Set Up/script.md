@@ -1,4 +1,4 @@
-# 激光切割机：加工参数设置
+# 激光切割机5：软件中的设计设置
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：05_Laser Cutter 5 xTool Studio Design Set Up（内容分析见 `course/Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up.md`）
 - 版本：原著版；国内版见 `../05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/`

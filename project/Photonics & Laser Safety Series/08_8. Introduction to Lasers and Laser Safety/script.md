@@ -1,4 +1,4 @@
-# 激光安全入门
+# 激光与激光安全入门
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：08_8. Introduction to Lasers and Laser Safety（内容分析见 `course/Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety.md`）
 - 版本：原著版；国内版见 `../08_8. Introduction to Lasers and Laser Safety（国内版）/`

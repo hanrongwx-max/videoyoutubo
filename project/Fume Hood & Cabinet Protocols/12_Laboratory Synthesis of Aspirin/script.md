@@ -1,4 +1,4 @@
-# 阿司匹林合成实验与安全
+# 阿司匹林的实验室合成
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：12_Laboratory Synthesis of Aspirin（内容分析见 `course/Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin.md`）
 - 版本：原著版；国内版见 `../12_Laboratory Synthesis of Aspirin（国内版）/`

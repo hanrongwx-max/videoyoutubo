@@ -1,4 +1,4 @@
-# 导线、导体与自耦调压器
+# 认识自耦调压器与导线、导体和电缆
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C（内容分析见 `course/Basic Electrical Engineering Lab/03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C.md`）
 - 版本：原著版；国内版见 `../03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C（国内版）/`

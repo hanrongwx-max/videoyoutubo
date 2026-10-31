@@ -1,4 +1,4 @@
-# 动火作业安全十问
+# 动火作业安全知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te（内容分析见 `course/Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te.md`）
 - 版本：原著版；国内版见 `../10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te（国内版）/`

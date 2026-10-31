@@ -1,4 +1,4 @@
-# 安全知识竞赛四十题
+# 消防与安全面试题：消防、用电、受限空间与防护
 
 - 剧集：Electrical Safety Series；对应原视频：09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（内容分析见 `course/Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac.md`）
 - 版本：原著版；国内版见 `../09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（国内版）/`

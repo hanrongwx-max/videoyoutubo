@@ -1,4 +1,4 @@
-# 便携式发电机安全使用
+# 便携式发电机的危害与预防措施
 
 - 剧集：Electrical Safety Series；对应原视频：07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（内容分析见 `course/Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S.md`）
 - 版本：原著版；国内版见 `../07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（国内版）/`

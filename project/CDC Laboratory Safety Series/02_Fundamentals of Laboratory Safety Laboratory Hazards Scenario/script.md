@@ -1,4 +1,4 @@
-# 新实验室的危害在哪里
+# 实验室安全基础：实验室危害情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（内容分析见 `course/CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario.md`）
 - 版本：原著版；国内版见 `../02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/`

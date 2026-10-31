@@ -1,4 +1,4 @@
-# 电击从哪来，怎样防
+# 触电的原因与预防
 
 - 剧集：Electrical Safety Series；对应原视频：16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE（内容分析见 `course/Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE.md`）
 - 版本：原著版；国内版见 `../16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE（国内版）/`

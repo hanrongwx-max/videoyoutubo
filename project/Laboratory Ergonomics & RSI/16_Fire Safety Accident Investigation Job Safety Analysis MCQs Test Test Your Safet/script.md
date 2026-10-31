@@ -1,4 +1,4 @@
-# 五合一安全五十问
+# 安全知识自测：消防、事故调查与工作安全分析
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet（内容分析见 `course/Laboratory Ergonomics & RSI/16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet.md`）
 - 版本：原著版；国内版见 `../16_Fire Safety Accident Investigation Job Safety Analysis MCQs Test Test Your Safet（国内版）/`

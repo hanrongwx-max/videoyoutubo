@@ -1,4 +1,4 @@
-# 三种过滤方法
+# 过滤
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：07_Filtration（内容分析见 `course/MIT Digital Lab Techniques Manual/07_Filtration.md`）
 - 版本：原著版；国内版见 `../07_Filtration（国内版）/`

@@ -1,4 +1,4 @@
-# 实验室的其他常见危害
+# 实验室安全（六）：其他常见危害
 
 - 剧集：Chemical Spillage & Response；对应原视频：06_Other General Hazards Lab Safety Video Part 6（内容分析见 `course/Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6.md`）
 - 版本：原著版；国内版见 `../06_Other General Hazards Lab Safety Video Part 6（国内版）/`

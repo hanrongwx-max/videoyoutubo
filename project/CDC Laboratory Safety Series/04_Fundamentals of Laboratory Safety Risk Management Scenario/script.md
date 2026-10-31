@@ -1,4 +1,4 @@
-# 新实验，先评估
+# 实验室安全基础：风险管理情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：04_Fundamentals of Laboratory Safety Risk Management Scenario（内容分析见 `course/CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario.md`）
 - 版本：原著版；国内版见 `../04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/`

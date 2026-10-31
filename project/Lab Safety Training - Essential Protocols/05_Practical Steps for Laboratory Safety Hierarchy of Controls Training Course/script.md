@@ -1,4 +1,4 @@
-# 控制层级：从源头管住危害
+# 实验室安全实用步骤：控制层级
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course.md`）
 - 版本：原著版；国内版见 `../05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（国内版）/`

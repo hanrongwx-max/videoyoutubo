@@ -1,4 +1,4 @@
-# 应急准备：有备才能无患
+# 实验室安全：以应急准备守护生命
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（内容分析见 `course/Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness.md`）
 - 版本：原著版；国内版见 `../01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（国内版）/`

@@ -1,4 +1,4 @@
-# 接地：看不见的保护线
+# 接地详解：接地井检查与安全员职责
 
 - 剧集：Electrical Safety Series；对应原视频：25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（内容分析见 `course/Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil.md`）
 - 版本：原著版；国内版见 `../25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（国内版）/`

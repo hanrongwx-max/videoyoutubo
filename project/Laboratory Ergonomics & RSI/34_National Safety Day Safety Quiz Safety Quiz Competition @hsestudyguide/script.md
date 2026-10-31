@@ -1,4 +1,4 @@
-# 别国的安全日：十道问答
+# 某国安全日知识测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide（内容分析见 `course/Laboratory Ergonomics & RSI/34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide.md`）
 - 版本：原著版；国内版见 `../34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide（国内版）/`

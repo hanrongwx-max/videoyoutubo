@@ -1,4 +1,4 @@
-# 激光切割机的运行安全
+# 激光切割机2：安全
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：02_Laser Cutter 2 Safety（内容分析见 `course/Laser Equipment & Safety Training/02_Laser Cutter 2 Safety.md`）
 - 版本：原著版；国内版见 `../02_Laser Cutter 2 Safety（国内版）/`

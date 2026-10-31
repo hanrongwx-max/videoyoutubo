@@ -1,4 +1,4 @@
-# 人体电阻：为什么湿手更危险
+# 人体对地电阻
 
 - 剧集：Electrical Safety Series；对应原视频：19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（内容分析见 `course/Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU.md`）
 - 版本：原著版；国内版见 `../19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/`

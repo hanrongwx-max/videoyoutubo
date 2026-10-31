@@ -1,4 +1,4 @@
-# 职业素养与废物处置
+# 职业素养与废物处置：实验室安全要点
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（内容分析见 `course/Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory.md`）
 - 版本：原著版；国内版见 `../07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（国内版）/`

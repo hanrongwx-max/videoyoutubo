@@ -1,4 +1,4 @@
-# 洗眼器的定期冲洗
+# 如何冲洗洗眼器
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：02_How to flush an eyewash station Demonstration at ATRB（内容分析见 `course/Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB.md`）
 - 版本：原著版；国内版见 `../02_How to flush an eyewash station Demonstration at ATRB（国内版）/`

@@ -1,4 +1,4 @@
-# 实验室里的五类常见危害
+# 实验室安全：要当心的常见危害
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course.md`）
 - 版本：原著版；国内版见 `../20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course（国内版）/`

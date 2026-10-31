@@ -1,4 +1,4 @@
-# 生物安保的六个关键方面
+# 生物安保的关键方面
 
 - 剧集：Microbiology Biosafety；对应原视频：16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（内容分析见 `course/Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub.md`）
 - 版本：原著版；国内版见 `../16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（国内版）/`

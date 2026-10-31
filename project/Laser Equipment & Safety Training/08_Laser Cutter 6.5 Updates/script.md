@@ -1,4 +1,4 @@
-# 激光切割机：规程更新须知
+# 激光切割机6.5：更新
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：08_Laser Cutter 6.5 Updates（内容分析见 `course/Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates.md`）
 - 版本：原著版；国内版见 `../08_Laser Cutter 6.5 Updates（国内版）/`

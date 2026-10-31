@@ -1,4 +1,4 @@
-# 激光焊接机更换主控板
+# 激光焊机：更换主板
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：21_Replace the Motherboard for the xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../21_Replace the Motherboard for the xTool MetalFab Laser Welder（国内版）/`

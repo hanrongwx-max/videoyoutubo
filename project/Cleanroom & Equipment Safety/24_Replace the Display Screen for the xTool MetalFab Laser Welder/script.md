@@ -1,4 +1,4 @@
-# 激光焊接机更换显示屏
+# 激光焊机：更换显示屏
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：24_Replace the Display Screen for the xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/24_Replace the Display Screen for the xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../24_Replace the Display Screen for the xTool MetalFab Laser Welder（国内版）/`

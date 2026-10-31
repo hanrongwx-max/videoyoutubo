@@ -1,4 +1,4 @@
-# 电气安全全攻略
+# 电气安全全面讲解
 
 - 剧集：Electrical Safety Series；对应原视频：23_Complete Electrical Safety（内容分析见 `course/Electrical Safety Series/23_Complete Electrical Safety.md`）
 - 版本：原著版；国内版见 `../23_Complete Electrical Safety（国内版）/`

@@ -1,4 +1,4 @@
-# 低温截止阀的安全操作
+# 低温截止阀解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained.md`）
 - 版本：原著版；国内版见 `../04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/`

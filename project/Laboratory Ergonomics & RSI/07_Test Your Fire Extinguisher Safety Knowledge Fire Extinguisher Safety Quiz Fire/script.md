@@ -1,4 +1,4 @@
-# 灭火器十问：选对、拿稳、用好
+# 灭火器安全知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（内容分析见 `course/Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire.md`）
 - 版本：原著版；国内版见 `../07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/`

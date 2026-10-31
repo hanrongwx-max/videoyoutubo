@@ -1,4 +1,4 @@
-# 电工实验：三电压表法测线圈
+# 三电压表法
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B（内容分析见 `course/Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B.md`）
 - 版本：原著版；国内版见 `../10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B（国内版）/`

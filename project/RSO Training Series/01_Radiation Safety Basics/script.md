@@ -1,4 +1,4 @@
-# 辐射安全基础：来源、剂量与生物效应
+# 辐射安全基础
 
 - 剧集：RSO Training Series；对应原视频：01_Radiation Safety Basics（内容分析见 `course/RSO Training Series/01_Radiation Safety Basics.md`）
 - 版本：原著版；国内版见 `../01_Radiation Safety Basics（国内版）/`

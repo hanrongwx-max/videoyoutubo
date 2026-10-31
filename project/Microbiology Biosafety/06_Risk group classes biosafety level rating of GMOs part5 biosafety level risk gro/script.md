@@ -1,4 +1,4 @@
-# 转基因生物：分几类，防几级
+# 转基因生物的风险组别与生物安全等级
 
 - 剧集：Microbiology Biosafety；对应原视频：06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（内容分析见 `course/Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro.md`）
 - 版本：原著版；国内版见 `../06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（国内版）/`

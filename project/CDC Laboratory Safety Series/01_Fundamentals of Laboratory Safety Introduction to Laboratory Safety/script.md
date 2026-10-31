@@ -1,4 +1,4 @@
-# 走进实验室安全
+# 实验室安全基础：实验室安全导论
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（内容分析见 `course/CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety.md`）
 - 版本：原著版；国内版见 `../01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/`

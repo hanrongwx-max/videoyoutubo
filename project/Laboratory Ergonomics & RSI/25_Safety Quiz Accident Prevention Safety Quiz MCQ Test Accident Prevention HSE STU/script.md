@@ -1,4 +1,4 @@
-# 事故预防十二问
+# 事故预防安全测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU（内容分析见 `course/Laboratory Ergonomics & RSI/25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU.md`）
 - 版本：原著版；国内版见 `../25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU（国内版）/`

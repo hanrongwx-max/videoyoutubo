@@ -1,4 +1,4 @@
-# 气瓶减压器的安装与拆卸
+# 压缩气瓶：减压器的安装与拆卸
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（内容分析见 `course/Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet.md`）
 - 版本：原著版；国内版见 `../04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/`

@@ -1,4 +1,4 @@
-# 进实验室，先穿对、戴好
+# 实验室安全（一）：着装与个人防护装备
 
 - 剧集：Chemical Spillage & Response；对应原视频：01_Proper Dress and PPE Lab Safety Video Part 1（内容分析见 `course/Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1.md`）
 - 版本：原著版；国内版见 `../01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/`

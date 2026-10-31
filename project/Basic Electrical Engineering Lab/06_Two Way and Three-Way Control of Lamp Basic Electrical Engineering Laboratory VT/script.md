@@ -1,4 +1,4 @@
-# 双控与三地控制照明实验
+# 电灯的两地与三地控制
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（内容分析见 `course/Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT.md`）
 - 版本：原著版；国内版见 `../06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/`

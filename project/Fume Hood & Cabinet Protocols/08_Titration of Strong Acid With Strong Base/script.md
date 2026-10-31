@@ -1,4 +1,4 @@
-# 强酸强碱滴定
+# 强酸与强碱的滴定
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：08_Titration of Strong Acid With Strong Base（内容分析见 `course/Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base.md`）
 - 版本：原著版；国内版见 `../08_Titration of Strong Acid With Strong Base（国内版）/`

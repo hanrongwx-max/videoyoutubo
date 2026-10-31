@@ -1,4 +1,4 @@
-# 离高压线远一点
+# 与架空输电线路的安全作业距离
 
 - 剧集：Electrical Safety Series；对应原视频：17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe（内容分析见 `course/Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe.md`）
 - 版本：原著版；国内版见 `../17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe（国内版）/`

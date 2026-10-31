@@ -1,4 +1,4 @@
-# 薄层色谱的操作与安全
+# 薄层色谱（TLC）操作
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：09_Performing Thin Layer Chromatography (TLC)（内容分析见 `course/Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC).md`）
 - 版本：原著版；国内版见 `../09_Performing Thin Layer Chromatography (TLC)（国内版）/`

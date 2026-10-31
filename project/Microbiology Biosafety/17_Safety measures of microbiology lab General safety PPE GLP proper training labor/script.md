@@ -1,4 +1,4 @@
-# 微生物实验室的通用安全措施
+# 微生物实验室的安全措施：通用安全、防护与培训
 
 - 剧集：Microbiology Biosafety；对应原视频：17_Safety measures of microbiology lab General safety PPE GLP proper training labor（内容分析见 `course/Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor.md`）
 - 版本：原著版；国内版见 `../17_Safety measures of microbiology lab General safety PPE GLP proper training labor（国内版）/`

@@ -1,4 +1,4 @@
-# 漏电保护器的灵敏度档位
+# RCCB的额定值与剩余电流灵敏度
 
 - 剧集：Electrical Safety Series；对应原视频：13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（内容分析见 `course/Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY.md`）
 - 版本：原著版；国内版见 `../13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/`

@@ -1,4 +1,4 @@
-# 柱色谱分离
+# 柱色谱
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：10_Column Chromatography（内容分析见 `course/MIT Digital Lab Techniques Manual/10_Column Chromatography.md`）
 - 版本：原著版；国内版见 `../10_Column Chromatography（国内版）/`

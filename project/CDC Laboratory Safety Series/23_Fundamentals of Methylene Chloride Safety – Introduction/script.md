@@ -1,4 +1,4 @@
-# 二氯甲烷的安全使用
+# 二氯甲烷安全基础：导论
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：23_Fundamentals of Methylene Chloride Safety – Introduction（内容分析见 `course/CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction.md`）
 - 版本：原著版；国内版见 `../23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/`

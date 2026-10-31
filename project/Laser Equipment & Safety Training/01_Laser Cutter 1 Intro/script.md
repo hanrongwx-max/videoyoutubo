@@ -1,4 +1,4 @@
-# 认识激光切割机
+# 激光切割机1：入门
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：01_Laser Cutter 1 Intro（内容分析见 `course/Laser Equipment & Safety Training/01_Laser Cutter 1 Intro.md`）
 - 版本：原著版；国内版见 `../01_Laser Cutter 1 Intro（国内版）/`

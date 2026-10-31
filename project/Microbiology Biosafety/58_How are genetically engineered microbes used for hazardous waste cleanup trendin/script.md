@@ -1,4 +1,4 @@
-# 工程菌治污：本事大，规矩更大
+# 基因工程微生物如何用于危险废物治理？
 
 - 剧集：Microbiology Biosafety；对应原视频：58_How are genetically engineered microbes used for hazardous waste cleanup trendin（内容分析见 `course/Microbiology Biosafety/58_How are genetically engineered microbes used for hazardous waste cleanup trendin.md`）
 - 版本：原著版；国内版见 `../58_How are genetically engineered microbes used for hazardous waste cleanup trendin（国内版）/`

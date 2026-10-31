@@ -1,4 +1,4 @@
-# 开挖与沟槽安全十五问
+# 开挖安全知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（内容分析见 `course/Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H.md`）
 - 版本：原著版；国内版见 `../19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（国内版）/`

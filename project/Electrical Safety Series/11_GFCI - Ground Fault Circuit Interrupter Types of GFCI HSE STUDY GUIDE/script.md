@@ -1,4 +1,4 @@
-# 漏电保护器的作用和类型
+# 接地故障断路器的作用与类型
 
 - 剧集：Electrical Safety Series；对应原视频：11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（内容分析见 `course/Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE.md`）
 - 版本：原著版；国内版见 `../11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（国内版）/`

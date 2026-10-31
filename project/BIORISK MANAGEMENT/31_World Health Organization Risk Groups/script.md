@@ -1,4 +1,4 @@
-# 四个风险组怎么分
+# 国际通行的风险组分级
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：31_World Health Organization Risk Groups（内容分析见 `course/BIORISK MANAGEMENT/31_World Health Organization Risk Groups.md`）
 - 版本：原著版；国内版见 `../31_World Health Organization Risk Groups（国内版）/`

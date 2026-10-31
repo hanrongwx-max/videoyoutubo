@@ -1,4 +1,4 @@
-# 酸碱滴定的规范操作
+# 滴定
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：02_Titration（内容分析见 `course/MIT Digital Lab Techniques Manual/02_Titration.md`）
 - 版本：原著版；国内版见 `../02_Titration（国内版）/`

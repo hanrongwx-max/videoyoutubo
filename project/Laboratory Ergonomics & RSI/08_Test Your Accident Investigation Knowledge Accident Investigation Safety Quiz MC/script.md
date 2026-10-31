@@ -1,4 +1,4 @@
-# 事故调查十问：查事实，改系统
+# 事故调查知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（内容分析见 `course/Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC.md`）
 - 版本：原著版；国内版见 `../08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/`

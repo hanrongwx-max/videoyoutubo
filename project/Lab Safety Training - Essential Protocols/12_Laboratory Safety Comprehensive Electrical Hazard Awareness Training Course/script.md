@@ -1,4 +1,4 @@
-# 电气危害：认得清，躲得开
+# 实验室安全：电气危害意识综合培训
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course.md`）
 - 版本：原著版；国内版见 `../12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（国内版）/`

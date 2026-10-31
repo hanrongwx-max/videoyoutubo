@@ -1,4 +1,4 @@
-# 隔离衣与手套一起脱
+# 临床实验室防护装备穿脱：隔离衣与手套一起脱
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（内容分析见 `course/CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth.md`）
 - 版本：原著版；国内版见 `../10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/`

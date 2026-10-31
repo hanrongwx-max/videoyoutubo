@@ -1,4 +1,4 @@
-# 应急准备与应急培训
+# 应急响应与安全培训：准备与最佳做法
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：08_Emergency Response and Safety Training Preparedness and Best Practices（内容分析见 `course/Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices.md`）
 - 版本：原著版；国内版见 `../08_Emergency Response and Safety Training Preparedness and Best Practices（国内版）/`

@@ -1,4 +1,4 @@
-# 谁来定规矩：生物安全等级的标准与审批
+# 谁来制定生物安全等级标准？
 
 - 剧集：Microbiology Biosafety；对应原视频：38_Who sets the biosafety level standards Biosafety levels microbiology trending（内容分析见 `course/Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending.md`）
 - 版本：原著版；国内版见 `../38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/`

@@ -1,4 +1,4 @@
-# 低温液体：冷得伤人
+# 实验室安全：低温液体的安全操作与风险
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course.md`）
 - 版本：原著版；国内版见 `../13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（国内版）/`

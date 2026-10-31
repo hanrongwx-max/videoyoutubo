@@ -1,4 +1,4 @@
-# 通风柜的正确使用
+# 如何使用化学通风柜
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（内容分析见 `course/Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video].md`）
 - 版本：原著版；国内版见 `../03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（国内版）/`

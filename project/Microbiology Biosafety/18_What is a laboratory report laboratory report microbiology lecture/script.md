@@ -1,4 +1,4 @@
-# 实验报告怎么写：从记录到安全
+# 什么是实验报告？
 
 - 剧集：Microbiology Biosafety；对应原视频：18_What is a laboratory report laboratory report microbiology lecture（内容分析见 `course/Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture.md`）
 - 版本：原著版；国内版见 `../18_What is a laboratory report laboratory report microbiology lecture（国内版）/`

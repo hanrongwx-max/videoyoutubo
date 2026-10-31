@@ -1,4 +1,4 @@
-# 三个柜子不一样：通风柜、超净台、生物安全柜
+# 通风柜、层流罩与生物安全柜的区别和用途
 
 - 剧集：Microbiology Biosafety；对应原视频：03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（内容分析见 `course/Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm.md`）
 - 版本：原著版；国内版见 `../03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/`

@@ -1,4 +1,4 @@
-# 同伴互评：帮同学把论文改得更好
+# 同伴评审
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：04_APB - Peer Reviews（内容分析见 `course/Animal & Plant Biotech Safety/04_APB - Peer Reviews.md`）
 - 版本：原著版；国内版见 `../04_APB - Peer Reviews（国内版）/`

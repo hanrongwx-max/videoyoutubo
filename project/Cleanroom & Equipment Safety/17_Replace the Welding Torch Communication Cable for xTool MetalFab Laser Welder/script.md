@@ -1,4 +1,4 @@
-# 激光焊接机焊枪通讯线的规范更换
+# 激光焊机：更换焊枪通讯线
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder（国内版）/`

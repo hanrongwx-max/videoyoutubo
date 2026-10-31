@@ -1,4 +1,4 @@
-# 容量器具的规范使用
+# 容量分析技术
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：01_Volumetric Techniques（内容分析见 `course/MIT Digital Lab Techniques Manual/01_Volumetric Techniques.md`）
 - 版本：原著版；国内版见 `../01_Volumetric Techniques（国内版）/`

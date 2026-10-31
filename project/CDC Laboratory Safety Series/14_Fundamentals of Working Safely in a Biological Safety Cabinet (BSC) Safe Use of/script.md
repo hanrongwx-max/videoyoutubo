@@ -1,4 +1,4 @@
-# 生物安全柜的安全使用
+# 生物安全柜安全操作基础：安全使用
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（内容分析见 `course/CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of.md`）
 - 版本：原著版；国内版见 `../14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（国内版）/`

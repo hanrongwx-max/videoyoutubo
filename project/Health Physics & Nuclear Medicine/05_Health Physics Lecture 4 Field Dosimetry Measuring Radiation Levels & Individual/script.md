@@ -1,4 +1,4 @@
-# 现场剂量测量：测环境，也测自己
+# 现场剂量测量：辐射水平与个人剂量跟踪
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（内容分析见 `course/Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual.md`）
 - 版本：原著版；国内版见 `../05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/`

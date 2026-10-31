@@ -1,4 +1,4 @@
-# 二氧化碳与干冰的安全使用
+# 认识二氧化碳及其应用
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（内容分析见 `course/Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications.md`）
 - 版本：原著版；国内版见 `../08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/`

@@ -1,4 +1,4 @@
-# 实验室里的安全设备
+# 实验室安全（二）：安全设备
 
 - 剧集：Lab Safety Training Series；对应原视频：06_Safety Equipment Lab Safety Video Part 2（内容分析见 `course/Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2.md`）
 - 版本：原著版；国内版见 `../06_Safety Equipment Lab Safety Video Part 2（国内版）/`

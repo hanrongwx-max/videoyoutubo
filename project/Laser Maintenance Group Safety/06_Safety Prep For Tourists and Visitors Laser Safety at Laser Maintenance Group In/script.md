@@ -1,4 +1,4 @@
-# 做一个安全的参观向导
+# 访客参观前的安全准备：激光安全
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（内容分析见 `course/Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In.md`）
 - 版本：原著版；国内版见 `../06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/`

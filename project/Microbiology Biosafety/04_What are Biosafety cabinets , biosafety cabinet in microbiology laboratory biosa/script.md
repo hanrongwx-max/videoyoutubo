@@ -1,4 +1,4 @@
-# 生物安全柜的三个级别
+# 什么是生物安全柜？
 
 - 剧集：Microbiology Biosafety；对应原视频：04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（内容分析见 `course/Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa.md`）
 - 版本：原著版；国内版见 `../04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/`

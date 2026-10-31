@@ -1,4 +1,4 @@
-# 微生物实验室的消防安全
+# 微生物实验室消防安全的重要性
 
 - 剧集：Microbiology Biosafety；对应原视频：34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（内容分析见 `course/Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet.md`）
 - 版本：原著版；国内版见 `../34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/`

@@ -1,4 +1,4 @@
-# 出光时，双手放在外面
+# 危险激光：为什么出光时双手要放在外面
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（内容分析见 `course/Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L.md`）
 - 版本：原著版；国内版见 `../16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（国内版）/`

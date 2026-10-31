@@ -1,4 +1,4 @@
-# 生物废物双层装袋
+# 生物安全规程：危险生物废物的双层装袋
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（内容分析见 `course/BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste.md`）
 - 版本：原著版；国内版见 `../04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/`

@@ -1,4 +1,4 @@
-# 手持式激光焊接安全培训
+# 手持激光焊机：激光焊接安全培训
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：25_xTool MetalFab Laser Welder - Safety Training on Laser Welding（内容分析见 `course/Cleanroom & Equipment Safety/25_xTool MetalFab Laser Welder - Safety Training on Laser Welding.md`）
 - 版本：原著版；国内版见 `../25_xTool MetalFab Laser Welder - Safety Training on Laser Welding（国内版）/`

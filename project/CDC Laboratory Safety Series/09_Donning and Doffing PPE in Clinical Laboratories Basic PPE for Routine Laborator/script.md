@@ -1,4 +1,4 @@
-# 基本防护装备的穿与脱
+# 临床实验室防护装备穿脱：常规操作的基本防护
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（内容分析见 `course/CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator.md`）
 - 版本：原著版；国内版见 `../09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（国内版）/`

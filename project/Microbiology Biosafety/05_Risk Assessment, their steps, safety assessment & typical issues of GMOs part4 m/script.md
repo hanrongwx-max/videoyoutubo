@@ -1,4 +1,4 @@
-# 转基因生物：先评估，再放行
+# 转基因生物的风险评估：步骤与常见问题
 
 - 剧集：Microbiology Biosafety；对应原视频：05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（内容分析见 `course/Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m.md`）
 - 版本：原著版；国内版见 `../05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/`

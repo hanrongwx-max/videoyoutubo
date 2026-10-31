@@ -1,4 +1,4 @@
-# 微生物实验室的化学品安全
+# 微生物实验室化学品安全的重要性
 
 - 剧集：Microbiology Biosafety；对应原视频：31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（内容分析见 `course/Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio.md`）
 - 版本：原著版；国内版见 `../31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/`

@@ -1,4 +1,4 @@
-# 化学实验室通用安全守则
+# 通用实验室安全：安全须知
 
 - 剧集：Lab Safety Training Series；对应原视频：02_„General Laboratory Safety - Safety instructions（内容分析见 `course/Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions.md`）
 - 版本：原著版；国内版见 `../02_„General Laboratory Safety - Safety instructions（国内版）/`

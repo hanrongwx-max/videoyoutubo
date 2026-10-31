@@ -1,4 +1,4 @@
-# 激光焊接机更换送丝导嘴
+# 激光焊机：更换送丝嘴
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（内容分析见 `course/Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle.md`）
 - 版本：原著版；国内版见 `../29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（国内版）/`

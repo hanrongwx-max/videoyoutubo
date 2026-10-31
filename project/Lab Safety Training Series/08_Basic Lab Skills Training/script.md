@@ -1,4 +1,4 @@
-# 新生入门：九种基础仪器的规范使用
+# 基础实验技能培训
 
 - 剧集：Lab Safety Training Series；对应原视频：08_Basic Lab Skills Training（内容分析见 `course/Lab Safety Training Series/08_Basic Lab Skills Training.md`）
 - 版本：原著版；国内版见 `../08_Basic Lab Skills Training（国内版）/`

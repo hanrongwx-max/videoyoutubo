@@ -1,4 +1,4 @@
-# 激光焊接机交流电源板的规范更换
+# 激光焊机：更换交流电源板
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder（国内版）/`

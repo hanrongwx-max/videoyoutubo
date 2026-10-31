@@ -1,4 +1,4 @@
-# 空温式汽化器与储罐站安全
+# 空温式汽化器解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained.md`）
 - 版本：原著版；国内版见 `../05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/`

@@ -1,4 +1,4 @@
-# 移液器具与标准溶液
+# 移液管与标准溶液
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：07_Pipettes and Standard Solutions（内容分析见 `course/Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions.md`）
 - 版本：原著版；国内版见 `../07_Pipettes and Standard Solutions（国内版）/`

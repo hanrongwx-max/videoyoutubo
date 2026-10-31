@@ -1,4 +1,4 @@
-# 学生社团年度培训：管理、财务与活动安全
+# 注册学生社团培训
 
 - 剧集：RSO Training Series；对应原视频：02_RSO Training（内容分析见 `course/RSO Training Series/02_RSO Training.md`）
 - 版本：原著版；国内版见 `../02_RSO Training（国内版）/`

@@ -1,4 +1,4 @@
-# 用电风险，先评估再动手
+# 实验室安全：综合风险评估与危害减缓
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（内容分析见 `course/Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C.md`）
 - 版本：原著版；国内版见 `../14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（国内版）/`

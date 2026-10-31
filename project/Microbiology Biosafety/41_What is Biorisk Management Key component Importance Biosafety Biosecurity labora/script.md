@@ -1,4 +1,4 @@
-# 生物风险管理是什么
+# 什么是生物风险管理：关键要素与重要性
 
 - 剧集：Microbiology Biosafety；对应原视频：41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（内容分析见 `course/Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora.md`）
 - 版本：原著版；国内版见 `../41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/`

@@ -1,4 +1,4 @@
-# 消防基础自测：十道题测测你
+# 基础消防知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ（内容分析见 `course/Laboratory Ergonomics & RSI/05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ.md`）
 - 版本：原著版；国内版见 `../05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ（国内版）/`

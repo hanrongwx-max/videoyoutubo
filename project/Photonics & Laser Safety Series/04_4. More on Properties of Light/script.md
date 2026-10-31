@@ -1,4 +1,4 @@
-# 光学材料：折射、吸收与反射
+# 再谈光的性质
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：04_4. More on Properties of Light（内容分析见 `course/Photonics & Laser Safety Series/04_4. More on Properties of Light.md`）
 - 版本：原著版；国内版见 `../04_4. More on Properties of Light（国内版）/`

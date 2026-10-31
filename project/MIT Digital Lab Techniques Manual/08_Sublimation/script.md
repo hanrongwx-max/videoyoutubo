@@ -1,4 +1,4 @@
-# 升华纯化
+# 升华
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：08_Sublimation（内容分析见 `course/MIT Digital Lab Techniques Manual/08_Sublimation.md`）
 - 版本：原著版；国内版见 `../08_Sublimation（国内版）/`

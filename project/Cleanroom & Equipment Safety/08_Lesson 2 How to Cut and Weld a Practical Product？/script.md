@@ -1,4 +1,4 @@
-# 激光切割加焊接：做一个调料架
+# 第2课：如何切割并焊接一件实用产品
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：08_Lesson 2 How to Cut and Weld a Practical Product？（内容分析见 `course/Cleanroom & Equipment Safety/08_Lesson 2 How to Cut and Weld a Practical Product？.md`）
 - 版本：原著版；国内版见 `../08_Lesson 2 How to Cut and Weld a Practical Product？（国内版）/`

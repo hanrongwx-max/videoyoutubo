@@ -1,4 +1,4 @@
-# 安全日问答：别国的安全日和我们的安全月
+# 某国安全日知识竞赛
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet（内容分析见 `course/Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet.md`）
 - 版本：原著版；国内版见 `../03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet（国内版）/`

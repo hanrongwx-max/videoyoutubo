@@ -1,4 +1,4 @@
-# 二瓦特表法：三相功率口试问答
+# 二瓦特表法口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（内容分析见 `course/Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter.md`）
 - 版本：原著版；国内版见 `../21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（国内版）/`

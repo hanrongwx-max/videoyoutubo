@@ -1,4 +1,4 @@
-# 电工实验口试：开路与短路篇
+# 开路与短路实验口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（内容分析见 `course/Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q.md`）
 - 版本：原著版；国内版见 `../15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（国内版）/`

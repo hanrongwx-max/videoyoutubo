@@ -1,4 +1,4 @@
-# 生物风险管理，人人有份
+# 在线公开课：生物风险管理导论
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（内容分析见 `course/BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management.md`）
 - 版本：原著版；国内版见 `../03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/`

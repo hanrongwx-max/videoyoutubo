@@ -1,4 +1,4 @@
-# 风险评估怎么做
+# 生物风险评估
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：38_BIORISK ASSESSMENT（内容分析见 `course/BIORISK MANAGEMENT/38_BIORISK ASSESSMENT.md`）
 - 版本：原著版；国内版见 `../38_BIORISK ASSESSMENT（国内版）/`

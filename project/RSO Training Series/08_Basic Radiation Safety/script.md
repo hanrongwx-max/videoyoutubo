@@ -1,4 +1,4 @@
-# 辐射安全基础课
+# 基础辐射安全
 
 - 剧集：RSO Training Series；对应原视频：08_Basic Radiation Safety（内容分析见 `course/RSO Training Series/08_Basic Radiation Safety.md`）
 - 版本：原著版；国内版见 `../08_Basic Radiation Safety（国内版）/`

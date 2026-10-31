@@ -1,4 +1,4 @@
-# 手持激光切割切不透怎么办
+# 第10课：手持切割切不透怎么办
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：07_Lesson 10 How to Fix Incomplete Handheld Cutting（内容分析见 `course/Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting.md`）
 - 版本：原著版；国内版见 `../07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/`

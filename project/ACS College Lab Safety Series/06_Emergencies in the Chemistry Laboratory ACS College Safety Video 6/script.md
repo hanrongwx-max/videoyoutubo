@@ -1,4 +1,4 @@
-# 化学实验室的应急处置
+# 化学实验室的紧急情况
 
 - 剧集：ACS College Lab Safety Series；对应原视频：06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（内容分析见 `course/ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6.md`）
 - 版本：原著版；国内版见 `../06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/`

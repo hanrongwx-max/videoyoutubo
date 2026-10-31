@@ -1,4 +1,4 @@
-# 气瓶阀的安全使用
+# 气瓶阀解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（内容分析见 `course/Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA.md`）
 - 版本：原著版；国内版见 `../09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/`

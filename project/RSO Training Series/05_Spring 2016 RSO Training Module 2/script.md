@@ -1,4 +1,4 @@
-# 学生社团安全守则：欺凌、集体活动、饮酒与出行
+# 注册学生社团培训第2单元（2016春）
 
 - 剧集：RSO Training Series；对应原视频：05_Spring 2016 RSO Training Module 2（内容分析见 `course/RSO Training Series/05_Spring 2016 RSO Training Module 2.md`）
 - 版本：原著版；国内版见 `../05_Spring 2016 RSO Training Module 2（国内版）/`

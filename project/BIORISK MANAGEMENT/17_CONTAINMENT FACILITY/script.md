@@ -1,4 +1,4 @@
-# 跟着路线走进三级实验室
+# 生物防护设施
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：17_CONTAINMENT FACILITY（内容分析见 `course/BIORISK MANAGEMENT/17_CONTAINMENT FACILITY.md`）
 - 版本：原著版；国内版见 `../17_CONTAINMENT FACILITY（国内版）/`

@@ -1,4 +1,4 @@
-# 危险物品伤人也伤环境
+# 危险物品对人和环境的主要风险
 
 - 剧集：Microbiology Biosafety；对应原视频：52_What are the main risks of hazardous materials for humans and the environment tr（内容分析见 `course/Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr.md`）
 - 版本：原著版；国内版见 `../52_What are the main risks of hazardous materials for humans and the environment tr（国内版）/`

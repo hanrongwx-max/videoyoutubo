@@ -1,4 +1,4 @@
-# 激光设备旁，选对灭火器
+# 激光系统该配二氧化碳还是D类灭火器？
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（内容分析见 `course/Laser Maintenance Group Safety/08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova.md`）
 - 版本：原著版；国内版见 `../08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/`

@@ -1,4 +1,4 @@
-# 个人防护装备：选对、穿对、脱对
+# 第6单元：个人防护装备
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：07_Module 6 — Personal Protective Equipment（内容分析见 `course/Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment.md`）
 - 版本：原著版；国内版见 `../07_Module 6 — Personal Protective Equipment（国内版）/`

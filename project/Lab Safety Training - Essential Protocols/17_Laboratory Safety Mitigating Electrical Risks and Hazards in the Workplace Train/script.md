@@ -1,4 +1,4 @@
-# 看懂电，管住电气危害
+# 实验室安全：减缓工作场所的电气风险
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（内容分析见 `course/Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train.md`）
 - 版本：原著版；国内版见 `../17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（国内版）/`

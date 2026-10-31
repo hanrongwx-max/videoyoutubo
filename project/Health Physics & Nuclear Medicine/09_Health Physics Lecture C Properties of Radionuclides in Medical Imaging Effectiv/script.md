@@ -1,4 +1,4 @@
-# 挑一颗好核素：有效半衰期的秘密
+# 医学成像用放射性核素的性质：有效半衰期
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv（内容分析见 `course/Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv.md`）
 - 版本：原著版；国内版见 `../09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv（国内版）/`

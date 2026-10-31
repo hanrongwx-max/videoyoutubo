@@ -1,4 +1,4 @@
-# 一根电线引发的烫伤
+# 实验室安全基础：实验室工作规范情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（内容分析见 `course/CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario.md`）
 - 版本：原著版；国内版见 `../05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/`

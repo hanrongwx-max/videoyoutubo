@@ -1,4 +1,4 @@
-# 自动核酸提取仪的安全使用
+# 全自动核酸提取仪
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：09_GENOLUTION Nextractor®(NX-48)（内容分析见 `course/BIORISK MANAGEMENT/09_GENOLUTION Nextractor®(NX-48).md`）
 - 版本：原著版；国内版见 `../09_GENOLUTION Nextractor®(NX-48)（国内版）/`

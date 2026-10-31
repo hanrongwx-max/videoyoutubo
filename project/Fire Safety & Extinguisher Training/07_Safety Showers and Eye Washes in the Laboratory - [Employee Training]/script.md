@@ -1,4 +1,4 @@
-# 紧急淋浴和洗眼器
+# 实验室紧急淋浴器与洗眼器
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（内容分析见 `course/Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training].md`）
 - 版本：原著版；国内版见 `../07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）/`

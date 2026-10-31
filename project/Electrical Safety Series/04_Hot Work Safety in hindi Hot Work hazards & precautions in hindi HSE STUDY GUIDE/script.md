@@ -1,4 +1,4 @@
-# 动火作业的危害与预防
+# 动火作业的危害与预防措施
 
 - 剧集：Electrical Safety Series；对应原视频：04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（内容分析见 `course/Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE.md`）
 - 版本：原著版；国内版见 `../04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/`

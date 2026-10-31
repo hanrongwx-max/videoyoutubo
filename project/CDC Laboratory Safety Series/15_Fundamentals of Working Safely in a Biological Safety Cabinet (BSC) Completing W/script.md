@@ -1,4 +1,4 @@
-# 生物安全柜的收尾工作
+# 生物安全柜安全操作基础：完成工作
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（内容分析见 `course/CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W.md`）
 - 版本：原著版；国内版见 `../15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/`

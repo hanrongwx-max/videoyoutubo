@@ -1,4 +1,4 @@
-# 读懂安全技术说明书（下）：第8到15部分
+# SDS各部分详解（下）
 
 - 剧集：Microbiology Biosafety；对应原视频：25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（内容分析见 `course/Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology.md`）
 - 版本：原著版；国内版见 `../25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/`

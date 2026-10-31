@@ -1,4 +1,4 @@
-# 电工实验：测灯具的功率与功率因数
+# 各类灯具的单相功率与功率因数测量
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore（内容分析见 `course/Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore.md`）
 - 版本：原著版；国内版见 `../09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore（国内版）/`

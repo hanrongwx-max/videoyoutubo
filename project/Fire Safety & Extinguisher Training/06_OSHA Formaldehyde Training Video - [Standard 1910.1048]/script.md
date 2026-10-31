@@ -1,4 +1,4 @@
-# 甲醛的危害与安全使用
+# 甲醛职业安全培训
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（内容分析见 `course/Fire Safety & Extinguisher Training/06_OSHA Formaldehyde Training Video - [Standard 1910.1048].md`）
 - 版本：原著版；国内版见 `../06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（国内版）/`

@@ -1,4 +1,4 @@
-# 离心机的正确使用
+# 如何使用离心机
 
 - 剧集：General Lab Safety Practices；对应原视频：05_How to Use a Centrifuge（内容分析见 `course/General Lab Safety Practices/05_How to Use a Centrifuge.md`）
 - 版本：原著版；国内版见 `../05_How to Use a Centrifuge（国内版）/`

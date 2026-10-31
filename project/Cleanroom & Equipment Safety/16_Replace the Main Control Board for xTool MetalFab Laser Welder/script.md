@@ -1,4 +1,4 @@
-# 激光焊接机主控板的规范更换
+# 激光焊机：更换主控板
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：16_Replace the Main Control Board for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/16_Replace the Main Control Board for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../16_Replace the Main Control Board for xTool MetalFab Laser Welder（国内版）/`

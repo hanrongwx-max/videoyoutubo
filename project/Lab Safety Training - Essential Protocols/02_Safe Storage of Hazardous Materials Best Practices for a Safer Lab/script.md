@@ -1,4 +1,4 @@
-# 危险化学品的安全储存
+# 危险物料的安全储存：打造更安全的实验室
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（内容分析见 `course/Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab.md`）
 - 版本：原著版；国内版见 `../02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（国内版）/`

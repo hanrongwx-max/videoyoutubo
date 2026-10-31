@@ -1,4 +1,4 @@
-# 仪器设备的安全与维护
+# 实验室设备安全与维护培训
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：03_Protect Your Team with Lab Equipment Safety and Maintenance Training（内容分析见 `course/Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training.md`）
 - 版本：原著版；国内版见 `../03_Protect Your Team with Lab Equipment Safety and Maintenance Training（国内版）/`

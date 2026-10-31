@@ -1,4 +1,4 @@
-# 实验室生物安保：五种威胁怎么防
+# 实验室生物安保威胁举例
 
 - 剧集：Microbiology Biosafety；对应原视频：49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（内容分析见 `course/Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato.md`）
 - 版本：原著版；国内版见 `../49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/`

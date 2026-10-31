@@ -1,4 +1,4 @@
-# 安全知识问答：射线探伤与辐射防护
+# 射线探伤安全员面试问答
 
 - 剧集：ACS Hazard Communication & Safety；对应原视频：09_Radiography Safety Officer (RSO) Interview Questions and Answers（内容分析见 `course/ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers.md`）
 - 版本：原著版；国内版见 `../09_Radiography Safety Officer (RSO) Interview Questions and Answers（国内版）/`

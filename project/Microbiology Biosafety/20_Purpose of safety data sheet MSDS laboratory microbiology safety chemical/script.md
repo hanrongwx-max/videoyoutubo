@@ -1,4 +1,4 @@
-# 安全技术说明书有什么用
+# 安全技术说明书的用途
 
 - 剧集：Microbiology Biosafety；对应原视频：20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（内容分析见 `course/Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical.md`）
 - 版本：原著版；国内版见 `../20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/`

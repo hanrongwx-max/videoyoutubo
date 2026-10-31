@@ -1,4 +1,4 @@
-# 激光焊接机送丝机的安装与设置
+# 激光焊机：送丝机的安装与设置
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（内容分析见 `course/Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder.md`）
 - 版本：原著版；国内版见 `../27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（国内版）/`

@@ -1,4 +1,4 @@
-# 生物安全柜内溢洒的清理
+# 生物安全柜安全操作基础：清理柜内溢洒
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（内容分析见 `course/CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up.md`）
 - 版本：原著版；国内版见 `../16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（国内版）/`

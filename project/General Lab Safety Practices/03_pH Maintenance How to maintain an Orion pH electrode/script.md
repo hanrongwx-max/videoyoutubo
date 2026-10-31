@@ -1,4 +1,4 @@
-# pH电极的日常维护
+# pH电极的维护保养
 
 - 剧集：General Lab Safety Practices；对应原视频：03_pH Maintenance How to maintain an Orion pH electrode（内容分析见 `course/General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode.md`）
 - 版本：原著版；国内版见 `../03_pH Maintenance How to maintain an Orion pH electrode（国内版）/`

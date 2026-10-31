@@ -1,4 +1,4 @@
-# 三电压表法：口试问答与用电安全
+# 三电压表法口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（内容分析见 `course/Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer.md`）
 - 版本：原著版；国内版见 `../17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（国内版）/`

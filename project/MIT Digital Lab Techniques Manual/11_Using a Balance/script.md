@@ -1,4 +1,4 @@
-# 分析天平的使用
+# 使用天平
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：11_Using a Balance（内容分析见 `course/MIT Digital Lab Techniques Manual/11_Using a Balance.md`）
 - 版本：原著版；国内版见 `../11_Using a Balance（国内版）/`

@@ -1,4 +1,4 @@
-# 消防小测验：十分钟八题过关
+# 消防安全测验：基础消防知识
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ（内容分析见 `course/Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ.md`）
 - 版本：原著版；国内版见 `../28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ（国内版）/`

@@ -1,4 +1,4 @@
-# 认识安全技术说明书
+# 化学品安全技术说明书（MSDS）
 
 - 剧集：Microbiology Biosafety；对应原视频：19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（内容分析见 `course/Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology.md`）
 - 版本：原著版；国内版见 `../19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/`

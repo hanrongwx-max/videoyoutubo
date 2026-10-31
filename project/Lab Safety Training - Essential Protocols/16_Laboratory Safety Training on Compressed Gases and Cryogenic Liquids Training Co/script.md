@@ -1,4 +1,4 @@
-# 认识气体和气瓶
+# 实验室安全：压缩气体与低温液体
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co（内容分析见 `course/Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co.md`）
 - 版本：原著版；国内版见 `../16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co（国内版）/`

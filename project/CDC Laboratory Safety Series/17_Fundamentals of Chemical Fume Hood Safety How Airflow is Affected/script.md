@@ -1,4 +1,4 @@
-# 通风柜的气流会被什么影响
+# 化学通风柜安全基础：气流如何受影响
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（内容分析见 `course/CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected.md`）
 - 版本：原著版；国内版见 `../17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（国内版）/`

@@ -1,4 +1,4 @@
-# 飘带向外飘了
+# 实验室安全基础：未遂事件情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：08_Fundamentals of Laboratory Safety Near Miss Scenario（内容分析见 `course/CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario.md`）
 - 版本：原著版；国内版见 `../08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/`

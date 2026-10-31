@@ -1,4 +1,4 @@
-# 天天准备好迎接安全检查
+# 第11单元：审核与检查准备
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：02_Module 11 — Audit & Inspection Readiness（内容分析见 `course/Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness.md`）
 - 版本：原著版；国内版见 `../02_Module 11 — Audit & Inspection Readiness（国内版）/`

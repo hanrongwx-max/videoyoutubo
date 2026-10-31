@@ -1,4 +1,4 @@
-# 别让突然的响声吓到人
+# 预防工业激光的声响惊吓：参观者安全
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（内容分析见 `course/Laser Maintenance Group Safety/11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf.md`）
 - 版本：原著版；国内版见 `../11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/`

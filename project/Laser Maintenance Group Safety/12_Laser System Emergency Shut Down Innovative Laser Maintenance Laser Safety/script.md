@@ -1,4 +1,4 @@
-# 激光设备的紧急停机
+# 激光系统紧急停机
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety（内容分析见 `course/Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety.md`）
 - 版本：原著版；国内版见 `../12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety（国内版）/`

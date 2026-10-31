@@ -1,4 +1,4 @@
-# 开工前，先把安全柜准备好
+# 生物安全柜安全操作基础：工作前的准备
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（内容分析见 `course/CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo.md`）
 - 版本：原著版；国内版见 `../13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/`

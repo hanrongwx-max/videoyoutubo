@@ -1,4 +1,4 @@
-# 有限空间小测验
+# 受限空间安全测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz（内容分析见 `course/Laboratory Ergonomics & RSI/30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz.md`）
 - 版本：原著版；国内版见 `../30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz（国内版）/`

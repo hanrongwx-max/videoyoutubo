@@ -1,4 +1,4 @@
-# 生物安全与生物安保：防意外，也防故意
+# 生物安全与生物安保的区别
 
 - 剧集：Microbiology Biosafety；对应原视频：08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf（内容分析见 `course/Microbiology Biosafety/08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf.md`）
 - 版本：原著版；国内版见 `../08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf（国内版）/`

@@ -1,4 +1,4 @@
-# 变阻器与开关
+# 认识开关与变阻器
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（内容分析见 `course/Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G.md`）
 - 版本：原著版；国内版见 `../04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（国内版）/`

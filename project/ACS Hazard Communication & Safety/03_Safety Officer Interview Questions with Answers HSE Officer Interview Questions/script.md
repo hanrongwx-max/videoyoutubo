@@ -1,4 +1,4 @@
-# 安全知识问答：实验室安全管理入门
+# 安全员面试问答：危害、风险与事故预防
 
 - 剧集：ACS Hazard Communication & Safety；对应原视频：03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（内容分析见 `course/ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions.md`）
 - 版本：原著版；国内版见 `../03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（国内版）/`

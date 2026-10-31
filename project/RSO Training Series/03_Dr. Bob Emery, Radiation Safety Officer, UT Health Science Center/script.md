@@ -1,4 +1,4 @@
-# 放射性废物：从实验台到安全处置
+# 辐射安全官谈放射性废物处置
 
 - 剧集：RSO Training Series；对应原视频：03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（内容分析见 `course/RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center.md`）
 - 版本：原著版；国内版见 `../03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/`

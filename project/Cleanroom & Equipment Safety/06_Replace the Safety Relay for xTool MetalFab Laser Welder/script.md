@@ -1,4 +1,4 @@
-# 激光焊机安全继电器的更换
+# 激光焊机：更换安全继电器
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：06_Replace the Safety Relay for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/`

@@ -1,4 +1,4 @@
-# 实验室里的行为规范
+# 实验室安全（三）：行为规范
 
 - 剧集：Chemical Spillage & Response；对应原视频：03_Behavior Lab Safety Video Part 3（内容分析见 `course/Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3.md`）
 - 版本：原著版；国内版见 `../03_Behavior Lab Safety Video Part 3（国内版）/`

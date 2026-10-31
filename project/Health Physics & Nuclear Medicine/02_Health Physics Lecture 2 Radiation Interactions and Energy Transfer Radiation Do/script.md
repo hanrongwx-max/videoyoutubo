@@ -1,4 +1,4 @@
-# 剂量限值与剂量测量：管住体外，也管住体内
+# 剂量限值与剂量学
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（内容分析见 `course/Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do.md`）
 - 版本：原著版；国内版见 `../02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（国内版）/`

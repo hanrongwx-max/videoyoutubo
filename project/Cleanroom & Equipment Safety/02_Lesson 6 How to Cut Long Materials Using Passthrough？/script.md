@@ -1,4 +1,4 @@
-# 超长板材的分段激光切割
+# 第6课：如何用贯通口切割长料
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：02_Lesson 6 How to Cut Long Materials Using Passthrough？（内容分析见 `course/Cleanroom & Equipment Safety/02_Lesson 6 How to Cut Long Materials Using Passthrough？.md`）
 - 版本：原著版；国内版见 `../02_Lesson 6 How to Cut Long Materials Using Passthrough？（国内版）/`

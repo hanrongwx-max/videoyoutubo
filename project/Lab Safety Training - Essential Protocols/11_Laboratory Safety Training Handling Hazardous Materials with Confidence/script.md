@@ -1,4 +1,4 @@
-# 危险物料：心中有数再动手
+# 实验室安全培训：从容处理危险物料
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：11_Laboratory Safety Training Handling Hazardous Materials with Confidence（内容分析见 `course/Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence.md`）
 - 版本：原著版；国内版见 `../11_Laboratory Safety Training Handling Hazardous Materials with Confidence（国内版）/`

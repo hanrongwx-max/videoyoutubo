@@ -1,4 +1,4 @@
-# 激光焊接机更换激光电源
+# 激光焊机：更换激光电源（带把手机型）
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder（国内版）/`

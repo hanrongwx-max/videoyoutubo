@@ -1,4 +1,4 @@
-# 质粒、细菌与遗传转化
+# 质粒与细菌
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：02_APB - Plasmids and Bacteria（内容分析见 `course/Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria.md`）
 - 版本：原著版；国内版见 `../02_APB - Plasmids and Bacteria（国内版）/`

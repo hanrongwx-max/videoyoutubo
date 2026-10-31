@@ -1,4 +1,4 @@
-# 生物安全事故的应急处置
+# 实验室安全：生物事故的应急响应
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents（内容分析见 `course/Lab Safety Training - Essential Protocols/19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents.md`）
 - 版本：原著版；国内版见 `../19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents（国内版）/`

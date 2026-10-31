@@ -1,4 +1,4 @@
-# 安全操作化学品
+# 实验室安全（五）：化学品的安全操作
 
 - 剧集：Chemical Spillage & Response；对应原视频：05_Safe Chemical Handling Lab Safety Video Part 5（内容分析见 `course/Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5.md`）
 - 版本：原著版；国内版见 `../05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/`

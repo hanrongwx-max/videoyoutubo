@@ -1,4 +1,4 @@
-# 生物恐怖怎么防：识别·预防·报告
+# 什么是生物恐怖？生物恐怖实例
 
 - 剧集：Microbiology Biosafety；对应原视频：09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（内容分析见 `course/Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu.md`）
 - 版本：原著版；国内版见 `../09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（国内版）/`

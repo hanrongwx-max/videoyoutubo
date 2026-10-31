@@ -1,4 +1,4 @@
-# 实验室里的安全设备
+# 实验室安全（二）：安全设备
 
 - 剧集：Chemical Spillage & Response；对应原视频：02_Safety Equipment Lab Safety Video Part 2（内容分析见 `course/Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2.md`）
 - 版本：原著版；国内版见 `../02_Safety Equipment Lab Safety Video Part 2（国内版）/`

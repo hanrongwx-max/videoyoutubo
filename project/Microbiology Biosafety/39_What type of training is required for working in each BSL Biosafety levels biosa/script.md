@@ -1,4 +1,4 @@
-# 一级到四级：各级实验室要学什么
+# 各生物安全等级需要哪些培训？
 
 - 剧集：Microbiology Biosafety；对应原视频：39_What type of training is required for working in each BSL Biosafety levels biosa（内容分析见 `course/Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa.md`）
 - 版本：原著版；国内版见 `../39_What type of training is required for working in each BSL Biosafety levels biosa（国内版）/`

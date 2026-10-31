@@ -1,4 +1,4 @@
-# 三步管好生物风险
+# 什么是生物风险管理？
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：02_What is Biorisk Management（内容分析见 `course/BIORISK MANAGEMENT/02_What is Biorisk Management.md`）
 - 版本：原著版；国内版见 `../02_What is Biorisk Management（国内版）/`

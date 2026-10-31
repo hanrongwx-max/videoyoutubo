@@ -1,4 +1,4 @@
-# 化学与生物危害的日常操作
+# 第7单元：化学与生物安全
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：06_Module 7 — Chemical & Biological Safety（内容分析见 `course/Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety.md`）
 - 版本：原著版；国内版见 `../06_Module 7 — Chemical & Biological Safety（国内版）/`

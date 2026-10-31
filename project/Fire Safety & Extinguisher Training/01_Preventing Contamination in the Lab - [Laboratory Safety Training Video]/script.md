@@ -1,4 +1,4 @@
-# 看不见的污染：实验室防污染
+# 实验室防污染
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（内容分析见 `course/Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video].md`）
 - 版本：原著版；国内版见 `../01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/`

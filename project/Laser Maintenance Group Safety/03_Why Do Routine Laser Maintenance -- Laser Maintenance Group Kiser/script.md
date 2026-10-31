@@ -1,4 +1,4 @@
-# 激光设备为什么要例行维护
+# 为什么要做激光设备例行维护
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（内容分析见 `course/Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser.md`）
 - 版本：原著版；国内版见 `../03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/`

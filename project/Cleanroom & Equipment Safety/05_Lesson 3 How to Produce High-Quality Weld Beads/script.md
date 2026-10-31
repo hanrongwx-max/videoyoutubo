@@ -1,4 +1,4 @@
-# 手持激光焊接：焊出好焊缝
+# 第3课：如何焊出高质量焊缝
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：05_Lesson 3 How to Produce High-Quality Weld Beads（内容分析见 `course/Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads.md`）
 - 版本：原著版；国内版见 `../05_Lesson 3 How to Produce High-Quality Weld Beads（国内版）/`

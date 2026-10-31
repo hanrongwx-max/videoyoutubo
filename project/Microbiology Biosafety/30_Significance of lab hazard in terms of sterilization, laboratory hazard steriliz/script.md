@@ -1,4 +1,4 @@
-# 灭菌，也藏着危害
+# 实验室危害与灭菌
 
 - 剧集：Microbiology Biosafety；对应原视频：30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（内容分析见 `course/Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz.md`）
 - 版本：原著版；国内版见 `../30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（国内版）/`

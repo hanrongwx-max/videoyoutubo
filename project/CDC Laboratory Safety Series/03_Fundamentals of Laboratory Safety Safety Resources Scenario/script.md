@@ -1,4 +1,4 @@
-# 安全问题找谁问
+# 实验室安全基础：安全资源情景
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：03_Fundamentals of Laboratory Safety Safety Resources Scenario（内容分析见 `course/CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario.md`）
 - 版本：原著版；国内版见 `../03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/`

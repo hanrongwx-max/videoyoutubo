@@ -1,4 +1,4 @@
-# 生物安全，谁来负责
+# 实验室生物风险管理由谁负责？
 
 - 剧集：Microbiology Biosafety；对应原视频：45_Who is responsible for Biorisk management in a laboratory biorisk management bio（内容分析见 `course/Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio.md`）
 - 版本：原著版；国内版见 `../45_Who is responsible for Biorisk management in a laboratory biorisk management bio（国内版）/`

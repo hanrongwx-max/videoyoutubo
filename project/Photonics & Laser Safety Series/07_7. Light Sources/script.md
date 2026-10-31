@@ -1,4 +1,4 @@
-# 光源与光对人体的作用
+# 光源
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：07_7. Light Sources（内容分析见 `course/Photonics & Laser Safety Series/07_7. Light Sources.md`）
 - 版本：原著版；国内版见 `../07_7. Light Sources（国内版）/`

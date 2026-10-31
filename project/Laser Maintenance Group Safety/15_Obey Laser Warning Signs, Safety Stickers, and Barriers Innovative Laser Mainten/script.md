@@ -1,4 +1,4 @@
-# 看懂激光警示：标志、贴纸和链条
+# 遵守激光警示标志、安全标贴与隔离栏
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten（内容分析见 `course/Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten.md`）
 - 版本：原著版；国内版见 `../15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten（国内版）/`

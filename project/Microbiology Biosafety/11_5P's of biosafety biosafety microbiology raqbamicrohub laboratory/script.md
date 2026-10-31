@@ -1,4 +1,4 @@
-# 生物安全的五个 P
+# 生物安全的5P
 
 - 剧集：Microbiology Biosafety；对应原视频：11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory（内容分析见 `course/Microbiology Biosafety/11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory.md`）
 - 版本：原著版；国内版见 `../11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory（国内版）/`

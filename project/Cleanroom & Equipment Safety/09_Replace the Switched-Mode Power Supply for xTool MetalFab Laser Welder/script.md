@@ -1,4 +1,4 @@
-# 激光焊接机开关电源的规范更换
+# 激光焊机：更换开关电源
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（国内版）/`

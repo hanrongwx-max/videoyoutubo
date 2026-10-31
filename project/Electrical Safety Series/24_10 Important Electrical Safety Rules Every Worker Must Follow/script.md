@@ -1,4 +1,4 @@
-# 用电安全十条守则
+# 每个工人必须遵守的十条用电安全规则
 
 - 剧集：Electrical Safety Series；对应原视频：24_10 Important Electrical Safety Rules Every Worker Must Follow（内容分析见 `course/Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow.md`）
 - 版本：原著版；国内版见 `../24_10 Important Electrical Safety Rules Every Worker Must Follow（国内版）/`

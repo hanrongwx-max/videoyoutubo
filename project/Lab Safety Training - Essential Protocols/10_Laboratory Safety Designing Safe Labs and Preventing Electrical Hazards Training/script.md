@@ -1,4 +1,4 @@
-# 从设计开始防电气危害
+# 实验室安全：安全设计与电气危害预防
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（内容分析见 `course/Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training.md`）
 - 版本：原著版；国内版见 `../10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/`

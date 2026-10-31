@@ -1,4 +1,4 @@
-# 激光焊接机保护镜片的清洁与更换
+# 激光焊机：清洁或更换保护镜片
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：31_xTool MetalFab Laser Welder - Clean or replace the lens protector（内容分析见 `course/Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector.md`）
 - 版本：原著版；国内版见 `../31_xTool MetalFab Laser Welder - Clean or replace the lens protector（国内版）/`

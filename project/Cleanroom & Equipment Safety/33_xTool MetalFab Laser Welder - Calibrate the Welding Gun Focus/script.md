@@ -1,4 +1,4 @@
-# 激光焊接机焊枪焦距的校准
+# 激光焊机：校准焊枪焦点
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus（内容分析见 `course/Cleanroom & Equipment Safety/33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus.md`）
 - 版本：原著版；国内版见 `../33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus（国内版）/`

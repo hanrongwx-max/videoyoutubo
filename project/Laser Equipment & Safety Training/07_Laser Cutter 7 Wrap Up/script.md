@@ -1,4 +1,4 @@
-# 激光切割机：考核、授权与预约
+# 激光切割机7：总结
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：07_Laser Cutter 7 Wrap Up（内容分析见 `course/Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up.md`）
 - 版本：原著版；国内版见 `../07_Laser Cutter 7 Wrap Up（国内版）/`

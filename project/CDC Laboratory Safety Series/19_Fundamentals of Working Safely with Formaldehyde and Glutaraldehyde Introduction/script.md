@@ -1,4 +1,4 @@
-# 甲醛和戊二醛的安全使用
+# 甲醛与戊二醛安全操作基础：导论
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（内容分析见 `course/CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction.md`）
 - 版本：原著版；国内版见 `../19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/`

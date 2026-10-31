@@ -1,4 +1,4 @@
-# 消防知识竞赛：灭火、报警与喷淋
+# 消防安全测验：灭火与火灾报警
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question（内容分析见 `course/Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question.md`）
 - 版本：原著版；国内版见 `../04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question（国内版）/`

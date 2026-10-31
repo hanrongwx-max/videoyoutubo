@@ -1,4 +1,4 @@
-# 生物风险管理，怎么检查好不好
+# 如何审核与评估生物风险管理？
 
 - 剧集：Microbiology Biosafety；对应原视频：50_How is Biorisk management audited or evaluated biorisk management biosafety tren（内容分析见 `course/Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren.md`）
 - 版本：原著版；国内版见 `../50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/`

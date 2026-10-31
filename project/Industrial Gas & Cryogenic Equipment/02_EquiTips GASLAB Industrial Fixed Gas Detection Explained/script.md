@@ -1,4 +1,4 @@
-# 固定式气体检测报警
+# 工业固定式气体检测解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：02_EquiTips GASLAB Industrial Fixed Gas Detection Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained.md`）
 - 版本：原著版；国内版见 `../02_EquiTips GASLAB Industrial Fixed Gas Detection Explained（国内版）/`

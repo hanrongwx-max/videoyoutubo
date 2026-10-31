@@ -1,4 +1,4 @@
-# 电工实验：测星形和三角形的线量相量
+# 星形与三角形连接系统的线量与相量测量
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect（内容分析见 `course/Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect.md`）
 - 版本：原著版；国内版见 `../13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect（国内版）/`

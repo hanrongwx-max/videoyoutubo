@@ -1,4 +1,4 @@
-# 安全操作化学品
+# 实验室安全（五）：化学品的安全操作
 
 - 剧集：Lab Safety Training Series；对应原视频：09_Safe Chemical Handling Lab Safety Video Part 5（内容分析见 `course/Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5.md`）
 - 版本：原著版；国内版见 `../09_Safe Chemical Handling Lab Safety Video Part 5（国内版）/`

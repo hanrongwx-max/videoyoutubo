@@ -1,4 +1,4 @@
-# 激光设计软件入门与加工前检查
+# 激光切割机4：设计软件
 
 - 剧集：Laser Equipment & Safety Training；对应原视频：04_Laser Cutter 4 xTool Studio（内容分析见 `course/Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio.md`）
 - 版本：原著版；国内版见 `../04_Laser Cutter 4 xTool Studio（国内版）/`

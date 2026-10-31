@@ -1,4 +1,4 @@
-# 生物安全第一课：防护与风险评估
+# 什么是生物安全：原则与风险评估步骤
 
 - 剧集：Microbiology Biosafety；对应原视频：01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（内容分析见 `course/Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic.md`）
 - 版本：原著版；国内版见 `../01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/`

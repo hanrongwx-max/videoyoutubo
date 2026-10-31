@@ -1,4 +1,4 @@
-# 辐射为什么伤人，又怎样治病
+# 辐射剂量学与生物效应
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（内容分析见 `course/Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea.md`）
 - 版本：原著版；国内版见 `../07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/`

@@ -1,4 +1,4 @@
-# 液液萃取：用分液漏斗分开溶液
+# 液液萃取
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：04_Liquid-Liquid Extraction（内容分析见 `course/Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction.md`）
 - 版本：原著版；国内版见 `../04_Liquid-Liquid Extraction（国内版）/`

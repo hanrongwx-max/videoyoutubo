@@ -1,4 +1,4 @@
-# 实验室里的五类危险源与个人防护
+# 实验室里的安全
 
 - 剧集：Lab Safety Training Series；对应原视频：03_Safety in laboratory（内容分析见 `course/Lab Safety Training Series/03_Safety in laboratory.md`）
 - 版本：原著版；国内版见 `../03_Safety in laboratory（国内版）/`

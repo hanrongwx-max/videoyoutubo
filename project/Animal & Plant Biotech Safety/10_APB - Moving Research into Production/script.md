@@ -1,4 +1,4 @@
-# 从实验室到生产
+# 把研究成果推向生产
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：10_APB - Moving Research into Production（内容分析见 `course/Animal & Plant Biotech Safety/10_APB - Moving Research into Production.md`）
 - 版本：原著版；国内版见 `../10_APB - Moving Research into Production（国内版）/`

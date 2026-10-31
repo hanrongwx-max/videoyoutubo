@@ -1,4 +1,4 @@
-# 安全课幕后：为什么安全放在第一位
+# 认识化学安全系列视频的主持人
 
 - 剧集：ACS College Lab Safety Series；对应原视频：07_Meet Michael Mills -- Host of the ACS Safety Videos（内容分析见 `course/ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos.md`）
 - 版本：原著版；国内版见 `../07_Meet Michael Mills -- Host of the ACS Safety Videos（国内版）/`

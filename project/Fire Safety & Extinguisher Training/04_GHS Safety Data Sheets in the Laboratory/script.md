@@ -1,4 +1,4 @@
-# 读懂化学品安全技术说明书
+# 实验室里的GHS安全技术说明书
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：04_GHS Safety Data Sheets in the Laboratory（内容分析见 `course/Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory.md`）
 - 版本：原著版；国内版见 `../04_GHS Safety Data Sheets in the Laboratory（国内版）/`

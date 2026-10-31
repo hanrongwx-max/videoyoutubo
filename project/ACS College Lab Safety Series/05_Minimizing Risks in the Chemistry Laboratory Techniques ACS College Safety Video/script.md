@@ -1,4 +1,4 @@
-# 降低风险：化学实验的操作技巧
+# 降低化学实验室的风险：操作技术
 
 - 剧集：ACS College Lab Safety Series；对应原视频：05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（内容分析见 `course/ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video.md`）
 - 版本：原著版；国内版见 `../05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/`

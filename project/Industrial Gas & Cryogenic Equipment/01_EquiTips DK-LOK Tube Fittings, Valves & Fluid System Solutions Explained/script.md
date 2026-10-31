@@ -1,4 +1,4 @@
-# 卡套接头与气体管路安全
+# 卡套管接头、阀门与流体系统解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained.md`）
 - 版本：原著版；国内版见 `../01_EquiTips DK-LOK Tube Fittings, Valves & Fluid System Solutions Explained（国内版）/`

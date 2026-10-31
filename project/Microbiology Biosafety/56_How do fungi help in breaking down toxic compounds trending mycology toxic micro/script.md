@@ -1,4 +1,4 @@
-# 真菌和细菌：拆解难缠的毒物
+# 真菌如何帮助分解有毒化合物？
 
 - 剧集：Microbiology Biosafety；对应原视频：56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（内容分析见 `course/Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro.md`）
 - 版本：原著版；国内版见 `../56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/`

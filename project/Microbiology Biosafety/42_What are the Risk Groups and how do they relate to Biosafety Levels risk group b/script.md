@@ -1,4 +1,4 @@
-# 危害组与防护级别：别把顺序记反
+# 风险组是什么？与生物安全等级有何关系
 
 - 剧集：Microbiology Biosafety；对应原视频：42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b（内容分析见 `course/Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b.md`）
 - 版本：原著版；国内版见 `../42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b（国内版）/`

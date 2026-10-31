@@ -1,4 +1,4 @@
-# 放射性物质洒漏怎么办
+# 放射性应急：实验室安全培训
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：18_Radiological Emergencies Get Your Lab Safety Now Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/18_Radiological Emergencies Get Your Lab Safety Now Training Course.md`）
 - 版本：原著版；国内版见 `../18_Radiological Emergencies Get Your Lab Safety Now Training Course（国内版）/`

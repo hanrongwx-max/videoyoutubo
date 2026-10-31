@@ -1,4 +1,4 @@
-# 辐射防护总复习：从剂量到屏蔽
+# 辐射防护与健康物理：全面概览
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（内容分析见 `course/Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture.md`）
 - 版本：原著版；国内版见 `../04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（国内版）/`

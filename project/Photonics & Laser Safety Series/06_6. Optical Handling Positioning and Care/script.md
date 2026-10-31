@@ -1,4 +1,4 @@
-# 光学元件的安装、定位与维护
+# 光学元件的操作、定位与保养
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：06_6. Optical Handling Positioning and Care（内容分析见 `course/Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care.md`）
 - 版本：原著版；国内版见 `../06_6. Optical Handling Positioning and Care（国内版）/`

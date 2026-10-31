@@ -1,4 +1,4 @@
-# 实验室安全第一课
+# 第1单元：实验室安全导论
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：12_Module 1 — Introduction to Laboratory Safety（内容分析见 `course/Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety.md`）
 - 版本：原著版；国内版见 `../12_Module 1 — Introduction to Laboratory Safety（国内版）/`

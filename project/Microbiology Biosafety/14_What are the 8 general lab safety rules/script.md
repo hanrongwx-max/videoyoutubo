@@ -1,4 +1,4 @@
-# 实验室八条通用安全规则
+# 八条通用实验室安全规则是什么？
 
 - 剧集：Microbiology Biosafety；对应原视频：14_What are the 8 general lab safety rules（内容分析见 `course/Microbiology Biosafety/14_What are the 8 general lab safety rules.md`）
 - 版本：原著版；国内版见 `../14_What are the 8 general lab safety rules（国内版）/`

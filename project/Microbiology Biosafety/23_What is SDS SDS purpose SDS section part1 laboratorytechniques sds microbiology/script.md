@@ -1,4 +1,4 @@
-# 化学品的说明书：SDS 是什么（上）
+# 什么是SDS：用途与组成（上）
 
 - 剧集：Microbiology Biosafety；对应原视频：23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（内容分析见 `course/Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology.md`）
 - 版本：原著版；国内版见 `../23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（国内版）/`

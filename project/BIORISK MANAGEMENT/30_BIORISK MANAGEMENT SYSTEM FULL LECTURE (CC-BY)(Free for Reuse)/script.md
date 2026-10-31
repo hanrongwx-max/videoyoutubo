@@ -1,4 +1,4 @@
-# 把生物安全管成一个体系
+# 生物风险管理体系：完整讲座
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（内容分析见 `course/BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse).md`）
 - 版本：原著版；国内版见 `../30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（国内版）/`

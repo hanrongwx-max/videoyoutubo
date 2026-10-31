@@ -1,4 +1,4 @@
-# 激光焊接机红色定位点的校准
+# 激光焊机：校准焊接头的红光定位点
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he（内容分析见 `course/Cleanroom & Equipment Safety/32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he.md`）
 - 版本：原著版；国内版见 `../32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he（国内版）/`

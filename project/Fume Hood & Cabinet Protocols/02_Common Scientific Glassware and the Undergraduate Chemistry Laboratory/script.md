@@ -1,4 +1,4 @@
-# 认识化学实验室的常用仪器
+# 常用玻璃仪器与本科化学实验室
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory（内容分析见 `course/Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory.md`）
 - 版本：原著版；国内版见 `../02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory（国内版）/`

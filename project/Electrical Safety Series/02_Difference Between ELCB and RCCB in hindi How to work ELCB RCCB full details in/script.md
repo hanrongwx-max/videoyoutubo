@@ -1,4 +1,4 @@
-# 漏电保护器：两种型式与正确使用
+# ELCB与RCCB的区别及工作原理
 
 - 剧集：Electrical Safety Series；对应原视频：02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（内容分析见 `course/Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in.md`）
 - 版本：原著版；国内版见 `../02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/`

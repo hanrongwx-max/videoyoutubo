@@ -1,4 +1,4 @@
-# 从安全规则到风险管理
+# 从化学安全规则到风险管理
 
 - 剧集：ACS College Lab Safety Series；对应原视频：01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（内容分析见 `course/ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1.md`）
 - 版本：原著版；国内版见 `../01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（国内版）/`

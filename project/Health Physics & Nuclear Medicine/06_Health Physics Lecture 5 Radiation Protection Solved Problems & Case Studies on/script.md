@@ -1,4 +1,4 @@
-# 辐射防护习题课：八道题里的安全道理
+# 辐射防护习题与案例：剂量与风险
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（内容分析见 `course/Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on.md`）
 - 版本：原著版；国内版见 `../06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（国内版）/`

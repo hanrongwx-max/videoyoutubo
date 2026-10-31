@@ -1,4 +1,4 @@
-# 实验室里的人机工效
+# 实验室人员人机工效培训
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：02_Lab Worker Ergonomics Training - [Lab Safety Training]（内容分析见 `course/Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training].md`）
 - 版本：原著版；国内版见 `../02_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/`

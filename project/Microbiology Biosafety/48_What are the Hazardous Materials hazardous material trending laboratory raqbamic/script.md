@@ -1,4 +1,4 @@
-# 认识危险物品：七大类和它们藏在哪
+# 什么是危险物品？
 
 - 剧集：Microbiology Biosafety；对应原视频：48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（内容分析见 `course/Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic.md`）
 - 版本：原著版；国内版见 `../48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（国内版）/`

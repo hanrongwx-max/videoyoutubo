@@ -1,4 +1,4 @@
-# 薄层色谱进阶技巧
+# 薄层色谱：进阶
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：04_TLC-Advanced（内容分析见 `course/MIT Digital Lab Techniques Manual/04_TLC-Advanced.md`）
 - 版本：原著版；国内版见 `../04_TLC-Advanced（国内版）/`

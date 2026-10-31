@@ -1,4 +1,4 @@
-# 激光焊接机更换焊丝
+# 激光焊机：更换焊丝
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：30_xTool MetalFab Laser Welder - Replace the welding wire（内容分析见 `course/Cleanroom & Equipment Safety/30_xTool MetalFab Laser Welder - Replace the welding wire.md`）
 - 版本：原著版；国内版见 `../30_xTool MetalFab Laser Welder - Replace the welding wire（国内版）/`

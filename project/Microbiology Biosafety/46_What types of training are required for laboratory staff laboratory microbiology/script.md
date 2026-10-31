@@ -1,4 +1,4 @@
-# 进生物实验室要学什么
+# 实验室人员需要哪些培训？
 
 - 剧集：Microbiology Biosafety；对应原视频：46_What types of training are required for laboratory staff laboratory microbiology（内容分析见 `course/Microbiology Biosafety/46_What types of training are required for laboratory staff laboratory microbiology.md`）
 - 版本：原著版；国内版见 `../46_What types of training are required for laboratory staff laboratory microbiology（国内版）/`

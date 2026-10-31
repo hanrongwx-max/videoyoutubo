@@ -1,4 +1,4 @@
-# 高压阀门与接头的安全使用
+# 高压阀门与接头解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained.md`）
 - 版本：原著版；国内版见 `../07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/`

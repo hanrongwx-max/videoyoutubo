@@ -1,4 +1,4 @@
-# 压缩气瓶的安全使用
+# 压缩气瓶安全：实验室操作规程
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（内容分析见 `course/Lab Safety Training - Essential Protocols/09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments.md`）
 - 版本：原著版；国内版见 `../09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（国内版）/`

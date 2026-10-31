@@ -1,4 +1,4 @@
-# 安全陷阱十问
+# 给安全从业者的刁钻选择题
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：36_Tricky Safety MCQs for Safety Professionals Logical HSE Questions with Answers S（内容分析见 `course/Laboratory Ergonomics & RSI/36_Tricky Safety MCQs for Safety Professionals Logical HSE Questions with Answers S.md`）
 - 版本：原著版；国内版见 `../36_Tricky Safety MCQs for Safety Professionals Logical HSE Questions with Answers S（国内版）/`

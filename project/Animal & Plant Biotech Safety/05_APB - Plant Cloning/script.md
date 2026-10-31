@@ -1,4 +1,4 @@
-# 植物克隆：组织培养入门
+# 植物克隆
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：05_APB - Plant Cloning（内容分析见 `course/Animal & Plant Biotech Safety/05_APB - Plant Cloning.md`）
 - 版本：原著版；国内版见 `../05_APB - Plant Cloning（国内版）/`

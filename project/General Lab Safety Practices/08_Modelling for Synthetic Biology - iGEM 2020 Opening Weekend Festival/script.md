@@ -1,4 +1,4 @@
-# 合成生物学建模与生物安全
+# 合成生物学建模
 
 - 剧集：General Lab Safety Practices；对应原视频：08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（内容分析见 `course/General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival.md`）
 - 版本：原著版；国内版见 `../08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（国内版）/`

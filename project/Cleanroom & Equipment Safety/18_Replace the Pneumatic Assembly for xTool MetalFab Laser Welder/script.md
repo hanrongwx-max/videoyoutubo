@@ -1,4 +1,4 @@
-# 带把手机型气动组件的规范更换
+# 激光焊机：更换气动组件（带把手机型）
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（国内版）/`

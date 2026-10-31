@@ -1,4 +1,4 @@
-# 气瓶的储存与搬运
+# 压缩气瓶：正确搬运与储存
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（内容分析见 `course/Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety.md`）
 - 版本：原著版；国内版见 `../03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（国内版）/`

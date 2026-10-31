@@ -1,4 +1,4 @@
-# 辐射剂量（上）：吸收剂量与当量剂量
+# 辐射剂量（第1部分）：辐射防护
 
 - 剧集：RSO Training Series；对应原视频：04_Radiation Dose - Part 1 (Radiation Protection)（内容分析见 `course/RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection).md`）
 - 版本：原著版；国内版见 `../04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/`

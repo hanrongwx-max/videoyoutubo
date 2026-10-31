@@ -1,4 +1,4 @@
-# 风琴管着火了怎么办
+# 激光器风琴罩着火
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：02_Burning Laser Bellows Jan2020（内容分析见 `course/Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020.md`）
 - 版本：原著版；国内版见 `../02_Burning Laser Bellows Jan2020（国内版）/`

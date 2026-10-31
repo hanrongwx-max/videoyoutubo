@@ -1,4 +1,4 @@
-# 用电安全检查表
+# 用电安全检查与检查表
 
 - 剧集：Electrical Safety Series；对应原视频：12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（内容分析见 `course/Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H.md`）
 - 版本：原著版；国内版见 `../12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（国内版）/`

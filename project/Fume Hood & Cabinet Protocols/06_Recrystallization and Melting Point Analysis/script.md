@@ -1,4 +1,4 @@
-# 重结晶与熔点测定
+# 重结晶与熔点分析
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：06_Recrystallization and Melting Point Analysis（内容分析见 `course/Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis.md`）
 - 版本：原著版；国内版见 `../06_Recrystallization and Melting Point Analysis（国内版）/`

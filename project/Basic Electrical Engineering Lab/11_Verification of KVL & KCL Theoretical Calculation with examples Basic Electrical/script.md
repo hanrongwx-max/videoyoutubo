@@ -1,4 +1,4 @@
-# 电工实验：基尔霍夫定律（理论计算）
+# 验证KVL与KCL：理论计算与例题
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical（内容分析见 `course/Basic Electrical Engineering Lab/11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical.md`）
 - 版本：原著版；国内版见 `../11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical（国内版）/`

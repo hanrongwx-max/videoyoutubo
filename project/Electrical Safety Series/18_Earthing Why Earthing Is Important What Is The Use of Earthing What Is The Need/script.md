@@ -1,4 +1,4 @@
-# 接地，给漏电找条路
+# 接地为什么重要
 
 - 剧集：Electrical Safety Series；对应原视频：18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need（内容分析见 `course/Electrical Safety Series/18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need.md`）
 - 版本：原著版；国内版见 `../18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need（国内版）/`

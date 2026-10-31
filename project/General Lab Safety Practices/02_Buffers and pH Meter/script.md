@@ -1,4 +1,4 @@
-# 缓冲液配制与pH计使用
+# 缓冲液与pH计
 
 - 剧集：General Lab Safety Practices；对应原视频：02_Buffers and pH Meter（内容分析见 `course/General Lab Safety Practices/02_Buffers and pH Meter.md`）
 - 版本：原著版；国内版见 `../02_Buffers and pH Meter（国内版）/`

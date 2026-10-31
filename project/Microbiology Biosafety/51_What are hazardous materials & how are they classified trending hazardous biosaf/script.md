@@ -1,4 +1,4 @@
-# 危险物品怎么分类：九大类与象形图
+# 什么是危险物品？如何分类？
 
 - 剧集：Microbiology Biosafety；对应原视频：51_What are hazardous materials & how are they classified trending hazardous biosaf（内容分析见 `course/Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf.md`）
 - 版本：原著版；国内版见 `../51_What are hazardous materials & how are they classified trending hazardous biosaf（国内版）/`

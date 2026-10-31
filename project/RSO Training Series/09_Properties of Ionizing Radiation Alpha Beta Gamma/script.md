@@ -1,4 +1,4 @@
-# α、β、γ：三种射线的性质
+# 电离辐射的性质：α、β、γ
 
 - 剧集：RSO Training Series；对应原视频：09_Properties of Ionizing Radiation Alpha Beta Gamma（内容分析见 `course/RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma.md`）
 - 版本：原著版；国内版见 `../09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/`

@@ -1,4 +1,4 @@
-# 看不见的危险：微生物实验室安全用电
+# 微生物实验室安全措施：用电安全
 
 - 剧集：Microbiology Biosafety；对应原视频：24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf（内容分析见 `course/Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf.md`）
 - 版本：原著版；国内版见 `../24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf（国内版）/`

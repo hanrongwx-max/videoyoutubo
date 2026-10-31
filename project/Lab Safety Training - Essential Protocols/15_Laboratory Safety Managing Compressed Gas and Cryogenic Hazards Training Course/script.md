@@ -1,4 +1,4 @@
-# 认识压缩气体的危害
+# 实验室安全：管理压缩气体的危害
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course.md`）
 - 版本：原著版；国内版见 `../15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（国内版）/`

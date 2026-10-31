@@ -1,4 +1,4 @@
-# 给气瓶装上减压器
+# 压缩气瓶安全操作基础：安装减压器
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（内容分析见 `course/CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat.md`）
 - 版本：原著版；国内版见 `../20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/`

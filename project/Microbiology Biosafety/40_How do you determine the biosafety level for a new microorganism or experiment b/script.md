@@ -1,4 +1,4 @@
-# 怎么定级别：新微生物和新实验的风险评估
+# 如何确定新微生物或新实验的生物安全等级？
 
 - 剧集：Microbiology Biosafety；对应原视频：40_How do you determine the biosafety level for a new microorganism or experiment b（内容分析见 `course/Microbiology Biosafety/40_How do you determine the biosafety level for a new microorganism or experiment b.md`）
 - 版本：原著版；国内版见 `../40_How do you determine the biosafety level for a new microorganism or experiment b（国内版）/`

@@ -1,4 +1,4 @@
-# 电工基础实验：课程导览
+# 电工基础实验：课程大纲与实验清单
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment（内容分析见 `course/Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment.md`）
 - 版本：原著版；国内版见 `../01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment（国内版）/`

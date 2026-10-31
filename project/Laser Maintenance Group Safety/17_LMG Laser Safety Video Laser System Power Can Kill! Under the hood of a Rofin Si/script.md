@@ -1,4 +1,4 @@
-# 激光器里的高压电
+# 激光系统的电能可致命：谐振腔内部
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si（内容分析见 `course/Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si.md`）
 - 版本：原著版；国内版见 `../17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si（国内版）/`

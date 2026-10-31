@@ -1,4 +1,4 @@
-# 每一级实验室，配哪些安全装备
+# 各生物安全等级使用哪些安全设备？
 
 - 剧集：Microbiology Biosafety；对应原视频：37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（内容分析见 `course/Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi.md`）
 - 版本：原著版；国内版见 `../37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（国内版）/`

@@ -1,4 +1,4 @@
-# 实验室废物的分类与处置
+# 第10单元：废物管理
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：03_Module 10 — Waste Management（内容分析见 `course/Acids, Bases & Solvents Safety/03_Module 10 — Waste Management.md`）
 - 版本：原著版；国内版见 `../03_Module 10 — Waste Management（国内版）/`

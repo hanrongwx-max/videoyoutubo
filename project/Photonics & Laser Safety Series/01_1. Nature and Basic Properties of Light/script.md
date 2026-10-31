@@ -1,4 +1,4 @@
-# 光是什么：光的本质与基本性质
+# 光的本质与基本性质
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：01_1. Nature and Basic Properties of Light（内容分析见 `course/Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light.md`）
 - 版本：原著版；国内版见 `../01_1. Nature and Basic Properties of Light（国内版）/`

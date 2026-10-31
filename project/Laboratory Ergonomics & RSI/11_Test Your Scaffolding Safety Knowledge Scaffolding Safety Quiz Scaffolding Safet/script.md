@@ -1,4 +1,4 @@
-# 脚手架安全十问
+# 脚手架安全知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet（内容分析见 `course/Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet.md`）
 - 版本：原著版；国内版见 `../11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet（国内版）/`

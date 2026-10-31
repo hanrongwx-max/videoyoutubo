@@ -1,4 +1,4 @@
-# 工作危害分析十问
+# 工作危害分析（JHA/JSA）知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs（内容分析见 `course/Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs.md`）
 - 版本：原著版；国内版见 `../09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs（国内版）/`

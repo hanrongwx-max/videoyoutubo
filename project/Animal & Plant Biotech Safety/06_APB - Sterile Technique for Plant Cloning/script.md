@@ -1,4 +1,4 @@
-# 植物组织培养的无菌技术
+# 植物克隆的无菌技术
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：06_APB - Sterile Technique for Plant Cloning（内容分析见 `course/Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning.md`）
 - 版本：原著版；国内版见 `../06_APB - Sterile Technique for Plant Cloning（国内版）/`

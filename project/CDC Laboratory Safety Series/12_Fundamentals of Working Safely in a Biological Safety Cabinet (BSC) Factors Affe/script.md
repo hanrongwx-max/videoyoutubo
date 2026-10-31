@@ -1,4 +1,4 @@
-# 看不见的气幕：生物安全柜的气流
+# 生物安全柜安全操作基础：影响气流的因素
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（内容分析见 `course/CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe.md`）
 - 版本：原著版；国内版见 `../12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/`

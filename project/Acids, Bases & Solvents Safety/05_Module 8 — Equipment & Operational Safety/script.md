@@ -1,4 +1,4 @@
-# 实验室设备与运行安全
+# 第8单元：设备与运行安全
 
 - 剧集：Acids, Bases & Solvents Safety；对应原视频：05_Module 8 — Equipment & Operational Safety（内容分析见 `course/Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety.md`）
 - 版本：原著版；国内版见 `../05_Module 8 — Equipment & Operational Safety（国内版）/`

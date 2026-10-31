@@ -1,4 +1,4 @@
-# 认识电工实验室的四种仪表
+# 认识电流表、电压表、功率表与万用表
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（内容分析见 `course/Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa.md`）
 - 版本：原著版；国内版见 `../02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（国内版）/`

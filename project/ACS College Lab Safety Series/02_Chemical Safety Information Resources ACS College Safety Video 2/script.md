@@ -1,4 +1,4 @@
-# 读懂化学品安全信息
+# 化学安全信息资源
 
 - 剧集：ACS College Lab Safety Series；对应原视频：02_Chemical Safety Information Resources ACS College Safety Video 2（内容分析见 `course/ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2.md`）
 - 版本：原著版；国内版见 `../02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/`

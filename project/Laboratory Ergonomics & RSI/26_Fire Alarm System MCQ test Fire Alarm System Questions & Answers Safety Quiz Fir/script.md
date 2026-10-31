@@ -1,4 +1,4 @@
-# 火灾报警系统十问
+# 火灾报警系统测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir（内容分析见 `course/Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir.md`）
 - 版本：原著版；国内版见 `../26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir（国内版）/`

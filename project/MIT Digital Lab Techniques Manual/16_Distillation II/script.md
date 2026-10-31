@@ -1,4 +1,4 @@
-# 减压蒸馏
+# 蒸馏（下）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：16_Distillation II（内容分析见 `course/MIT Digital Lab Techniques Manual/16_Distillation II.md`）
 - 版本：原著版；国内版见 `../16_Distillation II（国内版）/`

@@ -1,4 +1,4 @@
-# 激光焊机与切割机：开箱、组装与调试
+# 第1课：激光焊切一体机的开箱与测试
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：03_Lesson 1 How to Unbox and Test the MetalFab（内容分析见 `course/Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab.md`）
 - 版本：原著版；国内版见 `../03_Lesson 1 How to Unbox and Test the MetalFab（国内版）/`

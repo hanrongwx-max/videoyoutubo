@@ -1,4 +1,4 @@
-# 激光焊接机交流接触器的规范更换
+# 激光焊机：更换交流接触器
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：15_Replace the AC Contactor for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../15_Replace the AC Contactor for xTool MetalFab Laser Welder（国内版）/`

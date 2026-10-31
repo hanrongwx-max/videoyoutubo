@@ -1,4 +1,4 @@
-# 整洁有序也是安全
+# 整洁有序，激光更安全
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（内容分析见 `course/Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase.md`）
 - 版本：原著版；国内版见 `../13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/`

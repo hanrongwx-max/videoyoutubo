@@ -1,4 +1,4 @@
-# 简单蒸馏与分馏
+# 蒸馏（上）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：15_Distillation I（内容分析见 `course/MIT Digital Lab Techniques Manual/15_Distillation I.md`）
 - 版本：原著版；国内版见 `../15_Distillation I（国内版）/`

@@ -1,4 +1,4 @@
-# 菌群接力：边解毒，边发电
+# 解毒中混合菌群为何优于单一菌株？
 
 - 剧集：Microbiology Biosafety；对应原视频：59_How do microbial consortia (mixed cultures) perform better than single strains i（内容分析见 `course/Microbiology Biosafety/59_How do microbial consortia (mixed cultures) perform better than single strains i.md`）
 - 版本：原著版；国内版见 `../59_How do microbial consortia (mixed cultures) perform better than single strains i（国内版）/`

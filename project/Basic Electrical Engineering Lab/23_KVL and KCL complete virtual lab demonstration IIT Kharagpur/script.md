@@ -1,4 +1,4 @@
-# 基尔霍夫两定律速记
+# KVL与KCL虚拟实验完整演示
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：23_KVL and KCL complete virtual lab demonstration IIT Kharagpur（内容分析见 `course/Basic Electrical Engineering Lab/23_KVL and KCL complete virtual lab demonstration IIT Kharagpur.md`）
 - 版本：原著版；国内版见 `../23_KVL and KCL complete virtual lab demonstration IIT Kharagpur（国内版）/`

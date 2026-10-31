@@ -1,4 +1,4 @@
-# 用电安全全知道
+# 用电安全全解：电气伤害、危害与防护
 
 - 剧集：Electrical Safety Series；对应原视频：10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（内容分析见 `course/Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti.md`）
 - 版本：原著版；国内版见 `../10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（国内版）/`

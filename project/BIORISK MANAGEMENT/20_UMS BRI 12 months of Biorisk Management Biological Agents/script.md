@@ -1,4 +1,4 @@
-# 认识生物因子
+# 生物风险管理：生物因子
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：20_UMS BRI 12 months of Biorisk Management Biological Agents（内容分析见 `course/BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents.md`）
 - 版本：原著版；国内版见 `../20_UMS BRI 12 months of Biorisk Management Biological Agents（国内版）/`

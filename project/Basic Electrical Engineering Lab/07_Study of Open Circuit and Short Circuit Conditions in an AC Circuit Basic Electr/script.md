@@ -1,4 +1,4 @@
-# 交流电路的开路与短路
+# 交流电路的开路与短路状态
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（内容分析见 `course/Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr.md`）
 - 版本：原著版；国内版见 `../07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/`

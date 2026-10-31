@@ -1,4 +1,4 @@
-# 生物风险评估六步走
+# 如何开展生物风险评估？
 
 - 剧集：Microbiology Biosafety；对应原视频：43_How do you perform a Biorisk assessment biorisk assessment biosafety trending（内容分析见 `course/Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending.md`）
 - 版本：原著版；国内版见 `../43_How do you perform a Biorisk assessment biorisk assessment biosafety trending（国内版）/`

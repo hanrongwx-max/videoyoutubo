@@ -1,4 +1,4 @@
-# 气瓶泄漏：大漏小漏怎么办
+# 压缩气瓶：大泄漏与小泄漏
 
 - 剧集：Laboratory Equipment Safety Series；对应原视频：05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（内容分析见 `course/Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety.md`）
 - 版本：原著版；国内版见 `../05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/`

@@ -1,4 +1,4 @@
-# 核医学入门：把“小灯泡”送进身体
+# 核医学物理与放射性药物
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals（内容分析见 `course/Health Physics & Nuclear Medicine/08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals.md`）
 - 版本：原著版；国内版见 `../08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals（国内版）/`

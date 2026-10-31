@@ -1,4 +1,4 @@
-# 移液器的使用
+# 自动移液器
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：13_Automatic Pipet（内容分析见 `course/MIT Digital Lab Techniques Manual/13_Automatic Pipet.md`）
 - 版本：原著版；国内版见 `../13_Automatic Pipet（国内版）/`

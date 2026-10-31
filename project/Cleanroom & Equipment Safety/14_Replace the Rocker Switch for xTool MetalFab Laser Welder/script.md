@@ -1,4 +1,4 @@
-# 激光焊接机电源开关的规范更换
+# 激光焊机：更换船形开关
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：14_Replace the Rocker Switch for xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/14_Replace the Rocker Switch for xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../14_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/`

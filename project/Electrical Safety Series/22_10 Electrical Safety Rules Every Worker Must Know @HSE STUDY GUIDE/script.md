@@ -1,4 +1,4 @@
-# 十条用电安全规则
+# 每个工人必知的十条用电安全规则
 
 - 剧集：Electrical Safety Series；对应原视频：22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（内容分析见 `course/Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE.md`）
 - 版本：原著版；国内版见 `../22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/`

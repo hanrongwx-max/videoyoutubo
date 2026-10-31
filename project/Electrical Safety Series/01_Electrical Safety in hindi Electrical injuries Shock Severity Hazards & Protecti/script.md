@@ -1,4 +1,4 @@
-# 认识电：触电伤害与基本防护
+# 用电安全：电气伤害、电击程度、危害与防护
 
 - 剧集：Electrical Safety Series；对应原视频：01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（内容分析见 `course/Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti.md`）
 - 版本：原著版；国内版见 `../01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/`

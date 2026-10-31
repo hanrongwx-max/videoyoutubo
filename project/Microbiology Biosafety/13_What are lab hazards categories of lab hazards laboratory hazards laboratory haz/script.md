@@ -1,4 +1,4 @@
-# 实验室里的八类危害
+# 什么是实验室危害：危害的类别
 
 - 剧集：Microbiology Biosafety；对应原视频：13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（内容分析见 `course/Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz.md`）
 - 版本：原著版；国内版见 `../13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/`

@@ -1,4 +1,4 @@
-# 生物技术实验室安全入门
+# 生物技术实验室的安全
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：01_APB - Safety in the Biotechnology Laboratory（内容分析见 `course/Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory.md`）
 - 版本：原著版；国内版见 `../01_APB - Safety in the Biotechnology Laboratory（国内版）/`

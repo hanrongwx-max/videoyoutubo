@@ -1,4 +1,4 @@
-# 辐射怎样伤人，屏蔽怎样护人
+# 辐射生物效应与屏蔽
 
 - 剧集：Health Physics & Nuclear Medicine；对应原视频：03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（内容分析见 `course/Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati.md`）
 - 版本：原著版；国内版见 `../03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/`

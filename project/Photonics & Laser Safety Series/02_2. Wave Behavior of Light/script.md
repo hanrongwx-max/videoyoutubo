@@ -1,4 +1,4 @@
-# 光的波动：反射、折射、干涉与偏振
+# 光的波动性
 
 - 剧集：Photonics & Laser Safety Series；对应原视频：02_2. Wave Behavior of Light（内容分析见 `course/Photonics & Laser Safety Series/02_2. Wave Behavior of Light.md`）
 - 版本：原著版；国内版见 `../02_2. Wave Behavior of Light（国内版）/`

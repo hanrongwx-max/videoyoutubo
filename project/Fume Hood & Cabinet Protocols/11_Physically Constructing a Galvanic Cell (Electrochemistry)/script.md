@@ -1,4 +1,4 @@
-# 动手搭一个原电池
+# 动手组装原电池（电化学）
 
 - 剧集：Fume Hood & Cabinet Protocols；对应原视频：11_Physically Constructing a Galvanic Cell (Electrochemistry)（内容分析见 `course/Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry).md`）
 - 版本：原著版；国内版见 `../11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/`

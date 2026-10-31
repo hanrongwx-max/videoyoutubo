@@ -1,4 +1,4 @@
-# 重结晶提纯固体
+# 重结晶
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：09_Recrystallization（内容分析见 `course/MIT Digital Lab Techniques Manual/09_Recrystallization.md`）
 - 版本：原著版；国内版见 `../09_Recrystallization（国内版）/`

@@ -1,4 +1,4 @@
-# 反应后处理：萃取、洗涤与干燥
+# 反应后处理（上）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：05_Reaction Work-Up I（内容分析见 `course/MIT Digital Lab Techniques Manual/05_Reaction Work-Up I.md`）
 - 版本：原著版；国内版见 `../05_Reaction Work-Up I（国内版）/`

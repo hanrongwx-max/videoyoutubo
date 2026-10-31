@@ -1,4 +1,4 @@
-# 有限空间安全十问
+# 受限空间安全知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ（内容分析见 `course/Laboratory Ergonomics & RSI/18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ.md`）
 - 版本：原著版；国内版见 `../18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ（国内版）/`

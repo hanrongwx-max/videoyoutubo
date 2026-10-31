@@ -1,4 +1,4 @@
-# 安全知识问答：制度、红线与不安全行为
+# 某石化公司安全员面试问答
 
 - 剧集：ACS Hazard Communication & Safety；对应原视频：08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（内容分析见 `course/ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com.md`）
 - 版本：原著版；国内版见 `../08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（国内版）/`

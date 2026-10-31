@@ -1,4 +1,4 @@
-# 管住转基因的风险
+# 转基因植物的风险评估与控制
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：21_BIORISK MANAGEMENT 3（内容分析见 `course/BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3.md`）
 - 版本：原著版；国内版见 `../21_BIORISK MANAGEMENT 3（国内版）/`

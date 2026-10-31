@@ -1,4 +1,4 @@
-# 四个风险组与三步管理
+# 风险组与生物风险管理三步法
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：19_BIORISK MANAGEMENT（内容分析见 `course/BIORISK MANAGEMENT/19_BIORISK MANAGEMENT.md`）
 - 版本：原著版；国内版见 `../19_BIORISK MANAGEMENT（国内版）/`

@@ -1,4 +1,4 @@
-# 激光焊接机更换直流电源
+# 激光焊机：更换直流电源
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：22_Replace the DC Power Supply for the xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder.md`）
 - 版本：原著版；国内版见 `../22_Replace the DC Power Supply for the xTool MetalFab Laser Welder（国内版）/`

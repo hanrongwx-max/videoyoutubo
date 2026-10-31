@@ -1,4 +1,4 @@
-# 实验室安全，人人有责
+# 实验室安全：雇主的工作场所安全指南
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course.md`）
 - 版本：原著版；国内版见 `../21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（国内版）/`

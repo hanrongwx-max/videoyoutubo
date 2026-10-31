@@ -1,4 +1,4 @@
-# 电工工具与直流稳压电源
+# 试电笔、稳压电源、剥线钳与螺丝刀的使用
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（内容分析见 `course/Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St.md`）
 - 版本：原著版；国内版见 `../05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（国内版）/`

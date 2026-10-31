@@ -1,4 +1,4 @@
-# 进门之前，穿戴到位
+# 生物风险管理：个人防护装备的穿戴
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：15_Biorisk Management PPEs（内容分析见 `course/BIORISK MANAGEMENT/15_Biorisk Management PPEs.md`）
 - 版本：原著版；国内版见 `../15_Biorisk Management PPEs（国内版）/`

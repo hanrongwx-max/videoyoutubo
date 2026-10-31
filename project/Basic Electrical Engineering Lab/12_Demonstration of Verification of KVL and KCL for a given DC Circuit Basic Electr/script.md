@@ -1,4 +1,4 @@
-# 电工实验：基尔霍夫定律（实测演示）
+# 直流电路KVL与KCL验证演示
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr（内容分析见 `course/Basic Electrical Engineering Lab/12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr.md`）
 - 版本：原著版；国内版见 `../12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr（国内版）/`

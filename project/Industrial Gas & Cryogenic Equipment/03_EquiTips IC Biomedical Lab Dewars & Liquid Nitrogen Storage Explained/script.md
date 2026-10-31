@@ -1,4 +1,4 @@
-# 液氮杜瓦罐的安全使用
+# 实验室杜瓦瓶与液氮储存解析
 
 - 剧集：Industrial Gas & Cryogenic Equipment；对应原视频：03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（内容分析见 `course/Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained.md`）
 - 版本：原著版；国内版见 `../03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（国内版）/`

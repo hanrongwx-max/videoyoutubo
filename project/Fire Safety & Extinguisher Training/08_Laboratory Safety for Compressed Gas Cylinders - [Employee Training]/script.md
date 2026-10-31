@@ -1,4 +1,4 @@
-# 压缩气体钢瓶的安全使用
+# 实验室压缩气瓶安全
 
 - 剧集：Fire Safety & Extinguisher Training；对应原视频：08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]（内容分析见 `course/Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training].md`）
 - 版本：原著版；国内版见 `../08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]（国内版）/`

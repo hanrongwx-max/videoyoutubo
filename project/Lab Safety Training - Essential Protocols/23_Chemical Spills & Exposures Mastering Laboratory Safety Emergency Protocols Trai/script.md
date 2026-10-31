@@ -1,4 +1,4 @@
-# 化学品溢洒与接触的应急处置
+# 化学品溢洒与接触：实验室应急规程
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（内容分析见 `course/Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai.md`）
 - 版本：原著版；国内版见 `../23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（国内版）/`

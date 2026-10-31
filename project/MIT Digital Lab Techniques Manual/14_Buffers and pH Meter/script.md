@@ -1,4 +1,4 @@
-# 缓冲液配制与pH计使用
+# 缓冲液与pH计
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：14_Buffers and pH Meter（内容分析见 `course/MIT Digital Lab Techniques Manual/14_Buffers and pH Meter.md`）
 - 版本：原著版；国内版见 `../14_Buffers and pH Meter（国内版）/`

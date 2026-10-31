@@ -1,4 +1,4 @@
-# 防火灾、防滑倒、防劳损
+# 实验室安全：预防火灾、滑倒与跌落
 
 - 剧集：Lab Safety Training - Essential Protocols；对应原视频：22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course（内容分析见 `course/Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course.md`）
 - 版本：原著版；国内版见 `../22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course（国内版）/`

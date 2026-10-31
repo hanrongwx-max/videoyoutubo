@@ -1,4 +1,4 @@
-# 认识化学品的危害：SDS与标签
+# 实验室安全（四）：化学品危害
 
 - 剧集：Chemical Spillage & Response；对应原视频：04_Chemical Hazards Lab Safety Video Part 4（内容分析见 `course/Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4.md`）
 - 版本：原著版；国内版见 `../04_Chemical Hazards Lab Safety Video Part 4（国内版）/`

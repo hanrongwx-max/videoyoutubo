@@ -1,4 +1,4 @@
-# 开瓶阀与调压力
+# 压缩气瓶安全操作基础：设定减压器压力
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（内容分析见 `course/CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre.md`）
 - 版本：原著版；国内版见 `../21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/`

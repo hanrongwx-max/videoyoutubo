@@ -1,4 +1,4 @@
-# 安全知识问答：受限空间
+# 安全员面试问答：受限空间
 
 - 剧集：ACS Hazard Communication & Safety；对应原视频：07_Safety Officer Interview Questions and Answers (Confined Space)（内容分析见 `course/ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space).md`）
 - 版本：原著版；国内版见 `../07_Safety Officer Interview Questions and Answers (Confined Space)（国内版）/`

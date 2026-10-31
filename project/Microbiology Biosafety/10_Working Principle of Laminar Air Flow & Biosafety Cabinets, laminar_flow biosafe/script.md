@@ -1,4 +1,4 @@
-# 层流台 VS 生物安全柜：别选错
+# 层流台与生物安全柜的工作原理
 
 - 剧集：Microbiology Biosafety；对应原视频：10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe（内容分析见 `course/Microbiology Biosafety/10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe.md`）
 - 版本：原著版；国内版见 `../10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe（国内版）/`

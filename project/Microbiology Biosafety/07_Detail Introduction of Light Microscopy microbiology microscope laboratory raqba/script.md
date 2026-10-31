@@ -1,4 +1,4 @@
-# 显微镜：看得清，也用得安全
+# 光学显微镜详解
 
 - 剧集：Microbiology Biosafety；对应原视频：07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba（内容分析见 `course/Microbiology Biosafety/07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba.md`）
 - 版本：原著版；国内版见 `../07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba（国内版）/`

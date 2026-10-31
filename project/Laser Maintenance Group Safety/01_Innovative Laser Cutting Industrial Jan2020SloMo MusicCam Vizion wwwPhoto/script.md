@@ -1,4 +1,4 @@
-# 看懂激光切割，也看懂它的危险
+# 工业激光切割：过程、部件与打标
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（内容分析见 `course/Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto.md`）
 - 版本：原著版；国内版见 `../01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（国内版）/`

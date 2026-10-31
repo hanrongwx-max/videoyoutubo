@@ -1,4 +1,4 @@
-# 开挖安全小测验
+# 开挖安全测验
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat（内容分析见 `course/Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat.md`）
 - 版本：原著版；国内版见 `../29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat（国内版）/`

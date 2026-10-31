@@ -1,4 +1,4 @@
-# 做好背景调研，写好研究论文
+# 开展背景研究
 
 - 剧集：Animal & Plant Biotech Safety；对应原视频：03_APB - Conducting Background Research（内容分析见 `course/Animal & Plant Biotech Safety/03_APB - Conducting Background Research.md`）
 - 版本：原著版；国内版见 `../03_APB - Conducting Background Research（国内版）/`

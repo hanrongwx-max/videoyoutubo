@@ -1,4 +1,4 @@
-# 离心机的危害与安全使用
+# 离心的危害
 
 - 剧集：General Lab Safety Practices；对应原视频：06_Centrifugation Hazards（内容分析见 `course/General Lab Safety Practices/06_Centrifugation Hazards.md`）
 - 版本：原著版；国内版见 `../06_Centrifugation Hazards（国内版）/`

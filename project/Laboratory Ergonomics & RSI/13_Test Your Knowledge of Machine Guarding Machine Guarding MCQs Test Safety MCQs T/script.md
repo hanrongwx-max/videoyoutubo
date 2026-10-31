@@ -1,4 +1,4 @@
-# 机械防护十问
+# 机械防护知识自测
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T（内容分析见 `course/Laboratory Ergonomics & RSI/13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T.md`）
 - 版本：原著版；国内版见 `../13_Test Your Knowledge of Machine Guarding Machine Guarding MCQs Test Safety MCQs T（国内版）/`

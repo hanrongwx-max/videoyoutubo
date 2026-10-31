@@ -1,4 +1,4 @@
-# 生物统计：让微生物数据说真话
+# 生物统计为什么对微生物学重要？
 
 - 剧集：Microbiology Biosafety；对应原视频：54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（内容分析见 `course/Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh.md`）
 - 版本：原著版；国内版见 `../54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/`

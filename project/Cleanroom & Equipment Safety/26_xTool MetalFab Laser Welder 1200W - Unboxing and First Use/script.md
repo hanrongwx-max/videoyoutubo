@@ -1,4 +1,4 @@
-# 手持式激光焊接机开箱与首次使用
+# 1200瓦手持激光焊机：开箱与首次使用
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use（内容分析见 `course/Cleanroom & Equipment Safety/26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use.md`）
 - 版本：原著版；国内版见 `../26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use（国内版）/`

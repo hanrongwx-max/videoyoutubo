@@ -1,4 +1,4 @@
-# 电压等级与爆炸危险区域
+# 电气区域分类：高压、中压与低压
 
 - 剧集：Electrical Safety Series；对应原视频：05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（内容分析见 `course/Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide.md`）
 - 版本：原著版；国内版见 `../05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/`

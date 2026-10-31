@@ -1,4 +1,4 @@
-# 旋转蒸发仪的正确使用
+# 反应后处理（下）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：06_Reaction Work-Up II（内容分析见 `course/MIT Digital Lab Techniques Manual/06_Reaction Work-Up II.md`）
 - 版本：原著版；国内版见 `../06_Reaction Work-Up II（国内版）/`

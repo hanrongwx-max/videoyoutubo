@@ -1,4 +1,4 @@
-# 双控与三控照明：口试问答与家庭用电
+# 两地与三地控制照明口试问答
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（内容分析见 `course/Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way.md`）
 - 版本：原著版；国内版见 `../18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（国内版）/`

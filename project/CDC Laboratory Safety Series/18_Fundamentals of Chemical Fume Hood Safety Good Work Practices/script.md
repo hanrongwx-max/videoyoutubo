@@ -1,4 +1,4 @@
-# 通风柜的良好操作习惯
+# 化学通风柜安全基础：良好操作规范
 
 - 剧集：CDC Laboratory Safety Series；对应原视频：18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（内容分析见 `course/CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices.md`）
 - 版本：原著版；国内版见 `../18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/`

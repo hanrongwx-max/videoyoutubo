@@ -1,4 +1,4 @@
-# 植物为什么要关起来
+# 植物为什么需要封闭隔离
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：23_BIORISK MANAGEMENT（内容分析见 `course/BIORISK MANAGEMENT/23_BIORISK MANAGEMENT.md`）
 - 版本：原著版；国内版见 `../23_BIORISK MANAGEMENT（国内版）/`

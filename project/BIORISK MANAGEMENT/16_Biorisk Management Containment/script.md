@@ -1,4 +1,4 @@
-# 看不见的墙：气流防护
+# 生物风险管理：生物防护
 
 - 剧集：BIORISK MANAGEMENT；对应原视频：16_Biorisk Management Containment（内容分析见 `course/BIORISK MANAGEMENT/16_Biorisk Management Containment.md`）
 - 版本：原著版；国内版见 `../16_Biorisk Management Containment（国内版）/`
