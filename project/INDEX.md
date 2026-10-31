@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 28 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 29 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -372,6 +372,7 @@
 | Cleanroom & Equipment Safety | 27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder | 国内版 | 激光焊接机送丝机的安装与设置（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 28_xTool MetalFab Laser Welder – How to change different nozzle | 原著版 | 激光焊接机更换清洗嘴 | 24 | 2:00 | 4 / 0 | [剧本](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle/script.md>) |
 | Cleanroom & Equipment Safety | 28_xTool MetalFab Laser Welder – How to change different nozzle | 国内版 | 激光焊接机更换清洗嘴（国内版） | 27 | 2:15 | 4 / 4 | [剧本](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle | 原著版 | 激光焊接机更换送丝导嘴 | 24 | 2:00 | 3 / 0 | [剧本](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle/script.md>) |
 | Cleanroom & Equipment Safety | 29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle | 国内版 | 激光焊接机更换送丝导嘴（国内版） | 26 | 2:10 | 3 / 4 | [剧本](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 30_xTool MetalFab Laser Welder - Replace the welding wire | 国内版 | 激光焊接机更换焊丝（国内版） | 36 | 3:00 | 15 / 4 | [剧本](<Cleanroom & Equipment Safety/30_xTool MetalFab Laser Welder - Replace the welding wire（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/30_xTool MetalFab Laser Welder - Replace the welding wire（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 31_xTool MetalFab Laser Welder - Clean or replace the lens protector | 国内版 | 激光焊接机保护镜片的清洁与更换（国内版） | 40 | 3:20 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector（国内版）/审查报告.md>) |
