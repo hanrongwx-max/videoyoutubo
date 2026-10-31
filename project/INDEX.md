@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 342 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 343 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -14,8 +14,8 @@
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
+| Basic Electrical Engineering Lab | 12 / 23 | 0 / 8 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
-| Basic Electrical Engineering Lab | 11 / 23 | 0 / 8 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
@@ -188,6 +188,7 @@
 | Basic Electrical Engineering Lab | 09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore | 单一版 | 电工实验：测灯具的功率与功率因数 | 62 | 5:10 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/script.md>) · [审查](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/审查报告.md>) |
 | Basic Electrical Engineering Lab | 10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B | 单一版 | 电工实验：三电压表法测线圈 | 57 | 4:45 | 16 / 3 | [剧本](<Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B/script.md>) · [审查](<Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B/审查报告.md>) |
 | Basic Electrical Engineering Lab | 11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical | 单一版 | 电工实验：基尔霍夫定律（理论计算） | 51 | 4:15 | 14 / 3 | [剧本](<Basic Electrical Engineering Lab/11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical/script.md>) · [审查](<Basic Electrical Engineering Lab/11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical/审查报告.md>) |
+| Basic Electrical Engineering Lab | 12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr | 单一版 | 电工实验：基尔霍夫定律（实测演示） | 49 | 4:05 | 15 / 3 | [剧本](<Basic Electrical Engineering Lab/12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr/script.md>) · [审查](<Basic Electrical Engineering Lab/12_Demonstration of Verification of KVL and KCL for a given DC Circuit Basic Electr/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
