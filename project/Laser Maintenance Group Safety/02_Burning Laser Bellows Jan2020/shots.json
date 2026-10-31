@@ -1,0 +1,565 @@
+{
+ "id": "02_Burning Laser Bellows Jan2020",
+ "edition": "单一版",
+ "series": "Laser Maintenance Group Safety",
+ "title": "风琴管着火了怎么办",
+ "seconds": 210,
+ "source_doc": "course/Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020.md",
+ "author_source": "project/Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020/src.py",
+ "points": {
+  "K1": "风琴管：光路的保护套",
+  "K2": "风琴管会被烧穿",
+  "K3": "火点挨着管线和机头",
+  "K4": "积灰既是隐患也是燃料",
+  "K5": "阴燃不会自己熄灭",
+  "S1": "风琴管为什么会着火",
+  "S2": "发现冒烟，先停激光",
+  "S3": "初起小火，用对灭火器",
+  "S4": "火势扩大：报警、撤离",
+  "S5": "切割时不能无人看管",
+  "S6": "断电上锁，授权维修",
+  "S7": "日常检查，事后报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台激光切割机旁，手里拿着灭火器模型",
+   "prompt_en": "The panda mascot stands beside an industrial laser cutting machine, holding a small model fire extinguisher.",
+   "narration": "这一课讲激光切割机里的一场小火。",
+   "overlay": [
+    "风琴管着火了怎么办"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "风琴管、火苗、急停按钮、灭火器、电话五个图标排成一行",
+   "prompt_en": "Five icons in a row: a ribbed bellows tube, a small flame, a red emergency stop button, a fire extinguisher, and a telephone. No people.",
+   "narration": "认识风琴管，看懂火情，学会处置。",
+   "overlay": [],
+   "labels": [
+    "风琴管",
+    "火情",
+    "急停",
+    "灭火",
+    "报警"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在切割机旁玩手机，机器在切割",
+   "prompt_en": "The young male student looks at a blank phone screen while a laser cutting machine runs behind him.",
+   "narration": "阿杰开着切割机，低头看手机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "机头上方的波纹护套里透出一点红光，冒出细烟",
+   "prompt_en": "A small red glow and a thin wisp of smoke appear between the folds of a ribbed bellows tube above the cutting head inside the machine. No people.",
+   "narration": "机头上方的护套里，悄悄冒出红光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研闻到焦味，指着机器喊阿杰",
+   "prompt_en": "The female graduate student sniffs a burning smell and points urgently at the machine, calling to the young male student.",
+   "narration": "小研闻到焦味，赶紧提醒他。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前，表情严肃",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard with a serious expression.",
+   "narration": "这一点红光，到底是怎么回事？",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管：光路的保护套",
+   "scene": "示意图：切割头上方一根可伸缩的波纹管包着光路",
+   "prompt_en": "A simple diagram: a vertical ribbed bellows tube wraps the beam path above a laser cutting head. No people.",
+   "narration": "切割头上方这根波纹管，叫风琴管。",
+   "overlay": [
+    "风琴管：光路的保护套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管：光路的保护套",
+   "scene": "切割头上下移动，风琴管随之伸长缩短",
+   "prompt_en": "Animation: the cutting head moves up and down and the bellows tube stretches and compresses with it. No people.",
+   "narration": "它随机头伸缩，护着里面的光路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管：光路的保护套",
+   "scene": "风琴管外灰尘飞舞，管内的光路干干净净",
+   "prompt_en": "Dust floats outside the bellows tube while the beam path inside stays clean. No people.",
+   "narration": "挡住粉尘，让光束干净地通过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "风琴管会被烧穿",
+   "scene": "风琴管侧面褶皱上一个烧开的小洞，洞里橙红色火光",
+   "prompt_en": "Close-up of a burned hole in the side folds of a black bellows tube with an orange-red glow inside. No people.",
+   "narration": "可这根护套，也会被烧穿。",
+   "overlay": [
+    "风琴管会被烧穿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "风琴管会被烧穿",
+   "scene": "火光在褶皱间忽明忽暗，洞口边缘发黑",
+   "prompt_en": "The glow flickers between the folds, and the edges of the hole are charred black. No people.",
+   "narration": "洞口发黑，里面还在阴燃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "火点挨着管线和机头",
+   "scene": "镜头拉远：风琴管下面是切割头和一束气管、电缆",
+   "prompt_en": "Wider view: below the bellows tube are the cutting head and a bundle of gas hoses and cables tied together. No people.",
+   "narration": "着火点下面，就是气管和电缆。",
+   "overlay": [
+    "火点挨着管线和机头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "火点挨着管线和机头",
+   "scene": "火苗沿着管线蔓延的示意图标，被红叉划掉",
+   "prompt_en": "An icon of a flame spreading along hoses and cables to a cutting head, crossed out with a red X. No people.",
+   "narration": "火一大，整个机头都会被烧坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "积灰既是隐患也是燃料",
+   "scene": "风琴管旁的导轨和机架上积满黑色烟灰",
+   "prompt_en": "Thick black soot and debris coat the guide rail and frame next to the bellows tube. No people.",
+   "narration": "看旁边，机架上积满了黑灰。",
+   "overlay": [
+    "积灰既是隐患也是燃料"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "积灰既是隐患也是燃料",
+   "scene": "积灰图标加上火苗图标，箭头指向更大的火",
+   "prompt_en": "An icon of a dust pile plus a small flame, with an arrow pointing to a larger fire. No people.",
+   "narration": "积灰和碎屑，正好给火添了燃料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "阴燃不会自己熄灭",
+   "scene": "远景中风琴管上部仍有一个暗红色的点",
+   "prompt_en": "A wider view of the machine head where a dull red spot is still visible on the upper bellows tube. No people.",
+   "narration": "镜头拉远，红点还在。",
+   "overlay": [
+    "阴燃不会自己熄灭"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "阴燃不会自己熄灭",
+   "scene": "欣欣摇头，身旁一个沙漏和仍在发红的小火点",
+   "prompt_en": "The panda mascot shakes its head beside an hourglass and a small glowing ember icon.",
+   "narration": "阴燃不会自己灭，越拖越危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "风琴管为什么会着火",
+   "scene": "示意图：光束偏离中心，打在风琴管内壁上",
+   "prompt_en": "A diagram: a light beam drifts off center inside the bellows tube and hits its inner wall. No people.",
+   "narration": "光路偏了，光束就会打到护套上。",
+   "overlay": [
+    "风琴管为什么会着火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "风琴管为什么会着火",
+   "scene": "风琴管一节塌陷下垂，伸进光路",
+   "prompt_en": "A diagram: one section of the bellows tube sags inward into the beam path. No people.",
+   "narration": "护套变形塌进光路，也会被点着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "风琴管为什么会着火",
+   "scene": "脏污的镜片图标旁冒出热浪",
+   "prompt_en": "An icon of a dirty lens with heat waves rising from it. No people.",
+   "narration": "镜片脏了、积灰多了，都容易起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "风琴管为什么会着火",
+   "scene": "老李拿着手电检查风琴管",
+   "prompt_en": "The facility engineer inspects the bellows tube with a flashlight while the machine is switched off.",
+   "narration": "具体原因，请维修人员来查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "发现冒烟，先停激光",
+   "scene": "阿杰按下切割机上的红色急停按钮",
+   "prompt_en": "The young male student presses the large red emergency stop button on the laser cutting machine.",
+   "narration": "发现冒烟或红光，先停激光。",
+   "overlay": [
+    "发现冒烟，先停激光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "发现冒烟，先停激光",
+   "scene": "急停后，激光图标熄灭，机头停止",
+   "prompt_en": "A diagram: after the emergency stop, the laser icon turns off and the cutting head stops moving. No people.",
+   "narration": "按急停，切断光束和运动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "发现冒烟，先停激光",
+   "scene": "举着手机拍火的图标，被红叉划掉",
+   "prompt_en": "An icon of a person filming a small fire with a phone, crossed out with a red X. No people.",
+   "narration": "先处置，不要先拍视频。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "初起小火，用对灭火器",
+   "scene": "小研从墙上取下二氧化碳灭火器",
+   "prompt_en": "The female graduate student takes a carbon dioxide fire extinguisher from its wall bracket.",
+   "narration": "初起小火，用就近合适的灭火器。",
+   "overlay": [
+    "初起小火，用对灭火器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "初起小火，用对灭火器",
+   "scene": "水桶泼向带电机器的图标，被红叉划掉",
+   "prompt_en": "An icon of a bucket of water thrown at an electrical machine, crossed out with a red X. No people.",
+   "narration": "带电设备着火，不能用水泼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "初起小火，用对灭火器",
+   "scene": "小研站在侧面，背后是畅通的出口",
+   "prompt_en": "The female graduate student stands to the side of the machine with a clear exit path behind her.",
+   "narration": "站在出口一侧，没把握就别硬扑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "火势扩大：报警、撤离",
+   "scene": "机器冒出浓烟，火苗变大",
+   "prompt_en": "Thick smoke pours from the machine as the flames grow larger. No people.",
+   "narration": "火势变大，马上放弃扑救。",
+   "overlay": [
+    "火势扩大：报警、撤离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "火势扩大：报警、撤离",
+   "scene": "阿杰拨打电话，屏幕上是数字119",
+   "prompt_en": "The young male student dials on a phone while running toward the exit; a large icon shows the numbers 119.",
+   "narration": "按下报警按钮，拨打119。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "火势扩大：报警、撤离",
+   "scene": "小研和阿杰沿疏散指示走出车间，关上门",
+   "prompt_en": "The female graduate student and the young male student follow an emergency exit sign out of the workshop and close the door.",
+   "narration": "沿疏散通道撤离，随手关门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "火势扩大：报警、撤离",
+   "scene": "保卫处值班员接听电话，老周赶来",
+   "prompt_en": "The security officer answers a phone call while the older man hurries over.",
+   "narration": "同时报告老师、学院和保卫处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "切割时不能无人看管",
+   "scene": "切割中无人在场的机器图标，被红叉划掉",
+   "prompt_en": "An icon of a running laser cutting machine with nobody around it, crossed out with a red X. No people.",
+   "narration": "切割过程中，人不能离开。",
+   "overlay": [
+    "切割时不能无人看管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "切割时不能无人看管",
+   "scene": "阿杰站在机旁，盯着观察窗，手机收进口袋",
+   "prompt_en": "The young male student stands beside the machine watching through the closed viewing window, his phone put away.",
+   "narration": "眼睛盯着机器，发现异常马上停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "断电上锁，授权维修",
+   "scene": "老李关闭总电源，挂上锁和空白警示牌",
+   "prompt_en": "The facility engineer switches off the main power and attaches a padlock and a blank warning tag to the switch.",
+   "narration": "起火后停机，断电上锁挂牌。",
+   "overlay": [
+    "断电上锁，授权维修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "断电上锁，授权维修",
+   "scene": "老李戴手套，取下烧坏的风琴管",
+   "prompt_en": "The facility engineer, wearing gloves, removes a damaged bellows tube from the machine.",
+   "narration": "换护套、校光路，交给授权维修人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "断电上锁，授权维修",
+   "scene": "学生自己拆机头的图标，被红叉划掉",
+   "prompt_en": "An icon of a student opening up a laser cutting head with tools, crossed out with a red X. No people.",
+   "narration": "学生不要自己拆机修理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "日常检查，事后报告",
+   "scene": "老李手持空白检查表，逐项查看风琴管和导轨",
+   "prompt_en": "The facility engineer holds a blank checklist and inspects the bellows tube and guide rails item by item.",
+   "narration": "日常检查风琴管，有破损就停用。",
+   "overlay": [
+    "日常检查，事后报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "日常检查，事后报告",
+   "scene": "小研用吸尘器清理机架上的积灰",
+   "prompt_en": "The female graduate student cleans dust from the machine frame with a vacuum cleaner while the machine is off.",
+   "narration": "定期清理积灰，不给火留燃料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "日常检查，事后报告",
+   "scene": "老周和王老师在空白记录本上填写事故记录",
+   "prompt_en": "The older man and the safety administrator fill in a blank incident record book together.",
+   "narration": "小火也要如实报告、记录原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现急停、灭火器、119、锁、检查表五个图标",
+   "prompt_en": "The panda mascot stands beside five icons: an emergency stop button, a fire extinguisher, a phone with 119, a padlock, and a checklist.",
+   "narration": "先停激光，小火扑救，大火报警。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰站在机旁认真看着观察窗",
+   "prompt_en": "The young male student stands beside the closed machine, attentively watching through the viewing window.",
+   "narration": "有人看管、断电检修、勤查勤扫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、小研、老李在切割机旁挥手",
+   "prompt_en": "The panda mascot waves goodbye with the young male student, the female graduate student and the facility engineer beside the laser cutting machine.",
+   "narration": "小火早发现，大事不发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

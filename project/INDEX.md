@@ -1,21 +1,21 @@
 # 卡通教学视频制作目录
 
-已编写 300 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 301 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 6 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 22 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 23 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 18 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 11 / 23 |
 | Lab Safety Training Series | 13 / 13 | 8 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 6 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 8 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
+| Electrical Safety Series | 11 / 25 | 6 / 6 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
-| Electrical Safety Series | 10 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 5 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 7 / 9 |
@@ -166,6 +166,7 @@
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 原著版 | 风险评估怎么做 | 40 | 3:20 | 29 / 0 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT/script.md>) |
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 国内版 | 风险评估怎么做（国内版） | 46 | 3:50 | 29 / 5 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 39_BIOSAFETY LEVEL 3 LABORATORY | 国内版 | 三级室怎么封（国内版） | 30 | 2:30 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 原著版 | 楼和柜子怎么挡住病原体：工程控制 | 129 | 10:45 | 30 / 0 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 国内版 | 楼和柜子怎么挡住病原体：工程控制（国内版） | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT | 国内版 | 最后一道防线：个人防护（国内版） | 92 | 7:40 | 19 / 3 | [剧本](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS | 国内版 | 写下来，照着做：管理控制（国内版） | 109 | 9:05 | 23 / 3 | [剧本](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS（国内版）/审查报告.md>) |
@@ -243,6 +244,7 @@
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 原著版 | 用电安全知识问答 | 98 | 8:10 | 27 / 0 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu/script.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
 | Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 单一版 | 便携式发电机安全使用 | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) · [审查](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/审查报告.md>) |
+| Electrical Safety Series | 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE | 单一版 | 电焊机使用前检查 | 47 | 3:55 | 12 / 4 | [剧本](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE/script.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 单一版 | 漏电保护器的灵敏度档位 | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 单一版 | 电线的颜色：认得清，更要验得准 | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/审查报告.md>) |
@@ -276,6 +278,7 @@
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 国内版 | 移液器具与标准溶液（国内版） | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 原著版 | 强酸强碱滴定 | 71 | 5:55 | 25 / 0 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base/script.md>) |
 | Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 国内版 | 强酸强碱滴定（国内版） | 96 | 8:00 | 25 / 8 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 09_Performing Thin Layer Chromatography (TLC) | 原著版 | 薄层色谱的操作与安全 | 72 | 6:00 | 24 / 0 | [剧本](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)/script.md>) |
 | Fume Hood & Cabinet Protocols | 09_Performing Thin Layer Chromatography (TLC) | 国内版 | 薄层色谱的操作与安全（国内版） | 97 | 8:05 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 10_Performing Column Chromatography | 国内版 | 柱色谱的操作与安全（国内版） | 103 | 8:35 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 11_Physically Constructing a Galvanic Cell (Electrochemistry) | 国内版 | 动手搭一个原电池（国内版） | 74 | 6:10 | 15 / 7 | [剧本](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/审查报告.md>) |
@@ -394,7 +397,7 @@
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 国内版 | 读懂气瓶上的标记（国内版） | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 原著版 | 过氧化物试纸检测 | 33 | 2:45 | 11 / 0 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/script.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 国内版 | 过氧化物试纸检测（国内版） | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/审查报告.md>) |
-| Laboratory Ergonomics & RSI | 01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O | 单一版 | 安全日知识竞赛：二十道综合安全题 | 123 | 10:15 | 22 / 8 | [剧本](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O/script.md>) |
+| Laboratory Ergonomics & RSI | 01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O | 单一版 | 安全日知识竞赛：二十道综合安全题 | 123 | 10:15 | 22 / 8 | [剧本](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O/script.md>) · [审查](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
@@ -412,7 +415,7 @@
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 原著版 | 激光切割机：规程更新须知 | 24 | 2:00 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto | 单一版 | 看懂激光切割，也看懂它的危险 | 48 | 4:00 | 5 / 8 | [剧本](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto/script.md>) · [审查](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto/审查报告.md>) |
-| Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 单一版 | 风琴管着火了怎么办 | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020/script.md>) |
+| Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 单一版 | 风琴管着火了怎么办 | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020/script.md>) · [审查](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 国内版 | 生物安全第一课：防护与风险评估（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/审查报告.md>) |
