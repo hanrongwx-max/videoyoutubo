@@ -1,0 +1,148 @@
+# 05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ 卡通剧本作者源
+# 原著版：完全照原片（10 道消防基础选择题，读题后公布答案），K1–K11，不加补充知识点、不做更正；
+# 保留原片答案：A 类火、动火作业（磨削 / 切割 / 焊接）、PASS、背对出口、先救直接危险中的人、离火 3 米（D）、
+# 火三角、易熔连杆不是热传递方式、紧急时“完成实验”不用考虑、灭火三法
+# 频道名和干扰口诀不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "消防基础自测：十道题测测你",
+    "edition": "原著版",
+    "points": {
+        "K1": "消防基础十题",
+        "K2": "固体火是A类",
+        "K3": "哪些算动火作业",
+        "K4": "灭火器口诀",
+        "K5": "背对出口去灭火",
+        "K6": "先救危险中的人",
+        "K7": "离火保持安全距离",
+        "K8": "火三角",
+        "K9": "热传递的三种方式",
+        "K10": "紧急时别管实验",
+        "K11": "灭火三法",
+    },
+    "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "PALS"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣举着一张空白测验卡，身旁是消防车图标",
+ "The panda mascot holds a blank quiz card next to a small fire truck icon and waves at the camera.",
+ "十道消防基础题，测测你！", "消防基础自测：十道题测测你"),
+# 情景
+("情景", "阿杰在通风柜前做实验，突然警铃响",
+ "The young male student works at a fume hood when a fire alarm bell suddenly rings in the corridor.",
+ "警铃响了，阿杰的实验还差最后一步。"),
+("情景", "阿杰犹豫地看看实验，又看看门口",
+ "The young male student hesitates, looking back and forth between his experiment and the door.",
+ "他犹豫：做完再走，还是马上走？"),
+("情景", "欣欣在门口招手，示意他出来",
+ "The panda mascot waves from the doorway, signaling him to come out.",
+ "答案在第九题，我们一题题来。"),
+# K1
+("K1", "十张空白题卡排成一行",
+ "Ten blank quiz cards in a row on a table. No people.",
+ "每题四个选项，选出正确的。", "消防基础十题", ["10道题"]),
+# K2
+("K2", "木块、塑料盒、纸张和四个分类框",
+ "A wooden block, a plastic box and paper sheets next to four blank category boxes. No people.",
+ "第一题：木材、塑料、纸张属哪类火？", "固体火是A类"),
+("K2", "三样东西落入同一个框，框上画固体块图标",
+ "The three items drop into one box marked with a solid block icon. No people.",
+ "C、A、D、B四类？答案B，A类火。", "", ["B A类火"]),
+# K3
+("K3", "磨光机火花、切割火花、焊接火花三个图标",
+ "Three icons with sparks: an angle grinder on metal, a cutting torch and a welding torch. No people.",
+ "第二题：哪些活儿算动火作业？", "哪些算动火作业", ["磨削", "切割", "焊接"]),
+("K3", "三个图标一起打勾",
+ "All three spark icons get green check marks. No people.",
+ "磨削黑色金属、切割、焊接，答案D。", "", ["D 以上皆是"]),
+# K4
+("K4", "三个口诀卡片，其中一张亮起",
+ "Three blank acronym cards; one lights up. No people.",
+ "第三题：用灭火器的口诀是哪个？", "灭火器口诀"),
+("K4", "四个手势图标：拔销、对准、压把、扫射",
+ "Four step icons: pulling a pin, aiming a nozzle, squeezing a handle and sweeping. No people.",
+ "答案C，PASS：拔、瞄、压、扫。", "", ["C PASS", "拔销", "对准", "压把", "扫射"]),
+# K5
+("K5", "小研灭火，身后是绿色安全出口",
+ "The female graduate student fights a small fire with a green emergency exit sign behind her.",
+ "第四题：灭火时怎么站？", "背对出口去灭火"),
+("K5", "朝南朝北的指南针图标打叉",
+ "A compass icon pointing north and south, crossed out with a red X. No people.",
+ "和东南西北无关。"),
+("K5", "背后出口的箭头亮起",
+ "An arrow from the person's back to the exit lights up. No people.",
+ "答案A，背对安全出口，面朝外。", "", ["A 背对出口"]),
+# K6
+("K6", "烟雾中一个人被困，旁边有人在安全处",
+ "In a smoky room, one person is trapped near the fire while others are safe near the door.",
+ "第五题：着火了，先救谁？", "先救危险中的人"),
+("K6", "被困者头顶红色感叹号",
+ "A red exclamation icon above the trapped person.",
+ "答案C，先救处在直接危险中的人。", "", ["C 直接危险者"]),
+# K7
+("K7", "人与火之间一条虚线",
+ "A dashed line between a person icon and a flame. No people.",
+ "第六题：灭火时离火多远？", "离火保持安全距离"),
+("K7", "合适距离的图标打勾",
+ "An icon of a person standing at a marked distance from the flame gets a green check. No people.",
+ "五、六、十、三米？答案D，三米。", "", ["D 3米"]),
+# K8
+("K8", "红色三角形，三边是火焰、木块、空气图标",
+ "A red triangle with a flame, a block of wood and an air swirl on its sides. No people.",
+ "第七题：火三角是哪三样？", "火三角", ["热", "氧气", "可燃物"]),
+("K8", "三角形三边亮起，二氧化碳选项打叉",
+ "The three sides of the triangle light up, while a carbon dioxide option icon is crossed out. No people.",
+ "答案C，热、氧气、可燃物。", "", ["C"]),
+# K9
+("K9", "四个图标：熔断的小金属片、热棒、太阳光线、上升气流",
+ "Four icons: a small melting metal link, a hot metal rod, radiating heat rays and rising hot air. No people.",
+ "第八题：哪个不是热传递方式？", "热传递的三种方式"),
+("K9", "热棒、光线、气流三个图标亮起",
+ "The hot rod, heat rays and rising air icons light up. No people.",
+ "传导、辐射、对流，才是热传递。", "", ["传导", "辐射", "对流"]),
+("K9", "熔断的小金属片图标被圈出",
+ "The small melting metal link icon is circled in red. No people.",
+ "答案A，易熔连杆不是热传递方式。", "", ["A 易熔连杆"]),
+# K10
+("K10", "警铃响，四个选项图标：应急程序、引导员、实验装置、集合点",
+ "An alarm bell rings beside four icons: an emergency plan sheet, a person with a vest, an experiment setup and an assembly point. No people.",
+ "第九题：紧急时，哪件事不用管？", "紧急时别管实验"),
+("K10", "实验装置图标被打叉",
+ "The experiment setup icon is crossed out with a red X. No people.",
+ "答案C：完成实验。", "", ["C 完成实验"]),
+("K10", "应急程序、引导员、集合点三个图标打勾",
+ "The emergency plan, the person in a vest and the assembly point icons get green checks. No people.",
+ "要记住应急程序、听引导员、去集合点。"),
+("K10", "阿杰放下实验，跟着小研走出门",
+ "The young male student leaves his experiment and follows the female graduate student out of the lab.",
+ "阿杰放下实验，立即离开。"),
+# K11
+("K11", "三个图标：移走的木块、盖子、水滴",
+ "Three icons: a wooden block being moved away, a lid over a pan and a water drop. No people.",
+ "第十题：灭火有哪些方法？", "灭火三法", ["隔离", "窒息", "冷却"]),
+("K11", "三个图标依次亮起打勾",
+ "The three icons light up one by one with green checks. No people.",
+ "隔离、窒息、冷却，答案D全部。", "", ["D 以上皆是"]),
+# 小结
+("小结", "欣欣在白板前",
+ "The panda mascot stands in front of a whiteboard with fire safety icons.",
+ "十题答完，回顾一下。", "小结"),
+("小结", "图标：A类火、火花、四步口诀",
+ "Icons: a solid block, a spark and four extinguisher step icons. No people.",
+ "固体是A类，磨割焊都是动火，PASS。"),
+("小结", "图标：背对出口、三米尺、火三角",
+ "Icons: a person with an exit behind, a short measuring tape and a fire triangle. No people.",
+ "背对出口，离火三米，记住火三角。", "", ["背对出口", "3米"]),
+("小结", "图标：熔断金属片打叉、实验装置打叉、集合点",
+ "Icons: a crossed-out melting metal link, a crossed-out experiment setup and an assembly point. No people.",
+ "易熔连杆不传热，紧急时别管实验。"),
+("小结", "阿杰在集合点竖起大拇指",
+ "The young male student stands at the assembly point and gives a thumbs up.",
+ "阿杰说：十题我都答对了。"),
+# 结尾
+("结尾", "欣欣挥手告别",
+ "The panda mascot waves goodbye at the camera.",
+ "消防知识常温习，下次见！"),
+]
