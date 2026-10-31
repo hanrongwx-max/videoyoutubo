@@ -1,0 +1,945 @@
+{
+ "id": "19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "星形与三角形：三相电路口试问答",
+ "seconds": 335,
+ "source_doc": "course/Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B.md",
+ "author_source": "project/Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B/src.py",
+ "points": {
+  "K1": "先看实验演示，再复习",
+  "K2": "线电压与相电压",
+  "K3": "星形与三角形各用在哪",
+  "K4": "三相三线制与三相四线制",
+  "K5": "星形连接的线相关系",
+  "K6": "三相异步电动机怎样转",
+  "K7": "口试答要点",
+  "K8": "三相同步发电机怎样发电",
+  "K9": "什么是转差率",
+  "K10": "换向器：机械整流器",
+  "K11": "转子频率与定子频率",
+  "K12": "旋转磁场",
+  "K13": "同步转速",
+  "K14": "交流发电机的电动势方程",
+  "K15": "三角形连接的线相关系",
+  "K16": "打牢基础，有疑问就问",
+  "S1": "中性线也可能带电",
+  "S2": "转动部件防卷入",
+  "S3": "断电后，电机还会转一会儿",
+  "S4": "发电机一转，端子就有电",
+  "S5": "缺相、异响、过热：立即停机"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三相实验台前，台上有三盏灯和一台小电动机",
+   "prompt_en": "The panda mascot stands at a three-phase lab bench with three lamps and a small electric motor, waving at the camera.",
+   "narration": "大家好！今天复习三相电路口试题。",
+   "overlay": [
+    "星形与三角形：三相电路口试问答"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "星形、三角形、电动机、发电机四个图标",
+   "prompt_en": "Four icons in a row: a star connection, a triangle connection, a motor and a generator. No people.",
+   "narration": "从星三角，一路讲到电机。",
+   "overlay": [],
+   "labels": [
+    "星形",
+    "三角形",
+    "电动机",
+    "发电机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着空白笔记本挠头，本子上画着三根线一根中线",
+   "prompt_en": "The young male student scratches his head over a notebook showing four parallel line icons.",
+   "narration": "阿杰总分不清线电压和相电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在白板前画四根线，阿杰认真看",
+   "prompt_en": "The female graduate student draws four parallel lines on a whiteboard while the young male student watches closely.",
+   "narration": "小研说：画出四根线，一看就懂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣竖起大拇指",
+   "prompt_en": "The panda mascot gives a thumbs up.",
+   "narration": "跟着我们一道一道来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看实验演示，再复习",
+   "scene": "阿杰在平板上看空白屏幕的实验演示，手边是空白笔记本",
+   "prompt_en": "The young male student watches a lab demonstration on a tablet with a blank screen, a blank notebook beside him.",
+   "narration": "先看实验演示，弄懂怎么做。",
+   "overlay": [
+    "先看实验演示，再复习"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看实验演示，再复习",
+   "scene": "实验台图标和问号卡片用箭头相连",
+   "prompt_en": "A lab bench icon linked by an arrow to a card with a question mark. No people.",
+   "narration": "再回头复习口试题，事半功倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "线电压与相电压",
+   "scene": "四根水平线图标，分别标 R、Y、B、N",
+   "prompt_en": "An icon of four horizontal lines marked R, Y, B and N. No people.",
+   "narration": "第一题：线电压和相电压有何不同？",
+   "overlay": [
+    "线电压与相电压"
+   ],
+   "labels": [
+    "R",
+    "Y",
+    "B",
+    "N"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "线电压与相电压",
+   "scene": "两根相线之间画一个电压箭头",
+   "prompt_en": "A voltage arrow drawn between two of the top three lines. No people.",
+   "narration": "任意两根相线之间的电压，叫线电压。",
+   "overlay": [],
+   "labels": [
+    "VRY",
+    "VYB",
+    "VBR"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "线电压与相电压",
+   "scene": "一根相线和中性线之间画一个电压箭头",
+   "prompt_en": "A voltage arrow drawn between one top line and the bottom neutral line. No people.",
+   "narration": "相线和中性线之间的电压，叫相电压。",
+   "overlay": [],
+   "labels": [
+    "VRN",
+    "VYN",
+    "VBN"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "线电压与相电压",
+   "scene": "欣欣指着两种箭头",
+   "prompt_en": "The panda mascot points at the two different voltage arrows on a board.",
+   "narration": "很多人会混，做实验前一定弄清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "星形与三角形各用在哪",
+   "scene": "星形连接图标旁一个高电压图标",
+   "prompt_en": "A star connection icon next to a tall voltage bar and a thin current arrow. No people.",
+   "narration": "第二题：星形适合高电压、小电流。",
+   "overlay": [
+    "星形与三角形各用在哪"
+   ],
+   "labels": [
+    "星形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "星形与三角形各用在哪",
+   "scene": "三角形连接图标旁一个粗电流箭头",
+   "prompt_en": "A triangle connection icon next to a thick current arrow and a short voltage bar. No people.",
+   "narration": "三角形适合大电流、低电压。",
+   "overlay": [],
+   "labels": [
+    "三角形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "星形与三角形各用在哪",
+   "scene": "星形和三角形两个图标并排",
+   "prompt_en": "A star icon and a triangle icon side by side. No people.",
+   "narration": "三相连接，就这两种基本方式。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相三线制与三相四线制",
+   "scene": "三角形连接引出三根线",
+   "prompt_en": "A triangle connection icon with three lines leading out. No people.",
+   "narration": "第三题：三角形是三相三线制。",
+   "overlay": [
+    "三相三线制与三相四线制"
+   ],
+   "labels": [
+    "三相三线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相三线制与三相四线制",
+   "scene": "星形连接引出三根线和中心一根中性线",
+   "prompt_en": "A star connection icon with three lines plus a neutral line from the center point. No people.",
+   "narration": "星形引出中性线，就是三相四线制。",
+   "overlay": [],
+   "labels": [
+    "三相四线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形连接的线相关系",
+   "scene": "星形连接，线电流和相电流箭头同一条路径",
+   "prompt_en": "A star connection icon where the line current arrow continues straight into the phase winding. No people.",
+   "narration": "第四题：星形连接，线电流等于相电流。",
+   "overlay": [
+    "星形连接的线相关系"
+   ],
+   "labels": [
+    "IL=Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形连接的线相关系",
+   "scene": "星形连接，线电压箭头比相电压箭头长",
+   "prompt_en": "A star connection icon with a long line-voltage arrow and a shorter phase-voltage arrow. No people.",
+   "narration": "线电压是相电压的根号三倍。",
+   "overlay": [],
+   "labels": [
+    "VL=√3Vph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相异步电动机怎样转",
+   "scene": "定子圆环和中间转子的电动机剖面图标",
+   "prompt_en": "A cross-section icon of a motor: an outer stator ring and an inner rotor. No people.",
+   "narration": "第五题：三相异步电动机怎样转？",
+   "overlay": [
+    "三相异步电动机怎样转"
+   ],
+   "labels": [
+    "定子",
+    "转子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相异步电动机怎样转",
+   "scene": "三相电线接到定子，箭头绕圈旋转",
+   "prompt_en": "Three supply lines feeding the stator ring, with curved arrows circling around it. No people.",
+   "narration": "三相电通进定子，产生旋转磁场。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相异步电动机怎样转",
+   "scene": "旋转磁场扫过转子，转子导条亮起",
+   "prompt_en": "A rotating field sweeping across the rotor, the rotor bars lighting up. No people.",
+   "narration": "磁场切割转子，感应出电动势和电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相异步电动机怎样转",
+   "scene": "转子跟着转动，闪电图标变成齿轮图标",
+   "prompt_en": "The rotor starts turning; a lightning icon transforms into a gear icon. No people.",
+   "narration": "转子就转起来，电能变成机械能。",
+   "overlay": [],
+   "labels": [
+    "电能→机械能"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相异步电动机怎样转",
+   "scene": "电动机图标和变压器图标之间画约等号",
+   "prompt_en": "A motor icon and a transformer icon linked by an approximately-equal sign. No people.",
+   "narration": "原理是电磁感应，又叫旋转变压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "口试答要点",
+   "scene": "阿杰对王老师简短回答，王老师点头",
+   "prompt_en": "The young male student answers briefly to the safety administrator, who nods.",
+   "narration": "口试答出要点就够，不必长篇。",
+   "overlay": [
+    "口试答要点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三相同步发电机怎样发电",
+   "scene": "发电机剖面图标：转子连着原动机",
+   "prompt_en": "A cross-section icon of a generator: the rotor shaft linked to an external engine icon. No people.",
+   "narration": "第六题：同步发电机怎样发电？",
+   "overlay": [
+    "三相同步发电机怎样发电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三相同步发电机怎样发电",
+   "scene": "转子绕组接直流电源图标",
+   "prompt_en": "The rotor winding connected to a small DC source icon. No people.",
+   "narration": "转子绕组通直流电，进行励磁。",
+   "overlay": [],
+   "labels": [
+    "直流励磁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三相同步发电机怎样发电",
+   "scene": "原动机带转子旋转，磁场随之转动",
+   "prompt_en": "The engine icon spins the rotor and a magnetic field turns with it. No people.",
+   "narration": "原动机带着转子转，磁场跟着转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三相同步发电机怎样发电",
+   "scene": "定子引出三根线，三条正弦波",
+   "prompt_en": "Three lines leading out of the stator, each with a sine wave. No people.",
+   "narration": "定子里就感应出三相电动势。",
+   "overlay": [],
+   "labels": [
+    "机械能→电能"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是转差率",
+   "scene": "两个转速表图标，一个略快一个略慢",
+   "prompt_en": "Two speed dial icons, one slightly ahead of the other. No people.",
+   "narration": "第七题：什么是转差率？",
+   "overlay": [
+    "什么是转差率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是转差率",
+   "scene": "白板上写着转差率公式",
+   "prompt_en": "A whiteboard with a slip formula in symbols only. No people.",
+   "narration": "同步转速减转子转速，再除以同步转速。",
+   "overlay": [],
+   "labels": [
+    "s=(Ns−N)/Ns"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是转差率",
+   "scene": "百分号图标",
+   "prompt_en": "A large percent sign icon. No people.",
+   "narration": "通常用百分数表示。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "换向器：机械整流器",
+   "scene": "直流发电机端部的换向器图标",
+   "prompt_en": "An icon of the commutator segments at the end of a DC generator shaft. No people.",
+   "narration": "第八题：谁叫机械整流器？换向器。",
+   "overlay": [
+    "换向器：机械整流器"
+   ],
+   "labels": [
+    "换向器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "换向器：机械整流器",
+   "scene": "正弦波经过换向器变成一条单向波形",
+   "prompt_en": "A sine wave passing through a commutator icon and coming out as a one-direction wave. No people.",
+   "narration": "它把绕组里的交流变成直流输出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "转子频率与定子频率",
+   "scene": "定子频率和转子频率两个波形，转子的更稀疏",
+   "prompt_en": "Two wave icons: a dense stator wave and a much sparser rotor wave. No people.",
+   "narration": "第九题：转子频率等于转差率乘定子频率。",
+   "overlay": [
+    "转子频率与定子频率"
+   ],
+   "labels": [
+    "f′=s·f"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "旋转磁场",
+   "scene": "三相绕组产生的合成磁场箭头在圆内旋转",
+   "prompt_en": "A resultant field arrow rotating inside a circle formed by three windings. No people.",
+   "narration": "第十题：三相电进定子，就有旋转磁场。",
+   "overlay": [
+    "旋转磁场"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "旋转磁场",
+   "scene": "合成磁通箭头比单相磁通箭头长一截",
+   "prompt_en": "A long resultant flux arrow beside a shorter single-phase flux arrow. No people.",
+   "narration": "合成磁通约为每相最大值的一点五倍。",
+   "overlay": [],
+   "labels": [
+    "ΦR=1.5Φm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "旋转磁场",
+   "scene": "旋转磁场扫过转子产生电流",
+   "prompt_en": "The rotating field sweeping the rotor and inducing current. No people.",
+   "narration": "它正是转子电动势的来源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "同步转速",
+   "scene": "旋转磁场箭头和转速表",
+   "prompt_en": "A rotating field arrow beside a speed dial icon. No people.",
+   "narration": "十一题：同步转速是旋转磁场的转速。",
+   "overlay": [
+    "同步转速"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "同步转速",
+   "scene": "白板上写着同步转速公式",
+   "prompt_en": "A whiteboard with a synchronous speed formula in symbols only. No people.",
+   "narration": "等于一百二十乘频率，再除以极数。",
+   "overlay": [],
+   "labels": [
+    "Ns=120f/P"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "同步转速",
+   "scene": "转子比磁场略慢的图标",
+   "prompt_en": "A rotor arrow trailing slightly behind a field arrow. No people.",
+   "narration": "它不是转子的实际转速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "交流发电机的电动势方程",
+   "scene": "白板上写着发电机电动势方程",
+   "prompt_en": "A whiteboard with an alternator EMF equation in symbols only. No people.",
+   "narration": "十二题：交流发电机电动势方程。",
+   "overlay": [
+    "交流发电机的电动势方程"
+   ],
+   "labels": [
+    "E=4.44f·Φm",
+    "·Tph·Kp·Kd"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "交流发电机的电动势方程",
+   "scene": "两个小系数卡片图标",
+   "prompt_en": "Two small blank coefficient cards beside the equation. No people.",
+   "narration": "Kp 是节距因数，Kd 是分布因数。",
+   "overlay": [],
+   "labels": [
+    "Kp 节距因数",
+    "Kd 分布因数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "三角形连接的线相关系",
+   "scene": "三角形连接，线电压和相电压箭头一样长",
+   "prompt_en": "A triangle connection icon with equal-length line-voltage and phase-voltage arrows. No people.",
+   "narration": "补充：三角形连接，线电压等于相电压。",
+   "overlay": [
+    "三角形连接的线相关系"
+   ],
+   "labels": [
+    "VL=Vph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "三角形连接的线相关系",
+   "scene": "三角形连接，线电流箭头比相电流粗",
+   "prompt_en": "A triangle connection icon with a thicker line-current arrow than the phase-current arrow. No people.",
+   "narration": "线电流是相电流的根号三倍。",
+   "overlay": [],
+   "labels": [
+    "IL=√3Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "打牢基础，有疑问就问",
+   "scene": "阿杰翻开空白教材，旁边空白笔记本",
+   "prompt_en": "The young male student opens a blank textbook beside his blank notebook.",
+   "narration": "多看教材，把基础打牢。",
+   "overlay": [
+    "打牢基础，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "打牢基础，有疑问就问",
+   "scene": "阿杰举手，王老师走过来",
+   "prompt_en": "The young male student raises his hand and the safety administrator walks over.",
+   "narration": "有疑问，随时问老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "中性线也可能带电",
+   "scene": "中性线图标上也闪着电流箭头",
+   "prompt_en": "An icon of the neutral line with a current arrow and a small lightning symbol on it. No people.",
+   "narration": "三相负载不平衡，中性线有电流。",
+   "overlay": [
+    "中性线也可能带电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "中性线也可能带电",
+   "scene": "徒手去碰中性线端子的图标被红叉划掉",
+   "prompt_en": "An icon of a bare hand reaching for a neutral terminal, crossed out with a red X. No people.",
+   "narration": "中性线不是安全线，不能徒手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "中性线也可能带电",
+   "scene": "阿杰先拉下三相总开关，再拆中性线",
+   "prompt_en": "The young male student switches off the three-phase bench switch before disconnecting the neutral lead.",
+   "narration": "拆中性线，也要先断开电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "转动部件防卷入",
+   "scene": "电动机转轴和联轴器外有防护罩",
+   "prompt_en": "A small motor with a guard cover over its shaft and coupling. No people.",
+   "narration": "电机转轴有护罩，不能拆掉。",
+   "overlay": [
+    "转动部件防卷入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "转动部件防卷入",
+   "scene": "长发、围巾、松袖口靠近转轴的图标被红叉划掉",
+   "prompt_en": "Icons of long loose hair, a scarf and a loose sleeve near a spinning shaft, crossed out with a red X. No people.",
+   "narration": "长发、围巾、松袖口远离转轴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "转动部件防卷入",
+   "scene": "小研扎好头发、扣紧袖口，站在电机侧面",
+   "prompt_en": "The female graduate student with hair tied back and sleeves buttoned stands to the side of a running motor.",
+   "narration": "运行时站在侧面，手不伸向转动部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电后，电机还会转一会儿",
+   "scene": "电源已断开，电机转子仍在转动的图标",
+   "prompt_en": "An icon of a switched-off power switch beside a motor rotor still spinning with motion lines. No people.",
+   "narration": "断电后，转子还会靠惯性转一会儿。",
+   "overlay": [
+    "断电后，电机还会转一会儿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电后，电机还会转一会儿",
+   "scene": "伸手按住转轴刹车的图标被红叉划掉",
+   "prompt_en": "An icon of a hand grabbing a spinning shaft to stop it, crossed out with a red X. No people.",
+   "narration": "千万别用手去按停转轴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电后，电机还会转一会儿",
+   "scene": "阿杰等转轴完全停下，才去拆线",
+   "prompt_en": "The young male student waits until the motor shaft has completely stopped before removing leads.",
+   "narration": "等它完全停稳，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "发电机一转，端子就有电",
+   "scene": "原动机带发电机转动，输出端子闪着闪电符号",
+   "prompt_en": "An engine icon spinning a generator, lightning symbols glowing on the generator output terminals. No people.",
+   "narration": "发电机一转起来，输出端就有电压。",
+   "overlay": [
+    "发电机一转，端子就有电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "发电机一转，端子就有电",
+   "scene": "没接电源就以为端子没电，伸手去碰的图标被红叉划掉",
+   "prompt_en": "An icon of a hand touching generator terminals while the shaft turns, crossed out with a red X. No people.",
+   "narration": "没接外电源，也不代表没电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "发电机一转，端子就有电",
+   "scene": "老周先让原动机停下，再接线",
+   "prompt_en": "The older man stops the engine and waits for the generator to stand still before connecting leads.",
+   "narration": "接线改线，先停原动机，转子停稳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "缺相、异响、过热：立即停机",
+   "scene": "电机嗡嗡响却不转，三根线中一根断开",
+   "prompt_en": "An icon of a humming motor that will not turn, with one of its three supply lines broken. No people.",
+   "narration": "缺一相，电机嗡嗡响却转不动。",
+   "overlay": [
+    "缺相、异响、过热：立即停机"
+   ],
+   "labels": [
+    "缺相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "缺相、异响、过热：立即停机",
+   "scene": "电机冒热气、发出异响的图标",
+   "prompt_en": "An icon of a motor with heat waves, a smoke wisp and jagged noise lines. No people.",
+   "narration": "异响、振动、发烫、焦味，都是警报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "缺相、异响、过热：立即停机",
+   "scene": "阿杰立即拉下总开关，转身向王老师报告",
+   "prompt_en": "The young male student immediately switches off the main bench switch and turns to report to the safety administrator.",
+   "narration": "立即断电停机，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "缺相、异响、过热：立即停机",
+   "scene": "电机挂上空白停用牌",
+   "prompt_en": "A motor with a blank out-of-service tag hanging on it. No people.",
+   "narration": "查清原因前，不再通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四线图标标出线电压和相电压",
+   "prompt_en": "A four-line icon with one voltage arrow between two phases and one between a phase and neutral. No people.",
+   "narration": "线间是线电压，线对中性线是相电压。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "星形和三角形并排，各配关系卡片",
+   "prompt_en": "A star icon and a triangle icon side by side, each with a small relation card. No people.",
+   "narration": "星形线压根号三倍，三角形线流根号三倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电动机和发电机图标，中间双向箭头",
+   "prompt_en": "A motor icon and a generator icon with a two-way arrow between them. No people.",
+   "narration": "电动机电变机，发电机机变电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "中性线、护罩、停转、发电机端子四个警示图标",
+   "prompt_en": "Four caution icons: a neutral line, a shaft guard, a stopping rotor, and generator terminals. No people.",
+   "narration": "中性线会带电，转动的电机别伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在断电、电机停稳的实验台前挥手",
+   "prompt_en": "The panda mascot waves goodbye at a switched-off bench with the motor standing still.",
+   "narration": "祝口试顺利，安全用电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
