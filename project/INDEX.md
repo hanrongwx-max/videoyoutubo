@@ -22,7 +22,7 @@
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
-| Health Physics & Nuclear Medicine | 9 / 9 | 6 / 9 |
+| Health Physics & Nuclear Medicine | 9 / 9 | 7 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
@@ -404,6 +404,7 @@
 | Health Physics & Nuclear Medicine | 05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual | 国内版 | 现场剂量测量：测环境，也测自己（国内版） | 117 | 9:45 | 17 / 6 | [剧本](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on | 原著版 | 辐射防护习题课：八道题里的安全道理 | 118 | 9:50 | 24 / 0 | [剧本](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on/script.md>) |
 | Health Physics & Nuclear Medicine | 06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on | 国内版 | 辐射防护习题课：八道题里的安全道理（国内版） | 134 | 11:10 | 24 / 7 | [剧本](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（国内版）/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea | 原著版 | 辐射为什么伤人，又怎样治病 | 76 | 6:20 | 15 / 0 | [剧本](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea/script.md>) |
 | Health Physics & Nuclear Medicine | 07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea | 国内版 | 辐射为什么伤人，又怎样治病（国内版） | 113 | 9:25 | 15 / 6 | [剧本](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals | 国内版 | 核医学入门：把“小灯泡”送进身体（国内版） | 95 | 7:55 | 15 / 4 | [剧本](<Health Physics & Nuclear Medicine/08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/08_Health Physics Lecture B Nuclear Medicine Physics & Radiopharmaceuticals（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv | 国内版 | 挑一颗好核素：有效半衰期的秘密（国内版） | 114 | 9:30 | 22 / 5 | [剧本](<Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv（国内版）/审查报告.md>) |
