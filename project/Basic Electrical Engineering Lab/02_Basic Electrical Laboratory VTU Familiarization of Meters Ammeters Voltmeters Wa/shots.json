@@ -1,0 +1,911 @@
+{
+ "id": "02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "认识电工实验室的四种仪表",
+ "seconds": 320,
+ "source_doc": "course/Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa.md",
+ "author_source": "project/Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa/src.py",
+ "points": {
+  "K1": "先熟悉四种仪表",
+  "K2": "电流表：测电流",
+  "K3": "电流表要串联",
+  "K4": "电流表内阻很小",
+  "K5": "交流表与直流表",
+  "K6": "双量程：读对刻度",
+  "K7": "电流表的连接导线",
+  "K8": "电压表：测电压，内阻大",
+  "K9": "电压表要并联",
+  "K10": "电压表的分类",
+  "K11": "动圈式与动铁式电压表",
+  "K12": "功率表测有功功率",
+  "K13": "电流线圈串、电压线圈并",
+  "K14": "四个接线端：M、L、C、V",
+  "K15": "功率表常数",
+  "K16": "单位功率因数表与低功率因数表",
+  "K17": "万用表：一表多用",
+  "K18": "模拟式与数字式",
+  "K19": "万用表的挡位和插孔",
+  "K20": "有效值与峰值",
+  "K21": "用表笔接入电路",
+  "K22": "做实验前回顾本讲"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在仪表柜前，柜里摆着几只指针式电表和一只万用表，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of an instrument cabinet holding several analog meters with blank dials and a multimeter, waving at the camera.",
+   "narration": "这一课认识电工实验室的四种仪表。",
+   "overlay": [
+    "认识电工实验室的四种仪表"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "电流表、电压表、功率表、万用表四个图标排成一行",
+   "prompt_en": "Four icons in a row: an ammeter, a voltmeter, a wattmeter and a multimeter, all with blank dials. No people.",
+   "narration": "电流表、电压表、功率表、万用表。",
+   "overlay": [],
+   "labels": [
+    "电流表",
+    "电压表",
+    "功率表",
+    "万用表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰面对桌上四只仪表，拿起又放下，不知道先用哪只",
+   "prompt_en": "The young male student faces four meters on the bench, picking one up and putting it down, unsure which to use.",
+   "narration": "阿杰看着一桌仪表，不知从哪下手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿起电流表和电压表各一只，放在他面前",
+   "prompt_en": "The female graduate student picks up an ammeter and a voltmeter and sets them in front of him.",
+   "narration": "小研说：每种表测什么、怎么接，先弄清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "表接对了，读数才准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先熟悉四种仪表",
+   "scene": "王老师把四只仪表依次摆在实验台上",
+   "prompt_en": "The safety administrator places four meters one by one on the lab bench.",
+   "narration": "做实验之前，先熟悉这四种仪表。",
+   "overlay": [
+    "先熟悉四种仪表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先熟悉四种仪表",
+   "scene": "四只仪表图标连到一块电路板，每只旁边有问号",
+   "prompt_en": "Four meter icons linked to a circuit board icon, each with a small question mark. No people.",
+   "narration": "每种表测什么、怎么接，都要弄清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电流表：测电流",
+   "scene": "圆圈里一个字母 A 的电流表符号，旁边是指针式电流表",
+   "prompt_en": "A circuit symbol of a circle with the letter A inside, next to an analog ammeter with a blank dial. No people.",
+   "narration": "电流表，用来测电路里的电流。",
+   "overlay": [
+    "电流表：测电流"
+   ],
+   "labels": [
+    "A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电流表：测电流",
+   "scene": "导线里流动的小箭头，汇入电流表",
+   "prompt_en": "Small arrows flowing along a wire into an ammeter icon. No people.",
+   "narration": "单位是安培，所以也叫安培表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电流表要串联",
+   "scene": "电池、电流表、负载首尾相连成一圈",
+   "prompt_en": "A circuit icon: a battery, an ammeter and a load connected end to end in a single loop. No people.",
+   "narration": "电流表要串联在电路里。",
+   "overlay": [
+    "电流表要串联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电流表要串联",
+   "scene": "箭头依次穿过电池、电流表、负载",
+   "prompt_en": "Arrows passing in turn through the battery, the ammeter and the load in a single loop. No people.",
+   "narration": "被测电流全部从表里流过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电流表内阻很小",
+   "scene": "电流表内部一个很小的电阻图标",
+   "prompt_en": "An ammeter icon with a cutaway showing a very small resistor inside. No people.",
+   "narration": "所以电流表的内阻做得很小。",
+   "overlay": [
+    "电流表内阻很小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电流表内阻很小",
+   "scene": "电流表两端只有很小的电压降，负载上电压基本不变",
+   "prompt_en": "An icon showing a tiny voltage drop arrow across the ammeter and a large one across the load. No people.",
+   "narration": "表上压降小，才不影响原电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "交流表与直流表",
+   "scene": "两只电流表并排：一只表盘有直线符号，一只有波浪符号",
+   "prompt_en": "Two analog ammeters side by side: one marked with a straight line symbol, the other with a wave symbol. No people.",
+   "narration": "电流表分直流和交流两种。",
+   "overlay": [
+    "交流表与直流表"
+   ],
+   "labels": [
+    "直流",
+    "交流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "交流表与直流表",
+   "scene": "直流表内部是可动线圈，交流表内部是铁片",
+   "prompt_en": "Two cutaway icons: a moving coil inside one meter, a moving iron vane inside the other. No people.",
+   "narration": "直流用动圈式，交流用动铁式。",
+   "overlay": [],
+   "labels": [
+    "动圈式",
+    "动铁式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "交流表与直流表",
+   "scene": "欣欣指着直线和波浪两个符号",
+   "prompt_en": "The panda mascot points at a straight line symbol and a wave symbol on a blank card.",
+   "narration": "直线是直流，波浪是交流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "双量程：读对刻度",
+   "scene": "一只电流表上三个接线柱，其中一个标为公共端",
+   "prompt_en": "An analog ammeter with three terminals on top, one of them highlighted as the common terminal. No people.",
+   "narration": "双量程表：公共端固定，另一端选量程。",
+   "overlay": [
+    "双量程：读对刻度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "双量程：读对刻度",
+   "scene": "表盘上有上下两条刻度，大量程连到上刻度",
+   "prompt_en": "A meter dial with an upper scale and a lower scale; an arrow links the higher range terminal to the upper scale. No people.",
+   "narration": "接大量程，看上刻度。",
+   "overlay": [],
+   "labels": [
+    "大量程→上刻度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "双量程：读对刻度",
+   "scene": "小量程接线柱连到下刻度",
+   "prompt_en": "The same dial; an arrow links the lower range terminal to the lower scale. No people.",
+   "narration": "接小量程，看下刻度。",
+   "overlay": [],
+   "labels": [
+    "小量程→下刻度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "双量程：读对刻度",
+   "scene": "阿杰盯着表盘皱眉，小研指向正确的刻度",
+   "prompt_en": "The young male student frowns at a meter dial; the female graduate student points to the correct scale.",
+   "narration": "很多人读错刻度，现在就要分清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流表的连接导线",
+   "scene": "一根粗导线接到电流表，旁边一张空白幻灯片卡片",
+   "prompt_en": "A thick wire connected to an ammeter, next to a blank presentation slide card. No people.",
+   "narration": "接电流表的导线，幻灯片上写用粗线。",
+   "overlay": [
+    "电流表的连接导线"
+   ],
+   "labels": [
+    "用粗导线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流表的连接导线",
+   "scene": "王老师拿起一根细导线讲解",
+   "prompt_en": "The safety administrator holds up a thin connecting wire while explaining at the bench.",
+   "narration": "讲解时说的是，用细线接上去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电压表：测电压，内阻大",
+   "scene": "圆圈里一个字母 V 的电压表符号，旁边是电压表",
+   "prompt_en": "A circuit symbol of a circle with the letter V inside, next to an analog voltmeter with a blank dial. No people.",
+   "narration": "电压表，测的是两点间的电压。",
+   "overlay": [
+    "电压表：测电压，内阻大"
+   ],
+   "labels": [
+    "V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电压表：测电压，内阻大",
+   "scene": "电压表内部一个很大的电阻图标",
+   "prompt_en": "A voltmeter icon with a cutaway showing a very large resistor inside. No people.",
+   "narration": "它的内阻做得很大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电压表：测电压，内阻大",
+   "scene": "流过电压表的电流箭头极细",
+   "prompt_en": "An icon of a voltmeter with only a hair-thin current arrow flowing through it. No people.",
+   "narration": "这样几乎不分走电流，不改变电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表要并联",
+   "scene": "电压表的两根线跨接在电阻两端",
+   "prompt_en": "A circuit icon: a battery, a resistor and a load in a loop, with a voltmeter connected across the two ends of the resistor. No people.",
+   "narration": "电压表要并联在被测元件两端。",
+   "overlay": [
+    "电压表要并联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表要并联",
+   "scene": "小研把电压表并接在电阻两端",
+   "prompt_en": "The female graduate student connects a voltmeter across a resistor on a circuit board.",
+   "narration": "比如测电阻两端的电压降。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表要并联",
+   "scene": "两张对照卡：电流表串联、电压表并联",
+   "prompt_en": "Two comparison cards: an ammeter in series in a loop, and a voltmeter connected in parallel across a resistor. No people.",
+   "narration": "记住：电流表串，电压表并。",
+   "overlay": [],
+   "labels": [
+    "电流表 串联",
+    "电压表 并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电压表的分类",
+   "scene": "一棵分类树图标，分出三根枝",
+   "prompt_en": "A tree diagram icon branching into three blank boxes. No people.",
+   "narration": "电压表可以从三个角度分类。",
+   "overlay": [
+    "电压表的分类"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电压表的分类",
+   "scene": "指针表和数字表并排",
+   "prompt_en": "An analog voltmeter with a needle next to a digital voltmeter with a blank display. No people.",
+   "narration": "按显示，分模拟式和数字式。",
+   "overlay": [],
+   "labels": [
+    "模拟式",
+    "数字式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电压表的分类",
+   "scene": "五个不同结构的表芯小图标",
+   "prompt_en": "Five small cutaway icons of different meter movements in a row. No people.",
+   "narration": "按结构，有整流式、动铁式、动圈式等。",
+   "overlay": [],
+   "labels": [
+    "整流式",
+    "动铁式",
+    "永磁动圈式",
+    "感应式",
+    "电动式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电压表的分类",
+   "scene": "直线和波浪两个符号被高亮",
+   "prompt_en": "A straight line symbol and a wave symbol highlighted with a glow. No people.",
+   "narration": "实验中最常用的是分交流、直流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "动圈式与动铁式电压表",
+   "scene": "直流电压表和交流电压表并排",
+   "prompt_en": "A DC voltmeter and an AC voltmeter side by side, dials blank except for the line and wave symbols. No people.",
+   "narration": "直流电压表是动圈式，交流是动铁式。",
+   "overlay": [
+    "动圈式与动铁式电压表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "动圈式与动铁式电压表",
+   "scene": "电压表的两个量程接线柱分别连向上、下刻度",
+   "prompt_en": "A voltmeter with two range terminals, arrows linking each terminal to the upper or lower scale. No people.",
+   "narration": "电压表也要按所接量程读刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "功率表测有功功率",
+   "scene": "功率表实物和一个灯泡",
+   "prompt_en": "An analog wattmeter with a blank dial next to a glowing light bulb. No people.",
+   "narration": "功率表测的是有功功率。",
+   "overlay": [
+    "功率表测有功功率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "功率表测有功功率",
+   "scene": "有功功率的柱子亮起，无功功率的柱子变灰",
+   "prompt_en": "Two bars: one labeled with a lit bulb icon glowing, the other with a coil icon greyed out. No people.",
+   "narration": "无功功率，它不测。",
+   "overlay": [],
+   "labels": [
+    "有功 √",
+    "无功 ×"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电流线圈串、电压线圈并",
+   "scene": "功率表内部两个线圈：一个粗线圈、一个细线圈",
+   "prompt_en": "A cutaway icon of a wattmeter with two coils inside: a thick current coil and a fine voltage coil. No people.",
+   "narration": "功率表里有两个线圈。",
+   "overlay": [
+    "电流线圈串、电压线圈并"
+   ],
+   "labels": [
+    "电流线圈",
+    "电压线圈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电流线圈串、电压线圈并",
+   "scene": "电流线圈串在负载回路，电压线圈跨接负载两端",
+   "prompt_en": "A circuit icon: the current coil in series with the load, the voltage coil connected across the load. No people.",
+   "narration": "电流线圈串联，电压线圈并联。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电流线圈串、电压线圈并",
+   "scene": "电流符号乘电压符号等于功率符号",
+   "prompt_en": "An icon equation: a current arrow times a voltage arrow equals a light bulb with rays. No people.",
+   "narration": "电流乘电压，就得到功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四个接线端：M、L、C、V",
+   "scene": "功率表顶部四个接线柱，旁边四个字母",
+   "prompt_en": "The top of an analog wattmeter with four terminals, each with a small blank tag. No people.",
+   "narration": "功率表有四个接线端。",
+   "overlay": [
+    "四个接线端：M、L、C、V"
+   ],
+   "labels": [
+    "M 电源侧",
+    "L 负载侧",
+    "C 公共端",
+    "V 电压端"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四个接线端：M、L、C、V",
+   "scene": "M 和 C 两个接线柱之间连一根短线",
+   "prompt_en": "A short jumper wire connecting two of the four wattmeter terminals. No people.",
+   "narration": "M 和 C 两端要用短线连起来。",
+   "overlay": [],
+   "labels": [
+    "M—C 短接"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四个接线端：M、L、C、V",
+   "scene": "旋钮和接线柱分别对应电压量程和电流量程",
+   "prompt_en": "The wattmeter's range terminals highlighted: one group for voltage range, one group for current range. No people.",
+   "narration": "电压、电流量程，按实验需要选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表常数",
+   "scene": "一张空白卡片上写着 K 的公式图示",
+   "prompt_en": "A blank card showing a fraction icon: voltage times current times power factor over a full dial. No people.",
+   "narration": "用功率表，先算功率表常数 K。",
+   "overlay": [
+    "功率表常数"
+   ],
+   "labels": [
+    "电压×电流×功率因数",
+    "÷满偏格数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表常数",
+   "scene": "表盘读数乘以 K 得到功率",
+   "prompt_en": "An icon: a meter dial reading arrow, a multiply sign, the letter K, an equals sign and a light bulb. No people.",
+   "narration": "读到的格数乘 K，才是实际功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "单位功率因数表与低功率因数表",
+   "scene": "两只功率表并排，一只贴绿色标签，一只贴橙色标签",
+   "prompt_en": "Two analog wattmeters side by side, one with a blank green tag and one with a blank orange tag. No people.",
+   "narration": "功率表有两种：单位功率因数和低功率因数。",
+   "overlay": [
+    "单位功率因数表与低功率因数表"
+   ],
+   "labels": [
+    "UPF",
+    "LPF"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "单位功率因数表与低功率因数表",
+   "scene": "电阻负载连绿色表，LED 灯和节能灯连橙色表",
+   "prompt_en": "An icon of a resistor heater linked to the green-tagged meter, and an LED bulb and a compact fluorescent bulb linked to the orange-tagged meter. No people.",
+   "narration": "电阻负载用单位功率因数表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "单位功率因数表与低功率因数表",
+   "scene": "LED 灯和节能灯图标旁是橙色标签的功率表",
+   "prompt_en": "An LED bulb icon and a compact fluorescent bulb icon beside the orange-tagged wattmeter. No people.",
+   "narration": "LED 灯、节能灯，用低功率因数表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "单位功率因数表与低功率因数表",
+   "scene": "选错表时表盘指针只偏一点点的图标",
+   "prompt_en": "A wattmeter dial whose needle barely moves from zero, with a question mark. No people.",
+   "narration": "选错了，读数就不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "万用表：一表多用",
+   "scene": "欣欣举着一只数字万用表",
+   "prompt_en": "The panda mascot holds up a digital multimeter with a blank display.",
+   "narration": "万用表，一只表能测好几样。",
+   "overlay": [
+    "万用表：一表多用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "万用表：一表多用",
+   "scene": "电压、电流、电阻、温度、晶体管五个图标围着万用表",
+   "prompt_en": "Five icons around a multimeter: a voltage arrow, a current arrow, a resistor, a thermometer and a transistor. No people.",
+   "narration": "电压、电流、电阻，有的还能测更多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "模拟式与数字式",
+   "scene": "指针式万用表和数字万用表并排",
+   "prompt_en": "An analog multimeter with a needle and a digital multimeter with a blank display side by side. No people.",
+   "narration": "万用表分指针式和数字式两种。",
+   "overlay": [
+    "模拟式与数字式"
+   ],
+   "labels": [
+    "指针式",
+    "数字式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "万用表的挡位和插孔",
+   "scene": "数字万用表正面特写：屏幕、按键、旋钮",
+   "prompt_en": "A close-up of a digital multimeter front: blank display, two small buttons and a big rotary switch. No people.",
+   "narration": "上面是显示屏、保持键和电源键。",
+   "overlay": [
+    "万用表的挡位和插孔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "万用表的挡位和插孔",
+   "scene": "旋钮周围一圈挡位图标",
+   "prompt_en": "A rotary switch surrounded by small icons: straight line, wave, resistor, sound wave for continuity, and a transistor. No people.",
+   "narration": "旋钮选挡：电压、电流、电阻、通断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "万用表的挡位和插孔",
+   "scene": "表笔测一根导线两端，万用表发出提示音",
+   "prompt_en": "A multimeter's probes touching both ends of a disconnected wire, with a sound wave icon from the meter. No people.",
+   "narration": "通断挡能查导线是否导通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "万用表的挡位和插孔",
+   "scene": "表身下方几个插孔，大电流插孔单独一个",
+   "prompt_en": "The bottom of a multimeter with several jacks; one separate jack highlighted for high current. No people.",
+   "narration": "大电流用单独的 10A 插孔，其余用普通插孔。",
+   "overlay": [],
+   "labels": [
+    "10A 插孔",
+    "普通插孔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "有效值与峰值",
+   "scene": "一条正弦波，峰值和有效值两条横线",
+   "prompt_en": "A sine wave icon with two horizontal lines: one at the peak, one lower at the effective value. No people.",
+   "narration": "仪表读到的是有效值。",
+   "overlay": [
+    "有效值与峰值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "有效值与峰值",
+   "scene": "有效值乘根号二箭头指向峰值",
+   "prompt_en": "An icon: the lower line, a multiply sign with a square root of two symbol, and an arrow up to the peak line. No people.",
+   "narration": "正弦量的峰值，是有效值乘根号二。",
+   "overlay": [],
+   "labels": [
+    "峰值=有效值×√2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "用表笔接入电路",
+   "scene": "一红一黑两根表笔插在万用表上",
+   "prompt_en": "A red and a black test lead plugged into a multimeter, laid neatly on the bench. No people.",
+   "narration": "万用表通过两根表笔接入电路。",
+   "overlay": [
+    "用表笔接入电路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "做实验前回顾本讲",
+   "scene": "阿杰翻着空白笔记本复习仪表图标",
+   "prompt_en": "The young male student reviews a blank notebook with meter icons drawn on it.",
+   "narration": "做实验时，回头看看这一课。",
+   "overlay": [
+    "做实验前回顾本讲"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "做实验前回顾本讲",
+   "scene": "阿杰举手提问，王老师回应",
+   "prompt_en": "The young male student raises his hand and the safety administrator answers him.",
+   "narration": "有疑问，及时问老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四只仪表图标，各标串联或并联",
+   "prompt_en": "Four meter icons: ammeter with a series loop, voltmeter with a parallel link, wattmeter with two coils, multimeter with a rotary switch. No people.",
+   "narration": "电流表串，电压表并，功率表两样都有。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "量程、刻度、常数 K 三个打勾图标",
+   "prompt_en": "Three icons with green checks: a range selector, an upper and lower scale, and the letter K. No people.",
+   "narration": "选对量程，读对刻度，别忘乘 K。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两种功率表和一只万用表图标",
+   "prompt_en": "Icons of a green-tagged wattmeter, an orange-tagged wattmeter and a multimeter with probes. No people.",
+   "narration": "按负载选功率表，万用表一表多用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整齐的仪表柜前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a tidy instrument cabinet with meters lined up.",
+   "narration": "认识了仪表，下次动手做实验，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
