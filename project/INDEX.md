@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 438 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 439 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
-| Laser Maintenance Group Safety | 14 / 17 | 0 / 13 |
+| Laser Maintenance Group Safety | 15 / 17 | 0 / 13 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
@@ -539,9 +539,10 @@
 | Laser Maintenance Group Safety | 09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L | 国内版 | 非操作人员的激光车间安全（国内版） | 68 | 5:40 | 20 / 4 | [剧本](<Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 10_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 国内版 | 做一个安全的参观向导（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Laser Maintenance Group Safety/10_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/10_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 国内版 | 别让突然的响声吓到人（国内版） | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/审查报告.md>) |
-| Laser Maintenance Group Safety | 12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety | 单一版 | 激光设备的紧急停机 | 34 | 2:50 | 9 / 2 | [剧本](<Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety/script.md>) |
+| Laser Maintenance Group Safety | 12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety | 单一版 | 激光设备的紧急停机 | 34 | 2:50 | 9 / 2 | [剧本](<Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety/script.md>) · [审查](<Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety/审查报告.md>) |
 | Laser Maintenance Group Safety | 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 国内版 | 整洁有序也是安全（国内版） | 39 | 3:15 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 国内版 | 激光设备旁，选对灭火器（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/审查报告.md>) |
+| Laser Maintenance Group Safety | 15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten | 单一版 | 看懂激光警示：标志、贴纸和链条 | 44 | 3:40 | 12 / 3 | [剧本](<Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten/script.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 02_Titration | 国内版 | 酸碱滴定的规范操作（国内版） | 74 | 6:10 | 24 / 6 | [剧本](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 国内版 | 薄层色谱入门（国内版） | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/审查报告.md>) |
