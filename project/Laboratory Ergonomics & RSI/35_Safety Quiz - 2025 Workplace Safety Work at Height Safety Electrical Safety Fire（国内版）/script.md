@@ -1,7 +1,7 @@
-# 四个主题二十问
+# 四个主题二十问（国内版）
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire（内容分析见 `course/Laboratory Ergonomics & RSI/35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire/`
 - 时长：4 分 50 秒（58 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 54 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）、保卫处值班员
