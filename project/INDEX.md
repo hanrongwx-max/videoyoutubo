@@ -24,7 +24,7 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 9 / 9 |
-| RSO Training Series | 9 / 9 | 8 / 9 |
+| RSO Training Series | 9 / 9 | 9 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
@@ -686,4 +686,5 @@
 | RSO Training Series | 07_IONIZING RADIATION SAFETY | 国内版 | 电离辐射安全：从原理到日常防护（国内版） | 147 | 12:15 | 42 / 8 | [剧本](<RSO Training Series/07_IONIZING RADIATION SAFETY（国内版）/script.md>) · [审查](<RSO Training Series/07_IONIZING RADIATION SAFETY（国内版）/审查报告.md>) |
 | RSO Training Series | 08_Basic Radiation Safety | 原著版 | 辐射安全基础课 | 146 | 12:10 | 30 / 0 | [剧本](<RSO Training Series/08_Basic Radiation Safety/script.md>) |
 | RSO Training Series | 08_Basic Radiation Safety | 国内版 | 辐射安全基础课（国内版） | 167 | 13:55 | 30 / 8 | [剧本](<RSO Training Series/08_Basic Radiation Safety（国内版）/script.md>) · [审查](<RSO Training Series/08_Basic Radiation Safety（国内版）/审查报告.md>) |
+| RSO Training Series | 09_Properties of Ionizing Radiation Alpha Beta Gamma | 原著版 | α、β、γ：三种射线的性质 | 56 | 4:40 | 17 / 0 | [剧本](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma/script.md>) |
 | RSO Training Series | 09_Properties of Ionizing Radiation Alpha Beta Gamma | 国内版 | α、β、γ：三种射线的性质（国内版） | 74 | 6:10 | 17 / 6 | [剧本](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/script.md>) · [审查](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/审查报告.md>) |
