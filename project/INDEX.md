@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 215 / 441 个视频。
+已编写 216 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 24 / 47 |
+| BIORISK MANAGEMENT | 25 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -101,6 +101,7 @@
 | BIORISK MANAGEMENT | 22_BIORISK MANAGEMENT 4 | 封闭温室怎么建 | 100 | 8:20 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4/script.md>) · [审查](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4/审查报告.md>) |
 | BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 植物为什么要关起来 | 78 | 6:30 | 21 / 4 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY | AMP三步管风险 | 85 | 7:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY/script.md>) · [审查](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY/审查报告.md>) |
+| BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 安全柜里的双层装袋 | 50 | 4:10 | 8 / 4 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL/script.md>) · [审查](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
