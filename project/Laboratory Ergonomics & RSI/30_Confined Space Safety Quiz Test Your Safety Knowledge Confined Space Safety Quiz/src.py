@@ -1,0 +1,137 @@
+# 30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz 卡通剧本作者源
+# 原著版：完全照原片（在线计时受限空间测验的演示：10 题限时 10 分钟、80% 通过，演示者随手作答得 10%，
+# 结果页显示正确答案），K1–K8，不加补充知识点、不做更正；保留网页要点和题目选项：救援演练定期进行、
+# 最大允许接触限值因物质而异（干扰项“始终低于 50 ppm”“没有上限”）、监护人监视并启动救援、
+# 进入许可由主管、安全员和授权监护人参与、主要风险缺氧、连续监测发现有毒物质；
+# 录屏中不可辨认的第 3、4、6、8 题不写；网站、链接、频道名和接触限值缩写不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "有限空间小测验",
+    "edition": "原著版",
+    "points": {
+        "K1": "测验规则：十题八对才过",
+        "K2": "危害、通风、防护、进出、检测、救援",
+        "K3": "救援演练要定期练",
+        "K4": "接触限值因物质而异",
+        "K5": "监护人：盯住人，启动救援",
+        "K6": "进入许可多方参与",
+        "K7": "主要风险：缺氧",
+        "K8": "连续监测，发现有毒气体",
+    },
+    "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "hsestudyguide", "PEL"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在一个打开的井口旁，向镜头招手",
+ "The panda mascot stands next to an open manhole and waves at the camera.",
+ "受限空间小测验，来试一试！", "有限空间小测验"),
+# 情景
+("情景", "厂区一个地下水池的检修口",
+ "The access hatch of an underground water tank at a plant. No people.",
+ "厂区地下水池要检修。"),
+("情景", "阿杰坐在电脑前，老李站在旁边",
+ "The young male student sits at a computer while the facility engineer stands beside him.",
+ "老李让阿杰先做一套受限空间测验。"),
+# K2
+("K2", "网页目录图标：危害、通风、防护用品",
+ "Menu icons: a hazard sign, a fan and protective gear. No people.",
+ "先读要点：了解常见危害，保证通风，", "危害、通风、防护、进出、检测、救援"),
+("K2", "进出梯子、气体检测仪、救援三脚架图标",
+ "Icons of an entry ladder, a gas detector and a rescue tripod. No people.",
+ "配防护用品，按程序进出，监测气体，", "", ["防护用品", "安全进出", "气体监测"]),
+("K2", "应急计划和培训课堂图标",
+ "Icons of a blank emergency plan and a training class. No people.",
+ "制定应急救援计划，做好培训。", "", ["应急救援", "培训"]),
+# K1
+("K1", "屏幕上十格进度条和倒计时",
+ "A screen with a ten-segment progress bar and a countdown timer. No people.",
+ "测验十题，限时十分钟。", "测验规则：十题八对才过", ["10题", "10分钟"]),
+("K1", "上一题按钮亮起",
+ "A back button lights up on the screen. No people.",
+ "觉得前面选错了，可以返回改。"),
+("K1", "阿杰随手点选，结果页一绿九红",
+ "The young male student clicks at random; the result screen shows one green and nine red boxes.",
+ "阿杰随手答完，只得了10%。", "", ["10%"]),
+("K1", "进度条在八成处插一面小旗",
+ "A progress bar with a flag at four fifths. No people.",
+ "要答对八题、达到80%才能通过。", "", ["80%通过"]),
+("K1", "结果页每题标出正确答案，旁边重做按钮",
+ "The result screen marks the correct answer for each question, with a restart button. No people.",
+ "结果页标出每题正确答案，可以重做。"),
+# K3
+("K3", "救援三脚架和一队人练习",
+ "A rescue tripod with a team of person icons practicing. No people.",
+ "第一题：救援演练什么时候做？", "救援演练要定期练"),
+("K3", "定期、一年一次、新人加入三个图标",
+ "Three icons: a repeating calendar, a single yearly mark and a new worker icon. No people.",
+ "定期做？一年一次？只在新人加入时？", "", ["定期进行", "一年一次", "新人加入时"]),
+("K3", "定期图标亮绿",
+ "The repeating calendar icon lights up green. No people.",
+ "答案：定期做，让工人熟悉救援程序。"),
+# K4
+("K4", "检测仪屏幕上几种气体图标",
+ "A gas detector display with several gas icons. No people.",
+ "第二题：有毒物质最大允许接触限值？", "接触限值因物质而异"),
+("K4", "三张选项卡片",
+ "Three option cards with icons. No people.",
+ "因物质而异？始终低于50 ppm？没上限？", "", ["因物质而异", "低于50ppm", "没有上限"]),
+("K4", "第一张卡片亮绿",
+ "The first card lights up green. No people.",
+ "答案：因物质而异。"),
+# K5
+("K5", "监护人站在井口",
+ "An attendant stands at the manhole with a radio.",
+ "第五题：授权监护人的职责是什么？", "监护人：盯住人，启动救援"),
+("K5", "监视并救援、远处监督、进去帮忙三个图标",
+ "Three icons: watching and calling for rescue, supervising from far away and climbing in to help. No people.",
+ "监视并启动救援？远处监督？进去帮忙？", "", ["监视并救援", "远处监督", "进去帮忙"]),
+("K5", "第一张卡片亮绿",
+ "The first card lights up green. No people.",
+ "答案：监视进入人员，紧急时启动救援。"),
+# K6
+("K6", "空白进入许可证",
+ "A blank entry permit form. No people.",
+ "第七题：谁参与受限空间进入许可？", "进入许可多方参与"),
+("K6", "三组人形图标",
+ "Three groups of person icons. No people.",
+ "只有进入者？主管和安全员？再加监护人？", "", ["只有进入者", "主管安全员", "主管安全员监护人"]),
+("K6", "第三组亮绿",
+ "The third group lights up green. No people.",
+ "答案：主管、安全员和授权监护人。"),
+# K7
+("K7", "人群拥挤、噪声、缺氧三个图标",
+ "Three icons: a crowd, a loud speaker and a low oxygen symbol. No people.",
+ "第九题：受限空间的主要风险之一？", "主要风险：缺氧", ["人多拥挤", "噪声污染", "缺氧"]),
+("K7", "缺氧图标亮绿",
+ "The low oxygen icon lights up green. No people.",
+ "答案：缺氧。"),
+# K8
+("K8", "检测仪一直挂在入口",
+ "A gas detector hangs at the entry, monitoring continuously. No people.",
+ "第十题：为什么要连续监测空气？", "连续监测，发现有毒气体"),
+("K8", "毒物、风扇、温度计三个图标",
+ "Three icons: a toxic cloud, a fan and a thermometer. No people.",
+ "发现有毒物质？保证通风？监测温度？", "", ["发现有毒物", "保证通风", "监测温度"]),
+("K8", "毒物图标亮绿",
+ "The toxic cloud icon lights up green. No people.",
+ "答案：及时发现有毒物质。"),
+# 小结
+("小结", "欣欣站在白板前",
+ "The panda mascot stands at a whiteboard.",
+ "十题十分钟，答对八题才算过。", "小结"),
+("小结", "救援三脚架和检测仪图标",
+ "Icons of a rescue tripod and a gas detector. No people.",
+ "救援定期练，限值因物质而异。"),
+("小结", "监护人和许可证图标",
+ "Icons of an attendant and a permit form. No people.",
+ "监护人盯人启动救援，许可多方参与。"),
+("小结", "缺氧和毒物图标",
+ "Icons of low oxygen and a toxic cloud. No people.",
+ "主要风险缺氧，连续监测有毒物质。"),
+# 结尾
+("结尾", "欣欣在井口旁挥手告别",
+ "The panda mascot waves goodbye beside the closed manhole.",
+ "受限空间小测验到这里，下次见！"),
+]
