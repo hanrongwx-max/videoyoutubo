@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 433 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 434 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -14,9 +14,9 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
+| MIT Digital Lab Techniques Manual | 14 / 17 | 1 / 9 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
-| MIT Digital Lab Techniques Manual | 13 / 17 | 1 / 9 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
@@ -552,7 +552,8 @@
 | MIT Digital Lab Techniques Manual | 09_Recrystallization | 单一版 | 重结晶提纯固体 | 140 | 11:40 | 33 / 7 | [剧本](<MIT Digital Lab Techniques Manual/09_Recrystallization/script.md>) · [审查](<MIT Digital Lab Techniques Manual/09_Recrystallization/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 10_Column Chromatography | 单一版 | 柱色谱分离 | 132 | 11:00 | 35 / 5 | [剧本](<MIT Digital Lab Techniques Manual/10_Column Chromatography/script.md>) · [审查](<MIT Digital Lab Techniques Manual/10_Column Chromatography/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 11_Using a Balance | 单一版 | 分析天平的使用 | 96 | 8:00 | 29 / 5 | [剧本](<MIT Digital Lab Techniques Manual/11_Using a Balance/script.md>) · [审查](<MIT Digital Lab Techniques Manual/11_Using a Balance/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 12_Melting Point | 单一版 | 熔点测定 | 95 | 7:55 | 28 / 4 | [剧本](<MIT Digital Lab Techniques Manual/12_Melting Point/script.md>) |
+| MIT Digital Lab Techniques Manual | 12_Melting Point | 单一版 | 熔点测定 | 95 | 7:55 | 28 / 4 | [剧本](<MIT Digital Lab Techniques Manual/12_Melting Point/script.md>) · [审查](<MIT Digital Lab Techniques Manual/12_Melting Point/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 13_Automatic Pipet | 单一版 | 移液器的使用 | 94 | 7:50 | 29 / 5 | [剧本](<MIT Digital Lab Techniques Manual/13_Automatic Pipet/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |

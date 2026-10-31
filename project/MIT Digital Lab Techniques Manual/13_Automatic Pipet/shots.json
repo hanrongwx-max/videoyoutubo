@@ -1,0 +1,1297 @@
+{
+ "id": "13_Automatic Pipet",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "移液器的使用",
+ "seconds": 470,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/13_Automatic Pipet.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/13_Automatic Pipet/src.py",
+ "points": {
+  "K1": "小体积用移液器",
+  "K2": "移液器的原理",
+  "K3": "准确度与精密度",
+  "K4": "认识移液器",
+  "K5": "规格看按钮数字",
+  "K6": "量程低端不推荐",
+  "K7": "第一步：选规格",
+  "K8": "第二步：选吸头",
+  "K9": "第三步：读懂显示窗",
+  "K10": "调体积要从大往小",
+  "K11": "不超过最大量程",
+  "K12": "移液前的准备",
+  "K13": "装紧吸头",
+  "K14": "一样一换，只碰样品",
+  "K15": "按第一档吸液",
+  "K16": "擦去外壁液体",
+  "K17": "贴壁放液到第二档",
+  "K18": "退掉吸头",
+  "K19": "换吸头与预润洗",
+  "K20": "浸入深度要合适",
+  "K21": "有气泡怎么办",
+  "K22": "按钮慢慢松",
+  "K23": "擦拭别碰吸头口",
+  "K24": "倾斜不过二十度",
+  "K25": "每次操作要一致",
+  "K26": "称量法校准",
+  "K27": "二十秒检漏",
+  "K28": "温度与腐蚀液的影响",
+  "K29": "要点总结",
+  "S1": "绝不用嘴吸",
+  "S2": "用过的吸头分类丢",
+  "S3": "挥发、腐蚀液体的移取",
+  "S4": "生物样品防气溶胶",
+  "S5": "久移液防手腕劳损"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一支可调式移液器",
+   "prompt_en": "The panda mascot holds up an adjustable air-displacement pipette with a yellow plastic tip and waves at the camera.",
+   "narration": "这一课学移液器的正确用法。",
+   "overlay": [
+    "移液器的使用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "选规格、设体积、吸放液、校准四个图标",
+   "prompt_en": "Four icons in a row: three pipettes of different sizes, a dial window, a tip dipping into liquid, and a balance. No people.",
+   "narration": "选规格、设体积、吸放液、校准，一个不落。",
+   "overlay": [],
+   "labels": [
+    "选规格",
+    "设体积",
+    "吸放液",
+    "校准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰斜拿着移液器，按钮啪地弹回，液体冲进吸杆",
+   "prompt_en": "The young male student holds a pipette at a steep angle and lets the plunger snap back; liquid splashes up toward the shaft.",
+   "narration": "阿杰移液，按钮一松啪地弹回来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把带液的移液器平放在台面",
+   "prompt_en": "The young male student lays the pipette flat on the bench with liquid still in the tip.",
+   "narration": "还把带液的移液器平放在桌上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿起移液器，摇头指着吸杆",
+   "prompt_en": "The female graduate student picks up the pipette, shakes her head and points at the shaft.",
+   "narration": "小研说：液体进了吸杆，移液器就伤了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "小体积用移液器",
+   "scene": "玻璃移液管和小烧杯里的少量液体",
+   "prompt_en": "A glass pipette with a rubber bulb next to a tiny amount of liquid in a small vial, with a question mark. No people.",
+   "narration": "一毫升以下，玻璃移液管不够准。",
+   "overlay": [
+    "小体积用移液器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "小体积用移液器",
+   "scene": "移液器吸起一点点液体，勾号",
+   "prompt_en": "A pipette with a small tip drawing up a tiny volume of red liquid, with a check mark. No people.",
+   "narration": "生物、生化实验，常用自动移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "移液器的原理",
+   "scene": "剖面动画：按下按钮，活塞下移排出空气",
+   "prompt_en": "Cutaway animation of a pipette: the plunger is pressed and the piston moves down pushing air out. No people.",
+   "narration": "按下按钮，活塞把空气推出去。",
+   "overlay": [
+    "移液器的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "移液器的原理",
+   "scene": "吸头浸入液体，松开按钮，液体被吸入",
+   "prompt_en": "The tip dips into red liquid; the plunger is released and liquid rises into the tip. No people.",
+   "narration": "吸头浸入液体，慢松按钮，液体被吸上来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "移液器的原理",
+   "scene": "再按按钮，液体排进另一个容器",
+   "prompt_en": "The plunger is pressed again and the liquid flows out into an empty container. No people.",
+   "narration": "再慢慢按下，液体就排进新容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "准确度与精密度",
+   "scene": "靶心图标：箭头贴近中心",
+   "prompt_en": "A target icon with darts landing close to the center. No people.",
+   "narration": "准确度：排出的量接近设定值。",
+   "overlay": [
+    "准确度与精密度"
+   ],
+   "labels": [
+    "准确度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "准确度与精密度",
+   "scene": "靶上几支箭聚在一起",
+   "prompt_en": "A target icon with several darts tightly grouped together. No people.",
+   "narration": "精密度：每次都一样，重复性好。",
+   "overlay": [],
+   "labels": [
+    "精密度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "认识移液器",
+   "scene": "移液器结构示意：按钮、退吸头钮、旋钮、显示窗、吸杆",
+   "prompt_en": "Diagram of a pipette with arrows to the plunger button, the tip ejector button, the volume knob, the volume window and the plastic shaft. No people.",
+   "narration": "按钮、退吸头钮、调节旋钮、显示窗、吸杆。",
+   "overlay": [
+    "认识移液器"
+   ],
+   "labels": [
+    "按钮",
+    "退吸头钮",
+    "显示窗",
+    "吸杆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "规格看按钮数字",
+   "scene": "一排粗细不同的移液器挂在支架上",
+   "prompt_en": "A row of five pipettes of different sizes hanging on a white stand. No people.",
+   "narration": "移液器有好几种规格。",
+   "overlay": [
+    "规格看按钮数字"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "规格看按钮数字",
+   "scene": "按钮顶端特写，上面一个圆形标记",
+   "prompt_en": "Close view of the top of a plunger button with a colored round badge. No people.",
+   "narration": "按钮上的数字，是它的最大量程。",
+   "overlay": [],
+   "labels": [
+    "最大量程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "规格看按钮数字",
+   "scene": "二十微升规格的量程条",
+   "prompt_en": "A volume bar from zero up to a top mark for a small pipette. No people.",
+   "narration": "二十微升的那支，能设零到二十微升。",
+   "overlay": [],
+   "labels": [
+    "0–20微升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "量程低端不推荐",
+   "scene": "量程条低端标红，误差线很长",
+   "prompt_en": "A volume bar with its low end shaded red and long error bars above it. No people.",
+   "narration": "量程低端误差大，不建议用。",
+   "overlay": [
+    "量程低端不推荐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "量程低端不推荐",
+   "scene": "各规格推荐范围的条形图",
+   "prompt_en": "Six bars of different lengths, each with a green recommended section toward the top end. No people.",
+   "narration": "每种规格，都有推荐的最小体积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第一步：选规格",
+   "scene": "空白任务卡上一个移液的图标",
+   "prompt_en": "A blank task card with a pipette icon and a droplet. No people.",
+   "narration": "比如要移一百五十三点五微升。",
+   "overlay": [
+    "第一步：选规格"
+   ],
+   "labels": [
+    "153.5微升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第一步：选规格",
+   "scene": "两支移液器的量程条，一支打勾一支打叉",
+   "prompt_en": "Two pipettes with volume bars: the target sits near the top of the smaller one with a check mark, and near the bottom of the larger one with a red X. No people.",
+   "narration": "两百和一千的都够，选两百那支。",
+   "overlay": [],
+   "labels": [
+    "200微升",
+    "1000微升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第一步：选规格",
+   "scene": "欣欣指着打勾的那支",
+   "prompt_en": "The panda mascot points at the pipette with the check mark.",
+   "narration": "目标值别落在量程低端。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第二步：选吸头",
+   "scene": "蓝、黄、白三盒吸头",
+   "prompt_en": "Three racks of disposable tips: large blue, medium yellow and small white. No people.",
+   "narration": "吸头有大蓝、中黄、小白三种。",
+   "overlay": [
+    "第二步：选吸头"
+   ],
+   "labels": [
+    "蓝：1000",
+    "黄：20–200",
+    "白：2–10"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第二步：选吸头",
+   "scene": "移液器和对应颜色的吸头连线",
+   "prompt_en": "Lines connect each pipette to the matching tip color. No people.",
+   "narration": "规格配对，才不漏液、才准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第三步：读懂显示窗",
+   "scene": "显示窗三位数字特写",
+   "prompt_en": "Close view of a three-digit volume window on a pipette, digits shown as blank wheels with stripes. No people.",
+   "narration": "小规格的，显示多少就是多少。",
+   "overlay": [
+    "第三步：读懂显示窗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第三步：读懂显示窗",
+   "scene": "大规格显示窗旁边一个乘以十的图标",
+   "prompt_en": "Close view of the volume window of the largest pipette with a times ten icon beside it. No people.",
+   "narration": "一千微升那支，读数要乘以十。",
+   "overlay": [],
+   "labels": [
+    "×10"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "调体积要从大往小",
+   "scene": "旋钮转过目标约三分之一圈",
+   "prompt_en": "A gloved thumb turns the volume knob a third of a turn past the target mark. No people.",
+   "narration": "先转过目标值约三分之一圈。",
+   "overlay": [
+    "调体积要从大往小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "调体积要从大往小",
+   "scene": "再慢慢回调到目标",
+   "prompt_en": "The knob is turned slowly back down and stops exactly at the target mark. No people.",
+   "narration": "再慢慢往回调到目标值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "调体积要从大往小",
+   "scene": "齿轮间隙示意，向下箭头打勾",
+   "prompt_en": "Diagram of two gears with a small gap; a downward arrow has a green check mark. No people.",
+   "narration": "总是从大往小调，消除机械回差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "不超过最大量程",
+   "scene": "旋钮转过最大值的图标被打叉",
+   "prompt_en": "An icon of the volume knob forced past the maximum mark, crossed out with a red X. No people.",
+   "narration": "别转过最大量程，超量程的换大规格。",
+   "overlay": [
+    "不超过最大量程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "移液前的准备",
+   "scene": "台面摆着移液器、吸头盒、试管架、新容器、擦拭纸和废液杯",
+   "prompt_en": "On a bench: a set pipette, a tip rack, a tube rack, a new container, a plain tissue and a waste beaker. No people.",
+   "narration": "备好移液器、吸头、架子、新容器。",
+   "overlay": [
+    "移液前的准备"
+   ],
+   "labels": [
+    "吸头",
+    "新容器",
+    "擦拭纸",
+    "废液杯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "移液前的准备",
+   "scene": "擦拭纸和废液杯高亮",
+   "prompt_en": "The tissue and the waste beaker glow. No people.",
+   "narration": "还有擦拭纸和废物容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装紧吸头",
+   "scene": "吸杆压进吸头并轻轻旋转",
+   "prompt_en": "A pipette shaft is pressed firmly into a yellow tip in the rack with a slight twist.",
+   "narration": "吸杆用力压进吸头，轻轻一转。",
+   "overlay": [
+    "装紧吸头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装紧吸头",
+   "scene": "吸头与吸杆密封处特写，勾号",
+   "prompt_en": "Close view of the tight seal between tip and shaft with a check mark. No people.",
+   "narration": "装紧密封，才不会漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "一样一换，只碰样品",
+   "scene": "每个样品配一个新吸头的示意",
+   "prompt_en": "Three sample tubes, each paired with its own fresh tip by arrows. No people.",
+   "narration": "每个样品，都用新的无菌吸头。",
+   "overlay": [
+    "一样一换，只碰样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "一样一换，只碰样品",
+   "scene": "吸头碰到台面的图标被打叉",
+   "prompt_en": "An icon of a pipette tip touching the bench surface, crossed out with a red X. No people.",
+   "narration": "吸头除了样品，什么都别碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按第一档吸液",
+   "scene": "拇指按下按钮到第一档",
+   "prompt_en": "A gloved thumb presses the plunger down to the first stop where resistance is felt.",
+   "narration": "按到有阻力的地方，就是第一档。",
+   "overlay": [
+    "按第一档吸液"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按第一档吸液",
+   "scene": "竖直持握，吸头浸入红色液体",
+   "prompt_en": "The female graduate student holds the pipette straight up and dips the tip into red liquid in a vial.",
+   "narration": "竖直拿着，吸头浸进样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按第一档吸液",
+   "scene": "拇指慢慢松开，液体吸入吸头",
+   "prompt_en": "The thumb releases slowly and red liquid rises into the tip.",
+   "narration": "慢慢松开按钮，液体吸进来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按第一档吸液",
+   "scene": "钟表图标停顿一两秒",
+   "prompt_en": "A small clock icon ticks for a moment beside the filled tip. No people.",
+   "narration": "停一两秒，大体积或粘稠的多等会儿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "擦去外壁液体",
+   "scene": "擦拭纸轻擦吸头外壁",
+   "prompt_en": "A plain tissue gently wipes the outside of the tip.",
+   "narration": "取出来，擦掉吸头外壁的液体。",
+   "overlay": [
+    "擦去外壁液体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "贴壁放液到第二档",
+   "scene": "吸头贴着新试管内壁",
+   "prompt_en": "The tip touches the inner wall of a new tube in a rack.",
+   "narration": "吸头贴住新容器内壁。",
+   "overlay": [
+    "贴壁放液到第二档"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "贴壁放液到第二档",
+   "scene": "按到第一档，停几秒",
+   "prompt_en": "The thumb presses slowly to the first stop and pauses while the liquid flows out.",
+   "narration": "慢按到第一档，停几秒让液体流完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "贴壁放液到第二档",
+   "scene": "再按到第二档排尽",
+   "prompt_en": "The thumb pushes on to the second stop and the last drop is blown out.",
+   "narration": "再按到第二档，排出余液。",
+   "overlay": [],
+   "labels": [
+    "第一档",
+    "第二档"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "贴壁放液到第二档",
+   "scene": "按住按钮，吸头沿壁滑出",
+   "prompt_en": "With the plunger held down, the tip slides up along the tube wall and out.",
+   "narration": "按住别松，吸头沿壁滑出，再松手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "退掉吸头",
+   "scene": "按退吸头钮，吸头掉进废物盒",
+   "prompt_en": "A thumb presses the ejector button and the used tip drops into a waste box.",
+   "narration": "用完按退吸头钮，弹进废物容器。",
+   "overlay": [
+    "退掉吸头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "换吸头与预润洗",
+   "scene": "三个样品，三个新吸头",
+   "prompt_en": "Three tubes of different colored samples, each with a new tip. No people.",
+   "narration": "准则一：换样品就换吸头，防污染。",
+   "overlay": [
+    "换吸头与预润洗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "换吸头与预润洗",
+   "scene": "新吸头吸入溶液再排进废液杯",
+   "prompt_en": "A new tip draws up solution and expels it into a waste beaker.",
+   "narration": "准则二：新吸头先吸一次排掉，预润洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "换吸头与预润洗",
+   "scene": "吸头内壁形成液膜的示意",
+   "prompt_en": "Diagram of a tip with a thin liquid film coating its inner wall, then a full accurate volume. No people.",
+   "narration": "内壁先挂上液膜，后面的量才准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "浸入深度要合适",
+   "scene": "吸头浸得太深，液体顶到吸杆的图标被打叉",
+   "prompt_en": "An icon of a tip plunged too deep with liquid reaching the shaft, crossed out with a red X. No people.",
+   "narration": "准则三：浸太深，液体会进吸杆。",
+   "overlay": [
+    "浸入深度要合适"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "浸入深度要合适",
+   "scene": "浸得太浅，吸进空气的图标被打叉",
+   "prompt_en": "An icon of a tip barely touching the surface sucking in air, crossed out with a red X. No people.",
+   "narration": "浸太浅，会吸进空气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "浸入深度要合适",
+   "scene": "三种吸头各自合适的浸入深度",
+   "prompt_en": "Three tips dipped to slightly different shallow depths below the liquid surface, each with a small depth marker. No people.",
+   "narration": "一般只浸入液面下几毫米。",
+   "overlay": [],
+   "labels": [
+    "白1–2毫米",
+    "黄2–3毫米",
+    "蓝2–4毫米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "有气泡怎么办",
+   "scene": "吸头里有气泡",
+   "prompt_en": "Close view of a filled tip with an air bubble gap in the liquid. No people.",
+   "narration": "吸头里有气泡？",
+   "overlay": [
+    "有气泡怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "有气泡怎么办",
+   "scene": "排回废液杯，放慢重吸",
+   "prompt_en": "The liquid is expelled into a waste beaker and drawn up again slowly at the right depth. No people.",
+   "narration": "排进废液杯，查深度，放慢重吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "有气泡怎么办",
+   "scene": "换一个新吸头",
+   "prompt_en": "The tip is ejected and a fresh tip is attached. No people.",
+   "narration": "还有气泡，就换新吸头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "按钮慢慢松",
+   "scene": "按钮猛地弹回的图标被打叉",
+   "prompt_en": "An icon of a plunger snapping up with liquid splashing into the shaft, crossed out with a red X. No people.",
+   "narration": "准则四：按钮慢慢松，别让它弹回。",
+   "overlay": [
+    "按钮慢慢松"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "擦拭别碰吸头口",
+   "scene": "擦拭纸碰到吸头口，样品被吸走",
+   "prompt_en": "A tissue touches the tip opening and a red stain wicks into the paper, with a red X. No people.",
+   "narration": "准则五：擦外壁，别碰吸头口。",
+   "overlay": [
+    "擦拭别碰吸头口"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "倾斜不过二十度",
+   "scene": "移液器倾斜角度示意，二十度内打勾",
+   "prompt_en": "Diagram of a pipette tilted within a small angle from vertical with a green check, and a steeper angle with a red X. No people.",
+   "narration": "准则六：带液时倾斜别超过二十度。",
+   "overlay": [
+    "倾斜不过二十度"
+   ],
+   "labels": [
+    "≤20°"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "倾斜不过二十度",
+   "scene": "带液平放的移液器被打叉",
+   "prompt_en": "An icon of a pipette lying flat with liquid in the tip, crossed out with a red X. No people.",
+   "narration": "绝不能平放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "每次操作要一致",
+   "scene": "节拍器和四个相同的动作图标",
+   "prompt_en": "A metronome icon next to four identical pipetting motion icons in a row. No people.",
+   "narration": "按放速度、力度，每次一个样。",
+   "overlay": [
+    "每次操作要一致"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "每次操作要一致",
+   "scene": "浸入深度和角度都相同的三次操作",
+   "prompt_en": "Three side-by-side pipetting views with the same depth and the same slight angle. No people.",
+   "narration": "浸入深度、持握角度，也保持一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "称量法校准",
+   "scene": "水滴和砝码，一毫升等于一克的示意",
+   "prompt_en": "An icon of a one milliliter droplet equal to a one gram weight. No people.",
+   "narration": "定期校准：先按密度算出一毫升多重。",
+   "overlay": [
+    "称量法校准"
+   ],
+   "labels": [
+    "水：1毫升≈1克"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "称量法校准",
+   "scene": "分析天平上的小瓶去皮，移液器移入",
+   "prompt_en": "A small vial is tared on an analytical balance and a pipette set near its maximum dispenses water into it.",
+   "narration": "天平上去皮，设在量程上端移液称重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "称量法校准",
+   "scene": "六次读数，算平均和偏差",
+   "prompt_en": "Six blank reading cards lined up with an average line and a spread bracket. No people.",
+   "narration": "重复六次，算平均值和标准偏差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "称量法校准",
+   "scene": "再设在量程下端重复",
+   "prompt_en": "The pipette dial turned near its low end and the weighing repeated. No people.",
+   "narration": "再在量程下端测一遍，偏了就调整。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "二十秒检漏",
+   "scene": "吸好液体的移液器竖直拿着，钟表",
+   "prompt_en": "A pipette with a freshly pre-rinsed filled tip held vertically beside a clock icon. No people.",
+   "narration": "检漏：新吸头预润洗，吸液竖直等。",
+   "overlay": [
+    "二十秒检漏"
+   ],
+   "labels": [
+    "约20秒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "二十秒检漏",
+   "scene": "吸头口出现一滴液滴",
+   "prompt_en": "Close view of a drop forming at the tip opening, with a warning icon. No people.",
+   "narration": "吸头口冒出液滴，就是漏了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "二十秒检漏",
+   "scene": "O形圈磨损的放大示意",
+   "prompt_en": "Magnified diagram of a worn rubber O-ring inside the shaft and a loose tip. No people.",
+   "narration": "可能是吸头不配或密封圈磨损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "温度与腐蚀液的影响",
+   "scene": "冷温度计和热温度计",
+   "prompt_en": "Two thermometer icons, one very cold and one very hot, beside a pipette. No people.",
+   "narration": "太冷太热的样品，会让移液不准。",
+   "overlay": [
+    "温度与腐蚀液的影响"
+   ],
+   "labels": [
+    "＜4℃",
+    "＞70℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "温度与腐蚀液的影响",
+   "scene": "腐蚀性象形图和移液器",
+   "prompt_en": "A corrosion hazard pictogram next to a pipette with damaged seals. No people.",
+   "narration": "酸和腐蚀液会腐蚀活塞和密封件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "温度与腐蚀液的影响",
+   "scene": "老李拆开移液器擦洗零件",
+   "prompt_en": "The facility engineer disassembles a pipette and wipes the piston and seals with a tissue.",
+   "narration": "移过之后马上拆开检查清洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "要点总结",
+   "scene": "欣欣身旁浮现节拍器、新吸头和天平图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a metronome, a fresh tip and a balance.",
+   "narration": "动作一致、新吸头预润洗、定期校准。",
+   "overlay": [
+    "要点总结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "要点总结",
+   "scene": "移液器摔落的图标被打叉",
+   "prompt_en": "An icon of a pipette falling to the floor, crossed out with a red X. No people.",
+   "narration": "移液器精密易坏，别摔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "要点总结",
+   "scene": "液体进吸杆的两种情况被打叉",
+   "prompt_en": "Two icons crossed out: a snapping plunger and a pipette lying flat. No people.",
+   "narration": "别让液体进吸杆，避开极端温度和腐蚀液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "绝不用嘴吸",
+   "scene": "嘴含玻璃移液管吸液的图标被打叉",
+   "prompt_en": "An icon of a mouth sucking on a glass pipette, crossed out with a big red X. No people.",
+   "narration": "任何液体，都绝不能用嘴吸。",
+   "overlay": [
+    "绝不用嘴吸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "绝不用嘴吸",
+   "scene": "吸耳球、移液器两个图标打勾",
+   "prompt_en": "Icons of a rubber bulb on a glass pipette and an adjustable pipette, both with green check marks. No people.",
+   "narration": "用吸耳球或移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "绝不用嘴吸",
+   "scene": "王老师在走廊里提醒新生",
+   "prompt_en": "The safety administrator talks to the young male student beside a no-eating sign in the corridor.",
+   "narration": "这是实验室的铁规矩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "用过的吸头分类丢",
+   "scene": "两个废物盒：化学污染和生物污染",
+   "prompt_en": "Two separate waste boxes with blank labels, one with a chemical pictogram and one with a biohazard warning sign. No people.",
+   "narration": "沾了化学品的吸头和生物吸头分开收。",
+   "overlay": [
+    "用过的吸头分类丢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "用过的吸头分类丢",
+   "scene": "吸头扔进生活垃圾桶的图标被打叉",
+   "prompt_en": "An icon of used tips thrown into an ordinary trash can, crossed out with a red X. No people.",
+   "narration": "不能扔进生活垃圾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "用过的吸头分类丢",
+   "scene": "盒子装满后盖好，贴空白标签",
+   "prompt_en": "A full tip waste box is closed and given a blank label. No people.",
+   "narration": "装满封好，按本校规定交收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "挥发、腐蚀液体的移取",
+   "scene": "小研在通风柜里移取有机溶剂",
+   "prompt_en": "The female graduate student, in goggles and gloves, pipettes a solvent inside a fume hood.",
+   "narration": "挥发、有毒的液体，在通风柜里移。",
+   "overlay": [
+    "挥发、腐蚀液体的移取"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "挥发、腐蚀液体的移取",
+   "scene": "吸头口溶剂往下滴的示意",
+   "prompt_en": "Diagram of a volatile liquid dripping from a tip as vapor expands. No people.",
+   "narration": "挥发液容易滴漏，先预润洗、动作快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "挥发、腐蚀液体的移取",
+   "scene": "护目镜、手套和腐蚀液瓶",
+   "prompt_en": "Icons of safety goggles and chemical-resistant gloves next to a bottle with a corrosion hazard pictogram. No people.",
+   "narration": "腐蚀液戴好护目镜，按说明书选手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "生物样品防气溶胶",
+   "scene": "带滤芯的吸头特写",
+   "prompt_en": "Close view of a pipette tip with a white filter plug inside. No people.",
+   "narration": "生物样品，用带滤芯的吸头。",
+   "overlay": [
+    "生物样品防气溶胶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "生物样品防气溶胶",
+   "scene": "猛按排液、液体飞溅成雾的图标被打叉",
+   "prompt_en": "An icon of liquid sprayed hard out of a tip forming a mist, crossed out with a red X. No people.",
+   "narration": "放液贴壁、平稳，别吹出飞沫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "生物样品防气溶胶",
+   "scene": "小研在生物安全柜中移液",
+   "prompt_en": "The female graduate student pipettes samples inside a biological safety cabinet.",
+   "narration": "按要求在生物安全柜里操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "久移液防手腕劳损",
+   "scene": "阿杰揉手腕",
+   "prompt_en": "The young male student rubs his wrist after a long row of pipetting.",
+   "narration": "一下午几百次移液，手腕会累伤。",
+   "overlay": [
+    "久移液防手腕劳损"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "久移液防手腕劳损",
+   "scene": "阿杰坐姿端正，肘部有支撑",
+   "prompt_en": "The young male student sits upright with his elbow resting on a support pad while pipetting.",
+   "narration": "坐正，肘部有支撑，按钮别用死劲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "久移液防手腕劳损",
+   "scene": "钟表图标和伸展手腕的动作",
+   "prompt_en": "A clock icon and the young male student stretching his hands during a short break.",
+   "narration": "隔一会儿歇一歇，活动手腕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现三支移液器和三色吸头",
+   "prompt_en": "The panda mascot stands beside three pipettes and racks of blue, yellow and white tips.",
+   "narration": "选对规格和吸头，从大往小调体积。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "第一档、第二档图示",
+   "prompt_en": "Icons of a plunger at the first stop and at the second stop. No people.",
+   "narration": "第一档吸，贴壁放，第二档排尽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "竖直、浅浸、慢松三个图标",
+   "prompt_en": "Icons of a vertical pipette, a shallow dip and a slowly rising plunger. No people.",
+   "narration": "竖直浅浸，慢松按钮，别平放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天平和液滴图标",
+   "prompt_en": "Icons of a balance and a drop at a tip. No people.",
+   "narration": "定期称量校准，二十秒检漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "禁止口吸、滤芯吸头、分类废物盒图标",
+   "prompt_en": "Icons of a crossed-out mouth pipetting, a filter tip and two separate waste boxes. No people.",
+   "narration": "不口吸，分类丢，生物样品防飞沫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着移液器挥手道别",
+   "prompt_en": "The panda mascot holds up a pipette and waves goodbye at the camera.",
+   "narration": "移得准，做得稳，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
