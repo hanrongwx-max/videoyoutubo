@@ -25,7 +25,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 5 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 4 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 5 / 7 |
-| Electrical Safety Series | 6 / 25 | 4 / 6 |
+| Electrical Safety Series | 6 / 25 | 5 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -181,6 +181,7 @@
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 国内版 | 电动工具的危害与预防（国内版） | 60 | 5:00 | 20 / 6 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/script.md>) · [审查](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/审查报告.md>) |
 | Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 原著版 | 动火作业的危害与预防 | 44 | 3:40 | 25 / 0 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE/script.md>) |
 | Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 国内版 | 动火作业的危害与预防（国内版） | 61 | 5:05 | 25 / 6 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/审查报告.md>) |
+| Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 原著版 | 电压等级与爆炸危险区域 | 25 | 2:05 | 4 / 0 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/script.md>) |
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
