@@ -1,0 +1,137 @@
+# 28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ 卡通剧本作者源
+# 原著版：完全照原片（在线计时消防测验的演示：10 题限时 10 分钟、80% 通过，演示者随手作答得 30%，
+# 结果页显示正确答案），K1–K8，不加补充知识点、不做更正；保留网页上的答案和分类：
+# 插座只插一台大功率电器、厨房油脂火灾用 B 类灭火器、易燃液体为 B 类火、感烟探测器一年测两次、
+# 镁钾等金属火为 D 类、“定期维护电器”不是火灾原因；录屏中不可辨认的第 3、5、8、9 题不写
+# 网站、链接和频道名不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "消防小测验：十分钟八题过关",
+    "edition": "原著版",
+    "points": {
+        "K1": "测验规则：十题八对才过关",
+        "K2": "防火的基本做法",
+        "K3": "插座别过载",
+        "K4": "油脂火用B类灭火器",
+        "K5": "易燃液体火是B类",
+        "K6": "感烟探测器一年测两次",
+        "K7": "金属火是D类",
+        "K8": "哪项不是火灾原因",
+    },
+    "avoid": ["HSE Study Guide", "HSE StudyGuide", "HSE STUDY GUIDE", "hsestudyguide"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在一台空白屏幕的电脑旁，向镜头招手",
+ "The panda mascot stands next to a computer with a blank screen and waves at the camera.",
+ "消防小测验，十分钟八题过关！", "消防小测验：十分钟八题过关"),
+# 情景
+("情景", "阿杰坐在电脑前，屏幕空白",
+ "The young male student sits in front of a computer with a blank screen.",
+ "阿杰要准备单位面试的消防考试。"),
+("情景", "小研指着屏幕上的目录图标",
+ "The female graduate student points at a list of blank menu icons on the screen.",
+ "小研说：先看看防火要点再答题。"),
+# K2
+("K2", "灶台上的锅、旁边的毛巾和定时器",
+ "A pot on a stove, a towel moved away and a kitchen timer. No people.",
+ "做饭时人别走开，易燃物远离灶台。", "防火的基本做法"),
+("K2", "定时器图标响起",
+ "A kitchen timer icon rings. No people.",
+ "用定时器提醒自己，别忘了锅。"),
+("K2", "目录图标：火灾原因、隐患、灭火器、演练、疏散",
+ "Menu icons: a fire cause, a hazard sign, an extinguisher, a drill and an exit. No people.",
+ "还要了解火因、识别隐患、选对灭火器。", "", ["火灾原因", "识别隐患", "选灭火器", "消防演练", "疏散程序"]),
+("K2", "人群沿疏散箭头走出",
+ "Person icons follow evacuation arrows out of a building. No people.",
+ "参加消防演练，掌握疏散程序。"),
+# K1
+("K1", "屏幕上十格进度条和倒计时",
+ "A screen with a ten-segment progress bar and a countdown timer. No people.",
+ "测验共十题，限时十分钟。", "测验规则：十题八对才过关", ["10题", "10分钟"]),
+("K1", "进度条每答一题前进一格",
+ "The progress bar moves forward one segment per answer. No people.",
+ "答一题前进一格，答错还能返回改。"),
+("K1", "阿杰飞快地点选",
+ "The young male student clicks answers very quickly without reading.",
+ "阿杰没细看，一路点了下去。"),
+("K1", "结果页：三格绿、七格红",
+ "A result screen with three green boxes and seven red boxes. No people.",
+ "结果只得30%，没有通过。", "", ["30%"]),
+("K1", "进度条在八成处插一面小旗",
+ "A progress bar with a flag at four fifths. No people.",
+ "要答对八题、达到80%才能过。", "", ["80%通过"]),
+("K1", "结果页逐题显示红绿，旁边重做按钮",
+ "The result screen shows each question in red or green, with a restart button. No people.",
+ "交卷后每题显示对错，还能重做。"),
+# K3
+("K3", "一个插座插满插头",
+ "One wall outlet crowded with many plugs. No people.",
+ "第一题：怎样防止插座过载起火？", "插座别过载"),
+("K3", "插满、插线板分担、一座一台三个图标",
+ "Three icons: an outlet full of plugs, an extension cord and one outlet with one heater plug. No people.",
+ "插满省时间？用延长线分担？一座一台？", "", ["插满省时", "延长线分担", "一座一台"]),
+("K3", "一座一台的图标亮绿",
+ "The one-outlet-one-heater icon lights up green. No people.",
+ "答案：一个插座只插一台大功率电器。"),
+# K4
+("K4", "厨房锅里的油起火",
+ "Grease in a kitchen pan catches fire. No people.",
+ "第二题：厨房油脂火用哪种灭火器？", "油脂火用B类灭火器"),
+("K4", "三个灭火器，标签空白",
+ "Three fire extinguishers with blank labels. No people.",
+ "B类、C类，还是A类灭火器？", "", ["B类", "C类", "A类"]),
+("K4", "B类灭火器亮绿",
+ "The first extinguisher lights up green. No people.",
+ "网页给的答案：B类灭火器。", "", ["B类"]),
+# K5
+("K5", "汽油桶和油瓶旁起火",
+ "A fire next to a gasoline can and an oil bottle. No people.",
+ "第四题：汽油、油类等易燃液体火是？", "易燃液体火是B类", ["B类", "C类", "A类"]),
+("K5", "B类卡片亮绿",
+ "The first class card lights up green. No people.",
+ "答案：B类火。", "", ["B类"]),
+# K6
+("K6", "天花板上的感烟探测器，旁边日历",
+ "A ceiling smoke detector next to a calendar. No people.",
+ "第六题：感烟探测器多久测试一次？", "感烟探测器一年测两次", ["每月", "每年", "一年两次"]),
+("K6", "日历上两个标记",
+ "A calendar with two marks in a year. No people.",
+ "网页给的答案：一年两次。", "", ["一年两次"]),
+# K7
+("K7", "一块金属燃起白亮火焰",
+ "A piece of metal burning with a bright white flame. No people.",
+ "第七题：镁、钾等金属引起的火是？", "金属火是D类", ["K类", "D类", "C类"]),
+("K7", "D类卡片亮绿",
+ "The D class card lights up green. No people.",
+ "答案：D类火。", "", ["D类"]),
+# K8
+("K8", "维修电器、破旧电线、无人蜡烛三个图标",
+ "Three icons: maintaining an appliance, frayed wiring and an unattended candle. No people.",
+ "第十题：哪项不是常见的火灾原因？", "哪项不是火灾原因", ["定期维护电器", "线路故障", "无人看管蜡烛"]),
+("K8", "维护电器图标亮绿",
+ "The appliance maintenance icon lights up green. No people.",
+ "答案：定期维护电器。"),
+("K8", "线路和蜡烛图标亮红",
+ "The wiring and candle icons glow red. No people.",
+ "线路故障和无人看管的蜡烛才会起火。"),
+# 小结
+("小结", "欣欣站在白板前",
+ "The panda mascot stands at a whiteboard.",
+ "十题十分钟，答对八题才过关。", "小结"),
+("小结", "插座和油锅图标",
+ "Icons of an outlet and a grease pan. No people.",
+ "一座一台大功率，油脂火用B类。"),
+("小结", "液体、金属、探测器图标",
+ "Icons of a liquid, a metal and a smoke detector. No people.",
+ "易燃液体B类，金属D类，探测器一年测两次。"),
+("小结", "阿杰点下重做按钮",
+ "The young male student clicks the restart button.",
+ "先读懂要点，再认真做一遍。"),
+# 结尾
+("结尾", "欣欣挥手告别",
+ "The panda mascot waves goodbye.",
+ "消防小测验到这里，下次见！"),
+]
