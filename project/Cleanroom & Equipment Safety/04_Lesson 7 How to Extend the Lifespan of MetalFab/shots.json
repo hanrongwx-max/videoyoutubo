@@ -1,0 +1,967 @@
+{
+ "id": "04_Lesson 7 How to Extend the Lifespan of MetalFab",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊机与切割机的维护保养",
+ "seconds": 355,
+ "source_doc": "course/Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab.md",
+ "author_source": "project/Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab/src.py",
+ "points": {
+  "K1": "这一课：维护好，用得久",
+  "K2": "火花变弱，查保护镜片",
+  "K3": "清洁焊接头，取出镜片",
+  "K4": "能擦就擦，擦不净就换",
+  "K5": "更换新镜片",
+  "K6": "红光左右校准",
+  "K7": "红光上下校准",
+  "K8": "换粗一号的焊丝",
+  "K9": "清洁喷嘴：先防烫",
+  "K10": "清洁底板",
+  "K11": "清洁摄像头镜头",
+  "K12": "清洁灯条",
+  "K13": "清洁防护盖",
+  "K14": "清洁夹具和防尘板",
+  "K15": "清理栅条上的熔渣",
+  "K16": "拆洗排风扇",
+  "K17": "清洁底板滑轨",
+  "S1": "维护前：停机、断电、冷却",
+  "S2": "酒精和清洁剂防火",
+  "S3": "用角磨机的防护",
+  "S4": "粉尘和废料处置",
+  "S5": "维护权限与记录",
+  "S6": "装回后先查排风",
+  "S7": "受伤处置与报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在焊机和切割机旁，手拿一块无尘布，向镜头招手",
+   "prompt_en": "The panda mascot stands between a handheld laser welder and an enclosed cutting machine, holding a lint-free cloth, and waves at the camera.",
+   "narration": "这一课：激光焊机和切割机怎么保养。",
+   "overlay": [
+    "激光焊机与切割机的维护保养"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "镜片、焊丝盘、风扇、扫帚四个图标",
+   "prompt_en": "Four icons in a row: a round lens, a wire spool, a fan and a small brush. No people.",
+   "narration": "镜片、焊丝、机内清洁，一样样来。",
+   "overlay": [],
+   "labels": [
+    "镜片",
+    "焊丝",
+    "清洁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰焊接时火花很弱，皱眉看焊接头",
+   "prompt_en": "The young male student in protective gear looks puzzled at a weak spark from the handheld welding head.",
+   "narration": "阿杰发现，焊接火花越来越弱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "切割机底板里堆满熔渣，栅条上结满疙瘩",
+   "prompt_en": "Inside the cutting machine, the base tray is full of slag and the slats are crusted with lumps. No people.",
+   "narration": "切割机里也积满了熔渣和灰尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拿着空白维护记录本走过来",
+   "prompt_en": "The facility engineer walks over holding a blank maintenance logbook and a toolbox.",
+   "narration": "老李说：该做一次全面保养了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "保养做得好，设备寿命长、也更安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：维护好，用得久",
+   "scene": "两个空白章节卡：焊机保养、切割机清洁",
+   "prompt_en": "Two blank chapter cards: one with a welding gun icon and one with a cutting machine icon. No people.",
+   "narration": "先保养焊机，再清洁切割机。",
+   "overlay": [
+    "这一课：维护好，用得久"
+   ],
+   "labels": [
+    "焊机保养",
+    "切割机清洁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "火花变弱，查保护镜片",
+   "scene": "功率条下降、火花变小的图标",
+   "prompt_en": "Icon of a power bar dropping and a spark becoming small and weak. No people.",
+   "narration": "功率下降、火花变弱，先查保护镜片。",
+   "overlay": [
+    "火花变弱，查保护镜片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "火花变弱，查保护镜片",
+   "scene": "干净整洁的台面，空气中没有灰尘",
+   "prompt_en": "A clean, tidy workbench in a bright room with a dust-free sign on the wall. No people.",
+   "narration": "换镜片要在洁净的地方做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "清洁焊接头，取出镜片",
+   "scene": "小研用无尘布擦拭焊接头外部",
+   "prompt_en": "The female graduate student wipes the outside of the handheld welding head with a lint-free cloth.",
+   "narration": "先用无尘布把焊接头擦干净。",
+   "overlay": [
+    "清洁焊接头，取出镜片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "清洁焊接头，取出镜片",
+   "scene": "小研洗手后戴上蓝色无尘手套",
+   "prompt_en": "The female graduate student washes her hands and puts on blue lint-free gloves.",
+   "narration": "洗手，或戴上无尘手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "清洁焊接头，取出镜片",
+   "scene": "拆下顶盖，取出圆形镜片座",
+   "prompt_en": "Close view of blue-gloved hands removing the small top cover of the welding head and pulling out a round lens holder.",
+   "narration": "拆开顶盖，取出镜片检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "能擦就擦，擦不净就换",
+   "scene": "棉签蘸酒精轻擦镜片",
+   "prompt_en": "Close view of a cotton swab dipped in alcohol gently wiping a round lens held by blue-gloved fingers.",
+   "narration": "只是脏了，棉签蘸酒精擦净装回。",
+   "overlay": [
+    "能擦就擦，擦不净就换"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "能擦就擦，擦不净就换",
+   "scene": "烧出黑点的镜片旁边一个替换箭头",
+   "prompt_en": "A lens with a burnt dark spot and a replace arrow pointing to a new clean lens. No people.",
+   "narration": "烧伤或擦不净，就要换新。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "更换新镜片",
+   "scene": "取下密封圈和旧镜片",
+   "prompt_en": "Close view of blue-gloved hands removing a thin ring gasket and the old lens from the holder.",
+   "narration": "取下密封圈和旧镜片。",
+   "overlay": [
+    "更换新镜片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "更换新镜片",
+   "scene": "手指直接碰镜面的图标打叉",
+   "prompt_en": "Icon of a bare fingertip touching a lens surface, crossed out with a red X. No people.",
+   "narration": "新镜片的镜面，手指工具都别碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "更换新镜片",
+   "scene": "镜片翻面的图标，两面都打勾",
+   "prompt_en": "Icon of a round lens flipping over, with a green check on both sides. No people.",
+   "narration": "这种镜片正反两面都能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "更换新镜片",
+   "scene": "撕掉保护膜装入，装回密封圈",
+   "prompt_en": "Close view of blue-gloved hands peeling thin film from the lens, setting it into the holder and fitting the gasket back.",
+   "narration": "撕膜装入，装好密封圈。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "更换新镜片",
+   "scene": "镜片座按方向压回焊接头",
+   "prompt_en": "The lens holder is pressed back into the welding head in the correct direction, shown by an arrow. No people besides gloved hands.",
+   "narration": "按正确方向压回焊接头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "红光左右校准",
+   "scene": "红点偏在焊丝一侧，左右箭头",
+   "prompt_en": "Close view of a red dot sitting beside a welding wire tip, with left and right arrows. No people.",
+   "narration": "嘴装好了红光还偏，做左右校准。",
+   "overlay": [
+    "红光左右校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "红光左右校准",
+   "scene": "老李站在触摸屏前，屏上锁形图标",
+   "prompt_en": "The facility engineer stands at the welder touchscreen, which shows a padlock icon and a blank keypad.",
+   "narration": "在管理员设置里，由负责人操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "红光左右校准",
+   "scene": "手指点左右箭头，红点移到焊丝上",
+   "prompt_en": "A finger taps left and right arrow buttons on the touchscreen; the red dot moves onto the wire tip. No people besides the hand.",
+   "narration": "红光中心落到焊丝上，点完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "红光上下校准",
+   "scene": "切割嘴剖面：光束打到内壁反射",
+   "prompt_en": "Cutaway diagram of a slim cutting nozzle with a beam striking the inner wall and bouncing back, with a warning icon. No people.",
+   "narration": "切割嘴堵光反光，先做左右校准。",
+   "overlay": [
+    "红光上下校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "红光上下校准",
+   "scene": "偏移值归零，内六角插进小孔慢慢拧",
+   "prompt_en": "A value box resets to zero on the screen, then a tiny hex key turns slowly in a hole on the welding head.",
+   "narration": "不行就归零，用内六角慢慢调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "红光上下校准",
+   "scene": "红点变清晰，旁边两个大孔喷嘴打勾",
+   "prompt_en": "A red dot becomes sharp and clear; beside it a welding nozzle and a cleaning nozzle with wide openings get green checks. No people.",
+   "narration": "出现清晰红点就停；大孔嘴不用调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "细丝盘箭头指向粗丝盘，下方三个配件图标",
+   "prompt_en": "A thin wire spool with an arrow to a thicker spool, and below them icons of a drive roll, a nozzle and a spool. No people.",
+   "narration": "换粗一号的焊丝，配件跟着换。",
+   "overlay": [
+    "换粗一号的焊丝"
+   ],
+   "labels": [
+    "送丝轮",
+    "送丝嘴",
+    "丝盘"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "打开压紧器，倒转丝盘退丝，丝头卡进小孔",
+   "prompt_en": "Hands open the tension levers, turn the spool backward to pull the wire out, and tuck the wire end into a hole on the spool rim.",
+   "narration": "退出焊丝，丝头卡进丝盘小孔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "换上外侧规格与丝径一致的送丝轮",
+   "prompt_en": "Close view of a drive roll with a magnified blank size marking being fitted; the old pair is stored above the drive unit.",
+   "narration": "换上规格一致的送丝轮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "送丝嘴换成大号",
+   "prompt_en": "Close view of hands screwing a larger copper nozzle onto the wire feeding tube.",
+   "narration": "送丝嘴也换成大号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "装新丝盘，戴手套剪丝头，穿丝",
+   "prompt_en": "Hands mount a new spool, a gloved hand trims the bent wire end with cutters, and the wire is threaded into the drive unit.",
+   "narration": "装新丝盘，剪弯头，穿丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "换粗一号的焊丝",
+   "scene": "调张力，按住送丝键直到出丝",
+   "prompt_en": "Tension knobs are turned beside a blank table; a finger holds the feed button until the wire comes out of the nozzle.",
+   "narration": "调好张力，送丝到出嘴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "清洁喷嘴：先防烫",
+   "scene": "切割机喷嘴发红热，高温标志",
+   "prompt_en": "Close view of the copper nozzle on the cutting head glowing warm, with a hot surface warning sign. No people.",
+   "narration": "刚加工完，喷嘴可能很烫。",
+   "overlay": [
+    "清洁喷嘴：先防烫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "清洁喷嘴：先防烫",
+   "scene": "戴耐热手套拧下喷嘴，用布擦",
+   "prompt_en": "A hand in a thick leather heat-resistant glove unscrews the nozzle and wipes it with a cloth.",
+   "narration": "戴耐热手套拧下来，擦干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "清洁底板",
+   "scene": "戴手套拉出底板，沙和熔渣倒进盒子",
+   "prompt_en": "Gloved hands pull out the base tray and pour sand and slag into a plastic box.",
+   "narration": "拉出底板，倒出沙和熔渣。",
+   "overlay": [
+    "清洁底板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "清洁底板",
+   "scene": "酒精无尘布擦底板，再铺新沙",
+   "prompt_en": "A lint-free cloth wipes the empty base tray, then fresh sand is poured in and spread evenly. No people besides hands.",
+   "narration": "必要时擦净底板，再加沙推回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "清洁摄像头镜头",
+   "scene": "清洁剂喷在布上，再擦摄像头",
+   "prompt_en": "A spray bottle sprays cleaner onto a lint-free cloth, which then wipes a small camera lens inside the machine.",
+   "narration": "清洁剂喷在布上，再擦摄像头。",
+   "overlay": [
+    "清洁摄像头镜头"
+   ],
+   "labels": [
+    "喷在布上"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "清洁灯条",
+   "scene": "擦拭机内顶部的灯条",
+   "prompt_en": "A hand with a lint-free cloth wipes a long LED strip light at the top inside the machine.",
+   "narration": "擦净机内的灯条。",
+   "overlay": [
+    "清洁灯条"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "清洁防护盖",
+   "scene": "打开的防护盖，擦观察窗内侧",
+   "prompt_en": "The lid of the cutting machine is open and a hand wipes the inside of the tinted viewing window.",
+   "narration": "防护盖观察窗，里外都要擦。",
+   "overlay": [
+    "清洁防护盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "清洁防护盖",
+   "scene": "擦观察窗外侧，窗面透亮",
+   "prompt_en": "A hand wipes the outside of the tinted viewing window until it is clear. No other people.",
+   "narration": "窗面干净，才能看清机内情况。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "清洁夹具和防尘板",
+   "scene": "擦拭夹具导轨和防尘板",
+   "prompt_en": "A hand with a cloth wipes the fixture rail and the dustproof plate along the edge of the cutting bed.",
+   "narration": "夹具导轨和防尘板，擦去灰渣。",
+   "overlay": [
+    "清洁夹具和防尘板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "清理栅条上的熔渣",
+   "scene": "栅条齿上结满熔渣，手戴手套取出",
+   "prompt_en": "A gloved hand lifts a metal slat whose teeth are crusted with slag out of the cutting bed.",
+   "narration": "栅条上结满熔渣，取出来清理。",
+   "overlay": [
+    "清理栅条上的熔渣"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "清理栅条上的熔渣",
+   "scene": "老李戴面罩、护目镜和皮手套，用带护罩的角磨机打磨固定好的栅条",
+   "prompt_en": "The facility engineer wearing a face shield over safety goggles and leather gloves grinds slag off a slat clamped in a bench vise with a guarded angle grinder; sparks fly toward a cleared floor.",
+   "narration": "磨掉熔渣，齿口恢复平整。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "清理栅条上的熔渣",
+   "scene": "干净的栅条放回槽里",
+   "prompt_en": "Clean slats with smooth teeth are placed back into the slots of the cutting bed. No people.",
+   "narration": "清理好的栅条装回去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拆洗排风扇",
+   "scene": "从机背取下排风扇组件，拔开插头",
+   "prompt_en": "The facility engineer removes the exhaust fan box from the back of the machine and unplugs its connector.",
+   "narration": "取下排风扇，拔开插头。",
+   "overlay": [
+    "拆洗排风扇"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拆洗排风扇",
+   "scene": "拆螺丝，取下外壳和网罩",
+   "prompt_en": "On a table, hands remove screws, lift off the fan housing and take off the wire guard.",
+   "narration": "拆螺丝，取下外壳和网罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拆洗排风扇",
+   "scene": "刷子刷扇叶和框里的积尘，戴口罩",
+   "prompt_en": "The facility engineer wearing a dust mask brushes dust off the fan blades and frame with a soft brush.",
+   "narration": "用刷子刷掉扇叶上的积尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拆洗排风扇",
+   "scene": "用布擦净扇叶",
+   "prompt_en": "A cloth wipes each fan blade clean. No people besides hands.",
+   "narration": "再用布擦干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拆洗排风扇",
+   "scene": "复装网罩、外壳，接线装回机器",
+   "prompt_en": "The fan, guard and housing are reassembled, the connector is plugged back in and the box is pressed onto the machine.",
+   "narration": "按原样装好，接线装回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "清洁底板滑轨",
+   "scene": "拆下后板和两侧侧板，侧板上标着左右",
+   "prompt_en": "The back panel and the side panels of the cutting machine are removed; the side panels have blank left and right marks.",
+   "narration": "拆下后板和左右侧板。",
+   "overlay": [
+    "清洁底板滑轨"
+   ],
+   "labels": [
+    "右",
+    "左"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "清洁底板滑轨",
+   "scene": "擦拭底板滑轨",
+   "prompt_en": "A hand with a cloth wipes the slide rails that carry the base tray. No other people.",
+   "narration": "擦净底板滑轨，推拉才顺。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维护前：停机、断电、冷却",
+   "scene": "关掉两台设备电源，拔钥匙，拔下电源插头",
+   "prompt_en": "A hand switches off both machines, removes the key and unplugs the power cable from the socket.",
+   "narration": "维护前，关机、拔钥匙、断电源。",
+   "overlay": [
+    "维护前：停机、断电、冷却"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维护前：停机、断电、冷却",
+   "scene": "门口挂上维修中警示牌",
+   "prompt_en": "A blank maintenance warning tag hangs on the machine's power switch and a sign stands at the machine. No people.",
+   "narration": "挂上维修牌，防止别人误开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维护前：停机、断电、冷却",
+   "scene": "温度计图标下降，等喷嘴冷却",
+   "prompt_en": "Icon of a thermometer dropping next to the nozzle and a clock. No people.",
+   "narration": "高温部件先冷却，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "酒精和清洁剂防火",
+   "scene": "小瓶酒精、清洁剂，旁边火焰图标打叉",
+   "prompt_en": "A small closed bottle of alcohol and a spray cleaner, next to a flame icon crossed out with a red X. No people.",
+   "narration": "酒精和清洁剂易燃，少量取用。",
+   "overlay": [
+    "酒精和清洁剂防火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "酒精和清洁剂防火",
+   "scene": "开窗通风，用过的布放进带盖金属桶",
+   "prompt_en": "A window is opened for ventilation and used cloths are dropped into a closed metal bin. No people besides a hand.",
+   "narration": "通风，远离热源，废布放带盖桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "用角磨机的防护",
+   "scene": "角磨机使用防护图标：面罩、护目镜、手套、护罩",
+   "prompt_en": "Four icons: a face shield, safety goggles, leather gloves and an angle grinder with its guard highlighted. No people.",
+   "narration": "用角磨机，要戴护目镜和面罩。",
+   "overlay": [
+    "用角磨机的防护"
+   ],
+   "labels": [
+    "护目镜",
+    "面罩",
+    "皮手套",
+    "护罩"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "用角磨机的防护",
+   "scene": "工件用台钳夹紧，火花方向没有可燃物",
+   "prompt_en": "A slat is clamped firmly in a bench vise; the spark direction points to a cleared floor with no boxes. No people.",
+   "narration": "工件夹牢，火花朝向空地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "用角磨机的防护",
+   "scene": "没戴护目镜打磨的图标打叉",
+   "prompt_en": "Icon of a person grinding metal without eye protection, crossed out with a red X. No people.",
+   "narration": "电动工具要培训后才能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "粉尘和废料处置",
+   "scene": "倒沙时扬起灰尘，小研戴口罩",
+   "prompt_en": "The female graduate student wearing a dust mask pours old sand from the tray; a small dust cloud rises.",
+   "narration": "倒沙、刷灰会扬尘，戴好口罩。",
+   "overlay": [
+    "粉尘和废料处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "粉尘和废料处置",
+   "scene": "熔渣和废沙装进有标签的废料桶",
+   "prompt_en": "Slag and used sand go into a closed waste bin with a blank label. No people besides a hand.",
+   "narration": "废渣按学校规定分类处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "维护权限与记录",
+   "scene": "设备旁贴着空白维护清单，部分部件标着禁止拆",
+   "prompt_en": "A blank maintenance checklist beside the machine; the laser source box and power module carry a do not open sign. No people.",
+   "narration": "能拆哪些部件，按说明书和规定。",
+   "overlay": [
+    "维护权限与记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "维护权限与记录",
+   "scene": "老李把钥匙和密码信封锁进柜子",
+   "prompt_en": "The facility engineer locks a key and an envelope marked with a padlock icon into a small cabinet.",
+   "narration": "管理员密码专人管，默认密码要改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "维护权限与记录",
+   "scene": "小研在维护记录本上填写",
+   "prompt_en": "The female graduate student writes in a blank maintenance logbook.",
+   "narration": "每次保养都写进记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "装回后先查排风",
+   "scene": "装回排风扇后开机，烟雾被顺利抽走",
+   "prompt_en": "After reassembly, the exhaust fan runs and a thin test smoke is drawn smoothly out of the machine. No people.",
+   "narration": "装回后先试排风，正常再加工。",
+   "overlay": [
+    "装回后先查排风"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "受伤处置与报告",
+   "scene": "阿杰手指割伤，小研拿急救箱",
+   "prompt_en": "The young male student holds a small cut on his finger; the female graduate student opens a first aid kit.",
+   "narration": "割伤、烫伤，先做简单处理。",
+   "overlay": [
+    "受伤处置与报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "受伤处置与报告",
+   "scene": "眼睛进异物，到洗眼器冲洗",
+   "prompt_en": "The young male student rinses his eye at an eyewash station with the female graduate student beside him.",
+   "narration": "铁屑进眼，冲洗后马上就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "受伤处置与报告",
+   "scene": "小研打电话，三个报告图标",
+   "prompt_en": "The female graduate student makes a phone call; beside her icons of a lab door, a college building and a security shield.",
+   "narration": "严重的拨打120，并逐级报告。",
+   "overlay": [],
+   "labels": [
+    "120",
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现镜片、红点、焊丝盘图标",
+   "prompt_en": "The panda mascot points to floating icons of a lens, a red dot and a wire spool.",
+   "narration": "焊机：镜片洁净，红光对准，配件匹配。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现喷嘴、底板、栅条、风扇图标",
+   "prompt_en": "The panda mascot points to icons of a nozzle, a base tray, a slat and a fan.",
+   "narration": "切割机：喷嘴底板栅条风扇，定期清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现插头、手套、护目镜图标",
+   "prompt_en": "The panda mascot points to icons of an unplugged power plug, gloves and safety goggles.",
+   "narration": "先断电冷却，防护戴好，再保养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、阿杰、老李在擦得发亮的设备前挥手",
+   "prompt_en": "The panda mascot, the female graduate student, the young male student and the facility engineer wave goodbye in front of the clean, shiny machines.",
+   "narration": "勤保养，安全用，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
