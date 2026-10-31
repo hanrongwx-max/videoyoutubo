@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 243 / 441 个视频。
+已编写 244 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 40 / 47 |
+| BIORISK MANAGEMENT | 41 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -117,6 +117,7 @@
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 楼和柜子怎么挡住病原体：工程控制 | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/审查报告.md>) |
 | BIORISK MANAGEMENT | 41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT | 最后一道防线：个人防护 | 92 | 7:40 | 19 / 3 | [剧本](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/script.md>) · [审查](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 生物安全员：职责与担当 | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/审查报告.md>) |
+| BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 安全做得好不好，怎么评 | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
