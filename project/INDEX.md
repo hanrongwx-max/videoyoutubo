@@ -8,7 +8,7 @@
 |---|---|---|
 | BIORISK MANAGEMENT | 47 / 47 | 0 / 42 |
 | Microbiology Biosafety | 44 / 59 | 0 / 25 |
-| CDC Laboratory Safety Series | 23 / 23 | 3 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 4 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 1 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
@@ -150,6 +150,7 @@
 | CDC Laboratory Safety Series | 12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe | 国内版 | 看不见的气幕：生物安全柜的气流（国内版） | 66 | 5:30 | 14 / 4 | [剧本](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 原著版 | 开工前，先把安全柜准备好 | 62 | 5:10 | 25 / 0 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo/script.md>) |
 | CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 国内版 | 开工前，先把安全柜准备好（国内版） | 75 | 6:15 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of | 原著版 | 生物安全柜的安全使用 | 60 | 5:00 | 20 / 0 | [剧本](<CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of/script.md>) |
 | CDC Laboratory Safety Series | 14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of | 国内版 | 生物安全柜的安全使用（国内版） | 71 | 5:55 | 20 / 3 | [剧本](<CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W | 国内版 | 生物安全柜的收尾工作（国内版） | 62 | 5:10 | 19 / 2 | [剧本](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up | 国内版 | 生物安全柜内溢洒的清理（国内版） | 50 | 4:10 | 14 / 3 | [剧本](<CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（国内版）/审查报告.md>) |
