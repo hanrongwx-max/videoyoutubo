@@ -1,0 +1,618 @@
+{
+ "id": "18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "双控与三控照明：口试问答与家庭用电",
+ "seconds": 215,
+ "source_doc": "course/Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way.md",
+ "author_source": "project/Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way/src.py",
+ "points": {
+  "K1": "双控用在哪里",
+  "K2": "双控电路的组成",
+  "K3": "双控真值表",
+  "K4": "三控用在哪里",
+  "K5": "三控电路：加一个中间开关",
+  "K6": "中间开关：直通与交叉",
+  "K7": "三控真值表",
+  "K8": "什么是单刀单掷开关",
+  "K9": "先交真值表，再做实验",
+  "K10": "家用电器为什么要并联",
+  "K11": "直通和交叉怎么区分",
+  "K12": "记好要点，有疑问就问"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在楼梯口，楼梯上下各有一个开关，头顶一盏灯",
+   "prompt_en": "The panda mascot stands at the foot of a staircase with a wall switch at the bottom and another at the top, one ceiling lamp above, waving at the camera.",
+   "narration": "大家好！今天复习双控和三控照明。",
+   "overlay": [
+    "双控与三控照明：口试问答与家庭用电"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "楼梯、走廊、家里插座三个图标",
+   "prompt_en": "Three icons in a row: a staircase with a lamp, a long corridor with a lamp, and a wall socket. No people.",
+   "narration": "还有家里的电器为什么要并联。",
+   "overlay": [],
+   "labels": [
+    "双控",
+    "三控",
+    "家庭布线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在宿舍楼梯下按开关，灯亮了；他走到楼上犯愁",
+   "prompt_en": "The young male student switches on a stair light at the bottom of the dormitory stairs, then stands at the top looking puzzled.",
+   "narration": "阿杰上了楼，楼下的灯怎么关？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在楼上按另一个开关，灯灭了，阿杰惊讶",
+   "prompt_en": "The female graduate student presses the second switch at the top of the stairs and the lamp turns off; the young male student looks surprised.",
+   "narration": "小研一按楼上的开关，灯就灭了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣指着两个开关之间的连线图标",
+   "prompt_en": "The panda mascot points at an icon of two switches linked by two wires to one lamp.",
+   "narration": "这就是双控，口试常考！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "双控用在哪里",
+   "scene": "楼梯上下两个开关控制一盏灯的图标",
+   "prompt_en": "An icon of a staircase with a switch at the bottom and a switch at the top, both controlling one lamp. No people.",
+   "narration": "第一题：双控用在哪？楼梯最典型。",
+   "overlay": [
+    "双控用在哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "双控用在哪里",
+   "scene": "卧室门口和床头各一个开关，控制吊灯",
+   "prompt_en": "An icon of a bedroom with one switch by the door and one by the bed, both controlling the ceiling lamp. No people.",
+   "narration": "卧室门口和床头也常这样装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "双控用在哪里",
+   "scene": "两个相隔较远的开关和一盏灯",
+   "prompt_en": "Two switches placed far apart, connected to a single lamp in the middle. No people.",
+   "narration": "两个不同位置的开关，控制同一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "双控电路的组成",
+   "scene": "单相交流电源、一盏灯、两个开关组成的电路图标",
+   "prompt_en": "A circuit icon: a single-phase AC source, one lamp, and two switches S1 and S2. No people.",
+   "narration": "单相交流电源、一盏六十瓦灯、两个开关。",
+   "overlay": [
+    "双控电路的组成"
+   ],
+   "labels": [
+    "S1",
+    "S2",
+    "60 W"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "双控电路的组成",
+   "scene": "两个开关之间两根联络线高亮",
+   "prompt_en": "The two connecting wires between the two switches highlighted in the circuit icon. No people.",
+   "narration": "两个开关之间，用两根联络线相连。",
+   "overlay": [],
+   "labels": [
+    "联络线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "双控电路的组成",
+   "scene": "一个开关有两个触点位置的放大图标",
+   "prompt_en": "A close-up icon of a switch with one common terminal and two contact positions. No people.",
+   "narration": "每个开关有两个位置，可以来回切换。",
+   "overlay": [],
+   "labels": [
+    "A",
+    "B"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控真值表",
+   "scene": "空白表格，四行只有亮灯和灭灯图标",
+   "prompt_en": "A blank four-row table grid with only lamp-on and lamp-off icons in its last column. No people.",
+   "narration": "双控真值表一共四种组合。",
+   "overlay": [
+    "双控真值表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控真值表",
+   "scene": "两个开关拨到同一侧，灯亮",
+   "prompt_en": "An icon of two switches set to matching positions and the lamp glowing. No people.",
+   "narration": "A 对 C、B 对 D，电路接通灯亮。",
+   "overlay": [],
+   "labels": [
+    "A-C 亮",
+    "B-D 亮"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控真值表",
+   "scene": "两个开关拨到不同侧，灯灭",
+   "prompt_en": "An icon of two switches set to opposite positions and the lamp dark. No people.",
+   "narration": "A 对 D、B 对 C，电路断开灯灭。",
+   "overlay": [],
+   "labels": [
+    "A-D 灭",
+    "B-C 灭"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控真值表",
+   "scene": "欣欣拨动任意一个开关，灯状态翻转",
+   "prompt_en": "The panda mascot flips one of two switches and the lamp changes state.",
+   "narration": "规律：拨动任何一个，灯就翻转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三控用在哪里",
+   "scene": "一条长走廊，两端和中间各一个开关，一盏灯",
+   "prompt_en": "An icon of a long corridor with switches at both ends and one in the middle, controlling one lamp. No people.",
+   "narration": "第二题：三控用在哪？长走廊。",
+   "overlay": [
+    "三控用在哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三控用在哪里",
+   "scene": "走廊两侧是一排排带栏杆的门，三个开关分布在走廊上",
+   "prompt_en": "A long corridor lined with many barred cell doors, three wall switches spaced along it. No people.",
+   "narration": "比如监狱牢房外的走廊，叫监狱布线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三控用在哪里",
+   "scene": "三个开关分布在走廊上，控制同一盏灯",
+   "prompt_en": "Three wall switches spaced along a corridor, all controlling the same lamp. No people.",
+   "narration": "三个位置，开关同一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三控电路：加一个中间开关",
+   "scene": "三控电路图标：两端两个开关，中间多一个开关",
+   "prompt_en": "A circuit icon: one lamp with a switch at each end and an extra switch in the middle. No people.",
+   "narration": "三控电路：两端还是双控开关。",
+   "overlay": [
+    "三控电路：加一个中间开关"
+   ],
+   "labels": [
+    "S1",
+    "中间开关",
+    "S2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三控电路：加一个中间开关",
+   "scene": "中间开关高亮，四个接线端",
+   "prompt_en": "The middle switch highlighted, showing four terminals. No people.",
+   "narration": "中间再加一个中间开关。",
+   "overlay": [],
+   "labels": [
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "中间开关内部两条线平行连接",
+   "prompt_en": "An icon of the intermediate switch with two internal links running straight across, parallel. No people.",
+   "narration": "中间开关有两种状态。第一种：直通。",
+   "overlay": [
+    "中间开关：直通与交叉"
+   ],
+   "labels": [
+    "E-F",
+    "G-H"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "中间开关内部两条线交叉连接",
+   "prompt_en": "An icon of the intermediate switch with two internal links crossing each other in an X shape. No people.",
+   "narration": "第二种：交叉。",
+   "overlay": [],
+   "labels": [
+    "E-H",
+    "F-G"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "欣欣双手先平行后交叉比划",
+   "prompt_en": "The panda mascot holds two arms parallel, then crosses them in an X.",
+   "narration": "一按开关，就在直通和交叉之间切换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三控真值表",
+   "scene": "八行空白表格，只有亮灭图标",
+   "prompt_en": "A blank eight-row table grid with only lamp-on and lamp-off icons in the last column. No people.",
+   "narration": "三控真值表一共八行。",
+   "overlay": [
+    "三控真值表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三控真值表",
+   "scene": "表格前四行被圈出，标平行线图标",
+   "prompt_en": "The top four rows of the table circled, marked with a parallel-lines icon. No people.",
+   "narration": "前四行是直通，亮、灭、灭、亮。",
+   "overlay": [],
+   "labels": [
+    "1–4 直通"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三控真值表",
+   "scene": "表格后四行被圈出，标交叉图标",
+   "prompt_en": "The bottom four rows of the table circled, marked with a crossing X icon. No people.",
+   "narration": "后四行是交叉，灭、亮、亮、灭。",
+   "overlay": [],
+   "labels": [
+    "5–8 交叉"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三控真值表",
+   "scene": "三个开关任拨一个，灯状态翻转",
+   "prompt_en": "An icon of three switches; flipping any one of them changes the lamp state. No people.",
+   "narration": "同样，拨动任何一个开关，灯就翻转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是单刀单掷开关",
+   "scene": "一个开关符号：一个触点、一个闸刀",
+   "prompt_en": "A switch symbol icon with one blade and a single contact. No people.",
+   "narration": "第三题：什么是单刀单掷开关？",
+   "overlay": [
+    "什么是单刀单掷开关"
+   ],
+   "labels": [
+    "单刀单掷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是单刀单掷开关",
+   "scene": "闸刀合上灯亮，打开灯灭",
+   "prompt_en": "An icon of the single blade closing to light a lamp and opening to turn it off. No people.",
+   "narration": "一个刀、一个位置，只管通和断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "先交真值表，再做实验",
+   "scene": "阿杰把画好的空白真值表交给王老师",
+   "prompt_en": "The young male student hands a drawn table sheet with only lamp icons to the safety administrator.",
+   "narration": "第四题：画真值表。做实验前就要交。",
+   "overlay": [
+    "先交真值表，再做实验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "先交真值表，再做实验",
+   "scene": "王老师检查后点头，阿杰才开始接线",
+   "prompt_en": "The safety administrator checks the sheet and nods; only then does the young male student start wiring on the bench.",
+   "narration": "老师查过、允许了，才开始做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "家用电器为什么要并联",
+   "scene": "一排家用电器并排接在两根电源线上",
+   "prompt_en": "An icon of a TV, a lamp and a fan each connected side by side across two supply lines. No people.",
+   "narration": "第五题：家里的电器怎么接？并联。",
+   "overlay": [
+    "家用电器为什么要并联"
+   ],
+   "labels": [
+    "并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "家用电器为什么要并联",
+   "scene": "每个插座旁都标着相同的电压图标",
+   "prompt_en": "Several wall socket icons, each with an identical small voltage badge. No people.",
+   "narration": "并联时，每个插座都是二百三十伏。",
+   "overlay": [],
+   "labels": [
+    "230V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "家用电器为什么要并联",
+   "scene": "关掉电视，台灯和风扇照常工作",
+   "prompt_en": "An icon row where the TV is switched off but the lamp and the fan keep working. No people.",
+   "narration": "关掉一个电器，别的照常用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "家用电器为什么要并联",
+   "scene": "三个电器串成一串的图标被红叉划掉",
+   "prompt_en": "An icon of three appliances connected in a single chain, crossed out with a red X. No people.",
+   "narration": "要是串联，电压被分掉，一断全断。",
+   "overlay": [],
+   "labels": [
+    "串联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "家用电器为什么要并联",
+   "scene": "欣欣举着并联图标",
+   "prompt_en": "The panda mascot holds up a card with a parallel-circuit icon.",
+   "narration": "所以家庭布线一定是并联。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "直通和交叉怎么区分",
+   "scene": "平行和交叉两个图标并排",
+   "prompt_en": "Two icons side by side: two parallel lines and two crossing lines. No people.",
+   "narration": "第六题：直通和交叉怎么分？",
+   "overlay": [
+    "直通和交叉怎么区分"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "直通和交叉怎么区分",
+   "scene": "直通图标标 EF、GH，交叉图标标 EH、FG",
+   "prompt_en": "The parallel-lines icon and the crossing icon, each with small terminal letters. No people.",
+   "narration": "E 连 F、G 连 H 是直通，反之交叉。",
+   "overlay": [],
+   "labels": [
+    "直通 EF GH",
+    "交叉 EH FG"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "记好要点，有疑问就问",
+   "scene": "阿杰在空白笔记本上画开关图标",
+   "prompt_en": "The young male student draws switch icons in a blank notebook.",
+   "narration": "要点记下来，有疑问就问老师。",
+   "overlay": [
+    "记好要点，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "楼梯双控和走廊三控两个图标",
+   "prompt_en": "Two icons: a staircase with two-way switches and a corridor with three switches. No people.",
+   "narration": "双控楼梯，三控长走廊。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "直通和交叉、八行表格图标",
+   "prompt_en": "Icons of parallel and crossing links next to an eight-row table with lamp icons. No people.",
+   "narration": "中间开关分直通和交叉，真值表要会画。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "并联电器和单刀开关图标",
+   "prompt_en": "Icons of parallel-connected appliances and a single-blade switch. No people.",
+   "narration": "家用电器并联；单刀单掷只管通断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在楼梯口按下开关，灯亮，挥手告别",
+   "prompt_en": "The panda mascot presses the stair switch, the lamp lights up, and it waves goodbye.",
+   "narration": "祝口试顺利，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

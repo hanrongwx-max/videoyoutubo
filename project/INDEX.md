@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 17 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 18 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -244,6 +244,7 @@
 | Basic Electrical Engineering Lab | 16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single | 国内版 | 电工实验口试：单相功率篇（国内版） | 53 | 4:25 | 20 / 3 | [剧本](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer | 原著版 | 三电压表法：口试问答与用电安全 | 48 | 4:00 | 13 / 0 | [剧本](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/script.md>) |
 | Basic Electrical Engineering Lab | 17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer | 国内版 | 三电压表法：口试问答与用电安全（国内版） | 68 | 5:40 | 13 / 5 | [剧本](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way | 原著版 | 双控与三控照明：口试问答与家庭用电 | 43 | 3:35 | 12 / 0 | [剧本](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way/script.md>) |
 | Basic Electrical Engineering Lab | 18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way | 国内版 | 双控与三控照明：口试问答与家庭用电（国内版） | 59 | 4:55 | 12 / 5 | [剧本](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B | 国内版 | 星形与三角形：三相电路口试问答（国内版） | 67 | 5:35 | 16 / 5 | [剧本](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical | 国内版 | 最大功率传输：口试问答与电池光伏安全（国内版） | 43 | 3:35 | 8 / 5 | [剧本](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（国内版）/审查报告.md>) |
