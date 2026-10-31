@@ -1,0 +1,650 @@
+{
+ "id": "05_APB - Plant Cloning",
+ "edition": "原著版",
+ "series": "Animal & Plant Biotech Safety",
+ "title": "植物克隆：组织培养入门",
+ "seconds": 240,
+ "source_doc": "course/Animal & Plant Biotech Safety/05_APB - Plant Cloning.md",
+ "author_source": "project/Animal & Plant Biotech Safety/05_APB - Plant Cloning/src.py",
+ "points": {
+  "K1": "有了新基因，还要长成新植株",
+  "K2": "什么是组织培养",
+  "K3": "培养基提供营养和激素",
+  "K4": "愈伤组织与分化",
+  "K5": "用植物的哪个部位",
+  "K6": "第一步：取材，诱导胚状体",
+  "K7": "第二步：分开，转到生根培养基",
+  "K8": "第三步：长成小植株，再驯化",
+  "K9": "培养条件",
+  "K10": "组织培养的优点",
+  "K11": "组织培养的缺点",
+  "K12": "复习与蕨类培养活动"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在培养架前，架上一排培养瓶里长着小绿苗",
+   "prompt_en": "The panda mascot stands in front of a shelf of glass culture jars with tiny green plantlets inside and waves at the camera.",
+   "narration": "这一课讲植物克隆：组织培养入门。",
+   "overlay": [
+    "植物克隆：组织培养入门"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "一片叶子、一团细胞、一株小苗、一盆植物四个图标排成一行",
+   "prompt_en": "Four icons in a row connected by arrows: a small leaf piece, a cluster of cells, a tiny plantlet and a potted plant. No people.",
+   "narration": "一小块组织，能长成一整株植物。",
+   "overlay": [],
+   "labels": [
+    "取材",
+    "愈伤",
+    "小苗",
+    "成株"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰捧着一个培养瓶，瓶里只有一小片绿色组织",
+   "prompt_en": "The young male student holds a glass culture jar containing only a tiny piece of green plant tissue on gel, looking puzzled.",
+   "narration": "阿杰不信：这一小片，能长成植物？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿出几个培养阶段不同的瓶子排成一排",
+   "prompt_en": "The female graduate student lines up several culture jars showing different stages from tiny tissue to small plantlets.",
+   "narration": "小研摆出一排瓶子：你看它怎么长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "这就是植物组织培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "有了新基因，还要长成新植株",
+   "scene": "一个植物细胞里亮起新的基因片段",
+   "prompt_en": "Diagram of a plant cell with a newly inserted glowing gene segment inside. No people.",
+   "narration": "植物细胞导入了想要的基因，",
+   "overlay": [
+    "有了新基因，还要长成新植株"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "有了新基因，还要长成新植株",
+   "scene": "一个细胞变成一片植株群体，每株都带亮点",
+   "prompt_en": "Diagram of one plant cell growing into a group of young plants, each with a small glowing mark. No people.",
+   "narration": "还得长成新植株，基因才能在群体中表达。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是组织培养",
+   "scene": "瓶口包着锡箔的玻璃培养瓶，里面是绿苗",
+   "prompt_en": "A glass culture jar with its mouth covered by foil and small green plantlets growing on gel inside. No people.",
+   "narration": "组织培养，也叫微繁殖。",
+   "overlay": [
+    "什么是组织培养"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是组织培养",
+   "scene": "试管图标旁边写着“离体”标记",
+   "prompt_en": "A test tube icon with a tiny plant tissue inside and a dashed outline showing it is outside the plant body. No people.",
+   "narration": "在试管里离体培养植物组织。",
+   "overlay": [],
+   "labels": [
+    "离体培养"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是组织培养",
+   "scene": "一个细胞长成整株植物的示意",
+   "prompt_en": "Diagram of a single plant cell gradually becoming a whole plant through several stages. No people.",
+   "narration": "理论上，一个细胞就能再生出整株植物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "培养基提供营养和激素",
+   "scene": "一小块组织旁边的营养和激素电量条都很低",
+   "prompt_en": "A tiny piece of plant tissue next to two low battery bars marked with a sugar cube icon and a hormone drop icon. No people.",
+   "narration": "组织太小，自身养分和激素不够用。",
+   "overlay": [
+    "培养基提供营养和激素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "培养基提供营养和激素",
+   "scene": "组织放在半透明的琼脂上，糖块和激素滴渗入",
+   "prompt_en": "A tiny tissue piece resting on clear agar gel, with sugar cube icons and hormone drop icons seeping in. No people.",
+   "narration": "所以放在含糖和激素的琼脂上。",
+   "overlay": [],
+   "labels": [
+    "营养：蔗糖",
+    "激素：生长素"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "培养基提供营养和激素",
+   "scene": "琼脂里的水滴和养分颗粒流向细胞",
+   "prompt_en": "Water droplets and nutrient dots flowing from the gel into the cells. No people.",
+   "narration": "琼脂提供水分和养分，让细胞增殖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "试管里一团黄色无序的细胞团",
+   "prompt_en": "A test tube with a pale yellow lumpy mass of unorganized cells on gel. No people.",
+   "narration": "细胞增殖成一团无序的细胞，",
+   "overlay": [
+    "愈伤组织与分化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "放大后的细胞团，像一堆小泡泡",
+   "prompt_en": "Magnified view of the cell mass looking like a cluster of round bubbles. No people.",
+   "narration": "这团细胞，叫愈伤组织。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "愈伤组织上长出小根和小芽",
+   "prompt_en": "Diagram of the callus sprouting tiny white roots below and small green shoots above. No people.",
+   "narration": "再换含生长素的培养基，诱导分化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "细胞分化成根、茎、叶的示意",
+   "prompt_en": "Diagram of cells differentiating into root, stem and leaf tissues. No people.",
+   "narration": "长出根、分生组织，形成各种组织器官。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "用植物的哪个部位",
+   "scene": "一株植物上多个部位被圈出来",
+   "prompt_en": "A plant diagram with several parts circled: shoot tip, root tip, leaf, flower bud, seed and fruit. No people.",
+   "narration": "只要是活组织，哪个部位都能用。",
+   "overlay": [
+    "用植物的哪个部位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "用植物的哪个部位",
+   "scene": "茎尖和嫩叶被放大，打上绿勾",
+   "prompt_en": "Close view of a shoot tip and a young leaf with green check marks. No people.",
+   "narration": "茎尖、分生组织、嫩叶，成功率最高。",
+   "overlay": [],
+   "labels": [
+    "茎尖",
+    "分生组织",
+    "嫩叶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "用植物的哪个部位",
+   "scene": "根尖、花药、花芽、种子、果实图标排一排",
+   "prompt_en": "A row of icons: a root tip, an anther, a flower bud, a seed and a fruit. No people.",
+   "narration": "根尖、花药、花芽、种子、果实也可以。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第一步：取材，诱导胚状体",
+   "scene": "小研在花盆前挑选一株最壮的植物",
+   "prompt_en": "The female graduate student examines several potted plants and chooses the healthiest one.",
+   "narration": "第一步，从性状优良的母株上取材。",
+   "overlay": [
+    "第一步：取材，诱导胚状体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第一步：取材，诱导胚状体",
+   "scene": "小研在超净工作台里把组织放到培养基上",
+   "prompt_en": "The female graduate student, in lab coat and gloves, places a small tissue piece onto a culture medium inside a clean bench.",
+   "narration": "在无菌环境里，把组织放到培养基上，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第一步：取材，诱导胚状体",
+   "scene": "组织上冒出几个小小的胚状体",
+   "prompt_en": "Diagram of tiny embryo-like green bumps forming on the tissue. No people.",
+   "narration": "诱导它形成胚状体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第二步：分开，转到生根培养基",
+   "scene": "一簇胚状体被镊子轻轻分开",
+   "prompt_en": "Diagram of a cluster of small green embryos being gently separated by forceps. No people.",
+   "narration": "第二步，把成簇的胚状体分开。",
+   "overlay": [
+    "第二步：分开，转到生根培养基"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第二步：分开，转到生根培养基",
+   "scene": "单个胚状体被移到新的培养瓶里",
+   "prompt_en": "A single small embryo being moved by forceps into a fresh culture jar. No people.",
+   "narration": "在无菌环境中，一个个转到新培养基。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第二步：分开，转到生根培养基",
+   "scene": "新培养瓶标签处画着根的图标和激素滴",
+   "prompt_en": "A fresh culture jar with a blank label, a small root icon and a hormone drop icon beside it. No people.",
+   "narration": "这是含营养和生根激素的生根培养基。",
+   "overlay": [],
+   "labels": [
+    "生根培养基"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第三步：长成小植株，再驯化",
+   "scene": "胚状体长出根和芽，变成小植株",
+   "prompt_en": "Time-lapse style diagram of an embryo growing roots and shoots into a small plantlet. No people.",
+   "narration": "第三步，激素促进根和芽生长，",
+   "overlay": [
+    "第三步：长成小植株，再驯化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第三步：长成小植株，再驯化",
+   "scene": "培养瓶里一株株小苗",
+   "prompt_en": "A culture jar with several small plantlets standing on gel. No people.",
+   "narration": "形成小植株，并逐渐长大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第三步：长成小植株，再驯化",
+   "scene": "小苗移到温室小盆里，盖着透明罩",
+   "prompt_en": "Small plantlets moved into little pots under a clear plastic dome in a greenhouse. No people.",
+   "narration": "小苗娇嫩易病，先在受控环境里驯化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第三步：长成小植株，再驯化",
+   "scene": "小苗长大移到户外田间",
+   "prompt_en": "Young plants growing larger and finally planted outdoors in a field. No people.",
+   "narration": "能适应正常环境后，再移栽出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "培养条件",
+   "scene": "温度计、灯泡、营养颗粒、激素滴四个图标",
+   "prompt_en": "Four icons in a row: a thermometer, a light bulb, nutrient pellets and a hormone drop. No people.",
+   "narration": "培养条件要调控：温度、光照、营养、激素。",
+   "overlay": [
+    "培养条件"
+   ],
+   "labels": [
+    "温度",
+    "光照",
+    "营养",
+    "激素"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "培养条件",
+   "scene": "培养室里一排架子，灯光柔和",
+   "prompt_en": "A plant growth room with neat shelves of culture jars under soft lights. No people.",
+   "narration": "需求和普通植物一样，只是更照顾幼嫩细胞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组织培养的优点",
+   "scene": "一小块组织变出一大片小苗",
+   "prompt_en": "Diagram of one tiny tissue piece multiplying into a large tray full of plantlets. No people.",
+   "narration": "优点一：少量组织，就能大量繁殖。",
+   "overlay": [
+    "组织培养的优点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组织培养的优点",
+   "scene": "组培苗和种子繁殖并排赛跑，组培苗领先",
+   "prompt_en": "Diagram of two tracks: a culture jar plantlet racing ahead of a seed sprout. No people.",
+   "narration": "多数物种，比有性繁殖更快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组织培养的优点",
+   "scene": "一株稀有植物和一个难繁殖的植物图标都打勾",
+   "prompt_en": "Icons of a rare precious plant and a hard-to-propagate plant, both with green checks. No people.",
+   "narration": "材料稀少、常规难繁殖的，也能用它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组织培养的优点",
+   "scene": "小苗周围的病菌图标被挡在外面",
+   "prompt_en": "Small plantlets inside a jar with germ icons kept outside a shield. No people.",
+   "narration": "通常还能得到不带病的植株。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "组织培养的缺点",
+   "scene": "钱币、时钟和专用设备图标",
+   "prompt_en": "Icons of coins, a clock and a clean bench equipment. No people.",
+   "narration": "缺点：需要专门设备和技能，费钱费工。",
+   "overlay": [
+    "组织培养的缺点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "组织培养的缺点",
+   "scene": "DNA双螺旋上一处颜色异常",
+   "prompt_en": "A DNA double helix icon with one segment in an unusual color and a small warning mark. No people.",
+   "narration": "植株可能发生遗传突变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "组织培养的缺点",
+   "scene": "移到户外的小苗蔫了",
+   "prompt_en": "A small plantlet wilting after being moved outdoors. No people.",
+   "narration": "早期很脆弱，可能适应不了正常环境。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "复习与蕨类培养活动",
+   "scene": "笔记本上三处荧光笔标记和一个问号",
+   "prompt_en": "A notebook page with three highlighted lines and a question mark in the margin. No people.",
+   "narration": "划出三条要点，连上旧知识，写下疑问。",
+   "overlay": [
+    "复习与蕨类培养活动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "复习与蕨类培养活动",
+   "scene": "培养瓶里的蕨类小苗",
+   "prompt_en": "A culture jar with small fern plantlets growing inside. No people.",
+   "narration": "下一个活动，用组培繁殖蕨类植物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "复习与蕨类培养活动",
+   "scene": "一小片蕨叶变成整株蕨的示意",
+   "prompt_en": "Diagram of a tiny fern piece growing into a complete fern plant. No people.",
+   "narration": "体会植物细胞的全能性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "复习与蕨类培养活动",
+   "scene": "欣欣指着一个超净工作台图标",
+   "prompt_en": "The panda mascot points at an icon of a laminar flow clean bench.",
+   "narration": "无菌技术，下一课专门讲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现组织、愈伤组织、小苗图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a tissue piece, a callus and a plantlet.",
+   "narration": "组织到愈伤，愈伤到小苗，再到成株。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "温度计、灯泡、营养、激素图标打勾",
+   "prompt_en": "Icons of a thermometer, a light bulb, nutrients and a hormone drop, each with a green check. No people.",
+   "narration": "无菌操作，调控温光营养激素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "加号和减号两个图标",
+   "prompt_en": "A plus sign icon and a minus sign icon side by side. No people.",
+   "narration": "繁殖快、无病苗，但费钱、会突变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "蕨类小苗培养瓶和超净工作台图标",
+   "prompt_en": "Icons of a culture jar with fern plantlets and a laminar flow clean bench. No people.",
+   "narration": "动手培养蕨类，再学无菌技术。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣捧着一盆小植物挥手道别",
+   "prompt_en": "The panda mascot holds a small potted plant and waves goodbye at the camera.",
+   "narration": "小小组织，大大学问，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

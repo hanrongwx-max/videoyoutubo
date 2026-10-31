@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 50 / 59 | 1 / 25 |
 | BIORISK MANAGEMENT | 47 / 47 | 4 / 42 |
-| CDC Laboratory Safety Series | 23 / 23 | 7 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 4 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 2 / 12 |
@@ -150,6 +150,7 @@
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 原著版 | 安全问题找谁问 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 原著版 | 新实验，先评估 | 24 | 2:00 | 5 / 0 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario/script.md>) |
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 国内版 | 新实验，先评估（国内版） | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 国内版 | 一根电线引发的烫伤（国内版） | 29 | 2:25 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 国内版 | 是事故还是未遂（国内版） | 30 | 2:30 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/审查报告.md>) |
