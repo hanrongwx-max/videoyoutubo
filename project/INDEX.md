@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 18 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 19 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -648,6 +648,7 @@
 | Laboratory Ergonomics & RSI | 17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ | 国内版 | 安全常识十五问（国内版） | 62 | 5:10 | 15 / 5 | [剧本](<Laboratory Ergonomics & RSI/17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/17_Safety Objective Type Q A Safety Quiz Questions & Answers Safety Quiz Safety MCQ（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ | 原著版 | 有限空间安全十问 | 32 | 2:40 | 10 / 0 | [剧本](<Laboratory Ergonomics & RSI/18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ/script.md>) |
 | Laboratory Ergonomics & RSI | 18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ | 国内版 | 有限空间安全十问（国内版） | 52 | 4:20 | 10 / 5 | [剧本](<Laboratory Ergonomics & RSI/18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/18_Test Your Safety Knowledge of Confined Space Confined Space MCQs Test Safety MCQ（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H | 原著版 | 开挖与沟槽安全十五问 | 47 | 3:55 | 15 / 0 | [剧本](<Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H/script.md>) |
 | Laboratory Ergonomics & RSI | 19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H | 国内版 | 开挖与沟槽安全十五问（国内版） | 59 | 4:55 | 15 / 5 | [剧本](<Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S | 国内版 | 实验室里找答案：综合安全二十问（国内版） | 70 | 5:50 | 22 / 4 | [剧本](<Laboratory Ergonomics & RSI/20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD | 国内版 | 进场考核：二十五道判断题（国内版） | 77 | 6:25 | 26 / 4 | [剧本](<Laboratory Ergonomics & RSI/21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD（国内版）/审查报告.md>) |
