@@ -1,7 +1,7 @@
-# 激光设备旁，选对灭火器
+# 激光设备旁，选对灭火器（国内版）
 
-- 剧集：Laser Maintenance Group Safety；对应原视频：14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（内容分析见 `course/Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova.md`）
-- 版本：单一版
+- 剧集：Laser Maintenance Group Safety；对应原视频：08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（内容分析见 `course/Laser Maintenance Group Safety/08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova.md`）
+- 版本：国内版；原著版见 `../08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova/`
 - 时长：3 分 20 秒（40 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 36 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）

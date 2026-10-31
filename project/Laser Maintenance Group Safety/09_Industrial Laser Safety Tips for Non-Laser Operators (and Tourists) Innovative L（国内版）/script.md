@@ -1,7 +1,7 @@
-# 非操作人员的激光车间安全
+# 非操作人员的激光车间安全（国内版）
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（内容分析见 `course/Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L/`
 - 时长：5 分 40 秒（68 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 64 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
