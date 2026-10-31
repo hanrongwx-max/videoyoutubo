@@ -1,0 +1,889 @@
+{
+ "id": "22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "在线仿真验证基尔霍夫定律",
+ "seconds": 320,
+ "source_doc": "course/Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic.md",
+ "author_source": "project/Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic/src.py",
+ "points": {
+  "K1": "找到在线仿真实验",
+  "K2": "电压定律、电流定律分开做",
+  "K3": "仿真界面怎么用",
+  "K4": "实验页面的栏目",
+  "K5": "先读原理，做预习测试",
+  "K6": "步骤页有接线图",
+  "K7": "电压定律：接电源和电压表",
+  "K8": "先点检查，再选电阻",
+  "K9": "通电调压，记六组读数",
+  "K10": "绘图、打印、复位",
+  "K11": "电压定律的结论",
+  "K12": "电流定律：电流表要串联",
+  "K13": "检查接线，设定电阻",
+  "K14": "调电压，记三个电流",
+  "K15": "电流定律的结论",
+  "K16": "存档评价，用教材数值验证",
+  "K17": "仿真帮助教学",
+  "S1": "仿真接错能重来，真电路不行",
+  "S2": "先仿真预演，再上台实操",
+  "S3": "突然停电，先断开实验台开关",
+  "S4": "配电箱前不堆物"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣坐在笔记本电脑前，屏幕上是空白的电路仿真界面图标",
+   "prompt_en": "The panda mascot sits at a laptop whose screen shows only a simple circuit icon, waving at the camera.",
+   "narration": "大家好！今天用电脑做电路实验。",
+   "overlay": [
+    "在线仿真验证基尔霍夫定律"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "电脑、电路图标、电压表电流表图标",
+   "prompt_en": "Three icons in a row: a laptop, a circuit diagram, and a pair of meters. No people.",
+   "narration": "在线仿真，验证电压定律和电流定律。",
+   "overlay": [],
+   "labels": [
+    "电压定律",
+    "电流定律"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在宿舍抱着笔记本，课本上画着电路",
+   "prompt_en": "The young male student sits in his dorm with a laptop and an open textbook showing a circuit icon.",
+   "narration": "实验课前，阿杰想先在电脑上练练。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研凑过来指着屏幕",
+   "prompt_en": "The female graduate student leans over and points at his laptop screen.",
+   "narration": "小研说：有在线仿真，跟着做就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "找到在线仿真实验",
+   "scene": "电脑屏幕上一个空白搜索框和放大镜图标",
+   "prompt_en": "A laptop screen with a blank search box and a magnifier icon. No people.",
+   "narration": "先在浏览器里搜索基尔霍夫定律仿真。",
+   "overlay": [
+    "找到在线仿真实验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "找到在线仿真实验",
+   "scene": "搜索结果列表，一项被点击高亮",
+   "prompt_en": "A list of blank search result bars with one highlighted as clicked. No people.",
+   "narration": "点进验证基尔霍夫定律的实验页。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电压定律、电流定律分开做",
+   "scene": "屏幕上两个大按钮图标：电压箭头和电流箭头",
+   "prompt_en": "A screen with two large buttons, one with a voltage arrow icon and one with a current arrow icon. No people.",
+   "narration": "电压定律和电流定律，分开验证。",
+   "overlay": [
+    "电压定律、电流定律分开做"
+   ],
+   "labels": [
+    "电压定律",
+    "电流定律"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电压定律、电流定律分开做",
+   "scene": "鼠标指针点在电压按钮上",
+   "prompt_en": "A mouse pointer clicks the voltage arrow button. No people.",
+   "narration": "先做电压定律。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "仿真界面怎么用",
+   "scene": "仿真界面：电源、三块电压表、电路板，左侧说明栏",
+   "prompt_en": "A simulation screen showing a power supply, three voltmeters with blank dials, a circuit board, and an instruction panel on the left. No people.",
+   "narration": "界面里，电源、电表、电路都备好了。",
+   "overlay": [
+    "仿真界面怎么用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "仿真界面怎么用",
+   "scene": "鼠标拖出一根导线连到节点",
+   "prompt_en": "A mouse pointer drags a wire from a terminal to a node on the circuit. No people.",
+   "narration": "用鼠标拖动节点，就能连线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "仿真界面怎么用",
+   "scene": "电压表并联在电阻两端的图标",
+   "prompt_en": "An icon of a voltmeter connected across a resistor. No people.",
+   "narration": "记住：电压表并联在元件两端。",
+   "overlay": [],
+   "labels": [
+    "并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "实验页面的栏目",
+   "scene": "页面侧边菜单一列空白条目图标",
+   "prompt_en": "A side menu with a column of blank entries with small icons. No people.",
+   "narration": "页面有一排栏目。",
+   "overlay": [
+    "实验页面的栏目"
+   ],
+   "labels": [
+    "目的",
+    "原理",
+    "预习",
+    "步骤",
+    "仿真"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "实验页面的栏目",
+   "scene": "目的页：一个靶心图标和几行空白",
+   "prompt_en": "An aim page with a target icon and blank lines. No people.",
+   "narration": "目的：用定律求支路电压电流，和理论比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先读原理，做预习测试",
+   "scene": "原理页：电路图和求和符号",
+   "prompt_en": "A theory page with a circuit diagram and a summation symbol. No people.",
+   "narration": "原理页有电压定律推导和电流定律公式。",
+   "overlay": [
+    "先读原理，做预习测试"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先读原理，做预习测试",
+   "scene": "预习测试页：几个选择题方框",
+   "prompt_en": "A pretest page with several blank multiple-choice boxes. No people.",
+   "narration": "先做预习测试，检查基础打牢没有。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "步骤页有接线图",
+   "scene": "步骤页：编号步骤和一张接线图",
+   "prompt_en": "A procedure page with numbered steps and a wiring diagram. No people.",
+   "narration": "步骤页配着接线图，一看就懂。",
+   "overlay": [
+    "步骤页有接线图"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电压定律：接电源和电压表",
+   "scene": "电源正负端分别连到电路正负端",
+   "prompt_en": "A power supply's positive and negative terminals wired to the circuit's positive and negative points. No people.",
+   "narration": "电源接电路：正接正，负接负。",
+   "overlay": [
+    "电压定律：接电源和电压表"
+   ],
+   "labels": [
+    "1-9",
+    "2-10"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电压定律：接电源和电压表",
+   "scene": "第一块电压表并在 R1 两端",
+   "prompt_en": "The first voltmeter wired across resistor R1. No people.",
+   "narration": "第一块电压表并在 R1 两端。",
+   "overlay": [],
+   "labels": [
+    "V1 并 R1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电压定律：接电源和电压表",
+   "scene": "第二、第三块电压表分别并在 R2、R3 两端",
+   "prompt_en": "The second and third voltmeters wired across resistors R2 and R3. No people.",
+   "narration": "另外两块分别并在 R2、R3 上。",
+   "overlay": [],
+   "labels": [
+    "V2 并 R2",
+    "V3 并 R3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先点检查，再选电阻",
+   "scene": "鼠标点击检查按钮",
+   "prompt_en": "A mouse pointer clicks a check button marked with a check icon. No people.",
+   "narration": "通电前，先点检查按钮。",
+   "overlay": [
+    "先点检查，再选电阻"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先点检查，再选电阻",
+   "scene": "弹出一个绿色对勾提示框",
+   "prompt_en": "A pop-up box with a green check mark. No people.",
+   "narration": "提示接线正确，再设定电阻值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先点检查，再选电阻",
+   "scene": "三根滑块被拖动",
+   "prompt_en": "Three sliders being dragged to set values. No people.",
+   "narration": "拖动滑块，设好三个电阻。",
+   "overlay": [],
+   "labels": [
+    "R1",
+    "R2",
+    "R3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通电调压，记六组读数",
+   "scene": "鼠标点电源开关，电源显示从零开始",
+   "prompt_en": "A mouse pointer clicks the power button and the supply display starts at zero. No people.",
+   "narration": "打开电源，电压从零开始。",
+   "overlay": [
+    "通电调压，记六组读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通电调压，记六组读数",
+   "scene": "滑块右移，三块电压表指针跟着升高",
+   "prompt_en": "A voltage slider moves right and the three voltmeter needles rise together. No people.",
+   "narration": "慢慢调高电压，表的读数跟着变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通电调压，记六组读数",
+   "scene": "点添加，观察表增加一行",
+   "prompt_en": "A mouse pointer clicks an add button and a new row appears in the observation table. No people.",
+   "narration": "每调一次，点添加，记进表格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通电调压，记六组读数",
+   "scene": "观察表六行填满",
+   "prompt_en": "The observation table filled with six rows of blank values. No people.",
+   "narration": "至少记六组数据。",
+   "overlay": [],
+   "labels": [
+    "六组"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通电调压，记六组读数",
+   "scene": "小研指着一行读数，第一块表加第二块表等于电源",
+   "prompt_en": "The female graduate student points at one table row, showing that two readings add up to the supply value.",
+   "narration": "看一看：两段电压加起来，正好等于电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "绘图、打印、复位",
+   "scene": "屏幕上两条随电压上升的直线图",
+   "prompt_en": "A screen graph with two straight lines rising with supply voltage. No people.",
+   "narration": "点绘图，得到电压变化曲线。",
+   "overlay": [
+    "绘图、打印、复位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "绘图、打印、复位",
+   "scene": "打印预览页面和一台打印机",
+   "prompt_en": "A print preview page next to a printer icon. No people.",
+   "narration": "点打印，结果存进实验记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "绘图、打印、复位",
+   "scene": "点复位，界面清空",
+   "prompt_en": "A mouse pointer clicks a reset button and the screen clears. No people.",
+   "narration": "想重做，点复位从头来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电压定律的结论",
+   "scene": "闭合回路图标，箭头绕一圈，加减号相互抵消",
+   "prompt_en": "A closed loop icon with an arrow going around, plus and minus signs cancelling out. No people.",
+   "narration": "结论：闭合回路电压代数和为零。",
+   "overlay": [
+    "电压定律的结论"
+   ],
+   "labels": [
+    "ΣV=0"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电压定律的结论",
+   "scene": "电源电动势和几个电压降天平平衡",
+   "prompt_en": "A balance scale with a battery icon on one side and several voltage drop icons on the other, level. No people.",
+   "narration": "电动势之和，等于电压降之和。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "电流定律：电流表要串联",
+   "scene": "鼠标返回选择页，点电流按钮",
+   "prompt_en": "A mouse pointer returns to the selection page and clicks the current arrow button. No people.",
+   "narration": "接着做电流定律。",
+   "overlay": [
+    "电流定律：电流表要串联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "电流定律：电流表要串联",
+   "scene": "电流表串在电阻支路中的图标",
+   "prompt_en": "An icon of an ammeter connected in series within a resistor branch. No people.",
+   "narration": "电流表必须串联在支路里。",
+   "overlay": [],
+   "labels": [
+    "串联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "电流定律：电流表要串联",
+   "scene": "电流表并联的图标打红叉，屏幕不工作",
+   "prompt_en": "An icon of an ammeter wired in parallel, crossed out with a red X, the screen frozen. No people.",
+   "narration": "接错了，仿真就不工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "电流定律：电流表要串联",
+   "scene": "动圈式电流表图标配直流直线",
+   "prompt_en": "A moving coil ammeter icon with a straight DC line. No people.",
+   "narration": "直流电路，用动圈式电流表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查接线，设定电阻",
+   "scene": "检查按钮和绿色对勾",
+   "prompt_en": "A check button and a green check mark pop-up. No people.",
+   "narration": "同样先检查接线。",
+   "overlay": [
+    "检查接线，设定电阻"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查接线，设定电阻",
+   "scene": "空白教材旁三根滑块",
+   "prompt_en": "Three sliders beside an open blank textbook. No people.",
+   "narration": "电阻可以按教材的设计值来取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "调电压，记三个电流",
+   "scene": "电源电压逐步调高，三块电流表读数变化",
+   "prompt_en": "The supply voltage steps up and three ammeter needles change. No people.",
+   "narration": "调电压，记下三个支路电流。",
+   "overlay": [
+    "调电压，记三个电流"
+   ],
+   "labels": [
+    "I1",
+    "I2",
+    "I3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "调电压，记三个电流",
+   "scene": "观察表六行填满，旁边一个曲线图标",
+   "prompt_en": "An observation table with six filled rows beside a graph icon. No people.",
+   "narration": "最多记六组，也可以绘图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "电流定律的结论",
+   "scene": "一个节点，一支电流流入，两支流出",
+   "prompt_en": "A junction icon with one current arrow flowing in and two flowing out. No people.",
+   "narration": "结论：总电流等于两支路电流之和。",
+   "overlay": [
+    "电流定律的结论"
+   ],
+   "labels": [
+    "I1=I2+I3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "电流定律的结论",
+   "scene": "流入和流出箭头天平平衡",
+   "prompt_en": "A balance scale with incoming arrows on one side and outgoing arrows on the other, level. No people.",
+   "narration": "流入节点的，等于流出节点的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "电流定律的结论",
+   "scene": "两个读数近似相等的约等号",
+   "prompt_en": "Two blank value cards with an approximately-equal sign. No people.",
+   "narration": "有一点偏差，属于正常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "存档评价，用教材数值验证",
+   "scene": "打印好的实验结果交给王老师",
+   "prompt_en": "The young male student hands a printed result sheet with only icons to the safety administrator.",
+   "narration": "打印存档，方便老师评价。",
+   "overlay": [
+    "存档评价，用教材数值验证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "存档评价，用教材数值验证",
+   "scene": "教材电路和仿真电路并排对照",
+   "prompt_en": "A textbook circuit and the simulation circuit side by side for comparison. No people.",
+   "narration": "用教材上的数值验证，更有说服力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "仿真帮助教学",
+   "scene": "王老师在讲台用投影演示仿真，学生观看",
+   "prompt_en": "The safety administrator demonstrates the simulation on a projector screen with only circuit icons while students watch.",
+   "narration": "课堂演示仿真，帮学生理解原理。",
+   "overlay": [
+    "仿真帮助教学"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仿真接错能重来，真电路不行",
+   "scene": "仿真屏幕弹出错误提示，旁边一个复位箭头",
+   "prompt_en": "A simulation screen showing a warning pop-up, beside a reset arrow icon. No people.",
+   "narration": "仿真里接错，弹个提示就能重来。",
+   "overlay": [
+    "仿真接错能重来，真电路不行"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仿真接错能重来，真电路不行",
+   "scene": "真实电流表接错冒烟的图标",
+   "prompt_en": "An icon of a real ammeter wired wrongly with a puff of smoke. No people.",
+   "narration": "真电路接错，可能烧表、短路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "仿真接错能重来，真电路不行",
+   "scene": "王老师在真实实验台前给阿杰讲安全规程",
+   "prompt_en": "The safety administrator explains the safety rules to the young male student at a real lab bench.",
+   "narration": "会做仿真，也要先过安全培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先仿真预演，再上台实操",
+   "scene": "阿杰先在电脑上连好线，再对照着在实验台上接线",
+   "prompt_en": "The young male student first wires the circuit on a laptop, then wires the real bench while comparing with the screen.",
+   "narration": "先在仿真里把线路走一遍。",
+   "overlay": [
+    "先仿真预演，再上台实操"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先仿真预演，再上台实操",
+   "scene": "空白笔记本上画着接线图和预估读数方框",
+   "prompt_en": "A blank notebook with a wiring sketch and blank boxes for expected readings.",
+   "narration": "预估读数大小，选好量程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先仿真预演，再上台实操",
+   "scene": "王老师检查阿杰的实物接线后点头",
+   "prompt_en": "The safety administrator checks the young male student's real wiring and nods.",
+   "narration": "实物接好，照样请老师检查再通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "突然停电，先断开实验台开关",
+   "scene": "实验室灯突然熄灭，台面仪表也黑了",
+   "prompt_en": "The lab lights suddenly go out and the bench instruments go dark.",
+   "narration": "做实验时，突然停电了。",
+   "overlay": [
+    "突然停电，先断开实验台开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "突然停电，先断开实验台开关",
+   "scene": "阿杰拉下实验台电源开关",
+   "prompt_en": "The young male student switches off the bench power switch in the dim room.",
+   "narration": "先把实验台的电源开关断开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "突然停电，先断开实验台开关",
+   "scene": "来电时电机突然启动的图标被红叉划掉",
+   "prompt_en": "An icon of a motor suddenly starting when power returns, crossed out with a red X. No people.",
+   "narration": "免得来电时设备突然启动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "突然停电，先断开实验台开关",
+   "scene": "老周来电后检查线路，再让大家合闸",
+   "prompt_en": "After power returns, the older man checks the benches before letting students switch on again.",
+   "narration": "来电后，检查无误再重新合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配电箱前不堆物",
+   "scene": "配电箱前堆着纸箱的图标被红叉划掉",
+   "prompt_en": "An icon of cardboard boxes piled in front of a distribution box, crossed out with a red X. No people.",
+   "narration": "配电箱前，不能堆放杂物。",
+   "overlay": [
+    "配电箱前不堆物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配电箱前不堆物",
+   "scene": "老李把纸箱搬开，配电箱前留出空地",
+   "prompt_en": "The facility engineer moves boxes away, leaving clear space in front of the distribution box.",
+   "narration": "出事时，要能马上拉闸断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "配电箱前不堆物",
+   "scene": "通道畅通，墙上有安全出口标志",
+   "prompt_en": "A clear lab aisle with an exit sign on the wall. No people.",
+   "narration": "疏散通道也要保持畅通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电压表并联、电流表串联两个图标",
+   "prompt_en": "Two icons: a voltmeter in parallel and an ammeter in series. No people.",
+   "narration": "电压表并联，电流表串联。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "回路求和为零、节点流入等于流出两个图标",
+   "prompt_en": "Two icons: a loop with a sum equal to zero, and a junction with in equals out. No people.",
+   "narration": "回路电压和为零，节点流入等于流出。",
+   "overlay": [],
+   "labels": [
+    "ΣV=0",
+    "I1=I2+I3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检查、添加、绘图、打印、复位五个按钮图标",
+   "prompt_en": "Five button icons in a row: check, add, plot, print, reset. No people.",
+   "narration": "先检查，再记录，绘图打印存档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电脑和真实实验台之间一个箭头，旁边断电开关和配电箱",
+   "prompt_en": "An arrow from a laptop to a real lab bench, beside a switched-off switch and a clear distribution box. No people.",
+   "narration": "仿真不代替实操；停电断开关，箱前不堆物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣合上笔记本，站到真实实验台前挥手",
+   "prompt_en": "The panda mascot closes the laptop and waves goodbye in front of a real, switched-off lab bench.",
+   "narration": "下次实验课见，安全用电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

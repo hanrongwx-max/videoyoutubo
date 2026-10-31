@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 352 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 353 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -11,7 +11,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Basic Electrical Engineering Lab | 21 / 23 | 0 / 16 |
+| Basic Electrical Engineering Lab | 22 / 23 | 0 / 16 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
@@ -197,7 +197,8 @@
 | Basic Electrical Engineering Lab | 18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way | 单一版 | 双控与三控照明：口试问答与家庭用电 | 59 | 4:55 | 12 / 5 | [剧本](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way/script.md>) · [审查](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way/审查报告.md>) |
 | Basic Electrical Engineering Lab | 19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B | 单一版 | 星形与三角形：三相电路口试问答 | 67 | 5:35 | 16 / 5 | [剧本](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B/script.md>) · [审查](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B/审查报告.md>) |
 | Basic Electrical Engineering Lab | 20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical | 单一版 | 最大功率传输：口试问答与电池光伏安全 | 43 | 3:35 | 8 / 5 | [剧本](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical/script.md>) · [审查](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical/审查报告.md>) |
-| Basic Electrical Engineering Lab | 21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter | 单一版 | 二瓦特表法：三相功率口试问答 | 44 | 3:40 | 9 / 4 | [剧本](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter/script.md>) |
+| Basic Electrical Engineering Lab | 21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter | 单一版 | 二瓦特表法：三相功率口试问答 | 44 | 3:40 | 9 / 4 | [剧本](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter/script.md>) · [审查](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter/审查报告.md>) |
+| Basic Electrical Engineering Lab | 22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic | 单一版 | 在线仿真验证基尔霍夫定律 | 64 | 5:20 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
