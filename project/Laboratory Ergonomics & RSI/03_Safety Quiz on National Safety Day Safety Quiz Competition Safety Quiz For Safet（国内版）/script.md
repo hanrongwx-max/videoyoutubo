@@ -1,7 +1,7 @@
-# 安全日问答：别国的安全日和我们的安全月
+# 安全日问答：别国的安全日和我们的安全月（国内版）
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet（内容分析见 `course/Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet/`
 - 时长：5 分 35 秒（67 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 61 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）

@@ -1,7 +1,7 @@
-# 事故调查十问：查事实，改系统
+# 事故调查十问：查事实，改系统（国内版）
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（内容分析见 `course/Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC/`
 - 时长：4 分 35 秒（55 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 51 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）
