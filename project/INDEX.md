@@ -11,14 +11,14 @@
 | CDC Laboratory Safety Series | 23 / 23 | 17 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 10 / 23 |
 | Lab Safety Training Series | 13 / 13 | 7 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 5 / 12 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 6 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 8 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 5 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
-| Industrial Gas & Cryogenic Equipment | 9 / 9 | 6 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 | 7 / 9 |
 | RSO Training Series | 9 / 9 | 5 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -77,6 +77,7 @@
 | Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 国内版 | 实验室应急响应（国内版） | 80 | 6:40 | 17 / 6 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 原著版 | 实验室设备与运行安全 | 63 | 5:15 | 16 / 0 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety/script.md>) |
 | Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 国内版 | 实验室设备与运行安全（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 06_Module 7 — Chemical & Biological Safety | 原著版 | 化学与生物危害的日常操作 | 62 | 5:10 | 15 / 0 | [剧本](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety/script.md>) |
 | Acids, Bases & Solvents Safety | 06_Module 7 — Chemical & Biological Safety | 国内版 | 化学与生物危害的日常操作（国内版） | 76 | 6:20 | 15 / 6 | [剧本](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 07_Module 6 — Personal Protective Equipment | 国内版 | 个人防护装备：选对、穿对、脱对（国内版） | 105 | 8:45 | 25 / 5 | [剧本](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 08_Module 5 — Hierarchy of Controls | 国内版 | 控制措施层级：从塔尖往下建（国内版） | 77 | 6:25 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls（国内版）/审查报告.md>) |
@@ -318,6 +319,7 @@
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 国内版 | 空温式汽化器与储罐站安全（国内版） | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 原著版 | 减压阀与背压阀的安全使用 | 25 | 2:05 | 6 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 国内版 | 减压阀与背压阀的安全使用（国内版） | 41 | 3:25 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 原著版 | 高压阀门与接头的安全使用 | 25 | 2:05 | 8 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 国内版 | 高压阀门与接头的安全使用（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications | 国内版 | 二氧化碳与干冰的安全使用（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA | 国内版 | 气瓶阀的安全使用（国内版） | 39 | 3:15 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/审查报告.md>) |
