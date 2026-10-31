@@ -8,7 +8,7 @@
 |---|---|---|
 | BIORISK MANAGEMENT | 47 / 47 | 0 / 42 |
 | Microbiology Biosafety | 44 / 59 | 0 / 25 |
-| CDC Laboratory Safety Series | 23 / 23 | 2 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 3 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 1 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
@@ -132,9 +132,10 @@
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 国内版 | 生物安全员：职责与担当（国内版） | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 单一版 | 蚊虫传的病，怎么防 | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/审查报告.md>) |
-| BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 单一版 | 送风头罩，一步步穿对 | 51 | 4:15 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS/script.md>) |
+| BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 单一版 | 送风头罩，一步步穿对 | 51 | 4:15 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS/script.md>) · [审查](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 国内版 | 新实验，先评估（国内版） | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/审查报告.md>) |
@@ -298,7 +299,7 @@
 | Laser Equipment & Safety Training | 05_Laser Cutter 5 xTool Studio Design Set Up | 国内版 | 激光切割机：加工参数设置（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 原著版 | 激光切割机：徽章项目上机全流程 | 58 | 4:50 | 18 / 0 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) |
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 国内版 | 激光切割机：徽章项目上机全流程（国内版） | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/审查报告.md>) |
-| Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 原著版 | 激光切割机：考核、授权与预约 | 37 | 3:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) |
+| Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 原著版 | 激光切割机：考核、授权与预约 | 38 | 3:10 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 国内版 | 激光切割机：考核、授权与预约（国内版） | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
