@@ -1,0 +1,26 @@
+# 31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety 分析底稿
+
+- 剧集：Laboratory Ergonomics & RSI；原标题：Test Your Basic Safety Knowledge | Work at Height | Crane Safety | Scaffolding Safety | Fire Safety；链接：https://youtu.be/cTWh1EgUH2s
+- 时长 00:04:47，1920×1080，镜头 19 个，转写 124 段
+
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+|---|---|---|---|
+| 1 | 00:00:00–00:00:18 | shot_001.jpg | Hello friends, welcome to your channel HSC study guide In this video we are going to talk about online exam The link provided in the video description, when you click on it Something like this happens in front of you So you have to go to the online exam |
+| 2 | 00:00:18–00:00:20 | shot_002.jpg | So when you click on it, in front of you |
+| 3 | 00:00:20–00:00:25 | shot_003.jpg | Where you can give the online exam on any topic |
+| 4 | 00:00:25–00:00:27 | shot_004.jpg | All the information is given about it |
+| 5 | 00:00:27–00:00:40 | shot_005.jpg | So like this is a safety quiz competition Which you can give online And the result of it will be told in the end And you can pass this taste or not |
+| 6 | 00:00:40–00:00:45 | shot_006.jpg | Or you can check that how much you know about safety You will be able to test it on this topic |
+| 7 | 00:00:45–00:00:58 | shot_007.jpg | Now as you can see here, the radiography is a safety quiz So here also you can test your safety knowledge About radiography Hydro test, chemical, scaffolding |
+| 8 | 00:00:58–00:01:01 | shot_008.jpg | Construction safety, electrical safety |
+| 9 | 00:01:01–00:01:08 | shot_009.jpg | Workplace safety Work at height safety quiz competition You can join it Crane safety quiz |
+| 10 | 00:01:08–00:01:11 | shot_010.jpg | Confined space safety quiz |
+| 11 | 00:01:11–00:01:13 | shot_011.jpg | Fire safety quiz Exception safety quiz |
+| 12 | 00:01:13–00:01:22 | shot_012.jpg | Now what you can see here So first we will choose a topic Like we have chosen a topic of work at height |
+| 13 | 00:01:22–00:01:24 | shot_013.jpg | You have to click on it |
+| 14 | 00:01:24–00:01:28 | shot_014.jpg | After clicking on it, you will get some information about work at height |
+| 15 | 00:01:28–00:01:48 | shot_015.jpg | So like in table up contents You can see the information about it If you read all this information Then you can pass this taste It becomes very easy So like all these topics are given in table up contents You can rate it here After that when you scroll down |
+| 16 | 00:01:48–00:04:18 | shot_016_1.jpg, shot_016_2.jpg, shot_016_3.jpg, shot_016_4.jpg, shot_016_5.jpg, shot_016_6.jpg, shot_016_7.jpg, shot_016_8.jpg, shot_016_9.jpg, shot_016_10.jpg | The fire will go to this taste Like you can see here Work at height is a safety quiz So what you have to do here You have to click on start Now as you can see here This safety quiz of work at height You can be very beneficial for the company's interview and exam So up to 400-500 people have given this taste But in the first attempt Only 18 people have passed this taste Because very few people have passed it in the first attempt The second attempt and third attempt You can pass it But the result of the first attempt will be shown here So to start this taste You have to click on start Now as you can see here Total of 10 questions are here And you have time for 10 minutes You have to solve all these 10 questions Now this is the first question So for this 4 options are given So whatever you think is the correct answer You simply have to click here If you think this answer is not correct Then you have to click here And then click on next Then second questions Then third, fourth, fifth All these questions have to be read And whatever you think is the correct answer You have to choose here Then in the end As soon as these 10 questions are completed Then you will get to see What is your result here Now as this 9 questions are done Now these are the 10 questions We have read 10 questions One of the 4 questions We have selected here And then we will see the result here Now as you will read the result here You can see here That our score is only 20% And here when your score is 80% Or above that Then you will be able to pass this quiz Now as we have scored 20% here Then we have made a mistake So you can see here So the first question The answer we have selected here But this is not the answer It is the third The third question The answer of all the questions You can see here And then as I told you That in the first attempt Very few people have passed this exam Now in the second attempt You get to know the answer here That what is the particular answer So in the third attempt Many candidates can pass this But in the first attempt If you want to pass |
+| 17 | 00:04:18–00:04:31 | shot_017.jpg | Then you have to pay attention to this article And you have to read all these Then you will be able to Solve this question In the first attempt So in this way Your test is done here |
+| 18 | 00:04:31–00:04:44 | shot_018.jpg | I have given the link in the description Now by clicking on that link Try this test once And if possible try In your first attempt You should pass |
+| 19 | 00:04:44–00:04:47 | shot_019.jpg | So that's all for today Till then take care |
