@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 414 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 415 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Laboratory Ergonomics & RSI | 28 / 36 | 0 / 22 |
+| Laboratory Ergonomics & RSI | 29 / 36 | 0 / 22 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
@@ -503,7 +503,8 @@
 | Laboratory Ergonomics & RSI | 25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU | 单一版 | 事故预防十二问 | 57 | 4:45 | 13 / 3 | [剧本](<Laboratory Ergonomics & RSI/25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU/script.md>) · [审查](<Laboratory Ergonomics & RSI/25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir | 单一版 | 火灾报警系统十问 | 48 | 4:00 | 11 / 4 | [剧本](<Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir/script.md>) · [审查](<Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine | 单一版 | 五大主题安全竞赛 | 49 | 4:05 | 11 / 3 | [剧本](<Laboratory Ergonomics & RSI/27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine/script.md>) · [审查](<Laboratory Ergonomics & RSI/27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine/审查报告.md>) |
-| Laboratory Ergonomics & RSI | 28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ | 单一版 | 消防小测验：十分钟八题过关 | 42 | 3:30 | 8 / 3 | [剧本](<Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ/script.md>) |
+| Laboratory Ergonomics & RSI | 28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ | 单一版 | 消防小测验：十分钟八题过关 | 42 | 3:30 | 8 / 3 | [剧本](<Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ/script.md>) · [审查](<Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat | 单一版 | 开挖安全小测验 | 36 | 3:00 | 7 / 3 | [剧本](<Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
