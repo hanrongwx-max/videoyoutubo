@@ -38,7 +38,7 @@
   "S2": "插线板不串接、不超载",
   "S3": "发现隐患：停用、挂牌、报修",
   "S4": "湿手和液体远离电",
-  "S5": "触电急救与 AED"
+  "S5": "实验接线：先断电，查过再通电"
  },
  "shots": [
   {
@@ -1690,12 +1690,12 @@
    "shot": 123,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "阿杰看到有人倒在仪器旁，伸手要拉，小研拦住",
-   "prompt_en": "The young male student sees a person pictogram collapsed by an instrument and reaches out, but the female graduate student holds him back.",
-   "narration": "有人触电，不能直接用手去拉！",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "阿杰在电工实验台前准备接线，台上电源开关处于断开位置",
+   "prompt_en": "The young male student prepares to connect wires on an electrical training bench; the bench power switch is in the off position.",
+   "narration": "做电路实验，先断电，再接线。",
    "overlay": [
-    "触电急救与 AED"
+    "实验接线：先断电，查过再通电"
    ],
    "labels": [],
    "mode": "voiceover"
@@ -1704,24 +1704,22 @@
    "shot": 124,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "小研拉下电闸",
-   "prompt_en": "The female graduate student pulls down the main switch of a lab distribution box.",
-   "narration": "先切断电源，再去施救。",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "给通着电的电路板插拔导线的图标被红叉划掉",
+   "prompt_en": "An icon of a hand plugging a test lead into a powered circuit board with a lightning symbol, crossed out with a red X. No people.",
+   "narration": "通着电改接线，绝对不行。",
    "overlay": [],
-   "labels": [
-    "先断电"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 125,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "干燥木棍挑开电线的图标",
-   "prompt_en": "An icon of a dry wooden stick pushing a wire away from a hand. No people.",
-   "narration": "一时断不了电，用干燥绝缘物挑开。",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "阿杰对照空白电路图逐根核对导线",
+   "prompt_en": "The young male student checks each test lead one by one against a blank circuit diagram.",
+   "narration": "接完对照电路图，逐根查一遍。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -1730,13 +1728,14 @@
    "shot": 126,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "电话图标旁有红十字",
-   "prompt_en": "A telephone icon with a red cross icon beside it. No people.",
-   "narration": "立即拨打120，同时报告负责人。",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "老周检查接线后点头，阿杰合上电源",
+   "prompt_en": "The older man inspects the wiring and nods; then the young male student switches the bench power on.",
+   "narration": "老师检查同意后，再合电源。",
    "overlay": [],
    "labels": [
-    "120"
+    "先查",
+    "后通电"
    ],
    "mode": "voiceover"
   },
@@ -1744,10 +1743,10 @@
    "shot": 127,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "老李取下墙上的 AED 跑来",
-   "prompt_en": "The facility engineer takes the defibrillator down from the hallway wall and hurries over.",
-   "narration": "受过培训的人做心肺复苏，取来AED。",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "冒烟和焦味图标旁，一只手按下电源开关",
+   "prompt_en": "Icons of smoke and a burning smell next to a hand pressing the bench power switch off. No people.",
+   "narration": "有异味、冒烟，立即断电报告。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -1756,10 +1755,10 @@
    "shot": 128,
    "seconds": 5,
    "section": "S5",
-   "section_title": "触电急救与 AED",
-   "scene": "王老师在空白记录本上登记，旁边有学院和保卫处图标",
-   "prompt_en": "The safety administrator writes in a blank incident logbook, with icons of a department building and a security office beside him.",
-   "narration": "事后报告学院和保卫处，查明原因。",
+   "section_title": "实验接线：先断电，查过再通电",
+   "scene": "实验结束，阿杰先关电源，再拆下导线收好",
+   "prompt_en": "After the experiment, the young male student switches the power off first, then removes the test leads and coils them neatly.",
+   "narration": "做完先断电，再拆线收好。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -1819,9 +1818,9 @@
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "断电开关和电话图标",
-   "prompt_en": "Icons of a switched off breaker and a telephone with a red cross. No people.",
-   "narration": "有人触电：先断电，再施救。",
+   "scene": "断开的电源开关和打勾的空白电路图",
+   "prompt_en": "Icons of a switched off bench power switch and a blank circuit diagram with a green check. No people.",
+   "narration": "先断电接线，查过再通电。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"

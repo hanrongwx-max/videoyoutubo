@@ -1,7 +1,7 @@
 # 06_Electrical Safety interview questions & answers in hindi 卡通剧本作者源
 # 原片为“电气安全面试 13 题”白板动画：去掉面试框架，改为熊猫欣欣主持的“用电安全知识问答”，
 # 13 道题归并为 K1–K27 全部保留；审查补充 S1–S5（合格电器、插线板不超载不串接、隐患停用报修、
-# 液体与湿手远离电、触电急救与 AED）
+# 液体与湿手远离电、实验接线先断电查过再通电）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -38,7 +38,7 @@ META = {
         "S2": "插线板不串接、不超载",
         "S3": "发现隐患：停用、挂牌、报修",
         "S4": "湿手和液体远离电",
-        "S5": "触电急救与 AED",
+        "S5": "实验接线：先断电，查过再通电",
     },
     "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "HSS Study Guide", "Samsung", "SAMSUNG",
               "HSE interview", "VOELCB"],
@@ -445,24 +445,24 @@ SHOTS = [
  "The young male student places a wet floor warning stand and mops up water near a socket before working.",
  "地面有水，先擦干再用电。"),
 # S5
-("S5", "阿杰看到有人倒在仪器旁，伸手要拉，小研拦住",
- "The young male student sees a person pictogram collapsed by an instrument and reaches out, but the female graduate student holds him back.",
- "有人触电，不能直接用手去拉！", "触电急救与 AED"),
-("S5", "小研拉下电闸",
- "The female graduate student pulls down the main switch of a lab distribution box.",
- "先切断电源，再去施救。", "", ["先断电"]),
-("S5", "干燥木棍挑开电线的图标",
- "An icon of a dry wooden stick pushing a wire away from a hand. No people.",
- "一时断不了电，用干燥绝缘物挑开。"),
-("S5", "电话图标旁有红十字",
- "A telephone icon with a red cross icon beside it. No people.",
- "立即拨打120，同时报告负责人。", "", ["120"]),
-("S5", "老李取下墙上的 AED 跑来",
- "The facility engineer takes the defibrillator down from the hallway wall and hurries over.",
- "受过培训的人做心肺复苏，取来AED。"),
-("S5", "王老师在空白记录本上登记，旁边有学院和保卫处图标",
- "The safety administrator writes in a blank incident logbook, with icons of a department building and a security office beside him.",
- "事后报告学院和保卫处，查明原因。"),
+("S5", "阿杰在电工实验台前准备接线，台上电源开关处于断开位置",
+ "The young male student prepares to connect wires on an electrical training bench; the bench power switch is in the off position.",
+ "做电路实验，先断电，再接线。", "实验接线：先断电，查过再通电"),
+("S5", "给通着电的电路板插拔导线的图标被红叉划掉",
+ "An icon of a hand plugging a test lead into a powered circuit board with a lightning symbol, crossed out with a red X. No people.",
+ "通着电改接线，绝对不行。"),
+("S5", "阿杰对照空白电路图逐根核对导线",
+ "The young male student checks each test lead one by one against a blank circuit diagram.",
+ "接完对照电路图，逐根查一遍。"),
+("S5", "老周检查接线后点头，阿杰合上电源",
+ "The older man inspects the wiring and nods; then the young male student switches the bench power on.",
+ "老师检查同意后，再合电源。", "", ["先查", "后通电"]),
+("S5", "冒烟和焦味图标旁，一只手按下电源开关",
+ "Icons of smoke and a burning smell next to a hand pressing the bench power switch off. No people.",
+ "有异味、冒烟，立即断电报告。"),
+("S5", "实验结束，阿杰先关电源，再拆下导线收好",
+ "After the experiment, the young male student switches the power off first, then removes the test leads and coils them neatly.",
+ "做完先断电，再拆线收好。"),
 # 小结
 ("小结", "欣欣站在问答板前，板上排着电流、心脏、盾牌图标",
  "The panda mascot stands in front of a quiz board showing icons of a current arrow, a heart and a shield.",
@@ -476,9 +476,9 @@ SHOTS = [
 ("小结", "防护罩、灭火器、护目镜图标",
  "Icons of a grinder guard, a fire extinguisher and safety goggles. No people.",
  "用工具：有防护、清可燃、戴装备。"),
-("小结", "断电开关和电话图标",
- "Icons of a switched off breaker and a telephone with a red cross. No people.",
- "有人触电：先断电，再施救。"),
+("小结", "断开的电源开关和打勾的空白电路图",
+ "Icons of a switched off bench power switch and a blank circuit diagram with a green check. No people.",
+ "先断电接线，查过再通电。"),
 # 结尾
 ("结尾", "欣欣和阿杰、小研一起向镜头挥手",
  "The panda mascot waves goodbye at the camera together with the young male student and the female graduate student.",
