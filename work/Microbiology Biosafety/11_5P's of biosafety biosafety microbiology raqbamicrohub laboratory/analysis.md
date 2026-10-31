@@ -3,7 +3,7 @@
 - 剧集：Microbiology Biosafety；原标题：5P's of biosafety #biosafety #microbiology #raqbamicrohub #laboratory；链接：https://youtu.be/1V3MEqj38fo
 - 时长 00:04:25，1920×1080，镜头 2 个，转写 1 段
 
-| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写；英文下为中文翻译） |
 |---|---|---|---|
 | 1 | 00:00:00–00:00:02 | shot_001.jpg |  |
-| 2 | 00:00:02–00:04:25 | shot_002_1.jpg, shot_002_2.jpg, shot_002_3.jpg, shot_002_4.jpg, shot_002_5.jpg, shot_002_6.jpg, shot_002_7.jpg, shot_002_8.jpg, shot_002_9.jpg, shot_002_10.jpg, shot_002_11.jpg, shot_002_12.jpg, shot_002_13.jpg, shot_002_14.jpg, shot_002_15.jpg, shot_002_16.jpg, shot_002_17.jpg, shot_002_18.jpg | Thank you for watching! |
+| 2 | 00:00:02–00:04:25 | shot_002_1.jpg, shot_002_2.jpg, shot_002_3.jpg, shot_002_4.jpg, shot_002_5.jpg, shot_002_6.jpg, shot_002_7.jpg, shot_002_8.jpg, shot_002_9.jpg, shot_002_10.jpg, shot_002_11.jpg, shot_002_12.jpg, shot_002_13.jpg, shot_002_14.jpg, shot_002_15.jpg, shot_002_16.jpg, shot_002_17.jpg, shot_002_18.jpg | Thank you for watching!<br>中文：感谢观看！ |
