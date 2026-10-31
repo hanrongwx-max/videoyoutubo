@@ -28,7 +28,7 @@ META = {
         "S3": "症状可能迟发：就医说明接触史",
     },
     "avoid": ["Ragba Micro Hub", "Ragba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub",
-              "Occupational Safety and Health Administration"],
+              "Occupational Safety and Health Administration", "OSHA"],
 }
 
 SHOTS = [

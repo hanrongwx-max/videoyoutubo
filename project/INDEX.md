@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 4 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 18 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 15 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 16 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 9 / 23 |
 | Lab Safety Training Series | 13 / 13 | 6 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 5 / 12 |
@@ -182,6 +182,7 @@
 | CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 国内版 | 是事故还是未遂（国内版） | 30 | 2:30 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario | 原著版 | 手套破了，要不要说 | 24 | 2:00 | 3 / 0 | [剧本](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario/script.md>) |
 | CDC Laboratory Safety Series | 07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario | 国内版 | 手套破了，要不要说（国内版） | 28 | 2:20 | 3 / 5 | [剧本](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 08_Fundamentals of Laboratory Safety Near Miss Scenario | 原著版 | 飘带向外飘了 | 23 | 1:55 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario/script.md>) |
 | CDC Laboratory Safety Series | 08_Fundamentals of Laboratory Safety Near Miss Scenario | 国内版 | 飘带向外飘了（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator | 国内版 | 基本防护装备的穿与脱（国内版） | 79 | 6:35 | 19 / 5 | [剧本](<CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth | 国内版 | 隔离衣与手套一起脱（国内版） | 87 | 7:15 | 22 / 5 | [剧本](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/审查报告.md>) |
