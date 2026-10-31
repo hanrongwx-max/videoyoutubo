@@ -12,7 +12,7 @@
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
-| CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 20 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
@@ -228,6 +228,7 @@
 | CDC Laboratory Safety Series | 08_Fundamentals of Laboratory Safety Near Miss Scenario | 国内版 | 飘带向外飘了（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator | 原著版 | 基本防护装备的穿与脱 | 64 | 5:20 | 19 / 0 | [剧本](<CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator/script.md>) |
 | CDC Laboratory Safety Series | 09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator | 国内版 | 基本防护装备的穿与脱（国内版） | 79 | 6:35 | 19 / 5 | [剧本](<CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/09_Donning and Doffing PPE in Clinical Laboratories Basic PPE for Routine Laborator（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth | 原著版 | 隔离衣与手套一起脱 | 67 | 5:35 | 22 / 0 | [剧本](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth/script.md>) |
 | CDC Laboratory Safety Series | 10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth | 国内版 | 隔离衣与手套一起脱（国内版） | 87 | 7:15 | 22 / 5 | [剧本](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves | 国内版 | 先脱隔离衣，再摘手套（国内版） | 82 | 6:50 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe | 国内版 | 看不见的气幕：生物安全柜的气流（国内版） | 66 | 5:30 | 14 / 4 | [剧本](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/审查报告.md>) |
