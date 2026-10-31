@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 12 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 13 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -754,6 +754,7 @@
 | MIT Digital Lab Techniques Manual | 10_Column Chromatography | 国内版 | 柱色谱分离（国内版） | 132 | 11:00 | 35 / 5 | [剧本](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 11_Using a Balance | 原著版 | 分析天平的使用 | 80 | 6:40 | 29 / 0 | [剧本](<MIT Digital Lab Techniques Manual/11_Using a Balance/script.md>) |
 | MIT Digital Lab Techniques Manual | 11_Using a Balance | 国内版 | 分析天平的使用（国内版） | 96 | 8:00 | 29 / 5 | [剧本](<MIT Digital Lab Techniques Manual/11_Using a Balance（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/11_Using a Balance（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 12_Melting Point | 原著版 | 熔点测定 | 83 | 6:55 | 28 / 0 | [剧本](<MIT Digital Lab Techniques Manual/12_Melting Point/script.md>) |
 | MIT Digital Lab Techniques Manual | 12_Melting Point | 国内版 | 熔点测定（国内版） | 95 | 7:55 | 28 / 4 | [剧本](<MIT Digital Lab Techniques Manual/12_Melting Point（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/12_Melting Point（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 13_Automatic Pipet | 国内版 | 移液器的使用（国内版） | 94 | 7:50 | 29 / 5 | [剧本](<MIT Digital Lab Techniques Manual/13_Automatic Pipet（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/13_Automatic Pipet（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) |
