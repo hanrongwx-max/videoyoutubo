@@ -1,0 +1,699 @@
+1
+00:00:00,370 --> 00:00:06,330
+Dear all, in this video, you will be learning about 2-way and 3-way control of lamp and
+各位好，在这个视频中，你们将学习灯的两地控制和三地控制，以及
+
+2
+00:00:06,330 --> 00:00:08,530
+formation of two table.
+真值表的列写。
+
+3
+00:00:08,530 --> 00:00:10,730
+What do you mean by 2-way control of lamp?
+灯的两地控制是什么意思？
+
+4
+00:00:10,730 --> 00:00:15,690
+You are having a single bulb and you need to control the single bulb in two different
+你有一个灯泡，需要在两个不同的
+
+5
+00:00:15,690 --> 00:00:16,690
+position.
+位置控制这个灯泡。
+
+6
+00:00:16,690 --> 00:00:22,690
+You can use the staircase, consider the staircase, the same application can be used in the staircase.
+你可以用在楼梯上，想想楼梯，同样的应用可以用在楼梯上。
+
+7
+00:00:22,690 --> 00:00:27,930
+So such kind of wiring is also known as staircase wiring, it can be used in the bedroom also.
+所以这种布线也叫楼梯布线，它也可以用在卧室里。
+
+8
+00:00:27,930 --> 00:00:33,050
+If I talk about the 3-way control of lamp, we are having 3 switches.
+如果说灯的三地控制，我们有 3 个开关。
+
+9
+00:00:33,050 --> 00:00:37,330
+The main two switches will be there, in addition to that one more switch is also known as intermediate
+会有两个主开关，此外还有一个开关，叫做中间
+
+10
+00:00:37,330 --> 00:00:38,330
+switch.
+开关。
+
+11
+00:00:38,330 --> 00:00:40,930
+Such kind of arrangement is known as 3-way control of lamp.
+这种布置就叫灯的三地控制。
+
+12
+00:00:40,930 --> 00:00:43,970
+3-way control of lamp is mainly used in garden.
+灯的三地控制主要用于仓库。
+
+13
+00:00:43,970 --> 00:00:46,210
+So it is also known as garden wiring.
+所以它也叫仓库布线。
+
+14
+00:00:46,210 --> 00:00:51,170
+Let us study how to perform 2-way and 3-way control of lamp and how to form the truth
+我们来学习如何实现灯的两地控制和三地控制，以及如何列出真值
+
+15
+00:00:51,170 --> 00:00:52,170
+table.
+表。
+
+16
+00:00:52,170 --> 00:00:53,690
+So that is the ultimate goal of the experiment.
+这就是这个实验的最终目标。
+
+17
+00:00:53,690 --> 00:00:58,560
+Now let us see how to conduct the experiment.
+现在我们来看如何进行这个实验。
+
+18
+00:00:58,560 --> 00:01:01,040
+What is the major goal of the experiment?
+这个实验的主要目标是什么？
+
+19
+00:01:01,040 --> 00:01:06,720
+The main aim of the experiment is to control the lamp from two different points or you
+实验的主要目的是从两个不同的地点，或者
+
+20
+00:01:06,720 --> 00:01:12,600
+can call two different positions and you can able to verify the truth table and also to
+叫两个不同的位置控制灯，并验证真值表，还要
+
+21
+00:01:12,600 --> 00:01:17,800
+control the lamp from three different points or places along with the formulation of truth
+从三个不同的地点或场所控制灯，同时列出真值
+
+22
+00:01:17,800 --> 00:01:18,800
+table.
+表。
+
+23
+00:01:18,800 --> 00:01:20,680
+That is the ultimate goal of the experiment.
+这就是这个实验的最终目标。
+
+24
+00:01:20,680 --> 00:01:23,560
+I think you can follow this.
+我想你们能跟上。
+
+25
+00:01:23,560 --> 00:01:27,960
+Now let us see the circuit diagram, the equipment required etc.
+现在我们来看电路图、所需设备等。
+
+26
+00:01:27,960 --> 00:01:28,960
+You can have an observation.
+大家可以看一下。
+
+27
+00:01:28,960 --> 00:01:33,680
+What are the major equipments required for conducting the experiment?
+进行这个实验需要哪些主要设备？
+
+28
+00:01:33,680 --> 00:01:38,320
+Actually the following are the equipments which are required for conducting the experiment.
+实际上，进行这个实验需要以下设备。
+
+29
+00:01:38,320 --> 00:01:43,440
+We require two-way switches, the rating of the two-way switches, current rating is 5
+我们需要双控开关，双控开关的额定值，额定电流是 5
+
+30
+00:01:43,440 --> 00:01:47,360
+ampere and voltage rating across the switch you can able to maintain it to 230 volt.
+安培，开关两端的额定电压可以保持在 230 伏。
+
+31
+00:01:47,360 --> 00:01:52,880
+There are two quantities required and we require intermediate switch for doing 3-way control
+需要两个，做灯的三地控制还需要一个中间开关，
+
+32
+00:01:52,880 --> 00:01:53,880
+of lamp.
+用于三地控制。
+
+33
+00:01:53,880 --> 00:01:57,960
+We require 5 ampere and 230 volt and quantity 1.
+需要 5 安培、230 伏的，数量 1 个。
+
+34
+00:01:57,960 --> 00:02:04,400
+We require any type of lamp, let us say incandescent lamp, 230 volt and 40 volts, only one quantity
+我们需要任意类型的灯，比如说白炽灯，230 伏、40 伏，只需要一个，
+
+35
+00:02:04,400 --> 00:02:07,360
+we require and the connecting wires are also required.
+还需要连接导线。
+
+36
+00:02:07,360 --> 00:02:10,720
+So these are the equipments required for conducting the experiment.
+这些就是进行这个实验所需的设备。
+
+37
+00:02:10,720 --> 00:02:13,760
+Now let us familiar the circuit diagram.
+现在我们来熟悉一下电路图。
+
+38
+00:02:13,760 --> 00:02:18,420
+What about the circuit diagram?
+电路图是怎样的？
+
+39
+00:02:18,420 --> 00:02:22,660
+As you can able to observe, this is a circuit diagram for conducting two-way control of
+大家可以看到，这是进行灯的两地控制的
+
+40
+00:02:22,660 --> 00:02:23,980
+lamp.
+电路图。
+
+41
+00:02:23,980 --> 00:02:30,660
+So we can able to see the phase and neutral terminal and we have the fuse, maybe 5 ampere
+我们可以看到相线和零线端子，还有熔断器，可以用 5 安培的
+
+42
+00:02:30,660 --> 00:02:34,300
+fuse we can use and this is your connection.
+熔断器，这就是你的接线。
+
+43
+00:02:34,300 --> 00:02:43,270
+So this is S1 and another switch is known as S2 and this dark line indicates connection
+这是 S1，另一个开关叫 S2，这条粗线表示连接，
+
+44
+00:02:43,270 --> 00:02:48,110
+B and E should be connected first, later on C and F should be connected first.
+B 和 E 要先连接，然后 C 和 F 要先连接。
+
+45
+00:02:48,110 --> 00:02:50,950
+First of all from the phase you have to take a connection, it should be connected
+首先你要从相线引出一根线，它要连接到
+
+46
+00:02:50,950 --> 00:02:57,150
+to point A, B and E should be connected and C and F should be connected, thereafter from
+A 点，B 和 E 要连接，C 和 F 要连接，之后从
+
+47
+00:02:57,150 --> 00:03:02,750
+D you have to take a wire and it has to be connected to the first point of the lamp.
+D 引出一根导线，连接到灯的第一个接点。
+
+48
+00:03:02,750 --> 00:03:07,190
+From the second point of the lamp must have to neutral, it must have connected to the
+灯的第二个接点必须接零线，必须接到
+
+49
+00:03:07,190 --> 00:03:10,150
+neutral point, thus connection will be completed.
+零线点，这样接线就完成了。
+
+50
+00:03:10,150 --> 00:03:14,190
+Now you have to familiar how to perform the connection, I will be showing you how to
+现在你们要熟悉如何接线，我会通过实际演示
+
+51
+00:03:14,190 --> 00:03:17,670
+perform the connection with the help of a practical demonstration, you can have an
+给你们看如何接线，大家可以
+
+52
+00:03:17,670 --> 00:03:26,070
+observation, you have to collect the proper equipment and you can able to start the
+观察一下，你们要准备好合适的设备，然后就可以开始
+
+53
+00:03:26,070 --> 00:03:29,030
+wiring and please observe it very carefully.
+布线，请非常仔细地观察。
+
+54
+00:03:29,030 --> 00:03:35,350
+So I will be doing the connection, B and E should be connected, later on another two
+我来接线，B 和 E 要连接，然后是另外两个
+
+55
+00:03:35,350 --> 00:03:38,200
+points.
+点。
+
+56
+00:03:38,200 --> 00:03:43,760
+Now what you can do, from the point D it has to be connected to the first point of
+现在你可以从 D 点连接到灯的第一个
+
+57
+00:03:43,760 --> 00:03:47,840
+the lamp, the second point of the lamp should be connected to neutral point.
+接点，灯的第二个接点要接到零线点。
+
+58
+00:03:47,840 --> 00:03:55,720
+Now you can able to operate the bulbs by using two switches, S1 and S2.
+现在你可以用两个开关 S1 和 S2 来控制灯泡。
+
+59
+00:03:55,720 --> 00:04:00,400
+So I will be changing the position of the switches, different positions are there.
+我来改变开关的位置，有不同的位置。
+
+60
+00:04:00,400 --> 00:04:10,600
+For example if I put, you can able to see S1, so this is A, B and this will be D, E.
+例如，如果我放到，大家可以看到 S1，这是 A、B，这是 D、E。
+
+61
+00:04:10,600 --> 00:04:16,160
+Then what is the condition, now what is the position, A, C, position will be A, C,
+那么是什么状态，现在是什么位置？A、C，位置是 A、C，
+
+62
+00:04:16,160 --> 00:04:21,280
+and another position will be D, F, the bulb is on condition, like this you can able to
+另一个位置是 D、F，灯泡处于亮的状态，像这样你可以
+
+63
+00:04:21,280 --> 00:04:24,780
+verify different condition.
+验证不同的状态。
+
+64
+00:04:24,780 --> 00:04:29,060
+Then you can able to form the truth table, A, B and D, then what is the condition of
+然后你可以列出真值表：A、B 和 D，灯的状态是什么？
+
+65
+00:04:29,060 --> 00:04:34,420
+the lamp, lamp is on condition, then A, B and D, F bulb is off condition, then A, C
+灯处于亮的状态；然后 A、B 和 D、F，灯泡处于灭的状态；然后 A、C
+
+66
+00:04:34,420 --> 00:04:39,760
+and D bulb is at off condition, similarly A, C and D, F bulb is at the on condition.
+和 D，灯泡处于灭的状态；同样 A、C 和 D、F，灯泡处于亮的状态。
+
+67
+00:04:39,760 --> 00:04:43,900
+So this is a truth table, okay, corresponding to two way control of the lamp.
+这就是对应于灯的两地控制的真值表，好的。
+
+68
+00:04:43,900 --> 00:04:47,380
+So just for your verification, once again you can able to see, I am going to change
+为了让你们验证一下，大家可以再看一遍，我要用两个开关
+
+69
+00:04:47,380 --> 00:04:51,460
+the lamp by using two switches.
+来改变灯的状态。
+
+70
+00:04:51,460 --> 00:04:57,660
+Now changing the position of the switch and denoting down the condition of the lamp.
+现在改变开关的位置，并记下灯的状态。
+
+71
+00:04:57,660 --> 00:05:01,100
+So this arrangement is known as two way control of lamp.
+这种布置就叫灯的两地控制。
+
+72
+00:05:01,100 --> 00:05:05,660
+Now I am going to discuss about how to perform three way control of lamp, as you can able
+现在我要讨论如何实现灯的三地控制，大家可以
+
+73
+00:05:05,660 --> 00:05:09,100
+to see the circular diagram of three way control of lamp.
+看到灯的三地控制的电路图。
+
+74
+00:05:09,100 --> 00:05:13,420
+Here what is the speciality, here we are going to use one more switch that is called
+这里的特点是什么？这里我们要再用一个开关，叫做
+
+75
+00:05:13,420 --> 00:05:15,140
+intermediate switch.
+中间开关。
+
+76
+00:05:15,140 --> 00:05:24,900
+So intermediate switches are having two positions, one is known as straight connection, okay,
+中间开关有两个位置，一个叫直通连接，好，
+
+77
+00:05:24,900 --> 00:05:30,450
+straight connection, you can note on this, straight connection, another type of connection
+直通连接，你们可以记下来，直通连接，另一种连接
+
+78
+00:05:30,450 --> 00:05:33,930
+is known as cross connection, there are two type of connection.
+叫交叉连接，有两种连接方式。
+
+79
+00:05:33,930 --> 00:05:40,610
+Suppose if I connect the PQ and RS together, so if I want to connect PQ and RS, then it
+假设我把 PQ 和 RS 连在一起，如果我要连接 PQ 和 RS，那就
+
+80
+00:05:40,610 --> 00:05:42,890
+is known as straight connection.
+叫直通连接。
+
+81
+00:05:42,890 --> 00:05:53,010
+On the opposite side, if I want to connect PS and QR, like this, PS and QR, then it is
+反过来，如果我要连接 PS 和 QR，像这样，PS 和 QR，那就
+
+82
+00:05:53,010 --> 00:05:58,490
+known as cross connection, remember, the straight connection and cross connection can possible
+叫交叉连接。记住，直通连接和交叉连接
+
+83
+00:05:58,490 --> 00:06:04,890
+only at a time, okay, the two type of condition never satisfy simultaneously, separately we
+一次只能实现一种，好，这两种状态永远不能同时满足，我们要分开
+
+84
+00:06:04,890 --> 00:06:09,290
+have to do, I think it is very clear, so first of all we have to do straight connection,
+做，我想这很清楚了。所以首先我们要做直通连接，
+
+85
+00:06:09,290 --> 00:06:13,770
+that means PQ and RS should be connected, okay, so first of all we have to do the
+也就是 PQ 和 RS 要连接，好，所以首先我们要按照电路图
+
+86
+00:06:13,770 --> 00:06:17,730
+connections as per the circuit diagram and I am going to show you the demonstration.
+接线，我会给你们演示。
+
+87
+00:06:17,730 --> 00:06:24,330
+Here from phase point you have to take a wire, it has to be connected to A, then B and B
+这里你要从相线点引出一根导线，接到 A，然后 B 和 B
+
+88
+00:06:24,330 --> 00:06:30,330
+should be connected, like with Q and E should be connected, below side C and R must be connected
+要连接，也就是和 Q 连接，E 要连接，下面一侧 C 和 R 必须连接，
+
+89
+00:06:30,330 --> 00:06:32,730
+and also S and F should be connected.
+还有 S 和 F 要连接。
+
+90
+00:06:32,730 --> 00:06:37,450
+Now from the point D, you need to connect to the first point of the lamp, second point
+现在从 D 点，你需要连接到灯的第一个接点，灯的第二个
+
+91
+00:06:37,450 --> 00:06:41,510
+of the lamp should be connected to neutral point, thus connection will be completed.
+接点要接到零线点，这样接线就完成了。
+
+92
+00:06:41,510 --> 00:06:46,270
+Now let us show you the demonstration, you can able to have an observation, how to perform
+现在给你们演示一下，大家可以观察如何进行
+
+93
+00:06:46,270 --> 00:06:51,510
+the connection of 3-way control of lamp, it is very simple but the thing is you will be
+灯的三地控制的接线，非常简单，但关键是你会
+
+94
+00:06:51,510 --> 00:06:56,790
+having an intermediate switch as you can able to see, so you have to verify the two
+有一个中间开关，大家可以看到，所以你要验证两种
+
+95
+00:06:56,790 --> 00:07:01,070
+type of arrangement, one is straight connection, another one is cross connection.
+布置，一种是直通连接，另一种是交叉连接。
+
+96
+00:07:01,070 --> 00:07:05,070
+By changing the switch position you can able to make out, while showing the demonstration
+通过改变开关位置你就能分辨出来，在演示的时候
+
+97
+00:07:05,070 --> 00:07:09,510
+definitely you will understand, okay, now I am going to point out how to make out the
+你肯定会明白的，好，现在我来指出如何进行
+
+98
+00:07:09,510 --> 00:07:14,470
+demonstration, please observe it carefully, how to perform the connection of 3-way control
+演示，请仔细观察如何进行灯的三地控制的
+
+99
+00:07:14,470 --> 00:07:15,470
+of lamp.
+接线。
+
+100
+00:07:15,470 --> 00:07:20,590
+Okay, so you can able to note down, what are the things which are relevant for 3-way control
+好，你们可以记下与灯的三地控制相关的
+
+101
+00:07:20,590 --> 00:07:24,590
+of lamp, see, so I am going to perform the connection, first you have to connect these
+要点，看，我来接线，首先你要把这
+
+102
+00:07:24,590 --> 00:07:30,510
+two points, later parallel you can connect these two points, this is your intermediate
+两个点连接起来，然后并行地连接这两个点，这是你的中间
+
+103
+00:07:30,510 --> 00:07:34,950
+switch, you can able to see, I will point out, you can see this is your intermediate
+开关，大家可以看到，我来指一下，你们可以看到这是你的中间
+
+104
+00:07:34,950 --> 00:07:43,610
+switch, look at this, this is your intermediate switch, okay, let me continue, likewise you
+开关，看这里，这是你的中间开关，好，我继续，同样你
+
+105
+00:07:43,610 --> 00:07:51,680
+have to connect these two points, yes, parallel these two points also should be connected,
+要把这两个点连接起来，对，并行的这两个点也要连接，
+
+106
+00:07:51,680 --> 00:07:55,920
+now from this point you need to connect to first point of the lamp, the second point
+现在从这个点你需要连接到灯的第一个接点，灯的第二个接点
+
+107
+00:07:55,920 --> 00:07:59,920
+of the lamp should be connected to neutral point, thus connection is completed, if I
+要接到零线点，这样接线就完成了。如果我
+
+108
+00:07:59,920 --> 00:08:04,240
+put it upside, look at this, look at the position of the intermediate switch, now
+把它扳到上面，看这里，看中间开关的位置，现在
+
+109
+00:08:04,240 --> 00:08:11,400
+it is at upside, upside means straight connection, okay, PQ and RS will be under contact, let
+它在上面，上面就是直通连接，好，PQ 和 RS 处于接触状态，我
+
+110
+00:08:11,400 --> 00:08:16,600
+me continue, yes, now it is under straight connection, now you have to vary the position
+继续，对，现在它处于直通连接，现在你要改变
+
+111
+00:08:16,600 --> 00:08:22,080
+of S1 and S2, okay, by changing the position of S1 and S2 you can able to control the
+S1 和 S2 的位置，好，通过改变 S1 和 S2 的位置，你就能控制
+
+112
+00:08:22,080 --> 00:08:26,320
+lamp, the thing is it is at the straight connection, once it is done, you have to
+灯，关键是它处于直通连接，完成之后，你要
+
+113
+00:08:26,320 --> 00:08:29,760
+complete the tooth table and also you have to pull down, then it is known as cross
+把真值表填完，然后还要扳到下面，那就叫交叉
+
+114
+00:08:29,760 --> 00:08:33,840
+connection, so you have to perform the similar operation of S1 and S2 to do the
+连接，所以你要对 S1 和 S2 进行同样的操作来完成
+
+115
+00:08:33,840 --> 00:08:38,040
+cross connection, I am going to change the position then you can able to note down, so
+交叉连接，我来改变位置，然后你们可以记下来，所以
+
+116
+00:08:38,040 --> 00:08:41,640
+this is your straight connection and close connection, you can able to complete
+这是你的直通连接和交叉连接，你们可以填完
+
+117
+00:08:41,640 --> 00:08:45,840
+the tooth table, for example you can able to see, so for the straight
+真值表，例如大家可以看到，对于直通
+
+118
+00:08:45,840 --> 00:08:50,280
+connection you know that PQ and RS are under contact, under connected, it is
+连接，你们知道 PQ 和 RS 处于接触、连接状态，它
+
+119
+00:08:50,280 --> 00:08:55,080
+under connection, so you have to add S1 and S2, see A, B, D, what is the
+处于连接状态，所以你要加上 S1 和 S2，看，A、B、D，是什么
+
+120
+00:08:55,080 --> 00:09:00,040
+condition, bulb is set to on condition, likewise A, B and D, bulb is set to off
+状态？灯泡处于亮的状态；同样 A、B 和 D，灯泡处于灭的
+
+121
+00:09:00,040 --> 00:09:05,240
+condition, then A, C and D, bulb is set to off condition, likewise A, C and D,
+状态；然后 A、C 和 D，灯泡处于灭的状态；同样 A、C 和 D，
+
+122
+00:09:05,240 --> 00:09:10,000
+bulb is set to on condition, on condition you can able to make out by using logic1
+灯泡处于亮的状态，亮的状态你可以用逻辑 1
+
+123
+00:09:10,000 --> 00:09:14,320
+and logic0, and likewise you can go ahead with the cross connection, you have to pull
+和逻辑 0 来表示。同样你可以接着做交叉连接，你要把开关扳到
+
+124
+00:09:14,320 --> 00:09:18,100
+down the switch, then it become cross connection, so A, B and D, bulb is set to
+下面，然后就变成交叉连接，所以 A、B 和 D，灯泡处于
+
+125
+00:09:18,100 --> 00:09:24,280
+off condition, then A, B and D, bulb is set to on condition, A, C and D, bulb is set to on
+灭的状态；然后 A、B 和 D，灯泡处于亮的状态；A、C 和 D，灯泡处于亮的
+
+126
+00:09:24,280 --> 00:09:30,520
+condition and finally AC and DF bulb is set to off condition. There are eight set of conditions
+状态；最后 AC 和 DF，灯泡处于灭的状态。在灯的三地控制中，你要验证八组状态。
+
+127
+00:09:30,520 --> 00:09:35,000
+you have to verify in case of three-way control of lamp. The main application of three-way control
+灯的三地控制的主要应用
+
+128
+00:09:35,000 --> 00:09:41,160
+of lamp is that the large warehouses go down etc. Especially in food industry where the
+是大型仓库、货仓等。特别是在食品行业，
+
+129
+00:09:41,800 --> 00:09:46,520
+grains are storing in a huge building it is required. So that is the major application of
+粮食储存在巨大的建筑里，就需要用到它。这就是
+
+130
+00:09:46,520 --> 00:09:52,280
+three-way control of lamp. So we have performed two-way and three-way control of lamp. Now we
+灯的三地控制的主要应用。我们已经完成了灯的两地控制和三地控制。现在我们
+
+131
+00:09:52,280 --> 00:09:56,760
+have to make a conclusion. Okay what is the conclusion of the experiment? So it is possible
+要得出结论。好，这个实验的结论是什么？通过灯的两地控制，
+
+132
+00:09:56,760 --> 00:10:01,960
+to control the lamp from two different places by two-way control of lamp. We have verified
+可以从两个不同的地方控制灯。我们已经验证了，
+
+133
+00:10:01,960 --> 00:10:07,320
+for example staircase wiring and you can able to use it in your bedroom as well. Likewise you can
+例如楼梯布线，你也可以把它用在卧室里。同样，你也
+
+134
+00:10:07,320 --> 00:10:13,480
+also control the lamp from three different places may be obtained by three-way control of lamp. Here
+可以通过灯的三地控制，从三个不同的地方控制灯。这里
+
+135
+00:10:13,480 --> 00:10:17,560
+in addition to that there is one switch that is called intermediate switch. There are two position
+除此之外还有一个开关，叫做中间开关。它有两个位置，
+
+136
+00:10:17,560 --> 00:10:21,480
+one is straight connection another one is called a cross connection that you are supposed to verify.
+一个是直通连接，另一个叫交叉连接，这是你们要验证的。
+
+137
+00:10:24,590 --> 00:10:28,030
+So this is the conclusion of this particular experiment. One of the quite
+这就是这个实验的结论。这是一个相当
+
+138
+00:10:28,030 --> 00:10:33,950
+easy and convenient experiment and it will be helpful for domestic wiring also. All engineering
+简单方便的实验，对家庭布线也会有帮助。所有工科
+
+139
+00:10:33,950 --> 00:10:38,030
+graduates can be studied about this. You have to understand the logic only that much.
+毕业生都可以学习这个。你们只需要理解其中的逻辑，仅此而已。
+
+140
+00:10:39,310 --> 00:10:43,550
+These are my references. Finally thank you for watching this video.
+这些是我的参考资料。最后，感谢收看本视频。
