@@ -1,0 +1,938 @@
+{
+ "id": "06_Reaction Work-Up II",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "旋转蒸发仪的正确使用",
+ "seconds": 345,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/06_Reaction Work-Up II.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/src.py",
+ "points": {
+  "K1": "最后都要除去溶剂",
+  "K2": "旋转蒸发仪：好用但有规矩",
+  "K3": "真空管路：减压降沸点",
+  "K4": "热水浴：补充热量",
+  "K5": "防溅球：挡住样品",
+  "K6": "旋转电机：铺开液膜",
+  "K7": "冷凝管和接收瓶",
+  "K8": "规则一：扎头发，不穿宽袖",
+  "K9": "头发、衣物、首饰远离电机",
+  "K10": "规则二：装液不超过一半",
+  "K11": "装太满会暴沸",
+  "K12": "暴沸了反而更费时",
+  "K13": "规则三：瓶里不能有固体",
+  "K14": "规则四：用干净的防溅球",
+  "K15": "用前洗净、溶剂冲洗",
+  "K16": "规则五：先冷却冷凝管和接收瓶",
+  "K17": "通冷水，接收瓶放冰浴",
+  "K18": "用夹子把烧瓶夹牢",
+  "K19": "规则六：先抽一点真空再旋转",
+  "K20": "规则七：慢慢开真空",
+  "K21": "蒸发稳定后再进水浴",
+  "K22": "蒸到黏稠贴壁",
+  "K23": "取瓶：关电机、放真空、取夹子",
+  "K24": "需要时再上高真空泵",
+  "K25": "七条规则回顾",
+  "S1": "减压防内爆：先查烧瓶",
+  "S2": "冷凝水先通后热，水管绑牢",
+  "S3": "真空泵尾气要处理",
+  "S4": "出了意外先停机"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台旋转蒸发仪旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a rotary evaporator with a condenser, a water bath and a round-bottom flask, and waves at the camera.",
+   "narration": "这一课讲旋转蒸发仪的正确使用。",
+   "overlay": [
+    "旋转蒸发仪的正确使用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "七个编号空白圆牌排成一排",
+   "prompt_en": "Seven round blank badges in a row, each with a different small icon. No people.",
+   "narration": "七条规矩，条条要记牢。",
+   "overlay": [],
+   "labels": [
+    "七条规则"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰披着长发、穿着宽松袖子，凑近旋转的烧瓶看",
+   "prompt_en": "The young male student with long loose hair and baggy sleeves leans close to a spinning flask on a rotary evaporator.",
+   "narration": "阿杰凑得很近，看烧瓶转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "头发被卷进旋转部件的图标被红叉划掉",
+   "prompt_en": "An icon of loose hair being pulled into a spinning part, crossed out with a red X. No people.",
+   "narration": "头发和袖子，可能被卷进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给阿杰发圈，帮他挽起袖子",
+   "prompt_en": "The female graduate student, wearing goggles, hands the young male student a hair tie and helps roll up his sleeves.",
+   "narration": "小研说：先把头发扎起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods.",
+   "narration": "先认识部件，再学规矩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最后都要除去溶剂",
+   "scene": "烧瓶里溶着样品的溶液，旁边是固体和油状物图标",
+   "prompt_en": "A flask of solution with a dissolved sample, next to icons of a solid and an oil drop. No people.",
+   "narration": "做反应、过柱子，样品都溶在溶剂里。",
+   "overlay": [
+    "最后都要除去溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最后都要除去溶剂",
+   "scene": "溶剂飘走，烧瓶底留下纯样品",
+   "prompt_en": "Solvent icons float away and a small amount of pure sample remains at the bottom of the flask. No people.",
+   "narration": "最后要把溶剂去掉，拿到产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "旋转蒸发仪：好用但有规矩",
+   "scene": "欣欣拍拍旋转蒸发仪",
+   "prompt_en": "The panda mascot pats the frame of a rotary evaporator.",
+   "narration": "旋转蒸发仪就是干这个的。",
+   "overlay": [
+    "旋转蒸发仪：好用但有规矩"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "旋转蒸发仪：好用但有规矩",
+   "scene": "规则手册图标",
+   "prompt_en": "A blank rule book icon with a check list. No people.",
+   "narration": "好用，但有几条规矩必须守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "真空管路：减压降沸点",
+   "scene": "真空管连着仪器，压力表指针下降",
+   "prompt_en": "A vacuum hose connected to the evaporator, with a pressure gauge needle dropping. No people.",
+   "narration": "真空管路让系统压力降低。",
+   "overlay": [
+    "真空管路：减压降沸点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "真空管路：减压降沸点",
+   "scene": "温度计上的沸点刻度下移",
+   "prompt_en": "A thermometer icon whose boiling mark moves lower as a pressure arrow goes down. No people.",
+   "narration": "压力低了，溶剂沸点也低了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热水浴：补充热量",
+   "scene": "烧瓶浸在热水浴里",
+   "prompt_en": "The round-bottom flask sits partly in a warm water bath. No people.",
+   "narration": "热水浴给烧瓶加点热。",
+   "overlay": [
+    "热水浴：补充热量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热水浴：补充热量",
+   "scene": "蒸发带走热量的雪花图标",
+   "prompt_en": "Snowflake icons around an evaporating flask, with a small heat arrow from the bath. No people.",
+   "narration": "蒸发会吸热，要补充热量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防溅球：挡住样品",
+   "scene": "烧瓶和仪器之间的一个玻璃球，被高亮",
+   "prompt_en": "A glass bulb between the flask and the rest of the evaporator is highlighted. No people.",
+   "narration": "烧瓶接在防溅球上。",
+   "overlay": [
+    "防溅球：挡住样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防溅球：挡住样品",
+   "scene": "液滴冲上来被球挡住",
+   "prompt_en": "Splashing droplets fly up and are caught inside the glass bulb. No people.",
+   "narration": "万一冲料，样品不会跑进仪器里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "旋转电机：铺开液膜",
+   "scene": "电机带动烧瓶旋转，瓶壁上铺开一层液膜",
+   "prompt_en": "The motor spins the flask and a thin film of liquid spreads over the inside wall. No people.",
+   "narration": "电机让烧瓶旋转，液体铺成薄膜。",
+   "overlay": [
+    "旋转电机：铺开液膜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "旋转电机：铺开液膜",
+   "scene": "表面积变大的箭头",
+   "prompt_en": "Arrows showing a larger surface area and faster evaporation. No people.",
+   "narration": "面积大了，蒸发就快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "冷凝管和接收瓶",
+   "scene": "蒸气上升进冷凝管，变成液滴",
+   "prompt_en": "Vapor rises into a coiled condenser and turns into droplets. No people.",
+   "narration": "冷凝管把溶剂蒸气冷凝下来。",
+   "overlay": [
+    "冷凝管和接收瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "冷凝管和接收瓶",
+   "scene": "液滴流进接收瓶；样品留在烧瓶",
+   "prompt_en": "Droplets drip into a receiving flask while the sample stays in the round-bottom flask. No people.",
+   "narration": "溶剂进接收瓶，样品留在烧瓶里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "规则一：扎头发，不穿宽袖",
+   "scene": "欣欣举起第一块圆牌，上面画着发圈",
+   "prompt_en": "The panda mascot holds up the first badge showing a hair tie icon.",
+   "narration": "规则一：扎起头发，不穿宽松袖子。",
+   "overlay": [
+    "规则一：扎头发，不穿宽袖"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "规则一：扎头发，不穿宽袖",
+   "scene": "旋转电机旁的警示三角",
+   "prompt_en": "A yellow warning triangle next to the spinning motor. No people.",
+   "narration": "旋转电机是个安全隐患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "头发、衣物、首饰远离电机",
+   "scene": "小研扎好头发、袖口收紧，站在适当距离外操作",
+   "prompt_en": "The female graduate student with hair tied back and fitted cuffs operates the evaporator from a proper distance.",
+   "narration": "别凑太近。",
+   "overlay": [
+    "头发、衣物、首饰远离电机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "头发、衣物、首饰远离电机",
+   "scene": "长发、围巾、项链靠近电机的图标被打叉",
+   "prompt_en": "Icons of long hair, a scarf and a necklace near the motor, crossed out with a red X. No people.",
+   "narration": "头发、衣服、首饰，都别靠近电机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "规则二：装液不超过一半",
+   "scene": "欣欣举起第二块圆牌，上面画着半瓶液体",
+   "prompt_en": "The panda mascot holds up the second badge showing a half-filled flask.",
+   "narration": "规则二：烧瓶最多装一半。",
+   "overlay": [
+    "规则二：装液不超过一半"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装太满会暴沸",
+   "scene": "装满的烧瓶图标被打叉，半瓶打勾",
+   "prompt_en": "A full flask crossed out with a red X next to a half-full flask with a green check. No people.",
+   "narration": "装满了，不会更快。",
+   "overlay": [
+    "装太满会暴沸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装太满会暴沸",
+   "scene": "液体猛地冲进防溅球",
+   "prompt_en": "Liquid suddenly surges up from the flask into the glass bulb. No people.",
+   "narration": "反而容易暴沸，样品冲进防溅球。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "暴沸了反而更费时",
+   "scene": "用溶剂冲洗防溅球，烧瓶里液体变多",
+   "prompt_en": "The glass bulb is rinsed with solvent, and the liquid level in the flask rises again. No people.",
+   "narration": "还得冲洗防溅球，要蒸的更多了。",
+   "overlay": [
+    "暴沸了反而更费时"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "规则三：瓶里不能有固体",
+   "scene": "欣欣举起第三块圆牌，上面是被划掉的颗粒",
+   "prompt_en": "The panda mascot holds up the third badge showing crossed-out particles.",
+   "narration": "规则三：瓶里不能有固体。",
+   "overlay": [
+    "规则三：瓶里不能有固体"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "规则三：瓶里不能有固体",
+   "scene": "瓶里的搅拌子和固体颗粒被打叉",
+   "prompt_en": "A flask with a stir bar and solid grains inside, crossed out with a red X. No people.",
+   "narration": "搅拌子也不行，它们会引起暴沸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "规则四：用干净的防溅球",
+   "scene": "欣欣举起第四块圆牌，上面是闪亮的玻璃球",
+   "prompt_en": "The panda mascot holds up the fourth badge showing a sparkling glass bulb.",
+   "narration": "规则四：用干净的防溅球。",
+   "overlay": [
+    "规则四：用干净的防溅球"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "用前洗净、溶剂冲洗",
+   "scene": "小研在水槽边清洗防溅球，再用溶剂冲洗",
+   "prompt_en": "The female graduate student, wearing gloves and goggles, washes the glass bulb at a sink, then rinses it with solvent.",
+   "narration": "用前洗净，再用溶剂冲一遍。",
+   "overlay": [
+    "用前洗净、溶剂冲洗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "用前洗净、溶剂冲洗",
+   "scene": "球内残留的污渍混进样品的图标被打叉",
+   "prompt_en": "An icon of residue inside the bulb mixing into a sample, crossed out with a red X. No people.",
+   "narration": "别人的残留，可别混进你的样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "规则五：先冷却冷凝管和接收瓶",
+   "scene": "欣欣举起第五块圆牌，上面是雪花",
+   "prompt_en": "The panda mascot holds up the fifth badge showing a snowflake.",
+   "narration": "规则五：先冷却冷凝管和接收瓶。",
+   "overlay": [
+    "规则五：先冷却冷凝管和接收瓶"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "通冷水，接收瓶放冰浴",
+   "scene": "冷水在冷凝管盘管里流动",
+   "prompt_en": "Cold water flows through the coil of the condenser, shown with blue arrows. No people.",
+   "narration": "确认冷凝管里有冷水在循环。",
+   "overlay": [
+    "通冷水，接收瓶放冰浴"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "通冷水，接收瓶放冰浴",
+   "scene": "接收瓶放进冰桶",
+   "prompt_en": "The receiving flask sits inside a bucket of ice. No people.",
+   "narration": "接收瓶放进冰浴，少让蒸气跑掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用夹子把烧瓶夹牢",
+   "scene": "小研用塑料夹把烧瓶夹在防溅球上",
+   "prompt_en": "The female graduate student attaches the half-filled flask to the glass bulb and snaps a plastic joint clip in place.",
+   "narration": "用夹子把烧瓶牢牢夹在防溅球上。",
+   "overlay": [
+    "用夹子把烧瓶夹牢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "规则六：先抽一点真空再旋转",
+   "scene": "欣欣举起第六块圆牌，上面是真空表和旋转箭头",
+   "prompt_en": "The panda mascot holds up the sixth badge showing a gauge followed by a rotation arrow.",
+   "narration": "规则六：先抽一点真空，再旋转。",
+   "overlay": [
+    "规则六：先抽一点真空再旋转"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "规则六：先抽一点真空再旋转",
+   "scene": "烧瓶和防溅球滑落掉进水浴的图标被打叉",
+   "prompt_en": "An icon of the flask and bulb slipping off and dropping into the water bath, crossed out with a red X. No people.",
+   "narration": "没真空吸住就转，烧瓶可能掉下去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "规则七：慢慢开真空",
+   "scene": "欣欣举起第七块圆牌，上面是缓慢旋开的阀门",
+   "prompt_en": "The panda mascot holds up the seventh badge showing a valve turning slowly.",
+   "narration": "规则七：慢慢打开真空。",
+   "overlay": [
+    "规则七：慢慢开真空"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "规则七：慢慢开真空",
+   "scene": "烧瓶里小气泡平稳冒出",
+   "prompt_en": "Small bubbles rise gently and steadily in the flask. No people.",
+   "narration": "盯住鼓泡，太猛就把真空调小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "规则七：慢慢开真空",
+   "scene": "真空猛开、液体翻涌的图标被打叉",
+   "prompt_en": "An icon of a valve thrown wide open and liquid foaming up violently, crossed out with a red X. No people.",
+   "narration": "开得太快，也会暴沸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "蒸发稳定后再进水浴",
+   "scene": "烧瓶降入热水浴旋转",
+   "prompt_en": "The spinning flask is lowered into the warm water bath. No people.",
+   "narration": "蒸发稳定了，再把烧瓶放进水浴。",
+   "overlay": [
+    "蒸发稳定后再进水浴"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "蒸发稳定后再进水浴",
+   "scene": "结霜的烧瓶图标被打叉",
+   "prompt_en": "An icon of a frosted flask, crossed out with a red X. No people.",
+   "narration": "这样不会结霜，速度也合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "蒸到黏稠贴壁",
+   "scene": "烧瓶壁上留下一圈黏稠的样品",
+   "prompt_en": "A sticky ring of concentrated sample on the wall of the flask. No people.",
+   "narration": "蒸到样品变黏、贴在瓶壁上。",
+   "overlay": [
+    "蒸到黏稠贴壁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "蒸到黏稠贴壁",
+   "scene": "瓶里析出白色固体",
+   "prompt_en": "White solid forms on the inside of the flask. No people.",
+   "narration": "固体样品，蒸完通常会凝固。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "取瓶：关电机、放真空、取夹子",
+   "scene": "三个步骤图标：关电机、放气阀、松夹子",
+   "prompt_en": "Three step icons in order: a motor switch turned off, an air valve opening, a clip being released. No people.",
+   "narration": "取瓶：先关电机，再放真空。",
+   "overlay": [
+    "取瓶：关电机、放真空、取夹子"
+   ],
+   "labels": [
+    "关电机",
+    "放真空",
+    "取夹子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "取瓶：关电机、放真空、取夹子",
+   "scene": "小研取下夹子，托住烧瓶取下",
+   "prompt_en": "The female graduate student removes the clip and lifts the flask off while supporting it with her hand.",
+   "narration": "最后取下夹子，托住烧瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "需要时再上高真空泵",
+   "scene": "烧瓶接到高真空泵管路上",
+   "prompt_en": "The flask is connected to a high vacuum line. No people.",
+   "narration": "还有一点残留溶剂？上高真空泵。",
+   "overlay": [
+    "需要时再上高真空泵"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "七条规则回顾",
+   "scene": "七块圆牌依次亮起",
+   "prompt_en": "The seven badges light up one by one beside the panda mascot.",
+   "narration": "七条规则，再复习一遍。",
+   "overlay": [
+    "七条规则回顾"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "七条规则回顾",
+   "scene": "前三块圆牌：发圈、半瓶、无固体",
+   "prompt_en": "The first three badges: a hair tie, a half-full flask, crossed-out particles. No people.",
+   "narration": "扎头发、装半瓶、不放固体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "七条规则回顾",
+   "scene": "后四块圆牌：干净球、雪花、真空表、慢阀",
+   "prompt_en": "The last four badges: a clean bulb, a snowflake, a gauge before rotation, a slow valve. No people.",
+   "narration": "球要净、先冷却、先真空、慢慢开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "七条规则回顾",
+   "scene": "欣欣手捧空白讲义",
+   "prompt_en": "The panda mascot holds a thick blank lab manual.",
+   "narration": "演示只是预习，讲义一定要读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减压防内爆：先查烧瓶",
+   "scene": "小研对着光检查圆底烧瓶有无裂纹",
+   "prompt_en": "The female graduate student, wearing goggles, holds a round-bottom flask up to the light and checks for cracks.",
+   "narration": "减压前，先查烧瓶有没有裂纹。",
+   "overlay": [
+    "减压防内爆：先查烧瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减压防内爆：先查烧瓶",
+   "scene": "星形裂纹的烧瓶和平底瓶、锥形瓶被打叉，圆底瓶打勾",
+   "prompt_en": "A flask with a star crack, a flat-bottom flask and a conical flask crossed out with red X marks; a sound round-bottom flask with a green check. No people.",
+   "narration": "只用完好的圆底烧瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减压防内爆：先查烧瓶",
+   "scene": "旋转蒸发仪的烧瓶外加一个透明防护罩",
+   "prompt_en": "A clear safety shield placed in front of the rotary evaporator flask. No people.",
+   "narration": "需要时加防护罩，防玻璃内爆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷凝水先通后热，水管绑牢",
+   "scene": "先开冷凝水、后开水浴加热的顺序箭头",
+   "prompt_en": "An order arrow: first a cold water tap icon, then a water bath heating icon. No people.",
+   "narration": "冷凝水先通，再加热。",
+   "overlay": [
+    "冷凝水先通后热，水管绑牢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷凝水先通后热，水管绑牢",
+   "scene": "水管接口用卡箍扎紧",
+   "prompt_en": "The water hoses are secured to the condenser with hose clamps. No people.",
+   "narration": "水管接口绑牢，防止脱落跑水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "真空泵尾气要处理",
+   "scene": "真空泵排气管接进通风柜",
+   "prompt_en": "The exhaust tube of a vacuum pump runs into a fume hood. No people.",
+   "narration": "真空泵的尾气，引进通风柜。",
+   "overlay": [
+    "真空泵尾气要处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "真空泵尾气要处理",
+   "scene": "管路中的冷阱把蒸气凝住",
+   "prompt_en": "A cold trap in the vacuum line catches solvent vapor before the pump. No people.",
+   "narration": "用冷阱挡住溶剂，保护泵也保护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "真空泵尾气要处理",
+   "scene": "接收瓶里的溶剂倒进废液桶",
+   "prompt_en": "Solvent from the receiving flask is poured into a waste container with a pictogram. No people.",
+   "narration": "接收瓶里的溶剂，按废液收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "出了意外先停机",
+   "scene": "烧瓶掉进水浴，手伸进去捞的图标被打叉",
+   "prompt_en": "An icon of a hand reaching into a hot water bath to grab a fallen flask, crossed out with a red X. No people.",
+   "narration": "烧瓶掉了、冲料了，别伸手去捞。",
+   "overlay": [
+    "出了意外先停机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "出了意外先停机",
+   "scene": "小研依次关电机、关加热、放真空",
+   "prompt_en": "The female graduate student switches off the motor, turns off the bath heater and opens the vacuum release.",
+   "narration": "先关电机和加热，再放真空。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "出了意外先停机",
+   "scene": "小研向老周报告",
+   "prompt_en": "The female graduate student reports the incident to the older man.",
+   "narration": "处理不了，马上报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现发圈、半瓶烧瓶、搅拌子打叉图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a hair tie, a half-full flask and a crossed-out stir bar.",
+   "narration": "扎发、半瓶、无固体。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "干净防溅球、冰桶、真空表图标",
+   "prompt_en": "Icons of a clean glass bulb, an ice bucket and a vacuum gauge. No people.",
+   "narration": "球干净、先冷却、先真空再旋转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "慢慢旋开的阀门和取瓶三步图标",
+   "prompt_en": "Icons of a slowly turning valve and three removal steps. No people.",
+   "narration": "慢开真空，按顺序取瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防护罩、水管卡箍、冷阱图标",
+   "prompt_en": "Icons of a safety shield, a hose clamp and a cold trap. No people.",
+   "narration": "查烧瓶、绑水管、处理好尾气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一只蒸干的烧瓶，挥手道别",
+   "prompt_en": "The panda mascot holds up a flask with a dry sample ring and waves goodbye at the camera.",
+   "narration": "规矩记牢，旋蒸无忧，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
