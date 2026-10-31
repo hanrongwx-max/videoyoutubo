@@ -1,7 +1,7 @@
-# 熔点测定
+# 熔点测定（国内版）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：12_Melting Point（内容分析见 `course/MIT Digital Lab Techniques Manual/12_Melting Point.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../12_Melting Point/`
 - 时长：7 分 55 秒（95 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 89 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）

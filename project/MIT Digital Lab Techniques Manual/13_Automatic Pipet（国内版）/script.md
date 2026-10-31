@@ -1,7 +1,7 @@
-# 移液器的使用
+# 移液器的使用（国内版）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：13_Automatic Pipet（内容分析见 `course/MIT Digital Lab Techniques Manual/13_Automatic Pipet.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../13_Automatic Pipet/`
 - 时长：7 分 50 秒（94 个镜头 × 5 秒）；熊猫出镜说话 5 镜，画外音 89 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
