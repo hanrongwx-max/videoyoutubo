@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 6 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 7 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -328,6 +328,7 @@
 | Cleanroom & Equipment Safety | 05_Lesson 3 How to Produce High-Quality Weld Beads | 国内版 | 手持激光焊接：焊出好焊缝（国内版） | 85 | 7:05 | 25 / 8 | [剧本](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 原著版 | 激光焊机安全继电器的更换 | 39 | 3:15 | 11 / 0 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 国内版 | 激光焊机安全继电器的更换（国内版） | 54 | 4:30 | 11 / 6 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 07_Lesson 10 How to Fix Incomplete Handheld Cutting | 原著版 | 手持激光切割切不透怎么办 | 47 | 3:55 | 16 / 0 | [剧本](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting/script.md>) |
 | Cleanroom & Equipment Safety | 07_Lesson 10 How to Fix Incomplete Handheld Cutting | 国内版 | 手持激光切割切不透怎么办（国内版） | 59 | 4:55 | 16 / 7 | [剧本](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 08_Lesson 2 How to Cut and Weld a Practical Product？ | 国内版 | 激光切割加焊接：做一个调料架（国内版） | 83 | 6:55 | 26 / 9 | [剧本](<Cleanroom & Equipment Safety/08_Lesson 2 How to Cut and Weld a Practical Product？（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/08_Lesson 2 How to Cut and Weld a Practical Product？（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder | 国内版 | 激光焊接机开关电源的规范更换（国内版） | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
