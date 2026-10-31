@@ -22,7 +22,7 @@
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 6 / 8 |
-| ACS College Lab Safety Series | 7 / 7 | 6 / 7 |
+| ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 5 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 6 / 7 |
 | Electrical Safety Series | 6 / 25 | 5 / 6 |
@@ -50,6 +50,7 @@
 | ACS College Lab Safety Series | 05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video | 国内版 | 降低风险：化学实验的操作技巧（国内版） | 116 | 9:40 | 29 / 7 | [剧本](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 原著版 | 化学实验室的应急处置 | 90 | 7:30 | 29 / 0 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6/script.md>) |
 | ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 国内版 | 化学实验室的应急处置（国内版） | 112 | 9:20 | 29 / 7 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/审查报告.md>) |
+| ACS College Lab Safety Series | 07_Meet Michael Mills -- Host of the ACS Safety Videos | 原著版 | 安全课幕后：为什么安全放在第一位 | 51 | 4:15 | 13 / 0 | [剧本](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos/script.md>) |
 | ACS College Lab Safety Series | 07_Meet Michael Mills -- Host of the ACS Safety Videos | 国内版 | 安全课幕后：为什么安全放在第一位（国内版） | 69 | 5:45 | 13 / 6 | [剧本](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions | 原著版 | 安全知识问答：从基本概念到现场设备 | 109 | 9:05 | 37 / 0 | [剧本](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions/script.md>) |
 | ACS Hazard Communication & Safety | 01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions | 国内版 | 安全知识问答：从基本概念到现场设备（国内版） | 129 | 10:45 | 37 / 6 | [剧本](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions（国内版）/审查报告.md>) |
