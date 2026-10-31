@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 294 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 295 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -16,7 +16,7 @@
 | ACS Hazard Communication & Safety | 10 / 10 | 3 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 7 / 10 |
 | Electrical Safety Series | 9 / 25 | 6 / 6 |
-| Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
+| Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 4 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
@@ -26,9 +26,9 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 6 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
+| Basic Electrical Engineering Lab | 1 / 23 | 0 / 0 |
 | Laser Maintenance Group Safety | 1 / 17 | 0 / 0 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
-| Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
 | Laboratory Ergonomics & RSI | 0 / 36 | 0 / 0 |
 
@@ -155,6 +155,7 @@
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 国内版 | 蚊虫传的病，怎么防（国内版） | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 国内版 | 送风头罩，一步步穿对（国内版） | 51 | 4:15 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment | 单一版 | 电工基础实验：课程导览 | 65 | 5:25 | 16 / 7 | [剧本](<Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
@@ -223,6 +224,7 @@
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 国内版 | 实验室里的人机工效（国内版） | 102 | 8:30 | 25 / 5 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] | 原著版 | 通风柜的正确使用 | 97 | 8:05 | 34 / 0 | [剧本](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] | 国内版 | 通风柜的正确使用（国内版） | 111 | 9:15 | 34 / 6 | [剧本](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（国内版）/审查报告.md>) |
+| Fire Safety & Extinguisher Training | 04_GHS Safety Data Sheets in the Laboratory | 原著版 | 读懂化学品安全技术说明书 | 113 | 9:25 | 36 / 0 | [剧本](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory/script.md>) |
 | Fire Safety & Extinguisher Training | 04_GHS Safety Data Sheets in the Laboratory | 国内版 | 读懂化学品安全技术说明书（国内版） | 137 | 11:25 | 36 / 6 | [剧本](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 05_Flammables and Explosives in the Laboratory - [Lab Safety Training Video] | 国内版 | 实验室里的易燃易爆物（国内版） | 153 | 12:45 | 47 / 6 | [剧本](<Fire Safety & Extinguisher Training/05_Flammables and Explosives in the Laboratory - [Lab Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/05_Flammables and Explosives in the Laboratory - [Lab Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 06_OSHA Formaldehyde Training Video - [Standard 1910.1048] | 国内版 | 甲醛的危害与安全使用（国内版） | 122 | 10:10 | 30 / 6 | [剧本](<Fire Safety & Extinguisher Training/06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（国内版）/审查报告.md>) |
