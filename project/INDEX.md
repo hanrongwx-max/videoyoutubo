@@ -19,7 +19,7 @@
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
-| ACS Hazard Communication & Safety | 10 / 10 | 8 / 10 |
+| ACS Hazard Communication & Safety | 10 / 10 | 9 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
@@ -68,6 +68,7 @@
 | ACS Hazard Communication & Safety | 07_Safety Officer Interview Questions and Answers (Confined Space) | 国内版 | 安全知识问答：受限空间（国内版） | 74 | 6:10 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space)（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space)（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com | 原著版 | 安全知识问答：制度、红线与不安全行为 | 44 | 3:40 | 15 / 0 | [剧本](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com/script.md>) |
 | ACS Hazard Communication & Safety | 08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com | 国内版 | 安全知识问答：制度、红线与不安全行为（国内版） | 72 | 6:00 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（国内版）/审查报告.md>) |
+| ACS Hazard Communication & Safety | 09_Radiography Safety Officer (RSO) Interview Questions and Answers | 原著版 | 安全知识问答：射线探伤与辐射防护 | 38 | 3:10 | 12 / 0 | [剧本](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers/script.md>) |
 | ACS Hazard Communication & Safety | 09_Radiography Safety Officer (RSO) Interview Questions and Answers | 国内版 | 安全知识问答：射线探伤与辐射防护（国内版） | 74 | 6:10 | 12 / 5 | [剧本](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 10_Colour Code of Web Sling SWL of Web Sling | 国内版 | 安全知识问答：吊装带与重物搬运（国内版） | 40 | 3:20 | 3 / 5 | [剧本](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 01_Module 12 — Safety Culture & Human Factors | 原著版 | 安全文化与人的因素 | 82 | 6:50 | 19 / 0 | [剧本](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors/script.md>) |
