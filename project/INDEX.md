@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 4 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 17 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 14 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 15 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
 | Lab Safety Training Series | 13 / 13 | 5 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
@@ -199,6 +199,7 @@
 | CDC Laboratory Safety Series | 18_Fundamentals of Chemical Fume Hood Safety Good Work Practices | 国内版 | 通风柜的良好操作习惯（国内版） | 58 | 4:50 | 19 / 3 | [剧本](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction | 原著版 | 甲醛和戊二醛的安全使用 | 31 | 2:35 | 10 / 0 | [剧本](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction/script.md>) |
 | CDC Laboratory Safety Series | 19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction | 国内版 | 甲醛和戊二醛的安全使用（国内版） | 48 | 4:00 | 10 / 5 | [剧本](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat | 原著版 | 给气瓶装上减压器 | 29 | 2:25 | 11 / 0 | [剧本](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat/script.md>) |
 | CDC Laboratory Safety Series | 20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat | 国内版 | 给气瓶装上减压器（国内版） | 39 | 3:15 | 11 / 4 | [剧本](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 国内版 | 开瓶阀与调压力（国内版） | 36 | 3:00 | 10 / 4 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 国内版 | 供气系统检漏（国内版） | 41 | 3:25 | 12 / 3 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/审查报告.md>) |
