@@ -12,7 +12,7 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 9 / 23 |
 | Lab Safety Training Series | 13 / 13 | 5 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 6 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 7 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 9 / 10 |
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
@@ -260,6 +260,7 @@
 | Fume Hood & Cabinet Protocols | 05_Simple Distillation | 国内版 | 简单蒸馏（国内版） | 110 | 9:10 | 21 / 8 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 原著版 | 重结晶与熔点测定 | 77 | 6:25 | 28 / 0 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis/script.md>) |
 | Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 国内版 | 重结晶与熔点测定（国内版） | 104 | 8:40 | 28 / 8 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 原著版 | 移液器具与标准溶液 | 65 | 5:25 | 22 / 0 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions/script.md>) |
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 国内版 | 移液器具与标准溶液（国内版） | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 国内版 | 强酸强碱滴定（国内版） | 96 | 8:00 | 25 / 8 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 09_Performing Thin Layer Chromatography (TLC) | 国内版 | 薄层色谱的操作与安全（国内版） | 97 | 8:05 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/审查报告.md>) |
