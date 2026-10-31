@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 48 / 59 |
+| Microbiology Biosafety | 59 / 59 | 49 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -720,6 +720,7 @@
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 原著版 | 认识危险物品：七大类和它们藏在哪 | 48 | 4:00 | 14 / 0 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 国内版 | 认识危险物品：七大类和它们藏在哪（国内版） | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（国内版）/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 原著版 | 实验室生物安保：五种威胁怎么防 | 28 | 2:20 | 6 / 0 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) |
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 国内版 | 实验室生物安保：五种威胁怎么防（国内版） | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 国内版 | 生物风险管理，怎么检查好不好（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/script.md>) · [审查](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 国内版 | 危险物品怎么分类：九大类与象形图（国内版） | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf（国内版）/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf（国内版）/审查报告.md>) |

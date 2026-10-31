@@ -1,0 +1,116 @@
+# 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato 卡通剧本作者源
+# 原片是无人声的文字幻灯片（3 分钟），列出五类实验室生物安保威胁：被盗、内部威胁、丢失与记录不全、未授权进入、网络入侵
+# 原著版：完全照原片，K1–K6，无补充知识点（五类威胁：被盗、内部人员、丢失与记录不全、未经授权进入、网络入侵）；硬性底线：只到识别层面，不出现任何因子名称和攻击细节
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "实验室生物安保：五种威胁怎么防",
+    "edition": "原著版",
+    "points": {
+        "K1": "生物安保：防盗用、防滥用，人人有责",
+        "K2": "威胁一：材料被盗",
+        "K3": "威胁二：内部人员滥用",
+        "K4": "威胁三：丢失和记录不全",
+        "K5": "威胁四：未经授权进入",
+        "K6": "威胁五：信息被网络入侵",
+    },
+    "avoid": ["Ragba Micro Hub", "Ragba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在一扇带门禁的实验室门前，手里拿着一把钥匙，向镜头招手",
+ "The panda mascot stands at a lab door with a card reader, holding a key and waving at the camera.",
+ "实验室的东西，也要防丢防盗。", "实验室生物安保：五种威胁怎么防"),
+("开场", "五个空白格子依次亮起，每格一个盾牌",
+ "Five blank boxes light up one by one, each with a shield icon. No people.",
+ "今天认识五种生物安保威胁。"),
+# 情景
+("情景", "晚上，阿杰在实验室加班，门口有个陌生人形剪影跟着别人进门",
+ "In the evening the young male student works late; at the door a shadowy unknown figure slips in behind someone else.",
+ "阿杰晚上加班，门口跟进来一个陌生人。"),
+("情景", "冷冻盒里有一个空位，阿杰盯着空位，记录本上没有记录",
+ "A freezer box has one empty slot; the young male student stares at it beside a blank logbook with no entry.",
+ "冰箱里少了一管样本，本子上没记。"),
+("情景", "阿杰挠头，犹豫要不要说",
+ "The young male student scratches his head, hesitating.",
+ "他想：要不要说？会不会小题大做？"),
+("情景", "欣欣出现在阿杰身边，举起电话图标",
+ "The panda mascot appears beside the young male student, holding up a phone icon.",
+ "欣欣说：这正是生物安保要管的事。"),
+# K1
+("K1", "左边一个盾牌护着人，右边一个锁锁着培养瓶",
+ "On the left a shield protects a person; on the right a padlock secures a culture flask. No people.",
+ "生物安全防意外，生物安保防人为。", "生物安保：防盗用、防滥用，人人有责", ["生物安全", "生物安保"]),
+("K1", "菌种管、记录本、门禁卡、电脑四个图标围成一圈，中间一把锁",
+ "Icons of a sample tube, a logbook, an access card and a computer form a circle around a padlock. No people.",
+ "要守住材料、记录、门禁和信息。"),
+("K1", "几个人一起托起一组齿轮",
+ "The older man, the female graduate student and the young male student lift a set of gears together.",
+ "这件事，要全组一起来做。"),
+# K2
+("K2", "带锁的冷冻柜图标，旁边一个伸来的手被红叉挡住",
+ "A locked freezer icon; a reaching hand is blocked by a red cross. No people.",
+ "第一种：生物材料被盗。", "威胁一：材料被盗"),
+("K2", "被盗的材料流向一个红色问号",
+ "A sample tube icon drifts away toward a red question mark. No people.",
+ "落到坏人手里，后果不堪设想。"),
+("K2", "冷冻柜里一格空了，旁边红色感叹号",
+ "One slot in a freezer rack is suddenly empty, with a red exclamation mark beside it. No people.",
+ "高风险的生物材料，最怕被人偷走。"),
+# K3
+("K3", "一个人形剪影在实验室门内，阴影笼罩着样本柜",
+ "A faceless figure silhouette inside the lab casts a shadow over a sample cabinet. No people.",
+ "第二种：内部人员滥用。", "威胁二：内部人员滥用"),
+("K3", "三个小图标：深夜月亮、不登记的手、超量的管子",
+ "Three small icons: a late-night moon, a hand skipping the logbook, too many tubes. No people.",
+ "比如心怀不满的人，滥用手里的材料。", None, ["内部人员", "滥用材料"]),
+("K3", "一把钥匙在人形剪影手里，旁边红色问号",
+ "A key held by a shadowy person silhouette inside the lab, with a red question mark. No people.",
+ "能接触材料的人，也可能是风险来源。"),
+# K4
+("K4", "冷冻盒里有空位，记录本上一片空白",
+ "A freezer box with an empty slot next to a blank, unfilled logbook. No people.",
+ "第三种：丢失和记录不全。", "威胁三：丢失和记录不全"),
+("K4", "问号飘在冷冻盒上方",
+ "A question mark floats above the freezer box. No people.",
+ "账上没记，丢了都不知道。"),
+("K4", "台账上几行空白，冷冻盒里的管子对不上",
+ "A blank logbook with missing rows next to a freezer box whose tubes do not match. No people.",
+ "记录不全，材料就去向不明。"),
+# K5
+("K5", "实验室门上的门禁和生物危害标志，一个人尾随溜入被打叉",
+ "A lab door with a card reader and biohazard warning sign; a figure tailgating through is crossed out in red. No people.",
+ "第四种：未经授权进入。", "威胁四：未经授权进入"),
+("K5", "一个陌生人形剪影站在敏感区域门内",
+ "A stranger silhouette stands inside the door of a restricted lab area marked with a biohazard sign. No people.",
+ "不该进的人，进了敏感区域。"),
+# K6
+("K6", "电脑屏幕上一个数据库图标，一条红色虚线从外面伸进来",
+ "A computer screen shows a database icon; a red dashed line reaches in from outside. No people.",
+ "第五种：信息被网络入侵。", "威胁五：信息被网络入侵"),
+("K6", "菌种信息、实验记录两个文件图标被锁保护",
+ "Two document icons for strain records and lab notes are protected by a padlock. No people.",
+ "存着病原信息的数据库被人入侵，"),
+("K6", "数据库图标上的锁被打开，文件图标外流",
+ "The lock on a database icon breaks open and file icons drift out. No people.",
+ "信息泄露，也是生物安保威胁。"),
+# 回到情景
+# 小结
+("小结", "欣欣站在白板前，五个盾牌依次亮起",
+ "The panda mascot stands at a whiteboard where five shield icons light up one by one.",
+ "被盗、内部滥用、丢失、闯入、网络。", "小结", ["被盗", "滥用", "丢失", "闯入", "网络"]),
+("小结", "三个图标：眼睛、锁、电话",
+ "Three icons: an eye, a padlock, a phone. No people.",
+ "五种威胁，先要认得出。", None, ["认得出"]),
+("小结", "全组成员托起齿轮，齿轮转动",
+ "The older man, the female graduate student and the young male student hold up the gears, which start turning.",
+ "生物安保，靠每个人守住。"),
+("小结", "阿杰拨通电话，向老周说明冰箱少了一管",
+ "The young male student phones the older man to tell him one tube is missing from the freezer.",
+ "阿杰决定：把看到的告诉老周。"),
+# 结尾
+("结尾", "欣欣锁好柜门，转身向镜头挥手",
+ "The panda mascot locks a cabinet door, turns and waves goodbye to the camera.",
+ "认清威胁，人人守护，再见！"),
+]
