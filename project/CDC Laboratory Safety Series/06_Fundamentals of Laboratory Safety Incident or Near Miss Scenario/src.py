@@ -1,0 +1,102 @@
+# 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario 卡通剧本作者源（原著版）
+# 完全照原片：原片讲一起针刺事件后提问“事故还是未遂”，不给答案；只保留 K1–K6，不补答案、不标错误
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "是事故还是未遂",
+    "edition": "原著版",
+    "points": {
+        "K1": "给实验猴注射",
+        "K2": "针头脱落，留在皮肤里",
+        "K3": "想把针头重新接回去",
+        "K4": "针扎到了手指",
+        "K5": "这是事故还是未遂",
+        "K6": "本课不能代替本实验室规程",
+    },
+    "avoid": ["Centers for Disease Control", "Division of Laboratory Systems", "reach.cdc.gov",
+              "Public Health Service", "Health and Human Services"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验室里，两手各举一张卡片：一张有感叹号，一张有半个感叹号",
+ "The panda mascot stands in a laboratory holding two blank cards, one with a full exclamation mark icon and one with a faded exclamation mark icon.",
+ "这一课是个判断题：事故还是未遂？", "是事故还是未遂"),
+("开场", "欣欣举起一个大问号牌",
+ "The panda mascot holds up a big question mark sign and tilts its head.",
+ "听完故事，请你来做判断。"),
+# K1
+("K1", "老周穿防护服、戴手套，站在动物实验台旁，旁边是简化的猴子图标",
+ "The older man, an animal care technician in a gown and gloves, stands beside a padded table with a simple cartoon monkey icon on it.",
+ "一位动物饲养技术员正在工作。", "给实验猴注射"),
+("K1", "老周手持注射器，靠近猴子图标",
+ "The older man holds a syringe and leans toward the simple cartoon monkey icon on the table.",
+ "他在给一只非人灵长类动物注射。"),
+# K2
+("K2", "注射器图标和针头图标分开，中间有断开符号",
+ "An icon of a syringe body separated from its needle, with a small break symbol between them. No people.",
+ "注射完，针头和注射器脱开了。", "针头脱落，留在皮肤里"),
+("K2", "简化的猴子图标手臂上插着一枚小针头",
+ "A simple cartoon monkey icon with a tiny needle icon left in its arm. No people.",
+ "针头还留在动物的皮肤里。"),
+("K2", "老周手里只剩注射器，愣了一下",
+ "The older man looks at the syringe in his hand, now without a needle, with a surprised face.",
+ "手里只剩下了注射器。"),
+# K3
+("K3", "老周用手把针头从猴子图标上取下",
+ "The older man pulls the small needle off the simple cartoon monkey icon with his gloved fingers.",
+ "技术员把针头从动物身上取了下来。", "想把针头重新接回去"),
+("K3", "老周一手捏针头，一手拿注射器，对准要接回去",
+ "The older man holds the loose needle in one gloved hand and the syringe in the other, lining them up to reconnect them.",
+ "接着，他想把注射器重新接回针头上。"),
+("K3", "不远处的台面上放着一个黄色锐器盒",
+ "A yellow sharps container sits on a bench a short distance away. No people.",
+ "这样就能一起丢进锐器盒。"),
+# K4
+("K4", "老周的手指被针尖碰到，冒出一个小红点",
+ "Close-up of the older man's gloved fingertip touched by the needle tip, with a tiny red dot and a small spark of pain.",
+ "就在这时，针头扎到了他的手指。", "针扎到了手指"),
+("K4", "老周捂着手指，表情吃痛",
+ "The older man holds his finger with a pained expression, the syringe on the table.",
+ "针，扎进了手指里。"),
+# K5
+("K5", "欣欣在两张卡片之间来回看，头顶一个问号",
+ "The panda mascot looks back and forth between the two blank cards, a question mark above its head.",
+ "问题来了：这算一起事故，", "这是事故还是未遂"),
+("K5", "两张卡片并排，中间是一个大问号",
+ "The two blank cards side by side with a large question mark between them. No people.",
+ "还是一起未遂事件？", "", ["事故", "未遂事件"]),
+("K5", "欣欣对着镜头，竖起一根手指放在嘴边",
+ "The panda mascot faces the camera and puts one finger to its lips, as if asking for quiet thinking.",
+ "先别急着往下看，停下来想一想。"),
+("K5", "画面渐暗，只留一个沙漏图标",
+ "The screen slowly dims, leaving only an hourglass icon with falling sand in the center. No people.",
+ "把故事从头到尾，再回想一遍。"),
+("K5", "欣欣在空白本子上写写画画",
+ "The panda mascot writes in a blank notebook, thinking hard.",
+ "写下你的判断，还有你的理由。"),
+# K6
+("K6", "一张空白课程卡片和一本更大的空白规程手册",
+ "A small blank course card next to a larger blank procedure binder with a check mark. No people.",
+ "本课面向实验室人员，", "本课不能代替本实验室规程"),
+("K6", "规程手册放大，旁边一个对勾",
+ "Close-up of the blank procedure binder with a large green check mark. No people.",
+ "不能代替你实验室自己的规程。"),
+# 小结
+("小结", "欣欣身旁浮现注射器和猴子图标",
+ "The panda mascot stands beside floating icons of a syringe and a simple monkey.",
+ "给动物注射，针头脱落在皮肤里。", "小结"),
+("小结", "针头和注射器对接的图标",
+ "An icon of a needle and a syringe being lined up to reconnect. No people.",
+ "取下针头，想接回注射器一起丢。"),
+("小结", "手指上一个小红点的图标",
+ "A finger icon with a tiny red dot. No people.",
+ "结果，针头扎到了手指。"),
+("小结", "欣欣对镜头眨眨眼",
+ "The panda mascot winks at the camera with a friendly smile.",
+ "事故还是未遂？留给你判断。"),
+# 结尾
+("结尾", "欣欣举着两张卡片向镜头挥手",
+ "The panda mascot holds the two blank cards and waves goodbye at the camera.",
+ "想好你的答案，下次见！"),
+]

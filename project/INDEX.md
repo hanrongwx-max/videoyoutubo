@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 12 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
 | Lab Safety Training Series | 13 / 13 | 3 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
@@ -17,7 +17,7 @@
 | Animal & Plant Biotech Safety | 10 / 10 | 7 / 10 |
 | Electrical Safety Series | 9 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
-| Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
+| Health Physics & Nuclear Medicine | 9 / 9 | 3 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 4 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
@@ -271,6 +271,7 @@
 | Health Physics & Nuclear Medicine | 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea | 国内版 | 辐射剂量入门：从空气电离到人体风险（国内版） | 142 | 11:50 | 23 / 10 | [剧本](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do | 原著版 | 剂量限值与剂量测量：管住体外，也管住体内 | 110 | 9:10 | 25 / 0 | [剧本](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do/script.md>) |
 | Health Physics & Nuclear Medicine | 02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do | 国内版 | 剂量限值与剂量测量：管住体外，也管住体内（国内版） | 149 | 12:25 | 25 / 10 | [剧本](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（国内版）/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati | 原著版 | 辐射怎样伤人，屏蔽怎样护人 | 114 | 9:30 | 22 / 0 | [剧本](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati/script.md>) |
 | Health Physics & Nuclear Medicine | 03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati | 国内版 | 辐射怎样伤人，屏蔽怎样护人（国内版） | 134 | 11:10 | 22 / 6 | [剧本](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture | 国内版 | 辐射防护总复习：从剂量到屏蔽（国内版） | 147 | 12:15 | 28 / 6 | [剧本](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual | 国内版 | 现场剂量测量：测环境，也测自己（国内版） | 117 | 9:45 | 17 / 6 | [剧本](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/审查报告.md>) |
@@ -297,6 +298,7 @@
 | Lab Safety Training - Essential Protocols | 02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab | 国内版 | 危险化学品的安全储存（国内版） | 48 | 4:00 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 03_Protect Your Team with Lab Equipment Safety and Maintenance Training | 原著版 | 仪器设备的安全与维护 | 30 | 2:30 | 10 / 0 | [剧本](<Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training/script.md>) |
 | Lab Safety Training - Essential Protocols | 03_Protect Your Team with Lab Equipment Safety and Maintenance Training | 国内版 | 仪器设备的安全与维护（国内版） | 41 | 3:25 | 10 / 4 | [剧本](<Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices | 原著版 | 化学品危害告知：一书一签 | 41 | 3:25 | 15 / 0 | [剧本](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices/script.md>) |
 | Lab Safety Training - Essential Protocols | 04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices | 国内版 | 化学品危害告知：一书一签（国内版） | 44 | 3:40 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course | 国内版 | 控制层级：从源头管住危害（国内版） | 47 | 3:55 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety | 国内版 | 识别危害，选对防护（国内版） | 47 | 3:55 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/审查报告.md>) |
