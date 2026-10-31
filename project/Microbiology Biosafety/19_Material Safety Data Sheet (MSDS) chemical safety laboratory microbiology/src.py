@@ -1,0 +1,118 @@
+# 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology 原著版卡通剧本作者源
+# 完全照原片：K1–K7（SDS 即旧称 MSDS、详细信息文件、依法提供、告知危害、指导使用储存处置、法规依据、GHS），
+# 无补充知识点；法规照原片举美国职业安全卫生管理部门和全球统一制度（GHS），不本土化
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "认识安全技术说明书",
+    "edition": "原著版",
+    "points": {
+        "K1": "SDS 就是过去的 MSDS",
+        "K2": "化学品的“身份档案”",
+        "K3": "依法必须提供",
+        "K4": "告诉你：它有什么危害",
+        "K5": "告诉你：怎么用、怎么存、怎么处置",
+        "K6": "化学品安全的重要一环，有法规管",
+        "K7": "全球统一的分类和标签制度",
+    },
+    "avoid": ["Raqba Micro Hub", "Raqba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub", "ARH", "OSHA", "NFPA"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在化学品柜旁，手里拿着一本空白小册子",
+ "The panda mascot stands beside a chemical storage cabinet, holding a thin booklet with a blank cover, and waves at the camera.",
+ "今天认识一份重要的文件。", "认识安全技术说明书"),
+("开场", "欣欣把小册子翻开，里面是空白的分节页",
+ "The panda mascot opens the booklet to show blank sectioned pages.",
+ "它叫安全数据表。"),
+# 情景
+("情景", "阿杰要配消毒液，从柜子里拿出一瓶试剂",
+ "The young male student takes a reagent bottle with a hazard pictogram on its label out of a cabinet, preparing to make a disinfectant solution.",
+ "阿杰要配消毒液，拿出一瓶试剂。"),
+("情景", "阿杰盯着瓶上的象形图，一脸疑惑",
+ "The young male student stares at the hazard pictogram on the bottle label with a puzzled face.",
+ "瓶上的图标，他看不太懂。"),
+("情景", "小研递给他一份空白的说明书",
+ "The female graduate student hands him a printed data sheet with blank sections.",
+ "小研说：先查查它的安全数据表。"),
+# K1
+("K1", "一份旧文件封面变成新文件封面，箭头连接",
+ "An old document cover transforms into a new document cover, linked by an arrow. No people.",
+ "安全数据表，英文缩写 SDS，", "SDS 就是过去的 MSDS", ["MSDS", "SDS"]),
+("K1", "两份文件叠在一起，打上等号",
+ "Two documents stacked together with an equals sign between them. No people.",
+ "以前叫 MSDS，说的是同一样东西。"),
+# K2
+("K2", "试剂瓶旁边放着一本厚厚的说明书",
+ "A reagent bottle stands next to a thick data sheet booklet with blank pages. No people.",
+ "它是一份详细的信息文件，", "化学品的“身份档案”"),
+("K2", "一个纯净物图标和一个混合物图标，各连着一份说明书",
+ "An icon of a single pure substance and an icon of a mixture, each connected to its own data sheet. No people.",
+ "单一物质和混合物，都有自己的一份。", "", ["物质", "混合物"]),
+("K2", "说明书各页飞出成分、性质、危害的小图标",
+ "Small icons fly out of the data sheet pages: a molecule, a thermometer and a warning triangle. No people.",
+ "记着它的基本数据，像一份身份档案。"),
+# K3
+("K3", "化学品包装箱和说明书一起送进实验室",
+ "A chemical delivery box arrives at a lab door together with a data sheet clipped on top. No people.",
+ "这份文件，是依法必须提供的。", "依法必须提供"),
+("K3", "法槌图标盖在说明书上",
+ "A gavel icon stamps onto a data sheet. No people.",
+ "供应方要给，使用方要有。"),
+# K4
+("K4", "说明书上亮起几个危害象形图",
+ "Several hazard pictograms light up on the data sheet. No people.",
+ "它首先告诉你：这东西有什么危害，", "告诉你：它有什么危害"),
+("K4", "小研指着说明书上的象形图给阿杰看",
+ "The female graduate student points to hazard pictograms on the data sheet while the young male student looks closely.",
+ "伤不伤人，会不会着火，稳不稳定。"),
+# K5
+("K5", "手套、柜子、废液桶三个图标",
+ "Three icons in a row: a pair of gloves, a storage cabinet and a waste container. No people.",
+ "还告诉你怎么安全使用、储存和处置。", "告诉你：怎么用、怎么存、怎么处置",
+ ["使用", "储存", "处置"]),
+("K5", "阿杰按说明书戴上护目镜和手套",
+ "The young male student puts on goggles and gloves while reading the data sheet.",
+ "怎么安全地操作，"),
+("K5", "试剂瓶被放进阴凉的化学品柜",
+ "A reagent bottle is placed into a cool chemical storage cabinet. No people.",
+ "怎么储存，"),
+("K5", "用剩的试剂倒进废液桶",
+ "Leftover reagent goes into a waste container with a blank label. No people.",
+ "用完怎么处置，都有指导。"),
+# K6
+("K6", "化学品安全拼图，说明书是其中一块",
+ "A jigsaw puzzle of chemical safety icons, with a data sheet as one essential piece. No people.",
+ "安全数据表是化学品安全的重要一环，", "化学品安全的重要一环，有法规管"),
+("K6", "王老师翻开空白的法规文本",
+ "The safety administrator opens a blank regulation book at a desk.",
+ "由法规规定，比如美国职业安全卫生法规，"),
+("K6", "说明书和安全标签并排，上面有法槌图标",
+ "A data sheet and a chemical safety label side by side with a gavel icon above them. No people.",
+ "就要求提供安全数据表。"),
+# K7
+("K7", "地球周围一圈相同的象形图",
+ "A globe surrounded by a ring of identical hazard pictograms. No people.",
+ "联合国的全球统一分类和标签制度，", "全球统一的分类和标签制度"),
+("K7", "各国旗帜样的空白色块都连向同一套象形图",
+ "Several plain colored flag shapes all connect to the same set of hazard pictograms. No people.",
+ "也对安全数据表作了规定。"),
+# 小结
+("小结", "欣欣站在说明书和标签前",
+ "The panda mascot stands in front of a large data sheet and a bottle label.",
+ "一起回顾一下。", "小结"),
+("小结", "说明书图标旁亮起危害、使用、储存、处置四个图标",
+ "Beside a data sheet icon, four icons light up: a warning triangle, gloves, a cabinet and a waste container. No people.",
+ "它讲危害，也讲用、存、处置。"),
+("小结", "法槌和地球图标",
+ "A gavel icon and a globe icon side by side. No people.",
+ "依法提供，有法规和全球制度。"),
+("小结", "阿杰合上安全数据表，点头",
+ "The young male student closes the data sheet and nods.",
+ "以前叫 MSDS，现在叫 SDS。"),
+# 结尾
+("结尾", "欣欣和阿杰、小研一起挥手告别",
+ "The panda mascot waves goodbye together with the young male student and the female graduate student.",
+ "用前先查安全数据表，下次见！"),
+]
