@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 21 / 59 |
+| Microbiology Biosafety | 59 / 59 | 22 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -664,6 +664,7 @@
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 国内版 | 认识安全技术说明书（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 原著版 | 安全技术说明书有什么用 | 35 | 2:55 | 8 / 0 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical/script.md>) |
 | Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 国内版 | 安全技术说明书有什么用（国内版） | 47 | 3:55 | 8 / 3 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/script.md>) · [审查](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol | 原著版 | 微生物实验室的化学品安全 | 27 | 2:15 | 6 / 0 | [剧本](<Microbiology Biosafety/21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol/script.md>) |
 | Microbiology Biosafety | 21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol | 国内版 | 微生物实验室的化学品安全（国内版） | 47 | 3:55 | 6 / 4 | [剧本](<Microbiology Biosafety/21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol（国内版）/script.md>) · [审查](<Microbiology Biosafety/21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 22_Fire safety Safety measures in microbiology labs part3 laboratory microbiologyla | 国内版 | 微生物实验室的消防安全（国内版） | 49 | 4:05 | 6 / 4 | [剧本](<Microbiology Biosafety/22_Fire safety Safety measures in microbiology labs part3 laboratory microbiologyla（国内版）/script.md>) · [审查](<Microbiology Biosafety/22_Fire safety Safety measures in microbiology labs part3 laboratory microbiologyla（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 国内版 | 化学品的说明书：SDS 是什么（上）（国内版） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（国内版）/审查报告.md>) |

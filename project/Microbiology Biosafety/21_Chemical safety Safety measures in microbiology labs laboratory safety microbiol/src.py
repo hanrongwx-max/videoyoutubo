@@ -1,0 +1,112 @@
+# 21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol 原著版卡通剧本作者源
+# 完全照原片：K1–K6（贴清标签、按相容性储存、挥发有毒进通风柜、手套护目用品、备泄漏处理包、培训泄漏清理），
+# 无补充知识点；不加管控化学品、通风柜用法、冲洗急救和撤离报告
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "微生物实验室的化学品安全",
+    "edition": "原著版",
+    "points": {
+        "K1": "每一瓶都贴清标签",
+        "K2": "按相容性分开存放",
+        "K3": "挥发、有毒的，进通风柜",
+        "K4": "手套、护目镜要戴好",
+        "K5": "泄漏处理包，随手可取",
+        "K6": "泄漏清理，要先培训",
+    },
+    "avoid": ["Raqba Micro Hub", "Raqba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub", "ARH"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在化学品柜前，柜门上有危险化学品象形图",
+ "The panda mascot stands in front of a chemical storage cabinet with hazard pictograms on its door and waves at the camera.",
+ "微生物实验室，也有不少化学品。", "微生物实验室的化学品安全"),
+("开场", "欣欣身旁浮现标签、柜子、通风柜、泄漏包四个图标",
+ "The panda mascot points to four floating icons: a label, a cabinet, a chemical fume hood and a spill kit bucket.",
+ "今天讲标签储存、操作和泄漏。", "", ["标签储存", "操作", "泄漏应对"]),
+# 情景
+("情景", "实验台上摆着消毒液、染色液、固定液和乙醇瓶",
+ "Bottles of disinfectant, staining solution, fixative and ethanol on a microbiology bench, each with a hazard pictogram. No people.",
+ "消毒液、染液、固定液、乙醇……"),
+("情景", "阿杰在开放台面上倒固定液，皱起眉头闻到气味",
+ "The young male student pours a fixative on an open bench without goggles and wrinkles his nose at the smell.",
+ "阿杰在台面上倒固定液，气味很冲。"),
+("情景", "小研快步过来，指向通风柜",
+ "The female graduate student hurries over and points toward a chemical fume hood.",
+ "小研赶紧叫停：换个地方，戴好防护。"),
+("情景", "欣欣在空白白板前点头",
+ "The panda mascot nods in front of a blank whiteboard.",
+ "化学品安全，从一张标签说起。"),
+# K1
+("K1", "一排试剂瓶，每瓶都有带象形图的标签",
+ "A row of reagent bottles, each with a clear label showing a hazard pictogram and blank lines. No people.",
+ "所有化学品和试剂，都要清楚贴标签。", "每一瓶都贴清标签"),
+("K1", "一个没有标签的瓶子被打叉",
+ "A bottle of clear liquid with no label, crossed out in red. No people.",
+ "看不出是什么的瓶子，最危险。"),
+("K1", "小研把模糊脱落的标签换成新的",
+ "The female graduate student replaces a faded, peeling label on a bottle with a fresh one.",
+ "标签模糊、脱落，要及时补上。"),
+# K2
+("K2", "化学品柜分成几格，各有象形图",
+ "A chemical storage cabinet divided into separate compartments, each marked with a different hazard pictogram. No people.",
+ "储存时要看化学品的相容性。", "按相容性分开存放"),
+("K2", "火焰象形图的瓶子与圆圈火焰象形图的瓶子被隔开",
+ "A bottle with a flame pictogram and a bottle with a flame-over-circle pictogram are separated by a divider. No people.",
+ "不相容的化学品，要分开放；"),
+("K2", "老周对照说明书检查柜内摆放",
+ "The older man checks the arrangement inside the cabinet against a data sheet.",
+ "按照安全指南来摆放。"),
+# K3
+("K3", "小研在化学通风柜里倒固定液",
+ "The female graduate student pours a fixative inside a chemical fume hood, wearing goggles and gloves.",
+ "挥发性或有毒的化学品，", "挥发、有毒的，进通风柜"),
+("K3", "通风柜气流箭头把蒸气带走",
+ "Airflow arrows inside a chemical fume hood carry vapor up and away from the operator area. No people.",
+ "要放进化学通风柜里操作。"),
+("K3", "开放台面上冒出蒸气的瓶子被打叉",
+ "A bottle releasing vapor on an open bench, crossed out in red. No people.",
+ "别在开放台面上倒，别凑近闻。"),
+# K4
+("K4", "手套和护目镜图标亮起",
+ "Icons of chemical-resistant gloves and safety goggles light up. No people.",
+ "穿戴合适的个人防护装备，", "手套、护目镜要戴好", ["手套", "护目用品"]),
+("K4", "阿杰戴上护目镜和手套，扣好实验服",
+ "The young male student puts on safety goggles and gloves and buttons up his lab coat.",
+ "比如手套和护目用品。"),
+# K5
+("K5", "墙边放着泄漏处理包，旁边有标识",
+ "A spill kit bucket stands by the wall near the lab entrance, easy to reach. No people.",
+ "实验室要备好泄漏处理包，", "泄漏处理包，随手可取"),
+("K5", "泄漏包打开，里面有吸附材料、手套、袋子、小铲",
+ "An open spill kit showing absorbent pads, gloves, sealable bags and a small scoop. No people.",
+ "吸附材料、防护用品、收集袋都在里面，"),
+("K5", "泄漏包前堆着纸箱被打叉",
+ "Boxes piled in front of a spill kit, crossed out in red. No people.",
+ "放在显眼处，不被杂物挡住。"),
+# K6
+("K6", "王老师给学生们演示泄漏包的使用",
+ "The safety administrator demonstrates a spill kit to a small group of students including the young male student.",
+ "怎么清理泄漏，要事先培训。", "泄漏清理，要先培训"),
+("K6", "学生们轮流练习，阿杰认真看",
+ "Students take turns practising with the spill kit while the young male student watches closely.",
+ "每个人都要学会正确的清理程序。"),
+# 小结
+("小结", "欣欣站在化学品柜和通风柜之间",
+ "The panda mascot stands between a chemical storage cabinet and a chemical fume hood.",
+ "一起回顾一下。", "小结"),
+("小结", "标签和分格柜图标",
+ "A label icon and a compartmented cabinet icon side by side. No people.",
+ "瓶瓶贴标签，按相容性分开存。"),
+("小结", "通风柜、手套、护目镜图标",
+ "Icons of a chemical fume hood, gloves and goggles. No people.",
+ "挥发有毒进通风柜，防护戴好。"),
+("小结", "泄漏包和培训图标",
+ "Icons of a spill kit and a training class. No people.",
+ "泄漏包常备，清理先培训。"),
+# 结尾
+("结尾", "欣欣和阿杰、小研在通风柜前挥手告别",
+ "The panda mascot, the young male student and the female graduate student wave goodbye in front of a chemical fume hood.",
+ "化学品用得对，实验才安心，下次见！"),
+]
