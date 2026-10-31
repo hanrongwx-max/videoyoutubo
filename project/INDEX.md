@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 26 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 27 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -664,6 +664,7 @@
 | Laboratory Ergonomics & RSI | 25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU | 国内版 | 事故预防十二问（国内版） | 57 | 4:45 | 13 / 3 | [剧本](<Laboratory Ergonomics & RSI/25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/25_Safety Quiz Accident Prevention Safety Quiz MCQ Test Accident Prevention HSE STU（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir | 原著版 | 火灾报警系统十问 | 40 | 3:20 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir/script.md>) |
 | Laboratory Ergonomics & RSI | 26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir | 国内版 | 火灾报警系统十问（国内版） | 48 | 4:00 | 11 / 4 | [剧本](<Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/26_Fire Alarm System MCQ test Fire Alarm System Questions & Answers Safety Quiz Fir（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine | 原著版 | 五大主题安全竞赛 | 38 | 3:10 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine/script.md>) |
 | Laboratory Ergonomics & RSI | 27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine | 国内版 | 五大主题安全竞赛（国内版） | 49 | 4:05 | 11 / 3 | [剧本](<Laboratory Ergonomics & RSI/27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/27_Safety Quiz Safety Quiz Competition Work At Height Fire Crane Excavation Confine（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ | 国内版 | 消防小测验：十分钟八题过关（国内版） | 42 | 3:30 | 8 / 3 | [剧本](<Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/28_Fire Safety Quiz Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire MCQ（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat | 国内版 | 开挖安全小测验（国内版） | 36 | 3:00 | 7 / 3 | [剧本](<Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat（国内版）/审查报告.md>) |
