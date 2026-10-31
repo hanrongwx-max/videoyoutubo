@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 363 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 364 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -18,7 +18,7 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
-| Cleanroom & Equipment Safety | 9 / 33 | 0 / 8 |
+| Cleanroom & Equipment Safety | 10 / 33 | 0 / 8 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
@@ -264,7 +264,8 @@
 | Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 国内版 | 激光焊机安全继电器的更换（国内版） | 54 | 4:30 | 11 / 6 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 07_Lesson 10 How to Fix Incomplete Handheld Cutting | 国内版 | 手持激光切割切不透怎么办（国内版） | 59 | 4:55 | 16 / 7 | [剧本](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 08_Lesson 2 How to Cut and Weld a Practical Product？ | 国内版 | 激光切割加焊接：做一个调料架（国内版） | 83 | 6:55 | 26 / 9 | [剧本](<Cleanroom & Equipment Safety/08_Lesson 2 How to Cut and Weld a Practical Product？（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/08_Lesson 2 How to Cut and Weld a Practical Product？（国内版）/审查报告.md>) |
-| Cleanroom & Equipment Safety | 09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder | 单一版 | 激光焊接机开关电源的规范更换 | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder/script.md>) |
+| Cleanroom & Equipment Safety | 09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder | 单一版 | 激光焊接机开关电源的规范更换 | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder/审查报告.md>) |
+| Cleanroom & Equipment Safety | 10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder | 单一版 | 激光焊接机气动组件的规范更换 | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
