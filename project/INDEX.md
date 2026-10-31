@@ -25,7 +25,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 5 / 7 |
 | Electrical Safety Series | 7 / 25 | 5 / 6 |
-| Laboratory Equipment Safety Series | 7 / 7 | 6 / 7 |
+| Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -325,6 +325,7 @@
 | Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 国内版 | 气瓶泄漏：大漏小漏怎么办（国内版） | 53 | 4:25 | 16 / 5 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 原著版 | 读懂气瓶上的标记 | 51 | 4:15 | 21 / 0 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/script.md>) |
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 国内版 | 读懂气瓶上的标记（国内版） | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/审查报告.md>) |
+| Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 原著版 | 过氧化物试纸检测 | 33 | 2:45 | 11 / 0 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/script.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 国内版 | 过氧化物试纸检测（国内版） | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
