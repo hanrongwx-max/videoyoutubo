@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 348 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 349 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -11,7 +11,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Basic Electrical Engineering Lab | 17 / 23 | 0 / 16 |
+| Basic Electrical Engineering Lab | 18 / 23 | 0 / 16 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
@@ -193,7 +193,8 @@
 | Basic Electrical Engineering Lab | 14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K | 国内版 | 电工实验口试：基尔霍夫定律篇（国内版） | 49 | 4:05 | 21 / 3 | [剧本](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q | 国内版 | 电工实验口试：开路与短路篇（国内版） | 43 | 3:35 | 15 / 3 | [剧本](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single | 国内版 | 电工实验口试：单相功率篇（国内版） | 53 | 4:25 | 20 / 3 | [剧本](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/审查报告.md>) |
-| Basic Electrical Engineering Lab | 17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer | 单一版 | 三电压表法：口试问答与用电安全 | 68 | 5:40 | 13 / 5 | [剧本](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/script.md>) |
+| Basic Electrical Engineering Lab | 17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer | 单一版 | 三电压表法：口试问答与用电安全 | 68 | 5:40 | 13 / 5 | [剧本](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/script.md>) · [审查](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/审查报告.md>) |
+| Basic Electrical Engineering Lab | 18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way | 单一版 | 双控与三控照明：口试问答与家庭用电 | 59 | 4:55 | 12 / 5 | [剧本](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
