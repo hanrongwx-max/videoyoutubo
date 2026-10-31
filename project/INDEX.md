@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 418 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 419 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Laboratory Ergonomics & RSI | 32 / 36 | 0 / 22 |
+| Laboratory Ergonomics & RSI | 33 / 36 | 0 / 22 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
@@ -507,7 +507,8 @@
 | Laboratory Ergonomics & RSI | 29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat | 单一版 | 开挖安全小测验 | 36 | 3:00 | 7 / 3 | [剧本](<Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat/script.md>) · [审查](<Laboratory Ergonomics & RSI/29_Excavation Safety Quiz Test Your Safety Knowledge Excavation Safety Quiz Excavat/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz | 单一版 | 有限空间小测验 | 39 | 3:15 | 8 / 3 | [剧本](<Laboratory Ergonomics & RSI/30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz/script.md>) · [审查](<Laboratory Ergonomics & RSI/30_Confined Space Safety Quiz Test Your Safety Knowledge Confined Space Safety Quiz/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety | 单一版 | 高处作业：争取一次过关 | 34 | 2:50 | 6 / 3 | [剧本](<Laboratory Ergonomics & RSI/31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety/script.md>) · [审查](<Laboratory Ergonomics & RSI/31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety/审查报告.md>) |
-| Laboratory Ergonomics & RSI | 32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui | 单一版 | 安全员十问：施工安全基础 | 50 | 4:10 | 11 / 2 | [剧本](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui/script.md>) |
+| Laboratory Ergonomics & RSI | 32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui | 单一版 | 安全员十问：施工安全基础 | 50 | 4:10 | 11 / 2 | [剧本](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui/script.md>) · [审查](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat | 单一版 | 安全管理十问 | 46 | 3:50 | 11 / 2 | [剧本](<Laboratory Ergonomics & RSI/33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
