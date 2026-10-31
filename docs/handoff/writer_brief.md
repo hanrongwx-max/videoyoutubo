@@ -11,3 +11,5 @@ Deliverables:
 If the video is not really about safety (e.g. a pure technique demo or a research lecture), still document it fully, keep its operational knowledge points, and add the relevant safety knowledge as S points; say so in the review.
 
 Then run: python3 tools/cartoon/build_project.py --only "project/<剧集>/<视频名称>" and fix src.py until it prints no 问题 (exit code 0). Do not edit tools/, docs/ or other videos' folders. Remove any __pycache__ the build creates. As soon as one video passes the build, publish it immediately (the user wants every finished video on GitHub right away): python3 tools/publish.py "<剧集>" "<视频名称>" -m "<剧集> / <视频名称>: content doc, cartoon script, review" — it takes a lock, commits only that video's files plus project/INDEX.md, and pushes with retries. Use unique filenames for any scratch files (several writers run in parallel). Final reply: 3–5 lines — shot count/duration, K and S point counts, key review findings.
+
+Cite the safety-sign standard as "GB 2894-2025（以现行文本为准）" (user decision); cite other standards without edition years unless certain, marked 以现行文本为准.
