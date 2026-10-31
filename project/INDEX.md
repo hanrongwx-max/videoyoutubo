@@ -22,7 +22,7 @@
 | General Lab Safety Practices | 8 / 8 | 5 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 5 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 3 / 8 |
-| ACS College Lab Safety Series | 7 / 7 | 2 / 7 |
+| ACS College Lab Safety Series | 7 / 7 | 3 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 2 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 3 / 7 |
 | Electrical Safety Series | 6 / 25 | 3 / 6 |
@@ -42,6 +42,7 @@
 | ACS College Lab Safety Series | 01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1 | 国内版 | 从安全规则到风险管理（国内版） | 78 | 6:30 | 18 / 5 | [剧本](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 02_Chemical Safety Information Resources ACS College Safety Video 2 | 原著版 | 读懂化学品安全信息 | 79 | 6:35 | 20 / 0 | [剧本](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2/script.md>) |
 | ACS College Lab Safety Series | 02_Chemical Safety Information Resources ACS College Safety Video 2 | 国内版 | 读懂化学品安全信息（国内版） | 94 | 7:50 | 20 / 6 | [剧本](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/审查报告.md>) |
+| ACS College Lab Safety Series | 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 | 原著版 | 化学实验室的风险评估 | 66 | 5:30 | 17 / 0 | [剧本](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3/script.md>) |
 | ACS College Lab Safety Series | 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 | 国内版 | 化学实验室的风险评估（国内版） | 81 | 6:45 | 17 / 6 | [剧本](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4 | 国内版 | 化学实验室怎样降低风险（国内版） | 94 | 7:50 | 21 / 6 | [剧本](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video | 国内版 | 降低风险：化学实验的操作技巧（国内版） | 116 | 9:40 | 29 / 7 | [剧本](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/审查报告.md>) |
