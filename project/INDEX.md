@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
-| BIORISK MANAGEMENT | 47 / 47 | 30 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 31 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
@@ -156,6 +156,7 @@
 | BIORISK MANAGEMENT | 19_BIORISK MANAGEMENT | 国内版 | 四个风险组与三步管理（国内版） | 52 | 4:20 | 14 / 3 | [剧本](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 20_UMS BRI 12 months of Biorisk Management Biological Agents | 原著版 | 认识生物因子 | 86 | 7:10 | 36 / 0 | [剧本](<BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents/script.md>) |
 | BIORISK MANAGEMENT | 20_UMS BRI 12 months of Biorisk Management Biological Agents | 国内版 | 认识生物因子（国内版） | 97 | 8:05 | 36 / 4 | [剧本](<BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 21_BIORISK MANAGEMENT 3 | 原著版 | 管住转基因的风险 | 67 | 5:35 | 25 / 0 | [剧本](<BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3/script.md>) |
 | BIORISK MANAGEMENT | 21_BIORISK MANAGEMENT 3 | 国内版 | 管住转基因的风险（国内版） | 77 | 6:25 | 25 / 4 | [剧本](<BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 22_BIORISK MANAGEMENT 4 | 国内版 | 封闭温室怎么建（国内版） | 100 | 8:20 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 国内版 | 植物为什么要关起来（国内版） | 78 | 6:30 | 21 / 4 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
