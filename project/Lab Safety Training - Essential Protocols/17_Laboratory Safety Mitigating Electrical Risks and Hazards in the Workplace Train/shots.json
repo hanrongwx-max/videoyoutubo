@@ -1,0 +1,840 @@
+{
+ "id": "17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train",
+ "edition": "原著版",
+ "series": "Lab Safety Training - Essential Protocols",
+ "title": "看懂电，管住电气危害",
+ "seconds": 300,
+ "source_doc": "course/Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train.md",
+ "author_source": "project/Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train/src.py",
+ "points": {
+  "K1": "先懂四个基本概念",
+  "K2": "电压：推动电流的“压力”",
+  "K3": "懂电压，才会选防护",
+  "K4": "电阻：电流遇到的“摩擦”",
+  "K5": "电阻过高过低都危险",
+  "K6": "功率：用电的快慢",
+  "K7": "功率越大，发热越多",
+  "K8": "电流：导线里流过的电",
+  "K9": "电击靠的是电流",
+  "K10": "按电流选导线和保护器",
+  "K11": "交流和直流",
+  "K12": "直流：方向不变",
+  "K13": "交流：来回换向",
+  "K14": "高压交流电很危险",
+  "K15": "六类电气危害",
+  "K16": "电击从哪儿来",
+  "K17": "触电可以致命",
+  "K18": "电弧灼伤",
+  "K19": "电气火灾最危险",
+  "K20": "静电也能点火",
+  "K21": "危害可以预防",
+  "K22": "线路破损，立即更换",
+  "K23": "插线板：匹配负载、临时使用",
+  "K24": "绝缘完好，加以保护",
+  "K25": "三孔插头可靠接地"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在电路板焊接台旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a circuit board soldering bench and waves at the camera.",
+   "narration": "这一课，看懂电，管住电气危害。",
+   "overlay": [
+    "看懂电，管住电气危害"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着仪器机柜的旋钮犹豫，不知从何下手",
+   "prompt_en": "The young male student hesitates in front of an instrument cabinet full of knobs, unsure where to start.",
+   "narration": "阿杰要用一台新仪器，心里没底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李走过来，在空白白板前拿起笔",
+   "prompt_en": "The facility engineer walks over and picks up a marker in front of a blank whiteboard.",
+   "narration": "老李说：先把电的基础弄明白。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先懂四个基本概念",
+   "scene": "老李在配电柜前，白板上四个图标",
+   "prompt_en": "The facility engineer in a hard hat by an electrical cabinet, with four icons on the whiteboard: battery, arrow, resistor, bulb.",
+   "narration": "任何用电的行业，电气安全都很关键。",
+   "overlay": [
+    "先懂四个基本概念"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先懂四个基本概念",
+   "scene": "四个图标依次亮起",
+   "prompt_en": "Four icons light up one by one: a battery with a plus sign, a flowing arrow along a wire, a zigzag resistor and a light bulb. No people.",
+   "narration": "先懂电压、电流、电阻和功率。",
+   "overlay": [],
+   "labels": [
+    "电压",
+    "电流",
+    "电阻",
+    "功率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电压：推动电流的“压力”",
+   "scene": "水泵推动水流，旁边电池推动电荷沿导线流动",
+   "prompt_en": "A pump pushes water through a pipe, next to a battery pushing charge dots along a wire. No people.",
+   "narration": "电压推动电荷在导线里流动，像压力。",
+   "overlay": [
+    "电压：推动电流的“压力”"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电压：推动电流的“压力”",
+   "scene": "电压表指针升高，旁边出现闪电警示",
+   "prompt_en": "A voltage gauge needle rises and a lightning warning triangle and a broken instrument icon appear. No people.",
+   "narration": "电压越高，越可能电击或损坏设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "懂电压，才会选防护",
+   "scene": "穿防护服戴面罩的人在发光的机柜前操作",
+   "prompt_en": "The facility engineer in a protective suit and face shield works at a glowing equipment cabinet.",
+   "narration": "懂电压，才知道该用什么防护和措施。",
+   "overlay": [
+    "懂电压，才会选防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电阻：电流遇到的“摩擦”",
+   "scene": "水管变窄水流变慢，导线上的电阻符号",
+   "prompt_en": "A narrowing pipe slows the water, next to a zigzag resistor symbol on a wire. No people.",
+   "narration": "电阻是材料对电流的阻碍，像摩擦。",
+   "overlay": [
+    "电阻：电流遇到的“摩擦”"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电阻过高过低都危险",
+   "scene": "电阻很大的导线段发红发热",
+   "prompt_en": "A wire section with a large resistor glowing red with heat waves. No people.",
+   "narration": "电阻过高，会过热、效率低。",
+   "overlay": [
+    "电阻过高过低都危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电阻过高过低都危险",
+   "scene": "电阻很小的导线里电流箭头畅通奔涌，蓝色电弧",
+   "prompt_en": "Current arrows rushing freely through a wire with almost no resistance, a blue arc flickering. No people.",
+   "narration": "电阻过低，电流就畅通无阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电阻过高过低都危险",
+   "scene": "老李戴安全帽仰头在机柜下检查线路",
+   "prompt_en": "The facility engineer in a hard hat looks up while checking wiring beneath a cabinet.",
+   "narration": "两头都危险，设计选材要考虑电阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "功率：用电的快慢",
+   "scene": "高压输电塔，电压图标加电流图标合成闪电",
+   "prompt_en": "A high-voltage transmission tower, with a battery icon and an arrow icon combining into a lightning bolt. No people.",
+   "narration": "功率是电能消耗的速率，由电压电流决定。",
+   "overlay": [
+    "功率：用电的快慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "功率：用电的快慢",
+   "scene": "墙上工业插座插着插头",
+   "prompt_en": "An industrial plug inserted into a wall socket. No people.",
+   "narration": "它表示电气系统能做多少功。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "功率越大，发热越多",
+   "scene": "大功率设备上方热浪滚滚",
+   "prompt_en": "A large heater icon with strong heat waves and a rising thermometer. No people.",
+   "narration": "功率大，用能多、发热多，风险更高。",
+   "overlay": [
+    "功率越大，发热越多"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流：导线里流过的电",
+   "scene": "两段导线间电火花，导线剖面里小点沿箭头流动",
+   "prompt_en": "A spark between two wire ends, and a cutaway wire with small dots flowing along an arrow. No people.",
+   "narration": "电流是电荷的流动，某时刻流过的电量。",
+   "overlay": [
+    "电流：导线里流过的电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电击靠的是电流",
+   "scene": "夕阳下的输电塔，细导线发红冒烟",
+   "prompt_en": "Power towers at sunset, and an icon of a thin wire glowing red and smoking. No people.",
+   "narration": "电流过大会发热，引起灼伤或火灾。",
+   "overlay": [
+    "电击靠的是电流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电击靠的是电流",
+   "scene": "电流穿过手臂的小人图标",
+   "prompt_en": "A person pictogram with a lightning arrow passing through the arm. No people.",
+   "narration": "电击也是电流直接造成的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电击靠的是电流",
+   "scene": "低电压电池图标旁出现警示三角",
+   "prompt_en": "A low voltage battery icon with a big current arrow and a warning triangle. No people.",
+   "narration": "电压低，电流够大照样危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "按电流选导线和保护器",
+   "scene": "戴黄手套剪电线；老李在配电箱前接线",
+   "prompt_en": "Hands in yellow gloves cut a wire; the facility engineer wires a distribution box.",
+   "narration": "懂电流，才能选对导线、断路器、熔断器，",
+   "overlay": [
+    "按电流选导线和保护器"
+   ],
+   "labels": [
+    "导线",
+    "断路器",
+    "熔断器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "按电流选导线和保护器",
+   "scene": "导线温度计保持在绿色区",
+   "prompt_en": "A wire icon with a thermometer staying in the green zone. No people.",
+   "narration": "防止过热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "交流和直流",
+   "scene": "一条直线箭头和一条波浪箭头",
+   "prompt_en": "A straight arrow moving forward and a wavy line moving back and forth. No people.",
+   "narration": "电流分交流和直流两类，",
+   "overlay": [
+    "交流和直流"
+   ],
+   "labels": [
+    "交流",
+    "直流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "交流和直流",
+   "scene": "老李戴安全帽，用手电照着机柜看平板",
+   "prompt_en": "The facility engineer in a hard hat shines a flashlight into a cabinet while reading a tablet.",
+   "narration": "各有特性，影响设计、运行和维护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "直流：方向不变",
+   "scene": "电池、遥控器、手电筒图标，直线箭头",
+   "prompt_en": "Icons of a battery, a remote control and a flashlight, linked by a straight arrow. No people.",
+   "narration": "直流方向恒定，遥控器手电筒的电池就是。",
+   "overlay": [
+    "直流：方向不变"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "直流：方向不变",
+   "scene": "电脑、手机、LED灯板图标",
+   "prompt_en": "Icons of a computer, a mobile phone and an LED light panel. No people.",
+   "narration": "电脑、手机、LED灯等电子设备也用直流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "直流：方向不变",
+   "scene": "小研在实验台上调节直流电源",
+   "prompt_en": "The female graduate student adjusts a benchtop power supply with a blank display.",
+   "narration": "实验室常用直流电源，提供稳定电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "交流：来回换向",
+   "scene": "插线板插着充电器，波浪线来回",
+   "prompt_en": "A power strip with a charger plugged in, a wavy line swinging up and down. No people.",
+   "narration": "交流电周期性换向，电压正负往复。",
+   "overlay": [
+    "交流：来回换向"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "交流：来回换向",
+   "scene": "输电塔沿长距离连到城市",
+   "prompt_en": "Power towers carrying lines over a long distance to a city icon. No people.",
+   "narration": "电网送交流电，远距离输送损耗小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "交流：来回换向",
+   "scene": "小研打开冰箱，旁边工业风扇转动",
+   "prompt_en": "The female graduate student opens a refrigerator while a large industrial fan spins nearby.",
+   "narration": "冰箱、风扇和工业设备多用交流电机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高压交流电很危险",
+   "scene": "高压警示标志，旁边波浪线",
+   "prompt_en": "A high voltage warning sign next to a wavy alternating current line. No people.",
+   "narration": "高压交流电非常危险。",
+   "overlay": [
+    "高压交流电很危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "六类电气危害",
+   "scene": "欣欣身旁浮现六个危害图标",
+   "prompt_en": "The panda mascot stands beside six floating hazard icons in a grid.",
+   "narration": "实验室人员面临六大类电气危害：",
+   "overlay": [
+    "六类电气危害"
+   ],
+   "labels": [
+    "电击",
+    "触电死亡",
+    "灼伤",
+    "火灾",
+    "爆炸"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "六类电气危害",
+   "scene": "割伤的手指图标",
+   "prompt_en": "A cut finger icon with a small bandage, beside a broken glass icon. No people.",
+   "narration": "还有割伤等间接伤害。",
+   "overlay": [],
+   "labels": [
+    "间接伤害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电击从哪儿来",
+   "scene": "手按在仪器控制面板上，带电导线、裸露端子图标",
+   "prompt_en": "A hand pressing an instrument control panel, with icons of a live bare wire and exposed terminals. No people.",
+   "narration": "碰到带电导线、故障设备、裸露部件，",
+   "overlay": [
+    "电击从哪儿来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电击从哪儿来",
+   "scene": "电击闪电落到手形图标上",
+   "prompt_en": "A lightning shock striking a hand icon. No people.",
+   "narration": "就会被电击。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "触电可以致命",
+   "scene": "倒地的小人图标，墙上插座冒黑烟",
+   "prompt_en": "A collapsed person pictogram on the floor near a wall socket giving off black smoke. No people.",
+   "narration": "触电死亡是更致命的电击，",
+   "overlay": [
+    "触电可以致命"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "触电可以致命",
+   "scene": "高压大电流图标旁，心电图变成直线",
+   "prompt_en": "A high voltage and high current icon beside a heartbeat line that goes flat. No people.",
+   "narration": "高电压大电流会致重伤甚至死亡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "电弧灼伤",
+   "scene": "手掌灼伤图标，两电极间跳出明亮电弧",
+   "prompt_en": "A burned palm icon, and a bright arc jumping across a gap between two terminals. No people.",
+   "narration": "电弧灼伤，来自电弧的高温。",
+   "overlay": [
+    "电弧灼伤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "电弧灼伤",
+   "scene": "电流跨越间隙、从故障设备放电",
+   "prompt_en": "Current jumping across a gap and discharging from a faulty instrument. No people.",
+   "narration": "电流跨过间隙或从故障设备放电成弧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "电弧灼伤",
+   "scene": "短路、设备故障、高压源三个图标",
+   "prompt_en": "Three icons: a short circuit spark, a broken instrument and a high voltage sign. No people.",
+   "narration": "多见于故障、短路或靠近高压作业。",
+   "overlay": [],
+   "labels": [
+    "设备故障",
+    "短路",
+    "靠近高压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "电气火灾最危险",
+   "scene": "房屋起火图标，插座起火冒烟",
+   "prompt_en": "A house fire icon and a wall socket bursting into flame and smoke. No people.",
+   "narration": "各类电气事故里，火灾最危险。",
+   "overlay": [
+    "电气火灾最危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "电气火灾最危险",
+   "scene": "导线过热、短路、火花点燃纸张",
+   "prompt_en": "Three icons: an overheated glowing wire, a short circuit spark, and a spark igniting paper. No people.",
+   "narration": "过热、短路或火花点燃易燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "静电也能点火",
+   "scene": "手指靠近金属把手冒出小火花",
+   "prompt_en": "A small static spark jumps from a fingertip to a metal handle. No people.",
+   "narration": "静电，是物体表面积聚的电荷。",
+   "overlay": [
+    "静电也能点火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "静电也能点火",
+   "scene": "锥形瓶冒白雾，实验台上器皿起火",
+   "prompt_en": "A flask giving off white vapor, and a dish on a bench catching fire after a spark. No people.",
+   "narration": "放电能点燃易燃蒸气、气体或粉尘，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "静电也能点火",
+   "scene": "爆炸图标",
+   "prompt_en": "An explosion burst icon over a vapor cloud. No people.",
+   "narration": "引起火灾或爆炸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "静电也能点火",
+   "scene": "戴手套的手按仪器键盘，电路板芯片出现裂纹",
+   "prompt_en": "A gloved hand presses an instrument keypad, and a chip icon shows a lightning crack. No people.",
+   "narration": "静电还会损坏敏感电子元件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "危害可以预防",
+   "scene": "欣欣竖起大拇指，身旁有盾牌图标",
+   "prompt_en": "The panda mascot gives a thumbs up beside a shield icon.",
+   "narration": "听着吓人，但都有办法避免。",
+   "overlay": [
+    "危害可以预防"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "线路破损，立即更换",
+   "scene": "配电柜起火、电缆破皮露铜线、墙内乱线",
+   "prompt_en": "Icons of a burning electrical cabinet, a cable with torn insulation exposing copper, and tangled wiring in a wall. No people.",
+   "narration": "第一，线路和接头故障。",
+   "overlay": [
+    "线路破损，立即更换"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "线路破损，立即更换",
+   "scene": "放大镜扫过电线，找出磨损、裸露、松动",
+   "prompt_en": "A magnifying glass scans a cable and finds a frayed spot, an exposed conductor and a loose connection. No people.",
+   "narration": "查电线磨损、导体裸露、接头松动。",
+   "overlay": [],
+   "labels": [
+    "磨损",
+    "裸露",
+    "松动"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "线路破损，立即更换",
+   "scene": "戴手套的手整理接线板，换上新电线",
+   "prompt_en": "Gloved hands tidy a terminal block and fit a new cable in place of a worn one.",
+   "narration": "损坏老化的电线，立即更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "插线板：匹配负载、临时使用",
+   "scene": "插满插头的插线板，烧焦的插孔",
+   "prompt_en": "A power strip crammed with plugs, and a scorched socket hole. No people.",
+   "narration": "第二，电路过载、插线板用错。",
+   "overlay": [
+    "插线板：匹配负载、临时使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "插线板：匹配负载、临时使用",
+   "scene": "插线板空白额定值标签与设备负载天平",
+   "prompt_en": "A power strip with a blank rating label balanced against an instrument load icon on a scale. No people.",
+   "narration": "额定值要和负载匹配，插线板无损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "插线板：匹配负载、临时使用",
+   "scene": "插线板旁时钟图标，地上电缆盘",
+   "prompt_en": "A power strip with a small clock icon, and a cable reel on the floor. No people.",
+   "narration": "插线板只作临时用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "绝缘完好，加以保护",
+   "scene": "小研在电脑和仪器前工作，身后电缆外皮完好、套在保护管里",
+   "prompt_en": "The female graduate student works at a computer and instruments; behind her, cables with intact insulation run inside protective conduit.",
+   "narration": "第三，绝缘不良：电线电缆都要绝缘好，",
+   "overlay": [
+    "绝缘完好，加以保护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "绝缘完好，加以保护",
+   "scene": "保护套管包住电缆的特写",
+   "prompt_en": "Close view of a cable running inside a protective sleeve. No people.",
+   "narration": "并且加以保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三孔插头可靠接地",
+   "scene": "三孔插头特写，接地符号",
+   "prompt_en": "Close view of a three-pin plug with a ground symbol. No people.",
+   "narration": "第四，带三孔插头的设备，",
+   "overlay": [
+    "三孔插头可靠接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三孔插头可靠接地",
+   "scene": "手把三孔插头插进墙上插座，接地线连到地",
+   "prompt_en": "A hand plugs the three-pin plug into a wall socket, with a ground wire line leading to earth. No people.",
+   "narration": "都要可靠接到合格的接地线上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现电压、电流、电阻、功率图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a battery, an arrow, a resistor and a bulb.",
+   "narration": "电压、电流、电阻、功率，先弄懂。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电击、灼伤、火灾、静电图标",
+   "prompt_en": "Four icons: a lightning shock, a burn mark, a flame and a static spark. No people.",
+   "narration": "六类危害，电击、灼伤、火灾、静电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "完好电线、合适插线板、接地插座打勾",
+   "prompt_en": "Three icons with green checks: an intact cable, a matched power strip and a grounded socket. No people.",
+   "narration": "查线路、管插线板、护绝缘、接好地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye beside a tidy lab bench.",
+   "narration": "安全用电，从懂电开始，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 299 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 300 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -26,9 +26,9 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
+| Laser Maintenance Group Safety | 2 / 17 | 0 / 0 |
 | Basic Electrical Engineering Lab | 1 / 23 | 0 / 0 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 0 |
-| Laser Maintenance Group Safety | 1 / 17 | 0 / 0 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
 
@@ -406,6 +406,7 @@
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 原著版 | 激光切割机：规程更新须知 | 24 | 2:00 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto | 单一版 | 看懂激光切割，也看懂它的危险 | 48 | 4:00 | 5 / 8 | [剧本](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto/script.md>) · [审查](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto/审查报告.md>) |
+| Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 单一版 | 风琴管着火了怎么办 | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 国内版 | 生物安全第一课：防护与风险评估（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/审查报告.md>) |
