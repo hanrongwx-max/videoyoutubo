@@ -14,7 +14,7 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
-| Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
+| Laser Maintenance Group Safety | 17 / 17 | 1 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
@@ -698,6 +698,7 @@
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 国内版 | 激光切割机：考核、授权与预约（国内版） | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 原著版 | 激光切割机：规程更新须知 | 24 | 2:00 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
+| Laser Maintenance Group Safety | 01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto | 原著版 | 看懂激光切割，也看懂它的危险 | 25 | 2:05 | 5 / 0 | [剧本](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto/script.md>) |
 | Laser Maintenance Group Safety | 01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto | 国内版 | 看懂激光切割，也看懂它的危险（国内版） | 48 | 4:00 | 5 / 8 | [剧本](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 国内版 | 风琴管着火了怎么办（国内版） | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 国内版 | 激光设备为什么要例行维护（国内版） | 42 | 3:30 | 6 / 7 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/审查报告.md>) |
