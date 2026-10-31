@@ -13,7 +13,7 @@
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 2 / 12 |
-| ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
+| ACS Hazard Communication & Safety | 10 / 10 | 2 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 3 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
@@ -22,7 +22,7 @@
 | General Lab Safety Practices | 8 / 8 | 7 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 5 / 8 |
-| ACS College Lab Safety Series | 7 / 7 | 5 / 7 |
+| ACS College Lab Safety Series | 7 / 7 | 6 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 4 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 5 / 7 |
 | Electrical Safety Series | 6 / 25 | 5 / 6 |
@@ -48,10 +48,12 @@
 | ACS College Lab Safety Series | 04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4 | 国内版 | 化学实验室怎样降低风险（国内版） | 94 | 7:50 | 21 / 6 | [剧本](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video | 原著版 | 降低风险：化学实验的操作技巧 | 96 | 8:00 | 29 / 0 | [剧本](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video/script.md>) |
 | ACS College Lab Safety Series | 05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video | 国内版 | 降低风险：化学实验的操作技巧（国内版） | 116 | 9:40 | 29 / 7 | [剧本](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/审查报告.md>) |
+| ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 原著版 | 化学实验室的应急处置 | 90 | 7:30 | 29 / 0 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6/script.md>) |
 | ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 国内版 | 化学实验室的应急处置（国内版） | 112 | 9:20 | 29 / 7 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 07_Meet Michael Mills -- Host of the ACS Safety Videos | 国内版 | 安全课幕后：为什么安全放在第一位（国内版） | 69 | 5:45 | 13 / 6 | [剧本](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/07_Meet Michael Mills -- Host of the ACS Safety Videos（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions | 原著版 | 安全知识问答：从基本概念到现场设备 | 109 | 9:05 | 37 / 0 | [剧本](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions/script.md>) |
 | ACS Hazard Communication & Safety | 01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions | 国内版 | 安全知识问答：从基本概念到现场设备（国内版） | 129 | 10:45 | 37 / 6 | [剧本](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/01_Safety Officer Interview Questions and Answers HSE Officer Interview Questions（国内版）/审查报告.md>) |
+| ACS Hazard Communication & Safety | 02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions | 原著版 | 安全知识问答：施工现场与风险评估 | 87 | 7:15 | 33 / 0 | [剧本](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions/script.md>) |
 | ACS Hazard Communication & Safety | 02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions | 国内版 | 安全知识问答：施工现场与风险评估（国内版） | 107 | 8:55 | 33 / 6 | [剧本](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions | 国内版 | 安全知识问答：实验室安全管理入门（国内版） | 66 | 5:30 | 15 / 6 | [剧本](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question | 国内版 | 安全知识问答：燃烧、火灾分类与灭火器（国内版） | 93 | 7:45 | 25 / 6 | [剧本](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question（国内版）/审查报告.md>) |
