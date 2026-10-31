@@ -1,7 +1,7 @@
-# 用电安全检查表
+# 用电安全检查表（国内版）
 
 - 剧集：Electrical Safety Series；对应原视频：12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（内容分析见 `course/Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H/`
 - 时长：5 分 10 秒（62 个镜头 × 5 秒）；熊猫出镜说话 3 镜，画外音 59 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）、保卫处值班员
