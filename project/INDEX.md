@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 19 / 25 |
+| Electrical Safety Series | 25 / 25 | 20 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -364,6 +364,7 @@
 | Electrical Safety Series | 18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need | 国内版 | 接地，给漏电找条路（国内版） | 41 | 3:25 | 11 / 4 | [剧本](<Electrical Safety Series/18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need（国内版）/script.md>) · [审查](<Electrical Safety Series/18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need（国内版）/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 原著版 | 人体电阻：为什么湿手更危险 | 24 | 2:00 | 6 / 0 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 国内版 | 人体电阻：为什么湿手更危险（国内版） | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/审查报告.md>) |
+| Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 原著版 | 电线的颜色：认得清，更要验得准 | 25 | 2:05 | 6 / 0 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/script.md>) |
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 国内版 | 电线的颜色：认得清，更要验得准（国内版） | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/审查报告.md>) |
 | Electrical Safety Series | 21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE | 国内版 | 两种漏电保护器：十个方面比一比（国内版） | 53 | 4:25 | 11 / 3 | [剧本](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE | 国内版 | 十条用电安全规则（国内版） | 50 | 4:10 | 11 / 3 | [剧本](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/审查报告.md>) |
