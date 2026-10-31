@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 232 / 441 个视频。
+已编写 233 / 441 个视频。
 
 ## 各剧集进度
 
@@ -25,7 +25,7 @@
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
 | Electrical Safety Series | 6 / 25 |
-| Microbiology Biosafety | 3 / 59 |
+| Microbiology Biosafety | 4 / 59 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
@@ -253,6 +253,7 @@
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 生物安全第一课：防护与风险评估 | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/审查报告.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 一级到四级：实验室生物安全防护等级 | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 转基因生物：先评估，再放行 | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/审查报告.md>) |
+| Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 实验报告怎么写：从记录到安全 | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
