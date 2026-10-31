@@ -1,0 +1,1770 @@
+{
+ "id": "40_ENGINEERING CONTROLS",
+ "edition": "原著版",
+ "series": "BIORISK MANAGEMENT",
+ "title": "楼和柜子怎么挡住病原体：工程控制",
+ "seconds": 645,
+ "source_doc": "course/BIORISK MANAGEMENT/40_ENGINEERING CONTROLS.md",
+ "author_source": "project/BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/src.py",
+ "points": {
+  "K1": "五级控制，一起用",
+  "K2": "管安全的人，也要懂设施",
+  "K3": "机器在楼上，实验室里不放",
+  "K4": "级别越高，设施要求越多",
+  "K5": "四级实验室，全国少数",
+  "K6": "一座防护设施由什么组成",
+  "K7": "一级、二级实验室",
+  "K8": "三级：防护实验室",
+  "K9": "四级：最高防护",
+  "K10": "动物、植物和“加号”",
+  "K11": "选址五原则",
+  "K12": "气流：从清洁区流向污染区",
+  "K13": "风不能从病原吹向人",
+  "K14": "负压：把气溶胶关在里面",
+  "K15": "持续换气，像漂洗衣服",
+  "K16": "高效过滤器：原理与更换",
+  "K17": "一栋楼，三层分工",
+  "K18": "进门路线：更衣、气锁、实验室",
+  "K19": "进排风过滤，高空排放",
+  "K20": "废水：暂存、消毒、中和",
+  "K21": "设计时就要考虑安保",
+  "K22": "生物安全柜保护谁",
+  "K23": "产生气溶胶的操作与离心机",
+  "K24": "安全柜的排风连接",
+  "K25": "柜内布局：从洁到污，不挡格栅",
+  "K26": "用好安全柜的七件事",
+  "K27": "安全柜放在哪里",
+  "K28": "认证和操作规程",
+  "K29": "双层袋装废物",
+  "K30": "回顾：设施、气流、安全柜"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一栋三层实验楼模型旁，向镜头挥手",
+   "prompt_en": "The panda mascot stands beside a three-story laboratory building model and waves at the camera.",
+   "narration": "今天讲工程控制。",
+   "overlay": [
+    "楼和柜子怎么挡住病原体：工程控制"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着模型上的屋顶风机和楼里的生物安全柜",
+   "prompt_en": "The panda mascot points at a roof fan on the model and a small biological safety cabinet inside it.",
+   "narration": "从一栋楼，讲到一台柜子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一张空白课程表，站在生物实验楼门口",
+   "prompt_en": "The young male student holds a blank schedule sheet in front of a biology laboratory building.",
+   "narration": "阿杰下周要进二级实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抬头看楼顶一排排风机，挠头",
+   "prompt_en": "The young male student looks up at a row of exhaust fans on the roof and scratches his head.",
+   "narration": "他问：楼顶这些风机干啥用？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李从楼里走出来，手里拿着空白图纸，向阿杰招手",
+   "prompt_en": "The facility engineer walks out of the building holding a blank blueprint and waves to the young male student.",
+   "narration": "老李说：走，带你从头看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "五级控制，一起用",
+   "scene": "五个叠放的方块图标：叉号、交换箭头、齿轮、文件夹、口罩",
+   "prompt_en": "Five stacked block icons: a cross, swap arrows, a gear, a folder and a face mask. No people.",
+   "narration": "控制风险有五招：消除、替代，",
+   "overlay": [
+    "五级控制，一起用"
+   ],
+   "labels": [
+    "消除",
+    "替代",
+    "工程",
+    "管理",
+    "防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "五级控制，一起用",
+   "scene": "齿轮、文件夹、口罩三个图标用线连在一起",
+   "prompt_en": "A gear icon, a folder icon and a mask icon linked together by lines. No people.",
+   "narration": "工程、管理、个人防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "五级控制，一起用",
+   "scene": "小研坐在生物安全柜前，旁边立着一份空白操作规程",
+   "prompt_en": "The female graduate student sits at a biological safety cabinet with a blank procedure document standing beside her.",
+   "narration": "它们不是单用，而是同时用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "五级控制，一起用",
+   "scene": "安全柜图标和文件图标握手",
+   "prompt_en": "A biological safety cabinet icon and a document icon shake hands. No people.",
+   "narration": "用安全柜，也得照规程做。",
+   "overlay": [],
+   "labels": [
+    "工程控制",
+    "操作规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "管安全的人，也要懂设施",
+   "scene": "王老师和老李对着空白图纸讨论，旁边一位建筑师样的人物轮廓",
+   "prompt_en": "The safety administrator and the facility engineer discuss a blank blueprint together.",
+   "narration": "管生物安全的人，",
+   "overlay": [
+    "管安全的人，也要懂设施"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "管安全的人，也要懂设施",
+   "scene": "王老师在空白笔记本上画出简单的房间草图",
+   "prompt_en": "The safety administrator sketches a simple room outline in a blank notebook.",
+   "narration": "也要懂一点设施设计，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "管安全的人，也要懂设施",
+   "scene": "王老师和老李相互点头",
+   "prompt_en": "The safety administrator and the facility engineer nod to each other.",
+   "narration": "才能和工程师说到一块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "机器在楼上，实验室里不放",
+   "scene": "老李带阿杰登上楼顶的设备层，满是风管、风机和控制柜",
+   "prompt_en": "The facility engineer leads the young male student into an upper service floor full of ducts, fans and control panels.",
+   "narration": "风机、过滤器、电控柜，",
+   "overlay": [
+    "机器在楼上，实验室里不放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "机器在楼上，实验室里不放",
+   "scene": "剖面图：上层满是机器，下层实验室里很简洁",
+   "prompt_en": "A cutaway diagram: the upper floor is full of machines while the laboratory below is clean and simple. No people.",
+   "narration": "都装在实验室上方的设备层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "机器在楼上，实验室里不放",
+   "scene": "实验室内部干净整齐，只有台面和安全柜",
+   "prompt_en": "A tidy laboratory interior with only benches and a biological safety cabinet. No people.",
+   "narration": "实验室里不放机械，便于密封清洁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "级别越高，设施要求越多",
+   "scene": "四级台阶，从低到高标着一到四",
+   "prompt_en": "Four steps rising from low to high, each with a blank plaque. No people.",
+   "narration": "生物安全实验室分一到四级。",
+   "overlay": [
+    "级别越高，设施要求越多"
+   ],
+   "labels": [
+    "一级",
+    "二级",
+    "三级",
+    "四级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "级别越高，设施要求越多",
+   "scene": "台阶上逐级增加图标：门、密封条、风扇、安全柜",
+   "prompt_en": "Icons are added step by step on the stairs: a door, a seal strip, a fan and a safety cabinet. No people.",
+   "narration": "级别越高，设施要求越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "级别越高，设施要求越多",
+   "scene": "三级、四级台阶上出现独立房间和密封门图标",
+   "prompt_en": "On the third and fourth steps, icons of an isolated room and a sealed door appear. No people.",
+   "narration": "三、四级要独立隔离，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "级别越高，设施要求越多",
+   "scene": "房间门窗风口都被封好，房里充满淡淡雾气",
+   "prompt_en": "A room with doors, windows and vents all sealed and filled with a faint mist. No people.",
+   "narration": "房间能密封，做气体熏蒸消毒。",
+   "overlay": [],
+   "labels": [
+    "密封",
+    "熏蒸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "四级实验室，全国少数",
+   "scene": "地图上只有一处亮着的四级实验室图标",
+   "prompt_en": "A map with only one glowing level four laboratory icon. No people.",
+   "narration": "四级实验室造价和运行都很贵，",
+   "overlay": [
+    "四级实验室，全国少数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "四级实验室，全国少数",
+   "scene": "欣欣指着一到三级台阶",
+   "prompt_en": "The panda mascot points at the first three steps.",
+   "narration": "我们平常接触的是一到三级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "空白示意图：一个蓝色方框，门口出现生物危害标志",
+   "prompt_en": "A simple diagram: a blue box with a biohazard warning sign at its door. No people.",
+   "narration": "看一座防护设施怎么搭：",
+   "overlay": [
+    "一座防护设施由什么组成"
+   ],
+   "labels": [
+    "生物危害标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "方框外围加上一圈红色密封线",
+   "prompt_en": "A red sealing line is drawn around the blue box. No people.",
+   "narration": "门口有标志，房间能密封，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "蓝色箭头从一侧流入，绿色箭头经滤网从顶部排出",
+   "prompt_en": "A blue arrow flows in from one side and a green arrow exits through a filter at the top. No people.",
+   "narration": "气流定向流入，过滤后排出，",
+   "overlay": [],
+   "labels": [
+    "进风",
+    "过滤排风"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "方框内显示减号图标",
+   "prompt_en": "A minus icon appears inside the box. No people.",
+   "narration": "整座设施比外界负压。",
+   "overlay": [],
+   "labels": [
+    "负压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "方框内依次出现气锁、安全柜、高压灭菌器、淋浴图标",
+   "prompt_en": "Icons of an airlock, a biological safety cabinet, an autoclave and a shower appear inside the box. No people.",
+   "narration": "气锁进，淋浴出，内有安全柜和灭菌器，",
+   "overlay": [],
+   "labels": [
+    "气锁",
+    "安全柜",
+    "灭菌器",
+    "淋浴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "一座防护设施由什么组成",
+   "scene": "方框下方出现一条蓝色污水处理带和循环图标",
+   "prompt_en": "A blue effluent treatment band with a recycle icon appears below the box. No people.",
+   "narration": "楼下还有污水处理系统。",
+   "overlay": [],
+   "labels": [
+    "污水处理"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一级、二级实验室",
+   "scene": "一级实验室：开放台面，学生在做普通教学实验",
+   "prompt_en": "A basic teaching laboratory with open benches where the young male student does a simple class experiment.",
+   "narration": "一级实验室用于基础教学科研，",
+   "overlay": [
+    "一级、二级实验室"
+   ],
+   "labels": [
+    "一级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一级、二级实验室",
+   "scene": "开放台面图标，病原体图标被打叉",
+   "prompt_en": "An open bench icon with a pathogen icon crossed out with a red X. No people.",
+   "narration": "开放台面，不处理病原体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一级、二级实验室",
+   "scene": "二级实验室门上贴生物危害标志，小研穿实验服戴手套",
+   "prompt_en": "A laboratory door with a biohazard warning sign; the female graduate student wears a lab coat and gloves.",
+   "narration": "二级用于诊断和研究，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一级、二级实验室",
+   "scene": "规范操作图标、防护用品图标、标志图标并列",
+   "prompt_en": "Three icons side by side: good technique, protective equipment and a warning sign. No people.",
+   "narration": "规范操作加防护，挂好标识，",
+   "overlay": [],
+   "labels": [
+    "规范操作",
+    "个人防护",
+    "标识"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一级、二级实验室",
+   "scene": "二级实验室一角新装了一台生物安全柜",
+   "prompt_en": "A newly installed biological safety cabinet in the corner of a level two laboratory. No people.",
+   "narration": "加装安全柜，安全再上一层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三级：防护实验室",
+   "scene": "三级实验室外观：厚重的门、门禁读卡器、生物危害标志",
+   "prompt_en": "A level three laboratory entrance with a heavy door, a card reader and a biohazard warning sign. No people.",
+   "narration": "三级叫防护实验室，",
+   "overlay": [
+    "三级：防护实验室"
+   ],
+   "labels": [
+    "三级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三级：防护实验室",
+   "scene": "图标：放大镜下的病原体和试管",
+   "prompt_en": "Icons of a pathogen under a magnifying glass and a test tube. No people.",
+   "narration": "用于特殊诊断和较高危害病原研究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三级：防护实验室",
+   "scene": "防护服、向内箭头、门禁卡三个图标",
+   "prompt_en": "Three icons: protective clothing, an inward arrow and an access card. No people.",
+   "narration": "三级要防护、定向气流和门禁，",
+   "overlay": [],
+   "labels": [
+    "个人防护",
+    "定向气流",
+    "门禁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "三级：防护实验室",
+   "scene": "开放台面被打叉，安全柜打勾",
+   "prompt_en": "An open bench icon crossed out with a red X next to a biological safety cabinet icon with a green check. No people.",
+   "narration": "所有操作都在安全柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四级：最高防护",
+   "scene": "四级实验室图标：气锁、正压防护服人形图标",
+   "prompt_en": "Icons of a level four facility: an airlock and a figure in an inflated positive pressure suit. No people.",
+   "narration": "四级是最高防护：",
+   "overlay": [
+    "四级：最高防护"
+   ],
+   "labels": [
+    "四级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四级：最高防护",
+   "scene": "防护服图标上有小破口，空气向外吹出",
+   "prompt_en": "A pressure suit icon with a small puncture where air blows outward. No people.",
+   "narration": "穿正压防护服，破了也是往外吹，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四级：最高防护",
+   "scene": "三级生物安全柜图标、双扉灭菌器图标、出口淋浴图标",
+   "prompt_en": "Icons of a sealed glove-box cabinet, a double-door autoclave and an exit shower. No people.",
+   "narration": "用三级柜、双扉灭菌器、出口淋浴。",
+   "overlay": [],
+   "labels": [
+    "三级柜",
+    "双扉灭菌器",
+    "出口淋浴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动物、植物和“加号”",
+   "scene": "老鼠图标旁边的实验室房子图标",
+   "prompt_en": "A mouse icon next to a laboratory building icon. No people.",
+   "narration": "动物实验室，前面加个字母A；",
+   "overlay": [
+    "动物、植物和“加号”"
+   ],
+   "labels": [
+    "动物：A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动物、植物和“加号”",
+   "scene": "植物盆栽图标旁边的温室图标",
+   "prompt_en": "A potted plant icon next to a greenhouse icon. No people.",
+   "narration": "植物实验室，后面加个P，",
+   "overlay": [],
+   "labels": [
+    "植物：P"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动物、植物和“加号”",
+   "scene": "温室里一株植物，旁边一个双螺旋图标",
+   "prompt_en": "A plant inside a greenhouse next to a DNA double helix icon. No people.",
+   "narration": "转基因植物也可能要用到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动物、植物和“加号”",
+   "scene": "三级台阶上加了一个加号，向四级借来一块砖",
+   "prompt_en": "A plus sign added to the third step, borrowing one brick from the fourth step. No people.",
+   "narration": "加号表示借用了更高一级的设计。",
+   "overlay": [],
+   "labels": [
+    "三级+"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "老李在空白地图上画圈选址",
+   "prompt_en": "The facility engineer circles a location on a blank map.",
+   "narration": "高等级实验室选址有讲究：",
+   "overlay": [
+    "选址五原则"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "地震、洪水图标被打叉",
+   "prompt_en": "Earthquake and flood icons crossed out with a red X. No people.",
+   "narration": "避开自然灾害多发地，",
+   "overlay": [],
+   "labels": [
+    "灾害风险低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "城市密集楼群图标被打叉，郊外空地打勾",
+   "prompt_en": "A crowded city icon crossed out and an open suburban site with a green check. No people.",
+   "narration": "避开人口稠密区，",
+   "overlay": [],
+   "labels": [
+    "人口密度低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "电力和水滴图标",
+   "prompt_en": "Icons of an electric plug and a water drop. No people.",
+   "narration": "水电要有保障，",
+   "overlay": [],
+   "labels": [
+    "水电保障"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "应急车辆沿道路驶向实验楼",
+   "prompt_en": "An emergency response vehicle drives along a road toward the laboratory building. No people.",
+   "narration": "应急队伍能及时赶到，",
+   "overlay": [],
+   "labels": [
+    "应急可达"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "选址五原则",
+   "scene": "冲突区域图标被打叉",
+   "prompt_en": "A conflict zone icon crossed out with a red X. No people.",
+   "narration": "也不能建在冲突地区。",
+   "overlay": [],
+   "labels": [
+    "避开冲突区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气流：从清洁区流向污染区",
+   "scene": "淡蓝色空气流线像水一样流动",
+   "prompt_en": "Light blue air streamlines flowing like water. No people.",
+   "narration": "空气会流动，能加压也能减压，",
+   "overlay": [
+    "气流：从清洁区流向污染区"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气流：从清洁区流向污染区",
+   "scene": "平面图左绿右红，箭头从绿流向红",
+   "prompt_en": "A floor plan, green on the left and red on the right, with arrows flowing from green to red. No people.",
+   "narration": "设计让空气从清洁区流向污染区，",
+   "overlay": [],
+   "labels": [
+    "清洁区",
+    "污染区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气流：从清洁区流向污染区",
+   "scene": "红区尽头的滤网，干净空气出去",
+   "prompt_en": "A filter at the far end of the red area with clean air passing out. No people.",
+   "narration": "再经高效过滤排出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风不能从病原吹向人",
+   "scene": "示意图：人形在左，病原体在右，箭头从病原体吹向人，打叉",
+   "prompt_en": "A diagram: a person icon on the left, a pathogen icon on the right, arrows blowing from the pathogen to the person, crossed out with a red X. No people.",
+   "narration": "风从病原体吹向人，不行。",
+   "overlay": [
+    "风不能从病原吹向人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风不能从病原吹向人",
+   "scene": "示意图：蓝色箭头从人身后吹过，橙色箭头从病原体另一侧排出",
+   "prompt_en": "A diagram: blue arrows blow from behind the person, and orange arrows leave past the pathogen on the far side. No people.",
+   "narration": "风从人身后来，经过病原体，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风不能从病原吹向人",
+   "scene": "橙色箭头穿过滤网离开",
+   "prompt_en": "Orange arrows pass through a filter and leave. No people.",
+   "narration": "从另一头过滤排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风不能从病原吹向人",
+   "scene": "地上有一滩溢洒，小研站在送风一侧，用吸水纸从外向内覆盖",
+   "prompt_en": "A spill on the floor; the female graduate student stands on the upwind side and covers it with absorbent paper.",
+   "narration": "地上洒了，从清洁一侧处理，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风不能从病原吹向人",
+   "scene": "脚印踩进溢洒区被打叉",
+   "prompt_en": "Footprints stepping into the spill area, crossed out with a red X. No people.",
+   "narration": "不要踩进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "负压：把气溶胶关在里面",
+   "scene": "粉色房间里飘着小红点，四周箭头向内",
+   "prompt_en": "A pink room with floating small red dots and inward arrows all around. No people.",
+   "narration": "防护设施比外界负压，",
+   "overlay": [
+    "负压：把气溶胶关在里面"
+   ],
+   "labels": [
+    "负压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "负压：把气溶胶关在里面",
+   "scene": "红点碰到门缝，被向内的气流推回",
+   "prompt_en": "Red dots reach a door gap and are pushed back by the inward airflow. No people.",
+   "narration": "含病原的气溶胶跑不出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "持续换气，像漂洗衣服",
+   "scene": "移液器和离心机图标周围冒出小雾点",
+   "prompt_en": "Tiny mist dots rising around a pipette icon and a centrifuge icon. No people.",
+   "narration": "移液、离心都会产生气溶胶。",
+   "overlay": [
+    "持续换气，像漂洗衣服"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "持续换气，像漂洗衣服",
+   "scene": "小研戴着口罩防护，周围仍有些小雾点",
+   "prompt_en": "The female graduate student wears a mask while a few mist dots float nearby.",
+   "narration": "防护用品护住人，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "持续换气，像漂洗衣服",
+   "scene": "洗衣机漂洗衣服，泡沫一遍遍被冲走",
+   "prompt_en": "A washing machine rinsing clothes, foam washed away cycle after cycle. No people.",
+   "narration": "可气溶胶多了，要靠持续换气，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "持续换气，像漂洗衣服",
+   "scene": "房间内气流一遍遍穿过，把雾点带走进入滤网",
+   "prompt_en": "Airflow sweeps through the room again and again, carrying mist dots into a filter. No people.",
+   "narration": "像漂洗衣服一样把它带走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "高效过滤器剖面：一层层褶皱滤材",
+   "prompt_en": "A cutaway of a high efficiency filter showing pleated layers of filter media. No people.",
+   "narration": "高效过滤器有严格的效率标准。",
+   "overlay": [
+    "高效过滤器：原理与更换"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "放大的纤维网，小颗粒撞上被粘住",
+   "prompt_en": "Magnified fiber mesh where small particles collide and stick. No people.",
+   "narration": "纤维层层拦截，颗粒被截住，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "更小的颗粒弯弯曲曲移动，最终也被纤维抓住",
+   "prompt_en": "Even smaller particles zigzag and are finally caught by fibers. No people.",
+   "narration": "更小的颗粒乱飘，也会被抓住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "过滤器四周的密封条特写",
+   "prompt_en": "Close-up of the sealing gasket around a filter housing. No people.",
+   "narration": "过滤器靠密封条装好，不漏风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "老李穿全套防护，用大袋子罩住旧过滤器取出",
+   "prompt_en": "The facility engineer in full protective gear pulls an old filter out inside a large plastic bag.",
+   "narration": "更换时袋进袋出，由专人做，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "袋装旧过滤器贴生物危害标志，旁边回收图标被打叉",
+   "prompt_en": "A bagged old filter with a biohazard warning sign, and a reuse icon crossed out with a red X. No people.",
+   "narration": "去污后废弃，不能再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "高效过滤器：原理与更换",
+   "scene": "日历图标和过滤器图标",
+   "prompt_en": "A calendar icon next to a filter icon. No people.",
+   "narration": "用久了滤材会老化，要按期换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一栋楼，三层分工",
+   "scene": "三层楼剖面：顶层风机、中层实验室和办公室、底层水罐",
+   "prompt_en": "A three-story cutaway: fans on the top floor, laboratories and offices in the middle, tanks in the basement. No people.",
+   "narration": "这类设施通常至少分三层：",
+   "overlay": [
+    "一栋楼，三层分工"
+   ],
+   "labels": [
+    "设备层",
+    "实验层",
+    "污水层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一栋楼，三层分工",
+   "scene": "顶层风机和空调机组亮起",
+   "prompt_en": "The fans and air handling units on the top floor light up. No people.",
+   "narration": "上层管空气，中层做实验办公，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "一栋楼，三层分工",
+   "scene": "底层水罐亮起，管道从上层淋浴和水槽接下来",
+   "prompt_en": "The basement tanks light up with pipes running down from showers and sinks above. No people.",
+   "narration": "底层收集处理全部废水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "进门路线：更衣、气锁、实验室",
+   "scene": "阿杰在更衣区换上实验服",
+   "prompt_en": "The young male student changes into a lab coat in a changing area.",
+   "narration": "进实验室先在更衣区换装，",
+   "overlay": [
+    "进门路线：更衣、气锁、实验室"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "进门路线：更衣、气锁、实验室",
+   "scene": "阿杰走进一个两头有门的小间",
+   "prompt_en": "The young male student walks into a small chamber with doors at both ends.",
+   "narration": "经过负压的气锁，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "进门路线：更衣、气锁、实验室",
+   "scene": "平面图：更衣区、气锁、防护实验室三块依次排列，箭头贯穿",
+   "prompt_en": "A floor plan with three blocks in a row and an arrow running through them. No people.",
+   "narration": "才进入防护实验室。",
+   "overlay": [],
+   "labels": [
+    "更衣",
+    "气锁",
+    "实验室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "进排风过滤，高空排放",
+   "scene": "示意图：新风经过滤器送进房间",
+   "prompt_en": "A diagram: fresh air passes through a filter into the room. No people.",
+   "narration": "送进来的风先过滤，保护人员；",
+   "overlay": [
+    "进排风过滤，高空排放"
+   ],
+   "labels": [
+    "送风过滤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "进排风过滤，高空排放",
+   "scene": "示意图：房间里的风经过滤器抽出",
+   "prompt_en": "A diagram: room air is drawn out through a filter. No people.",
+   "narration": "排出去的风也要过滤。",
+   "overlay": [],
+   "labels": [
+    "排风过滤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "进排风过滤，高空排放",
+   "scene": "屋顶排风机把气流竖直向高空喷出，逐渐散开",
+   "prompt_en": "A roof exhaust fan blows the air straight up high into the sky where it spreads out. No people.",
+   "narration": "屋顶风机把风送到高空稀释。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "进排风过滤，高空排放",
+   "scene": "老李看着过滤箱上的压差表，表盘空白",
+   "prompt_en": "The facility engineer checks a blank pressure gauge on a filter housing.",
+   "narration": "压差表是监测的关键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "进排风过滤，高空排放",
+   "scene": "控制面板红灯亮，风机图标停转",
+   "prompt_en": "A control panel with a red light on and a fan icon stopped. No people.",
+   "narration": "防护一旦失效，系统会停机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "废水：暂存、消毒、中和",
+   "scene": "淋浴、洗手池、灭菌器的废水管汇向地下室",
+   "prompt_en": "Drain pipes from a shower, a hand sink and an autoclave converge toward the basement. No people.",
+   "narration": "淋浴、洗手、灭菌器的废水，",
+   "overlay": [
+    "废水：暂存、消毒、中和"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "废水：暂存、消毒、中和",
+   "scene": "三个罐子依次排列：红、黄、绿",
+   "prompt_en": "Three tanks in a row colored red, yellow and green. No people.",
+   "narration": "先进暂存罐，再进消毒罐，",
+   "overlay": [],
+   "labels": [
+    "暂存",
+    "消毒",
+    "中和"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "废水：暂存、消毒、中和",
+   "scene": "消毒罐旁一份空白规程和计时器图标",
+   "prompt_en": "A blank procedure sheet and a timer icon beside the disinfection tank. No people.",
+   "narration": "消毒剂和时间按规程定，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "废水：暂存、消毒、中和",
+   "scene": "绿色中和罐后箭头流向排放口",
+   "prompt_en": "An arrow flows from the green neutralization tank to the outlet. No people.",
+   "narration": "中和后才排放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "废水：暂存、消毒、中和",
+   "scene": "老李在空白记录本上登记",
+   "prompt_en": "The facility engineer writes in a blank logbook beside the tanks.",
+   "narration": "全程监测，留好记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "设计时就要考虑安保",
+   "scene": "实验楼入口的门禁闸机和读卡器",
+   "prompt_en": "Access gates and a card reader at the laboratory building entrance. No people.",
+   "narration": "安保要在设计时就考虑：",
+   "overlay": [
+    "设计时就要考虑安保"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "设计时就要考虑安保",
+   "scene": "保卫处值班员在监控室看空白屏幕",
+   "prompt_en": "The security officer watches blank monitor screens in a control room.",
+   "narration": "门禁监控管住人，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "设计时就要考虑安保",
+   "scene": "电脑屏幕上一把锁的图标",
+   "prompt_en": "A computer screen showing a padlock icon. No people.",
+   "narration": "数据和资料也要加密管好。",
+   "overlay": [],
+   "labels": [
+    "信息安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物安全柜保护谁",
+   "scene": "小研在生物安全柜前操作，柜内向下的气流箭头",
+   "prompt_en": "The female graduate student works at a biological safety cabinet with downward airflow arrows inside.",
+   "narration": "生物安全柜挡住气溶胶和飞溅，",
+   "overlay": [
+    "生物安全柜保护谁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物安全柜保护谁",
+   "scene": "三个图标：人、房间、试管，都在盾牌下",
+   "prompt_en": "Three icons under one shield: a person, a room and a test tube. No people.",
+   "narration": "保护人、环境，也保护样品。",
+   "overlay": [],
+   "labels": [
+    "人员",
+    "环境",
+    "样品"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "产生气溶胶的操作与离心机",
+   "scene": "移液、涂片、离心三个图标，周围冒出小雾点",
+   "prompt_en": "Icons of pipetting, smearing a slide and a centrifuge, each with small mist dots. No people.",
+   "narration": "移液、涂片、离心都会产生气溶胶。",
+   "overlay": [
+    "产生气溶胶的操作与离心机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "产生气溶胶的操作与离心机",
+   "scene": "离心机转头盖上密封盖",
+   "prompt_en": "A sealed lid is placed on a centrifuge rotor. No people.",
+   "narration": "离心要用密封转头或安全杯，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "产生气溶胶的操作与离心机",
+   "scene": "小研把整个密封转头拿进安全柜，在柜内打开",
+   "prompt_en": "The female graduate student carries the sealed rotor into the biological safety cabinet and opens it inside.",
+   "narration": "拿进安全柜里再打开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "产生气溶胶的操作与离心机",
+   "scene": "离心机放在安全柜内运转，被打叉",
+   "prompt_en": "A centrifuge running inside a biological safety cabinet, crossed out with a red X. No people.",
+   "narration": "离心机别放进柜里运行，会扰乱气流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "安全柜的排风连接",
+   "scene": "安全柜剖面：室内空气进入，经风机和滤网排出",
+   "prompt_en": "A cutaway of a safety cabinet: room air enters, passes a fan and a filter, and exits. No people.",
+   "narration": "柜里的风过滤后排走，",
+   "overlay": [
+    "安全柜的排风连接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "安全柜的排风连接",
+   "scene": "柜顶排风管直接接入大楼风管",
+   "prompt_en": "The cabinet exhaust pipe connects directly into the building duct. No people.",
+   "narration": "一种是排风管直接接入大楼风管，",
+   "overlay": [],
+   "labels": [
+    "硬管连接"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "安全柜的排风连接",
+   "scene": "柜顶上方留空隙，罩着一个集气罩",
+   "prompt_en": "A collection hood above the cabinet top with a small gap between them. No people.",
+   "narration": "一种是上方罩个集气罩，便于平衡。",
+   "overlay": [],
+   "labels": [
+    "集气罩连接"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "安全柜的排风连接",
+   "scene": "风管里一片风阀随风速转动，旁边电脑图标",
+   "prompt_en": "A damper vane inside a duct turning with airspeed, next to a computer icon. No people.",
+   "narration": "风阀随风速自动调节，有备用接管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "安全柜的排风连接",
+   "scene": "老李对着柜顶管道查看，手拿空白检查表",
+   "prompt_en": "The facility engineer inspects the duct above a cabinet holding a blank checklist.",
+   "narration": "怎么连接，由工程人员按柜型定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "柜内布局：从洁到污，不挡格栅",
+   "scene": "安全柜台面俯视：左侧干净物品，中间操作区，右侧废物袋",
+   "prompt_en": "Top view of a cabinet work surface: clean items on the left, work area in the middle, a waste bag on the right. No people.",
+   "narration": "柜内从洁到污摆放，",
+   "overlay": [
+    "柜内布局：从洁到污，不挡格栅"
+   ],
+   "labels": [
+    "洁",
+    "操作",
+    "污"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "柜内布局：从洁到污，不挡格栅",
+   "scene": "小研用左手习惯，把布局左右对调",
+   "prompt_en": "The female graduate student, being left-handed, mirrors the layout.",
+   "narration": "左右按自己的习惯定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "柜内布局：从洁到污，不挡格栅",
+   "scene": "前格栅上放着纸巾和试管，被打叉",
+   "prompt_en": "Tissues and tubes lying on the front grille of the cabinet, crossed out with a red X. No people.",
+   "narration": "前后格栅上不放纸巾和管子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "柜内布局：从洁到污，不挡格栅",
+   "scene": "气流向下，在台面前沿被吸走，远离操作者",
+   "prompt_en": "Airflow goes down and is drawn away at the front edge, away from the worker. No people.",
+   "narration": "风向下走，从人身边吸走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "用好安全柜的七件事",
+   "scene": "七个空白卡片排成一列，配图标",
+   "prompt_en": "Seven blank cards in a column, each with an icon. No people.",
+   "narration": "用好安全柜，记住七件事：",
+   "overlay": [
+    "用好安全柜的七件事"
+   ],
+   "labels": [
+    "认证",
+    "位置",
+    "摆放",
+    "规程",
+    "清洁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "用好安全柜的七件事",
+   "scene": "证书图标、位置图标、摆放图标依次点亮",
+   "prompt_en": "A certificate icon, a location pin icon and a layout icon light up in turn. No people.",
+   "narration": "认证、位置、物品摆放，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "用好安全柜的七件事",
+   "scene": "文件、喷壶、扳手图标依次点亮",
+   "prompt_en": "A document icon, a spray bottle icon and a wrench icon light up in turn. No people.",
+   "narration": "按规程用，清洁消毒，定期维护。",
+   "overlay": [],
+   "labels": [
+    "消毒",
+    "维护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "用好安全柜的七件事",
+   "scene": "电话图标和扳手图标",
+   "prompt_en": "A phone icon and a wrench icon. No people.",
+   "narration": "紧急维修也要有规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "平面图：门在一端，安全柜在另一端远处",
+   "prompt_en": "A floor plan with the door at one end and the safety cabinet at the far end. No people.",
+   "narration": "安全柜放在远离门口的里端，",
+   "overlay": [
+    "安全柜放在哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "门口来回走动的人形和空调出风口被打叉",
+   "prompt_en": "A busy doorway and an air conditioning vent next to the cabinet, crossed out with a red X. No people.",
+   "narration": "避开门口、风口和走动气流，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "两台安全柜紧挨着，被打叉",
+   "prompt_en": "Two safety cabinets placed right next to each other, crossed out with a red X. No people.",
+   "narration": "也别和别的安全柜挤在一起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "小研坐在可调座椅上，手臂放松，旁边计时器",
+   "prompt_en": "The female graduate student sits on an adjustable chair with relaxed arms, a timer icon beside her.",
+   "narration": "座椅高度合适，避免久坐劳损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "样本盒在实验台上，只把管子转进柜内打开",
+   "prompt_en": "A sample box on the bench; only the tubes are moved into the cabinet to be opened. No people.",
+   "narration": "样本拿进柜里才开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "安全柜放在哪里",
+   "scene": "废物袋从柜内进入双扉灭菌器",
+   "prompt_en": "A waste bag goes from the cabinet into a double-door autoclave. No people.",
+   "narration": "废物封好，送去高压灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "认证和操作规程",
+   "scene": "安全柜侧面贴着空白合格标签",
+   "prompt_en": "A blank certification label on the side of a safety cabinet. No people.",
+   "narration": "安全柜要按国家标准定期检测。",
+   "overlay": [
+    "认证和操作规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "认证和操作规程",
+   "scene": "小研看了一眼标签上的日期，点头",
+   "prompt_en": "The female graduate student checks the blank label and nods.",
+   "narration": "用前先确认检测在有效期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "认证和操作规程",
+   "scene": "小研用喷壶和纸巾擦拭台面",
+   "prompt_en": "The female graduate student wipes the work surface with a spray bottle and paper towels.",
+   "narration": "使用前先消毒擦拭，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "认证和操作规程",
+   "scene": "规程卡片上依次亮起：摆放、溢洒、废物、用后去污图标",
+   "prompt_en": "A blank procedure card with icons lighting up: layout, spill, waste and cleaning. No people.",
+   "narration": "摆放、溢洒、废物、用后去污，",
+   "overlay": [],
+   "labels": [
+    "摆放",
+    "溢洒",
+    "废物",
+    "用后去污"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "认证和操作规程",
+   "scene": "空白文件夹上一个对勾",
+   "prompt_en": "A blank folder with a green check. No people.",
+   "narration": "每一步都要写进规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "双层袋装废物",
+   "scene": "废物桶里套着两只生物安全袋",
+   "prompt_en": "A waste container lined with two biohazard bags, one inside the other. No people.",
+   "narration": "柜内废物用两层袋装，",
+   "overlay": [
+    "双层袋装废物"
+   ],
+   "labels": [
+    "内袋",
+    "外袋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "双层袋装废物",
+   "scene": "吸头刺破一层袋，外层仍完好",
+   "prompt_en": "A pipette tip pokes through the inner bag while the outer bag stays intact. No people.",
+   "narration": "一层被戳破，还有一层兜着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "双层袋装废物",
+   "scene": "小研在柜内扎紧袋口",
+   "prompt_en": "The female graduate student ties the bag closed inside the safety cabinet.",
+   "narration": "装完在柜内封口，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "双层袋装废物",
+   "scene": "小研用喷壶喷袋子外表面",
+   "prompt_en": "The female graduate student sprays the outer surface of the bag.",
+   "narration": "外表面消毒后，送去灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "回顾：设施、气流、安全柜",
+   "scene": "欣欣站在三层楼模型旁",
+   "prompt_en": "The panda mascot stands beside the three-story building model.",
+   "narration": "回顾一下：五招要一起用。",
+   "overlay": [
+    "回顾：设施、气流、安全柜"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "回顾：设施、气流、安全柜",
+   "scene": "三层楼模型：上层风机、中层实验室、下层水罐",
+   "prompt_en": "The building model: fans on top, laboratories in the middle, tanks below. No people.",
+   "narration": "楼分三层，级别越高要求越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "回顾：设施、气流、安全柜",
+   "scene": "从清洁区流向污染区的箭头和负压图标",
+   "prompt_en": "Arrows from the clean zone to the dirty zone and a minus pressure icon. No people.",
+   "narration": "风从清洁流向污染，保持负压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "回顾：设施、气流、安全柜",
+   "scene": "安全柜、证书、双层袋三个图标",
+   "prompt_en": "Icons of a safety cabinet, a certificate and a double bag. No people.",
+   "narration": "安全柜要检测、放对、按规程用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 128,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "回顾：设施、气流、安全柜",
+   "scene": "欣欣指着安全柜认证标和摆放位置图标",
+   "prompt_en": "The panda mascot points at a cabinet certification mark and a placement icon. No people.",
+   "narration": "安全柜要检测、放对、按规程用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 129,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、老李站在实验楼前，向镜头挥手",
+   "prompt_en": "The panda mascot, the young male student and the facility engineer stand in front of the laboratory building and wave goodbye.",
+   "narration": "设施靠得住，操作守规矩，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
