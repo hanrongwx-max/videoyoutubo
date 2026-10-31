@@ -1,18 +1,18 @@
 # 卡通教学视频制作目录
 
-已编写 244 / 441 个视频。
+已编写 246 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 41 / 47 |
+| BIORISK MANAGEMENT | 42 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
+| Microbiology Biosafety | 13 / 59 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
-| Microbiology Biosafety | 12 / 59 |
 | ACS Hazard Communication & Safety | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
@@ -114,6 +114,7 @@
 | BIORISK MANAGEMENT | 35_BIORISK ASSESSMENT | 生物风险评估怎么做 | 86 | 7:10 | 23 / 4 | [剧本](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/script.md>) · [审查](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 36_BIORISK MITIGATION | 五类控制减风险 | 54 | 4:30 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/script.md>) · [审查](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/审查报告.md>) |
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 危害与风险评估 | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/审查报告.md>) |
+| BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 风险评估怎么做 | 46 | 3:50 | 29 / 5 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT/script.md>) · [审查](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 楼和柜子怎么挡住病原体：工程控制 | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/审查报告.md>) |
 | BIORISK MANAGEMENT | 41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT | 最后一道防线：个人防护 | 92 | 7:40 | 19 / 3 | [剧本](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/script.md>) · [审查](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 生物安全员：职责与担当 | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/审查报告.md>) |
@@ -265,6 +266,7 @@
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 认识安全技术说明书 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 化学品的说明书：SDS 是什么（上） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/审查报告.md>) |
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 读懂安全技术说明书（下）：第8到15部分 | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/审查报告.md>) |
+| Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 微生物实验室的生物安全措施 | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
