@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 32 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -380,6 +380,7 @@
 | Cleanroom & Equipment Safety | 31_xTool MetalFab Laser Welder - Clean or replace the lens protector | 国内版 | 激光焊接机保护镜片的清洁与更换（国内版） | 40 | 3:20 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he | 原著版 | 激光焊接机红色定位点的校准 | 24 | 2:00 | 6 / 0 | [剧本](<Cleanroom & Equipment Safety/32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he/script.md>) |
 | Cleanroom & Equipment Safety | 32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he | 国内版 | 激光焊接机红色定位点的校准（国内版） | 33 | 2:45 | 6 / 4 | [剧本](<Cleanroom & Equipment Safety/32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus | 原著版 | 激光焊接机焊枪焦距的校准 | 24 | 2:00 | 3 / 0 | [剧本](<Cleanroom & Equipment Safety/33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus/script.md>) |
 | Cleanroom & Equipment Safety | 33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus | 国内版 | 激光焊接机焊枪焦距的校准（国内版） | 24 | 2:00 | 3 / 3 | [剧本](<Cleanroom & Equipment Safety/33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/33_xTool MetalFab Laser Welder - Calibrate the Welding Gun Focus（国内版）/审查报告.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
