@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 385 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 386 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
-| Cleanroom & Equipment Safety | 31 / 33 | 0 / 21 |
+| Cleanroom & Equipment Safety | 32 / 33 | 0 / 21 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
@@ -286,7 +286,8 @@
 | Cleanroom & Equipment Safety | 28_xTool MetalFab Laser Welder – How to change different nozzle | 单一版 | 激光焊接机更换清洗嘴 | 27 | 2:15 | 4 / 4 | [剧本](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle/script.md>) · [审查](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle/审查报告.md>) |
 | Cleanroom & Equipment Safety | 29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle | 单一版 | 激光焊接机更换送丝导嘴 | 26 | 2:10 | 3 / 4 | [剧本](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle/script.md>) · [审查](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle/审查报告.md>) |
 | Cleanroom & Equipment Safety | 30_xTool MetalFab Laser Welder - Replace the welding wire | 单一版 | 激光焊接机更换焊丝 | 36 | 3:00 | 15 / 4 | [剧本](<Cleanroom & Equipment Safety/30_xTool MetalFab Laser Welder - Replace the welding wire/script.md>) · [审查](<Cleanroom & Equipment Safety/30_xTool MetalFab Laser Welder - Replace the welding wire/审查报告.md>) |
-| Cleanroom & Equipment Safety | 31_xTool MetalFab Laser Welder - Clean or replace the lens protector | 单一版 | 激光焊接机保护镜片的清洁与更换 | 40 | 3:20 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector/script.md>) |
+| Cleanroom & Equipment Safety | 31_xTool MetalFab Laser Welder - Clean or replace the lens protector | 单一版 | 激光焊接机保护镜片的清洁与更换 | 40 | 3:20 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector/script.md>) · [审查](<Cleanroom & Equipment Safety/31_xTool MetalFab Laser Welder - Clean or replace the lens protector/审查报告.md>) |
+| Cleanroom & Equipment Safety | 32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he | 单一版 | 激光焊接机红色定位点的校准 | 33 | 2:45 | 6 / 4 | [剧本](<Cleanroom & Equipment Safety/32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
