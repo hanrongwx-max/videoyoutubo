@@ -1,0 +1,116 @@
+# 01 卡套接头与管路 原著版卡通剧本作者源
+# 完全照原片：经销商的品牌推广访谈，K1–K7（基础元件、应用行业、航空认证、互换与保修、第三方认证、实时统计过程控制、购买渠道），
+# 无补充知识点；品牌、经销商、人名不出现，访谈改为欣欣采访老周（扮演厂商销售负责人）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "卡套接头与气体管路安全",
+    "edition": "原著版",
+    "points": {
+        "K1": "卡套接头和仪表阀门是流体输送和测试测量系统（仪表管路）的基础元件，要求高精度制造",
+        "K2": "这类元件应用很广：油气、化工、制浆造纸、半导体、航空航天等行业都在用",
+        "K3": "航空航天等高要求领域对供应商有专门的质量体系认证要求（原片以“上火星”玩笑引出 AS9100、NADCAP）",
+        "K4": "不同厂家接头能否互换，必须有厂家书面保证和第三方测试依据，不能想当然混用（原片宣称其产品可与市场领先品牌互换并提供保修）",
+        "K5": "选用经第三方认证（如压力设备规范、质量管理体系）的产品，认证是质量的重要依据",
+        "K6": "稳定的质量依赖制造过程中的实时质量控制（原片称工厂采用实时统计过程控制）",
+        "K7": "管路元件要从正规渠道采购（原片推荐经销商自身）",
+    },
+    "avoid": ["EquiTips", "Equi-Tips", "Equi-Tix", "EquiGas", "Equigas", "DK-LOK", "DK-Lok", "DK Lok", "DKLOK",
+              "Nico Arvelo", "Arvelo", "Andy Gilooly", "Gilooly", "Galuli", "NADCAP", "AS9100", "Swagelok",
+              "Made in USA"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在摆满蓝色零件盒的仓库货架通道里，向镜头招手",
+ "The panda mascot stands in a warehouse aisle lined with shelves of blue parts bins and waves at the camera.",
+ "欢迎来到设备小课堂，今天有位嘉宾。", "卡套接头与气体管路安全"),
+("开场", "老周走进画面，和欣欣并肩站在货架前",
+ "The older man walks into the frame and stands side by side with the panda mascot in front of the shelves.",
+ "老周是一家管件阀门厂的销售负责人。"),
+# 情景
+("情景", "阿杰在货架前拿起一个小小的不锈钢接头端详",
+ "The young male student picks up a small stainless steel tube fitting from a parts bin and examines it closely.",
+ "阿杰好奇：这么小的零件，有什么讲究？"),
+("情景", "欣欣把阿杰拉到老周身边",
+ "The panda mascot waves the young male student over to stand next to the older man.",
+ "那就请老周给我们说一说。"),
+# K1
+("K1", "老周边说边打手势，身旁浮现接头、阀门、压力表图标",
+ "The older man gestures while talking, with floating icons of a tube fitting, a small valve and a blank pressure gauge beside him.",
+ "老周说，他们做了二十五年仪表管件。", "卡套接头和仪表阀门是仪表管路的基础元件"),
+("K1", "地球图标周围环绕着工厂图标",
+ "A globe icon surrounded by small factory icons connected with dotted lines. No people.",
+ "是一家面向全球的制造商。"),
+("K1", "气体从气瓶经细管和接头流向仪器的箭头示意",
+ "An arrow diagram showing fluid flowing from a cylinder through thin tubing and fittings to a measuring instrument. No people.",
+ "产品用于流体输送，也用于测试测量。"),
+("K1", "放大镜下精密加工的接头螺纹",
+ "A magnifying glass over a precisely machined tube fitting with fine threads. No people.",
+ "这些都是高精度的产品和解决方案。"),
+# K2
+("K2", "欣欣歪头提问，老周笑着张开双手",
+ "The panda mascot tilts its head asking a question while the older man smiles and opens both arms wide.",
+ "用在哪些行业？老周说几乎所有行业。", "这类元件应用很广"),
+("K2", "油井、化工厂、造纸厂三个图标",
+ "Three icons: an oil rig, a chemical plant and a paper mill. No people.",
+ "油气、化工、制浆造纸都有。", "", ["油气", "化工", "制浆造纸"]),
+("K2", "芯片和飞机两个图标",
+ "Two icons: a microchip and an airplane. No people.",
+ "还有半导体，甚至航空航天。", "", ["半导体", "航空航天"]),
+# K3
+("K3", "欣欣指着天上的红色星球，开玩笑地眨眼",
+ "The panda mascot points up at a red planet in the sky and winks playfully.",
+ "欣欣打趣：你们的零件上过火星吗？", "高要求领域有专门的质量体系认证要求"),
+("K3", "老周哈哈大笑，摆摆手",
+ "The older man laughs heartily and waves his hand.",
+ "老周笑着说：还没有。"),
+("K3", "火箭图标旁有两张盖章的空白证书",
+ "A rocket icon next to two blank certificates with round seal stamps. No people.",
+ "这要看航空质量体系和特殊工艺认证。", "", ["航空质量体系", "特殊工艺认证"]),
+# K4
+("K4", "欣欣问为什么选他们，老周竖起一根手指",
+ "The panda mascot asks a question and the older man raises one finger to make a point.",
+ "为什么选他们？老周讲了互换性。", "不同厂家接头能否互换"),
+("K4", "两个外形相同、颜色不同的接头并排，中间一个双向箭头",
+ "Two tube fittings of identical shape but different colors side by side with a two-way arrow between them. No people.",
+ "他说产品能和市场领先品牌互换。"),
+("K4", "一摞空白测试报告和一个盾牌图标",
+ "A stack of blank test reports with chart icons next to a shield icon with a check mark. No people.",
+ "依据大量第三方测试，互换后也保修。"),
+# K5
+("K5", "老周身旁浮现几张空白证书",
+ "The older man stands beside several floating blank certificates with seal stamps.",
+ "公司成立起就做第三方认证。", "选用经第三方认证的产品"),
+("K5", "压力容器图标和地球图标各配一张证书",
+ "A pressure vessel icon and a globe icon, each paired with a blank certificate. No people.",
+ "有ASME、ISO，还有航空类认证等。", "", ["ASME", "ISO", "航空类认证"]),
+# K6
+("K6", "生产线上接头逐个经过检测仪，旁边是控制图",
+ "A production line where tube fittings pass under an inspection camera one by one, with a statistical control chart beside it. No people.",
+ "各个工厂都做实时的质量监控。", "稳定的质量依赖实时质量控制"),
+("K6", "控制图上的点落在上下限之间，打绿勾",
+ "A control chart with data points staying between upper and lower limit lines, with a green check mark. No people.",
+ "靠统计过程控制，持续把好质量关。"),
+("K6", "齿轮和奖杯图标",
+ "A gear icon turning next to a trophy icon. No people.",
+ "用最高的效率，做最好的质量。"),
+# K7
+("K7", "欣欣问去哪里买，指向身后的货架",
+ "The panda mascot asks where to buy and points to the shelves of parts behind it.",
+ "去哪里买？欣欣说答案显而易见。", "管路元件要从正规渠道采购"),
+("K7", "老周点头，拍拍货架上的零件盒",
+ "The older man nods and pats a blue parts bin on the shelf.",
+ "老周说：就在我们合作的经销商这里。"),
+# 小结
+("小结", "欣欣身旁浮现接头、行业、证书图标",
+ "The panda mascot stands beside floating icons of a tube fitting, an airplane and a certificate.",
+ "高精度管件，用在各行各业。", "小结"),
+("小结", "互换箭头、证书、控制图三个图标",
+ "Three icons: a two-way arrow between fittings, a blank certificate and a control chart. No people.",
+ "可互换保修，第三方认证，实时质控。"),
+# 结尾
+("结尾", "欣欣和老周在货架前一起挥手道别",
+ "The panda mascot and the older man wave goodbye together in front of the warehouse shelves.",
+ "今天的设备小课堂就到这里，下次见！"),
+]
