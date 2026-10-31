@@ -1,0 +1,715 @@
+{
+ "id": "10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training",
+ "edition": "原著版",
+ "series": "Lab Safety Training - Essential Protocols",
+ "title": "从设计开始防电气危害",
+ "seconds": 250,
+ "source_doc": "course/Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training.md",
+ "author_source": "project/Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training/src.py",
+ "points": {
+  "K1": "好的电气设计护楼也护人",
+  "K2": "布局三原则",
+  "K3": "布局好，少短路、少过热",
+  "K4": "配电箱要够得着",
+  "K5": "接地：故障电流有去处",
+  "K6": "等电位联结",
+  "K7": "熔断器：超流就断",
+  "K8": "断路器：过载短路就跳",
+  "K9": "漏电保护：水池边必装",
+  "K10": "设备安装三步走",
+  "K11": "回路贴好标签",
+  "K12": "不间断电源：扛住短时停电",
+  "K13": "备用发电机：保关键系统",
+  "K14": "维修时上锁挂牌",
+  "K15": "上锁挂牌的步骤",
+  "K16": "电气防护装备",
+  "K17": "防电弧面罩",
+  "K18": "不导电护目镜",
+  "K19": "防电弧头罩",
+  "K20": "绝缘手套，按电压选",
+  "K21": "电绝缘皮鞋",
+  "K22": "防护用品勤检查、干燥放"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在新装修的实验室里，墙上有整齐的插座和配电箱",
+   "prompt_en": "The panda mascot stands in a newly built lab with neat wall outlets and a closed electrical panel, waving at the camera.",
+   "narration": "这一课讲：从设计开始防电气危害。",
+   "overlay": [
+    "从设计开始防电气危害"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "图纸、插座、断路器、挂锁、绝缘手套五个图标",
+   "prompt_en": "Five icons in a row: a blueprint, a wall outlet, a circuit breaker, a padlock and an insulating glove. No people.",
+   "narration": "布局、保护、安装、上锁、防护。",
+   "overlay": [],
+   "labels": [
+    "布局",
+    "保护",
+    "安装",
+    "上锁",
+    "防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周和老李在新实验室里看空白图纸",
+   "prompt_en": "The older man and the facility engineer look at a blank floor plan in an empty new lab.",
+   "narration": "老周的新实验室要装修，先找老李看图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "图纸上水池旁画着插座，老李指着",
+   "prompt_en": "On the blank floor plan, an outlet icon sits right next to a sink icon; the facility engineer points at it.",
+   "narration": "老李说：电气设计，得从头想清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "好的电气设计护楼也护人",
+   "scene": "实验楼图标和人形图标被同一面盾牌罩住",
+   "prompt_en": "A lab building icon and a person icon both covered by one large shield icon. No people.",
+   "narration": "结构合理的电气设计，护楼也护人。",
+   "overlay": [
+    "好的电气设计护楼也护人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "好的电气设计护楼也护人",
+   "scene": "老李用笔在图纸上标出电路走向",
+   "prompt_en": "The facility engineer draws circuit lines on a blank floor plan with a pencil.",
+   "narration": "设计时要兼顾安全和功能。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "布局三原则",
+   "scene": "配电箱里每个开关下都贴着空白标签",
+   "prompt_en": "An open electrical panel where every breaker has a blank label beneath it. No people.",
+   "narration": "一是标识清楚：回路和配电箱都标好。",
+   "overlay": [
+    "布局三原则"
+   ],
+   "labels": [
+    "标识清楚"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "布局三原则",
+   "scene": "负荷被均分到三个回路的示意图",
+   "prompt_en": "A diagram of several appliance icons evenly split across three circuit lines, each with a green check. No people.",
+   "narration": "二是负荷均衡，防止过热和故障。",
+   "overlay": [],
+   "labels": [
+    "避免过载"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "布局三原则",
+   "scene": "实验台上方一排插座，设备就近插电",
+   "prompt_en": "A row of outlets mounted above a lab bench; each instrument plugs in nearby with short cords. No people.",
+   "narration": "三是插座开关放得顺手，少拉线。",
+   "overlay": [],
+   "labels": [
+    "合理布置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "布局好，少短路、少过热",
+   "scene": "短路火花、发热、触电三个图标被打叉",
+   "prompt_en": "Three icons crossed out: a short-circuit spark, an overheating wire and an electric shock symbol. No people.",
+   "narration": "这样能减少短路、过热和意外触电。",
+   "overlay": [
+    "布局好，少短路、少过热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "配电箱要够得着",
+   "scene": "配电箱前通道宽敞，老李伸手打开箱门",
+   "prompt_en": "The facility engineer easily opens a wall electrical panel with a clear open space in front of it.",
+   "narration": "配电箱和控制装置，维修应急要够得着。",
+   "overlay": [
+    "配电箱要够得着"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接地：故障电流有去处",
+   "scene": "设备外壳的接地线连到接地符号",
+   "prompt_en": "A diagram of an instrument casing with a green-yellow wire running to a ground symbol. No people.",
+   "narration": "电气系统要正确接地。",
+   "overlay": [
+    "接地：故障电流有去处"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接地：故障电流有去处",
+   "scene": "故障电流沿接地线流走，人形图标安全打勾",
+   "prompt_en": "A diagram of fault current flowing down the ground wire instead of through a person icon, which has a green check. No people.",
+   "narration": "出故障时，电流有安全的入地通路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "等电位联结",
+   "scene": "几个金属设备外壳用线连成一体",
+   "prompt_en": "A diagram of several metal equipment frames connected together by bonding wires to one bar. No people.",
+   "narration": "等电位联结：所有金属部件电位一致。",
+   "overlay": [
+    "等电位联结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "熔断器：超流就断",
+   "scene": "熔断器图标，电流超过时熔丝断开",
+   "prompt_en": "A fuse icon whose thin wire melts and breaks when a current arrow grows too large. No people.",
+   "narration": "熔断器：电流超过安全值，就熔断。",
+   "overlay": [
+    "熔断器：超流就断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "断路器：过载短路就跳",
+   "scene": "断路器手柄自动跳下",
+   "prompt_en": "A circuit breaker icon whose handle flips down automatically, with overload and short-circuit icons beside it. No people.",
+   "narration": "断路器：过载或短路，自动断电。",
+   "overlay": [
+    "断路器：过载短路就跳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护：水池边必装",
+   "scene": "漏电保护器图标，检测到电流不平衡就断开",
+   "prompt_en": "A ground fault circuit interrupter icon with a balance scale tipping, then the switch opening. No people.",
+   "narration": "漏电保护器：电流不平衡，立即断电。",
+   "overlay": [
+    "漏电保护：水池边必装"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护：水池边必装",
+   "scene": "水池旁的插座带漏电保护",
+   "prompt_en": "A wall outlet with test and reset buttons installed beside a lab sink. No people.",
+   "narration": "水槽、水盆旁，必须用漏电保护插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "设备安装三步走",
+   "scene": "老李对照空白说明书安装仪器",
+   "prompt_en": "The facility engineer installs a lab instrument while reading a blank manufacturer manual.",
+   "narration": "正确安装设备，才是根本的防护。",
+   "overlay": [
+    "设备安装三步走"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "设备安装三步走",
+   "scene": "合格电工图标和插头对插座的匹配示意",
+   "prompt_en": "An icon of a qualified electrician with a blank certificate, and a plug matching a socket with a green check. No people.",
+   "narration": "看说明书，找合格人员，核对供电匹配。",
+   "overlay": [],
+   "labels": [
+    "看说明书",
+    "专业安装",
+    "供电匹配"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "回路贴好标签",
+   "scene": "配电箱开关标签与实验室插座编号对应",
+   "prompt_en": "Blank labels on breakers in a panel connected by dotted lines to matching blank tags on lab outlets. No people.",
+   "narration": "回路贴好标签，维修排查更高效。",
+   "overlay": [
+    "回路贴好标签"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "回路贴好标签",
+   "scene": "老李按标签拉下对应开关",
+   "prompt_en": "The facility engineer switches off the matching labeled breaker.",
+   "narration": "少碰带电线，维修时断对回路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "不间断电源：扛住短时停电",
+   "scene": "实验室灯灭，仪器旁的不间断电源指示灯亮",
+   "prompt_en": "Lab lights go out during a power cut while a small uninterruptible power supply box keeps an instrument screen on. No people.",
+   "narration": "突然停电，不间断电源马上供电。",
+   "overlay": [
+    "不间断电源：扛住短时停电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "不间断电源：扛住短时停电",
+   "scene": "精密仪器图标被盾牌保护",
+   "prompt_en": "A sensitive instrument icon protected by a shield with a battery symbol. No people.",
+   "narration": "保护精密仪器，不因短时停电受损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "备用发电机：保关键系统",
+   "scene": "楼外的备用发电机开始运转",
+   "prompt_en": "A backup generator unit outside a lab building starts running, with a power line to the building. No people.",
+   "narration": "长时间停电，靠备用发电机。",
+   "overlay": [
+    "备用发电机：保关键系统"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "备用发电机：保关键系统",
+   "scene": "冰箱、通风柜、报警器图标亮着",
+   "prompt_en": "Icons of a lab freezer, a fume hood and an alarm panel still glowing with power. No people.",
+   "narration": "保证关键系统持续运行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "维修时上锁挂牌",
+   "scene": "阿杰想打开仪器后盖，被小研拦住",
+   "prompt_en": "The young male student reaches to open the back panel of an instrument; the female graduate student stops him.",
+   "narration": "电气活不该由实验人员来干。",
+   "overlay": [
+    "维修时上锁挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "维修时上锁挂牌",
+   "scene": "老李在断开的开关上挂锁和空白警示牌",
+   "prompt_en": "The facility engineer attaches a red padlock and a blank danger tag to an isolator.",
+   "narration": "维修保养时上锁挂牌，防止意外启动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "上锁挂牌的步骤",
+   "scene": "老李告诉小研和阿杰要停机维修",
+   "prompt_en": "The facility engineer tells the female graduate student and the young male student that the machine will be serviced.",
+   "narration": "第一步，通知受影响的人员。",
+   "overlay": [
+    "上锁挂牌的步骤"
+   ],
+   "labels": [
+    "通知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "上锁挂牌的步骤",
+   "scene": "隔离开关上挂锁和挂牌",
+   "prompt_en": "A padlock and a blank tag attached to the isolating switch handle. No people.",
+   "narration": "第二步，用指定的锁或牌锁住隔离装置。",
+   "overlay": [],
+   "labels": [
+    "上锁挂牌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "上锁挂牌的步骤",
+   "scene": "拉下隔离开关、关闭阀门",
+   "prompt_en": "A hand pulls down an isolating switch and turns a valve closed. No people.",
+   "narration": "第三步，断开能源：开关、阀门、断路器。",
+   "overlay": [],
+   "labels": [
+    "断开能源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "上锁挂牌的步骤",
+   "scene": "按停止键停机",
+   "prompt_en": "A hand presses the stop button on an instrument. No people.",
+   "narration": "第四步，按正常程序停机。",
+   "overlay": [],
+   "labels": [
+    "正常停机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "上锁挂牌的步骤",
+   "scene": "老李用验电笔确认无电，打勾",
+   "prompt_en": "The facility engineer checks the instrument with a voltage tester and a green check appears.",
+   "narration": "第五步，确认设备已经和能源断开。",
+   "overlay": [],
+   "labels": [
+    "确认"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电气防护装备",
+   "scene": "触电、电弧、灼伤三个图标旁有盾牌",
+   "prompt_en": "Icons of an electric shock, an arc flash and a burn, each blocked by a shield. No people.",
+   "narration": "正确使用防护装备，大大降低伤害风险。",
+   "overlay": [
+    "电气防护装备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电气防护装备",
+   "scene": "面罩、眼镜、头罩、手套、鞋五个图标",
+   "prompt_en": "Five icons in a row: a face shield, safety glasses, a hood, insulating gloves and leather boots. No people.",
+   "narration": "面罩、护目镜、头罩、绝缘手套、绝缘鞋。",
+   "overlay": [],
+   "labels": [
+    "面罩",
+    "护目镜",
+    "头罩",
+    "绝缘手套",
+    "绝缘鞋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "防电弧面罩",
+   "scene": "老李戴上透明防电弧面罩",
+   "prompt_en": "The facility engineer puts on a clear arc-rated face shield attached to a hard hat.",
+   "narration": "面罩：防电弧、熔融金属和飞溅碎片。",
+   "overlay": [
+    "防电弧面罩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "防电弧面罩",
+   "scene": "面罩上贴着空白评级标签",
+   "prompt_en": "A face shield with a blank rating tag and a green check. No people.",
+   "narration": "雇主要选按行业标准评定防电弧的面罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "不导电护目镜",
+   "scene": "不导电护目镜特写",
+   "prompt_en": "Close-up of safety glasses with non-metal frames and clear lenses. No people.",
+   "narration": "不导电护目镜：防电气、飞屑和化学品溅。",
+   "overlay": [
+    "不导电护目镜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "不导电护目镜",
+   "scene": "护目镜挡住飞来的颗粒",
+   "prompt_en": "Safety glasses blocking flying particles with a green check. No people.",
+   "narration": "镜框镜片不导电，还要耐冲击。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "防电弧头罩",
+   "scene": "防电弧头罩挂在架子上",
+   "prompt_en": "An arc-rated protective hood hanging on a rack, covering head, neck and shoulders shape. No people.",
+   "narration": "防电弧头罩，护住头、颈和肩。",
+   "overlay": [
+    "防电弧头罩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "防电弧头罩",
+   "scene": "头罩评级刻度不低于暴露水平",
+   "prompt_en": "A gauge icon showing a hood rating bar at or above an exposure level line. No people.",
+   "narration": "防护等级不低于预期的暴露水平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "绝缘手套，按电压选",
+   "scene": "绝缘手套与电压等级图标",
+   "prompt_en": "A pair of rubber insulating gloves next to a lightning bolt icon with a blank rating tag. No people.",
+   "narration": "带电作业戴绝缘手套，护住手和手臂。",
+   "overlay": [
+    "绝缘手套，按电压选"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "绝缘手套，按电压选",
+   "scene": "手套等级与作业电压匹配打勾",
+   "prompt_en": "A glove rating tag matched to a voltage icon with a green check. No people.",
+   "narration": "额定电压要和作业电压相符。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "电绝缘皮鞋",
+   "scene": "老李穿上电绝缘皮鞋",
+   "prompt_en": "The facility engineer puts on electrical-hazard rated leather safety boots.",
+   "narration": "电绝缘皮鞋防触电，选经过认证的。",
+   "overlay": [
+    "电绝缘皮鞋"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "防护用品勤检查、干燥放",
+   "scene": "老李检查手套，对着光看有无裂口",
+   "prompt_en": "The facility engineer inspects a rubber insulating glove against the light for cracks.",
+   "narration": "定期检查有无裂纹、划痕和损坏。",
+   "overlay": [
+    "防护用品勤检查、干燥放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "防护用品勤检查、干燥放",
+   "scene": "防护用品整齐放在干燥柜里",
+   "prompt_en": "Insulating gloves, a face shield and boots stored neatly in a clean dry cabinet. No people.",
+   "narration": "不用时，清洁干燥存放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现标签、天平、插座图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a label, a balance scale and a wall outlet.",
+   "narration": "标识清楚、负荷均衡、布置合理。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接地、熔断器、断路器、漏电保护四个打勾图标",
+   "prompt_en": "Four icons with green checks: a ground symbol, a fuse, a circuit breaker and a ground fault interrupter. No people.",
+   "narration": "接地联结，层层保护，水边防漏电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "挂锁和绝缘手套图标",
+   "prompt_en": "Icons of a padlock with a tag and an insulating glove. No people.",
+   "narration": "维修上锁挂牌，作业穿戴防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整洁的配电箱旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye beside a closed, clearly labeled electrical panel.",
+   "narration": "用电有章法，实验才安心，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
