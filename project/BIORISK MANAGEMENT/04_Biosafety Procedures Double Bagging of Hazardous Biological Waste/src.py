@@ -1,0 +1,123 @@
+# 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste 卡通剧本作者源（原著版）
+# 完全照原片：只保留原片知识点 K1–K9，不本土化、不补充（只消毒容器表面；废物可高压灭菌、焚烧处置）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "生物废物双层装袋",
+    "edition": "原著版",
+    "points": {
+        "K1": "实验之前，先定废物计划",
+        "K2": "双层装袋",
+        "K3": "进柜之前，先套两只袋",
+        "K4": "内袋喷消毒剂",
+        "K5": "扎紧内袋",
+        "K6": "扎紧外袋",
+        "K7": "提出废物袋",
+        "K8": "容器表面消毒",
+        "K9": "灭菌后安全处置",
+    },
+    "avoid": ["UMS", "Universiti Malaysia Sabah", "Malaysia Sabah", "Rodrigues", "Kenneth", "MOOC"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在生物安全柜旁，手里拿着两只叠在一起的空白塑料袋",
+ "The panda mascot stands beside a biological safety cabinet holding two stacked blank plastic bags and waves at the camera.",
+ "今天学一招：生物废物双层装袋。", "生物废物双层装袋"),
+# 情景
+("情景", "阿杰在生物安全柜前做完培养，台面上有用过的吸头和培养皿",
+ "The young male student finishes work at a biological safety cabinet; used pipette tips and petri dishes lie on the work surface.",
+ "阿杰做完细菌培养，留下一堆废物。"),
+("情景", "阿杰拿起一只单层袋，犹豫",
+ "The young male student holds up a single thin blank plastic bag and hesitates.",
+ "他想：随手装一袋，扔掉不就行了？"),
+("情景", "小研摇头，举起两只袋子",
+ "The female graduate student shakes her head and holds up two blank bags, one inside the other.",
+ "小研说：要双层装，还得先有计划。"),
+# K1
+("K1", "老周和小研在桌前看空白计划表，表上画着废物桶图标",
+ "The older man and the female graduate student review a blank plan sheet with a waste bin icon on it.",
+ "做生物因子实验之前，", "实验之前，先定废物计划"),
+("K1", "计划表上三个图标：废物桶、喷壶、灭菌器",
+ "A blank plan sheet with three icons: a waste bin, a spray bottle and an autoclave. No people.",
+ "先想好废物怎么装、怎么处理。", "", ["怎么装", "怎么消毒", "去哪里"]),
+# K2
+("K2", "一只袋子套在另一只袋子里的示意图",
+ "A diagram of one plastic bag nested inside another plastic bag, with a biohazard symbol on the outer bag. No people.",
+ "双层装袋，是处置生物废物的好办法。", "双层装袋", ["内袋", "外袋"]),
+("K2", "内袋破了一个小口，外袋把它兜住",
+ "The inner bag shows a small tear while the intact outer bag still holds everything inside. No people.",
+ "内袋万一破了，还有外袋兜着。"),
+# K3
+("K3", "小研在柜外把两只袋套进空废物桶",
+ "Outside the cabinet, the female graduate student fits two blank bags, one inside the other, into an empty waste bin.",
+ "废物桶进柜之前，先套好两只袋。", "进柜之前，先套两只袋"),
+("K3", "套好袋的桶被放进生物安全柜台面后部",
+ "The female graduate student places the double-lined waste bin toward the back of the cabinet work surface.",
+ "柜里少折腾，污染就少。"),
+("K3", "阿杰把用过的吸头放进桶里",
+ "The young male student, wearing gloves and a lab gown, drops used pipette tips into the lined waste bin inside the cabinet.",
+ "实验中，废物直接放进内袋。"),
+# K4
+("K4", "小研拿喷壶向内袋口喷消毒剂",
+ "The female graduate student sprays disinfectant from a blank spray bottle into the open inner bag inside the cabinet.",
+ "收口前，向内袋喷消毒剂。", "内袋喷消毒剂"),
+("K4", "消毒剂喷雾落进内袋的特写",
+ "Close-up of a fine disinfectant mist falling onto the waste inside the open inner bag. No people.",
+ "让消毒剂覆盖袋里的废物。"),
+# K5
+("K5", "双手把内袋口收拢、拧成一股",
+ "Gloved hands gather the top of the inner bag and twist it into a neck inside the cabinet. No people.",
+ "把内袋口收拢，拧紧。", "扎紧内袋"),
+("K5", "胶带和扎带两个图标",
+ "Icons of a roll of adhesive tape and a zip tie. No people.",
+ "用胶带或扎带，牢牢扎住。", "", ["胶带", "扎带"]),
+("K5", "扎好的内袋口特写",
+ "Close-up of the inner bag neck tied tightly with a zip tie. No people.",
+ "扎紧了，里面的东西就出不来。"),
+# K6
+("K6", "双手把外袋提起、包住内袋",
+ "Gloved hands pull the outer bag up around the tied inner bag inside the cabinet. No people.",
+ "接着处理第二层外袋。", "扎紧外袋"),
+("K6", "外袋口拧紧并扎好",
+ "Gloved hands twist the outer bag top and secure it with adhesive tape. No people.",
+ "同样收拢、拧紧，用胶带或扎带扎好。"),
+("K6", "两个扎口上下叠在一起的示意",
+ "A diagram of two tied bag necks, the inner one inside the outer one. No people.",
+ "两道扎口，两道保险。"),
+# K7
+("K7", "小研把扎好的废物袋从桶里提出来",
+ "The female graduate student lifts the tied double bag out of the waste bin inside the cabinet.",
+ "扎好后，把废物袋从桶里提出。", "提出废物袋"),
+("K7", "袋面上的生物危害标志和高压灭菌器图标",
+ "A bag with a biohazard warning sign and a small autoclave icon printed on it. No people.",
+ "袋子要耐高压灭菌，有生物危害标志。"),
+# K8
+("K8", "小研向空桶外表面喷消毒剂",
+ "The female graduate student sprays disinfectant onto the outside of the empty waste bin inside the cabinet.",
+ "袋子取出后，给容器表面喷消毒剂。", "容器表面消毒"),
+("K8", "空桶表面湿润，旁边画着绿色对勾",
+ "The empty waste bin stands wet with disinfectant inside the cabinet, with a green check mark beside it. No people.",
+ "容器消毒好，下次还能再用。"),
+# K9
+("K9", "废物袋进入高压灭菌器的图标",
+ "A tied waste bag moving into an autoclave icon, with an arrow to a disposal truck icon. No people.",
+ "双层装好的废物，可以高压灭菌，", "灭菌后安全处置"),
+("K9", "箭头指向焚烧炉图标，再到对勾",
+ "An arrow from the autoclave icon to an incinerator icon and then to a green check mark. No people.",
+ "再焚烧，安全处置。"),
+# 小结
+("小结", "欣欣身旁浮现套袋、扎口、提袋、喷消毒剂四个图标",
+ "The panda mascot stands beside four icons: lining a bin with two bags, tying a bag, lifting a bag and spraying disinfectant.",
+ "先套两袋，内外分别扎紧。", "小结"),
+("小结", "桶表面消毒和高压灭菌器、焚烧炉图标",
+ "Icons of spraying a waste bin, an autoclave and an incinerator. No people.",
+ "容器消毒，废物灭菌、焚烧处置。"),
+("小结", "计划表和双层袋图标",
+ "Icons of a blank plan sheet and two nested bags. No people.",
+ "实验之前，先把废物计划定好。"),
+# 结尾
+("结尾", "欣欣举起扎好的废物袋，向镜头挥手",
+ "The panda mascot holds up a neatly tied double bag and waves goodbye at the camera.",
+ "装好每一袋，安全每一天，再见！"),
+]
