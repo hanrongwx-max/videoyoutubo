@@ -1,7 +1,7 @@
-# 脚手架安全十问
+# 脚手架安全十问（国内版）
 
 - 剧集：Laboratory Ergonomics & RSI；对应原视频：11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet（内容分析见 `course/Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet/`
 - 时长：6 分 0 秒（72 个镜头 × 5 秒）；熊猫出镜说话 13 镜，画外音 59 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
