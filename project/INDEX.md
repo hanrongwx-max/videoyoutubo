@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
-| BIORISK MANAGEMENT | 47 / 47 | 32 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 33 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
@@ -160,6 +160,7 @@
 | BIORISK MANAGEMENT | 21_BIORISK MANAGEMENT 3 | 国内版 | 管住转基因的风险（国内版） | 77 | 6:25 | 25 / 4 | [剧本](<BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/21_BIORISK MANAGEMENT 3（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 22_BIORISK MANAGEMENT 4 | 原著版 | 封闭温室怎么建 | 90 | 7:30 | 32 / 0 | [剧本](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4/script.md>) |
 | BIORISK MANAGEMENT | 22_BIORISK MANAGEMENT 4 | 国内版 | 封闭温室怎么建（国内版） | 100 | 8:20 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 原著版 | 植物为什么要关起来 | 65 | 5:25 | 21 / 0 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT/script.md>) |
 | BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 国内版 | 植物为什么要关起来（国内版） | 78 | 6:30 | 21 / 4 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY | 国内版 | AMP三步管风险（国内版） | 85 | 7:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 原著版 | 生物安全员是做什么的 | 123 | 10:15 | 40 / 0 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER/script.md>) |
