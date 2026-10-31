@@ -1,0 +1,365 @@
+{
+ "id": "17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe",
+ "edition": "原著版",
+ "series": "Electrical Safety Series",
+ "title": "离高压线远一点",
+ "seconds": 125,
+ "source_doc": "course/Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe.md",
+ "author_source": "project/Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe/src.py",
+ "points": {
+  "K1": "高压：100到230千伏",
+  "K2": "超高压：230到1000千伏",
+  "K3": "特高压：1000千伏以上",
+  "K4": "必须保持安全距离",
+  "K5": "五档安全距离",
+  "K6": "吊臂碰线最危险"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在工地空地上，远处是输电铁塔和架空线，向镜头招手",
+   "prompt_en": "The panda mascot stands on an open work site with transmission towers and overhead power lines in the distance and waves at the camera.",
+   "narration": "你好！今天聊聊头顶上的高压线。",
+   "overlay": [
+    "离高压线远一点"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "铁塔、闪电、距离箭头三个图标",
+   "prompt_en": "Three icons in a row: a transmission tower, a lightning bolt and a double-headed distance arrow. No people.",
+   "narration": "它有多危险，要离多远？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰扛着一根长长的铝合金杆走在工地边，上方有电线",
+   "prompt_en": "The young male student carries a long aluminum pole on his shoulder along the edge of a work site, with power lines overhead.",
+   "narration": "阿杰扛着长铝杆穿过工地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "杆子一头慢慢翘起，接近头顶电线",
+   "prompt_en": "The end of the long pole tilts upward and gets close to the overhead power line.",
+   "narration": "杆子一翘，离电线越来越近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研大喊着跑来，阿杰赶紧放平杆子",
+   "prompt_en": "The female graduate student shouts and runs over, and the young male student quickly lowers the pole flat.",
+   "narration": "小研一声喊，阿杰赶紧放平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣出现，指着上方的电线",
+   "prompt_en": "The panda mascot appears and points up at the overhead lines.",
+   "narration": "欣欣说：高压线，离远一点！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "高压：100到230千伏",
+   "scene": "欣欣站在三座不同高度的铁塔图标前",
+   "prompt_en": "The panda mascot stands in front of three transmission tower icons of increasing height.",
+   "narration": "高压输电线按电压分三级。",
+   "overlay": [
+    "高压：100到230千伏"
+   ],
+   "labels": [
+    "HV",
+    "EHV",
+    "UHV"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "高压：100到230千伏",
+   "scene": "较矮的铁塔图标亮起",
+   "prompt_en": "The shortest transmission tower icon lights up. No people.",
+   "narration": "高压线路，100到230千伏。",
+   "overlay": [],
+   "labels": [
+    "HV",
+    "100–230kV"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "超高压：230到1000千伏",
+   "scene": "中等高度的铁塔图标亮起，闪电变大",
+   "prompt_en": "The middle transmission tower icon lights up and its lightning bolt grows bigger. No people.",
+   "narration": "超高压线路，230到1000千伏。",
+   "overlay": [
+    "超高压：230到1000千伏"
+   ],
+   "labels": [
+    "EHV",
+    "230–1000"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "特高压：1000千伏以上",
+   "scene": "最高的铁塔图标亮起，闪电最大",
+   "prompt_en": "The tallest transmission tower icon lights up with the biggest lightning bolt. No people.",
+   "narration": "特高压线路，1000千伏以上。",
+   "overlay": [
+    "特高压：1000千伏以上"
+   ],
+   "labels": [
+    "UHV",
+    "＞1000kV"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "必须保持安全距离",
+   "scene": "架空线下画出一圈半透明的禁入区",
+   "prompt_en": "A translucent keep-out zone drawn around an overhead power line. No people.",
+   "narration": "架空线周围，有一圈不能进的范围。",
+   "overlay": [
+    "必须保持安全距离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "必须保持安全距离",
+   "scene": "人形图标停在禁入区边界外",
+   "prompt_en": "A person pictogram stops outside the boundary of the keep-out zone. No people.",
+   "narration": "人和工具，都要留在圈外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "五条线路图标，禁入区一圈比一圈大",
+   "prompt_en": "Five power line icons whose keep-out zones grow larger with each one. No people.",
+   "narration": "电压越高，要离得越远，共五档。",
+   "overlay": [
+    "五档安全距离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "第一、二条线路图标亮起，旁边距离箭头",
+   "prompt_en": "The first and second power line icons light up with distance arrows beside them. No people.",
+   "narration": "11千伏以下1.4米，11到33千伏3.6米。",
+   "overlay": [],
+   "labels": [
+    "≤11kV",
+    "1.40m",
+    "11–33kV",
+    "3.60m"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "第三条线路图标亮起",
+   "prompt_en": "The third power line icon lights up with a longer distance arrow. No people.",
+   "narration": "33到132千伏，4.7米。",
+   "overlay": [],
+   "labels": [
+    "33–132kV",
+    "4.70m"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "第四条线路图标亮起",
+   "prompt_en": "The fourth power line icon lights up with a long distance arrow. No people.",
+   "narration": "132到273千伏，5.7米。",
+   "overlay": [],
+   "labels": [
+    "132–273kV",
+    "5.70m"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "第五条线路图标亮起，距离箭头最长",
+   "prompt_en": "The fifth power line icon lights up with the longest distance arrow. No people.",
+   "narration": "273到400千伏，6.5米。",
+   "overlay": [],
+   "labels": [
+    "273–400kV",
+    "6.50m"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "五档安全距离",
+   "scene": "距离箭头旁出现米和英尺两种刻度",
+   "prompt_en": "The distance arrows show two scales side by side, meters and feet. No people.",
+   "narration": "折合约4.6到21.3英尺。",
+   "overlay": [],
+   "labels": [
+    "4.59ft",
+    "21.32ft"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "起重机吊臂伸向架空线的图标打红叉",
+   "prompt_en": "An icon of a crane boom reaching toward an overhead power line, crossed out with a red X. No people.",
+   "narration": "最常见的事故：吊臂碰到电线。",
+   "overlay": [
+    "吊臂碰线最危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "电流沿吊臂传到车身，地面出现一圈圈波纹",
+   "prompt_en": "Current runs down the crane boom into the vehicle body, and ripples spread on the ground around it. No people.",
+   "narration": "电会沿着机械传下来，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "周围站着的人形图标都被闪电波及",
+   "prompt_en": "Person pictograms standing around the crane are reached by lightning symbols. No people.",
+   "narration": "旁边站着的人也会受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在铁塔图标前",
+   "prompt_en": "The panda mascot stands in front of a transmission tower icon.",
+   "narration": "高压线分等级，电压越高越危险。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "禁入区和距离箭头图标",
+   "prompt_en": "A keep-out zone icon with a distance arrow around a power line. No people.",
+   "narration": "人、工具、机械，都要离得够远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "吊臂碰线图标打红叉",
+   "prompt_en": "An icon of a crane boom touching an overhead line, crossed out with a red X. No people.",
+   "narration": "吊臂别靠近，周围人也要远离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、小研和放平长杆的阿杰一起挥手",
+   "prompt_en": "The panda mascot waves goodbye with the female graduate student and the young male student, who holds the pole flat.",
+   "narration": "抬头看一眼，安全多一分，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
