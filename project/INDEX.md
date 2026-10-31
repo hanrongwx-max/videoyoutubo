@@ -16,10 +16,10 @@
 | ACS Hazard Communication & Safety | 10 / 10 | 2 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 4 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
-| Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
+| Health Physics & Nuclear Medicine | 9 / 9 | 1 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 1 / 9 |
 | RSO Training Series | 9 / 9 | 1 / 9 |
-| General Lab Safety Practices | 8 / 8 | 7 / 8 |
+| General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 5 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 6 / 7 |
@@ -229,7 +229,9 @@
 | General Lab Safety Practices | 06_Centrifugation Hazards | 国内版 | 离心机的危害与安全使用（国内版） | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 原著版 | 用紫外分光光度计测DNA浓度 | 52 | 4:20 | 9 / 0 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer/script.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 国内版 | 用紫外分光光度计测DNA浓度（国内版） | 75 | 6:15 | 9 / 7 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer（国内版）/script.md>) · [审查](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer（国内版）/审查报告.md>) |
+| General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 原著版 | 合成生物学建模与生物安全 | 92 | 7:40 | 18 / 0 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival/script.md>) |
 | General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 国内版 | 合成生物学建模与生物安全（国内版） | 124 | 10:20 | 18 / 7 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（国内版）/script.md>) · [审查](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（国内版）/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea | 原著版 | 辐射剂量入门：从空气电离到人体风险 | 115 | 9:35 | 23 / 0 | [剧本](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea/script.md>) |
 | Health Physics & Nuclear Medicine | 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea | 国内版 | 辐射剂量入门：从空气电离到人体风险（国内版） | 142 | 11:50 | 23 / 10 | [剧本](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do | 国内版 | 剂量限值与剂量测量：管住体外，也管住体内（国内版） | 149 | 12:25 | 25 / 10 | [剧本](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati | 国内版 | 辐射怎样伤人，屏蔽怎样护人（国内版） | 134 | 11:10 | 22 / 6 | [剧本](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/审查报告.md>) |
