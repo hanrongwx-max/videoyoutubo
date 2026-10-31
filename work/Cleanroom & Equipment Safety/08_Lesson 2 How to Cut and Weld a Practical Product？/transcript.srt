@@ -1,0 +1,651 @@
+1
+00:00:02,580 --> 00:00:07,700
+Today, I'll show you how to cut and weld a practical product.
+
+2
+00:00:07,700 --> 00:00:12,090
+This is a kitchen spice rack.
+
+3
+00:00:12,090 --> 00:00:16,130
+It can be secured on the wall by tightening screws or nails through the holes.
+
+4
+00:00:16,130 --> 00:00:19,370
+The spice rack is easy to install and remove.
+
+5
+00:00:19,370 --> 00:00:23,170
+Today, let's see how to make such a spice rack.
+
+6
+00:00:23,170 --> 00:00:26,930
+Before our creation, let's decide the material type and thickness.
+
+7
+00:00:26,930 --> 00:00:32,490
+As they determine the shielding gas, nozzles, gas pressure, and processing settings we apply.
+
+8
+00:00:32,490 --> 00:00:35,770
+Here we use 2 millimeter stainless steel as an example.
+
+9
+00:00:35,770 --> 00:00:44,350
+Then apply the corresponding nozzle, shielding gas and gas pressure as required.
+
+10
+00:00:44,350 --> 00:00:47,030
+First, let's prepare the devices.
+
+11
+00:00:47,030 --> 00:00:53,550
+This is X-Tool air compressor, this is X-Tool air dryer, and this one is X-Tool metal fab
+
+12
+00:00:53,550 --> 00:00:56,670
+laser welder used tubes to connect these devices.
+
+13
+00:00:56,670 --> 00:01:00,950
+Use a tube to connect the air compressor and the air dryer inlet port.
+
+14
+00:01:00,950 --> 00:01:05,790
+Look, this is the inlet port, and that is the outlet port.
+
+15
+00:01:05,790 --> 00:01:09,150
+Use another tube to connect the outlet port and the laser welder.
+
+16
+00:01:09,150 --> 00:01:11,350
+Now we've finished the device connection.
+
+17
+00:01:11,350 --> 00:01:17,670
+Next, power on the air dryer, then power on the air compressor.
+
+18
+00:01:17,670 --> 00:01:21,350
+Set the gas pressure to 1 megapascal.
+
+19
+00:01:21,350 --> 00:01:25,070
+Wait until the device generates gas.
+
+20
+00:01:25,070 --> 00:01:30,790
+During this process, install the welding head to our X-Tool metal fab CNC cutter.
+
+21
+00:01:30,790 --> 00:01:35,470
+There are 2 grooves on the welding head and 2 pins on the device.
+
+22
+00:01:35,470 --> 00:01:38,190
+Align them and install the welding head.
+
+23
+00:01:38,190 --> 00:01:44,270
+If the welding head is right after processing, wear heat resistant gloves before the installation.
+
+24
+00:01:44,270 --> 00:01:46,630
+Now the welding head is well secured.
+
+25
+00:01:46,630 --> 00:01:49,070
+Next, install the save gas nozzle.
+
+26
+00:01:49,070 --> 00:01:54,550
+Also, please wear heat resistant gloves if the welding head is right after processing.
+
+27
+00:01:54,550 --> 00:01:56,830
+Rotate to remove the ordinary nozzle.
+
+28
+00:01:56,830 --> 00:01:59,670
+Then rotate to install the save gas nozzle.
+
+29
+00:01:59,670 --> 00:02:02,680
+Make sure it is tightened.
+
+30
+00:02:02,680 --> 00:02:05,100
+This is 2 millimeter stainless steel.
+
+31
+00:02:05,100 --> 00:02:10,250
+Remember to remove its protective film on both sides.
+
+32
+00:02:10,250 --> 00:02:12,610
+Next, secure the material.
+
+33
+00:02:12,610 --> 00:02:14,290
+Rotate to loosen the knob.
+
+34
+00:02:14,290 --> 00:02:19,010
+Then insert the material into the slot and align it properly.
+
+35
+00:02:19,010 --> 00:02:23,870
+Insert the material into the left slot in the same way.
+
+36
+00:02:23,870 --> 00:02:30,080
+Lower the linkage levers and tighten the knobs on both sides.
+
+37
+00:02:30,080 --> 00:02:35,940
+Insert the USB cable to our CNC cutter and power it on.
+
+38
+00:02:35,940 --> 00:02:38,560
+Insert the other end to the computer.
+
+39
+00:02:38,560 --> 00:02:42,840
+Power on the laser welder.
+
+40
+00:02:42,840 --> 00:02:45,780
+Remove the safety instructions and tap the confirm button.
+
+41
+00:02:45,780 --> 00:02:49,860
+Wait until the touchscreen indicates that CNC cutter takes control.
+
+42
+00:02:49,860 --> 00:02:52,500
+Next, let's prepare the software.
+
+43
+00:02:52,500 --> 00:02:57,600
+Open X-Tool Studio and click new project.
+
+44
+00:02:57,600 --> 00:03:02,900
+Connect the device.
+
+45
+00:03:02,900 --> 00:03:07,080
+After connection, we can view the material via camera, which is convenient for pattern
+
+46
+00:03:07,080 --> 00:03:09,600
+positioning.
+
+47
+00:03:09,600 --> 00:03:12,600
+Import a design file for cutting.
+
+48
+00:03:12,600 --> 00:03:16,600
+Add a lead in if the material thickness is 2 millimeters or more.
+
+49
+00:03:16,620 --> 00:03:21,180
+The lead in ensures smooth and complete cutting of the contour and leaves the cutting defect
+
+50
+00:03:21,180 --> 00:03:22,700
+outside the contour.
+
+51
+00:03:22,700 --> 00:03:28,560
+The lead in length is usually 1 to 3 times the material thickness, about 3 to 10 millimeters.
+
+52
+00:03:28,560 --> 00:03:33,100
+The material thickness in this video is 2 millimeters and thus requires a lead in.
+
+53
+00:03:33,100 --> 00:03:37,860
+The following shows how to add a 4 millimeter lead in, twice the material thickness.
+
+54
+00:03:37,860 --> 00:03:40,980
+First, select all the objects and ungroup them.
+
+55
+00:03:40,980 --> 00:03:45,500
+Then, add different colors to contours based on the lead in type they require.
+
+56
+00:03:45,500 --> 00:03:49,680
+For contours that require external lead ins, set their colors to black.
+
+57
+00:03:49,680 --> 00:03:54,320
+To do this, press shift and select all the target contours.
+
+58
+00:03:54,320 --> 00:03:57,080
+Right click to change their colors to black.
+
+59
+00:03:57,080 --> 00:04:02,660
+Next, we are going to add external lead ins to the black contours and inner lead ins
+
+60
+00:04:02,660 --> 00:04:03,900
+to the red ones.
+
+61
+00:04:03,900 --> 00:04:08,560
+In general, solid patterns require external lead ins, like the parts in black in this
+
+62
+00:04:08,560 --> 00:04:15,080
+video, while hollow patterns require inner lead ins, like the parts in red in this video.
+
+63
+00:04:15,080 --> 00:04:20,610
+Select all the black patterns and add external lead ins.
+
+64
+00:04:20,610 --> 00:04:29,710
+Set the lead in length to 4 millimeters, twice the material thickness, zoom in and you can
+
+65
+00:04:29,710 --> 00:04:31,790
+see these lead ins.
+
+66
+00:04:31,790 --> 00:04:37,670
+Then, select all the red patterns and add inner lead ins.
+
+67
+00:04:37,670 --> 00:04:45,570
+Inner lead ins can be a bit shorter, for example, 3 millimeters.
+
+68
+00:04:45,570 --> 00:04:50,740
+Okay, now the inner lead ins are added.
+
+69
+00:04:50,740 --> 00:04:55,060
+For hollow patterns, their inner sections will be cut and discarded, ensure that the
+
+70
+00:04:55,060 --> 00:04:59,260
+lead ins are set inside to avoid damaging the desired parts.
+
+71
+00:04:59,260 --> 00:05:04,900
+After adding lead ins, place patterns in proper position.
+
+72
+00:05:04,900 --> 00:05:10,020
+Click mode and select cutting with fixture as the processing mode.
+
+73
+00:05:10,020 --> 00:05:13,680
+Click material and select the 2 millimeter stainless steel.
+
+74
+00:05:13,680 --> 00:05:18,940
+The settings are recommended based on the nozzle and the shielding gas we select.
+
+75
+00:05:18,940 --> 00:05:23,320
+Click nozzle and select save gas nozzle.
+
+76
+00:05:23,320 --> 00:05:27,920
+Select gas and select X-Tool air compressor.
+
+77
+00:05:27,920 --> 00:05:36,300
+For better cutting results, click cab librate the capacitive sensor.
+
+78
+00:05:36,300 --> 00:05:43,530
+Click a solid area on the canvas and wait until the calibration is done.
+
+79
+00:05:43,530 --> 00:05:46,190
+Then, preview the cutting position.
+
+80
+00:05:46,190 --> 00:05:53,860
+You can click the camera icon to capture a real-time image of the material, or click
+
+81
+00:05:53,860 --> 00:05:58,980
+the framing button as shown in the video, which provides a more accurate preview.
+
+82
+00:05:58,980 --> 00:06:04,660
+Observe the red spot and note that the cutting position must be at least 1.5 centimeters from
+
+83
+00:06:04,660 --> 00:06:06,460
+the edge.
+
+84
+00:06:06,460 --> 00:06:10,700
+Confirm the cutting position and click process.
+
+85
+00:06:10,700 --> 00:06:14,420
+Follow the instructions to adjust the cutting tip knob value.
+
+86
+00:06:14,420 --> 00:06:17,700
+Ensure that the knob is turned to the required scale value.
+
+87
+00:06:17,700 --> 00:06:22,260
+If the knob value is wrong, incomplete cutting or dross may occur.
+
+88
+00:06:22,260 --> 00:06:25,980
+Manually move the X-axis guide rail to the front.
+
+89
+00:06:25,980 --> 00:06:27,940
+Open the toggle latch.
+
+90
+00:06:27,940 --> 00:06:33,600
+Adjust the knob to the required value minus 4 in this video.
+
+91
+00:06:33,600 --> 00:06:38,300
+Then close the latch.
+
+92
+00:06:38,300 --> 00:06:40,860
+Click start.
+
+93
+00:06:40,860 --> 00:06:52,400
+Close the lid and press the button on the device.
+
+94
+00:06:52,400 --> 00:06:57,320
+Operate with heat-resistant gloves or after the cutting tip cools down, and use a hammer
+
+95
+00:06:57,320 --> 00:07:02,560
+to knock off the cut parts, because workpieces in irregular shapes may not fall off due to
+
+96
+00:07:02,560 --> 00:07:03,560
+friction.
+
+97
+00:07:03,560 --> 00:07:08,820
+Besides, doing so helps to avoid skin burns.
+
+98
+00:07:08,820 --> 00:07:16,950
+Loosen the fixtures to take out parts.
+
+99
+00:07:16,950 --> 00:07:29,510
+Pull out the base plate and fetch the rest of the parts.
+
+100
+00:07:29,510 --> 00:07:33,270
+Remove the cutting tip and replace with a welding tip.
+
+101
+00:07:33,270 --> 00:07:37,110
+Align the protrusion of the welding tip and the groove of the welding head.
+
+102
+00:07:37,110 --> 00:07:42,510
+On the touch screen, tap system setting and check the value of focus scale reference.
+
+103
+00:07:42,510 --> 00:07:45,350
+Check if the welding nozzle is of the same value.
+
+104
+00:07:45,350 --> 00:07:47,770
+If yes, no calibration is needed.
+
+105
+00:07:47,770 --> 00:07:50,510
+If not, adjust the graduated tube.
+
+106
+00:07:50,510 --> 00:07:51,510
+Open the fastener.
+
+107
+00:07:51,510 --> 00:07:56,190
+Push or pull the welding nozzle to adjust it to the reference value.
+
+108
+00:07:56,190 --> 00:08:14,450
+Pull the welding wire.
+
+109
+00:08:14,450 --> 00:08:18,730
+The welding wire should comes out from the groove of the welding nozzle.
+
+110
+00:08:18,730 --> 00:08:21,450
+The welding head is ready now.
+
+111
+00:08:21,450 --> 00:08:24,610
+Tap machine status on the touch screen to view the gas state.
+
+112
+00:08:24,610 --> 00:08:28,890
+To weld materials, use nitrogen or argon as the shielding gas.
+
+113
+00:08:28,890 --> 00:08:33,050
+Before replacing the gas, press the grip sensing button and trigger on the welding head for
+
+114
+00:08:33,050 --> 00:08:34,690
+gas depressurizing.
+
+115
+00:08:34,690 --> 00:08:39,850
+Keep depressurizing until gas pressure turns to zero kilopascals on the touch screen.
+
+116
+00:08:39,850 --> 00:08:44,450
+When replace the tube, push and hold the inlet collet and pull out the original tube.
+
+117
+00:08:44,450 --> 00:08:47,770
+Insert the nitrogen tube into the inlet.
+
+118
+00:08:47,770 --> 00:08:52,070
+A flow valve of 15 to 30 liters per minute is preferred for welding.
+
+119
+00:08:52,070 --> 00:08:57,930
+If not available, a pressure reducing valve with 0.1 to 0.2 megapascals works as an
+
+120
+00:08:57,930 --> 00:08:58,970
+alternative.
+
+121
+00:08:58,970 --> 00:09:02,250
+In this video, a pressure reducing valve is used.
+
+122
+00:09:02,250 --> 00:09:06,850
+This gauge displays the pressure inside the gas cylinder, while this one displays the
+
+123
+00:09:06,850 --> 00:09:08,570
+output gas pressure.
+
+124
+00:09:08,570 --> 00:09:13,210
+Next, adjust the output gas pressure of nitrogen.
+
+125
+00:09:13,210 --> 00:09:17,050
+Press the grip sensing button and trigger on the welding head while adjusting the valve
+
+126
+00:09:17,050 --> 00:09:23,290
+knob until gas pressure turns to 200 kilopascals or so on the touch screen.
+
+127
+00:09:23,290 --> 00:09:24,290
+Tap standard mode.
+
+128
+00:09:24,290 --> 00:09:27,850
+Then weld, select stainless steel for the material type.
+
+129
+00:09:27,850 --> 00:09:30,490
+Select two millimeters for the material thickness.
+
+130
+00:09:30,490 --> 00:09:33,290
+Select one millimeter for the wire diameter.
+
+131
+00:09:33,290 --> 00:09:37,050
+Tap enable wire feeding and enable lasering.
+
+132
+00:09:37,050 --> 00:09:39,890
+Confirm.
+
+133
+00:09:39,890 --> 00:09:44,350
+Remember to attach the workpiece sensing cable clamp to the conductive work table where you
+
+134
+00:09:44,350 --> 00:09:45,890
+place the workpieces.
+
+135
+00:09:45,890 --> 00:09:50,730
+By doing so, the current flows from the wire to the workpiece through the work table and
+
+136
+00:09:50,730 --> 00:09:54,290
+returns to the laser welder via the workpiece sensing cable.
+
+137
+00:09:54,290 --> 00:10:08,280
+No laser will be emitted if the closed loop breaks.
+
+138
+00:10:08,280 --> 00:10:11,460
+Before welding, turn on the wire feed, enable switch.
+
+139
+00:10:11,460 --> 00:10:13,640
+This is the feed button.
+
+140
+00:10:13,640 --> 00:10:15,800
+This one is the retract button.
+
+141
+00:10:15,800 --> 00:10:22,080
+Press the buttons to adjust the wire until its tip coincides with the red spot.
+
+142
+00:10:22,080 --> 00:10:24,400
+Now let's weld the materials.
+
+143
+00:10:24,400 --> 00:10:27,360
+Weld both ends of the materials.
+
+144
+00:10:27,360 --> 00:10:30,460
+Then weld along the welding seam.
+
+145
+00:10:30,460 --> 00:10:33,560
+Doing so ensures a straight welding line.
+
+146
+00:10:33,560 --> 00:10:37,760
+Position the welding head at a 45 degree angle towards the welding seam.
+
+147
+00:10:37,760 --> 00:10:40,700
+Press and hold the grip sensing button and trigger.
+
+148
+00:10:40,700 --> 00:10:45,360
+The emitted laser fixes the materials with the wire.
+
+149
+00:10:45,360 --> 00:10:47,840
+Keep welding non-stop from the beginning to the end.
+
+150
+00:10:47,840 --> 00:11:03,540
+A force will push you forward, just follow that force and pull steadily backward.
+
+151
+00:11:03,540 --> 00:11:26,770
+Since other parts are under less stress, connecting them only by welding the corners also works.
+
+152
+00:11:26,770 --> 00:11:30,930
+If the welding seam is blackened after welding, replace with the cleaning nozzle to clean
+
+153
+00:11:30,930 --> 00:11:31,930
+the seam.
+
+154
+00:11:31,930 --> 00:11:35,450
+Remove the welding nozzle and the wire feeding tube.
+
+155
+00:11:35,450 --> 00:11:40,360
+Align and install the cleaning nozzle.
+
+156
+00:11:40,360 --> 00:11:44,860
+Select the standard mode, choose clean, select the corresponding material, choose the
+
+157
+00:11:44,860 --> 00:11:48,900
+appropriate width, enable lasering and tap confirm.
+
+158
+00:11:48,900 --> 00:11:55,540
+Now let's clean the welding seam.
+
+159
+00:11:55,540 --> 00:11:57,640
+Easy peasy, right?
+
+160
+00:11:57,640 --> 00:12:00,300
+In general, the welding effect is very nice.
+
+161
+00:12:00,300 --> 00:12:05,740
+Compared with traditional welding, the laser welder works faster and produces a better appearance.
+
+162
+00:12:05,740 --> 00:12:21,170
+The following concludes today's processing steps.
+
+163
+00:12:21,170 --> 00:12:23,390
+Here are some tips for smooth cutting and welding.
