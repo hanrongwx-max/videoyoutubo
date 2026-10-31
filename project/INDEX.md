@@ -14,7 +14,7 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
-| Laser Maintenance Group Safety | 17 / 17 | 11 / 17 |
+| Laser Maintenance Group Safety | 17 / 17 | 12 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
@@ -722,6 +722,7 @@
 | Laser Maintenance Group Safety | 12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety | 国内版 | 激光设备的紧急停机（国内版） | 34 | 2:50 | 9 / 2 | [剧本](<Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 原著版 | 整洁有序也是安全 | 32 | 2:40 | 8 / 0 | [剧本](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase/script.md>) |
 | Laser Maintenance Group Safety | 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 国内版 | 整洁有序也是安全（国内版） | 39 | 3:15 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/审查报告.md>) |
+| Laser Maintenance Group Safety | 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 原著版 | 激光设备旁，选对灭火器 | 27 | 2:15 | 8 / 0 | [剧本](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova/script.md>) |
 | Laser Maintenance Group Safety | 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 国内版 | 激光设备旁，选对灭火器（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten | 国内版 | 看懂激光警示：标志、贴纸和链条（国内版） | 44 | 3:40 | 12 / 3 | [剧本](<Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L | 国内版 | 出光时，双手放在外面（国内版） | 37 | 3:05 | 8 / 3 | [剧本](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（国内版）/审查报告.md>) |
