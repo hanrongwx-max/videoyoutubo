@@ -1,0 +1,751 @@
+{
+ "id": "08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC",
+ "edition": "单一版",
+ "series": "Laboratory Ergonomics & RSI",
+ "title": "事故调查十问：查事实，改系统",
+ "seconds": 275,
+ "source_doc": "course/Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC.md",
+ "author_source": "project/Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC/src.py",
+ "points": {
+  "K1": "事故调查十题",
+  "K2": "查事实，不追过错",
+  "K3": "访谈：弄清发生了什么",
+  "K4": "报告失效：没提系统改进",
+  "K5": "哪些伤病要记录",
+  "K6": "短期纠正加长期改进",
+  "K7": "现场记录包括什么",
+  "K8": "安全了再开始调查",
+  "K9": "分析就是拆开来看",
+  "K10": "行为背后找系统原因",
+  "K11": "根本原因分析",
+  "S1": "事故处理四不放过",
+  "S2": "高校实验室事故报告程序",
+  "S3": "保护现场与证据",
+  "S4": "未遂事件与经验分享",
+  "S5": "工效类伤害也要报告调查"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣拿着放大镜和空白记录本，向镜头招手",
+   "prompt_en": "The panda mascot holds a magnifying glass and a blank notebook and waves at the camera.",
+   "narration": "今天当一回事故调查员！",
+   "overlay": [
+    "事故调查十问：查事实，改系统"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰连续移液好几个小时后，揉着发疼的手腕",
+   "prompt_en": "After hours of pipetting, the young male student rubs his aching wrist at the bench.",
+   "narration": "阿杰连续移液几小时，手腕疼得厉害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰手一抖，试剂瓶在台面上打翻",
+   "prompt_en": "The young male student's hand trembles and a small reagent bottle tips over on the bench, spilling liquid on the tray.",
+   "narration": "手一抖，又把一瓶试剂打翻了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周走来，阿杰低头准备挨批",
+   "prompt_en": "The older man walks over while the young male student lowers his head, expecting to be scolded.",
+   "narration": "阿杰以为要挨批，老周却说：先查原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "事故调查十题",
+   "scene": "十张空白题卡和放大镜图标",
+   "prompt_en": "Ten blank quiz cards with a magnifying glass icon. No people.",
+   "narration": "十道题，学会怎么调查。",
+   "overlay": [
+    "事故调查十题"
+   ],
+   "labels": [
+    "10道题"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "查事实，不追过错",
+   "scene": "天平上一边是事实图标，一边是指责的手指图标",
+   "prompt_en": "A balance scale with a fact sheet icon on one side and a blaming finger icon on the other. No people.",
+   "narration": "第一题：事故调查为了什么？",
+   "overlay": [
+    "查事实，不追过错"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "查事实，不追过错",
+   "scene": "事实图标一侧落下，打勾",
+   "prompt_en": "The fact sheet side goes down with a green check. No people.",
+   "narration": "为了查清事实，不是为了找人问责。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "查事实，不追过错",
+   "scene": "法槌和逃避检查图标打叉",
+   "prompt_en": "A gavel icon and an icon of hiding from an inspector, both crossed out. No people.",
+   "narration": "也不是为了定法律责任、躲避检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "访谈：弄清发生了什么",
+   "scene": "老周和阿杰面对面坐着谈话，桌上空白记录本",
+   "prompt_en": "The older man and the young male student sit facing each other calmly with a blank notebook on the table.",
+   "narration": "第二题：调查访谈为了什么？",
+   "overlay": [
+    "访谈：弄清发生了什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "访谈：弄清发生了什么",
+   "scene": "时间线图标：几个小时的移液、手腕疼、打翻",
+   "prompt_en": "A timeline with icons: a pipette with a clock, a wrist with a pain mark, and a tipped bottle. No people.",
+   "narration": "准确还原发生了什么。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "访谈：弄清发生了什么",
+   "scene": "阿杰放松地讲述，老周点头",
+   "prompt_en": "The young male student relaxes and explains while the older man nods and listens.",
+   "narration": "不追责，大家才敢说实话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告失效：没提系统改进",
+   "scene": "一份空白报告被放进抽屉积灰",
+   "prompt_en": "A blank report placed into a drawer and covered in dust. No people.",
+   "narration": "第三题：事故报告为啥常常没用？",
+   "overlay": [
+    "报告失效：没提系统改进"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告失效：没提系统改进",
+   "scene": "报告上只有“下次小心”的感叹号，没有改进箭头",
+   "prompt_en": "A blank report with only a small exclamation mark and no improvement arrow. No people.",
+   "narration": "只写下次注意，不提系统改进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告失效：没提系统改进",
+   "scene": "报告上画出改进箭头和工具、流程图标",
+   "prompt_en": "A blank report with an improvement arrow pointing to icons of tools and a process chart. No people.",
+   "narration": "要改设备、改流程，才不会再发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "哪些伤病要记录",
+   "scene": "三个图标：受限的手臂、日历被划掉、黑色花圈",
+   "prompt_en": "Three icons: an arm in a sling, a calendar with crossed-out days and a black ribbon. No people.",
+   "narration": "第四题：哪些伤病必须记录？",
+   "overlay": [
+    "哪些伤病要记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "哪些伤病要记录",
+   "scene": "三个图标一起打勾",
+   "prompt_en": "All three icons receive green check marks. No people.",
+   "narration": "活动受限、误工、死亡，都要记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "哪些伤病要记录",
+   "scene": "王老师指着空白登记表，提示图标",
+   "prompt_en": "The safety administrator points at a blank incident register with a reminder icon.",
+   "narration": "国内按事故报告规定和本校制度登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "短期纠正加长期改进",
+   "scene": "两个箭头：短箭头和长箭头",
+   "prompt_en": "Two arrows: a short arrow and a long arrow, side by side. No people.",
+   "narration": "第五题：好的建议包括哪两类？",
+   "overlay": [
+    "短期纠正加长期改进"
+   ],
+   "labels": [
+    "短期纠正",
+    "长期改进"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "短期纠正加长期改进",
+   "scene": "短期：清理洒漏、阿杰休息手腕",
+   "prompt_en": "The female graduate student cleans the spill tray while the young male student rests his wrist.",
+   "narration": "短期：马上清理，阿杰先休息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "短期纠正加长期改进",
+   "scene": "长期：换电动移液器、排班轮换",
+   "prompt_en": "A new electronic pipette on the bench and a blank rotation schedule on the wall. No people.",
+   "narration": "长期：换省力的移液器，轮换排班。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "现场记录包括什么",
+   "scene": "相机、眼睛、空白陈述纸、警戒带四个图标",
+   "prompt_en": "Four icons: a camera, an eye, a blank written statement and warning tape. No people.",
+   "narration": "第六题：哪项不属于现场记录？",
+   "overlay": [
+    "现场记录包括什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "现场记录包括什么",
+   "scene": "相机、眼睛、陈述纸打勾",
+   "prompt_en": "The camera, eye and statement icons get green checks. No people.",
+   "narration": "拍照录像、亲自观察、写初步陈述，都是记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "现场记录包括什么",
+   "scene": "警戒带单独拿出来，标为保护现场",
+   "prompt_en": "The warning tape icon is moved aside with a shield icon. No people.",
+   "narration": "拉警戒带是保护现场，不算记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "保护现场与证据",
+   "scene": "小研在打翻处拍照，旁边放着警示牌",
+   "prompt_en": "The female graduate student takes photos of the spill area next to a caution sign.",
+   "narration": "除了抢救需要，先别急着清理现场。",
+   "overlay": [
+    "保护现场与证据"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "保护现场与证据",
+   "scene": "小研把试剂瓶标签和移液器放在一起拍",
+   "prompt_en": "Close view of the reagent bottle with a blank label and the pipette placed together for a photo. No people.",
+   "narration": "拍下位置、标签、使用的器材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "保护现场与证据",
+   "scene": "清理时戴手套，废物装进专用容器",
+   "prompt_en": "The female graduate student wearing gloves cleans the spill and places waste into a labeled waste container.",
+   "narration": "记录完，再按规定清理和处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "安全了再开始调查",
+   "scene": "现场还有洒漏液体，一个人冲进去的图标打叉",
+   "prompt_en": "An icon of a person rushing into a spill area with fumes, crossed out with a red X. No people.",
+   "narration": "第七题：什么时候开始调查？",
+   "overlay": [
+    "安全了再开始调查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "安全了再开始调查",
+   "scene": "危险解除后，老周戴好防护进入",
+   "prompt_en": "After the hazard is controlled, the older man wearing goggles and gloves enters to investigate.",
+   "narration": "危险排除、确认安全，再开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "安全了再开始调查",
+   "scene": "秒表和规定时限图标被放在一边",
+   "prompt_en": "A stopwatch icon set aside with a small question mark. No people.",
+   "narration": "不是抢时间，也不是等别人要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "分析就是拆开来看",
+   "scene": "一个大方块被拆成几个小块",
+   "prompt_en": "A large block is separated into several smaller blocks with gaps between them. No people.",
+   "narration": "第八题：什么叫分析？",
+   "overlay": [
+    "分析就是拆开来看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "分析就是拆开来看",
+   "scene": "小块分别是人、设备、方法、环境图标",
+   "prompt_en": "The small blocks show icons of a person, a device, a method sheet and a room. No people.",
+   "narration": "把整件事拆成几部分，一块块研究。",
+   "overlay": [],
+   "labels": [
+    "人",
+    "设备",
+    "方法",
+    "环境"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "行为背后找系统原因",
+   "scene": "四个选项图标：危险状态、管理体系、不安全行为、常识",
+   "prompt_en": "Four option icons: a hazard triangle, a management system chart, a person doing something risky and a light bulb. No people.",
+   "narration": "第九题：多数事故，该先往哪儿想？",
+   "overlay": [
+    "行为背后找系统原因"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "行为背后找系统原因",
+   "scene": "不安全行为图标亮起",
+   "prompt_en": "The risky behavior icon lights up. No people.",
+   "narration": "原题答案是不安全行为。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "行为背后找系统原因",
+   "scene": "行为图标后面拉出一条线，连到培训、排班、设备图标",
+   "prompt_en": "A line from the behavior icon leads back to icons of training, a schedule and equipment. No people.",
+   "narration": "可行为背后，常有培训、排班、设备问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "行为背后找系统原因",
+   "scene": "阿杰手抖的背后：连续几小时、手动移液器",
+   "prompt_en": "Behind the young male student's trembling hand appear icons of a long clock and a manual pipette.",
+   "narration": "阿杰手抖，是因为连干几小时没休息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "根本原因分析",
+   "scene": "一棵树，地面上是叶子，地下是根",
+   "prompt_en": "A tree with leaves above ground and roots below ground. No people.",
+   "narration": "第十题：找系统缺陷，是哪一步？",
+   "overlay": [
+    "根本原因分析"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "根本原因分析",
+   "scene": "叶子标为表面原因，根部亮起",
+   "prompt_en": "The leaves fade as surface causes while the roots light up. No people.",
+   "narration": "根本原因分析，挖到根上。",
+   "overlay": [],
+   "labels": [
+    "表面原因",
+    "根本原因"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "根本原因分析",
+   "scene": "连问几个为什么的气泡，一层层往下",
+   "prompt_en": "A chain of question mark bubbles going down level by level to the roots. No people.",
+   "narration": "多问几个为什么，直到找到系统问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "工效类伤害也要报告调查",
+   "scene": "阿杰的手腕疼图标，旁边空白登记表",
+   "prompt_en": "A wrist pain icon next to a blank incident register. No people.",
+   "narration": "手腕劳损、腰背痛，也要报告。",
+   "overlay": [
+    "工效类伤害也要报告调查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "工效类伤害也要报告调查",
+   "scene": "王老师查看阿杰的工位：台面太高、椅子没调",
+   "prompt_en": "The safety administrator examines the young male student's workstation: the bench is too high and the chair is not adjusted.",
+   "narration": "调查工位、动作和工作时长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "工效类伤害也要报告调查",
+   "scene": "调好椅子高度，换电动移液器，定时休息图标",
+   "prompt_en": "The chair is adjusted, an electronic pipette is on the bench and a break timer icon floats nearby.",
+   "narration": "调工位、换工具、定时休息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "工效类伤害也要报告调查",
+   "scene": "接触职业病危害人员体检的图标",
+   "prompt_en": "An icon of a medical checkup with a stethoscope. No people.",
+   "narration": "症状持续，要及时就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "高校实验室事故报告程序",
+   "scene": "流程箭头：救人、报告负责人、学院、保卫处",
+   "prompt_en": "A flow of arrows with icons: a first aid cross, a lab head, a faculty building and a security badge. No people.",
+   "narration": "实验室出事，先救人，再逐级报告。",
+   "overlay": [
+    "高校实验室事故报告程序"
+   ],
+   "labels": [
+    "救人",
+    "负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "高校实验室事故报告程序",
+   "scene": "小研拨打电话，屏幕空白",
+   "prompt_en": "The female graduate student makes a phone call outside the lab.",
+   "narration": "需要时拨打120或119。",
+   "overlay": [],
+   "labels": [
+    "120",
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "高校实验室事故报告程序",
+   "scene": "王老师指着空白制度文件",
+   "prompt_en": "The safety administrator points to a blank rule document with a reminder icon.",
+   "narration": "报告时限和程序，以本校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故处理四不放过",
+   "scene": "欣欣举起四块空白牌子",
+   "prompt_en": "The panda mascot holds up four blank boards one after another.",
+   "narration": "国内处理事故讲究四不放过。",
+   "overlay": [
+    "事故处理四不放过"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故处理四不放过",
+   "scene": "四个图标：放大镜、人形、扳手、书本",
+   "prompt_en": "Four icons: a magnifying glass, a person, a wrench and a book. No people.",
+   "narration": "原因没查清、责任没处理、",
+   "overlay": [],
+   "labels": [
+    "原因",
+    "责任",
+    "整改",
+    "教育"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故处理四不放过",
+   "scene": "扳手和书本亮起",
+   "prompt_en": "The wrench and book icons light up. No people.",
+   "narration": "整改没落实、大家没受教育，都不放过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "未遂事件与经验分享",
+   "scene": "阿杰差点碰倒烧瓶，及时扶住",
+   "prompt_en": "The young male student nearly knocks over a flask and catches it just in time.",
+   "narration": "差点出事的未遂事件，也要报告。",
+   "overlay": [
+    "未遂事件与经验分享"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "未遂事件与经验分享",
+   "scene": "组会上老周把这次教训讲给大家",
+   "prompt_en": "At a group meeting, the older man shares the lesson with students around a table.",
+   "narration": "把教训讲给大家，别人就不再犯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣在白板前",
+   "prompt_en": "The panda mascot stands in front of a whiteboard with investigation icons.",
+   "narration": "十题答完，回顾一下。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "图标：事实、访谈、现场照片",
+   "prompt_en": "Icons: a fact sheet, two people talking and a camera. No people.",
+   "narration": "查事实不问罪，安全了再查，先记录现场。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "图标：树根、短箭头长箭头",
+   "prompt_en": "Icons: tree roots and a short arrow with a long arrow. No people.",
+   "narration": "挖根本原因，短期纠正加长期改进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰用电动移液器工作，手腕放松，竖起大拇指",
+   "prompt_en": "The young male student works with an electronic pipette, wrist relaxed, and gives a thumbs up.",
+   "narration": "阿杰说：改了工位，手腕不疼了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣合上记录本，挥手告别",
+   "prompt_en": "The panda mascot closes the notebook and waves goodbye.",
+   "narration": "查清原因，改好系统，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
