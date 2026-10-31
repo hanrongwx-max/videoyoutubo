@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 293 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 294 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -12,14 +12,14 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 3 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 4 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 3 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 7 / 10 |
+| Electrical Safety Series | 9 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 4 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
-| Electrical Safety Series | 8 / 25 | 6 / 6 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
@@ -214,6 +214,7 @@
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 原著版 | 用电安全知识问答 | 98 | 8:10 | 27 / 0 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu/script.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
+| Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 单一版 | 便携式发电机安全使用 | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 单一版 | 漏电保护器的灵敏度档位 | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
@@ -236,6 +237,7 @@
 | Fume Hood & Cabinet Protocols | 03_Gravity Filtration and Vacuum Filtration | 国内版 | 常压过滤与减压过滤（国内版） | 90 | 7:30 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 04_Liquid-Liquid Extraction | 原著版 | 液液萃取：用分液漏斗分开溶液 | 71 | 5:55 | 24 / 0 | [剧本](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction/script.md>) |
 | Fume Hood & Cabinet Protocols | 04_Liquid-Liquid Extraction | 国内版 | 液液萃取：用分液漏斗分开溶液（国内版） | 92 | 7:40 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 05_Simple Distillation | 原著版 | 简单蒸馏 | 80 | 6:40 | 21 / 0 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation/script.md>) |
 | Fume Hood & Cabinet Protocols | 05_Simple Distillation | 国内版 | 简单蒸馏（国内版） | 110 | 9:10 | 21 / 8 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 国内版 | 重结晶与熔点测定（国内版） | 104 | 8:40 | 28 / 8 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 国内版 | 移液器具与标准溶液（国内版） | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/审查报告.md>) |

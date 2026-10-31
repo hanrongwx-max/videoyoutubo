@@ -1,0 +1,710 @@
+{
+ "id": "07_APB - Culturing Carrots",
+ "edition": "原著版",
+ "series": "Animal & Plant Biotech Safety",
+ "title": "胡萝卜组织培养",
+ "seconds": 260,
+ "source_doc": "course/Animal & Plant Biotech Safety/07_APB - Culturing Carrots.md",
+ "author_source": "project/Animal & Plant Biotech Safety/07_APB - Culturing Carrots/src.py",
+ "points": {
+  "K1": "边看边记，随时回看",
+  "K2": "借鉴蕨类组培的经验",
+  "K3": "胡萝卜克隆的流程",
+  "K4": "直根、克隆与离体培养",
+  "K5": "愈伤组织与继代培养",
+  "K6": "分株与移栽",
+  "K7": "监测并记录培养条件",
+  "K8": "培养基里有什么",
+  "K9": "杂菌也爱这样的环境",
+  "K10": "整理笔记",
+  "K11": "设计导入基因的方案"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣抱着一根带叶子的胡萝卜，身旁是一排装着绿色小苗的培养瓶",
+   "prompt_en": "The panda mascot hugs a fresh carrot with green leaves, standing beside a row of culture jars with tiny green plantlets.",
+   "narration": "这一课讲胡萝卜的组织培养。",
+   "overlay": [
+    "胡萝卜组织培养"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "胡萝卜、培养皿、小苗、花盆四个图标用箭头连成一圈",
+   "prompt_en": "Four icons connected by arrows in a circle: a carrot, a petri dish, a small plantlet and a flower pot. No people.",
+   "narration": "一小片胡萝卜，怎样长成一棵新苗？",
+   "overlay": [],
+   "labels": [
+    "取材",
+    "愈伤",
+    "生根生芽",
+    "移栽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一根胡萝卜，站在实验台前发愣",
+   "prompt_en": "The young male student holds a fresh carrot at the lab bench and looks at it, puzzled.",
+   "narration": "阿杰拿着胡萝卜：它也能克隆？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿出一排培养瓶，里面是不同阶段的胡萝卜组织",
+   "prompt_en": "The female graduate student lines up culture jars showing carrot discs, callus and small plantlets.",
+   "narration": "小研摆出一排瓶子：从圆片到小苗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们一步步来看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "边看边记，随时回看",
+   "scene": "欣欣拿着空白笔记本，旁边是暂停、回放图标",
+   "prompt_en": "The panda mascot holds a blank notebook and a pen, next to pause and replay icons.",
+   "narration": "边看边记，没看懂就暂停回看。",
+   "overlay": [
+    "边看边记，随时回看"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "借鉴蕨类组培的经验",
+   "scene": "阿杰翻开笔记本，上面画着蕨叶图标",
+   "prompt_en": "The young male student opens his notebook to a page with a fern leaf sketch and blank lines.",
+   "narration": "之前做过蕨类组培，工具和流程还记得吗？",
+   "overlay": [
+    "借鉴蕨类组培的经验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "借鉴蕨类组培的经验",
+   "scene": "蕨叶图标和胡萝卜图标之间的等号箭头",
+   "prompt_en": "A fern leaf icon and a carrot icon linked by a double arrow, with a transfer chamber icon above them. No people.",
+   "narration": "胡萝卜组培，用的是同一套无菌方法。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "借鉴蕨类组培的经验",
+   "scene": "王老师在讲台前，身后是空白屏幕上的胡萝卜图标",
+   "prompt_en": "The safety administrator stands at the front of a classroom with a carrot pictogram on a blank screen.",
+   "narration": "这一课，补充胡萝卜培养的知识。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "胡萝卜在水龙头下冲洗",
+   "prompt_en": "A carrot with its leaves trimmed being rinsed under a tap. No people.",
+   "narration": "第一步，把胡萝卜的直根洗干净，",
+   "overlay": [
+    "胡萝卜克隆的流程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "胡萝卜被分成几段的示意图标",
+   "prompt_en": "An icon of a carrot divided into three or four short pieces. No people.",
+   "narration": "切成几段，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "一段胡萝卜上取出圆柱形芯的示意图",
+   "prompt_en": "A simple diagram of a cylindrical core taken from the center of a carrot piece. No people.",
+   "narration": "用打孔器在中间取出一根芯，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "无菌培养皿里一排薄圆片",
+   "prompt_en": "A row of thin carrot discs lying in an open sterile petri dish. No people.",
+   "narration": "在无菌培养皿里切成薄片，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "圆片放在淡黄色培养基上",
+   "prompt_en": "Carrot discs placed on pale yellow gel medium in a petri dish. No people.",
+   "narration": "放到诱导愈伤组织的培养基上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "胡萝卜克隆的流程",
+   "scene": "流程循环图：圆片、愈伤、小苗、花盆",
+   "prompt_en": "A circular flow diagram of icons: carrot discs, a lumpy callus, a plantlet with roots and shoots, and a potted carrot plant. No people.",
+   "narration": "愈伤、生根生芽，最后长成新植株。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "直根、克隆与离体培养",
+   "scene": "胡萝卜剖面，直根里有能量图标",
+   "prompt_en": "A cutaway icon of a carrot plant with its long orange taproot glowing with a small energy symbol. No people.",
+   "narration": "胡萝卜是直根，根里储存着能量，",
+   "overlay": [
+    "直根、克隆与离体培养"
+   ],
+   "labels": [
+    "直根"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "直根、克隆与离体培养",
+   "scene": "餐盘里切好的胡萝卜",
+   "prompt_en": "Sliced carrots on a dinner plate. No people.",
+   "narration": "也就是我们平常吃的部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "直根、克隆与离体培养",
+   "scene": "一棵母株旁边是几棵一模一样的小苗",
+   "prompt_en": "A parent carrot plant beside several identical small carrot plantlets. No people.",
+   "narration": "用它能培育出一模一样的克隆苗。",
+   "overlay": [],
+   "labels": [
+    "克隆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "直根、克隆与离体培养",
+   "scene": "试管里的小苗，旁边一只玻璃杯图标",
+   "prompt_en": "A small plantlet growing on gel inside a glass culture tube, next to a glass beaker icon. No people.",
+   "narration": "在试管、培养皿里培养，叫离体培养。",
+   "overlay": [],
+   "labels": [
+    "离体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "愈伤组织与继代培养",
+   "scene": "培养基上的圆片慢慢长出淡黄色的团块",
+   "prompt_en": "Carrot discs on gel medium slowly growing pale yellow lumpy callus. No people.",
+   "narration": "几周后，圆片上长出愈伤组织。",
+   "overlay": [
+    "愈伤组织与继代培养"
+   ],
+   "labels": [
+    "2–6周"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "愈伤组织与继代培养",
+   "scene": "镊子把愈伤组织转到新的培养皿",
+   "prompt_en": "Gloved hands with forceps transfer a piece of callus into a fresh petri dish of medium inside a transfer chamber.",
+   "narration": "再转到含生长素的新培养基上，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "愈伤组织与继代培养",
+   "scene": "愈伤组织上冒出白色细根和绿色小芽",
+   "prompt_en": "Callus sprouting tiny white roots and small green shoots on gel medium. No people.",
+   "narration": "又过几周，长出细小的根和芽。",
+   "overlay": [],
+   "labels": [
+    "6–8周"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "愈伤组织与继代培养",
+   "scene": "带根带芽的小苗图标",
+   "prompt_en": "An icon of a tiny plantlet with both roots and leaves. No people.",
+   "narration": "这时的新生长体，叫小植株。",
+   "overlay": [],
+   "labels": [
+    "小植株"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "分株与移栽",
+   "scene": "培养皿里一簇挤在一起的小苗",
+   "prompt_en": "A cluster of tiny plantlets crowded together in one petri dish. No people.",
+   "narration": "小苗挨得太近，会长成一簇。",
+   "overlay": [
+    "分株与移栽"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "分株与移栽",
+   "scene": "小研在转移室里用消毒过的镊子分开小苗",
+   "prompt_en": "The female graduate student in gloves gently separates plantlets with forceps inside a transfer chamber, a disinfectant cup nearby.",
+   "narration": "分株时仍要无菌，工具先消毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "分株与移栽",
+   "scene": "小苗旁边一把尺子",
+   "prompt_en": "A small plantlet standing beside a ruler. No people.",
+   "narration": "苗高2.5到5厘米时分株，移栽易活。",
+   "overlay": [],
+   "labels": [
+    "2.5–5厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "分株与移栽",
+   "scene": "小苗从培养瓶移到装无土基质的小盆",
+   "prompt_en": "Gloved hands move a hardened plantlet from a culture jar into a small pot of soil-less potting mix.",
+   "narration": "炼苗后，移到无土基质里，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "分株与移栽",
+   "scene": "几个小盆里的小苗，有的再分开",
+   "prompt_en": "Several small pots with growing carrot seedlings, one clump being divided again. No people.",
+   "narration": "长大了，需要时再分一次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "监测并记录培养条件",
+   "scene": "阿杰在生长室前拿着空白记录表",
+   "prompt_en": "The young male student stands in front of a growth chamber with lighted shelves, holding a blank record sheet.",
+   "narration": "培养期间，要定时查看生长室，",
+   "overlay": [
+    "监测并记录培养条件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "监测并记录培养条件",
+   "scene": "温度计、试纸、灯泡和时钟四个图标",
+   "prompt_en": "Four icons: a thermometer, a pH test strip, a light bulb and a clock. No people.",
+   "narration": "记下温度、酸碱度和光照这些生命体征。",
+   "overlay": [],
+   "labels": [
+    "温度",
+    "酸碱度",
+    "光照"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "监测并记录培养条件",
+   "scene": "温度计、试纸和半明半暗的时钟，旁边是数值",
+   "prompt_en": "A thermometer, a pH test strip and a clock face half bright and half dark. No people.",
+   "narration": "75到80华氏度，pH5.7，光16暗8。",
+   "overlay": [],
+   "labels": [
+    "75–80°F",
+    "pH 5.7",
+    "光照16小时",
+    "黑暗8小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "监测并记录培养条件",
+   "scene": "窗外阳光直射培养瓶被打叉，灯光照射打勾",
+   "prompt_en": "Two icons: sunlight through a window onto culture jars crossed out with a red X, and a lamp above culture jars with a green check. No people.",
+   "narration": "阳光直晒会杀死培养物，要用灯光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "一小块组织旁边是一大瓶培养基",
+   "prompt_en": "A tiny piece of plant tissue next to a large bottle of culture medium. No people.",
+   "narration": "组培只用一点点组织，",
+   "overlay": [
+    "培养基里有什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "培养基瓶里浮现几个成分图标",
+   "prompt_en": "A culture medium bottle with several ingredient icons floating out of it. No people.",
+   "narration": "生长所需的一切，都要靠培养基。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "方糖图标",
+   "prompt_en": "An icon of sugar cubes with a carbon atom symbol. No people.",
+   "narration": "蔗糖，提供碳源；",
+   "overlay": [],
+   "labels": [
+    "蔗糖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "维生素药片图标和健康小苗",
+   "prompt_en": "An icon of a vitamin capsule next to a healthy green plantlet. No people.",
+   "narration": "维生素，让小苗健康；",
+   "overlay": [],
+   "labels": [
+    "维生素"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "细胞一分为二并变大的图标",
+   "prompt_en": "An icon of a plant cell dividing into two and growing larger. No people.",
+   "narration": "生长素，促进细胞分裂和增大；",
+   "overlay": [],
+   "labels": [
+    "生长素"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养基里有什么",
+   "scene": "液体倒进培养皿后凝成胶状",
+   "prompt_en": "An icon of liquid poured into a petri dish turning into firm gel. No people.",
+   "narration": "琼脂，让培养基凝固。",
+   "overlay": [],
+   "labels": [
+    "琼脂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "杂菌也爱这样的环境",
+   "scene": "培养基上小苗旁冒出细菌和霉菌图标",
+   "prompt_en": "A petri dish where bacteria and mold icons appear next to a plantlet. No people.",
+   "narration": "细菌和真菌，也喜欢这样的环境。",
+   "overlay": [
+    "杂菌也爱这样的环境"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "杂菌也爱这样的环境",
+   "scene": "整洁的转移室，打勾",
+   "prompt_en": "A clean, tidy transfer chamber with a green check mark. No people.",
+   "narration": "所以培养全程，都要保持无菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "杂菌也爱这样的环境",
+   "scene": "欣欣站在整洁的实验台前点头",
+   "prompt_en": "The panda mascot nods in front of a tidy lab bench.",
+   "narration": "牢记：保持安全、无菌的工作区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "整理笔记",
+   "scene": "笔记本上三处高亮的空白条",
+   "prompt_en": "A blank notebook page with three highlighted blank lines. No people.",
+   "narration": "看完标出三个要点，",
+   "overlay": [
+    "整理笔记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "整理笔记",
+   "scene": "新旧两个笔记本用箭头相连",
+   "prompt_en": "Two notebook icons connected by arrows. No people.",
+   "narration": "想想和学过的知识有什么联系，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "整理笔记",
+   "scene": "阿杰举手提问",
+   "prompt_en": "The young male student raises his hand to ask the safety administrator a question.",
+   "narration": "有疑问就问老师，笔记要保管好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "设计导入基因的方案",
+   "scene": "DNA被剪刀剪开、复制、插入的三格图标",
+   "prompt_en": "Three simple icons in a row: a DNA strand cut by scissors, the strand copied, and a piece inserted into a longer strand. No people.",
+   "narration": "接下来的任务：写一份导入基因的方案，",
+   "overlay": [
+    "设计导入基因的方案"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "设计导入基因的方案",
+   "scene": "胡萝卜和麦穗、谷物图标",
+   "prompt_en": "Icons of a carrot, a wheat ear and a bowl of grain with an up arrow. No people.",
+   "narration": "理解基因工程怎样服务农业生产。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "设计导入基因的方案",
+   "scene": "王老师在讲台前讲解任务",
+   "prompt_en": "The safety administrator explains the assignment to the class in front of a blank screen.",
+   "narration": "具体要求，听老师安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现胡萝卜、愈伤和小苗图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a carrot, a callus and a plantlet.",
+   "narration": "取材、愈伤、生根生芽、移栽。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "温度计、灯泡、培养基瓶图标",
+   "prompt_en": "Icons of a thermometer, a lamp and a culture medium bottle. No people.",
+   "narration": "培养基配得对，条件记得全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "整洁的转移室图标",
+   "prompt_en": "Icon of a clean transfer chamber with a green check. No people.",
+   "narration": "全程无菌，防住杂菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "DNA剪刀和胡萝卜图标",
+   "prompt_en": "Icons of DNA scissors and a carrot. No people.",
+   "narration": "下一步，写导入基因的方案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在一排健康的胡萝卜小苗旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye beside a row of healthy carrot seedlings in small pots.",
+   "narration": "无菌育苗，克隆胡萝卜，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
