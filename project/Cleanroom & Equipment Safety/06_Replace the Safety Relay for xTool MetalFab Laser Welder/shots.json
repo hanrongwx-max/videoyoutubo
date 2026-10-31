@@ -1,0 +1,740 @@
+{
+ "id": "06_Replace the Safety Relay for xTool MetalFab Laser Welder",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊机安全继电器的更换",
+ "seconds": 270,
+ "source_doc": "course/Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "这一课：换安全继电器",
+  "K2": "开工前的警示",
+  "K3": "备好工具和备件",
+  "K4": "断开连接，静置放电",
+  "K5": "打开左侧，放倒面板",
+  "K6": "取出继电器组件",
+  "K7": "拆下旧继电器",
+  "K8": "新继电器按线号接线",
+  "K9": "装回导轨和机内",
+  "K10": "接回接触器和主板",
+  "K11": "装回面板",
+  "S1": "谁能修：专业人员，先报修",
+  "S2": "断电、验电、挂牌",
+  "S3": "安全回路不能乱改",
+  "S4": "修后先测安全功能",
+  "S5": "维修记录与验收",
+  "S6": "触电应急与报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台打开侧板的焊机主机旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a handheld laser welder unit with its side panel open and waves at the camera.",
+   "narration": "这一课：焊机里的安全继电器怎么换。",
+   "overlay": [
+    "激光焊机安全继电器的更换"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "黄色继电器图标连着急停按钮和锁形联锁图标",
+   "prompt_en": "A yellow relay module icon linked by lines to a red emergency stop button icon and a padlock interlock icon. No people.",
+   "narration": "它管着急停和联锁，是安全的关键。",
+   "overlay": [],
+   "labels": [
+    "急停",
+    "联锁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "焊机屏幕上报警灯亮，阿杰拿起螺丝刀想自己拆",
+   "prompt_en": "A warning light glows on the welder touchscreen; the young male student picks up a screwdriver, ready to open the machine himself.",
+   "narration": "焊机报安全回路故障，阿杰想自己拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拦住阿杰，指向墙上的报修电话",
+   "prompt_en": "The safety administrator stops the young male student and points to a blank repair request poster with a phone icon on the wall.",
+   "narration": "王老师拦住他：内部维修不能自己来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李提着工具箱走来，胸前挂着空白证件",
+   "prompt_en": "The facility engineer arrives carrying a toolbox, a blank certificate badge on his chest.",
+   "narration": "报修后，由专业的老李来处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们看看专业人员是怎么做的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：换安全继电器",
+   "scene": "主机内部示意，黄色继电器模块被圈出",
+   "prompt_en": "Cutaway diagram of the welder unit interior with the yellow safety relay module circled in green. No people.",
+   "narration": "要换的，是主机里的安全继电器。",
+   "overlay": [
+    "这一课：换安全继电器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开工前的警示",
+   "scene": "黄黑警示卡，上面是高压和激光两个图标",
+   "prompt_en": "A yellow and black hazard banner with a high voltage icon and a laser warning icon, no text. No people.",
+   "narration": "机内有高压和强激光。",
+   "overlay": [
+    "开工前的警示"
+   ],
+   "labels": [
+    "高压",
+    "强激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开工前的警示",
+   "scene": "非专业人员拆机的图标打叉",
+   "prompt_en": "Icon of an untrained person opening a machine with a screwdriver, crossed out with a red X. No people.",
+   "narration": "只限专业人员，严禁擅自拆机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开工前的警示",
+   "scene": "电源图标和钟表，提示残余高压",
+   "prompt_en": "Icon of a laser power supply box with a lightning bolt and a clock, showing waiting time. No people.",
+   "narration": "断电后电源里还可能有高压，要等。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开工前的警示",
+   "scene": "老李戴上绝缘手套",
+   "prompt_en": "The facility engineer pulls on thick insulated electrical gloves.",
+   "narration": "全程戴好绝缘手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "备好工具和备件",
+   "scene": "工具摆在台上：两把十字螺丝刀、一把一字螺丝刀、扎带、剪刀、新继电器",
+   "prompt_en": "On a bench: two Phillips screwdrivers of different sizes, a small flathead screwdriver, cable ties, scissors and a new yellow relay module in its box. No people.",
+   "narration": "备好螺丝刀、扎带、剪刀和新继电器。",
+   "overlay": [
+    "备好工具和备件"
+   ],
+   "labels": [
+    "十字刀",
+    "一字刀",
+    "扎带",
+    "剪刀",
+    "新继电器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断开连接，静置放电",
+   "scene": "主机背面所有线缆都已拔下",
+   "prompt_en": "The back of the welder unit with every cable and hose unplugged and coiled aside. No people.",
+   "narration": "先确认所有连接都已断开。",
+   "overlay": [
+    "断开连接，静置放电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断开连接，静置放电",
+   "scene": "脚踩下脚轮刹车",
+   "prompt_en": "Close view of a foot pressing down a caster brake on the welder unit.",
+   "narration": "锁住四个脚轮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断开连接，静置放电",
+   "scene": "主机旁一个钟表图标，指针转动",
+   "prompt_en": "The welder unit stands still beside a large clock icon whose hand sweeps around. No people.",
+   "narration": "静置一段时间，放电、冷却。",
+   "overlay": [],
+   "labels": [
+    "静置放电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "打开左侧，放倒面板",
+   "scene": "老李打开主机左侧板",
+   "prompt_en": "The facility engineer in insulated gloves opens the left side panel of the welder unit.",
+   "narration": "打开左侧板。",
+   "overlay": [
+    "打开左侧，放倒面板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "打开左侧，放倒面板",
+   "scene": "老李用十字螺丝刀拧下送丝机面板四周的螺丝",
+   "prompt_en": "The facility engineer removes the screws around the wire feeder panel with a Phillips screwdriver.",
+   "narration": "拧下送丝机面板的一圈螺丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "打开左侧，放倒面板",
+   "scene": "拆下黄绿接地线的螺丝",
+   "prompt_en": "Close view of a small screwdriver removing the screw of a green-yellow ground wire on the panel.",
+   "narration": "再拆下接地线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "打开左侧，放倒面板",
+   "scene": "送丝机面板放倒，露出机内电气部件",
+   "prompt_en": "The wire feeder panel is laid down, revealing contactors, a yellow relay module and circuit boards inside. No people besides gloved hands.",
+   "narration": "把面板放倒，露出内部。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "取出继电器组件",
+   "scene": "剪刀剪断两根扎带",
+   "prompt_en": "Close view of scissors in a gloved hand cutting two cable ties around a wire bundle.",
+   "narration": "剪断两根扎带。",
+   "overlay": [
+    "取出继电器组件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "取出继电器组件",
+   "scene": "拔下连到主板的线缆插头",
+   "prompt_en": "Close view of gloved fingers unplugging two cable connectors from a circuit board.",
+   "narration": "断开连到主板的线缆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "取出继电器组件",
+   "scene": "螺丝刀拆下接触器上方的四根线",
+   "prompt_en": "Close view of a screwdriver loosening four wires from the top of a contactor.",
+   "narration": "拆下接触器上方的几根线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "取出继电器组件",
+   "scene": "拆下固定组件的螺丝，整体取出",
+   "prompt_en": "The facility engineer removes the screws holding a mounting plate and lifts out the plate with contactors and the yellow relay.",
+   "narration": "拧下固定螺丝，取出整个组件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆下旧继电器",
+   "scene": "取下导轨上的卡扣，继电器滑出",
+   "prompt_en": "On a bench, gloved hands remove a small clip from a mounting rail and slide the yellow relay module off the rail.",
+   "narration": "取下卡扣，把继电器滑出导轨。",
+   "overlay": [
+    "拆下旧继电器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆下旧继电器",
+   "scene": "小一字螺丝刀逐根松开继电器端子上的线",
+   "prompt_en": "Close view of a small flathead screwdriver loosening each wire from the terminals of the yellow relay module.",
+   "narration": "用小一字刀，拆下全部导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "新继电器按线号接线",
+   "scene": "新继电器端子标记与线上标签对照",
+   "prompt_en": "Close view of a new yellow relay module with blank terminal markers and wire ends with blank tags, matched by dotted lines. No people.",
+   "narration": "新继电器接线，线号对准端子标记。",
+   "overlay": [
+    "新继电器按线号接线"
+   ],
+   "labels": [
+    "线号",
+    "端子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "新继电器按线号接线",
+   "scene": "老李逐根接线拧紧",
+   "prompt_en": "The facility engineer in insulated gloves inserts each wire into a terminal and tightens it with a small screwdriver.",
+   "narration": "一根一根接好、拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "新继电器按线号接线",
+   "scene": "手指轻拉每根线",
+   "prompt_en": "Close view of gloved fingers gently tugging each connected wire to check it is firm.",
+   "narration": "逐根轻拉，确认没有松动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装回导轨和机内",
+   "scene": "继电器滑入导轨，卡扣压紧后拧螺丝",
+   "prompt_en": "Gloved hands slide the relay back onto the rail, press the clip against it and tighten the clip screw.",
+   "narration": "滑回导轨，卡扣压紧固定。",
+   "overlay": [
+    "装回导轨和机内"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装回导轨和机内",
+   "scene": "组件放回机内，拧上固定螺丝",
+   "prompt_en": "The mounting plate with the contactors and relay is placed back inside the unit and fixed with screws.",
+   "narration": "组件放回机内，螺丝拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接回接触器和主板",
+   "scene": "接触器接线与参考图并排对照",
+   "prompt_en": "Split view: a blank reference wiring picture and the real contactor terminals, with matching dotted lines. No people.",
+   "narration": "接触器的线，线序要和参考图一致。",
+   "overlay": [
+    "接回接触器和主板"
+   ],
+   "labels": [
+    "对照参考图"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接回接触器和主板",
+   "scene": "线缆插回主板",
+   "prompt_en": "Close view of gloved fingers plugging two cable connectors back into the circuit board.",
+   "narration": "两根线缆插回主板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接回接触器和主板",
+   "scene": "用两根扎带把线束扎好",
+   "prompt_en": "Gloved hands bundle the wires neatly with two new cable ties and trim the ends.",
+   "narration": "用扎带把线束扎整齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装回面板",
+   "scene": "送丝电机线插回主控板",
+   "prompt_en": "Close view of a motor cable being plugged into the main control board.",
+   "narration": "送丝电机线插回主控板。",
+   "overlay": [
+    "装回面板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装回面板",
+   "scene": "接回接地线，装回送丝机面板",
+   "prompt_en": "The green-yellow ground wire is screwed back on and the wire feeder panel is lifted into place and fixed with screws.",
+   "narration": "接回接地线，装好面板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装回面板",
+   "scene": "合上左侧板",
+   "prompt_en": "The facility engineer closes the left side panel of the welder unit.",
+   "narration": "合上左侧板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "谁能修：专业人员，先报修",
+   "scene": "学生拆机的图标打叉，旁边报修单",
+   "prompt_en": "Icon of a student opening a machine crossed out with a red X, next to a blank repair request form. No people.",
+   "narration": "设备内部故障，学生不能自己拆。",
+   "overlay": [
+    "谁能修：专业人员，先报修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "谁能修：专业人员，先报修",
+   "scene": "王老师在空白报修单上签字，交给老李",
+   "prompt_en": "The safety administrator signs a blank repair request form and hands it to the facility engineer.",
+   "narration": "先报修，由厂家或持证人员维修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电、验电、挂牌",
+   "scene": "配电箱断路器拉下，上锁挂空白警示牌",
+   "prompt_en": "A circuit breaker for the welder is switched off, locked with a padlock and tagged with a blank warning tag. No people.",
+   "narration": "维修前断电、上锁、挂牌。",
+   "overlay": [
+    "断电、验电、挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电、验电、挂牌",
+   "scene": "老李用验电笔检查端子",
+   "prompt_en": "The facility engineer in insulated gloves checks the terminals inside the unit with a voltage tester.",
+   "narration": "动手前先验电，确认无电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电、验电、挂牌",
+   "scene": "主机上挂着维修中、禁止使用的空白牌",
+   "prompt_en": "A blank sign with a wrench icon and a no-entry icon hangs on the welder unit. No people.",
+   "narration": "挂维修牌，别人不能开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "安全回路不能乱改",
+   "scene": "短接线绕过继电器的图标打叉",
+   "prompt_en": "Icon of a wire jumper bypassing the yellow relay module, crossed out with a red X. No people.",
+   "narration": "安全回路绝不能短接。",
+   "overlay": [
+    "安全回路不能乱改"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "安全回路不能乱改",
+   "scene": "原厂备件盒打勾，杂牌件打叉",
+   "prompt_en": "Two icons: a sealed original spare part box with a green check, and an unknown loose part with a red X. No people.",
+   "narration": "用原厂备件，不能乱换型号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "修后先测安全功能",
+   "scene": "修好后按下急停，屏幕显示停止",
+   "prompt_en": "After repair, the facility engineer presses the emergency stop button and the touchscreen shows a stop icon.",
+   "narration": "修完先测急停是否有效。",
+   "overlay": [
+    "修后先测安全功能"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "修后先测安全功能",
+   "scene": "断开联锁，屏幕出光被禁止",
+   "prompt_en": "The interlock loop is opened and the touchscreen shows the laser enable blocked with a lock icon. No people besides a hand.",
+   "narration": "再测联锁：断开时不能出光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "修后先测安全功能",
+   "scene": "三项测试全部打勾",
+   "prompt_en": "A blank checklist with three items, an emergency stop icon, a lock icon and a laser icon, all ticked green. No people.",
+   "narration": "全部正常，才能恢复使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "维修记录与验收",
+   "scene": "老李在空白维修记录本上填写",
+   "prompt_en": "The facility engineer writes in a blank repair logbook next to the welder.",
+   "narration": "写清故障、更换部件和测试结果。",
+   "overlay": [
+    "维修记录与验收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "维修记录与验收",
+   "scene": "王老师验收后取下维修牌",
+   "prompt_en": "The safety administrator checks the logbook and removes the repair sign from the welder.",
+   "narration": "验收合格，再摘下维修牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电应急与报告",
+   "scene": "示意：有人触电，旁人先拉下电闸",
+   "prompt_en": "Diagram: a person collapses beside a machine; another person switches off the main breaker first instead of touching him. No people besides simple figures.",
+   "narration": "有人触电，先断电，别直接拉人。",
+   "overlay": [
+    "触电应急与报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电应急与报告",
+   "scene": "小研拨打电话，显示120，旁边报告图标",
+   "prompt_en": "The female graduate student makes a phone call showing 120; icons of a lab door, a college building and a security shield appear beside her.",
+   "narration": "拨打120，并逐级报告。",
+   "overlay": [],
+   "labels": [
+    "120",
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现报修单、锁、验电笔图标",
+   "prompt_en": "The panda mascot points to floating icons of a repair form, a padlock and a voltage tester.",
+   "narration": "先报修，断电验电，专业人员来修。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现线号、参考图、拉线图标",
+   "prompt_en": "The panda mascot points to icons of a wire tag, a reference picture and a hand tugging a wire.",
+   "narration": "线号对端子，线序对参考图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现急停、联锁、记录本图标",
+   "prompt_en": "The panda mascot points to icons of an emergency stop button, an interlock lock and a logbook.",
+   "narration": "修后测急停联锁，记录验收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和老李、王老师、阿杰在焊机旁挥手",
+   "prompt_en": "The panda mascot, the facility engineer, the safety administrator and the young male student wave goodbye beside the repaired welder.",
+   "narration": "安全器件靠专业，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
