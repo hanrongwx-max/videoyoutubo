@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 54 / 59 | 5 / 48 |
+| Microbiology Biosafety | 54 / 59 | 6 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 21 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 17 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 10 / 23 |
@@ -443,6 +443,7 @@
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 国内版 | 微生物实验室的生物安全措施（国内版） | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 国内版 | 微生物实验室的应急准备（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 28_Why are microbes transported bacteriology microbiology raqbamicrohub | 国内版 | 微生物为什么要运输，又该怎样运（国内版） | 64 | 5:20 | 19 / 3 | [剧本](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub（国内版）/script.md>) · [审查](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 原著版 | 实验室危害，伤的是谁 | 50 | 4:10 | 15 / 0 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/script.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 国内版 | 实验室危害，伤的是谁（国内版） | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz | 国内版 | 灭菌，也藏着危害（国内版） | 60 | 5:00 | 14 / 4 | [剧本](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（国内版）/script.md>) · [审查](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 国内版 | 微生物实验室的化学品安全（国内版） | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/script.md>) · [审查](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/审查报告.md>) |
