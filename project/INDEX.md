@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 339 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 340 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -17,11 +17,11 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
+| Basic Electrical Engineering Lab | 9 / 23 | 0 / 8 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
-| Basic Electrical Engineering Lab | 8 / 23 | 0 / 8 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
@@ -185,6 +185,7 @@
 | Basic Electrical Engineering Lab | 06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT | 国内版 | 双控与三地控制照明实验（国内版） | 61 | 5:05 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr | 国内版 | 交流电路的开路与短路（国内版） | 65 | 5:25 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical | 国内版 | 三相星形与三角形连接实验（国内版） | 72 | 6:00 | 24 / 6 | [剧本](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore | 单一版 | 电工实验：测灯具的功率与功率因数 | 62 | 5:10 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/script.md>) · [审查](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
