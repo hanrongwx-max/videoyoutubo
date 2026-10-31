@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 296 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 297 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 52 / 59 | 3 / 48 |
+| Microbiology Biosafety | 53 / 59 | 3 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 14 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 13 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
@@ -433,6 +433,7 @@
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 国内版 | 实验室生物安保：五种威胁怎么防（国内版） | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 国内版 | 生物风险管理，怎么检查好不好（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/script.md>) · [审查](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 单一版 | 危险物品怎么分类：九大类与象形图 | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/审查报告.md>) |
+| Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 单一版 | 危险物品伤人也伤环境 | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 单一版 | 生物统计：让微生物数据说真话 | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
