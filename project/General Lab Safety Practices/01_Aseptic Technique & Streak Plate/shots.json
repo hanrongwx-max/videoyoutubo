@@ -1,0 +1,1437 @@
+{
+ "id": "01_Aseptic Technique & Streak Plate",
+ "edition": "原著版",
+ "series": "General Lab Safety Practices",
+ "title": "无菌操作与平板划线",
+ "seconds": 530,
+ "source_doc": "course/General Lab Safety Practices/01_Aseptic Technique & Streak Plate.md",
+ "author_source": "project/General Lab Safety Practices/01_Aseptic Technique & Streak Plate/src.py",
+ "points": {
+  "K1": "什么是无菌操作",
+  "K2": "先消毒台面",
+  "K3": "本生灯的作用",
+  "K4": "点燃本生灯的顺序",
+  "K5": "不用时调成黄色火焰",
+  "K6": "什么是平板划线法",
+  "K7": "标记平板写什么",
+  "K8": "标记写在哪里",
+  "K9": "划线的目的：稀释出单菌落",
+  "K10": "第四区的两种划法",
+  "K11": "接种环灼烧灭菌",
+  "K12": "冷却与检验",
+  "K13": "挑取单菌落",
+  "K14": "第一区：轻轻来回划",
+  "K15": "每区之间都要灼烧",
+  "K16": "第二区：转盘相交",
+  "K17": "皿盖尽快盖回",
+  "K18": "第三区和第四区",
+  "K19": "竖线加蛇形线",
+  "K20": "用完灼烧，放稳冷却",
+  "K21": "对光检查划线",
+  "K22": "倒置培养",
+  "K23": "肉汤培养物：摇匀与标记",
+  "K24": "环杆也要灭菌",
+  "K25": "无菌取肉汤",
+  "K26": "只在第一区接种",
+  "K27": "肉汤平板逐区划线",
+  "K28": "捆好送去培养",
+  "K29": "正确关闭本生灯",
+  "K30": "结束后再消毒台面",
+  "K31": "离开前洗手"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在微生物实验台旁，台上有本生灯、培养皿和接种环",
+   "prompt_en": "The panda mascot stands beside a lab bench with an unlit Bunsen burner, a stack of empty petri dishes and a wire inoculating loop, and waves at the camera.",
+   "narration": "这一课讲无菌操作和平板划线。",
+   "overlay": [
+    "无菌操作与平板划线"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "无菌操作、平板划线、安全收尾三个图标排成一行",
+   "prompt_en": "Three icons in a row: a shield over a lab bench, a petri dish with streak lines, and a hand under a running tap. No people.",
+   "narration": "从准备、划线，到培养和收尾。",
+   "overlay": [],
+   "labels": [
+    "无菌操作",
+    "平板划线",
+    "安全收尾"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰举着一块长满各色斑点的平板发愁",
+   "prompt_en": "The young male student frowns while holding up a petri dish covered with many spots of different colors and sizes.",
+   "narration": "阿杰的平板长满了杂菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "一块平板上菌苔连成一片、看不出单个菌落",
+   "prompt_en": "Close view of a petri dish with one thick continuous smear of growth and no separate dots. No people.",
+   "narration": "也找不到一个单独的菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在凌乱的台面上操作、皿盖敞着的图标被打叉",
+   "prompt_en": "A floating icon of a messy bench with an open petri dish lid lying aside, crossed out with a red X. No people.",
+   "narration": "他台面没消毒，皿盖还一直敞着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研走过来，指着本生灯和接种环",
+   "prompt_en": "The female graduate student walks over and points to a Bunsen burner and a wire inoculating loop on a clean bench.",
+   "narration": "小研说：无菌和划线，每步都有讲究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods encouragingly.",
+   "narration": "我们跟着小研，一步一步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是无菌操作",
+   "scene": "欣欣举起一块干净透明的培养皿",
+   "prompt_en": "The panda mascot holds up a clean, clear petri dish with smooth pale agar inside.",
+   "narration": "无菌操作，就是营造并保持无菌环境。",
+   "overlay": [
+    "什么是无菌操作"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是无菌操作",
+   "scene": "空气中漂浮的小点被一个盾牌挡在平板外",
+   "prompt_en": "Tiny floating dots in the air are blocked by a shield icon above an open petri dish. No people.",
+   "narration": "防止空气、台面和手上的杂菌混进来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是无菌操作",
+   "scene": "平板上只有一种整齐的菌落，旁边绿勾",
+   "prompt_en": "A petri dish with neat round colonies all of the same color, next to a green check mark. No people.",
+   "narration": "确保转接过去的，只有目标菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先消毒台面",
+   "scene": "小研拿起空白标签的喷壶，向台面喷洒",
+   "prompt_en": "The female graduate student picks up a spray bottle with a blank label and sprays the bench surface.",
+   "narration": "动手前，先给台面喷消毒剂。",
+   "overlay": [
+    "先消毒台面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先消毒台面",
+   "scene": "台面上的灰尘和小点被喷雾覆盖后消失",
+   "prompt_en": "Dust and tiny dots on a bench surface fade away under a fine mist of spray. No people.",
+   "narration": "消毒剂能去除灰尘和台面上的杂菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先消毒台面",
+   "scene": "小研用纸巾把台面擦干，丢进垃圾桶",
+   "prompt_en": "The female graduate student wipes the bench dry with a paper towel and drops it into an ordinary trash can.",
+   "narration": "用纸巾擦干，丢进垃圾桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "本生灯的作用",
+   "scene": "本生灯火焰上方有一圈淡淡的保护区",
+   "prompt_en": "A Bunsen burner flame with a faint glowing dome around the air above it. No people.",
+   "narration": "本生灯是营造无菌区的关键。",
+   "overlay": [
+    "本生灯的作用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "本生灯的作用",
+   "scene": "空气中的小点在火焰上方被热气流推开",
+   "prompt_en": "Small floating dots drift away from the area above the flame, carried off by rising warm air arrows. No people.",
+   "narration": "火焰让周围空气形成一片无菌区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "本生灯的作用",
+   "scene": "小研擦完台面后走向本生灯",
+   "prompt_en": "The female graduate student puts away the paper towel and reaches toward the Bunsen burner.",
+   "narration": "台面擦好后，尽快点燃本生灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "点燃本生灯的顺序",
+   "scene": "小研划着一根火柴",
+   "prompt_en": "The female graduate student strikes a match beside an unlit Bunsen burner.",
+   "narration": "先划着火柴。",
+   "overlay": [
+    "点燃本生灯的顺序"
+   ],
+   "labels": [
+    "①划火柴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "点燃本生灯的顺序",
+   "scene": "本生灯进气孔转到关闭位置的特写",
+   "prompt_en": "Close-up of the air hole collar on a Bunsen burner being turned to the closed position. No people.",
+   "narration": "确认灯管的进气孔是关着的。",
+   "overlay": [],
+   "labels": [
+    "②关进气孔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "点燃本生灯的顺序",
+   "scene": "小研打开燃气阀，火柴靠近灯口点燃",
+   "prompt_en": "The female graduate student turns on the gas tap and brings the lit match to the top of the burner; a tall yellow flame appears.",
+   "narration": "再开燃气阀，听到出气声就点火。",
+   "overlay": [],
+   "labels": [
+    "③开燃气阀",
+    "④点火"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "点燃本生灯的顺序",
+   "scene": "用过的火柴丢进装废移液管的桶",
+   "prompt_en": "A used match is dropped into a tall bench bin holding used plastic pipettes. No people.",
+   "narration": "用过的火柴，丢进移液管废弃桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不用时调成黄色火焰",
+   "scene": "高大的橙黄色火焰在灯口晃动",
+   "prompt_en": "A tall, wavy orange-yellow flame on a Bunsen burner. No people.",
+   "narration": "暂时不用火，就调成黄色火焰。",
+   "overlay": [
+    "不用时调成黄色火焰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不用时调成黄色火焰",
+   "scene": "近乎透明的蓝色火焰与醒目的黄色火焰对比",
+   "prompt_en": "Side by side: a nearly invisible pale blue flame with a question mark and a bright yellow flame with an eye icon. No people.",
+   "narration": "黄色火焰看得清，不容易忘记它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不用时调成黄色火焰",
+   "scene": "手臂穿过火焰的图标被打叉",
+   "prompt_en": "An icon of an arm reaching across a flame, crossed out with a red X. No people.",
+   "narration": "免得手或手臂无意中穿过火焰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "什么是平板划线法",
+   "scene": "小研指着两块空白标签的培养皿",
+   "prompt_en": "The female graduate student points at two petri dishes with pale agar, one with colonies and one empty.",
+   "narration": "平板划线法，用来转接和分离菌。",
+   "overlay": [
+    "什么是平板划线法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "什么是平板划线法",
+   "scene": "固体平板和肉汤瓶都用箭头指向一块新平板",
+   "prompt_en": "A petri dish with colonies and a small screw-cap bottle of cloudy broth, both with arrows pointing to a fresh petri dish. No people.",
+   "narration": "从固体或肉汤，转到新的固体培养基上。",
+   "overlay": [],
+   "labels": [
+    "固体培养物",
+    "肉汤培养物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "什么是平板划线法",
+   "scene": "空白标签的营养琼脂平板和杆状菌图标",
+   "prompt_en": "A fresh petri dish of pale agar next to a simple rod-shaped bacterium icon. No people.",
+   "narration": "本例：营养琼脂平板，大肠杆菌。",
+   "overlay": [],
+   "labels": [
+    "营养琼脂",
+    "大肠杆菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "标记平板写什么",
+   "scene": "小研拿起记号笔和倒扣的平板",
+   "prompt_en": "The female graduate student picks up a marker pen and a petri dish turned upside down.",
+   "narration": "划线前，先给平板做标记。",
+   "overlay": [
+    "标记平板写什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "标记平板写什么",
+   "scene": "平板边缘依次亮起四段空白标记",
+   "prompt_en": "An upside-down petri dish with four short blank marks lighting up one after another around its edge. No people.",
+   "narration": "写培养基缩写和本人姓名缩写。",
+   "overlay": [],
+   "labels": [
+    "培养基 NA",
+    "姓名缩写"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "标记平板写什么",
+   "scene": "平板边缘后两段标记亮起",
+   "prompt_en": "The last two blank marks around the edge of the dish light up. No people.",
+   "narration": "再写菌名或练习编号，还有日期。",
+   "overlay": [],
+   "labels": [
+    "菌名/编号",
+    "日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标记写在哪里",
+   "scene": "皿盖被拿走、只剩皿底上的标记依然清楚",
+   "prompt_en": "A petri dish lid floats away while the marks on the base stay in place, with a green check. No people.",
+   "narration": "标记写在皿底，皿盖丢了也认得出。",
+   "overlay": [
+    "标记写在哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标记写在哪里",
+   "scene": "标记写在平板正中的图标被打叉，沿边环写的打勾",
+   "prompt_en": "Two icons: marks written across the middle of a dish crossed out with a red X, and marks written around the rim with a green check. No people.",
+   "narration": "沿边缘环写，不挡住长出的菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "划线的目的：稀释出单菌落",
+   "scene": "空白示意图上圆内分四个区",
+   "prompt_en": "A blank sheet with a large circle divided into four streaking zones with arrows, numbered by small dots. No people.",
+   "narration": "划线要分四个区，一区接一区。",
+   "overlay": [
+    "划线的目的：稀释出单菌落"
+   ],
+   "labels": [
+    "一区",
+    "二区",
+    "三区",
+    "四区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "划线的目的：稀释出单菌落",
+   "scene": "四个区里的小点从密到稀",
+   "prompt_en": "Inside the circle, dots are dense in the first zone and get sparser zone by zone. No people.",
+   "narration": "目的是一路稀释，越划越少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "划线的目的：稀释出单菌落",
+   "scene": "单个点长大成一个圆形菌落",
+   "prompt_en": "A single dot grows into one round colony. No people.",
+   "narration": "一个活细胞，通常长成一个菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "划线的目的：稀释出单菌落",
+   "scene": "第四区出现分散的单个菌落",
+   "prompt_en": "The fourth zone shows separate round colonies spaced apart. No people.",
+   "narration": "到第四区，就能得到单个菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第四区的两种划法",
+   "scene": "第四区画成不与第三区相交的平行线",
+   "prompt_en": "In the circle diagram, the fourth zone is drawn as parallel lines that do not touch the third zone. No people.",
+   "narration": "第四区可划平行线，不碰第三区。",
+   "overlay": [
+    "第四区的两种划法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第四区的两种划法",
+   "scene": "第四区画成一条竖线加向中心的蛇形线",
+   "prompt_en": "In the circle diagram, the fourth zone is drawn as one straight line followed by a zigzag into the center. No people.",
+   "narration": "也可划一条竖线，再蛇形划向中央。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第四区的两种划法",
+   "scene": "两种画法都打上绿勾",
+   "prompt_en": "Both diagram versions shown side by side, each with a green check mark. No people.",
+   "narration": "这两种方法都可以。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "接种环灼烧灭菌",
+   "scene": "本生灯火焰从黄色变成蓝色，内焰顶点清楚",
+   "prompt_en": "A Bunsen burner flame turns from yellow to blue, with the tip of the inner cone clearly visible. No people.",
+   "narration": "转接前，把火焰调成蓝色。",
+   "overlay": [
+    "接种环灼烧灭菌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "接种环灼烧灭菌",
+   "scene": "接种环示意：一根金属丝，末端一个小圈",
+   "prompt_en": "A simple icon of an inoculating loop: a handle, a long metal wire and a small ring at the tip. No people.",
+   "narration": "接种环是末端带小圈的金属丝。",
+   "overlay": [],
+   "labels": [
+    "环",
+    "环杆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "接种环灼烧灭菌",
+   "scene": "小研把接种环放进蓝色火焰，金属丝发红",
+   "prompt_en": "The female graduate student holds the wire loop in the blue flame and the wire glows red-orange.",
+   "narration": "放进蓝色火焰，烧到发红。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "接种环灼烧灭菌",
+   "scene": "金属丝从环到杆整根发红",
+   "prompt_en": "Close-up of the whole wire, from the ring to the shaft, glowing red. No people.",
+   "narration": "环和环杆整根都要烧到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "冷却与检验",
+   "scene": "小研把接种环停在火焰旁边几秒",
+   "prompt_en": "The female graduate student holds the loop still just beside the flame, not in it.",
+   "narration": "烧完在火焰旁停几秒，让它冷却。",
+   "overlay": [
+    "冷却与检验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "冷却与检验",
+   "scene": "环轻触琼脂表面空白处",
+   "prompt_en": "Close-up of the loop tip gently touching a clear spot on the agar surface. No people.",
+   "narration": "把环轻触琼脂表面检验一下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "冷却与检验",
+   "scene": "热环碰到琼脂冒烟发出声响的图标被打叉",
+   "prompt_en": "An icon of a hot glowing loop touching agar with steam puffs, crossed out with a red X. No people.",
+   "narration": "没有嗞嗞声，说明已经凉了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "冷却与检验",
+   "scene": "细菌图标碰到发红的环后消失",
+   "prompt_en": "A bacterium icon touches a red-hot ring and fades away. No people.",
+   "narration": "环太热，会把要转接的菌烫死。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "挑取单菌落",
+   "scene": "小研打开源平板一侧皿盖，用环挑起一个菌落",
+   "prompt_en": "The female graduate student lifts the lid of a source petri dish slightly and picks up one round colony with the loop.",
+   "narration": "从原平板上挑取一个单菌落。",
+   "overlay": [
+    "挑取单菌落"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "挑取单菌落",
+   "scene": "倒扣的新平板翻成正面朝上",
+   "prompt_en": "A labeled petri dish lying upside down is turned right side up. No people.",
+   "narration": "标记时平板倒扣，划线前要翻正。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "挑取单菌落",
+   "scene": "皿底用笔轻画四区示意线",
+   "prompt_en": "Faint guide lines in four zones drawn on the underside of a petri dish. No people.",
+   "narration": "不熟练时，可在皿底先画好划线位置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第一区：轻轻来回划",
+   "scene": "小研一手斜举皿盖，一手在琼脂边缘来回划",
+   "prompt_en": "The female graduate student holds the dish lid tilted above the dish with one hand and moves the loop back and forth near the edge of the agar.",
+   "narration": "第一区：带菌的环在琼脂上来回划。",
+   "overlay": [
+    "第一区：轻轻来回划"
+   ],
+   "labels": [
+    "第一区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第一区：轻轻来回划",
+   "scene": "琼脂像果冻一样，一道裂口的图标被打叉",
+   "prompt_en": "An icon of agar like soft jelly with a torn gash in it, crossed out with a red X. No people.",
+   "narration": "动作要轻，琼脂像果冻，容易划破。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "每区之间都要灼烧",
+   "scene": "小研盖好皿盖，把环再放进火焰",
+   "prompt_en": "The female graduate student closes the lid and puts the loop back into the flame until it glows.",
+   "narration": "划完一区，重新灼烧接种环。",
+   "overlay": [
+    "每区之间都要灼烧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "每区之间都要灼烧",
+   "scene": "环上的小点被火焰清空",
+   "prompt_en": "Many tiny dots on a loop disappear in a flame, leaving a clean ring. No people.",
+   "narration": "烧掉环上多余的菌，这就是稀释。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第二区：转盘相交",
+   "scene": "手把平板转动一个角度",
+   "prompt_en": "A hand rotates a closed petri dish on the bench by a quarter turn, shown with a curved arrow. No people.",
+   "narration": "转动平板，准备划第二区。",
+   "overlay": [
+    "第二区：转盘相交"
+   ],
+   "labels": [
+    "第二区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第二区：转盘相交",
+   "scene": "第二区的线条穿过第一区",
+   "prompt_en": "Diagram: new lines of the second zone start inside the first zone and cross out of it. No people.",
+   "narration": "第二区要和第一区相交。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第二区：转盘相交",
+   "scene": "环划一道、抬起、再划一道",
+   "prompt_en": "Close-up of the loop drawing one line on the agar, lifting off, and drawing the next line. No people.",
+   "narration": "每划一道就抬起，再划下一道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "皿盖尽快盖回",
+   "scene": "皿盖迅速盖回平板",
+   "prompt_en": "A hand quickly lowers the lid back onto the petri dish. No people.",
+   "narration": "每区划完，马上盖回皿盖。",
+   "overlay": [
+    "皿盖尽快盖回"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "皿盖尽快盖回",
+   "scene": "敞开的平板上方落下小点、旁边计时钟的图标被打叉",
+   "prompt_en": "An icon of an open petri dish with dots falling in and a clock ticking beside it, crossed out with a red X. No people.",
+   "narration": "平板敞着越久，越容易落进杂菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第三区和第四区",
+   "scene": "小研让环冷却后轻触琼脂检验",
+   "prompt_en": "The female graduate student lets the loop cool and touches it lightly to a clear spot on the agar.",
+   "narration": "环冷却后，先触琼脂检验。",
+   "overlay": [
+    "第三区和第四区"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第三区和第四区",
+   "scene": "第三区线条穿过第二区",
+   "prompt_en": "Diagram: lines of the third zone cross the second zone after the dish is turned. No people.",
+   "narration": "转动平板，与第二区相交划第三区。",
+   "overlay": [],
+   "labels": [
+    "第三区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第三区和第四区",
+   "scene": "盖盖、灼烧、转盘的三个小图标循环",
+   "prompt_en": "Three small icons in a loop with arrows: closing a lid, a loop in a flame, and a rotating dish. No people.",
+   "narration": "盖盖、灼烧、冷却，再转动平板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第三区和第四区",
+   "scene": "第四区线条穿过第三区",
+   "prompt_en": "Diagram: lines of the fourth zone cross the third zone. No people.",
+   "narration": "与第三区相交，划出第四区。",
+   "overlay": [],
+   "labels": [
+    "第四区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "竖线加蛇形线",
+   "scene": "接种环翻转过来",
+   "prompt_en": "Close-up of a hand turning the loop over so the other side of the ring faces down. No people.",
+   "narration": "第四区划完，把环翻过来。",
+   "overlay": [
+    "竖线加蛇形线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "竖线加蛇形线",
+   "scene": "一条竖线穿过线条，再蛇形划向平板中央",
+   "prompt_en": "Diagram: one straight line through the earlier lines, then a zigzag running toward the center of the dish. No people.",
+   "narration": "划一条竖线，再蛇形划向中央。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "竖线加蛇形线",
+   "scene": "中央出现分散的单个菌落",
+   "prompt_en": "The center of the dish shows separate round colonies spaced apart. No people.",
+   "narration": "这样能得到分得很开的单菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "用完灼烧，放稳冷却",
+   "scene": "小研最后一次灼烧接种环",
+   "prompt_en": "The female graduate student holds the loop in the blue flame one more time until it glows.",
+   "narration": "操作结束，再把接种环烧一遍。",
+   "overlay": [
+    "用完灼烧，放稳冷却"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "用完灼烧，放稳冷却",
+   "scene": "接种环靠在本生灯底座旁冷却",
+   "prompt_en": "The loop rests safely at the base of the Bunsen burner, pointing away from the edge of the bench. No people.",
+   "narration": "放在本生灯底座处冷却。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "对光检查划线",
+   "scene": "小研把平板举到灯光前",
+   "prompt_en": "The female graduate student holds the finished petri dish up against a light, looking at it closely.",
+   "narration": "对着光，能看到划线的痕迹。",
+   "overlay": [
+    "对光检查划线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "对光检查划线",
+   "scene": "平板上浅浅的划痕组成四区图案",
+   "prompt_en": "Close-up of faint streak marks on the agar forming a four-zone pattern. No people.",
+   "narration": "看到划痕，说明环碰到了琼脂表面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "倒置培养",
+   "scene": "小研把平板倒扣过来",
+   "prompt_en": "The female graduate student turns the finished petri dish upside down on the bench.",
+   "narration": "培养时，平板要倒过来放。",
+   "overlay": [
+    "倒置培养"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "倒置培养",
+   "scene": "正放平板皿盖上的水珠滴到琼脂上的图标被打叉",
+   "prompt_en": "An icon of an upright dish with water droplets forming on the lid and dripping onto the agar, crossed out with a red X. No people.",
+   "narration": "免得皿盖上的冷凝水滴下来污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "倒置培养",
+   "scene": "霉菌图标旁一个问号和一本空白课本",
+   "prompt_en": "A fuzzy mould icon next to a question mark and a blank course manual. No people.",
+   "narration": "某些真菌可以不倒置，以课堂要求为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "肉汤培养物：摇匀与标记",
+   "scene": "小研轻轻旋摇装浑浊肉汤的螺口瓶",
+   "prompt_en": "The female graduate student gently swirls a small screw-cap glass bottle of cloudy broth.",
+   "narration": "接下来从肉汤取菌，先轻轻摇匀。",
+   "overlay": [
+    "肉汤培养物：摇匀与标记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "肉汤培养物：摇匀与标记",
+   "scene": "瓶中的小点从沉在底部变成均匀分布",
+   "prompt_en": "Inside a bottle, dots settled at the bottom spread evenly through the liquid. No people.",
+   "narration": "让菌体均匀悬浮在肉汤里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "肉汤培养物：摇匀与标记",
+   "scene": "新的倒扣平板边缘写标记",
+   "prompt_en": "A new petri dish lying upside down gets blank marks around its rim. No people.",
+   "narration": "新平板同样标记，再翻正。",
+   "overlay": [],
+   "labels": [
+    "菌名加B",
+    "表示肉汤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "环杆也要灭菌",
+   "scene": "环杆大部分伸进瓶中的示意",
+   "prompt_en": "Diagram of a loop reaching deep into a bottle, with most of its shaft inside. No people.",
+   "narration": "取肉汤时，环杆大半要伸进瓶里。",
+   "overlay": [
+    "环杆也要灭菌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "环杆也要灭菌",
+   "scene": "小研从环杆到环整根灼烧",
+   "prompt_en": "The female graduate student passes the whole wire, from shaft to ring, through the flame until it glows.",
+   "narration": "所以环杆也必须烧到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "无菌取肉汤",
+   "scene": "小研用小指弯处松开瓶盖",
+   "prompt_en": "The female graduate student holds the loop in one hand and loosens the bottle cap using the crook of her little finger.",
+   "narration": "用小指弯处松开瓶盖，拿在手里。",
+   "overlay": [
+    "无菌取肉汤"
+   ],
+   "labels": [
+    "①松盖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "无菌取肉汤",
+   "scene": "瓶口在火焰中快速转一圈",
+   "prompt_en": "The neck of the open glass bottle passes briefly through the flame. No people.",
+   "narration": "瓶口在火焰上过一下。",
+   "overlay": [],
+   "labels": [
+    "②瓶口过火"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "无菌取肉汤",
+   "scene": "接种环伸进瓶中旋动",
+   "prompt_en": "The loop goes into the bottle and swirls gently in the cloudy broth. No people.",
+   "narration": "伸入无菌接种环，轻轻旋动取液。",
+   "overlay": [],
+   "labels": [
+    "③取液"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "无菌取肉汤",
+   "scene": "瓶口再过火，盖回瓶盖",
+   "prompt_en": "The bottle neck passes through the flame again and the cap is screwed back on. No people.",
+   "narration": "瓶口再过火，盖回瓶盖。",
+   "overlay": [],
+   "labels": [
+    "④再过火",
+    "⑤盖盖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "无菌取肉汤",
+   "scene": "环中挂着一层像气泡的液膜",
+   "prompt_en": "Close-up of the loop holding a thin film of liquid like a soap bubble. No people.",
+   "narration": "环里有一层液膜，说明取到了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "只在第一区接种",
+   "scene": "小研从标记处开始划第一区",
+   "prompt_en": "The female graduate student starts the first zone of streaks near the marked edge of the new dish.",
+   "narration": "从标记处开始，划第一区。",
+   "overlay": [
+    "只在第一区接种"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "只在第一区接种",
+   "scene": "接种环回到瓶中再取的图标被打叉",
+   "prompt_en": "An icon of the loop going back into the broth bottle for more, crossed out with a red X. No people.",
+   "narration": "菌只在第一区加一次，不回瓶再取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "只在第一区接种",
+   "scene": "菌落上再挑一次的图标被打叉",
+   "prompt_en": "An icon of the loop going back to the colony for more, crossed out with a red X. No people.",
+   "narration": "从菌落转接也一样，不再补菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "只在第一区接种",
+   "scene": "欣欣竖起一根手指",
+   "prompt_en": "The panda mascot holds up one finger and smiles.",
+   "narration": "多加了菌，就稀释不开了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "肉汤平板逐区划线",
+   "scene": "盖盖、灼烧、冷却检验、转盘、相交划线的图标链",
+   "prompt_en": "A chain of five small icons with arrows: closing a lid, a loop in a flame, a loop touching agar, a rotating dish, and crossing lines. No people.",
+   "narration": "之后每区：灼烧、冷却、检验、相交。",
+   "overlay": [
+    "肉汤平板逐区划线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "肉汤平板逐区划线",
+   "scene": "第二区划出四道分开的线",
+   "prompt_en": "Diagram: four separate lines of the second zone each crossing the first zone. No people.",
+   "narration": "每道单独划，划完就提起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "肉汤平板逐区划线",
+   "scene": "最后一区后环直接翻转划竖线和蛇形线",
+   "prompt_en": "Close-up of the loop turned over drawing a straight line and a zigzag toward the center of the dish. No people.",
+   "narration": "最后一区后，可直接翻环划竖线蛇形线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "肉汤平板逐区划线",
+   "scene": "小研灼烧接种环后放回灯座",
+   "prompt_en": "The female graduate student flames the loop until it glows, then rests it at the base of the burner.",
+   "narration": "划完灼烧接种环，放回灯座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "捆好送去培养",
+   "scene": "两块平板倒扣叠在一起",
+   "prompt_en": "Two petri dishes, both upside down, stacked one on top of the other. No people.",
+   "narration": "两块平板都倒置。",
+   "overlay": [
+    "捆好送去培养"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "捆好送去培养",
+   "scene": "一根橡皮筋把两块平板捆在一起",
+   "prompt_en": "A single rubber band is slipped around the two stacked petri dishes. No people.",
+   "narration": "用一根橡皮筋捆在一起，不会走散。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "捆好送去培养",
+   "scene": "小研把平板放进空白标签的培养盒",
+   "prompt_en": "The female graduate student places the bundled dishes into a plastic box with a blank label for the incubator.",
+   "narration": "放进指定的培养盒，送去培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "正确关闭本生灯",
+   "scene": "小研转动本生灯进气孔，火焰变成黄色",
+   "prompt_en": "The female graduate student turns the air hole collar of the Bunsen burner closed and the flame turns yellow.",
+   "narration": "做完实验，先关进气孔，见到黄焰。",
+   "overlay": [
+    "正确关闭本生灯"
+   ],
+   "labels": [
+    "①关进气孔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "正确关闭本生灯",
+   "scene": "小研关上燃气阀，火焰熄灭",
+   "prompt_en": "The female graduate student turns off the gas tap and the flame goes out.",
+   "narration": "再关燃气阀，确认火已熄灭。",
+   "overlay": [],
+   "labels": [
+    "②关燃气阀"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "结束后再消毒台面",
+   "scene": "小研再次向台面喷消毒剂",
+   "prompt_en": "The female graduate student sprays the bench surface again with the spray bottle with a blank label.",
+   "narration": "台面再喷一遍消毒剂。",
+   "overlay": [
+    "结束后再消毒台面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "结束后再消毒台面",
+   "scene": "台面上看不见的小液滴被高亮",
+   "prompt_en": "Tiny droplets on the bench surface are highlighted with small circles. No people.",
+   "narration": "以防操作时菌液洒落在台面上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "结束后再消毒台面",
+   "scene": "小研擦拭台面，纸巾丢进垃圾桶",
+   "prompt_en": "The female graduate student wipes the bench and drops the paper towel into an ordinary trash can.",
+   "narration": "擦干台面，纸巾丢进垃圾桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "离开前洗手",
+   "scene": "小研在水槽边用洗手液洗手",
+   "prompt_en": "The female graduate student washes her hands with soap at a lab sink, scrubbing between her fingers.",
+   "narration": "离开实验室前，一定要洗手。",
+   "overlay": [
+    "离开前洗手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "离开前洗手",
+   "scene": "小研用纸巾擦干双手",
+   "prompt_en": "The female graduate student dries her clean hands with a paper towel beside the lab sink.",
+   "narration": "洗干净双手，再离开实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现喷壶和本生灯图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a spray bottle and a Bunsen burner.",
+   "narration": "先消毒台面，点灯，黄焰待用。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标记平板和四区划线图标",
+   "prompt_en": "Icons of a labeled petri dish base and a four-zone streak diagram. No people.",
+   "narration": "皿底边缘做标记，四区逐区稀释。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "火焰中的接种环和盖上的皿盖图标",
+   "prompt_en": "Icons of a loop glowing in a flame and a lid closing on a dish. No people.",
+   "narration": "每区灼烧冷却，皿盖尽快盖回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "倒置的两块平板和橡皮筋",
+   "prompt_en": "Two upside-down petri dishes bundled with a rubber band. No people.",
+   "narration": "只在第一区接种，倒置培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "关灯、消毒、洗手三个图标",
+   "prompt_en": "Three icons in a row: a burner being turned off, a spray bottle, and washing hands. No people.",
+   "narration": "关火、消毒台面，洗手再离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整洁的实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in front of a tidy lab bench.",
+   "narration": "动手去多划几块平板吧，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
