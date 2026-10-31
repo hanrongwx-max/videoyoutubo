@@ -21,7 +21,7 @@
 | RSO Training Series | 9 / 9 | 0 / 9 |
 | General Lab Safety Practices | 8 / 8 | 6 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 6 / 8 |
-| Photonics & Laser Safety Series | 8 / 8 | 3 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 | 4 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 4 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 3 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 4 / 7 |
@@ -336,6 +336,7 @@
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 国内版 | 光的波动：反射、折射、干涉与偏振（国内版） | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 原著版 | 光的粒子性：光子、光谱与热辐射 | 91 | 7:35 | 20 / 0 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 国内版 | 光的粒子性：光子、光谱与热辐射（国内版） | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light（国内版）/审查报告.md>) |
+| Photonics & Laser Safety Series | 04_4. More on Properties of Light | 原著版 | 光学材料：折射、吸收与反射 | 61 | 5:05 | 16 / 0 | [剧本](<Photonics & Laser Safety Series/04_4. More on Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 04_4. More on Properties of Light | 国内版 | 光学材料：折射、吸收与反射（国内版） | 83 | 6:55 | 16 / 5 | [剧本](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 国内版 | 认识光学元件：材料、镀膜与滤光片（国内版） | 108 | 9:00 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 国内版 | 光学元件的安装、定位与维护（国内版） | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/审查报告.md>) |

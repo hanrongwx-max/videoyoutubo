@@ -1,0 +1,794 @@
+{
+ "id": "06_Laser Cutter 6 Badge Project",
+ "edition": "原著版",
+ "series": "Laser Equipment & Safety Training",
+ "title": "激光切割机：徽章项目上机全流程",
+ "seconds": 290,
+ "source_doc": "course/Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project.md",
+ "author_source": "project/Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/src.py",
+ "points": {
+  "K1": "放平材料，用固定针压稳",
+  "K2": "关盖后刷新画面",
+  "K3": "导入刻度尺文件",
+  "K4": "添加自己的名字",
+  "K5": "名字设为雕刻",
+  "K6": "外偏移生成外框，设为切割",
+  "K7": "三个步骤，重新选材料",
+  "K8": "本项目用默认参数",
+  "K9": "从边角排起，节约材料",
+  "K10": "测距要准",
+  "K11": "三维预览",
+  "K12": "预计用时与加工路径",
+  "K13": "一臂之内全程看守",
+  "K14": "发送不等于启动",
+  "K15": "先开净化器，风量到位",
+  "K16": "按启动键，坐在旁边看",
+  "K17": "烟散尽再开盖",
+  "K18": "收尾关风扇"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在桌面式激光切割机旁，手里举着一枚木质刻度尺徽章",
+   "prompt_en": "The panda mascot stands beside a closed desktop laser cutter holding up a small wooden ruler-shaped badge and waves at the camera.",
+   "narration": "这一课，从头到尾做一枚徽章。",
+   "overlay": [
+    "激光切割机：徽章项目上机全流程"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "放料、设计、测距、看守、取件五个图标排成一行",
+   "prompt_en": "Five icons in a row: a wooden sheet, a design outline, a measuring arrow, an eye and a hand lifting a small piece. No people.",
+   "narration": "放料、设计、测距、看守、取件。",
+   "overlay": [],
+   "labels": [
+    "放料",
+    "设计",
+    "测距",
+    "看守",
+    "取件"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰兴奋地拿着木板站在切割机前",
+   "prompt_en": "The young male student holds a thin wooden sheet excitedly in front of the desktop laser cutter.",
+   "narration": "阿杰要做第一个作品：名字徽章。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研站在切割机旁，示意阿杰一步一步来",
+   "prompt_en": "The female graduate student stands beside the laser cutter and gestures to the young male student to follow step by step.",
+   "narration": "小研陪他，一步一步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "放平材料，用固定针压稳",
+   "scene": "小研抬起切割机的机盖",
+   "prompt_en": "The female graduate student lifts the lid of the desktop laser cutter, revealing the honeycomb grid bed.",
+   "narration": "先打开机盖。",
+   "overlay": [
+    "放平材料，用固定针压稳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "放平材料，用固定针压稳",
+   "scene": "阿杰把薄木板平放在蜂窝板上",
+   "prompt_en": "The young male student lays a thin wooden sheet flat on the honeycomb grid bed inside the laser cutter.",
+   "narration": "把木板平放在蜂窝板上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "放平材料，用固定针压稳",
+   "scene": "两根固定针插进蜂窝孔，压住木板两边",
+   "prompt_en": "Close-up: two small metal pins are pushed down into the honeycomb holes on both sides of the wooden sheet, holding it in place. No people.",
+   "narration": "固定针插进蜂窝孔，把木板压稳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "关盖后刷新画面",
+   "scene": "阿杰双手轻轻合上机盖",
+   "prompt_en": "The young male student gently closes the laser cutter lid with both hands.",
+   "narration": "关好机盖。",
+   "overlay": [
+    "关盖后刷新画面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "关盖后刷新画面",
+   "scene": "屏幕上仍是空网格，鼠标点刷新后出现木板",
+   "prompt_en": "A blank computer screen shows an empty grid; a cursor clicks a refresh icon and a wooden sheet image appears. No people.",
+   "narration": "画面不会马上变，点刷新才能看到木板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "导入刻度尺文件",
+   "scene": "屏幕上打开文件夹图标，出现一把小刻度尺图形",
+   "prompt_en": "A folder icon opens on a blank screen and a small ruler outline with a rectangle around it appears on the canvas. No people.",
+   "narration": "导入刻度尺设计文件。",
+   "overlay": [
+    "导入刻度尺文件"
+   ],
+   "labels": [
+    "5厘米刻度尺"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "添加自己的名字",
+   "scene": "阿杰在键盘上打字，屏幕上出现空白文字框",
+   "prompt_en": "The young male student types on a keyboard; a blank text box appears above the ruler outline on the screen.",
+   "narration": "用文字工具，输入自己的名字。",
+   "overlay": [
+    "添加自己的名字"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "添加自己的名字",
+   "scene": "几种不同风格的字母A图标",
+   "prompt_en": "Several letter A icons in different font styles in a row. No people.",
+   "narration": "字体随你挑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "添加自己的名字",
+   "scene": "文字框缩小，移到刻度上方",
+   "prompt_en": "The blank text box shrinks and moves to sit just above the ruler marks. No people.",
+   "narration": "缩小一点，放在刻度上方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "名字设为雕刻",
+   "scene": "空心字轮廓和实心字并排，箭头从左指向右",
+   "prompt_en": "A hollow outlined letter shape next to a solid filled letter shape, with an arrow from left to right. No people.",
+   "narration": "名字从划线改成雕刻。",
+   "overlay": [
+    "名字设为雕刻"
+   ],
+   "labels": [
+    "划线：轮廓",
+    "雕刻：填满"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "名字设为雕刻",
+   "scene": "屏幕上名字变成实心",
+   "prompt_en": "On the screen, the outlined name text fills in solid. No people.",
+   "narration": "划线只刻轮廓，雕刻会把字填满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "外偏移生成外框，设为切割",
+   "scene": "刻度尺只有细线，旁边剪刀图标打问号",
+   "prompt_en": "A ruler outline drawn with thin lines next to a scissors icon with a question mark. No people.",
+   "narration": "刻度尺只有划线，还切不下来。",
+   "overlay": [
+    "外偏移生成外框，设为切割"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "外偏移生成外框，设为切割",
+   "scene": "刻度尺外面多出一圈外框，箭头向外",
+   "prompt_en": "An outer frame appears around the ruler outline with small outward arrows showing the offset. No people.",
+   "narration": "向外偏移一毫米，生成一圈外框。",
+   "overlay": [],
+   "labels": [
+    "向外1毫米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "外偏移生成外框，设为切割",
+   "scene": "外框变成切割线，剪刀图标打勾",
+   "prompt_en": "The outer frame turns into a cutting line and a scissors icon gets a green check. No people.",
+   "narration": "把这圈外框设为切割。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "外偏移生成外框，设为切割",
+   "scene": "小研指着屏幕左侧的空白对象列表",
+   "prompt_en": "The female graduate student points at a blank object list on the left of the screen while the young male student clicks.",
+   "narration": "外框不好点，就在对象列表里选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三个步骤，重新选材料",
+   "scene": "三行步骤图标：虚线、笔刷、剪刀",
+   "prompt_en": "Three step rows with icons: a dashed line, an engraving brush and scissors. No people.",
+   "narration": "现在有三个步骤：划线、雕刻、切割。",
+   "overlay": [
+    "三个步骤，重新选材料"
+   ],
+   "labels": [
+    "划线",
+    "雕刻",
+    "切割"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三个步骤，重新选材料",
+   "scene": "材料卡片被清空，又重新选中木板卡片",
+   "prompt_en": "A material card slot goes empty, then a plywood card is selected again with a green check. No people.",
+   "narration": "打开新设计，材料设置会丢，要重选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本项目用默认参数",
+   "scene": "步骤滑块停在默认位置，打勾",
+   "prompt_en": "Three step rows with slider controls resting at default positions, each with a green check. No people.",
+   "narration": "这个项目，用预设的默认参数就行。",
+   "overlay": [
+    "本项目用默认参数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从边角排起，节约材料",
+   "scene": "图案放在木板正中，被红叉划掉",
+   "prompt_en": "A small design outline placed in the very middle of a wooden sheet, crossed out with a red X. No people.",
+   "narration": "设计别放在木板正中间。",
+   "overlay": [
+    "从边角排起，节约材料"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从边角排起，节约材料",
+   "scene": "多个小徽章从木板一角开始一行行排列",
+   "prompt_en": "Many small badge outlines lined up in neat rows starting from one corner of a wooden sheet. No people.",
+   "narration": "从边角开始，一行一行排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从边角排起，节约材料",
+   "scene": "阿杰把设计拖到木板角上，小研点头",
+   "prompt_en": "The young male student drags the design to a corner of the sheet on the screen; the female graduate student nods.",
+   "narration": "省材料，也方便下一位同学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测距要准",
+   "scene": "屏幕上取景框框住木板一角",
+   "prompt_en": "On the screen, a blank measuring frame is placed over a corner of the wooden sheet. No people.",
+   "narration": "放好设计，先测距。",
+   "overlay": [
+    "测距要准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测距要准",
+   "scene": "激光头移动，镜头图标闪一下",
+   "prompt_en": "Inside the closed laser cutter, the laser head moves over the sheet and a small camera icon flashes. No people.",
+   "narration": "机器移动拍照，自动测出距离。",
+   "overlay": [],
+   "labels": [
+    "激光头到材料"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测距要准",
+   "scene": "屏幕弹出空白输入框，小研用卡尺量木板",
+   "prompt_en": "A blank input box pops up on the screen; the female graduate student measures the wooden sheet with calipers.",
+   "narration": "测不到会让你输厚度，一定要量准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测距要准",
+   "scene": "距离箭头连着运动和功率两个图标",
+   "prompt_en": "A distance arrow linked to two icons: a moving laser head and a power gauge. No people.",
+   "narration": "机器怎么走、用多大功率，都靠它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三维预览",
+   "scene": "屏幕上一块立体木片，刻着空白名字和刻度",
+   "prompt_en": "A 3D preview on a blank screen of a small wooden piece with engraved blank text area and ruler marks. No people.",
+   "narration": "预设材料可以先看三维预览。",
+   "overlay": [
+    "三维预览"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三维预览",
+   "scene": "立体木片从木板上整块脱出",
+   "prompt_en": "The 3D wooden piece lifts out cleanly from the sheet in the preview. No people.",
+   "narration": "名字雕刻、刻度划线、整片切下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "预计用时与加工路径",
+   "scene": "屏幕上出现时钟图标和一条虚线路径",
+   "prompt_en": "A blank screen with a clock icon and a dotted path line tracing around the design. No people.",
+   "narration": "点加工，能看到预计用时和加工路径。",
+   "overlay": [
+    "预计用时与加工路径"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "预计用时与加工路径",
+   "scene": "时钟图标显示一分多钟",
+   "prompt_en": "A clock icon with a short arc showing a bit more than one minute. No people.",
+   "narration": "这枚徽章，预计一分半钟左右。",
+   "overlay": [],
+   "labels": [
+    "预计 00:01:28"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "预计用时与加工路径",
+   "scene": "饼图中雕刻占了一大块，划线和切割很小",
+   "prompt_en": "A pie chart icon where engraving takes a large slice and scoring and cutting take small slices. No people.",
+   "narration": "雕刻最费时，划线和切割放在最后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一臂之内全程看守",
+   "scene": "欣欣伸直手臂，站在切割机旁",
+   "prompt_en": "The panda mascot stands next to the laser cutter with one arm stretched out toward it.",
+   "narration": "运行时，人要在一臂之内。",
+   "overlay": [
+    "一臂之内全程看守"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一臂之内全程看守",
+   "scene": "阿杰坐在切割机旁，透过观察窗看着",
+   "prompt_en": "The young male student sits on a stool right beside the running laser cutter and watches through the tinted viewing window.",
+   "narration": "眼睛盯着机内，随时能出手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一臂之内全程看守",
+   "scene": "烟雾、火苗、异常三个图标",
+   "prompt_en": "Three icons: rising smoke, a small flame and a warning triangle. No people.",
+   "narration": "冒烟、起火、有异常，马上处理。",
+   "overlay": [],
+   "labels": [
+    "烟雾",
+    "火苗",
+    "异常"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一臂之内全程看守",
+   "scene": "阿杰的手伸向机器，可以随时干预",
+   "prompt_en": "The young male student, seated beside the laser cutter, reaches a hand toward its top panel, ready to step in.",
+   "narration": "看得见里面，才能及时出手干预。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "发送不等于启动",
+   "scene": "屏幕上点开始，箭头飞向切割机",
+   "prompt_en": "A cursor clicks a blank start button on the screen and an arrow flies toward the laser cutter icon. No people.",
+   "narration": "软件里点开始，只是把文件发过去。",
+   "overlay": [
+    "发送不等于启动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "发送不等于启动",
+   "scene": "切割机上的启动按钮发出蓝光",
+   "prompt_en": "A glowing blue start button on the front of the laser cutter. No people.",
+   "narration": "按下机器上的启动键，才真正开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先开净化器，风量到位",
+   "scene": "阿杰按下台下净化器的电源键",
+   "prompt_en": "The young male student presses the power button on the air purifier under the bench.",
+   "narration": "启动前，先开烟尘净化器。",
+   "overlay": [
+    "先开净化器，风量到位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先开净化器，风量到位",
+   "scene": "净化器顶上三个蓝灯依次亮起",
+   "prompt_en": "Three blue indicator lights on top of the air purifier light up one by one. No people.",
+   "narration": "风量指示要到三格。",
+   "overlay": [],
+   "labels": [
+    "三格风量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先开净化器，风量到位",
+   "scene": "手指连按风量键，灯从一格加到三格",
+   "prompt_en": "A finger taps a fan button repeatedly and the indicator goes from one light to three lights. No people.",
+   "narration": "不够三格，就按风量键调上去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "按启动键，坐在旁边看",
+   "scene": "阿杰按下启动键，坐在旁边",
+   "prompt_en": "The young male student presses the glowing start button, then sits on a stool beside the laser cutter.",
+   "narration": "按下启动键，坐在旁边看着。",
+   "overlay": [
+    "按启动键，坐在旁边看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "按启动键，坐在旁边看",
+   "scene": "观察窗里激光头来回移动，有一点亮光和轻烟",
+   "prompt_en": "View through the tinted lid window: the laser head moves back and forth over the wooden sheet with a small bright dot and a wisp of smoke. No people.",
+   "narration": "雕刻在先，切割在后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "烟散尽再开盖",
+   "scene": "加工完，观察窗里还残留一点烟",
+   "prompt_en": "View through the tinted lid window after the job: a little smoke still lingers inside. No people.",
+   "narration": "加工结束，先别急着开盖。",
+   "overlay": [
+    "烟散尽再开盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "烟散尽再开盖",
+   "scene": "烟被吸走，机内清澈，打勾",
+   "prompt_en": "The smoke is drawn out through the exhaust and the inside becomes clear, with a green check. No people.",
+   "narration": "等机内看不到烟，再打开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "烟散尽再开盖",
+   "scene": "阿杰打开机盖，拿出刻好的小木尺",
+   "prompt_en": "The young male student lifts the lid and picks the small wooden ruler badge out of the sheet with his fingers.",
+   "narration": "开盖，把作品取出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "收尾关风扇",
+   "scene": "阿杰拿着刻好名字的木刻度尺，开心展示",
+   "prompt_en": "The young male student proudly shows a small wooden ruler badge with a blank engraved name area.",
+   "narration": "你的名字徽章完成了！",
+   "overlay": [
+    "收尾关风扇"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "收尾关风扇",
+   "scene": "净化器继续转一会儿，然后熄灯",
+   "prompt_en": "The air purifier keeps running for a short while, then its lights turn off. No people.",
+   "narration": "做完就可以关掉净化器风扇。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "收尾关风扇",
+   "scene": "净化器图标旁一个小沙漏",
+   "prompt_en": "An air purifier icon with a small hourglass beside it. No people.",
+   "narration": "多转一会儿也行，不必一直开着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "收尾关风扇",
+   "scene": "欣欣指向一个空白日历",
+   "prompt_en": "The panda mascot points at a blank calendar on the wall.",
+   "narration": "下一课，讲收尾和预约。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现木板、固定针、刷新图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a wooden sheet, two pins and a refresh arrow.",
+   "narration": "放平压稳，关盖刷新。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "笔刷、虚线、剪刀三个图标",
+   "prompt_en": "Three icons: an engraving brush, a dashed line and scissors. No people.",
+   "narration": "名字雕刻，外框切割，重选材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "测距箭头和木板角落的排列图标",
+   "prompt_en": "Icons of a measuring arrow and badge outlines lined up from a corner of a sheet. No people.",
+   "narration": "从边角排，测距要准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "净化器三格灯、眼睛、启动按钮图标",
+   "prompt_en": "Icons of an air purifier with three lights, an eye and a glowing blue start button. No people.",
+   "narration": "开净化器，按启动，一臂之内看守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "烟散尽的机内和取出的木片图标",
+   "prompt_en": "Icons of a clear laser cutter interior and a small wooden piece lifted out. No people.",
+   "narration": "烟散尽再开盖，取出作品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着木质徽章挥手道别",
+   "prompt_en": "The panda mascot holds up a small wooden badge and waves goodbye beside the closed laser cutter.",
+   "narration": "一步一步来，做好作品，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
