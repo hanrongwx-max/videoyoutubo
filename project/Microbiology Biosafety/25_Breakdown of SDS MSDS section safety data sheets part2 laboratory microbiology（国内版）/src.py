@@ -1,7 +1,7 @@
 # 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology 卡通剧本作者源
 # 原片为无讲解的文字幻灯片（26 分 54 秒）：SDS 定义与目的、16 部分总览、逐一解读第 8–15 部分（均以氢氧化钠为例）。
 # 剧本压缩到 15 分钟以内，保留全部知识点 K1–K28；按 GB/T 16483、GB/T 17519 本土化（以现行文本为准）。
-# 审查补充 S1–S4（中文最新版 SDS 随手可查；就医带上 SDS；废弃化学品交学校统一处置；危化品不夹带、不私寄）
+# 审查补充 S1–S4（备孕怀孕、过敏主动告知；废液入桶前先查相容性；废弃化学品交学校统一处置；危化品不夹带、不私寄）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -35,8 +35,8 @@ META = {
         "K26": "例：氢氧化钠溶液的运输信息",
         "K27": "第15部分：适用法规",
         "K28": "第15部分：名录状态",
-        "S1": "中文最新版SDS，随手可查",
-        "S2": "受伤就医，带上SDS",
+        "S1": "备孕怀孕、过敏：主动告诉老师",
+        "S2": "废液入桶前，先查能不能混",
         "S3": "废弃化学品，交学校统一处置",
         "S4": "危化品不夹带、不私寄",
     },
@@ -321,28 +321,28 @@ SHOTS = [
  "Two icons light up: a locked cabinet and a padlock with a warning triangle. No people.",
  "列入管制名录的，按专门规定管理。"),
 # S1
-("S1", "试剂柜旁挂着一个文件盒，里面是空白说明书",
- "A file box holding blank booklets hangs beside a chemical cabinet. No people.",
- "SDS要放在实验室，随手查得到。", "中文最新版SDS，随手可查"),
-("S1", "小研向供应商索要中文说明书，邮件图标",
- "The female graduate student receives a blank booklet together with a delivered reagent box, a mail icon above.",
- "买试剂时，索取中文版SDS。", "", ["中文版"]),
-("S1", "说明书最后一页的日历图标被圈出",
- "The last page of the blank booklet with a calendar icon circled. No people.",
- "看第十六部分的修订日期，用最新版。", "", ["第16部分"]),
+("S1", "第十一个书签上，孕妇和过敏图标亮起",
+ "The eleventh tab of the blank booklet with a pregnancy icon and an allergy icon lighting up. No people.",
+ "第十一部分还会写致敏、生殖毒性。", "备孕怀孕、过敏：主动告诉老师", ["致敏", "生殖毒性"]),
+("S1", "小研在办公室里私下和老周谈话",
+ "The female graduate student talks privately with the older man in the lab office.",
+ "备孕、怀孕或过敏体质，主动告诉老师。"),
+("S1", "老周在空白排班板上调整分工",
+ "The older man rearranges tasks on a blank schedule board, giving the female graduate student a different bench job.",
+ "评估后调整工作，个人信息保密。"),
 # S2
-("S2", "阿杰手上溅到试剂，小研带他冲洗",
- "The young male student gets a splash on his hand; the female graduate student leads him to rinse under running water.",
- "万一被灼伤，先大量清水冲洗。", "受伤就医，带上SDS"),
-("S2", "小研拨打120，手里拿着说明书",
- "The female graduate student calls an ambulance on a phone while holding the blank booklet; a 120 icon floats nearby.",
- "需要就医，拨打120。", "", ["120"]),
-("S2", "说明书递给医生图标",
- "A hand passes the blank booklet to a doctor icon. No people.",
- "把SDS或标签带给医生，看第四部分。"),
-("S2", "小研向老周报告",
- "The female graduate student reports to the older man in the lab office.",
- "同时报告实验室负责人。"),
+("S2", "两个废液瓶要倒进同一个桶，中间一个大问号",
+ "Two waste bottles about to be poured into the same waste container, a large question mark between them. No people.",
+ "废液倒进桶前，先停一下。", "废液入桶前，先查能不能混"),
+("S2", "小研翻到说明书第十部分，对照废液桶标签",
+ "The female graduate student checks the tenth tab of the blank booklet against the blank label on a waste container.",
+ "对照第十部分，看是否相容。", "", ["第10部分"]),
+("S2", "冒泡发热的废液桶图标被打叉",
+ "An icon of a waste container bubbling and giving off heat, crossed out with a red X. No people.",
+ "不相容的混在一起，会发热冒气。"),
+("S2", "小研在桶身记录表上写下倒入的内容",
+ "The female graduate student writes on a blank log sheet attached to the waste container.",
+ "倒了什么，及时记在桶上的记录里。"),
 # S3
 ("S3", "贴空白标签的废液桶整齐放在托盘里",
  "Waste containers with blank labels stand in a spill tray in a designated corner. No people.",

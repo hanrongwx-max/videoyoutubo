@@ -35,8 +35,8 @@
   "K26": "例：氢氧化钠溶液的运输信息",
   "K27": "第15部分：适用法规",
   "K28": "第15部分：名录状态",
-  "S1": "中文最新版SDS，随手可查",
-  "S2": "受伤就医，带上SDS",
+  "S1": "备孕怀孕、过敏：主动告诉老师",
+  "S2": "废液入桶前，先查能不能混",
   "S3": "废弃化学品，交学校统一处置",
   "S4": "危化品不夹带、不私寄"
  },
@@ -1207,54 +1207,53 @@
    "shot": 83,
    "seconds": 5,
    "section": "S1",
-   "section_title": "中文最新版SDS，随手可查",
-   "scene": "试剂柜旁挂着一个文件盒，里面是空白说明书",
-   "prompt_en": "A file box holding blank booklets hangs beside a chemical cabinet. No people.",
-   "narration": "SDS要放在实验室，随手查得到。",
+   "section_title": "备孕怀孕、过敏：主动告诉老师",
+   "scene": "第十一个书签上，孕妇和过敏图标亮起",
+   "prompt_en": "The eleventh tab of the blank booklet with a pregnancy icon and an allergy icon lighting up. No people.",
+   "narration": "第十一部分还会写致敏、生殖毒性。",
    "overlay": [
-    "中文最新版SDS，随手可查"
+    "备孕怀孕、过敏：主动告诉老师"
    ],
-   "labels": [],
+   "labels": [
+    "致敏",
+    "生殖毒性"
+   ],
    "mode": "voiceover"
   },
   {
    "shot": 84,
    "seconds": 5,
    "section": "S1",
-   "section_title": "中文最新版SDS，随手可查",
-   "scene": "小研向供应商索要中文说明书，邮件图标",
-   "prompt_en": "The female graduate student receives a blank booklet together with a delivered reagent box, a mail icon above.",
-   "narration": "买试剂时，索取中文版SDS。",
+   "section_title": "备孕怀孕、过敏：主动告诉老师",
+   "scene": "小研在办公室里私下和老周谈话",
+   "prompt_en": "The female graduate student talks privately with the older man in the lab office.",
+   "narration": "备孕、怀孕或过敏体质，主动告诉老师。",
    "overlay": [],
-   "labels": [
-    "中文版"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 85,
    "seconds": 5,
    "section": "S1",
-   "section_title": "中文最新版SDS，随手可查",
-   "scene": "说明书最后一页的日历图标被圈出",
-   "prompt_en": "The last page of the blank booklet with a calendar icon circled. No people.",
-   "narration": "看第十六部分的修订日期，用最新版。",
+   "section_title": "备孕怀孕、过敏：主动告诉老师",
+   "scene": "老周在空白排班板上调整分工",
+   "prompt_en": "The older man rearranges tasks on a blank schedule board, giving the female graduate student a different bench job.",
+   "narration": "评估后调整工作，个人信息保密。",
    "overlay": [],
-   "labels": [
-    "第16部分"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 86,
    "seconds": 5,
    "section": "S2",
-   "section_title": "受伤就医，带上SDS",
-   "scene": "阿杰手上溅到试剂，小研带他冲洗",
-   "prompt_en": "The young male student gets a splash on his hand; the female graduate student leads him to rinse under running water.",
-   "narration": "万一被灼伤，先大量清水冲洗。",
+   "section_title": "废液入桶前，先查能不能混",
+   "scene": "两个废液瓶要倒进同一个桶，中间一个大问号",
+   "prompt_en": "Two waste bottles about to be poured into the same waste container, a large question mark between them. No people.",
+   "narration": "废液倒进桶前，先停一下。",
    "overlay": [
-    "受伤就医，带上SDS"
+    "废液入桶前，先查能不能混"
    ],
    "labels": [],
    "mode": "voiceover"
@@ -1263,13 +1262,13 @@
    "shot": 87,
    "seconds": 5,
    "section": "S2",
-   "section_title": "受伤就医，带上SDS",
-   "scene": "小研拨打120，手里拿着说明书",
-   "prompt_en": "The female graduate student calls an ambulance on a phone while holding the blank booklet; a 120 icon floats nearby.",
-   "narration": "需要就医，拨打120。",
+   "section_title": "废液入桶前，先查能不能混",
+   "scene": "小研翻到说明书第十部分，对照废液桶标签",
+   "prompt_en": "The female graduate student checks the tenth tab of the blank booklet against the blank label on a waste container.",
+   "narration": "对照第十部分，看是否相容。",
    "overlay": [],
    "labels": [
-    "120"
+    "第10部分"
    ],
    "mode": "voiceover"
   },
@@ -1277,10 +1276,10 @@
    "shot": 88,
    "seconds": 5,
    "section": "S2",
-   "section_title": "受伤就医，带上SDS",
-   "scene": "说明书递给医生图标",
-   "prompt_en": "A hand passes the blank booklet to a doctor icon. No people.",
-   "narration": "把SDS或标签带给医生，看第四部分。",
+   "section_title": "废液入桶前，先查能不能混",
+   "scene": "冒泡发热的废液桶图标被打叉",
+   "prompt_en": "An icon of a waste container bubbling and giving off heat, crossed out with a red X. No people.",
+   "narration": "不相容的混在一起，会发热冒气。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -1289,10 +1288,10 @@
    "shot": 89,
    "seconds": 5,
    "section": "S2",
-   "section_title": "受伤就医，带上SDS",
-   "scene": "小研向老周报告",
-   "prompt_en": "The female graduate student reports to the older man in the lab office.",
-   "narration": "同时报告实验室负责人。",
+   "section_title": "废液入桶前，先查能不能混",
+   "scene": "小研在桶身记录表上写下倒入的内容",
+   "prompt_en": "The female graduate student writes on a blank log sheet attached to the waste container.",
+   "narration": "倒了什么，及时记在桶上的记录里。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
