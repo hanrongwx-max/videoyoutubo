@@ -1,0 +1,563 @@
+{
+ "id": "21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE",
+ "edition": "原著版",
+ "series": "Electrical Safety Series",
+ "title": "两种漏电保护器：十个方面比一比",
+ "seconds": 205,
+ "source_doc": "course/Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE.md",
+ "author_source": "project/Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/src.py",
+ "points": {
+  "K1": "从十个方面比较",
+  "K2": "比一比：工作原理",
+  "K3": "比一比：灵敏度",
+  "K4": "比一比：保护范围",
+  "K5": "比一比：是否依赖接地",
+  "K6": "比一比：响应快慢",
+  "K7": "比一比：应用",
+  "K8": "比一比：适用范围",
+  "K9": "比一比：安全性",
+  "K10": "比一比：成本",
+  "K11": "比一比：现在用哪种"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在两个外观相似的空白模块中间",
+   "prompt_en": "The panda mascot stands between two similar blank breaker modules mounted on a rail and waves at the camera.",
+   "narration": "这一课把两种漏电保护器比一比。",
+   "overlay": [
+    "两种漏电保护器：十个方面比一比"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "左边模块下有电压表图标，右边模块下有电流表图标",
+   "prompt_en": "Two blank breaker modules, a voltmeter icon under the left one and an ammeter icon under the right one. No people.",
+   "narration": "一种看电压，一种看电流。",
+   "overlay": [],
+   "labels": [
+    "电压型",
+    "电流型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周和阿杰站在实验楼一个旧配电箱前",
+   "prompt_en": "The older man and the young male student stand in front of an old distribution box in a lab building corridor.",
+   "narration": "老周带阿杰巡查实验楼配电箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "旧配电箱里一个泛黄的老式模块",
+   "prompt_en": "Inside the box, an old yellowed breaker module sits next to newer white modules. No people.",
+   "narration": "这里还装着一个老式的漏电开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰指着两个模块，一脸疑惑",
+   "prompt_en": "The young male student points at the old and new modules with a puzzled face.",
+   "narration": "阿杰问：它们有什么不一样？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣举起一叠扇形展开的空白卡片",
+   "prompt_en": "The panda mascot holds up a stack of ten blank cards fanned out.",
+   "narration": "我们从十个方面来比较。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从十个方面比较",
+   "scene": "十张空白卡片排成两列",
+   "prompt_en": "Ten blank cards arranged in two columns on a board, each with a small number circle. No people.",
+   "narration": "两者的区别，可以归纳成十点。",
+   "overlay": [
+    "从十个方面比较"
+   ],
+   "labels": [
+    "原理",
+    "灵敏度",
+    "范围",
+    "接地",
+    "快慢"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从十个方面比较",
+   "scene": "另外五张卡片亮起",
+   "prompt_en": "The second column of five cards lights up one by one. No people.",
+   "narration": "一点一点来看。",
+   "overlay": [],
+   "labels": [
+    "应用",
+    "适用",
+    "安全",
+    "成本",
+    "现状"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "比一比：工作原理",
+   "scene": "老式模块连着设备外壳的接地线，旁边电压表",
+   "prompt_en": "A diagram: an old blank breaker module with a sensing wire to the ground wire of a metal instrument case, a voltmeter icon beside it. No people.",
+   "narration": "老式的看接地线和电源之间的电压差。",
+   "overlay": [
+    "比一比：工作原理"
+   ],
+   "labels": [
+    "接地漏电断路器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "比一比：工作原理",
+   "scene": "电压表指针偏转，模块跳闸",
+   "prompt_en": "The voltmeter needle swings and the old module's lever drops to off. No people.",
+   "narration": "电压失衡，它就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "比一比：工作原理",
+   "scene": "新模块圆环中穿过两根线，进出箭头",
+   "prompt_en": "A new blank breaker module with a ring core, a red wire and a black wire passing through with opposite arrows. No people.",
+   "narration": "新型的比较相线和中性线的电流。",
+   "overlay": [],
+   "labels": [
+    "剩余电流断路器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "比一比：工作原理",
+   "scene": "两根线的箭头长短不一，模块跳闸",
+   "prompt_en": "The arrows on the two wires become unequal and the new module trips to off. No people.",
+   "narration": "进出不平衡，有漏电，它就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "比一比：灵敏度",
+   "scene": "左边模块旁一个小耳朵图标，右边模块旁一个大耳朵图标",
+   "prompt_en": "A small ear icon beside the old module and a large ear icon beside the new module. No people.",
+   "narration": "老式的靠电压间接判断，不够灵敏。",
+   "overlay": [
+    "比一比：灵敏度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "比一比：灵敏度",
+   "scene": "放大镜直接对准漏电的小箭头",
+   "prompt_en": "A magnifying glass focused directly on a tiny leaking current arrow next to the new module. No people.",
+   "narration": "新型的直接测漏电流，更灵敏可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "比一比：保护范围",
+   "scene": "老式模块只盯着一根接地线",
+   "prompt_en": "The old module with a single spotlight on one ground wire only. No people.",
+   "narration": "老式的只管通过地线的漏电。",
+   "overlay": [
+    "比一比：保护范围"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "比一比：保护范围",
+   "scene": "新模块对多条入地路径都亮起",
+   "prompt_en": "The new module glows as leakage arrows go to ground through several paths: a body pictogram, a wet floor and a pipe. No people.",
+   "narration": "新型的对漏到大地的电流都有反应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "比一比：保护范围",
+   "scene": "相线与中性线之间的短路箭头，旁边问号，新模块不动",
+   "prompt_en": "An arrow jumping directly between the live and neutral wires with a question mark; the new module stays on. No people.",
+   "narration": "原片说它能管相线到中性线，不对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "比一比：保护范围",
+   "scene": "欣欣摇头，伸出一根手指",
+   "prompt_en": "The panda mascot shakes its head and raises one finger to correct.",
+   "narration": "那种电流不漏地，它察觉不到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "比一比：是否依赖接地",
+   "scene": "老式模块的接地线断开，模块打问号",
+   "prompt_en": "The ground wire of the old module is broken and the module shows a question mark. No people.",
+   "narration": "老式的必须有良好接地才能工作。",
+   "overlay": [
+    "比一比：是否依赖接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "比一比：是否依赖接地",
+   "scene": "断开的接地线，红叉",
+   "prompt_en": "The broken ground wire is crossed out with a red X and the old module stays dark. No people.",
+   "narration": "接地一坏，它就失灵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "比一比：是否依赖接地",
+   "scene": "新模块只看圆环里的两根线，打绿勾",
+   "prompt_en": "The new module watches only the two wires through its ring, green check. No people.",
+   "narration": "新型的动作不靠自己的接地线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "比一比：是否依赖接地",
+   "scene": "仪器三孔插头插入三孔插座，打绿勾",
+   "prompt_en": "A lab instrument three-pin plug inserted into a three-pin socket with a green check. No people.",
+   "narration": "但设备外壳照样要可靠接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "比一比：响应快慢",
+   "scene": "左边一只蜗牛图标，右边一只兔子图标",
+   "prompt_en": "A snail icon beside the old module and a rabbit icon beside the new module. No people.",
+   "narration": "一般来说，老式的反应慢一些，",
+   "overlay": [
+    "比一比：响应快慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "比一比：响应快慢",
+   "scene": "电流箭头一出现，新模块立即跳下",
+   "prompt_en": "As soon as a leakage arrow appears, the new module flips off instantly with a small flash. No people.",
+   "narration": "新型的测电流，反应更快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "比一比：应用",
+   "scene": "老式模块放进标着旧时钟的盒子",
+   "prompt_en": "The old module is placed into a box marked with an old clock icon. No people.",
+   "narration": "老式的是旧技术，新装置很少用。",
+   "overlay": [
+    "比一比：应用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "比一比：应用",
+   "scene": "新建实验楼的配电箱里一排新模块",
+   "prompt_en": "A modern distribution box in a new lab building with a row of new blank breaker modules. No people.",
+   "narration": "新型的广泛用于现代电气系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "比一比：适用范围",
+   "scene": "接地不良的老房子图标旁，老式模块打问号",
+   "prompt_en": "An icon of an old building with a poor ground connection next to the old module with a question mark. No people.",
+   "narration": "接地不好的系统，老式的用不了。",
+   "overlay": [
+    "比一比：适用范围"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "比一比：适用范围",
+   "scene": "多种建筑图标旁，新模块都打勾",
+   "prompt_en": "Several building icons, each with the new module and a green check. No people.",
+   "narration": "新型的适用于大多数系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "比一比：安全性",
+   "scene": "老式模块旁的盾牌有裂缝",
+   "prompt_en": "A cracked shield icon beside the old module and a broken ground wire. No people.",
+   "narration": "接地受损时，老式的就不安全。",
+   "overlay": [
+    "比一比：安全性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "比一比：安全性",
+   "scene": "新模块旁的盾牌完整",
+   "prompt_en": "A solid shield icon beside the new module. No people.",
+   "narration": "新型的不靠接地动作，更可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "比一比：成本",
+   "scene": "老式模块旁一枚硬币，新模块旁两枚硬币",
+   "prompt_en": "One coin icon beside the old module and two coin icons beside the new module. No people.",
+   "narration": "老式的便宜，但效果差。",
+   "overlay": [
+    "比一比：成本"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "比一比：成本",
+   "scene": "新模块旁的盾牌和硬币，打绿勾",
+   "prompt_en": "The new module with two coins and a shield, green check. No people.",
+   "narration": "新型的贵一点，保护更好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "比一比：现在用哪种",
+   "scene": "老式模块挂上淘汰标签，渐渐变灰",
+   "prompt_en": "The old module gets a blank outdated tag and fades to gray. No people.",
+   "narration": "老式的局限多，许多地区已淘汰。",
+   "overlay": [
+    "比一比：现在用哪种"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "比一比：现在用哪种",
+   "scene": "新模块装上导轨，打绿勾",
+   "prompt_en": "A new blank breaker module clicks onto the mounting rail with a green check. No people.",
+   "narration": "现代电气装置，首选电流型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "比一比：现在用哪种",
+   "scene": "欣欣点头指着新模块",
+   "prompt_en": "The panda mascot nods and points at the new breaker module.",
+   "narration": "国内统称剩余电流动作保护器。",
+   "overlay": [],
+   "labels": [
+    "俗称漏电保护器"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现两个模块图标",
+   "prompt_en": "The panda mascot stands beside two floating blank breaker module icons.",
+   "narration": "老式看电压，新型看电流。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "新模块旁的放大镜、兔子、盾牌图标",
+   "prompt_en": "Icons of a magnifying glass, a rabbit and a shield beside the new module. No people.",
+   "narration": "新型更灵敏、更快、更可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "相线与中性线间的箭头图标，打问号",
+   "prompt_en": "An icon of an arrow between the live and neutral wires with a question mark. No people.",
+   "narration": "相线到中性线的故障，它察觉不到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接地符号和三孔插座图标",
+   "prompt_en": "Icons of a ground symbol and a three-hole socket with a green check. No people.",
+   "narration": "有了漏保，接地也要定期查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "空白巡查表和挂锁挂牌图标",
+   "prompt_en": "Icons of a blank inspection sheet and a padlock with a tag. No people.",
+   "narration": "旧装置报告更新，检修上锁挂牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在关好门的配电箱旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera beside a closed distribution box.",
+   "narration": "认清漏保，用对漏保，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
