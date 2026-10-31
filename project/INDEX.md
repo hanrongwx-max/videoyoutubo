@@ -13,7 +13,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 14 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
@@ -442,6 +442,7 @@
 | Lab Safety Training - Essential Protocols | 06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety | 国内版 | 识别危害，选对防护（国内版） | 47 | 3:55 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory | 原著版 | 职业素养与废物处置 | 26 | 2:10 | 9 / 0 | [剧本](<Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory/script.md>) |
 | Lab Safety Training - Essential Protocols | 07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory | 国内版 | 职业素养与废物处置（国内版） | 35 | 2:55 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 08_Emergency Response and Safety Training Preparedness and Best Practices | 原著版 | 应急准备与应急培训 | 44 | 3:40 | 14 / 0 | [剧本](<Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices/script.md>) |
 | Lab Safety Training - Essential Protocols | 08_Emergency Response and Safety Training Preparedness and Best Practices | 国内版 | 应急准备与应急培训（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments | 国内版 | 压缩气瓶的安全使用（国内版） | 56 | 4:40 | 25 / 4 | [剧本](<Lab Safety Training - Essential Protocols/09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/09_Compressed Gas Cylinder Safety Handling Procedures for Laboratory Environments（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training | 国内版 | 从设计开始防电气危害（国内版） | 54 | 4:30 | 22 / 4 | [剧本](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/审查报告.md>) |
