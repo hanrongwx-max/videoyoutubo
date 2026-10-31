@@ -1,0 +1,499 @@
+1
+00:00:01,200 --> 00:00:06,560
+Hello everyone welcome to basic electrical engineering laboratory in this video I will
+大家好，欢迎来到基础电气工程实验课。在这个视频中，我将
+
+2
+00:00:06,560 --> 00:00:12,760
+be demonstrating the experiment of verification of Kirchhoff voltage law and Kirchhoff current
+演示基尔霍夫电压定律和基尔霍夫电流
+
+3
+00:00:12,760 --> 00:00:19,240
+law in basic electrical engineering theory I have already explained both Kirchhoff voltage
+定律的验证实验。在基础电气工程理论课中，我已经讲解过基尔霍夫电压定律
+
+4
+00:00:19,240 --> 00:00:23,600
+and Kirchhoff current law first of all you please watch that video completely later on
+和基尔霍夫电流定律，请大家先把那个视频完整看一遍，然后
+
+5
+00:00:23,600 --> 00:00:29,680
+you can go ahead with practical circuit verification ok so that video is available in the description
+再进行实际电路的验证，好吗？那个视频的链接在简介
+
+6
+00:00:29,680 --> 00:00:34,880
+box and the I button kindly go through that first the ultimate goal of the experiment is
+栏和 i 按钮里，请先去看一下。这个实验的最终目的是
+
+7
+00:00:34,880 --> 00:00:43,600
+to verify KCL and KVL experimentally there is one DC circuit we need to verify those particular
+通过实验验证 KCL 和 KVL。这里有一个直流电路，我们需要针对给定的直流电路，
+
+8
+00:00:43,600 --> 00:00:50,400
+laws for the given DC circuit theoretically as well as practically what are the apparatus
+从理论上和实验上验证这两条定律。需要哪些仪器设备呢？
+
+9
+00:00:50,400 --> 00:00:58,200
+required we require one regulated DC power supply in the range of 0 to 30 volt to 1 then we need
+我们需要一台 0 到 30 伏的稳压直流电源，一台，然后我们还需要
+
+10
+00:00:58,200 --> 00:01:09,360
+to have 3 DC lamps and we must have 3 moving coil ammeter in the range of 0 to 1 ampere and also we
+3 个直流灯泡，还必须有 3 个量程 0 到 1 安的动圈式电流表，另外我们
+
+11
+00:01:09,360 --> 00:01:16,640
+need 3 voltmeter it is also DC voltmeter moving coil ok in the range of 0 to 30 volt these are
+还需要 3 个电压表，也是直流动圈式电压表，量程 0 到 30 伏。这些就是
+
+12
+00:01:16,640 --> 00:01:21,480
+the requirement in case voltmeter is unavailable what you can do is you can use a multimeter
+所需的设备。如果没有电压表，你可以用万用表，
+
+13
+00:01:21,480 --> 00:01:28,370
+and set the multimeter into DC mode I did the same thing initially you have to take some
+把万用表调到直流挡，我一开始就是这么做的。你们必须采取一些
+
+14
+00:01:28,410 --> 00:01:32,730
+precautions so what are the precautions you are supposed to take means voltage knob should
+注意事项。要采取哪些注意事项呢？就是说，稳压电源上的电压旋钮应该
+
+15
+00:01:32,730 --> 00:01:36,930
+be at a minimum position in the RPS and the current knob should be kept at the maximum
+放在最小位置，而同一台稳压电源上的电流旋钮应该放在最大
+
+16
+00:01:36,930 --> 00:01:41,870
+position in the same RPS that need to be taken care otherwise there are chances for
+位置，这一点要注意，否则有可能
+
+17
+00:01:41,870 --> 00:01:48,010
+spoiling of your regulated DC power supply RPS be careful let us go ahead with the
+损坏你的稳压直流电源（RPS），一定要小心。下面我们来看
+
+18
+00:01:48,010 --> 00:01:53,170
+procedure circuit connections are made as per the circuit diagram so this is your given
+实验步骤。按照电路图连接电路，这就是给定的
+
+19
+00:01:53,170 --> 00:02:00,690
+DC circuit look at this so supply will be given from by RPS so that is denoted by V1 you can take
+直流电路，大家看。电源由稳压电源提供，用 V1 表示。你可以取
+
+20
+00:02:00,690 --> 00:02:07,250
+the supply like 4 volt 6 volt 8 volt like 10 volt as it is even you can start from 1 or 2 volt
+4 伏、6 伏、8 伏、10 伏这样的电压，甚至从 1 伏或 2 伏
+
+21
+00:02:07,250 --> 00:02:12,210
+itself there is no problem it is a variable voltage variable DC supply that is providing by
+开始也没有问题，它是由稳压电源提供的可变电压、可变直流电源。
+
+22
+00:02:12,210 --> 00:02:20,170
+RPS and we need we have 3 lamps in the range of 12 volt 10 watts look at this all lamps are
+我们有 3 个额定值为 12 伏、10 瓦的灯泡，大家看，所有灯泡
+
+23
+00:02:20,170 --> 00:02:25,650
+having identical rating please note down this will be helpful for calculating the resistance
+额定值都相同，请记下来，这对计算灯泡的电阻
+
+24
+00:02:25,650 --> 00:02:33,890
+of the lamp and also these are the ammeters we have 0 to 1 ampere moving coil okay so here
+很有帮助。另外这些是电流表，量程 0 到 1 安的动圈式，好，这里
+
+25
+00:02:33,890 --> 00:02:40,530
+also you can see 0 to 1 ampere moving coil better write MC 0 to 1 ampere moving coil that means
+你也可以看到是 0 到 1 安动圈式，最好写上 MC，0 到 1 安动圈式，也就是说
+
+26
+00:02:40,530 --> 00:02:47,890
+this is your I1 then I2 I3 and also we have volt meters so V2 better mark in this manner
+这是 I1，然后是 I2、I3。我们还有电压表，V2 最好这样标注，
+
+27
+00:02:47,970 --> 00:02:54,250
+because it is a DC meter so V2 and we have V3 look at this two lamps are connected in
+因为它是直流表，这是 V2，还有 V3。大家看，有两个灯泡是
+
+28
+00:02:54,250 --> 00:02:59,970
+parallel therefore voltage across lamp 2 and lamp 3 are same so please refer the video on
+并联的，所以灯泡 2 和灯泡 3 两端的电压相同。请参考
+
+29
+00:02:59,970 --> 00:03:04,890
+series and parallel connection I have done it in a elaborated manner so this is your
+串联和并联连接的那个视频，我在里面讲得很详细。这就是
+
+30
+00:03:04,890 --> 00:03:10,530
+circuit diagram I hope you have got an idea about the circuit diagram then supply switch
+电路图，希望大家对电路图已经有了了解。然后合上稳压电源的
+
+31
+00:03:10,530 --> 00:03:17,210
+of RPS is close to okay then set the value of voltage in RPS may be 3 volt or 4 volt 6
+电源开关，好，接着在稳压电源上设定电压值，可以是 3 伏、4 伏、6
+
+32
+00:03:17,210 --> 00:03:24,090
+volt then 8 volt 10 volt there are suppose there are 4 members are 4 or 5 members are in
+伏，然后 8 伏、10 伏。假设你们组里有 4 个人或者 4 到 5 个人，
+
+33
+00:03:24,090 --> 00:03:29,050
+your group you can take individual reading may be 3 volt 4 volt 6 volt like phase okay
+每个人可以各取一组读数，比如 3 伏、4 伏、6 伏，像这样，好吗？
+
+34
+00:03:29,050 --> 00:03:33,770
+note down the corresponding ammeter and voltmeter reading you have to set a certain voltmeter
+记下相应的电流表和电压表读数。你要设定一个电压值，
+
+35
+00:03:33,770 --> 00:03:40,570
+then what you can do you can measure I1 I2 I3 in parallel you can measure V1 V2 V3 yes V1 no
+然后你可以测量 I1、I2、I3，同时还可以测量 V1、V2、V3。对，V1 没有
+
+36
+00:03:40,570 --> 00:03:45,050
+problem whatever you are setting the value that is known as V1 look at this whatever you are
+问题，你设定的值就是 V1。大家看，你
+
+37
+00:03:45,050 --> 00:03:49,850
+going to set to that value itself is V1 now repeat the step 3 and 4 for different values
+设定成多少，那个值本身就是 V1。接下来对不同的电压值
+
+38
+00:03:49,850 --> 00:03:55,290
+of voltages and then afterwards switch of the supply okay and then remove the plug so these
+重复步骤 3 和 4，之后关闭电源，好，然后拔掉插头。这些
+
+39
+00:03:55,290 --> 00:04:01,810
+are the simple procedure okay hope you got an idea about the procedure now draw the table
+就是简单的实验步骤，好，希望大家明白了。现在画表格，
+
+40
+00:04:01,810 --> 00:04:06,810
+before taking the reading kindly draw the table theoretical verification as well as practical
+在读数之前，请先画好表格，包括理论验证和实验
+
+41
+00:04:06,810 --> 00:04:11,930
+verification for key switch of voltage look look at this V1 V2 V3 V1 you are going to
+验证，对于基尔霍夫电压定律，大家看，V1、V2、V3，V1 是你要
+
+42
+00:04:12,170 --> 00:04:21,170
+set so you can set like 3 volt or may be 4 volt or may be 6 volt then 8 volt 10 volt assume
+设定的，可以设成 3 伏，也可以是 4 伏或 6 伏，然后 8 伏、10 伏，假设
+
+43
+00:04:21,170 --> 00:04:26,570
+that there are 5 members in your group okay now you have to measure V now you have to
+你们组有 5 个人，好。现在你要测量 V，现在你要先
+
+44
+00:04:26,570 --> 00:04:31,850
+calculate first theoretically you have to calculate you have to calculate theoretically and put
+从理论上计算，你要从理论上计算，计算出并填写
+
+45
+00:04:31,850 --> 00:04:39,190
+down the values of V2 and V3 afterwards what you do is pick up the circuit apply 3 volt apply 3
+V2 和 V3 的值。之后你要做的是，拿起电路，加上 3 伏，加
+
+46
+00:04:39,550 --> 00:04:44,630
+volt okay you have to apply the 3 volt then you have to measure V2 and V3 finally you need
+3 伏，好，加上 3 伏后，测量 V2 和 V3，最后你需要
+
+47
+00:04:44,630 --> 00:04:49,510
+to verify that V1 is equal to V2 plus V3 likewise in practical case also you are supposed to
+验证 V1 等于 V2 加 V3。同样，在实验部分你也要
+
+48
+00:04:49,510 --> 00:04:54,270
+verify in the same fashion you have to set a current okay you have to set a current the
+用同样的方式验证。你要设定一个电流，好，你要设定一个电流，
+
+49
+00:04:54,270 --> 00:05:01,390
+same 0.2 volt 2 amps then you have to measure I2 and I3 in theoretically and practically
+同样是 0.2 伏 2 安，然后从理论和实验两方面得到 I2 和 I3，
+
+50
+00:05:01,390 --> 00:05:05,390
+theoretically you have to work it out work out practically you have to measure okay same
+理论上要计算出来，实验上要测量出来，好，方法
+
+51
+00:05:05,390 --> 00:05:10,410
+manner now if I show one sample calculation it will be very easy for you so let me show
+一样。现在我给大家演示一个计算示例，这样会很容易理解。我来展示
+
+52
+00:05:10,410 --> 00:05:14,630
+a sample calculation if you are having any queries please put up in the comment box I
+一个计算示例，如果有任何疑问，请在评论区留言，我
+
+53
+00:05:14,630 --> 00:05:19,670
+will clarify now instead of lamp what I am going to do is I am going to represent the
+会解答。现在我不用灯泡，而是用
+
+54
+00:05:19,670 --> 00:05:25,510
+resistance R1 R2 R3 same fashion I am going to club it first in the foremost I need to
+电阻 R1、R2、R3 来表示，用同样的方式组合起来。首先，我需要
+
+55
+00:05:25,510 --> 00:05:30,430
+calculate the resistance of the lamp afterwards I need to compute the equivalent resistance of
+计算灯泡的电阻，然后需要计算
+
+56
+00:05:30,430 --> 00:05:36,950
+the given V3 circuit afterwards I need to calculate I1 I2 I3 separately so after computing
+给定电路的等效电阻，之后需要分别计算 I1、I2、I3，分别计算出
+
+57
+00:05:36,950 --> 00:05:43,710
+I1 I2 I3 separately let me calculate V2 and V3 by using the ohms law that is the plan
+I1、I2、I3 之后，再用欧姆定律计算 V2 和 V3，这就是计划。
+
+58
+00:05:43,710 --> 00:05:50,270
+so power rating of the lamp is 10 watts then voltage rating of the lamp is 12 volt obviously
+灯泡的额定功率是 10 瓦，额定电压是 12 伏，显然
+
+59
+00:05:50,270 --> 00:05:56,110
+I can calculate the resistance that means P is equal to V square by R use the formula
+我可以算出电阻，也就是用 P 等于 V 平方除以 R 这个公式，
+
+60
+00:05:56,110 --> 00:06:01,890
+definitely I will be calculate I will be getting 14.14 ohm please verify everybody so we can
+肯定能算出 14.14 欧，请大家都验证一下。所以我们可以
+
+61
+00:06:01,890 --> 00:06:06,790
+say that the rating of the lamps remain same therefore R1 equal to R2 is equal to R3 is equal
+说灯泡的额定值都相同，因此 R1 等于 R2 等于 R3 等于
+
+62
+00:06:06,790 --> 00:06:12,950
+to R that is nothing but 14.4 ohm now let me see how do you calculate I2 so you have
+R，也就是 14.4 欧。现在我们来看怎么计算 I2，你需要
+
+63
+00:06:12,950 --> 00:06:17,150
+to use the current division formula please refer the video of current division formula
+用分流公式，请参考分流公式的那个视频。
+
+64
+00:06:17,150 --> 00:06:23,190
+so I2 means the total current I1 into resistance of the opposite branch that is R3 divided
+I2 就是总电流 I1 乘以对面支路的电阻 R3，再除以
+
+65
+00:06:23,190 --> 00:06:28,790
+by total resistance R2 plus R3 suppose if I want to calculate I3 total current is equal
+总电阻 R2 加 R3。如果要计算 I3，总电流就是
+
+66
+00:06:28,790 --> 00:06:34,590
+to I1 then resistance of the opposite branch is R2 then R2 plus R3 so same manner I have
+I1，对面支路的电阻是 R2，再除以 R2 加 R3。我也用同样的方式
+
+67
+00:06:34,590 --> 00:06:38,950
+written over that look at this so before that I would like to calculate the equal resistance
+写在那里了，大家看。在此之前，我要先计算等效电阻，
+
+68
+00:06:38,950 --> 00:06:47,110
+R1 R1 R equivalent is equal to R1 plus R2 R3 by R2 plus R3 this will be 21.6 ohm so
+R1，R 等效等于 R1 加上 R2 乘 R3 除以 R2 加 R3，结果是 21.6 欧。
+
+69
+00:06:47,110 --> 00:06:52,110
+later part I need to calculate I1 I2 I3 respectively so R equivalent anyway I computed
+接下来我需要分别计算 I1、I2、I3。等效电阻我已经算出来了，
+
+70
+00:06:52,110 --> 00:06:56,190
+therefore I can calculate the total current I1 is the total current look at this total
+所以可以计算总电流，I1 就是总电流，大家看，总
+
+71
+00:06:56,190 --> 00:07:06,370
+current means total voltage by total resistance so V1 divided by R equivalent okay V1 initially
+电流就是总电压除以总电阻，也就是 V1 除以 R 等效，好，V1 一开始
+
+72
+00:07:06,370 --> 00:07:13,510
+I am taking for 4 volt 4 divided by R equivalent is equal to 21.6 that is equal to 0.185 amps
+我取 4 伏，4 除以等效电阻 21.6，等于 0.185 安，
+
+73
+00:07:13,510 --> 00:07:18,130
+so that is very clear choose you can choose like the 3 volt 4 volt 6 volt here I have
+这一点很清楚。你可以选 3 伏、4 伏、6 伏，这里我
+
+74
+00:07:18,130 --> 00:07:22,890
+chosen 4 volt likewise I2 I can calculate by using current division formula just I
+选的是 4 伏。同样，I2 可以用分流公式计算，就像我刚才
+
+75
+00:07:22,930 --> 00:07:28,530
+explained I1 into resistance of opposite branch by total resistance that is equal to 0.0925
+讲的，I1 乘以对面支路的电阻除以总电阻，等于 0.0925。
+
+76
+00:07:28,530 --> 00:07:35,930
+likewise I3 also can be computed I1 into resistance of opposite branch divided by total resistance so
+同样，I3 也可以算出来，I1 乘以对面支路的电阻除以总电阻。
+
+77
+00:07:35,930 --> 00:07:42,250
+afterwards what I can do is I can verify the relation I1 is equal to I2 plus I3 so hope the
+之后我就可以验证 I1 等于 I2 加 I3 这个关系，希望这个
+
+78
+00:07:42,250 --> 00:07:48,410
+relation is verified afterwards I can compute V2 V2 means I1 into R1 please refer the circuit
+关系得到了验证。然后我可以计算 V2，V2 就是 I1 乘以 R1，请参考电路
+
+79
+00:07:48,410 --> 00:07:54,730
+diagram V2 is equal to I1 into R1 okay then I will be getting definitely I will be getting
+图，V2 等于 I1 乘以 R1，好，然后肯定会得到
+
+80
+00:07:54,730 --> 00:08:00,890
+the particular answer so V2 is equal to look at this V2 is equal to I1 into R1 that is equal to
+这个结果。V2 等于，大家看，V2 等于 I1 乘以 R1，等于
+
+81
+00:08:00,890 --> 00:08:09,810
+2.664 now what you can do is consider a particular loop here V1 is equal to sum of V2 and V3 anyway
+2.664。现在你可以考虑这个回路，这里 V1 等于 V2 与 V3 之和，反正
+
+82
+00:08:09,810 --> 00:08:14,530
+I know the value of V1 and V2 therefore I can calculate V3 V3 is equal to total voltage
+我知道 V1 和 V2 的值，所以可以算出 V3，V3 等于总电压
+
+83
+00:08:14,530 --> 00:08:21,770
+minus this particular voltage I will be getting V3 so I have got the value of V3 okay so V3 is equal
+减去这个电压，就能得到 V3。这样我就得到了 V3 的值，好，V3 等于
+
+84
+00:08:21,770 --> 00:08:30,610
+to V1 minus V2 that is equal to power minus 2.664 that is equal to 1.336 volt okay so it is found
+V1 减 V2，也就是 4 减 2.664，等于 1.336 伏，好，结果
+
+85
+00:08:30,610 --> 00:08:37,690
+that V1 is equal to V2 plus V3 so we verified the KVL KVL we have verified theoretically so
+V1 等于 V2 加 V3，所以我们验证了 KVL，KVL 我们从理论上验证了，所以
+
+86
+00:08:37,690 --> 00:08:43,250
+theoretical verification of KVL is power now what you are supposed to do is so please fill up
+KVL 的理论验证就完成了。现在你们要做的是，请填写
+
+87
+00:08:43,490 --> 00:08:50,610
+the verification of KVL and KCL theoretical part so you can able to complete these two parts
+KVL 和 KCL 验证的理论部分，这样你就能完成这两部分，
+
+88
+00:08:50,610 --> 00:08:57,650
+like theoretical value of KVL you can put down what is V1 what is V2 V3 okay similarly you can
+比如 KVL 的理论值，你可以填上 V1 是多少、V2、V3 是多少，好，同样你可以
+
+89
+00:08:57,650 --> 00:09:04,610
+verify you can you can able to put down the value of KCL like this I1 I2 I3 you can able to no doubt
+验证，你可以填上 KCL 的数值，像这样 I1、I2、I3，你肯定都能
+
+90
+00:09:04,610 --> 00:09:10,050
+clear so time being you can complete up to this now I am going to show you the demonstration
+弄清楚。现在你们可以先完成到这里。接下来我要给大家看演示
+
+91
+00:09:10,050 --> 00:09:15,170
+video so demonstration video that will be sample calculation is just completed so I am going to show
+视频，演示视频……计算示例刚刚讲完了，所以我会在
+
+92
+00:09:15,170 --> 00:09:20,530
+the demonstration in the next session so please watch the next session for the demonstration so
+下一节展示演示，请观看下一节的演示。
+
+93
+00:09:20,530 --> 00:09:25,170
+if you are having any queries for the calculation you can put up in the comment box and also I
+如果对计算有任何疑问，可以在评论区留言。另外我也
+
+94
+00:09:25,170 --> 00:09:31,970
+request you to watch the following video of my previous presentation like what is KVL and KCL
+请大家看看我之前讲解的以下视频，比如什么是 KVL 和 KCL，
+
+95
+00:09:31,970 --> 00:09:36,290
+I have explained in detail with the help of numerical example and also you I request
+我结合数值例题详细讲解过。另外我也请
+
+96
+00:09:36,290 --> 00:09:42,130
+you to watch the videos on series and parallel circuit not only that you need to apply voltage
+你们看看串联和并联电路的视频。不仅如此，你还需要用到分压
+
+97
+00:09:42,130 --> 00:09:46,770
+division and the current division formula that also you can watch if you know what is a series
+和分流公式，这些你也可以去看。如果你了解什么是串
+
+98
+00:09:46,770 --> 00:09:51,010
+parallel circuit okay so current division formula and voltage division formula that is mainly
+并联电路，好，分流公式和分压公式主要
+
+99
+00:09:51,010 --> 00:09:57,490
+applicable when a series parallel circuit comes over the okay now let me demonstrate this
+适用于串并联电路的情况，好。现在我会在下一节演示
+
+100
+00:09:57,490 --> 00:09:59,970
+particular experiment in the coming session thank you
+这个实验，谢谢。
