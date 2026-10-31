@@ -187,7 +187,7 @@ SHOTS = [
 ('K8',
  '空白课程证书和空白手册图标，旁边一个问号',
  'Icons of a blank training certificate and a blank handbook, with a question mark beside them. No people.',
- '可课程和手册，只是信息。',
+ '课程和书面计划，只是信息来源。',
  '安全的最终责任在自己'),
 ('K8',
  '阿杰戴好护目镜，认真检查操作步骤',
