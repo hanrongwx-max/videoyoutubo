@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 297 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 298 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 53 / 59 | 3 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 15 / 47 |
+| Microbiology Biosafety | 54 / 59 | 3 / 48 |
+| BIORISK MANAGEMENT | 47 / 47 | 16 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 14 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
 | Lab Safety Training Series | 13 / 13 | 4 / 13 |
@@ -24,7 +24,7 @@
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 6 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 | Basic Electrical Engineering Lab | 1 / 23 | 0 / 0 |
 | Laser Maintenance Group Safety | 1 / 17 | 0 / 0 |
@@ -152,6 +152,7 @@
 | BIORISK MANAGEMENT | 36_BIORISK MITIGATION | 国内版 | 五类控制减风险（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/36_BIORISK MITIGATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/36_BIORISK MITIGATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 原著版 | 危害与风险评估 | 52 | 4:20 | 28 / 0 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/script.md>) |
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 国内版 | 危害与风险评估（国内版） | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 原著版 | 风险评估怎么做 | 40 | 3:20 | 29 / 0 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT/script.md>) |
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 国内版 | 风险评估怎么做（国内版） | 46 | 3:50 | 29 / 5 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 39_BIOSAFETY LEVEL 3 LABORATORY | 国内版 | 三级室怎么封（国内版） | 30 | 2:30 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 国内版 | 楼和柜子怎么挡住病原体：工程控制（国内版） | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/审查报告.md>) |
@@ -212,6 +213,7 @@
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 原著版 | 实验室的其他常见危害 | 45 | 3:45 | 21 / 0 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6/script.md>) |
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 07_Lab Safety Survey | 原著版 | 安全巡查：找找隐患在哪里 | 53 | 4:25 | 23 / 0 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey/script.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
@@ -438,6 +440,7 @@
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 单一版 | 危险物品怎么分类：九大类与象形图 | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/审查报告.md>) |
 | Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 单一版 | 危险物品伤人也伤环境 | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 单一版 | 生物统计：让微生物数据说真话 | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/审查报告.md>) |
+| Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 单一版 | 吃农药、吸重金属的微生物 | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |
