@@ -13,7 +13,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 18 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 19 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
@@ -464,6 +464,7 @@
 | Lab Safety Training - Essential Protocols | 17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train | 国内版 | 看懂电，管住电气危害（国内版） | 60 | 5:00 | 25 / 4 | [剧本](<Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 18_Radiological Emergencies Get Your Lab Safety Now Training Course | 原著版 | 放射性物质洒漏怎么办 | 27 | 2:15 | 9 / 0 | [剧本](<Lab Safety Training - Essential Protocols/18_Radiological Emergencies Get Your Lab Safety Now Training Course/script.md>) |
 | Lab Safety Training - Essential Protocols | 18_Radiological Emergencies Get Your Lab Safety Now Training Course | 国内版 | 放射性物质洒漏怎么办（国内版） | 45 | 3:45 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/18_Radiological Emergencies Get Your Lab Safety Now Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/18_Radiological Emergencies Get Your Lab Safety Now Training Course（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents | 原著版 | 生物安全事故的应急处置 | 31 | 2:35 | 13 / 0 | [剧本](<Lab Safety Training - Essential Protocols/19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents/script.md>) |
 | Lab Safety Training - Essential Protocols | 19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents | 国内版 | 生物安全事故的应急处置（国内版） | 50 | 4:10 | 13 / 5 | [剧本](<Lab Safety Training - Essential Protocols/19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/19_Stay Safe In The Lab Mastering Emergency Response For Biological Incidents（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course | 国内版 | 实验室里的五类常见危害（国内版） | 44 | 3:40 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/20_Stay Safe In The Lab Common Hazards To Watch Out For Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course | 国内版 | 实验室安全，人人有责（国内版） | 41 | 3:25 | 11 / 4 | [剧本](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（国内版）/审查报告.md>) |
