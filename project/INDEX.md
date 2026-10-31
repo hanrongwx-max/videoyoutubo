@@ -8,9 +8,9 @@
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 6 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 21 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 17 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 18 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 11 / 23 |
-| Lab Safety Training Series | 13 / 13 | 7 / 13 |
+| Lab Safety Training Series | 13 / 13 | 8 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 6 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 8 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
@@ -212,6 +212,7 @@
 | CDC Laboratory Safety Series | 20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat | 国内版 | 给气瓶装上减压器（国内版） | 39 | 3:15 | 11 / 4 | [剧本](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 原著版 | 开瓶阀与调压力 | 25 | 2:05 | 10 / 0 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre/script.md>) |
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 国内版 | 开瓶阀与调压力（国内版） | 36 | 3:00 | 10 / 4 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 原著版 | 供气系统检漏 | 29 | 2:25 | 12 / 0 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System/script.md>) |
 | CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 国内版 | 供气系统检漏（国内版） | 41 | 3:25 | 12 / 3 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 23_Fundamentals of Methylene Chloride Safety – Introduction | 国内版 | 二氯甲烷的安全使用（国内版） | 36 | 3:00 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 原著版 | 进实验室，先穿对、戴好 | 52 | 4:20 | 17 / 0 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) |
@@ -371,6 +372,7 @@
 | Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 07_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Lab Safety Training Series | 07_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
+| Lab Safety Training Series | 08_Basic Lab Skills Training | 原著版 | 新生入门：九种基础仪器的规范使用 | 109 | 9:05 | 41 / 0 | [剧本](<Lab Safety Training Series/08_Basic Lab Skills Training/script.md>) |
 | Lab Safety Training Series | 08_Basic Lab Skills Training | 国内版 | 新生入门：九种基础仪器的规范使用（国内版） | 135 | 11:15 | 41 / 7 | [剧本](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/script.md>) · [审查](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 09_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 10_Lab Techniques & Safety Crash Course Chemistry 21 | 国内版 | 实验室生存指南：穿戴、操作与应急（国内版） | 98 | 8:10 | 29 / 6 | [剧本](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21（国内版）/script.md>) · [审查](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21（国内版）/审查报告.md>) |
