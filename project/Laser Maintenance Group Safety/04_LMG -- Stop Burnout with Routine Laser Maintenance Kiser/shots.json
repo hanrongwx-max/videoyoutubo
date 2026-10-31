@@ -1,0 +1,779 @@
+{
+ "id": "04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser",
+ "edition": "单一版",
+ "series": "Laser Maintenance Group Safety",
+ "title": "一颗螺栓引发的连锁故障",
+ "seconds": 290,
+ "source_doc": "course/Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser.md",
+ "author_source": "project/Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser/src.py",
+ "points": {
+  "K1": "故障像多米诺骨牌",
+  "K2": "输出镜：光从这里出来",
+  "K3": "护罩松脱，掉到镜前",
+  "K4": "碎屑溅回，镜片开裂",
+  "K5": "镜片也是压力边界",
+  "K6": "跑偏的光熔穿水管",
+  "K7": "喷嘴被焊死",
+  "K8": "切不动了，先停下来看",
+  "K9": "及时停机，损失有限",
+  "K10": "情况突变就停",
+  "K11": "例行维护，防患未然",
+  "K12": "拆装要拧紧，请合格人员",
+  "K13": "松了几个月没人发现",
+  "K14": "按厂家要求的周期维护",
+  "K15": "停机时间才是大损失",
+  "S1": "停机以后：挂牌、报告",
+  "S2": "跑偏的光也会伤人",
+  "S3": "修完要检查，再试机",
+  "S4": "维修时的个人防护"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在桌前，桌上一排多米诺骨牌，旁边一个黄铜镜座",
+   "prompt_en": "The panda mascot stands at a workbench with a row of dominoes and a brass lens holder beside them.",
+   "narration": "这一课讲一颗螺栓引发的连锁故障。",
+   "overlay": [
+    "一颗螺栓引发的连锁故障"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "螺栓、镜片、水管、喷嘴四个图标依次倒下",
+   "prompt_en": "Four icons fall one after another like dominoes: a bolt, a round lens, a water tube, and a nozzle. No people.",
+   "narration": "一个松了，后面接二连三地坏。",
+   "overlay": [],
+   "labels": [
+    "螺栓",
+    "镜片",
+    "水管",
+    "喷嘴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "工程训练中心，阿杰在切割机前皱眉，板材没切透",
+   "prompt_en": "In an engineering training workshop, the young male student frowns at a laser cutting machine; the sheet metal is not cut through.",
+   "narration": "阿杰发现：板子怎么切不透了？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰伸手去调高功率旋钮的图标，被红叉划掉",
+   "prompt_en": "An icon of a hand turning up a power knob on a control panel, crossed out with a red X. No people.",
+   "narration": "他想把功率调高，硬切下去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李按住他的手，按下暂停键",
+   "prompt_en": "The facility engineer stops the young male student's hand and presses the pause button on the machine.",
+   "narration": "老李拦住他：先停下，看看哪里变了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "为什么要停？听一个真实的故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "故障像多米诺骨牌",
+   "scene": "一排多米诺骨牌，第一块被轻轻碰倒",
+   "prompt_en": "A row of dominoes; the first one is gently tipped over and starts a chain. No people.",
+   "narration": "设备故障常常像推倒的多米诺。",
+   "overlay": [
+    "故障像多米诺骨牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "故障像多米诺骨牌",
+   "scene": "桌上摆着几样烧坏的零件：镜座、橙色镜片、喷嘴、弯折的水管",
+   "prompt_en": "Damaged parts on a dark bench: a brass lens holder, an orange round lens, a copper nozzle and a bent brown tube. No people.",
+   "narration": "这几个坏零件，就是一条故障链。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "输出镜：光从这里出来",
+   "scene": "示意图：激光器谐振腔两端各有一面镜子，一端透出光束",
+   "prompt_en": "A simple diagram: a laser tube with a mirror at each end; a beam comes out through one end mirror. No people.",
+   "narration": "激光在腔里来回反射，从输出镜射出。",
+   "overlay": [
+    "输出镜：光从这里出来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "输出镜：光从这里出来",
+   "scene": "老李戴手套，举起一片橙色圆镜片",
+   "prompt_en": "The facility engineer, wearing gloves, holds up an orange round lens.",
+   "narration": "这片橙色镜片，就是输出镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "输出镜：光从这里出来",
+   "scene": "示意图：大部分光反射回腔内，一部分透出",
+   "prompt_en": "A diagram: most of the light reflects back into the tube while a smaller part passes through the output mirror. No people.",
+   "narration": "只有一部分光从它透出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "示意图：输出镜前有一个短筒形护罩，用螺栓固定",
+   "prompt_en": "A diagram: a short cylindrical shroud held by a bolt sits in front of the output mirror. No people.",
+   "narration": "镜前有个护罩，用螺栓固定。",
+   "overlay": [
+    "护罩松脱，掉到镜前"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "螺栓一点点退出来，护罩松动",
+   "prompt_en": "Animation: the bolt slowly backs out and the shroud becomes loose. No people.",
+   "narration": "日子久了，螺栓松了或受热退了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "护罩掉下来，挡在光路前",
+   "prompt_en": "Animation: the loose shroud drops down and blocks the beam path in front of the mirror. No people.",
+   "narration": "护罩掉下来，正好挡在镜子前。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "光束打在护罩上，碎屑向回飞溅到镜面",
+   "prompt_en": "A diagram: the beam strikes the fallen shroud and small fragments spray back onto the mirror surface. No people.",
+   "narration": "光束打中护罩，碎屑溅回镜面。",
+   "overlay": [
+    "碎屑溅回，镜片开裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "橙色镜片特写，表面一道裂纹",
+   "prompt_en": "Close-up of an orange round lens with a visible crack across its surface. No people.",
+   "narration": "镜片表面裂开了一道缝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "从侧面看镜片，内部有细小的裂纹",
+   "prompt_en": "Side view of the lens showing fine cracks inside the material. No people.",
+   "narration": "从侧面看，里面也裂了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "示意图：谐振腔内是低压，外面是大气，镜片隔在中间",
+   "prompt_en": "A diagram: low pressure inside the laser tube, normal air outside, with the mirror sealing between them. No people.",
+   "narration": "这片镜子还是密封的边界。",
+   "overlay": [
+    "镜片也是压力边界"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "镜片向内碎裂，空气涌入腔内的示意图",
+   "prompt_en": "A diagram: the cracked mirror breaks inward and outside air rushes into the laser tube. No people.",
+   "narration": "腔内气压低，镜片一碎就会向内塌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "风机卡住、电源冒烟的图标",
+   "prompt_en": "Icons of a jammed blower and a smoking power supply box. No people.",
+   "narration": "风机卡死，电源可能烧坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "欣欣双手捂头，身后一个大大的感叹号",
+   "prompt_en": "The panda mascot holds its head with both paws, a large exclamation mark behind it.",
+   "narration": "那就是整台激光器的大事故。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "跑偏的光熔穿水管",
+   "scene": "光束斜着反射出去，打在一根冷却水管上",
+   "prompt_en": "A diagram: a deflected beam reflects sideways and hits a cooling water tube. No people.",
+   "narration": "跑偏的光，又打中了冷却水管。",
+   "overlay": [
+    "跑偏的光熔穿水管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "跑偏的光熔穿水管",
+   "scene": "弯折的水管上有一处熔化的口子",
+   "prompt_en": "Close-up of a bent brown tube with a melted hole. No people.",
+   "narration": "水管被熔出一个洞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "跑偏的光熔穿水管",
+   "scene": "水喷到旁边的电气接头上，冒出火花图标",
+   "prompt_en": "Water sprays from the tube onto nearby electrical connectors, with a small spark icon. No people.",
+   "narration": "水喷到了快门的电气接头上。",
+   "overlay": [],
+   "labels": [
+    "水电相遇"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "示意图：光束本该穿过喷嘴中心的小孔",
+   "prompt_en": "A diagram: a beam should pass straight through the small center hole of a cutting nozzle. No people.",
+   "narration": "正常时，光从喷嘴中心穿出去。",
+   "overlay": [
+    "喷嘴被焊死"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "光束偏了，打在喷嘴内壁，内壁变色",
+   "prompt_en": "A diagram: the misaligned beam hits the inner wall of the nozzle, which shows heat discoloration. No people.",
+   "narration": "光一偏，就打在喷嘴内壁上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "喷嘴的孔被熔住，只剩周边小孔漏出一点气",
+   "prompt_en": "Close-up of a copper nozzle whose center hole is melted shut, with only a little gas escaping from small side holes. No people.",
+   "narration": "孔被焊死，光出不来，只漏点气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "操作者看到切不透，立刻按下停止键",
+   "prompt_en": "The female graduate student sees an incomplete cut and immediately presses the stop button.",
+   "narration": "好在操作的人一切不动，马上停机。",
+   "overlay": [
+    "切不动了，先停下来看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "调高功率、调慢速度两个图标，都被红叉划掉",
+   "prompt_en": "Two icons: a power knob being turned up and a speed dial being turned down, both crossed out with red X marks. No people.",
+   "narration": "不加功率，不降速度，不硬切。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "一个眼睛和放大镜图标",
+   "prompt_en": "An icon of an eye and a magnifying glass. No people.",
+   "narration": "切不动，说明有东西变了，停下来看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "示意图：裂纹继续扩展，贯穿整片镜子",
+   "prompt_en": "A diagram: the crack keeps growing until it runs all the way across the lens. No people.",
+   "narration": "要是接着切，裂纹就会裂穿。",
+   "overlay": [
+    "及时停机，损失有限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "天平一边是整台激光器，一边是几个小零件",
+   "prompt_en": "A balance scale: a whole laser resonator on one side, a few small parts on the other. No people.",
+   "narration": "及时停机，只坏了几个小零件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "情况突变就停",
+   "scene": "欣欣举着一块停止标志牌",
+   "prompt_en": "The panda mascot holds up a red stop sign.",
+   "narration": "记住：情况突然变了，就停。",
+   "overlay": [
+    "情况突变就停"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "一台机器的速度表一天比一天低",
+   "prompt_en": "An icon of a machine with a speed gauge dropping lower each day on a calendar. No people.",
+   "narration": "拖着不维护，机器越跑越慢。",
+   "overlay": [
+    "例行维护，防患未然"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "速度表突然归零，机器停摆",
+   "prompt_en": "The speed gauge suddenly drops to zero and the machine stops. No people.",
+   "narration": "最后突然罢工，损失更大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "老李拿着扳手和空白检查表站在机器旁",
+   "prompt_en": "The facility engineer stands beside the machine with a wrench and a blank checklist.",
+   "narration": "例行维护，就是在出大事前发现问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "老李拆下护罩，检查后再装回去",
+   "prompt_en": "The facility engineer removes the shroud, inspects it, and fits it back into place.",
+   "narration": "维护时，这个护罩要拆下来再装回。",
+   "overlay": [
+    "拆装要拧紧，请合格人员"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "护罩装在狭窄角落里，手很难够到",
+   "prompt_en": "A diagram: the shroud sits in a tight corner where a hand can barely reach. No people.",
+   "narration": "位置又窄又难够，容易没拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "老李用一把专用扳手把螺栓拧紧",
+   "prompt_en": "The facility engineer tightens the bolt with a special long wrench.",
+   "narration": "合格的人，用合适的工具，才拧得牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "松了几个月没人发现",
+   "scene": "日历一页页翻过，护罩一直松着",
+   "prompt_en": "Calendar pages flip by over several months while the shroud stays loose. No people.",
+   "narration": "这个护罩松了好几个月，没人发现。",
+   "overlay": [
+    "松了几个月没人发现"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "松了几个月没人发现",
+   "scene": "老李打开机器检查，一眼看到松动的护罩",
+   "prompt_en": "The facility engineer opens the machine during maintenance and spots the loose shroud right away.",
+   "narration": "按时维护，一打开就能发现。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按厂家要求的周期维护",
+   "scene": "空白说明书旁一个运行计时器",
+   "prompt_en": "A blank equipment manual next to a running-hours counter icon. No people.",
+   "narration": "维护周期按厂家要求，按运行小时算。",
+   "overlay": [
+    "按厂家要求的周期维护"
+   ],
+   "labels": [
+    "原片：每千小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按厂家要求的周期维护",
+   "scene": "日夜交替的机器，计时器转得飞快",
+   "prompt_en": "A machine under alternating sun and moon icons, its hour counter spinning quickly. No people.",
+   "narration": "开得越久，维护就要越勤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "老周看着停着的机器，旁边堆着订单",
+   "prompt_en": "The older man looks at a stopped laser cutting machine with a pile of blank job sheets beside it.",
+   "narration": "不想停机，结果停得更久。",
+   "overlay": [
+    "停机时间才是大损失"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "日历上两天被划掉，再加扳手和时钟图标",
+   "prompt_en": "A calendar with two days crossed out, then a wrench and a clock icon. No people.",
+   "narration": "等人、维修、重新调机，都要时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机以后：挂牌、报告",
+   "scene": "老李在停下的机器上挂空白停用牌",
+   "prompt_en": "The facility engineer hangs a blank out-of-service tag on the stopped laser cutting machine.",
+   "narration": "停机以后，挂上停用牌。",
+   "overlay": [
+    "停机以后：挂牌、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机以后：挂牌、报告",
+   "scene": "阿杰给老周打电话报告",
+   "prompt_en": "The young male student calls the older man on the phone to report the problem.",
+   "narration": "马上报告负责老师和设备管理员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机以后：挂牌、报告",
+   "scene": "自己重新开机的图标，被红叉划掉",
+   "prompt_en": "An icon of a hand restarting a tagged machine, crossed out with a red X. No people.",
+   "narration": "没查清原因，不能自己重新开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "跑偏的光也会伤人",
+   "scene": "示意图：反射光从机器缝隙射出，指向一个人形图标",
+   "prompt_en": "A diagram: a stray reflected beam escapes through a gap in the machine housing toward a person icon. No people.",
+   "narration": "跑偏的光，也可能射出机外伤人。",
+   "overlay": [
+    "跑偏的光也会伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "跑偏的光也会伤人",
+   "scene": "关好的机门、防护眼镜、激光警告标志三个图标",
+   "prompt_en": "Three icons: a closed machine door, laser safety goggles, and a laser warning sign. No people.",
+   "narration": "门要关好，需要时戴对波长的眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "跑偏的光也会伤人",
+   "scene": "人从侧面缝隙往里看的图标，被红叉划掉",
+   "prompt_en": "An icon of a person peeking into a gap in the machine housing, crossed out with a red X. No people.",
+   "narration": "别从缝隙往里看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "修完要检查，再试机",
+   "scene": "老李对照空白检查表，逐项检查螺栓和接头",
+   "prompt_en": "The facility engineer checks bolts and fittings one by one against a blank checklist.",
+   "narration": "修完对照清单，逐项检查紧固。",
+   "overlay": [
+    "修完要检查，再试机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "修完要检查，再试机",
+   "scene": "老李关好机门试机，小研在旁记录",
+   "prompt_en": "The facility engineer runs a test with the door closed while the female graduate student records in a blank logbook.",
+   "narration": "授权人员试机正常，再交回使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "维修时的个人防护",
+   "scene": "老李戴上手套和护目镜，拿起烧坏的喷嘴",
+   "prompt_en": "The facility engineer puts on gloves and safety glasses before picking up a burned nozzle.",
+   "narration": "拿烧坏的零件，戴手套和护目镜。",
+   "overlay": [
+    "维修时的个人防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "维修时的个人防护",
+   "scene": "徒手拿满是黑灰的零件的图标，被红叉划掉",
+   "prompt_en": "An icon of bare hands holding a soot-covered part, crossed out with a red X. No people.",
+   "narration": "烧蚀的黑灰不要用手抹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现停止、扳手、检查表、停用牌、眼镜五个图标",
+   "prompt_en": "The panda mascot stands beside five icons: a stop sign, a wrench, a checklist, an out-of-service tag, and safety goggles.",
+   "narration": "情况一变就停，挂牌报告。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "老李把护罩拧紧，阿杰在旁边看",
+   "prompt_en": "The facility engineer tightens the shroud while the young male student watches.",
+   "narration": "按时维护，拧紧检查，再试机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、老李站在切割机旁挥手，多米诺骨牌稳稳立着",
+   "prompt_en": "The panda mascot waves goodbye with the young male student and the facility engineer, a row of dominoes standing firmly beside them.",
+   "narration": "别让第一块骨牌倒下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
