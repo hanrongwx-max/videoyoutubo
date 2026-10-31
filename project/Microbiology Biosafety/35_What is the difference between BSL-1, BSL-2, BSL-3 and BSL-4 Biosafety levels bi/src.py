@@ -163,7 +163,7 @@ SHOTS = [
  "第六行，实验室设计。", "第六行：实验室设计"),
 ("K11", "普通实验室和带洗手池、高压灭菌器的实验室",
  "Two room diagrams: a basic lab, and a lab with a sink, an autoclave and a splash shield. No people.",
- "二级加洗手池、灭菌器和防溅屏。", "", ["一级", "二级"]),
+ "一级普通；二级加洗手池、灭菌器、防溅屏。", "", ["一级", "二级"]),
 ("K11", "空气箭头向内的房间，排风口有过滤器图标",
  "A room diagram with airflow arrows pointing inward and a filter icon on the exhaust. No people.",
  "三级：负压，排风经高效过滤。", "", ["三级"]),
