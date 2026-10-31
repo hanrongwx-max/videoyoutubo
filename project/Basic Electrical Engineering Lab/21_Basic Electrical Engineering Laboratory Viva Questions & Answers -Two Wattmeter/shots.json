@@ -1,0 +1,618 @@
+{
+ "id": "21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "二瓦特表法：三相功率口试问答",
+ "seconds": 220,
+ "source_doc": "course/Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter.md",
+ "author_source": "project/Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter/src.py",
+ "points": {
+  "K1": "三相功率怎么测",
+  "K2": "什么是二瓦特表法",
+  "K3": "三相有功功率公式",
+  "K4": "三相无功功率公式",
+  "K5": "由两表读数算功率因数",
+  "K6": "三相电源和三相负载举例",
+  "K7": "还会问到电机",
+  "K8": "功率表的两个线圈",
+  "K9": "有疑问就提出",
+  "S1": "功率表反偏：断电后再调换接线",
+  "S2": "单手操作，身体不靠实验台",
+  "S3": "认识用电安全标志",
+  "S4": "通电前，台面清干净"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三相实验台前，台上两块功率表和一台小电动机",
+   "prompt_en": "The panda mascot stands at a three-phase lab bench with two wattmeters with blank dials and a small motor, waving at the camera.",
+   "narration": "大家好！今天复习二瓦特表法。",
+   "overlay": [
+    "二瓦特表法：三相功率口试问答"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "两块功率表、三相线、电动机三个图标",
+   "prompt_en": "Three icons in a row: two wattmeters, three supply lines, and an induction motor. No people.",
+   "narration": "两块表，测出三相总功率。",
+   "overlay": [],
+   "labels": [
+    "两块表",
+    "三相",
+    "功率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着一块功率表指针往左打，慌了",
+   "prompt_en": "The young male student stares at a wattmeter whose needle swings below zero, looking alarmed.",
+   "narration": "做实验时，一块表的指针往反方向偏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰伸手想直接拔线，小研按住他的手",
+   "prompt_en": "The young male student reaches to pull a lead off the live meter; the female graduate student holds his hand back.",
+   "narration": "他想马上拔线重接，被小研拦住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣竖起手指",
+   "prompt_en": "The panda mascot raises one finger in front of a blank whiteboard.",
+   "narration": "先把口试题过一遍，再说怎么处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三相功率怎么测",
+   "scene": "三相线路上接着两块功率表的图标",
+   "prompt_en": "An icon of a three-phase line with two wattmeters connected. No people.",
+   "narration": "第一题：三相功率怎么测？",
+   "overlay": [
+    "三相功率怎么测"
+   ],
+   "labels": [
+    "二瓦特表法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三相功率怎么测",
+   "scene": "平衡天平和不平衡天平都打勾",
+   "prompt_en": "Two icons, a balanced scale and an unbalanced scale, both with green checks. No people.",
+   "narration": "用二瓦特表法，负载对称不对称都能测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "两块功率表分别串在两根相线上，第三根线作公共参考",
+   "prompt_en": "An icon of two wattmeters placed on two of the three lines, with the third line as the common reference. No people.",
+   "narration": "第二题：两块功率表接在任意两根相线上。",
+   "overlay": [
+    "什么是二瓦特表法"
+   ],
+   "labels": [
+    "W1",
+    "W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "两块表的读数相加得到总功率",
+   "prompt_en": "Two meter icons with a plus sign between them and an equals sign leading to a total power icon. No people.",
+   "narration": "总功率等于两块表读数相加。",
+   "overlay": [],
+   "labels": [
+    "P=W1+W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "功率表旁一个有功功率灯泡图标",
+   "prompt_en": "A wattmeter icon beside a glowing lamp icon representing real power. No people.",
+   "narration": "测出来的是有功功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "三相有功功率公式",
+   "scene": "白板上写着三相有功功率公式",
+   "prompt_en": "A whiteboard with a three-phase real power formula in symbols only. No people.",
+   "narration": "第三题：有功功率可以用线量写。",
+   "overlay": [
+    "三相有功功率公式"
+   ],
+   "labels": [
+    "P=√3·VL·IL",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "三相有功功率公式",
+   "scene": "白板上写着用相量表示的公式",
+   "prompt_en": "A whiteboard with the same formula written using phase quantities. No people.",
+   "narration": "也可以用相量写，cosφ 是功率因数。",
+   "overlay": [],
+   "labels": [
+    "P=3·Vph·Iph",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相无功功率公式",
+   "scene": "白板上把 cos 换成 sin",
+   "prompt_en": "A whiteboard where a cosine symbol is replaced by a sine symbol. No people.",
+   "narration": "无功功率：把余弦换成正弦。",
+   "overlay": [
+    "三相无功功率公式"
+   ],
+   "labels": [
+    "Q=√3·VL·IL",
+    "×sinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "两块表的读数卡片和一个计算器",
+   "prompt_en": "Two blank reading cards for two meters next to a calculator. No people.",
+   "narration": "第四题：功率因数怎么算？",
+   "overlay": [
+    "由两表读数算功率因数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "白板上写着正切公式",
+   "prompt_en": "A whiteboard with a tangent formula in symbols only. No people.",
+   "narration": "先由两表读数算出正切值。",
+   "overlay": [],
+   "labels": [
+    "tanφ=√3×",
+    "(W2−W1)",
+    "÷(W1+W2)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "小研用计算器先求角度，再求余弦",
+   "prompt_en": "The female graduate student uses a calculator, first finding an angle, then its cosine.",
+   "narration": "反求出角度，再取余弦，就是功率因数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "空白实验指导书翻开",
+   "prompt_en": "An open lab manual with blank pages. No people.",
+   "narration": "两表的先后约定，以指导书为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相电源和三相负载举例",
+   "scene": "发电机图标引出三根线",
+   "prompt_en": "A generator icon with three output lines. No people.",
+   "narration": "第五题：三相电源，比如交流发电机。",
+   "overlay": [
+    "三相电源和三相负载举例"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相电源和三相负载举例",
+   "scene": "三相异步电动机图标",
+   "prompt_en": "A three-phase induction motor icon. No people.",
+   "narration": "三相负载，最典型的是异步电动机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "还会问到电机",
+   "scene": "电动机和发电机图标旁各一个问号",
+   "prompt_en": "A motor icon and a generator icon, each with a question mark. No people.",
+   "narration": "口试也可能问电机的原理。",
+   "overlay": [
+    "还会问到电机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "功率表内部两个线圈示意：一个粗一个细",
+   "prompt_en": "A cutaway icon of a wattmeter showing two coils, one thick and one thin. No people.",
+   "narration": "补充：功率表里有两个线圈。",
+   "overlay": [
+    "功率表的两个线圈"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "粗线圈串在线路里",
+   "prompt_en": "The thick coil connected in series with the line. No people.",
+   "narration": "电流线圈串在线路里。",
+   "overlay": [],
+   "labels": [
+    "电流线圈",
+    "M",
+    "L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "细线圈并在两根线之间",
+   "prompt_en": "The thin coil connected across two lines. No people.",
+   "narration": "电压线圈并在线路两端。",
+   "overlay": [],
+   "labels": [
+    "电压线圈",
+    "C",
+    "V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "有疑问就提出",
+   "scene": "阿杰举手，王老师走过来",
+   "prompt_en": "The young male student raises his hand and the safety administrator walks over.",
+   "narration": "复习有疑问，及时问老师。",
+   "overlay": [
+    "有疑问就提出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "功率表反偏：断电后再调换接线",
+   "scene": "一块功率表指针反偏到零以下的图标",
+   "prompt_en": "An icon of a wattmeter needle deflecting below zero. No people.",
+   "narration": "功率因数低时，一块表可能反偏。",
+   "overlay": [
+    "功率表反偏：断电后再调换接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "功率表反偏：断电后再调换接线",
+   "scene": "带电拔功率表接线的图标被红叉划掉",
+   "prompt_en": "An icon of a hand pulling a lead off a live wattmeter, crossed out with a red X. No people.",
+   "narration": "不能带电拔线、换线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "功率表反偏：断电后再调换接线",
+   "scene": "阿杰拉下电源开关，指示灯熄灭",
+   "prompt_en": "The young male student switches off the three-phase bench power and the indicator lamps go dark.",
+   "narration": "先断开电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "功率表反偏：断电后再调换接线",
+   "scene": "王老师指导阿杰调换一个线圈的两根接线",
+   "prompt_en": "The safety administrator guides the young male student as he swaps the two leads of one meter coil.",
+   "narration": "在老师指导下调换线圈接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "功率表反偏：断电后再调换接线",
+   "scene": "空白记录表上一格画着负号图标",
+   "prompt_en": "A blank record table with a minus sign icon in one cell. No people.",
+   "narration": "老师查过再通电，读数记为负值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "单手操作，身体不靠实验台",
+   "scene": "阿杰一只手调节旋钮，另一只手放在背后",
+   "prompt_en": "The young male student adjusts a knob with one hand while keeping his other hand behind his back.",
+   "narration": "通电后调节、读数，尽量单手操作。",
+   "overlay": [
+    "单手操作，身体不靠实验台"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "单手操作，身体不靠实验台",
+   "scene": "双手同时抓住两根导线的图标被红叉划掉",
+   "prompt_en": "An icon of two hands each gripping a different lead at the same time, crossed out with a red X. No people.",
+   "narration": "别两只手同时碰两处导体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "单手操作，身体不靠实验台",
+   "scene": "人趴在实验台上看表的图标被红叉划掉",
+   "prompt_en": "An icon of a person leaning their body on a powered lab bench to read a meter, crossed out with a red X. No people.",
+   "narration": "读表时身体别靠在实验台上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认识用电安全标志",
+   "scene": "当心触电警示标志贴在配电箱上",
+   "prompt_en": "An electrical hazard warning sign on a distribution box. No people.",
+   "narration": "黄色三角闪电：当心触电。",
+   "overlay": [
+    "认识用电安全标志"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认识用电安全标志",
+   "scene": "开关上挂着禁止合闸的禁止标志牌",
+   "prompt_en": "A prohibition sign tag for do not switch on hanging on a switch. No people.",
+   "narration": "挂着禁止合闸牌，谁也不能合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认识用电安全标志",
+   "scene": "接地标志贴在实验台接地端子旁",
+   "prompt_en": "A protective earth symbol label beside the earth terminal of a lab bench. No people.",
+   "narration": "接地标志处，接地线不能拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认识用电安全标志",
+   "scene": "阿杰进门前停下，看墙上的标志",
+   "prompt_en": "The young male student pauses at the lab door to look at the safety signs on the wall.",
+   "narration": "进门先看标志，按标志要求做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "通电前，台面清干净",
+   "scene": "实验台上散落着螺丝刀、多余导线和水杯",
+   "prompt_en": "A lab bench cluttered with a screwdriver, spare leads and a cup. No people.",
+   "narration": "通电前，看看台面乱不乱。",
+   "overlay": [
+    "通电前，台面清干净"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "通电前，台面清干净",
+   "scene": "阿杰把多余导线和工具收进盒子",
+   "prompt_en": "The young male student puts spare leads and tools away into a box.",
+   "narration": "多余导线和工具，全部收走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "通电前，台面清干净",
+   "scene": "台面整洁，只剩接好的线路，阿杰喊一声后合闸",
+   "prompt_en": "A tidy bench with only the finished circuit; the young male student calls out a warning before switching on.",
+   "narration": "台面干净了，再请老师检查通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两块功率表相加的图标",
+   "prompt_en": "Two wattmeter icons with a plus sign and an equals sign. No people.",
+   "narration": "二瓦特表法：两表相加是总功率。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "P=W1+W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "余弦和正弦两张公式卡片",
+   "prompt_en": "Two formula cards, one with a cosine symbol and one with a sine symbol. No people.",
+   "narration": "有功用余弦，无功用正弦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "发电机和电动机图标",
+   "prompt_en": "A generator icon and a motor icon side by side. No people.",
+   "narration": "电源如发电机，负载如电动机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "反偏指针、断开的开关、单手、警示标志四个图标",
+   "prompt_en": "Four icons: a reversed meter needle, a switched-off switch, a single hand, and an electrical hazard warning sign. No people.",
+   "narration": "反偏先断电，单手操作，认清标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整洁、已断电的三相实验台前挥手",
+   "prompt_en": "The panda mascot waves goodbye at a tidy, switched-off three-phase lab bench.",
+   "narration": "祝口试顺利，安全用电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
