@@ -23,7 +23,7 @@
 | Laser Equipment & Safety Training | 8 / 8 | 1 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 0 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 0 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 0 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 1 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 1 / 7 |
 | Electrical Safety Series | 6 / 25 | 0 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
@@ -145,6 +145,7 @@
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 国内版 | 开瓶阀与调压力（国内版） | 36 | 3:00 | 10 / 4 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 国内版 | 供气系统检漏（国内版） | 41 | 3:25 | 12 / 3 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 23_Fundamentals of Methylene Chloride Safety – Introduction | 国内版 | 二氯甲烷的安全使用（国内版） | 36 | 3:00 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 原著版 | 进实验室，先穿对、戴好 | 52 | 4:20 | 17 / 0 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 国内版 | 进实验室，先穿对、戴好（国内版） | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
