@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 14 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 15 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -238,6 +238,7 @@
 | Basic Electrical Engineering Lab | 13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect | 国内版 | 电工实验：测星形和三角形的线量相量（国内版） | 59 | 4:55 | 19 / 3 | [剧本](<Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K | 原著版 | 电工实验口试：基尔霍夫定律篇 | 37 | 3:05 | 21 / 0 | [剧本](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K/script.md>) |
 | Basic Electrical Engineering Lab | 14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K | 国内版 | 电工实验口试：基尔霍夫定律篇（国内版） | 49 | 4:05 | 21 / 3 | [剧本](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q | 原著版 | 电工实验口试：开路与短路篇 | 34 | 2:50 | 15 / 0 | [剧本](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q/script.md>) |
 | Basic Electrical Engineering Lab | 15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q | 国内版 | 电工实验口试：开路与短路篇（国内版） | 43 | 3:35 | 15 / 3 | [剧本](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single | 国内版 | 电工实验口试：单相功率篇（国内版） | 53 | 4:25 | 20 / 3 | [剧本](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer | 国内版 | 三电压表法：口试问答与用电安全（国内版） | 68 | 5:40 | 13 / 5 | [剧本](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（国内版）/审查报告.md>) |

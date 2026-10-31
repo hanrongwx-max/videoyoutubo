@@ -1,0 +1,501 @@
+{
+ "id": "15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工实验口试：开路与短路篇",
+ "seconds": 170,
+ "source_doc": "course/Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q.md",
+ "author_source": "project/Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q/src.py",
+ "points": {
+  "K1": "本集考什么",
+  "K2": "什么是开路",
+  "K3": "什么是短路",
+  "K4": "电阻的三种连接",
+  "K5": "什么是串联",
+  "K6": "串联的特点",
+  "K7": "一两句话答清楚",
+  "K8": "什么是并联",
+  "K9": "并联的特点",
+  "K10": "熔断器保护设备",
+  "K11": "熔断器接相线、串在电路里",
+  "K12": "按负载选熔断器规格",
+  "K13": "单刀单掷开关",
+  "K14": "双刀单掷开关",
+  "K15": "小结，复习上一集"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣坐在考官桌后，举起一张空白题卡",
+   "prompt_en": "The panda mascot sits behind an examiner's desk holding up a blank question card, waving at the camera.",
+   "narration": "口试第二关：开路和短路！",
+   "overlay": [
+    "电工实验口试：开路与短路篇"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰和小研在实验室门口复习",
+   "prompt_en": "The young male student and the female graduate student review notes together at the lab door.",
+   "narration": "阿杰和小研一起准备第二次口试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本集考什么",
+   "scene": "断开的电路和被导线短接的电路两个图标",
+   "prompt_en": "Two circuit icons: one with a gap in the wire, one with a wire bridging across the lamp. No people.",
+   "narration": "这次考开路、短路和相关器件。",
+   "overlay": [
+    "本集考什么"
+   ],
+   "labels": [
+    "开路",
+    "短路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是开路",
+   "scene": "电路导线中间断开一个缺口，灯不亮",
+   "prompt_en": "A circuit icon with a gap in the wire; the lamp is dark. No people.",
+   "narration": "开路：电路某处断开了。",
+   "overlay": [
+    "什么是开路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是开路",
+   "scene": "电流箭头在缺口处停住，旁边写零",
+   "prompt_en": "A current arrow stops at the gap, with a zero beside it. No people.",
+   "narration": "断开了，电流就是零。",
+   "overlay": [],
+   "labels": [
+    "I=0"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是开路",
+   "scene": "缺口两端电压箭头拉得很长，旁边一个无穷大符号",
+   "prompt_en": "Across the gap, a very long voltage arrow with an infinity symbol beside it. No people.",
+   "narration": "原片说：开路时电压变为无穷大。",
+   "overlay": [],
+   "labels": [
+    "U→∞"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是短路",
+   "scene": "两根导线直接碰在一起，冒出火花",
+   "prompt_en": "Two bare conductors touching each other directly, with a spark at the contact point. No people.",
+   "narration": "短路：两根导线直接碰在一起。",
+   "overlay": [
+    "什么是短路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是短路",
+   "scene": "电流箭头变得很粗，负载两端电压为零",
+   "prompt_en": "A very thick current arrow bypasses the load; a zero sign beside the load. No people.",
+   "narration": "短路时电压为零，电流非常大。",
+   "overlay": [],
+   "labels": [
+    "U=0",
+    "I→∞"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是短路",
+   "scene": "老周比划电流冲向无穷大",
+   "prompt_en": "The older man spreads his arms wide beside a huge current arrow with an infinity symbol.",
+   "narration": "原片说：短路电流是无穷大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是短路",
+   "scene": "雷雨中电线杆上两根导线被风吹到一起",
+   "prompt_en": "In a thunderstorm, two overhead wires on a utility pole swing together and spark. No people.",
+   "narration": "雷雨大风时，电线相碰就会短路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是短路",
+   "scene": "欣欣对比两个图标：开路和短路相反",
+   "prompt_en": "The panda mascot points at the open circuit and short circuit icons side by side.",
+   "narration": "开路和短路，特点正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电阻的三种连接",
+   "scene": "串联、并联、串并联三个电阻组合图标",
+   "prompt_en": "Three resistor combination icons: series, parallel, and series-parallel. No people.",
+   "narration": "电阻有串联、并联、串并联三种接法。",
+   "overlay": [
+    "电阻的三种连接"
+   ],
+   "labels": [
+    "串联",
+    "并联",
+    "串并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是串联",
+   "scene": "两个电阻首尾相接",
+   "prompt_en": "Two resistors connected end to start in a line. No people.",
+   "narration": "串联：前一个的尾接后一个的头。",
+   "overlay": [
+    "什么是串联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "串联的特点",
+   "scene": "串联电阻上同样粗的电流箭头",
+   "prompt_en": "Two series resistors with equal-thickness current arrows through both. No people.",
+   "narration": "串联电流处处相同。",
+   "overlay": [
+    "串联的特点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "串联的特点",
+   "scene": "两个电阻上方电压柱高低不同",
+   "prompt_en": "Two series resistors with voltage bars of different heights above them. No people.",
+   "narration": "各个电阻的电压不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "串联的特点",
+   "scene": "分压公式卡片",
+   "prompt_en": "A blank formula card with a voltage divider icon. No people.",
+   "narration": "求各段电压，用分压公式。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一两句话答清楚",
+   "scene": "阿杰简短作答，老周点头",
+   "prompt_en": "The young male student answers in one short sentence; the older man nods approvingly.",
+   "narration": "回答一两句话，把要点说清就行。",
+   "overlay": [
+    "一两句话答清楚"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是并联",
+   "scene": "两个电阻并排，头接头、尾接尾",
+   "prompt_en": "Two resistors side by side, their starting ends joined and their finishing ends joined. No people.",
+   "narration": "并联：头接头，尾接尾。",
+   "overlay": [
+    "什么是并联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "并联的特点",
+   "scene": "并联电阻上方电压柱一样高",
+   "prompt_en": "Two parallel resistors with voltage bars of equal height. No people.",
+   "narration": "并联各支路电压相同。",
+   "overlay": [
+    "并联的特点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "并联的特点",
+   "scene": "电流箭头在节点分成两路",
+   "prompt_en": "A current arrow splits into two at the junction before the parallel resistors. No people.",
+   "narration": "电流分流，用分流公式求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "熔断器保护设备",
+   "scene": "人形图标和设备图标并排",
+   "prompt_en": "Two icons side by side: a person silhouette and a piece of equipment. No people.",
+   "narration": "安全分人身安全和设备安全。",
+   "overlay": [
+    "熔断器保护设备"
+   ],
+   "labels": [
+    "人身安全",
+    "设备安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "熔断器保护设备",
+   "scene": "熔断器图标，过大电流时熔丝熔断",
+   "prompt_en": "A fuse icon whose wire melts open when a very thick current arrow passes. No people.",
+   "narration": "熔断器防过电流，保护线路和设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "熔断器接相线、串在电路里",
+   "scene": "熔断器画在相线上打勾，画在零线上打叉",
+   "prompt_en": "Two circuit icons: a fuse on the phase line with a green check, a fuse on the neutral line with a red X. No people.",
+   "narration": "熔断器要接在相线上，不接零线。",
+   "overlay": [
+    "熔断器接相线、串在电路里"
+   ],
+   "labels": [
+    "相线 √",
+    "零线 ×"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "熔断器接相线、串在电路里",
+   "scene": "熔断器串在电路中",
+   "prompt_en": "A fuse connected in series in a simple circuit with a lamp. No people.",
+   "narration": "熔断器和负载串联。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "按负载选熔断器规格",
+   "scene": "不同大小的熔断器排成一排",
+   "prompt_en": "A row of fuses of different sizes. No people.",
+   "narration": "熔断器规格很多，五安、三十二安、六十四安。",
+   "overlay": [
+    "按负载选熔断器规格"
+   ],
+   "labels": [
+    "5 A",
+    "32 A",
+    "64 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "按负载选熔断器规格",
+   "scene": "老李对照负载的空白铭牌挑熔断器",
+   "prompt_en": "The facility engineer compares a load's blank rating plate with fuse sizes and picks one.",
+   "narration": "按负载的额定电流来选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "单刀单掷开关",
+   "scene": "单刀单掷开关符号",
+   "prompt_en": "A single pole single throw switch symbol: one moving blade and one contact. No people.",
+   "narration": "单刀单掷：一个刀片，一个触点。",
+   "overlay": [
+    "单刀单掷开关"
+   ],
+   "labels": [
+    "SPST"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "双刀单掷开关",
+   "scene": "双刀单掷开关符号，两刀用虚线联动",
+   "prompt_en": "A double pole single throw switch symbol: two blades linked by a dashed line, two contacts. No people.",
+   "narration": "双刀单掷：两个刀片一起动作。",
+   "overlay": [
+    "双刀单掷开关"
+   ],
+   "labels": [
+    "DPST"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "双刀单掷开关",
+   "scene": "两刀分别接相线和零线",
+   "prompt_en": "The double pole switch symbol with one blade on the phase line and one on the neutral line. No people.",
+   "narration": "一刀接相线，一刀接零线。",
+   "overlay": [],
+   "labels": [
+    "相线",
+    "零线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "小结，复习上一集",
+   "scene": "两张题卡都打勾",
+   "prompt_en": "Two blank question cards with green check marks. No people.",
+   "narration": "开路短路、串并联、熔断器、开关。",
+   "overlay": [
+    "小结，复习上一集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "小结，复习上一集",
+   "scene": "阿杰翻出上次的口试笔记",
+   "prompt_en": "The young male student takes out his notes from the previous oral exam.",
+   "narration": "再复习上次的题，祝考试顺利。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "开路、短路、串联、并联四个图标",
+   "prompt_en": "Four icons: open circuit, short circuit, series and parallel resistors. No people.",
+   "narration": "开路电流为零，短路电流极大。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "熔断器和两种开关图标",
+   "prompt_en": "Icons of a fuse and two switch symbols. No people.",
+   "narration": "熔断器接相线，开关分单刀双刀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "阿杰和小研走出考场，和欣欣挥手",
+   "prompt_en": "The young male student and the female graduate student walk out of the exam room and wave with the panda mascot.",
+   "narration": "口试加油，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
