@@ -1,0 +1,973 @@
+{
+ "id": "16_Distillation II",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "减压蒸馏",
+ "seconds": 355,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/16_Distillation II.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/16_Distillation II/src.py",
+ "points": {
+  "K1": "先掌握常压蒸馏",
+  "K2": "高沸点液体要减压",
+  "K3": "压力低，沸点低",
+  "K4": "加克氏蒸馏头防冲料",
+  "K5": "用多尾接液管",
+  "K6": "真空下转着换瓶",
+  "K7": "厚壁真空管",
+  "K8": "真空源与压力计",
+  "K9": "磨口必须涂脂",
+  "K10": "涂脂薄而匀",
+  "K11": "检漏：先关活塞开真空",
+  "K12": "逐个开活塞听漏气",
+  "K13": "冷阱加液氮护泵",
+  "K14": "加搅拌子，不用沸石",
+  "K15": "加热套就位，先不加热",
+  "K16": "第一步开搅拌",
+  "K17": "慢慢抽真空，停沸再加热",
+  "K18": "用列线图估沸点",
+  "K19": "结束：撤热、关真空、冷却、放气",
+  "K20": "先常压蒸出低沸物",
+  "K21": "沸点相近加分馏柱",
+  "K22": "减压沸程会宽一些",
+  "K23": "高沸点液体不分解",
+  "S1": "液氮防冻伤、防窒息",
+  "S2": "冷阱别对空气敞开",
+  "S3": "放气要慢",
+  "S4": "含汞压力计破了怎么办"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一套带冷阱和真空管的蒸馏装置旁",
+   "prompt_en": "The panda mascot stands beside a vacuum distillation setup with a cold trap in a mesh guard, thick red vacuum tubing and a round-bottom flask in a heating mantle, and waves at the camera.",
+   "narration": "这一课学减压蒸馏。",
+   "overlay": [
+    "减压蒸馏"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "温度计图标和向下的压力箭头",
+   "prompt_en": "A thermometer icon beside a downward pressure arrow, the boiling mark sliding lower. No people.",
+   "narration": "压力降下来，沸点也跟着降。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰盯着一瓶高沸点的液体，旁边温度计读数很高",
+   "prompt_en": "The young male student looks at a flask of thick high-boiling liquid next to a thermometer showing a very high reading.",
+   "narration": "阿杰要蒸一个高沸点的产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "烧瓶里的液体开始变黑冒烟",
+   "prompt_en": "The liquid in the flask darkens and gives off a little smoke under strong heat. No people.",
+   "narration": "常压硬加热，产物先分解了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着真空管和冷阱",
+   "prompt_en": "The female graduate student points at the vacuum tubing and the cold trap.",
+   "narration": "小研说：减压蒸，低温就能蒸出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先掌握常压蒸馏",
+   "scene": "欣欣翻开上一课的空白笔记",
+   "prompt_en": "The panda mascot opens a blank notebook showing a simple distillation sketch.",
+   "narration": "先学会简单蒸馏和分馏，再学这课。",
+   "overlay": [
+    "先掌握常压蒸馏"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先掌握常压蒸馏",
+   "scene": "温度条上一百五十度以下高亮",
+   "prompt_en": "A temperature bar highlighted below a middle mark. No people.",
+   "narration": "简单蒸馏，适合一百五十度以下的液体。",
+   "overlay": [],
+   "labels": [
+    "＜150℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "高沸点液体要减压",
+   "scene": "温度条一百五十度以上部分标红，分子图标断裂",
+   "prompt_en": "The upper part of the temperature bar is shaded red and a molecule icon above it breaks apart. No people.",
+   "narration": "沸点更高的，常压加热容易分解。",
+   "overlay": [
+    "高沸点液体要减压"
+   ],
+   "labels": [
+    "＞150℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "高沸点液体要减压",
+   "scene": "真空泵图标打勾",
+   "prompt_en": "A vacuum pump icon with a green check mark. No people.",
+   "narration": "这时就要减压蒸馏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力低，沸点低",
+   "scene": "液体蒸气压箭头与外压箭头对顶",
+   "prompt_en": "Diagram of a liquid surface with an upward vapor pressure arrow meeting a downward outside pressure arrow of equal size. No people.",
+   "narration": "蒸气压等于外压时，液体沸腾。",
+   "overlay": [
+    "压力低，沸点低"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力低，沸点低",
+   "scene": "外压箭头变小，沸腾提前出现",
+   "prompt_en": "The outside pressure arrow shrinks and bubbles appear at a lower thermometer mark. No people.",
+   "narration": "外压降低，在较低温度就能沸腾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加克氏蒸馏头防冲料",
+   "scene": "烧瓶上加一个双颈的克氏蒸馏头",
+   "prompt_en": "A two-necked bent adapter is fitted between the round-bottom flask and the distilling head, highlighted in yellow. No people.",
+   "narration": "烧瓶和蒸馏头之间，加一个克氏蒸馏头。",
+   "overlay": [
+    "加克氏蒸馏头防冲料"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加克氏蒸馏头防冲料",
+   "scene": "烧瓶里液体剧烈冒泡，被弯管挡住",
+   "prompt_en": "Liquid bumps violently in the flask and the splash is stopped by the bend of the adapter. No people.",
+   "narration": "减压时液体爱暴沸，它能挡住冲料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "用多尾接液管",
+   "scene": "两种多尾接液管并排",
+   "prompt_en": "Two multi-arm receiving adapters side by side, each with several small round flasks attached. No people.",
+   "narration": "冷凝管末端，接多尾接液管。",
+   "overlay": [
+    "用多尾接液管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "用多尾接液管",
+   "scene": "每个支口挂一个接收瓶",
+   "prompt_en": "Close view of three small receiving flasks clipped onto the arms of the adapter. No people.",
+   "narration": "每个支口挂一个接收瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "真空下转着换瓶",
+   "scene": "真空下取下接收瓶的图标被打叉",
+   "prompt_en": "An icon of pulling a receiving flask off a running vacuum setup with air rushing in, crossed out with a red X. No people.",
+   "narration": "真空下，不能像常压那样取瓶换瓶。",
+   "overlay": [
+    "真空下转着换瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "真空下转着换瓶",
+   "scene": "手转动多尾接液管，下一个瓶子对准出口",
+   "prompt_en": "A gloved hand rotates the multi-arm adapter so the next empty flask lines up under the drip.",
+   "narration": "转一转接液管，就换到下一个瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "厚壁真空管",
+   "scene": "厚壁真空管接在抽气口",
+   "prompt_en": "A thick-walled red vacuum hose is pushed onto the vacuum port of the adapter. No people.",
+   "narration": "抽气口接厚壁真空管。",
+   "overlay": [
+    "厚壁真空管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "厚壁真空管",
+   "scene": "薄壁管被抽瘪的图标被打叉",
+   "prompt_en": "An icon of a thin hose collapsing flat under vacuum, crossed out with a red X. No people.",
+   "narration": "管壁太薄，一抽就瘪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "真空源与压力计",
+   "scene": "真空管另一端接真空泵",
+   "prompt_en": "The other end of the hose connects to a rotary vacuum pump with a blank label. No people.",
+   "narration": "另一端接真空泵或水泵。",
+   "overlay": [
+    "真空源与压力计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "真空源与压力计",
+   "scene": "指针式真空表",
+   "prompt_en": "A dial vacuum gauge with a needle and a blank face. No people.",
+   "narration": "真空源上还要接压力计，看压力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "磨口必须涂脂",
+   "scene": "磨口被溶剂粘死的图标",
+   "prompt_en": "An icon of a ground glass joint stuck tight with a frozen lock symbol. No people.",
+   "narration": "磨口不涂脂，溶剂渗进去会粘死。",
+   "overlay": [
+    "磨口必须涂脂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "涂脂薄而匀",
+   "scene": "木棒在阳口上部涂一薄层脂",
+   "prompt_en": "A gloved hand uses a wooden stick to spread a thin film of grease on the upper part of a male joint.",
+   "narration": "阳口上部薄薄涂一层。",
+   "overlay": [
+    "涂脂薄而匀"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "涂脂薄而匀",
+   "scene": "套上阴口旋转，一圈变透明",
+   "prompt_en": "The female joint is twisted onto it until a clear ring of grease shows all around.",
+   "narration": "套上转一转，整圈透明就好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "涂脂薄而匀",
+   "scene": "脂涂太多、涂到下端的图标被打叉",
+   "prompt_en": "An icon of a thick glob of grease near the bottom tip of the joint dripping into the flask, crossed out with a red X. No people.",
+   "narration": "别涂太多，别涂到下端，会污染产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "检漏：先关活塞开真空",
+   "scene": "所有活塞关闭，真空泵开启",
+   "prompt_en": "A glass manifold with all stopcocks turned closed while the vacuum pump switches on. No people.",
+   "narration": "开蒸前先检漏：关好所有活塞，开真空。",
+   "overlay": [
+    "检漏：先关活塞开真空"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐个开活塞听漏气",
+   "scene": "小研从靠近泵的一端开第一个活塞",
+   "prompt_en": "The female graduate student opens the stopcock nearest the pump first.",
+   "narration": "从靠近真空源的那个，一个个打开。",
+   "overlay": [
+    "逐个开活塞听漏气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐个开活塞听漏气",
+   "scene": "耳朵图标和嘶嘶声波",
+   "prompt_en": "An ear icon next to small hissing sound waves at a joint. No people.",
+   "narration": "边开边听，有嘶嘶声就是漏气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐个开活塞听漏气",
+   "scene": "关真空、放气、重新涂脂",
+   "prompt_en": "The vacuum is switched off, air is let in, and the leaking joint is re-greased.",
+   "narration": "漏了就关真空、放气，重新涂脂再试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐个开活塞听漏气",
+   "scene": "所有接口不漏，勾号",
+   "prompt_en": "The whole setup with every joint marked by a green check. No people.",
+   "narration": "完全不漏，才能往下做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "冷阱加液氮护泵",
+   "scene": "冷阱装在金属网罩里，接在泵前",
+   "prompt_en": "A glass cold trap inside a metal mesh guard placed between the setup and the pump. No people.",
+   "narration": "确认不漏后，冷阱里加液氮。",
+   "overlay": [
+    "冷阱加液氮护泵"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "冷阱加液氮护泵",
+   "scene": "溶剂蒸气在冷阱里凝住，泵打勾",
+   "prompt_en": "Solvent vapor freezes on the cold trap walls and the pump beside it gets a check mark. No people.",
+   "narration": "把溶剂蒸气冻住，保护真空泵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "加搅拌子，不用沸石",
+   "scene": "液体倒进蒸馏瓶，放入搅拌子",
+   "prompt_en": "A liquid is poured into the distilling flask and a stir bar is dropped in. No people.",
+   "narration": "液体转进烧瓶，放搅拌子。",
+   "overlay": [
+    "加搅拌子，不用沸石"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "加搅拌子，不用沸石",
+   "scene": "沸石孔里的空气被抽走的图标被打叉",
+   "prompt_en": "An icon of a boiling stone whose pores are emptied of air by vacuum, crossed out with a red X. No people.",
+   "narration": "沸石在真空下没用，孔里的气被抽光了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "加热套就位，先不加热",
+   "scene": "加热套升到烧瓶下，下面是搅拌器",
+   "prompt_en": "The heating mantle is raised under the flask with a magnetic stirrer below it. No people.",
+   "narration": "加热套升上来，下面放搅拌器。",
+   "overlay": [
+    "加热套就位，先不加热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "加热套就位，先不加热",
+   "scene": "调压器在零位，禁止加热标记",
+   "prompt_en": "A voltage controller dial at zero with a small pause icon. No people.",
+   "narration": "这时先别加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第一步开搅拌",
+   "scene": "小研打开搅拌器，搅拌子旋转",
+   "prompt_en": "The female graduate student switches on the stirrer and the stir bar spins in the flask.",
+   "narration": "第一步：开搅拌。",
+   "overlay": [
+    "第一步开搅拌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第一步开搅拌",
+   "scene": "不搅拌时剧烈暴沸的图标被打叉",
+   "prompt_en": "An icon of an unstirred flask bumping violently under vacuum, crossed out with a red X. No people.",
+   "narration": "不搅拌，暴沸的机会大大增加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "慢慢抽真空，停沸再加热",
+   "scene": "手慢慢转动活塞，压力表指针缓缓下降",
+   "prompt_en": "A gloved hand turns a stopcock slowly while a gauge needle sinks gradually.",
+   "narration": "慢慢地、小心地抽真空。",
+   "overlay": [
+    "慢慢抽真空，停沸再加热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "慢慢抽真空，停沸再加热",
+   "scene": "未加热的烧瓶里冒泡",
+   "prompt_en": "The cold flask bubbles as dissolved air and low-boiling traces are pulled out. No people.",
+   "narration": "没加热也冒泡，是空气和低沸物在跑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "慢慢抽真空，停沸再加热",
+   "scene": "气泡平息后，调压器调高",
+   "prompt_en": "The bubbling settles, then the voltage controller is turned up. No people.",
+   "narration": "冒泡停了，再开始加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用列线图估沸点",
+   "scene": "三条刻度线的列线图",
+   "prompt_en": "A nomograph with three vertical scale lines and no text. No people.",
+   "narration": "减压下沸点多少？用列线图估算。",
+   "overlay": [
+    "用列线图估沸点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用列线图估沸点",
+   "scene": "中间线上标常压沸点，右线标压力",
+   "prompt_en": "A red dot marks a point on the middle line and another on the right line. No people.",
+   "narration": "一条线找常压沸点，一条线标压力。",
+   "overlay": [],
+   "labels": [
+    "常压沸点",
+    "体系压力"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用列线图估沸点",
+   "scene": "直尺连两点，延长交到左线",
+   "prompt_en": "A ruler connects the two dots and extends to cross the left line at a third dot. No people.",
+   "narration": "直尺一连，交点就是预计沸点。",
+   "overlay": [],
+   "labels": [
+    "预计沸点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "用列线图估沸点",
+   "scene": "示例卡片",
+   "prompt_en": "A blank example card with three rows of icons: thermometer, gauge, thermometer. No people.",
+   "narration": "比如三百二十度的液体，减压后约一百二十度。",
+   "overlay": [],
+   "labels": [
+    "320℃",
+    "0.5托",
+    "约120℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "结束：撤热、关真空、冷却、放气",
+   "scene": "蒸完后降下加热套",
+   "prompt_en": "The heating mantle is lowered away from the flask after distillation. No people.",
+   "narration": "结束：先移开热源。",
+   "overlay": [
+    "结束：撤热、关真空、冷却、放气"
+   ],
+   "labels": [
+    "① 撤热"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "结束：撤热、关真空、冷却、放气",
+   "scene": "关闭通向真空的活塞，等烧瓶冷却",
+   "prompt_en": "The stopcock to the vacuum is closed and a clock icon waits while the flask cools. No people.",
+   "narration": "关真空，让它完全冷却。",
+   "overlay": [],
+   "labels": [
+    "② 关真空",
+    "③ 冷却"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "结束：撤热、关真空、冷却、放气",
+   "scene": "通入空气，停搅拌，取下接收瓶",
+   "prompt_en": "Air is let in, the stirrer is switched off and the receiving flasks are removed. No people.",
+   "narration": "再放气、停搅拌、取接收瓶。",
+   "overlay": [],
+   "labels": [
+    "④ 放气",
+    "⑤ 停搅拌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "先常压蒸出低沸物",
+   "scene": "先常压装置蒸出低沸点液体",
+   "prompt_en": "A simple distillation setup collects a low-boiling fraction before the vacuum hose is connected. No people.",
+   "narration": "有低沸点液体，先常压蒸掉，再接真空。",
+   "overlay": [
+    "先常压蒸出低沸物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "沸点相近加分馏柱",
+   "scene": "烧瓶和克氏蒸馏头之间加分馏柱",
+   "prompt_en": "A fractionating column is fitted between the flask and the two-necked adapter. No people.",
+   "narration": "沸点相近，就加一根分馏柱。",
+   "overlay": [
+    "沸点相近加分馏柱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "减压沸程会宽一些",
+   "scene": "温度条上一段较宽的高亮",
+   "prompt_en": "A temperature bar with a wider highlighted band and a wavy pressure icon. No people.",
+   "narration": "减压时压力会波动，沸程宽一二十度很常见。",
+   "overlay": [
+    "减压沸程会宽一些"
+   ],
+   "labels": [
+    "10–20℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "高沸点液体不分解",
+   "scene": "欣欣举起一瓶清澈的高沸点产物",
+   "prompt_en": "The panda mascot holds up a flask of clear high-boiling product and smiles.",
+   "narration": "高沸点液体，也能不分解地提纯。",
+   "overlay": [
+    "高沸点液体不分解"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "液氮防冻伤、防窒息",
+   "scene": "老李戴面屏和低温手套，用小杜瓦瓶向冷阱缓缓倒液氮",
+   "prompt_en": "The facility engineer, wearing a face shield and insulated cryogenic gloves, slowly pours liquid nitrogen from a small dewar into the cold trap.",
+   "narration": "倒液氮：戴面屏和低温手套，慢慢倒。",
+   "overlay": [
+    "液氮防冻伤、防窒息"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "液氮防冻伤、防窒息",
+   "scene": "薄手套或裸手碰液氮的图标被打叉",
+   "prompt_en": "An icon of a bare hand touching a stream of liquid nitrogen with frost, crossed out with a red X. No people.",
+   "narration": "皮肤沾上会冻伤，别用薄手套硬扛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "液氮防冻伤、防窒息",
+   "scene": "密闭小房间里液氮蒸发、氧气图标下降",
+   "prompt_en": "An icon of a small closed room with nitrogen vapor rising and an oxygen level bar dropping, with a warning sign. No people.",
+   "narration": "液氮大量蒸发会缺氧，保持通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "液氮防冻伤、防窒息",
+   "scene": "杜瓦瓶盖子松松盖着，不拧死",
+   "prompt_en": "A dewar with its cap resting loosely on top, never screwed tight. No people.",
+   "narration": "杜瓦瓶不能密封，乘电梯人瓶分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷阱别对空气敞开",
+   "scene": "冷阱里出现淡蓝色液体，警示标",
+   "prompt_en": "A cold trap with a small pale blue liquid pool inside and a warning sign beside it. No people.",
+   "narration": "冷阱对空气敞开，会凝出液氧。",
+   "overlay": [
+    "冷阱别对空气敞开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷阱别对空气敞开",
+   "scene": "液氧碰到有机物的危险示意被打叉",
+   "prompt_en": "An icon of pale blue liquid meeting organic vapor with a burst symbol, crossed out with a red X. No people.",
+   "narration": "液氧遇有机物，有爆炸危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷阱别对空气敞开",
+   "scene": "先检漏抽好真空，再加液氮的顺序图",
+   "prompt_en": "A two-step order diagram: first a sealed setup under vacuum with a check, then the cold trap filled. No people.",
+   "narration": "所以先抽好真空、确认不漏，再加液氮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "冷阱别对空气敞开",
+   "scene": "老李发现蓝色液体，后退并报告",
+   "prompt_en": "The facility engineer sees pale blue liquid in the trap, steps back and calls the safety administrator.",
+   "narration": "发现蓝色液体，人退开，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "放气要慢",
+   "scene": "手慢慢拧开放气阀，压力表指针缓缓回升",
+   "prompt_en": "A gloved hand turns a vent valve very slowly while the gauge needle rises gradually.",
+   "narration": "冷却后放气，要一点点慢慢放。",
+   "overlay": [
+    "放气要慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "放气要慢",
+   "scene": "猛开阀门，空气冲进、液体冲出的图标被打叉",
+   "prompt_en": "An icon of a valve thrown open with air rushing in and liquid splashing out of the flask, crossed out with a red X. No people.",
+   "narration": "猛一放气，会冲乱装置、冲出物料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "含汞压力计破了怎么办",
+   "scene": "破碎的玻璃压力计和银色小珠",
+   "prompt_en": "A broken glass manometer with small shiny silver beads scattered on a tray. No people.",
+   "narration": "含汞压力计破了，别用手碰、别用吸尘器。",
+   "overlay": [
+    "含汞压力计破了怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "含汞压力计破了怎么办",
+   "scene": "小研拉开距离，开窗通风，拿来汞处理包",
+   "prompt_en": "The female graduate student keeps others back, opens the ventilation and brings a mercury spill kit with a blank label.",
+   "narration": "隔开现场，通风，用专用汞处理包收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "含汞压力计破了怎么办",
+   "scene": "收集物装进密封容器，向王老师报告",
+   "prompt_en": "The collected material is sealed in a small labeled container and handed to the safety administrator.",
+   "narration": "密封交危废处理，报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现克氏蒸馏头和多尾接液管",
+   "prompt_en": "The panda mascot stands beside floating icons of a two-necked adapter and a multi-arm receiver.",
+   "narration": "克氏头防冲料，多尾接液管换瓶。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "厚壁管、涂脂、检漏三个图标",
+   "prompt_en": "Icons of a thick hose, a greased joint and an ear listening for hissing. No people.",
+   "narration": "厚壁管、磨口涂脂，先检漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "搅拌、抽真空、加热的顺序图标",
+   "prompt_en": "Three ordered icons: a spinning stir bar, a sinking gauge needle, a heater turning on. No people.",
+   "narration": "先搅拌，再抽真空，停沸再加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "撤热、冷却、慢放气图标",
+   "prompt_en": "Three ordered icons: heater lowered, clock, slow vent valve. No people.",
+   "narration": "撤热冷却后，慢慢放气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "面屏、低温手套、冷阱图标",
+   "prompt_en": "Icons of a face shield, cryogenic gloves and a cold trap with a check mark. No people.",
+   "narration": "液氮防冻防缺氧，冷阱别敞开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一瓶产物挥手道别",
+   "prompt_en": "The panda mascot holds up a flask of clear product and waves goodbye at the camera.",
+   "narration": "低温蒸馏，安全提纯，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
