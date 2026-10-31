@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
-| BIORISK MANAGEMENT | 47 / 47 | 46 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
@@ -208,6 +208,7 @@
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 原著版 | 蚊虫传的病，怎么防 | 110 | 9:10 | 37 / 0 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 国内版 | 蚊虫传的病，怎么防（国内版） | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 原著版 | 送风头罩，一步步穿对 | 37 | 3:05 | 14 / 0 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS/script.md>) |
 | BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 国内版 | 送风头罩，一步步穿对（国内版） | 51 | 4:15 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment | 国内版 | 电工基础实验：课程导览（国内版） | 65 | 5:25 | 16 / 7 | [剧本](<Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa | 国内版 | 认识电工实验室的四种仪表（国内版） | 89 | 7:25 | 22 / 6 | [剧本](<Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（国内版）/审查报告.md>) |
