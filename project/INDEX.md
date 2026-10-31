@@ -12,7 +12,7 @@
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
-| CDC Laboratory Safety Series | 23 / 23 | 22 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
@@ -254,6 +254,7 @@
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 国内版 | 开瓶阀与调压力（国内版） | 36 | 3:00 | 10 / 4 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 原著版 | 供气系统检漏 | 29 | 2:25 | 12 / 0 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System/script.md>) |
 | CDC Laboratory Safety Series | 22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System | 国内版 | 供气系统检漏（国内版） | 41 | 3:25 | 12 / 3 | [剧本](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/22_Fundamentals of Handling Compressed Gas Cylinders Safely – Checking your System（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 23_Fundamentals of Methylene Chloride Safety – Introduction | 原著版 | 二氯甲烷的安全使用 | 25 | 2:05 | 6 / 0 | [剧本](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction/script.md>) |
 | CDC Laboratory Safety Series | 23_Fundamentals of Methylene Chloride Safety – Introduction | 国内版 | 二氯甲烷的安全使用（国内版） | 36 | 3:00 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 原著版 | 进实验室，先穿对、戴好 | 52 | 4:20 | 17 / 0 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 国内版 | 进实验室，先穿对、戴好（国内版） | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/审查报告.md>) |
