@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 1 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -612,6 +612,7 @@
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 国内版 | 读懂气瓶上的标记（国内版） | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 原著版 | 过氧化物试纸检测 | 33 | 2:45 | 11 / 0 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips/script.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 国内版 | 过氧化物试纸检测（国内版） | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O | 原著版 | 安全日知识竞赛：二十道综合安全题 | 64 | 5:20 | 22 / 0 | [剧本](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O/script.md>) |
 | Laboratory Ergonomics & RSI | 01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O | 国内版 | 安全日知识竞赛：二十道综合安全题（国内版） | 123 | 10:15 | 22 / 8 | [剧本](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST | 国内版 | 安全知识抢答：二十道简答题（国内版） | 107 | 8:55 | 21 / 7 | [剧本](<Laboratory Ergonomics & RSI/02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet | 国内版 | 安全日问答：别国的安全日和我们的安全月（国内版） | 67 | 5:35 | 11 / 6 | [剧本](<Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet（国内版）/审查报告.md>) |
