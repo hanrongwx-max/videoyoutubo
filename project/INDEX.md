@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
-| Electrical Safety Series | 25 / 25 | 6 / 24 |
+| Electrical Safety Series | 25 / 25 | 6 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Lab Safety Training Series | 13 / 13 | 9 / 13 |
@@ -26,7 +26,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Laser Maintenance Group Safety | 3 / 17 | 0 / 2 |
+| Laser Maintenance Group Safety | 3 / 17 | 0 / 3 |
 | Basic Electrical Engineering Lab | 2 / 23 | 0 / 2 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 0 / 2 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
@@ -265,7 +265,7 @@
 | Electrical Safety Series | 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE | 国内版 | 十条用电安全规则（国内版） | 50 | 4:10 | 11 / 3 | [剧本](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 23_Complete Electrical Safety | 国内版 | 电气安全全攻略（国内版） | 76 | 6:20 | 15 / 3 | [剧本](<Electrical Safety Series/23_Complete Electrical Safety（国内版）/script.md>) · [审查](<Electrical Safety Series/23_Complete Electrical Safety（国内版）/审查报告.md>) |
 | Electrical Safety Series | 24_10 Important Electrical Safety Rules Every Worker Must Follow | 国内版 | 用电安全十条守则（国内版） | 51 | 4:15 | 12 / 3 | [剧本](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow（国内版）/script.md>) · [审查](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow（国内版）/审查报告.md>) |
-| Electrical Safety Series | 25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil | 单一版 | 接地：看不见的保护线 | 70 | 5:50 | 19 / 3 | [剧本](<Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil/script.md>) |
+| Electrical Safety Series | 25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil | 国内版 | 接地：看不见的保护线（国内版） | 70 | 5:50 | 19 / 3 | [剧本](<Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（国内版）/script.md>) · [审查](<Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
@@ -439,7 +439,7 @@
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto | 国内版 | 看懂激光切割，也看懂它的危险（国内版） | 48 | 4:00 | 5 / 8 | [剧本](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/01_Innovative Laser Cutting Industrial Jan2020SloMo MusicCam Vizion wwwPhoto（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 国内版 | 风琴管着火了怎么办（国内版） | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/审查报告.md>) |
-| Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 单一版 | 激光设备为什么要例行维护 | 42 | 3:30 | 6 / 7 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser/script.md>) |
+| Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 国内版 | 激光设备为什么要例行维护（国内版） | 42 | 3:30 | 6 / 7 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
