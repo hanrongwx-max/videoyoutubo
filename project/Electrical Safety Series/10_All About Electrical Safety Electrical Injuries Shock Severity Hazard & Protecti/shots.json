@@ -1,0 +1,961 @@
+{
+ "id": "10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti",
+ "edition": "原著版",
+ "series": "Electrical Safety Series",
+ "title": "用电安全全知道",
+ "seconds": 345,
+ "source_doc": "course/Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti.md",
+ "author_source": "project/Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti/src.py",
+ "points": {
+  "K1": "电能致命，先要懂电",
+  "K2": "电是什么",
+  "K3": "电流和电路",
+  "K4": "电阻和导体",
+  "K5": "接地和绝缘体",
+  "K6": "电气伤害分两类",
+  "K7": "电击轻重看三点",
+  "K8": "低电压不等于低危险",
+  "K9": "经过心脏最危险",
+  "K10": "电流伤肌肉和心脏",
+  "K11": "心脏骤停用AED",
+  "K12": "危害：线路、外露、绝缘",
+  "K13": "危害：未接地、过载、坏工具",
+  "K14": "危害：用错防护、架空线、潮湿",
+  "K15": "防护：接地、GFCI或ELCB、保险",
+  "K16": "防护：遮挡带电部件、上锁挂牌",
+  "K17": "防护：软线、关柜门、避潮湿",
+  "K18": "防护：先培训",
+  "K19": "ELCB和RCCB别混淆",
+  "K20": "ELCB怎样动作",
+  "K21": "RCCB：流出流回比一比",
+  "K22": "RCCB：有差值就跳闸",
+  "K23": "区别一：名称",
+  "K24": "区别二：电压型与电流型",
+  "K25": "区别三：靠不靠接地"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在厂房走廊的配电箱旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a closed electrical distribution box in a factory corridor and waves at the camera.",
+   "narration": "这一课，把用电安全讲个明白。",
+   "overlay": [
+    "用电安全全知道"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "闪电、人体、盾牌、断路器四个图标排成一行",
+   "prompt_en": "Four icons in a row: a lightning bolt, a human body outline, a shield and a breaker module. No people.",
+   "narration": "电的常识、伤害、防护，ELCB和RCCB。",
+   "overlay": [],
+   "labels": [
+    "常识",
+    "伤害",
+    "防护",
+    "ELCB/RCCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把电动工具插进地上一个接满插头的插线板",
+   "prompt_en": "The young male student plugs a power tool into a crowded power strip lying on the workshop floor.",
+   "narration": "阿杰图省事，插头全挤在一个插线板上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "插线板发热冒火花的图标，被红叉划掉",
+   "prompt_en": "An icon of an overheating power strip with a spark, crossed out with a red X. No people.",
+   "narration": "插线板过载发热，开始冒火花。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李走过来拔下插头，摇了摇头",
+   "prompt_en": "The facility engineer walks over, unplugs the instrument and shakes his head.",
+   "narration": "老李拔下插头：用电可马虎不得。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣站在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先从电是什么说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命，先要懂电",
+   "scene": "黄色高压警示三角和心跳线图标",
+   "prompt_en": "A yellow electrical warning triangle next to a heartbeat line icon. No people.",
+   "narration": "电是重大危险，能够致人死亡。",
+   "overlay": [
+    "电能致命，先要懂电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命，先要懂电",
+   "scene": "欣欣翻开空白书本，旁边灯泡亮起",
+   "prompt_en": "The panda mascot opens a blank book as a light bulb icon lights up beside it.",
+   "narration": "懂电、知道危险，才能防住事故。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电是什么",
+   "scene": "发电站图标经电线连到厂房",
+   "prompt_en": "An icon of a power station connected by power lines to a factory building. No people.",
+   "narration": "电是能量，从一处流向另一处。",
+   "overlay": [
+    "电是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电是什么",
+   "scene": "小圆点沿导线绕电池和灯泡跑成闭合圈",
+   "prompt_en": "Small glowing dots travel along a wire in a closed loop around a battery and a bulb. No people.",
+   "narration": "电子沿导体，在闭合回路里流动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电流和电路",
+   "scene": "导线里的箭头流动，旁边安培表图标",
+   "prompt_en": "Arrows flowing inside a wire next to an ammeter icon. No people.",
+   "narration": "电流是电荷的流动，单位是安培。",
+   "overlay": [
+    "电流和电路"
+   ],
+   "labels": [
+    "电流",
+    "安培"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电流和电路",
+   "scene": "电源、导线、台灯组成的完整回路",
+   "prompt_en": "A complete loop of a power source, wires and a desk lamp that is glowing. No people.",
+   "narration": "电源、导线、用电器，连成电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电阻和导体",
+   "scene": "粗水管与细水管对比，细管里的箭头变慢",
+   "prompt_en": "A comparison icon: arrows flowing fast through a wide wire and slowly through a narrow resistive section. No people.",
+   "narration": "电阻，就是对电流的阻碍。",
+   "overlay": [
+    "电阻和导体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电阻和导体",
+   "scene": "铜线、铝片、铁钉等金属图标，箭头顺畅通过",
+   "prompt_en": "Icons of a copper wire, an aluminum strip and an iron nail with arrows passing through easily. No people.",
+   "narration": "金属电阻小，容易导电，是导体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接地和绝缘体",
+   "scene": "仪器金属外壳经黄绿线连到接地符号",
+   "prompt_en": "An icon of an instrument's metal casing connected by a green and yellow wire to a ground symbol. No people.",
+   "narration": "接地把外壳连到大地，防止触电。",
+   "overlay": [
+    "接地和绝缘体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接地和绝缘体",
+   "scene": "玻璃、陶瓷、塑料、干木图标挡住箭头",
+   "prompt_en": "Icons of glass, porcelain, plastic and dry wood blocking current arrows. No people.",
+   "narration": "玻璃、陶瓷、塑料、干木，是绝缘体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接地和绝缘体",
+   "scene": "电线的塑料外皮包住铜芯的剖面",
+   "prompt_en": "A cutaway icon of a power cord showing plastic insulation wrapped around copper cores. No people.",
+   "narration": "绝缘体把电挡在该在的地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电气伤害分两类",
+   "scene": "触电小人和烧伤手掌图标",
+   "prompt_en": "Icons of a person pictogram receiving a shock and a hand with a burn mark. No people.",
+   "narration": "触电身亡、电击、烧伤，是直接伤害。",
+   "overlay": [
+    "电气伤害分两类"
+   ],
+   "labels": [
+    "直接伤害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电气伤害分两类",
+   "scene": "梯子上的小人被电一下后跌落的图标",
+   "prompt_en": "An icon of a person pictogram on a ladder getting a small shock and falling. No people.",
+   "narration": "被电一下摔下来，是间接伤害。",
+   "overlay": [],
+   "labels": [
+    "间接伤害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电击轻重看三点",
+   "scene": "人体轮廓上的路径箭头、电流表、时钟三个图标",
+   "prompt_en": "Three icons: a body outline with a path arrow, a current meter and a clock. No people.",
+   "narration": "伤得多重，看三点：路径、大小、时间。",
+   "overlay": [
+    "电击轻重看三点"
+   ],
+   "labels": [
+    "路径",
+    "电流大小",
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电击轻重看三点",
+   "scene": "时钟指针转动，人体轮廓颜色加深",
+   "prompt_en": "A clock hand turning while a body outline icon turns a deeper red. No people.",
+   "narration": "电流越大、时间越长，伤得越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "低电压不等于低危险",
+   "scene": "家用插座图标旁有警示三角",
+   "prompt_en": "A wall socket icon with a yellow warning triangle. No people.",
+   "narration": "电压不高，不等于没有危险。",
+   "overlay": [
+    "低电压不等于低危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "低电压不等于低危险",
+   "scene": "欣欣摇头，摆手示意别大意",
+   "prompt_en": "The panda mascot shakes its head and waves a paw in warning.",
+   "narration": "日常电源，同样可以致命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "经过心脏最危险",
+   "scene": "人体轮廓上手到手的电流线穿过心脏",
+   "prompt_en": "A body outline showing a current path from one hand to the other hand, passing through the heart. No people.",
+   "narration": "电流经过心脏，最危险。",
+   "overlay": [
+    "经过心脏最危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "经过心脏最危险",
+   "scene": "人体轮廓上手到脚、头到脚两条线",
+   "prompt_en": "A body outline showing a hand to foot path and a head to foot path, both passing the heart. No people.",
+   "narration": "手到手、手到脚、头到脚，都经过心脏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "经过心脏最危险",
+   "scene": "脚到脚的路径不经过心脏",
+   "prompt_en": "A body outline showing a foot to foot path that does not cross the heart. No people.",
+   "narration": "脚到脚不过心脏，相对轻些。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电流伤肌肉和心脏",
+   "scene": "手握电线、肌肉僵住的图标",
+   "prompt_en": "An icon of a hand clamped onto a live wire with tense muscle lines. No people.",
+   "narration": "超过10毫安，肌肉僵住，甩不开。",
+   "overlay": [
+    "电流伤肌肉和心脏"
+   ],
+   "labels": [
+    "10毫安以上"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电流伤肌肉和心脏",
+   "scene": "心脏图标快速乱跳",
+   "prompt_en": "A heart icon beating rapidly and irregularly with zigzag lines. No people.",
+   "narration": "超过75毫安，心脏会快速乱跳。",
+   "overlay": [],
+   "labels": [
+    "75毫安以上"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "心脏骤停用AED",
+   "scene": "墙上的 AED 箱，老李取下",
+   "prompt_en": "The facility engineer takes a defibrillator box down from the hallway wall.",
+   "narration": "心脏骤停，几分钟内就会致命。",
+   "overlay": [
+    "心脏骤停用AED"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "心脏骤停用AED",
+   "scene": "受过培训的王老师在模拟人上使用 AED",
+   "prompt_en": "The safety administrator, trained in first aid, places defibrillator pads on a training manikin.",
+   "narration": "及时用AED除颤，能提高救活机会。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "危害：线路、外露、绝缘",
+   "scene": "接头乱缠、线径过细的线路图标，被红叉划掉",
+   "prompt_en": "An icon of messy wiring with thin wires twisted together, crossed out with a red X. No people.",
+   "narration": "线路不合格，是隐患。",
+   "overlay": [
+    "危害：线路、外露、绝缘"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "危害：线路、外露、绝缘",
+   "scene": "开着盖的接线盒露出带电接线，被红叉划掉",
+   "prompt_en": "An icon of an open junction box exposing live terminals, crossed out with a red X. No people.",
+   "narration": "带电部件外露，一碰就触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "危害：线路、外露、绝缘",
+   "scene": "外皮开裂露铜的电线图标，被红叉划掉",
+   "prompt_en": "An icon of a power cord with cracked insulation and exposed copper, crossed out with a red X. No people.",
+   "narration": "绝缘破损的电线，不能再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "危害：未接地、过载、坏工具",
+   "scene": "金属外壳仪器的插头缺了接地脚，被红叉划掉",
+   "prompt_en": "An icon of a metal-cased instrument with a plug missing its ground pin, crossed out with a red X. No people.",
+   "narration": "设备和工具没有接地，是隐患。",
+   "overlay": [
+    "危害：未接地、过载、坏工具"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "危害：未接地、过载、坏工具",
+   "scene": "插线板插满大功率设备发热图标",
+   "prompt_en": "An icon of a power strip filled with high-power appliances glowing red with heat. No people.",
+   "narration": "电路过载，会发热起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "危害：未接地、过载、坏工具",
+   "scene": "外壳破裂的电钻图标，被红叉划掉",
+   "prompt_en": "An icon of an electric drill with a cracked housing, crossed out with a red X. No people.",
+   "narration": "损坏的电动工具和设备，别再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "危害：用错防护、架空线、潮湿",
+   "scene": "普通线手套和绝缘手套对比，前者打叉",
+   "prompt_en": "Icons comparing ordinary cotton gloves crossed out with a red X and proper insulating gloves with a green check. No people.",
+   "narration": "用错防护用品和工具，也是隐患。",
+   "overlay": [
+    "危害：用错防护、架空线、潮湿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "危害：用错防护、架空线、潮湿",
+   "scene": "厂区的架空电线和举着长杆的小人图标，被红叉划掉",
+   "prompt_en": "An icon of overhead power lines with a person pictogram raising a long metal pole toward them, crossed out with a red X. No people.",
+   "narration": "架空电线附近，别举长杆、别攀爬。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "危害：用错防护、架空线、潮湿",
+   "scene": "水滴图标落在插座上，所有危害图标变红",
+   "prompt_en": "A water drop icon falling onto a socket, making the hazard icons around it glow red. No people.",
+   "narration": "一沾潮湿，所有危害都更严重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "防护：接地、GFCI或ELCB、保险",
+   "scene": "接地符号图标打勾",
+   "prompt_en": "A ground symbol icon with a green check. No people.",
+   "narration": "防护第一条：接地要良好。",
+   "overlay": [
+    "防护：接地、GFCI或ELCB、保险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "防护：接地、GFCI或ELCB、保险",
+   "scene": "配电箱里带试验按钮的漏电断路器图标",
+   "prompt_en": "An icon of an earth leakage circuit breaker with a test button inside a distribution box. No people.",
+   "narration": "使用GFCI或ELCB。",
+   "overlay": [],
+   "labels": [
+    "GFCI",
+    "ELCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "防护：接地、GFCI或ELCB、保险",
+   "scene": "熔断器和空气开关图标",
+   "prompt_en": "Icons of a fuse and a circuit breaker. No people.",
+   "narration": "用合适的保险丝和断路器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护：遮挡带电部件、上锁挂牌",
+   "scene": "接线端子加装透明防护罩",
+   "prompt_en": "A clear protective cover being fitted over terminal blocks in a control box. No people.",
+   "narration": "带电部件，要加防护罩遮挡。",
+   "overlay": [
+    "防护：遮挡带电部件、上锁挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护：遮挡带电部件、上锁挂牌",
+   "scene": "老李拉下电闸、上锁、挂空白警示牌",
+   "prompt_en": "The facility engineer switches off a breaker, locks it with a padlock and hangs a blank warning tag.",
+   "narration": "检修前断电，上锁挂牌防误送电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "防护：软线、关柜门、避潮湿",
+   "scene": "电源线整齐沿墙走、不被压不被拉扯",
+   "prompt_en": "A power cord neatly routed along a wall, not pinched under a door or stretched. No people.",
+   "narration": "软电线不压、不拉、不打结。",
+   "overlay": [
+    "防护：软线、关柜门、避潮湿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "防护：软线、关柜门、避潮湿",
+   "scene": "配电柜门关好，阿杰想打开被王老师制止",
+   "prompt_en": "The safety administrator stops the young male student from opening a closed electrical cabinet door.",
+   "narration": "配电柜门关好，无关人员不碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "防护：软线、关柜门、避潮湿",
+   "scene": "湿地面上的插线板图标，被红叉划掉",
+   "prompt_en": "An icon of a power strip lying on a wet floor, crossed out with a red X. No people.",
+   "narration": "潮湿的地方，避免用电作业。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "防护：先培训",
+   "scene": "王老师给学员上用电安全课",
+   "prompt_en": "The safety administrator teaches electrical safety to a small group of trainees in front of a blank screen.",
+   "narration": "接触用电作业的人，先要受培训。",
+   "overlay": [
+    "防护：先培训"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "防护：先培训",
+   "scene": "空白培训证书和带电符号图标",
+   "prompt_en": "A blank training certificate next to a lightning bolt icon. No people.",
+   "narration": "懂危害、会防护、知道出事怎么办。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "ELCB和RCCB别混淆",
+   "scene": "两个外形相似的断路器模块图标并排，中间问号",
+   "prompt_en": "Two similar-looking breaker module icons side by side with a question mark between them. No people.",
+   "narration": "ELCB和RCCB，最容易搞混。",
+   "overlay": [
+    "ELCB和RCCB别混淆"
+   ],
+   "labels": [
+    "ELCB",
+    "RCCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "ELCB和RCCB别混淆",
+   "scene": "箭头从旧式图标指向新式图标",
+   "prompt_en": "An arrow pointing from an older style device icon to a newer style one. No people.",
+   "narration": "RCCB是升级版，已基本取代ELCB。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "ELCB怎样动作",
+   "scene": "设备外壳的接地线穿过检测块的示意图",
+   "prompt_en": "A simple diagram of a device casing whose ground wire passes through a sensing block before reaching ground. No people.",
+   "narration": "ELCB盯住设备外壳的接地线。",
+   "overlay": [
+    "ELCB怎样动作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "ELCB怎样动作",
+   "scene": "相线碰壳，检测块亮起，开关断开",
+   "prompt_en": "The diagram shows a live wire touching the casing, the sensing block lighting up and the switch contacts opening. No people.",
+   "narration": "一碰壳，地线上有了电压，马上断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "RCCB：流出流回比一比",
+   "scene": "两根导线穿过一个圆环，流出流回箭头一样长",
+   "prompt_en": "A diagram of two wires passing through a ring sensor with equal current arrows going out and coming back. No people.",
+   "narration": "RCCB用零序电流互感器做比较。",
+   "overlay": [
+    "RCCB：流出流回比一比"
+   ],
+   "labels": [
+    "零序电流互感器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "RCCB：流出流回比一比",
+   "scene": "天平图标两边平衡，显示零",
+   "prompt_en": "A balance scale icon perfectly level with a zero mark. No people.",
+   "narration": "相线出20安，中性线回20安，差为零。",
+   "overlay": [],
+   "labels": [
+    "相线 20A",
+    "中性线 20A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "RCCB：有差值就跳闸",
+   "scene": "一部分电流经小人图标流入大地，回流箭头变短",
+   "prompt_en": "Part of the current leaks through a person pictogram into the ground, and the return arrow becomes shorter. No people.",
+   "narration": "有人触电，30毫安经人体漏到地里。",
+   "overlay": [
+    "RCCB：有差值就跳闸"
+   ],
+   "labels": [
+    "20A + 30mA",
+    "20A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "RCCB：有差值就跳闸",
+   "scene": "天平倾斜，圆环亮起，开关跳开",
+   "prompt_en": "The balance scale tips, the ring sensor lights up and the breaker trips open. No people.",
+   "narration": "30毫安差值被检出，继电器跳闸。",
+   "overlay": [],
+   "labels": [
+    "差值 30mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "区别一：名称",
+   "scene": "两张空白名片分别贴在两个保护器上",
+   "prompt_en": "Two blank name cards attached to the two residual current device icons. No people.",
+   "narration": "ELCB叫接地漏电断路器。",
+   "overlay": [
+    "区别一：名称"
+   ],
+   "labels": [
+    "ELCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "区别一：名称",
+   "scene": "第二张名片旁加一个小标签",
+   "prompt_en": "A small extra blank tag appears beside the second device's name card. No people.",
+   "narration": "RCCB叫剩余电流断路器，又叫RCD。",
+   "overlay": [],
+   "labels": [
+    "RCCB",
+    "RCD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "区别二：电压型与电流型",
+   "scene": "左边电压表图标，右边电流表图标",
+   "prompt_en": "A voltmeter icon on the left device and an ammeter icon on the right device. No people.",
+   "narration": "ELCB是电压型，RCCB是电流型。",
+   "overlay": [
+    "区别二：电压型与电流型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "区别三：靠不靠接地",
+   "scene": "电压型保护器下的接地线断开，保护器变灰",
+   "prompt_en": "The ground wire under the voltage-type device is broken, and the device icon turns grey. No people.",
+   "narration": "ELCB离不开良好的接地。",
+   "overlay": [
+    "区别三：靠不靠接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "区别三：靠不靠接地",
+   "scene": "漏电没走地线、电压型不动作的图标，打叉",
+   "prompt_en": "An icon of leakage current bypassing the ground wire while the voltage-type device stays closed, crossed out with a red X. No people.",
+   "narration": "电流不从地线走，它就不动作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "区别三：靠不靠接地",
+   "scene": "电流型保护器在各种漏电路径下都亮起跳开",
+   "prompt_en": "The current-type device lights up and trips for leakage through different paths. No people.",
+   "narration": "RCCB不靠接地，从哪儿漏都能断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在白板前，板上是电流、心脏图标",
+   "prompt_en": "The panda mascot stands at a whiteboard showing icons of a current arrow and a heart.",
+   "narration": "电流过心最危险，低压也不能大意。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "破线、过载、潮湿三个图标被红叉划掉",
+   "prompt_en": "Three icons crossed out in red: a damaged cord, an overloaded power strip and a water drop on a socket. No people.",
+   "narration": "破线、过载、潮湿，都是隐患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接地、漏电断路器、锁和挂牌三个图标打勾",
+   "prompt_en": "Three icons with green checks: a ground symbol, an earth leakage circuit breaker and a padlock with a tag. No people.",
+   "narration": "接地、ELCB、上锁挂牌，层层防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两个断路器图标，一个连地线，一个连圆环",
+   "prompt_en": "Two device icons, one linked to a ground wire and one linked to a ring sensor. No people.",
+   "narration": "ELCB靠地线，RCCB比电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "空白培训证书和闪电图标",
+   "prompt_en": "A blank training certificate next to a lightning bolt icon. No people.",
+   "narration": "干电气活的人，先受培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和老李、阿杰站在配电箱旁挥手",
+   "prompt_en": "The panda mascot waves goodbye at the camera together with the facility engineer and the young male student beside a closed distribution box.",
+   "narration": "懂电才能用好电，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
