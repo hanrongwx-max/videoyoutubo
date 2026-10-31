@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 317 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 318 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Electrical Safety Series | 20 / 25 | 6 / 16 |
+| Electrical Safety Series | 21 / 25 | 6 / 16 |
 | Lab Safety Training Series | 13 / 13 | 9 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
@@ -261,6 +261,7 @@
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 国内版 | 电线的颜色：认得清，更要验得准（国内版） | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/审查报告.md>) |
 | Electrical Safety Series | 21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE | 单一版 | 两种漏电保护器：十个方面比一比 | 53 | 4:25 | 11 / 3 | [剧本](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/审查报告.md>) |
 | Electrical Safety Series | 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE | 单一版 | 十条用电安全规则 | 50 | 4:10 | 11 / 3 | [剧本](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE/审查报告.md>) |
+| Electrical Safety Series | 23_Complete Electrical Safety | 单一版 | 电气安全全攻略 | 76 | 6:20 | 15 / 3 | [剧本](<Electrical Safety Series/23_Complete Electrical Safety/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
