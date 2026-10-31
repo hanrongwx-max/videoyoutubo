@@ -216,6 +216,9 @@ def write_package(d, meta, shots):
 """, encoding="utf-8")
 
 
+MISMATCH = "内容不符说明.md"
+
+
 def write_index():
     rows = []
     for f in sorted(PROJECT.glob("*/*/shots.json")):
@@ -240,11 +243,19 @@ def write_index():
         orig[s["series"]] += ed == "原著版"
         need[s["series"]] += ed == "国内版"
     done = {k: len(v) for k, v in videos.items()}
-    prog = "\n".join(f"| {s} | {done.get(s, 0)} / {n} | {orig[s]} / {need[s]} |"
+
+    def label(s):                                   # 剧集名与内容不符的，在目录上标记并链接说明
+        note = PROJECT / s / MISMATCH
+        if not note.exists():
+            return s
+        m = re.search(r"结论：\**(全部不符|部分不符)", note.read_text(encoding="utf-8"))
+        kind = m.group(1) if m else "不符"
+        return f"{s} ⚠ 内容{kind}（[说明](<{s}/{MISMATCH}>)）"
+    prog = "\n".join(f"| {label(s)} | {done.get(s, 0)} / {n} | {orig[s]} / {need[s]} |"
                      for s, n in sorted(total.items(), key=lambda x: (-done.get(x[0], 0), x[0])))
     (PROJECT / "INDEX.md").write_text(
         "# 卡通教学视频制作目录\n\n已编写 " + str(sum(done.values())) + f" / {sum(total.values())} 个视频。"
-        "与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。\n\n"
+        "与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。剧集名与实际内容不符的剧集标“⚠ 内容全部不符/部分不符”，详见该剧集目录下的 `" + MISMATCH + "`。\n\n"
         "## 各剧集进度\n\n| 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |\n|---|---|---|\n" + prog + "\n\n## 已编写视频\n\n知识点：原片 / 补充。\n\n"
         "| 剧集 | 原视频 | 版本 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|---|---|\n"
         + "\n".join(rows) + "\n", encoding="utf-8")
