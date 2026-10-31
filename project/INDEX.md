@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 14 / 25 |
+| Electrical Safety Series | 25 / 25 | 15 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -354,6 +354,7 @@
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 国内版 | 漏电保护器的灵敏度档位（国内版） | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/审查报告.md>) |
 | Electrical Safety Series | 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID | 原著版 | 用电安全十五问 | 58 | 4:50 | 15 / 0 | [剧本](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID/script.md>) |
 | Electrical Safety Series | 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID | 国内版 | 用电安全十五问（国内版） | 79 | 6:35 | 15 / 5 | [剧本](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/script.md>) · [审查](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/审查报告.md>) |
+| Electrical Safety Series | 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview | 原著版 | 安全知识四关挑战 | 94 | 7:50 | 47 / 0 | [剧本](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview/script.md>) |
 | Electrical Safety Series | 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview | 国内版 | 安全知识四关挑战（国内版） | 107 | 8:55 | 47 / 5 | [剧本](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview（国内版）/script.md>) · [审查](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview（国内版）/审查报告.md>) |
 | Electrical Safety Series | 16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE | 国内版 | 电击从哪来，怎样防（国内版） | 55 | 4:35 | 20 / 5 | [剧本](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE（国内版）/script.md>) · [审查](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe | 国内版 | 离高压线远一点（国内版） | 36 | 3:00 | 6 / 5 | [剧本](<Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe（国内版）/script.md>) · [审查](<Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe（国内版）/审查报告.md>) |
