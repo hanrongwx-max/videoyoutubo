@@ -1,0 +1,1786 @@
+{
+ "id": "10_Column Chromatography",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "柱色谱分离",
+ "seconds": 660,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/10_Column Chromatography.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/10_Column Chromatography/src.py",
+ "points": {
+  "K1": "柱色谱：最常用的纯化方法",
+  "K2": "柱色谱的原理",
+  "K3": "快速柱：顶部加压",
+  "K4": "先用TLC选溶剂体系",
+  "K5": "TLC摸条件的做法",
+  "K6": "常用的溶剂体系",
+  "K7": "主成分Rf约0.3",
+  "K8": "Rf太高太低与混合物",
+  "K9": "梯度洗脱",
+  "K10": "吸附剂在通风柜内取用",
+  "K11": "硅胶用量",
+  "K12": "称硅胶用大瓶",
+  "K13": "选柱径：不高不矮",
+  "K14": "柱底塞棉花",
+  "K15": "铺沙、加溶剂",
+  "K16": "湿法匀浆装柱",
+  "K17": "加压压实硅胶",
+  "K18": "排除气泡",
+  "K19": "顶层加沙",
+  "K20": "液面永远高于硅胶",
+  "K21": "湿法上样：完全溶解",
+  "K22": "沿壁滴加与荡洗",
+  "K23": "加满溶剂，得到窄谱带",
+  "K24": "干法上样：预吸附",
+  "K25": "旋蒸成流动粉末",
+  "K26": "干法上样的操作",
+  "K27": "极性溶剂上样不可取",
+  "K28": "上样后马上跑柱",
+  "K29": "加压跑柱与收集",
+  "K30": "用TLC监测馏分",
+  "K31": "看结果，找原因",
+  "K32": "合并馏分与旋蒸",
+  "K33": "不丢馏分，处理废硅胶",
+  "K34": "滴管微量柱",
+  "K35": "看演示不能代替预习",
+  "S1": "加压玻璃柱防爆裂",
+  "S2": "台面溶剂少放、远离火源",
+  "S3": "旋蒸烧瓶的安全取放",
+  "S4": "废硅胶装袋交收集",
+  "S5": "易燃溶剂洒漏的处置"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一根装满白色粉末的玻璃柱旁",
+   "prompt_en": "The panda mascot stands next to a tall glass column filled with white powder clamped on a ring stand, and waves at the camera.",
+   "narration": "这一课学柱色谱，把混合物分开。",
+   "overlay": [
+    "柱色谱分离"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "选条件、装柱、上样、跑柱四个图标",
+   "prompt_en": "Four icons in a row: a small plate with spots, a column being filled, a dropper over the column, and a rack of test tubes. No people.",
+   "narration": "选条件、装柱、上样、跑柱，一步步来。",
+   "overlay": [],
+   "labels": [
+    "选条件",
+    "装柱",
+    "上样",
+    "跑柱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰手里拿着一瓶黄色油状混合物发愁",
+   "prompt_en": "The young male student holds a small flask of yellow oily mixture and looks worried.",
+   "narration": "阿杰的产物里混着好几种东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰随手把粉末往柱子里倒，小研摆手阻止",
+   "prompt_en": "The young male student starts dumping dry powder into an empty column; the female graduate student raises her hand to stop him.",
+   "narration": "他想抓一把硅胶装柱就跑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴着护目镜，指向通风柜和桌上的TLC板",
+   "prompt_en": "The female graduate student, wearing safety goggles, points at a fume hood and at small blank plates on the bench.",
+   "narration": "小研说：先摸条件，再进通风柜装柱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "柱色谱：最常用的纯化方法",
+   "scene": "欣欣举着一排试管，每支颜色不同",
+   "prompt_en": "The panda mascot holds up a row of test tubes with liquids of slightly different colors.",
+   "narration": "柱色谱是有机实验室最常用的纯化法。",
+   "overlay": [
+    "柱色谱：最常用的纯化方法"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "柱色谱：最常用的纯化方法",
+   "scene": "极性不同的小球在柱中跑得快慢不同",
+   "prompt_en": "Icons of round beads of two colors moving down a column at different speeds. No people.",
+   "narration": "它靠化合物极性不同，把混合物分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "柱色谱：最常用的纯化方法",
+   "scene": "天平上的一小瓶样品，旁边勾号",
+   "prompt_en": "A small sample vial on a balance with a check mark. No people.",
+   "narration": "常用来分离克级样品，多练就熟。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "柱色谱的原理",
+   "scene": "玻璃柱结构示意：底部活塞，里面白色吸附剂",
+   "prompt_en": "Diagram of a glass column with a stopcock at the bottom and a white adsorbent bed inside. No people.",
+   "narration": "玻璃柱底部有活塞，里面装硅胶或氧化铝。",
+   "overlay": [
+    "柱色谱的原理"
+   ],
+   "labels": [
+    "吸附剂",
+    "活塞"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "柱色谱的原理",
+   "scene": "样品色带加在柱顶，溶剂流下",
+   "prompt_en": "A colored sample band sits on top of the adsorbent bed while solvent flows down through it. No people.",
+   "narration": "样品加在顶部，让溶剂往下流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "柱色谱的原理",
+   "scene": "色带从柱底流出进入试管",
+   "prompt_en": "The colored band reaches the bottom and drips out into a test tube. No people.",
+   "narration": "化合物被一个个冲出柱底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "快速柱：顶部加压",
+   "scene": "加压接头压在柱顶，箭头向下",
+   "prompt_en": "A pressure adapter with a hose presses on top of the column; arrows point downward. No people.",
+   "narration": "多数时候用快速柱：柱顶加压。",
+   "overlay": [
+    "快速柱：顶部加压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "快速柱：顶部加压",
+   "scene": "秒表图标和两条分开的色带",
+   "prompt_en": "A stopwatch icon next to two cleanly separated colored bands in a column. No people.",
+   "narration": "跑得更快，分得也更好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "先用TLC选溶剂体系",
+   "scene": "小研看着两瓶溶剂，一瓶标极性图标",
+   "prompt_en": "The female graduate student looks at two solvent bottles with blank labels, one marked with a polar icon.",
+   "narration": "选对溶剂体系，是成败关键。",
+   "overlay": [
+    "先用TLC选溶剂体系"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "先用TLC选溶剂体系",
+   "scene": "极性与非极性两瓶溶剂混合成一瓶",
+   "prompt_en": "Two solvent bottles, one polar and one nonpolar, pour into a single mixing cylinder. No people.",
+   "narration": "一般是一极性一非极性，两种互溶溶剂。",
+   "overlay": [],
+   "labels": [
+    "极性",
+    "非极性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "先用TLC选溶剂体系",
+   "scene": "TLC小板上的斑点",
+   "prompt_en": "Close view of a small blank thin layer plate with two spots on it. No people.",
+   "narration": "用TLC薄层色谱来找最佳比例。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "TLC摸条件的做法",
+   "scene": "滴管往小瓶里加约一毫升溶剂溶样",
+   "prompt_en": "A gloved hand uses a dropper to add a little solvent to a small vial of sample.",
+   "narration": "少量样品溶在一毫升左右溶剂里。",
+   "overlay": [
+    "TLC摸条件的做法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "TLC摸条件的做法",
+   "scene": "毛细管在几块小板上点样",
+   "prompt_en": "A capillary spots the same sample on several small plates. No people.",
+   "narration": "点几块板，各用不同体系展开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "TLC摸条件的做法",
+   "scene": "TLC板与柱子里的白色吸附剂用等号连接",
+   "prompt_en": "A small plate and a column of white adsorbent linked by an equals sign icon. No people.",
+   "narration": "板上的吸附剂要和柱子一致。",
+   "overlay": [],
+   "labels": [
+    "板",
+    "柱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "常用的溶剂体系",
+   "scene": "展开缸，两瓶溶剂图标",
+   "prompt_en": "A glass developing jar with a plate inside, next to two solvent bottles with blank labels. No people.",
+   "narration": "最常用的是乙酸乙酯配正己烷。",
+   "overlay": [
+    "常用的溶剂体系"
+   ],
+   "labels": [
+    "乙酸乙酯",
+    "正己烷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "常用的溶剂体系",
+   "scene": "易挥发的小瓶冒出蒸气，旁边低沸点溶剂",
+   "prompt_en": "A small vial with vapor lines rising from it, next to two bottles marked with a low thermometer icon. No people.",
+   "narration": "样品易挥发，用乙醚戊烷等低沸点体系。",
+   "overlay": [],
+   "labels": [
+    "乙醚",
+    "戊烷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "常用的溶剂体系",
+   "scene": "强极性样品图标，旁边两瓶溶剂",
+   "prompt_en": "An icon of a strongly polar molecule next to two bottles with blank labels. No people.",
+   "narration": "强极性的，常用甲醇配二氯甲烷。",
+   "overlay": [],
+   "labels": [
+    "甲醇",
+    "二氯甲烷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "主成分Rf约0.3",
+   "scene": "TLC板上一个大斑点和一个小斑点",
+   "prompt_en": "A plate with one large spot and one faint small spot. No people.",
+   "narration": "去除少量杂质时，盯住主成分。",
+   "overlay": [
+    "主成分Rf约0.3"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "主成分Rf约0.3",
+   "scene": "斑点位于板高约三成处，刻度标出",
+   "prompt_en": "The large spot sits about a third of the way up the plate, with a scale bar beside it. No people.",
+   "narration": "调极性，让主成分Rf在0.3左右。",
+   "overlay": [],
+   "labels": [
+    "Rf≈0.3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "Rf太高太低与混合物",
+   "scene": "斑点贴近底线，乌龟图标",
+   "prompt_en": "A spot barely above the starting line, next to a slow turtle icon. No people.",
+   "narration": "Rf太低，体系太非极性，出柱太慢。",
+   "overlay": [
+    "Rf太高太低与混合物"
+   ],
+   "labels": [
+    "太低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "Rf太高太低与混合物",
+   "scene": "斑点接近顶端，两点挤在一起",
+   "prompt_en": "Two spots crowded near the top of the plate, next to a rushing arrow icon. No people.",
+   "narration": "Rf太高，体系太极性，跑太快分不开。",
+   "overlay": [],
+   "labels": [
+    "太高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "Rf太高太低与混合物",
+   "scene": "两个斑点中点位于0.3处",
+   "prompt_en": "Two spots on a plate with their midpoint marked at about a third of the height. No people.",
+   "narration": "分离两种以上，让两点中点在0.3。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "梯度洗脱",
+   "scene": "极性相差很大的两个斑点",
+   "prompt_en": "A plate with one spot near the top and another near the bottom. No people.",
+   "narration": "极性相差大，可以用梯度洗脱。",
+   "overlay": [
+    "梯度洗脱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "梯度洗脱",
+   "scene": "先用低极性溶剂，第一个色带出柱",
+   "prompt_en": "A column where the first band leaves the bottom while a low polarity solvent bottle feeds the top. No people.",
+   "narration": "先让最不极性的组分Rf约0.3。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "梯度洗脱",
+   "scene": "极性指针逐步升高，第二个色带下移",
+   "prompt_en": "A polarity gauge needle rises step by step while the second band moves down the column. No people.",
+   "narration": "出完再慢慢提极性，冲下一个。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "吸附剂在通风柜内取用",
+   "scene": "欣欣举起一袋白色粉末，旁边警示图标",
+   "prompt_en": "The panda mascot holds up a bag of white powder with a caution icon beside it.",
+   "narration": "本片用硅胶，氧化铝做法相同。",
+   "overlay": [
+    "吸附剂在通风柜内取用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "吸附剂在通风柜内取用",
+   "scene": "硅胶粉尘飘向人脸的图标被打叉",
+   "prompt_en": "An icon of fine powder dust drifting toward a face, crossed out with a red X. No people.",
+   "narration": "硅胶、氧化铝粉尘吸入有害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "吸附剂在通风柜内取用",
+   "scene": "小研在通风柜内取硅胶",
+   "prompt_en": "The female graduate student scoops white powder inside a fume hood with the sash lowered.",
+   "narration": "吸附剂一律在通风柜里取用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硅胶用量",
+   "scene": "天平两边：一份化合物对二十份硅胶",
+   "prompt_en": "A balance diagram: one small weight of compound on one side, twenty small blocks of white powder on the other. No people.",
+   "narration": "分离好时，硅胶约为样品的二十倍。",
+   "overlay": [
+    "硅胶用量"
+   ],
+   "labels": [
+    "1 : 20"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硅胶用量",
+   "scene": "难分时硅胶堆更高",
+   "prompt_en": "Two heaps of white powder growing taller beside a hard-to-separate pair of spots. No people.",
+   "narration": "难分离时，要五十到一百倍。",
+   "overlay": [],
+   "labels": [
+    "1 : 50",
+    "1 : 100"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硅胶用量",
+   "scene": "阿杰向老周请教",
+   "prompt_en": "The young male student asks the older man for advice beside the column setup.",
+   "narration": "尽量少用，拿不准就问有经验的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "称硅胶用大瓶",
+   "scene": "通风柜里把硅胶称进大锥形瓶",
+   "prompt_en": "Inside a fume hood, white powder is weighed into a large Erlenmeyer flask on a balance. No people.",
+   "narration": "在通风柜里，把硅胶称进锥形瓶。",
+   "overlay": [
+    "称硅胶用大瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "称硅胶用大瓶",
+   "scene": "瓶内硅胶只到三分之一高度",
+   "prompt_en": "Close view of the flask filled with powder only to one third of its height, with a line marker. No people.",
+   "narration": "瓶子要大，装量不超过三分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "选柱径：不高不矮",
+   "scene": "粗细不同的三根柱子并排",
+   "prompt_en": "Three empty glass columns of different widths stand side by side. No people.",
+   "narration": "柱径怎么选？看硅胶能装多高。",
+   "overlay": [
+    "选柱径：不高不矮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "选柱径：不高不矮",
+   "scene": "硅胶层高度用尺标出约十五到十八厘米",
+   "prompt_en": "A column with the white bed height marked by a ruler beside it. No people.",
+   "narration": "一般让硅胶装到十五到十八厘米。",
+   "overlay": [],
+   "labels": [
+    "约15–18厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "选柱径：不高不矮",
+   "scene": "太高的柱子色带拉长重叠，太矮的色带挤在一起",
+   "prompt_en": "Two columns: in the tall one the bands smear and overlap, in the short one the bands crowd together. No people.",
+   "narration": "太高谱带会散开，太矮分离面积不够。",
+   "overlay": [],
+   "labels": [
+    "太高",
+    "太矮"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "柱底塞棉花",
+   "scene": "手指搓一小团棉花，投进空柱",
+   "prompt_en": "Gloved fingers roll a small piece of cotton and drop it into the empty column.",
+   "narration": "柱底先塞一小团棉花，挡住硅胶。",
+   "overlay": [
+    "柱底塞棉花"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "柱底塞棉花",
+   "scene": "倾斜轻敲柱子，棉花落进底部中心",
+   "prompt_en": "The column is tilted and tapped gently so the cotton settles into the center at the bottom.",
+   "narration": "倾斜轻敲，让棉花落到中心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "柱底塞棉花",
+   "scene": "长棒轻压棉花，塞得太紧的图标打叉",
+   "prompt_en": "A long rod gently presses the cotton; a separate icon of tightly jammed cotton is crossed out with a red X.",
+   "narration": "用长棒轻压，别塞太紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "铺沙、加溶剂",
+   "scene": "台面上摆着烧杯、滴管、漏斗、溶剂、硅胶、沙子、加压接头",
+   "prompt_en": "On a bench inside a fume hood: an empty beaker, a dropper, a funnel, a solvent bottle, a flask of white powder, a jar of sand and a pressure adapter. No people.",
+   "narration": "备好烧杯、滴管、漏斗、溶剂、硅胶和沙。",
+   "overlay": [
+    "铺沙、加溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "铺沙、加溶剂",
+   "scene": "柱子垂直夹牢，漏斗加一薄层沙",
+   "prompt_en": "The column is clamped straight up and a thin layer of sand is poured in through a funnel.",
+   "narration": "柱子竖直夹牢，加一薄层沙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "铺沙、加溶剂",
+   "scene": "加入溶剂，沙层平整，柱壁干净",
+   "prompt_en": "Solvent is poured into the column; the sand layer is flat and the walls are clean. No people.",
+   "narration": "再加一段溶剂，沙面要平，壁上不沾沙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "湿法匀浆装柱",
+   "scene": "锥形瓶里硅胶加溶剂调成稀匀浆",
+   "prompt_en": "Solvent is poured into the flask of white powder and swirled into a runny slurry. No people.",
+   "narration": "硅胶加溶剂，调成能流动的匀浆。",
+   "overlay": [
+    "湿法匀浆装柱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "湿法匀浆装柱",
+   "scene": "匀浆经漏斗倒进柱子",
+   "prompt_en": "The white slurry is poured through a funnel into the column without disturbing the sand.",
+   "narration": "摇匀后小心倒入，别冲乱沙层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "湿法匀浆装柱",
+   "scene": "用溶剂冲洗漏斗和柱壁",
+   "prompt_en": "A dropper rinses the funnel and the column walls with solvent.",
+   "narration": "余下的硅胶用溶剂转移，冲净漏斗和柱壁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "加压压实硅胶",
+   "scene": "加压接头压在柱顶，活塞打开",
+   "prompt_en": "A pressure adapter is pressed on top and the stopcock is opened; solvent drips out into a beaker.",
+   "narration": "柱顶加压，打开活塞。",
+   "overlay": [
+    "加压压实硅胶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "加压压实硅胶",
+   "scene": "手指轻敲柱壁，硅胶面变平",
+   "prompt_en": "Fingers tap the side of the column gently and the top of the white bed becomes flat.",
+   "narration": "轻敲柱壁，让硅胶面平整。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "加压压实硅胶",
+   "scene": "液面降到硅胶上方一段，关活塞撤压",
+   "prompt_en": "The liquid level drops to a few centimeters above the bed, then the stopcock is closed and the adapter removed.",
+   "narration": "放到硅胶上方五到八厘米，关阀撤压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排除气泡",
+   "scene": "硅胶层里的气泡被红圈圈出",
+   "prompt_en": "Close view of the white bed with small air bubbles circled in red. No people.",
+   "narration": "加沙前检查：不能有气泡。",
+   "overlay": [
+    "排除气泡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排除气泡",
+   "scene": "有气泡的柱子色带歪斜",
+   "prompt_en": "A column with bubbles where the colored band runs crooked and uneven. No people.",
+   "narration": "气泡和不均匀，后面会出大问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排除气泡",
+   "scene": "稀匀浆、轻敲、先加压三个图标",
+   "prompt_en": "Three icons: a very runny slurry, a tapping finger, and a pressure arrow before an open valve. No people.",
+   "narration": "匀浆调稀、边装边敲、先加压再开阀。",
+   "overlay": [],
+   "labels": [
+    "匀浆要稀",
+    "轻敲",
+    "先加压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "顶层加沙",
+   "scene": "滴管冲下柱壁上的硅胶",
+   "prompt_en": "A dropper washes stray white powder from the column walls down onto the bed.",
+   "narration": "硅胶面均匀后，冲下壁上的硅胶。",
+   "overlay": [
+    "顶层加沙"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "顶层加沙",
+   "scene": "漏斗轻轻加一薄层沙",
+   "prompt_en": "A thin layer of sand is added gently through a funnel onto the bed.",
+   "narration": "小心加一薄层沙，别扰动硅胶面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "顶层加沙",
+   "scene": "加压放液到刚高于硅胶面",
+   "prompt_en": "With pressure on, the liquid level is drained to just above the bed. No people.",
+   "narration": "冲下壁上的沙，放液到硅胶面上方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "液面永远高于硅胶",
+   "scene": "液面低于硅胶、硅胶开裂发白的图标被打叉",
+   "prompt_en": "An icon of the liquid level dropping below the bed top with cracks in the white bed, crossed out with a red X. No people.",
+   "narration": "液面绝不能降到硅胶顶面以下！",
+   "overlay": [
+    "液面永远高于硅胶"
+   ],
+   "labels": [
+    "不能跑干"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "液面永远高于硅胶",
+   "scene": "欣欣指着液面线强调",
+   "prompt_en": "The panda mascot points at the liquid line above the bed in a column diagram.",
+   "narration": "跑干了柱子会开裂，前功尽弃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "湿法上样：完全溶解",
+   "scene": "样品在少量溶剂中溶解",
+   "prompt_en": "A sample dissolves in a very small amount of solvent in a little beaker. No people.",
+   "narration": "样品溶得动，就用溶液上样。",
+   "overlay": [
+    "湿法上样：完全溶解"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "湿法上样：完全溶解",
+   "scene": "滴管加几滴另一种溶剂帮助溶解",
+   "prompt_en": "A dropper adds a few drops of another solvent to help the sample dissolve. No people.",
+   "narration": "体积越少越好，难溶加几滴二氯甲烷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "湿法上样：完全溶解",
+   "scene": "完全澄清的溶液，勾号",
+   "prompt_en": "A completely clear solution with a green check mark. No people.",
+   "narration": "一定要完全溶解，再上柱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "沿壁滴加与荡洗",
+   "scene": "滴管沿柱壁一圈慢慢滴加样品液",
+   "prompt_en": "A dropper slowly drips the sample solution around the inner wall of the column.",
+   "narration": "沿柱壁一圈慢慢滴，别冲乱沙层。",
+   "overlay": [
+    "沿壁滴加与荡洗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "沿壁滴加与荡洗",
+   "scene": "少量溶剂荡洗样品瓶并加入柱中",
+   "prompt_en": "A little solvent rinses the sample beaker and is added to the column the same way.",
+   "narration": "放低液面，用少量溶剂荡洗原瓶加入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "沿壁滴加与荡洗",
+   "scene": "重复荡洗，冲下柱壁残样",
+   "prompt_en": "The rinse is repeated and the column walls are washed down, lowering the level between rinses. No people.",
+   "narration": "重复一两次，壁上残样也冲下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "加满溶剂，得到窄谱带",
+   "scene": "滴管先加一层溶剂作缓冲",
+   "prompt_en": "A dropper gently adds a cushion of solvent on top of the sand. No people.",
+   "narration": "先用滴管加一层溶剂作缓冲。",
+   "overlay": [
+    "加满溶剂，得到窄谱带"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "加满溶剂，得到窄谱带",
+   "scene": "缓慢倒满溶剂",
+   "prompt_en": "Solvent is poured slowly into the column without disturbing the bed.",
+   "narration": "再慢慢倒满，不冲动沙和硅胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "加满溶剂，得到窄谱带",
+   "scene": "沙层下方一条窄窄的色带",
+   "prompt_en": "Close view of a thin narrow colored band just below the sand layer. No people.",
+   "narration": "做得好，沙层下是一条窄谱带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "干法上样：预吸附",
+   "scene": "样品在溶剂里溶不动",
+   "prompt_en": "A sample sits undissolved in a flask of solvent with a question mark. No people.",
+   "narration": "样品在体系里溶不动？用干法上样。",
+   "overlay": [
+    "干法上样：预吸附"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "干法上样：预吸附",
+   "scene": "样品溶于二氯甲烷转入圆底烧瓶",
+   "prompt_en": "The sample solution is transferred with a dropper into a round-bottom flask inside a fume hood. No people.",
+   "narration": "先溶在二氯甲烷里，转入圆底烧瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "干法上样：预吸附",
+   "scene": "加入少量硅胶摇匀",
+   "prompt_en": "A small amount of white powder is added to the round-bottom flask and swirled. No people.",
+   "narration": "荡洗几次，加少量硅胶摇匀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "旋蒸成流动粉末",
+   "scene": "擦拭纸塞进防暴沸球",
+   "prompt_en": "Gloved hands stuff a few plain lab tissues into a glass bump trap.",
+   "narration": "旋蒸前，防暴沸球里塞几张擦拭纸。",
+   "overlay": [
+    "旋蒸成流动粉末"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "旋蒸成流动粉末",
+   "scene": "旋转蒸发仪上烧瓶在转动",
+   "prompt_en": "A round-bottom flask spins on a rotary evaporator over a warm bath. No people.",
+   "narration": "挡住细粉，不污染旋转蒸发仪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "旋蒸成流动粉末",
+   "scene": "烧瓶里是松散能流动的黄色粉末",
+   "prompt_en": "A flask with loose, free-flowing yellow powder tilted to show it flows. No people.",
+   "narration": "蒸到细腻、能自由流动的粉末。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "旋蒸成流动粉末",
+   "scene": "结块发黏的粉末被打叉",
+   "prompt_en": "An icon of sticky clumped powder in a flask, crossed out with a red X. No people.",
+   "narration": "结块发黏，重溶多加硅胶，别急着上柱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "干法上样的操作",
+   "scene": "沙层上方留一薄层溶剂",
+   "prompt_en": "A packed column with a thin layer of solvent left above the sand. No people.",
+   "narration": "照常装柱，沙上留一薄层溶剂。",
+   "overlay": [
+    "干法上样的操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "干法上样的操作",
+   "scene": "把黄色粉末倒在沙层上",
+   "prompt_en": "The yellow powder is poured from the flask onto the sand through a funnel.",
+   "narration": "把预吸附的硅胶倒在沙层上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "干法上样的操作",
+   "scene": "冲下壁上粉末，加沙，加满溶剂",
+   "prompt_en": "The walls are rinsed, a thin layer of sand is added, and the column is filled with solvent. No people.",
+   "narration": "冲净瓶壁柱壁，放液、加沙、加满溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "极性溶剂上样不可取",
+   "scene": "用强极性溶剂溶样上柱，得到很宽的色带，被打叉",
+   "prompt_en": "An icon of a sample loaded in a strongly polar solvent producing a very thick band, crossed out with a red X. No people.",
+   "narration": "用更极性的溶剂上样，谱带会很厚。",
+   "overlay": [
+    "极性溶剂上样不可取"
+   ],
+   "labels": [
+    "谱带太厚"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "极性溶剂上样不可取",
+   "scene": "宽色带和窄色带对比",
+   "prompt_en": "Side by side: a thick smeared band and a thin sharp band. No people.",
+   "narration": "分离效果就差了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "上样后马上跑柱",
+   "scene": "备好一大瓶溶剂和一大架试管",
+   "prompt_en": "A large bottle of solvent and a big rack of empty test tubes sit next to the column in a fume hood. No people.",
+   "narration": "开跑前，备足溶剂和一大架试管。",
+   "overlay": [
+    "上样后马上跑柱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "上样后马上跑柱",
+   "scene": "钟表图标，咖啡杯被打叉",
+   "prompt_en": "A clock icon and a coffee break icon crossed out with a red X. No people.",
+   "narration": "上样后马上开跑，中途别休息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "加压跑柱与收集",
+   "scene": "试管接在柱下，加压，打开活塞",
+   "prompt_en": "A test tube is placed under the column, pressure is applied and the stopcock opened.",
+   "narration": "柱下放试管，加压，开活塞。",
+   "overlay": [
+    "加压跑柱与收集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "加压跑柱与收集",
+   "scene": "慢滴、水柱、适中三种流速图标，中间打勾",
+   "prompt_en": "Three icons of flow: a slow drip, a gushing stream, and a steady fast flow in the middle with a check mark. No people.",
+   "narration": "调压力：不是慢滴，也别成水柱。",
+   "overlay": [],
+   "labels": [
+    "太慢",
+    "太猛",
+    "适中"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "加压跑柱与收集",
+   "scene": "小研一支接一支换试管",
+   "prompt_en": "The female graduate student moves the outlet from one test tube to the next along the rack.",
+   "narration": "连续换管收集，别让试管溢出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "加压跑柱与收集",
+   "scene": "液面下降，滴管补加溶剂",
+   "prompt_en": "The solvent level in the column drops and more solvent is added from the top.",
+   "narration": "盯住柱内液面，勤补溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "用TLC监测馏分",
+   "scene": "试管架里部分试管有颜色",
+   "prompt_en": "A rack of fractions where a few tubes are tinted blue. No people.",
+   "narration": "有颜色的化合物，一眼就能看到。",
+   "overlay": [
+    "用TLC监测馏分"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "用TLC监测馏分",
+   "scene": "一块板上点了五六个点",
+   "prompt_en": "A plate with five or six spots in a row along the start line. No people.",
+   "narration": "更可靠的是TLC，一板点五六个馏分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "用TLC监测馏分",
+   "scene": "点样管在溶剂里清洗",
+   "prompt_en": "A capillary spotter is dipped in clean solvent between spots. No people.",
+   "narration": "换馏分时，把点样管洗干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "用TLC监测馏分",
+   "scene": "展开缸里换了一种展开剂",
+   "prompt_en": "A plate develops in a jar holding a different solvent mix. No people.",
+   "narration": "展开剂选能拉开斑点的，不必和柱子一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "看结果，找原因",
+   "scene": "四块板：前后两组斑点之间有空白",
+   "prompt_en": "Four plates in a row: one group of spots, a few blank lanes, then a second group. No people.",
+   "narration": "理想结果：一管一个化合物，中间有空管。",
+   "overlay": [
+    "看结果，找原因"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "看结果，找原因",
+   "scene": "两组斑点重叠",
+   "prompt_en": "Plates where two groups of spots overlap in the same lanes. No people.",
+   "narration": "馏分重叠，说明没分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "看结果，找原因",
+   "scene": "斑点全挤在几管里，旁边小柱子和极性图标",
+   "prompt_en": "Spots packed into only a few lanes, next to icons of a small column and a high polarity gauge. No people.",
+   "narration": "全挤在几管：柱太小或溶剂太极性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "看结果，找原因",
+   "scene": "斑点拖得很长，旁边高柱子和大量溶剂图标",
+   "prompt_en": "Spots smeared across many lanes, next to icons of a tall column and a big loading volume. No people.",
+   "narration": "拖得很长：柱太高或上样溶剂太多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "合并馏分与旋蒸",
+   "scene": "同一化合物的试管倒进圆底烧瓶",
+   "prompt_en": "Fractions with the same single spot are poured through a funnel into a round-bottom flask on a cork ring.",
+   "narration": "同一纯品的馏分，合并到圆底烧瓶。",
+   "overlay": [
+    "合并馏分与旋蒸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "合并馏分与旋蒸",
+   "scene": "混合馏分的试管放到一边",
+   "prompt_en": "Tubes with mixed spots are set aside in a separate small rack. No people.",
+   "narration": "混合馏分留着，以后再纯化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "合并馏分与旋蒸",
+   "scene": "试管用少量溶剂荡洗并入，烧瓶半满",
+   "prompt_en": "Each tube is rinsed with a little clean solvent into the flask, which is filled only to half. No people.",
+   "narration": "荡洗试管并入，烧瓶装不过一半。",
+   "overlay": [],
+   "labels": [
+    "不超过半满"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "合并馏分与旋蒸",
+   "scene": "烧瓶上旋转蒸发仪",
+   "prompt_en": "The round-bottom flask spins on a rotary evaporator. No people.",
+   "narration": "最后旋蒸除去溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "不丢馏分，处理废硅胶",
+   "scene": "欣欣护住一架试管",
+   "prompt_en": "The panda mascot guards a rack of test tubes with both arms.",
+   "narration": "拿到产品之前，一管都不要倒掉。",
+   "overlay": [
+    "不丢馏分，处理废硅胶"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "不丢馏分，处理废硅胶",
+   "scene": "柱中加满乙醇，加压把硅胶吹干",
+   "prompt_en": "Inside a fume hood the used column is filled with solvent and air pressure pushes it through until the bed looks dry. No people.",
+   "narration": "确认无产物后，加乙醇用气推干硅胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "不丢馏分，处理废硅胶",
+   "scene": "干燥的硅胶倒进废物容器",
+   "prompt_en": "Dry free-flowing white powder is poured from the column into a waste container with a blank label. No people.",
+   "narration": "干了好倒，倒进指定废物容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "滴管微量柱",
+   "scene": "铁架台上夹着一支细长滴管",
+   "prompt_en": "A long glass pipette clamped upright on a ring stand. No people.",
+   "narration": "样品少，用滴管做个微量柱。",
+   "overlay": [
+    "滴管微量柱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "滴管微量柱",
+   "scene": "滴管分层示意：棉花、吸附剂、沙、样品、沙",
+   "prompt_en": "Diagram of the pipette column with layers from bottom: cotton, white adsorbent, sand, colored sample powder, sand. No people.",
+   "narration": "塞棉花，干装吸附剂，加沙、样品、再加沙。",
+   "overlay": [],
+   "labels": [
+    "棉花",
+    "吸附剂",
+    "沙",
+    "样品",
+    "沙"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "滴管微量柱",
+   "scene": "另一支滴管从顶部加溶剂，下面接小瓶",
+   "prompt_en": "Another dropper adds solvent to the top of the pipette column while a small vial collects below.",
+   "narration": "下面接瓶，另一支滴管从上加溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "滴管微量柱",
+   "scene": "黄色谱带下移，液面始终在顶上",
+   "prompt_en": "A yellow band moves down the pipette while the liquid stays above the bed. No people.",
+   "narration": "加到化合物出柱，同样不能跑干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "看演示不能代替预习",
+   "scene": "小研在书桌前读空白讲义",
+   "prompt_en": "The female graduate student reads a blank lab manual at a desk.",
+   "narration": "看演示只是预习，代替不了讲义。",
+   "overlay": [
+    "看演示不能代替预习"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "看演示不能代替预习",
+   "scene": "书本和戴手套的手两个图标",
+   "prompt_en": "Icons of a book and a gloved hand joined by a plus sign. No people.",
+   "narration": "原理和操作都要懂。",
+   "overlay": [],
+   "labels": [
+    "原理",
+    "操作"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "加压玻璃柱防爆裂",
+   "scene": "老李检查玻璃柱，对着灯看有无裂纹",
+   "prompt_en": "The facility engineer holds a glass column up to the light and checks it for cracks.",
+   "narration": "加压前，检查玻璃柱有无裂纹。",
+   "overlay": [
+    "加压玻璃柱防爆裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "加压玻璃柱防爆裂",
+   "scene": "压力调节阀拧到低位，旁边柱子夹牢",
+   "prompt_en": "A gas regulator knob turned to a low setting; the column is firmly clamped in two places. No people.",
+   "narration": "压力用低档，柱子夹牢，按本室规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "加压玻璃柱防爆裂",
+   "scene": "接头被卡死、柱子胀裂的图标被打叉",
+   "prompt_en": "An icon of a pressure adapter jammed tight on a column with crack lines, crossed out with a red X. No people.",
+   "narration": "接头别卡死，压力过高会胀裂柱子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "加压玻璃柱防爆裂",
+   "scene": "小研戴护目镜，通风柜门拉低挡在前面",
+   "prompt_en": "The female graduate student wears safety goggles and works behind the lowered fume hood sash.",
+   "narration": "戴好护目镜，柜门放低当挡板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "台面溶剂少放、远离火源",
+   "scene": "通风柜里只放一瓶溶剂，大桶在溶剂柜里",
+   "prompt_en": "Inside a fume hood only one solvent bottle stands by the column; large containers are stored in a separate flammables cabinet. No people.",
+   "narration": "台面只放够用的溶剂，大桶放回专柜。",
+   "overlay": [
+    "台面溶剂少放、远离火源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "台面溶剂少放、远离火源",
+   "scene": "电热板、插线板靠近溶剂的图标被打叉",
+   "prompt_en": "An icon of a hot plate and a power strip right next to an open solvent bottle, crossed out with a red X. No people.",
+   "narration": "一架敞口馏分，远离热源和电火花。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "台面溶剂少放、远离火源",
+   "scene": "试管架用盖板盖上",
+   "prompt_en": "The rack of fractions is covered with a lid sheet to reduce vapor. No people.",
+   "narration": "馏分及时合并旋蒸，别敞口久放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "旋蒸烧瓶的安全取放",
+   "scene": "旋蒸烧瓶用卡夹固定",
+   "prompt_en": "A plastic clip secures the round-bottom flask to the rotary evaporator joint. No people.",
+   "narration": "旋蒸烧瓶用卡夹夹牢，玻璃先查裂纹。",
+   "overlay": [
+    "旋蒸烧瓶的安全取放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "旋蒸烧瓶的安全取放",
+   "scene": "停止旋转、打开放气阀，再取烧瓶",
+   "prompt_en": "The female graduate student stops the rotation, opens the vent valve, then removes the flask.",
+   "narration": "取瓶前先停转、放气，再卸下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "旋蒸烧瓶的安全取放",
+   "scene": "带真空硬拔烧瓶的图标被打叉",
+   "prompt_en": "An icon of a hand yanking a flask off while the gauge still shows vacuum, crossed out with a red X. No people.",
+   "narration": "带着真空硬拔，烧瓶会掉进水浴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废硅胶装袋交收集",
+   "scene": "废硅胶倒进有空白标签的固废桶",
+   "prompt_en": "Used dry powder is poured into a lidded solid waste drum with a blank label inside a fume hood. No people.",
+   "narration": "废硅胶沾有机物，按危险废物收集。",
+   "overlay": [
+    "废硅胶装袋交收集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废硅胶装袋交收集",
+   "scene": "废硅胶倒进普通垃圾桶的图标被打叉",
+   "prompt_en": "An icon of white powder dumped into an ordinary trash bin, crossed out with a red X. No people.",
+   "narration": "不能扔进普通垃圾桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废硅胶装袋交收集",
+   "scene": "在固废桶空白标签上书写",
+   "prompt_en": "A gloved hand writes on the blank label of the waste drum with lines only.",
+   "narration": "写清内容，盖好桶盖，交学校收集。",
+   "overlay": [],
+   "labels": [
+    "废硅胶",
+    "沾染物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "易燃溶剂洒漏的处置",
+   "scene": "一瓶溶剂打翻在通风柜台面",
+   "prompt_en": "A solvent bottle tips over on the fume hood work surface and liquid spreads. No people.",
+   "narration": "溶剂打翻了，先关掉附近热源电源。",
+   "overlay": [
+    "易燃溶剂洒漏的处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "易燃溶剂洒漏的处置",
+   "scene": "小研用吸附棉吸收洒漏液",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, lays absorbent pads over the spill.",
+   "narration": "用吸附棉吸收，保持通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "易燃溶剂洒漏的处置",
+   "scene": "用过的吸附棉放进密封袋",
+   "prompt_en": "Used absorbent pads are sealed in a bag and placed in the solid waste drum.",
+   "narration": "用过的吸附棉装袋，按危废处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "易燃溶剂洒漏的处置",
+   "scene": "洒漏量大，小研向王老师报告",
+   "prompt_en": "The female graduate student reports a large spill to the safety administrator.",
+   "narration": "量大就撤离，报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现TLC板和天平图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a small plate and a balance.",
+   "narration": "TLC选体系，Rf约0.3，算好硅胶量。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 128,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "柱子里棉花、沙、硅胶分层图标",
+   "prompt_en": "Icons of a column with cotton, sand and a smooth white bed. No people.",
+   "narration": "湿法装柱无气泡，液面不能跑干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 129,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "滴管上样与干粉上样两个图标",
+   "prompt_en": "Icons of a dropper loading liquid and a flask pouring dry powder onto a column. No people.",
+   "narration": "溶得动湿法上样，溶不动干法上样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 130,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "试管架和TLC板图标",
+   "prompt_en": "Icons of a test tube rack and a row of plates. No people.",
+   "narration": "加压跑柱，TLC监测，合并旋蒸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 131,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、通风柜、废物桶图标",
+   "prompt_en": "Icons of safety goggles, a fume hood and a waste drum in a row. No people.",
+   "narration": "加压防爆裂，溶剂少放，废物分类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 132,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一支装纯品的试管挥手道别",
+   "prompt_en": "The panda mascot holds up a test tube of pure product and waves goodbye at the camera.",
+   "narration": "分得清，做得稳，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
