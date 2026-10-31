@@ -1,0 +1,152 @@
+# 08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC 卡通剧本作者源
+# 原著版：完全照原片（10 道事故调查选择题，读题后口述答案），K1–K11，不加补充知识点、不做更正；
+# 保留原片答案：查事实不追过错、访谈为了解发生了什么、报告失效因没提系统改进、受限/误工/死亡都须记录、
+# 短期纠正加长期系统改进、警戒带不属于现场记录、安全时启动调查、分析即拆分研究、
+# 多数事故假设由不安全行为引起（原片答案 C，照录）、根本原因分析；第 2 题以画面选项为准
+# 频道名和美国监管机构名不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "事故调查十问：查事实，改系统",
+    "edition": "原著版",
+    "points": {
+        "K1": "事故调查十题",
+        "K2": "查事实，不追过错",
+        "K3": "访谈：弄清发生了什么",
+        "K4": "报告失效：没提系统改进",
+        "K5": "哪些伤病要记录",
+        "K6": "短期纠正加长期改进",
+        "K7": "现场记录包括什么",
+        "K8": "安全了再开始调查",
+        "K9": "分析就是拆开来看",
+        "K10": "多数事故归因于不安全行为",
+        "K11": "根本原因分析",
+    },
+    "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "OSHA"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣拿着放大镜和空白记录本，向镜头招手",
+ "The panda mascot holds a magnifying glass and a blank notebook and waves at the camera.",
+ "今天当一回事故调查员！", "事故调查十问：查事实，改系统"),
+# 情景
+("情景", "仓库里一个纸箱从货架上掉下，阿杰捂着胳膊",
+ "In a storeroom, a cardboard box falls from a shelf and the young male student holds his bruised arm.",
+ "货架上的箱子掉下，砸到了阿杰。"),
+("情景", "老周走来，拿出放大镜和空白记录本",
+ "The older man walks over holding a magnifying glass and a blank notebook.",
+ "老周说：这事要好好调查。"),
+("情景", "欣欣举起一摞空白题卡",
+ "The panda mascot holds up a stack of blank quiz cards.",
+ "先用十道题，学学怎么调查。"),
+# K1
+("K1", "十张空白题卡和放大镜图标",
+ "Ten blank quiz cards with a magnifying glass icon. No people.",
+ "十道题，学会怎么调查。", "事故调查十题", ["10道题"]),
+# K2
+("K2", "天平上一边是事实图标，一边是指责的手指图标",
+ "A balance scale with a fact sheet icon on one side and a blaming finger icon on the other. No people.",
+ "第一题：事故调查为了什么？", "查事实，不追过错"),
+("K2", "事实图标一侧落下，打勾",
+ "The fact sheet side goes down with a green check. No people.",
+ "答案A，查明事实，不是追究过错。", "", ["A 查事实"]),
+("K2", "法槌和逃避检查图标打叉",
+ "A gavel icon and an icon of hiding from an inspector, both crossed out. No people.",
+ "也不是为了定法律责任、躲避检查。"),
+# K3
+("K3", "老周和阿杰面对面坐着谈话，桌上空白记录本",
+ "The older man and the young male student sit facing each other calmly with a blank notebook on the table.",
+ "第二题：调查访谈为了什么？", "访谈：弄清发生了什么"),
+("K3", "时间线图标：箱子在货架上、滑动、掉落",
+ "A timeline with icons: a box on a shelf, the box sliding and the box falling. No people.",
+ "答案B，准确了解发生了什么。", "", ["B 发生了什么"]),
+# K4
+("K4", "一份空白报告被放进抽屉积灰",
+ "A blank report placed into a drawer and covered in dust. No people.",
+ "第三题：事故报告为啥常常没用？", "报告失效：没提系统改进"),
+("K4", "报告上只有感叹号，没有改进箭头",
+ "A blank report with only a small exclamation mark and no improvement arrow. No people.",
+ "答案B，没有提出系统改进建议。", "", ["B 没提系统改进"]),
+("K4", "报告上画出改进箭头和工具、流程图标",
+ "A blank report with an improvement arrow pointing to icons of tools and a process chart. No people.",
+ "要改设备、改流程，才不会再发生。"),
+# K5
+("K5", "三个图标：受限的手臂、日历被划掉、黑色花圈",
+ "Three icons: an arm in a sling, a calendar with crossed-out days and a black ribbon. No people.",
+ "第四题：哪些伤病必须记录？", "哪些伤病要记录"),
+("K5", "三个图标一起打勾",
+ "All three icons receive green check marks. No people.",
+ "活动受限、误工、死亡，答案D全部。", "", ["D 以上皆是"]),
+# K6
+("K6", "两个箭头：短箭头和长箭头",
+ "Two arrows: a short arrow and a long arrow, side by side. No people.",
+ "第五题：好的建议包括哪两类？", "短期纠正加长期改进", ["短期纠正", "长期改进"]),
+("K6", "短期：老周把掉落的箱子搬开，清理通道",
+ "Short-term: the older man moves the fallen box away and clears the aisle.",
+ "答案A，短期纠正措施，"),
+("K6", "长期：货架加装挡边，空白的新管理流程图",
+ "Long-term: a shelf fitted with a raised lip and a blank new procedure chart on the wall. No people.",
+ "加上长期的系统改进。"),
+# K7
+("K7", "相机、眼睛、空白陈述纸、警戒带四个图标",
+ "Four icons: a camera, an eye, a blank written statement and warning tape. No people.",
+ "第六题：哪项不属于现场记录？", "现场记录包括什么"),
+("K7", "相机、眼睛、陈述纸打勾",
+ "The camera, eye and statement icons get green checks. No people.",
+ "拍照录像、亲自观察、写初步陈述，都是记录。"),
+("K7", "警戒带单独拿出来",
+ "The warning tape icon is moved aside and crossed out of the documentation list. No people.",
+ "答案B，拉警戒带不属于现场记录。", "", ["B 警戒带"]),
+# K8
+("K8", "现场还有洒漏液体，一个人冲进去的图标打叉",
+ "An icon of a person rushing into a spill area with fumes, crossed out with a red X. No people.",
+ "第七题：什么时候开始调查？", "安全了再开始调查"),
+("K8", "危险解除后，老周进入",
+ "After the hazard is controlled, the older man enters the storeroom to investigate.",
+ "在确认安全的时候开始调查。"),
+("K8", "秒表和规定时限图标被放在一边",
+ "A stopwatch icon and an eight hour clock icon set aside. No people.",
+ "不是立即冲进去，也不限八小时。答案C。", "", ["C 安全时启动"]),
+# K9
+("K9", "一个大方块被拆成几个小块",
+ "A large block is separated into several smaller blocks with gaps between them. No people.",
+ "第八题：什么叫分析？", "分析就是拆开来看"),
+("K9", "小块分别是人、设备、方法、环境图标",
+ "The small blocks show icons of a person, a device, a method sheet and a room. No people.",
+ "答案B，把整体分解成部分来研究。", "", ["B 分解研究"]),
+# K10
+("K10", "四个选项图标：危险状态、管理体系、不安全行为、常识",
+ "Four option icons: a hazard triangle, a management system chart, a person doing something risky and a light bulb. No people.",
+ "第九题：应假设多数事故由什么引起？", "多数事故归因于不安全行为", ["危险状态", "管理体系缺陷", "不安全行为", "缺乏常识"]),
+("K10", "不安全行为图标亮起",
+ "The risky behavior icon lights up with a green check. No people.",
+ "答案C，不安全行为。", "", ["C 不安全行为"]),
+# K11
+("K11", "一棵树，地面上是叶子，地下是根",
+ "A tree with leaves above ground and roots below ground. No people.",
+ "第十题：找系统缺陷，是哪一步？", "根本原因分析"),
+("K11", "叶子标为表面原因，根部亮起",
+ "The leaves fade as surface causes while the roots light up. No people.",
+ "答案A，根本原因分析。", "", ["表面原因", "A 根本原因"]),
+# 小结
+("小结", "欣欣在白板前",
+ "The panda mascot stands in front of a whiteboard with investigation icons.",
+ "十题答完，回顾一下。", "小结"),
+("小结", "图标：事实、访谈、现场照片",
+ "Icons: a fact sheet, two people talking and a camera. No people.",
+ "查事实不问罪，安全了再查，记录现场。"),
+("小结", "图标：受限、误工、死亡三图标",
+ "Icons: an arm in a sling, a calendar with crossed-out days and a black ribbon. No people.",
+ "受限、误工、死亡，都要记录。"),
+("小结", "图标：树根、短箭头长箭头",
+ "Icons: tree roots and a short arrow with a long arrow. No people.",
+ "根本原因分析，短期纠正加长期改进。"),
+("小结", "阿杰在空白答题卡上打满勾，竖起大拇指",
+ "The young male student holds up a blank answer card full of green ticks and gives a thumbs up.",
+ "阿杰说：十题我都答对了。"),
+# 结尾
+("结尾", "欣欣合上记录本，挥手告别",
+ "The panda mascot closes the notebook and waves goodbye.",
+ "事故调查十问到这里，下次见！"),
+]
