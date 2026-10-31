@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 10 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 11 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 10 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 2 / 13 |
@@ -18,13 +18,13 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 3 / 9 |
-| RSO Training Series | 9 / 9 | 3 / 9 |
+| RSO Training Series | 9 / 9 | 4 / 9 |
 | Electrical Safety Series | 8 / 25 | 6 / 6 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 5 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 6 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
@@ -130,6 +130,7 @@
 | BIORISK MANAGEMENT | 24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY | 国内版 | AMP三步管风险（国内版） | 85 | 7:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 原著版 | 生物安全员是做什么的 | 123 | 10:15 | 40 / 0 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER/script.md>) |
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 国内版 | 生物安全员是做什么的（国内版） | 136 | 11:20 | 40 / 4 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 原著版 | 生物安全柜，这样操作 | 53 | 4:25 | 16 / 0 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION/script.md>) |
 | BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 国内版 | 生物安全柜，这样操作（国内版） | 72 | 6:00 | 16 / 4 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 国内版 | 医院送来的样本（国内版） | 70 | 5:50 | 18 / 4 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 国内版 | 安全柜里的双层装袋（国内版） | 50 | 4:10 | 8 / 4 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/审查报告.md>) |
@@ -196,6 +197,7 @@
 | Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 国内版 | 认识化学品的危害：SDS与标签（国内版） | 60 | 5:00 | 17 / 6 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/script.md>) · [审查](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 原著版 | 安全操作化学品 | 54 | 4:30 | 24 / 0 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5/script.md>) |
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 原著版 | 实验室的其他常见危害 | 45 | 3:45 | 21 / 0 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6/script.md>) |
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
@@ -429,6 +431,7 @@
 | RSO Training Series | 02_RSO Training | 国内版 | 学生社团年度培训：管理、财务与活动安全（国内版） | 124 | 10:20 | 31 / 9 | [剧本](<RSO Training Series/02_RSO Training（国内版）/script.md>) · [审查](<RSO Training Series/02_RSO Training（国内版）/审查报告.md>) |
 | RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 原著版 | 放射性废物：从实验台到安全处置 | 45 | 3:45 | 14 / 0 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/script.md>) |
 | RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 国内版 | 放射性废物：从实验台到安全处置（国内版） | 70 | 5:50 | 14 / 8 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/script.md>) · [审查](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/审查报告.md>) |
+| RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 原著版 | 辐射剂量（上）：吸收剂量与当量剂量 | 51 | 4:15 | 13 / 0 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)/script.md>) |
 | RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 国内版 | 辐射剂量（上）：吸收剂量与当量剂量（国内版） | 71 | 5:55 | 13 / 8 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/script.md>) · [审查](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/审查报告.md>) |
 | RSO Training Series | 05_Spring 2016 RSO Training Module 2 | 国内版 | 学生社团安全守则：欺凌、集体活动、饮酒与出行（国内版） | 131 | 10:55 | 32 / 8 | [剧本](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/script.md>) · [审查](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/审查报告.md>) |
 | RSO Training Series | 06_Radiation Safety Training | 国内版 | 核医学身边的辐射安全：病人、溢洒与急救（国内版） | 107 | 8:55 | 31 / 9 | [剧本](<RSO Training Series/06_Radiation Safety Training（国内版）/script.md>) · [审查](<RSO Training Series/06_Radiation Safety Training（国内版）/审查报告.md>) |
