@@ -1,4 +1,4 @@
-# 05_Flammables and Explosives in the Laboratory 卡通剧本作者源（原著版）
+# 05_Flammables and Explosives in the Laboratory - [Lab Safety Training Video] 卡通剧本作者源
 # 完全照原片：K1–K47，无补充知识点；保留原片数值（二甲苯闪点 81°F、汽油 -45°F 可点燃、乙醚燃烧极限 1.9%–36.5%、
 # 二硫化碳引燃温度 80°C、超过 1 升入易燃品柜）、碳化钙遇水的例子、“若允许下水道处置须先稀释”、向主管咨询等原片说法；
 # 不复现真实点燃画面，只用图标示意

@@ -1,4 +1,4 @@
-# 01_Proper Dress and PPE Lab Safety Video Part 1 卡通剧本作者源（原著版）
+# 12_Proper Dress and PPE Lab Safety Video Part 1 卡通剧本作者源
 # 原片为实验室安全系列第 1 集（着装与个人防护）：完全照原片，知识点 K1–K17，不本土化、不补充
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 

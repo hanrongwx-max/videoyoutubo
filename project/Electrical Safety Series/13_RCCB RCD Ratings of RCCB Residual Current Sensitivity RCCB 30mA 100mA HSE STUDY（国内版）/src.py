@@ -1,4 +1,4 @@
-# 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity 卡通剧本作者源
+# 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY 卡通剧本作者源
 # 原片为两分多钟的白板短讲：剩余电流断路器的灵敏度档位及用途。K1–K8 全部保留（不写具体毫安数值，
 # 改用“高灵敏度 / 低一档 / 防火档”定性表述）；审查补充 S1–S4（铭牌两个参数、不防过载短路、
 # 配电箱位置与通道、新增大功率仪器先申报）

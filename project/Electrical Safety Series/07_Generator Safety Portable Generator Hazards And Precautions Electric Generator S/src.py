@@ -1,4 +1,4 @@
-# 07_Generator Safety Portable Generator Hazards And Precautions 卡通剧本作者源
+# 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S 卡通剧本作者源
 # 原著版：完全照原片（便携式发电机安全白板动画，印地语讲解），K1–K26，不加补充知识点、不做本土化和更正
 # （保留原片的 GFCI、四周和上方留 3–4 英尺、车库/地下爬行空间/地下室、“不在家里存放燃料”等说法）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

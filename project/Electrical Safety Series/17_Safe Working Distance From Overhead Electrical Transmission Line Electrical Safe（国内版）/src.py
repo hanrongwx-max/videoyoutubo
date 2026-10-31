@@ -1,4 +1,4 @@
-# 17_Safe Working Distance From Overhead Electrical Transmission Line 卡通剧本作者源
+# 17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe 卡通剧本作者源
 # 原片为两分多钟的白板短讲：高压输电线分级、与架空线的安全作业距离表。K1–K6 全部保留，
 # 不采用原片电压分界和距离数值（国外资料，且有笔误），改为“电压越高离得越远，以现行规定为准”；
 # 审查补充 S1–S5（不碰也会放电、长杆长梯和风筝无人机、断线落地别靠近、不攀爬电杆铁塔、机械靠近线路先报批）

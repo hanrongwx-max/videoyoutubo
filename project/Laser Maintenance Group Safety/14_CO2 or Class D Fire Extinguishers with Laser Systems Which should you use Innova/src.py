@@ -1,4 +1,4 @@
-# 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova 卡通剧本作者源
+# 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova 卡通剧本作者源
 # 原著版：完全照原片（1 分 17 秒：激光设备旁用二氧化碳还是 D 类灭火器），K1–K8，不加补充知识点、不做更正；
 # 保留原片说法：按原片的 D 类（Class D）称呼；干粉喷一次修理费多一千美元、干粉遇湿气腐蚀金属“毁掉一切”是“一场灾难”；
 # 二氧化碳排开氧气、挥发不留东西、比干粉贵但一次损坏够买好几个；电气火灾肯定用二氧化碳；D 类只为钛等能燃烧的特殊金属，烧起来很难扑灭

@@ -1,4 +1,4 @@
-# 03_Assessing Risks in the Chemistry Laboratory 卡通剧本作者源（原著版）
+# 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 卡通剧本作者源
 # 原片讲如何评估风险：危害与风险的区别、风险方程与风险矩阵、两个实验案例（向滴定管倒强酸、稀释浓硫酸）和评估的三个难点。
 # 原著版：完全照原片，保留全部知识点 K1–K17；案例一按原片展示学生把烧杯举过眼睛高度向滴定管倒液，
 # 作为待评估的情形而不另加打叉；不加补充知识点，不做本土化。

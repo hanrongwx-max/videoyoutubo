@@ -1,4 +1,4 @@
-# 01_Preventing Contamination in the Lab 卡通剧本作者源（原著版）
+# 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] 卡通剧本作者源
 # 完全照原片：K1–K29，无补充知识点；保留原片的“手套至少每两小时更换”、防爆屏、向主管/安全员了解下水道处置、
 # 用干纸巾吸附或扫起粉末等原片做法
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

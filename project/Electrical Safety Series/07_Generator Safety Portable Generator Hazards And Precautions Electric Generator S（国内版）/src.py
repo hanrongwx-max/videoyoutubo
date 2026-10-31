@@ -1,4 +1,4 @@
-# 07_Generator Safety Portable Generator Hazards And Precautions 卡通剧本作者源
+# 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S 卡通剧本作者源
 # 原片为便携式发电机安全白板动画（印地语讲解）：K1–K26 全部保留，场景改为高校野外实习、户外活动临时供电；
 # 审查补充 S1–S5（报备与专人管理、一氧化碳报警器、汽油按危险化学品管理、油类火灾扑救、一氧化碳中毒救援）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

@@ -1,4 +1,4 @@
-# 08_Laboratory Safety for Compressed Gas Cylinders 卡通剧本作者源（原著版）
+# 08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training] 卡通剧本作者源
 # 完全照原片：K1–K32，无补充知识点；保留原片数值（一瓶氢气可充满 260 立方英尺房间、液化压力 25–2500 磅每平方英寸、
 # 低温液体沸点低于 -238°F、可燃与氧化性气体相隔至少 20 英尺或隔墙、腐蚀性气体存放不超过 6 个月、环氧乙烷不冷藏不超过 3 个月）、
 # “不同厂家用色不同，不能凭颜色判断”、适用法规问主管、漏气报告主管和设备供应商等原片说法

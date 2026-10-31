@@ -1,4 +1,4 @@
-# 02_Chemical Safety Information Resources 卡通剧本作者源
+# 02_Chemical Safety Information Resources ACS College Safety Video 2 卡通剧本作者源
 # 原片讲如何用书面资料识别化学品危害：以化学品安全技术说明书（SDS）为主线逐节讲解，并讲 SDS 的局限和其他信息来源。
 # 保留全部知识点 K1–K20，审查补充 S1–S6（国内 SDS 与安全标签标准、国内职业接触限值、急救与报警、
 # 管制化学品与信息平台、废液分类收集、自配溶液贴标签）

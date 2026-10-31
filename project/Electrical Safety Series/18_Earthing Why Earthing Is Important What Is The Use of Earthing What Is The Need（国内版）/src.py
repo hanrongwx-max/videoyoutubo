@@ -1,4 +1,4 @@
-# 18_Earthing Why Earthing Is Important 卡通剧本作者源
+# 18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need 卡通剧本作者源
 # 原片为白板动画：接地的定义与做法、五个作用、有无接地的对比示意图。K1–K11 全部保留，
 # 区分保护接地与系统接地，纠正“有接地就绝不会触电”的绝对说法；
 # 审查补充 S1–S4（接地不能借水管燃气管、有了接地还要漏电保护、自制装置外壳也要接地、不为消除干扰拆接地）

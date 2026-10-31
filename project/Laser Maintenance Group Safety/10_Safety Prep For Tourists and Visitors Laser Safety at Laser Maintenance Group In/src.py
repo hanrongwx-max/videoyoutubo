@@ -1,4 +1,4 @@
-# 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In 卡通剧本作者源
+# 10_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In 卡通剧本作者源
 # 原著版：完全照原片（1 分 17 秒，车间负责人讲“做一个安全的参观向导”），K1–K7，不加补充知识点、不做更正；
 # 保留原片做法：鼓励访客拍视频、带切割小玩意回家；访客穿裙子凉鞋时保持通道畅通、不卸钢板；钢头/复合材料头安全鞋也不保险；
 # 站在能看又安全的地方；替访客留意储罐起跳、行车、叉车、带锯突然启动；先讲再指给他们看

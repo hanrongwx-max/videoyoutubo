@@ -1,4 +1,4 @@
-# 02_Lab Worker Ergonomics Training - [Lab Safety Training]
+# 04_Lab Worker Ergonomics Training - [Lab Safety Training]
 
 > 本视频与剧集「Fire Safety & Extinguisher Training」的 02_Lab Worker Ergonomics Training - [Lab Safety Training] 是同一个视频（https://youtu.be/6pfBMMnZEX8），内容文档和卡通剧本复制自该剧集，未重复编写。
 

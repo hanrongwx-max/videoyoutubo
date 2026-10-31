@@ -1,4 +1,4 @@
-# 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf 卡通剧本作者源
+# 11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf 卡通剧本作者源
 # 原著版：完全照原片（1 分 29 秒车间走访：别让突然的响声吓到访客），K1–K8，不加补充知识点、不做更正；
 # 保留原片说法：辅助气体用压缩空气、液氮或液氧；低温液体“低于零下 400 度”（原话，未注单位，照用不改）；
 # 安全阀嘶嘶排气、会突然起跳；结霜凝露是要排放的迹象；快起跳时别让访客站旁边；万向球台面气动升起也会吓人；

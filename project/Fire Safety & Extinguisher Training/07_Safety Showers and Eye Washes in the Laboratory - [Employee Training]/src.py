@@ -1,4 +1,4 @@
-# 07_Safety Showers and Eye Washes in the Laboratory 卡通剧本作者源（原著版）
+# 07_Safety Showers and Eye Washes in the Laboratory - [Employee Training] 卡通剧本作者源
 # 完全照原片：K1–K31，无补充知识点；保留认证机构要求的定期放水测试、化学品安全计划、帮手协助脱衣（只用图标示意）、
 # 地漏通下水道时由主管通报外部主管机构、每次使用报告主管等原片说法
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

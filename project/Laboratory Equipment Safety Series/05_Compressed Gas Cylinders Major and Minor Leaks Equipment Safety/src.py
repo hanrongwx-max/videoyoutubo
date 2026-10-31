@@ -1,4 +1,4 @@
-# 05_Compressed Gas Cylinders Major and Minor Leaks 卡通剧本作者源（原著版）
+# 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety 卡通剧本作者源
 # 完全照原片：气瓶泄漏的预防与大小泄漏处置（2 分 21 秒），知识点 K1–K16，不加补充知识点、不做本土化和更正
 # 保留原片的做法：超过最近检验日期 10 年退回、按化学品泄漏报警按钮、拨打 911 并通知安全部门、网上事件上报
 # META["avoid"] 照抄国内版，但去掉 "911"（原著版按原片保留急救电话 911）

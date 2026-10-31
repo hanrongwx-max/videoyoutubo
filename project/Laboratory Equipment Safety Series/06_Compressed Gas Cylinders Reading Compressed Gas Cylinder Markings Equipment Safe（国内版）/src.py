@@ -1,4 +1,4 @@
-# 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings 卡通剧本作者源
+# 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe 卡通剧本作者源
 # 原片讲北美气瓶钢印识读：保留全部知识点 K1–K21（按国内体系重述，不出现国外规格代号、英制单位和年限），
 # 审查补充 S1–S5（国内颜色标志、用前三查、合规来源与严禁涂改、气瓶台账、问题气瓶的处置）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

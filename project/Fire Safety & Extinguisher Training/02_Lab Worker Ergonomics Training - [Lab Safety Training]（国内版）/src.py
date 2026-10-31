@@ -1,4 +1,4 @@
-# 02_Lab Worker Ergonomics Training 卡通剧本作者源
+# 02_Lab Worker Ergonomics Training - [Lab Safety Training] 卡通剧本作者源
 # 原片为实验室人机工效培训片：保留全部知识点 K1–K25，审查补充 S1–S5（不适早报告早就医、化学品搬运、
 # 取高处与防跌倒、移液器与显微镜工效、工间休息到实验区外）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

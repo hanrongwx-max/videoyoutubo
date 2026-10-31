@@ -1,4 +1,4 @@
-# 14_Electrical Safety Interview Questions & Answers 卡通剧本作者源
+# 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID 卡通剧本作者源
 # 原片为“安全岗位面试电气 15 题”白板动画：去掉面试框架，改为阿杰备考实验室准入考试、熊猫欣欣出题的
 # 复习问答；15 题对应 K1–K15 全部保留（行灯电压、围栏高度不写数值，人工呼吸更新为心肺复苏）；
 # 审查补充 S1–S5（熔丝不能乱换、电气火灾选对灭火器、照明不够报修加装不私接灯具、绝缘用品定期检验、应急照明与疏散指示）

@@ -1,4 +1,4 @@
-# 04_Compressed Gas Cylinders Installation and Removal of a Regulator 卡通剧本作者源
+# 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet 卡通剧本作者源
 # 原片为气瓶减压器装拆操作演示：保留全部知识点 K1–K22，审查补充 S1–S6（培训与个人防护、减压器专用不混用、
 # 开阀站位与禁止强开、肥皂水检漏禁明火、留余压与状态标识、泄漏失控时撤离报告）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

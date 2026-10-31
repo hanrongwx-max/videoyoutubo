@@ -1,4 +1,4 @@
-# 05_Compressed Gas Cylinders Major and Minor Leaks 卡通剧本作者源
+# 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety 卡通剧本作者源
 # 原片为气瓶泄漏的预防与大小泄漏处置：保留全部知识点 K1–K16，审查补充 S1–S5（拿不准按大泄漏处理、
 # 可燃气体泄漏防爆要点、窒息与中毒不盲目施救、气体报警与日常检漏、国内报告渠道与事后处理）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

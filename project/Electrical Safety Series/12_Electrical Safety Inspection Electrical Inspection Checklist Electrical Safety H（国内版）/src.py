@@ -1,4 +1,4 @@
-# 12_Electrical Safety Inspection Checklist 卡通剧本作者源
+# 12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H 卡通剧本作者源
 # 原片为工地“电气安全检查表”录屏讲解（印地语，8 分 19 秒）：K1–K29 全部保留，场景改为学院对实验室和实训中心的用电检查；
 # 工地专项（焊接电缆、卤素灯、发电机中性点接地等）作“了解”简讲；审查补充 S1–S4
 # （三级检查、配电箱前不堆物、地面线缆防护、隐患整改闭环）

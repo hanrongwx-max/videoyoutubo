@@ -1,4 +1,4 @@
-# 16_Electrical Shock Causes & Prevention 卡通剧本作者源
+# 16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE 卡通剧本作者源
 # 原著版：完全照原片（白板动画：电击是什么、四个常见原因、13 条预防措施），K1–K20，不加补充知识点、不做本土化和更正
 # （保留原片的 ELCB 说法、“有大电流的场所不作业”、高处作业与电力线至少 10 英尺）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

@@ -1,4 +1,4 @@
-# 11_GFCI - Ground Fault Circuit Interrupter 卡通剧本作者源
+# 11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE 卡通剧本作者源
 # 原片为“接地故障断路器（GFCI）及其类型”白板动画（印地语讲解，3 分 52 秒）：K1–K12 全部保留，
 # GFCI 本土化为“漏电保护器”，三种形式改为国内常见的“插座里的、可移动的、做在插头上的”；
 # 审查补充 S1–S3（临时用电用移动式漏保、不得短接拆除、选用 3C 合格产品）

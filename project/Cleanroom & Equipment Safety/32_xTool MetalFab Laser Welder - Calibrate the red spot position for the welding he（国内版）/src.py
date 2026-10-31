@@ -1,4 +1,4 @@
-# 32_xTool MetalFab Laser Welder - Calibrate the red spot position 卡通剧本作者源
+# 32_xTool MetalFab Laser Welder - Calibrate the red spot position for the welding he 卡通剧本作者源
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 # 原片为厂家教程片段（第 26 集“校准红点位置”）；设备统称“手持式激光焊接机”，品牌、管理员密码、参数值不出现
 # 补充 S 点避开本剧集 01–31 已用的

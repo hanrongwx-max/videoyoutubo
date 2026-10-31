@@ -1,4 +1,4 @@
-# 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects 卡通剧本作者源
+# 01_Health Physics Lecture 1 Introduction to Radiation and Biological Effects Nuclea 卡通剧本作者源
 # 原片为健康物理课程第一讲（剂量学量与辐射生物效应的物理基础，48 分钟讲座录屏），不是安全操作片：
 # 保留全部知识点 K1–K23（物理概念用比喻讲，不上公式），审查补充 S1–S10（国内法规、防护三原则与剂量限值、
 # 两类生物效应、培训考核、个人剂量监测、警告标志与分区、时间/距离/屏蔽、内照射与污染、放射性废物、事故报告）

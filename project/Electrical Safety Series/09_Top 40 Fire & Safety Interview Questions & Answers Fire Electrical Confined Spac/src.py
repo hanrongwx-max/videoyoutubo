@@ -1,4 +1,4 @@
-# 09_Top 40 Fire & Safety Interview Questions & Answers 卡通剧本作者源
+# 09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac 卡通剧本作者源
 # 原著版：完全照原片，保留“HSE 安全员面试 40 题”的问答框架，四组（消防、用电、受限空间、个人防护）归并为 K1–K42，
 # 不加补充知识点、不做本土化和更正（保留原片的国际 6 类/印度标准 5 类火灾说法、灭火器标签颜色、干粉不用于高压带电设备、
 #  10 mA / 75 mA、GFCI/ELCB、Class 1 Division 1/2 与 Unclassified 对应高中低压 650 V / 250 V、20 A 加 30 mA 例子、

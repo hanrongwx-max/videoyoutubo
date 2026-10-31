@@ -1,4 +1,4 @@
-# 08_Modelling for Synthetic Biology 卡通剧本作者源
+# 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival 卡通剧本作者源
 # 原片为合成生物学数学建模的科研讲座（与实验室安全相关度低），保留全部知识点 K1–K18（压缩讲解），
 # 审查补充合成生物学生物安全 / 生物安保知识点 S1–S7
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

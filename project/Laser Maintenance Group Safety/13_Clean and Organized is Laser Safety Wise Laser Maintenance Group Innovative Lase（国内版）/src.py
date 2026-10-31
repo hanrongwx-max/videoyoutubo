@@ -1,4 +1,4 @@
-# 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 卡通剧本作者源
+# 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 卡通剧本作者源
 # 原片为车间负责人讲整理整顿（2 分 8 秒）：通道、线缆、废料桶、格栅台、废料架、头部高度的板边。保留 K1–K8，
 # 审查补充 S1–S5（定置管理与标识、消防设施和通道前不堆物、可燃废料与油污抹布、搬运锐边废料的防护、每日检查）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

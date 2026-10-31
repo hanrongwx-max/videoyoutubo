@@ -1,4 +1,4 @@
-# 01_Preventing Contamination in the Lab 卡通剧本作者源
+# 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] 卡通剧本作者源
 # 原片为实验室防污染培训片：保留全部知识点 K1–K29，审查补充 S1–S7（准入与风险评估、PPE 脱卸与实验服管理、
 # 禁止饮食的完整要求、废物分类、溢洒分级处置、暴露后应急、事故报告）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

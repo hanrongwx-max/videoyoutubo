@@ -1,4 +1,4 @@
-# 10_Working Principle of Laminar Air Flow & Biosafety Cabinets 卡通剧本作者源
+# 10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe 卡通剧本作者源
 # 原片为无配音文字幻灯片，逐条对比层流（LAF）与生物安全柜（BSC）。保留全部知识点 K1–K13，
 # 审查补充 S1–S4（超净台不护人；感染性材料只能进安全柜；三类安全柜防护不同+国内分级方向；设备不替代防护）。
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字。

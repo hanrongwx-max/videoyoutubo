@@ -1,4 +1,4 @@
-# 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf 卡通剧本作者源
+# 11_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf 卡通剧本作者源
 # 原片为车间走访讲解（89 秒）：低温储罐安全阀排气、上料台气动升起的突然响声会惊吓访客。保留 K1–K8，
 # 审查补充 S1–S4（低温液体的三种危险、低温储罐的使用规范、受惊引起的二次伤害、噪声与听力防护）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

@@ -1,4 +1,4 @@
-# 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova
+# 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova
 
 > 本视频与剧集「Laser Maintenance Group Safety」的 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova 是同一个视频（https://youtu.be/Ql2N86bml-s），内容文档和卡通剧本复制自该剧集，未重复编写。
 

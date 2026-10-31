@@ -1,4 +1,4 @@
-# 09_Orientation to Laboratory Safety 卡通剧本作者源（原著版）
+# 09_Orientation to Laboratory Safety - [Lab Worker Safety Training] 卡通剧本作者源
 # 完全照原片：K1–K45，无补充知识点；保留原片的化学品卫生计划、危险废物管理法规、PPE 由单位免费提供、
 # 柜内至少 6 英寸处操作、超过 1 升放易燃品柜、气瓶数量问主管、刑事和民事处罚、拨打急救电话或通知现场应急人员、
 # 冲洗至少 15 分钟等原片说法

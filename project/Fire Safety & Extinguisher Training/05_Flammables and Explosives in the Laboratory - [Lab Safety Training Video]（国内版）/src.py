@@ -1,4 +1,4 @@
-# 05_Flammables and Explosives in the Laboratory 卡通剧本作者源
+# 05_Flammables and Explosives in the Laboratory - [Lab Safety Training Video] 卡通剧本作者源
 # 原片为易燃易爆物安全讲解片：保留全部知识点 K1–K47，审查补充 S1–S6（认清易燃易爆标志、分类存放与防爆柜（GB 15603）、
 # 易制爆危险化学品治安管理、实验室火源管理、灭火器与 119、事故报告）
 # 只讲识别、储存和安全操作；不展示点火演示，不给闪点、极限、存量等数值，不写任何配方或反应条件

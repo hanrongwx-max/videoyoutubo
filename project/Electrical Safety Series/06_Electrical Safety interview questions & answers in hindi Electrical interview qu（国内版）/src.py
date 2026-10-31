@@ -1,4 +1,4 @@
-# 06_Electrical Safety interview questions & answers in hindi 卡通剧本作者源
+# 06_Electrical Safety interview questions & answers in hindi Electrical interview qu 卡通剧本作者源
 # 原片为“电气安全面试 13 题”白板动画：去掉面试框架，改为熊猫欣欣主持的“用电安全知识问答”，
 # 13 道题归并为 K1–K27 全部保留；审查补充 S1–S5（合格电器、插线板不超载不串接、隐患停用报修、
 # 液体与湿手远离电、实验接线先断电查过再通电）

@@ -1,4 +1,4 @@
-# 04_Chemical Hazards Lab Safety Video Part 4 卡通剧本作者源
+# 13_Chemical Hazards Lab Safety Video Part 4 卡通剧本作者源
 # 原片为系列安全片第 4 集“识别化学品危害”（SDS 与 GHS 标签）：保留全部知识点 K1–K17，
 # 审查补充 S1–S6（国内标准与中文 SDS/标签、信号词只有“危险/警告”、九个象形图认全、自配与分装试剂的标签、
 # 特殊管控化学品的识别、用 SDS 做实验前风险评估）

@@ -1,4 +1,4 @@
-# 02_Safety Equipment Lab Safety Video Part 2
+# 06_Safety Equipment Lab Safety Video Part 2
 
 > 本视频与剧集「Chemical Spillage & Response」的 02_Safety Equipment Lab Safety Video Part 2 是同一个视频（https://youtu.be/IiHEYtnKfF0），内容文档和卡通剧本复制自该剧集，未重复编写。
 

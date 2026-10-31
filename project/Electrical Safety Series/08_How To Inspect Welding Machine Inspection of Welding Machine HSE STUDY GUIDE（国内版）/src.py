@@ -1,4 +1,4 @@
-# 08_How To Inspect Welding Machine 卡通剧本作者源
+# 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE 卡通剧本作者源
 # 原片为电焊机进场检查清单（白板手绘，印地语讲解，2 分 43 秒）：K1–K12 全部保留，场景改为高校工程训练中心；
 # 审查补充 S1–S4（检查记录与标识、焊接回线就近接牢、弧光遮挡、暂停作业先断电）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

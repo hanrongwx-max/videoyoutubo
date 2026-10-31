@@ -1,4 +1,4 @@
-# 01_From Chemical Safety Rules to Risk Management 卡通剧本作者源
+# 01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1 卡通剧本作者源
 # 原片为大学化学实验安全系列总论：从死记规则到风险管理四步（识别危害、评估风险、降低风险、应急准备）和安全文化。
 # 保留全部知识点 K1–K18，审查补充 S1–S5（三级管理与准入、实验前风险评估与审批、SDS 与安全标签、
 # 风险控制的优先顺序、报警与报告）

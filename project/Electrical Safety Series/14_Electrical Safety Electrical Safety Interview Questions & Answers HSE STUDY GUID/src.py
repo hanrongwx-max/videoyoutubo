@@ -1,4 +1,4 @@
-# 14_Electrical Safety Interview Questions & Answers 卡通剧本作者源
+# 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID 卡通剧本作者源
 # 原著版：完全照原片，保留“安全岗位面试电气 15 题”的问答框架，K1–K15，不加补充知识点、不做本土化和更正
 # （保留原片的橡胶垫/橡胶靴、行灯交流不超过 25 V 或直流不超过 50 V、触电后“做人工呼吸”、围栏约 2.4 米/8 英尺）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

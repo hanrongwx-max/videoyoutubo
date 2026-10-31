@@ -1,4 +1,4 @@
-# 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In 卡通剧本作者源
+# 10_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In 卡通剧本作者源
 # 原片为车间负责人讲“做一个安全的参观向导”（77 秒）。保留 K1–K7，
 # 审查补充 S1–S5（访客登记批准与陪同、参观前着装与防护、激光受控区与隔离线、拍照拍视频的边界、紧急时的撤离）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

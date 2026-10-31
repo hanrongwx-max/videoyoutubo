@@ -1,4 +1,4 @@
-# 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova 卡通剧本作者源
+# 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova 卡通剧本作者源
 # 原片为车间负责人比较二氧化碳灭火器与 D 类灭火器（77 秒）。保留 K1–K8，
 # 审查补充 S1–S5（国内火灾分类、先断电、二氧化碳灭火器的使用与防冻伤、密闭空间窒息风险、金属火灾不用水和二氧化碳、灭火器日常检查）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字

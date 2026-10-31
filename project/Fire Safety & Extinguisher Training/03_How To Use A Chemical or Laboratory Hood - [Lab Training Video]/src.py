@@ -1,4 +1,4 @@
-# 03_How To Use A Chemical or Laboratory Hood 卡通剧本作者源（原著版）
+# 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] 卡通剧本作者源
 # 完全照原片：K1–K34，无补充知识点；保留原片的美国数值（柜前 6 英寸测横流、20 英尺/分钟、±25%、不低于 60、
 # 80–100、125、不超过 150 英尺/分钟、横流不超过面风速 20%、至少每年测一次、柜内至少 6 英寸、HEPA 0.3 微米 99.99%）、
 # 表面皿/倒扣烧杯覆盖小火、拉警报并通知消防队等原片说法

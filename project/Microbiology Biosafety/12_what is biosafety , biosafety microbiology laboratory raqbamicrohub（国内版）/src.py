@@ -1,4 +1,4 @@
-# 12_what is biosafety 卡通剧本作者源
+# 12_what is biosafety , biosafety microbiology laboratory raqbamicrohub 卡通剧本作者源
 # 原片为单页无配音定义幻灯片：生物安全 = 用规范操作 + 安全设备 + 专门设施，保护工作人员、社区和环境，
 # 免受感染因子、毒素等的意外暴露与无意释放。保留全部知识点 K1–K4，
 # 审查补充 S1–S3（生物安全 vs 生物安保；三要素配套；守住环境+病原分级方向）。

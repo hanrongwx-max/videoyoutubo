@@ -1,4 +1,4 @@
-# 04_Minimizing Risks in the Chemistry Laboratory 卡通剧本作者源
+# 04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4 卡通剧本作者源
 # 原片讲降低风险的一般方法：四种暴露途径、控制层级（消除、替代、工程控制、管理控制、个人防护）、
 # 通风橱的正确使用、护目镜、着装、手套的选择与正确脱除。
 # 保留全部知识点 K1–K21，审查补充 S1–S6（着装细节、防护用品不出实验室、废弃手套分类处置、

@@ -1,4 +1,4 @@
-# 17_Safe Working Distance From Overhead Electrical Transmission Line 卡通剧本作者源
+# 17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe 卡通剧本作者源
 # 原著版：完全照原片（高压输电线分级、与架空线的安全作业距离表，两分多钟），K1–K6，不加补充知识点、不做本土化和更正
 # （保留原片的 HV 100–230 kV、EHV 230–1000 kV、UHV 1000 kV 以上，以及五档距离 1.40/3.60/4.70/5.70/6.50 m，
 #  含板书的“132–273 kV”“273–400 kV”档）

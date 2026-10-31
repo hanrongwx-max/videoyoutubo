@@ -1,4 +1,4 @@
-# 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity 卡通剧本作者源
+# 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY 卡通剧本作者源
 # 原著版：完全照原片（RCCB 灵敏度档位白板短讲，两分多钟），K1–K8，不加补充知识点、不做本土化和更正
 # （保留原片的 RCCB/RCD 名称、“检测漏到地线的电流”的说法、10/30/100/300/500/1000 mA 档位、
 #  30 mA 防人身电击、100 mA 只在用不了 30 mA 时采用、300 mA 绝不用于电击防护而用于防火和保护设备）

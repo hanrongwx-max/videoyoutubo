@@ -1,4 +1,4 @@
-# 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 卡通剧本作者源
+# 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 卡通剧本作者源
 # 原著版：完全照原片（2 分 08 秒车间走访：整理整顿也是安全），K1–K8，不加补充知识点、不做更正；
 # 保留原片内容：通道扫净、软管线缆离地；废料桶放在工作台尽头、废料伸出会扎人；注意力在会响的折弯机和激光机上；
 # 别靠激光机、别把手搭在格栅条上；别爬上工作台（原片提到多年前有人摔上台面缝了约 60 针）；废料骨架竖放架内用链条锁住；头部高度的板边要切掉或收好

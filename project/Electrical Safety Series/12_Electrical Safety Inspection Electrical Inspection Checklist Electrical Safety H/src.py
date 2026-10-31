@@ -1,4 +1,4 @@
-# 12_Electrical Safety Inspection Checklist 卡通剧本作者源
+# 12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H 卡通剧本作者源
 # 原著版：完全照原片（工地“电气安全检查表”录屏讲解，印地语，8 分 19 秒），K1–K29，不加补充知识点、不做本土化和更正
 # （保留原片的工地场景、ELCB 灵敏度 30 mA 与现场常被换成 100 mA 的说法、焊接电缆、卤素灯、中性点接地、
 #  交电气负责人/抄送项目经理/存 HSE 部门的流程、检查表可下载使用）

@@ -1,4 +1,4 @@
-# 15_60 Most Basic Safety Interview Questions & Answers 卡通剧本作者源
+# 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview 卡通剧本作者源
 # 原片为“HSE 面试 60 题”合集（施工 15、电气 15、开挖 15、脚手架 15，其中 9 题重复，电气部分与 14 相同）。
 # 去掉面试框架，改为熊猫欣欣主持的“安全知识四关挑战”，以校园施工为情景；去重后知识点 K1–K47 全部保留，
 # 工业现场内容作“了解”简讲，不写国外数值；审查补充 S1–S5（校园施工区不进入、高处取物与重物放低、

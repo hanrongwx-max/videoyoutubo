@@ -1,4 +1,4 @@
-# 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase
+# 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase
 
 > 本视频与剧集「Laser Maintenance Group Safety」的 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 是同一个视频（https://youtu.be/lFxYkOOmio0），内容文档和卡通剧本复制自该剧集，未重复编写。
 

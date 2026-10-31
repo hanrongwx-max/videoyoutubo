@@ -1,4 +1,4 @@
-# 09_What is Bioterrorism ... 卡通剧本作者源
+# 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu 卡通剧本作者源
 # 原片为无配音文字幻灯片，讲生物恐怖的定义、动机、后果、因子举例与意义。
 # 按交接要求：只讲【识别、预防、报告】，不展示任何武器化 / 生产 / 增强 / 投放细节；
 # 真实事件只用通用图标，不出现名称、时间、地点；因子举例仅分三大类（细菌 / 病毒 / 毒素），不讲机理。
