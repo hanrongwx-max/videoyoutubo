@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 354 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 355 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -29,8 +29,8 @@
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 1 / 2 |
+| Cleanroom & Equipment Safety | 1 / 33 | 0 / 0 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
-| Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
 
 ## 已编写视频
 
@@ -256,6 +256,7 @@
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 原著版 | 安全巡查：找找隐患在哪里 | 53 | 4:25 | 23 / 0 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey/script.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 01_xTool MetalFab Laser Welder 1200w Unboxing and First Use | 单一版 | 手持激光焊机：开箱安装与首次使用 | 162 | 13:30 | 26 / 9 | [剧本](<Cleanroom & Equipment Safety/01_xTool MetalFab Laser Welder 1200w Unboxing and First Use/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
