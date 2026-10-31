@@ -19,7 +19,7 @@
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
-| General Lab Safety Practices | 8 / 8 | 3 / 8 |
+| General Lab Safety Practices | 8 / 8 | 4 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 4 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 2 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 2 / 7 |
@@ -192,6 +192,7 @@
 | General Lab Safety Practices | 02_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | 原著版 | pH电极的日常维护 | 59 | 4:55 | 11 / 0 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode/script.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | 国内版 | pH电极的日常维护（国内版） | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/审查报告.md>) |
+| General Lab Safety Practices | 04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance | 原著版 | 离心机的清洁维护与转子检查 | 57 | 4:45 | 15 / 0 | [剧本](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance/script.md>) |
 | General Lab Safety Practices | 04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance | 国内版 | 离心机的清洁维护与转子检查（国内版） | 86 | 7:10 | 15 / 7 | [剧本](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/script.md>) · [审查](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 05_How to Use a Centrifuge | 国内版 | 离心机的正确使用（国内版） | 70 | 5:50 | 9 / 7 | [剧本](<General Lab Safety Practices/05_How to Use a Centrifuge（国内版）/script.md>) · [审查](<General Lab Safety Practices/05_How to Use a Centrifuge（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 06_Centrifugation Hazards | 国内版 | 离心机的危害与安全使用（国内版） | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/审查报告.md>) |
