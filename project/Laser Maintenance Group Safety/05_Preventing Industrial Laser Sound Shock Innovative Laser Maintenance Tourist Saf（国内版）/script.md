@@ -1,7 +1,7 @@
-# 别让突然的响声吓到人
+# 别让突然的响声吓到人（国内版）
 
 - 剧集：Laser Maintenance Group Safety；对应原视频：05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（内容分析见 `course/Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf/`
 - 时长：3 分 25 秒（41 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 35 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
