@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 2 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -732,6 +732,7 @@
 | Laser Maintenance Group Safety | 16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L | 国内版 | 出光时，双手放在外面（国内版） | 37 | 3:05 | 8 / 3 | [剧本](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si | 原著版 | 激光器里的高压电 | 39 | 3:15 | 12 / 0 | [剧本](<Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si/script.md>) |
 | Laser Maintenance Group Safety | 17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si | 国内版 | 激光器里的高压电（国内版） | 42 | 3:30 | 12 / 3 | [剧本](<Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 原著版 | 容量器具的规范使用 | 91 | 7:35 | 34 / 0 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques/script.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 02_Titration | 国内版 | 酸碱滴定的规范操作（国内版） | 74 | 6:10 | 24 / 6 | [剧本](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 国内版 | 薄层色谱入门（国内版） | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/审查报告.md>) |
