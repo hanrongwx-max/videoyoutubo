@@ -14,3 +14,4 @@ Then run: python3 tools/cartoon/build_project.py --only "project/<剧集>/<视�
 
 Cite the safety-sign standard as "GB 2894-2025（以现行文本为准）" (user decision); cite other standards without edition years unless certain, marked 以现行文本为准.
 Current editions confirmed by the user: GB 30863-2025, GB/T 18490.1-2017, GB/T 13955-2017, GB/T 13870.1-2022 — cite as e.g. "GB 30863-2025（以现行文本为准）".
+Current editions of national standards: see docs/handoff/standards_current.md (verified on openstd.samr.gov.cn); cite as "标准号-年号（以现行文本为准）".
