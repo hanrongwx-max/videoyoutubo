@@ -7,9 +7,9 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 8 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 9 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 10 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 5 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 2 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 4 / 12 |
@@ -117,6 +117,7 @@
 | BIORISK MANAGEMENT | 14_INTRODUCTION TO RISK MITIGATION | 国内版 | 两道屏障，五类控制（国内版） | 40 | 3:20 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 15_Biorisk Management PPEs | 原著版 | 进门之前，穿戴到位 | 35 | 2:55 | 9 / 0 | [剧本](<BIORISK MANAGEMENT/15_Biorisk Management PPEs/script.md>) |
 | BIORISK MANAGEMENT | 15_Biorisk Management PPEs | 国内版 | 进门之前，穿戴到位（国内版） | 49 | 4:05 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 16_Biorisk Management Containment | 原著版 | 看不见的墙：气流防护 | 44 | 3:40 | 13 / 0 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment/script.md>) |
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 国内版 | 看不见的墙：气流防护（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 国内版 | 跟着路线走进三级实验室（国内版） | 71 | 5:55 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19 | 国内版 | 送风头罩怎么用（国内版） | 60 | 5:00 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/审查报告.md>) |
@@ -296,6 +297,7 @@
 | Lab Safety Training - Essential Protocols | 13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course | 国内版 | 低温液体：冷得伤人（国内版） | 47 | 3:55 | 21 / 4 | [剧本](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C | 原著版 | 用电风险，先评估再动手 | 34 | 2:50 | 12 / 0 | [剧本](<Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C/script.md>) |
 | Lab Safety Training - Essential Protocols | 14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C | 国内版 | 用电风险，先评估再动手（国内版） | 33 | 2:45 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course | 原著版 | 认识压缩气体的危害 | 36 | 3:00 | 12 / 0 | [剧本](<Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course/script.md>) |
 | Lab Safety Training - Essential Protocols | 15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course | 国内版 | 认识压缩气体的危害（国内版） | 56 | 4:40 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co | 国内版 | 认识气体和气瓶（国内版） | 47 | 3:55 | 13 / 3 | [剧本](<Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/16_Laboratory Safety Training on Compressed Gases and Cryogenic Liquids Training Co（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train | 国内版 | 看懂电，管住电气危害（国内版） | 60 | 5:00 | 25 / 4 | [剧本](<Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/17_Laboratory Safety Mitigating Electrical Risks and Hazards in the Workplace Train（国内版）/审查报告.md>) |
