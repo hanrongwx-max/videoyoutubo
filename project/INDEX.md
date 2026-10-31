@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 337 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 338 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -25,9 +25,9 @@
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
+| Basic Electrical Engineering Lab | 7 / 23 | 0 / 6 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Basic Electrical Engineering Lab | 6 / 23 | 0 / 6 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 1 / 2 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -183,6 +183,7 @@
 | Basic Electrical Engineering Lab | 04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G | 国内版 | 变阻器与开关（国内版） | 67 | 5:35 | 18 / 6 | [剧本](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St | 国内版 | 电工工具与直流稳压电源（国内版） | 64 | 5:20 | 19 / 6 | [剧本](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT | 国内版 | 双控与三地控制照明实验（国内版） | 61 | 5:05 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr | 单一版 | 交流电路的开路与短路 | 65 | 5:25 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr/script.md>) · [审查](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
