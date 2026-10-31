@@ -3,7 +3,7 @@ Series note — "BIORISK MANAGEMENT" (47) and "Microbiology Biosafety" (59): bio
 - Microbiology Biosafety: short explainer clips from one microbiology channel (raqbamicrohub / ARHMicroHub) on biosafety levels, risk groups, BSC vs fume hood vs laminar flow, biosecurity, bioterrorism, lab hazards, SDS, chemical / fire / electrical safety, plus a few off-topic clips (light microscopy, lab report, COD, biostatistics, bioremediation microbes) — mark those relevance 低, keep their K points and add relevant lab-safety S points.
 
 Domestic framework (cite by name; clause numbers and values “以现行文本为准”):
-- 《中华人民共和国生物安全法》；《病原微生物实验室生物安全管理条例》；GB 19489-2008《实验室 生物安全通用要求》；WS 233-2017《病原微生物实验室生物安全通用准则》；《人间传染的病原微生物目录》（国家卫生健康委 2023 年版）；YY 0569（Ⅱ级生物安全柜，以现行文本为准）；《医疗废物管理条例》与感染性废物处置；高校实验室三级管理与准入。
+- 《中华人民共和国生物安全法》；《病原微生物实验室生物安全管理条例》；GB 19489-2008（以现行文本为准）《实验室 生物安全通用要求》；WS 233-2017《病原微生物实验室生物安全通用准则》；《人间传染的病原微生物目录》（国家卫生健康委 2023 年版）；YY 0569（Ⅱ级生物安全柜，以现行文本为准）；《医疗废物管理条例》与感染性废物处置；高校实验室三级管理与准入。
 - **Direction of classification is opposite**: WHO Risk Group 1 = lowest hazard; China's 病原微生物分类 第一类 = most dangerous, 第四类 = least. Every video that mentions risk groups must state this clearly. Lab levels BSL-1…4 ↔ 国内 BSL-1…4 / ABSL 同向.
 - 高致病性病原微生物（第一、二类）实验活动须在相应级别实验室并经批准；学生不得擅自开展。新微生物/新实验的防护级别由风险评估确定、经单位生物安全委员会审批。
 - 生物安保：菌（毒）种与样本的保藏、领用、运输（《可感染人类的高致病性病原微生物菌（毒）种或样本运输管理规定》，以现行文本为准）、丢失被盗报告；两用研究与伦理。
