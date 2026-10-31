@@ -1,15 +1,15 @@
 # 卡通教学视频制作目录
 
-已编写 256 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 258 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 42 / 47 | 0 / 0 |
+| Microbiology Biosafety | 25 / 59 | 0 / 0 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 0 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 0 |
-| Microbiology Biosafety | 23 / 59 | 0 / 0 |
 | Lab Safety Training Series | 13 / 13 | 0 / 0 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 0 / 0 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 0 / 0 |
@@ -268,10 +268,12 @@
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 单一版 | 实验报告怎么写：从记录到安全 | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 单一版 | 认识安全技术说明书 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 单一版 | 安全技术说明书有什么用 | 47 | 3:55 | 8 / 3 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical/script.md>) · [审查](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical/审查报告.md>) |
+| Microbiology Biosafety | 21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol | 单一版 | 微生物实验室的化学品安全 | 47 | 3:55 | 6 / 4 | [剧本](<Microbiology Biosafety/21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol/script.md>) |
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 单一版 | 化学品的说明书：SDS 是什么（上） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/审查报告.md>) |
 | Microbiology Biosafety | 24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf | 单一版 | 看不见的危险：微生物实验室安全用电 | 60 | 5:00 | 7 / 6 | [剧本](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/script.md>) · [审查](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/审查报告.md>) |
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 单一版 | 读懂安全技术说明书（下）：第8到15部分 | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 单一版 | 微生物实验室的生物安全措施 | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/审查报告.md>) |
+| Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 单一版 | 微生物实验室的应急准备 | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi/script.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 单一版 | 实验室危害，伤的是谁 | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 单一版 | 微生物实验室的消防安全 | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 单一版 | 谁来定规矩：生物安全等级的标准与审批 | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending/script.md>) |
