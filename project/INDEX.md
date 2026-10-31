@@ -14,7 +14,7 @@
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 1 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 2 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 3 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 1 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 1 / 9 |
@@ -78,6 +78,7 @@
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 国内版 | 生物技术实验室安全入门（国内版） | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 原著版 | 质粒、细菌与遗传转化 | 51 | 4:15 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria/script.md>) |
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 国内版 | 质粒、细菌与遗传转化（国内版） | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 原著版 | 做好背景调研，写好研究论文 | 52 | 4:20 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/script.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 国内版 | 做好背景调研，写好研究论文（国内版） | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 国内版 | 同伴互评：帮同学把论文改得更好（国内版） | 66 | 5:30 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 国内版 | 植物克隆：组织培养入门（国内版） | 65 | 5:25 | 12 / 5 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/审查报告.md>) |
