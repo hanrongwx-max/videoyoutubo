@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 6 / 59 |
+| Microbiology Biosafety | 59 / 59 | 7 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -634,6 +634,7 @@
 | Microbiology Biosafety | 04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa | 国内版 | 生物安全柜的三个级别（国内版） | 51 | 4:15 | 14 / 4 | [剧本](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/script.md>) · [审查](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 原著版 | 转基因生物：先评估，再放行 | 52 | 4:20 | 15 / 0 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/script.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 国内版 | 转基因生物：先评估，再放行（国内版） | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro | 原著版 | 转基因生物：分几类，防几级 | 36 | 3:00 | 12 / 0 | [剧本](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro/script.md>) |
 | Microbiology Biosafety | 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro | 国内版 | 转基因生物：分几类，防几级（国内版） | 53 | 4:25 | 12 / 3 | [剧本](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（国内版）/script.md>) · [审查](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba | 国内版 | 显微镜：看得清，也用得安全（国内版） | 90 | 7:30 | 31 / 7 | [剧本](<Microbiology Biosafety/07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba（国内版）/script.md>) · [审查](<Microbiology Biosafety/07_Detail Introduction of Light Microscopy microbiology microscope laboratory raqba（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf | 国内版 | 生物安全与生物安保：防意外，也防故意（国内版） | 58 | 4:50 | 14 / 3 | [剧本](<Microbiology Biosafety/08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf（国内版）/script.md>) · [审查](<Microbiology Biosafety/08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf（国内版）/审查报告.md>) |
