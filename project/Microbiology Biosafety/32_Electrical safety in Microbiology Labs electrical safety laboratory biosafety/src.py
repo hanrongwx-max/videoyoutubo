@@ -1,0 +1,122 @@
+# 32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety 卡通剧本作者源
+# 原片为无讲解的文字幻灯片：用电安全的定义及六点重要性（保护人员、防火、保护设备、科研连续、遵守法规、保护环境）。
+# 原著版：完全照原片，K1–K8，无补充知识点（合规一节照原片讲“满足法律要求、避免罚款或处罚”）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "微生物实验室的用电安全",
+    "edition": "原著版",
+    "points": {
+        "K1": "什么是用电安全",
+        "K2": "护人员、护设备、护科研",
+        "K3": "防触电，保护人员",
+        "K4": "预防电气火灾",
+        "K5": "用好养好，设备长寿",
+        "K6": "科研不中断",
+        "K7": "依法合规",
+        "K8": "防止连带污染环境",
+    },
+    "avoid": ["Raqba Micro Hub", "RaqbaMicroHub", "Raqba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub", "ARH"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验台前，身后是培养箱、生物安全柜和冰箱，向镜头招手",
+ "The panda mascot stands in a microbiology lab with an incubator, a biological safety cabinet and a refrigerator behind it, waving at the camera.",
+ "欢迎来到实验室安全课。", "微生物实验室的用电安全"),
+("开场", "欣欣指着墙上一排插座，插座旁出现闪电图标",
+ "The panda mascot points to a row of wall outlets; a lightning bolt icon appears beside them.",
+ "今天说说实验室里的电。"),
+# 情景
+("情景", "阿杰手上湿漉漉的，伸手去插培养箱的插头",
+ "The young male student, his hands still wet from washing, reaches to plug in an incubator cord.",
+ "阿杰刚洗完手就去插插头。"),
+("情景", "小研一把拦住，指着地上的水渍",
+ "The female graduate student quickly stops him and points to a small puddle on the floor near the outlet.",
+ "小研喊：先擦干手和地面！"),
+("情景", "阿杰愣住，头顶出现问号",
+ "The young male student freezes, a question mark above his head.",
+ "阿杰说：做微生物的，电也要管？"),
+# K1
+("K1", "电气设备和墙上线路的图标，外面一个盾牌",
+ "Icons of lab instruments and wall wiring surrounded by a shield. No people.",
+ "用电安全，就是安全地使用", "什么是用电安全"),
+("K1", "盾牌挡住触电、火焰两个图标",
+ "The shield blocks a person outline with a lightning bolt and a flame icon. No people.",
+ "电气设备和线路，防触电、防火灾。", "", ["触电", "火灾"]),
+("K1", "湿手插插头、水渍旁插电的图标打叉",
+ "Icons of a wet hand holding a plug and a plug next to a puddle, crossed out with a red X. No people.",
+ "最先记住：水和电，不碰面。"),
+# K2
+("K2", "三个图标：人、仪器、实验记录本",
+ "Three icons in a row: a person outline, a lab instrument, and a lab notebook. No people.",
+ "用电出事，伤三样：", "护人员、护设备、护科研", ["人员", "设备", "科研"]),
+("K2", "三个图标前出现盾牌",
+ "A shield appears in front of all three icons. No people.",
+ "人、设备和科研，都要护住。"),
+# K3
+("K3", "插头冒出黄色闪电，人形图标手上发红",
+ "A plug giving off yellow sparks; a person outline's hand glows red. No people.",
+ "第一，保护人员。", "防触电，保护人员"),
+("K3", "破皮电线、外壳破裂的插座图标",
+ "Icons of a frayed power cord with exposed wires and a cracked outlet cover, with red exclamation marks. No people.",
+ "破皮的线、裂开的插座，最容易触电。"),
+("K3", "人形图标被盾牌护住，闪电被挡在外面",
+ "A shield protects a person outline while a yellow lightning bolt bounces off it. No people.",
+ "用电规范，才能免受触电和伤害。"),
+# K4
+("K4", "墙上插座冒烟，火苗窜起",
+ "A wall outlet giving off smoke as a small flame appears. No people.",
+ "第二，预防电气火灾。", "预防电气火灾"),
+("K4", "三个图标：老化线路、插满插头、冒烟的仪器",
+ "Three icons: old cracked wiring, an outlet overloaded with plugs, and a smoking instrument. No people.",
+ "线路故障、负荷过大、设备故障，", "", ["线路故障", "过载", "设备故障"]),
+# K5
+("K5", "老李按空白维护卡擦拭培养箱的散热口",
+ "The facility engineer cleans the vents of an incubator following a blank maintenance card.",
+ "第三，保护设备。", "用好养好，设备长寿"),
+("K5", "一台仪器被正确使用、擦拭干净",
+ "A clean, well-kept incubator running normally with a green indicator light. No people.",
+ "正确使用、按时维护，"),
+("K5", "日历和扳手图标，旁边一台崭新的仪器",
+ "A calendar and a wrench icon beside an instrument that still looks brand new. No people.",
+ "设备寿命更长，也不易损坏。"),
+# K6
+("K6", "培养箱指示灯熄灭，里面的培养皿变灰",
+ "An incubator with its indicator light off; the culture dishes inside turn grey. No people.",
+ "第四，科研不中断。", "科研不中断"),
+("K6", "小研看着失败的培养皿和空白记录本叹气",
+ "The female graduate student sighs over failed culture dishes and a blank notebook.",
+ "一次电气事故，几周的培养就白费了。"),
+# K7
+("K7", "王老师举着空白封面的标准册",
+ "The safety administrator holds up a booklet with a blank cover and an electrical warning sign on it.",
+ "第五，依法合规。", "依法合规"),
+("K7", "空白书上浮出天平和闪电图标",
+ "A balance-scale icon and a lightning bolt icon float above a blank rule book. No people.",
+ "遵守用电安全法规和指南，"),
+("K7", "罚单和红色印章图标被打叉",
+ "Icons of a penalty notice and a red stamp, crossed out with a red X. No people.",
+ "满足法律要求，免得罚款受罚。"),
+# K8
+("K8", "火焰旁边的试剂瓶和生物危害标志的培养物",
+ "A flame near reagent bottles and culture containers with a biohazard sign. No people.",
+ "第六，防止连带污染环境。", "防止连带污染环境"),
+("K8", "电气事故的火花旁，河流和树木图标变灰",
+ "Beside a sparking electrical icon, a river and a tree icon turn grey. No people.",
+ "防止电气事故污染和破坏环境。"),
+# 小结
+("小结", "欣欣站在六格板前",
+ "The panda mascot stands in front of a board with six squares, each with a small icon.",
+ "用电安全，护人、防火、护设备，", "小结", ["护人", "防火", "护设备"]),
+("小结", "六格板后三格高亮",
+ "The last three squares of the board are highlighted. No people.",
+ "保科研、守法规、护环境。", "", ["保科研", "守法规", "护环境"]),
+("小结", "阿杰擦干手，捏住插头插好，旁边地面干燥",
+ "The young male student dries his hands and plugs in the incubator properly on a dry floor.",
+ "阿杰说：手干了，地干了，再插电！"),
+# 结尾
+("结尾", "欣欣和阿杰、小研在实验室挥手",
+ "The panda mascot, the young male student and the female graduate student wave goodbye in the lab.",
+ "电要用好，更要用安全，下次见！"),
+]
