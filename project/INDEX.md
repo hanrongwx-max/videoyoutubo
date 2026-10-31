@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 346 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 347 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -11,7 +11,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Basic Electrical Engineering Lab | 15 / 23 | 0 / 8 |
+| Basic Electrical Engineering Lab | 16 / 23 | 0 / 8 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
@@ -192,6 +192,7 @@
 | Basic Electrical Engineering Lab | 13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect | 单一版 | 电工实验：测星形和三角形的线量相量 | 59 | 4:55 | 19 / 3 | [剧本](<Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect/script.md>) · [审查](<Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect/审查报告.md>) |
 | Basic Electrical Engineering Lab | 14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K | 单一版 | 电工实验口试：基尔霍夫定律篇 | 49 | 4:05 | 21 / 3 | [剧本](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K/script.md>) · [审查](<Basic Electrical Engineering Lab/14_BASIC ELECTRICAL LABORATORY VIVA-VOCE QUESTIONS &ANSWERS VTU 21ELEL27 21ELEL17 K/审查报告.md>) |
 | Basic Electrical Engineering Lab | 15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q | 单一版 | 电工实验口试：开路与短路篇 | 43 | 3:35 | 15 / 3 | [剧本](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q/script.md>) · [审查](<Basic Electrical Engineering Lab/15_Basic Electrical Laboratory Study of Open and Short Circuit Important Lab viva Q/审查报告.md>) |
+| Basic Electrical Engineering Lab | 16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single | 单一版 | 电工实验口试：单相功率篇 | 53 | 4:25 | 20 / 3 | [剧本](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single/script.md>) · [审查](<Basic Electrical Engineering Lab/16_Basic Electrical Engineering laboratory Viva Questions on Measurement of single/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
