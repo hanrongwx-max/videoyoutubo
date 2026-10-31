@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 48 / 59 | 0 / 25 |
 | BIORISK MANAGEMENT | 47 / 47 | 2 / 42 |
 | CDC Laboratory Safety Series | 23 / 23 | 6 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 3 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 2 / 12 |
@@ -254,6 +254,7 @@
 | Industrial Gas & Cryogenic Equipment | 09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA | 国内版 | 气瓶阀的安全使用（国内版） | 39 | 3:15 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 01_Laboratory Safety Protecting Lives with Emergency Response Preparedness | 原著版 | 应急准备：有备才能无患 | 33 | 2:45 | 10 / 0 | [剧本](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness/script.md>) |
 | Lab Safety Training - Essential Protocols | 01_Laboratory Safety Protecting Lives with Emergency Response Preparedness | 国内版 | 应急准备：有备才能无患（国内版） | 45 | 3:45 | 10 / 3 | [剧本](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab | 原著版 | 危险化学品的安全储存 | 40 | 3:20 | 12 / 0 | [剧本](<Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab/script.md>) |
 | Lab Safety Training - Essential Protocols | 02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab | 国内版 | 危险化学品的安全储存（国内版） | 48 | 4:00 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/02_Safe Storage of Hazardous Materials Best Practices for a Safer Lab（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 03_Protect Your Team with Lab Equipment Safety and Maintenance Training | 国内版 | 仪器设备的安全与维护（国内版） | 41 | 3:25 | 10 / 4 | [剧本](<Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/03_Protect Your Team with Lab Equipment Safety and Maintenance Training（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices | 国内版 | 化学品危害告知：一书一签（国内版） | 44 | 3:40 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/审查报告.md>) |
