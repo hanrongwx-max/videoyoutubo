@@ -1,0 +1,828 @@
+{
+ "id": "13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工实验：测星形和三角形的线量相量",
+ "seconds": 295,
+ "source_doc": "course/Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect.md",
+ "author_source": "project/Basic Electrical Engineering Lab/13_Experiment on measurement of Line and Phase Quantities of Star and Delta Connect/src.py",
+ "points": {
+  "K1": "实验目的",
+  "K2": "要准备的器材",
+  "K3": "星形：尾端接成中性点",
+  "K4": "三只灯当三相负载",
+  "K5": "星形：线电流就是相电流",
+  "K6": "线电压与相电压怎么测",
+  "K7": "三相调压器加电压",
+  "K8": "星形的用途（原片说法）",
+  "K9": "星形实验步骤",
+  "K10": "三角形：首尾相接成闭环",
+  "K11": "三角形：线电压就是相电压",
+  "K12": "三角形的用途（原片说法）",
+  "K13": "三角形实验步骤",
+  "K14": "比一比灯的亮度",
+  "K15": "认识实物",
+  "K16": "星形演示",
+  "K17": "三角形演示",
+  "K18": "实验结论",
+  "K19": "参考教材，有疑问就问",
+  "S1": "改接前挂牌：禁止合闸",
+  "S2": "端子拧紧，三灯明暗不一就断电",
+  "S3": "三相插头，断电再插拔"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三相实验台前，台上三只灯泡排成一排",
+   "prompt_en": "The panda mascot stands at a three-phase lab bench with three light bulbs in a row and a large variable autotransformer cabinet, waving at the camera.",
+   "narration": "今天做三相实验：星形和三角形！",
+   "overlay": [
+    "电工实验：测星形和三角形的线量相量"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "星形和三角形两个图标并排",
+   "prompt_en": "Two icons side by side: three loads joined in a star shape and three loads joined in a triangle. No people.",
+   "narration": "同样三只灯，换个接法大不同。",
+   "overlay": [],
+   "labels": [
+    "星形",
+    "三角形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰发现同样的灯，有一组亮一组暗，挠头",
+   "prompt_en": "The young male student looks at two identical sets of bulbs, one dim and one bright, and scratches his head.",
+   "narration": "阿杰奇怪：同样的灯，怎么亮度不同？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着拿出电路图",
+   "prompt_en": "The female graduate student smiles and holds up a blank circuit diagram sheet.",
+   "narration": "小研说：秘密就在接法里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的",
+   "scene": "王老师指着星形和三角形图标",
+   "prompt_en": "The safety administrator points at the star and triangle icons on a board.",
+   "narration": "测两种接法的线电压、相电压。",
+   "overlay": [
+    "实验目的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的",
+   "scene": "线电流、相电流两个箭头图标",
+   "prompt_en": "Two arrow icons, one on a supply line and one inside a load branch. No people.",
+   "narration": "还有线电流和相电流，找出关系。",
+   "overlay": [],
+   "labels": [
+    "线量",
+    "相量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "两只交流电压表、两只交流电流表",
+   "prompt_en": "Two AC voltmeters and two AC ammeters with blank dials on a bench. No people.",
+   "narration": "准备两只交流电压表，两只电流表。",
+   "overlay": [
+    "要准备的器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "三相灯负载板和一捆导线",
+   "prompt_en": "A three-phase lamp load board with three bulbs and a bundle of connecting wires. No people.",
+   "narration": "还有三相灯负载和通断良好的导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "星形：尾端接成中性点",
+   "scene": "三个线圈图标，尾端连在一起成一个点",
+   "prompt_en": "Three coil icons whose ending terminals are joined together at one central point. No people.",
+   "narration": "星形：三相的尾端接在一起。",
+   "overlay": [
+    "星形：尾端接成中性点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "星形：尾端接成中性点",
+   "scene": "中心连接点高亮",
+   "prompt_en": "The central joining point highlights. No people.",
+   "narration": "这个公共点叫中性点。",
+   "overlay": [],
+   "labels": [
+    "中性点 N"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三只灯当三相负载",
+   "scene": "三只一样的白炽灯",
+   "prompt_en": "Three identical incandescent bulbs on lamp holders. No people.",
+   "narration": "三只同规格的灯泡，当三相负载。",
+   "overlay": [
+    "三只灯当三相负载"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形：线电流就是相电流",
+   "scene": "星形图中一根相线上串一只电流表",
+   "prompt_en": "A star connection icon with one ammeter placed in a supply line leading to one load. No people.",
+   "narration": "星形里，线电流就是相电流。",
+   "overlay": [
+    "星形：线电流就是相电流"
+   ],
+   "labels": [
+    "IL=Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形：线电流就是相电流",
+   "scene": "一只电流表同时标两个名字",
+   "prompt_en": "One ammeter icon with two blank tags attached. No people.",
+   "narration": "一只电流表就能同时测出两者。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "线电压与相电压怎么测",
+   "scene": "大量程电压表跨在两根相线之间",
+   "prompt_en": "A high-range voltmeter icon connected between two supply lines. No people.",
+   "narration": "两根相线之间，是线电压。",
+   "overlay": [
+    "线电压与相电压怎么测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "线电压与相电压怎么测",
+   "scene": "小量程电压表跨在一根相线和中性点之间",
+   "prompt_en": "A lower-range voltmeter icon connected between one supply line and the neutral point. No people.",
+   "narration": "相线和中性点之间，是相电压。",
+   "overlay": [],
+   "labels": [
+    "线电压 大量程",
+    "相电压 小量程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三相调压器加电压",
+   "scene": "大调压器柜，手转顶上旋钮",
+   "prompt_en": "A hand turns the knob on top of a three-phase variable autotransformer cabinet.",
+   "narration": "用三相调压器慢慢加电压。",
+   "overlay": [
+    "三相调压器加电压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "星形的用途（原片说法）",
+   "scene": "老周比划高电压小电流",
+   "prompt_en": "The older man gestures with one hand high and one hand low beside a star icon.",
+   "narration": "原片说：星形多用于高电压小电流。",
+   "overlay": [
+    "星形的用途（原片说法）"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "星形实验步骤",
+   "scene": "接线、合闸、升压三个步骤图标",
+   "prompt_en": "Three step icons: a circuit diagram, a three-pole switch closing, and an autotransformer knob turning up. No people.",
+   "narration": "接好线，合开关，升到额定线电压。",
+   "overlay": [
+    "星形实验步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "星形实验步骤",
+   "scene": "读数、回零、断开三个步骤图标",
+   "prompt_en": "Three step icons: a meter being read, the knob turned back to zero, and the switch opened. No people.",
+   "narration": "读完数，调压器回零，再断开开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "星形实验步骤",
+   "scene": "相电压乘根号三，和线电压放在天平两端",
+   "prompt_en": "A balance scale with a phase voltage icon times a root-three symbol on one side and a line voltage icon on the other. No people.",
+   "narration": "相电压乘根号三，和线电压比一比。",
+   "overlay": [],
+   "labels": [
+    "√3×Vph",
+    "VL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三角形：首尾相接成闭环",
+   "scene": "三个线圈首尾相接围成三角形",
+   "prompt_en": "Three coil icons connected end to start, forming a closed triangle. No people.",
+   "narration": "三角形：一相的尾接下一相的头。",
+   "overlay": [
+    "三角形：首尾相接成闭环"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三角形：首尾相接成闭环",
+   "scene": "三角形中间画一个问号，没有中心点",
+   "prompt_en": "A triangle connection icon with an empty center and a small question mark. No people.",
+   "narration": "首尾相接成闭环，没有中性点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三角形：线电压就是相电压",
+   "scene": "一只电压表跨在一个线圈两端",
+   "prompt_en": "One voltmeter icon connected across one side of the triangle. No people.",
+   "narration": "三角形里，线电压就是相电压。",
+   "overlay": [
+    "三角形：线电压就是相电压"
+   ],
+   "labels": [
+    "VL=Vph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三角形：线电压就是相电压",
+   "scene": "两只电流表：一只在相线，一只在三角形一边",
+   "prompt_en": "Two ammeter icons: one in a supply line, one inside one side of the triangle. No people.",
+   "narration": "两只电流表，分别测线电流和相电流。",
+   "overlay": [],
+   "labels": [
+    "IL",
+    "Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三角形的用途（原片说法）",
+   "scene": "老周比划大电流低电压",
+   "prompt_en": "The older man gestures with one hand low and one hand wide beside a triangle icon.",
+   "narration": "原片说：三角形多用于大电流低电压。",
+   "overlay": [
+    "三角形的用途（原片说法）"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "三角形实验步骤",
+   "scene": "三极开关合上，调压器旋钮只转一小段",
+   "prompt_en": "A three-pole switch is closed, and the autotransformer knob is turned only a short way.",
+   "narration": "合上三极开关，只升到较低的电压。",
+   "overlay": [
+    "三角形实验步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "三角形实验步骤",
+   "scene": "记录表和调压器回零图标",
+   "prompt_en": "Icons of a blank data table and an autotransformer knob back at zero. No people.",
+   "narration": "读数记表，回零后断开开关。",
+   "overlay": [],
+   "labels": [
+    "VL Vph",
+    "IL Iph",
+    "√3Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "比一比灯的亮度",
+   "scene": "星形灯泡暗淡，三角形灯泡明亮",
+   "prompt_en": "Two lamp boards: the star-connected bulbs glow dimly, the triangle-connected bulbs glow brightly. No people.",
+   "narration": "星形电压低时，灯很暗。",
+   "overlay": [
+    "比一比灯的亮度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "比一比灯的亮度",
+   "scene": "三角形灯泡在较低电压下就亮了",
+   "prompt_en": "The triangle-connected bulbs light up brightly while the autotransformer knob is only slightly turned. No people.",
+   "narration": "三角形电压不高，灯就亮了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "认识实物",
+   "scene": "墙上配电板上的三极开关",
+   "prompt_en": "A three-pole switch on a wall distribution board beside a red three-phase industrial socket. No people.",
+   "narration": "墙上这个是三相电源的三极开关。",
+   "overlay": [
+    "认识实物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "认识实物",
+   "scene": "调压器柜正面的输入和输出端子",
+   "prompt_en": "The front of the autotransformer cabinet with a row of input terminals and a row of output terminals, colored red, yellow and blue. No people.",
+   "narration": "调压器上面一排输入，下面一排输出。",
+   "overlay": [],
+   "labels": [
+    "输入",
+    "输出"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "认识实物",
+   "scene": "导线从调压器输出端引向灯板和电表",
+   "prompt_en": "Wires run from the autotransformer output terminals to the lamp board and meters. No people.",
+   "narration": "接线从调压器输出端开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "星形演示",
+   "scene": "王老师检查后点头，阿杰合上三极开关",
+   "prompt_en": "The safety administrator checks the star wiring and nods; the young male student closes the three-pole switch.",
+   "narration": "接成星形，检查无误，合上开关。",
+   "overlay": [
+    "星形演示"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "星形演示",
+   "scene": "阿杰转调压器，眼睛盯着线电压表",
+   "prompt_en": "The young male student turns the autotransformer knob while watching the line voltmeter.",
+   "narration": "升压时，眼睛盯住线电压表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "星形演示",
+   "scene": "表盘上排刻度高亮",
+   "prompt_en": "A voltmeter dial with its upper scale highlighted. No people.",
+   "narration": "大量程，读上排刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "星形演示",
+   "scene": "小研读电流表和相电压表，记录",
+   "prompt_en": "The female graduate student reads the ammeter and the phase voltmeter and writes on a blank sheet.",
+   "narration": "再读电流和相电压，记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "星形演示",
+   "scene": "阿杰把调压器转回零，扳下开关",
+   "prompt_en": "The young male student turns the autotransformer back to zero, then opens the three-pole switch.",
+   "narration": "看完灯亮度，回零，断开开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三角形演示",
+   "scene": "阿杰在断电状态下把灯板改接成三角形",
+   "prompt_en": "With the switch open, the young male student rewires the lamp board into a triangle connection.",
+   "narration": "改接成三角形，再合上开关。",
+   "overlay": [
+    "三角形演示"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三角形演示",
+   "scene": "调压器慢慢升，电压表下排刻度高亮",
+   "prompt_en": "The autotransformer knob turns slowly; a voltmeter dial with its lower scale highlighted. No people.",
+   "narration": "慢慢升到较低电压，读下排刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三角形演示",
+   "scene": "小研读两只电流表，灯泡明亮",
+   "prompt_en": "The female graduate student reads the two ammeters while the bulbs glow brightly.",
+   "narration": "读线电流和相电流，灯明显更亮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三角形演示",
+   "scene": "调压器回零，记录本打勾",
+   "prompt_en": "The autotransformer knob back at zero and a blank notebook with a green check mark. No people.",
+   "narration": "读完回零，记好数据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验结论",
+   "scene": "星形图标旁两个等式",
+   "prompt_en": "A star icon with two equation icons beside it. No people.",
+   "narration": "星形：电流相等，线电压是相电压√3倍。",
+   "overlay": [
+    "实验结论"
+   ],
+   "labels": [
+    "IL=Iph",
+    "VL=√3Vph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验结论",
+   "scene": "三角形图标旁两个等式",
+   "prompt_en": "A triangle icon with two equation icons beside it. No people.",
+   "narration": "三角形：电压相等，线电流是相电流√3倍。",
+   "overlay": [],
+   "labels": [
+    "VL=Vph",
+    "IL=√3Iph"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "参考教材，有疑问就问",
+   "scene": "空白封面教材和举起的手",
+   "prompt_en": "A textbook with a blank cover next to a raised hand icon. No people.",
+   "narration": "对照教材复习，有疑问就问。",
+   "overlay": [
+    "参考教材，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "改接前挂牌：禁止合闸",
+   "scene": "阿杰要改线，先扳下开关",
+   "prompt_en": "The young male student opens the three-pole switch before rewiring.",
+   "narration": "改接线前，先回零、断开开关。",
+   "overlay": [
+    "改接前挂牌：禁止合闸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "改接前挂牌：禁止合闸",
+   "scene": "开关上挂一块红色空白警示牌",
+   "prompt_en": "A red blank warning tag is hung on the opened three-pole switch, with a no-switching-on pictogram. No people.",
+   "narration": "开关上挂好禁止合闸的牌子。",
+   "overlay": [],
+   "labels": [
+    "禁止合闸",
+    "有人工作"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "改接前挂牌：禁止合闸",
+   "scene": "小研站在开关旁看守，别人伸手被她拦住",
+   "prompt_en": "The female graduate student stands guard by the tagged switch and stops another student reaching for it.",
+   "narration": "有人看守，别人不能去合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "改接前挂牌：禁止合闸",
+   "scene": "改完线、老师检查后，阿杰亲手摘牌",
+   "prompt_en": "After the rewiring is checked by the safety administrator, the young male student removes the tag himself.",
+   "narration": "改完检查好，谁挂的牌谁来摘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "端子拧紧，三灯明暗不一就断电",
+   "scene": "螺丝刀拧紧灯座接线端子",
+   "prompt_en": "A screwdriver tightens a terminal screw on a lamp holder while the board is disconnected. No people.",
+   "narration": "断电时把接线端子拧紧。",
+   "overlay": [
+    "端子拧紧，三灯明暗不一就断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "端子拧紧，三灯明暗不一就断电",
+   "scene": "中性点几根线牢牢压在同一端子上",
+   "prompt_en": "Several wires firmly clamped together under one terminal at the star point. No people.",
+   "narration": "星形的中性点一定要接牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "端子拧紧，三灯明暗不一就断电",
+   "scene": "三只灯一只很亮、一只很暗，旁边打叉",
+   "prompt_en": "Three bulbs in a star: one glowing very brightly, one very dim, one normal, with a red warning mark. No people.",
+   "narration": "三只灯明暗不一，说明有线松了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "端子拧紧，三灯明暗不一就断电",
+   "scene": "阿杰立刻把调压器回零并断开开关",
+   "prompt_en": "The young male student quickly turns the autotransformer to zero and opens the switch.",
+   "narration": "马上回零断电，查清再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "三相插头，断电再插拔",
+   "scene": "红色三相工业插头插座",
+   "prompt_en": "A red three-phase industrial plug and socket on a wall board. No people.",
+   "narration": "三相电源常用工业插头插座。",
+   "overlay": [
+    "三相插头，断电再插拔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "三相插头，断电再插拔",
+   "scene": "拉着电缆拔插头的图标打叉",
+   "prompt_en": "An icon of a hand yanking a plug out by its cable, crossed out with a red X. No people.",
+   "narration": "不要拉着电缆拔插头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "三相插头，断电再插拔",
+   "scene": "老李先断开开关，再手握插头本体拔出",
+   "prompt_en": "The facility engineer first opens the switch, then pulls the plug out by gripping its body.",
+   "narration": "先断开开关，再握住插头插拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "星形、三角形图标和两组等式",
+   "prompt_en": "Star and triangle icons each with their equation pair. No people.",
+   "narration": "星形电流相等，三角形电压相等。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "调压器回零、开关断开两个图标",
+   "prompt_en": "Icons of an autotransformer knob at zero and an opened three-pole switch. No people.",
+   "narration": "升压慢慢来，做完先回零再断闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "警示牌、拧紧的端子、工业插头三个图标",
+   "prompt_en": "Three icons: a red warning tag, a tightened terminal screw, and an industrial plug. No people.",
+   "narration": "改线挂牌，端子拧紧，断电插拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在断开开关、挂好牌的配电板前挥手",
+   "prompt_en": "The panda mascot waves goodbye beside a wall board with the switch open and a red tag hanging on it.",
+   "narration": "三相电要敬畏，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
