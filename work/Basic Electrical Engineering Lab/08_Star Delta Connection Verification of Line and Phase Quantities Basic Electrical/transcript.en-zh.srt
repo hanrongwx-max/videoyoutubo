@@ -1,0 +1,909 @@
+1
+00:00:01,040 --> 00:00:06,560
+Hello all, welcome to my channel. In case you are watching for the first time, this is
+大家好，欢迎来到我的频道。如果你是第一次观看，这是
+
+2
+00:00:06,560 --> 00:00:11,640
+the channel on engineering studies focusing more on electrical and electronics engineering.
+一个工程学习频道，主要关注电气与电子工程。
+
+3
+00:00:11,640 --> 00:00:16,720
+Please check description link for more videos. Also please like, share and subscribe. Do
+更多视频请查看描述栏里的链接。也请点赞、分享和订阅。一定要
+
+4
+00:00:16,720 --> 00:00:23,480
+click on the bell icon to get notified as I upload new video on everyday. One more request
+点击小铃铛图标，这样我每天上传新视频时你都能收到通知。还有一个请求，
+
+5
+00:00:23,480 --> 00:00:29,760
+I have also have another channel related to various competitive examination preparations.
+我还有另一个频道，是关于各类竞争性考试备考的。
+
+6
+00:00:29,760 --> 00:00:34,680
+Please support it by sharing with your friends. You can find the link in the description box.
+请分享给你的朋友来支持一下。链接可以在描述栏里找到。
+
+7
+00:00:34,680 --> 00:00:40,160
+In this session I will be discussing phase and line quantities in star and delta connection.
+在这一讲中，我将讨论星形和三角形连接中的相量和线量。
+
+8
+00:00:40,160 --> 00:00:45,000
+Welcome back to basic electrical engineering laboratory. So today we are going to familiar
+欢迎回到基础电气工程实验。今天我们要熟悉一下
+
+9
+00:00:45,000 --> 00:00:49,480
+the star and delta connection and we already studied in theory the same thing we are going
+星形和三角形连接，我们已经在理论课上学过，同样的内容我们要
+
+10
+00:00:49,480 --> 00:00:54,480
+to verify in laboratory. So that is the ultimate goal of the particular experiment. So first
+在实验室里验证。这就是这个实验的最终目标。首先
+
+11
+00:00:54,480 --> 00:01:00,080
+of all you can able to see the star connection. So we have three coils. As you can see there
+大家可以看到星形连接。我们有三个线圈。大家可以看到有
+
+12
+00:01:00,080 --> 00:01:05,320
+are three coils. I will be using the marker. So these are the three coil. Coil one, this
+三个线圈。我用记号笔标一下。这就是三个线圈。线圈 1，这个
+
+13
+00:01:05,320 --> 00:01:09,960
+will be coil number two, this will be coil number three. So similar end of the coil
+是 2 号线圈，这个是 3 号线圈。线圈的同名端
+
+14
+00:01:09,960 --> 00:01:14,720
+is connected to a common point. That point is known as a neutral point or you can call
+连接到一个公共点。这个点叫做中性点，也可以叫做
+
+15
+00:01:14,720 --> 00:01:20,600
+it as star point. So such kind of connections are known as star connection. You know that
+星点。这种连接就叫星形连接。你们知道
+
+16
+00:01:20,600 --> 00:01:25,320
+star connections are mainly used for where the load is required, high voltage and the
+星形连接主要用于负载需要高电压、
+
+17
+00:01:25,320 --> 00:01:29,760
+low current. Okay, low current, high voltage and low current. That's the main purpose of
+低电流的场合。好，低电流，高电压低电流。这就是
+
+18
+00:01:29,760 --> 00:01:36,040
+using star connection. And we can able to see three coils. So instead of coil we can
+使用星形连接的主要目的。我们可以看到三个线圈。我们可以
+
+19
+00:01:36,040 --> 00:01:41,280
+able to represent the bulb. See A1, A2 is one coil, then B1, B2 is another coil,
+用灯泡来代替线圈。看，A1、A2 是一个线圈，然后 B1、B2 是另一个线圈，
+
+20
+00:01:41,280 --> 00:01:46,720
+C1, C2 is another coil. These are the three lamps, 100 watts lamps you can able to see.
+C1、C2 是另一个线圈。这就是三盏灯，大家可以看到是 100 瓦的灯。
+
+21
+00:01:47,560 --> 00:01:53,120
+So what we are supposed to do is the common point as you can able to see the common point.
+所以我们要做的是公共点，大家可以看到这个公共点。
+
+22
+00:01:53,120 --> 00:01:59,680
+See this is your neutral point. A1, A2, then B1, B2, C1, C2. So A2, B2, C2. So you are
+看，这是你的中性点。A1、A2，然后 B1、B2、C1、C2。所以 A2、B2、C2，你要
+
+23
+00:01:59,680 --> 00:02:04,560
+segregating the common point and connected to a particular point. That is called a neutral
+把这个公共点分出来，连接到一个特定的点上。这个点叫中性
+
+24
+00:02:04,560 --> 00:02:08,880
+point or star point. That point you have to remember. Let us see the connections,
+点或星点。这一点你们要记住。我们来看接线，
+
+25
+00:02:08,880 --> 00:02:12,240
+how we can able to do the connection. So we are having the three phase supply.
+我们怎么接线。我们有三相电源。
+
+26
+00:02:12,240 --> 00:02:17,920
+R, let me call R, then Y, B. This is just for the convenience. And we are having the
+R，我把它叫做 R，然后 Y、B。这只是为了方便。我们有
+
+27
+00:02:17,920 --> 00:02:25,120
+fuse of 15 ampere fuse. Okay, 15 ampere fuse. And we are having TPSD switch. It is
+15 安培的熔断器。好，15 安培熔断器。我们有 TPST 开关。它
+
+28
+00:02:25,120 --> 00:02:31,520
+already available inside the socket. You can write it as TPSD switch. So what is the
+已经装在插座里面了。你可以写成 TPST 开关。那么 TPST 开关的
+
+29
+00:02:31,520 --> 00:02:36,360
+elaboration of TPSD switch? I already explained it. Different type of switches,
+全称是什么？我已经讲过了。不同类型的开关，
+
+30
+00:02:36,360 --> 00:02:39,980
+all those things in my previous video. If you haven't watched it, please go
+所有这些都在我之前的视频里。如果你还没看过，请去
+
+31
+00:02:39,980 --> 00:02:45,500
+through the description box. Links are available there. Okay, TPSD. This is your TPSD switch.
+描述栏里找，链接都在那里。好，TPST。这是你的 TPST 开关。
+
+32
+00:02:45,500 --> 00:02:50,540
+Triple port single throw switch. And from the supply, you have to provide the input to the
+三刀单掷开关。从电源，你要给
+
+33
+00:02:50,540 --> 00:02:55,020
+auto transformer. We are going to use the three phase auto transformer. So three phase,
+自耦变压器提供输入。我们要用三相自耦变压器。所以是三相、
+
+34
+00:02:57,020 --> 00:03:05,370
+470 volt, then 10 ampere auto transformer. This is the rating of auto transformer.
+470 伏、10 安培的自耦变压器。这是自耦变压器的额定值。
+
+35
+00:03:05,370 --> 00:03:09,610
+And these points, you can able to see, these are the input of auto transformer inputs,
+这些点，大家可以看到，这些是自耦变压器的输入，自耦变压器的输入端，
+
+36
+00:03:09,610 --> 00:03:14,650
+which I marked over there. Now, let us see the output of auto transformer. Look at this.
+我在那里标出来了。现在我们来看自耦变压器的输出。看这里。
+
+37
+00:03:14,650 --> 00:03:18,970
+These are the outputs. These are the outputs of auto transformer. Remember this point. So auto
+这些是输出。这些是自耦变压器的输出。记住这一点。所以自耦
+
+38
+00:03:18,970 --> 00:03:24,250
+transformer, it helps to regulate the output AC voltage, three phase voltage. Okay, so you can
+变压器有助于调节输出的交流电压、三相电压。好，所以你可以
+
+39
+00:03:24,250 --> 00:03:29,770
+able to vary for a starting from zero. So that's the specialty of three phase auto transformer.
+从零开始调节。这就是三相自耦变压器的特点。
+
+40
+00:03:29,770 --> 00:03:34,170
+First of all, you have to identify the lines, output to output number one, output to output.
+首先，你要辨认出各条线，输出 1 号输出，输出到输出。
+
+41
+00:03:34,170 --> 00:03:38,250
+These are the output of auto transformer. So take a thick wire, it has to be connected to
+这些是自耦变压器的输出。拿一根粗导线，它要连接到
+
+42
+00:03:38,250 --> 00:03:43,210
+ammeter, then another point of ammeter should be connected to A1. Next, what you are supposed to do,
+电流表，然后电流表的另一个接点要连接到 A1。接下来你要做的是，
+
+43
+00:03:43,210 --> 00:03:48,330
+take the second point, and straight away you need to connect to B1. So that point is over.
+拿第二个接点，直接连接到 B1。这个点就完成了。
+
+44
+00:03:48,330 --> 00:03:54,010
+Later, what you are supposed to do, take another wire, it has to be connected to the C1 of the
+然后你要做的是，再拿一根导线，连接到另一个灯泡的
+
+45
+00:03:54,010 --> 00:04:01,610
+another bulb. So this section will be completed. Afterwards, you can able to short circuit A2,
+C1 上。这一部分就完成了。之后，你可以把 A2、
+
+46
+00:04:01,610 --> 00:04:08,570
+B2, C2 like this, A2, then B2, later on C2. So you can able to create a common point that
+B2、C2 短接起来，像这样，A2，然后 B2，然后是 C2。这样就形成了一个公共点，
+
+47
+00:04:08,570 --> 00:04:13,850
+is called a neutral point or you can call it star point. So next I need to measure
+叫做中性点，也可以叫星点。接下来我需要测量
+
+48
+00:04:13,850 --> 00:04:18,970
+the line voltage and phase voltage. So what is line voltage? Line voltage is nothing but
+线电压和相电压。什么是线电压？线电压就是
+
+49
+00:04:18,970 --> 00:04:24,170
+the voltage across two lines. Say this is one line voltage, if you can connect like this,
+两条线之间的电压。比如这是一个线电压，你可以这样接，
+
+50
+00:04:24,170 --> 00:04:30,090
+or otherwise you can connect to this manner also. I want objective. Okay, this is another way to
+或者也可以这样接。我想要的目标。好，这是另一种
+
+51
+00:04:30,090 --> 00:04:34,570
+measure the line voltage or else what you can do, you can able to use these two points like
+测量线电压的方法，或者你还可以用这两个点，像这样，
+
+52
+00:04:35,210 --> 00:04:41,050
+so take a voltmeter, so likewise you can able to connect. So I am also okay with these connections.
+拿一个电压表，同样可以这样连接。这些接法我都认可。
+
+53
+00:04:41,850 --> 00:04:47,450
+I think it is very clear to you. So next is I wanted to measure the line voltage. So take any of
+我想你们很清楚了。接下来我要测量线电压。所以任意取
+
+54
+00:04:47,450 --> 00:04:52,890
+two lines and you have to connect the voltmeter. Okay, as shown like this, this voltmeter. So let
+两条线，接上电压表。好，像这样，这个电压表。我们
+
+55
+00:04:52,890 --> 00:04:59,690
+us call V1 or VL. So this voltmeter reads line voltage. Let me ask one more question to you.
+叫它 V1 或 VL。这个电压表读的是线电压。我再问你们一个问题。
+
+56
+00:04:59,690 --> 00:05:04,250
+How do you measure the phase voltage? So in order to measure the phase voltage,
+怎么测量相电压？为了测量相电压，
+
+57
+00:05:04,250 --> 00:05:09,530
+you can able to use another voltmeter. See this will be the phase voltage. So how do you say that
+你可以用另一个电压表。看，这就是相电压。那你怎么说
+
+58
+00:05:09,530 --> 00:05:14,650
+this is phase voltage? So one line, this is one line. Agreed? So this will be the neutral point.
+这是相电压呢？一条线，这是一条线。同意吧？这是中性点。
+
+59
+00:05:14,650 --> 00:05:18,970
+One line and the neutral point. The voltage between one line and the neutral point that
+一条线和中性点。一条线与中性点之间的电压
+
+60
+00:05:18,970 --> 00:05:22,970
+is known as phase voltage. I hope it is clear to you. So likewise you have to perform the
+就叫相电压。希望你们清楚了。所以你们要像这样
+
+61
+00:05:22,970 --> 00:05:29,210
+connection. Okay, and we require one ammeter to measure both line current and phase current.
+接线。好，我们需要一个电流表来测量线电流和相电流。
+
+62
+00:05:29,210 --> 00:05:34,010
+You know in star connection, the line current will be always equal to phase current. No separate
+你们知道在星形连接中，线电流总是等于相电流。不需要用单独的
+
+63
+00:05:34,010 --> 00:05:38,650
+meters are required for measuring line current as well as phase current. Now let us continue the
+仪表分别测量线电流和相电流。现在我们继续
+
+64
+00:05:38,650 --> 00:05:45,050
+demonstration. Okay, so you take care of the connections, safety precautions and do the
+演示。好，你们要注意接线和安全预防措施，并按照电路图
+
+65
+00:05:45,050 --> 00:05:50,330
+connections as per the circuit diagram. So during the examination, you are supposed to draw the
+接线。考试时，你们要把
+
+66
+00:05:50,970 --> 00:05:56,090
+circuit diagram neatly with proper rating, all those things. And these are the equipment we
+电路图画整齐，标上正确的额定值等等。这些是我们
+
+67
+00:05:56,090 --> 00:06:00,490
+require and we are having a set. I am going to show you the demonstration very clearly.
+需要的设备，我们有一套。我会非常清楚地给你们演示。
+
+68
+00:06:00,490 --> 00:06:05,370
+First of all, you have to study the circuit diagram by looking at the particular diagram,
+首先，你们要看着这张图研究电路图，
+
+69
+00:06:05,370 --> 00:06:10,250
+which I displayed over there. Okay, I have drawn the same thing in the board so that it will
+就是我在那里展示的。好，我在黑板上也画了同样的图，这样
+
+70
+00:06:10,250 --> 00:06:16,410
+be very visible, very clearly visible. So you can able to note down very properly. So do the
+看得很清楚，非常清楚。你们可以好好记下来。所以要
+
+71
+00:06:16,410 --> 00:06:20,330
+connection as per the circuit diagram without making any mistakes because you are dealing with
+按照电路图接线，不要出任何差错，因为你们处理的是
+
+72
+00:06:20,330 --> 00:06:25,370
+the three phase connection. You should be very much careful. Okay, so that is a suggestion I
+三相接线。你们应当非常小心。好，这就是我
+
+73
+00:06:25,450 --> 00:06:30,090
+wanted to tell you. So you can able to see the components, what are the major components as you
+想给你们的建议。大家可以看到这些元件，有哪些主要元件，大家
+
+74
+00:06:30,090 --> 00:06:35,290
+can able to see. So this is your auto transformer. Okay, I will be pointing out this will be the
+可以看到。这是你的自耦变压器。好，我来指一下，这是
+
+75
+00:06:35,290 --> 00:06:41,850
+auto transformer. Look at this auto transformer. Okay, so these are the input of auto transformer.
+自耦变压器。看这个自耦变压器。好，这些是自耦变压器的输入。
+
+76
+00:06:41,850 --> 00:06:46,090
+This voltage you can able to say that line voltage. Okay, line voltage. And this will be
+这个电压你可以说是线电压。好，线电压。这个是
+
+77
+00:06:46,090 --> 00:06:51,450
+the TPST switch. You can able to see the TPST switch. And these are the bulbs. How to measure
+TPST 开关。大家可以看到 TPST 开关。这些是灯泡。怎么测量
+
+78
+00:06:51,450 --> 00:06:57,130
+the phase voltage. Take one line and one neutral point, which I may which I pointed out like this.
+相电压？取一条线和一个中性点，就是我像这样指出的那个。
+
+79
+00:06:57,130 --> 00:07:03,530
+Okay, this is actually what I can say. Phase voltage. Now we are having the line voltage
+好，这实际上就是我所说的相电压。现在我们有线电压，
+
+80
+00:07:03,530 --> 00:07:06,970
+to measure the line voltage. We are having voltmeter, two voltmeter, one voltmeter,
+为了测量线电压。我们有电压表，两个电压表，一个电压表，
+
+81
+00:07:06,970 --> 00:07:11,290
+another voltmeter for the phase voltage measurement. Okay, so you have to do the
+另一个电压表用于测量相电压。好，所以你们要
+
+82
+00:07:11,290 --> 00:07:16,810
+connections. First of all, do the connections according to the circuit diagram. Initially,
+接线。首先，按照电路图接线。一开始，
+
+83
+00:07:16,810 --> 00:07:21,850
+make sure that the TPST switch is at the off position. Auto transformer should be at the
+确保 TPST 开关处于断开位置。自耦变压器应当处于
+
+84
+00:07:21,850 --> 00:07:25,770
+minimum position. Afterwards, you have to turn on the TPST switch. Then with the help of auto
+最小位置。之后，你要合上 TPST 开关。然后借助自耦
+
+85
+00:07:25,770 --> 00:07:31,530
+transformer, you have to apply the line voltage of 400 volt. So here you have to see the
+变压器，施加 400 伏的线电压。这里你要看
+
+86
+00:07:32,730 --> 00:07:36,410
+where you are supposed to see. You are supposed to see the upper scale because you are connected
+哪里，你应该看哪里？你应该看上刻度，因为你接的是
+
+87
+00:07:36,410 --> 00:07:40,730
+to 600 volt. If you connected to 600 volt, you have to look at the upper scale. Now I am
+600 伏。如果你接的是 600 伏，就要看上刻度。现在我
+
+88
+00:07:40,730 --> 00:07:45,850
+going to apply the line voltage of 400 volt. It is very clear. At that time, you need to
+要施加 400 伏的线电压。很清楚。这时你需要
+
+89
+00:07:45,850 --> 00:07:50,490
+measure what is the phase voltage, what is the value of phase voltage. So you can able to measure
+测量相电压是多少，相电压的值是多少。所以你可以测量
+
+90
+00:07:50,490 --> 00:07:55,530
+the phase voltage. See, like this. Okay, phase voltage need to be noted down and the line current
+相电压。看，像这样。好，相电压要记下来，线电流
+
+91
+00:07:55,530 --> 00:08:00,250
+also should be noted down. Here it is line current. It will be approximately how much it is,
+也要记下来。这里是线电流。大约是多少呢？
+
+92
+00:08:00,250 --> 00:08:05,130
+it is 0.4, line voltage. Okay, line, sorry, line current. Line current has to be noted down.
+是 0.4，线电压。好，线，抱歉，是线电流。线电流要记下来。
+
+93
+00:08:05,130 --> 00:08:13,210
+Upper scale, point, approximately 0.4. Okay, so we have measured line voltage, then phase voltage
+上刻度，零点，大约 0.4。好，我们已经测量了线电压、相电压
+
+94
+00:08:13,210 --> 00:08:18,650
+and the line current. Line current and phase current will be always equal. Okay, so afterwards
+和线电流。线电流和相电流总是相等的。好，之后
+
+95
+00:08:18,650 --> 00:08:22,810
+you can convert the auto transformer into zero position. I will be reducing the auto transformer
+你可以把自耦变压器调回零位。我来把自耦变压器调回
+
+96
+00:08:22,810 --> 00:08:30,170
+into zero position. Later on, TPSD should be turned off so that supply is removed. Now I will
+零位。然后，要断开 TPST，这样电源就断开了。现在我来
+
+97
+00:08:30,170 --> 00:08:34,970
+be showing you the delta connection. Okay, this is actually called the delta connection.
+给你们演示三角形连接。好，这就叫三角形连接。
+
+98
+00:08:34,970 --> 00:08:41,530
+You can able to see the delta connection. Now I will be showing you the delta connection.
+大家可以看到三角形连接。现在我来给你们演示三角形连接。
+
+99
+00:08:41,610 --> 00:08:49,530
+So delta connection is mainly based on the starting end of first coil. Okay, this is your
+三角形连接主要是基于第一个线圈的起始端。好，这是
+
+100
+00:08:49,530 --> 00:08:55,530
+starting end of the first coil. That is connected to ending of another coil. See, like this. So,
+第一个线圈的起始端。它连接到另一个线圈的末端。看，像这样。所以，
+
+101
+00:08:55,530 --> 00:09:01,930
+for example, A1 A2 is one coil, B1 B2 is another coil and the C1 C2 is third coil. So ending of
+例如，A1A2 是一个线圈，B1B2 是另一个线圈，C1C2 是第三个线圈。所以
+
+102
+00:09:01,930 --> 00:09:05,930
+the first coil, this is your actually ending of the coil number one. Let me mark first so
+第一个线圈的末端，这实际上是 1 号线圈的末端。我先标一下，这样
+
+103
+00:09:05,930 --> 00:09:10,090
+that you will understand clearly. Coil number two, this is coil number three. What you are
+你们就能看清楚。2 号线圈，这是 3 号线圈。你们
+
+104
+00:09:10,090 --> 00:09:16,170
+supposed to do is the ending of the first coil is connected to the beginning of another coil.
+要做的是，把第一个线圈的末端连接到另一个线圈的起始端。
+
+105
+00:09:16,170 --> 00:09:20,810
+I hope it is clear. Ending of the first coil is connected to the beginning of another coil.
+希望你们清楚了。第一个线圈的末端连接到另一个线圈的起始端。
+
+106
+00:09:20,810 --> 00:09:27,850
+And the ending of the second coil is connected to the beginning of third coil. So such kind of
+第二个线圈的末端连接到第三个线圈的起始端。这种
+
+107
+00:09:27,850 --> 00:09:32,570
+connections are known as delta connection. So if I connect the delta, the thing is we will
+连接就叫三角形连接。所以如果我接成三角形，关键是我们会
+
+108
+00:09:32,570 --> 00:09:36,730
+be getting a close to path. You can able to see the close to path. I think it is very clear.
+得到一个闭合通路。大家可以看到这个闭合通路。我想很清楚了。
+
+109
+00:09:36,730 --> 00:09:40,170
+So close to path will be formulated if you go ahead with the delta connection.
+所以如果你采用三角形连接，就会形成一个闭合通路。
+
+110
+00:09:40,890 --> 00:09:47,930
+And also, delta connections are mainly useful where the load require high current and low voltage.
+另外，三角形连接主要用于负载需要大电流、低电压的场合。
+
+111
+00:09:47,930 --> 00:09:52,650
+I will be writing hc means high current and lv means low voltage. So that is the application
+我写 HC 表示大电流，LV 表示低电压。这就是
+
+112
+00:09:52,650 --> 00:09:57,370
+of delta connection. It is just opposite to that of star connection. We have found how to do the
+三角形连接的应用。它正好与星形连接相反。我们已经知道了怎么做
+
+113
+00:09:57,370 --> 00:10:04,810
+star connection. Now we will be showing you how to perform the delta connection. So these are
+星形连接。现在我们来演示如何进行三角形连接。这些是
+
+114
+00:10:04,810 --> 00:10:11,050
+the supply, three-phase supply, R, Y, B. The rating will be three-phase for 15 volt to 50
+电源，三相电源，R、Y、B。额定值是三相 415 伏、50
+
+115
+00:10:11,050 --> 00:10:16,490
+hertz AC supply. And we are having the 15 ampere fuse and TPSD switch. This will be
+赫兹交流电源。我们有 15 安培熔断器和 TPST 开关。这是
+
+116
+00:10:16,490 --> 00:10:21,450
+the triple power single drop. TPSD switch. We are having TPSD switch. That will be connected
+三刀单掷开关。TPST 开关。我们有 TPST 开关。它要连接到
+
+117
+00:10:21,450 --> 00:10:25,610
+to the input of three-phase auto transformer. This will be the output of three-phase auto
+三相自耦变压器的输入端。这是三相自耦变压器的
+
+118
+00:10:25,610 --> 00:10:29,530
+transformer. The first point is connected to ammeter. The second point of ammeter
+输出端。第一个点连接到电流表。电流表的第二个接点
+
+119
+00:10:29,530 --> 00:10:34,170
+is connected to A1. The same manner, the second point of auto transformer, second output
+连接到 A1。同样，自耦变压器的第二个点，自耦变压器的第二个输出
+
+120
+00:10:34,170 --> 00:10:38,730
+point of auto transformer is connected to B1. The third point of auto transformer is
+点连接到 B1。自耦变压器的第三个点
+
+121
+00:10:38,730 --> 00:10:43,690
+connected to C1. It is very clear. This point is over. Later on, you have to perform delta
+连接到 C1。很清楚。这个点就完成了。之后，你要进行三角形
+
+122
+00:10:43,690 --> 00:10:48,730
+connection. The ending of the first coil is connected to the beginning of another coil.
+连接。第一个线圈的末端连接到另一个线圈的起始端。
+
+123
+00:10:48,730 --> 00:10:55,450
+Now look at this. The ending of the first coil, A2, that is connected to the beginning of the
+现在看这里。第一个线圈的末端 A2，连接到
+
+124
+00:10:55,450 --> 00:11:00,650
+first coil. Then ending of the second coil is connected to the beginning of the third coil.
+第一个线圈的起始端。然后第二个线圈的末端连接到第三个线圈的起始端。
+
+125
+00:11:00,650 --> 00:11:06,970
+Thus, you can able to make out a closed path like this. So I'll be getting the closed path like this.
+这样你就能形成一个像这样的闭合通路。所以我会得到这样一个闭合通路。
+
+126
+00:11:06,970 --> 00:11:13,530
+So delta connection has been completed. Now we require the measurement devices. So we have to
+三角形连接就完成了。现在我们需要测量仪表。所以我们要
+
+127
+00:11:13,530 --> 00:11:18,730
+connect the phase current. How to measure the phase current? So this will be the phase current.
+接相电流。怎么测量相电流？这就是相电流。
+
+128
+00:11:18,730 --> 00:11:24,650
+A1, between A1 and C2, I'm going to connect one ammeter. So this is known as phase current. Let me
+A1，在 A1 和 C2 之间，我要接一个电流表。这就叫相电流。我
+
+129
+00:11:24,650 --> 00:11:31,130
+call it as I phase, Ip. And where is line current? This must be the line current. Now can you point
+把它叫做 I相，Ip。线电流在哪里？这一定是线电流。现在你们能指出
+
+130
+00:11:31,130 --> 00:11:36,330
+out line voltage and phase voltage? Of course, this will be line voltage and phase voltage.
+线电压和相电压吗？当然，这就是线电压和相电压。
+
+131
+00:11:36,330 --> 00:11:40,090
+Because in delta connection, line voltage and phase voltage will be identical. That's
+因为在三角形连接中，线电压和相电压是相同的。这是
+
+132
+00:11:40,090 --> 00:11:44,250
+conceptating. You must have known that. You must have known that. So this is regarding
+概念上的。你们一定知道这个。你们一定知道这个。这就是关于
+
+133
+00:11:44,250 --> 00:11:49,210
+the connection of delta connection. Now let us demonstrate how to perform the delta connection.
+三角形连接的接线。现在我们来演示如何进行三角形连接。
+
+134
+00:11:49,210 --> 00:11:55,710
+I'll be showing you the video so that you can able to understand. So let me play the video.
+我给你们放视频，这样你们就能理解。我来播放视频。
+
+135
+00:11:56,670 --> 00:12:01,070
+So this is the way how to perform the connection. Take all the safety precautions because you are
+这就是接线的方法。要采取所有安全预防措施，因为你们
+
+136
+00:12:01,070 --> 00:12:05,950
+dealing with the three-phase supply. So do the connections exactly as per the circuit diagram
+处理的是三相电源。所以要严格按照电路图接线，
+
+137
+00:12:05,950 --> 00:12:10,670
+without making any mistakes. You have to verify, cross verify whether the connections are tight,
+不要出任何差错。你们要检查、反复检查接线是否牢固，
+
+138
+00:12:10,670 --> 00:12:15,230
+whether all the points are good enough to hold. Everything you have to verify clearly.
+所有接点是否足够牢靠。所有东西都要仔细检查。
+
+139
+00:12:15,230 --> 00:12:19,070
+So connection will start from auto transformer. This is input of auto transformer. This will be
+接线从自耦变压器开始。这是自耦变压器的输入。这是
+
+140
+00:12:19,070 --> 00:12:22,990
+the output of auto transformer. And you do the connections as per the circuit diagram.
+自耦变压器的输出。你们要按照电路图接线。
+
+141
+00:12:22,990 --> 00:12:26,430
+So you have to turn on the TPSD switch. I have turned on the TPSD switch.
+所以你要合上 TPST 开关。我已经合上了 TPST 开关。
+
+142
+00:12:26,430 --> 00:12:31,150
+Afterwards, with the help of auto transformer, I need to apply the lower voltage. Say 230.
+之后，借助自耦变压器，我需要施加较低的电压，比如 230。
+
+143
+00:12:31,150 --> 00:12:36,110
+Let me apply 200 to 230. I'll be applying say 230 volt. You can able to look at it.
+我施加 200 到 230。我来施加比如 230 伏。大家可以看一下。
+
+144
+00:12:36,110 --> 00:12:41,390
+Apply 230 volt. Look at the meter very carefully. So I'm going to apply 230 volt.
+施加 230 伏。仔细看仪表。我要施加 230 伏。
+
+145
+00:12:41,390 --> 00:12:45,390
+So slowly I have to vary. So that is why we are using auto transformer.
+所以我要慢慢地调节。这就是我们使用自耦变压器的原因。
+
+146
+00:12:45,390 --> 00:12:49,550
+Otherwise, we would have given the supply directly. So I need to apply how much? 230 volt.
+否则我们就直接通电了。那我需要施加多少？230 伏。
+
+147
+00:12:50,510 --> 00:12:56,910
+180 220 say 230 volt. You can apply 230. It is absolutely right. At the same time,
+180、220，比如说 230 伏。你可以施加 230。完全正确。同时，
+
+148
+00:12:56,910 --> 00:12:59,870
+you have to measure the line current. What is the value of line current? You can
+你要测量线电流。线电流的值是多少？你可以
+
+149
+00:12:59,870 --> 00:13:04,430
+note down this. And note down and you can put up in your notebook. This is your line current.
+记下来。记下来，写在你的笔记本上。这是你的线电流。
+
+150
+00:13:04,430 --> 00:13:07,470
+And this will be the phase current. You can able to measure the phase current.
+这是相电流。你可以测量相电流。
+
+151
+00:13:07,470 --> 00:13:09,390
+Line current and phase current can be measured.
+线电流和相电流都可以测量。
+
+152
+00:13:10,510 --> 00:13:14,910
+Because the voltage no problem, it is line voltage will be equal to phase voltage.
+因为电压没有问题，线电压会等于相电压。
+
+153
+00:13:14,910 --> 00:13:18,190
+But line current and phase current will be deferred. You can able to verify.
+但线电流和相电流会不同。你们可以验证一下。
+
+154
+00:13:19,550 --> 00:13:24,590
+So afterwards, you can reduce the supply from the auto transformer turn off the TPSD switch.
+之后，你可以通过自耦变压器把电压调低，断开 TPST 开关。
+
+155
+00:13:24,590 --> 00:13:28,670
+So reading has to be tabulated. So that is the summary of the experiment.
+读数要列成表格。这就是这个实验的概要。
+
+156
+00:13:31,880 --> 00:13:34,920
+Now you have to make the conclusion in star connection.
+现在你们要得出星形连接的结论。
+
+157
+00:13:36,200 --> 00:13:40,760
+Already I told you that the line current will be equal to phase current. Because only one
+我已经告诉过你们，线电流会等于相电流。因为我们只用了一个
+
+158
+00:13:40,760 --> 00:13:46,200
+arm meter we have used. Star connection. But the line voltage will be equal to
+电流表。星形连接。但线电压会等于
+
+159
+00:13:47,000 --> 00:13:51,560
+the root rate times phase voltage. So that point you have to remember.
+根号 3 倍的相电压。这一点你们要记住。
+
+160
+00:13:52,040 --> 00:13:54,760
+Where in delta connection? What is the speciality?
+而在三角形连接中呢？有什么特点？
+
+161
+00:13:55,560 --> 00:13:58,200
+The line voltage will be equal to phase voltage.
+线电压会等于相电压。
+
+162
+00:14:00,200 --> 00:14:04,360
+But the line current, the line current will be always greater than phase current.
+但线电流，线电流总是大于相电流。
+
+163
+00:14:04,360 --> 00:14:08,600
+That is equal to line current is equal to root 3 into over the phase current.
+也就是线电流等于根号 3 乘以相电流。
+
+164
+00:14:08,600 --> 00:14:12,200
+So that is the speciality of delta connection. So this must be your conclusion.
+这就是三角形连接的特点。所以这一定就是你们的结论。
+
+165
+00:14:12,200 --> 00:14:15,640
+Look at the reading and you have to raise the conclusion.
+看着读数，你们要得出结论。
+
+166
+00:14:15,640 --> 00:14:19,560
+So this is the way how to perform the star and delta connection.
+这就是进行星形和三角形连接的方法。
+
+167
+00:14:19,640 --> 00:14:23,800
+So you have to make the inference. Why do you use star connection?
+所以你们要得出推论。为什么要用星形连接？
+
+168
+00:14:23,800 --> 00:14:26,600
+Why do you prefer delta connection?
+为什么更倾向于三角形连接？
+
+169
+00:14:26,600 --> 00:14:29,800
+Basically what are the three phase connection? In this experiment,
+基本上，三相连接有哪些？在这个实验中，
+
+170
+00:14:29,800 --> 00:14:35,480
+you learn the relationship between the line quantities and phase quantities of star connection
+你们分别学习了星形连接和三角形连接中线量与相量之间的关系。
+
+171
+00:14:35,480 --> 00:14:40,600
+and delta connection respectively. And you have understood how to perform the star and
+你们也理解了如何进行星形和
+
+172
+00:14:40,600 --> 00:14:43,400
+delta connection. I hope the session is useful.
+三角形连接。希望这一讲对你们有用。
+
+173
+00:14:44,280 --> 00:14:46,600
+So I hope this video was useful.
+希望这个视频对你们有帮助。
+
+174
+00:14:46,600 --> 00:14:49,800
+So do let me know in the comment section.
+请在评论区告诉我。
+
+175
+00:14:49,800 --> 00:14:52,520
+If you have any queries you can put up in the comment section.
+如果有任何疑问，可以在评论区留言。
+
+176
+00:14:53,240 --> 00:14:55,320
+Now I would like to ask some question with you.
+现在我想问你们一些问题。
+
+177
+00:14:56,760 --> 00:15:01,640
+What are your favorite, what is your favorite topic from my side?
+你们最喜欢的，你们最喜欢我讲的哪个主题？
+
+178
+00:15:02,440 --> 00:15:08,040
+What topics you like me to cover? Do you need any clarifications on any of my previous videos?
+你们希望我讲哪些主题？对我之前的视频有什么需要澄清的吗？
+
+179
+00:15:08,840 --> 00:15:13,240
+And one more thing, also let me know any suggestions on improving this.
+还有一件事，也请告诉我有什么改进的建议。
+
+180
+00:15:14,120 --> 00:15:17,800
+So basically your support is my motivation.
+基本上，你们的支持就是我的动力。
+
+181
+00:15:17,800 --> 00:15:20,760
+Thanks for your support so far. Keep supporting.
+感谢你们一直以来的支持。请继续支持。
+
+182
+00:15:20,760 --> 00:15:22,760
+Thank you very much for watching this video.
+非常感谢收看本视频。
