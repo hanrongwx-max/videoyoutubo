@@ -1,7 +1,7 @@
-# 激光焊接机更换主控板
+# 激光焊接机更换主控板（国内版）
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：21_Replace the Motherboard for the xTool MetalFab Laser Welder（内容分析见 `course/Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../21_Replace the Motherboard for the xTool MetalFab Laser Welder/`
 - 时长：4 分 25 秒（53 个镜头 × 5 秒）；熊猫出镜说话 7 镜，画外音 46 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、老李（设施工程师）
