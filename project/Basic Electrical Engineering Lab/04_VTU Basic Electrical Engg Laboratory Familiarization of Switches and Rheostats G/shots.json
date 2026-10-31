@@ -1,0 +1,622 @@
+{
+ "id": "04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "变阻器与开关",
+ "seconds": 215,
+ "source_doc": "course/Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G.md",
+ "author_source": "project/Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G/src.py",
+ "points": {
+  "K1": "本课内容",
+  "K2": "变阻器：可变电阻",
+  "K3": "变阻器的结构",
+  "K4": "看铭牌：阻值和额定电流",
+  "K5": "接入越长，电阻越大",
+  "K6": "切入位置：电阻最大",
+  "K7": "切出位置：电阻最小",
+  "K8": "变阻器的符号",
+  "K9": "任取两端：一固定一滑动",
+  "K10": "先认识开关",
+  "K11": "单极单掷开关",
+  "K12": "单极双掷开关",
+  "K13": "双极单掷开关",
+  "K14": "双极双掷开关",
+  "K15": "数极、数掷",
+  "K16": "三极单掷开关",
+  "K17": "三极双掷：三相转换",
+  "K18": "本课回顾"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上有一根长长的滑线变阻器和几个开关，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a lab bench with a long tubular sliding rheostat and several switches, waving at the camera.",
+   "narration": "这一课认识变阻器和各种开关。",
+   "overlay": [
+    "变阻器与开关"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "变阻器、船形开关、闸刀开关三个图标",
+   "prompt_en": "Three icons in a row: a tubular sliding rheostat, a rocker switch and a knife-blade changeover switch. No people.",
+   "narration": "一个调电阻，一个管通断。",
+   "overlay": [],
+   "labels": [
+    "变阻器",
+    "开关"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起一根长长的滑线变阻器，左看右看",
+   "prompt_en": "The young male student picks up a long slide-wire rheostat and turns it around, looking puzzled.",
+   "narration": "阿杰拿着变阻器，不知道怎么接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "台上摆着几种外形不同的开关，阿杰挠头",
+   "prompt_en": "Several switches of different shapes lie on the bench; the young male student scratches his head.",
+   "narration": "开关也有好几种，长得都不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿起一个开关，指着上面的触点",
+   "prompt_en": "The female graduate student picks up a switch and points to its contacts.",
+   "narration": "小研说：做实验前，这些都得认清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "一个调电阻，一个管通断，一起来看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课内容",
+   "scene": "欣欣指着变阻器和一排开关",
+   "prompt_en": "The panda mascot points at a rheostat and a row of different switches.",
+   "narration": "做实验前，先把它们认清楚。",
+   "overlay": [
+    "本课内容"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "变阻器：可变电阻",
+   "scene": "电阻符号上加一个斜箭头",
+   "prompt_en": "A resistor symbol with a diagonal arrow across it. No people.",
+   "narration": "变阻器，就是阻值可以调的电阻。",
+   "overlay": [
+    "变阻器：可变电阻"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "变阻器的结构",
+   "scene": "变阻器特写：瓷管上密绕电阻丝，上方有滑块",
+   "prompt_en": "A close-up of a tubular rheostat: resistance wire tightly wound on a ceramic tube, with a slider on a bar above it. No people.",
+   "narration": "瓷管上绕着电阻丝，上面有个滑块。",
+   "overlay": [
+    "变阻器的结构"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "变阻器的结构",
+   "scene": "两端和滑块处三个接线柱被高亮",
+   "prompt_en": "The two end terminals and the slider terminal of the rheostat highlighted. No people.",
+   "narration": "两头是固定端，滑块是滑动端。",
+   "overlay": [],
+   "labels": [
+    "固定端 A",
+    "固定端 B",
+    "滑动端 C"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "看铭牌：阻值和额定电流",
+   "scene": "变阻器侧面的空白铭牌，旁边是电阻和电流图标",
+   "prompt_en": "The side of a rheostat with a blank nameplate, a resistor icon and a current icon beside it. No people.",
+   "narration": "铭牌上标着阻值和额定电流。",
+   "overlay": [
+    "看铭牌：阻值和额定电流"
+   ],
+   "labels": [
+    "200 Ω",
+    "1.5 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "看铭牌：阻值和额定电流",
+   "scene": "欣欣举起写着电流图标的空白卡",
+   "prompt_en": "The panda mascot holds up a blank card with a current arrow icon.",
+   "narration": "比如这台二百欧、一点五安，两个数一样重要。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接入越长，电阻越大",
+   "scene": "长段电阻丝和短段电阻丝对比",
+   "prompt_en": "Two icons: a long section of resistance wire with a big resistance bar, a short section with a small bar. No people.",
+   "narration": "接入的电阻丝越长，电阻越大。",
+   "overlay": [
+    "接入越长，电阻越大"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "切入位置：电阻最大",
+   "scene": "滑块位置使整根电阻丝都接入，电流箭头走完全程",
+   "prompt_en": "A rheostat icon with the slider positioned so that current arrows travel the entire length of the wire. No people.",
+   "narration": "电阻丝全长接入，电阻最大。",
+   "overlay": [
+    "切入位置：电阻最大"
+   ],
+   "labels": [
+    "切入位置",
+    "最大"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "切出位置：电阻最小",
+   "scene": "滑块位置使电流只走一小段",
+   "prompt_en": "A rheostat icon with the slider positioned so that current arrows travel only a short section of wire. No people.",
+   "narration": "只接入一小段，电阻最小。",
+   "overlay": [
+    "切出位置：电阻最小"
+   ],
+   "labels": [
+    "切出位置",
+    "最小"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "切出位置：电阻最小",
+   "scene": "老周指着三电压表电路图里的变阻器",
+   "prompt_en": "The older man points at the rheostat in a three-voltmeter circuit diagram on a board.",
+   "narration": "后面三电压表法实验，要用到它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "变阻器的符号",
+   "scene": "两种变阻器符号并排",
+   "prompt_en": "Two rheostat circuit symbols side by side: a zigzag resistor with a diagonal arrow, and a box resistor with a sliding arrow. No people.",
+   "narration": "画电路图时，用这两种符号。",
+   "overlay": [
+    "变阻器的符号"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "变阻器的符号",
+   "scene": "符号一端标固定，箭头端标可变",
+   "prompt_en": "One rheostat symbol with one end marked by a fixed pin icon and the arrow marked by a slider icon. No people.",
+   "narration": "一端固定，箭头那端可变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "任取两端：一固定一滑动",
+   "scene": "小研把导线接到一个固定端和滑动端",
+   "prompt_en": "The female graduate student connects leads to one fixed terminal and the sliding terminal of a rheostat.",
+   "narration": "任取两个端子：一个固定端，一个滑动端。",
+   "overlay": [
+    "任取两端：一固定一滑动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "任取两端：一固定一滑动",
+   "scene": "滑块左右移动，电阻条变长变短",
+   "prompt_en": "The slider moves left and right while a resistance bar grows and shrinks. No people.",
+   "narration": "滑块位置，决定是切入还是切出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "先认识开关",
+   "scene": "楼梯两头的开关控制同一盏灯",
+   "prompt_en": "A staircase icon with a switch at the bottom and top controlling one lamp. No people.",
+   "narration": "双控、多地控制照明，都要用到开关。",
+   "overlay": [
+    "先认识开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "先认识开关",
+   "scene": "一个开关图标，标出“极”和“掷”",
+   "prompt_en": "A switch symbol with its moving blade and its contact points highlighted in different colors. No people.",
+   "narration": "开关看两样：几个极，几个掷。",
+   "overlay": [],
+   "labels": [
+    "极：动触头",
+    "掷：接通位置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "单极单掷开关",
+   "scene": "单极单掷开关符号和一个船形开关",
+   "prompt_en": "A single pole single throw switch symbol next to a black rocker switch. No people.",
+   "narration": "单极单掷：一个极，一个位置。",
+   "overlay": [
+    "单极单掷开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "单极单掷开关",
+   "scene": "电池、开关、灯泡电路：开关断开灯灭，闭合灯亮",
+   "prompt_en": "Two circuit icons: battery, open switch and dark bulb; battery, closed switch and lit bulb. No people.",
+   "narration": "断开就断电，闭合就接通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "单极双掷开关",
+   "scene": "单极双掷开关符号：一个刀片可拨到两个位置",
+   "prompt_en": "A single pole double throw switch symbol: one blade that can swing to position one or position two. No people.",
+   "narration": "单极双掷：一个极，两个位置。",
+   "overlay": [
+    "单极双掷开关"
+   ],
+   "labels": [
+    "位置1",
+    "位置2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "单极双掷开关",
+   "scene": "刀片先接位置一，再接位置二",
+   "prompt_en": "The blade connected to position one, then switching over to position two. No people.",
+   "narration": "同一时刻只接一个位置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "单极双掷开关",
+   "scene": "两只单极双掷开关控制楼梯灯",
+   "prompt_en": "Two single pole double throw switches at both ends of a staircase controlling one lamp. No people.",
+   "narration": "双控照明，就靠它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "双极单掷开关",
+   "scene": "双极单掷开关符号：两个刀片用虚线连在一起",
+   "prompt_en": "A double pole single throw switch symbol: two blades linked by a dashed line. No people.",
+   "narration": "双极单掷：两个极一起动作。",
+   "overlay": [
+    "双极单掷开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "双极单掷开关",
+   "scene": "一只开关同时接通两路电路",
+   "prompt_en": "An icon of one double pole switch connecting two separate circuits to their loads at the same time. No people.",
+   "narration": "一扳，两路电路同时接通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "双极双掷开关",
+   "scene": "双极双掷开关符号和一个方形开关",
+   "prompt_en": "A double pole double throw switch symbol next to a square rocker switch. No people.",
+   "narration": "双极双掷：两个极，两个位置。",
+   "overlay": [
+    "双极双掷开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "双极双掷开关",
+   "scene": "触点示意：常开和常闭",
+   "prompt_en": "A contact diagram icon showing a normally open pair and a normally closed pair. No people.",
+   "narration": "触点分常开和常闭，用在复杂电路。",
+   "overlay": [],
+   "labels": [
+    "常开 NO",
+    "常闭 NC"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "数极、数掷",
+   "scene": "四种开关符号排成两行两列",
+   "prompt_en": "Four switch symbols arranged in a two by two grid: single pole single throw, single pole double throw, double pole single throw, double pole double throw. No people.",
+   "narration": "单极还是双极，单掷还是双掷？",
+   "overlay": [
+    "数极、数掷"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "数极、数掷",
+   "scene": "阿杰对着图数手指，小研点头",
+   "prompt_en": "The young male student counts on his fingers in front of the grid; the female graduate student nods.",
+   "narration": "数一数极和掷，就分清了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "三极单掷开关",
+   "scene": "三极单掷开关符号：三个刀片连动",
+   "prompt_en": "A switch symbol with three blades linked by a dashed line, one throw position. No people.",
+   "narration": "三极单掷：三个极，一个掷。",
+   "overlay": [
+    "三极单掷开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "三极单掷开关",
+   "scene": "三相电源三根线经开关接到负载",
+   "prompt_en": "Three supply lines passing through the three-pole switch to a load. No people.",
+   "narration": "三个极分别接三相 R、Y、B。",
+   "overlay": [],
+   "labels": [
+    "R",
+    "Y",
+    "B"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "三极单掷开关",
+   "scene": "开关一扳，电源侧和负载侧三相同时亮起",
+   "prompt_en": "The switch is thrown and all three lines on the supply side and load side light up together. No people.",
+   "narration": "电源和负载三相，同时通、同时断。",
+   "overlay": [],
+   "labels": [
+    "电源侧",
+    "负载侧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三极双掷：三相转换",
+   "scene": "实验室的三相转换开关板：三个刀闸、两排接线柱",
+   "prompt_en": "A three-phase changeover switch board in a lab: three linked blades and two rows of terminals. No people.",
+   "narration": "三极双掷：三个极，可拨到位置一或位置二。",
+   "overlay": [
+    "三极双掷：三相转换"
+   ],
+   "labels": [
+    "位置1",
+    "位置2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三极双掷：三相转换",
+   "scene": "电机图标和电网图标之间一个转换开关",
+   "prompt_en": "A changeover switch icon between an induction machine icon and a power grid icon. No people.",
+   "narration": "它常用作三相转换开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三极双掷：三相转换",
+   "scene": "发电机和电网的两条波形逐渐对齐",
+   "prompt_en": "Two sine waves, one from a generator icon and one from a grid icon, gradually lining up. No people.",
+   "narration": "比如感应发电机与电网同步并网的实验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "本课回顾",
+   "scene": "变阻器和六种开关图标依次亮起",
+   "prompt_en": "A rheostat icon and six switch symbols light up one by one. No people.",
+   "narration": "变阻器和开关，是电工实验的基础。",
+   "overlay": [
+    "本课回顾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "变阻器滑块在两端的两个图标",
+   "prompt_en": "Two rheostat icons with the slider at opposite ends. No people.",
+   "narration": "切入最大，切出最小，看铭牌额定值。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "六种开关符号排成一行",
+   "prompt_en": "Six switch symbols in a row. No people.",
+   "narration": "数极数掷，认清六种开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整齐的实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a tidy lab bench with a rheostat and switches.",
+   "narration": "认识了变阻器和开关，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
