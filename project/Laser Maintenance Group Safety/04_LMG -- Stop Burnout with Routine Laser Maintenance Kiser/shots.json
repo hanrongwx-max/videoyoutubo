@@ -1,0 +1,774 @@
+{
+ "id": "04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser",
+ "edition": "原著版",
+ "series": "Laser Maintenance Group Safety",
+ "title": "一颗螺栓引发的连锁故障",
+ "seconds": 285,
+ "source_doc": "course/Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser.md",
+ "author_source": "project/Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser/src.py",
+ "points": {
+  "K1": "故障像多米诺骨牌",
+  "K2": "输出镜：光从这里出来",
+  "K3": "护罩松脱，掉到镜前",
+  "K4": "碎屑溅回，镜片开裂",
+  "K5": "镜片也是压力边界",
+  "K6": "跑偏的光熔穿水管",
+  "K7": "喷嘴被焊死",
+  "K8": "切不动了，先停下来看",
+  "K9": "及时停机，损失有限",
+  "K10": "情况突变就停",
+  "K11": "例行维护，防患未然",
+  "K12": "拆装要拧紧，请合格人员",
+  "K13": "松了几个月没人发现",
+  "K14": "按厂家要求的周期维护",
+  "K15": "停机时间才是大损失"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一排多米诺骨牌旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a row of dominoes and waves at the camera.",
+   "narration": "一颗螺栓，能引出多大的故障？",
+   "overlay": [
+    "一颗螺栓引发的连锁故障"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "螺栓、镜片、水管、喷嘴四个图标连成一串",
+   "prompt_en": "Four icons linked in a chain: a bolt, a cracked lens, a melted tube and a nozzle. No people.",
+   "narration": "今天跟着烧坏的零件，一件件看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周和老李坐在桌边，桌上摆着几样烧坏的零件",
+   "prompt_en": "The older man and the facility engineer sit at a black table with several damaged laser parts laid out.",
+   "narration": "老周请维修负责人老李讲一次故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拿起黄铜镜座，老周凑近看",
+   "prompt_en": "The facility engineer picks up a brass mirror mount with bare hands while the older man leans in.",
+   "narration": "零件都是从一台二氧化碳激光器上拆下来的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "故障像多米诺骨牌",
+   "scene": "一排多米诺骨牌，第一块被轻轻碰倒",
+   "prompt_en": "A row of dominoes; the first one is gently tipped and the rest start to fall. No people.",
+   "narration": "故障就像多米诺骨牌。",
+   "overlay": [
+    "故障像多米诺骨牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "故障像多米诺骨牌",
+   "scene": "桌上摆着镜座、橙色镜片、喷嘴、弯折的水管",
+   "prompt_en": "On a black table: a brass mirror mount, an orange lens, a copper nozzle and a bent brown water tube. No people.",
+   "narration": "一件事引出另一件事，一连串损坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "输出镜：光从这里出来",
+   "scene": "示意图：激光器谐振腔两端各有一面镜子，一端透出光束",
+   "prompt_en": "A diagram of a laser resonator with a mirror at each end and a beam coming out through one of them. No people.",
+   "narration": "这是输出耦合镜，光束从这里射出。",
+   "overlay": [
+    "输出镜：光从这里出来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "输出镜：光从这里出来",
+   "scene": "示意图：腔内的光一小部分穿过输出镜",
+   "prompt_en": "A diagram: most of the light bounces inside the resonator and a smaller part passes through the output mirror. No people.",
+   "narration": "只有一部分光，约30%从它透出来。",
+   "overlay": [],
+   "labels": [
+    "约30%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "老李拿起一个铜色短筒护罩，比划它在镜座前的位置",
+   "prompt_en": "The facility engineer holds a short copper-colored shroud and shows where it sits in front of the mirror mount.",
+   "narration": "输出镜前面有一个保护护罩。",
+   "overlay": [
+    "护罩松脱，掉到镜前"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "护罩侧面一颗螺栓一点点退出来",
+   "prompt_en": "Animation: a bolt on the side of the shroud slowly backs out. No people.",
+   "narration": "固定它的螺栓，日久松了退了出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "螺栓旁的热浪图标",
+   "prompt_en": "Heat wave icons around the loosening bolt. No people.",
+   "narration": "也可能是受热以后退出来的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "护罩松脱，掉到镜前",
+   "scene": "护罩滑落，挡在输出镜前面",
+   "prompt_en": "Animation: the shroud slips down and ends up in front of the output mirror. No people.",
+   "narration": "护罩掉下来，正好挡在镜前。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "光束打在护罩上，碎屑向回飞溅",
+   "prompt_en": "A diagram: the laser beam hits the fallen shroud and debris sprays back toward the mirror. No people.",
+   "narration": "光束打在护罩上，碎屑溅回镜面。",
+   "overlay": [
+    "碎屑溅回，镜片开裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "老李举起橙色输出镜，指着上面一道裂纹",
+   "prompt_en": "The facility engineer holds up an orange output lens and points at a crack in it.",
+   "narration": "输出镜就这样裂开了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碎屑溅回，镜片开裂",
+   "scene": "镜片侧面特写，内部晶体里有细裂纹",
+   "prompt_en": "Side close-up of the orange lens showing fine cracks inside the crystal. No people.",
+   "narration": "从侧面看，里面的晶体也裂了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "示意图：谐振腔内压力低，外面是大气",
+   "prompt_en": "A diagram: inside the resonator the pressure is lower, outside is normal air, the lens sits between them. No people.",
+   "narration": "输出镜还是谐振腔的压力边界。",
+   "overlay": [
+    "镜片也是压力边界"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "腔内气压表低于外面",
+   "prompt_en": "A gauge icon inside the resonator reading lower than the gauge outside. No people.",
+   "narration": "腔里的气压，低于大气压。",
+   "overlay": [],
+   "labels": [
+    "低于大气压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "镜片向内碎裂，空气涌入的示意图",
+   "prompt_en": "A diagram: the lens implodes inward and outside air rushes into the resonator. No people.",
+   "narration": "镜片一内爆，腔体就直通大气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "风机卡住、电源冒烟两个图标",
+   "prompt_en": "Two icons: a jammed roots blower and a power supply with smoke. No people.",
+   "narration": "罗茨风机会卡死，电源可能烧掉。",
+   "overlay": [],
+   "labels": [
+    "风机卡死",
+    "电源烧毁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "镜片也是压力边界",
+   "scene": "巨大的警告三角",
+   "prompt_en": "A large warning triangle. No people.",
+   "narration": "那就是灾难性的故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "跑偏的光熔穿水管",
+   "scene": "老李拿起一根弯折的棕色水管，指着熔化的地方",
+   "prompt_en": "The facility engineer holds up a bent brown water tube and points at a melted spot.",
+   "narration": "反射的光束还熔穿了一根冷却水管。",
+   "overlay": [
+    "跑偏的光熔穿水管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "跑偏的光熔穿水管",
+   "scene": "水从破口喷出，洒到快门的电气接头上",
+   "prompt_en": "A diagram: water sprays from the melted tube onto the electrical fittings of a beam shutter. No people.",
+   "narration": "水喷出来，洒到了快门的电气接头上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "老李捏起铜喷嘴，对着光看中间的孔",
+   "prompt_en": "The facility engineer pinches a copper nozzle and looks through its center hole.",
+   "narration": "光束本该从喷嘴孔里穿出去。",
+   "overlay": [
+    "喷嘴被焊死"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "喷嘴剖面图：光束偏了，打在内壁上",
+   "prompt_en": "A cross-section of the nozzle: the beam is off-center and hits the inner wall. No people.",
+   "narration": "这次它没走直线，打到了喷嘴内壁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "喷嘴内壁一圈蓝紫色回火变色",
+   "prompt_en": "Close-up of the nozzle's inner wall with a ring of blue and purple heat discoloration. No people.",
+   "narration": "内壁上还能看到回火的颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "喷嘴被焊死",
+   "scene": "喷嘴孔被熔化的金属封住，只剩周边几个小孔漏气",
+   "prompt_en": "The nozzle hole is sealed by melted metal, and only a little gas leaks out of small holes around it. No people.",
+   "narration": "喷嘴孔被焊死，只有一点气漏出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "操作员图标看到切不透的板材，按下停止键",
+   "prompt_en": "An icon of an operator seeing a sheet that is not cut through and pressing a stop button. No people.",
+   "narration": "好在操作员一发现切不动就停机了。",
+   "overlay": [
+    "切不动了，先停下来看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "加功率、降速两个图标，被红叉划掉",
+   "prompt_en": "Two icons, turning up power and slowing down speed, crossed out with a red X. No people.",
+   "narration": "没有去加功率、降速，想办法硬切。",
+   "overlay": [],
+   "labels": [
+    "加功率",
+    "降速"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "切割正常的图标打勾，切不动的图标亮黄灯",
+   "prompt_en": "A normal cut icon with a green check, and a failed cut icon with a yellow light. No people.",
+   "narration": "切得好就没事，切不动说明有变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "切不动了，先停下来看",
+   "scene": "欣欣双手做停止手势",
+   "prompt_en": "The panda mascot raises both hands in a stop gesture.",
+   "narration": "那就停下来，停下来看一看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "镜片裂纹慢慢延伸到另一边的示意图",
+   "prompt_en": "A diagram: the crack in the lens slowly grows all the way across. No people.",
+   "narration": "要是继续切，裂纹会贯穿整片镜子。",
+   "overlay": [
+    "及时停机，损失有限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "谐振腔图标打上大红叉",
+   "prompt_en": "A laser resonator icon with a big red X over it. No people.",
+   "narration": "镜片内爆，谐振腔就报废了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "护罩、输出镜、喷嘴、水管和时钟五个图标",
+   "prompt_en": "Five icons: a shroud, an output lens, a nozzle, a short water tube and a clock. No people.",
+   "narration": "及时停机，只损失这几样和时间。",
+   "overlay": [],
+   "labels": [
+    "护罩",
+    "输出镜",
+    "喷嘴",
+    "水管",
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "及时停机，损失有限",
+   "scene": "一小段水管旁标着几枚硬币",
+   "prompt_en": "A short piece of water tube with a few small coins beside it. No people.",
+   "narration": "那根水管，才值几分钱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "情况突变就停",
+   "scene": "欣欣站在停止标志旁，竖起一根手指",
+   "prompt_en": "The panda mascot stands next to a stop sign and raises one finger.",
+   "narration": "记住：情况突然变了，就停。",
+   "overlay": [
+    "情况突变就停"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "情况突变就停",
+   "scene": "机器声音、火花、切口突然变化的图标，指向停止键",
+   "prompt_en": "Icons of sudden changes in machine sound, sparks and cut edge, all pointing to a stop button. No people.",
+   "narration": "突变就是信号，先停再说。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "一台机器每天走得更慢的示意图，最后停下",
+   "prompt_en": "A diagram: a machine icon gets slower day by day on a calendar and finally stops. No people.",
+   "narration": "不维护，机器会一天比一天慢。",
+   "overlay": [
+    "例行维护，防患未然"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "机器突然冒烟罢工的图标",
+   "prompt_en": "An icon of a machine suddenly stopping with a puff of smoke. No people.",
+   "narration": "最后像这次一样，突然罢工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例行维护，防患未然",
+   "scene": "扳手图标在大损失图标前把它挡住",
+   "prompt_en": "A wrench icon blocking a big damage icon before it happens. No people.",
+   "narration": "例行维护，就是在酿成大祸前发现问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "老李拿着护罩，在镜座上比划安装位置",
+   "prompt_en": "The facility engineer holds the shroud against the brass mirror mount to show how it is installed.",
+   "narration": "护罩在例行维护时要拆下来。",
+   "overlay": [
+    "拆装要拧紧，请合格人员"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "老李用手比划拧紧护罩侧面的螺栓",
+   "prompt_en": "The facility engineer mimes tightening the bolt on the side of the shroud with his fingers.",
+   "narration": "装回去时，螺栓一定要拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "机器内部狭窄的空间里，护罩藏在深处",
+   "prompt_en": "Inside a cramped machine housing, the shroud sits deep in a hard-to-reach spot. No people.",
+   "narration": "这个位置很难够，设计也不太好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆装要拧紧，请合格人员",
+   "scene": "合格证图标和一把合适的扳手",
+   "prompt_en": "A qualification certificate icon next to the right wrench. No people.",
+   "narration": "所以要请合格人员，用合适工具来做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "松了几个月没人发现",
+   "scene": "日历一页页翻过，护罩一直松着",
+   "prompt_en": "Calendar pages flip by month after month while the shroud stays loose. No people.",
+   "narration": "这个护罩松着放了两到五个月。",
+   "overlay": [
+    "松了几个月没人发现"
+   ],
+   "labels": [
+    "2到5个月"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "松了几个月没人发现",
+   "scene": "维护人员按时检查，发现松动的螺栓",
+   "prompt_en": "An icon of a technician doing scheduled maintenance and spotting a loose bolt. No people.",
+   "narration": "这种设备该更勤地维护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "松了几个月没人发现",
+   "scene": "日历上的维护标记和打勾",
+   "prompt_en": "A calendar with regular maintenance marks and green checks. No people.",
+   "narration": "按时维护，就能早早发现松动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按厂家要求的周期维护",
+   "scene": "老李翻开一本空白设备说明书，指着一页",
+   "prompt_en": "The facility engineer opens a blank equipment manual and points at a page.",
+   "narration": "原厂要求每运行1000小时维护一次。",
+   "overlay": [
+    "按厂家要求的周期维护"
+   ],
+   "labels": [
+    "1000小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按厂家要求的周期维护",
+   "scene": "一个太阳图标的机器慢慢走表，日历翻过半年",
+   "prompt_en": "A machine with a sun icon whose hour counter turns slowly while a calendar flips through six months. No people.",
+   "narration": "只开一班，大约半年一次。",
+   "overlay": [],
+   "labels": [
+    "一班 约半年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按厂家要求的周期维护",
+   "scene": "两个10小时班接力，日历上标出六周",
+   "prompt_en": "Two ten-hour shift icons side by side, and a calendar with a mark six weeks ahead. No people.",
+   "narration": "一天开20小时，大约六周就到期。",
+   "overlay": [],
+   "labels": [
+    "20小时/天",
+    "约六周"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "老周站在忙碌的车间里，指着运转的机器摇头",
+   "prompt_en": "The older man stands in a busy workshop pointing at a running machine and shaking his head.",
+   "narration": "老周说：生产这么忙，不想停机。",
+   "overlay": [
+    "停机时间才是大损失"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "小镜片图标旁一个巨大的警告三角",
+   "prompt_en": "A small lens icon next to a huge warning triangle. No people.",
+   "narration": "零件不贵，后果却可能是灾难性的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "日历上两天被划掉，再加一个扳手和时钟",
+   "prompt_en": "Two days crossed out on a calendar, then a wrench icon and a clock showing a few hours. No people.",
+   "narration": "等两天、修几小时，再重新调机。",
+   "overlay": [],
+   "labels": [
+    "等2天",
+    "修几小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "停机时间才是大损失",
+   "scene": "扳手图标护住一台正常运转的机器",
+   "prompt_en": "A wrench icon shielding a machine that keeps running normally. No people.",
+   "narration": "例行维护，防停工也防大故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现骨牌、护罩、镜片、水管、喷嘴五个图标",
+   "prompt_en": "The panda mascot stands beside five icons: dominoes, a shroud, a cracked lens, a melted tube and a nozzle.",
+   "narration": "护罩一松，镜裂、管穿、嘴焊死。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "停止标志和扳手图标并排",
+   "prompt_en": "A stop sign icon next to a wrench icon. No people.",
+   "narration": "切不动就停，别加功率硬切。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "合格证、日历、1000小时计时器图标",
+   "prompt_en": "Icons of a qualification certificate, a calendar and a run-hour counter. No people.",
+   "narration": "合格人员拧紧装好，每1000小时维护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和老周、老李在桌边挥手",
+   "prompt_en": "The panda mascot waves goodbye with the older man and the facility engineer at the table.",
+   "narration": "连锁故障就讲到这里，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

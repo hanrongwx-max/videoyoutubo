@@ -14,7 +14,7 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
-| Laser Maintenance Group Safety | 17 / 17 | 3 / 17 |
+| Laser Maintenance Group Safety | 17 / 17 | 4 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
@@ -704,6 +704,7 @@
 | Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 国内版 | 风琴管着火了怎么办（国内版） | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 原著版 | 激光设备为什么要例行维护 | 26 | 2:10 | 6 / 0 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser/script.md>) |
 | Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 国内版 | 激光设备为什么要例行维护（国内版） | 42 | 3:30 | 6 / 7 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/审查报告.md>) |
+| Laser Maintenance Group Safety | 04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser | 原著版 | 一颗螺栓引发的连锁故障 | 57 | 4:45 | 15 / 0 | [剧本](<Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser/script.md>) |
 | Laser Maintenance Group Safety | 04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser | 国内版 | 一颗螺栓引发的连锁故障（国内版） | 58 | 4:50 | 15 / 4 | [剧本](<Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 国内版 | 别让突然的响声吓到人（国内版） | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 国内版 | 做一个安全的参观向导（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/审查报告.md>) |
