@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 197 / 441 个视频。
+已编写 198 / 441 个视频。
 
 ## 各剧集进度
 
@@ -21,9 +21,9 @@
 | Laser Equipment & Safety Training | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 |
+| BIORISK MANAGEMENT | 7 / 47 |
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
-| BIORISK MANAGEMENT | 6 / 47 |
 | Electrical Safety Series | 6 / 25 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
 | Basic Electrical Engineering Lab | 0 / 23 |
@@ -83,6 +83,7 @@
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 生物废物双层装袋 | 47 | 3:55 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste/script.md>) · [审查](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste/审查报告.md>) |
 | BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 在生物安全柜里干活 | 79 | 6:35 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET/script.md>) · [审查](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET/审查报告.md>) |
 | BIORISK MANAGEMENT | 06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC | 安全柜里的废物收尾 | 52 | 4:20 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC/script.md>) · [审查](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC/审查报告.md>) |
+| BIORISK MANAGEMENT | 07_BIOSAFETY LABORATORY ENGINEERING | 生物安全实验室的“幕后”设备 | 60 | 5:00 | 12 / 4 | [剧本](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING/script.md>) · [审查](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
