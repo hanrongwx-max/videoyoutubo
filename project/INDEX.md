@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 45 / 59 |
+| Microbiology Biosafety | 59 / 59 | 46 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -714,6 +714,7 @@
 | Microbiology Biosafety | 44_What are the core components of a Biorisk management system biorisk biosafety tr | 国内版 | 生物风险管理体系的六根支柱（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr（国内版）/script.md>) · [审查](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 45_Who is responsible for Biorisk management in a laboratory biorisk management bio | 原著版 | 生物安全，谁来负责 | 24 | 2:00 | 5 / 0 | [剧本](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio/script.md>) |
 | Microbiology Biosafety | 45_Who is responsible for Biorisk management in a laboratory biorisk management bio | 国内版 | 生物安全，谁来负责（国内版） | 37 | 3:05 | 5 / 3 | [剧本](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio（国内版）/script.md>) · [审查](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 46_What types of training are required for laboratory staff laboratory microbiology | 原著版 | 进生物实验室要学什么 | 27 | 2:15 | 7 / 0 | [剧本](<Microbiology Biosafety/46_What types of training are required for laboratory staff laboratory microbiology/script.md>) |
 | Microbiology Biosafety | 46_What types of training are required for laboratory staff laboratory microbiology | 国内版 | 进生物实验室要学什么（国内版） | 40 | 3:20 | 7 / 3 | [剧本](<Microbiology Biosafety/46_What types of training are required for laboratory staff laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/46_What types of training are required for laboratory staff laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 国内版 | 认识危险物品：七大类和它们藏在哪（国内版） | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（国内版）/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic（国内版）/审查报告.md>) |
