@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 331 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 332 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -22,11 +22,11 @@
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
+| Laser Maintenance Group Safety | 8 / 17 | 0 / 6 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Laser Maintenance Group Safety | 7 / 17 | 0 / 6 |
 | Basic Electrical Engineering Lab | 6 / 23 | 0 / 6 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 0 / 2 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
@@ -448,6 +448,7 @@
 | Laser Maintenance Group Safety | 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 国内版 | 别让突然的响声吓到人（国内版） | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 国内版 | 做一个安全的参观向导（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 单一版 | 整洁有序也是安全 | 39 | 3:15 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase/script.md>) · [审查](<Laser Maintenance Group Safety/07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase/审查报告.md>) |
+| Laser Maintenance Group Safety | 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 单一版 | 激光设备旁，选对灭火器 | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova/script.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
