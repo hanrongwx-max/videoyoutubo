@@ -1,20 +1,20 @@
 # 卡通教学视频制作目录
 
-已编写 240 / 441 个视频。
+已编写 243 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 39 / 47 |
+| BIORISK MANAGEMENT | 40 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
+| Microbiology Biosafety | 12 / 59 |
 | ACS Hazard Communication & Safety | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 |
-| Microbiology Biosafety | 10 / 59 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
@@ -115,6 +115,7 @@
 | BIORISK MANAGEMENT | 36_BIORISK MITIGATION | 五类控制减风险 | 54 | 4:30 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/script.md>) · [审查](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/审查报告.md>) |
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 危害与风险评估 | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/审查报告.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 楼和柜子怎么挡住病原体：工程控制 | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/审查报告.md>) |
+| BIORISK MANAGEMENT | 41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT | 最后一道防线：个人防护 | 92 | 7:40 | 19 / 3 | [剧本](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/script.md>) · [审查](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 生物安全员：职责与担当 | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
@@ -256,7 +257,9 @@
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 三个柜子不一样：通风柜、超净台、生物安全柜 | 61 | 5:05 | 14 / 4 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/script.md>) · [审查](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 转基因生物：先评估，再放行 | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/审查报告.md>) |
 | Microbiology Biosafety | 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro | 转基因生物：分几类，防几级 | 53 | 4:25 | 12 / 3 | [剧本](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro/script.md>) · [审查](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro/审查报告.md>) |
+| Microbiology Biosafety | 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu | 生物恐怖怎么防：识别·预防·报告 | 44 | 3:40 | 8 / 4 | [剧本](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu/script.md>) · [审查](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu/审查报告.md>) |
 | Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 实验室里的八类危害 | 71 | 5:55 | 14 / 4 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz/script.md>) · [审查](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz/审查报告.md>) |
+| Microbiology Biosafety | 14_What are the 8 general lab safety rules | 实验室八条通用安全规则 | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules/审查报告.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 实验报告怎么写：从记录到安全 | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 认识安全技术说明书 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 化学品的说明书：SDS 是什么（上） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/审查报告.md>) |
