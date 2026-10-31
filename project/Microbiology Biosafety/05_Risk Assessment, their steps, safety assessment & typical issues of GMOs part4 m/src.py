@@ -182,7 +182,7 @@ SHOTS = [
  "A calendar icon next to a rice bowl and a scale icon. No people.",
  "吃的量会不会变，长期营养影响。"),
 # K15
-("K15", "两排台阶图标，一排向上一排向下",
+("K15", "四级台阶图标，旁边一个上升箭头",
  "A staircase icon with four steps and a rising arrow beside it. No people.",
  "下一课讲危险度分组，", "下集预告：分组与分级"),
 ("K15", "欣欣指着一排四级台阶",
