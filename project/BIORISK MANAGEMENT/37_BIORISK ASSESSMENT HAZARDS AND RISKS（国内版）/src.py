@@ -2,7 +2,7 @@
 # 原片为 MOOC 讲座（26 分 22 秒，CC-BY）：危害与风险的概念、术语辨析、危害识别→评估→控制→残余风险→决策、
 # 风险矩阵与一个"运输—接收—储存—处理—处置—数据"的结构化案例。
 # 保留全部知识点 K1–K28（病原保持匿名，不补充病原特性，不展示任何操作细节/功能性状）；
-# 审查补充 S1–S4（危害组方向、高致病性须审批、残余风险报委员会、逐级报告）。
+# 审查补充 S1–S4（危害组方向、高致病性须审批、残余风险报委员会、做熟了也别低估风险）。
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字。
 
 META = {
@@ -39,7 +39,7 @@ META = {
         "S1": "危害组：国内第一类最危险",
         "S2": "高致病性实验，须审批",
         "S3": "残余风险高，报委员会",
-        "S4": "出事逐级报告不隐瞒",
+        "S4": "做熟了，也别低估风险",
     },
     "avoid": ["UMS", "Universiti Malaysia Sabah", "Malaysia", "Kenneth", "Rodrigues",
               "Commonwealth of Learning", "COL", "Biotechnology Research Institute", "BRI", "MOOC",
@@ -239,12 +239,12 @@ SHOTS = [
  "A still-large risk ball beside a committee meeting table. No people.",
  "风险太高，报生物安全委员会。", "残余风险高，报委员会"),
 # S4
-("S4", "一条上报链：三个台阶加一部电话",
- "A reporting chain of three steps plus a phone icon. No people.",
- "出事逐级报告，不瞒不拖。", "出事逐级报告不隐瞒"),
-("S4", "台阶依次点亮，最后拨号",
- "The steps light up in turn, ending at a phone dialling. No people.",
- "负责人、学院、保卫处，必要时120。"),
+("S4", "阿杰熟练地操作，头顶放大镜里一个变小的风险球又被放大",
+ "The young male student works confidently; above him a magnifying glass shows a shrunken risk ball growing back to full size.",
+ "做熟了，也别把可能性打低。", "做熟了，也别低估风险"),
+("S4", "小研指着空白评估表上的可能性一栏，旁边是险兆记录本",
+ "The female graduate student points at the likelihood column of a blank assessment form beside a blank near-miss logbook.",
+ "打分看记录和险兆，不凭感觉。"),
 # 小结
 ("小结", "欣欣身旁：天平、放大镜、五步链",
  "The panda mascot beside a balance, a magnifying glass and a five-step chain.",
