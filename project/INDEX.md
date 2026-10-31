@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 10 / 25 |
+| Electrical Safety Series | 25 / 25 | 11 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -346,6 +346,7 @@
 | Electrical Safety Series | 09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac | 国内版 | 安全知识竞赛四十题（国内版） | 125 | 10:25 | 42 / 6 | [剧本](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（国内版）/script.md>) · [审查](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（国内版）/审查报告.md>) |
 | Electrical Safety Series | 10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti | 原著版 | 用电安全全知道 | 69 | 5:45 | 25 / 0 | [剧本](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti/script.md>) |
 | Electrical Safety Series | 10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti | 国内版 | 用电安全全知道（国内版） | 84 | 7:00 | 25 / 5 | [剧本](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（国内版）/审查报告.md>) |
+| Electrical Safety Series | 11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE | 原著版 | 漏电保护器的作用和类型 | 36 | 3:00 | 12 / 0 | [剧本](<Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE/script.md>) |
 | Electrical Safety Series | 11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE | 国内版 | 漏电保护器的作用和类型（国内版） | 44 | 3:40 | 12 / 3 | [剧本](<Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H | 国内版 | 用电安全检查表（国内版） | 62 | 5:10 | 29 / 4 | [剧本](<Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（国内版）/script.md>) · [审查](<Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（国内版）/审查报告.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 国内版 | 漏电保护器的灵敏度档位（国内版） | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/审查报告.md>) |
