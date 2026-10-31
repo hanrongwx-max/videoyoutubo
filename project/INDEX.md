@@ -11,7 +11,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 2 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 1 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 0 / 12 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 1 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 2 / 10 |
@@ -23,7 +23,7 @@
 | Laser Equipment & Safety Training | 8 / 8 | 7 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 4 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 5 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 3 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 4 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 5 / 7 |
 | Electrical Safety Series | 6 / 25 | 4 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
@@ -61,6 +61,7 @@
 | ACS Hazard Communication & Safety | 08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com | 国内版 | 安全知识问答：制度、红线与不安全行为（国内版） | 72 | 6:00 | 15 / 4 | [剧本](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/08_SHARQ Safety Officer Interview Questions and Answers - Eastern petrochemical com（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 09_Radiography Safety Officer (RSO) Interview Questions and Answers | 国内版 | 安全知识问答：射线探伤与辐射防护（国内版） | 74 | 6:10 | 12 / 5 | [剧本](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/09_Radiography Safety Officer (RSO) Interview Questions and Answers（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 10_Colour Code of Web Sling SWL of Web Sling | 国内版 | 安全知识问答：吊装带与重物搬运（国内版） | 40 | 3:20 | 3 / 5 | [剧本](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/10_Colour Code of Web Sling SWL of Web Sling（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 01_Module 12 — Safety Culture & Human Factors | 原著版 | 安全文化与人的因素 | 82 | 6:50 | 19 / 0 | [剧本](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors/script.md>) |
 | Acids, Bases & Solvents Safety | 01_Module 12 — Safety Culture & Human Factors | 国内版 | 安全文化与人的因素（国内版） | 97 | 8:05 | 19 / 5 | [剧本](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/01_Module 12 — Safety Culture & Human Factors（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 02_Module 11 — Audit & Inspection Readiness | 国内版 | 天天准备好迎接安全检查（国内版） | 71 | 5:55 | 14 / 5 | [剧本](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 03_Module 10 — Waste Management | 国内版 | 实验室废物的分类与处置（国内版） | 77 | 6:25 | 18 / 6 | [剧本](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/审查报告.md>) |
@@ -163,6 +164,7 @@
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 原著版 | 实验室里的行为规范 | 39 | 3:15 | 17 / 0 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 原著版 | 认识化学品的危害：SDS与标签 | 49 | 4:05 | 17 / 0 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4/script.md>) |
 | Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 国内版 | 认识化学品的危害：SDS与标签（国内版） | 60 | 5:00 | 17 / 6 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/script.md>) · [审查](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |

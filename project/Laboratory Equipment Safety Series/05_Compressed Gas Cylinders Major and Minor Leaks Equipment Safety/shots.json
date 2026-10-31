@@ -1,0 +1,563 @@
+{
+ "id": "05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety",
+ "edition": "原著版",
+ "series": "Laboratory Equipment Safety Series",
+ "title": "气瓶泄漏：大漏小漏怎么办",
+ "seconds": 200,
+ "source_doc": "course/Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety.md",
+ "author_source": "project/Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/src.py",
+ "points": {
+  "K1": "破损锈蚀的气瓶及早停用",
+  "K2": "不用的、过检验期的气瓶退回",
+  "K3": "什么是小泄漏",
+  "K4": "什么是大泄漏",
+  "K5": "小泄漏：先通知，穿防护",
+  "K6": "确认是气瓶本身在漏",
+  "K7": "移到通风处放空",
+  "K8": "可燃、助燃气体：移走可燃物",
+  "K9": "撤离、警示、通知",
+  "K10": "在外面等气体放完",
+  "K11": "漏气瓶退回供应单位",
+  "K12": "大泄漏：撤离并报警",
+  "K13": "拨打电话报告",
+  "K14": "向救援人员说明情况",
+  "K15": "事故和未遂事件都要上报",
+  "K16": "查本校手册，有疑问就问"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验室门口，身旁一排固定好的气瓶，向镜头招手",
+   "prompt_en": "The panda mascot stands at a lab doorway next to a row of strapped gas cylinders and waves at the camera.",
+   "narration": "这一课讲气瓶的大泄漏和小泄漏。",
+   "overlay": [
+    "气瓶泄漏：大漏小漏怎么办"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在气瓶旁皱眉，听到嘶嘶声",
+   "prompt_en": "The young male student stands near a gas cylinder, frowning and listening to a faint hissing sound.",
+   "narration": "阿杰听到气瓶那边有嘶嘶声。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研走过来，示意他先别慌",
+   "prompt_en": "The female graduate student walks over and raises a calm hand to the young male student.",
+   "narration": "小研说：先分大漏小漏，再按步骤办。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "破损锈蚀的气瓶及早停用",
+   "scene": "锈迹斑斑、漆面剥落的气瓶瓶肩特写",
+   "prompt_en": "A close-up of a gas cylinder shoulder covered in rust spots with peeling paint. No people.",
+   "narration": "预防泄漏，先看气瓶的状况。",
+   "overlay": [
+    "破损锈蚀的气瓶及早停用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "破损锈蚀的气瓶及早停用",
+   "scene": "锈蚀气瓶挂上空白停用牌，打红叉",
+   "prompt_en": "A rusty cylinder with a blank out-of-service tag and a red X over it. No people.",
+   "narration": "锈蚀、腐蚀、损坏的，漏之前就停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "不用的、过检验期的气瓶退回",
+   "scene": "老周把一只不再使用的气瓶放上推车",
+   "prompt_en": "The older man places an unused gas cylinder on a cylinder cart to send it back.",
+   "narration": "不再使用的气瓶，退回去。",
+   "overlay": [
+    "不用的、过检验期的气瓶退回"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "不用的、过检验期的气瓶退回",
+   "scene": "戴手套的手指着瓶肩钢印，旁边月份和年份两个图标",
+   "prompt_en": "A gloved finger points at stamped marks on a cylinder shoulder, with a small month icon and a year icon beside them. No people.",
+   "narration": "钢印上的最近检验日期，按月和年读。",
+   "overlay": [],
+   "labels": [
+    "月",
+    "年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "不用的、过检验期的气瓶退回",
+   "scene": "日历图标翻过很多页，旁边气瓶退回箭头",
+   "prompt_en": "A calendar icon with many pages flipped and an arrow sending a cylinder back to a supplier truck icon. No people.",
+   "narration": "超过检验日期10年的，也要退回。",
+   "overlay": [],
+   "labels": [
+    "超过10年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是小泄漏",
+   "scene": "小泄漏与大泄漏的分段标题，两只气瓶图标",
+   "prompt_en": "A clean title card with two cylinder icons, one with a thin wisp of gas and one with a big cloud. No people.",
+   "narration": "怎样区分小泄漏和大泄漏？",
+   "overlay": [
+    "什么是小泄漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是小泄漏",
+   "scene": "实验室插画，一只气瓶冒出一缕细细的白气，旁边红框四个图标",
+   "prompt_en": "A lab illustration with a row of cylinders, one releasing a thin wisp of white gas; a red frame beside it holds four small icons. No people.",
+   "narration": "小泄漏：量少、缓慢、可以控制，",
+   "overlay": [],
+   "labels": [
+    "量少",
+    "缓慢",
+    "可控",
+    "惰性或低危害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是小泄漏",
+   "scene": "惰性气体瓶图标，旁边低风险仪表",
+   "prompt_en": "An icon of an inert gas cylinder next to a low-risk gauge with the needle in the green zone. No people.",
+   "narration": "惰性、不致窒息或低危害的气体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是小泄漏",
+   "scene": "人员图标旁边绿色小盾牌",
+   "prompt_en": "A person pictogram with a small green shield icon. No people.",
+   "narration": "人员受伤和暴露的风险低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "什么是大泄漏",
+   "scene": "实验室插画，一只气瓶喷出大股黑烟，旁边红框三个图标",
+   "prompt_en": "A lab illustration with a cylinder releasing a large thick dark cloud; a red frame beside it holds three small icons. No people.",
+   "narration": "大泄漏：量大、控制不住，",
+   "overlay": [
+    "什么是大泄漏"
+   ],
+   "labels": [
+    "量大",
+    "失控",
+    "严重危害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "什么是大泄漏",
+   "scene": "人员、建筑、树木三个图标被红色警示三角包围",
+   "prompt_en": "Three icons, a person, a building and a tree, surrounded by red warning triangles. No people.",
+   "narration": "危害人员、设施和环境。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "什么是大泄漏",
+   "scene": "有毒气体瓶冒出一缕细气，旁边骷髅图标",
+   "prompt_en": "A toxic gas cylinder with only a thin wisp of gas, next to a skull pictogram and a red warning triangle. No people.",
+   "narration": "有毒、高危气体，漏一点也算大泄漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "小泄漏：先通知，穿防护",
+   "scene": "喷壶检漏的减压器接口特写",
+   "prompt_en": "A close-up of a spray bottle misting leak detection liquid onto a regulator joint. No people.",
+   "narration": "发现了小泄漏，",
+   "overlay": [
+    "小泄漏：先通知，穿防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "小泄漏：先通知，穿防护",
+   "scene": "小研走向正在仪器前工作的阿杰，提醒他",
+   "prompt_en": "The female graduate student walks over to the young male student working at an instrument and tells him about the leak.",
+   "narration": "先通知周围的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "小泄漏：先通知，穿防护",
+   "scene": "小研戴好护目镜和手套",
+   "prompt_en": "The female graduate student puts on safety goggles and gloves over her lab coat.",
+   "narration": "还没穿戴防护的，先穿戴好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "确认是气瓶本身在漏",
+   "scene": "小研手握瓶阀手轮检查",
+   "prompt_en": "The female graduate student grips the cylinder valve handwheel and checks the valve closely.",
+   "narration": "确认是气瓶本身在漏，",
+   "overlay": [
+    "确认是气瓶本身在漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "确认是气瓶本身在漏",
+   "scene": "扳手紧固后气泡仍在，旁边感叹号",
+   "prompt_en": "A wrench next to a valve that still shows bubbles, with an exclamation mark icon. No people.",
+   "narration": "紧固接头和阀门也解决不了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "移到通风处放空",
+   "scene": "通风橱与万向排风罩并排",
+   "prompt_en": "A fume hood and a flexible local exhaust canopy side by side in a lab. No people.",
+   "narration": "安全的话，移进通风橱或排风罩下。",
+   "overlay": [
+    "移到通风处放空"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "移到通风处放空",
+   "scene": "一只气瓶固定在隔离的通风角落，四周空气流动箭头",
+   "prompt_en": "A cylinder secured in an isolated, well-ventilated corner with airflow arrows around it. No people.",
+   "narration": "或者放到隔离、通风好的地方放空。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "可燃、助燃气体：移走可燃物",
+   "scene": "小研把纸箱从靠墙固定的两只气瓶旁移开",
+   "prompt_en": "The female graduate student carries cardboard boxes away from two cylinders strapped against the wall.",
+   "narration": "可燃或氧化性气体，移走旁边的可燃物。",
+   "overlay": [
+    "可燃、助燃气体：移走可燃物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "撤离、警示、通知",
+   "scene": "小研和阿杰走出实验室门",
+   "prompt_en": "The female graduate student and the young male student walk out of the lab door into the corridor.",
+   "narration": "撤离附近区域。",
+   "overlay": [
+    "撤离、警示、通知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "撤离、警示、通知",
+   "scene": "小研在门边贴上警示标志",
+   "prompt_en": "The female graduate student posts a general warning sign on the lab door.",
+   "narration": "贴出警示标志，不让别人进入。",
+   "overlay": [],
+   "labels": [
+    "禁止入内"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "撤离、警示、通知",
+   "scene": "小研打电话，旁边实验室和安全部门两个图标",
+   "prompt_en": "In the corridor, the female graduate student makes a phone call, with a lab icon and a safety office icon beside her.",
+   "narration": "通知实验室负责人和安全部门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "在外面等气体放完",
+   "scene": "两人站在走廊门外，旁边沙漏图标",
+   "prompt_en": "The female graduate student and the young male student stand outside the closed lab door, with an hourglass icon beside them.",
+   "narration": "留在区域外，等气瓶里的气放完。",
+   "overlay": [
+    "在外面等气体放完"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "漏气瓶退回供应单位",
+   "scene": "靠墙固定的两只气瓶，一只挂着空白故障牌",
+   "prompt_en": "Two cylinders strapped against the wall, one with a blank fault tag, and an arrow toward a supplier truck icon. No people.",
+   "narration": "把气瓶退回供应商维修。",
+   "overlay": [
+    "漏气瓶退回供应单位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "大泄漏：撤离并报警",
+   "scene": "大泄漏分段标题：两只灰色气瓶与减压器",
+   "prompt_en": "Two grey gas cylinders with regulators releasing a spreading cloud of gas, with a red warning triangle. No people.",
+   "narration": "大泄漏，包括有毒气体的小漏，",
+   "overlay": [
+    "大泄漏：撤离并报警"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "大泄漏：撤离并报警",
+   "scene": "小研和阿杰快步离开实验室",
+   "prompt_en": "The female graduate student and the young male student walk quickly out of the lab.",
+   "narration": "立即撤离这个区域。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "大泄漏：撤离并报警",
+   "scene": "手按下墙上的化学品泄漏报警按钮",
+   "prompt_en": "A hand presses a blue chemical spill alarm button on a corridor wall. No people.",
+   "narration": "启动楼内火灾或化学品泄漏报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "拨打电话报告",
+   "scene": "小研用手机拨号，旁边电话图标",
+   "prompt_en": "The female graduate student dials on her mobile phone in a safe place outside, with a telephone icon beside her.",
+   "narration": "拨打911，并通知安全部门。",
+   "overlay": [
+    "拨打电话报告"
+   ],
+   "labels": [
+    "911"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "向救援人员说明情况",
+   "scene": "消防车红色警灯闪烁",
+   "prompt_en": "The red flashing lights of a fire engine arriving outside a building. No people.",
+   "narration": "救援人员赶到了。",
+   "overlay": [
+    "向救援人员说明情况"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "向救援人员说明情况",
+   "scene": "小研向到场的保卫处值班员说明情况",
+   "prompt_en": "The female graduate student explains the situation to the arriving security officer at the building entrance.",
+   "narration": "把事件的详细情况告诉他们。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "事故和未遂事件都要上报",
+   "scene": "小研在电脑上填写空白的事件上报表，旁边二维码图标",
+   "prompt_en": "The female graduate student fills in a blank online incident report form on a computer, with a QR code icon beside it.",
+   "narration": "事故、事件和未遂事件，都要上报。",
+   "overlay": [
+    "事故和未遂事件都要上报"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "查本校手册，有疑问就问",
+   "scene": "王老师递给阿杰一本空白的气瓶安全手册",
+   "prompt_en": "The safety administrator hands the young male student a blank gas cylinder safety handbook.",
+   "narration": "更多内容查气瓶安全指南，不懂就问。",
+   "overlay": [
+    "查本校手册，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现锈蚀气瓶打叉、日历图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a rusty cylinder crossed out and a calendar.",
+   "narration": "破损、过期的气瓶，及早停用退回。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "小泄漏流程：通知、防护、通风、撤离四个图标",
+   "prompt_en": "Four icons in a row: a speaking person, goggles, a fume hood and an exit door. No people.",
+   "narration": "小漏：通知、防护、通风放空、撤离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "大泄漏流程：撤离、报警按钮、电话三个图标",
+   "prompt_en": "Three icons in a row: an exit door, an alarm button and a telephone. No people.",
+   "narration": "大漏：撤离、报警、打电话、上报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在走廊里挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in a bright corridor outside a lab door.",
+   "narration": "遇到漏气不慌张，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
