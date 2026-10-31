@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 290 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 291 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -19,12 +19,12 @@
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 3 / 9 |
 | RSO Training Series | 9 / 9 | 3 / 9 |
+| Electrical Safety Series | 8 / 25 | 5 / 6 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 5 / 7 |
-| Electrical Safety Series | 7 / 25 | 5 / 6 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
@@ -207,6 +207,7 @@
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 原著版 | 电压等级与爆炸危险区域 | 25 | 2:05 | 4 / 0 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/script.md>) |
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
+| Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 单一版 | 漏电保护器的灵敏度档位 | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
