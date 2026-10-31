@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 5 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 6 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -220,6 +220,7 @@
 | Basic Electrical Engineering Lab | 04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G | 国内版 | 变阻器与开关（国内版） | 67 | 5:35 | 18 / 6 | [剧本](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St | 原著版 | 电工工具与直流稳压电源 | 41 | 3:25 | 19 / 0 | [剧本](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St/script.md>) |
 | Basic Electrical Engineering Lab | 05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St | 国内版 | 电工工具与直流稳压电源（国内版） | 64 | 5:20 | 19 / 6 | [剧本](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT | 原著版 | 双控与三地控制照明实验 | 43 | 3:35 | 15 / 0 | [剧本](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT/script.md>) |
 | Basic Electrical Engineering Lab | 06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT | 国内版 | 双控与三地控制照明实验（国内版） | 61 | 5:05 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr | 国内版 | 交流电路的开路与短路（国内版） | 65 | 5:25 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical | 国内版 | 三相星形与三角形连接实验（国内版） | 72 | 6:00 | 24 / 6 | [剧本](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/审查报告.md>) |
