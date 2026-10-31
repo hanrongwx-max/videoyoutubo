@@ -8,12 +8,12 @@
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 11 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 11 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 3 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
-| ACS Hazard Communication & Safety | 10 / 10 | 3 / 10 |
+| ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 7 / 10 |
 | Electrical Safety Series | 9 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
@@ -58,6 +58,7 @@
 | ACS Hazard Communication & Safety | 02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions | 国内版 | 安全知识问答：施工现场与风险评估（国内版） | 107 | 8:55 | 33 / 6 | [剧本](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/02_Construction Safety Interview Questions Hindi Safety Officer Interview Questions（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions | 原著版 | 安全知识问答：实验室安全管理入门 | 54 | 4:30 | 15 / 0 | [剧本](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions/script.md>) |
 | ACS Hazard Communication & Safety | 03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions | 国内版 | 安全知识问答：实验室安全管理入门（国内版） | 66 | 5:30 | 15 / 6 | [剧本](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/03_Safety Officer Interview Questions with Answers HSE Officer Interview Questions（国内版）/审查报告.md>) |
+| ACS Hazard Communication & Safety | 04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question | 原著版 | 安全知识问答：燃烧、火灾分类与灭火器 | 57 | 4:45 | 25 / 0 | [剧本](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question/script.md>) |
 | ACS Hazard Communication & Safety | 04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question | 国内版 | 安全知识问答：燃烧、火灾分类与灭火器（国内版） | 93 | 7:45 | 25 / 6 | [剧本](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/04_Fire Safety Interview Questions & Answers Fire Safety Officer Interview Question（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S | 国内版 | 安全知识问答：气体、标识与作业许可（国内版） | 106 | 8:50 | 23 / 5 | [剧本](<ACS Hazard Communication & Safety/05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/05_Safety Officer Interview Questions & Answers for Gulf Countries (Saudi Arabia) S（国内版）/审查报告.md>) |
 | ACS Hazard Communication & Safety | 06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions | 国内版 | 安全知识问答：读懂职业接触限值（国内版） | 54 | 4:30 | 5 / 5 | [剧本](<ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions（国内版）/script.md>) · [审查](<ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions（国内版）/审查报告.md>) |
@@ -166,6 +167,7 @@
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 国内版 | 新实验，先评估（国内版） | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 原著版 | 一根电线引发的烫伤 | 27 | 2:15 | 6 / 0 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario/script.md>) |
 | CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 国内版 | 一根电线引发的烫伤（国内版） | 29 | 2:25 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 原著版 | 是事故还是未遂 | 24 | 2:00 | 6 / 0 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario/script.md>) |
 | CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 国内版 | 是事故还是未遂（国内版） | 30 | 2:30 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario | 国内版 | 手套破了，要不要说（国内版） | 28 | 2:20 | 3 / 5 | [剧本](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 08_Fundamentals of Laboratory Safety Near Miss Scenario | 国内版 | 飘带向外飘了（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/08_Fundamentals of Laboratory Safety Near Miss Scenario（国内版）/审查报告.md>) |
