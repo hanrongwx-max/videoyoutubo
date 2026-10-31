@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 1 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -316,6 +316,7 @@
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 原著版 | 安全巡查：找找隐患在哪里 | 53 | 4:25 | 23 / 0 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey/script.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 01_xTool MetalFab Laser Welder 1200w Unboxing and First Use | 原著版 | 手持激光焊机：开箱安装与首次使用 | 128 | 10:40 | 26 / 0 | [剧本](<Cleanroom & Equipment Safety/01_xTool MetalFab Laser Welder 1200w Unboxing and First Use/script.md>) |
 | Cleanroom & Equipment Safety | 01_xTool MetalFab Laser Welder 1200w Unboxing and First Use | 国内版 | 手持激光焊机：开箱安装与首次使用（国内版） | 162 | 13:30 | 26 / 9 | [剧本](<Cleanroom & Equipment Safety/01_xTool MetalFab Laser Welder 1200w Unboxing and First Use（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/01_xTool MetalFab Laser Welder 1200w Unboxing and First Use（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 02_Lesson 6 How to Cut Long Materials Using Passthrough？ | 国内版 | 超长板材的分段激光切割（国内版） | 84 | 7:00 | 16 / 8 | [剧本](<Cleanroom & Equipment Safety/02_Lesson 6 How to Cut Long Materials Using Passthrough？（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/02_Lesson 6 How to Cut Long Materials Using Passthrough？（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 03_Lesson 1 How to Unbox and Test the MetalFab | 国内版 | 激光焊机与切割机：开箱、组装与调试（国内版） | 136 | 11:20 | 31 / 11 | [剧本](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab（国内版）/审查报告.md>) |
