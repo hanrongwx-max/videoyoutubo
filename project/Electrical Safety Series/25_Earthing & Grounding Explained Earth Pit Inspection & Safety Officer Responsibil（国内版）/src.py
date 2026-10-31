@@ -1,6 +1,6 @@
 # 25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil 卡通剧本作者源
 # 原片讲保护接地与系统接地、接地极类型、接地检查和安全员职责：保留全部知识点 K1–K19，
-# 工地安全员对应为高校安全管理人员和后勤电工；审查补充 S1–S3（管道不能当地线、防雷装置定期检测、仪器接地线不得私拆）
+# 工地安全员对应为高校安全管理人员和后勤电工；审查补充 S1–S3（仪器新装移位先确认接地、防雷装置定期检测、仪器接地线不得私拆）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -25,7 +25,7 @@ META = {
         "K17": "检查人员不动手维修",
         "K18": "两种接地，一句话区分",
         "K19": "接地绝不能忽视",
-        "S1": "管道不能当地线",
+        "S1": "仪器新装、移位：先确认接地再通电",
         "S2": "防雷装置也要定期检测",
         "S3": "仪器接地线不得私拆",
     },
@@ -221,15 +221,15 @@ SHOTS = [
  "A tiny spark icon growing into a large warning triangle. No people.",
  "用电的小疏忽，会变成大事故。"),
 # S1
-("S1", "地线接到燃气管、暖气管、水管的图标，被红叉划掉",
- "Icons of a ground wire clamped to a gas pipe, a radiator pipe and a water pipe, each crossed out with a red X. No people.",
- "燃气管、暖气管、水管，不能当地线。", "管道不能当地线"),
-("S1", "燃气管旁出现火花和火焰警示",
- "A gas pipe with a small spark and a flame warning triangle. No people.",
- "电流走管道，可能引起火灾或触电。"),
+("S1", "老李和阿杰把一台烘箱搬到新位置",
+ "The facility engineer and the young male student move a lab oven to a new spot on a bench.",
+ "仪器新装或换了位置，", "仪器新装、移位：先确认接地再通电"),
+("S1", "老李用空白仪表检查新插座的接地",
+ "The facility engineer checks the ground connection of the new wall socket with a blank tester.",
+ "先请电工确认插座接地可靠，"),
 ("S1", "仪器三孔插头插进三孔插座，打绿勾",
  "A lab instrument three-pin plug inserted into a properly grounded three-hole socket, green check. No people.",
- "接地，要用规范的接地线路。"),
+ "确认无误，再插电开机。"),
 # S2
 ("S2", "实验楼屋顶的避雷针和引下线",
  "A lightning rod on the roof of a lab building with a down conductor running to the ground. No people.",
@@ -263,9 +263,9 @@ SHOTS = [
 ("小结", "电话、扳手、勾的循环图标",
  "A loop of icons: a telephone, a wrench and a check mark. No people.",
  "发现问题报告，电工整改，复查闭环。"),
-("小结", "管道打叉、避雷针、三孔插头三个图标",
- "Icons of a crossed-out pipe, a lightning rod and a three-pin plug. No people.",
- "管道不当地线，防雷定期测，接地不私拆。"),
+("小结", "插座检测仪、避雷针、三孔插头三个图标",
+ "Icons of a socket tester, a lightning rod and a three-pin plug. No people.",
+ "新装先验接地，防雷定期测，接地不私拆。"),
 # 结尾
 ("结尾", "欣欣拍拍三孔插头，挥手道别",
  "The panda mascot pats a three-pin plug in a wall socket and waves goodbye at the camera.",

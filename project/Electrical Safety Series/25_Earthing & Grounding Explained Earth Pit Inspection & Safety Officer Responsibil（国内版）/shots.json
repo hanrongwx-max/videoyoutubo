@@ -26,7 +26,7 @@
   "K17": "检查人员不动手维修",
   "K18": "两种接地，一句话区分",
   "K19": "接地绝不能忽视",
-  "S1": "管道不能当地线",
+  "S1": "仪器新装、移位：先确认接地再通电",
   "S2": "防雷装置也要定期检测",
   "S3": "仪器接地线不得私拆"
  },
@@ -780,12 +780,12 @@
    "shot": 56,
    "seconds": 5,
    "section": "S1",
-   "section_title": "管道不能当地线",
-   "scene": "地线接到燃气管、暖气管、水管的图标，被红叉划掉",
-   "prompt_en": "Icons of a ground wire clamped to a gas pipe, a radiator pipe and a water pipe, each crossed out with a red X. No people.",
-   "narration": "燃气管、暖气管、水管，不能当地线。",
+   "section_title": "仪器新装、移位：先确认接地再通电",
+   "scene": "老李和阿杰把一台烘箱搬到新位置",
+   "prompt_en": "The facility engineer and the young male student move a lab oven to a new spot on a bench.",
+   "narration": "仪器新装或换了位置，",
    "overlay": [
-    "管道不能当地线"
+    "仪器新装、移位：先确认接地再通电"
    ],
    "labels": [],
    "mode": "voiceover"
@@ -794,10 +794,10 @@
    "shot": 57,
    "seconds": 5,
    "section": "S1",
-   "section_title": "管道不能当地线",
-   "scene": "燃气管旁出现火花和火焰警示",
-   "prompt_en": "A gas pipe with a small spark and a flame warning triangle. No people.",
-   "narration": "电流走管道，可能引起火灾或触电。",
+   "section_title": "仪器新装、移位：先确认接地再通电",
+   "scene": "老李用空白仪表检查新插座的接地",
+   "prompt_en": "The facility engineer checks the ground connection of the new wall socket with a blank tester.",
+   "narration": "先请电工确认插座接地可靠，",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -806,10 +806,10 @@
    "shot": 58,
    "seconds": 5,
    "section": "S1",
-   "section_title": "管道不能当地线",
+   "section_title": "仪器新装、移位：先确认接地再通电",
    "scene": "仪器三孔插头插进三孔插座，打绿勾",
    "prompt_en": "A lab instrument three-pin plug inserted into a properly grounded three-hole socket, green check. No people.",
-   "narration": "接地，要用规范的接地线路。",
+   "narration": "确认无误，再插电开机。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -945,9 +945,9 @@
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "管道打叉、避雷针、三孔插头三个图标",
-   "prompt_en": "Icons of a crossed-out pipe, a lightning rod and a three-pin plug. No people.",
-   "narration": "管道不当地线，防雷定期测，接地不私拆。",
+   "scene": "插座检测仪、避雷针、三孔插头三个图标",
+   "prompt_en": "Icons of a socket tester, a lightning rod and a three-pin plug. No people.",
+   "narration": "新装先验接地，防雷定期测，接地不私拆。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
