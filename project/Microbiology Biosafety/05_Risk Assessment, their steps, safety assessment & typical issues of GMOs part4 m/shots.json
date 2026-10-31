@@ -1,0 +1,718 @@
+{
+ "id": "05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m",
+ "edition": "原著版",
+ "series": "Microbiology Biosafety",
+ "title": "转基因生物：先评估，再放行",
+ "seconds": 260,
+ "source_doc": "course/Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m.md",
+ "author_source": "project/Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/src.py",
+ "points": {
+  "K1": "什么是基因改造",
+  "K2": "改造带来新品种",
+  "K3": "什么是转基因生物",
+  "K4": "改基因，就能改性状和蛋白",
+  "K5": "释放之前，先评估风险",
+  "K6": "上市前评价：系统、综合、逐案",
+  "K7": "风险评估的四个组成",
+  "K8": "找特性、看后果、估可能",
+  "K9": "通用的风险评估五步",
+  "K10": "第一阶段：和非转基因的比一比",
+  "K11": "第二阶段：差异影响多大",
+  "K12": "评价要点一：说清这个生物",
+  "K13": "评价要点二：环境安全",
+  "K14": "评价要点三：食品安全",
+  "K15": "下集预告：分组与分级"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在温室和实验台之间向镜头招手",
+   "prompt_en": "The panda mascot stands between a small greenhouse and a lab bench and waves at the camera.",
+   "narration": "这一课讲转基因生物的安全评价。",
+   "overlay": [
+    "转基因生物：先评估，再放行"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "一株植物、一个培养皿和一个对勾盾牌图标",
+   "prompt_en": "Icons of a potted plant, a petri dish and a shield with a green check mark. No people.",
+   "narration": "先评估，再放行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在温室里看着一盆贴空白标签的幼苗",
+   "prompt_en": "The young male student looks at a small potted seedling with a blank tag in a lab growth chamber.",
+   "narration": "阿杰看着一盆转基因幼苗出神。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰转身问小研",
+   "prompt_en": "The young male student turns and asks the female graduate student a question.",
+   "narration": "他问：怎么判断它安不安全？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，欣欣出现在一旁",
+   "prompt_en": "The young male student scratches his head while the panda mascot appears beside them.",
+   "narration": "阿杰愣住了，我们从头说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是基因改造",
+   "scene": "两个细胞图标，一段彩色基因从左边移到右边",
+   "prompt_en": "Two cell icons; a small colored gene segment moves from the left cell into the right cell. No people.",
+   "narration": "基因改造，是一种生物技术。",
+   "overlay": [
+    "什么是基因改造"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是基因改造",
+   "scene": "箭头把一段基因从供体生物送到受体生物",
+   "prompt_en": "An arrow carries a gene segment from a donor organism icon to a recipient organism icon. No people.",
+   "narration": "把一种生物的基因，转入另一种生物。",
+   "overlay": [],
+   "labels": [
+    "供体",
+    "受体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "改造带来新品种",
+   "scene": "一株普通植物旁长出一株叶色不同的新植株",
+   "prompt_en": "An ordinary plant icon next to a new plant icon with leaves of a different color. No people.",
+   "narration": "受体的生长发育，会因此改变。",
+   "overlay": [
+    "改造带来新品种"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "改造带来新品种",
+   "scene": "新品种植物和动物的图标排成一行",
+   "prompt_en": "A row of icons: a new plant variety, a fish and a small farm animal, each with a sparkle. No people.",
+   "narration": "于是有了新的植物和动物品种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是转基因生物",
+   "scene": "DNA 双螺旋上被替换进一段不同颜色的片段",
+   "prompt_en": "A DNA double helix with one segment replaced by a differently colored piece. No people.",
+   "narration": "转基因生物，遗传物质被改变过，",
+   "overlay": [
+    "什么是转基因生物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是转基因生物",
+   "scene": "实验台上一组空白试管和质粒环形图标",
+   "prompt_en": "Blank test tubes on a bench next to a circular plasmid icon. No people.",
+   "narration": "用的是重组 DNA 技术。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "改基因，就能改性状和蛋白",
+   "scene": "基因图标指向一片叶子形状的变化",
+   "prompt_en": "A gene icon with an arrow pointing to a leaf that changes shape. No people.",
+   "narration": "改了基因，性状就可能不同，",
+   "overlay": [
+    "改基因，就能改性状和蛋白"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "改基因，就能改性状和蛋白",
+   "scene": "基因图标指向一个蛋白质分子图标",
+   "prompt_en": "A gene icon with an arrow pointing to a folded protein molecule icon. No people.",
+   "narration": "产生的蛋白质也会不同。",
+   "overlay": [],
+   "labels": [
+    "性状",
+    "蛋白质"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "释放之前，先评估风险",
+   "scene": "转基因植物站在实验室门口，门外是田野",
+   "prompt_en": "A potted plant icon stands at an open lab door; beyond the door are fields and a village. No people.",
+   "narration": "转基因生物要走出实验室之前，",
+   "overlay": [
+    "释放之前，先评估风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "释放之前，先评估风险",
+   "scene": "天平一边是环境图标，一边是人的图标",
+   "prompt_en": "A balance scale with an environment icon on one side and a person outline on the other. No people.",
+   "narration": "先评估对环境和人有什么风险。",
+   "overlay": [],
+   "labels": [
+    "环境",
+    "人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "上市前评价：系统、综合、逐案",
+   "scene": "老周和王老师在会议桌前翻看空白资料夹",
+   "prompt_en": "The older man and the safety administrator sit at a meeting table reviewing blank folders.",
+   "narration": "上市前的评价，要按体系来做，",
+   "overlay": [
+    "上市前评价：系统、综合、逐案"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "上市前评价：系统、综合、逐案",
+   "scene": "资料夹一个个分开，每个贴一个不同图标",
+   "prompt_en": "Several blank folders laid out separately, each with a different plant or microbe icon. No people.",
+   "narration": "综合考虑，一个一个单独评价。",
+   "overlay": [],
+   "labels": [
+    "逐案评价"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "风险评估的四个组成",
+   "scene": "四个相连的方块图标：放大镜、尺子、人群、仪表盘",
+   "prompt_en": "Four connected icons: a magnifying glass, a ruler, a group of people and a risk dial. No people.",
+   "narration": "风险评估有四个组成部分。",
+   "overlay": [
+    "风险评估的四个组成"
+   ],
+   "labels": [
+    "危害识别",
+    "危害特征",
+    "暴露评估",
+    "风险特征"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "风险评估的四个组成",
+   "scene": "放大镜对着一株植物找出一个警示点",
+   "prompt_en": "A magnifying glass over a plant icon reveals a small warning dot. No people.",
+   "narration": "先识别危害，再描述它的特征，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "风险评估的四个组成",
+   "scene": "人群图标和仪表盘指针",
+   "prompt_en": "A group of person outlines next to a dial with a needle moving between low and high. No people.",
+   "narration": "看接触多少，最后描述风险大小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "找特性、看后果、估可能",
+   "scene": "小研在白板上画三个箭头相连的方框",
+   "prompt_en": "The female graduate student draws three boxes linked by arrows on a whiteboard, the boxes left blank.",
+   "narration": "具体顺序分三步。",
+   "overlay": [
+    "找特性、看后果、估可能"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "找特性、看后果、估可能",
+   "scene": "放大镜标出一个可能有害的特性图标",
+   "prompt_en": "A magnifying glass highlights one trait icon with a yellow warning triangle. No people.",
+   "narration": "找出可能带来不良影响的特性，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "找特性、看后果、估可能",
+   "scene": "警示特性连出一串后果图标",
+   "prompt_en": "The warning trait icon links by arrows to several consequence icons. No people.",
+   "narration": "评价它可能造成什么后果，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "找特性、看后果、估可能",
+   "scene": "每个特性旁一个概率骰子和风险条",
+   "prompt_en": "Each trait icon has a small dice and a short risk bar beside it. No people.",
+   "narration": "再估计每一项发生的可能和风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通用的风险评估五步",
+   "scene": "五级台阶，每级一个图标",
+   "prompt_en": "Five steps of a staircase, each with an icon: magnifying glass, people, scale, notebook, circular arrow. No people.",
+   "narration": "通用的风险评估，也可以走五步。",
+   "overlay": [
+    "通用的风险评估五步"
+   ],
+   "labels": [
+    "识别危害",
+    "谁会受害",
+    "定措施",
+    "记录实施",
+    "复查更新"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通用的风险评估五步",
+   "scene": "放大镜和人群图标",
+   "prompt_en": "A magnifying glass icon followed by a group of person outlines. No people.",
+   "narration": "找危害，想清谁会受害、怎么受害，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通用的风险评估五步",
+   "scene": "天平和打勾的防护措施清单",
+   "prompt_en": "A balance scale next to a blank checklist with green checks. No people.",
+   "narration": "评估风险，定下防护措施，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通用的风险评估五步",
+   "scene": "小研在空白评估表上填写并签字",
+   "prompt_en": "The female graduate student fills in and signs a blank assessment form at her desk.",
+   "narration": "把结果记下来，并照着做，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "通用的风险评估五步",
+   "scene": "循环箭头围着一张评估表",
+   "prompt_en": "A circular arrow around a blank assessment form. No people.",
+   "narration": "定期复查，必要时更新。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第一阶段：和非转基因的比一比",
+   "scene": "转基因玉米和普通玉米并排放在实验台上",
+   "prompt_en": "Two corn cobs on a bench side by side, one with a small blue dot tag and one plain. No people.",
+   "narration": "安全评价分两个阶段。",
+   "overlay": [
+    "第一阶段：和非转基因的比一比"
+   ],
+   "labels": [
+    "转基因",
+    "非转基因"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第一阶段：和非转基因的比一比",
+   "scene": "小研对照两份空白数据表找不同",
+   "prompt_en": "The female graduate student compares two blank data sheets with a magnifying glass.",
+   "narration": "先和对应的非转基因品种比较，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第一阶段：和非转基因的比一比",
+   "scene": "两份图表中有一处用圆圈标出",
+   "prompt_en": "Two simple bar chart icons; one bar is circled in red where they differ. No people.",
+   "narration": "找出它们之间的差异。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "第二阶段：差异影响多大",
+   "scene": "圈出的差异连向环境、餐盘、营养三个图标",
+   "prompt_en": "The circled difference links by arrows to three icons: a field, a dinner plate and a nutrition label pictogram. No people.",
+   "narration": "再评价这些差异的影响，",
+   "overlay": [
+    "第二阶段：差异影响多大"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "第二阶段：差异影响多大",
+   "scene": "一个靶心图标和一个问号图标",
+   "prompt_en": "A target icon labeled with a check and a question mark icon beside it. No people.",
+   "narration": "对环境、食品安全和营养各有多大。",
+   "overlay": [],
+   "labels": [
+    "预期的",
+    "非预期的"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "第二阶段：差异影响多大",
+   "scene": "欣欣举起两根手指",
+   "prompt_en": "The panda mascot holds up two fingers.",
+   "narration": "预期的和意外的差异，都要看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评价要点一：说清这个生物",
+   "scene": "三色表格，第一行亮起",
+   "prompt_en": "A blank three-row table in gray, orange and red; the gray row lights up. No people.",
+   "narration": "评价时要考虑三类问题。",
+   "overlay": [
+    "评价要点一：说清这个生物"
+   ],
+   "labels": [
+    "生物描述",
+    "环境安全",
+    "食品安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评价要点一：说清这个生物",
+   "scene": "供体和受体两个生物图标，各附一张空白卡片",
+   "prompt_en": "A donor organism icon and a recipient organism icon, each with a blank info card. No people.",
+   "narration": "第一，供体和受体各是什么生物，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评价要点一：说清这个生物",
+   "scene": "一段基因连到一个齿轮图标",
+   "prompt_en": "A gene segment connected to a working gear icon. No people.",
+   "narration": "改了什么基因，起什么作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评价要点二：环境安全",
+   "scene": "表格第二行亮起，田野和小动物图标",
+   "prompt_en": "The orange row lights up next to icons of a field, bees and small wild animals. No people.",
+   "narration": "第二，环境安全。",
+   "overlay": [
+    "评价要点二：环境安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评价要点二：环境安全",
+   "scene": "受体植物旁两个箭头：一个打勾，一个问号",
+   "prompt_en": "A recipient plant icon with two arrows: one to a green check, one to a question mark. No people.",
+   "narration": "改造带来哪些预期和意外的变化，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评价要点二：环境安全",
+   "scene": "田野生态图标上放一个放大镜",
+   "prompt_en": "A magnifying glass over a small ecosystem icon of plants, insects and soil. No people.",
+   "narration": "对生态环境可能有什么影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "评价要点三：食品安全",
+   "scene": "表格第三行亮起，餐盘和饲料桶图标",
+   "prompt_en": "The red row lights up next to icons of a dinner plate and an animal feed bucket. No people.",
+   "narration": "第三，食品安全。",
+   "overlay": [
+    "评价要点三：食品安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "评价要点三：食品安全",
+   "scene": "营养成分饼图和一个蛋白质图标",
+   "prompt_en": "A nutrition pie chart icon next to a protein molecule icon with a yellow warning triangle. No people.",
+   "narration": "成分营养如何，新蛋白有没有毒性，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "评价要点三：食品安全",
+   "scene": "一个打喷嚏的人形图标和一口锅",
+   "prompt_en": "Icons of a person outline sneezing and a cooking pot with steam. No people.",
+   "narration": "会不会致敏，加工后有没有变化，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "评价要点三：食品安全",
+   "scene": "日历图标和饭碗图标",
+   "prompt_en": "A calendar icon next to a rice bowl and a scale icon. No people.",
+   "narration": "吃的量会不会变，长期营养影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "下集预告：分组与分级",
+   "scene": "两排台阶图标，一排向上一排向下",
+   "prompt_en": "A staircase icon with four steps and a rising arrow beside it. No people.",
+   "narration": "下一课讲危险度分组，",
+   "overlay": [
+    "下集预告：分组与分级"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "下集预告：分组与分级",
+   "scene": "欣欣指着一排四级台阶",
+   "prompt_en": "The panda mascot points to a four-step staircase icon.",
+   "narration": "以及转基因生物的生物安全级别。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现 DNA、放大镜、天平图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a DNA helix, a magnifying glass and a balance scale.",
+   "narration": "转基因生物，释放前先评估。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四方块与五级台阶图标",
+   "prompt_en": "Icons of four connected boxes and a five-step staircase. No people.",
+   "narration": "识别危害、描述特征、评估风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "比较与评价两个阶段图标",
+   "prompt_en": "Two icons: two corn cobs being compared, then arrows to a field and a dinner plate. No people.",
+   "narration": "先比差异，再看对环境和食品的影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三色表格三行依次亮起",
+   "prompt_en": "A three-row table in gray, orange and red lights up row by row. No people.",
+   "narration": "生物描述、环境安全、食品安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、小研在实验室挥手道别",
+   "prompt_en": "The panda mascot waves goodbye with the young male student and the female graduate student in the lab.",
+   "narration": "先评估，再放行，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

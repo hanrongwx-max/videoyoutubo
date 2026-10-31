@@ -12,7 +12,7 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 10 / 23 |
 | Lab Safety Training Series | 13 / 13 | 7 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 5 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 7 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 8 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
@@ -271,6 +271,7 @@
 | Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 国内版 | 重结晶与熔点测定（国内版） | 104 | 8:40 | 28 / 8 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 原著版 | 移液器具与标准溶液 | 65 | 5:25 | 22 / 0 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions/script.md>) |
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 国内版 | 移液器具与标准溶液（国内版） | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 原著版 | 强酸强碱滴定 | 71 | 5:55 | 25 / 0 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base/script.md>) |
 | Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 国内版 | 强酸强碱滴定（国内版） | 96 | 8:00 | 25 / 8 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 09_Performing Thin Layer Chromatography (TLC) | 国内版 | 薄层色谱的操作与安全（国内版） | 97 | 8:05 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/09_Performing Thin Layer Chromatography (TLC)（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 10_Performing Column Chromatography | 国内版 | 柱色谱的操作与安全（国内版） | 103 | 8:35 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/审查报告.md>) |
