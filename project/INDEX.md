@@ -1,16 +1,16 @@
 # 卡通教学视频制作目录
 
-已编写 307 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 309 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 56 / 59 | 6 / 56 |
+| Microbiology Biosafety | 57 / 59 | 6 / 56 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Electrical Safety Series | 13 / 25 | 6 / 12 |
+| Electrical Safety Series | 14 / 25 | 6 / 12 |
 | Lab Safety Training Series | 13 / 13 | 9 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
@@ -250,6 +250,7 @@
 | Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 国内版 | 便携式发电机安全使用（国内版） | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（国内版）/script.md>) · [审查](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（国内版）/审查报告.md>) |
 | Electrical Safety Series | 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE | 国内版 | 电焊机使用前检查（国内版） | 47 | 3:55 | 12 / 4 | [剧本](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac | 单一版 | 安全知识竞赛四十题 | 125 | 10:25 | 42 / 6 | [剧本](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac/script.md>) · [审查](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac/审查报告.md>) |
+| Electrical Safety Series | 10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti | 单一版 | 用电安全全知道 | 84 | 7:00 | 25 / 5 | [剧本](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti/script.md>) · [审查](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti/审查报告.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 国内版 | 漏电保护器的灵敏度档位（国内版） | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/审查报告.md>) |
 | Electrical Safety Series | 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID | 国内版 | 用电安全十五问（国内版） | 79 | 6:35 | 15 / 5 | [剧本](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/script.md>) · [审查](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 国内版 | 人体电阻：为什么湿手更危险（国内版） | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/审查报告.md>) |
@@ -491,6 +492,7 @@
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 国内版 | 生物统计：让微生物数据说真话（国内版） | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 国内版 | 吃农药、吸重金属的微生物（国内版） | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 56_How do fungi help in breaking down toxic compounds trending mycology toxic micro | 国内版 | 真菌和细菌：拆解难缠的毒物（国内版） | 46 | 3:50 | 7 / 4 | [剧本](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/script.md>) · [审查](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 58_How are genetically engineered microbes used for hazardous waste cleanup trendin | 单一版 | 工程菌治污：本事大，规矩更大 | 41 | 3:25 | 6 / 4 | [剧本](<Microbiology Biosafety/58_How are genetically engineered microbes used for hazardous waste cleanup trendin/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |
