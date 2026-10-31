@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 289 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 290 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 50 / 59 | 1 / 25 |
+| Microbiology Biosafety | 51 / 59 | 1 / 25 |
 | BIORISK MANAGEMENT | 47 / 47 | 5 / 42 |
 | CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 4 / 23 |
@@ -367,6 +367,7 @@
 | Microbiology Biosafety | 30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz | 单一版 | 灭菌，也藏着危害 | 60 | 5:00 | 14 / 4 | [剧本](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/script.md>) · [审查](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/审查报告.md>) |
 | Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 单一版 | 微生物实验室的化学品安全 | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio/script.md>) · [审查](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio/审查报告.md>) |
 | Microbiology Biosafety | 32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety | 单一版 | 微生物实验室的用电安全 | 43 | 3:35 | 8 / 4 | [剧本](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety/script.md>) · [审查](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety/审查报告.md>) |
+| Microbiology Biosafety | 33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog | 单一版 | 化学需氧量与测定安全 | 50 | 4:10 | 8 / 4 | [剧本](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/script.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 单一版 | 一张表看懂四个防护等级 | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/审查报告.md>) |
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 单一版 | 哪一级实验室，操作哪类微生物 | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/script.md>) · [审查](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/审查报告.md>) |
