@@ -15,7 +15,7 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 1 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 3 / 10 |
-| Fire Safety & Extinguisher Training | 9 / 9 | 1 / 9 |
+| Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 1 / 9 |
 | RSO Training Series | 9 / 9 | 1 / 9 |
@@ -187,6 +187,7 @@
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
+| Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 国内版 | 实验室里的人机工效（国内版） | 102 | 8:30 | 25 / 5 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 03_How To Use A Chemical or Laboratory Hood - [Lab Training Video] | 国内版 | 通风柜的正确使用（国内版） | 111 | 9:15 | 34 / 6 | [剧本](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/03_How To Use A Chemical or Laboratory Hood - [Lab Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 04_GHS Safety Data Sheets in the Laboratory | 国内版 | 读懂化学品安全技术说明书（国内版） | 137 | 11:25 | 36 / 6 | [剧本](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/04_GHS Safety Data Sheets in the Laboratory（国内版）/审查报告.md>) |

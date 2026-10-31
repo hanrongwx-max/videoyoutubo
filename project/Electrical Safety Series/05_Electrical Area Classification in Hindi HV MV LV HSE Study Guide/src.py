@@ -1,0 +1,102 @@
+# 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide 卡通剧本作者源（原著版）
+# 完全照原片：只有一块板书，把电气区域分类讲成 HV / MV / LV 三类，知识点 K1–K4，不加补充、不更正
+# （保留原片把 Class-I Division 1 / Division 2 / Unclassified 对应高压 650 V 以上、中压 250–650 V、低压 250 V 以下的说法）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "电压等级与爆炸危险区域",
+    "edition": "原著版",
+    "points": {
+        "K1": "电气区域分三类：高压、中压、低压",
+        "K2": "一级一区：高压，650伏以上",
+        "K3": "一级二区：中压，250到650伏",
+        "K4": "非分类区：低压，250伏以下",
+    },
+    "avoid": ["HSE Study Guide", "HSE STUDY GUIDE"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在白板前，白板上画着闪电图标，向镜头招手",
+ "The panda mascot stands in front of a whiteboard with a lightning bolt drawing, waving at the camera.",
+ "这一课讲电气区域分类。", "电压等级与爆炸危险区域"),
+("开场", "三个大小不同的闪电图标排成一行",
+ "Three lightning bolt icons in a row, large, medium and small. No people.",
+ "一共分三类，很好记。", "", ["HV", "MV", "LV"]),
+# 情景
+("情景", "工厂里，阿杰看着几扇挂着不同标志的配电室门",
+ "In an industrial plant, the young male student looks at several electrical room doors with different warning signs.",
+ "阿杰在厂区看到好几种电气区域。"),
+("情景", "阿杰挠头，头顶冒出问号",
+ "The young male student scratches his head with a question mark bubble above him.",
+ "它们是怎么分类的呢？"),
+("情景", "欣欣在白板前竖起手指",
+ "The panda mascot stands in front of the whiteboard and raises one finger.",
+ "我们一条一条看。"),
+# K1
+("K1", "白板上三个空白方框，分别配大中小闪电",
+ "Three blank boxes on the whiteboard, each with a large, medium or small lightning bolt icon. No people.",
+ "电气区域分类，分成三部分。", "电气区域分三类：高压、中压、低压"),
+("K1", "大闪电方框发亮",
+ "The box with the large lightning bolt lights up. No people.",
+ "高压，HV。", "", ["HV 高压"]),
+("K1", "中闪电方框发亮",
+ "The box with the medium lightning bolt lights up. No people.",
+ "中压，MV。", "", ["MV 中压"]),
+("K1", "小闪电方框发亮",
+ "The box with the small lightning bolt lights up. No people.",
+ "低压，LV。", "", ["LV 低压"]),
+# K2
+("K2", "大闪电方框旁贴上一张空白分类卡",
+ "A blank classification card is attached next to the box with the large lightning bolt. No people.",
+ "第一类，叫一级一区。", "一级一区：高压，650伏以上", ["Class I", "Div 1"]),
+("K2", "高压输电铁塔图标",
+ "An icon of a high voltage transmission tower with power lines. No people.",
+ "它对应的是高压。"),
+("K2", "电压表指针越过一条刻度线",
+ "A voltmeter icon whose needle moves past a marked line into the top zone. No people.",
+ "高压，指650伏以上。", "", ["650V 以上"]),
+("K2", "第一项打勾",
+ "A green check mark appears next to the first box. No people.",
+ "这是第一类。"),
+# K3
+("K3", "中闪电方框旁贴上空白分类卡",
+ "A blank classification card is attached next to the box with the medium lightning bolt. No people.",
+ "第二类，叫一级二区。", "一级二区：中压，250到650伏", ["Class I", "Div 2"]),
+("K3", "电压表指针停在两条刻度线之间",
+ "A voltmeter icon whose needle rests between two marked lines in the middle zone. No people.",
+ "对应中压，250到650伏。", "", ["250–650V"]),
+("K3", "第二项打勾",
+ "A green check mark appears next to the second box. No people.",
+ "这是第二类。"),
+# K4
+("K4", "小闪电方框旁贴上空白卡片",
+ "A blank card is attached next to the box with the small lightning bolt. No people.",
+ "第三类，叫非分类区。", "非分类区：低压，250伏以下", ["非分类区"]),
+("K4", "电压表指针停在低位",
+ "A voltmeter icon whose needle rests in the low zone below a marked line. No people.",
+ "对应低压，250伏以下。", "", ["250V 以下"]),
+("K4", "第三项打勾",
+ "A green check mark appears next to the third box. No people.",
+ "这是第三类。"),
+("K4", "三个方框全部打勾",
+ "All three boxes on the whiteboard now have green check marks. No people.",
+ "三类都讲完了。"),
+# 小结
+("小结", "欣欣指着白板上三个打勾的方框",
+ "The panda mascot points at the three checked boxes on the whiteboard.",
+ "再复习一遍。", "小结"),
+("小结", "大闪电方框和分类卡",
+ "The box with the large lightning bolt and its blank classification card. No people.",
+ "一级一区：高压，650伏以上。", "", ["HV > 650V"]),
+("小结", "中闪电方框和分类卡",
+ "The box with the medium lightning bolt and its blank classification card. No people.",
+ "一级二区：中压，250到650伏。", "", ["MV", "250–650V"]),
+("小结", "小闪电方框和卡片",
+ "The box with the small lightning bolt and its blank card. No people.",
+ "非分类区：低压，250伏以下。", "", ["LV < 250V"]),
+# 结尾
+("结尾", "欣欣在白板前挥手道别",
+ "The panda mascot waves goodbye at the camera in front of the whiteboard.",
+ "记住三类分区，下次见！"),
+]
