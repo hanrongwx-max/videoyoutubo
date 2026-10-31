@@ -40,7 +40,11 @@ def publish(paths, message):
         fcntl.flock(lk, fcntl.LOCK_EX)
         index = ROOT / "project" / "INDEX.md"
         mine = [*paths, *([str(index.relative_to(ROOT))] if index.exists() else [])]
-        git("add", "-A", "--", *mine)
+        # 已不存在的路径（改名后留下的旧目录）只在暂存区里有删除记录时才保留，否则 git 会报 pathspec 不匹配
+        mine = [m for m in mine if (ROOT / m).exists() or git("diff", "--cached", "--name-only", "--", m).stdout.strip()]
+        existing = [m for m in mine if (ROOT / m).exists()]
+        if existing:
+            git("add", "-A", "--", *existing)
         if not git("diff", "--cached", "--quiet", "--", *mine, check=False).returncode:
             print("没有需要提交的改动")
             return

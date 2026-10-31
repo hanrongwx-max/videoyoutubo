@@ -73,7 +73,8 @@ def main():
     for p in ROOT.glob("project/**/__pycache__"):
         subprocess.run(["rm", "-rf", str(p)])
     # git mv 已暂存改名；这里只再加入重建后的国内版目录（不碰其他编写者未提交的文件）
-    publish.publish([str(Path(t).relative_to(ROOT)) for t in targets],
+    # 旧目录也要列上：publish 只提交列出的路径，否则改名留下的删除不会被提交
+    publish.publish([str(Path(t).relative_to(ROOT)) for t in targets] + [str(d.relative_to(ROOT)) for d in moved],
                     f"Split {len(moved)} adapted scripts into 国内版 folders (原著版 to follow)")
 
 
