@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 233 / 441 个视频。
+已编写 235 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 38 / 47 |
+| BIORISK MANAGEMENT | 39 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -25,7 +25,7 @@
 | Chemical Spillage & Response | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 |
 | Electrical Safety Series | 6 / 25 |
-| Microbiology Biosafety | 4 / 59 |
+| Microbiology Biosafety | 5 / 59 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
@@ -113,6 +113,7 @@
 | BIORISK MANAGEMENT | 34_GENERAL PRINCIPLES BIORISK MANAGEMENT | 风险分组与防护水平 | 70 | 5:50 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 35_BIORISK ASSESSMENT | 生物风险评估怎么做 | 86 | 7:10 | 23 / 4 | [剧本](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/script.md>) · [审查](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 36_BIORISK MITIGATION | 五类控制减风险 | 54 | 4:30 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/script.md>) · [审查](<BIORISK MANAGEMENT/36_BIORISK MITIGATION/审查报告.md>) |
+| BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 危害与风险评估 | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/审查报告.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 楼和柜子怎么挡住病原体：工程控制 | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/审查报告.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 生物安全员：职责与担当 | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
@@ -253,6 +254,7 @@
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 生物安全第一课：防护与风险评估 | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/审查报告.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 一级到四级：实验室生物安全防护等级 | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 转基因生物：先评估，再放行 | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/审查报告.md>) |
+| Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 实验室里的八类危害 | 71 | 5:55 | 14 / 4 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz/script.md>) · [审查](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz/审查报告.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 实验报告怎么写：从记录到安全 | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
