@@ -1,0 +1,102 @@
+# 23_KVL and KCL complete virtual lab demonstration IIT Kharagpur 卡通剧本作者源
+# 原著版：完全照原片（15 秒竖屏预告封面：KVL、KCL 两个公式，仿真验证，完整步骤见完整演示），K1–K4，
+# 不加补充知识点、不做本土化和更正（保留 V1 + V2 = Vs、I = I1 + I2；为满足最短 2 分钟，只对这 4 个知识点做简单复述，不引入新知识点）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "基尔霍夫两定律速记",
+    "edition": "原著版",
+    "points": {
+        "K1": "电压定律：串联电压相加等于电源",
+        "K2": "电流定律：流入等于流出",
+        "K3": "用仿真实验来验证",
+        "K4": "完整步骤看完整演示",
+    },
+    "avoid": ["IIT", "Kharagpur", "Virtual Labs", "Vineeth", "Simplified EEE Studies", "Simplified EEE", "VTU"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣举着一块空白卡片，卡片上只有回路和节点两个图标",
+ "The panda mascot holds up a blank card showing only a loop icon and a junction icon, waving at the camera.",
+ "两条定律，一起速记！", "基尔霍夫两定律速记"),
+# 情景
+("情景", "阿杰考前在台灯下翻空白笔记，皱眉",
+ "The young male student flips through a blank notebook under a desk lamp before an exam, frowning.",
+ "考前，阿杰又把两条定律记混了。"),
+("情景", "小研拿出两张卡片，一张画回路，一张画节点",
+ "The female graduate student holds up two cards, one with a loop icon and one with a junction icon.",
+ "小研说：一个看回路，一个看节点。"),
+("情景", "欣欣举起秒表，笑着眨眼",
+ "The panda mascot holds up a stopwatch and winks.",
+ "两张卡片，几分钟就能记牢。"),
+# K1
+("K1", "电源与两个电阻串联成回路，一个环形箭头绕回路一圈",
+ "A circuit icon: a battery in series with two resistors forming a loop, with a circular arrow going around. No people.",
+ "电压定律看回路。", "电压定律：串联电压相加等于电源", ["R1", "R2"]),
+("K1", "阿杰用手指沿着回路描一圈",
+ "The young male student traces the closed loop on the card with his finger.",
+ "电源和R1、R2串成一个闭合回路。"),
+("K1", "两个电阻上的电压条叠起来，和电源电压条一样高",
+ "Two voltage bars for the two resistors stacked together, exactly as tall as the battery's voltage bar. No people.",
+ "两个电阻的电压，叠起来一样高。", "", ["V1+V2=Vs"]),
+("K1", "叠起的电压条与电源条之间一个等号",
+ "An equals sign between the stacked voltage bars and the battery voltage bar. No people.",
+ "所以电阻电压之和等于电源电压。"),
+("K1", "R1、R2 两段分别高亮，再合在一起",
+ "The two resistors R1 and R2 highlight one after the other, then together. No people.",
+ "V1在R1上，V2在R2上，合起来是Vs。"),
+("K1", "欣欣沿着回路走一圈，回到起点",
+ "The panda mascot walks around a large loop drawn on the floor and returns to the start point.",
+ "绕回路一圈，电压升降正好抵消。"),
+# K2
+("K2", "一个节点，一支粗箭头流入，两支细箭头流出",
+ "A junction icon with one thick arrow flowing in and two thinner arrows flowing out. No people.",
+ "电流定律看节点。", "电流定律：流入等于流出", ["I", "I1", "I2"]),
+("K2", "水管三通，一股水流分成两股",
+ "A water pipe T-junction icon where one stream splits into two streams. No people.",
+ "就像水管分岔，水不会凭空变多变少。"),
+("K2", "流入箭头和两支流出箭头放在天平两端，正好平衡",
+ "A balance scale with one incoming arrow on one side and two outgoing arrows on the other, perfectly level. No people.",
+ "流入和流出，两边总是相等。"),
+("K2", "节点公式卡片",
+ "A card with a junction formula in symbols only. No people.",
+ "流进的电流，等于流出的电流之和。", "", ["I=I1+I2"]),
+("K2", "两支流出箭头合并回一支粗箭头",
+ "The two outgoing arrows merge back into one thick arrow equal to the incoming one. No people.",
+ "I1加I2，正好等于总电流I。"),
+# K3
+("K3", "笔记本电脑屏幕上是空白的仿真电路图标",
+ "A laptop screen showing a blank simulated circuit icon with small meters. No people.",
+ "这两条定律，可以用仿真实验验证。", "用仿真实验来验证"),
+("K3", "靶心、阶梯、对勾三个图标",
+ "Three icons in a row: a target, a staircase, and a check mark. No people.",
+ "好懂、分步，实验和考试都用得上。", "", ["好懂", "分步", "备考"]),
+("K3", "仿真界面上滑块移动，电表读数跟着变",
+ "On the laptop screen, a slider moves and the small meter needles change. No people.",
+ "在仿真里调电压，读出电压电流。"),
+("K3", "读数相加，对上公式，打勾",
+ "Blank reading cards added together match the formula card, and a green check appears. No people.",
+ "读数一加一比，定律就验证了。"),
+# K4
+("K4", "欣欣指向一部播放按钮图标的屏幕",
+ "The panda mascot points at a screen showing only a large play button icon.",
+ "完整步骤，请看上一集的完整演示。", "完整步骤看完整演示"),
+("K4", "播放器进度条一格格前进，旁边接线、记录、结论图标依次亮起",
+ "A video progress bar advances step by step while icons for wiring, recording and conclusion light up in turn. No people.",
+ "从接线到结论，一步一步演示。"),
+("K4", "阿杰在电脑前跟着做，旁边空白笔记本",
+ "The young male student follows along on a laptop with a blank notebook beside him.",
+ "边看边做，记下每一步。"),
+# 小结
+("小结", "回路图标和节点图标并排",
+ "A loop icon and a junction icon side by side. No people.",
+ "回路看电压，节点看电流。", "小结", ["V1+V2=Vs", "I=I1+I2"]),
+("小结", "笔记本电脑和播放按钮图标",
+ "A laptop icon next to a play button icon. No people.",
+ "用仿真验证，步骤看完整演示。"),
+# 结尾
+("结尾", "欣欣合上笔记本电脑，挥手告别",
+ "The panda mascot closes a laptop and waves goodbye.",
+ "两条定律记住了，下次见！"),
+]

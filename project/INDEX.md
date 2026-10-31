@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 22 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -254,6 +254,7 @@
 | Basic Electrical Engineering Lab | 21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter | 国内版 | 二瓦特表法：三相功率口试问答（国内版） | 44 | 3:40 | 9 / 4 | [剧本](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic | 原著版 | 在线仿真验证基尔霍夫定律 | 53 | 4:25 | 17 / 0 | [剧本](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic/script.md>) |
 | Basic Electrical Engineering Lab | 22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic | 国内版 | 在线仿真验证基尔霍夫定律（国内版） | 64 | 5:20 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 23_KVL and KCL complete virtual lab demonstration IIT Kharagpur | 原著版 | 基尔霍夫两定律速记 | 25 | 2:05 | 4 / 0 | [剧本](<Basic Electrical Engineering Lab/23_KVL and KCL complete virtual lab demonstration IIT Kharagpur/script.md>) |
 | Basic Electrical Engineering Lab | 23_KVL and KCL complete virtual lab demonstration IIT Kharagpur | 国内版 | 基尔霍夫两定律速记（国内版） | 26 | 2:10 | 4 / 3 | [剧本](<Basic Electrical Engineering Lab/23_KVL and KCL complete virtual lab demonstration IIT Kharagpur（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/23_KVL and KCL complete virtual lab demonstration IIT Kharagpur（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
