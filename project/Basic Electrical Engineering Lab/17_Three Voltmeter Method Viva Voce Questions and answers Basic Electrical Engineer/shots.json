@@ -1,0 +1,941 @@
+{
+ "id": "17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "三电压表法：口试问答与用电安全",
+ "seconds": 340,
+ "source_doc": "course/Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer.md",
+ "author_source": "project/Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/src.py",
+ "points": {
+  "K1": "三电压表法测什么",
+  "K2": "感抗：电感对交流的阻碍",
+  "K3": "电感的单位：亨利",
+  "K4": "阻抗：交流电路的总阻碍",
+  "K5": "动铁式与动圈式仪表",
+  "K6": "扼流线圈的阻抗怎么算",
+  "K7": "感抗与频率成正比",
+  "K8": "口试怎么答",
+  "K9": "频率与角频率的单位",
+  "K10": "容抗：电容对交流的阻碍",
+  "K11": "容抗与频率成反比",
+  "K12": "扼流线圈与双向晶闸管",
+  "K13": "有疑问及时提出",
+  "S1": "手要干，脚下要绝缘",
+  "S2": "不拆仪器外壳，不动台内接线",
+  "S3": "调到最低，不等于断电",
+  "S4": "中途离开，先断电",
+  "S5": "做完清点器材，损坏要登记"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在电工实验台前，台上放着一个铁芯线圈和三块电压表",
+   "prompt_en": "The panda mascot stands at an electrical lab bench with an iron-core coil and three analog voltmeters with blank dials, waving at the camera.",
+   "narration": "大家好！今天聊三电压表法的口试题。",
+   "overlay": [
+    "三电压表法：口试问答与用电安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "线圈、三块电压表、问号卡片三个图标",
+   "prompt_en": "Three icons in a row: an iron-core coil, three small voltmeters, and a card with a question mark. No people.",
+   "narration": "原理要答得出，操作也要做得稳。",
+   "overlay": [],
+   "labels": [
+    "原理",
+    "口试",
+    "安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在实验台旁抱着空白笔记本发愁，小研拿着空白卡片考他",
+   "prompt_en": "The young male student looks worried holding a blank notebook beside a lab bench, while the female graduate student holds up blank flash cards to quiz him.",
+   "narration": "明天口试，阿杰心里没底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰刚洗完手，湿着手就伸向实验台开关，小研拦住",
+   "prompt_en": "The young male student, hands still wet from washing, reaches for the bench power switch; the female graduate student stops him.",
+   "narration": "他湿着手就要去合电源开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起两根手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard holding up two fingers.",
+   "narration": "今天两件事：答好题，用好电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三电压表法测什么",
+   "scene": "一个铁芯线圈图标，旁边是带问号的电阻和电感符号",
+   "prompt_en": "An iron-core choke coil icon next to a resistor symbol and an inductor symbol, each with a question mark. No people.",
+   "narration": "第一题：三电压表法是干什么的？",
+   "overlay": [
+    "三电压表法测什么"
+   ],
+   "labels": [
+    "R=?",
+    "L=?"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三电压表法测什么",
+   "scene": "线圈与一个已知电阻串联，三块电压表分别并在电阻、线圈和总电路两端",
+   "prompt_en": "A circuit icon: a known resistor in series with a coil on an AC source, with three voltmeters across the resistor, across the coil, and across both. No people.",
+   "narration": "已知电阻和线圈串联，三块表各测一段。",
+   "overlay": [],
+   "labels": [
+    "V1",
+    "V2",
+    "V3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三电压表法测什么",
+   "scene": "小研看着三块电表读数，在空白纸上计算",
+   "prompt_en": "The female graduate student reads three blank-dial voltmeters and calculates on a blank sheet of paper.",
+   "narration": "答：测出未知线圈的电阻和电感。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "感抗：电感对交流的阻碍",
+   "scene": "交流电源接一个电感的小电路，电流箭头经过线圈变细",
+   "prompt_en": "A small circuit icon: an AC source connected to an inductor coil, the current arrow narrowing as it passes through the coil. No people.",
+   "narration": "第二题：什么是感抗？",
+   "overlay": [
+    "感抗：电感对交流的阻碍"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "感抗：电感对交流的阻碍",
+   "scene": "欣欣指着线圈图标，线圈像闸门挡住水流",
+   "prompt_en": "The panda mascot points at a coil icon that holds back a flowing arrow like a gate holding back water.",
+   "narration": "电感对交流电流的阻碍，就叫感抗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "感抗：电感对交流的阻碍",
+   "scene": "白板上写着感抗公式",
+   "prompt_en": "A whiteboard with a simple formula written in symbols only, an inductor icon beside it. No people.",
+   "narration": "感抗等于角频率乘电感。",
+   "overlay": [],
+   "labels": [
+    "XL=ωL=2πfL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "感抗：电感对交流的阻碍",
+   "scene": "欧姆符号图标放大",
+   "prompt_en": "A large ohm symbol icon in the center. No people.",
+   "narration": "感抗的单位是欧姆。",
+   "overlay": [],
+   "labels": [
+    "单位：Ω"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电感的单位：亨利",
+   "scene": "线圈图标旁一个大写字母 H 的图标",
+   "prompt_en": "A coil icon next to a large capital letter H icon. No people.",
+   "narration": "顺便问：电感的单位？答：亨利。",
+   "overlay": [
+    "电感的单位：亨利"
+   ],
+   "labels": [
+    "单位：H"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "阻抗：交流电路的总阻碍",
+   "scene": "电阻、电感、电容三个图标连成一串，接在交流电源上",
+   "prompt_en": "Icons of a resistor, an inductor and a capacitor connected in series to an AC source. No people.",
+   "narration": "第三题：什么是阻抗？",
+   "overlay": [
+    "阻抗：交流电路的总阻碍"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "阻抗：交流电路的总阻碍",
+   "scene": "三个元件的阻碍箭头合成一个大箭头",
+   "prompt_en": "Three small blocking arrows from a resistor, an inductor and a capacitor merging into one big arrow with a blank tag. No people.",
+   "narration": "电阻、电感、电容对交流的总阻碍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "阻抗：交流电路的总阻碍",
+   "scene": "交流波形打勾，直流直线标问号",
+   "prompt_en": "Two icons: a sine wave with a green check and a straight DC line with a grey question mark. No people.",
+   "narration": "阻抗用在交流电路，符号 Z，单位欧姆。",
+   "overlay": [],
+   "labels": [
+    "交流",
+    "Z",
+    "Ω"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "阻抗：交流电路的总阻碍",
+   "scene": "白板上写着 RLC 串联阻抗公式",
+   "prompt_en": "A whiteboard with a series RLC impedance formula in symbols only. No people.",
+   "narration": "串联时，感抗容抗先相减再合成。",
+   "overlay": [],
+   "labels": [
+    "Z=√(R²+(XL−XC)²)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "动铁式与动圈式仪表",
+   "scene": "两块电表图标：一块标交流波形，一块标直流直线",
+   "prompt_en": "Two meter icons with blank dials: one marked with a sine wave, one marked with a straight line. No people.",
+   "narration": "第四题：动铁式和动圈式仪表有何不同？",
+   "overlay": [
+    "动铁式与动圈式仪表"
+   ],
+   "labels": [
+    "动铁式",
+    "动圈式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "动铁式与动圈式仪表",
+   "scene": "动铁式电表接在交流电路上，打勾",
+   "prompt_en": "A moving iron meter icon connected to an AC circuit with a sine wave, with a green check. No people.",
+   "narration": "测交流，选动铁式仪表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "动铁式与动圈式仪表",
+   "scene": "动圈式电表接在交流电路上的图标被红叉划掉",
+   "prompt_en": "A moving coil meter icon connected to an AC source with a sine wave, crossed out with a red X. No people.",
+   "narration": "动圈式只能测直流，别接到交流上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "动铁式与动圈式仪表",
+   "scene": "老周拿起一块电表，查看表盘上的小符号",
+   "prompt_en": "The older man picks up an analog meter and examines the small symbols printed on its dial face.",
+   "narration": "认清表盘上的交直流标志再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "扼流线圈的阻抗怎么算",
+   "scene": "三电压表电路图标，第三块电压表和电流箭头高亮",
+   "prompt_en": "The three-voltmeter circuit icon with the third voltmeter and the current arrow highlighted. No people.",
+   "narration": "第五题：线圈阻抗怎么算？",
+   "overlay": [
+    "扼流线圈的阻抗怎么算"
+   ],
+   "labels": [
+    "Z=V3/I"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "扼流线圈的阻抗怎么算",
+   "scene": "小研在空白纸上把一个读数除以另一个读数",
+   "prompt_en": "The female graduate student divides one reading by another on a blank sheet of paper.",
+   "narration": "用第三块表的电压除以电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "扼流线圈的阻抗怎么算",
+   "scene": "电阻和电感组成的直角三角形图标",
+   "prompt_en": "A right-triangle icon whose two short sides are a resistor and an inductor and whose long side is marked Z. No people.",
+   "narration": "一般 RL 电路，按直角三角形合成。",
+   "overlay": [],
+   "labels": [
+    "Z=√(R²+XL²)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "扼流线圈的阻抗怎么算",
+   "scene": "空白实验指导书翻开，旁边是计算器",
+   "prompt_en": "An open lab manual with blank pages next to a calculator. No people.",
+   "narration": "具体公式，以实验指导书为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "感抗与频率成正比",
+   "scene": "频率旋钮调高，感抗柱子跟着升高",
+   "prompt_en": "A frequency dial icon turning up, and a bar marked with an inductor icon rising with it. No people.",
+   "narration": "第六题：感抗和频率什么关系？",
+   "overlay": [
+    "感抗与频率成正比"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "感抗与频率成正比",
+   "scene": "一条从原点向上的直线图",
+   "prompt_en": "A simple graph with a straight line rising from the origin. No people.",
+   "narration": "感抗与频率成正比，频率越高感抗越大。",
+   "overlay": [],
+   "labels": [
+    "XL∝f"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "口试怎么答",
+   "scene": "阿杰在空白笔记本上抄写公式图标",
+   "prompt_en": "The young male student copies formula icons into a blank notebook at his desk.",
+   "narration": "公式和概念，记在本子上常复习。",
+   "overlay": [
+    "口试怎么答"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "口试怎么答",
+   "scene": "阿杰面对王老师简短回答，王老师点头",
+   "prompt_en": "The young male student answers briefly in front of the safety administrator, who nods.",
+   "narration": "口试回答抓要点，简明清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "口试怎么答",
+   "scene": "阿杰挠头老实说不会，王老师微笑",
+   "prompt_en": "The young male student scratches his head and honestly admits he does not know; the safety administrator smiles kindly.",
+   "narration": "不会的就如实说，别硬编。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "频率与角频率的单位",
+   "scene": "正弦波图标旁一个时钟图标",
+   "prompt_en": "A sine wave icon next to a clock icon. No people.",
+   "narration": "补充题：频率的单位是赫兹。",
+   "overlay": [
+    "频率与角频率的单位"
+   ],
+   "labels": [
+    "f：Hz"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "频率与角频率的单位",
+   "scene": "一个旋转的圆和弧线箭头图标",
+   "prompt_en": "An icon of a rotating circle with a curved arrow showing angle. No people.",
+   "narration": "角频率的单位是弧度每秒。",
+   "overlay": [],
+   "labels": [
+    "ω：rad/s"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "容抗：电容对交流的阻碍",
+   "scene": "交流电源接电容的小电路图标",
+   "prompt_en": "A small circuit icon: an AC source connected to a capacitor. No people.",
+   "narration": "什么是容抗？",
+   "overlay": [
+    "容抗：电容对交流的阻碍"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "容抗：电容对交流的阻碍",
+   "scene": "电容图标挡住部分电流箭头",
+   "prompt_en": "A capacitor icon partly holding back a flowing current arrow. No people.",
+   "narration": "电容对交流电流的阻碍，叫容抗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "容抗：电容对交流的阻碍",
+   "scene": "白板上写着容抗公式",
+   "prompt_en": "A whiteboard with a capacitive reactance formula in symbols only. No people.",
+   "narration": "容抗等于一除以角频率乘电容。",
+   "overlay": [],
+   "labels": [
+    "XC=1/(ωC)",
+    "=1/(2πfC)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "容抗：电容对交流的阻碍",
+   "scene": "欧姆符号图标",
+   "prompt_en": "A large ohm symbol icon. No people.",
+   "narration": "容抗单位也是欧姆。",
+   "overlay": [],
+   "labels": [
+    "单位：Ω"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "容抗与频率成反比",
+   "scene": "频率旋钮调高，容抗柱子反而变矮",
+   "prompt_en": "A frequency dial icon turning up while a bar marked with a capacitor icon gets shorter. No people.",
+   "narration": "容抗和频率成反比。",
+   "overlay": [
+    "容抗与频率成反比"
+   ],
+   "labels": [
+    "XC∝1/f"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "容抗与频率成反比",
+   "scene": "一条先陡后平的下降曲线图",
+   "prompt_en": "A simple graph with a curve falling steeply then flattening, like a hyperbola. No people.",
+   "narration": "画出来是一条下降的双曲线形曲线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "容抗与频率成反比",
+   "scene": "上升直线和下降曲线并排对比",
+   "prompt_en": "Two small graphs side by side: a rising straight line and a falling curve. No people.",
+   "narration": "一个随频率升，一个随频率降。",
+   "overlay": [],
+   "labels": [
+    "感抗↑",
+    "容抗↓"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "扼流线圈与双向晶闸管",
+   "scene": "一个铁芯扼流线圈图标",
+   "prompt_en": "An iron-core choke coil icon. No people.",
+   "narration": "扼流线圈就是一种电感器。",
+   "overlay": [
+    "扼流线圈与双向晶闸管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "扼流线圈与双向晶闸管",
+   "scene": "笨重的旧式线圈调压器和小巧的电子调压器并排",
+   "prompt_en": "Two icons side by side: a bulky old coil-type regulator and a small electronic regulator box. No people.",
+   "narration": "很多调压场合，改用电子调压装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "扼流线圈与双向晶闸管",
+   "scene": "一个三端器件符号图标，三根引脚",
+   "prompt_en": "A three-terminal power semiconductor symbol icon with three leads. No people.",
+   "narration": "核心器件是双向晶闸管。",
+   "overlay": [],
+   "labels": [
+    "MT1",
+    "MT2",
+    "G"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "扼流线圈与双向晶闸管",
+   "scene": "双向箭头穿过器件图标",
+   "prompt_en": "A two-way arrow passing through a semiconductor device icon. No people.",
+   "narration": "三个端子，双向导通，用来调交流电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "扼流线圈与双向晶闸管",
+   "scene": "空白教材封面上画着电力电子图标",
+   "prompt_en": "A blank textbook with a power electronics icon on its cover. No people.",
+   "narration": "电气电子专业，高年级会深入学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有疑问及时提出",
+   "scene": "阿杰举手，王老师走过来",
+   "prompt_en": "The young male student raises his hand and the safety administrator walks over.",
+   "narration": "复习有疑问，及时问老师。",
+   "overlay": [
+    "有疑问及时提出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "手要干，脚下要绝缘",
+   "scene": "湿手去按电源开关的图标被红叉划掉",
+   "prompt_en": "An icon of a wet hand with water drops reaching for a power switch, crossed out with a red X. No people.",
+   "narration": "湿手不碰开关、插头和接线柱。",
+   "overlay": [
+    "手要干，脚下要绝缘"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "手要干，脚下要绝缘",
+   "scene": "阿杰用纸巾擦干手，小研点头",
+   "prompt_en": "The young male student dries his hands with a paper towel while the female graduate student nods.",
+   "narration": "先把手擦干，再上实验台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "手要干，脚下要绝缘",
+   "scene": "实验台前地面铺着绝缘垫，地面干燥",
+   "prompt_en": "A dry floor in front of an electrical bench covered with a rubber insulating mat. No people.",
+   "narration": "站在干燥地面或绝缘垫上操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "手要干，脚下要绝缘",
+   "scene": "地上有积水，老李拿拖把清理并拉下电源",
+   "prompt_en": "Water has spilled on the floor near a bench; the facility engineer switches off the bench power and mops it up.",
+   "narration": "地上有水，先断电清理再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不拆仪器外壳，不动台内接线",
+   "scene": "螺丝刀拧开电表后盖的图标被红叉划掉",
+   "prompt_en": "An icon of a screwdriver opening the back cover of a meter, crossed out with a red X. No people.",
+   "narration": "不擅自拆开仪表和电源的外壳。",
+   "overlay": [
+    "不拆仪器外壳，不动台内接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不拆仪器外壳，不动台内接线",
+   "scene": "伸手进实验台内部线槽的图标被红叉划掉",
+   "prompt_en": "An icon of a hand reaching into the internal wiring trough of a lab bench, crossed out with a red X. No people.",
+   "narration": "实验台里的固定接线，不能乱动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不拆仪器外壳，不动台内接线",
+   "scene": "阿杰只在面板接线柱上接线",
+   "prompt_en": "The young male student connects leads only to the terminals on the front panel of the bench.",
+   "narration": "只用面板上的接线柱接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不拆仪器外壳，不动台内接线",
+   "scene": "老李在台前挂上空白检修牌，打开台板检修",
+   "prompt_en": "The facility engineer hangs a blank maintenance tag on the bench and opens its panel for repair.",
+   "narration": "设备有故障，交给专业人员检修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "调到最低，不等于断电",
+   "scene": "电子调压器旋钮拧到最低，线路上仍有闪电符号",
+   "prompt_en": "An electronic regulator knob turned to its lowest position, while a lightning symbol still glows on the wire behind it. No people.",
+   "narration": "调压装置拧到最低，电路照样带电。",
+   "overlay": [
+    "调到最低，不等于断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "调到最低，不等于断电",
+   "scene": "旋钮在最低位时伸手去碰接线柱的图标被红叉划掉",
+   "prompt_en": "An icon of a hand touching terminals while a regulator knob sits at minimum, crossed out with a red X. No people.",
+   "narration": "别以为调到零就能碰接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "调到最低，不等于断电",
+   "scene": "阿杰拉下电源开关，指示灯熄灭",
+   "prompt_en": "The young male student switches off the bench power switch and the indicator lamp goes dark.",
+   "narration": "要动线路，必须断开电源开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "中途离开，先断电",
+   "scene": "阿杰起身要去接电话，桌上电路还亮着指示灯",
+   "prompt_en": "The young male student stands up to take a phone call while the circuit on the bench is still powered, an indicator lamp glowing.",
+   "narration": "做到一半要走开？",
+   "overlay": [
+    "中途离开，先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "中途离开，先断电",
+   "scene": "阿杰回身拉下电源开关后才离开",
+   "prompt_en": "The young male student turns back, switches off the bench power, and then leaves.",
+   "narration": "先断电，再离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "中途离开，先断电",
+   "scene": "通电的实验台旁空无一人的图标被红叉划掉",
+   "prompt_en": "An icon of a powered lab bench with nobody around, crossed out with a red X. No people.",
+   "narration": "通电的电路不能无人看管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "做完清点器材，损坏要登记",
+   "scene": "阿杰和小研把电表、导线、线圈按位置放回柜中",
+   "prompt_en": "The young male student and the female graduate student return meters, leads and the coil to their places in a cabinet.",
+   "narration": "做完实验，器材清点归位。",
+   "overlay": [
+    "做完清点器材，损坏要登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "做完清点器材，损坏要登记",
+   "scene": "小研在空白登记本上记下一块损坏的电表",
+   "prompt_en": "The female graduate student records a damaged meter in a blank equipment logbook.",
+   "narration": "有损坏，如实登记，告诉老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "做完清点器材，损坏要登记",
+   "scene": "损坏的电表贴上空白停用标签放在一边",
+   "prompt_en": "A damaged meter with a blank out-of-service tag set apart on a shelf. No people.",
+   "narration": "坏的仪器贴牌停用，别留给下一组。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "感抗、阻抗、容抗三个图标排成一行",
+   "prompt_en": "Three icons in a row: an inductor, a series RLC chain, and a capacitor, each with an ohm symbol. No people.",
+   "narration": "感抗、容抗、阻抗，单位都是欧姆。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "感抗",
+    "阻抗",
+    "容抗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "上升直线和下降曲线两个小图",
+   "prompt_en": "A rising straight line graph and a falling curve graph side by side. No people.",
+   "narration": "感抗随频率升，容抗随频率降。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "动铁式电表配交流、三电压表电路两个图标",
+   "prompt_en": "Two icons: a moving iron meter with a sine wave, and the three-voltmeter circuit. No people.",
+   "narration": "交流选动铁式，线圈阻抗用电压除电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "干手、绝缘垫、断开的开关三个打勾图标",
+   "prompt_en": "Three icons with green checks: a dry hand, a rubber insulating mat, and a switched-off power switch. No people.",
+   "narration": "手干脚绝缘，调零不算断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "密封的仪器外壳、离开前断电、登记本三个图标",
+   "prompt_en": "Three icons: a closed instrument case, a power switch turned off beside an exit door, and a logbook. No people.",
+   "narration": "不拆外壳，离开断电，清点登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整理好的实验台前挥手，阿杰在旁竖起大拇指",
+   "prompt_en": "The panda mascot waves goodbye at a tidy, switched-off lab bench while the young male student gives a thumbs up.",
+   "narration": "祝口试顺利，安全用电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
