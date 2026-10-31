@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 218 / 441 个视频。
+已编写 219 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 27 / 47 |
+| BIORISK MANAGEMENT | 28 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -102,6 +102,7 @@
 | BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 植物为什么要关起来 | 78 | 6:30 | 21 / 4 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY | AMP三步管风险 | 85 | 7:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY/script.md>) · [审查](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY/审查报告.md>) |
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 生物安全员是做什么的 | 136 | 11:20 | 40 / 4 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER/script.md>) · [审查](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER/审查报告.md>) |
+| BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 生物安全柜，这样操作 | 72 | 6:00 | 16 / 4 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION/script.md>) · [审查](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION/审查报告.md>) |
 | BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 安全柜里的双层装袋 | 50 | 4:10 | 8 / 4 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL/script.md>) · [审查](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL/审查报告.md>) |
 | BIORISK MANAGEMENT | 29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT | 生物风险管理学习路线 | 49 | 4:05 | 10 / 3 | [剧本](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
