@@ -1,7 +1,7 @@
 # 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology 卡通剧本作者源
 # 原片是无人声的文字幻灯片（35 分钟），讲 SDS 的定义、目的和第 1–7 部分（以氢氧化钠为例）：保留全部知识点 K1–K35，
 # 本土化为 GB/T 16483、GB/T 17519、GB 30000 系列与《危险化学品安全管理条例》；第 8–16 部分留给 25 片
-# 审查补充 S1–S6（采购索取中文 SDS 与标签；放在使用场所随时可查；用前先读做评估；分装容器贴标签；就医带 SDS；管控类化学品领用）
+# 审查补充 S1–S6（采购索取中文 SDS 与标签；放在使用场所随时可查；用前先读做评估；分装容器贴标签；门口安全信息牌写明主要危险；管控类化学品领用）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -46,7 +46,7 @@ META = {
         "S2": "SDS 放在使用场所，随手可查",
         "S3": "用前先读，再做风险评估",
         "S4": "分装的小瓶，也要贴标签",
-        "S5": "受伤就医，带上 SDS",
+        "S5": "门口信息牌，写明主要危险",
         "S6": "管控类化学品，按规定领用",
     },
     "avoid": ["Ragba Micro Hub", "Ragba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub",
@@ -432,15 +432,15 @@ SHOTS = [
  "A drink bottle used as a reagent container, crossed out in red. No people.",
  "绝不能用饮料瓶装化学品。"),
 # S5
-("S5", "小研冲洗手臂，阿杰拿起文件",
- "The female graduate student rinses her arm at an eyewash and shower station while the young male student grabs a blank document.",
- "先冲洗处置，再准备就医。", "受伤就医，带上 SDS"),
-("S5", "阿杰把文件和空瓶标签一起交给医生图标",
- "The young male student hands the document and the bottle label to a doctor icon.",
- "把 SDS 或标签带给医生。"),
-("S5", "逐级报告的箭头：实验室、学院、学校",
- "Arrows show reporting steps: lab, department, university. No people.",
- "并逐级报告，如实记录。", None, ["实验室", "学院", "学校"]),
+("S5", "王老师在实验室门口查看一块空白信息牌，牌上只有危险象形图图标",
+ "The safety administrator checks a blank safety information board beside the lab door; it shows only hazard pictogram icons.",
+ "门口的安全信息牌，要写明主要危险。", "门口信息牌，写明主要危险", ["安全信息牌"]),
+("S5", "阿杰拿着文件给王老师看，王老师在信息牌上添一个象形图图标",
+ "The young male student shows a blank document to the safety administrator, who adds one more pictogram icon to the door board.",
+ "新进危化品，对照 SDS 更新信息牌。"),
+("S5", "消防员图标站在门口看信息牌，旁边是电话图标",
+ "A firefighter icon reads the door board before entering, beside a phone icon. No people.",
+ "救援的人进门前，一看就懂。", None, ["主要危险", "负责人", "应急电话"]),
 # S6
 ("S6", "双人各持一把钥匙打开带锁的柜子",
  "The safety administrator and the older man each turn a key to open a locked chemical cabinet.",
@@ -463,7 +463,7 @@ SHOTS = [
  "索取、存放、先读、再用。"),
 ("小结", "小研给阿杰竖起大拇指",
  "The female graduate student gives the young male student a thumbs-up.",
- "出了事，带着它去就医。"),
+ "门口信息牌，也要跟着更新。"),
 # 结尾
 ("结尾", "欣欣抱着说明书向镜头挥手告别",
  "The panda mascot hugs the booklet and waves goodbye to the camera.",

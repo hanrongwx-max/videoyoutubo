@@ -46,7 +46,7 @@
   "S2": "SDS 放在使用场所，随手可查",
   "S3": "用前先读，再做风险评估",
   "S4": "分装的小瓶，也要贴标签",
-  "S5": "受伤就医，带上 SDS",
+  "S5": "门口信息牌，写明主要危险",
   "S6": "管控类化学品，按规定领用"
  },
  "shots": [
@@ -1544,24 +1544,26 @@
    "shot": 113,
    "seconds": 5,
    "section": "S5",
-   "section_title": "受伤就医，带上 SDS",
-   "scene": "小研冲洗手臂，阿杰拿起文件",
-   "prompt_en": "The female graduate student rinses her arm at an eyewash and shower station while the young male student grabs a blank document.",
-   "narration": "先冲洗处置，再准备就医。",
+   "section_title": "门口信息牌，写明主要危险",
+   "scene": "王老师在实验室门口查看一块空白信息牌，牌上只有危险象形图图标",
+   "prompt_en": "The safety administrator checks a blank safety information board beside the lab door; it shows only hazard pictogram icons.",
+   "narration": "门口的安全信息牌，要写明主要危险。",
    "overlay": [
-    "受伤就医，带上 SDS"
+    "门口信息牌，写明主要危险"
    ],
-   "labels": [],
+   "labels": [
+    "安全信息牌"
+   ],
    "mode": "voiceover"
   },
   {
    "shot": 114,
    "seconds": 5,
    "section": "S5",
-   "section_title": "受伤就医，带上 SDS",
-   "scene": "阿杰把文件和空瓶标签一起交给医生图标",
-   "prompt_en": "The young male student hands the document and the bottle label to a doctor icon.",
-   "narration": "把 SDS 或标签带给医生。",
+   "section_title": "门口信息牌，写明主要危险",
+   "scene": "阿杰拿着文件给王老师看，王老师在信息牌上添一个象形图图标",
+   "prompt_en": "The young male student shows a blank document to the safety administrator, who adds one more pictogram icon to the door board.",
+   "narration": "新进危化品，对照 SDS 更新信息牌。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -1570,15 +1572,15 @@
    "shot": 115,
    "seconds": 5,
    "section": "S5",
-   "section_title": "受伤就医，带上 SDS",
-   "scene": "逐级报告的箭头：实验室、学院、学校",
-   "prompt_en": "Arrows show reporting steps: lab, department, university. No people.",
-   "narration": "并逐级报告，如实记录。",
+   "section_title": "门口信息牌，写明主要危险",
+   "scene": "消防员图标站在门口看信息牌，旁边是电话图标",
+   "prompt_en": "A firefighter icon reads the door board before entering, beside a phone icon. No people.",
+   "narration": "救援的人进门前，一看就懂。",
    "overlay": [],
    "labels": [
-    "实验室",
-    "学院",
-    "学校"
+    "主要危险",
+    "负责人",
+    "应急电话"
    ],
    "mode": "voiceover"
   },
@@ -1674,7 +1676,7 @@
    "section_title": "小结",
    "scene": "小研给阿杰竖起大拇指",
    "prompt_en": "The female graduate student gives the young male student a thumbs-up.",
-   "narration": "出了事，带着它去就医。",
+   "narration": "门口信息牌，也要跟着更新。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
