@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 286 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 287 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 48 / 59 | 1 / 25 |
-| BIORISK MANAGEMENT | 47 / 47 | 3 / 42 |
+| Microbiology Biosafety | 49 / 59 | 1 / 25 |
+| BIORISK MANAGEMENT | 47 / 47 | 4 / 42 |
 | CDC Laboratory Safety Series | 23 / 23 | 6 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 3 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
@@ -94,6 +94,7 @@
 | Animal & Plant Biotech Safety | 10_APB - Moving Research into Production | 国内版 | 从实验室到生产（国内版） | 80 | 6:40 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 01_BIORISK MANAGEMENT INTRODUCTORY MODULE | 原著版 | 生物风险管理第一课 | 68 | 5:40 | 20 / 0 | [剧本](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE/script.md>) |
 | BIORISK MANAGEMENT | 01_BIORISK MANAGEMENT INTRODUCTORY MODULE | 国内版 | 生物风险管理第一课（国内版） | 89 | 7:25 | 20 / 4 | [剧本](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 02_What is Biorisk Management | 原著版 | 三步管好生物风险 | 26 | 2:10 | 7 / 0 | [剧本](<BIORISK MANAGEMENT/02_What is Biorisk Management/script.md>) |
 | BIORISK MANAGEMENT | 02_What is Biorisk Management | 国内版 | 三步管好生物风险（国内版） | 38 | 3:10 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 国内版 | 生物风险管理，人人有份（国内版） | 41 | 3:25 | 9 / 3 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 国内版 | 生物废物双层装袋（国内版） | 47 | 3:55 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/审查报告.md>) |
@@ -374,6 +375,7 @@
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 单一版 | 认识危险物品：七大类和它们藏在哪 | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/审查报告.md>) |
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/审查报告.md>) |
 | Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 单一版 | 生物风险管理，怎么检查好不好 | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren/script.md>) · [审查](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren/审查报告.md>) |
+| Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 单一版 | 生物统计：让微生物数据说真话 | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |

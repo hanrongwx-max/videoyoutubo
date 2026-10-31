@@ -39,12 +39,14 @@ def publish(paths, message):
     with open(LOCK, "w") as lk:
         fcntl.flock(lk, fcntl.LOCK_EX)
         index = ROOT / "project" / "INDEX.md"
-        git("add", "--", *paths, *([str(index.relative_to(ROOT))] if index.exists() else []))
-        if not git("diff", "--cached", "--quiet", check=False).returncode:
+        mine = [*paths, *([str(index.relative_to(ROOT))] if index.exists() else [])]
+        git("add", "-A", "--", *mine)
+        if not git("diff", "--cached", "--quiet", "--", *mine, check=False).returncode:
             print("没有需要提交的改动")
             return
         for wait in (1, 2, 4, 8, 0):   # 其他 git 进程持有 index.lock 时稍后重试
-            r = git("commit", "-q", "-m", message + TRAILER, check=False)
+            # 只提交本视频的路径：其他编写者暂存的半成品不会被一起提交
+            r = git("commit", "-q", "-m", message + TRAILER, "--", *mine, check=False)
             if r.returncode == 0:
                 break
             if not wait:
