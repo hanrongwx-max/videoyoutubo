@@ -1,0 +1,117 @@
+# 55_Which microbes are most effective in degrading pesticides and herbicides microbi 卡通剧本作者源
+# 原片为无讲解的文字幻灯片问答：降解农药/除草剂的微生物、细菌去除废水重金属（生物修复，与安全相关度低）。保留全部知识点 K1–K7，
+# 原著版：完全照原片，K1–K7，无补充知识点（降解农药的三例、去除重金属的三例，菌名照原片，不加实验安全补充）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "吃农药、吸重金属的微生物",
+    "edition": "原著版",
+    "points": {
+        "K1": "恶臭假单胞菌：降解有机磷农药",
+        "K2": "枯草芽孢杆菌：分解除草剂",
+        "K3": "白腐真菌：靠酶分解含氯农药",
+        "K4": "细菌能去除废水里的重金属",
+        "K5": "地杆菌、希瓦氏菌：把六价铬还原",
+        "K6": "耐金属罗尔斯通菌：细胞壁吸附铅镉",
+        "K7": "荧光假单胞菌：把汞变得毒性低些",
+    },
+    "avoid": ["Raqba Micro Hub", "Raqba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub", "ARH"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在农田和污水池的背景板前，手里拿着放大镜",
+ "The panda mascot stands in front of a backdrop of farm fields and a wastewater pond, holding a magnifying glass, and waves at the camera.",
+ "有些微生物，专吃人类留下的毒物。", "吃农药、吸重金属的微生物"),
+("开场", "欣欣身旁浮现两个图标：农药喷雾瓶、工厂排水管",
+ "The panda mascot points to two floating icons: a spray bottle with a skull pictogram and a factory drain pipe.",
+ "今天两道题：农药和重金属。", "", ["农药", "重金属"]),
+# 情景
+("情景", "阿杰在课题组会上听老周布置任务",
+ "The young male student listens at a group meeting while the older man points to a blank project chart.",
+ "阿杰新加入一个环境修复课题。"),
+("情景", "老周递给阿杰一袋土样和一瓶空白标签的废水样",
+ "The older man hands the young male student a sealed bag of soil and a water sample bottle with a blank label.",
+ "老周说：从这些样品里找降解菌。"),
+("情景", "阿杰看着样品，头顶冒出问号",
+ "The young male student looks at the samples with a question mark above his head.",
+ "阿杰问：哪些菌最有本事？"),
+("情景", "欣欣在空白白板前点头",
+ "The panda mascot nods in front of a blank whiteboard.",
+ "我们分两道题，一个个认识。"),
+# K1
+("K1", "一株杆状细菌图标靠近一个农药分子球棍模型",
+ "A rod-shaped bacterium icon approaches a ball-and-stick molecule icon beside a spray bottle pictogram. No people.",
+ "第一题：哪些微生物最会降解农药？", "恶臭假单胞菌：降解有机磷农药"),
+("K1", "杆菌把分子模型拆成几个小球",
+ "The rod-shaped bacterium breaks the molecule model into several small separate balls. No people.",
+ "恶臭假单胞菌，能分解有机磷农药，", "", ["恶臭假单胞菌", "有机磷"]),
+("K1", "农田土壤剖面中，小杆菌在土粒间活动",
+ "A cross-section of farm soil with tiny rod-shaped bacteria moving between soil grains. No people.",
+ "把残留在土里的农药慢慢清掉。"),
+# K2
+("K2", "田边一株枯萎的杂草和除草剂瓶图标",
+ "A withered weed at the edge of a field beside a herbicide bottle pictogram. No people.",
+ "再看除草剂。", "枯草芽孢杆菌：分解除草剂"),
+("K2", "一群杆菌围住除草剂分子，分子逐渐变小",
+ "A group of rod-shaped bacteria surround a herbicide molecule icon, which gradually shrinks. No people.",
+ "枯草芽孢杆菌，能分解阿特拉津这类除草剂。", "", ["枯草芽孢杆菌", "阿特拉津"]),
+# K3
+("K3", "朽木上长着一片白色真菌菌丝",
+ "A rotting log covered with a patch of white fungal threads. No people.",
+ "真菌也是好手。", "白腐真菌：靠酶分解含氯农药"),
+("K3", "菌丝放出小剪刀形状的酶图标，剪开带氯原子的分子",
+ "The fungal threads release small scissor-shaped enzyme icons that snip a molecule with green chlorine balls. No people.",
+ "白腐真菌分泌木质素过氧化物酶，", "", ["白腐真菌", "木质素过氧化物酶"]),
+("K3", "带氯原子的分子碎成小片",
+ "The molecule with green chlorine balls breaks into small harmless-looking pieces. No people.",
+ "把难分解的含氯农药拆开。"),
+# K4
+("K4", "工厂排水管流出带灰色颗粒的污水",
+ "A factory drain pipe releases murky water carrying grey metal particles. No people.",
+ "第二题：细菌能除掉废水里的重金属吗？", "细菌能去除废水里的重金属", ["铬", "铅", "汞"]),
+("K4", "一个大大的绿色对勾",
+ "A big green check mark appears over a clean water drop icon. No people.",
+ "答案是：能。"),
+# K5
+("K5", "细菌贴在一个黄色金属颗粒上，颗粒颜色由深变浅",
+ "Bacteria attach to a bright yellow metal particle, which changes to a pale green color. No people.",
+ "地杆菌和希瓦氏菌，能把金属还原。", "地杆菌、希瓦氏菌：把六价铬还原", ["地杆菌", "希瓦氏菌"]),
+("K5", "一个大红色骷髅图标变成一个浅色小图标",
+ "A large red skull pictogram shrinks and turns into a small pale icon. No people.",
+ "比如把六价铬变成三价铬，", "", ["六价铬", "三价铬"]),
+("K5", "可溶的金属离子在水里沉到瓶底",
+ "Dissolved metal particles in water settle to the bottom of a flask as a sediment. No people.",
+ "毒性大大降低，也更容易除去。"),
+# K6
+("K6", "一个细菌的细胞壁上粘满灰色金属小球",
+ "A bacterium whose cell wall is covered with small grey metal balls stuck to its surface. No people.",
+ "耐金属罗尔斯通菌，像块吸附海绵，", "耐金属罗尔斯通菌：细胞壁吸附铅镉"),
+("K6", "水里的金属小球不断被吸到细菌表面",
+ "Grey metal balls drift through water and keep sticking onto the bacterium's surface. No people.",
+ "把铅和镉吸附在自己的细胞壁上。", "", ["铅", "镉"]),
+# K7
+("K7", "一滴银色的汞滴和骷髅图标",
+ "A shiny silver mercury droplet icon next to a skull pictogram. No people.",
+ "汞，是毒性很强的重金属。", "荧光假单胞菌：把汞变得毒性低些"),
+("K7", "细菌吞入汞图标，放出颜色较浅的小图标",
+ "A bacterium takes in a mercury icon and releases a smaller, paler icon. No people.",
+ "荧光假单胞菌能转化汞，", "", ["荧光假单胞菌"]),
+("K7", "汞图标从深红变成浅黄",
+ "The mercury icon fades from deep red to pale yellow. No people.",
+ "变成毒性较低的形态。"),
+# 小结
+("小结", "欣欣站在两排图标前：农药与重金属",
+ "The panda mascot stands in front of two rows of icons: a pesticide bottle row and a metal particle row.",
+ "一起回顾一下。", "小结", ["降解农药", "去除重金属"]),
+("小结", "杆菌、杆菌、白色菌丝三个图标依次亮起",
+ "Three icons light up: a rod bacterium, another rod bacterium, and white fungal threads. No people.",
+ "假单胞菌、芽孢杆菌、白腐真菌降农药。"),
+("小结", "还原、吸附、转化三个箭头图标",
+ "Three arrow icons light up: a color-changing particle, metal balls sticking to a cell, and a mercury droplet turning pale. No people.",
+ "重金属：还原、吸附、转化。"),
+# 结尾
+("结尾", "欣欣和阿杰、小研一起挥手告别",
+ "The panda mascot waves goodbye together with the young male student and the female graduate student.",
+ "微生物也能治污，下次见！"),
+]

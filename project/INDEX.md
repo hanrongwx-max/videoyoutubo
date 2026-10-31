@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 54 / 59 |
+| Microbiology Biosafety | 59 / 59 | 55 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -732,6 +732,7 @@
 | Microbiology Biosafety | 53_What are common examples of hazardous materials in daily life trending question | 国内版 | 身边的危险物品，和吃油的微生物（国内版） | 48 | 4:00 | 10 / 4 | [剧本](<Microbiology Biosafety/53_What are common examples of hazardous materials in daily life trending question（国内版）/script.md>) · [审查](<Microbiology Biosafety/53_What are common examples of hazardous materials in daily life trending question（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 原著版 | 生物统计：让微生物数据说真话 | 29 | 2:25 | 5 / 0 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 国内版 | 生物统计：让微生物数据说真话（国内版） | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 原著版 | 吃农药、吸重金属的微生物 | 28 | 2:20 | 7 / 0 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/script.md>) |
 | Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 国内版 | 吃农药、吸重金属的微生物（国内版） | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 56_How do fungi help in breaking down toxic compounds trending mycology toxic micro | 国内版 | 真菌和细菌：拆解难缠的毒物（国内版） | 46 | 3:50 | 7 / 4 | [剧本](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/script.md>) · [审查](<Microbiology Biosafety/56_How do fungi help in breaking down toxic compounds trending mycology toxic micro（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 57_What role do bacteriophages play in removing biological hazards microbiology tre | 国内版 | 噬菌体与治污微生物（国内版） | 48 | 4:00 | 7 / 5 | [剧本](<Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre（国内版）/script.md>) · [审查](<Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre（国内版）/审查报告.md>) |
