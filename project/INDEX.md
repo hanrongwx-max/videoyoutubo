@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 320 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 321 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -8,8 +8,8 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
+| Electrical Safety Series | 24 / 25 | 6 / 16 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
-| Electrical Safety Series | 23 / 25 | 6 / 16 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Lab Safety Training Series | 13 / 13 | 9 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
@@ -258,12 +258,13 @@
 | Electrical Safety Series | 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview | 单一版 | 安全知识四关挑战 | 107 | 8:55 | 47 / 5 | [剧本](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview/script.md>) · [审查](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview/审查报告.md>) |
 | Electrical Safety Series | 16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE | 单一版 | 电击从哪来，怎样防 | 55 | 4:35 | 20 / 5 | [剧本](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE/script.md>) · [审查](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE/审查报告.md>) |
 | Electrical Safety Series | 17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe | 单一版 | 离高压线远一点 | 36 | 3:00 | 6 / 5 | [剧本](<Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe/script.md>) · [审查](<Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe/审查报告.md>) |
+| Electrical Safety Series | 18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need | 单一版 | 接地，给漏电找条路 | 41 | 3:25 | 11 / 4 | [剧本](<Electrical Safety Series/18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need/script.md>) · [审查](<Electrical Safety Series/18_Earthing Why Earthing Is Important What Is The Use of Earthing What Is The Need/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 国内版 | 人体电阻：为什么湿手更危险（国内版） | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/审查报告.md>) |
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 国内版 | 电线的颜色：认得清，更要验得准（国内版） | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/审查报告.md>) |
 | Electrical Safety Series | 21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE | 单一版 | 两种漏电保护器：十个方面比一比 | 53 | 4:25 | 11 / 3 | [剧本](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/审查报告.md>) |
 | Electrical Safety Series | 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE | 单一版 | 十条用电安全规则 | 50 | 4:10 | 11 / 3 | [剧本](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE/审查报告.md>) |
 | Electrical Safety Series | 23_Complete Electrical Safety | 单一版 | 电气安全全攻略 | 76 | 6:20 | 15 / 3 | [剧本](<Electrical Safety Series/23_Complete Electrical Safety/script.md>) · [审查](<Electrical Safety Series/23_Complete Electrical Safety/审查报告.md>) |
-| Electrical Safety Series | 24_10 Important Electrical Safety Rules Every Worker Must Follow | 单一版 | 用电安全十条守则 | 51 | 4:15 | 12 / 3 | [剧本](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow/script.md>) |
+| Electrical Safety Series | 24_10 Important Electrical Safety Rules Every Worker Must Follow | 单一版 | 用电安全十条守则 | 51 | 4:15 | 12 / 3 | [剧本](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow/script.md>) · [审查](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
