@@ -16,7 +16,7 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
-| Lab Safety Training Series | 13 / 13 | 11 / 13 |
+| Lab Safety Training Series | 13 / 13 | 12 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
@@ -482,6 +482,7 @@
 | Lab Safety Training Series | 08_Basic Lab Skills Training | 国内版 | 新生入门：九种基础仪器的规范使用（国内版） | 135 | 11:15 | 41 / 7 | [剧本](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/script.md>) · [审查](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 09_Safe Chemical Handling Lab Safety Video Part 5 | 原著版 | 安全操作化学品 | 42 | 3:30 | 24 / 0 | [剧本](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5/script.md>) |
 | Lab Safety Training Series | 09_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Lab Safety Training Series/09_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
+| Lab Safety Training Series | 10_Lab Techniques & Safety Crash Course Chemistry 21 | 原著版 | 实验室生存指南：穿戴、操作与应急 | 79 | 6:35 | 29 / 0 | [剧本](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21/script.md>) |
 | Lab Safety Training Series | 10_Lab Techniques & Safety Crash Course Chemistry 21 | 国内版 | 实验室生存指南：穿戴、操作与应急（国内版） | 98 | 8:10 | 29 / 6 | [剧本](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21（国内版）/script.md>) · [审查](<Lab Safety Training Series/10_Lab Techniques & Safety Crash Course Chemistry 21（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 11_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 国内版 | 实验室安全入门（国内版） | 153 | 12:45 | 45 / 8 | [剧本](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/script.md>) · [审查](<Lab Safety Training Series/11_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 12_Proper Dress and PPE Lab Safety Video Part 1 | 原著版 | 进实验室，先穿对、戴好 | 52 | 4:20 | 17 / 0 | [剧本](<Lab Safety Training Series/12_Proper Dress and PPE Lab Safety Video Part 1/script.md>) |
