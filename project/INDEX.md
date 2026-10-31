@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 390 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 391 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -29,7 +29,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Laboratory Ergonomics & RSI | 4 / 36 | 0 / 1 |
+| Laboratory Ergonomics & RSI | 5 / 36 | 0 / 1 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 1 / 2 |
 
 ## 已编写视频
@@ -479,7 +479,8 @@
 | Laboratory Ergonomics & RSI | 01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O | 国内版 | 安全日知识竞赛：二十道综合安全题（国内版） | 123 | 10:15 | 22 / 8 | [剧本](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/01_Safety Quiz Questions & Answers Safety Quiz Competition Safety Quiz For Safety O（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST | 单一版 | 安全知识抢答：二十道简答题 | 107 | 8:55 | 21 / 7 | [剧本](<Laboratory Ergonomics & RSI/02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST/script.md>) · [审查](<Laboratory Ergonomics & RSI/02_Safety Evaluation Test Questions & Answers (Officers) Safety Officer Test HSE ST/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet | 单一版 | 安全日问答：别国的安全日和我们的安全月 | 67 | 5:35 | 11 / 6 | [剧本](<Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet/script.md>) · [审查](<Laboratory Ergonomics & RSI/03_Safety Quiz on National Safety Day Safety Quiz Competition Safety Quiz For Safet/审查报告.md>) |
-| Laboratory Ergonomics & RSI | 04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question | 单一版 | 消防知识竞赛：灭火、报警与喷淋 | 84 | 7:00 | 21 / 6 | [剧本](<Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question/script.md>) |
+| Laboratory Ergonomics & RSI | 04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question | 单一版 | 消防知识竞赛：灭火、报警与喷淋 | 84 | 7:00 | 21 / 6 | [剧本](<Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question/script.md>) · [审查](<Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ | 单一版 | 消防基础自测：十道题测测你 | 58 | 4:50 | 11 / 6 | [剧本](<Laboratory Ergonomics & RSI/05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
