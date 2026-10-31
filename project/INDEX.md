@@ -24,7 +24,7 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 9 / 9 |
-| RSO Training Series | 9 / 9 | 6 / 9 |
+| RSO Training Series | 9 / 9 | 7 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
@@ -682,6 +682,7 @@
 | RSO Training Series | 05_Spring 2016 RSO Training Module 2 | 国内版 | 学生社团安全守则：欺凌、集体活动、饮酒与出行（国内版） | 131 | 10:55 | 32 / 8 | [剧本](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/script.md>) · [审查](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/审查报告.md>) |
 | RSO Training Series | 06_Radiation Safety Training | 原著版 | 核医学身边的辐射安全：病人、溢洒与急救 | 82 | 6:50 | 31 / 0 | [剧本](<RSO Training Series/06_Radiation Safety Training/script.md>) |
 | RSO Training Series | 06_Radiation Safety Training | 国内版 | 核医学身边的辐射安全：病人、溢洒与急救（国内版） | 107 | 8:55 | 31 / 9 | [剧本](<RSO Training Series/06_Radiation Safety Training（国内版）/script.md>) · [审查](<RSO Training Series/06_Radiation Safety Training（国内版）/审查报告.md>) |
+| RSO Training Series | 07_IONIZING RADIATION SAFETY | 原著版 | 电离辐射安全：从原理到日常防护 | 127 | 10:35 | 42 / 0 | [剧本](<RSO Training Series/07_IONIZING RADIATION SAFETY/script.md>) |
 | RSO Training Series | 07_IONIZING RADIATION SAFETY | 国内版 | 电离辐射安全：从原理到日常防护（国内版） | 147 | 12:15 | 42 / 8 | [剧本](<RSO Training Series/07_IONIZING RADIATION SAFETY（国内版）/script.md>) · [审查](<RSO Training Series/07_IONIZING RADIATION SAFETY（国内版）/审查报告.md>) |
 | RSO Training Series | 08_Basic Radiation Safety | 国内版 | 辐射安全基础课（国内版） | 167 | 13:55 | 30 / 8 | [剧本](<RSO Training Series/08_Basic Radiation Safety（国内版）/script.md>) · [审查](<RSO Training Series/08_Basic Radiation Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 09_Properties of Ionizing Radiation Alpha Beta Gamma | 国内版 | α、β、γ：三种射线的性质（国内版） | 74 | 6:10 | 17 / 6 | [剧本](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/script.md>) · [审查](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/审查报告.md>) |

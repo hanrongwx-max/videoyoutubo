@@ -1,0 +1,1796 @@
+{
+ "id": "07_IONIZING RADIATION SAFETY",
+ "edition": "原著版",
+ "series": "RSO Training Series",
+ "title": "电离辐射安全：从原理到日常防护",
+ "seconds": 635,
+ "source_doc": "course/RSO Training Series/07_IONIZING RADIATION SAFETY.md",
+ "author_source": "project/RSO Training Series/07_IONIZING RADIATION SAFETY/src.py",
+ "points": {
+  "K1": "每年都要学，学完要讨论",
+  "K2": "目标：合理可行尽量低",
+  "K3": "用途广，必须严格控制",
+  "K4": "电离辐射有哪几种",
+  "K5": "天然本底与职业照射",
+  "K6": "射线装置怎样产生X射线",
+  "K7": "放射性衰变释放能量",
+  "K8": "按需要选用核素",
+  "K9": "被照过的东西一般不带放射性",
+  "K10": "细胞损伤的四个条件",
+  "K11": "DNA损伤与癌症风险",
+  "K12": "四项控制措施",
+  "K13": "时间：剂量会累积",
+  "K14": "缩短时间的办法",
+  "K15": "距离：平方反比",
+  "K16": "拉开距离的办法",
+  "K17": "屏蔽：越多越致密越好",
+  "K18": "屏蔽要设计好、别破坏",
+  "K19": "准直器、屏蔽设施与铅围裙",
+  "K20": "疑似破损的源：隔离、报告",
+  "K21": "良好卫生习惯",
+  "K22": "辐射照射评估",
+  "K23": "巡测仪器怎么工作",
+  "K24": "测哪里，怎么估算",
+  "K25": "三类人员的剂量限值",
+  "K26": "照射过高怎么办",
+  "K27": "谁要做个人剂量监测",
+  "K28": "热释光剂量计的原理",
+  "K29": "剂量报告和年度记录",
+  "K30": "全身剂量计怎么戴",
+  "K31": "领部、中子和指环剂量计",
+  "K32": "剂量计的保管",
+  "K33": "电子报警剂量计",
+  "K34": "本单位辐射安全操作规程",
+  "K35": "发现问题，先做四件事",
+  "K36": "写清事件经过",
+  "K37": "会影响生育吗",
+  "K38": "会影响怀孕吗",
+  "K39": "超量照射靠报告和调查",
+  "K40": "有疑问问谁",
+  "K41": "依法管理放射性物质",
+  "K42": "不必害怕，但要尊重"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验楼走廊，身旁门上有电离辐射警告标志，向镜头招手",
+   "prompt_en": "The panda mascot stands in a university lab building corridor beside a door with an ionizing radiation warning sign and waves at the camera.",
+   "narration": "这一课讲电离辐射安全。",
+   "overlay": [
+    "电离辐射安全：从原理到日常防护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "四个图标：原子、时钟、盾牌、剂量计",
+   "prompt_en": "Four icons in a row: an atom, a clock, a shield and a small clip-on dosimeter badge. No people.",
+   "narration": "从原理讲到防护，再讲到日常管理。",
+   "overlay": [],
+   "labels": [
+    "原理",
+    "防护",
+    "监测",
+    "应急"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一天到射线装置实验室，小研递给他一个剂量计",
+   "prompt_en": "The young male student arrives at an X-ray equipment lab on his first day; the female graduate student hands him a small blank dosimeter badge.",
+   "narration": "阿杰今天第一次进射线装置实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把剂量计随手放在洒满阳光的窗台上",
+   "prompt_en": "The young male student casually puts the dosimeter badge on a sunny windowsill.",
+   "narration": "他把剂量计随手放在了窗台上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰笑着对小研说话，指着剂量计",
+   "prompt_en": "The young male student smiles and points at the badge while talking to the female graduate student.",
+   "narration": "反正有它护着我，戴不戴都一样吧？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，欣欣从旁边探出头",
+   "prompt_en": "The female graduate student shakes her head while the panda mascot leans in from the side.",
+   "narration": "这句话错了两处，我们从头说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "每年都要学，学完要讨论",
+   "scene": "王老师在会议室给大家上辐射安全课",
+   "prompt_en": "The safety administrator gives a radiation safety class to a small group of students in a meeting room.",
+   "narration": "这门课帮工作人员和主管落实辐射安全。",
+   "overlay": [
+    "每年都要学，学完要讨论"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "每年都要学，学完要讨论",
+   "scene": "日历上每年同一格亮起",
+   "prompt_en": "A calendar with the same slot highlighted on every year page. No people.",
+   "narration": "每年看一次，满足初训和复训要求。",
+   "overlay": [],
+   "labels": [
+    "初训",
+    "复训",
+    "每年一次"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "每年都要学，学完要讨论",
+   "scene": "老周带着阿杰、小研围桌讨论",
+   "prompt_en": "The older man leads a discussion with the young male student and the female graduate student around a table.",
+   "narration": "看完由主管带着，讨论本岗位的规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "目标：合理可行尽量低",
+   "scene": "欣欣举着画有向下箭头的空白牌子",
+   "prompt_en": "The panda mascot holds up a blank sign with a large downward arrow.",
+   "narration": "目标只有一个：合理可行，尽量低。",
+   "overlay": [
+    "目标：合理可行尽量低"
+   ],
+   "labels": [
+    "合理可行尽量低"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "目标：合理可行尽量低",
+   "scene": "三个图标：人、负责人、盾牌",
+   "prompt_en": "Three icons: a worker, a supervisor with a clipboard, and a shield. No people.",
+   "narration": "靠知情的人员、负责的主管和安全计划。",
+   "overlay": [],
+   "labels": [
+    "知情人员",
+    "负责主管",
+    "安全计划"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "用途广，必须严格控制",
+   "scene": "空白的胸部透视片和零件透视图",
+   "prompt_en": "A blank chest X-ray film and an X-ray image of a mechanical part on a light box. No people.",
+   "narration": "电离辐射能看透人体，也能检查零件。",
+   "overlay": [
+    "用途广，必须严格控制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "用途广，必须严格控制",
+   "scene": "射线装置门口的红色工作指示灯亮起",
+   "prompt_en": "A red warning light glows above the door of an X-ray equipment room. No people.",
+   "narration": "它能量很高，必须严格控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射有哪几种",
+   "scene": "示意图：X射线和γ射线画成波浪光束",
+   "prompt_en": "A diagram: two wavy beams of high-energy photons. No people.",
+   "narration": "一类是高能光子：X射线和γ射线。",
+   "overlay": [
+    "电离辐射有哪几种"
+   ],
+   "labels": [
+    "X 射线",
+    "γ 射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射有哪几种",
+   "scene": "示意图：α、β、中子三种小球",
+   "prompt_en": "A diagram: three kinds of small particles, a large one, a tiny one and a neutral one. No people.",
+   "narration": "一类是粒子：α、β和中子。",
+   "overlay": [],
+   "labels": [
+    "α",
+    "β",
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然本底与职业照射",
+   "scene": "太阳、星空、岩石图标",
+   "prompt_en": "Icons of the sun, a starry sky and rocks in the ground. No people.",
+   "narration": "太阳、宇宙、地下的岩石都有辐射。",
+   "overlay": [
+    "天然本底与职业照射"
+   ],
+   "labels": [
+    "宇宙射线",
+    "岩石土壤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然本底与职业照射",
+   "scene": "普通人图标周围有淡淡的光点",
+   "prompt_en": "An ordinary person icon surrounded by faint glowing dots. Icon only, no people.",
+   "narration": "这叫天然本底，人人一生都在受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然本底与职业照射",
+   "scene": "小研在射线装置旁，身边一个调节旋钮",
+   "prompt_en": "The female graduate student stands beside X-ray equipment with a large control knob icon beside her.",
+   "narration": "本底管不了，工作中的照射能控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线装置怎样产生X射线",
+   "scene": "示意图：X射线管里电子撞向靶",
+   "prompt_en": "A simple diagram of an X-ray tube: electrons flying from one end and striking a target. No people.",
+   "narration": "射线装置用高电压让电子打靶，",
+   "overlay": [
+    "射线装置怎样产生X射线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线装置怎样产生X射线",
+   "scene": "示意图：射线经过滤片和准直器变成窄束",
+   "prompt_en": "A diagram: rays pass through a filter plate and a collimator and come out as a narrow beam. No people.",
+   "narration": "再经过滤和准直，得到需要的射线。",
+   "overlay": [],
+   "labels": [
+    "过滤",
+    "准直"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线装置怎样产生X射线",
+   "scene": "控制台上的电源钥匙被拔下",
+   "prompt_en": "A key being removed from a blank control console; a green power-off indicator. No people.",
+   "narration": "关掉电源，就不再产生射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放射性衰变释放能量",
+   "scene": "示意图：一个原子核放出光和小球",
+   "prompt_en": "A diagram: an atomic nucleus emitting rays and small particles as it becomes stable. No people.",
+   "narration": "放射性物质衰变，会变得更稳定，",
+   "overlay": [
+    "放射性衰变释放能量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放射性衰变释放能量",
+   "scene": "六个图标：γ、α、β、中子、光、热",
+   "prompt_en": "Six icons in a row: a wave, a big particle, a small particle, a neutral particle, a light bulb and a flame. No people.",
+   "narration": "同时放出射线、粒子，还有光和热。",
+   "overlay": [],
+   "labels": [
+    "γ",
+    "α",
+    "β",
+    "中子",
+    "光和热"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放射性衰变释放能量",
+   "scene": "几个不同颜色的原子核图标，各有不同的光",
+   "prompt_en": "Several atom icons of different colors, each emitting a different pattern of rays. No people.",
+   "narration": "不同核素，放出的能量各不相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "按需要选用核素",
+   "scene": "天花板上的烟雾探测器",
+   "prompt_en": "A smoke detector on a ceiling. No people.",
+   "narration": "按用途选核素，比如烟雾探测器里，",
+   "overlay": [
+    "按需要选用核素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "按需要选用核素",
+   "scene": "示意图：小源放出α和少量γ",
+   "prompt_en": "A diagram: a tiny sealed source emitting alpha particles and a few gamma rays. No people.",
+   "narration": "用的镅源放出α和γ，正好合用。",
+   "overlay": [],
+   "labels": [
+    "镅源",
+    "α",
+    "γ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "被照过的东西一般不带放射性",
+   "scene": "一个零件刚被X射线照过，旁边打勾",
+   "prompt_en": "A metal part just scanned by X-rays, with a green check mark beside it. No people.",
+   "narration": "被X射线照过的东西，一般不会带放射性。",
+   "overlay": [
+    "被照过的东西一般不带放射性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "被照过的东西一般不带放射性",
+   "scene": "示意图：中子打进物质，物质发光",
+   "prompt_en": "A diagram: neutrons hitting a block of material which then glows faintly. No people.",
+   "narration": "除非受到核反应级别的极强辐射。",
+   "overlay": [],
+   "labels": [
+    "核反应级照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "细胞损伤的四个条件",
+   "scene": "桌子图标打勾，人体轮廓上有闪点",
+   "prompt_en": "A desk icon with a green check, and a human body outline with small sparks on it. No people.",
+   "narration": "大多数物体受照没事，细胞却会受损。",
+   "overlay": [
+    "细胞损伤的四个条件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "细胞损伤的四个条件",
+   "scene": "四个图标：大剂量、反复、全身、敏感器官",
+   "prompt_en": "Four icons: a large dose bar, repeating arrows, a whole body outline and a highlighted organ. No people.",
+   "narration": "剂量大、反复受照、大面积、敏感组织，",
+   "overlay": [],
+   "labels": [
+    "剂量大",
+    "反复受照",
+    "大面积",
+    "敏感组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "细胞损伤的四个条件",
+   "scene": "欣欣点头竖起手指",
+   "prompt_en": "The panda mascot nods and raises one finger.",
+   "narration": "这时急性损伤才可能明显。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "DNA损伤与癌症风险",
+   "scene": "DNA双螺旋被射线击断一处",
+   "prompt_en": "A DNA double helix hit by a ray and broken at one point. No people.",
+   "narration": "射线能打断DNA，引起突变。",
+   "overlay": [
+    "DNA损伤与癌症风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "DNA损伤与癌症风险",
+   "scene": "细胞图标：多数变灰，一个存活变红",
+   "prompt_en": "A group of cell icons: most turn grey, one damaged cell survives and turns red. No people.",
+   "narration": "多数突变细胞会死，修不好的可能癌变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "DNA损伤与癌症风险",
+   "scene": "一根风险条随受照次数加长",
+   "prompt_en": "A blank risk bar growing longer with each added exposure mark. No people.",
+   "narration": "照得越多，风险越大，能少则少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "四项控制措施",
+   "scene": "四个图标：时钟、箭头、盾牌、手套",
+   "prompt_en": "Four icons: a clock, a long arrow, a shield and a glove. No people.",
+   "narration": "控制照射，靠四招：",
+   "overlay": [
+    "四项控制措施"
+   ],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽",
+    "污染控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "四项控制措施",
+   "scene": "欣欣伸出四个手指",
+   "prompt_en": "The panda mascot holds up four fingers.",
+   "narration": "时间、距离、屏蔽，还有污染控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：剂量会累积",
+   "scene": "人站在源旁，时钟指针转动，刻度条变长",
+   "prompt_en": "A diagram: a person icon near a glowing source; a clock turns and a dose bar grows. Icon only, no people.",
+   "narration": "在源旁待得越久，受照越多。",
+   "overlay": [
+    "时间：剂量会累积"
+   ],
+   "labels": [
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：剂量会累积",
+   "scene": "日历上的小格子一点点累加成一根长条",
+   "prompt_en": "Small blocks from a calendar stacking up into one tall bar. No people.",
+   "narration": "单次察觉不到，但剂量会累加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "缩短时间的办法",
+   "scene": "小研在没开机的设备前演练动作",
+   "prompt_en": "The female graduate student rehearses her moves in front of switched-off X-ray equipment.",
+   "narration": "先在不出束时演练一遍，",
+   "overlay": [
+    "缩短时间的办法"
+   ],
+   "labels": [
+    "先演练"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "缩短时间的办法",
+   "scene": "控制台上的旋钮调到中间",
+   "prompt_en": "A control knob on a blank console turned to a middle setting. No people.",
+   "narration": "功率调到够用就行，",
+   "overlay": [],
+   "labels": [
+    "功率够用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "缩短时间的办法",
+   "scene": "计时器图标和一个打叉的重拍图标",
+   "prompt_en": "A timer icon beside a crossed-out icon of a repeated exposure. No people.",
+   "narration": "管好出束时间，避免重拍。",
+   "overlay": [],
+   "labels": [
+    "少出束",
+    "不重拍"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "距离：平方反比",
+   "scene": "阿杰从源旁往后退，箭头拉长",
+   "prompt_en": "The young male student steps back away from a glowing source, with a long arrow on the floor.",
+   "narration": "距离是最有效的方法。",
+   "overlay": [
+    "距离：平方反比"
+   ],
+   "labels": [
+    "距离",
+    "最有效"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "距离：平方反比",
+   "scene": "示意图：距离加倍，光斑面积变四倍，强度变暗",
+   "prompt_en": "A diagram: rays from a point spreading out; at double the distance the same rays cover four times the area and look dimmer. No people.",
+   "narration": "距离加一倍，强度降到四分之一。",
+   "overlay": [],
+   "labels": [
+    "平方反比"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "距离：平方反比",
+   "scene": "欣欣往后退了两步",
+   "prompt_en": "The panda mascot takes two steps back and gives a thumbs up.",
+   "narration": "多退几步，差别就很明显。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拉开距离的办法",
+   "scene": "人员站在远处的控制台后",
+   "prompt_en": "The female graduate student operates from a control console far away from the X-ray equipment.",
+   "narration": "人员尽量远离源，",
+   "overlay": [
+    "拉开距离的办法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拉开距离的办法",
+   "scene": "地面上画出警戒线围住设备区",
+   "prompt_en": "A floor area around X-ray equipment marked off with barrier tape and a radiation warning sign. No people.",
+   "narration": "划定并守住控制区，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "拉开距离的办法",
+   "scene": "示意图：射束指向墙角空处，有人的门口打叉",
+   "prompt_en": "A diagram: a beam pointed toward an empty wall, while a beam pointed at a doorway with a person icon is crossed out. No people.",
+   "narration": "射束别朝着可能有人的方向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "屏蔽：越多越致密越好",
+   "scene": "示意图：射线穿过木板、被铅板挡住",
+   "prompt_en": "A diagram split in two: rays pass mostly through a wooden board on the left, but are mostly stopped by a lead plate on the right. No people.",
+   "narration": "挡在中间的材料，都会吸收射线。",
+   "overlay": [
+    "屏蔽：越多越致密越好"
+   ],
+   "labels": [
+    "木板",
+    "铅板"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "屏蔽：越多越致密越好",
+   "scene": "厚墙和薄墙对比",
+   "prompt_en": "A diagram comparing a thin wall and a thick wall, with fewer rays getting through the thick one. No people.",
+   "narration": "越厚、越致密，挡得越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "屏蔽：越多越致密越好",
+   "scene": "射线机房隔壁是办公室",
+   "prompt_en": "A floor plan showing an X-ray room next to an occupied office. No people.",
+   "narration": "隔壁可能有人，就需要屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "屏蔽要设计好、别破坏",
+   "scene": "老李和王老师审阅空白图纸",
+   "prompt_en": "The facility engineer and the safety administrator review blank floor plans on a desk.",
+   "narration": "屏蔽要先设计好，再按要求施工。",
+   "overlay": [
+    "屏蔽要设计好、别破坏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "屏蔽要设计好、别破坏",
+   "scene": "工人要在机房墙上打孔，图标打叉",
+   "prompt_en": "A drill aimed at a shielded wall of an X-ray room, crossed out with a red X. No people.",
+   "narration": "装修改造，不能随便破坏屏蔽墙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "准直器、屏蔽设施与铅围裙",
+   "scene": "准直器投下一个小方形光野",
+   "prompt_en": "An X-ray collimator projecting a small square light field onto a table. No people.",
+   "narration": "用准直器，把射束限在需要的地方。",
+   "overlay": [
+    "准直器、屏蔽设施与铅围裙"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "准直器、屏蔽设施与铅围裙",
+   "scene": "带屏蔽门的机房",
+   "prompt_en": "An X-ray room with a heavy shielded door and a radiation warning sign. No people.",
+   "narration": "有屏蔽机房就用，没有就严格管控。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "准直器、屏蔽设施与铅围裙",
+   "scene": "小研穿上铅围裙",
+   "prompt_en": "The female graduate student puts on a lead apron.",
+   "narration": "需要时，穿上铅围裙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "疑似破损的源：隔离、报告",
+   "scene": "一个放射源小罐边有裂缝图标，周围拉起隔离带",
+   "prompt_en": "A small sealed source container with a crack icon, surrounded by barrier tape. No people.",
+   "narration": "怀疑放射源破损泄漏，先隔离，",
+   "overlay": [
+    "疑似破损的源：隔离、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "疑似破损的源：隔离、报告",
+   "scene": "小研打电话给王老师",
+   "prompt_en": "The female graduate student calls the safety administrator on the phone.",
+   "narration": "并立即联系辐射安全负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "良好卫生习惯",
+   "scene": "小研戴手套操作，摘手套后洗手",
+   "prompt_en": "The female graduate student takes off her gloves and washes her hands at a sink.",
+   "narration": "勤洗手，是防污染最简单的办法。",
+   "overlay": [
+    "良好卫生习惯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "良好卫生习惯",
+   "scene": "食物、水杯、化妆品图标打叉",
+   "prompt_en": "Icons of food, a cup and cosmetics, all crossed out. No people.",
+   "narration": "工作区不吃喝，防止误食和沾染。",
+   "overlay": [],
+   "labels": [
+    "不吃喝",
+    "不化妆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射照射评估",
+   "scene": "王老师拿着空白评估表站在机房门口",
+   "prompt_en": "The safety administrator holds a blank assessment form at the door of an X-ray room.",
+   "narration": "每项作业首次运行时，都要评估照射。",
+   "overlay": [
+    "辐射照射评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射照射评估",
+   "scene": "日历上每年一格打勾",
+   "prompt_en": "A calendar with a check mark on one slot each year. No people.",
+   "narration": "每年复核，由辐射安全负责人详细审查。",
+   "overlay": [],
+   "labels": [
+    "首次评估",
+    "每年复核"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "巡测仪器怎么工作",
+   "scene": "示意图：电离室里离子被电极收集",
+   "prompt_en": "A diagram of an ionization chamber: a gas-filled box where ions drift to two electrodes. No people.",
+   "narration": "电离室收集射线产生的离子，",
+   "overlay": [
+    "巡测仪器怎么工作"
+   ],
+   "labels": [
+    "电离室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "巡测仪器怎么工作",
+   "scene": "手持巡测仪的空白屏幕",
+   "prompt_en": "A handheld radiation survey meter with a blank display. No people.",
+   "narration": "测电流就知道辐射水平；计数管也能测。",
+   "overlay": [],
+   "labels": [
+    "计数管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "巡测仪器怎么工作",
+   "scene": "巡测仪屏幕上只有一个时钟图标",
+   "prompt_en": "A survey meter display showing only a small clock icon and a bar. No people.",
+   "narration": "读数是剂量率，如微伦琴每小时。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "测哪里，怎么估算",
+   "scene": "王老师拿巡测仪沿门缝、窗边测量",
+   "prompt_en": "The safety administrator checks along a door gap and a window with a handheld survey meter.",
+   "narration": "凡是可能受照的地方都要测，",
+   "overlay": [
+    "测哪里，怎么估算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "测哪里，怎么估算",
+   "scene": "走廊里有路人图标",
+   "prompt_en": "A corridor outside the lab with passer-by icons. Icon only, no people.",
+   "narration": "包括走廊这样的公众区域。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "测哪里，怎么估算",
+   "scene": "计算器和空白表格",
+   "prompt_en": "A calculator and a blank worksheet on a desk. No people.",
+   "narration": "再结合使用频率，估算最大可能受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三类人员的剂量限值",
+   "scene": "三根刻度尺，各有一条红线",
+   "prompt_en": "Three blank gauges side by side, each with its own red limit line. No people.",
+   "narration": "联邦法规给三类人员分别定了限值。",
+   "overlay": [
+    "三类人员的剂量限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三类人员的剂量限值",
+   "scene": "三根刻度尺上的红线标出数值",
+   "prompt_en": "Three blank gauges with red limit lines at different heights. No people.",
+   "narration": "工作人员每年5雷姆，即50毫希沃特。",
+   "overlay": [],
+   "labels": [
+    "职业 50mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三类人员的剂量限值",
+   "scene": "欣欣指着最低的那条红线",
+   "prompt_en": "The panda mascot points at the lowest of the three red lines.",
+   "narration": "孕期0.5雷姆，公众0.1雷姆，公众最严。",
+   "overlay": [],
+   "labels": [
+    "孕期 5mSv",
+    "公众 1mSv"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "照射过高怎么办",
+   "scene": "三个图标：屏蔽墙、防护服、规章本",
+   "prompt_en": "Three icons: a shielding wall, protective gear, and a blank rule book. No people.",
+   "narration": "照射偏高，就从三方面改：",
+   "overlay": [
+    "照射过高怎么办"
+   ],
+   "labels": [
+    "工程控制",
+    "个人防护",
+    "管理控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "照射过高怎么办",
+   "scene": "老李在机房加装屏蔽板，王老师旁边记录",
+   "prompt_en": "The facility engineer installs a shielding panel while the safety administrator takes notes.",
+   "narration": "改设备、加防护、调整管理和排班。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "谁要做个人剂量监测",
+   "scene": "王老师给小研和阿杰发剂量计",
+   "prompt_en": "The safety administrator hands dosimeter badges to the female graduate student and the young male student.",
+   "narration": "根据评估，相关人员要做剂量监测，",
+   "overlay": [
+    "谁要做个人剂量监测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "谁要做个人剂量监测",
+   "scene": "日历分成按月和按季两种",
+   "prompt_en": "A calendar split into monthly and quarterly sections. No people.",
+   "narration": "按月或按季度监测，有些岗位自动纳入。",
+   "overlay": [],
+   "labels": [
+    "按月",
+    "按季度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "谁要做个人剂量监测",
+   "scene": "孕妇图标旁的日历格子更密",
+   "prompt_en": "A pregnant woman icon beside a calendar with more frequent check marks. Icon only, no people.",
+   "narration": "怀孕的辐射工作人员，必须按月监测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "热释光剂量计的原理",
+   "scene": "剂量计被射线照射，内部晶片微微发光",
+   "prompt_en": "A dosimeter badge being hit by rays, with the small crystal inside glowing faintly. No people.",
+   "narration": "热释光剂量计先把射线能量存起来，",
+   "overlay": [
+    "热释光剂量计的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "热释光剂量计的原理",
+   "scene": "示意图：晶片被加热后发光",
+   "prompt_en": "A diagram: a small crystal on a heater releasing light. No people.",
+   "narration": "加热后以光的形式放出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "热释光剂量计的原理",
+   "scene": "两个剂量计对比，旁边电脑空白屏幕",
+   "prompt_en": "Two badges compared side by side next to a computer with a blank screen. No people.",
+   "narration": "和对照剂量计比较，算出个人剂量。",
+   "overlay": [],
+   "labels": [
+    "个人",
+    "对照"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "剂量报告和年度记录",
+   "scene": "空白剂量报告单",
+   "prompt_en": "A blank dose report sheet with empty table rows. No people.",
+   "narration": "报告列出本期和全年累计，",
+   "overlay": [
+    "剂量报告和年度记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "剂量报告和年度记录",
+   "scene": "人体轮廓上手和眼睛被标出",
+   "prompt_en": "A body outline with the hands and eyes highlighted. No people.",
+   "narration": "手、眼等部位也会单独列出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "剂量报告和年度记录",
+   "scene": "小研在空白档案表上签字确认",
+   "prompt_en": "The female graduate student signs a blank record form at a desk.",
+   "narration": "年度记录经辐射安全负责人签字，本人核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "全身剂量计怎么戴",
+   "scene": "四种剂量计图标",
+   "prompt_en": "Four kinds of dosimeter icons: a badge, a collar badge, a belt badge and a ring. No people.",
+   "narration": "剂量计有好几种，",
+   "overlay": [
+    "全身剂量计怎么戴"
+   ],
+   "labels": [
+    "全身",
+    "领部",
+    "中子",
+    "指环"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "全身剂量计怎么戴",
+   "scene": "阿杰把剂量计夹在胸前",
+   "prompt_en": "The young male student clips a dosimeter badge on the front of his chest.",
+   "narration": "全身剂量计必戴，夹在胸前躯干上。",
+   "overlay": [],
+   "labels": [
+    "肩以下",
+    "腰以上"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "全身剂量计怎么戴",
+   "scene": "阿杰穿上铅围裙，剂量计在围裙里面",
+   "prompt_en": "The young male student wears a lead apron, with the dosimeter badge clipped underneath the apron.",
+   "narration": "穿铅围裙时，戴在围裙里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "领部、中子和指环剂量计",
+   "scene": "小研衣领上夹着第二个剂量计",
+   "prompt_en": "The female graduate student wears a second dosimeter badge on her collar above the lead apron.",
+   "narration": "围裙挡住胸前时，领口再戴一个。",
+   "overlay": [
+    "领部、中子和指环剂量计"
+   ],
+   "labels": [
+    "测头部和眼"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "领部、中子和指环剂量计",
+   "scene": "剂量计用腰带平贴在腹部",
+   "prompt_en": "A dosimeter badge worn flat against the waist on a belt. No people.",
+   "narration": "中子剂量计，平贴在腰腹部。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "领部、中子和指环剂量计",
+   "scene": "手指戴着指环剂量计",
+   "prompt_en": "A gloved hand wearing a ring dosimeter on one finger. No people.",
+   "narration": "常手持放射源的人，戴指环剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "剂量计的保管",
+   "scene": "剂量计挂在工作区的专用架上，旁边对照剂量计",
+   "prompt_en": "Dosimeter badges hanging on a dedicated rack in the lab next to a control badge. No people.",
+   "narration": "下班不带走，放回专用位置，",
+   "overlay": [
+    "剂量计的保管"
+   ],
+   "labels": [
+    "对照剂量计"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "剂量计的保管",
+   "scene": "窗台阳光、暖气片图标打叉",
+   "prompt_en": "Icons of a sunny windowsill and a radiator, both crossed out. No people.",
+   "narration": "别晒太阳、别靠热源，会影响读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "剂量计的保管",
+   "scene": "阿杰把窗台上的剂量计取回",
+   "prompt_en": "The young male student picks the dosimeter badge back up from the windowsill, looking embarrassed.",
+   "narration": "阿杰赶紧把剂量计取了回来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "电子报警剂量计",
+   "scene": "腰间同时戴着剂量计和电子报警剂量计",
+   "prompt_en": "A belt with both a passive dosimeter badge and a small electronic alarm dosimeter. No people.",
+   "narration": "高辐射区附近，再加戴报警剂量计。",
+   "overlay": [
+    "电子报警剂量计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "电子报警剂量计",
+   "scene": "报警剂量计和剂量计并列，报警计不能替代，打叉",
+   "prompt_en": "An electronic alarm dosimeter placed on top of a crossed-out badge outline, showing it cannot replace it. No people.",
+   "narration": "它只能配合使用，不能代替剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "电子报警剂量计",
+   "scene": "欣欣摇头，身前一个剂量计和一个没有盾牌的图标",
+   "prompt_en": "The panda mascot shakes its head beside a dosimeter badge icon and a crossed-out shield icon.",
+   "narration": "剂量计只记录，不能挡住射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "本单位辐射安全操作规程",
+   "scene": "实验室门边挂着空白的操作规程夹",
+   "prompt_en": "A blank operating procedure folder hanging beside the lab door. No people.",
+   "narration": "这些做法，要写进本实验室的规程。",
+   "overlay": [
+    "本单位辐射安全操作规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "本单位辐射安全操作规程",
+   "scene": "规程夹打开，五个图标",
+   "prompt_en": "The folder opens to show five icons: a machine, a graduation cap, gloves, a shield wall and an alarm bell. No people.",
+   "narration": "操作步骤、培训、防护、工程控制，",
+   "overlay": [],
+   "labels": [
+    "操作步骤",
+    "培训",
+    "防护用品",
+    "工程控制",
+    "异常处置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "本单位辐射安全操作规程",
+   "scene": "老周和阿杰一起看规程",
+   "prompt_en": "The older man and the young male student read the procedure folder together.",
+   "narration": "还有怀疑超量时怎么办，都要写清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "发现问题，先做四件事",
+   "scene": "小研按下急停按钮，关上机房门",
+   "prompt_en": "The female graduate student presses an emergency stop button and closes the X-ray room door.",
+   "narration": "发现问题，立即停止操作，保护现场。",
+   "overlay": [
+    "发现问题，先做四件事"
+   ],
+   "labels": [
+    "停机",
+    "保护现场"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "发现问题，先做四件事",
+   "scene": "急救十字图标和电话",
+   "prompt_en": "A first aid cross icon and a telephone. No people.",
+   "narration": "需要时就医。",
+   "overlay": [],
+   "labels": [
+    "就医"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "发现问题，先做四件事",
+   "scene": "小研给老周打电话",
+   "prompt_en": "The female graduate student calls the older man on her phone.",
+   "narration": "联系你的主管，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "发现问题，先做四件事",
+   "scene": "王老师接电话，墙上挂着值班表",
+   "prompt_en": "The safety administrator answers the phone in an office with a blank duty roster on the wall.",
+   "narration": "再联系辐射安全负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "发现问题，先做四件事",
+   "scene": "夜间，保卫处值班员接电话",
+   "prompt_en": "At night, the security officer answers a phone at the campus security duty desk.",
+   "narration": "下班时间，通过值班或急诊电话找人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K36",
+   "section_title": "写清事件经过",
+   "scene": "小研和阿杰各自在空白表上写记录",
+   "prompt_en": "The female graduate student and the young male student each write on blank forms at separate desks.",
+   "narration": "在场的每个人，都要写下经过：",
+   "overlay": [
+    "写清事件经过"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K36",
+   "section_title": "写清事件经过",
+   "scene": "四个图标：设备参数、距离、时钟、眼睛",
+   "prompt_en": "Four icons: a control knob, a measuring tape, a clock and an eye. No people.",
+   "narration": "设备参数、距离、时间和看到的情况。",
+   "overlay": [],
+   "labels": [
+    "参数",
+    "距离",
+    "时间",
+    "现场情况"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K37",
+   "section_title": "会影响生育吗",
+   "scene": "小研举手提问",
+   "prompt_en": "The female graduate student raises her hand to ask the panda mascot a question.",
+   "narration": "小研问：辐射会影响以后生孩子吗？",
+   "overlay": [
+    "会影响生育吗"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "K37",
+   "section_title": "会影响生育吗",
+   "scene": "染色体图标，一对中只有一条有小标记",
+   "prompt_en": "A chromosome pair icon with a small mark on only one of the two. No people.",
+   "narration": "可能影响DNA，但遗传影响机会很小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "K37",
+   "section_title": "会影响生育吗",
+   "scene": "卵细胞图标旁的刻度条慢慢累加",
+   "prompt_en": "An egg cell icon beside a slowly growing bar. No people.",
+   "narration": "卵细胞不会更新，影响会累积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "K37",
+   "section_title": "会影响生育吗",
+   "scene": "欣欣举着向下箭头的牌子",
+   "prompt_en": "The panda mascot holds up the sign with the downward arrow again.",
+   "narration": "所以，照射还是要尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "K38",
+   "section_title": "会影响怀孕吗",
+   "scene": "孕妇图标旁的胎儿图标被保护罩包住",
+   "prompt_en": "A pregnant woman icon with a protective bubble around the baby. Icon only, no people.",
+   "narration": "胎儿对辐射特别敏感，孕早期尤甚。",
+   "overlay": [
+    "会影响怀孕吗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "K38",
+   "section_title": "会影响怀孕吗",
+   "scene": "女性图标走向负责人，旁边医院十字",
+   "prompt_en": "A woman icon walking toward a supervisor icon, with a hospital cross nearby. Icon only, no people.",
+   "narration": "怀疑怀孕，尽快检查，进入胎儿保护程序。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "K38",
+   "section_title": "会影响怀孕吗",
+   "scene": "王老师和老周一起看空白的岗位安排表",
+   "prompt_en": "The safety administrator and the older man review a blank work assignment chart together.",
+   "narration": "评估工作场所，必要时限制或调整工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "K38",
+   "section_title": "会影响怀孕吗",
+   "scene": "检查室里护士图标询问女性图标",
+   "prompt_en": "A medical staff icon asking a woman icon a question in an X-ray exam room. Icon only, no people.",
+   "narration": "做X射线检查前，也会先问是否怀孕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "K39",
+   "section_title": "超量照射靠报告和调查",
+   "scene": "仪器上的读数跳高，人却毫无感觉",
+   "prompt_en": "A person icon standing calmly while a survey meter bar beside them jumps high. Icon only, no people.",
+   "narration": "超量照射，人往往没有感觉。",
+   "overlay": [
+    "超量照射靠报告和调查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "K39",
+   "section_title": "超量照射靠报告和调查",
+   "scene": "三个图标：门没关、联锁被短接、警示牌缺失",
+   "prompt_en": "Three icons: an open equipment door, a bypassed interlock switch, and a missing warning sign outline. No people.",
+   "narration": "常因设备没关、联锁失效、标志不全。",
+   "overlay": [],
+   "labels": [
+    "设备没关",
+    "联锁失效",
+    "标志缺失"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "K39",
+   "section_title": "超量照射靠报告和调查",
+   "scene": "空白报告表和放大镜",
+   "prompt_en": "A blank report form and a magnifying glass. No people.",
+   "narration": "怀疑超量，一律报告，再查原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "K40",
+   "section_title": "有疑问问谁",
+   "scene": "阿杰去王老师办公室请教",
+   "prompt_en": "The young male student visits the safety administrator's office to ask a question.",
+   "narration": "问主管、辐射安全负责人或环境卫生部门。",
+   "overlay": [
+    "有疑问问谁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "K40",
+   "section_title": "有疑问问谁",
+   "scene": "书架上的空白文件夹",
+   "prompt_en": "A shelf of blank binders in an office. No people.",
+   "narration": "他们有场所资料和照射评估文件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "K41",
+   "section_title": "依法管理放射性物质",
+   "scene": "一叠空白法规文本和盾牌图标",
+   "prompt_en": "A stack of blank regulation booklets with a shield icon. No people.",
+   "narration": "放射性物质有专门规章和技术规程，",
+   "overlay": [
+    "依法管理放射性物质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "K41",
+   "section_title": "依法管理放射性物质",
+   "scene": "空白许可证和公章图标",
+   "prompt_en": "A blank license certificate with a round seal icon. No people.",
+   "narration": "受限的放射性材料，要持许可证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "K41",
+   "section_title": "依法管理放射性物质",
+   "scene": "空白标准文本封面",
+   "prompt_en": "A blank standard booklet with a radiation trefoil icon on the cover. No people.",
+   "narration": "一切照射，以国家辐射防护法规为总依据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "K42",
+   "section_title": "不必害怕，但要尊重",
+   "scene": "欣欣面前是一台射线装置，欣欣竖起大拇指",
+   "prompt_en": "The panda mascot stands near X-ray equipment and gives a thumbs up.",
+   "narration": "电离辐射是好工具，也有潜在危害。",
+   "overlay": [
+    "不必害怕，但要尊重"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "K42",
+   "section_title": "不必害怕，但要尊重",
+   "scene": "欣欣举起向下箭头的牌子",
+   "prompt_en": "The panda mascot holds up the sign with the downward arrow.",
+   "narration": "不必害怕，但要尊重，照射尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在白板前，四个图标依次亮起",
+   "prompt_en": "The panda mascot stands in front of a whiteboard as four icons light up one by one.",
+   "narration": "记住四招：时间、距离、屏蔽、防污染。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽",
+    "污染控制"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "剂量计戴在胸前、领口和手指",
+   "prompt_en": "A body outline with dosimeter badges on the chest, collar and finger. No people.",
+   "narration": "剂量计正确佩戴、妥善保管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三根刻度尺和红线",
+   "prompt_en": "Three blank gauges with red limit lines. No people.",
+   "narration": "工作人员、孕期、公众，各有限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电话图标连着负责人和学校",
+   "prompt_en": "A telephone icon linked to a supervisor icon and a university office icon. No people.",
+   "narration": "有异常，停下来，马上报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰胸前戴好剂量计，向小研点头",
+   "prompt_en": "The young male student, with his dosimeter badge properly clipped on his chest, nods to the female graduate student.",
+   "narration": "阿杰把剂量计戴好了，也记住了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、阿杰、老周、王老师在实验楼门口挥手",
+   "prompt_en": "The panda mascot waves goodbye together with the female graduate student, the young male student, the older man and the safety administrator in front of the lab building.",
+   "narration": "安全用好射线，我们下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
