@@ -17,7 +17,7 @@
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 8 / 12 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 9 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
@@ -88,6 +88,7 @@
 | Acids, Bases & Solvents Safety | 07_Module 6 — Personal Protective Equipment | 国内版 | 个人防护装备：选对、穿对、脱对（国内版） | 105 | 8:45 | 25 / 5 | [剧本](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 08_Module 5 — Hierarchy of Controls | 原著版 | 控制措施层级：从塔尖往下建 | 66 | 5:30 | 18 / 0 | [剧本](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls/script.md>) |
 | Acids, Bases & Solvents Safety | 08_Module 5 — Hierarchy of Controls | 国内版 | 控制措施层级：从塔尖往下建（国内版） | 77 | 6:25 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/08_Module 5 — Hierarchy of Controls（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 09_Module 4 — Hazard Communication | 原著版 | 读懂化学品的安全语言 | 69 | 5:45 | 19 / 0 | [剧本](<Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication/script.md>) |
 | Acids, Bases & Solvents Safety | 09_Module 4 — Hazard Communication | 国内版 | 读懂化学品的安全语言（国内版） | 78 | 6:30 | 19 / 4 | [剧本](<Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/09_Module 4 — Hazard Communication（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 10_Module 3 — Hazard Identification & Risk Assessment | 国内版 | 找出危险，评估风险（国内版） | 82 | 6:50 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 11_Module 2 — The OSHA Laboratory Standard | 国内版 | 实验室安全制度：写在纸上，做在手上（国内版） | 70 | 5:50 | 16 / 3 | [剧本](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/审查报告.md>) |
