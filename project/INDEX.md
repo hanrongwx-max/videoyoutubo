@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 4 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 5 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -324,6 +324,7 @@
 | Cleanroom & Equipment Safety | 03_Lesson 1 How to Unbox and Test the MetalFab | 国内版 | 激光焊机与切割机：开箱、组装与调试（国内版） | 136 | 11:20 | 31 / 11 | [剧本](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 04_Lesson 7 How to Extend the Lifespan of MetalFab | 原著版 | 激光焊机与切割机的维护保养 | 55 | 4:35 | 17 / 0 | [剧本](<Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab/script.md>) |
 | Cleanroom & Equipment Safety | 04_Lesson 7 How to Extend the Lifespan of MetalFab | 国内版 | 激光焊机与切割机的维护保养（国内版） | 71 | 5:55 | 17 / 7 | [剧本](<Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 05_Lesson 3 How to Produce High-Quality Weld Beads | 原著版 | 手持激光焊接：焊出好焊缝 | 69 | 5:45 | 25 / 0 | [剧本](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads/script.md>) |
 | Cleanroom & Equipment Safety | 05_Lesson 3 How to Produce High-Quality Weld Beads | 国内版 | 手持激光焊接：焊出好焊缝（国内版） | 85 | 7:05 | 25 / 8 | [剧本](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 国内版 | 激光焊机安全继电器的更换（国内版） | 54 | 4:30 | 11 / 6 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 07_Lesson 10 How to Fix Incomplete Handheld Cutting | 国内版 | 手持激光切割切不透怎么办（国内版） | 59 | 4:55 | 16 / 7 | [剧本](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting（国内版）/审查报告.md>) |

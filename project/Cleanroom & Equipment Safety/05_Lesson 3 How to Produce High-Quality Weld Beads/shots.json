@@ -1,0 +1,980 @@
+{
+ "id": "05_Lesson 3 How to Produce High-Quality Weld Beads",
+ "edition": "原著版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "手持激光焊接：焊出好焊缝",
+ "seconds": 345,
+ "source_doc": "course/Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads.md",
+ "author_source": "project/Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads/src.py",
+ "points": {
+  "K1": "这一课：牢固、美观、不变形",
+  "K2": "先备齐用品",
+  "K3": "第一步：保护气",
+  "K4": "第二步：检查镜片",
+  "K5": "第三步：核对焦距",
+  "K6": "第四步：选对焊丝",
+  "K7": "第五步：焊丝进槽",
+  "K8": "第六步：清洁焊缝",
+  "K9": "三种焊接模式",
+  "K10": "点焊是什么",
+  "K11": "点焊怎么做",
+  "K12": "连续焊是什么",
+  "K13": "切到连续焊",
+  "K14": "预留角度，抵消变形",
+  "K15": "先打定位点",
+  "K16": "连续焊的要领",
+  "K17": "效果不好就调参数",
+  "K18": "脉冲焊是什么",
+  "K19": "脉冲焊怎么做",
+  "K20": "技巧一：焊接区架空",
+  "K21": "技巧二三：45度，丝尖对红光",
+  "K22": "技巧四：防粘丝",
+  "K23": "技巧五：焊缝亮无黑边",
+  "K24": "技巧六：不出光查联锁",
+  "K25": "回顾三大块"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在焊接台旁，台上摆着三块焊好的样件，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a welding bench with three neatly welded metal samples and waves at the camera.",
+   "narration": "这一课：手持激光焊，怎么焊得好。",
+   "overlay": [
+    "手持激光焊接：焊出好焊缝"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "点、线、鱼鳞纹三种焊缝图标",
+   "prompt_en": "Three icons in a row: a row of dots, a smooth continuous line, and an overlapping fish scale pattern. No people.",
+   "narration": "点焊、连续焊、脉冲焊，各有用处。",
+   "overlay": [],
+   "labels": [
+    "点焊",
+    "连续焊",
+    "脉冲焊"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一块焊歪、发黑的工件发愁",
+   "prompt_en": "The young male student holds up a welded metal corner that is crooked and blackened, looking frustrated.",
+   "narration": "阿杰焊的角件，又歪又发黑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李接过工件看了看，竖起三根手指",
+   "prompt_en": "The facility engineer takes the welded piece, looks at it and raises three fingers.",
+   "narration": "老李说：准备、模式、技巧，缺一不可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们一步步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：牢固、美观、不变形",
+   "scene": "牢固、美观、不变形三个图标",
+   "prompt_en": "Three icons: a strong chain link, a shiny star and a straight ruler next to a flat metal sheet. No people.",
+   "narration": "目标：焊缝牢固、美观、不变形。",
+   "overlay": [
+    "这一课：牢固、美观、不变形"
+   ],
+   "labels": [
+    "牢固",
+    "美观",
+    "不变形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先备齐用品",
+   "scene": "台面上摆着焊接面罩、焊接服、手套、防护眼镜和工件",
+   "prompt_en": "On a metal welding table: a welding face shield, a welding jacket, leather gloves, laser safety goggles and metal workpieces. No people.",
+   "narration": "备好焊接台、焊接服、眼镜、面罩、手套。",
+   "overlay": [
+    "先备齐用品"
+   ],
+   "labels": [
+    "焊接台",
+    "焊接服",
+    "防护眼镜",
+    "面罩",
+    "手套"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "第一步：保护气",
+   "scene": "空白参数表旁两个气瓶图标",
+   "prompt_en": "A blank recommendation table next to two gas cylinder icons with blank labels. No people.",
+   "narration": "可用氮气或氩气，这次用氮气。",
+   "overlay": [
+    "第一步：保护气"
+   ],
+   "labels": [
+    "氮气",
+    "氩气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "第一步：保护气",
+   "scene": "按住握持键和扳机，屏幕状态页上压力读数跳动",
+   "prompt_en": "A gloved hand presses the grip button and trigger while a blank gauge on the touchscreen status page shows a moving needle.",
+   "narration": "在状态页通气，看实际气压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第二步：检查镜片",
+   "scene": "蓝手套举着保护镜片对光检查",
+   "prompt_en": "Blue-gloved hands hold a round lens protector up to the light to inspect it.",
+   "narration": "镜片脏了坏了，功率会降、焊不好。",
+   "overlay": [
+    "第二步：检查镜片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第三步：核对焦距",
+   "scene": "屏幕参考值与焊接嘴刻度对照",
+   "prompt_en": "Split view: a blank value box on the touchscreen and the graduated tube on the welding head with a matching arrow. No people.",
+   "narration": "焊接嘴刻度，对准焦距参考值。",
+   "overlay": [
+    "第三步：核对焦距"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第四步：选对焊丝",
+   "scene": "粗细不同的焊丝盘对应宽窄不同的焊缝",
+   "prompt_en": "Diagram: thin, medium and thick wire spools lined up with narrow, medium and wide weld seams. No people.",
+   "narration": "焊缝越宽、板越厚，焊丝越粗。",
+   "overlay": [
+    "第四步：选对焊丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第四步：选对焊丝",
+   "scene": "很薄的板和窄缝，旁边焊丝盘打叉",
+   "prompt_en": "A very thin metal sheet with a narrow seam, next to a wire spool icon crossed out. No people.",
+   "narration": "板厚不到1毫米或窄缝，不填丝。",
+   "overlay": [],
+   "labels": [
+    "＜1mm 不填丝"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第四步：选对焊丝",
+   "scene": "三段板厚对应三种丝径的对照图",
+   "prompt_en": "A chart with three plate thickness bars, each pointing to a wire spool of a different size. No people.",
+   "narration": "1到2毫米用0.8，2到4毫米用1.0。",
+   "overlay": [],
+   "labels": [
+    "1–2mm→0.8",
+    "2–4mm→1.0",
+    "≥4mm→1.2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第四步：选对焊丝",
+   "scene": "一块厚板对应最粗的丝盘",
+   "prompt_en": "A thick metal plate icon pointing to the thickest wire spool. No people.",
+   "narration": "4毫米及以上，用1.2毫米焊丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第四步：选对焊丝",
+   "scene": "焊丝和工件两个图标用等号相连",
+   "prompt_en": "A wire spool icon and a metal plate icon joined by an equals sign. No people.",
+   "narration": "丝材配工件，如304不锈钢配308L。",
+   "overlay": [],
+   "labels": [
+    "304→308L",
+    "316→316L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第五步：焊丝进槽",
+   "scene": "焊丝从焊接嘴侧槽伸出，打勾",
+   "prompt_en": "Close view of the welding wire running through the groove of the copper welding nozzle, with a green check. No people.",
+   "narration": "焊丝要卡在焊接嘴的槽里。",
+   "overlay": [
+    "第五步：焊丝进槽"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第六步：清洁焊缝",
+   "scene": "无尘布蘸酒精擦焊缝，旁边打磨机和清洗嘴图标",
+   "prompt_en": "A gloved hand wipes the seam area with a lint-free cloth; beside it icons of a small grinder and a cleaning nozzle. No people besides the hand.",
+   "narration": "焊前清掉油污灰尘，三种方法都行。",
+   "overlay": [
+    "第六步：清洁焊缝"
+   ],
+   "labels": [
+    "擦拭",
+    "打磨",
+    "激光清洗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第六步：清洁焊缝",
+   "scene": "焊缝表面干燥发亮，钟表图标",
+   "prompt_en": "A clean, dry, shiny seam area with a small clock icon beside it. No people.",
+   "narration": "擦完等它干了，再开始焊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三种焊接模式",
+   "scene": "触摸屏高级模式里三个空白模式按钮",
+   "prompt_en": "A touchscreen showing three blank mode buttons with dot, line and fish scale icons. No people.",
+   "narration": "高级模式里，有三种焊接模式。",
+   "overlay": [
+    "三种焊接模式"
+   ],
+   "labels": [
+    "连续焊",
+    "脉冲焊",
+    "点焊"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点焊是什么",
+   "scene": "一束短光在一点上留下小圆点",
+   "prompt_en": "Diagram: a short burst of light leaves a small round dot weld at one point between two plates. No people.",
+   "narration": "点焊：短短出一次光，焊一个点。",
+   "overlay": [
+    "点焊是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点焊是什么",
+   "scene": "两块板先在两端点焊固定",
+   "prompt_en": "Two metal plates held in a jig with two small tack dots at both ends of the joint. No people.",
+   "narration": "常用来打定位点，先把工件固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点焊是什么",
+   "scene": "薄五角星片点焊在圆板上",
+   "prompt_en": "A thin star-shaped metal piece fixed onto a round plate by several small tack dots. No people.",
+   "narration": "也适合很薄的小零件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点焊是什么",
+   "scene": "优点和缺点两栏图标",
+   "prompt_en": "Two columns: on the left icons of a target, a flat ruler and a sparkle with green checks; on the right a weak chain link with a red mark. No people.",
+   "narration": "精度高变形小，但不够牢。",
+   "overlay": [],
+   "labels": [
+    "精度高",
+    "变形小",
+    "承载低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "触摸屏点焊参数页，空白数值格",
+   "prompt_en": "A touchscreen tack welding page with a row of blank value boxes and plus and minus buttons. No people.",
+   "narration": "设好参数，确认后启用出光。",
+   "overlay": [
+    "点焊怎么做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "小研一手持焊接头，另一只手徒手扶着圆板上的五角星片，红光对准焊点",
+   "prompt_en": "The female graduate student holds the welding head in one gloved hand while her other bare hand steadies a star-shaped piece on a round plate; a red aiming dot sits on the joint.",
+   "narration": "点焊不用焊丝，红光对准就焊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "发黑处用布蘸酒精擦净",
+   "prompt_en": "A gloved hand wipes a small dark mark beside a tack weld with a cloth. ",
+   "narration": "焊点发黑，用酒精或水擦掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "触摸屏上出光开关被关闭，红圈标出",
+   "prompt_en": "A finger switches off the laser toggle on the touchscreen, circled in red. No people besides the finger.",
+   "narration": "焊完关掉出光，防止误出光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "功率滑块：高—焊得深，低—外观好",
+   "prompt_en": "Diagram of a power slider: at the high end a deep weld icon, at the low end a neat shiny weld icon. No people.",
+   "narration": "功率大焊得深，功率小更好看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "点焊怎么做",
+   "scene": "时间滑块和一个专业模式齿轮图标",
+   "prompt_en": "A time slider and a gear icon for finer settings. No people.",
+   "narration": "点焊时间也能调，还可精细设置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "连续焊是什么",
+   "scene": "连续光束沿缝走出一条连续焊缝",
+   "prompt_en": "Diagram: a continuous beam moves along a seam leaving a smooth unbroken weld line. No people.",
+   "narration": "连续焊：光不停，焊缝连成一条线。",
+   "overlay": [
+    "连续焊是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "连续焊是什么",
+   "scene": "水管和车架横梁两个图标",
+   "prompt_en": "Two icons: a water pipe joint and a vehicle chassis beam. No people.",
+   "narration": "要承重、要密封的地方用它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "连续焊是什么",
+   "scene": "优点、缺点两栏图标",
+   "prompt_en": "Two columns: icons of a strong beam and a sealed pipe with green checks; icons of a burnt-through thin plate and a warped sheet with red marks. No people.",
+   "narration": "牢固密封，但薄板易烧穿、易变形。",
+   "overlay": [],
+   "labels": [
+    "强度高",
+    "密封好",
+    "易变形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "切到连续焊",
+   "scene": "屏幕切到连续焊，出光和送丝两个开关打开",
+   "prompt_en": "A touchscreen switched to the continuous mode, with laser and wire feed toggles both on. No people.",
+   "narration": "切到连续焊，启用出光和送丝。",
+   "overlay": [
+    "切到连续焊"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预留角度，抵消变形",
+   "scene": "两块板定位成略大于直角，焊后收缩成直角",
+   "prompt_en": "Diagram: two plates set at a slightly open angle before welding, then pulled into a right angle after welding by shrinkage arrows. No people.",
+   "narration": "热胀冷缩会把角拉小。",
+   "overlay": [
+    "预留角度，抵消变形"
+   ],
+   "labels": [
+    "100°",
+    "90°"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预留角度，抵消变形",
+   "scene": "量角器量出焊前一百度、焊后九十度",
+   "prompt_en": "A protractor shows the plates at a wider angle before welding and a right angle after welding. No people.",
+   "narration": "要焊成90度，先定位成100度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预留角度，抵消变形",
+   "scene": "点焊图标旁边角度符号打勾",
+   "prompt_en": "A tack dot icon beside a right angle symbol with a green check. No people.",
+   "narration": "点焊热量小，不用预留角度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先打定位点",
+   "scene": "长工件上均匀分布几个定位点",
+   "prompt_en": "A long seam with several small tack dots spaced evenly along it. No people.",
+   "narration": "先打定位点，长件中间多加几个。",
+   "overlay": [
+    "先打定位点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先打定位点",
+   "scene": "拇指把焊接头上的送丝开关拨到关",
+   "prompt_en": "Close view of a gloved thumb sliding the wire feed switch on the welding head to off.",
+   "narration": "关掉送丝开关，就能当点焊用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "先打定位点",
+   "scene": "拇指把送丝开关拨回开",
+   "prompt_en": "Close view of a gloved thumb sliding the wire feed switch back to on.",
+   "narration": "切回连续焊，记得打开开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "连续焊的要领",
+   "scene": "阿杰检查夹好的工件位置",
+   "prompt_en": "The young male student in full protective gear checks the position of plates clamped in a vise before welding.",
+   "narration": "焊前再确认位置，焊完就改不了。",
+   "overlay": [
+    "连续焊的要领"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "连续焊的要领",
+   "scene": "焊接头从起点到终点一路焊过去的箭头",
+   "prompt_en": "Diagram of the welding head moving from a start mark to an end mark along the seam in one smooth arrow. No people.",
+   "narration": "从起点一口气焊到终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "连续焊的要领",
+   "scene": "焊丝偏离路径的图标打叉",
+   "prompt_en": "Icon of the wire tip drifting off the seam line, crossed out with a red X. No people.",
+   "narration": "焊丝不能偏离焊缝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "连续焊的要领",
+   "scene": "手往后拽焊接头的图标打叉，旁边自动后退箭头",
+   "prompt_en": "Icon of a hand yanking the welding head backward crossed out in red, next to a small arrow showing the head moving back by itself. No people.",
+   "narration": "别往后拽，焊丝会推着它走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "效果不好就调参数",
+   "scene": "功率、宽度、频率、送丝速度四个滑块",
+   "prompt_en": "Four blank sliders with icons: power, width, frequency and wire speed. No people.",
+   "narration": "要更牢加功率，要少发黑减功率。",
+   "overlay": [
+    "效果不好就调参数"
+   ],
+   "labels": [
+    "功率",
+    "宽度",
+    "频率",
+    "送丝速度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "效果不好就调参数",
+   "scene": "老李在屏幕上微调滑块",
+   "prompt_en": "The facility engineer adjusts sliders on the touchscreen while looking at a test weld.",
+   "narration": "宽度、频率、送丝速度也能调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "脉冲焊是什么",
+   "scene": "点状熔池一个叠一个，形成鱼鳞纹",
+   "prompt_en": "Diagram of round molten dots overlapping one after another to form a fish scale weld pattern. No people.",
+   "narration": "脉冲焊：点状熔池叠成鱼鳞纹。",
+   "overlay": [
+    "脉冲焊是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "脉冲焊是什么",
+   "scene": "薄板图标，位于点焊和连续焊之间的箭头",
+   "prompt_en": "A thin plate icon placed on an arrow between a dot icon and a line icon. No people.",
+   "narration": "介于点焊和连续焊之间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "脉冲焊是什么",
+   "scene": "优点和缺点两栏图标",
+   "prompt_en": "Two columns: icons of a flat sheet, a shiny mirror plate and a curvy seam with green checks; an icon of tiny gaps with a red mark. No people.",
+   "narration": "变形小、能焊反光料，密封差一些。",
+   "overlay": [],
+   "labels": [
+    "变形小",
+    "高反材料",
+    "密封较差"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "脉冲焊怎么做",
+   "scene": "屏幕切到脉冲焊，默认参数",
+   "prompt_en": "A touchscreen switched to pulse mode with default blank values and a small speedometer icon. No people.",
+   "narration": "用默认参数，速度会影响纹路。",
+   "overlay": [
+    "脉冲焊怎么做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "脉冲焊怎么做",
+   "scene": "阿杰穿焊接服戴手套脉冲焊薄板，另一只手徒手按着板，焊点发出粉紫色强光",
+   "prompt_en": "The young male student in a welding jacket pulse-welds a thin plate without filler wire, his other bare hand pressing the plate nearby; a bright pink-purple glow appears at the weld.",
+   "narration": "也可以不加丝，不必预留角度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "脉冲焊怎么做",
+   "scene": "翻过工件看背面，平整无痕，打勾",
+   "prompt_en": "A gloved hand turns the welded plate over; the back side is flat and clean, with a green check.",
+   "narration": "背面无痕无变形，就是成功。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "技巧一：焊接区架空",
+   "scene": "工件直接平放在台面上焊的图标打叉",
+   "prompt_en": "Icon of a workpiece lying flat on the welding table being welded, crossed out with a red X. No people.",
+   "narration": "别直接在焊台上焊，会焊在台上。",
+   "overlay": [
+    "技巧一：焊接区架空"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "技巧一：焊接区架空",
+   "scene": "工件被台钳夹起，焊缝悬空",
+   "prompt_en": "The workpiece is clamped in a vise so the seam is raised above the table surface, with a green check. No people.",
+   "narration": "把焊接区架空再焊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "技巧二三：45度，丝尖对红光",
+   "scene": "焊接嘴与焊缝成45度角的示意",
+   "prompt_en": "Diagram of the welding nozzle meeting the seam at a forty-five degree angle, with an angle arc. No people.",
+   "narration": "焊接嘴与焊缝成四十五度。",
+   "overlay": [
+    "技巧二三：45度，丝尖对红光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "技巧二三：45度，丝尖对红光",
+   "scene": "丝尖碰到工件，红点落在焊位",
+   "prompt_en": "Close view of the wire tip touching the workpiece and a red aiming dot on the weld position. No people.",
+   "narration": "丝尖碰工件，红光落在焊位上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "技巧四：防粘丝",
+   "scene": "焊完立即抬起焊接头的箭头",
+   "prompt_en": "Diagram of the welding head lifting away from the seam right after the weld ends, with an up arrow. No people.",
+   "narration": "焊完马上抬起，防止粘丝。",
+   "overlay": [
+    "技巧四：防粘丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "技巧四：防粘丝",
+   "scene": "硬拽、左右晃焊接头的图标打叉",
+   "prompt_en": "Icon of a welding head stuck to the workpiece being yanked and wiggled, crossed out with a red X. No people.",
+   "narration": "粘住了别硬拽，也别左右晃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "技巧四：防粘丝",
+   "scene": "关送丝开关，焊接头朝着工件，再出一次光同时抬起",
+   "prompt_en": "Diagram: the wire switch set to off, then a short pulse while the head, still pointed at the workpiece, lifts away. No people.",
+   "narration": "关送丝，再出一次光同时抬起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "技巧五：焊缝亮无黑边",
+   "scene": "屏幕板厚选项选小一档，焊缝发亮",
+   "prompt_en": "A touchscreen thickness selector moved one step lower, next to a bright, clean weld icon. No people.",
+   "narration": "板厚设小1到2毫米，2毫米选1。",
+   "overlay": [
+    "技巧五：焊缝亮无黑边"
+   ],
+   "labels": [
+    "2mm→1mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "技巧五：焊缝亮无黑边",
+   "scene": "黑边用清洗嘴清理干净",
+   "prompt_en": "A weld edge with dark marks is cleaned by the cleaning nozzle until shiny. No people.",
+   "narration": "已经有黑边，用清洗嘴清理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "技巧六：不出光查联锁",
+   "scene": "焊接头不出光，屏幕上联锁指示灯为红",
+   "prompt_en": "The welding head shows no output; a touchscreen status light for the safety interlock is red. No people.",
+   "narration": "不出光，多半是联锁没闭合。",
+   "overlay": [
+    "技巧六：不出光查联锁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "技巧六：不出光查联锁",
+   "scene": "出光开关和联锁图标并排",
+   "prompt_en": "Two icons side by side: a laser enable toggle and a closed loop chain symbol. No people.",
+   "narration": "或者没打开出光开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "技巧六：不出光查联锁",
+   "scene": "盾牌图标环绕两个开关",
+   "prompt_en": "A shield icon around the laser toggle and the interlock loop symbol. No people.",
+   "narration": "这些都是保护人的安全机制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "回顾三大块",
+   "scene": "三张空白卡片：准备、模式、技巧",
+   "prompt_en": "Three blank cards in a row with icons of a checklist, three weld patterns and a light bulb. No people.",
+   "narration": "准备六步、三种模式、六条技巧。",
+   "overlay": [
+    "回顾三大块"
+   ],
+   "labels": [
+    "焊前准备",
+    "焊接模式",
+    "通用技巧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现气瓶、镜片、焊丝、抹布图标",
+   "prompt_en": "The panda mascot points to floating icons of a gas cylinder, a lens, a wire spool and a cloth.",
+   "narration": "焊前六步，一步不能少。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现点、线、鱼鳞纹图标",
+   "prompt_en": "The panda mascot points to icons of dots, a line and a fish scale pattern.",
+   "narration": "点焊定位，连续焊牢，脉冲焊少变形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现架空、45度角、红点图标",
+   "prompt_en": "The panda mascot points to icons of a raised seam, a forty-five degree angle and a red dot.",
+   "narration": "架空、45度、对红光、调小板厚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰举着焊得漂亮的角件挥手",
+   "prompt_en": "The panda mascot and the young male student hold up a neatly welded metal corner and wave goodbye.",
+   "narration": "焊出好焊缝，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
