@@ -1,7 +1,7 @@
-# 加热回流
+# 加热回流（国内版）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：17_Refluxing a Reaction（内容分析见 `course/MIT Digital Lab Techniques Manual/17_Refluxing a Reaction.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../17_Refluxing a Reaction/`
 - 时长：6 分 20 秒（76 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 72 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
