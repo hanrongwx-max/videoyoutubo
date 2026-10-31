@@ -14,7 +14,7 @@
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 6 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 8 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 9 / 10 |
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 3 / 9 |
@@ -98,6 +98,7 @@
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 国内版 | 胡萝卜组织培养（国内版） | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 原著版 | 身边的生物技术 | 50 | 4:10 | 12 / 0 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/script.md>) |
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 国内版 | 身边的生物技术（国内版） | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 09_APB - Laboratory Notebooks | 原著版 | 实验记录本 | 47 | 3:55 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks/script.md>) |
 | Animal & Plant Biotech Safety | 09_APB - Laboratory Notebooks | 国内版 | 实验记录本（国内版） | 66 | 5:30 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 10_APB - Moving Research into Production | 国内版 | 从实验室到生产（国内版） | 80 | 6:40 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 01_BIORISK MANAGEMENT INTRODUCTORY MODULE | 原著版 | 生物风险管理第一课 | 68 | 5:40 | 20 / 0 | [剧本](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE/script.md>) |
