@@ -1,0 +1,701 @@
+{
+ "id": "07_Safety Officer Interview Questions and Answers (Confined Space)",
+ "edition": "原著版",
+ "series": "ACS Hazard Communication & Safety",
+ "title": "安全知识问答：受限空间",
+ "seconds": 245,
+ "source_doc": "course/ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space).md",
+ "author_source": "project/ACS Hazard Communication & Safety/07_Safety Officer Interview Questions and Answers (Confined Space)/src.py",
+ "points": {
+  "K1": "受限空间的定义",
+  "K2": "受限空间的危害",
+  "K3": "进入前先办作业许可、人员受训",
+  "K4": "作业前授权人员气体检测",
+  "K5": "指派监护人并使用进出登记表",
+  "K6": "通风、低压照明、进出通道",
+  "K7": "应急救援预案与救援装备",
+  "K8": "受限空间监护人",
+  "K9": "受限空间举例",
+  "K10": "动火作业",
+  "K11": "硫化氢",
+  "K12": "呼吸器的两大类",
+  "K13": "SCBA自给式空气呼吸器",
+  "K14": "SCUBA自携式水下呼吸器",
+  "K15": "估算呼吸器的供气时间"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣戴着安全帽，站在一个大储罐的人孔旁招手",
+   "prompt_en": "The panda mascot in a hard hat stands beside the manhole of a large storage tank and waves at the camera.",
+   "narration": "今天的面试题：受限空间！",
+   "overlay": [
+    "安全知识问答：受限空间"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "一张空白题单，十一行依次亮起",
+   "prompt_en": "A blank question sheet with eleven rows lighting up one by one. No people.",
+   "narration": "一共十一道题，逐条来讲。",
+   "overlay": [],
+   "labels": [
+    "11道题"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着空白题单，看着远处的储罐",
+   "prompt_en": "The young male student holds a blank question sheet and looks at storage tanks in a plant.",
+   "narration": "阿杰要面试受限空间方向的安全员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣指着人孔",
+   "prompt_en": "The panda mascot points at the small manhole on the tank.",
+   "narration": "先从定义开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "受限空间的定义",
+   "scene": "储罐只有一个小人孔，内部半封闭",
+   "prompt_en": "A partially enclosed tank with only one small manhole for entry and exit. No people.",
+   "narration": "受限空间：进出口受限，部分封闭。",
+   "overlay": [
+    "受限空间的定义"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "受限空间的定义",
+   "scene": "人孔旁一个床铺图标被划掉",
+   "prompt_en": "A bed icon next to the manhole crossed out with a red X. No people.",
+   "narration": "不是为人员长期停留设计的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "受限空间的定义",
+   "scene": "罐内氧气表图标和可燃气团图标",
+   "prompt_en": "Inside the tank, an oxygen gauge icon swinging low and high, and a flammable vapor cloud icon. No people.",
+   "narration": "可能缺氧或富氧，可能积聚可燃气体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "受限空间的危害",
+   "scene": "罐内骷髅气团和火焰气团图标",
+   "prompt_en": "Inside the tank, a gas cloud with a skull pictogram and a gas cloud with a flame pictogram. No people.",
+   "narration": "危害：有毒和可燃气体，火灾爆炸。",
+   "overlay": [
+    "受限空间的危害"
+   ],
+   "labels": [
+    "有毒气体",
+    "可燃气体",
+    "火灾爆炸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "受限空间的危害",
+   "scene": "停转的风扇和昏暗的灯泡图标",
+   "prompt_en": "A stopped fan icon and a dim light bulb icon. No people.",
+   "narration": "通风不良，照明不足。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "受限空间的危害",
+   "scene": "氧气表两端分别亮红灯",
+   "prompt_en": "An oxygen gauge with red zones lit at both the low end and the high end. No people.",
+   "narration": "氧低于19.5%缺氧，高于23.5%富氧。",
+   "overlay": [],
+   "labels": [
+    "<19.5% 缺氧",
+    ">23.5% 富氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "受限空间的危害",
+   "scene": "狭窄人孔和温度计图标",
+   "prompt_en": "A narrow blocked manhole icon and a thermometer icon at an extreme reading. No people.",
+   "narration": "进出通道不畅，极端温度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "受限空间的危害",
+   "scene": "欣欣双手比划越来越多",
+   "prompt_en": "The panda mascot spreads its arms wider and wider as hazard icons multiply around it.",
+   "narration": "作业越多，危害越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "进入前先办作业许可、人员受训",
+   "scene": "王老师在空白许可证上签字",
+   "prompt_en": "The safety administrator signs a blank work permit at the tank site.",
+   "narration": "进入前：先办作业许可。",
+   "overlay": [
+    "进入前先办作业许可、人员受训"
+   ],
+   "labels": [
+    "作业许可PTW"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "进入前先办作业许可、人员受训",
+   "scene": "阿杰和工人在培训课上听讲",
+   "prompt_en": "The young male student and workers in hard hats attend a training class in front of a blank screen.",
+   "narration": "所有进入人员，都要受过进入培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "作业前授权人员气体检测",
+   "scene": "老李在人孔口用气体检测仪测气",
+   "prompt_en": "The facility engineer holds a gas detector at the manhole opening before work starts.",
+   "narration": "开工前，由授权检测员测气。",
+   "overlay": [
+    "作业前授权人员气体检测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指派监护人并使用进出登记表",
+   "scene": "保卫处值班员站在人孔旁，手拿空白登记表",
+   "prompt_en": "The security officer stands at the manhole holding a blank entry log sheet.",
+   "narration": "指派监护人，用进出登记表。",
+   "overlay": [
+    "指派监护人并使用进出登记表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指派监护人并使用进出登记表",
+   "scene": "监护人对着人孔里喊话，用对讲机联络",
+   "prompt_en": "The security officer talks into a radio and calls down into the manhole.",
+   "narration": "和进入人员保持经常联络。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "通风、低压照明、进出通道",
+   "scene": "风机把新鲜空气吹进人孔",
+   "prompt_en": "A ventilation blower pushes fresh air through a duct into the manhole. No people.",
+   "narration": "保证通风良好。",
+   "overlay": [
+    "通风、低压照明、进出通道"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "通风、低压照明、进出通道",
+   "scene": "罐内一盏低压安全灯",
+   "prompt_en": "A low voltage safety lamp hangs inside the tank, with a small voltage icon. No people.",
+   "narration": "照明充足，用24伏灯具减少电火花。",
+   "overlay": [],
+   "labels": [
+    "24伏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "通风、低压照明、进出通道",
+   "scene": "人孔口放着梯子，通道畅通",
+   "prompt_en": "A ladder placed clear at the manhole with an open path around it. No people.",
+   "narration": "保证进出通道畅通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "应急救援预案与救援装备",
+   "scene": "王老师给工人讲解空白救援预案",
+   "prompt_en": "The safety administrator explains a blank rescue plan to workers next to the tank.",
+   "narration": "所有人都要熟悉应急救援预案。",
+   "overlay": [
+    "应急救援预案与救援装备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "应急救援预案与救援装备",
+   "scene": "担架、全身安全带、吊装设备、三脚架图标",
+   "prompt_en": "Icons of a stretcher, a full-body harness, a lifting hoist and a tripod over a manhole. No people.",
+   "narration": "备好担架、安全带、吊装和三脚架。",
+   "overlay": [],
+   "labels": [
+    "担架",
+    "全身安全带",
+    "吊装设备",
+    "三脚架"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "应急救援预案与救援装备",
+   "scene": "空气呼吸器和急救箱图标",
+   "prompt_en": "Icons of a self-contained breathing apparatus and a first aid kit. No people.",
+   "narration": "还有空气呼吸器和急救箱。",
+   "overlay": [],
+   "labels": [
+    "SCBA",
+    "急救箱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "受限空间监护人",
+   "scene": "保卫处值班员守在人孔旁，看着登记表",
+   "prompt_en": "The security officer watches the manhole and checks the blank log sheet.",
+   "narration": "监护人：懂受限空间危害的人。",
+   "overlay": [
+    "受限空间监护人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "受限空间监护人",
+   "scene": "监护人举手示意，拿起对讲机",
+   "prompt_en": "The security officer raises a hand and picks up a radio, ready to respond.",
+   "narration": "知道出了问题该怎样应对，并做登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "受限空间举例",
+   "scene": "管道、容器、储罐、筒仓、风管图标",
+   "prompt_en": "Icons of a pipe, a vessel, a storage tank, a silo and an air duct. No people.",
+   "narration": "举例：管道、容器、储罐、筒仓、风管。",
+   "overlay": [
+    "受限空间举例"
+   ],
+   "labels": [
+    "管道",
+    "容器",
+    "储罐",
+    "筒仓",
+    "风管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "受限空间举例",
+   "scene": "深坑旁一个深度标尺",
+   "prompt_en": "A deep excavation pit with a depth ruler beside it. No people.",
+   "narration": "还有深度超过1.2米的开挖。",
+   "overlay": [],
+   "labels": [
+    "开挖>1.2米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动火作业",
+   "scene": "焊接、切割、打磨三个火花图标",
+   "prompt_en": "Three icons with sparks: welding, cutting and grinding. No people.",
+   "narration": "动火作业：可能成为点火源的作业。",
+   "overlay": [
+    "动火作业"
+   ],
+   "labels": [
+    "焊接",
+    "切割",
+    "打磨"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硫化氢",
+   "scene": "黄色气团图标，旁边骷髅和腐蚀图标",
+   "prompt_en": "A yellowish gas cloud icon with a skull pictogram and a corrosion pictogram. No people.",
+   "narration": "硫化氢：有毒、有腐蚀性的气体。",
+   "overlay": [
+    "硫化氢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硫化氢",
+   "scene": "很小的气团也带着红色感叹号",
+   "prompt_en": "A very small gas cloud with a big red exclamation mark. No people.",
+   "narration": "很低的浓度就能危及生命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "硫化氢",
+   "scene": "臭鸡蛋图标和酸味图标",
+   "prompt_en": "A cartoon rotten egg with stink lines and a sour face icon. No people.",
+   "narration": "又叫臭鸡蛋气、酸气。",
+   "overlay": [],
+   "labels": [
+    "臭鸡蛋气",
+    "酸气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "呼吸器的两大类",
+   "scene": "过滤式面罩和带软管的供气面罩",
+   "prompt_en": "Two respirator icons: a filter mask and a mask connected by a long hose to an air source. No people.",
+   "narration": "呼吸器分两大类。",
+   "overlay": [
+    "呼吸器的两大类"
+   ],
+   "labels": [
+    "过滤式",
+    "供气式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "呼吸器的两大类",
+   "scene": "空气穿过滤罐进入面罩",
+   "prompt_en": "Air flows through a filter cartridge into a mask, with arrows. No people.",
+   "narration": "过滤式：净化周围空气再呼吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "呼吸器的两大类",
+   "scene": "压缩空气经软管送进面罩",
+   "prompt_en": "Compressed air travels from a separate source through a hose into a mask. No people.",
+   "narration": "供气式：独立气源经软管供气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "SCBA自给式空气呼吸器",
+   "scene": "消防员背着气瓶的呼吸器",
+   "prompt_en": "A cartoon firefighter wearing a breathing apparatus with an air cylinder on the back.",
+   "narration": "SCBA：自带气瓶的空气呼吸器。",
+   "overlay": [
+    "SCBA自给式空气呼吸器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "SCBA自给式空气呼吸器",
+   "scene": "救援队员背着呼吸器站在人孔旁",
+   "prompt_en": "A rescue worker wearing a breathing apparatus stands ready beside a manhole.",
+   "narration": "一般由消防员和受限空间救援队使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "SCUBA自携式水下呼吸器",
+   "scene": "潜水员背着气瓶在水下",
+   "prompt_en": "A cartoon diver with an air tank swims underwater. No other people.",
+   "narration": "SCUBA：自携式水下呼吸器。",
+   "overlay": [
+    "SCUBA自携式水下呼吸器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "SCUBA自携式水下呼吸器",
+   "scene": "水面上下两个图标，水下的气瓶更大",
+   "prompt_en": "A split view above and below a water line: a breathing apparatus above and a larger diving tank below. No people.",
+   "narration": "水下用SCUBA，水上用SCBA；它更重。",
+   "overlay": [],
+   "labels": [
+    "水下SCUBA",
+    "水上SCBA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "气瓶剖面，里面是普通空气分子",
+   "prompt_en": "A cutaway of an air cylinder filled with ordinary air molecules. No people.",
+   "narration": "气瓶里装的是压缩的普通空气。",
+   "overlay": [
+    "估算呼吸器的供气时间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "肺部图标旁一个计时器",
+   "prompt_en": "A lung icon next to a one-minute timer and a small air cube. No people.",
+   "narration": "每分钟呼吸约需1.5立方英尺空气。",
+   "overlay": [],
+   "labels": [
+    "1.5立方英尺/分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "三十个小空气块合成一大块",
+   "prompt_en": "Thirty small air cubes merge into one big cube. No people.",
+   "narration": "30分钟，就是1.5乘30等于45。",
+   "overlay": [],
+   "labels": [
+    "30分钟=45"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "压力表三个读数，对应三个时钟",
+   "prompt_en": "A pressure gauge with three marked readings, each linked to a clock icon. No people.",
+   "narration": "压力表读数，就代表剩余空气量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "三个数字牌和三个时钟",
+   "prompt_en": "Three blank number cards paired with three clocks of increasing time. No people.",
+   "narration": "100巴15分钟，200巴30分钟。",
+   "overlay": [],
+   "labels": [
+    "100巴15分",
+    "200巴30分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "估算呼吸器的供气时间",
+   "scene": "第三个数字牌和时钟亮起",
+   "prompt_en": "The third number card and the longest clock light up. No people.",
+   "narration": "300巴，大约45分钟。",
+   "overlay": [],
+   "labels": [
+    "300巴45分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在人孔旁，身边浮现危害图标",
+   "prompt_en": "The panda mascot stands beside the manhole with floating hazard icons around it.",
+   "narration": "受限空间：进出受限，危害多。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "许可证、检测仪、登记表、风机图标",
+   "prompt_en": "Icons of a permit, a gas detector, a log sheet and a blower. No people.",
+   "narration": "许可、培训、测气、监护、通风照明。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "救援三脚架和空气呼吸器图标",
+   "prompt_en": "Icons of a rescue tripod and a breathing apparatus. No people.",
+   "narration": "熟悉预案，备好救援装备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两种呼吸器和压力表图标",
+   "prompt_en": "Icons of two respirator types and a pressure gauge. No people.",
+   "narration": "呼吸器分类，按压力估算时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰在储罐前挥手",
+   "prompt_en": "The panda mascot and the young male student wave goodbye in front of the storage tanks.",
+   "narration": "面试加油，下期再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
