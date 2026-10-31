@@ -1,0 +1,688 @@
+{
+ "id": "10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工实验：三电压表法测线圈",
+ "seconds": 235,
+ "source_doc": "course/Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B.md",
+ "author_source": "project/Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B/src.py",
+ "points": {
+  "K1": "三电压表法测什么",
+  "K2": "要准备的器材",
+  "K3": "导线先测通断",
+  "K4": "电路怎么连",
+  "K5": "交流电路用交流表",
+  "K6": "先接串联，后并电压表",
+  "K7": "实验四步走",
+  "K8": "认识实验台，四个读数",
+  "K9": "调电压，读一组记一组",
+  "K10": "多测几组，各自计算",
+  "K11": "先回零，再断电",
+  "K12": "数据表格",
+  "K13": "功率因数公式",
+  "K14": "阻抗三角形求电阻感抗",
+  "K15": "由感抗求电感",
+  "K16": "参考教材，有疑问就问"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台前，台上有一个铁心线圈和三块电压表",
+   "prompt_en": "The panda mascot stands at an electrical lab bench with an iron-core coil and three analog voltmeters with blank dials, waving at the camera.",
+   "narration": "今天用三块电压表，摸清一个线圈！",
+   "overlay": [
+    "电工实验：三电压表法测线圈"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "线圈图标旁有两个问号：电阻和电感",
+   "prompt_en": "An iron-core coil icon with two question mark bubbles beside it. No people.",
+   "narration": "它的电阻多大？电感多大？",
+   "overlay": [],
+   "labels": [
+    "电阻？",
+    "电感？"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一个扼流线圈翻看，一脸疑惑",
+   "prompt_en": "The young male student turns an iron-core choke coil over in his hands, looking puzzled.",
+   "narration": "阿杰拿着线圈：这东西怎么量？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着桌上三块电压表微笑",
+   "prompt_en": "The female graduate student smiles and points at three voltmeters on the bench.",
+   "narration": "小研说：三块电压表就能算出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三电压表法测什么",
+   "scene": "王老师在空白黑板前，旁边是线圈图标",
+   "prompt_en": "The safety administrator stands at a blank blackboard next to a large coil icon.",
+   "narration": "三电压表法，专门测线圈的电阻和电感。",
+   "overlay": [
+    "三电压表法测什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三电压表法测什么",
+   "scene": "线圈内部画成一个电阻加一个电感串联",
+   "prompt_en": "A coil icon opened up to show a small resistor and an inductor symbol in series inside. No people.",
+   "narration": "线圈可以看成电阻和电感串在一起。",
+   "overlay": [],
+   "labels": [
+    "电阻 r",
+    "电感 L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "台上摆着线圈、三块电压表、一块电流表",
+   "prompt_en": "A choke coil, three AC voltmeters and one AC ammeter laid out on a bench. No people.",
+   "narration": "准备线圈、三块交流电压表、一块电流表。",
+   "overlay": [
+    "要准备的器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "滑线变阻器和一捆导线，旁边空白铭牌",
+   "prompt_en": "A slide-wire rheostat with a blank nameplate and a bundle of connecting wires. No people.",
+   "narration": "器材表写：电流表一安，变阻器五十欧三安。",
+   "overlay": [],
+   "labels": [
+    "0–1 A",
+    "50 Ω 3 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "电表表盘特写，指针式动铁结构图标",
+   "prompt_en": "A meter dial close-up with a moving iron mechanism icon. No people.",
+   "narration": "电表都用交流动铁式，变阻器作限流电阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "导线先测通断",
+   "scene": "小研用万用表通断档逐根测导线，屏幕空白",
+   "prompt_en": "The female graduate student tests each unconnected wire with a multimeter set to continuity; the display is blank.",
+   "narration": "导线先用万用表通断档测一遍。",
+   "overlay": [
+    "导线先测通断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电路怎么连",
+   "scene": "简化电路图：电源、熔断器、调压器",
+   "prompt_en": "A simple circuit diagram icon: AC supply, fuse and single-phase variable autotransformer. No people.",
+   "narration": "单相交流电源经熔断器，接到调压器上。",
+   "overlay": [
+    "电路怎么连"
+   ],
+   "labels": [
+    "电源",
+    "熔断器",
+    "调压器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电路怎么连",
+   "scene": "调压器后面，电流表、电阻、线圈串成一串，旁边标数",
+   "prompt_en": "After the autotransformer, an ammeter, a resistor and a coil connected in series, with small rating tags. No people.",
+   "narration": "电流表、电阻、线圈串成一路。",
+   "overlay": [],
+   "labels": [
+    "0–5 A",
+    "100 Ω 3 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电路怎么连",
+   "scene": "三个电压表图标分别跨在总电压、电阻、线圈上",
+   "prompt_en": "Three voltmeter icons connected across the total supply, the resistor and the coil. No people.",
+   "narration": "三块电压表：测总电压、电阻、线圈。",
+   "overlay": [],
+   "labels": [
+    "V1 总电压",
+    "V2 电阻",
+    "V3 线圈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电路怎么连",
+   "scene": "箭头沿串联回路流过，电流处处相同",
+   "prompt_en": "Arrows flow around the series loop, equal everywhere. No people.",
+   "narration": "串联回路里，电流处处一样大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "交流电路用交流表",
+   "scene": "表盘上画波浪符号的电表打勾，画直线符号的打叉",
+   "prompt_en": "Two meter icons: one with a wave symbol and a green check, one with a straight-line symbol crossed out with a red X. No people.",
+   "narration": "交流电路，要用交流电表。",
+   "overlay": [
+    "交流电路用交流表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "交流电路用交流表",
+   "scene": "老周在电路图里给电表符号旁加一个波浪号",
+   "prompt_en": "The older man draws a small wave symbol next to a meter circle on a blank circuit diagram.",
+   "narration": "画图时，交流表要标上交流符号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先接串联，后并电压表",
+   "scene": "阿杰先把串联的一路连好，电压表还放在一边",
+   "prompt_en": "The young male student first connects the series chain on the bench while the three voltmeters still sit unconnected aside.",
+   "narration": "接线先接串联的那一路。",
+   "overlay": [
+    "先接串联，后并电压表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先接串联，后并电压表",
+   "scene": "最后把电压表一块块并上去",
+   "prompt_en": "The young male student then connects the voltmeters one by one across the parts of the circuit.",
+   "narration": "最后再把电压表一块块并上去。",
+   "overlay": [],
+   "labels": [
+    "① 串联",
+    "② 并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验四步走",
+   "scene": "四个步骤图标排成一行",
+   "prompt_en": "Four step icons in a row: wiring, switch on, adjust and read, switch off. No people.",
+   "narration": "实验步骤：接线、合闸、调压读数、断电。",
+   "overlay": [
+    "实验四步走"
+   ],
+   "labels": [
+    "接线",
+    "合闸",
+    "读数",
+    "断电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验四步走",
+   "scene": "阿杰合上电源开关",
+   "prompt_en": "The young male student closes the supply switch.",
+   "narration": "按图接好线，合上电源开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验四步走",
+   "scene": "小研转动调压器，在空白记录表上写下读数",
+   "prompt_en": "The female graduate student turns the autotransformer and writes readings in a blank record sheet.",
+   "narration": "用调压器改变电压，记下各表读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验四步走",
+   "scene": "阿杰拉下电源开关",
+   "prompt_en": "The young male student switches off the supply.",
+   "narration": "读完数，断开电源开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认识实验台，四个读数",
+   "scene": "实验台全景，五件器材旁各有编号小旗",
+   "prompt_en": "A wide view of the bench: autotransformer, multimeter, ammeter and two voltmeters, each with a small numbered flag. No people.",
+   "narration": "认清调压器、电流表和三块电压表。",
+   "overlay": [
+    "认识实验台，四个读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认识实验台，四个读数",
+   "scene": "万用表拨到交流电压档，当第一块电压表",
+   "prompt_en": "A multimeter with its dial set to the AC voltage position, connected as the first voltmeter; the display is blank. No people.",
+   "narration": "第一块电压表可以用万用表交流档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认识实验台，四个读数",
+   "scene": "四个空白读数框",
+   "prompt_en": "Four blank reading boxes in a row. No people.",
+   "narration": "每次要读四个数。",
+   "overlay": [],
+   "labels": [
+    "V1",
+    "V2",
+    "V3",
+    "I"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "调电压，读一组记一组",
+   "scene": "老周通电后单手转动调压器旋钮，镜头贴近接线端子",
+   "prompt_en": "With the circuit powered, the older man turns the autotransformer knob with one hand; the view is close to the exposed terminals.",
+   "narration": "合上电源，用调压器加一个电压。",
+   "overlay": [
+    "调电压，读一组记一组"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "调电压，读一组记一组",
+   "scene": "小研依次看电流表、两块电压表，在空白表格上记录",
+   "prompt_en": "The female graduate student reads the ammeter and two voltmeters in turn and writes in a blank table.",
+   "narration": "依次读电流、V2、V3，记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "调电压，读一组记一组",
+   "scene": "调压器旋钮再转一点，重复读数",
+   "prompt_en": "The autotransformer knob turns a little further and the readings are taken again. No people.",
+   "narration": "再换一个电压，重复一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "调电压，读一组记一组",
+   "scene": "老周摊手微笑，旋钮停在任意位置",
+   "prompt_en": "The older man shrugs with a smile; the knob rests at an arbitrary position.",
+   "narration": "讲解里说：电压随意取，没有限制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "多测几组，各自计算",
+   "scene": "小组四五个人围着表格，每人一行",
+   "prompt_en": "A small group of students around a blank data table, each pointing at a different row.",
+   "narration": "多测几组，组里每人各算一组。",
+   "overlay": [
+    "多测几组，各自计算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先回零，再断电",
+   "scene": "阿杰把调压器旋钮转回零位",
+   "prompt_en": "The young male student turns the autotransformer knob all the way back to the zero position.",
+   "narration": "做完了，先把调压器转回零。",
+   "overlay": [
+    "先回零，再断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先回零，再断电",
+   "scene": "随后拉下电源开关",
+   "prompt_en": "Then he switches off the bench power switch.",
+   "narration": "然后再断开电源。",
+   "overlay": [],
+   "labels": [
+    "① 回零",
+    "② 断电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "数据表格",
+   "scene": "一张空白宽表格，表头只有图标",
+   "prompt_en": "A wide blank data table with many columns whose headers are only small icons. No people.",
+   "narration": "表格里记电压、电流和计算结果。",
+   "overlay": [
+    "数据表格"
+   ],
+   "labels": [
+    "三个电压",
+    "电流",
+    "功率因数",
+    "阻抗电阻感抗",
+    "电感"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "功率因数公式",
+   "scene": "老周在白板上写分数式，只有字母符号",
+   "prompt_en": "The older man writes a fraction with letter symbols on a whiteboard, no words.",
+   "narration": "先算功率因数。",
+   "overlay": [
+    "功率因数公式"
+   ],
+   "labels": [
+    "分子：平方差",
+    "分母：2V2V3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "功率因数公式",
+   "scene": "欣欣比出记住的手势",
+   "prompt_en": "The panda mascot taps its head with a paw as if memorizing.",
+   "narration": "公式记住会用，不必现场推导。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "功率因数公式",
+   "scene": "计算器图标显示空白，旁边角度符号",
+   "prompt_en": "A calculator icon with a blank display next to an angle symbol. No people.",
+   "narration": "再求出相角和它的正弦。",
+   "overlay": [],
+   "labels": [
+    "φ",
+    "sinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "阻抗三角形求电阻感抗",
+   "scene": "直角三角形：斜边阻抗，底边电阻，竖边感抗",
+   "prompt_en": "A right triangle diagram: the long side for impedance, the base for resistance, the vertical side for reactance, with an angle at the corner. No people.",
+   "narration": "画出阻抗三角形。",
+   "overlay": [
+    "阻抗三角形求电阻感抗"
+   ],
+   "labels": [
+    "Z",
+    "r",
+    "XL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "阻抗三角形求电阻感抗",
+   "scene": "第三块电压表读数除以电流表读数",
+   "prompt_en": "The third voltmeter icon divided by the ammeter icon, with an equals sign. No people.",
+   "narration": "阻抗等于V3除以电流。",
+   "overlay": [],
+   "labels": [
+    "Z=V3÷I"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "阻抗三角形求电阻感抗",
+   "scene": "三角形里的角度标记为相角",
+   "prompt_en": "The angle at the corner of the right triangle highlights. No people.",
+   "narration": "三角形里的这个角，就是相角。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "阻抗三角形求电阻感抗",
+   "scene": "三角形底边和竖边分别高亮",
+   "prompt_en": "The base of the triangle highlights, then the vertical side highlights. No people.",
+   "narration": "电阻乘余弦，感抗乘正弦。",
+   "overlay": [],
+   "labels": [
+    "r=Z·cosφ",
+    "XL=Z·sinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "由感抗求电感",
+   "scene": "感抗图标除以一个旋转的圆圈符号",
+   "prompt_en": "A reactance icon divided by a spinning circle symbol for angular frequency. No people.",
+   "narration": "电感等于感抗除以角频率。",
+   "overlay": [
+    "由感抗求电感"
+   ],
+   "labels": [
+    "L=XL÷(2πf)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "由感抗求电感",
+   "scene": "小研在表格最后一栏填好数字，打勾",
+   "prompt_en": "The female graduate student fills in the last column of a blank table and adds a green check mark.",
+   "narration": "频率用电源频率，电感就求出来了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "参考教材，有疑问就问",
+   "scene": "空白封面教材和一只举起的手",
+   "prompt_en": "A textbook with a blank cover next to a raised hand icon. No people.",
+   "narration": "课后对照教材复习，有疑问就问。",
+   "overlay": [
+    "参考教材，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "线圈、三块电压表、电流表图标",
+   "prompt_en": "Icons of a choke coil, three voltmeters and an ammeter. No people.",
+   "narration": "三块电压表加电流表，测出线圈参数。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "公式卡片和三角形图标",
+   "prompt_en": "A formula card icon and an impedance triangle icon. No people.",
+   "narration": "先算功率因数，再用三角形求解。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "调压器旋钮回零和断开的开关两个图标",
+   "prompt_en": "Two icons: an autotransformer knob back at zero and an open supply switch. No people.",
+   "narration": "做完先回零，再断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在调压器回零的实验台前挥手",
+   "prompt_en": "The panda mascot waves in front of a lab bench with the autotransformer knob at zero.",
+   "narration": "线圈参数算出来了，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
