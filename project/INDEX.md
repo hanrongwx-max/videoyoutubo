@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 10 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 11 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -336,6 +336,7 @@
 | Cleanroom & Equipment Safety | 09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder | 国内版 | 激光焊接机开关电源的规范更换（国内版） | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder | 原著版 | 激光焊接机气动组件的规范更换 | 42 | 3:30 | 20 / 0 | [剧本](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder | 国内版 | 激光焊接机气动组件的规范更换（国内版） | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 11_Replace the Display Screen for xTool MetalFab Laser Welder | 原著版 | 激光焊接机显示屏的规范更换 | 30 | 2:30 | 15 / 0 | [剧本](<Cleanroom & Equipment Safety/11_Replace the Display Screen for xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 11_Replace the Display Screen for xTool MetalFab Laser Welder | 国内版 | 激光焊接机显示屏的规范更换（国内版） | 45 | 3:45 | 15 / 6 | [剧本](<Cleanroom & Equipment Safety/11_Replace the Display Screen for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/11_Replace the Display Screen for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder | 国内版 | 激光焊接机交流电源板的规范更换（国内版） | 47 | 3:55 | 19 / 6 | [剧本](<Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 13_Replace the Laser Power Supply for xTool MetalFab Laser Welder | 国内版 | 激光焊接机激光电源的规范更换（国内版） | 56 | 4:40 | 24 / 6 | [剧本](<Cleanroom & Equipment Safety/13_Replace the Laser Power Supply for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/13_Replace the Laser Power Supply for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
