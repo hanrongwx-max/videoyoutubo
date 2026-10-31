@@ -1,0 +1,2154 @@
+1
+00:00:10,990 --> 00:00:15,310
+everyone and welcome to the lecture number three of our introduction to
+大家好，欢迎来到我们光子学入门
+
+2
+00:00:15,310 --> 00:00:19,630
+photonics video series. Today in this lecture we are going to talk about the
+系列视频的第三讲。今天在本讲中，我们要讲
+
+3
+00:00:19,630 --> 00:00:24,630
+particle properties of light. If you remember in the first two lectures we
+光的粒子性。如果你还记得，在前两讲中我们
+
+4
+00:00:24,630 --> 00:00:30,950
+talked about the wave properties of light and also if you recall we talked
+讲了光的波动性，而且如果你还记得，我们还讲了
+
+5
+00:00:30,950 --> 00:00:36,230
+about the nature of light. We define light as both the wave and the particle.
+光的本质。我们把光定义为既是波又是粒子。
+
+6
+00:00:36,230 --> 00:00:44,550
+We also elaborated on the fact that certain phenomena that are related to
+我们还详细说明了这样一个事实：某些与光有关的现象
+
+7
+00:00:44,550 --> 00:00:49,350
+the light can be explained only if the light is considered the wave and then
+只有把光看作波才能解释，而
+
+8
+00:00:49,350 --> 00:00:54,950
+also there's certain phenomena that can be explained only if light is looked at
+另有某些现象只有把光看作
+
+9
+00:00:54,950 --> 00:01:00,110
+as a particle. So in this lecture we are going to look at that other
+粒子才能解释。所以在本讲中，我们要看光的本质的
+
+10
+00:01:00,110 --> 00:01:05,550
+aspect of the of the nature of light which is the properties which is the
+另一个方面，也就是光的性质，也就是
+
+11
+00:01:05,550 --> 00:01:12,750
+particle properties of light. So in this lecture we are going to talk about
+光的粒子性。所以在本讲中，我们要讲
+
+12
+00:01:12,750 --> 00:01:17,190
+photons, we are going to talk about the absorption, we are going to talk about
+光子，我们要讲吸收，我们要讲
+
+13
+00:01:17,190 --> 00:01:20,950
+you know other phenomena that are related to the light that can be
+其他一些与光有关的、只有
+
+14
+00:01:20,950 --> 00:01:26,030
+explained only if you look at the light as a particle. So we are going to be
+把光看作粒子才能解释的现象。所以我们将
+
+15
+00:01:26,030 --> 00:01:33,510
+looking at the light as particles and those particles that will be defining or
+把光看作粒子，而这些定义或
+
+16
+00:01:33,510 --> 00:01:39,070
+determining the light are also known as photons. So a certain behavior of light
+决定光的粒子也被称为光子。所以光的某些行为，
+
+17
+00:01:39,070 --> 00:01:44,710
+such as emission and absorption will be able to be explained if we are looking
+比如发射和吸收，如果我们把
+
+18
+00:01:44,710 --> 00:01:50,950
+at this light as consisting of a chain of particles or localized wave packets.
+光看作由一串粒子或局域化的波包组成，就能够得到解释。
+
+19
+00:01:50,950 --> 00:01:56,470
+So we can define a photon as the smallest division of light that retains
+所以我们可以把光子定义为光的最小单元，它保留了
+
+20
+00:01:56,470 --> 00:02:01,510
+the properties of that light beam. In other words different colors of light
+该光束的性质。换句话说，不同颜色的光
+
+21
+00:02:01,510 --> 00:02:07,030
+will have a specific type of a photon that is going to be described by its
+会有特定类型的光子，它由其
+
+22
+00:02:07,030 --> 00:02:12,350
+frequency, its wavelength and its energy. So we're looking as a photon as a
+频率、波长和能量来描述。所以我们把光子看作
+
+23
+00:02:12,350 --> 00:02:18,710
+particle that has a physical dimension and a location in space but more
+一个具有物理尺寸、在空间中有位置的粒子，但更
+
+24
+00:02:18,710 --> 00:02:23,950
+accurately we're going to look at this photon as a wave packet that carries a
+准确地说，我们把光子看作一个携带
+
+25
+00:02:23,950 --> 00:02:30,190
+specific content of energy. On this light we are kind of quantifying
+特定能量的波包。在这张幻灯片上，我们来定量描述
+
+26
+00:02:30,310 --> 00:02:36,950
+the basic properties of a photon so if we want to calculate the energy of a photon
+光子的基本性质，所以如果我们想计算光子的能量，
+
+27
+00:02:36,950 --> 00:02:43,790
+we are going to use the formula that is given on this slide that basically tells
+我们会用这张幻灯片上给出的公式，它基本上告诉
+
+28
+00:02:43,790 --> 00:02:48,990
+us that the energy of a photon is proportional to the frequency of the
+我们，光子的能量与光子的频率
+
+29
+00:02:48,990 --> 00:02:55,630
+photon. So energy shown here in the capital letter E is going to be equal to
+成正比。所以这里用大写字母 E 表示的能量等于
+
+30
+00:02:55,630 --> 00:03:02,550
+the product of the constant H and the frequency where H represents so-called
+常数 h 与频率的乘积，其中 h 表示所谓的
+
+31
+00:03:02,550 --> 00:03:07,270
+Planck's constant that's whose value is given on the bottom of the slide is
+普朗克常数，它的值在幻灯片底部给出，
+
+32
+00:03:07,270 --> 00:03:14,430
+equal to 6.625 times 10 to the negative 34 of joule seconds. So energy of photon
+等于 6.625 乘 10 的负 34 次方焦耳·秒。所以以焦耳为单位的光子能量
+
+33
+00:03:14,430 --> 00:03:22,950
+in joules can be given in terms of the product of the Planck's constant and
+可以表示为普朗克常数与该光子
+
+34
+00:03:23,550 --> 00:03:30,750
+frequency of that photon given in Hertz. We can also use the formula for that to
+以赫兹为单位的频率的乘积。我们还可以用相应的公式
+
+35
+00:03:30,750 --> 00:03:36,270
+basically substitute frequency with the wavelength and the speed of light so the
+基本上把频率换成波长和光速，所以
+
+36
+00:03:36,270 --> 00:03:39,710
+frequency we know that frequency is equal to the speed of light divided by
+我们知道频率等于光速除以
+
+37
+00:03:39,710 --> 00:03:44,750
+the wavelength which would transform the original formula into the formula
+波长，这样就把原来的公式变成了
+
+38
+00:03:44,750 --> 00:03:50,470
+that's also given on this slide where the energy is a function of the speed of
+这张幻灯片上也给出的公式，其中能量是光速和
+
+39
+00:03:50,470 --> 00:03:56,670
+light and the wavelength of light. Now let's try to put some things into
+光的波长的函数。现在我们来把一些事情放到
+
+40
+00:03:56,670 --> 00:04:01,190
+perspective. So we are going to be looking at a beam of light that is going to be
+具体情境中看一看。我们来看一束光，它将在
+
+41
+00:04:01,190 --> 00:04:06,390
+propagating through a specific medium of a specific thickness. So what we see on
+某种特定厚度的特定介质中传播。所以我们在
+
+42
+00:04:06,390 --> 00:04:11,430
+this picture on the left hand side is a beam that's labeled here as incident
+左边这张图上看到的是一束光，这里标为入射
+
+43
+00:04:11,430 --> 00:04:15,710
+beam and we see that this beam is going to be propagating through a
+光束，我们看到这束光将在
+
+44
+00:04:15,710 --> 00:04:19,990
+medium of a specific thickness that's characterized by the index of
+一种特定厚度的介质中传播，该介质的折射率为
+
+45
+00:04:19,990 --> 00:04:26,670
+refraction N2 and finally the beam of light is going to be leaving this medium
+N2，最后这束光会离开这种介质，
+
+46
+00:04:26,670 --> 00:04:31,990
+and coming back into the original medium characterized by the index of refraction
+回到原来那种折射率为
+
+47
+00:04:31,990 --> 00:04:37,110
+N1. What we can also see here, it's a little bit confusing, it's important to
+N1 的介质中。我们在这里还能看到，这有点容易混淆，重要的是要
+
+48
+00:04:37,110 --> 00:04:40,910
+understand that the width of the beam as shown here in the picture does not
+理解，图中所示的光束宽度并不
+
+49
+00:04:40,910 --> 00:04:45,830
+represent the actual width of the beam but rather the width of the beam
+代表光束的实际宽度，而是光束的宽度
+
+50
+00:04:45,910 --> 00:04:52,790
+represents the energy that that beam is carrying. So if we have a wider beam
+代表这束光所携带的能量。所以如果光束更宽，
+
+51
+00:04:52,790 --> 00:04:58,630
+means that beam has more of energy. We see a few phenomena that are going to
+就意味着这束光的能量更多。我们看到在这种情况下会发生
+
+52
+00:04:58,630 --> 00:05:03,470
+take place in this case. First of all on the first boundary between the medium
+几种现象。首先，在折射率为 N1 的介质
+
+53
+00:05:03,470 --> 00:05:09,390
+characterized by a index of refraction N1 and then index of refraction N2. So
+和折射率为 N2 的介质之间的第一个边界上，
+
+54
+00:05:09,390 --> 00:05:15,230
+this first boundary of reflection is going to take place where a certain
+在这第一个边界上会发生反射，一定
+
+55
+00:05:15,230 --> 00:05:22,150
+amount of light is gonna get reflected and we see how the width of the beam, this
+量的光会被反射，我们看到光束的宽度，这个
+
+56
+00:05:22,150 --> 00:05:27,070
+we can call it quasi-width of the beam has been reduced meaning the energy of
+我们可以称之为光束的准宽度，减小了，意味着
+
+57
+00:05:27,070 --> 00:05:31,670
+the beam has been reduced for the amount that has been reflected from the
+光束的能量减少了，减少的量就是从
+
+58
+00:05:31,670 --> 00:05:37,910
+first boundary. As the light propagates through the medium we see that its
+第一个边界反射掉的那部分。随着光在介质中传播，我们看到它的
+
+59
+00:05:37,910 --> 00:05:43,270
+energy is gonna get reduced and the reason for that is because there is
+能量会减少，原因是
+
+60
+00:05:43,270 --> 00:05:49,950
+going to be two phenomena taking place in the in the medium, one being scattering
+介质中会发生两种现象，一种是散射，
+
+61
+00:05:49,950 --> 00:05:53,870
+and another one being absorption. In other words there's going to be an
+另一种是吸收。换句话说，光与介质之间
+
+62
+00:05:53,870 --> 00:05:59,670
+interaction between the light and the medium in the sense that a certain
+会发生相互作用，也就是说这束光的一定
+
+63
+00:05:59,670 --> 00:06:04,110
+amount of power of this light beam is gonna get absorbed by the material and
+功率会被材料吸收，而且
+
+64
+00:06:04,110 --> 00:06:09,870
+also it's gonna get scattered to a certain extent. The whole phenomenon of
+它还会在一定程度上被散射。吸收的整个现象，
+
+65
+00:06:09,990 --> 00:06:17,670
+absorption or interaction of light with the matter, in this case medium N2, can be
+或者说光与物质（在这里是介质 N2）的相互作用，
+
+66
+00:06:17,670 --> 00:06:25,710
+best understood if we are treating light as a chain of photons so we can
+如果我们把光看作一串光子，就最容易理解，所以我们可以
+
+67
+00:06:25,710 --> 00:06:30,870
+directly quantify the amount of photons to the to the energy of our power of
+把光子的数量直接与光的能量或功率
+
+68
+00:06:30,870 --> 00:06:36,030
+light and then absorption for the phenomenon of absorption is going to be
+对应起来，然后吸收，吸收这种现象基本上会
+
+69
+00:06:36,390 --> 00:06:42,070
+basically reducing the amount of photons or reducing the power or energy of the
+减少光子的数量，或者说减少
+
+70
+00:06:42,070 --> 00:06:48,510
+light beam. Here we are shifting the gears a little bit so in order to properly
+光束的功率或能量。这里我们稍微换个角度，为了恰当地
+
+71
+00:06:48,510 --> 00:06:57,510
+understand the phenomena of absorption as presented on the previous slide we
+理解上一张幻灯片所介绍的吸收现象，我们
+
+72
+00:06:57,510 --> 00:07:01,790
+have to move from a macroscopic model to a microscopic model. In other words
+必须从宏观模型转到微观模型。换句话说，
+
+73
+00:07:01,790 --> 00:07:07,710
+we would want to look at the atomic properties of a medium so if we go back
+我们要看介质的原子性质，所以如果我们回到
+
+74
+00:07:07,710 --> 00:07:14,470
+to the previous slide this medium here is gonna consist of a whole bunch of
+上一张幻灯片，这里的这种介质由一大堆
+
+75
+00:07:14,470 --> 00:07:20,990
+small particles either molecules or atoms so now we are looking on a
+小粒子组成，要么是分子，要么是原子，所以现在我们在
+
+76
+00:07:20,990 --> 00:07:26,750
+microscopic level what is going on in each of these different atoms that are
+微观层面上看，组成我们原来那种介质的
+
+77
+00:07:26,750 --> 00:07:32,230
+that our original medium is made out of. So first of all we have to understand
+每一个不同的原子中发生了什么。所以首先我们必须理解，
+
+78
+00:07:32,230 --> 00:07:36,870
+that all matter is made of atoms which represents the smallest unit that
+所有物质都由原子组成，原子是保留
+
+79
+00:07:36,870 --> 00:07:41,470
+retains the characteristic of a chemical element that medium is
+介质所含化学元素特性的
+
+80
+00:07:41,470 --> 00:07:46,270
+made out of. So atoms is the smallest unit that retains the characteristic of
+最小单元。所以原子是保留
+
+81
+00:07:46,270 --> 00:07:51,550
+chemical element and we know that atom consists of a positive nucleus that's
+化学元素特性的最小单元，我们知道原子由一个带正电的原子核
+
+82
+00:07:51,550 --> 00:07:56,910
+surrounded by negative electrons that are orbiting around the nucleus. So what's
+和环绕原子核运行的带负电的电子组成。所以
+
+83
+00:07:56,910 --> 00:08:04,470
+important to understand again is that the basic constituents of each atom are
+再次需要理解的重要一点是，每个原子的基本组成部分是
+
+84
+00:08:04,470 --> 00:08:10,670
+electrons that are orbiting on a very specific orbits that are shown here
+在非常特定的轨道上运行的电子，这些轨道显示在这里，
+
+85
+00:08:10,670 --> 00:08:15,350
+there's a total of five of them in the case of this specific chemical element
+对于这种特定的化学元素，一共有五个轨道，
+
+86
+00:08:15,350 --> 00:08:20,910
+and each of these different orbits can carry a certain number of electrons for
+而每一个不同的轨道都能容纳一定数量的电子，
+
+87
+00:08:20,910 --> 00:08:25,230
+example the first orbit that is the closest to the nucleus can carry a total
+例如，离原子核最近的第一个轨道总共能容纳
+
+88
+00:08:25,230 --> 00:08:30,670
+of two electrons and then the second orbit that's shown here as a orbit L can
+两个电子，然后第二个轨道，这里显示为 L 轨道，
+
+89
+00:08:30,670 --> 00:08:35,830
+carry a total or a maximum of eight electrons and then the third orbit is
+总共或者说最多能容纳八个电子，然后第三个轨道
+
+90
+00:08:35,830 --> 00:08:43,870
+gonna be able to carry 18 electrons etc. So each chemical element is
+能容纳 18 个电子，等等。所以每种化学元素
+
+91
+00:08:43,870 --> 00:08:47,910
+characterized by a certain number of electrons that is that are going to be
+都以一定数量的电子为特征，这些电子会
+
+92
+00:08:47,910 --> 00:08:54,470
+distributed along these orbits electrons will be filling the orbits that are
+沿这些轨道分布，电子会先填充
+
+93
+00:08:54,470 --> 00:09:00,550
+orbits that are closest to the nucleus so for example if we have five electrons in
+离原子核最近的轨道，所以例如，如果某种化学元素的原子中
+
+94
+00:09:00,550 --> 00:09:05,870
+an atom of a specific chemical element two electrons will be sitting will be placed
+有五个电子，两个电子会位于、会被放在
+
+95
+00:09:05,870 --> 00:09:11,070
+on the first orbit K and then the remaining three electrons will be on the
+第一个轨道 K 上，然后其余三个电子会在
+
+96
+00:09:11,070 --> 00:09:16,550
+orbit L etc. So that's that's the first thing that has to be understood the
+L 轨道上，等等。所以这是必须理解的第一点。
+
+97
+00:09:16,550 --> 00:09:20,430
+second thing that also has to be understood that each of these orbits on
+第二点也必须理解，电子绕原子核运行的
+
+98
+00:09:20,430 --> 00:09:26,710
+which electrons are orbiting around the nucleus each of these orbits are
+每一个轨道，每一个轨道都
+
+99
+00:09:26,710 --> 00:09:30,830
+characterized by a specific level of energy in other words the electrons that
+对应一个特定的能级，换句话说，
+
+100
+00:09:30,830 --> 00:09:36,030
+are sitting on the first orbit would have a specific amount of energy that
+位于第一个轨道上的电子具有特定的能量，
+
+101
+00:09:36,030 --> 00:09:41,030
+is going to be different than the energy on the second orbit or the third
+它不同于第二个轨道或第三个
+
+102
+00:09:41,030 --> 00:09:44,150
+orbit etc. It turns out that electrons that are
+轨道上的能量，等等。结果表明，
+
+103
+00:09:44,150 --> 00:09:49,870
+closest to the nucleus carry the smallest amount of energy and as we are
+离原子核最近的电子携带的能量最少，而随着我们
+
+104
+00:09:49,870 --> 00:09:55,070
+moving away towards the outer orbits the electrons that are being placed on
+向外层轨道移动，位于
+
+105
+00:09:55,070 --> 00:10:00,110
+those outer orbits will be characterized by a by a higher and higher amount of
+这些外层轨道上的电子的能量会
+
+106
+00:10:00,110 --> 00:10:06,950
+energy. So there is a possibility for an electron to move from from the orbit
+越来越高。所以电子有可能从
+
+107
+00:10:06,950 --> 00:10:13,550
+closest closer to the nucleus to the orbit that's farther out and the
+离原子核较近的轨道移到较远的轨道，而
+
+108
+00:10:13,550 --> 00:10:19,190
+condition for that to take place is that the electron has to receive a
+发生这种情况的条件是电子必须获得
+
+109
+00:10:19,190 --> 00:10:24,310
+certain amount of energy in other words the electron would increase the amount of
+一定的能量，换句话说，电子会增加它所携带的
+
+110
+00:10:24,310 --> 00:10:27,830
+energy that it carries and that increase in energy is going to result in an
+能量，而能量的增加会使
+
+111
+00:10:27,830 --> 00:10:32,470
+electron jumping from from the from the orbit closer to the nucleus to the
+电子从离原子核较近的轨道跳到
+
+112
+00:10:32,470 --> 00:10:39,100
+orbits that are farther away. So in this case on the left hand side we see a
+较远的轨道。所以在这种情况下，在左边我们看到
+
+113
+00:10:39,100 --> 00:10:44,820
+whole bunch of different levels energy levels that are characterizing different
+一大堆不同的能级，它们对应某个原子模型中
+
+114
+00:10:44,820 --> 00:10:49,620
+orbits in a specific atomic model. So once more we model the energy of an
+不同的轨道。所以再说一遍，我们用电子的位置来模拟
+
+115
+00:10:49,620 --> 00:10:54,860
+atom with a position of its electrons when the electrons are in an unexcited or
+原子的能量。当电子处于未激发态或
+
+116
+00:10:54,860 --> 00:10:58,980
+ground state the atom is assumed to be at its lowest energy level in other
+基态时，认为原子处于其最低能级，换句
+
+117
+00:10:58,980 --> 00:11:05,060
+words there is no electrons that jump up to our to a higher energy orbits. If
+话说，没有电子跳到更高能量的轨道上。如果
+
+118
+00:11:05,060 --> 00:11:09,900
+an atom absorbs energy in other words if an external energy is brought to the
+原子吸收能量，换句话说，如果有外部能量提供给
+
+119
+00:11:09,900 --> 00:11:16,900
+atom the electrons that are part of that atom are going to be or may be excited
+原子，该原子中的电子就会或者可能被激发，
+
+120
+00:11:16,900 --> 00:11:22,580
+and can move into higher energy shells, higher energy orbits. As electrons are
+并且可以移到更高能量的壳层、更高能量的轨道上。当电子
+
+121
+00:11:22,580 --> 00:11:27,380
+moving from one shell to another unique amounts or quanta of energy are absorbed
+从一个壳层移到另一个壳层时，会吸收或发射特定数量的能量，也就是能量子，
+
+122
+00:11:27,380 --> 00:11:33,380
+or emitted where that quantum of energy comes in the form of a photon. In other
+而这个能量子是以光子的形式出现的。换句
+
+123
+00:11:33,380 --> 00:11:40,260
+words if you go back to the previous slide if we want to if we want to move
+话说，如果你回到上一张幻灯片，如果我们想
+
+124
+00:11:40,260 --> 00:11:45,820
+an electron from let's say the third orbit to the fourth orbit there is going
+把一个电子从比如说第三轨道移到第四轨道，
+
+125
+00:11:45,820 --> 00:11:50,660
+to be a difference in energy level between these two orbits. So the fourth
+这两个轨道之间就会有能级差。所以第四
+
+126
+00:11:50,660 --> 00:11:55,860
+orbit is going to be carrying more energy electrons that are on the fourth
+轨道携带的能量更多，第四轨道上的电子
+
+127
+00:11:55,860 --> 00:11:59,940
+orbit will be carrying more energy than electrons that are on the third
+携带的能量比第三轨道上的电子
+
+128
+00:11:59,940 --> 00:12:05,180
+orbit and that exactly that difference between the energy on the third orbit
+更多，而正是第三轨道上的能量
+
+129
+00:12:05,180 --> 00:12:10,820
+and the energy on the fourth orbit that difference in energy has to be equal to
+与第四轨道上的能量之间的这个差值，这个能量差必须等于
+
+130
+00:12:10,820 --> 00:12:15,220
+the energy of the photon that is going to be absorbed by this electron that is
+将被这个电子吸收的光子的能量，这个电子
+
+131
+00:12:15,220 --> 00:12:19,540
+going to jump from the third to the fourth orbit. In other words in the
+将从第三轨道跳到第四轨道。换句话说，
+
+132
+00:12:19,540 --> 00:12:26,260
+electron is going to move from a specific orbit of a lower energy level
+电子只有在获得恰好
+
+133
+00:12:26,260 --> 00:12:32,460
+to a specific orbit on a higher energy level only if it received the exact
+等于两个轨道之间能级差的能量时，
+
+134
+00:12:32,460 --> 00:12:36,300
+amount of energy that's equal to the difference in the energy level between
+才会从某个较低能级的轨道
+
+135
+00:12:36,300 --> 00:12:41,220
+between the two orbits. In other words that that energy that specific amount of
+移到某个较高能级的轨道。换句话说，这个能量，这个特定数量的
+
+136
+00:12:41,220 --> 00:12:46,140
+energy that's equal to the delta or difference of energies for the two
+能量，等于两个轨道能量之差 Δ 的能量，
+
+137
+00:12:46,140 --> 00:12:50,980
+orbits has to come in the form of a photon. So that photon that's coming from
+必须以光子的形式到来。所以这个来自
+
+138
+00:12:50,980 --> 00:12:58,540
+the outside to some sort of external excitation those photons would have to
+外部、来自某种外部激发的光子，这些光子必须
+
+139
+00:12:58,540 --> 00:13:02,220
+have exactly the amount of energy that's equal to the difference in energy
+恰好具有等于两个能级之间
+
+140
+00:13:02,220 --> 00:13:07,500
+between between the two levels. So for example if you're looking at the left
+能量差的能量。所以例如，如果你看左
+
+141
+00:13:07,500 --> 00:13:14,300
+hand side if we would want to move the electron for the fourth orbit that is
+边，如果我们想把电子从第四轨道，
+
+142
+00:13:14,300 --> 00:13:20,100
+characterized by the energy level of negative 0.85 electron volts to let's say
+其能级为负 0.85 电子伏特，移到比如说
+
+143
+00:13:20,100 --> 00:13:24,980
+the sixth orbit that's characterized by the energy level of negative 0.38
+第六轨道，其能级为负 0.38
+
+144
+00:13:24,980 --> 00:13:30,580
+electron volts the electron the fourth orbit has to receive the energy that is
+电子伏特，那么第四轨道上的电子必须获得能量，
+
+145
+00:13:30,580 --> 00:13:36,820
+going to change its energy level from negative 0.85 to negative 0.38. So what
+使它的能级从负 0.85 变为负 0.38。那么
+
+146
+00:13:36,820 --> 00:13:42,620
+is that difference? We would take negative 0.38 and subtract negative 0.85
+这个差值是多少呢？我们用负 0.38 减去负 0.85，
+
+147
+00:13:42,620 --> 00:13:49,860
+and we are going to get a delta in energy that would that a photon would
+就得到光子必须携带的
+
+148
+00:13:49,860 --> 00:13:55,020
+have to carry. So the photon should be of a specific frequency that is going to
+能量差 Δ。所以光子应该具有特定的频率，从而
+
+149
+00:13:55,020 --> 00:14:00,540
+result in a specific amount of energy that is equal to this delta in energy
+对应于特定的能量，它等于第四和第六，
+
+150
+00:14:00,540 --> 00:14:05,620
+levels between the fourth and sixth so fourth and sixth orbit. In such a case
+也就是第四和第六轨道之间的这个能级差。在这种情况下，
+
+151
+00:14:05,620 --> 00:14:10,340
+that specific photon is going to be absorbed by the electron and the
+这个特定的光子就会被电子吸收，而
+
+152
+00:14:10,340 --> 00:14:15,420
+electrons going to jump from the fourth level to the sixth level. That's also
+电子会从第四能级跳到第六能级。这里
+
+153
+00:14:15,420 --> 00:14:19,700
+shown another example is also shown here on this slide so for example if we
+这张幻灯片上还给出了另一个例子，所以例如，如果我们
+
+154
+00:14:19,700 --> 00:14:24,660
+want to move the electron from the first orbit that's shown here as a
+想把电子从第一轨道，这里显示其
+
+155
+00:14:24,660 --> 00:14:32,460
+having energy level of negative 13.6 to the third level that has an energy
+能级为负 13.6，移到第三能级，其能
+
+156
+00:14:32,460 --> 00:14:37,700
+level of negative 1.5 that difference in energy is calculated here and it turns
+级为负 1.5，这个能量差在这里算出来了，结果
+
+157
+00:14:37,700 --> 00:14:43,820
+out to be equal to 12.9 electron volts so that is going to be the
+等于 12.9 电子伏特，所以这就是
+
+158
+00:14:43,820 --> 00:14:49,180
+energy that a photon of a specific frequency should be carrying in order to
+特定频率的光子为了
+
+159
+00:14:49,180 --> 00:14:54,100
+be absorbed by an electron that is going to jump from the first energy
+被一个从第一能级跳到第三能级的电子吸收
+
+160
+00:14:54,100 --> 00:14:59,620
+level to the third energy level. This is extremely important because as it
+所应携带的能量。这一点极其重要，因为
+
+161
+00:14:59,620 --> 00:15:06,020
+turns out only photons of specific colors or specific frequencies or specific
+结果表明，只有特定颜色、特定频率或特定
+
+162
+00:15:06,020 --> 00:15:11,700
+energy levels are going to be absorbed by a by the material while some other
+能量的光子才会被材料吸收，而其他一些
+
+163
+00:15:11,700 --> 00:15:16,460
+photons of other energy levels are going to be passing through to that specific
+能量的光子则会穿过那种特定的
+
+164
+00:15:16,460 --> 00:15:21,180
+material so only those photons that carry the energy that's equal to the
+材料，所以只有那些携带的能量等于
+
+165
+00:15:21,180 --> 00:15:26,340
+difference in energy levels of a specific atom are going to be photons
+某种原子能级差的光子，才是
+
+166
+00:15:26,340 --> 00:15:31,500
+that are going to be absorbed. So what we described on the previous slides on a
+会被吸收的光子。所以我们在前几张幻灯片中在
+
+167
+00:15:31,500 --> 00:15:37,700
+microscopic level is a process of absorption. In other words the photons
+微观层面上描述的，是吸收的过程。换句话说，
+
+168
+00:15:37,700 --> 00:15:47,060
+that are propagating through a medium will be absorbed by the medium and the
+在介质中传播的光子会被介质吸收，而
+
+169
+00:15:47,060 --> 00:15:55,140
+energy of the light beam that those photons are part of will be reduced.
+这些光子所组成的光束的能量会减少。
+
+170
+00:15:55,140 --> 00:15:59,660
+In the inverse process to absorption is so-called emission in other words a
+与吸收相反的过程是所谓的发射，换句话说，
+
+171
+00:15:59,660 --> 00:16:03,780
+material can also emit the light and in such a case we are talking about the
+材料也可以发射光，在这种情况下，我们谈的就是
+
+172
+00:16:03,780 --> 00:16:09,060
+light sources. So we want to kind of touch base here about the light sources
+光源。所以我们想在这里稍微涉及一下光源，
+
+173
+00:16:09,060 --> 00:16:13,260
+just a quick introduction so a light sources can be divided into two
+只是简单介绍一下。光源可以分为两
+
+174
+00:16:13,260 --> 00:16:18,540
+categories they can be natural or man-made. Natural would be the Sun
+类：天然光源和人造光源。天然光源有太阳、
+
+175
+00:16:18,540 --> 00:16:24,820
+observer with stars, radio stars, lightning and actually any living body
+其他恒星、射电星、闪电，实际上任何活体都是，
+
+176
+00:16:24,820 --> 00:16:29,580
+turns out that anything that's above the absolute zero temperature is actually
+结果表明，任何温度高于绝对零度的东西实际上都在
+
+177
+00:16:29,580 --> 00:16:34,140
+radiating a certain amount of electromagnetic radiation that may not be
+辐射一定量的电磁辐射，这种辐射可能
+
+178
+00:16:34,140 --> 00:16:38,740
+visible to our eye but if we push the temperature of that specific object
+我们的眼睛看不见，但如果我们提高那个特定物体的温度，
+
+179
+00:16:38,740 --> 00:16:44,460
+the frequency is going to the radiation is going to start shifting so we can
+频率就会，辐射就会开始移动，所以我们可以
+
+180
+00:16:44,460 --> 00:16:51,300
+heat up a specific medium to the level where the frequency of the radiation
+把某种介质加热到这样的程度，使辐射的频率
+
+181
+00:16:51,300 --> 00:16:55,740
+enters the visible spectrum and in such a case we start seeing that
+进入可见光谱，这时我们就开始看到
+
+182
+00:16:55,740 --> 00:17:02,300
+specific material glowing in other words we start seeing the emission. On the
+那种材料发光，换句话说，我们开始看到发射。另
+
+183
+00:17:02,300 --> 00:17:05,340
+other side if you're looking at the man-made sources of radiation so we're
+一方面，如果你看人造辐射源，我们
+
+184
+00:17:05,340 --> 00:17:08,220
+talking about incandescent and fluorescent lights we are talking about
+说的是白炽灯和荧光灯，我们说的是
+
+185
+00:17:08,220 --> 00:17:13,580
+heaters, lasers, mazers, radio and television antennas, radars, x-ray tubes
+加热器、激光器、微波激射器、无线电和电视天线、雷达、X 射线管，
+
+186
+00:17:13,580 --> 00:17:19,860
+whole bunch of different devices that are able to radiate an
+一大堆能够辐射
+
+187
+00:17:19,860 --> 00:17:24,820
+electromagnetic radiation. Let's talk a little bit about the spectra of the
+电磁辐射的不同设备。我们来稍微谈一谈
+
+188
+00:17:24,820 --> 00:17:30,900
+light sources. So every light sources is going to emit a certain radiation at
+光源的光谱。每一种光源都会在
+
+189
+00:17:30,900 --> 00:17:35,220
+specific frequencies so that range of frequencies that a light source is going
+特定频率上发出一定的辐射，所以光源
+
+190
+00:17:35,220 --> 00:17:42,900
+to emit into the surrounding medium is so-called spectrum. We can
+向周围介质发出的那个频率范围就是所谓的光谱。我们可以
+
+191
+00:17:42,900 --> 00:17:47,140
+define two different types of spectra that are important in photonics. One is
+定义光子学中两种重要的光谱。一种是
+
+192
+00:17:47,140 --> 00:17:51,300
+the emission spectrum and another one is absorption spectrum. An emission
+发射光谱，另一种是吸收光谱。发射
+
+193
+00:17:51,300 --> 00:17:56,340
+spectrum is formed by light that is emitting that's being emitted from a
+光谱由光源发出的、正在发出的光形成，
+
+194
+00:17:56,340 --> 00:18:02,420
+source while absorption spectrum is formed when the light is passing through
+而吸收光谱是在光通过
+
+195
+00:18:02,420 --> 00:18:07,500
+a specific medium and is being partially absorbed. So we are going to
+某种介质并被部分吸收时形成的。所以我们要
+
+196
+00:18:07,500 --> 00:18:13,700
+explain this to an example and we are going to use the picture on the
+用一个例子来解释这一点，我们将用这张幻灯片
+
+197
+00:18:13,700 --> 00:18:19,500
+right-hand side of this slide. So let's start from the case on the
+右侧的图。我们从
+
+198
+00:18:19,500 --> 00:18:26,420
+top. So we can see here a light bulb that is emitting a white light and if we
+最上面的情况开始。我们可以看到这里有一个灯泡在发出白光，如果
+
+199
+00:18:26,420 --> 00:18:34,980
+are moving that white light through a prism through an effect of a dispersion
+我们让这束白光通过棱镜，通过色散效应，
+
+200
+00:18:34,980 --> 00:18:41,020
+we are gonna have a white light being broken down into all frequencies or all
+白光就会被分解成所有频率或所有
+
+201
+00:18:41,020 --> 00:18:45,140
+colors which is going to result in a continuous spectrum that starts from the
+颜色，从而形成一个连续光谱，从
+
+202
+00:18:45,140 --> 00:18:50,820
+red color all the way on the left to the violet on the right. Now if you
+最左边的红色一直到右边的紫色。现在如果你
+
+203
+00:18:50,820 --> 00:18:59,460
+take a hot gas and that hot gas turns out is going to emit certain
+拿一种热气体，结果这种热气体会发出某种
+
+204
+00:18:59,460 --> 00:19:08,460
+electromagnetic wave that's gonna have a whole bunch of colors or frequencies. If
+电磁波，它具有一大堆颜色或频率。如果
+
+205
+00:19:08,460 --> 00:19:12,340
+we are pushing those colors and frequencies to a prism what we are
+我们把这些颜色和频率送入棱镜，我们
+
+206
+00:19:12,340 --> 00:19:20,500
+going to see is so-called emission spectrum. So this hot gas has been excited
+会看到所谓的发射光谱。所以这种热气体被激发了，
+
+207
+00:19:20,500 --> 00:19:28,180
+and by the process of a heating in other words the the electrons are excited and
+是通过加热的过程激发的，换句话说，电子被激发了，
+
+208
+00:19:28,180 --> 00:19:33,300
+they're sitting in higher energy levels and since those higher energy levels are
+它们处于较高的能级上，由于这些较高的能级
+
+209
+00:19:33,300 --> 00:19:37,540
+not stable most of these electrons that are that have been excited to the
+不稳定，大多数通过加热过程
+
+210
+00:19:37,540 --> 00:19:42,940
+process of a heating they will start jumping or dropping down through their
+被激发的电子会开始跳回或落回到它们
+
+211
+00:19:42,940 --> 00:19:48,660
+original states. In other words they will be moving from higher energy levels to
+原来的状态。换句话说，它们会在相应的原子中从较高能级
+
+212
+00:19:48,660 --> 00:19:54,540
+a lower energy levels in a corresponding atom and every time an electron moves
+移到较低能级，每当一个电子
+
+213
+00:19:54,540 --> 00:19:59,100
+from the higher energy level to a lower energy level its energy is gonna get
+从较高能级移到较低能级时，它的能量就会
+
+214
+00:19:59,100 --> 00:20:05,620
+reduced and its energy is gonna get reduced exactly by the amount of the
+减少，而它的能量减少的量恰好
+
+215
+00:20:05,620 --> 00:20:10,340
+energy that's equal to the difference between the two energy states in a
+等于相应原子中两个能态之间的
+
+216
+00:20:10,340 --> 00:20:17,420
+corresponding atom and that energy that's gonna be emitted or released is
+能量差，而发射或释放出来的那份能量
+
+217
+00:20:17,420 --> 00:20:22,180
+gonna be at a specific frequency and that specific frequency is gonna result
+具有特定的频率，而这个特定的频率会对应
+
+218
+00:20:22,180 --> 00:20:26,340
+in a specific color. So in the case of a hot gas that we are seeing on this
+一种特定的颜色。所以对于我们在这张图上看到的热气体，
+
+219
+00:20:26,340 --> 00:20:32,820
+picture we have a specific discrete lines in an emission spectrum. We see
+发射光谱中有一些特定的离散谱线。我们看到
+
+220
+00:20:32,820 --> 00:20:36,940
+here the red line on the left hand side and then we have a yellow line and then
+这里左边有一条红线，然后有一条黄线，然后
+
+221
+00:20:36,940 --> 00:20:41,360
+two shades of green and then light blue and finally all the way to the right we
+有两种深浅的绿色，然后是浅蓝色，最后在最右边，我们
+
+222
+00:20:41,360 --> 00:20:48,380
+have a few blue blue lines. So each of these different lines represent
+有几条蓝线。所以这些不同的谱线中的每一条都代表
+
+223
+00:20:48,380 --> 00:20:55,340
+photons of a specific color that have been emitted out of this hot gas after
+某种特定颜色的光子，它们是在电子从较高能级
+
+224
+00:20:55,340 --> 00:20:59,220
+the electrons from higher energy levels have been dropped down to the
+落到较低能级之后，从这种热气体中发射出来的。
+
+225
+00:20:59,220 --> 00:21:05,980
+lower energy levels. And finally the third case is so-called absorption
+最后，第三种情况是所谓的吸收
+
+226
+00:21:05,980 --> 00:21:09,580
+spectrum. Why we're talking about absorption spectrum? Here we have a light
+光谱。我们为什么谈吸收光谱呢？这里有一束光
+
+227
+00:21:09,580 --> 00:21:16,100
+that's coming from this light source on the left hand side. The assumption is
+来自左边的这个光源。假设
+
+228
+00:21:16,100 --> 00:21:21,060
+that this light source, this light bulb is emitting white light meaning light that
+这个光源，这个灯泡发出的是白光，也就是
+
+229
+00:21:21,060 --> 00:21:25,140
+consists of all the colors. Now when all those colors are moving through a cold
+包含所有颜色的光。现在当所有这些颜色通过一种冷
+
+230
+00:21:25,140 --> 00:21:30,580
+gas here the process of absorption is going to take place. In other words the
+气体时，这里就会发生吸收过程。换句话说，
+
+231
+00:21:30,580 --> 00:21:34,940
+electrons in this case are going to be moving from a lower energy levels to a
+在这种情况下，电子会从较低能级移到
+
+232
+00:21:34,940 --> 00:21:41,460
+higher energy levels. So every time an electron moves from the lower energy
+较高能级。所以每当一个电子从较低能级
+
+233
+00:21:41,460 --> 00:21:46,340
+level to high energy level it is going to receive a certain delta in energy
+移到较高能级时，它都会以光子的形式
+
+234
+00:21:46,340 --> 00:21:52,780
+through a form of a photon. So a photon of a specific frequency or color is gonna
+获得一定的能量差 Δ。所以某种特定频率或颜色的光子会
+
+235
+00:21:52,780 --> 00:21:57,580
+get absorbed, it's gonna disappear and its energy is gonna be transferred to an
+被吸收，它会消失，它的能量会转移给一个
+
+236
+00:21:57,580 --> 00:22:02,580
+electron that's gonna jump from a lower energy level to a higher energy level. It
+从较低能级跳到较高能级的电子。
+
+237
+00:22:02,580 --> 00:22:08,460
+turns out that only a specific colors or frequencies or energy levels are gonna
+结果表明，只有特定的颜色、频率或能量
+
+238
+00:22:08,460 --> 00:22:12,820
+get absorbed by the material that corresponds to the energy levels.
+会被材料吸收，它们与能级相对应。
+
+239
+00:22:12,820 --> 00:22:18,380
+That's a function of the energy levels in a specific, in a corresponding
+这取决于这种冷气体的某种、相应的
+
+240
+00:22:18,380 --> 00:22:24,740
+atom of this cold gas. That's why we see that in a continuous spectrum, in a
+原子中的能级。这就是为什么我们看到，在连续光谱中，在
+
+241
+00:22:24,740 --> 00:22:29,140
+spectrum that consists of all colors there's certain colors that are missing
+由所有颜色组成的光谱中，缺失了某些颜色，
+
+242
+00:22:29,140 --> 00:22:33,940
+and those colors that are missing would be the colors or frequencies or energy
+而这些缺失的颜色就是被冷气体吸收的
+
+243
+00:22:33,940 --> 00:22:39,900
+levels that have been absorbed by the cold gas. This cold gas is
+那些颜色、频率或能量。这种冷气体
+
+244
+00:22:39,900 --> 00:22:46,740
+the same type of a gas as the hot gas in the previous example and
+与上一个例子中的热气体是同一种气体，
+
+245
+00:22:46,740 --> 00:22:50,740
+we can see here that there's certain
+我们在这里可以看到，同一种介质的
+
+246
+00:22:51,140 --> 00:22:55,500
+inversive property between emission spectrum and absorption spectrum of the
+发射光谱和吸收光谱之间存在某种
+
+247
+00:22:55,500 --> 00:23:01,540
+same medium. In other words we see that the lines in an emission spectrum that
+互逆的性质。换句话说，我们看到发射光谱中的谱线，
+
+248
+00:23:01,540 --> 00:23:05,700
+the lines in the emission spectrum the colors will find them in
+发射光谱中的谱线，我们在
+
+249
+00:23:05,700 --> 00:23:11,620
+alliance in the emission spectrum will be exactly the shades of colors that
+发射光谱的谱线中看到的颜色，恰好就是
+
+250
+00:23:11,620 --> 00:23:14,940
+are missing in an absorption spectrum because we are dealing with the same
+吸收光谱中缺失的那些颜色，因为我们处理的是同一种
+
+251
+00:23:14,940 --> 00:23:20,380
+gas in the only difference is that in one case we have an emission and in the
+气体，唯一的区别在于，一种情况是发射，
+
+252
+00:23:20,380 --> 00:23:26,660
+other case we have an absorption. In other words in the second example the
+另一种情况是吸收。换句话说，在第二个例子中，
+
+253
+00:23:26,660 --> 00:23:32,140
+electrons are moving from higher energy levels to a lower energy levels while in
+电子从较高能级移到较低能级，而在
+
+254
+00:23:32,140 --> 00:23:36,580
+the case of absorption the electrons are moving from the lower energy levels to
+吸收的情况下，电子从较低能级移到
+
+255
+00:23:36,580 --> 00:23:42,220
+the higher energy levels. So to wrap up all materials with temperatures above
+较高能级。所以总结一下，所有温度高于
+
+256
+00:23:42,220 --> 00:23:46,620
+absolute zero are going to emit an electromagnetic radiation an
+绝对零度的材料都会发出电磁辐射，发出
+
+257
+00:23:46,620 --> 00:23:51,220
+electromagnetic wave. Every atom and molecule has its own characteristic set
+电磁波。每一种原子和分子都有自己特有的
+
+258
+00:23:51,220 --> 00:23:56,940
+of spectral lines that are the property of energy levels that are
+一组谱线，它们取决于
+
+259
+00:23:56,940 --> 00:24:03,580
+characterized by the characterized that specific type of atom or molecule. The
+那种特定原子或分子所特有的能级。
+
+260
+00:24:03,580 --> 00:24:07,620
+specific wavelengths and energies that produce a spectral fingerprint depend on
+产生光谱指纹的特定波长和能量取决于
+
+261
+00:24:07,620 --> 00:24:13,340
+atomic and the molecular structure of the material. In other words the lines
+材料的原子和分子结构。换句话说，
+
+262
+00:24:13,340 --> 00:24:19,500
+that are going to be missing from if you remember previous slide that the lines
+如果你还记得上一张幻灯片，那些
+
+263
+00:24:19,500 --> 00:24:22,740
+that will be missing from the absorption spectrum or the lines that
+在吸收光谱中缺失的谱线，或者
+
+264
+00:24:22,740 --> 00:24:27,340
+are going to be appearing in an emission spectrum of specific material will
+在某种材料的发射光谱中出现的谱线，
+
+265
+00:24:27,340 --> 00:24:31,500
+depend on the type of a material. So in other words we are talking about a
+取决于材料的类型。所以换句话说，我们说的是
+
+266
+00:24:31,500 --> 00:24:37,380
+spectral fingerprint of material or we can also say we are talking about an
+材料的光谱指纹，或者我们也可以说，我们说的是
+
+267
+00:24:37,380 --> 00:24:42,460
+DNA of a material. So every material is going to have a specific set of colors
+材料的 DNA。所以每种材料都会有一组特定的颜色
+
+268
+00:24:42,460 --> 00:24:49,340
+that are missing from the absorption spectrum or specific number of lines
+在吸收光谱中缺失，或者有特定数目的谱线
+
+269
+00:24:49,340 --> 00:24:55,260
+that are appearing in its emission spectrum. So if you are analyzing the
+出现在它的发射光谱中。所以如果你分析
+
+270
+00:24:55,260 --> 00:25:00,100
+spectrum of a specific material you can actually identify what type of material
+某种材料的光谱，你实际上可以根据其相应的发射
+
+271
+00:25:00,100 --> 00:25:09,340
+we are talking about based on the lines or gaps in their corresponding emission
+光谱和吸收光谱中的谱线或空缺，识别出我们说的是哪种材料。
+
+272
+00:25:09,340 --> 00:25:12,880
+and absorption spectrum. So the line spectra observed early in the
+所以在科学时代早期观察到的线状光谱，
+
+273
+00:25:12,880 --> 00:25:17,100
+scientific age led to a significant understanding of the structure of atoms
+使人们对原子结构有了重要的认识，
+
+274
+00:25:17,100 --> 00:25:22,860
+and eventually to the development of modern quantum theory. So this concept
+并最终导致了现代量子理论的发展。所以发射光谱和
+
+275
+00:25:22,860 --> 00:25:29,940
+of emission and absorption spectrum is basically a foundation to many
+吸收光谱这个概念基本上是许多
+
+276
+00:25:29,940 --> 00:25:34,540
+different fields including the quantum theory and spectroscopy that has found
+不同领域的基础，包括量子理论和光谱学，它们在
+
+277
+00:25:34,540 --> 00:25:40,620
+many many different applications in today modern world. So it's very
+当今现代世界中有着许许多多不同的应用。所以
+
+278
+00:25:40,620 --> 00:25:46,780
+important to understand the concept as there is a big chance that as a
+理解这个概念非常重要，因为作为
+
+279
+00:25:46,780 --> 00:25:52,100
+photonic technician you're gonna come across this concept
+一名光子学技术员，你很有可能会在职业生涯中
+
+280
+00:25:52,100 --> 00:25:58,740
+during your career. So if you are talking about monoatomic element we are
+遇到这个概念。所以如果我们说的是单原子元素，我们
+
+281
+00:25:58,740 --> 00:26:03,060
+talking about the type of spectrum that's produced by an electric discharge
+说的是让放电通过低压气体样品
+
+282
+00:26:03,060 --> 00:26:08,060
+passed through a gas sample contained at low pressure. So each of the lines that
+所产生的那种光谱。所以你在光谱、发射光谱中
+
+283
+00:26:08,060 --> 00:26:13,900
+you're seeing in a spectrum, an emission spectrum is produced by a
+看到的每一条谱线，都是由
+
+284
+00:26:13,900 --> 00:26:18,500
+single atomic transition from one energy level to the other and intensity
+从一个能级到另一个能级的一次原子跃迁产生的，而
+
+285
+00:26:18,500 --> 00:26:22,140
+of each line produced is dependent on the probability of atoms making that
+每条谱线的强度取决于原子发生
+
+286
+00:26:22,140 --> 00:26:26,740
+particular transition. Stronger lines are a result of more probable transitions
+那种特定跃迁的概率。较强的谱线来自
+
+287
+00:26:26,740 --> 00:26:31,620
+from energy states having shorter atomic lifetimes while weaker lines are
+原子寿命较短的能态上概率较大的跃迁，而较弱的谱线
+
+288
+00:26:31,620 --> 00:26:35,620
+the result of less probable transitions from states that have longer atomic
+来自原子寿命较长的能态上
+
+289
+00:26:35,620 --> 00:26:42,660
+lifetimes. So we are talking about significant transitions from lower
+概率较小的跃迁。所以我们说的是从较低
+
+290
+00:26:42,660 --> 00:26:48,980
+energy levels to higher energy levels and it turns out that the whole story
+能级到较高能级的重要跃迁，结果表明，整个情况
+
+291
+00:26:48,980 --> 00:26:54,540
+is not that simplistic as we described on a previous few slides. We
+并不像我们在前几张幻灯片中描述的那么简单。我们
+
+292
+00:26:54,540 --> 00:26:58,140
+have to look at the probability, we have to look at you know what transitions you
+必须看概率，我们必须看哪些跃迁，
+
+293
+00:26:58,140 --> 00:27:03,180
+know from what energy levels to what energy levels are more probable. We also
+从哪些能级到哪些能级的跃迁概率更大。我们还
+
+294
+00:27:03,180 --> 00:27:10,820
+have to analyze a lifetime of a specific electrons in an atom so the bottom line
+必须分析原子中特定电子的寿命，所以归根结底，
+
+295
+00:27:10,820 --> 00:27:18,180
+we have to understand that there's certain nuances in every spectrum in
+我们必须理解，每一个光谱都有某些细微之处，
+
+296
+00:27:18,180 --> 00:27:22,100
+terms of how strong each of these different lines that are appearing in
+就是发射光谱中出现的这些不同谱线
+
+297
+00:27:22,100 --> 00:27:27,940
+emission spectrum are and as mentioned on this specific slide that's directly a
+各自有多强，而正如这张幻灯片所说，这直接
+
+298
+00:27:27,940 --> 00:27:32,900
+function of probability of a transition from one energy level to another and
+取决于从一个能级到另一个能级的跃迁概率，
+
+299
+00:27:32,900 --> 00:27:39,940
+also it is a function of the length of our lifetime of a specific
+也取决于特定跃迁的
+
+300
+00:27:39,940 --> 00:27:48,460
+transition. So now we can kind of establish the transition from a
+寿命长短。所以现在我们可以从
+
+301
+00:27:48,460 --> 00:27:54,300
+microscopic world into a macroscopic world, our example of a medium that's
+微观世界过渡到宏观世界，回到我们那个
+
+302
+00:27:54,300 --> 00:27:58,060
+absorbing the light. So when we're talking about absorption we are talking about the
+吸收光的介质的例子。所以当我们谈吸收时，我们谈的是
+
+303
+00:27:58,060 --> 00:28:03,700
+transfer of energy from the electromagnetic wave to the atoms or
+能量从电磁波转移到材料中的原子或
+
+304
+00:28:03,700 --> 00:28:10,980
+molecules in the material. That transfer of energy is very specific for every
+分子。这种能量转移对每一种
+
+305
+00:28:10,980 --> 00:28:15,340
+type of material so the wavelength or intensity spectrum of light that passes
+材料都是非常特定的，所以通过材料的光的
+
+306
+00:28:15,340 --> 00:28:20,500
+through the material is going to appear to have certain wavelengths removed
+波长或强度谱看起来会缺少某些波长，
+
+307
+00:28:20,500 --> 00:28:25,300
+those will be the wavelengths that have been absorbed by the medium and for
+那些就是被介质吸收的波长，正是
+
+308
+00:28:25,300 --> 00:28:28,940
+that reason we are talking about so-called absorption spectrum. So the
+因为这个原因，我们才说所谓的吸收光谱。所以
+
+309
+00:28:28,940 --> 00:28:33,060
+continuous spectrum of white light that has all the colors is going to be
+包含所有颜色的白光连续光谱会
+
+310
+00:28:33,060 --> 00:28:38,500
+turned into an absorption spectrum where we see a certain gaps that
+变成吸收光谱，我们在其中看到一些空缺，
+
+311
+00:28:38,500 --> 00:28:42,500
+correspond to those colors or frequencies or energy levels that have
+它们对应被介质吸收的那些颜色、
+
+312
+00:28:42,500 --> 00:28:48,220
+been absorbed by the medium. So we have an interaction between the light beam and
+频率或能量。所以光束与
+
+313
+00:28:48,220 --> 00:28:54,820
+a medium in this case a gas in the sense that as we already described certain
+介质（这里是一种气体）之间存在相互作用，也就是说，如我们已经描述过的，某些
+
+314
+00:28:54,820 --> 00:29:00,540
+quotes are going to be absorbed by that medium. Another important concept that
+颜色会被那种介质吸收。我们在本讲中
+
+315
+00:29:00,540 --> 00:29:04,140
+we are going to introduce in this lecture is a concept of so-called black
+要介绍的另一个重要概念是所谓的黑
+
+316
+00:29:04,140 --> 00:29:09,700
+body radiation. So we are talking about thermal radiation, we are talking about
+体辐射。所以我们说的是热辐射，我们说的是这样一个
+
+317
+00:29:09,900 --> 00:29:15,340
+the fact that any kind of object whose temperature is above absolute zero is
+事实：任何温度高于绝对零度的物体都
+
+318
+00:29:15,340 --> 00:29:21,220
+going to emit a certain amount of electromagnetic radiation. So we are
+会发出一定量的电磁辐射。所以我们
+
+319
+00:29:21,220 --> 00:29:25,260
+talking about so-called thermal radiation as I already mentioned where the spectrum
+说的是所谓的热辐射，正如我已经提到的，某个物体在某一绝对温度
+
+320
+00:29:25,260 --> 00:29:30,180
+of electromagnetic radiation emitted by an object at some absolute temperature
+T 下所发出的电磁辐射的光谱
+
+321
+00:29:30,180 --> 00:29:36,540
+T is going to characterize that type of thermal radiation. What you see on a
+就表征了这种热辐射。你在
+
+322
+00:29:36,540 --> 00:29:44,780
+right-hand side is so-called black body radiation curve diagram. Let's explain
+右边看到的是所谓的黑体辐射曲线图。我们来解释
+
+323
+00:29:44,780 --> 00:29:50,780
+this diagram, let's shed some light on this, what these plots
+一下这张图，来说明一下这些曲线
+
+324
+00:29:50,780 --> 00:29:55,580
+really mean. So if you look at each of these different curves on this
+到底是什么意思。所以如果你看这张图上
+
+325
+00:29:55,580 --> 00:30:00,900
+diagram, these different curves on the diagram represent the radiation of
+每一条不同的曲线，图上这些不同的曲线代表
+
+326
+00:30:00,900 --> 00:30:05,460
+object or material at a specific temperature. So for example if you're
+物体或材料在某一特定温度下的辐射。所以例如，如果你
+
+327
+00:30:05,460 --> 00:30:08,620
+looking at a line that's all the way on the bottom, you can see that this line
+看最下面的那条线，你可以看到这条线
+
+328
+00:30:08,620 --> 00:30:15,420
+characterizes the body or object whose temperature is 3,000 Kelvin. We can
+对应于温度为 3000 开尔文的物体。我们可以
+
+329
+00:30:15,420 --> 00:30:20,060
+see that radiation is relatively weak because this line is very close to the
+看到辐射相对较弱，因为这条线非常靠近
+
+330
+00:30:20,060 --> 00:30:26,820
+x-axis and is also relatively flat, meaning object at this temperature is
+x 轴，而且也比较平坦，意味着处于这个温度的物体
+
+331
+00:30:26,820 --> 00:30:31,300
+going to radiate at almost any kind of wavelet in the spectrum. If you
+几乎会在光谱中的任何波长上辐射。如果你
+
+332
+00:30:31,300 --> 00:30:37,780
+increase the temperature of the object from 3,000 Kelvin to 4,000 Kelvin, you
+把物体的温度从 3000 开尔文提高到 4000 开尔文，你
+
+333
+00:30:37,780 --> 00:30:43,500
+can see a certain difference in the shape of the curve that presents
+可以看到表示、描述该物体辐射的
+
+334
+00:30:43,500 --> 00:30:49,740
+that describes the radiation originating from that object. So we can see that
+曲线形状有一定的变化。所以我们可以看到，
+
+335
+00:30:49,740 --> 00:30:55,740
+radiation has been increased as a number one and as a number two we
+第一，辐射增强了；第二，我们
+
+336
+00:30:55,740 --> 00:30:59,620
+can see a kind of more pronounced peak in the radiation. In other words, there
+可以看到辐射中出现了一个更明显的峰。换句话说，有
+
+337
+00:30:59,620 --> 00:31:06,340
+are certain wavelengths or certain colors that would radiate more
+某些波长或某些颜色会从那个特定物体
+
+338
+00:31:06,340 --> 00:31:10,980
+from that specific object. If we continue increasing the temperature, we see
+辐射得更多。如果我们继续提高温度，我们会看到
+
+339
+00:31:10,980 --> 00:31:15,940
+that the peak starts being kind of more pronounced. So for example for the
+峰开始变得更加明显。所以例如对于
+
+340
+00:31:15,940 --> 00:31:21,780
+object of temperature 5,000 Kelvin, we see that most of its radiation is
+温度为 5000 开尔文的物体，我们看到它的大部分辐射
+
+341
+00:31:21,780 --> 00:31:29,980
+already in a visible spectrum with a peak in an orange range and we can see a
+已经处在可见光谱中，峰值在橙色范围，我们可以看到
+
+342
+00:31:29,980 --> 00:31:34,380
+lot of radiation in a red range and in a yellow range and as we are moving
+红色范围和黄色范围内有大量辐射，而当我们
+
+343
+00:31:34,380 --> 00:31:41,780
+further from orange both towards ultraviolet or towards infrared, we see
+从橙色向紫外或向红外移动时，我们看到
+
+344
+00:31:41,780 --> 00:31:46,540
+that radiation is dropping down. It increases temperature all the way to 6,000
+辐射在下降。温度一直提高到 6000
+
+345
+00:31:46,540 --> 00:31:50,740
+Kelvin. We see a very very very pronounced peak. We see a lot of
+开尔文时，我们看到一个非常非常非常明显的峰。我们看到
+
+346
+00:31:50,740 --> 00:31:55,900
+radiation in a yellow range and as we are moving away from the yellow range, the
+黄色范围内有大量辐射，而当我们离开黄色范围时，
+
+347
+00:31:55,900 --> 00:32:01,060
+amount of radiation is dropping down. So there's a few conclusions that we can
+辐射量就会下降。所以我们可以从这张图中
+
+348
+00:32:01,060 --> 00:32:06,940
+derive from this plot. The first conclusion is as the temperature of
+得出几个结论。第一个结论是，随着
+
+349
+00:32:06,940 --> 00:32:11,380
+the object goes up, the peak of the radiation starts being more and more
+物体温度升高，辐射峰开始变得越来越
+
+350
+00:32:11,380 --> 00:32:16,540
+pronounced. In other words, the specific range of the colors that is going to be
+明显。换句话说，某一特定颜色范围会
+
+351
+00:32:16,540 --> 00:32:21,820
+taking over most of the radiation. So that's the first
+占据大部分辐射。这是第一个
+
+352
+00:32:21,820 --> 00:32:26,100
+conclusion. The second conclusion that we can also observe from this curve is that
+结论。我们还可以从这条曲线上观察到的第二个结论是，
+
+353
+00:32:26,100 --> 00:32:31,660
+the peak of radiation is shifting towards the left as the temperature goes up. In
+随着温度升高，辐射峰向左移动。换
+
+354
+00:32:31,660 --> 00:32:37,540
+other words, the peak of radiation is shifting towards ultraviolet range. So
+句话说，辐射峰向紫外范围移动。所以
+
+355
+00:32:37,540 --> 00:32:41,980
+that's very important to understand because we can kind of correlate the
+理解这一点非常重要，因为我们可以把
+
+356
+00:32:41,980 --> 00:32:48,660
+temperature of the object to the peak or to the color of the radiation that's
+物体的温度与从该物体发出的辐射的峰值或颜色
+
+357
+00:32:48,660 --> 00:32:54,100
+coming out of that object. So for example, if we have some sort of a metal that's
+联系起来。所以例如，如果我们有某种金属，
+
+358
+00:32:54,100 --> 00:33:01,980
+at a very very cold temperature, that metal is going to radiate the
+处于非常非常冷的温度，这种金属几乎会在任何频率上
+
+359
+00:33:01,980 --> 00:33:05,940
+wavelengths at almost any frequency and the radiation is going to be relatively
+辐射各种波长，而且辐射会相对
+
+360
+00:33:05,940 --> 00:33:12,420
+weak. As we keep heating up that metal, the radiation is going to increase and
+较弱。当我们不断加热这种金属时，辐射会增强，
+
+361
+00:33:12,420 --> 00:33:16,820
+then also the frequency of the radiation is going to start shifting towards the
+而且辐射的频率也会开始从
+
+362
+00:33:16,820 --> 00:33:21,420
+from the infrared range towards the visible range. So ultimately when
+红外范围向可见光范围移动。所以最终，当
+
+363
+00:33:21,420 --> 00:33:27,060
+that metal, if it survives, if its melting point is relatively high so
+这种金属，如果它能挺得住，如果它的熔点相对较高，
+
+364
+00:33:27,060 --> 00:33:32,780
+that it is not going to melt, that metal is going to eventually radiate
+不会熔化的话，这种金属最终会
+
+365
+00:33:33,100 --> 00:33:37,380
+where the radiation is going to shift more into the visible spectrum. So that
+辐射，而辐射会更多地移到可见光谱中。所以这种
+
+366
+00:33:37,380 --> 00:33:42,260
+metal is going to start growing red and if we continue increasing the temperature
+金属会开始发出红光，如果我们继续提高温度，
+
+367
+00:33:42,260 --> 00:33:46,340
+the glow is going to turn into the orange and then yellow and it's going to
+光就会变成橙色，然后是黄色，并且会
+
+368
+00:33:46,340 --> 00:33:51,740
+move towards the ultraviolet range. So in other words, we can
+向紫外范围移动。所以换句话说，我们
+
+369
+00:33:51,740 --> 00:33:57,660
+basically establish a correlation between the color of radiation of a
+基本上可以在特定物体的辐射颜色
+
+370
+00:33:57,660 --> 00:34:04,740
+specific object and its temperature. So this is a so-called black body radiation
+与其温度之间建立对应关系。这就是所谓的黑体辐射
+
+371
+00:34:04,740 --> 00:34:10,420
+concept and also corresponding black body radiation diagram that's
+概念，以及右侧所示的
+
+372
+00:34:10,420 --> 00:34:14,980
+being shown on the right hand side. This is a very important concept because
+相应的黑体辐射图。这是一个非常重要的概念，因为
+
+373
+00:34:14,980 --> 00:34:20,100
+that's how we, for example, explain in astronomy the difference between so-called
+例如在天文学中，我们就是这样解释所谓的
+
+374
+00:34:20,100 --> 00:34:26,220
+blue stars and red stars. So if you're looking at the star that appears
+蓝星和红星之间的区别的。所以如果你看到一颗星
+
+375
+00:34:26,220 --> 00:34:30,300
+as a blue, it means that its temperature is much hotter than the
+呈蓝色，就意味着它的温度比
+
+376
+00:34:30,300 --> 00:34:35,060
+temperature of the red star. In such a case we are talking about the star that's
+红星的温度高得多。在这种情况下，我们说的是一颗
+
+377
+00:34:35,060 --> 00:34:39,780
+relatively young so it has a lot of energy, it's very very hot and that's
+相对年轻的恒星，它有大量能量，非常非常热，这就是
+
+378
+00:34:39,780 --> 00:34:44,300
+why it's emitting the bluish color, that's why we call it the blue star.
+为什么它发出偏蓝的颜色，这就是为什么我们称它为蓝星。
+
+379
+00:34:44,300 --> 00:34:50,140
+On the other side, all stars that are moving towards their ultimate
+另一方面，那些正走向最终
+
+380
+00:34:50,140 --> 00:34:57,820
+death, the temperature at the surface of those stars is much lower and the
+死亡的老年恒星，它们表面的温度要低得多，而
+
+381
+00:34:57,820 --> 00:35:02,780
+reason, according to the black body radiation curves, since that much is
+原因在于，根据黑体辐射曲线，由于温度低得
+
+382
+00:35:02,780 --> 00:35:07,540
+lower, that most of the radiation is going to be taking place towards the
+多，大部分辐射会偏向
+
+383
+00:35:07,540 --> 00:35:12,300
+red spectrum and that's why those stars appear as a red and they're called
+红色光谱，这就是为什么这些恒星呈红色，被称为
+
+384
+00:35:12,300 --> 00:35:18,580
+red stars. So that's just one example where black body radiation concept has
+红星。所以这只是黑体辐射概念
+
+385
+00:35:18,820 --> 00:35:25,820
+found its application in astronomy. Okay, so we can quantify the black body radiation
+在天文学中得到应用的一个例子。好，我们可以用所谓的
+
+386
+00:35:25,820 --> 00:35:31,460
+through so-called wind displacement law. So we can see here a formula shown in a
+维恩位移定律来定量描述黑体辐射。所以我们在这里可以看到方框中显示的一个公式。
+
+387
+00:35:31,460 --> 00:35:37,100
+box. On the left hand side we have the product of the wavelength and the
+左边是波长与
+
+388
+00:35:37,100 --> 00:35:41,020
+temperature. This wavelength represents the wavelength of the peak of the
+温度的乘积。这个波长表示辐射峰值
+
+389
+00:35:41,020 --> 00:35:46,220
+radiation where temperature capital T is the temperature of the object. So if we
+所对应的波长，而温度大写 T 是物体的温度。所以如果我们
+
+390
+00:35:46,220 --> 00:35:52,580
+have an object that is brought to the temperature of our capital T, then it is
+有一个物体被加热到温度大写 T，那么它
+
+391
+00:35:52,580 --> 00:35:56,420
+going to have, that object will have radiation with a peak at a specific
+就会有，这个物体的辐射会在某个特定
+
+392
+00:35:56,420 --> 00:36:03,500
+wavelength or frequency and that peak, that wavelength lambda max can
+波长或频率处出现峰值，而这个峰值，这个波长 λmax，可以
+
+393
+00:36:03,500 --> 00:36:07,820
+be calculated from the formula shown here. What we have on the right hand
+由这里所示的公式计算出来。我们在右
+
+394
+00:36:07,820 --> 00:36:15,100
+side is a constant, so-called VIN, VIN Boltzmann constant equal to 2.898
+边的是一个常数，所谓的维恩、维恩—玻尔兹曼常数，等于 2.898
+
+395
+00:36:15,180 --> 00:36:19,900
+times 10 to the negative 3 meter kelvins. So that's the constant that's
+乘 10 的负 3 次方米·开尔文。所以这个常数
+
+396
+00:36:19,900 --> 00:36:25,300
+always going to be there and we can see if capital T goes up lambda has to go
+始终在那里，我们可以看到，如果大写 T 升高，λ 就必须
+
+397
+00:36:25,300 --> 00:36:29,780
+down. In other words we have a specific shift on the of the wavelength towards
+降低。换句话说，如果物体的温度升高，
+
+398
+00:36:29,780 --> 00:36:33,700
+towards the ultraviolet range if the temperature of the object is being
+波长就会向紫外范围发生一定的移动。
+
+399
+00:36:33,700 --> 00:36:39,700
+increased. Here the temperature capital T represents the absolute temperature
+这里的温度大写 T 表示绝对温度，
+
+400
+00:36:39,700 --> 00:36:44,860
+that's given in the degrees Kelvin. So if the temperature is given in terms of
+以开尔文度为单位。所以如果温度是用
+
+401
+00:36:44,860 --> 00:36:50,340
+other units be it Fahrenheit or Celsius you have to convert those units to
+其他单位给出的，不管是华氏度还是摄氏度，你都必须把这些单位换算成
+
+402
+00:36:50,340 --> 00:36:55,700
+Kelvin and then use the formula, use the VIN displacement law that's been
+开尔文，然后再用这个公式，用这张幻灯片的方框中
+
+403
+00:36:55,700 --> 00:37:01,060
+presented in the mathematical form in the box shown in this slide. So to
+以数学形式给出的维恩位移定律。所以
+
+404
+00:37:01,060 --> 00:37:06,900
+summarize in this lecture we have addressed a few different phenomena that
+总结一下，在本讲中我们讨论了几种不同的现象，
+
+405
+00:37:06,900 --> 00:37:11,740
+can only be explained if you are looking at the light as a chain of particles.
+它们只有把光看作一串粒子才能解释。
+
+406
+00:37:11,740 --> 00:37:17,140
+We talked about absorption, we talked about emission, we looked at a
+我们讲了吸收，讲了发射，我们看了
+
+407
+00:37:17,140 --> 00:37:25,060
+microscopic or atomic model of a specific medium and we tried to characterize
+某种介质的微观模型或原子模型，并尝试通过
+
+408
+00:37:25,060 --> 00:37:33,380
+that medium by looking at its constitutive elements, atoms, the
+它的组成单元，也就是原子、
+
+409
+00:37:33,380 --> 00:37:37,860
+position of electrons and we kind of correlated that to what is going on
+电子的位置来表征这种介质，并且我们把这与
+
+410
+00:37:37,860 --> 00:37:41,980
+when the light is propagating to that medium. We've seen how the electrons are
+光在该介质中传播时发生的情况联系了起来。我们看到了电子如何
+
+411
+00:37:41,980 --> 00:37:49,260
+moving from lower energy levels to higher energy levels and what enables that is
+从较低能级移到较高能级，而使之成为可能的是
+
+412
+00:37:49,260 --> 00:37:53,100
+the absorption. In other words the energy of the photons of the light are
+吸收。换句话说，光中光子的能量
+
+413
+00:37:53,100 --> 00:37:58,380
+being absorbed where the photons are basically dying and transferring their
+被吸收了，光子基本上消亡了，并把它们的
+
+414
+00:37:58,380 --> 00:38:02,880
+energy to the medium. So everything boils down to the
+能量转移给了介质。所以一切都归结为
+
+415
+00:38:02,880 --> 00:38:08,280
+interaction of the light and the medium. So phenomena such as absorption, such as
+光与介质的相互作用。所以吸收、
+
+416
+00:38:08,280 --> 00:38:13,640
+emission can be directly related to that interaction of the light and the medium.
+发射这样的现象可以直接与光和介质的这种相互作用联系起来。
+
+417
+00:38:13,640 --> 00:38:18,080
+And finally at the end of the lecture we also talked about so-called black body
+最后，在本讲的结尾，我们还讲了所谓的黑体
+
+418
+00:38:18,080 --> 00:38:23,080
+radiation. So we correlated electromagnetic radiation of a specific medium or
+辐射。所以我们把某种介质或物体的电磁辐射
+
+419
+00:38:23,080 --> 00:38:30,440
+object to its temperature. We've seen that the amount of radiation at a
+与它的温度联系了起来。我们看到，在某个
+
+420
+00:38:30,440 --> 00:38:35,320
+specific frequency or wavelength is gonna be a function of the temperature of
+特定频率或波长上的辐射量，根据所谓的维恩位移定律，
+
+421
+00:38:35,320 --> 00:38:40,840
+that object according to so-called wind displacement law. So all this
+是该物体温度的函数。所以我们今天讲的所有这些
+
+422
+00:38:40,840 --> 00:38:47,800
+phenomena that we talked about today are described by a particle nature of
+现象都是用光的粒子性来描述的，
+
+423
+00:38:47,800 --> 00:38:54,920
+light and we've seen that some other phenomena such as reflection and
+而我们也看到了，另一些现象，比如反射、
+
+424
+00:38:54,920 --> 00:38:59,520
+refraction or bending of light are being explained as looking at a light as a
+折射或光的弯折，是通过把光看作
+
+425
+00:38:59,600 --> 00:39:05,440
+wave. So everything boils down to a dual nature of light, either a wave or a
+波来解释的。所以一切都归结为光的二象性，即光既是波又是
+
+426
+00:39:05,440 --> 00:39:10,240
+particle where one side, one aspect is being used for certain phenomena and
+粒子，一个方面用来解释某些现象，
+
+427
+00:39:10,240 --> 00:39:18,800
+then other aspect of light to another set of phenomena that are
+而光的另一个方面用来解释另一组
+
+428
+00:39:18,800 --> 00:39:24,800
+characterizing the light. So that's what we had for today's lecture. I hope you
+表征光的现象。这就是我们今天这一讲的内容。希望你
+
+429
+00:39:24,800 --> 00:39:29,840
+enjoyed this lecture. This phenomena that we talked about is extremely
+喜欢这一讲。我们讲的这些现象极其
+
+430
+00:39:29,840 --> 00:39:33,880
+important in many many fields of science. It's very important to understand
+重要，在许许多多科学领域中都是如此。理解
+
+431
+00:39:33,880 --> 00:39:40,480
+them and I hope that you understood them and we'll see each other next time.
+它们非常重要，我希望你已经理解了，我们下次见。
