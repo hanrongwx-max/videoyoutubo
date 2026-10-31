@@ -13,7 +13,7 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 22 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
@@ -472,6 +472,7 @@
 | Lab Safety Training - Essential Protocols | 21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course | 国内版 | 实验室安全，人人有责（国内版） | 41 | 3:25 | 11 / 4 | [剧本](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/21_Stay Safe In The Lab Employer Guidelines For Workplace Safety Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course | 原著版 | 防火灾、防滑倒、防劳损 | 34 | 2:50 | 12 / 0 | [剧本](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course/script.md>) |
 | Lab Safety Training - Essential Protocols | 22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course | 国内版 | 防火灾、防滑倒、防劳损（国内版） | 49 | 4:05 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/22_Stay Safe In The Lab Prevent Fires, Slips, And Falls! Training Course（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai | 原著版 | 化学品溢洒与接触的应急处置 | 38 | 3:10 | 15 / 0 | [剧本](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai/script.md>) |
 | Lab Safety Training - Essential Protocols | 23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai | 国内版 | 化学品溢洒与接触的应急处置（国内版） | 49 | 4:05 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 原著版 | 细胞培养的无菌操作与生物安全 | 74 | 6:10 | 23 / 0 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/script.md>) |
 | Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 国内版 | 细胞培养的无菌操作与生物安全（国内版） | 98 | 8:10 | 23 / 7 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（国内版）/script.md>) · [审查](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（国内版）/审查报告.md>) |
