@@ -1,0 +1,1143 @@
+{
+ "id": "01_1. Nature and Basic Properties of Light",
+ "edition": "原著版",
+ "series": "Photonics & Laser Safety Series",
+ "title": "光是什么：光的本质与基本性质",
+ "seconds": 400,
+ "source_doc": "course/Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light.md",
+ "author_source": "project/Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/src.py",
+ "points": {
+  "K1": "这门课从认识光开始",
+  "K2": "什么是光子学",
+  "K3": "光就在我们身边",
+  "K4": "光是电磁能，有两副面孔",
+  "K5": "像波的时候：传播、折射、反射",
+  "K6": "像粒子的时候：吸收与发射",
+  "K7": "描述光的九个词",
+  "K8": "什么是波",
+  "K9": "位移、振幅与波长",
+  "K10": "周期与频率",
+  "K11": "光速不变，三者相连",
+  "K12": "光在空间和时间里传递能量",
+  "K13": "光走直线，速度看介质",
+  "K14": "光子学常用单位",
+  "K15": "电场和磁场在振动",
+  "K16": "电磁波是横波",
+  "K17": "电磁波谱",
+  "K18": "可见光：从紫到红",
+  "K19": "人眼只认很窄一段",
+  "K20": "折射率：光进介质会变慢",
+  "K21": "换介质，频率不变"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在光学实验室门口，身后一道彩虹光带",
+   "prompt_en": "The panda mascot stands at the door of an optics lab with a soft rainbow band of light behind it and waves at the camera.",
+   "narration": "这一课从头说起：光到底是什么？",
+   "overlay": [
+    "光是什么：光的本质与基本性质"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "波浪、小光球、彩虹光谱、玻璃块四个图标排成一行",
+   "prompt_en": "Four icons in a row: a wavy line, a small glowing ball, a rainbow spectrum bar, and a clear glass block. No people.",
+   "narration": "波、粒子、光谱、折射率，一一认识。",
+   "overlay": [],
+   "labels": [
+    "波",
+    "粒子",
+    "光谱",
+    "折射率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一天进光学实验室，好奇地凑近一台盖着罩子的激光器",
+   "prompt_en": "On his first day in an optics lab, the young male student leans curiously toward a covered laser on an optical table.",
+   "narration": "阿杰第一天进光学实验室，满眼好奇。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着光学平台上的镜片和光路，挠头",
+   "prompt_en": "The young male student looks at mirrors and lenses on an optical table and scratches his head in confusion.",
+   "narration": "他问：这些光到底是什么东西？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着翻开空白笔记本",
+   "prompt_en": "The female graduate student smiles and opens a blank notebook on the bench.",
+   "narration": "小研说：先学会描述光的语言。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周递给阿杰一本空白的入门手册",
+   "prompt_en": "The older man hands the young male student a blank introductory handbook with a light bulb icon on the cover.",
+   "narration": "老周说：今天先上第一课，认识光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "跟着欣欣，从光的本质学起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这门课从认识光开始",
+   "scene": "欣欣指着一排八本编号的空白书脊，第一本发光",
+   "prompt_en": "The panda mascot points at a row of eight blank book spines; the first one glows softly.",
+   "narration": "这是光学入门的第一课。",
+   "overlay": [
+    "这门课从认识光开始"
+   ],
+   "labels": [
+    "第一课"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这门课从认识光开始",
+   "scene": "五个目标图标依次点亮：尺子、时钟、双面硬币、彩虹条、玻璃块",
+   "prompt_en": "Five goal icons light up one by one: a ruler, a clock, a two-sided coin, a rainbow bar, and a glass block. No people.",
+   "narration": "波长频率、二象性、光谱和折射率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是光子学",
+   "scene": "一束光从灯里出来，经过镜子、光纤，进入探测器，最后点亮屏幕",
+   "prompt_en": "A beam of light leaves a lamp, bounces off a mirror, runs through a fiber cable into a detector, and lights a blank screen. No people.",
+   "narration": "光子学：产生、操控、传输光。",
+   "overlay": [
+    "什么是光子学"
+   ],
+   "labels": [
+    "产生",
+    "操控",
+    "传输",
+    "探测",
+    "利用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是光子学",
+   "scene": "光束继续延伸，末端探测器把光变成信号",
+   "prompt_en": "The beam ends at a small detector that turns the light into a pulsing signal icon. No people.",
+   "narration": "还要探测光，并把光能用起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是光子学",
+   "scene": "一颗发光的种子长出多根枝条，枝头是通信、医疗、制造图标",
+   "prompt_en": "A glowing seed sprouts branches tipped with icons for communication, medicine, and manufacturing. No people.",
+   "narration": "它能带动很多领域发展，叫使能技术。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "超市收银台扫码器发出红光扫过空白条码",
+   "prompt_en": "At a supermarket checkout, a scanner sweeps a thin red line across a blank barcode.",
+   "narration": "超市扫码，用的是激光。",
+   "overlay": [
+    "光就在我们身边"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "光盘播放机、激光打印机、数码相机三个图标",
+   "prompt_en": "Three icons: a disc player, a laser printer, and a digital camera. No people.",
+   "narration": "光盘、打印机、相机，都靠光工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "细细的光纤穿过城市，连着电脑和电话",
+   "prompt_en": "Thin glowing fiber cables run under a city, linking computers and telephones. No people.",
+   "narration": "光纤把海量信息送往四面八方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "医院里的成像屏幕和眼科手术台图标",
+   "prompt_en": "Icons of a hospital imaging screen and an eye surgery chair. No people.",
+   "narration": "医院成像、激光眼科手术也离不开光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "军用雷达车与激光装置图标",
+   "prompt_en": "Icons of a military vehicle with a radar dish and a large laser device on a stand. No people.",
+   "narration": "军事上也在用激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光就在我们身边",
+   "scene": "欣欣站在阳光下张开双臂",
+   "prompt_en": "The panda mascot stands in warm sunlight with arms wide open.",
+   "narration": "从出生那天起，我们就活在光里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光是电磁能，有两副面孔",
+   "scene": "欣欣举着一枚硬币，一面是波浪图标，一面是小光球图标",
+   "prompt_en": "The panda mascot holds up a large coin with a wavy line icon on one side and a small glowing ball icon on the other.",
+   "narration": "光是一种电磁能，有两副面孔。",
+   "overlay": [
+    "光是电磁能，有两副面孔"
+   ],
+   "labels": [
+    "波动性",
+    "粒子性"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光是电磁能，有两副面孔",
+   "scene": "硬币翻转，两面交替出现",
+   "prompt_en": "The large coin flips slowly in the air, showing the wave side and then the particle side. No people.",
+   "narration": "有时像波，有时像粒子，叫二象性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "像波的时候：传播、折射、反射",
+   "scene": "光像水波一样穿过窄缝，向外扩展",
+   "prompt_en": "Light ripples like water waves through a narrow slit and spreads out on the other side. No people.",
+   "narration": "光穿过小孔时，表现得像波。",
+   "overlay": [
+    "像波的时候：传播、折射、反射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "像波的时候：传播、折射、反射",
+   "scene": "一束光射入水中拐了个弯，另一束光在镜面弹回",
+   "prompt_en": "One light beam bends as it enters water; another bounces back from a flat mirror. No people.",
+   "narration": "进入另一种介质会拐弯，遇镜面会反射。",
+   "overlay": [],
+   "labels": [
+    "折射",
+    "反射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "像波的时候：传播、折射、反射",
+   "scene": "两组小箭头一起起伏，向前推进",
+   "prompt_en": "Two sets of small arrows rise and fall together as they move forward like a rope wave. No people.",
+   "narration": "这时的光，是一起振动的电场和磁场。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "像粒子的时候：吸收与发射",
+   "scene": "黑色布料吸收一颗颗小光球，微微发热",
+   "prompt_en": "A dark cloth absorbs a stream of small glowing balls and gives off a faint warm glow. No people.",
+   "narration": "被材料吸收时，光像一份份能量。",
+   "overlay": [
+    "像粒子的时候：吸收与发射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "像粒子的时候：吸收与发射",
+   "scene": "一盏灯泡向外弹出一颗颗小光球",
+   "prompt_en": "A light bulb pops out small glowing balls one by one. No people.",
+   "narration": "物质发光时，也是一份份放出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "描述光的九个词",
+   "scene": "欣欣站在九张空白卡片前，卡片排成三行",
+   "prompt_en": "The panda mascot stands in front of nine blank cards arranged in three rows.",
+   "narration": "描述光，要先学会九个词。",
+   "overlay": [
+    "描述光的九个词"
+   ],
+   "labels": [
+    "波长",
+    "频率",
+    "周期",
+    "振幅",
+    "速度"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "描述光的九个词",
+   "scene": "九张卡片中剩下四张翻开，出现图标",
+   "prompt_en": "Four more blank cards flip over to show simple icons: two overlapping waves, a lined-up marching row, a vertical slit filter, and a lightning bolt. No people.",
+   "narration": "还有相位、相干性、偏振和能量。",
+   "overlay": [],
+   "labels": [
+    "相位",
+    "相干性",
+    "偏振",
+    "能量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "描述光的九个词",
+   "scene": "小研对阿杰点头，阿杰在空白笔记本上记录",
+   "prompt_en": "The female graduate student nods at the young male student, who writes in a blank notebook.",
+   "narration": "这些词，是光学技术员的基本功。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是波",
+   "scene": "海面上一排排浪，有浪峰有浪谷",
+   "prompt_en": "Rows of ocean waves with clear crests and troughs roll across the sea. No people.",
+   "narration": "海浪有高有低，沿着海面一排排分布。",
+   "overlay": [
+    "什么是波"
+   ],
+   "labels": [
+    "浪峰",
+    "浪谷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是波",
+   "scene": "一只停泊的小船随浪上下起伏",
+   "prompt_en": "A small anchored boat bobs up and down as waves pass under it. No people.",
+   "narration": "停着的小船，随时间一上一下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是波",
+   "scene": "欣欣双手比划：一手画波浪，一手指时钟",
+   "prompt_en": "The panda mascot traces a wave in the air with one paw and points at a wall clock with the other.",
+   "narration": "在空间和时间里都重复，才叫波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是波",
+   "scene": "水波、声波、光波三个图标并排",
+   "prompt_en": "Three icons side by side: a water wave, sound rings from a speaker, and a light wave from a lamp. No people.",
+   "narration": "水振动是水波，空气振动是声波。",
+   "overlay": [],
+   "labels": [
+    "水波",
+    "声波",
+    "光波"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "什么是波",
+   "scene": "光波图标放大，里面两组小箭头在振动",
+   "prompt_en": "The light wave icon zooms in to show two sets of tiny arrows vibrating. No people.",
+   "narration": "电场和磁场振动，就是光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "位移、振幅与波长",
+   "scene": "一根跳绳抖出波形，中间有一条水平虚线",
+   "prompt_en": "A jump rope is shaken into a wave shape above a horizontal dashed line. No people.",
+   "narration": "离开中线多远，叫位移。",
+   "overlay": [
+    "位移、振幅与波长"
+   ],
+   "labels": [
+    "位移"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "位移、振幅与波长",
+   "scene": "最高的浪峰处亮起一个高度箭头",
+   "prompt_en": "A height arrow lights up from the dashed line to the highest crest of the rope wave. No people.",
+   "narration": "最大的位移，叫振幅。",
+   "overlay": [],
+   "labels": [
+    "振幅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "位移、振幅与波长",
+   "scene": "两个相邻浪峰之间出现一把尺子",
+   "prompt_en": "A ruler appears between two neighboring crests of the rope wave. No people.",
+   "narration": "相邻两个波峰的距离，叫波长。",
+   "overlay": [],
+   "labels": [
+    "波长"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "位移、振幅与波长",
+   "scene": "尺子缩小，变成很小的刻度",
+   "prompt_en": "The ruler shrinks down to a tiny scale with very fine tick marks. No people.",
+   "narration": "波长用长度单位，光常用纳米。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "周期与频率",
+   "scene": "海边灯塔旁，一个浪峰拍岸，计时器开始走",
+   "prompt_en": "A wave crest hits the shore next to a lighthouse while a stopwatch starts. No people.",
+   "narration": "下一个浪峰再来，用了多少时间？",
+   "overlay": [
+    "周期与频率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "周期与频率",
+   "scene": "计时器停下，显示一个圆圈图标",
+   "prompt_en": "The stopwatch stops when the next crest arrives, and a full circle icon appears. No people.",
+   "narration": "重复一次所用的时间，叫周期。",
+   "overlay": [],
+   "labels": [
+    "周期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "周期与频率",
+   "scene": "一秒钟里浪峰一个接一个拍岸，计数器跳动",
+   "prompt_en": "In one second, crests hit the shore one after another while a counter ticks up. No people.",
+   "narration": "一秒钟重复多少次，叫频率。",
+   "overlay": [],
+   "labels": [
+    "频率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "光速不变，三者相连",
+   "scene": "一道光像跑车一样在真空跑道上飞驰",
+   "prompt_en": "A beam of light races down an empty track in dark space like a sports car. No people.",
+   "narration": "在真空里，光速是一个固定的常数。",
+   "overlay": [
+    "光速不变，三者相连"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "光速不变，三者相连",
+   "scene": "长步和短步两个小人图标沿同一条跑道前进",
+   "prompt_en": "Two walking icons on the same track: one takes long slow steps, the other takes short quick steps. No people.",
+   "narration": "步子乘每秒步数，就是行进速度。",
+   "overlay": [],
+   "labels": [
+    "步长",
+    "步频"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "光速不变，三者相连",
+   "scene": "波浪图标替换小人，长波慢摆、短波快摆",
+   "prompt_en": "Wave icons replace the walkers: a long wave swings slowly, a short wave swings quickly, both moving at the same speed. No people.",
+   "narration": "光速一定，波长越短，频率越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "光速不变，三者相连",
+   "scene": "一个关系式方框，三个图标：跑道、尺子、计数器",
+   "prompt_en": "A framed box with three icons in a row: a racing track, a ruler, and a counter. No people.",
+   "narration": "光速等于波长乘以频率。",
+   "overlay": [],
+   "labels": [
+    "约3×10⁸米/秒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光在空间和时间里传递能量",
+   "scene": "上下两条波：上面沿距离分布，下面沿时间变化",
+   "prompt_en": "Two stacked wave strips: the top one spreads along a distance ruler, the bottom one changes along a clock. No people.",
+   "narration": "光是空间和时间里的扰动。",
+   "overlay": [
+    "光在空间和时间里传递能量"
+   ],
+   "labels": [
+    "空间",
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光在空间和时间里传递能量",
+   "scene": "波把一颗能量小球从左送到右",
+   "prompt_en": "A wave carries a small glowing energy ball from the left side to the right side. No people.",
+   "narration": "它把能量从一处送到另一处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "光走直线，速度看介质",
+   "scene": "手电光柱笔直地照向远处",
+   "prompt_en": "A flashlight beam shines in a perfectly straight line across a dark room. No people.",
+   "narration": "光沿直线传播，和微波一样。",
+   "overlay": [
+    "光走直线，速度看介质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "光走直线，速度看介质",
+   "scene": "地球图标外，一道光一眨眼绕了好几圈",
+   "prompt_en": "A beam of light circles a small globe icon several times in a blink. No people.",
+   "narration": "约三亿米每秒，或约十八万六千英里每秒。",
+   "overlay": [],
+   "labels": [
+    "3亿米/秒",
+    "18.6万英里/秒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "光走直线，速度看介质",
+   "scene": "光从空气进入水和玻璃，速度箭头变短",
+   "prompt_en": "A light beam passes from air into water and then glass, and its speed arrow gets shorter each time. No people.",
+   "narration": "光速快慢，取决于它走过的介质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光子学常用单位",
+   "scene": "欣欣面前三个抽屉：尺子、闹钟、波浪计数器",
+   "prompt_en": "The panda mascot stands before three drawers labeled with icons: a ruler, an alarm clock, and a wave counter.",
+   "narration": "光的量都很极端，得用合适单位。",
+   "overlay": [
+    "光子学常用单位"
+   ],
+   "labels": [
+    "纳米",
+    "微米"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光子学常用单位",
+   "scene": "闹钟抽屉和计数器抽屉打开",
+   "prompt_en": "The alarm clock drawer and the wave counter drawer slide open, showing small tags. No people.",
+   "narration": "时间用微秒纳秒，频率用兆赫到太赫。",
+   "overlay": [],
+   "labels": [
+    "微秒",
+    "纳秒",
+    "兆赫",
+    "吉赫",
+    "太赫"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光子学常用单位",
+   "scene": "一排从大到小的套娃图标",
+   "prompt_en": "A row of nesting doll icons from very large to very small. No people.",
+   "narration": "千、兆、吉、太往上，毫、微、纳、皮往下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "电场和磁场在振动",
+   "scene": "两根橡皮筋交叉振动，一竖一横",
+   "prompt_en": "Two rubber bands vibrate crosswise, one up and down, the other side to side. No people.",
+   "narration": "光波里振动的，是电场和磁场。",
+   "overlay": [
+    "电场和磁场在振动"
+   ],
+   "labels": [
+    "电场",
+    "磁场"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "电场和磁场在振动",
+   "scene": "电池图标连着竖向箭头，导线电流图标连着横向箭头",
+   "prompt_en": "A battery icon links to the vertical arrows, and a wire with flowing current links to the horizontal arrows. No people.",
+   "narration": "电场连着电压，磁场连着电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电磁波是横波",
+   "scene": "竖直方向黄色箭头、水平方向蓝色箭头，沿一条轴向前推进",
+   "prompt_en": "Yellow arrows vibrate in a vertical plane and blue arrows in a horizontal plane while both move forward along one axis. No people.",
+   "narration": "电场、磁场、前进方向两两垂直。",
+   "overlay": [
+    "电磁波是横波"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电磁波是横波",
+   "scene": "看台上一排排圆点依次起落，形成横向传播的人浪",
+   "prompt_en": "Rows of round dots in stadium seats pop up and down one after another, so a wave travels sideways across the stands. No people.",
+   "narration": "振动方向和前进方向垂直，这是横波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "电磁波是横波",
+   "scene": "一排大小不同的波，结构完全一样",
+   "prompt_en": "A row of waves of different lengths, all with the same crossed arrow structure. No people.",
+   "narration": "所有电磁波结构一样，只差频率波长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "一架长长的钢琴键盘，从低音到高音",
+   "prompt_en": "A very long piano keyboard stretches from low keys to high keys, each zone with a small icon. No people.",
+   "narration": "电磁波谱像一架很长的钢琴。",
+   "overlay": [
+    "电磁波谱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "低音区依次亮起电线杆、收音机、电视、雷达图标",
+   "prompt_en": "The low end of the keyboard lights up with icons: a power pole, a radio, a television, and a radar dish. No people.",
+   "narration": "低频端：60赫兹电网、音频、广播电视。",
+   "overlay": [],
+   "labels": [
+    "60赫兹",
+    "20赫兹-20千赫",
+    "广播电视"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "琴键上亮起雷达、卫星、无线信号图标",
+   "prompt_en": "Keys light up further along with icons of a radar dish, a satellite, and wireless signal waves. No people.",
+   "narration": "再往上是微波：雷达和数据通信。",
+   "overlay": [],
+   "labels": [
+    "约1吉赫",
+    "约300吉赫"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "中间一小段键亮起：红外、彩虹、紫外",
+   "prompt_en": "A short middle section of the keyboard glows: a warm red zone, a rainbow zone, and a violet zone. No people.",
+   "narration": "中间是红外、可见、紫外，叫光学波段。",
+   "overlay": [],
+   "labels": [
+    "红外",
+    "可见光",
+    "紫外"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "高音区亮起X光片、原子、星空图标",
+   "prompt_en": "The high end of the keyboard lights up with icons: an X-ray film, an atom, and a starry sky. No people.",
+   "narration": "再往上是X射线、伽马射线和宇宙射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "电磁波谱",
+   "scene": "欣欣用放大镜对着中间那一小段",
+   "prompt_en": "The panda mascot holds a magnifying glass over the short middle section of the keyboard.",
+   "narration": "光子学研究的，就是中间这一段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "可见光：从紫到红",
+   "scene": "一条彩虹色带，从紫到红",
+   "prompt_en": "A rainbow color band running from violet on the left to red on the right. No people.",
+   "narration": "可见光从紫到红，排成一条彩带。",
+   "overlay": [
+    "可见光：从紫到红"
+   ],
+   "labels": [
+    "紫",
+    "蓝",
+    "绿",
+    "黄",
+    "红"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "可见光：从紫到红",
+   "scene": "色带两端标出数字刻度",
+   "prompt_en": "Small tick marks appear at both ends of the rainbow band. No people.",
+   "narration": "紫光约四百纳米，红光约七百纳米。",
+   "overlay": [],
+   "labels": [
+    "约400纳米",
+    "约700纳米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "可见光：从紫到红",
+   "scene": "一根头发丝旁边，挤满了密密的小光波",
+   "prompt_en": "Next to a single strand of hair, hundreds of tiny light waves are packed side by side. No people.",
+   "narration": "光波极短，还有更小的单位叫埃。",
+   "overlay": [],
+   "labels": [
+    "1埃=10⁻¹⁰米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "人眼只认很窄一段",
+   "scene": "钢琴键盘上只有一小段被人眼图标照亮",
+   "prompt_en": "Only a tiny section of the long keyboard is lit by an eye icon looking at it. No people.",
+   "narration": "人眼只能看见很窄的一段。",
+   "overlay": [
+    "人眼只认很窄一段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "人眼只认很窄一段",
+   "scene": "那一小段两侧的长长琴键都是暗的",
+   "prompt_en": "The long stretches of keys on both sides of the lit section stay dark. No people.",
+   "narration": "约4.3到7.5乘10的14次方赫兹。",
+   "overlay": [],
+   "labels": [
+    "4.3×10¹⁴赫兹",
+    "7.5×10¹⁴赫兹"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "折射率：光进介质会变慢",
+   "scene": "跑道从柏油路进入沙地，跑步小人步子变小、速度变慢",
+   "prompt_en": "A running figure icon moves from a paved track onto sand; its steps get shorter and it slows down. No people.",
+   "narration": "光进入水和玻璃，就像跑进了沙地。",
+   "overlay": [
+    "折射率：光进介质会变慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "折射率：光进介质会变慢",
+   "scene": "空气中的长波进入玻璃块后波形变密",
+   "prompt_en": "A long wave in air enters a glass block and its crests become closer together. No people.",
+   "narration": "速度变慢，波长也同样变短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "折射率：光进介质会变慢",
+   "scene": "一把刻度尺对比空气和玻璃中的速度",
+   "prompt_en": "A simple gauge compares the speed arrow in air with a shorter speed arrow in glass. No people.",
+   "narration": "折射率是真空光速除以介质光速。",
+   "overlay": [],
+   "labels": [
+    "折射率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "折射率：光进介质会变慢",
+   "scene": "空气中的波进入标着1.5的玻璃块，波长缩成三分之二",
+   "prompt_en": "A wave in air enters a glass block; its wavelength shrinks to two thirds while a speed arrow shortens. No people.",
+   "narration": "折射率1.5，速度和波长都除以1.5。",
+   "overlay": [],
+   "labels": [
+    "n=1.5"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "折射率：光进介质会变慢",
+   "scene": "真空标1，水、玻璃标更大的数",
+   "prompt_en": "Three boxes: empty vacuum, a water tank, and a glass block, each with a small number tag icon. No people.",
+   "narration": "没有单位，真空是一，其他都大于一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "换介质，频率不变",
+   "scene": "跑步小人进沙地后，脚步节拍器的节奏没变",
+   "prompt_en": "The running figure enters the sand while a metronome next to it keeps exactly the same beat. No people.",
+   "narration": "换了介质，节奏不变，频率不变。",
+   "overlay": [
+    "换介质，频率不变"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "换介质，频率不变",
+   "scene": "欣欣指着三个图标：速度变、波长变、频率不变",
+   "prompt_en": "The panda mascot points at three icons: a speed arrow that shrinks, a wave that tightens, and a metronome that stays the same.",
+   "narration": "变的只有波长和速度。",
+   "overlay": [],
+   "labels": [
+    "速度变",
+    "波长变",
+    "频率不变"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现双面硬币和波浪图标",
+   "prompt_en": "Beside the panda mascot float a two-sided coin icon and a wave icon.",
+   "narration": "光是电磁能，既像波，又像粒子。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "尺子、时钟、跑道三个图标",
+   "prompt_en": "Three icons: a ruler, a clock, and a racing track. No people.",
+   "narration": "波长、周期、频率，连着光速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "钢琴键盘中间一段发光",
+   "prompt_en": "The middle section of the long keyboard glows in rainbow colors. No people.",
+   "narration": "光学波段是红外、可见和紫外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "光进入玻璃块变密，节拍器不变",
+   "prompt_en": "A wave tightens as it enters a glass block while a metronome keeps the same beat. No people.",
+   "narration": "进介质变慢变短，频率不变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在光学实验室门口挥手道别，身后彩虹光带",
+   "prompt_en": "The panda mascot waves goodbye at the optics lab door with a soft rainbow band of light behind it.",
+   "narration": "第一课到这里，下一课讲光的波动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

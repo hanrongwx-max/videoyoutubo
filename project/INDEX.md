@@ -20,12 +20,12 @@
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
 | General Lab Safety Practices | 8 / 8 | 1 / 8 |
-| Laser Equipment & Safety Training | 8 / 8 | 1 / 8 |
+| Laser Equipment & Safety Training | 8 / 8 | 2 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 1 / 8 |
-| ACS College Lab Safety Series | 7 / 7 | 0 / 7 |
+| ACS College Lab Safety Series | 7 / 7 | 1 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 1 / 7 |
-| Laboratory Equipment Safety Series | 7 / 7 | 1 / 7 |
-| Electrical Safety Series | 6 / 25 | 0 / 6 |
+| Laboratory Equipment Safety Series | 7 / 7 | 2 / 7 |
+| Electrical Safety Series | 6 / 25 | 1 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -38,6 +38,7 @@
 
 | 剧集 | 原视频 | 版本 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |
 |---|---|---|---|---|---|---|---|
+| ACS College Lab Safety Series | 01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1 | 原著版 | 从安全规则到风险管理 | 64 | 5:20 | 18 / 0 | [剧本](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1/script.md>) |
 | ACS College Lab Safety Series | 01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1 | 国内版 | 从安全规则到风险管理（国内版） | 78 | 6:30 | 18 / 5 | [剧本](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/01_From Chemical Safety Rules to Risk Management ACS College Safety Video 1（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 02_Chemical Safety Information Resources ACS College Safety Video 2 | 国内版 | 读懂化学品安全信息（国内版） | 94 | 7:50 | 20 / 6 | [剧本](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 | 国内版 | 化学实验室的风险评估（国内版） | 81 | 6:45 | 17 / 6 | [剧本](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/审查报告.md>) |
@@ -153,6 +154,7 @@
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 06_Other General Hazards Lab Safety Video Part 6 | 国内版 | 实验室的其他常见危害（国内版） | 56 | 4:40 | 21 / 6 | [剧本](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/script.md>) · [审查](<Chemical Spillage & Response/06_Other General Hazards Lab Safety Video Part 6（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
+| Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 国内版 | 漏电保护器：两种型式与正确使用（国内版） | 62 | 5:10 | 14 / 5 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/script.md>) · [审查](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/审查报告.md>) |
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 国内版 | 电动工具的危害与预防（国内版） | 60 | 5:00 | 20 / 6 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/script.md>) · [审查](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/审查报告.md>) |
@@ -245,6 +247,7 @@
 | Lab Safety Training Series | 13_Chemical Hazards Lab Safety Video Part 4 | 国内版 | 认识化学品的危害：SDS与标签（国内版） | 60 | 5:00 | 17 / 6 | [剧本](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4（国内版）/script.md>) · [审查](<Lab Safety Training Series/13_Chemical Hazards Lab Safety Video Part 4（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 原著版 | 安全使用离心机 | 32 | 2:40 | 12 / 0 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge/script.md>) |
 | Laboratory Equipment Safety Series | 01_Laboratory Safety Using a Centrifuge | 国内版 | 安全使用离心机（国内版） | 48 | 4:00 | 12 / 5 | [剧本](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/01_Laboratory Safety Using a Centrifuge（国内版）/审查报告.md>) |
+| Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 原著版 | 洗眼器的定期冲洗 | 26 | 2:10 | 8 / 0 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB/script.md>) |
 | Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 国内版 | 洗眼器的定期冲洗（国内版） | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 国内版 | 气瓶的储存与搬运（国内版） | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet | 国内版 | 气瓶减压器的安装与拆卸（国内版） | 60 | 5:00 | 22 / 6 | [剧本](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/审查报告.md>) |
@@ -253,6 +256,7 @@
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 国内版 | 过氧化物试纸检测（国内版） | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
+| Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 国内版 | 激光切割机的运行安全（国内版） | 79 | 6:35 | 13 / 6 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 03_Laser Cutter 3 Materials | 国内版 | 激光切割的材料选择（国内版） | 67 | 5:35 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 04_Laser Cutter 4 xTool Studio | 国内版 | 激光设计软件入门与加工前检查（国内版） | 53 | 4:25 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/审查报告.md>) |
