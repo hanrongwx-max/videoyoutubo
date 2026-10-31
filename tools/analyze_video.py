@@ -152,8 +152,14 @@ def detect_shots(src, duration, d):
         s["frames"] = []
         for k, tt in enumerate(times):
             name = f"shot_{s['shot']:03d}" + (f"_{k + 1}" if len(times) > 1 else "") + ".jpg"
-            subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{tt:.2f}", "-i", str(src), "-frames:v", "1",
-                            "-vf", "scale=640:-2", "-q:v", "4", str(d / "frames" / name)], check=True)
+            for back in (0, 0.5, 1.5, 3.0):   # 靠近片尾时 ffmpeg 可能取不到帧，往前退一点重试
+                subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{max(tt - back, 0):.2f}", "-i", str(src),
+                                "-frames:v", "1", "-vf", "scale=640:-2", "-q:v", "4", str(d / "frames" / name)],
+                               check=True)
+                if (d / "frames" / name).exists():
+                    break
+            else:
+                continue
             s["frames"].append({"file": name, "t": round(float(tt), 2)})
     out.write_text(json.dumps(shots, ensure_ascii=False, indent=1), encoding="utf-8")
     return shots

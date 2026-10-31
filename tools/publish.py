@@ -42,7 +42,13 @@ def publish(paths, message):
         if not git("diff", "--cached", "--quiet", check=False).returncode:
             print("没有需要提交的改动")
             return
-        git("commit", "-q", "-m", message + TRAILER)
+        for wait in (1, 2, 4, 8, 0):   # 其他 git 进程持有 index.lock 时稍后重试
+            r = git("commit", "-q", "-m", message + TRAILER, check=False)
+            if r.returncode == 0:
+                break
+            if not wait:
+                sys.exit(f"提交失败：{r.stderr.strip()}")
+            time.sleep(wait)
         branch = git("branch", "--show-current").stdout.strip()
         for wait in (2, 4, 8, 16, 0):
             r = git("push", "-q", "-u", "origin", branch, check=False)
