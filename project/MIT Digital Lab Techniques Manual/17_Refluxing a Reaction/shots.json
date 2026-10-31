@@ -1,0 +1,1051 @@
+{
+ "id": "17_Refluxing a Reaction",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "加热回流",
+ "seconds": 380,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/17_Refluxing a Reaction.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/17_Refluxing a Reaction/src.py",
+ "points": {
+  "K1": "反应常要加热",
+  "K2": "密闭会炸，敞口会跑",
+  "K3": "回流两全其美",
+  "K4": "回流的原理",
+  "K5": "最常用的技术之一",
+  "K6": "器材清单",
+  "K7": "选回流溶剂",
+  "K8": "装量不过半",
+  "K9": "防暴沸",
+  "K10": "搅拌和沸石怎么防暴沸",
+  "K11": "沸石加热前放",
+  "K12": "固定烧瓶，接冷凝管",
+  "K13": "下进上出，管箍箍紧",
+  "K14": "加热套宁大勿小",
+  "K15": "加热套接调压器",
+  "K16": "冷凝管顶端要敞开",
+  "K17": "开水，慢慢升温",
+  "K18": "冷凝环与回流",
+  "K19": "冷凝环停在一半高",
+  "K20": "结束：撤热、冷却、关水",
+  "K21": "无水回流",
+  "K22": "回流中加料的装置",
+  "K23": "三颈瓶与隔垫",
+  "K24": "无恒压管要开塞",
+  "K25": "回流：安全地长时间加热",
+  "S1": "动手前做风险评估",
+  "S2": "干燥管别堵死",
+  "S3": "氮气钢瓶与鼓泡器",
+  "S4": "滴加试剂要慢",
+  "S5": "水管老化与断水"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一套回流装置旁，冷凝管竖在烧瓶上",
+   "prompt_en": "The panda mascot stands beside a reflux setup with a vertical condenser on a round-bottom flask in a heating mantle, and waves at the camera.",
+   "narration": "这一课学加热回流。",
+   "overlay": [
+    "加热回流"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "蒸气上升、液滴回落的循环箭头",
+   "prompt_en": "A circular arrow icon: vapor rising up a condenser and drops falling back into a flask. No people.",
+   "narration": "蒸上去、冷下来、流回去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一个盖紧的瓶子要放到加热板上",
+   "prompt_en": "The young male student holds a tightly capped bottle of reaction mixture over a hot plate.",
+   "narration": "阿杰的反应要加热几个小时。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住，比划开盖瓶蒸干的样子",
+   "prompt_en": "The female graduate student stops him and gestures at an open beaker with vapor escaping.",
+   "narration": "盖紧了会炸，敞着溶剂又跑光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着冷凝管",
+   "prompt_en": "The female graduate student points at a condenser on the shelf.",
+   "narration": "小研说：用回流装置就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "反应常要加热",
+   "scene": "钟表图标和慢慢变化的反应瓶",
+   "prompt_en": "A flask of reaction mixture next to a clock icon and a small heat icon. No people.",
+   "narration": "很多反应，要加热才能按时做完。",
+   "overlay": [
+    "反应常要加热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "密闭会炸，敞口会跑",
+   "scene": "盖紧的瓶子加热后鼓胀炸裂的图标被打叉",
+   "prompt_en": "An icon of a sealed flask on a heater swelling and bursting, crossed out with a red X. No people.",
+   "narration": "密闭加热，压力越积越高会爆炸。",
+   "overlay": [
+    "密闭会炸，敞口会跑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "密闭会炸，敞口会跑",
+   "scene": "敞口烧杯里溶剂蒸发跑光",
+   "prompt_en": "An open beaker on a heater with solvent vapor escaping and the level dropping. No people.",
+   "narration": "敞口加热，溶剂会蒸发跑掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "回流两全其美",
+   "scene": "回流装置打勾",
+   "prompt_en": "A reflux setup icon with a green check mark between a crossed-out sealed flask and a crossed-out open beaker. No people.",
+   "narration": "回流能在沸点长时间加热，不跑也不炸。",
+   "overlay": [
+    "回流两全其美"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "回流的原理",
+   "scene": "溶液沸腾，蒸气上升进冷凝管",
+   "prompt_en": "The solution boils in the flask and vapor rises into the condenser. No people.",
+   "narration": "把溶液加热到沸腾。",
+   "overlay": [
+    "回流的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "回流的原理",
+   "scene": "冷凝管里蒸气变成液滴流回",
+   "prompt_en": "Inside the condenser the vapor turns into drops that run back down into the flask. No people.",
+   "narration": "冷凝管不停冷却，蒸气变液体流回去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "最常用的技术之一",
+   "scene": "有机反应图标大多带回流标记",
+   "prompt_en": "A grid of small reaction flask icons, most of them topped with a condenser. No people.",
+   "narration": "大部分有机反应都要用回流。",
+   "overlay": [
+    "最常用的技术之一"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "台面摆着圆底烧瓶、冷凝管、搅拌器、润滑脂",
+   "prompt_en": "On a bench: a round-bottom flask on a cork ring, a condenser, a magnetic stirrer with a stir bar, and a jar of grease. No people.",
+   "narration": "备好烧瓶、冷凝管、搅拌子和润滑脂。",
+   "overlay": [
+    "器材清单"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "铁架台、夹子、薄壁橡胶管、管箍",
+   "prompt_en": "A ring stand, two extension clamps, two pieces of thin rubber tubing and three hose clamps. No people.",
+   "narration": "铁架台、夹子、两根水管、三个管箍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "加热套、铁圈、调压器",
+   "prompt_en": "A heating mantle, an iron ring and a variable voltage controller with a blank dial. No people.",
+   "narration": "还有加热套、铁圈和调压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选回流溶剂",
+   "scene": "溶剂瓶旁三个勾选框",
+   "prompt_en": "A solvent bottle with a blank label next to three check boxes. No people.",
+   "narration": "好的回流溶剂，要满足三条。",
+   "overlay": [
+    "选回流溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选回流溶剂",
+   "scene": "试剂全溶、不起反应两个图标",
+   "prompt_en": "Two icons: powders fully dissolving in a flask, and a solvent drop beside a reagent with a no-reaction symbol. No people.",
+   "narration": "能溶解全部试剂，又不和它们反应。",
+   "overlay": [],
+   "labels": [
+    "全溶",
+    "不反应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选回流溶剂",
+   "scene": "温度计指向较高刻度",
+   "prompt_en": "A thermometer icon pointing to a fairly high mark with a fast arrow. No people.",
+   "narration": "沸点够高，反应才跑得快。",
+   "overlay": [],
+   "labels": [
+    "沸点够高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装量不过半",
+   "scene": "试剂溶好倒入圆底烧瓶",
+   "prompt_en": "A gloved hand pours a dissolved reagent solution from a beaker into a round-bottom flask on a cork ring.",
+   "narration": "试剂溶好，倒进圆底烧瓶。",
+   "overlay": [
+    "装量不过半"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装量不过半",
+   "scene": "烧瓶液面不超过一半的刻线",
+   "prompt_en": "Close view of the flask with liquid below a halfway line. No people.",
+   "narration": "装量不超过一半。",
+   "overlay": [],
+   "labels": [
+    "≤1/2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防暴沸",
+   "scene": "过热的溶液突然冒出大气泡",
+   "prompt_en": "Animated diagram of a superheated liquid suddenly erupting with a huge bubble. No people.",
+   "narration": "过热的溶液会突然喷出大气泡，叫暴沸。",
+   "overlay": [
+    "防暴沸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防暴沸",
+   "scene": "液体冲出瓶口、引燃小火的图标被打叉",
+   "prompt_en": "An icon of liquid shooting out of a flask and catching a small flame, crossed out with a red X. No people.",
+   "narration": "会损失物料，甚至着火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防暴沸",
+   "scene": "搅拌子和沸石两个图标",
+   "prompt_en": "Icons of a stir bar and a small heap of boiling stones. No people.",
+   "narration": "所以要加搅拌子或沸石。",
+   "overlay": [],
+   "labels": [
+    "搅拌子",
+    "沸石"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "搅拌和沸石怎么防暴沸",
+   "scene": "搅拌子旋转，大气泡被打散",
+   "prompt_en": "A spinning stir bar creates swirling flow that breaks a large bubble into small ones. No people.",
+   "narration": "搅拌造成湍流，把大气泡打散。",
+   "overlay": [
+    "搅拌和沸石怎么防暴沸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "搅拌和沸石怎么防暴沸",
+   "scene": "多孔沸石不断冒出细小气泡",
+   "prompt_en": "A porous boiling stone releasing a steady stream of tiny bubbles. No people.",
+   "narration": "沸石多孔，受热冒出细小气泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "沸石加热前放",
+   "scene": "冷溶液里放沸石，勾号",
+   "prompt_en": "Boiling stones dropped into a cool solution before heating, with a green check mark. No people.",
+   "narration": "沸石一定在加热前放进去。",
+   "overlay": [
+    "沸石加热前放"
+   ],
+   "labels": [
+    "加热前"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "沸石加热前放",
+   "scene": "向热溶液里加沸石、液体喷出的图标被打叉",
+   "prompt_en": "An icon of boiling stones dropped into a hot solution with liquid shooting out, crossed out with a red X. No people.",
+   "narration": "加到热溶液里，会瞬间沸腾冲出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "固定烧瓶，接冷凝管",
+   "scene": "烧瓶夹在铁架台上",
+   "prompt_en": "The round-bottom flask is clamped to a ring stand. No people.",
+   "narration": "烧瓶夹在铁架台上。",
+   "overlay": [
+    "固定烧瓶，接冷凝管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "固定烧瓶，接冷凝管",
+   "scene": "冷凝管阳口薄涂一层脂，接上烧瓶",
+   "prompt_en": "A thin film of grease is spread on the condenser joint, which is then fitted onto the flask.",
+   "narration": "冷凝管口轻涂脂，竖着接上烧瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "下进上出，管箍箍紧",
+   "scene": "进水管接下口，出水管接上口",
+   "prompt_en": "Arrows show the inlet hose on the lower port and the outlet hose on the upper port of the condenser. No people.",
+   "narration": "进水接下口，出水接上口。",
+   "overlay": [
+    "下进上出，管箍箍紧"
+   ],
+   "labels": [
+    "进水",
+    "出水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "下进上出，管箍箍紧",
+   "scene": "水管冲脱、水淹台面的图标被打叉",
+   "prompt_en": "An icon of a hose popping off and water flooding the bench, crossed out with a red X. No people.",
+   "narration": "管箍箍紧，免得水压一变冲脱水管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "加热套宁大勿小",
+   "scene": "加热套和铁圈放在烧瓶下",
+   "prompt_en": "A heating mantle on an iron ring is raised under the flask. No people.",
+   "narration": "烧瓶下放好加热套和铁圈。",
+   "overlay": [
+    "加热套宁大勿小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "加热套宁大勿小",
+   "scene": "大加热套里填沙",
+   "prompt_en": "Sand is poured into the gap around a small flask in a larger heating mantle.",
+   "narration": "宁大勿小，大了用沙填满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "加热套接调压器",
+   "scene": "加热套插头插进调压器",
+   "prompt_en": "The heating mantle plug goes into the outlet on a voltage controller. No people.",
+   "narration": "加热套插在调压器上。",
+   "overlay": [
+    "加热套接调压器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "加热套接调压器",
+   "scene": "直接插墙上插座的图标被打叉",
+   "prompt_en": "An icon of the heating mantle plug pushed straight into a wall socket, crossed out with a red X. No people.",
+   "narration": "绝不直接插墙上插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冷凝管顶端要敞开",
+   "scene": "冷凝管顶端开口，箭头指向空气",
+   "prompt_en": "The open top of the condenser with an arrow pointing out to the air. No people.",
+   "narration": "开始前确认：冷凝管顶端敞开。",
+   "overlay": [
+    "冷凝管顶端要敞开"
+   ],
+   "labels": [
+    "通大气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冷凝管顶端要敞开",
+   "scene": "冷凝管顶端塞住的图标被打叉",
+   "prompt_en": "An icon of a stopper jammed into the condenser top while heating, crossed out with a big red X. No people.",
+   "narration": "绝不能加热密闭体系！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开水，慢慢升温",
+   "scene": "手逐个摸过管箍",
+   "prompt_en": "A gloved hand checks each hose clamp on the condenser tubing.",
+   "narration": "再查一遍管箍，打开冷凝水。",
+   "overlay": [
+    "开水，慢慢升温"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开水，慢慢升温",
+   "scene": "调压器旋钮慢慢调高，烧瓶开始平稳沸腾",
+   "prompt_en": "The controller knob turns up slowly and the solution begins a gentle boil. No people.",
+   "narration": "慢慢调高电压，直到平稳沸腾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "冷凝环与回流",
+   "scene": "溶液上方出现冷凝环",
+   "prompt_en": "A ring of condensing vapor forms above the boiling solution. No people.",
+   "narration": "溶液上方出现一圈冷凝环。",
+   "overlay": [
+    "冷凝环与回流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "冷凝环与回流",
+   "scene": "冷凝管里液滴流回烧瓶",
+   "prompt_en": "Drops run down the inside of the condenser back into the flask. No people.",
+   "narration": "蒸气在冷凝管里变成液滴，流回烧瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环停在一半高",
+   "scene": "冷凝管上三个高度标记，中间打勾",
+   "prompt_en": "A condenser with three level markers; the middle one has a green check mark. No people.",
+   "narration": "调节加热，让冷凝环停在一半高。",
+   "overlay": [
+    "冷凝环停在一半高"
+   ],
+   "labels": [
+    "太高",
+    "正好",
+    "太低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环停在一半高",
+   "scene": "冷凝环太高，蒸气从顶端跑出",
+   "prompt_en": "The condensate ring at the very top with vapor escaping from the condenser opening, with a red X. No people.",
+   "narration": "太高，样品会从顶上跑掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环停在一半高",
+   "scene": "冷凝环太低，钟表转了很多圈",
+   "prompt_en": "The ring sitting low near the flask and a clock spinning many turns. No people.",
+   "narration": "太低，反应要拖很久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "结束：撤热、冷却、关水",
+   "scene": "降下加热套，烧瓶冷却，最后关水",
+   "prompt_en": "The heating mantle is lowered, the flask cools beside a clock icon, then the water tap is turned off. No people.",
+   "narration": "结束：撤热源，烧瓶凉了，再关水。",
+   "overlay": [
+    "结束：撤热、冷却、关水"
+   ],
+   "labels": [
+    "撤热",
+    "冷却",
+    "关水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "无水回流",
+   "scene": "冷凝管顶上装一支干燥管",
+   "prompt_en": "A drying tube filled with white granules is fitted on top of the condenser. No people.",
+   "narration": "要无水，就在顶上装干燥管。",
+   "overlay": [
+    "无水回流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "无水回流",
+   "scene": "干燥管开口通气、挡住水汽的示意",
+   "prompt_en": "Diagram of air passing through the drying tube while water droplet icons are blocked. No people.",
+   "narration": "体系还是敞开的，但水汽进不来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "无水回流",
+   "scene": "冷凝管顶上接三通，一头氮气一头鼓泡器",
+   "prompt_en": "A T-connector on the condenser top; one arm goes to a nitrogen line, the other to a small oil bubbler. No people.",
+   "narration": "或接三通，一头通氮气，一头接鼓泡器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "回流中加料的装置",
+   "scene": "滴液漏斗、玻璃塞、克氏蒸馏头三件器材",
+   "prompt_en": "An addition funnel with a stopcock, a glass stopper and a two-necked bent adapter laid side by side. No people.",
+   "narration": "回流中加料：滴液漏斗、玻璃塞、克氏头。",
+   "overlay": [
+    "回流中加料的装置"
+   ],
+   "labels": [
+    "滴液漏斗",
+    "玻璃塞",
+    "克氏头"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "回流中加料的装置",
+   "scene": "克氏头装在烧瓶上，冷凝管在正上方，漏斗在侧口",
+   "prompt_en": "The two-necked adapter is fitted on the flask; the condenser sits on the straight neck and the funnel on the side neck. No people.",
+   "narration": "冷凝管装正上方，漏斗装侧口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "回流中加料的装置",
+   "scene": "每个磨口涂脂",
+   "prompt_en": "A gloved finger greases each ground glass joint before assembly.",
+   "narration": "所有磨口都要涂脂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "三颈瓶与隔垫",
+   "scene": "三颈瓶装置，一口冷凝管一口漏斗一口隔垫",
+   "prompt_en": "A three-necked flask with a condenser in the middle neck, an addition funnel on one side and a rubber septum on the other. No people.",
+   "narration": "也可以用三颈瓶，空着的口塞上隔垫。",
+   "overlay": [
+    "三颈瓶与隔垫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "无恒压管要开塞",
+   "scene": "带侧管和不带侧管的两种滴液漏斗",
+   "prompt_en": "Two addition funnels: one with a side pressure-equalizing arm, one without. No people.",
+   "narration": "漏斗没有恒压侧管？",
+   "overlay": [
+    "无恒压管要开塞"
+   ],
+   "labels": [
+    "有侧管",
+    "无侧管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "无恒压管要开塞",
+   "scene": "手取下漏斗顶上的玻璃塞，液体顺利滴下",
+   "prompt_en": "A gloved hand lifts the glass stopper off the funnel and the liquid starts dripping again.",
+   "narration": "滴不动时，取下塞子破除负压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "回流：安全地长时间加热",
+   "scene": "欣欣拍拍回流装置竖大拇指",
+   "prompt_en": "The panda mascot pats the reflux setup and gives a thumbs up.",
+   "narration": "回流：长时间加热，不炸瓶、不跑溶剂。",
+   "overlay": [
+    "回流：安全地长时间加热"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "动手前做风险评估",
+   "scene": "小研对照空白安全说明书填写空白评估表",
+   "prompt_en": "The female graduate student fills in a blank risk assessment form next to blank safety data sheets.",
+   "narration": "回流前，先查清每种试剂的危害。",
+   "overlay": [
+    "动手前做风险评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "动手前做风险评估",
+   "scene": "放热、产气、着火三个风险图标",
+   "prompt_en": "Three icons: a heat surge arrow, gas bubbles escaping, and a small flame. No people.",
+   "narration": "会不会剧烈放热、放气？溶剂易燃吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "动手前做风险评估",
+   "scene": "王老师在表上签字",
+   "prompt_en": "The safety administrator signs the blank form and nods.",
+   "narration": "想好防护和应急措施，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "干燥管别堵死",
+   "scene": "干燥管里干燥剂结成硬块",
+   "prompt_en": "Close view of a drying tube where the white granules have clumped into a solid plug. No people.",
+   "narration": "干燥剂吸水结块，会把出口堵死。",
+   "overlay": [
+    "干燥管别堵死"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "干燥管别堵死",
+   "scene": "堵死的干燥管变成密闭体系的图标被打叉",
+   "prompt_en": "An icon of a blocked drying tube turning the heated setup into a sealed system with pressure lines, crossed out with a red X. No people.",
+   "narration": "堵死了，回流就变成密闭加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "干燥管别堵死",
+   "scene": "干燥管装得松散，两头塞少量棉花",
+   "prompt_en": "A drying tube loosely filled with granules between two small cotton plugs, with a green check. No people.",
+   "narration": "干燥剂装松一点，用前查是否通气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "氮气钢瓶与鼓泡器",
+   "scene": "氮气钢瓶用链条固定在墙边",
+   "prompt_en": "A gas cylinder secured upright to the wall with a chain, a regulator on top. No people.",
+   "narration": "氮气钢瓶要直立固定，装好减压阀。",
+   "overlay": [
+    "氮气钢瓶与鼓泡器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "氮气钢瓶与鼓泡器",
+   "scene": "鼓泡器里油面上冒出小气泡，出气管通向通风柜",
+   "prompt_en": "A small oil bubbler with gentle bubbles; its outlet tube leads into the fume hood. No people.",
+   "narration": "气流调到鼓泡器慢慢冒泡就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "氮气钢瓶与鼓泡器",
+   "scene": "鼓泡器油被倒吸进反应瓶的图标被打叉",
+   "prompt_en": "An icon of bubbler oil being sucked back into the cooling flask, crossed out with a red X. No people.",
+   "narration": "冷却时别断气，防止鼓泡液倒吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "滴加试剂要慢",
+   "scene": "滴液漏斗的活塞开得很小，一滴一滴落下",
+   "prompt_en": "The stopcock of the addition funnel is opened just a little and drops fall one at a time. No people.",
+   "narration": "放热反应，试剂一滴一滴慢慢加。",
+   "overlay": [
+    "滴加试剂要慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "滴加试剂要慢",
+   "scene": "一下全倒进去、瓶内猛烈冲料的图标被打叉",
+   "prompt_en": "An icon of the whole funnel emptied at once with the flask foaming up the condenser, crossed out with a red X. No people.",
+   "narration": "一下全倒进去，会猛烈冲料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "滴加试剂要慢",
+   "scene": "小研盯着冷凝环，随时调慢滴速",
+   "prompt_en": "The female graduate student watches the condensate ring and adjusts the stopcock.",
+   "narration": "盯着冷凝环，升得太快就停加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "水管老化与断水",
+   "scene": "老李捏一捏发硬开裂的旧水管",
+   "prompt_en": "The facility engineer squeezes an old cracked rubber hose and shakes his head.",
+   "narration": "橡胶水管会老化开裂，定期检查更换。",
+   "overlay": [
+    "水管老化与断水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "水管老化与断水",
+   "scene": "冷凝管里没水、冷凝环冲到顶的警示",
+   "prompt_en": "A condenser with no water flowing and the vapor ring rising to the top with a warning icon. No people.",
+   "narration": "一旦断水，蒸气会从冷凝管顶冲出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "水管老化与断水",
+   "scene": "小研立即降下加热套",
+   "prompt_en": "The female graduate student immediately lowers the heating mantle and turns the controller to zero.",
+   "narration": "发现断水，马上撤热，再查原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现半满的烧瓶和搅拌子",
+   "prompt_en": "The panda mascot stands beside floating icons of a half-filled flask and a stir bar.",
+   "narration": "装量不过半，搅拌子或沸石防暴沸。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "冷凝管下进上出和管箍图标",
+   "prompt_en": "Icons of a condenser with bottom-in top-out arrows and hose clamps. No people.",
+   "narration": "下进上出，管箍箍紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "敞开的冷凝管顶和调压器图标",
+   "prompt_en": "Icons of an open condenser top and a voltage controller. No people.",
+   "narration": "顶端敞开，接调压器，慢慢升温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "冷凝环在一半高的图标",
+   "prompt_en": "Icon of a condenser with the ring at the halfway mark. No people.",
+   "narration": "冷凝环一半高；撤热、冷却、再关水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "评估表、干燥管、钢瓶图标",
+   "prompt_en": "Icons of a risk form, a drying tube with a check mark and a chained cylinder. No people.",
+   "narration": "先评估，干燥管别堵，气瓶要固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在回流装置前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a gently refluxing setup.",
+   "narration": "稳稳回流，安全反应，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
