@@ -7,8 +7,8 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 51 / 59 | 2 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 7 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 9 / 23 |
+| BIORISK MANAGEMENT | 47 / 47 | 8 / 47 |
+| CDC Laboratory Safety Series | 23 / 23 | 10 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 5 / 23 |
 | Lab Safety Training Series | 13 / 13 | 2 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
@@ -139,6 +139,7 @@
 | BIORISK MANAGEMENT | 34_GENERAL PRINCIPLES BIORISK MANAGEMENT | 国内版 | 风险分组与防护水平（国内版） | 70 | 5:50 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 35_BIORISK ASSESSMENT | 国内版 | 生物风险评估怎么做（国内版） | 86 | 7:10 | 23 / 4 | [剧本](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 36_BIORISK MITIGATION | 国内版 | 五类控制减风险（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/36_BIORISK MITIGATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/36_BIORISK MITIGATION（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 原著版 | 危害与风险评估 | 52 | 4:20 | 28 / 0 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS/script.md>) |
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 国内版 | 危害与风险评估（国内版） | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 国内版 | 风险评估怎么做（国内版） | 46 | 3:50 | 29 / 5 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 39_BIOSAFETY LEVEL 3 LABORATORY | 国内版 | 三级室怎么封（国内版） | 30 | 2:30 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/审查报告.md>) |
@@ -158,6 +159,7 @@
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 原著版 | 新实验，先评估 | 24 | 2:00 | 5 / 0 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario/script.md>) |
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 国内版 | 新实验，先评估（国内版） | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 原著版 | 一根电线引发的烫伤 | 27 | 2:15 | 6 / 0 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario/script.md>) |
 | CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 国内版 | 一根电线引发的烫伤（国内版） | 29 | 2:25 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario | 国内版 | 是事故还是未遂（国内版） | 30 | 2:30 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario | 国内版 | 手套破了，要不要说（国内版） | 28 | 2:20 | 3 / 5 | [剧本](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/07_Fundamentals of Laboratory Safety Emergency Procedures and Reporting Scenario（国内版）/审查报告.md>) |
@@ -412,7 +414,7 @@
 | Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 国内版 | 认识光学元件：材料、镀膜与滤光片（国内版） | 108 | 9:00 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 原著版 | 光学元件的安装、定位与维护 | 75 | 6:15 | 24 / 0 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care/script.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 国内版 | 光学元件的安装、定位与维护（国内版） | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/审查报告.md>) |
-| Photonics & Laser Safety Series | 07_7. Light Sources | 原著版 | 光源与光对人体的作用 | 102 | 8:30 | 25 / 0 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources/script.md>) |
+| Photonics & Laser Safety Series | 07_7. Light Sources | 原著版 | 光源与光对人体的作用 | 103 | 8:35 | 25 / 0 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources/script.md>) |
 | Photonics & Laser Safety Series | 07_7. Light Sources | 国内版 | 光源与光对人体的作用（国内版） | 125 | 10:25 | 25 / 5 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 国内版 | 激光安全入门（国内版） | 147 | 12:15 | 26 / 9 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 原著版 | 辐射安全基础：来源、剂量与生物效应 | 65 | 5:25 | 16 / 0 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) |

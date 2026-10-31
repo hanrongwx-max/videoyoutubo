@@ -1,0 +1,692 @@
+{
+ "id": "33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog",
+ "edition": "单一版",
+ "series": "Microbiology Biosafety",
+ "title": "化学需氧量与测定安全",
+ "seconds": 250,
+ "source_doc": "course/Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog.md",
+ "author_source": "project/Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/src.py",
+ "points": {
+  "K1": "什么是化学需氧量",
+  "K2": "单位与含义：污染程度",
+  "K3": "什么是COD去除",
+  "K4": "去除率公式",
+  "K5": "进水和出水",
+  "K6": "算一算：去除率80%",
+  "K7": "为什么要测COD",
+  "K8": "COD与BOD的区别",
+  "S1": "测COD的试剂：强氧化、强腐蚀",
+  "S2": "加热消解：防烫、防爆裂",
+  "S3": "含铬含汞废液，按危废处置",
+  "S4": "废水样本，也当生物危害对待"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在环境实验室里，身旁一排装着彩色液体的小试管，向镜头招手",
+   "prompt_en": "The panda mascot stands in an environmental lab next to a rack of small capped tubes with orange to green liquids, waving at the camera.",
+   "narration": "欢迎来到实验室课堂。",
+   "overlay": [
+    "化学需氧量与测定安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着一杯浑浊的水",
+   "prompt_en": "The panda mascot points to a beaker of cloudy water.",
+   "narration": "今天学一个水质指标，再说测定安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着两瓶水样：一瓶浑浊，一瓶清澈",
+   "prompt_en": "The young male student holds two sample bottles with blank labels: one cloudy, one clear.",
+   "narration": "阿杰在污水处理课题组实习。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶出现问号",
+   "prompt_en": "The young male student scratches his head with a question mark above him.",
+   "narration": "他问：处理效果怎么用数字说清？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿出空白记录本，写下三个空格",
+   "prompt_en": "The female graduate student opens a blank notebook and draws three empty boxes.",
+   "narration": "小研说：先认识COD。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是化学需氧量",
+   "scene": "水滴里有树叶、油滴和小颗粒图标",
+   "prompt_en": "A large water droplet icon containing small leaf, oil drop and particle icons. No people.",
+   "narration": "水里有各种能被氧化的物质，",
+   "overlay": [
+    "什么是化学需氧量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是化学需氧量",
+   "scene": "氧气小球飞进水滴，把颗粒一个个消掉",
+   "prompt_en": "Small oxygen bubble icons fly into the droplet and the particles disappear one by one. No people.",
+   "narration": "用化学方法把它们氧化掉，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是化学需氧量",
+   "scene": "旁边一个计数器记下消耗的氧气小球",
+   "prompt_en": "A counter beside the droplet tallies the oxygen bubbles used up. No people.",
+   "narration": "消耗的氧量，就是化学需氧量。",
+   "overlay": [],
+   "labels": [
+    "化学需氧量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "单位与含义：污染程度",
+   "scene": "一个刻度尺，单位标注 mg/L",
+   "prompt_en": "A measuring scale icon with marks from low to high. No people.",
+   "narration": "它用每升多少毫克来表示。",
+   "overlay": [
+    "单位与含义：污染程度"
+   ],
+   "labels": [
+    "毫克每升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "单位与含义：污染程度",
+   "scene": "刻度从低到高，水滴从清到浊",
+   "prompt_en": "Along the scale, water droplet icons change from clear at the low end to murky brown at the high end. No people.",
+   "narration": "数值越高，水的污染越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "单位与含义：污染程度",
+   "scene": "污水管和河流两个图标",
+   "prompt_en": "Two icons side by side: a wastewater pipe and a natural river. No people.",
+   "narration": "污水和天然水体都能用它衡量。",
+   "overlay": [],
+   "labels": [
+    "废水",
+    "天然水体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是COD去除",
+   "scene": "污水从左边流进一个处理池，从右边流出变清",
+   "prompt_en": "Murky water flows into a treatment tank on the left and comes out clearer on the right. No people.",
+   "narration": "污水经过处理，",
+   "overlay": [
+    "什么是COD去除"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是COD去除",
+   "scene": "左边高柱、右边矮柱的柱形图",
+   "prompt_en": "A simple bar chart: a tall bar on the left, a short bar on the right, with a downward arrow. No people.",
+   "narration": "COD降下来多少，就是COD去除。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "去除率公式",
+   "scene": "欣欣举起一张空白公式卡",
+   "prompt_en": "The panda mascot holds up a blank formula card.",
+   "narration": "怎么算去除了多少？",
+   "overlay": [
+    "去除率公式"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "去除率公式",
+   "scene": "两根柱子相减，差值再除以左边高柱",
+   "prompt_en": "The short bar is subtracted from the tall bar; the difference is then compared with the tall bar as a fraction. No people.",
+   "narration": "进水减出水，再除以进水，",
+   "overlay": [],
+   "labels": [
+    "进水−出水",
+    "÷进水",
+    "×100"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "去除率公式",
+   "scene": "分数变成一个百分号",
+   "prompt_en": "The fraction turns into a large percent sign. No people.",
+   "narration": "乘以一百，就是去除率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "进水和出水",
+   "scene": "处理池入口的水滴标“进”，出口的水滴标“出”",
+   "prompt_en": "At the treatment tank, an arrow marks the inlet water droplet and another arrow marks the outlet water droplet. No people.",
+   "narration": "进水，是处理前的COD浓度；",
+   "overlay": [
+    "进水和出水"
+   ],
+   "labels": [
+    "进水COD",
+    "出水COD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "进水和出水",
+   "scene": "出口水滴发亮",
+   "prompt_en": "The outlet water droplet glows. No people.",
+   "narration": "出水，是处理后的COD浓度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "进水和出水",
+   "scene": "两个水滴下方都标着同样的单位",
+   "prompt_en": "Both droplets show the same unit tag beneath them. No people.",
+   "narration": "两个数单位要一致。",
+   "overlay": [],
+   "labels": [
+    "毫克每升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "算一算：去除率80%",
+   "scene": "小研在空白记录本上写下两个数",
+   "prompt_en": "The female graduate student writes two numbers on the blank notebook.",
+   "narration": "举个例子：进水五百，出水一百。",
+   "overlay": [
+    "算一算：去除率80%"
+   ],
+   "labels": [
+    "进水 500",
+    "出水 100"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "算一算：去除率80%",
+   "scene": "五百减一百得四百，四百除以五百",
+   "prompt_en": "A simple calculation animation: five hundred minus one hundred gives four hundred, then divided by five hundred. No people.",
+   "narration": "差四百，除以五百，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "算一算：去除率80%",
+   "scene": "大号的百分之八十闪亮出现",
+   "prompt_en": "A large eighty percent figure appears with sparkles. No people.",
+   "narration": "去除率是百分之八十。",
+   "overlay": [],
+   "labels": [
+    "80%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "算一算：去除率80%",
+   "scene": "阿杰竖起大拇指",
+   "prompt_en": "The young male student gives a thumbs up next to the treatment tank model.",
+   "narration": "说明处理去掉了八成的COD。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "为什么要测COD",
+   "scene": "放大镜照着水滴",
+   "prompt_en": "A magnifying glass examines a water droplet. No people.",
+   "narration": "为什么要测COD？",
+   "overlay": [
+    "为什么要测COD"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "为什么要测COD",
+   "scene": "水滴里两类颗粒：绿色的会被细菌吃掉，灰色的不会",
+   "prompt_en": "Inside the droplet are two kinds of particles: green ones that bacteria can eat, and grey ones they cannot. No people.",
+   "narration": "它反映能被氧化的污染物总量，",
+   "overlay": [],
+   "labels": [
+    "可生物降解",
+    "难生物降解"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "为什么要测COD",
+   "scene": "两类颗粒一起被计数",
+   "prompt_en": "Both green and grey particles are counted together by a counter. No people.",
+   "narration": "能降解的、难降解的都算在内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "COD与BOD的区别",
+   "scene": "两张卡：一张画细菌，一张画化学瓶",
+   "prompt_en": "Two cards: one with a bacterium icon, the other with a chemical bottle icon. No people.",
+   "narration": "还有一个指标叫生化需氧量。",
+   "overlay": [
+    "COD与BOD的区别"
+   ],
+   "labels": [
+    "BOD",
+    "COD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "COD与BOD的区别",
+   "scene": "细菌卡只圈住绿色颗粒",
+   "prompt_en": "The bacterium card circles only the green particles. No people.",
+   "narration": "BOD只算细菌能分解的部分，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "COD与BOD的区别",
+   "scene": "化学瓶卡圈住全部颗粒",
+   "prompt_en": "The chemical bottle card circles all the particles, green and grey. No people.",
+   "narration": "COD两类都测，范围更全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "测COD的试剂：强氧化、强腐蚀",
+   "scene": "试管架上一排消解管，旁边亮起警示三角",
+   "prompt_en": "A rack of capped digestion tubes with a warning triangle glowing beside it. No people.",
+   "narration": "原片配图的消解管，藏着危险。",
+   "overlay": [
+    "测COD的试剂：强氧化、强腐蚀"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "测COD的试剂：强氧化、强腐蚀",
+   "scene": "三个象形图：氧化性、腐蚀性、健康危害",
+   "prompt_en": "Three hazard pictograms: oxidizer flame over circle, corrosion, and health hazard. No people.",
+   "narration": "常用的方法要用强氧化剂和浓酸，",
+   "overlay": [],
+   "labels": [
+    "强氧化",
+    "强腐蚀",
+    "有毒致癌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "测COD的试剂：强氧化、强腐蚀",
+   "scene": "重金属小瓶旁边骷髅象形图",
+   "prompt_en": "Small reagent bottles with blank labels next to a skull and crossbones pictogram. No people.",
+   "narration": "有的还含银盐、汞盐，有毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "测COD的试剂：强氧化、强腐蚀",
+   "scene": "小研戴护目镜、面屏、耐酸手套，在通风柜里取试剂",
+   "prompt_en": "The female graduate student, wearing goggles, a face shield and acid-resistant gloves, handles reagents inside a fume hood.",
+   "narration": "在通风柜里操作，防护戴齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "测COD的试剂：强氧化、强腐蚀",
+   "scene": "王老师在空白领用登记本上签字",
+   "prompt_en": "The safety administrator signs a blank chemical issue logbook as the female graduate student receives a bottle.",
+   "narration": "这些试剂按管控化学品领用登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热消解：防烫、防爆裂",
+   "scene": "消解器上一排管子在加热，冒着热气",
+   "prompt_en": "A heating block with a row of digestion tubes giving off heat waves. No people.",
+   "narration": "测定要加热消解。",
+   "overlay": [
+    "加热消解：防烫、防爆裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热消解：防烫、防爆裂",
+   "scene": "管子破裂、液体喷溅的图标打叉",
+   "prompt_en": "An icon of a cracked tube spraying hot liquid, crossed out with a red X. No people.",
+   "narration": "管子有裂纹，加热会破裂喷溅，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热消解：防烫、防爆裂",
+   "scene": "小研用前逐支检查管子，再放进加热器",
+   "prompt_en": "The female graduate student checks each tube for cracks before placing it in the heating block, behind a closed fume hood sash.",
+   "narration": "用前查管子，在通风柜里加热，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热消解：防烫、防爆裂",
+   "scene": "计时器图标，小研等管子冷却后才用试管夹取出",
+   "prompt_en": "A timer icon; the female graduate student waits for the tubes to cool, then removes them with tube tongs.",
+   "narration": "冷却后再用夹子取，不用手拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "含铬含汞废液，按危废处置",
+   "scene": "废液倒进水池的图标打叉",
+   "prompt_en": "A tube pouring waste liquid into a sink, crossed out with a red X. No people.",
+   "narration": "测完的废液，绝不倒下水道。",
+   "overlay": [
+    "含铬含汞废液，按危废处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "含铬含汞废液，按危废处置",
+   "scene": "小研把废液倒进贴空白标签的专用桶",
+   "prompt_en": "The female graduate student pours the waste into a dedicated closed container with a blank label, set in a spill tray.",
+   "narration": "含铬、含汞，单独收集，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "含铬含汞废液，按危废处置",
+   "scene": "专用桶和普通废液桶分开放，中间打叉不混",
+   "prompt_en": "The dedicated container sits apart from a general waste container, with a crossed-out mixing arrow between them. No people.",
+   "narration": "不和其他废液混装，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "含铬含汞废液，按危废处置",
+   "scene": "回收车把专用桶运走",
+   "prompt_en": "A cart carries the dedicated container away for the school's hazardous waste pickup. No people.",
+   "narration": "交学校按危险废物处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废水样本，也当生物危害对待",
+   "scene": "阿杰在污水池边取样",
+   "prompt_en": "The young male student collects a water sample from a wastewater tank.",
+   "narration": "污水样本里，可能有病原菌。",
+   "overlay": [
+    "废水样本，也当生物危害对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废水样本，也当生物危害对待",
+   "scene": "阿杰戴手套、护目镜，样本瓶拧紧放进转运盒",
+   "prompt_en": "The young male student wears gloves and goggles, caps the sample bottle tightly and places it in a closed transport box.",
+   "narration": "取样戴手套，样本瓶拧紧，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "废水样本，也当生物危害对待",
+   "scene": "阿杰在水池边洗手",
+   "prompt_en": "The young male student washes his hands at a sink after removing his gloves.",
+   "narration": "操作完摘手套，认真洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣指着三个图标：水滴、公式卡、两张对比卡",
+   "prompt_en": "The panda mascot points to three icons: a water droplet, a formula card, and two comparison cards.",
+   "narration": "COD衡量水的污染，",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "COD",
+    "去除率",
+    "COD与BOD"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "公式卡上显示百分之八十",
+   "prompt_en": "The formula card shows a large eighty percent figure. No people.",
+   "narration": "进减出、除以进，就是去除率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三个图标：氧化性象形图、加热器、废液桶",
+   "prompt_en": "Three icons: an oxidizer pictogram, a heating block, and a closed waste container. No people.",
+   "narration": "测定时防腐蚀、防烫伤、废液不乱倒。",
+   "overlay": [],
+   "labels": [
+    "防护",
+    "防烫",
+    "危废"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰穿戴整齐，在通风柜前看小研演示",
+   "prompt_en": "The young male student, wearing a lab coat and goggles, watches the female graduate student work at a fume hood.",
+   "narration": "阿杰说：算得清，还要测得安全！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、小研在实验室挥手",
+   "prompt_en": "The panda mascot, the young male student and the female graduate student wave goodbye in the lab.",
+   "narration": "数据要准，人要安全，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
