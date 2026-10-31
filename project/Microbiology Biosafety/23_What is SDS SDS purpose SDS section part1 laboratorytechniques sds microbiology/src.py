@@ -256,7 +256,7 @@ SHOTS = [
  "The female graduate student checks the back of her gloved hand while reading a blank document.",
  "知道症状，才能早发现。"),
 # K26
-("K26", "电话图标旁写着120",
+("K26", "电话图标旁一个红十字",
  "A telephone icon with a red cross beside it. No people.",
  "什么情况必须立即就医，也写明了。", "何时立即就医"),
 ("K26", "医院图标亮起",
