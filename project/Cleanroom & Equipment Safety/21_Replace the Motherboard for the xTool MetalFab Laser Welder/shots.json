@@ -1,0 +1,715 @@
+{
+ "id": "21_Replace the Motherboard for the xTool MetalFab Laser Welder",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊接机更换主控板",
+ "seconds": 265,
+ "source_doc": "course/Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "准备工具和新主板",
+  "K2": "关机并拔掉全部线缆",
+  "K3": "锁定四个脚轮",
+  "K4": "拆下前后把手",
+  "K5": "拆下左侧盖板",
+  "K6": "拔下主板插头，有胶先去胶",
+  "K7": "拆下固定螺丝，取出旧主板",
+  "K8": "装新主板，插头插回原位",
+  "K9": "整理左侧线缆",
+  "K10": "挂钩对销钉，装回左盖",
+  "K11": "两侧把手装回",
+  "S1": "先记录故障，不盲目换板",
+  "S2": "摘下戒指手表等金属饰品",
+  "S3": "小螺丝别掉进机柜",
+  "S4": "装盖前清点工具零件",
+  "S5": "试焊：防护眼镜按波长选"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台带脚轮的激光焊接机旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a blank gray wheeled handheld laser welding machine in a workshop and waves at the camera.",
+   "narration": "这一课讲激光焊接机怎样更换主控板。",
+   "overlay": [
+    "激光焊接机更换主控板"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "记录、拆卸、装回、清点、试焊五个图标排成一行",
+   "prompt_en": "Five icons in a row: a notebook, an open machine cabinet, a circuit board, a tray of small screws, and laser safety goggles. No people.",
+   "narration": "记录故障，规范拆装，清点零件，安全试焊。",
+   "overlay": [],
+   "labels": [
+    "记录",
+    "拆卸",
+    "装回",
+    "清点",
+    "试焊"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "焊接机屏幕不亮，阿杰拿着一块新电路板就要换",
+   "prompt_en": "The young male student holds a new circuit board in front of a laser welding machine with a dark blank screen, eager to swap it in.",
+   "narration": "焊接机开不了机，阿杰认定是主板坏了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李摆摆手，指向空白的故障记录本",
+   "prompt_en": "The facility engineer waves his hand gently and points at a blank fault logbook on the bench.",
+   "narration": "老李说：先别急着换，故障记清楚了吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在旁边点头，拿出笔准备记录",
+   "prompt_en": "The female graduate student nods beside them and takes out a pen, ready to write in the logbook.",
+   "narration": "换板之前，我们先把步骤和要点理一理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先记录故障，不盲目换板",
+   "scene": "欣欣指着空白记录本，旁边浮现报警灯和时钟图标",
+   "prompt_en": "The panda mascot points at a blank logbook; an alarm light icon and a clock icon float beside it.",
+   "narration": "先记下故障现象、报警提示和发生时间。",
+   "overlay": [
+    "先记录故障，不盲目换板"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先记录故障，不盲目换板",
+   "scene": "老李翻开空白说明书，对照着一张排查流程图",
+   "prompt_en": "The facility engineer opens a blank service manual next to a simple flowchart made only of boxes and arrows.",
+   "narration": "按说明书逐项排查，必要时联系厂家。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先记录故障，不盲目换板",
+   "scene": "一堆被换下的零件旁有一个问号，被红叉划掉",
+   "prompt_en": "A pile of swapped-out parts with a big question mark above it, crossed out with a red X. No people.",
+   "narration": "不要凭猜测乱换件，原因要找准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先记录故障，不盲目换板",
+   "scene": "老李在空白派工单上签字，阿杰站在一旁看",
+   "prompt_en": "The facility engineer signs a blank work order while the young male student watches from the side.",
+   "narration": "换板由授权维修人员按程序进行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "准备工具和新主板",
+   "scene": "台面上摆着两把十字螺丝刀、一把内六角扳手、一把镊子",
+   "prompt_en": "Top view of a workbench with two cross-head screwdrivers of different sizes, a hex wrench and a pair of tweezers neatly laid out. No people.",
+   "narration": "先备齐工具：两把大小不同的十字螺丝刀，",
+   "overlay": [
+    "准备工具和新主板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "准备工具和新主板",
+   "scene": "工具旁放着一块装在袋子里的新电路板",
+   "prompt_en": "A new circuit board in a sealed bag lies next to the tools on the workbench. No people.",
+   "narration": "一把内六角扳手、一把镊子，还有新主板。",
+   "overlay": [],
+   "labels": [
+    "十字螺丝刀",
+    "内六角扳手",
+    "镊子",
+    "新主板"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下戒指手表等金属饰品",
+   "scene": "老李摘下戒指和手表，放进一个小盒子",
+   "prompt_en": "The facility engineer takes off his ring and wristwatch and puts them into a small box on the side table.",
+   "narration": "动手前，摘下戒指、手表等金属饰品。",
+   "overlay": [
+    "摘下戒指手表等金属饰品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下戒指手表等金属饰品",
+   "scene": "戴着金属手链的手伸向电路的图标，被红叉划掉",
+   "prompt_en": "An icon of a hand wearing a metal bracelet reaching toward a circuit, crossed out with a red X. No people.",
+   "narration": "金属饰品导电，碰到线路可能短路烫伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "摘下戒指手表等金属饰品",
+   "scene": "长袖口挽起，工牌塞进衣服里",
+   "prompt_en": "The facility engineer rolls up loose sleeves and tucks his hanging badge lanyard into his shirt.",
+   "narration": "宽松袖口和挂绳也要收好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "关机并拔掉全部线缆",
+   "scene": "老李按下焊接机开关，然后拔下电源插头",
+   "prompt_en": "The facility engineer switches off the laser welding machine and pulls the power plug out of the wall socket.",
+   "narration": "第一步：关机，拔掉电源插头。",
+   "overlay": [
+    "关机并拔掉全部线缆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "关机并拔掉全部线缆",
+   "scene": "老李把焊枪线、地线、气管等从机器上依次拔下",
+   "prompt_en": "The facility engineer disconnects all the cables and the gas hose from the back of the machine one by one.",
+   "narration": "连在机器上的其他线缆，也全部拔下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "锁定四个脚轮",
+   "scene": "老李蹲下，把机器底部的脚轮锁扣按下",
+   "prompt_en": "The facility engineer crouches and presses down the brake lever on a caster wheel under the machine.",
+   "narration": "把机器底部四个脚轮全部锁住。",
+   "overlay": [
+    "锁定四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "锁定四个脚轮",
+   "scene": "四个脚轮图标都带锁，机器稳稳停在地上",
+   "prompt_en": "Icon of a wheeled machine with all four casters showing small lock symbols, standing still. No people.",
+   "narration": "拆装时机器不会滑动，更安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "拆下前后把手",
+   "scene": "机器侧面，把手两端的螺丝被圆圈标出",
+   "prompt_en": "Side view of the laser welding machine with green circles marking the screws at both ends of the top handles. No people.",
+   "narration": "用内六角扳手，松开前后把手的螺丝。",
+   "overlay": [
+    "拆下前后把手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "拆下前后把手",
+   "scene": "老李把松开的把手取下，放在一旁",
+   "prompt_en": "The facility engineer lifts the loosened handle off the machine and places it on the bench.",
+   "narration": "两个把手一共八颗螺丝，拆下放好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "拆下左侧盖板",
+   "scene": "老李用小号十字螺丝刀拧下侧盖顶部的螺丝",
+   "prompt_en": "The facility engineer uses a small cross-head screwdriver to remove a screw at the top of the left side cover.",
+   "narration": "换小号十字螺丝刀，拆下左盖的螺丝。",
+   "overlay": [
+    "拆下左侧盖板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "拆下左侧盖板",
+   "scene": "老李把左侧盖板向外取下，露出内部电路",
+   "prompt_en": "The facility engineer lifts the left side cover away, revealing power modules, wiring and a circuit board inside.",
+   "narration": "取下左侧盖板，就能看到主控板了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "小螺丝别掉进机柜",
+   "scene": "欣欣站在打开的机柜旁，手里端着一个分格零件盒",
+   "prompt_en": "The panda mascot stands beside the open machine cabinet holding a small compartment parts tray.",
+   "narration": "机柜打开后，小零件最怕掉进去。",
+   "overlay": [
+    "小螺丝别掉进机柜"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "小螺丝别掉进机柜",
+   "scene": "一颗螺丝掉在两块电路板之间，闪出火花图标",
+   "prompt_en": "An icon of a tiny screw lying between two circuit boards with a small spark symbol, crossed out with a red X. No people.",
+   "narration": "螺丝卡在电路之间，通电就可能短路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "小螺丝别掉进机柜",
+   "scene": "拆下的螺丝按步骤放进零件盒的不同格子",
+   "prompt_en": "Removed screws are placed into different sections of the compartment tray, one section per step. No people.",
+   "narration": "拆一步放一格，螺丝分开放好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "小螺丝别掉进机柜",
+   "scene": "老李用带磁性的螺丝刀吸住螺丝，慢慢取出",
+   "prompt_en": "The facility engineer lifts a screw out carefully with a magnetic-tip screwdriver, holding his other hand beneath it.",
+   "narration": "取螺丝时手在下方护着，别让它掉落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拔下主板插头，有胶先去胶",
+   "scene": "老李捏住插头本体，把它从主板上拔下",
+   "prompt_en": "The facility engineer grips a connector body and pulls it straight out of the circuit board.",
+   "narration": "依次拔下主板上的所有插头。",
+   "overlay": [
+    "拔下主板插头，有胶先去胶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拔下主板插头，有胶先去胶",
+   "scene": "老李用镊子轻轻剥掉插头上的固定胶",
+   "prompt_en": "The facility engineer uses tweezers to gently peel away a dab of glue holding a connector in place.",
+   "narration": "插头上有固定胶的，先用镊子去胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拔下主板插头，有胶先去胶",
+   "scene": "剥下的胶块被收进小袋子里",
+   "prompt_en": "Small pieces of removed glue are dropped into a little waste bag on the bench. No people.",
+   "narration": "去下的胶块收走，不留在机柜里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆下固定螺丝，取出旧主板",
+   "scene": "主板特写，七个螺丝孔位被圆圈标出",
+   "prompt_en": "Close view of the circuit board inside the machine with seven green circles marking its mounting screws. No people.",
+   "narration": "主板由七颗螺丝固定在机架上。",
+   "overlay": [
+    "拆下固定螺丝，取出旧主板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆下固定螺丝，取出旧主板",
+   "scene": "老李用大号十字螺丝刀逐颗拧下螺丝",
+   "prompt_en": "The facility engineer removes the board's mounting screws one by one with a larger cross-head screwdriver.",
+   "narration": "用大号十字螺丝刀，逐颗拆下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆下固定螺丝，取出旧主板",
+   "scene": "老李捏着旧主板边缘取出，放到一旁",
+   "prompt_en": "The facility engineer holds the old circuit board by its edges, lifts it out and sets it aside in a bag.",
+   "narration": "取出旧主板，装袋放好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新主板，插头插回原位",
+   "scene": "老李把新主板对准螺丝孔放好",
+   "prompt_en": "The facility engineer lines up the new circuit board with the mounting holes inside the cabinet.",
+   "narration": "新主板对准孔位，放回原来的位置。",
+   "overlay": [
+    "装新主板，插头插回原位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新主板，插头插回原位",
+   "scene": "老李拧上七颗螺丝固定新主板",
+   "prompt_en": "The facility engineer fastens the new board with its seven screws using the cross-head screwdriver.",
+   "narration": "拧上七颗螺丝，固定牢靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新主板，插头插回原位",
+   "scene": "老李把插头逐个插回原来的插座",
+   "prompt_en": "The facility engineer plugs each connector back into its original socket on the new board.",
+   "narration": "插头逐个插回原位，插到底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "整理左侧线缆",
+   "scene": "老李把机器下方垂落的线缆理顺，收回机内",
+   "prompt_en": "The facility engineer gathers the loose cables hanging below the open side and tucks them neatly inside.",
+   "narration": "整理好左侧的线缆，收回机内。",
+   "overlay": [
+    "整理左侧线缆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "整理左侧线缆",
+   "scene": "整齐的线束图标打勾，被盖板压住的线图标打叉",
+   "prompt_en": "Two icons side by side: a neat cable bundle with a green check mark, and a cable pinched under a cover edge with a red X. No people.",
+   "narration": "线缆不能被盖板压住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "装盖前清点工具零件",
+   "scene": "老李对照空白清单，清点零件盒里的螺丝",
+   "prompt_en": "The facility engineer counts the screws in the compartment tray against a blank checklist.",
+   "narration": "装盖之前，先清点螺丝和零件。",
+   "overlay": [
+    "装盖前清点工具零件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "装盖前清点工具零件",
+   "scene": "老李用手电照着机柜内部仔细查看",
+   "prompt_en": "The facility engineer shines a flashlight into the open cabinet and looks carefully into every corner.",
+   "narration": "用手电照一遍，机柜里没有遗留物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "装盖前清点工具零件",
+   "scene": "一把螺丝刀落在机柜里的图标，被红叉划掉",
+   "prompt_en": "An icon of a screwdriver left inside a closed machine cabinet, crossed out with a red X. No people.",
+   "narration": "工具也要点齐，一件都不能落下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "挂钩对销钉，装回左盖",
+   "scene": "盖板边缘的挂钩和机架上的销钉，用箭头对应",
+   "prompt_en": "Diagram of the side cover edge with three hooks and the machine frame with three pegs, arrows matching each hook to a peg. No people.",
+   "narration": "左盖两侧有三个挂钩，对准三个销钉。",
+   "overlay": [
+    "挂钩对销钉，装回左盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "挂钩对销钉，装回左盖",
+   "scene": "老李把盖板推入机器，再拧紧顶部螺丝",
+   "prompt_en": "The facility engineer pushes the side cover into place and tightens the screw at its top.",
+   "narration": "把盖板推进去，再拧紧螺丝固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "两侧把手装回",
+   "scene": "老李把把手放回原位，用内六角扳手拧紧",
+   "prompt_en": "The facility engineer sets a handle back on top of the machine and tightens its screws with the hex wrench.",
+   "narration": "最后装回把手，拧紧螺丝。",
+   "overlay": [
+    "两侧把手装回"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "两侧把手装回",
+   "scene": "老李走到另一侧，同样装好把手",
+   "prompt_en": "The facility engineer walks to the other side of the machine and fits the second handle the same way.",
+   "narration": "另一侧也一样，四颗螺丝全部拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "欣欣举起一副激光防护眼镜，镜腿上有空白标签",
+   "prompt_en": "The panda mascot holds up a pair of laser safety goggles with a blank label on the temple.",
+   "narration": "修好后要试焊，防护眼镜不能随便拿。",
+   "overlay": [
+    "试焊：防护眼镜按波长选"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "眼镜标签和焊接机铭牌之间用箭头连接，旁边打勾",
+   "prompt_en": "An arrow links a blank label on laser safety goggles to a blank rating plate on the welding machine, with a green check mark. No people.",
+   "narration": "要和设备的激光波长相匹配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "墨镜和普通护目镜图标，都被红叉划掉",
+   "prompt_en": "Icons of ordinary sunglasses and clear safety glasses, both crossed out with red X marks. No people.",
+   "narration": "墨镜、普通护目镜，挡不住这种激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "老李检查眼镜镜片有没有划痕裂纹",
+   "prompt_en": "The facility engineer tilts the laser safety goggles under the light and checks the lenses for scratches or cracks.",
+   "narration": "戴前检查镜片，有划痕裂纹就更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "欣欣指着一本封面有激光标志的空白小册子",
+   "prompt_en": "The panda mascot points at a blank booklet with a laser warning pictogram on the cover.",
+   "narration": "选用要求以现行国家标准为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "试焊：防护眼镜按波长选",
+   "scene": "老李戴好眼镜在围挡内试焊，阿杰站在围挡外",
+   "prompt_en": "Wearing laser safety goggles, the facility engineer test-welds inside an opaque curtained area while the young male student waits outside.",
+   "narration": "试焊在围挡内进行，无关人员离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在焊接机旁，身后浮现几个步骤图标",
+   "prompt_en": "The panda mascot stands beside the closed laser welding machine with a row of step icons floating behind: a notebook, a ring crossed out, a parts tray and goggles.",
+   "narration": "记故障，摘饰品，管好螺丝，戴对眼镜。",
+   "overlay": [],
+   "labels": [
+    "记故障",
+    "摘饰品",
+    "管螺丝",
+    "戴对眼镜"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰把新电路板交回老李，竖起大拇指",
+   "prompt_en": "The young male student hands the spare circuit board back to the facility engineer and gives a thumbs up.",
+   "narration": "阿杰明白了：换板不是拆了就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣挥手告别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in the workshop.",
+   "narration": "维修讲规范，用机才安心。下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
