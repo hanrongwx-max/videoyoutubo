@@ -18,7 +18,7 @@
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 11 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
@@ -374,6 +374,7 @@
 | Fume Hood & Cabinet Protocols | 10_Performing Column Chromatography | 国内版 | 柱色谱的操作与安全（国内版） | 103 | 8:35 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 11_Physically Constructing a Galvanic Cell (Electrochemistry) | 原著版 | 动手搭一个原电池 | 48 | 4:00 | 15 / 0 | [剧本](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)/script.md>) |
 | Fume Hood & Cabinet Protocols | 11_Physically Constructing a Galvanic Cell (Electrochemistry) | 国内版 | 动手搭一个原电池（国内版） | 74 | 6:10 | 15 / 7 | [剧本](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 12_Laboratory Synthesis of Aspirin | 原著版 | 阿司匹林合成实验与安全 | 67 | 5:35 | 24 / 0 | [剧本](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin/script.md>) |
 | Fume Hood & Cabinet Protocols | 12_Laboratory Synthesis of Aspirin | 国内版 | 阿司匹林合成实验与安全（国内版） | 104 | 8:40 | 24 / 9 | [剧本](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 原著版 | 无菌操作与平板划线 | 106 | 8:50 | 31 / 0 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 国内版 | 无菌操作与平板划线（国内版） | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/审查报告.md>) |
