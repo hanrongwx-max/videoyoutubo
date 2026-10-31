@@ -1,20 +1,20 @@
 # 卡通教学视频制作目录
 
-已编写 285 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 286 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
+| Microbiology Biosafety | 48 / 59 | 0 / 25 |
 | BIORISK MANAGEMENT | 47 / 47 | 2 / 42 |
-| Microbiology Biosafety | 47 / 59 | 0 / 25 |
-| CDC Laboratory Safety Series | 23 / 23 | 4 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 5 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 2 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 2 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 3 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 4 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 1 / 9 |
@@ -82,6 +82,7 @@
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 国内版 | 质粒、细菌与遗传转化（国内版） | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 原著版 | 做好背景调研，写好研究论文 | 52 | 4:20 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research/script.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 国内版 | 做好背景调研，写好研究论文（国内版） | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 原著版 | 同伴互评：帮同学把论文改得更好 | 55 | 4:35 | 15 / 0 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews/script.md>) |
 | Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 国内版 | 同伴互评：帮同学把论文改得更好（国内版） | 66 | 5:30 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 国内版 | 植物克隆：组织培养入门（国内版） | 65 | 5:25 | 12 / 5 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 国内版 | 植物组织培养的无菌技术（国内版） | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/审查报告.md>) |
@@ -142,6 +143,7 @@
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 原著版 | 安全问题找谁问 | 23 | 1:55 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 04_Fundamentals of Laboratory Safety Risk Management Scenario | 国内版 | 新实验，先评估（国内版） | 27 | 2:15 | 5 / 5 | [剧本](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/04_Fundamentals of Laboratory Safety Risk Management Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario | 国内版 | 一根电线引发的烫伤（国内版） | 29 | 2:25 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/05_Fundamentals of Laboratory Safety Laboratory Work Practices Scenario（国内版）/审查报告.md>) |
@@ -349,6 +351,7 @@
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 单一版 | 一张表看懂四个防护等级 | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/审查报告.md>) |
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 单一版 | 哪一级实验室，操作哪类微生物 | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/script.md>) · [审查](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/审查报告.md>) |
+| Microbiology Biosafety | 37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi | 单一版 | 每一级实验室，配哪些安全装备 | 65 | 5:25 | 15 / 4 | [剧本](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi/script.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/审查报告.md>) |
 | Microbiology Biosafety | 40_How do you determine the biosafety level for a new microorganism or experiment b | 单一版 | 怎么定级别：新微生物和新实验的风险评估 | 70 | 5:50 | 18 / 3 | [剧本](<Microbiology Biosafety/40_How do you determine the biosafety level for a new microorganism or experiment b/script.md>) |
