@@ -74,7 +74,7 @@ SHOTS = [
  "The blank phone list showing several empty portrait frames, each with a telephone icon. No people.",
  "该打给谁，一目了然。"),
 # K5
-("K5", "箭头链：实验室、学院、学校三个楼图标",
+("K5", "一条箭头链连着几个楼图标",
  "A chain of arrows linking three building icons from small to large. No people.",
  "人人都要知道事故怎么报告。", "人人知道怎么报告"),
 ("K5", "阿杰拨电话给老周",
