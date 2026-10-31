@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 7 / 25 |
+| Electrical Safety Series | 25 / 25 | 8 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -340,6 +340,7 @@
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
 | Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 原著版 | 便携式发电机安全使用 | 67 | 5:35 | 26 / 0 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) |
 | Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 国内版 | 便携式发电机安全使用（国内版） | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（国内版）/script.md>) · [审查](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S（国内版）/审查报告.md>) |
+| Electrical Safety Series | 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE | 原著版 | 电焊机使用前检查 | 35 | 2:55 | 12 / 0 | [剧本](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE/script.md>) |
 | Electrical Safety Series | 08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE | 国内版 | 电焊机使用前检查（国内版） | 47 | 3:55 | 12 / 4 | [剧本](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/08_How To Inspect Welding Machine Inspection of Welding Machine HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac | 国内版 | 安全知识竞赛四十题（国内版） | 125 | 10:25 | 42 / 6 | [剧本](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（国内版）/script.md>) · [审查](<Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（国内版）/审查报告.md>) |
 | Electrical Safety Series | 10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti | 国内版 | 用电安全全知道（国内版） | 84 | 7:00 | 25 / 5 | [剧本](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/10_All About Electrical Safety Electrical Injuries Shock Severity Hazard & Protecti（国内版）/审查报告.md>) |
