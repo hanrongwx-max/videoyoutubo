@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 26 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 27 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -368,6 +368,7 @@
 | Cleanroom & Equipment Safety | 25_xTool MetalFab Laser Welder - Safety Training on Laser Welding | 国内版 | 手持式激光焊接安全培训（国内版） | 83 | 6:55 | 23 / 5 | [剧本](<Cleanroom & Equipment Safety/25_xTool MetalFab Laser Welder - Safety Training on Laser Welding（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/25_xTool MetalFab Laser Welder - Safety Training on Laser Welding（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use | 原著版 | 手持式激光焊接机开箱与首次使用 | 110 | 9:10 | 39 / 0 | [剧本](<Cleanroom & Equipment Safety/26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use/script.md>) |
 | Cleanroom & Equipment Safety | 26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use | 国内版 | 手持式激光焊接机开箱与首次使用（国内版） | 121 | 10:05 | 39 / 4 | [剧本](<Cleanroom & Equipment Safety/26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/26_xTool MetalFab Laser Welder 1200W - Unboxing and First Use（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder | 原著版 | 激光焊接机送丝机的安装与设置 | 42 | 3:30 | 14 / 0 | [剧本](<Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder/script.md>) |
 | Cleanroom & Equipment Safety | 27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder | 国内版 | 激光焊接机送丝机的安装与设置（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/27_xTool MetalFab LaserWelder - Install and Set the Wire Feeder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 28_xTool MetalFab Laser Welder – How to change different nozzle | 国内版 | 激光焊接机更换清洗嘴（国内版） | 27 | 2:15 | 4 / 4 | [剧本](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/28_xTool MetalFab Laser Welder – How to change different nozzle（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle | 国内版 | 激光焊接机更换送丝导嘴（国内版） | 26 | 2:10 | 3 / 4 | [剧本](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/29_xTool MetalFab Laser Welder - Replace the wire feeding nozzle（国内版）/审查报告.md>) |
