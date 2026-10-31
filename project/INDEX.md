@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 274 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 275 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
-| Microbiology Biosafety | 38 / 59 | 0 / 25 |
+| Microbiology Biosafety | 39 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -281,7 +281,7 @@
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 国内版 | 实验室八条通用安全规则（国内版） | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub | 单一版 | 生物安保的六个关键方面 | 46 | 3:50 | 8 / 3 | [剧本](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub/script.md>) · [审查](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub/审查报告.md>) |
-| Microbiology Biosafety | 17_Safety measures of microbiology lab General safety PPE GLP proper training labor | 单一版 | 微生物实验室的通用安全措施 | 43 | 3:35 | 8 / 3 | [剧本](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor/script.md>) |
+| Microbiology Biosafety | 17_Safety measures of microbiology lab General safety PPE GLP proper training labor | 单一版 | 微生物实验室的通用安全措施 | 43 | 3:35 | 8 / 3 | [剧本](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor/script.md>) · [审查](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor/审查报告.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 国内版 | 实验报告怎么写：从记录到安全（国内版） | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 国内版 | 认识安全技术说明书（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 国内版 | 安全技术说明书有什么用（国内版） | 47 | 3:55 | 8 / 3 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/script.md>) · [审查](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/审查报告.md>) |
@@ -295,6 +295,7 @@
 | Microbiology Biosafety | 28_Why are microbes transported bacteriology microbiology raqbamicrohub | 单一版 | 微生物为什么要运输，又该怎样运 | 64 | 5:20 | 19 / 3 | [剧本](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub/script.md>) · [审查](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub/审查报告.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 国内版 | 实验室危害，伤的是谁（国内版） | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz | 单一版 | 灭菌，也藏着危害 | 60 | 5:00 | 14 / 4 | [剧本](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/script.md>) · [审查](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/审查报告.md>) |
+| Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 单一版 | 微生物实验室的化学品安全 | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio/script.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 单一版 | 一张表看懂四个防护等级 | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
