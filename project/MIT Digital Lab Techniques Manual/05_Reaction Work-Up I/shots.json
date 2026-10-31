@@ -1,0 +1,1133 @@
+{
+ "id": "05_Reaction Work-Up I",
+ "edition": "原著版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "反应后处理：萃取、洗涤与干燥",
+ "seconds": 415,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/05_Reaction Work-Up I.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/src.py",
+ "points": {
+  "K1": "反应得到的是粗混合物",
+  "K2": "液液萃取与后处理",
+  "K3": "两种不相溶溶剂分两层",
+  "K4": "谁去有机相，谁去水相",
+  "K5": "萃取要留，洗涤要弃",
+  "K6": "铁圈加软木圈支撑",
+  "K7": "关活塞，下面放接收瓶",
+  "K8": "装液不超过四分之三",
+  "K9": "充分混合",
+  "K10": "混合会产生压力",
+  "K11": "倒置握塞，尖嘴背人放气",
+  "K12": "振摇、放气，再静置分层",
+  "K13": "什么是乳化",
+  "K14": "轻摇预防乳化",
+  "K15": "乳化了：等待或搅动",
+  "K16": "加饱和食盐水破乳",
+  "K17": "最后手段：硅藻土抽滤",
+  "K18": "时刻清楚哪层在上",
+  "K19": "看密度判断上下层",
+  "K20": "滴水试验辨水层",
+  "K21": "没确认前，哪层都不丢",
+  "K22": "放好贴签烧杯，取下塞子",
+  "K23": "放下层，界面处关活塞",
+  "K24": "上层留下还是倒出",
+  "K25": "下层下放，上层上倒",
+  "K26": "示例：乙酸苯酯的后处理",
+  "K27": "按杂质规划洗涤",
+  "K28": "碳酸氢钠洗去酸，勤放气",
+  "K29": "稀盐酸洗去胺",
+  "K30": "饱和食盐水带走水分",
+  "K31": "硫酸镁：快，但细且偏酸",
+  "K32": "加到雪花球效果",
+  "K33": "硫酸钠：慢些但中性",
+  "K34": "过滤并冲洗干燥剂",
+  "K35": "转入圆底烧瓶去浓缩"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在铁架台旁，铁圈上架着一只分液漏斗，里面有两层液体，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a ring stand holding a separatory funnel with two liquid layers, and waves at the camera.",
+   "narration": "这一课讲反应后处理。",
+   "overlay": [
+    "反应后处理：萃取、洗涤与干燥"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "分液漏斗、洗瓶、干燥剂粉末三个图标",
+   "prompt_en": "Three icons in a row: a separatory funnel with two layers, a wash bottle, and a flask with white drying powder. No people.",
+   "narration": "萃取、洗涤、干燥，一步一步来。",
+   "overlay": [],
+   "labels": [
+    "萃取",
+    "洗涤",
+    "干燥"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着装满液体、塞紧的分液漏斗用力摇，满脸紧张",
+   "prompt_en": "The young male student shakes a stoppered, very full separatory funnel hard, looking nervous.",
+   "narration": "阿杰第一次萃取，摇得太猛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "塞子被顶开、液体喷出的图标被红叉划掉",
+   "prompt_en": "An icon of a stopper popping out of a funnel with liquid spraying, crossed out with a red X. No people.",
+   "narration": "漏斗里憋着气，塞子差点冲开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研示范倒置漏斗、尖嘴朝向无人一侧放气",
+   "prompt_en": "The female graduate student demonstrates holding the funnel upside down with the tip pointed away from everyone to vent it.",
+   "narration": "小研说：先学会放气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "后处理的每一步，都有讲究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "反应得到的是粗混合物",
+   "scene": "反应瓶里混着各种形状的小分子图标",
+   "prompt_en": "A reaction flask filled with many different small molecule icons mixed together. No people.",
+   "narration": "反应很少只得到想要的那一种产物。",
+   "overlay": [
+    "反应得到的是粗混合物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "反应得到的是粗混合物",
+   "scene": "目标分子被高亮，周围是副产物、原料和试剂",
+   "prompt_en": "One target molecule icon glows among by-product, leftover starting material and reagent icons. No people.",
+   "narration": "副产物、原料、试剂，全混在一起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "液液萃取与后处理",
+   "scene": "欣欣指着分液漏斗",
+   "prompt_en": "The panda mascot points at a separatory funnel on a ring stand.",
+   "narration": "液液萃取是最常用的分离方法。",
+   "overlay": [
+    "液液萃取与后处理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "液液萃取与后处理",
+   "scene": "一串步骤卡片连成一条线",
+   "prompt_en": "A row of linked blank step cards with arrows between them. No people.",
+   "narration": "设计好萃取和洗涤的顺序，就叫后处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "两种不相溶溶剂分两层",
+   "scene": "分液漏斗中上下两层液体，界面清晰",
+   "prompt_en": "A separatory funnel with a clear upper layer and a clear lower layer separated by a sharp line. No people.",
+   "narration": "两种互不相溶的溶剂，分成两层。",
+   "overlay": [
+    "两种不相溶溶剂分两层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "两种不相溶溶剂分两层",
+   "scene": "分子在两层之间上下移动的箭头",
+   "prompt_en": "Molecule icons moving between the two layers with up and down arrows. No people.",
+   "narration": "各组分按溶解度，分到不同的层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "谁去有机相，谁去水相",
+   "scene": "上层贴有机图标，下层贴水滴图标",
+   "prompt_en": "The top layer marked with an organic flask icon and the bottom layer marked with a water drop icon. No people.",
+   "narration": "一层几乎总是水，另一层是有机溶剂。",
+   "overlay": [
+    "谁去有机相，谁去水相"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "谁去有机相，谁去水相",
+   "scene": "中性分子在有机层，带电离子和盐在水层",
+   "prompt_en": "Neutral molecule icons sit in the organic layer; charged ion and salt icons sit in the water layer. No people.",
+   "narration": "中性分子爱有机相，离子和盐爱水相。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "萃取要留，洗涤要弃",
+   "scene": "萃取：目标分子被拉进新溶剂；洗涤：杂质被冲走",
+   "prompt_en": "Two panels: the target molecule pulled into a new solvent, and impurity icons washed away. No people.",
+   "narration": "萃取拉出产物，洗涤洗走杂质。",
+   "overlay": [
+    "萃取要留，洗涤要弃"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "萃取要留，洗涤要弃",
+   "scene": "萃取液瓶打勾，洗涤液瓶进废液图标",
+   "prompt_en": "An extract flask with a green check, and a wash liquid flask heading to a waste container icon. No people.",
+   "narration": "萃取液要留，洗涤液弃去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "铁圈加软木圈支撑",
+   "scene": "铁架台上的铁圈，垫一圈软木圈，分液漏斗稳稳坐在上面",
+   "prompt_en": "A ring stand with an iron ring padded by a cork ring; a separatory funnel sits securely in it. No people.",
+   "narration": "铁圈加软木圈，稳稳托住漏斗。",
+   "overlay": [
+    "铁圈加软木圈支撑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "关活塞，下面放接收瓶",
+   "scene": "手指关紧活塞",
+   "prompt_en": "A gloved hand turns the stopcock to the closed position. No people.",
+   "narration": "加液前，先关好活塞。",
+   "overlay": [
+    "关活塞，下面放接收瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "关活塞，下面放接收瓶",
+   "scene": "漏斗下方放一个干净烧瓶，接住漏下的液滴",
+   "prompt_en": "A clean flask is placed under the funnel and catches a drip from the tip. No people.",
+   "narration": "下面放个干净烧瓶，漏了也能接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装液不超过四分之三",
+   "scene": "漏斗装到四分之三处打勾，装满到顶打叉",
+   "prompt_en": "Two funnels: one filled to three quarters with a green check, one filled to the top with a red X. No people.",
+   "narration": "装液不超过四分之三。",
+   "overlay": [
+    "装液不超过四分之三"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装液不超过四分之三",
+   "scene": "太满的漏斗里液体无处翻动",
+   "prompt_en": "In an overfilled funnel the liquid has no room to move when tilted. No people.",
+   "narration": "太满了，根本混不开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "充分混合",
+   "scene": "两层液体翻滚混合，接触面变大",
+   "prompt_en": "The two layers tumble and mix, creating many small droplets with a larger contact area. No people.",
+   "narration": "充分混合，接触面大，分配就快。",
+   "overlay": [
+    "充分混合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "混合会产生压力",
+   "scene": "漏斗里压力表指针上升",
+   "prompt_en": "A pressure gauge icon over the funnel with the needle rising. No people.",
+   "narration": "可是一混合，里面压力就升高。",
+   "overlay": [
+    "混合会产生压力"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "混合会产生压力",
+   "scene": "挥发的溶剂蒸气和冒出的气泡两个图标",
+   "prompt_en": "Two icons: rising solvent vapor and gas bubbles forming in a liquid. No people.",
+   "narration": "易挥发溶剂和产气的试剂，尤其明显。",
+   "overlay": [],
+   "labels": [
+    "乙醚",
+    "碳酸氢钠遇酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "倒置握塞，尖嘴背人放气",
+   "scene": "小研先轻轻旋摇、颠倒漏斗",
+   "prompt_en": "The female graduate student, wearing gloves, gently swirls and turns the funnel over before shaking.",
+   "narration": "猛摇之前，先轻轻旋摇、颠倒。",
+   "overlay": [
+    "倒置握塞，尖嘴背人放气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "倒置握塞，尖嘴背人放气",
+   "scene": "倒置漏斗，手掌压紧塞子，液体流离活塞",
+   "prompt_en": "The funnel is held upside down with a palm pressing the stopper; the liquid drains away from the stopcock. No people.",
+   "narration": "倒过来，压紧塞子，让液体离开活塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "倒置握塞，尖嘴背人放气",
+   "scene": "在实验台上，尖嘴朝向无人的一侧，缓缓打开活塞，气体排出",
+   "prompt_en": "On an open lab bench, the inverted funnel tip points away toward an empty side as the stopcock opens slowly and gas escapes. No people.",
+   "narration": "尖嘴背着自己和别人，慢慢开活塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "振摇、放气，再静置分层",
+   "scene": "小研握紧漏斗用力振摇几下",
+   "prompt_en": "The female graduate student holds the funnel firmly and shakes it briskly for a few seconds.",
+   "narration": "握紧振摇几秒，再倒置放气。",
+   "overlay": [
+    "振摇、放气，再静置分层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "振摇、放气，再静置分层",
+   "scene": "耳朵图标旁的气流声波逐渐消失",
+   "prompt_en": "An ear icon next to sound waves of escaping gas that grow smaller and disappear. No people.",
+   "narration": "反复几次，直到听不到出气声。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "振摇、放气，再静置分层",
+   "scene": "漏斗放回铁圈，两层慢慢分开",
+   "prompt_en": "The funnel is set back in the ring and the two layers slowly separate. No people.",
+   "narration": "放回铁圈，静置分层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "什么是乳化",
+   "scene": "两层之间出现一层浑浊的乳化层",
+   "prompt_en": "A cloudy milky band forms between the two layers in the funnel. No people.",
+   "narration": "两层中间糊了一层，这叫乳化。",
+   "overlay": [
+    "什么是乳化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "什么是乳化",
+   "scene": "放大镜下乳化层里的细小颗粒",
+   "prompt_en": "A magnifying glass shows tiny particles inside the cloudy band. No people.",
+   "narration": "多由细小颗粒引起，很难消除。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "轻摇预防乳化",
+   "scene": "双手轻轻旋摇、颠倒漏斗",
+   "prompt_en": "Hands gently swirl and turn the funnel over instead of shaking it. No people.",
+   "narration": "轻轻旋摇颠倒，很少乳化。",
+   "overlay": [
+    "轻摇预防乳化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "轻摇预防乳化",
+   "scene": "时钟图标旁一个绿勾",
+   "prompt_en": "A clock icon next to a green check. No people.",
+   "narration": "多花点时间混合，值得。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "乳化了：等待或搅动",
+   "scene": "沙漏图标旁静置的漏斗",
+   "prompt_en": "A funnel standing still next to an hourglass icon, the cloudy band slowly thinning. No people.",
+   "narration": "已经乳化？办法一，静置等待。",
+   "overlay": [
+    "乳化了：等待或搅动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "乳化了：等待或搅动",
+   "scene": "玻璃棒轻轻搅动乳化层",
+   "prompt_en": "A glass rod gently stirs the cloudy band inside the funnel. No people.",
+   "narration": "办法二，轻轻旋摇，用玻璃棒搅动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加饱和食盐水破乳",
+   "scene": "向漏斗里加入少量饱和食盐水",
+   "prompt_en": "A small amount of saturated salt solution is poured into the funnel. No people.",
+   "narration": "办法三，加几毫升饱和食盐水。",
+   "overlay": [
+    "加饱和食盐水破乳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加饱和食盐水破乳",
+   "scene": "水层里盐离子增多，有机液滴被挤回上层",
+   "prompt_en": "Salt ion icons fill the water layer and push organic droplets back up into the organic layer. No people.",
+   "narration": "盐让有机溶剂更难溶在水里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "最后手段：硅藻土抽滤",
+   "scene": "布氏漏斗里铺一层白色助滤剂，接抽滤瓶",
+   "prompt_en": "A filter funnel with a white filter aid layer, on a filter flask connected to a vacuum hose. No people.",
+   "narration": "最后一招：整体通过硅藻土抽滤。",
+   "overlay": [
+    "最后手段：硅藻土抽滤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "时刻清楚哪层在上",
+   "scene": "欣欣指着漏斗的上层和下层，头顶问号",
+   "prompt_en": "The panda mascot points at the top and bottom layers of a funnel, with a question mark above.",
+   "narration": "随时问自己：哪层在上，哪层在下？",
+   "overlay": [
+    "时刻清楚哪层在上"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "时刻清楚哪层在上",
+   "scene": "两层上各贴一张空白标签卡",
+   "prompt_en": "Two blank tag cards attached to the top and bottom layers. No people.",
+   "narration": "每一层里溶着什么，都要心里有数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "看密度判断上下层",
+   "scene": "密度轻的在上、重的在下的天平图标",
+   "prompt_en": "A diagram with a light block floating on top and a heavy block sinking below. No people.",
+   "narration": "密度小的在上，大的在下。",
+   "overlay": [
+    "看密度判断上下层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "看密度判断上下层",
+   "scene": "水层约1克每毫升，两种情况的分层图",
+   "prompt_en": "Two funnel diagrams: an organic layer above water, and an organic layer below water. No people.",
+   "narration": "稀水溶液和水差不多重。",
+   "overlay": [],
+   "labels": [
+    "比水轻：在上层",
+    "比水重：在下层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "看密度判断上下层",
+   "scene": "瓶子图标分别放在上层和下层",
+   "prompt_en": "Solvent bottle icons placed by the top layer and by the bottom layer. No people.",
+   "narration": "己烷、乙醚在上，二氯甲烷在下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "看密度判断上下层",
+   "scene": "浓溶液让密度箭头改变方向",
+   "prompt_en": "A heavy solute icon making the density arrow flip direction. No people.",
+   "narration": "溶质很浓时，密度可能变化很大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "滴水试验辨水层",
+   "scene": "滴管取几滴加入盛水的试管",
+   "prompt_en": "A dropper adds a few drops from one layer into a test tube with a little water. No people.",
+   "narration": "分不清？取几滴滴进水里试试。",
+   "overlay": [
+    "滴水试验辨水层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "滴水试验辨水层",
+   "scene": "清澈溶解打勾为水层；浑浊或分层为有机层",
+   "prompt_en": "Two test tubes: one clear with a water drop icon, one cloudy with a separate layer and an organic icon. No people.",
+   "narration": "溶了不浑是水层，浑了分层是有机层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "没确认前，哪层都不丢",
+   "scene": "两个贴标签的烧杯都被保留，垃圾桶被打叉",
+   "prompt_en": "Two labeled beakers kept on the bench, with a trash bin icon crossed out with a red X. No people.",
+   "narration": "没确认产物都拿到，哪层都不丢。",
+   "overlay": [
+    "没确认前，哪层都不丢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "放好贴签烧杯，取下塞子",
+   "scene": "小研在漏斗下放一个贴空白标签的烧杯，并取下塞子",
+   "prompt_en": "The female graduate student places a beaker with a blank label under the funnel and removes the top stopper.",
+   "narration": "下面放好贴标签的烧杯，取下塞子。",
+   "overlay": [
+    "放好贴签烧杯，取下塞子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "放好贴签烧杯，取下塞子",
+   "scene": "塞着塞子液体流不出的图标",
+   "prompt_en": "An icon of a stoppered funnel with liquid stuck in the stem. No people.",
+   "narration": "塞子不取，液体放不下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "放下层，界面处关活塞",
+   "scene": "打开活塞，下层流入烧杯",
+   "prompt_en": "The stopcock is opened and the bottom layer flows into the beaker. No people.",
+   "narration": "打开活塞，放出下层。",
+   "overlay": [
+    "放下层，界面处关活塞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "放下层，界面处关活塞",
+   "scene": "界面接近活塞时放慢，正好在交界处关闭",
+   "prompt_en": "As the boundary nears the stopcock the flow slows and stops exactly at the boundary. No people.",
+   "narration": "快到界面就放慢，恰好在交界处关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "上层留下还是倒出",
+   "scene": "上层留在漏斗中，又倒入新的洗液",
+   "prompt_en": "The top layer stays in the funnel and a new wash solution is poured in. No people.",
+   "narration": "上层还要洗，就留在漏斗里继续。",
+   "overlay": [
+    "上层留下还是倒出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "上层留下还是倒出",
+   "scene": "上层从上口倒入另一个贴标签烧杯",
+   "prompt_en": "The top layer is poured out through the top opening into a second labeled beaker. No people.",
+   "narration": "洗完了，就倒进另一个贴签烧杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "下层下放，上层上倒",
+   "scene": "下层向下箭头、上层向上箭头",
+   "prompt_en": "A funnel with a downward arrow from the stopcock for the bottom layer and an upward arrow from the top for the top layer. No people.",
+   "narration": "下层从活塞放，上层从上口倒。",
+   "overlay": [
+    "下层下放，上层上倒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "下层下放，上层上倒",
+   "scene": "从活塞放上层的图标被打叉",
+   "prompt_en": "An icon of the top layer being drained through the stopcock, crossed out with a red X. No people.",
+   "narration": "这样不会把杂质带回产物里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "示例：乙酸苯酯的后处理",
+   "scene": "一个酯分子图标被高亮",
+   "prompt_en": "An ester molecule icon highlighted with a glow. No people.",
+   "narration": "举个例子：后处理乙酸苯酯。",
+   "overlay": [
+    "示例：乙酸苯酯的后处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "示例：乙酸苯酯的后处理",
+   "scene": "产物在乙醚层，乙醚和水分成两层",
+   "prompt_en": "The product icon sits in an ether layer floating above a water layer. No people.",
+   "narration": "产物溶于乙醚，乙醚又不溶于水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "示例：乙酸苯酯的后处理",
+   "scene": "上层乙醚，下面依次换上不同水溶液",
+   "prompt_en": "The ether layer stays on top while different aqueous wash solutions are swapped in below. No people.",
+   "narration": "就用乙醚作有机层，用水溶液来洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "按杂质规划洗涤",
+   "scene": "小研在空白计划板上列出杂质和对应洗液",
+   "prompt_en": "The female graduate student writes a plan on a blank board, matching impurity icons to wash bottle icons.",
+   "narration": "根据杂质的性质，选择洗液。",
+   "overlay": [
+    "按杂质规划洗涤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "按杂质规划洗涤",
+   "scene": "洗液量和重复次数图示",
+   "prompt_en": "A measuring icon showing a small portion of wash liquid, and a repeat arrow icon. No people.",
+   "narration": "每次用量少一些，每种洗两三次。",
+   "overlay": [],
+   "labels": [
+    "10%～50%体积",
+    "重复2～3次"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "碳酸氢钠洗去酸，勤放气",
+   "scene": "酸分子进入水层变成离子",
+   "prompt_en": "An acid molecule icon moves from the organic layer into the water layer and becomes a charged ion. No people.",
+   "narration": "乙酸，用饱和碳酸氢钠洗掉。",
+   "overlay": [
+    "碳酸氢钠洗去酸，勤放气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "碳酸氢钠洗去酸，勤放气",
+   "scene": "漏斗里冒出很多气泡，压力表上升",
+   "prompt_en": "Many bubbles rise in the funnel and a pressure gauge icon climbs. No people.",
+   "narration": "会放出二氧化碳，一定要勤放气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "碳酸氢钠洗去酸，勤放气",
+   "scene": "放掉水层，重复图标",
+   "prompt_en": "The water layer is drained and a repeat arrow shows two more rounds. No people.",
+   "narration": "放掉水层，再洗两次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "稀盐酸洗去胺",
+   "scene": "胺分子加上质子后进入水层",
+   "prompt_en": "Amine molecule icons pick up a proton and move into the water layer. No people.",
+   "narration": "三乙胺等弱碱，用稀盐酸洗。",
+   "overlay": [
+    "稀盐酸洗去胺"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "稀盐酸洗去胺",
+   "scene": "混合、放气、放水层，重复三次",
+   "prompt_en": "Icons of mixing, venting and draining with a repeat arrow. No people.",
+   "narration": "同样混合放气，重复三次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "饱和食盐水带走水分",
+   "scene": "乙醚层里漂着小水滴",
+   "prompt_en": "Small water droplet icons floating inside the ether layer. No people.",
+   "narration": "乙醚里还溶着一点水。",
+   "overlay": [
+    "饱和食盐水带走水分"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "饱和食盐水带走水分",
+   "scene": "加入食盐水，水滴被拉进水层",
+   "prompt_en": "Brine is added and the water droplets are pulled down into the water layer. No people.",
+   "narration": "用饱和食盐水洗一次，带走部分水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "硫酸镁：快，但细且偏酸",
+   "scene": "一勺极细的白色粉末",
+   "prompt_en": "A spatula holding very fine white powder. No people.",
+   "narration": "硫酸镁干燥又快又好。",
+   "overlay": [
+    "硫酸镁：快，但细且偏酸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "硫酸镁：快，但细且偏酸",
+   "scene": "粉末表面吸附着产物分子；旁边一个弱酸图标",
+   "prompt_en": "Product molecule icons stuck to the fine powder surface, next to a mild acid icon. No people.",
+   "narration": "但粉太细会吸附产物，还略偏酸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "加到雪花球效果",
+   "scene": "向标有机层的烧杯少量加粉末并旋摇",
+   "prompt_en": "Small amounts of powder are added to a beaker of organic solution and swirled. No people.",
+   "narration": "少量多次加入，边加边摇。",
+   "overlay": [
+    "加到雪花球效果"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K32",
+   "section_title": "加到雪花球效果",
+   "scene": "粉末在液体中像雪花一样飘动",
+   "prompt_en": "Loose powder swirls freely in the liquid like a snow globe. No people.",
+   "narration": "摇起来像雪花球，放置后仍有散粉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "硫酸钠：慢些但中性",
+   "scene": "颗粒状的白色干燥剂",
+   "prompt_en": "Granular white drying agent in a flask of organic solution. No people.",
+   "narration": "硫酸钠慢一些，但基本中性。",
+   "overlay": [
+    "硫酸钠：慢些但中性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K33",
+   "section_title": "硫酸钠：慢些但中性",
+   "scene": "沙漏图标旁的烧瓶",
+   "prompt_en": "The flask with granules next to an hourglass icon. No people.",
+   "narration": "颗粒吸附少，干燥五到十分钟。",
+   "overlay": [],
+   "labels": [
+    "5～10分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "过滤并冲洗干燥剂",
+   "scene": "折叠滤纸放在漏斗里，溶液滤入圆底烧瓶",
+   "prompt_en": "A fluted filter paper in a funnel; the solution filters into a round-bottom flask. No people.",
+   "narration": "用折叠滤纸过滤掉干燥剂。",
+   "overlay": [
+    "过滤并冲洗干燥剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K34",
+   "section_title": "过滤并冲洗干燥剂",
+   "scene": "洗瓶冲洗滤纸上的干燥剂三次",
+   "prompt_en": "A wash bottle rinses the drying agent on the filter paper three times. No people.",
+   "narration": "再用干溶剂冲洗三次，别留下产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "转入圆底烧瓶去浓缩",
+   "scene": "圆底烧瓶旁出现旋转蒸发仪图标",
+   "prompt_en": "A round-bottom flask next to a rotary evaporator icon. No people.",
+   "narration": "接下来去旋转蒸发仪浓缩。",
+   "overlay": [
+    "转入圆底烧瓶去浓缩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K35",
+   "section_title": "转入圆底烧瓶去浓缩",
+   "scene": "欣欣手捧空白讲义",
+   "prompt_en": "The panda mascot holds a thick blank lab manual.",
+   "narration": "演示只是预习，讲义一定要读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现软木圈、接收瓶、四分之三刻度图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a cork ring, a receiving flask and a three-quarter fill mark.",
+   "narration": "架稳、关活塞、放接收瓶、别装满。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "倒置放气和乳化层图标",
+   "prompt_en": "Icons of an inverted funnel venting and a cloudy middle layer. No people.",
+   "narration": "尖嘴背人勤放气，乳化先预防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "密度箭头和两个贴签烧杯图标",
+   "prompt_en": "Icons of density arrows and two beakers with blank labels. No people.",
+   "narration": "分清上下层，没确认前都不丢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "碳酸氢钠、稀酸、食盐水、干燥剂图标",
+   "prompt_en": "Icons of three wash bottles and a scoop of drying powder. No people.",
+   "narration": "按杂质洗涤，再干燥过滤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一只装着澄清溶液的圆底烧瓶，挥手道别",
+   "prompt_en": "The panda mascot holds up a round-bottom flask of clear solution and waves goodbye at the camera.",
+   "narration": "产物到手，下一步浓缩，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
