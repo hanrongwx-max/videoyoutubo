@@ -1,6 +1,6 @@
 # 24_10 Important Electrical Safety Rules Every Worker Must Follow 卡通剧本作者源
 # 原片用十张海报讲十条电气安全规则：保留全部知识点 K1–K12，面向高校改写为“电工这样做，学生知道并配合”；
-# 审查补充 S1–S3（认识电气安全标志、插拔插头的正确方法、电器散热口不遮挡）
+# 审查补充 S1–S3（仪器进水受潮先断电、检测后再用，插拔插头的正确方法、电器散热口不遮挡）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -18,7 +18,7 @@ META = {
         "K10": "守则九：电气作业，授权才能干",
         "K11": "守则十：发现隐患马上报告",
         "K12": "安全是大家的事",
-        "S1": "认识电气安全标志",
+        "S1": "仪器进水受潮：断电，检测后再用",
         "S2": "插拔插头的正确方法",
         "S3": "电器散热口不遮挡",
     },
@@ -152,15 +152,15 @@ SHOTS = [
  "The female graduate student, the young male student, the older man and the facility engineer stand together in a circle.",
  "安全不是一个人的事，是大家的事。", "安全是大家的事"),
 # S1
-("S1", "欣欣举着当心触电标志",
- "The panda mascot holds up an electric shock warning sign.",
- "认得电气安全标志，才知道怎么做。", "认识电气安全标志"),
-("S1", "当心触电、止步高压危险、禁止合闸三个标志",
- "Three signs side by side: an electric shock warning sign, a high voltage danger stop sign, and a do-not-switch-on prohibition tag. No people.",
- "当心触电、止步高压危险、禁止合闸。", "", ["当心触电", "止步 高压危险", "禁止合闸"]),
-("S1", "阿杰看到标志，后退一步",
- "The young male student sees the warning sign on a cabinet door and steps back.",
- "看到标志，照着做，不越过。"),
+("S1", "实验台上的水瓶打翻，水流进仪器",
+ "A water bottle tips over on a lab bench and water runs into an instrument. No people.",
+ "仪器进了水，或者受了潮，", "仪器进水受潮：断电，检测后再用"),
+("S1", "小研在墙上开关处断电，不碰湿的仪器",
+ "The female graduate student switches off power at the wall switch without touching the wet instrument.",
+ "先在开关处断电，别碰湿仪器。"),
+("S1", "老李检测晾干的仪器，挂上空白合格牌",
+ "The facility engineer tests the dried instrument with a blank meter and hangs a blank tag on it.",
+ "交电工检测合格，才能再通电。"),
 # S2
 ("S2", "拽着电线拔插头的图标，被红叉划掉",
  "An icon of a hand yanking a plug out by its cord, crossed out with a red X. No people.",
@@ -191,9 +191,9 @@ SHOTS = [
 ("小结", "高压标志、接地符号、操作证图标",
  "Icons of a high voltage sign, a ground symbol and a blank work permit card. No people.",
  "远离高压，接地可靠，授权作业。"),
-("小结", "电话、标志、插头、散热口图标",
- "Icons of a telephone, a warning sign, a plug held correctly and a clear vent. No people.",
- "隐患要报告，认标志，插拔散热都留心。"),
+("小结", "电话、水滴、插头、散热口图标",
+ "Icons of a telephone, a water droplet over an instrument, a plug held correctly and a clear vent. No people.",
+ "隐患要报告，进水先断电，插拔散热都留心。"),
 # 结尾
 ("结尾", "欣欣卷起卷轴，挥手道别",
  "The panda mascot rolls up the blank scroll and waves goodbye at the camera.",

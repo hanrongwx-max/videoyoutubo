@@ -19,7 +19,7 @@
   "K10": "守则九：电气作业，授权才能干",
   "K11": "守则十：发现隐患马上报告",
   "K12": "安全是大家的事",
-  "S1": "认识电气安全标志",
+  "S1": "仪器进水受潮：断电，检测后再用",
   "S2": "插拔插头的正确方法",
   "S3": "电器散热口不遮挡"
  },
@@ -523,40 +523,36 @@
    "shot": 38,
    "seconds": 5,
    "section": "S1",
-   "section_title": "认识电气安全标志",
-   "scene": "欣欣举着当心触电标志",
-   "prompt_en": "The panda mascot holds up an electric shock warning sign.",
-   "narration": "认得电气安全标志，才知道怎么做。",
+   "section_title": "仪器进水受潮：断电，检测后再用",
+   "scene": "实验台上的水瓶打翻，水流进仪器",
+   "prompt_en": "A water bottle tips over on a lab bench and water runs into an instrument. No people.",
+   "narration": "仪器进了水，或者受了潮，",
    "overlay": [
-    "认识电气安全标志"
+    "仪器进水受潮：断电，检测后再用"
    ],
    "labels": [],
-   "mode": "speaker"
+   "mode": "voiceover"
   },
   {
    "shot": 39,
    "seconds": 5,
    "section": "S1",
-   "section_title": "认识电气安全标志",
-   "scene": "当心触电、止步高压危险、禁止合闸三个标志",
-   "prompt_en": "Three signs side by side: an electric shock warning sign, a high voltage danger stop sign, and a do-not-switch-on prohibition tag. No people.",
-   "narration": "当心触电、止步高压危险、禁止合闸。",
+   "section_title": "仪器进水受潮：断电，检测后再用",
+   "scene": "小研在墙上开关处断电，不碰湿的仪器",
+   "prompt_en": "The female graduate student switches off power at the wall switch without touching the wet instrument.",
+   "narration": "先在开关处断电，别碰湿仪器。",
    "overlay": [],
-   "labels": [
-    "当心触电",
-    "止步 高压危险",
-    "禁止合闸"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 40,
    "seconds": 5,
    "section": "S1",
-   "section_title": "认识电气安全标志",
-   "scene": "阿杰看到标志，后退一步",
-   "prompt_en": "The young male student sees the warning sign on a cabinet door and steps back.",
-   "narration": "看到标志，照着做，不越过。",
+   "section_title": "仪器进水受潮：断电，检测后再用",
+   "scene": "老李检测晾干的仪器，挂上空白合格牌",
+   "prompt_en": "The facility engineer tests the dried instrument with a blank meter and hangs a blank tag on it.",
+   "narration": "交电工检测合格，才能再通电。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -680,9 +676,9 @@
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "电话、标志、插头、散热口图标",
-   "prompt_en": "Icons of a telephone, a warning sign, a plug held correctly and a clear vent. No people.",
-   "narration": "隐患要报告，认标志，插拔散热都留心。",
+   "scene": "电话、水滴、插头、散热口图标",
+   "prompt_en": "Icons of a telephone, a water droplet over an instrument, a plug held correctly and a clear vent. No people.",
+   "narration": "隐患要报告，进水先断电，插拔散热都留心。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
