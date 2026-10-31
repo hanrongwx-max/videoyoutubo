@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 278 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 280 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 46 / 47 | 0 / 42 |
-| Microbiology Biosafety | 41 / 59 | 0 / 25 |
+| Microbiology Biosafety | 43 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -23,8 +23,8 @@
 | Laser Equipment & Safety Training | 8 / 8 | 5 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 3 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 3 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 2 / 7 |
-| Laboratory Equipment Safety Series | 7 / 7 | 3 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 3 / 7 |
+| Laboratory Equipment Safety Series | 7 / 7 | 4 / 7 |
 | Electrical Safety Series | 6 / 25 | 3 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
@@ -154,6 +154,7 @@
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 国内版 | 进实验室，先穿对、戴好（国内版） | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 原著版 | 实验室里的安全设备 | 55 | 4:35 | 23 / 0 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 原著版 | 实验室里的行为规范 | 39 | 3:15 | 17 / 0 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3/script.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 国内版 | 认识化学品的危害：SDS与标签（国内版） | 60 | 5:00 | 17 / 6 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/script.md>) · [审查](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 05_Safe Chemical Handling Lab Safety Video Part 5 | 国内版 | 安全操作化学品（国内版） | 59 | 4:55 | 24 / 5 | [剧本](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/script.md>) · [审查](<Chemical Spillage & Response/05_Safe Chemical Handling Lab Safety Video Part 5（国内版）/审查报告.md>) |
@@ -262,6 +263,7 @@
 | Laboratory Equipment Safety Series | 02_How to flush an eyewash station Demonstration at ATRB | 国内版 | 洗眼器的定期冲洗（国内版） | 44 | 3:40 | 8 / 6 | [剧本](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/02_How to flush an eyewash station Demonstration at ATRB（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 原著版 | 气瓶的储存与搬运 | 42 | 3:30 | 17 / 0 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety/script.md>) |
 | Laboratory Equipment Safety Series | 03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety | 国内版 | 气瓶的储存与搬运（国内版） | 48 | 4:00 | 17 / 4 | [剧本](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/03_Compressed Gas Cylinders Proper Handling and Storage Equipment Safety（国内版）/审查报告.md>) |
+| Laboratory Equipment Safety Series | 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet | 原著版 | 气瓶减压器的安装与拆卸 | 48 | 4:00 | 22 / 0 | [剧本](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet/script.md>) |
 | Laboratory Equipment Safety Series | 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet | 国内版 | 气瓶减压器的安装与拆卸（国内版） | 60 | 5:00 | 22 / 6 | [剧本](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 国内版 | 气瓶泄漏：大漏小漏怎么办（国内版） | 53 | 4:25 | 16 / 5 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 国内版 | 读懂气瓶上的标记（国内版） | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/审查报告.md>) |
@@ -318,9 +320,11 @@
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
 | Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 单一版 | 生物风险评估六步走 | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) · [审查](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/审查报告.md>) |
+| Microbiology Biosafety | 44_What are the core components of a Biorisk management system biorisk biosafety tr | 单一版 | 生物风险管理体系的六根支柱 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr/script.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 单一版 | 认识危险物品：七大类和它们藏在哪 | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/审查报告.md>) |
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/审查报告.md>) |
+| Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 单一版 | 生物风险管理，怎么检查好不好 | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |
