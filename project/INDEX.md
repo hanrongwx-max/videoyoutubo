@@ -6,15 +6,15 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 48 / 59 | 0 / 25 |
-| BIORISK MANAGEMENT | 47 / 47 | 2 / 42 |
+| Microbiology Biosafety | 48 / 59 | 1 / 25 |
+| BIORISK MANAGEMENT | 47 / 47 | 3 / 42 |
 | CDC Laboratory Safety Series | 23 / 23 | 6 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 3 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 2 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 2 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 2 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 4 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 5 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 1 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 2 / 9 |
@@ -85,6 +85,7 @@
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 国内版 | 做好背景调研，写好研究论文（国内版） | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 原著版 | 同伴互评：帮同学把论文改得更好 | 55 | 4:35 | 15 / 0 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews/script.md>) |
 | Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 国内版 | 同伴互评：帮同学把论文改得更好（国内版） | 66 | 5:30 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 原著版 | 植物克隆：组织培养入门 | 48 | 4:00 | 12 / 0 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning/script.md>) |
 | Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 国内版 | 植物克隆：组织培养入门（国内版） | 65 | 5:25 | 12 / 5 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 国内版 | 植物组织培养的无菌技术（国内版） | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 国内版 | 胡萝卜组织培养（国内版） | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/审查报告.md>) |
@@ -106,6 +107,7 @@
 | BIORISK MANAGEMENT | 12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT | 国内版 | 生物安全实验室谁来管（国内版） | 66 | 5:30 | 17 / 5 | [剧本](<BIORISK MANAGEMENT/12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW | 原著版 | 生物风险管理：一张全景图 | 73 | 6:05 | 20 / 0 | [剧本](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW/script.md>) |
 | BIORISK MANAGEMENT | 13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW | 国内版 | 生物风险管理：一张全景图（国内版） | 85 | 7:05 | 20 / 4 | [剧本](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 14_INTRODUCTION TO RISK MITIGATION | 原著版 | 两道屏障，五类控制 | 28 | 2:20 | 7 / 0 | [剧本](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION/script.md>) |
 | BIORISK MANAGEMENT | 14_INTRODUCTION TO RISK MITIGATION | 国内版 | 两道屏障，五类控制（国内版） | 40 | 3:20 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 15_Biorisk Management PPEs | 国内版 | 进门之前，穿戴到位（国内版） | 49 | 4:05 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 国内版 | 看不见的墙：气流防护（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/审查报告.md>) |
@@ -323,6 +325,7 @@
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 原著版 | 激光切割机：规程更新须知 | 24 | 2:00 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 国内版 | 生物安全第一课：防护与风险评估（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 国内版 | 一级到四级：实验室生物安全防护等级（国内版） | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 国内版 | 三个柜子不一样：通风柜、超净台、生物安全柜（国内版） | 61 | 5:05 | 14 / 4 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/script.md>) · [审查](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/审查报告.md>) |

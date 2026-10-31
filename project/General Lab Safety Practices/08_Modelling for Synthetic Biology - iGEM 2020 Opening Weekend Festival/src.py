@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电脑和空白白板前，白板上画着一条上升的曲线图标",
  "The panda mascot stands in front of a blank whiteboard showing a simple rising curve pictogram, next to a laptop with a blank screen, and waves at the camera.",
- "这一课讲合成生物学的建模。", "合成生物学建模与生物安全"),
+ "这一课讲合成生物学的建模。", "合成生物学建模"),
 ("开场", "电脑、DNA双螺旋和荧光孔板三个图标排成一行",
  "Three icons in a row: a laptop with a curve on its screen, a DNA double helix, and a glowing green microplate. No people.",
  "从设计循环，到方程和校准测量。", "", ["数学建模", "基因电路", "校准测量"]),
