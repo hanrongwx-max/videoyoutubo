@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 249 / 441 个视频。
+已编写 252 / 441 个视频。
 
 ## 各剧集进度
 
@@ -9,7 +9,7 @@
 | BIORISK MANAGEMENT | 42 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
-| Microbiology Biosafety | 16 / 59 |
+| Microbiology Biosafety | 19 / 59 |
 | Lab Safety Training Series | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
@@ -270,6 +270,9 @@
 | Microbiology Biosafety | 24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf | 看不见的危险：微生物实验室安全用电 | 60 | 5:00 | 7 / 6 | [剧本](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/script.md>) · [审查](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/审查报告.md>) |
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 读懂安全技术说明书（下）：第8到15部分 | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 微生物实验室的生物安全措施 | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/审查报告.md>) |
+| Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 实验室危害，伤的是谁 | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/审查报告.md>) |
+| Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 微生物实验室的消防安全 | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/审查报告.md>) |
+| Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 一份管用的生物风险管理计划 | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
