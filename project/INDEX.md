@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 19 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 20 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -248,6 +248,7 @@
 | Basic Electrical Engineering Lab | 18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way | 国内版 | 双控与三控照明：口试问答与家庭用电（国内版） | 59 | 4:55 | 12 / 5 | [剧本](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/18_Basic Electrical Engineering Laboratory Viva Questions on Two-Way and Three-Way（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B | 原著版 | 星形与三角形：三相电路口试问答 | 51 | 4:15 | 16 / 0 | [剧本](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B/script.md>) |
 | Basic Electrical Engineering Lab | 19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B | 国内版 | 星形与三角形：三相电路口试问答（国内版） | 67 | 5:35 | 16 / 5 | [剧本](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/19_Viva Questions on Star and Delta Connection Three Phase system BEE Lab VTU All B（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical | 原著版 | 最大功率传输：口试问答与电池光伏安全 | 28 | 2:20 | 8 / 0 | [剧本](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical/script.md>) |
 | Basic Electrical Engineering Lab | 20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical | 国内版 | 最大功率传输：口试问答与电池光伏安全（国内版） | 43 | 3:35 | 8 / 5 | [剧本](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter | 国内版 | 二瓦特表法：三相功率口试问答（国内版） | 44 | 3:40 | 9 / 4 | [剧本](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic | 国内版 | 在线仿真验证基尔霍夫定律（国内版） | 64 | 5:20 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/22_Verification of KVL and KCL Using Virtual Lab IIT Kharagpur Demonstration Basic（国内版）/审查报告.md>) |
