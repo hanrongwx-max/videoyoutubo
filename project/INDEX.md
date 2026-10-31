@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 27 / 59 |
+| Microbiology Biosafety | 59 / 59 | 28 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -676,6 +676,7 @@
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 国内版 | 读懂安全技术说明书（下）：第8到15部分（国内版） | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 原著版 | 微生物实验室的生物安全措施 | 30 | 2:30 | 6 / 0 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 国内版 | 微生物实验室的生物安全措施（国内版） | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 原著版 | 微生物实验室的应急准备 | 30 | 2:30 | 7 / 0 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi/script.md>) |
 | Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 国内版 | 微生物实验室的应急准备（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 28_Why are microbes transported bacteriology microbiology raqbamicrohub | 国内版 | 微生物为什么要运输，又该怎样运（国内版） | 64 | 5:20 | 19 / 3 | [剧本](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub（国内版）/script.md>) · [审查](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 原著版 | 实验室危害，伤的是谁 | 50 | 4:10 | 15 / 0 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/script.md>) |
