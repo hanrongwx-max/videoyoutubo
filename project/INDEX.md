@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 11 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 12 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 3 / 13 |
@@ -122,6 +122,7 @@
 | BIORISK MANAGEMENT | 15_Biorisk Management PPEs | 国内版 | 进门之前，穿戴到位（国内版） | 49 | 4:05 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 原著版 | 看不见的墙：气流防护 | 44 | 3:40 | 13 / 0 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment/script.md>) |
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 国内版 | 看不见的墙：气流防护（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 原著版 | 跟着路线走进三级实验室 | 53 | 4:25 | 19 / 0 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY/script.md>) |
 | BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 国内版 | 跟着路线走进三级实验室（国内版） | 71 | 5:55 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19 | 国内版 | 送风头罩怎么用（国内版） | 60 | 5:00 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 19_BIORISK MANAGEMENT | 国内版 | 四个风险组与三步管理（国内版） | 52 | 4:20 | 14 / 3 | [剧本](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
