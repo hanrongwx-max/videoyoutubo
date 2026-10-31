@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 270 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 271 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
-| Microbiology Biosafety | 34 / 59 | 0 / 25 |
+| Microbiology Biosafety | 35 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -299,6 +299,7 @@
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 单一版 | 认识危险物品：七大类和它们藏在哪 | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/审查报告.md>) |
+| Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 国内版 | 光的波动：反射、折射、干涉与偏振（国内版） | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/审查报告.md>) |
