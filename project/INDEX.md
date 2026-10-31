@@ -22,7 +22,7 @@
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
-| Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
+| Health Physics & Nuclear Medicine | 9 / 9 | 5 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
@@ -400,6 +400,7 @@
 | Health Physics & Nuclear Medicine | 03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati | 国内版 | 辐射怎样伤人，屏蔽怎样护人（国内版） | 134 | 11:10 | 22 / 6 | [剧本](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture | 原著版 | 辐射防护总复习：从剂量到屏蔽 | 129 | 10:45 | 28 / 0 | [剧本](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture/script.md>) |
 | Health Physics & Nuclear Medicine | 04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture | 国内版 | 辐射防护总复习：从剂量到屏蔽（国内版） | 147 | 12:15 | 28 / 6 | [剧本](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/04_Radiation Protection & Health Physics Complete Overview MSc Physics Lecture（国内版）/审查报告.md>) |
+| Health Physics & Nuclear Medicine | 05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual | 原著版 | 现场剂量测量：测环境，也测自己 | 94 | 7:50 | 17 / 0 | [剧本](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual/script.md>) |
 | Health Physics & Nuclear Medicine | 05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual | 国内版 | 现场剂量测量：测环境，也测自己（国内版） | 117 | 9:45 | 17 / 6 | [剧本](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/05_Health Physics Lecture 4 Field Dosimetry Measuring Radiation Levels & Individual（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on | 国内版 | 辐射防护习题课：八道题里的安全道理（国内版） | 134 | 11:10 | 24 / 7 | [剧本](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/06_Health Physics Lecture 5 Radiation Protection Solved Problems & Case Studies on（国内版）/审查报告.md>) |
 | Health Physics & Nuclear Medicine | 07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea | 国内版 | 辐射为什么伤人，又怎样治病（国内版） | 113 | 9:25 | 15 / 6 | [剧本](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/script.md>) · [审查](<Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/审查报告.md>) |
