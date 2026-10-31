@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 8 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 9 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -746,6 +746,7 @@
 | MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 国内版 | 旋转蒸发仪的正确使用（国内版） | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 07_Filtration | 原著版 | 三种过滤方法 | 66 | 5:30 | 35 / 0 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration/script.md>) |
 | MIT Digital Lab Techniques Manual | 07_Filtration | 国内版 | 三种过滤方法（国内版） | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 08_Sublimation | 原著版 | 升华纯化 | 40 | 3:20 | 23 / 0 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation/script.md>) |
 | MIT Digital Lab Techniques Manual | 08_Sublimation | 国内版 | 升华纯化（国内版） | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 09_Recrystallization | 国内版 | 重结晶提纯固体（国内版） | 140 | 11:40 | 33 / 7 | [剧本](<MIT Digital Lab Techniques Manual/09_Recrystallization（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/09_Recrystallization（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 10_Column Chromatography | 国内版 | 柱色谱分离（国内版） | 132 | 11:00 | 35 / 5 | [剧本](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/审查报告.md>) |
