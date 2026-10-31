@@ -1,0 +1,1300 @@
+{
+ "id": "12_Melting Point",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "熔点测定",
+ "seconds": 475,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/12_Melting Point.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/12_Melting Point/src.py",
+ "points": {
+  "K1": "熔点：看纯度、认身份",
+  "K2": "熔化的本质",
+  "K3": "熔点其实是熔程",
+  "K4": "认识熔点仪",
+  "K5": "电压只管升温快慢",
+  "K6": "熔点仪当它是热的",
+  "K7": "准备用品，样品要干",
+  "K8": "滤纸吸干，不进烘箱",
+  "K9": "大晶体先研细",
+  "K10": "毛细管倒插取样",
+  "K11": "敲实或让它落下",
+  "K12": "样品高约一毫米",
+  "K13": "一份样品装四支",
+  "K14": "先测粗熔点",
+  "K15": "正式测定：先快后慢",
+  "K16": "临近熔点放慢升温",
+  "K17": "记下初熔和全熔",
+  "K18": "取出丢弃，冷却再测",
+  "K19": "不重复熔化",
+  "K20": "初熔看第一滴液体",
+  "K21": "熔点低、熔程宽，多半不纯",
+  "K22": "查表鉴定",
+  "K23": "混合熔点验证",
+  "K24": "升温太快最常见",
+  "K25": "样品消失是升华",
+  "K26": "变色要注明分解",
+  "K27": "用标准物质校准",
+  "K28": "少、紧、慢",
+  "S1": "未知样品按有毒对待",
+  "S2": "研磨的禁忌",
+  "S3": "毛细管插拔防折断",
+  "S4": "封口管与分解气体"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台带目镜的熔点仪旁",
+   "prompt_en": "The panda mascot stands beside a benchtop melting point apparatus with an eyepiece, a heating block and a blank digital thermometer, and waves at the camera.",
+   "narration": "这一课学熔点测定。",
+   "overlay": [
+    "熔点测定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "放大镜下毛细管里的白色晶体",
+   "prompt_en": "A magnifying glass over a thin glass capillary filled at the bottom with white crystals. No people.",
+   "narration": "一根细管、几粒晶体，就能看出纯不纯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰举着一瓶刚重结晶的白色晶体",
+   "prompt_en": "The young male student holds up a vial of freshly recrystallized white crystals and looks proud.",
+   "narration": "阿杰做完重结晶，想知道晶体纯不纯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把电压旋钮一下拧到最大",
+   "prompt_en": "The young male student turns the knob of the melting point apparatus all the way up at once.",
+   "narration": "他把加热旋钮一拧到底，想快点出结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指着温度计",
+   "prompt_en": "The female graduate student stops him and points at the thermometer display.",
+   "narration": "小研说：太快就不准了，还容易烫手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "熔点：看纯度、认身份",
+   "scene": "欣欣一手拿晶体瓶，一手拿问号卡",
+   "prompt_en": "The panda mascot holds a vial of crystals in one paw and a blank card with a question mark in the other.",
+   "narration": "晶体纯不纯？是不是那个化合物？",
+   "overlay": [
+    "熔点：看纯度、认身份"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "熔点：看纯度、认身份",
+   "scene": "温度计图标连着勾号和放大镜",
+   "prompt_en": "A thermometer icon linked to a check mark icon and a magnifying glass icon. No people.",
+   "narration": "测一测熔点，两个问题都能回答。",
+   "overlay": [],
+   "labels": [
+    "纯度",
+    "鉴定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化的本质",
+   "scene": "蓝色小球排成整齐晶格，小幅振动",
+   "prompt_en": "Animated blue spheres arranged in a neat cubic lattice, each vibrating slightly in place. No people.",
+   "narration": "晶体里，分子间的引力把分子拉住。",
+   "overlay": [
+    "熔化的本质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化的本质",
+   "scene": "小火苗图标，小球振动越来越大",
+   "prompt_en": "A small heat icon appears and the spheres vibrate more and more strongly. No people.",
+   "narration": "加热后，分子动能变大，温度升高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化的本质",
+   "scene": "晶格散开，小球自由流动",
+   "prompt_en": "The lattice breaks apart and the spheres flow freely like a liquid. No people.",
+   "narration": "动能胜过引力，晶格瓦解，变成液体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化的本质",
+   "scene": "固体与液体在天平两端平衡",
+   "prompt_en": "A balance icon with a solid cube on one side and a droplet on the other, perfectly level. No people.",
+   "narration": "一定压力下固液平衡的温度，叫熔点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "熔点其实是熔程",
+   "scene": "温度条上一段被高亮",
+   "prompt_en": "A horizontal temperature bar with a short highlighted band. No people.",
+   "narration": "其实固体是在一段温度内熔化的。",
+   "overlay": [
+    "熔点其实是熔程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "熔点其实是熔程",
+   "scene": "同一个化合物三次测定，高亮段重合",
+   "prompt_en": "Three temperature bars stacked, each with the same highlighted band lining up. No people.",
+   "narration": "纯物质的这段范围可以重复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "熔点其实是熔程",
+   "scene": "欣欣指着高亮段",
+   "prompt_en": "The panda mascot points at the highlighted band on a big temperature bar.",
+   "narration": "所以说熔点，其实说的是熔程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "认识熔点仪",
+   "scene": "熔点仪部件示意：开关、样品座、灯、目镜",
+   "prompt_en": "Diagram of the melting point apparatus with arrows to a power switch, a sample holder, a lamp and an eyepiece. No people.",
+   "narration": "熔点仪有开关、样品座、照明灯和目镜。",
+   "overlay": [
+    "认识熔点仪"
+   ],
+   "labels": [
+    "开关",
+    "样品座",
+    "照明",
+    "目镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "认识熔点仪",
+   "scene": "数字温度计和电压旋钮",
+   "prompt_en": "Close view of a blank digital thermometer and a numbered voltage knob on the apparatus. No people.",
+   "narration": "还有数字温度计和电压旋钮。",
+   "overlay": [],
+   "labels": [
+    "温度计",
+    "电压旋钮"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压只管升温快慢",
+   "scene": "旋钮转高，升温箭头变陡",
+   "prompt_en": "The voltage knob turns higher and a temperature rise arrow becomes steeper. No people.",
+   "narration": "电压越高，升温越快。",
+   "overlay": [
+    "电压只管升温快慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压只管升温快慢",
+   "scene": "旋钮停住，温度仍在上升",
+   "prompt_en": "The knob stays still while the thermometer keeps climbing, with a warning icon. No people.",
+   "narration": "它管快慢，不管温度停在哪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "熔点仪当它是热的",
+   "scene": "加热块上的高温警示标识",
+   "prompt_en": "Close view of the heating block with a hot surface warning sign. No people.",
+   "narration": "熔点仪随时当作是热的。",
+   "overlay": [
+    "熔点仪当它是热的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "熔点仪当它是热的",
+   "scene": "手去摸加热块的图标被打叉",
+   "prompt_en": "An icon of a hand touching the heating block, crossed out with a red X. No people.",
+   "narration": "尤其是标着当心烫的地方，别用手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "准备用品，样品要干",
+   "scene": "台面上的刮勺、表面皿、研钵、毛细管、长颈漏斗",
+   "prompt_en": "On a bench: a spatula, a watch glass, a mortar and pestle, thin capillary tubes sealed at one end, and a long-stem funnel. No people.",
+   "narration": "备好刮勺、表面皿、研钵、毛细管。",
+   "overlay": [
+    "准备用品，样品要干"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "准备用品，样品要干",
+   "scene": "长颈漏斗高亮",
+   "prompt_en": "The long-stem funnel glows. No people.",
+   "narration": "再来一根长玻璃管，比如长颈漏斗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "准备用品，样品要干",
+   "scene": "干净干燥的晶体，勾号",
+   "prompt_en": "Clean dry white crystals on a watch glass with a check mark. No people.",
+   "narration": "样品一定要干净、干燥。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸吸干，不进烘箱",
+   "scene": "滤纸按压吸干湿晶体",
+   "prompt_en": "A gloved hand presses a filter paper on damp crystals to blot them dry.",
+   "narration": "湿的话，用滤纸吸一吸。",
+   "overlay": [
+    "滤纸吸干，不进烘箱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸吸干，不进烘箱",
+   "scene": "样品放进烘箱的图标被打叉",
+   "prompt_en": "An icon of a sample dish going into an oven, crossed out with a red X. No people.",
+   "narration": "别放烘箱，可能熔掉或分解。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "大晶体先研细",
+   "scene": "研钵里研磨大颗晶体",
+   "prompt_en": "A gloved hand grinds large crystals with a pestle in a mortar.",
+   "narration": "大颗晶体，先用研钵研细。",
+   "overlay": [
+    "大晶体先研细"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "大晶体先研细",
+   "scene": "大颗粒之间有空隙，热量传得慢",
+   "prompt_en": "Diagram of big crystals in a tube with air gaps and slow heat arrows, next to fine packed powder with even heat arrows. No people.",
+   "narration": "大颗粒堆不紧有空隙，受热不均。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "大晶体先研细",
+   "scene": "刮勺平头碾碎晶体",
+   "prompt_en": "The flat end of a spatula crushes crystals on a watch glass. No people.",
+   "narration": "没有研钵，就用刮勺平头碾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "毛细管倒插取样",
+   "scene": "研细的粉末放在表面皿上",
+   "prompt_en": "Fine powder heaped on a watch glass. No people.",
+   "narration": "研细的晶体放到表面皿上。",
+   "overlay": [
+    "毛细管倒插取样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "毛细管倒插取样",
+   "scene": "毛细管开口朝下戳进粉末",
+   "prompt_en": "A gloved hand holds a capillary open end down and gently pokes it into the powder.",
+   "narration": "毛细管开口朝下，轻戳几下，带进一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "敲实或让它落下",
+   "scene": "毛细管正过来在台面轻敲",
+   "prompt_en": "The capillary is turned upright and tapped gently on the bench.",
+   "narration": "正过来，轻敲让晶体落到底。",
+   "overlay": [
+    "敲实或让它落下"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "敲实或让它落下",
+   "scene": "毛细管从长颈漏斗颈里落下",
+   "prompt_en": "The capillary is dropped down through the stem of an upside-down long-stem funnel onto the bench.",
+   "narration": "落不下，就让它从长玻璃管里掉下去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "敲实或让它落下",
+   "scene": "重复几次，粉末压得紧实",
+   "prompt_en": "Close view of the capillary bottom with powder packed tight and no gaps. No people.",
+   "narration": "重复几次，压紧，不留空隙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "样品高约一毫米",
+   "scene": "毛细管底部样品高约一毫米，尺子标出",
+   "prompt_en": "Close view of a capillary with about one millimeter of packed powder, a tiny ruler beside it. No people.",
+   "narration": "样品越少越好，压实约一毫米。",
+   "overlay": [
+    "样品高约一毫米"
+   ],
+   "labels": [
+    "约1毫米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "样品高约一毫米",
+   "scene": "装得太多的毛细管被打叉",
+   "prompt_en": "A capillary filled with a tall column of powder, crossed out with a red X. No people.",
+   "narration": "超过两毫米，受热不均就不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一份样品装四支",
+   "scene": "四支装好样品的毛细管并排",
+   "prompt_en": "Four filled capillaries side by side; the first is set apart from the other three. No people.",
+   "narration": "一份样品装四支。",
+   "overlay": [
+    "一份样品装四支"
+   ],
+   "labels": [
+    "粗测",
+    "精测×3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一份样品装四支",
+   "scene": "三支毛细管放在一起",
+   "prompt_en": "The three capillaries on the right are grouped with a bracket. No people.",
+   "narration": "一支测粗熔点，三支平行测定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "先测粗熔点",
+   "scene": "问号和温度计图标",
+   "prompt_en": "A thermometer icon with a question mark over it. No people.",
+   "narration": "不知道大概熔点？先测个粗熔点。",
+   "overlay": [
+    "先测粗熔点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "先测粗熔点",
+   "scene": "旋钮回零，等仪器凉下来",
+   "prompt_en": "The voltage knob is turned to zero and a clock icon waits while the block cools. No people.",
+   "narration": "电压调零，等仪器冷到室温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "先测粗熔点",
+   "scene": "插入毛细管，快速升温，记下大概温度",
+   "prompt_en": "A capillary is inserted into the holder; a fast rising arrow and a blank note card appear.",
+   "narration": "插样，每分钟升十到二十度，记个大概。",
+   "overlay": [],
+   "labels": [
+    "10–20℃/分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "正式测定：先快后慢",
+   "scene": "小研把电压调零，打开电源和温度计",
+   "prompt_en": "The female graduate student turns the knob to zero, then switches on the apparatus and the thermometer.",
+   "narration": "正式测：电压调零，开电源和温度计。",
+   "overlay": [
+    "正式测定：先快后慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "正式测定：先快后慢",
+   "scene": "毛细管轻轻插进样品座",
+   "prompt_en": "A capillary is slid gently into the sample holder.",
+   "narration": "装好的毛细管插进样品座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "正式测定：先快后慢",
+   "scene": "温度离预期还远时升温箭头较陡",
+   "prompt_en": "A temperature bar far below a target line, with a steep rising arrow. No people.",
+   "narration": "离预期熔点还差二十度以上，可以快升。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "临近熔点放慢升温",
+   "scene": "温度接近目标线，旋钮调低",
+   "prompt_en": "As the reading nears the target line, the knob is turned down. No people.",
+   "narration": "进入熔点前二十度，调低电压。",
+   "overlay": [
+    "临近熔点放慢升温"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "临近熔点放慢升温",
+   "scene": "升温箭头变得平缓",
+   "prompt_en": "The rising arrow becomes gentle and slow. No people.",
+   "narration": "每分钟只升一到二度。",
+   "overlay": [],
+   "labels": [
+    "1–2℃/分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "记下初熔和全熔",
+   "scene": "小研从目镜观察",
+   "prompt_en": "The female graduate student looks through the eyepiece of the melting point apparatus.",
+   "narration": "从目镜里盯着样品。",
+   "overlay": [
+    "记下初熔和全熔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "记下初熔和全熔",
+   "scene": "晶体中出现第一滴液体",
+   "prompt_en": "Magnified view of crystals in the capillary with the first tiny liquid droplet appearing. No people.",
+   "narration": "出现第一滴液体，记下温度。",
+   "overlay": [],
+   "labels": [
+    "初熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "记下初熔和全熔",
+   "scene": "最后一粒晶体消失，全是液体",
+   "prompt_en": "Magnified view as the last crystal disappears and the capillary holds only clear liquid. No people.",
+   "narration": "最后一粒晶体消失，再记一次。",
+   "overlay": [],
+   "labels": [
+    "全熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "取出丢弃，冷却再测",
+   "scene": "电压调低，取出毛细管放进废物盒",
+   "prompt_en": "The knob is turned down and the used capillary is dropped into a broken glass box.",
+   "narration": "调低电压，取出用过的管子丢掉。",
+   "overlay": [
+    "取出丢弃，冷却再测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "取出丢弃，冷却再测",
+   "scene": "温度计读数下降",
+   "prompt_en": "The thermometer reading drops back below a line twenty degrees under the target. No people.",
+   "narration": "等仪器降到熔点以下二十度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "取出丢弃，冷却再测",
+   "scene": "另两支毛细管依次测定",
+   "prompt_en": "The remaining two capillaries are measured one after the other, three readings lining up. No people.",
+   "narration": "再测另外两支，看能不能重现。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "不重复熔化",
+   "scene": "熔过又凝固的样品再次加热的图标被打叉",
+   "prompt_en": "An icon of a melted and re-solidified capillary going back into the heater, crossed out with a red X. No people.",
+   "narration": "熔过的样品，不要再熔一次。",
+   "overlay": [
+    "不重复熔化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "不重复熔化",
+   "scene": "分子图标变形、断开",
+   "prompt_en": "Molecule icons twisting, breaking and rearranging with small heat lines. No people.",
+   "narration": "加热时它可能氧化、分解或重排了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "初熔看第一滴液体",
+   "scene": "晶体下沉、收缩的放大画面，问号",
+   "prompt_en": "Magnified view of crystals settling and shrinking in the capillary, with a question mark. No people.",
+   "narration": "样品下沉、变软、收缩，还不算熔。",
+   "overlay": [
+    "初熔看第一滴液体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "初熔看第一滴液体",
+   "scene": "第一滴液体出现，勾号",
+   "prompt_en": "Magnified view of the first liquid droplet with a green check mark. No people.",
+   "narration": "看到第一滴液体，才是开始熔化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "熔点低、熔程宽，多半不纯",
+   "scene": "晶格中混进一个不同颜色的小球",
+   "prompt_en": "A neat lattice of blue spheres with one orange sphere wedged in, weakening the links around it. No people.",
+   "narration": "杂质会扰乱晶格，削弱分子间引力。",
+   "overlay": [
+    "熔点低、熔程宽，多半不纯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "熔点低、熔程宽，多半不纯",
+   "scene": "温度条上高亮段左移且变宽",
+   "prompt_en": "Two temperature bars: the pure sample's narrow band, and the impure sample's band shifted lower and wider. No people.",
+   "narration": "熔点变低，熔程变宽。",
+   "overlay": [],
+   "labels": [
+    "纯",
+    "不纯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "熔点低、熔程宽，多半不纯",
+   "scene": "熔程宽度标尺超过几度的警示",
+   "prompt_en": "A width marker on a wide band with a warning icon. No people.",
+   "narration": "熔程超过两三度，多半不纯。",
+   "overlay": [],
+   "labels": [
+    "＞2–3℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "查表鉴定",
+   "scene": "小研翻阅空白参考书",
+   "prompt_en": "The female graduate student runs her finger down a table in a thick blank reference book.",
+   "narration": "鉴定未知物，和手册里的熔点比一比。",
+   "overlay": [
+    "查表鉴定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "查表鉴定",
+   "scene": "温度条只标出上端",
+   "prompt_en": "A temperature band with only its upper end marked by a flag. No people.",
+   "narration": "手册通常只列熔程的上限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "查表鉴定",
+   "scene": "四张空白光谱图",
+   "prompt_en": "Four blank spectrum charts with simple peak lines and no text. No people.",
+   "narration": "再结合光谱数据，才可能确定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "混合熔点验证",
+   "scene": "三只表面皿装不同比例的混合样品",
+   "prompt_en": "Three watch glasses each holding a small mixed powder sample. No people.",
+   "narration": "把未知物和推测的化合物混在一起。",
+   "overlay": [
+    "混合熔点验证"
+   ],
+   "labels": [
+    "20:80",
+    "50:50",
+    "80:20"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "混合熔点验证",
+   "scene": "三份混合物熔程完全一致，勾号",
+   "prompt_en": "Three temperature bars with identical bands and a green check mark. No people.",
+   "narration": "三份熔点、熔程都一样，可能就是它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "混合熔点验证",
+   "scene": "三份熔程不一致，打叉",
+   "prompt_en": "Three temperature bars with bands that shift and widen, and a red X. No people.",
+   "narration": "不一样，肯定不是它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "升温太快最常见",
+   "scene": "升温箭头过陡，警示图标",
+   "prompt_en": "A very steep temperature rise arrow with a warning icon. No people.",
+   "narration": "最常见的错误：升温太快。",
+   "overlay": [
+    "升温太快最常见"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "升温太快最常见",
+   "scene": "加热块已经很热，毛细管里还是冷的",
+   "prompt_en": "Diagram of a hot red heating block around a capillary that is still blue inside, with a lag clock icon. No people.",
+   "narration": "管子来不及跟上加热块的温度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "升温太快最常见",
+   "scene": "高亮段变窄、整体偏高",
+   "prompt_en": "A measured band that looks narrower and sits higher than the true band. No people.",
+   "narration": "测出来熔程偏窄，熔点偏高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "样品消失是升华",
+   "scene": "毛细管里的样品慢慢变少消失",
+   "prompt_en": "Magnified view of powder in the capillary slowly vanishing into vapor lines. No people.",
+   "narration": "加热时样品不见了？那是在升华。",
+   "overlay": [
+    "样品消失是升华"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "样品消失是升华",
+   "scene": "毛细管开口端在火焰中封口",
+   "prompt_en": "A gloved hand holds the open end of a filled capillary in a small blue burner flame to seal it, inside a fume hood.",
+   "narration": "可先把开口端用灯焰封住，再测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "变色要注明分解",
+   "scene": "毛细管中白色样品变成褐色",
+   "prompt_en": "Magnified view of white powder turning brown in the capillary. No people.",
+   "narration": "加热时变色，多半在分解。",
+   "overlay": [
+    "变色要注明分解"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "变色要注明分解",
+   "scene": "记录本上写熔点后加一个标记",
+   "prompt_en": "A blank notebook with a temperature line and an extra mark beside it. No people.",
+   "narration": "报告熔点时，要注明有分解。",
+   "overlay": [],
+   "labels": [
+    "注明分解"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "用标准物质校准",
+   "scene": "四瓶熔点已知的标准物质",
+   "prompt_en": "Four small bottles of pure reference compounds with blank labels. No people.",
+   "narration": "熔点总不对？用标准物质校准仪器。",
+   "overlay": [
+    "用标准物质校准"
+   ],
+   "labels": [
+    "萘",
+    "N-苯基乙酰胺",
+    "水杨酸",
+    "丁二酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "用标准物质校准",
+   "scene": "分别测定，读数与已知值对比",
+   "prompt_en": "Four measured values next to four known values, with small difference arrows. No people.",
+   "narration": "选几种熔点相差较大的，逐个测定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "用标准物质校准",
+   "scene": "实际值对观测值的校准直线",
+   "prompt_en": "A simple graph with points along a straight calibration line, axes without text. No people.",
+   "narration": "以实际值对测得值作校准曲线。",
+   "overlay": [],
+   "labels": [
+    "实际值",
+    "测得值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "用标准物质校准",
+   "scene": "从曲线上查出样品真实熔点",
+   "prompt_en": "A dashed line from the observed value on the graph up to the line and across to the true value. No people.",
+   "narration": "用曲线换算样品的真实熔点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "少、紧、慢",
+   "scene": "少、紧、慢三个图标",
+   "prompt_en": "Three icons: a tiny pinch of powder, a packed capillary, and a slow turtle. No people.",
+   "narration": "样品要少，装得要紧，升温要慢。",
+   "overlay": [
+    "少、紧、慢"
+   ],
+   "labels": [
+    "少",
+    "紧",
+    "慢"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "少、紧、慢",
+   "scene": "欣欣举起毛细管竖大拇指",
+   "prompt_en": "The panda mascot holds up a capillary and gives a thumbs up.",
+   "narration": "熔点，是判断纯度和身份的好帮手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "未知样品按有毒对待",
+   "scene": "未知样品瓶上只有问号",
+   "prompt_en": "A vial with a blank label showing only a question mark. No people.",
+   "narration": "未知样品，一律当作有毒的对待。",
+   "overlay": [
+    "未知样品按有毒对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "未知样品按有毒对待",
+   "scene": "凑近闻、用手捏的图标被打叉",
+   "prompt_en": "Icons of sniffing a vial and pinching powder with bare fingers, both crossed out with red X marks. No people.",
+   "narration": "不闻、不尝、不用手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "未知样品按有毒对待",
+   "scene": "小研戴护目镜手套，用刮勺取一点点",
+   "prompt_en": "The female graduate student, in goggles and gloves, takes a tiny amount with a spatula.",
+   "narration": "戴好手套护目镜，只取需要的一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "研磨的禁忌",
+   "scene": "阿杰戴护目镜轻轻研磨，量很少",
+   "prompt_en": "The young male student wears safety goggles and gently grinds a small amount in a mortar.",
+   "narration": "研磨时戴护目镜，量少、动作轻。",
+   "overlay": [
+    "研磨的禁忌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "研磨的禁忌",
+   "scene": "两种不同的粉末倒进同一研钵的图标被打叉",
+   "prompt_en": "An icon of two different powders, one marked with an oxidizer pictogram, poured into the same mortar, crossed out with a red X. No people.",
+   "narration": "氧化剂不能和可燃物、还原剂一起研。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "研磨的禁忌",
+   "scene": "研钵用后清洗干净",
+   "prompt_en": "A mortar and pestle being rinsed and wiped clean at a sink.",
+   "narration": "研钵用完洗净，别混进下一个样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "毛细管插拔防折断",
+   "scene": "手指捏住毛细管靠近底部，轻轻插入",
+   "prompt_en": "Gloved fingers hold the capillary close to its lower end and slide it gently into the holder.",
+   "narration": "插毛细管，手捏靠下的位置，轻轻送。",
+   "overlay": [
+    "毛细管插拔防折断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "毛细管插拔防折断",
+   "scene": "用力硬按、毛细管折断扎手的图标被打叉",
+   "prompt_en": "An icon of a capillary snapping under force and pricking a finger, crossed out with a red X. No people.",
+   "narration": "插不进别硬按，折断了会扎手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "毛细管插拔防折断",
+   "scene": "断管放进碎玻璃盒",
+   "prompt_en": "A broken capillary is placed into a rigid broken glass box with tweezers. No people.",
+   "narration": "断管用镊子夹进碎玻璃盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "封口管与分解气体",
+   "scene": "封口毛细管加热时出现裂纹的示意",
+   "prompt_en": "Diagram of a sealed capillary in the heating block with pressure arrows inside and small crack lines. No people.",
+   "narration": "封口管加热，内部压力会升高。",
+   "overlay": [
+    "封口管与分解气体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "封口管与分解气体",
+   "scene": "小研测封口管时戴护目镜，脸离加热块远一点",
+   "prompt_en": "The female graduate student wears goggles and keeps her face back from the heating block, looking only through the eyepiece.",
+   "narration": "戴护目镜，只从目镜看，别凑近加热块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "封口管与分解气体",
+   "scene": "熔点仪放在通风处，分解的烟被排走",
+   "prompt_en": "The melting point apparatus sits near an exhaust vent; faint fumes from a decomposing sample drift into the vent. No people.",
+   "narration": "样品会分解冒烟的，在通风处测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现研钵和毛细管图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a mortar and a packed capillary.",
+   "narration": "研细、装紧、只装一毫米。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "粗测和精测的升温箭头",
+   "prompt_en": "Icons of a steep arrow and a gentle arrow side by side. No people.",
+   "narration": "先粗测，再在熔点前慢慢升温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "第一滴液体和最后一粒晶体图标",
+   "prompt_en": "Icons of a first droplet and a last vanishing crystal. No people.",
+   "narration": "记初熔、全熔，测三次，不重熔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "宽熔程、混合样品、校准曲线图标",
+   "prompt_en": "Icons of a wide band, three mixed samples and a calibration line. No people.",
+   "narration": "熔程宽多半不纯，混合熔点来验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、碎玻璃盒、问号瓶图标",
+   "prompt_en": "Icons of safety goggles, a broken glass box and a vial with a question mark. No people.",
+   "narration": "未知当有毒，研磨有禁忌，碎管不扎手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着毛细管挥手道别",
+   "prompt_en": "The panda mascot holds a capillary and waves goodbye at the camera.",
+   "narration": "测得准，用得稳，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
