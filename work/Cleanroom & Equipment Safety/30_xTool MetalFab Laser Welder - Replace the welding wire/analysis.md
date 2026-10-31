@@ -16,7 +16,7 @@
 | 9 | 00:00:36–00:00:39 | shot_009.jpg | Remove the screws above the wire feeding driver.<br>中文：拆下送丝驱动器上方的螺丝。 |
 | 10 | 00:00:39–00:00:42 | shot_010.jpg | Take out the drive rolls stored above the wire feeding driver.<br>中文：取出存放在送丝驱动器上方的送丝轮。 |
 | 11 | 00:00:42–00:00:44 | shot_011.jpg |  |
-| 12 | 00:00:44–00:00:47 | shot_012.jpg | Ensure that the size on the outer side of the drive rolls matches the welding wire's diameter.<br>中文：确保送丝轮外侧标注的尺寸与焊丝直径相符。 |
+| 12 | 00:00:44–00:00:47 | shot_012.jpg | Ensure that the size on the outer side of the drive rolls matches the welding wire's diameter.<br>中文：确保送丝轮外侧标注的尺寸 与焊丝直径相符。 |
 | 13 | 00:00:47–00:00:54 | shot_013.jpg | Install the new pair of drive rolls. Install the screws back.<br>中文：装上新的一对送丝轮。把螺丝装回去。 |
 | 14 | 00:00:54–00:00:57 | shot_014.jpg | Store the other pair of drive rolls above the wire feeding driver.<br>中文：把另一对送丝轮存放在送丝驱动器上方。 |
 | 15 | 00:00:57–00:00:59 | shot_015.jpg |  |

@@ -15,7 +15,7 @@
 | 8 | 00:00:25–00:00:28 | shot_008.jpg | Never use a flame to check for leaks.<br>中文：绝不要用明火检漏。 |
 | 9 | 00:00:28–00:00:31 | shot_009.jpg |  |
 | 10 | 00:00:31–00:00:37 | shot_010.jpg | Refer to your laboratory SOP to make sure your method and procedure is compatible with the gas being tested.<br>中文：请参阅你们实验室的 SOP，确保你的方法和程序与所测试的气体相容。 |
-| 11 | 00:00:37–00:00:46 | shot_011.jpg | A bubble test is performed with SNOOP or a compatible commercial leak test solution or mild soap solution in a wash bottle.<br>中文：气泡测试使用 SNOOP 或相容的商用检漏液，或者装在洗瓶中的温和肥皂水进行。 |
+| 11 | 00:00:37–00:00:46 | shot_011.jpg | A bubble test is performed with SNOOP or a compatible commercial leak test solution or mild soap solution in a wash bottle.<br>中文：气泡测试使用 SNOOP 或 相容的商用检漏液，或者装在洗瓶中的温和肥皂水进行。 |
 | 12 | 00:00:46–00:00:49 | shot_012.jpg |  |
 | 13 | 00:00:49–00:00:54 | shot_013.jpg | Apply the solution to the inlet valve and outlet flow valve connections.<br>中文：把溶液涂在进气阀和出口流量阀的接头上。 |
 | 14 | 00:00:54–00:00:57 | shot_014.jpg | Any active bubbles indicate a leak in your system.<br>中文：任何持续冒出的气泡都说明系统存在泄漏。 |

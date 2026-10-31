@@ -40,7 +40,7 @@
 | 33 | 00:02:43–00:02:45 | shot_033.jpg | Put the connector end into the port for the workpiece sensing cable.<br>中文：把接头一端插入工件感应线的接口。 |
 | 34 | 00:02:45–00:02:48 | shot_034.jpg |  |
 | 35 | 00:02:48–00:02:50 | shot_035.jpg | Connect to a power supply.<br>中文：连接电源。 |
-| 36 | 00:02:50–00:03:09 | shot_036.jpg | This product requires a 220 to 240 volt AC power supply, and works at a rated power of 4.2 kilowatts and a full load current of 21 amperes. An individual branch circuit with a current carrying capacity of 25 amperes or above is recommended. Ensure that the power supply is grounded.<br>中文：本产品需要 220 至 240 伏交流电源，额定功率为4.2 千瓦，满载电流为 21 安培。建议使用载流能力在 25 安培及以上的独立分支电路供电。确保电源已接地。 |
+| 36 | 00:02:50–00:03:09 | shot_036.jpg | This product requires a 220 to 240 volt AC power supply, and works at a rated power of 4.2 kilowatts and a full load current of 21 amperes. An individual branch circuit with a current carrying capacity of 25 amperes or above is recommended. Ensure that the power supply is grounded.<br>中文：本产品需要 220 至 240 伏交流电源，额定功率为 4.2 千瓦，满载电流为 21 安培。建议使用载流能力在 25 安培及以上的独立分支电路 供电。确保电源已接地。 |
 | 37 | 00:03:09–00:03:18 | shot_037.jpg | The connection of power cables varies with their standards. If hard wiring operation is required, it should be performed by a professional electrician.<br>中文：电源线的接法因其标准不同而有所差异。如果需要硬接线操作，应由专业电工来完成。 |
 | 38 | 00:03:18–00:03:21 | shot_038.jpg |  |
 | 39 | 00:03:21–00:03:26 | shot_039.jpg | Attach the round connector of the power cable to the main unit.<br>中文：把电源线的圆形接头连接到主机上。 |
@@ -66,7 +66,7 @@
 | 59 | 00:04:42–00:04:52 | shot_059.jpg | Check if the graduated tube is of the same value. If yes, no calibration is needed. If not, adjust the graduated tube. Open the fastener.<br>中文：检查刻度管是否为相同的数值。如果是，就不需要校准。如果不是，就调整刻度管。打开卡扣。 |
 | 60 | 00:04:52–00:04:56 | shot_060.jpg | Push or pull the graduated tube to adjust it to the reference value.<br>中文：推动或拉动刻度管，把它调到参考值。 |
 | 61 | 00:04:56–00:04:58 | shot_061.jpg | Connect the wire feeder.<br>中文：连接送丝机。 |
-| 62 | 00:04:58–00:05:04 | shot_062.jpg | The wire feeder is used to feed wire in laser welding, and it is not needed in metal cleaning or cutting.<br>中文：送丝机用于激光焊接时送丝，在金属清洗或切割时不需要。 |
+| 62 | 00:04:58–00:05:04 | shot_062.jpg | The wire feeder is used to feed wire in laser welding, and it is not needed in metal cleaning or cutting.<br>中文：送丝机用于激光焊接时送丝，在金属 清洗或切割时不需要。 |
 | 63 | 00:05:04–00:05:07 | shot_063.jpg | Place the wire feeder on the left side of the main unit.<br>中文：把送丝机放在主机的左侧。 |
 | 64 | 00:05:07–00:05:10 | shot_064.jpg | Lock the four caster wheels.<br>中文：锁住四个脚轮。 |
 | 65 | 00:05:10–00:05:14 | shot_065.jpg | Connect to the main unit. Use the wire feeder cable to connect them.<br>中文：连接到主机。用送丝机线缆把它们连接起来。 |
@@ -87,7 +87,7 @@
 | 80 | 00:06:27–00:06:32 | shot_080.jpg | Load the welding wire.<br>中文：装上焊丝。 |
 | 81 | 00:06:32–00:06:37 | shot_081.jpg | Unscrew the cap and remove the sleeve.<br>中文：拧下盖子，取下套筒。 |
 | 82 | 00:06:37–00:06:45 | shot_082.jpg | Align the hole with the pin.<br>中文：把孔对准销钉。 |
-| 83 | 00:06:45–00:06:55 | shot_083.jpg | Ensure that the wire spool is installed in the correct direction. After released, the wire comes out from the bottom of the wire spool to enter the wire feeding driver.<br>中文：确保焊丝盘的安装方向正确。放线后，焊丝从焊丝盘的底部出来，进入送丝驱动器。 |
+| 83 | 00:06:45–00:06:55 | shot_083.jpg | Ensure that the wire spool is installed in the correct direction. After released, the wire comes out from the bottom of the wire spool to enter the wire feeding driver.<br>中文：确保焊丝盘的安装方向正确。放线后，焊丝从焊丝盘的底部出来，进入 送丝驱动器。 |
 | 84 | 00:06:55–00:07:00 | shot_084.jpg | Install the sleeve and the cap back.<br>中文：把套筒和盖子装回去。 |
 | 85 | 00:07:00–00:07:03 | shot_085.jpg | Take out the wire end.<br>中文：取出焊丝末端。 |
 | 86 | 00:07:03–00:07:09 | shot_086.jpg | Do not release the wire or it will unravel.<br>中文：不要松开焊丝，否则它会散开。 |
@@ -111,8 +111,8 @@
 | 104 | 00:08:36–00:08:38 | shot_104.jpg | Secure the wire feeding tube.<br>中文：固定好送丝管。 |
 | 105 | 00:08:38–00:08:42 | shot_105.jpg | Place back on the welding head cradle.<br>中文：放回焊接头托架上。 |
 | 106 | 00:08:42–00:08:46 | shot_106.jpg | Use X-Tool Metal Fab Laser Welder 1200 watts.<br>中文：使用 xTool MetalFab 激光焊机 1200 瓦。 |
-| 107 | 00:08:46–00:08:54 | shot_107.jpg | Before operating the device, please follow the safety instructions to put on PPE and take proper safety precautions.<br>中文：在操作设备之前，请按照安全说明穿戴个人防护装备，并采取适当的安全防范措施。 |
-| 108 | 00:08:54–00:09:09 | shot_108.jpg | Necessary PPE includes laser safety goggles, welding helmets, dust mask, laser and heat-resistant gloves, clothing, and aprons. Ensure that the workroom is well ventilated. Laser welding in standard mode.<br>中文：必要的个人防护装备包括激光防护眼镜、焊接面罩、防尘口罩、防激光和耐热的手套、服装以及围裙。确保工作间通风良好。标准模式下的激光焊接。 |
+| 107 | 00:08:46–00:08:54 | shot_107.jpg | Before operating the device, please follow the safety instructions to put on PPE and take proper safety precautions.<br>中文：在操作设备之前，请按照安全说明穿戴个人防护装备，并 采取适当的安全防范措施。 |
+| 108 | 00:08:54–00:09:09 | shot_108.jpg | Necessary PPE includes laser safety goggles, welding helmets, dust mask, laser and heat-resistant gloves, clothing, and aprons. Ensure that the workroom is well ventilated. Laser welding in standard mode.<br>中文：必要的个人防护装备包括激光防护眼镜、焊接面罩、防尘口罩、防激光和耐热的 手套、服装以及围裙。确保工作间通风良好。标准模式下的激光焊接。 |
 | 109 | 00:09:09–00:09:15 | shot_109.jpg | Ensure that a gas flow meter is fitted to the gas cylinder, or gas generator.<br>中文：确保气瓶或气体发生器上装有气体流量计。 |
 | 110 | 00:09:15–00:09:19 | shot_110.jpg | Ensure that enable lasering is off.<br>中文：确保“启用激光”处于关闭状态。 |
 | 111 | 00:09:19–00:09:23 | shot_111.jpg | Open the gas cylinder valve.<br>中文：打开气瓶阀门。 |
@@ -122,11 +122,11 @@
 | 115 | 00:09:38–00:09:40 | shot_115.jpg | Put the workpiece sensing cable to the workpiece or to a conductive object connected with the<br>中文：把工件感应线夹在工件上，或者夹在与 |
 | 116 | 00:09:40–00:09:43 | shot_116.jpg | workpiece.<br>中文：工件相连的导电物体上。 |
 | 117 | 00:09:43–00:09:48 | shot_117.jpg | It is strictly prohibited to attach the clamp to the graduated tube of the welding head.<br>中文：严禁把夹子夹在焊接头的刻度管上。 |
-| 118 | 00:09:48–00:09:54 | shot_118.jpg | Press the feed and retract buttons on the welding head to adjust the wire until its tip coincides with the red spot.<br>中文：按焊接头上的送丝和回抽按钮调整焊丝，直到它的末端与红点重合。 |
+| 118 | 00:09:48–00:09:54 | shot_118.jpg | Press the feed and retract buttons on the welding head to adjust the wire until its tip coincides with the red spot.<br>中文：按焊接头上的送丝和回抽按钮调整焊丝，直到它的 末端与红点重合。 |
 | 119 | 00:09:54–00:10:07 | shot_119.jpg | Calibrate the welding head if the red spot falls at the left or right side of the extended wire, or if the spot is not visible or blurred. Refer to the calibrate the red spot position part in maintenance.<br>中文：如果红点落在伸出焊丝的左侧或右侧，或者红点看不见或模糊，就需要校准焊接头。请参阅维护部分中的“校准红点位置”。 |
 | 120 | 00:10:07–00:10:11 | shot_120.jpg | Turn on the wire feeding enable switch to enable the auto feeding function.<br>中文：打开送丝使能开关，启用自动送丝功能。 |
 | 121 | 00:10:11–00:10:25 | shot_121.jpg | On the touch screen, choose standard mode, weld. Select the material type, material thickness, and wire diameter. Tap enable wire feeding to allow wire feeding. And tap enable lasering to allow laser emission.<br>中文：在触摸屏上选择标准模式，焊接。选择材料类型、材料厚度和焊丝直径。点击“启用送丝”以允许送丝。再点击“启用激光”以允许激光出光。 |
-| 122 | 00:10:25–00:11:01 | shot_122_1.jpg, shot_122_2.jpg | Align the parts to be welded. Aiming the welding nozzle at the starting point, press and hold the grip sensing button and trigger to start welding. Back weld the starting and ending points first, then start seam welding. As the welding head feeds the wire forward, a reaction force is generated from the welding point that pushes the welding head backward. Simply hold the welding head steady and guide the direction. To avoid wire sticking, do not press the welding head downward. After the welding is completed, the workpiece and parts of the welding head will remain hot. Do not touch the hot areas without protection.<br>中文：把待焊接的零件对齐。把焊接喷嘴对准起点，按住握持感应按钮和扳机开始焊接。先点焊起点和终点，然后开始焊缝焊接。焊接头向前送丝时，会产生一个反作用力，从焊接点把焊接头往后推。只需稳稳握住焊接头并引导方向即可。为避免粘丝，不要往下压焊接头。焊接完成后，工件和焊接头的部分部位仍然会很烫。没有防护时不要触摸高温区域。 |
+| 122 | 00:10:25–00:11:01 | shot_122_1.jpg, shot_122_2.jpg | Align the parts to be welded. Aiming the welding nozzle at the starting point, press and hold the grip sensing button and trigger to start welding. Back weld the starting and ending points first, then start seam welding. As the welding head feeds the wire forward, a reaction force is generated from the welding point that pushes the welding head backward. Simply hold the welding head steady and guide the direction. To avoid wire sticking, do not press the welding head downward. After the welding is completed, the workpiece and parts of the welding head will remain hot. Do not touch the hot areas without protection.<br>中文：把待焊接的零件对齐。把焊接喷嘴对准起点，按住握持感应按钮 和扳机开始焊接。先点焊起点和终点，然后开始焊缝焊接。焊接头向前送丝时，会产生一个反作用力，从焊接点把焊接头往后推。只需稳稳握住焊接头并引导方向即可。为避免粘丝，不要往下压焊接头。焊接完成后，工件和焊接头的部分部位 仍然会很烫。没有防护时不要触摸高温区域。 |
 | 123 | 00:11:01–00:11:04 | shot_123.jpg | Turn off enable wire feeding and enable lasering.<br>中文：关闭“启用送丝”和“启用激光”。 |
 | 124 | 00:11:04–00:11:07 | shot_124.jpg | Laser cleaning.<br>中文：激光清洗。 |
 | 125 | 00:11:07–00:11:09 | shot_125.jpg | Turn off the device.<br>中文：关闭设备。 |
@@ -135,7 +135,7 @@
 | 128 | 00:11:15–00:11:19 | shot_128.jpg | Replace with the cleaning nozzle.<br>中文：换上清洗喷嘴。 |
 | 129 | 00:11:19–00:11:21 | shot_129.jpg | Turn on the device.<br>中文：打开设备。 |
 | 130 | 00:11:21–00:11:26 | shot_130.jpg | Tap clean. Tap enable lasering. Tap confirm.<br>中文：点击“清洗”。点击“启用激光”。点击“确认”。 |
-| 131 | 00:11:26–00:11:44 | shot_131.jpg | Aim the cleaning nozzle at the starting point with the welding head parallel to the weld seam. Press and hold the grip sensing button and trigger to start laser cleaning. Laser cleaning is completed.<br>中文：把清洗喷嘴对准起点，焊接头与焊缝平行。按住握持感应按钮和扳机开始激光清洗。激光清洗完成。 |
+| 131 | 00:11:26–00:11:44 | shot_131.jpg | Aim the cleaning nozzle at the starting point with the welding head parallel to the weld seam. Press and hold the grip sensing button and trigger to start laser cleaning. Laser cleaning is completed.<br>中文：把清洗喷嘴对准起点，焊接头与 焊缝平行。按住握持感应按钮和扳机开始激光清洗。激光清洗完成。 |
 | 132 | 00:11:44–00:11:46 | shot_132.jpg | Laser cutting.<br>中文：激光切割。 |
 | 133 | 00:11:46–00:11:52 | shot_133.jpg | On the touch screen, tap system settings and take down the value of focus scale reference.<br>中文：在触摸屏上点击“系统设置”，记下焦点刻度参考值。 |
 | 134 | 00:11:52–00:11:54 | shot_134.jpg | Turn off the device.<br>中文：关闭设备。 |
@@ -153,8 +153,8 @@
 | 146 | 00:12:50–00:12:54 | shot_146.jpg |  |
 | 147 | 00:12:54–00:12:59 | shot_147.jpg | You need to replace the nozzle based on the diameter of the welding wire.<br>中文：你需要根据焊丝直径来更换喷嘴。 |
 | 148 | 00:12:59–00:13:03 | shot_148.jpg | Clean or replace the lens protector.<br>中文：清洁或更换保护镜片。 |
-| 149 | 00:13:03–00:13:18 | shot_149.jpg | If the laser power decreases and the welding spark weakens, the welding head's lens protector may get dirty or damaged. Clean or replace it as needed. Please clean or replace the lens protector in a dust-free or relatively clean environment.<br>中文：如果激光功率下降、焊接火花变弱，焊接头的保护镜片可能脏了或损坏了。根据需要清洁或更换它。请在无尘或相对洁净的环境中清洁或更换保护镜片。 |
-| 150 | 00:13:18–00:13:26 | shot_150.jpg | Before operations, clean the welding head with lint-free paper or lint-free cloth and wash your hands or wear lint-free gloves.<br>中文：操作前，先用无尘纸或无尘布清洁焊接头，并洗手或戴上无尘手套。 |
+| 149 | 00:13:03–00:13:18 | shot_149.jpg | If the laser power decreases and the welding spark weakens, the welding head's lens protector may get dirty or damaged. Clean or replace it as needed. Please clean or replace the lens protector in a dust-free or relatively clean environment.<br>中文：如果激光功率下降、焊接火花变弱，焊接头的保护镜片 可能脏了或损坏了。根据需要清洁或更换它。请在无尘或相对洁净的环境中清洁或更换保护镜片。 |
+| 150 | 00:13:18–00:13:26 | shot_150.jpg | Before operations, clean the welding head with lint-free paper or lint-free cloth and wash your hands or wear lint-free gloves.<br>中文：操作前，先用无尘纸或无尘布清洁焊接头，并 洗手或戴上无尘手套。 |
 | 151 | 00:13:26–00:13:30 | shot_151.jpg | Remove the cover on the top of the welding head.<br>中文：取下焊接头顶部的盖子。 |
 | 152 | 00:13:30–00:13:35 | shot_152.jpg | Remove the lens protector one.<br>中文：取出保护镜片。 |
 | 153 | 00:13:35–00:13:43 | shot_153.jpg | Check the lens protector. If the lens protector is dirty, use a cotton swab dipped with alcohol to clean it. Then install it back to the welding head.<br>中文：检查保护镜片。如果保护镜片脏了，用蘸了酒精的棉签清洁它。然后把它装回焊接头。 |
@@ -169,12 +169,12 @@
 | 162 | 00:14:28–00:14:34 | shot_162.jpg | Install the gasket back.<br>中文：把密封垫装回去。 |
 | 163 | 00:14:34–00:14:44 | shot_163.jpg | Install the lens protector back to the welding head. Install the lens protector in the correct direction and press it into place.<br>中文：把保护镜片装回焊接头。按正确的方向安装保护镜片，并把它按压到位。 |
 | 164 | 00:14:44–00:14:48 | shot_164.jpg | Calibrate the red spot position for the welding head.<br>中文：校准焊接头的红点位置。 |
-| 165 | 00:14:48–00:15:03 | shot_165.jpg | Calibrate the left or right offset. If you use the pre-installed welding nozzle for laser welding, perform a left or right offset calibration. When the laser spot deviates left or right from the wire, despite proper nozzle installation.<br>中文：校准左右偏移。如果你使用预装的焊接喷嘴进行激光焊接，要进行左右偏移校准。当激光光斑向焊丝左侧或右侧偏离时，尽管喷嘴安装正确。 |
+| 165 | 00:14:48–00:15:03 | shot_165.jpg | Calibrate the left or right offset. If you use the pre-installed welding nozzle for laser welding, perform a left or right offset calibration. When the laser spot deviates left or right from the wire, despite proper nozzle installation.<br>中文：校准左右偏移。如果你使用预装的焊接喷嘴进行激光焊接，要进行左右 偏移校准。当激光光斑向焊丝左侧或右侧偏离时，尽管喷嘴安装正确。 |
 | 166 | 00:15:03–00:15:09 | shot_166.jpg | On the touchscreen of the main unit, tap system settings, machine settings, enter administrator<br>中文：在主机触摸屏上，点击“系统设置”、“机器设置”，进入“管理员 |
 | 167 | 00:15:09–00:15:20 | shot_167.jpg | settings. Then input the 8 digit password, 8888888.<br>中文：设置”。然后输入 8 位密码 8888888。 |
 | 168 | 00:15:20–00:15:36 | shot_168.jpg | To the right of red spot position offset, tap start. Then tap the left arrow to decrease the offset and move the red spot leftward. Tap the right arrow to increase the offset and move the red spot rightward. When the center of the red spot falls at the welding wire, tap completed.<br>中文：在“红点位置偏移”右侧，点击“开始”。然后点击左箭头减小偏移量，使红点向左移动。点击右箭头增大偏移量，使红点向右移动。当红点的中心落在焊丝上时，点击“完成”。 |
-| 169 | 00:15:36–00:15:54 | shot_169.jpg | Calibrate the up or down offset. When a cutting nozzle is used, the laser beam may strike the nozzle's inner wall, resulting in either blockage or reflection. In such cases, perform left or right offset calibration.<br>中文：校准上下偏移。使用切割喷嘴时，激光束可能会打到喷嘴内壁上，导致遮挡或反射。在这种情况下，进行左右偏移校准。 |
-| 170 | 00:15:54–00:16:16 | shot_170.jpg | If the problem persists, reset the red spot position offset to zero and try calibrating the up or down offset. Welding and cleaning nozzles have larger apertures and typically do not require such adjustment. Insert the hex key into hole one or hole two and slowly turn the screw while observing the light emitting from the nozzle.<br>中文：如果问题仍然存在，把红点位置偏移重置为零，再尝试校准上下偏移。焊接喷嘴和清洗喷嘴的孔径较大，通常不需要这种调整。把内六角扳手插入 1 号孔或 2 号孔，一边慢慢转动螺丝，一边观察喷嘴射出的光。 |
+| 169 | 00:15:36–00:15:54 | shot_169.jpg | Calibrate the up or down offset. When a cutting nozzle is used, the laser beam may strike the nozzle's inner wall, resulting in either blockage or reflection. In such cases, perform left or right offset calibration.<br>中文：校准上下偏移。使用切割喷嘴时，激光束可能会打到喷嘴内壁上，导致 遮挡或反射。在这种情况下，进行左右偏移校准。 |
+| 170 | 00:15:54–00:16:16 | shot_170.jpg | If the problem persists, reset the red spot position offset to zero and try calibrating the up or down offset. Welding and cleaning nozzles have larger apertures and typically do not require such adjustment. Insert the hex key into hole one or hole two and slowly turn the screw while observing the light emitting from the nozzle.<br>中文：如果问题仍然存在，把红点位置偏移重置为零，再尝试校准 上下偏移。焊接喷嘴和清洗喷嘴的孔径较大，通常不需要这种 调整。把内六角扳手插入 1 号孔或 2 号孔，一边慢慢转动螺丝，一边观察 喷嘴射出的光。 |
 | 171 | 00:16:16–00:16:21 | shot_171.jpg | If a clear red spot appears, stop turning the screw.<br>中文：如果出现清晰的红点，就停止转动螺丝。 |
 | 172 | 00:16:21–00:16:29 | shot_172.jpg | Replace the welding wire. Now we replace the 1 millimeter welding wire with a 1.2 millimeter welding wire.<br>中文：更换焊丝。现在我们把 1 毫米焊丝换成 1.2 毫米焊丝。 |
 | 173 | 00:16:29–00:16:31 | shot_173.jpg |  |
@@ -202,5 +202,5 @@
 | 195 | 00:17:49–00:17:52 | shot_195.jpg | Press the wire slightly to make it pass through.<br>中文：轻轻按压焊丝，让它穿过去。 |
 | 196 | 00:17:52–00:17:57 | shot_196.jpg | Close the tensioners.<br>中文：合上压紧器。 |
 | 197 | 00:17:57–00:18:03 | shot_197.jpg | Rotate the tensioners knobs to adjust the wire feed tension.<br>中文：转动压紧器的旋钮来调节送丝张力。 |
-| 198 | 00:18:03–00:18:08 | shot_198.jpg | Press and hold the feed button on the wire feeder until the wire extends out from the nozzle.<br>中文：按住送丝机上的送丝按钮，直到焊丝从喷嘴伸出来。 |
+| 198 | 00:18:03–00:18:08 | shot_198.jpg | Press and hold the feed button on the wire feeder until the wire extends out from the nozzle.<br>中文：按住送丝机上的送丝按钮，直到焊丝从 喷嘴伸出来。 |
 | 199 | 00:18:08–00:18:12 | shot_199.jpg |  |

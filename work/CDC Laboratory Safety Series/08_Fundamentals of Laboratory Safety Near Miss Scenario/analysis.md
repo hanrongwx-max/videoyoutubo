@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 1 | 00:00:00–00:00:04 | shot_001.jpg |  |
 | 2 | 00:00:04–00:00:10 | shot_002.jpg |  |
-| 3 | 00:00:10–00:00:19 | shot_003.jpg | You enter a laboratory one morning, and the flutter tape is blowing out, indicating air is moving out of the laboratory.<br>中文：一天早上你走进实验室，发现飘带向外飘，说明空气正在从实验室向外流动。 |
+| 3 | 00:00:10–00:00:19 | shot_003.jpg | You enter a laboratory one morning, and the flutter tape is blowing out, indicating air is moving out of the laboratory.<br>中文：一天早上你走进实验室，发现飘带向外飘，说明空气 正在从实验室向外流动。 |
 | 4 | 00:00:19–00:00:24 | shot_004.jpg | You know that directorial air flow should flow into the laboratory.<br>中文：你知道定向气流应该是流入实验室的。 |
 | 5 | 00:00:24–00:00:30 | shot_005.jpg | What do you do?<br>中文：你该怎么做？ |
 | 6 | 00:00:30–00:00:32 | shot_006.jpg |  |

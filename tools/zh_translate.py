@@ -56,6 +56,18 @@ def names():
         return {(r["剧集"], r["视频名称"]): r for r in csv.DictReader(f, delimiter="\t")}
 
 
+def join(parts):
+    """拼接各段译文：前一段没有句末/句中标点时加空格，避免连成一串。"""
+    out = ""
+    for z in parts:
+        if not z:
+            continue
+        if out and out[-1] not in "，。！？；：、…）」』”》,.!?;:)":
+            out += " "
+        out += z
+    return out
+
+
 def render(d, table=None):
     tr = load(d)
     segs = tr["segments"]
@@ -70,7 +82,7 @@ def render(d, table=None):
         shots = json.loads((d / "shots.json").read_text(encoding="utf-8"))
         cell = {}
         for sh in shots:   # 与 analyze_video.align 相同：按段落中点归入镜头
-            cell[sh["shot"]] = "".join(z for s, z in zip(segs, zh) if sh["start"] <= (s["start"] + s["end"]) / 2 < sh["end"])
+            cell[sh["shot"]] = join([z for s, z in zip(segs, zh) if sh["start"] <= (s["start"] + s["end"]) / 2 < sh["end"]])
         lines = (d / "analysis.md").read_text(encoding="utf-8").split("\n")
         out, in_table = [], False
         for ln in lines:

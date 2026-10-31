@@ -6,7 +6,7 @@
 | 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写；英文下为中文翻译） |
 |---|---|---|---|
 | 1 | 00:00:00–00:00:02 | shot_001.jpg | Clean, or replace the lens protector.<br>中文：清洁或更换保护镜片。 |
-| 2 | 00:00:02–00:00:17 | shot_002.jpg | If the laser power decreases and the welding spark weakens, the welding head's lens protector may get dirty or damaged. Clean or replace it as needed. Please clean or replace the lens protector in a dust-free or relatively clean environment.<br>中文：如果激光功率下降、焊接火花变弱，焊接头的保护镜片可能脏了或损坏了。根据需要清洁或更换它。请在无尘或相对洁净的环境中清洁或更换保护镜片。 |
+| 2 | 00:00:02–00:00:17 | shot_002.jpg | If the laser power decreases and the welding spark weakens, the welding head's lens protector may get dirty or damaged. Clean or replace it as needed. Please clean or replace the lens protector in a dust-free or relatively clean environment.<br>中文：如果激光功率下降、焊接火花变弱，焊接头的保护镜片 可能脏了或损坏了。根据需要清洁或更换它。请在无尘或相对洁净的环境中清洁或更换保护镜片。 |
 | 3 | 00:00:17–00:00:20 | shot_003.jpg | Before operations, clean the welding head with lint-free paper or lint-free cloth and<br>中文：操作前，先用无尘纸或无尘布清洁焊接头，并 |
 | 4 | 00:00:20–00:00:25 | shot_004.jpg | wash your hands or wear lint-free gloves.<br>中文：洗手或戴上无尘手套。 |
 | 5 | 00:00:25–00:00:30 | shot_005.jpg | Remove the cover on the top of the welding head.<br>中文：取下焊接头顶部的盖子。 |

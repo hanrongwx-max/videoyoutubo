@@ -10,7 +10,7 @@
 | 3 | 00:00:13–00:00:15 | shot_003.jpg | You may be asking yourself,<br>中文：你可能会问自己： |
 | 4 | 00:00:15–00:00:21 | shot_004.jpg | why do I need specific training on using methylene chloride in my laboratory?<br>中文：为什么我需要接受专门的培训，学习在实验室里使用二氯甲烷？ |
 | 5 | 00:00:21–00:00:25 | shot_005.jpg | Well, that's a fair question.<br>中文：嗯，这是个合理的问题。 |
-| 6 | 00:00:25–00:00:32 | shot_006.jpg | The answer to that question is that long-term or repeated high exposure levels to methylene chloride can result in significant adverse health effects<br>中文：答案是，长期或反复高水平接触二氯甲烷，会对心脏、肝脏和大脑 |
+| 6 | 00:00:25–00:00:32 | shot_006.jpg | The answer to that question is that long-term or repeated high exposure levels to methylene chloride can result in significant adverse health effects<br>中文：答案是，长期 或反复高水平接触二氯甲烷，会对心脏、肝脏和大脑 |
 | 7 | 00:00:32–00:00:37 | shot_007.jpg | on the heart, liver, and brain,<br>中文：造成严重的不良健康影响， |
 | 8 | 00:00:37–00:00:43 | shot_008.jpg | and may include an increased risk of developing cancer. The nature of the exposure effects<br>中文：还可能增加患癌症的风险。正是由于这些暴露影响的性质， |
 | 9 | 00:00:43–00:00:52 | shot_009.jpg | prompted OSHA to release the methylene chloride standard, 29 CFR 1910.1052.<br>中文：OSHA 发布了二氯甲烷标准，29 CFR 1910.1052。 |

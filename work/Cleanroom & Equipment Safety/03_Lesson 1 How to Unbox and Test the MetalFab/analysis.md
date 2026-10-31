@@ -42,7 +42,7 @@
 | 35 | 00:02:45–00:02:47 | shot_035.jpg | Insert the connector end into the port for the workpiece sensing cable.<br>中文：把接头一端插入工件感应线的接口。 |
 | 36 | 00:02:47–00:02:50 | shot_036.jpg |  |
 | 37 | 00:02:50–00:02:52 | shot_037.jpg | Connect to a power supply.<br>中文：连接电源。 |
-| 38 | 00:02:52–00:03:11 | shot_038.jpg | This product requires a 220 to 240 volt AC power supply, and works at a rated power of 4.2 kilowatts and a full load current of 21 amperes. An individual branch circuit with a current carrying capacity of 25 amperes or above is recommended. Ensure that the power supply is grounded.<br>中文：本产品需要 220 至 240 伏交流电源，额定功率为4.2 千瓦，满载电流为 21 安培。建议使用载流能力在 25 安培及以上的独立分支电路供电。确保电源已接地。 |
+| 38 | 00:02:52–00:03:11 | shot_038.jpg | This product requires a 220 to 240 volt AC power supply, and works at a rated power of 4.2 kilowatts and a full load current of 21 amperes. An individual branch circuit with a current carrying capacity of 25 amperes or above is recommended. Ensure that the power supply is grounded.<br>中文：本产品需要 220 至 240 伏交流电源，额定功率为 4.2 千瓦，满载电流为 21 安培。建议使用载流能力在 25 安培及以上的独立分支电路 供电。确保电源已接地。 |
 | 39 | 00:03:11–00:03:20 | shot_039.jpg | The connection of power cables varies with their standards. If hard wiring operation is required, it should be performed by a professional electrician.<br>中文：电源线的接法因其标准不同而有所差异。如果需要硬接线操作，应由专业电工来完成。 |
 | 40 | 00:03:20–00:03:23 | shot_040.jpg |  |
 | 41 | 00:03:23–00:03:29 | shot_041.jpg | Attach the round connector of the power cable to the main unit.<br>中文：把电源线的圆形接头连接到主机上。 |
@@ -70,7 +70,7 @@
 | 63 | 00:04:45–00:04:55 | shot_063.jpg | Check if the graduated tube is of the same value. If yes, no calibration is needed. If not, adjust the graduated tube. Open the fastener.<br>中文：检查刻度管是否为相同的数值。如果是，就不需要校准。如果不是，就调整刻度管。打开卡扣。 |
 | 64 | 00:04:55–00:04:58 | shot_064.jpg | Push or pull the graduated tube to adjust it to the reference value.<br>中文：推动或拉动刻度管，把它调到参考值。 |
 | 65 | 00:04:58–00:05:01 | shot_065.jpg | Connect the wire feeder.<br>中文：连接送丝机。 |
-| 66 | 00:05:01–00:05:06 | shot_066.jpg | The wire feeder is used to feed wire in laser welding, and it is not needed in metal cleaning or cutting.<br>中文：送丝机用于激光焊接时送丝，在金属清洗或切割时不需要。 |
+| 66 | 00:05:01–00:05:06 | shot_066.jpg | The wire feeder is used to feed wire in laser welding, and it is not needed in metal cleaning or cutting.<br>中文：送丝机用于激光焊接时送丝，在金属 清洗或切割时不需要。 |
 | 67 | 00:05:06–00:05:09 | shot_067.jpg | Place the wire feeder on the left side of the main unit.<br>中文：把送丝机放在主机的左侧。 |
 | 68 | 00:05:09–00:05:12 | shot_068.jpg | Lock the four caster wheels.<br>中文：锁住四个脚轮。 |
 | 69 | 00:05:12–00:05:17 | shot_069.jpg | Connect to the main unit. Use the wire feeder cable to connect them.<br>中文：连接到主机。用送丝机线缆把它们连接起来。 |
@@ -95,7 +95,7 @@
 | 88 | 00:06:35–00:06:37 | shot_088.jpg |  |
 | 89 | 00:06:37–00:06:40 | shot_089.jpg | Unscrew the cap and remove the sleeve.<br>中文：拧下盖子，取下套筒。 |
 | 90 | 00:06:40–00:06:47 | shot_090.jpg | Align the hole with the pin.<br>中文：把孔对准销钉。 |
-| 91 | 00:06:47–00:06:58 | shot_091.jpg | Ensure that the wire spool is installed in the correct direction. After released, the wire comes out from the bottom of the wire spool to enter the wire feeding driver.<br>中文：确保焊丝盘的安装方向正确。放线后，焊丝从焊丝盘的底部出来，进入送丝驱动器。 |
+| 91 | 00:06:47–00:06:58 | shot_091.jpg | Ensure that the wire spool is installed in the correct direction. After released, the wire comes out from the bottom of the wire spool to enter the wire feeding driver.<br>中文：确保焊丝盘的安装方向正确。放线后，焊丝从焊丝盘的底部出来，进入送丝 驱动器。 |
 | 92 | 00:06:58–00:07:02 | shot_092.jpg | Install the sleeve and the cap back.<br>中文：把套筒和盖子装回去。 |
 | 93 | 00:07:02–00:07:05 | shot_093.jpg | Take out the wire end.<br>中文：取出焊丝末端。 |
 | 94 | 00:07:05–00:07:11 | shot_094.jpg | Do not release the wire or it will unravel.<br>中文：不要松开焊丝，否则它会散开。 |
@@ -123,7 +123,7 @@
 | 116 | 00:08:48–00:08:53 | shot_116.jpg | Before operating the device, please follow the safety instructions to put on PPE and<br>中文：在操作设备之前，请按照安全说明穿戴个人防护装备，并 |
 | 117 | 00:08:53–00:08:56 | shot_117.jpg | take proper safety precautions.<br>中文：采取适当的安全防范措施。 |
 | 118 | 00:08:56–00:08:58 | shot_118.jpg |  |
-| 119 | 00:08:58–00:09:12 | shot_119.jpg | Necessary PPE includes laser safety goggles, welding helmets, dust mask, laser and heat resistant gloves, clothing and aprons. Ensure that the workroom is well ventilated. Laser welding in standard mode.<br>中文：必要的个人防护装备包括激光防护眼镜、焊接面罩、防尘口罩、防激光和耐热的手套、服装以及围裙。确保工作间通风良好。标准模式下的激光焊接。 |
+| 119 | 00:08:58–00:09:12 | shot_119.jpg | Necessary PPE includes laser safety goggles, welding helmets, dust mask, laser and heat resistant gloves, clothing and aprons. Ensure that the workroom is well ventilated. Laser welding in standard mode.<br>中文：必要的个人防护装备包括激光防护眼镜、焊接面罩、防尘口罩、防激光和耐热的 手套、服装以及围裙。确保工作间通风良好。标准模式下的激光焊接。 |
 | 120 | 00:09:12–00:09:18 | shot_120.jpg | Ensure that a gas flow meter is fitted to the gas cylinder or gas generator.<br>中文：确保气瓶或气体发生器上装有气体流量计。 |
 | 121 | 00:09:18–00:09:21 | shot_121.jpg | Ensure that enable lasering is off.<br>中文：确保“启用激光”处于关闭状态。 |
 | 122 | 00:09:21–00:09:25 | shot_122.jpg | Open the gas cylinder valve.<br>中文：打开气瓶阀门。 |
@@ -133,11 +133,11 @@
 | 126 | 00:09:40–00:09:42 | shot_126.jpg | Clamp the workpiece sensing cable to the workpiece or to a conductive object connected with the<br>中文：把工件感应线夹在工件上，或者夹在与 |
 | 127 | 00:09:42–00:09:45 | shot_127.jpg | workpiece.<br>中文：工件相连的导电物体上。 |
 | 128 | 00:09:45–00:09:50 | shot_128.jpg | It is strictly prohibited to attach the clamp to the graduated tube of the welding head.<br>中文：严禁把夹子夹在焊接头的刻度管上。 |
-| 129 | 00:09:50–00:09:56 | shot_129.jpg | Press the feed and retract buttons on the welding head to adjust the wire until its tip coincides with the red spot.<br>中文：按焊接头上的送丝和回抽按钮调整焊丝，直到它的末端与红点重合。 |
+| 129 | 00:09:50–00:09:56 | shot_129.jpg | Press the feed and retract buttons on the welding head to adjust the wire until its tip coincides with the red spot.<br>中文：按焊接头上的送丝和回抽按钮调整焊丝，直到它的 末端与红点重合。 |
 | 130 | 00:09:56–00:10:09 | shot_130.jpg | Calibrate the welding head if the red spot falls at the left or right side of the extended wire or if the spot is not visible or blurred. Refer to the calibrate the red spot position part in maintenance.<br>中文：如果红点落在伸出焊丝的左侧或右侧，或者红点看不见或模糊，就需要校准焊接头。请参阅维护部分中的“校准红点位置”。 |
 | 131 | 00:10:09–00:10:13 | shot_131.jpg | Turn on the wire feeding enable switch to enable the auto feeding function.<br>中文：打开送丝使能开关，启用自动送丝功能。 |
 | 132 | 00:10:13–00:10:28 | shot_132.jpg | On the touch screen, choose standard mode, weld. Select the material type, material thickness and wire diameter. Tap enable wire feeding to allow wire feeding. And tap enable lasering to allow laser emission.<br>中文：在触摸屏上选择标准模式，焊接。选择材料类型、材料厚度和焊丝直径。点击“启用送丝”以允许送丝。再点击“启用激光”以允许激光出光。 |
-| 133 | 00:10:28–00:11:03 | shot_133_1.jpg, shot_133_2.jpg | Align the parts to be welded. Aiming the welding nozzle at the starting point, press and hold the grip sensing button and trigger to start welding. Tack weld the starting and ending points first, then start seam welding. As the welding head feeds the wire forward, a reaction force is generated from the welding point that pushes the welding head backward. Simply hold the welding head steady and guide the direction. To avoid wire sticking, do not press the welding head downward. After the welding is completed, the workpiece and parts of the welding head will remain hot. Do not touch the hot areas without protection.<br>中文：把待焊接的零件对齐。把焊接喷嘴对准起点，按住握持感应按钮和扳机开始焊接。先点焊起点和终点，然后开始焊缝焊接。焊接头向前送丝时，焊接点会产生一个反作用力，把焊接头往后推。只需稳稳握住焊接头并引导方向即可。为避免粘丝，不要往下压焊接头。焊接完成后，工件和焊接头的部分部位仍然会很烫。没有防护时不要触摸高温区域。 |
+| 133 | 00:10:28–00:11:03 | shot_133_1.jpg, shot_133_2.jpg | Align the parts to be welded. Aiming the welding nozzle at the starting point, press and hold the grip sensing button and trigger to start welding. Tack weld the starting and ending points first, then start seam welding. As the welding head feeds the wire forward, a reaction force is generated from the welding point that pushes the welding head backward. Simply hold the welding head steady and guide the direction. To avoid wire sticking, do not press the welding head downward. After the welding is completed, the workpiece and parts of the welding head will remain hot. Do not touch the hot areas without protection.<br>中文：把待焊接的零件对齐。把焊接喷嘴对准起点，按住握持感应按钮 和扳机开始焊接。先点焊起点和终点，然后开始焊缝焊接。焊接头向前送丝时，焊接点会产生一个反作用力，把焊接头往后推。只需稳稳握住焊接头并引导方向即可。为避免粘丝，不要往下压焊接头。焊接完成后，工件和焊接头的部分部位仍然会很 烫。没有防护时不要触摸高温区域。 |
 | 134 | 00:11:03–00:11:06 | shot_134.jpg | Turn off enable wire feeding and enable lasering.<br>中文：关闭“启用送丝”和“启用激光”。 |
 | 135 | 00:11:06–00:11:09 | shot_135.jpg | Laser cleaning.<br>中文：激光清洗。 |
 | 136 | 00:11:09–00:11:11 | shot_136.jpg | Turn off the device.<br>中文：关闭设备。 |
@@ -146,7 +146,7 @@
 | 139 | 00:11:17–00:11:21 | shot_139.jpg | Remove the welding nozzle. Replace with the cleaning nozzle.<br>中文：取下焊接喷嘴。换上清洗喷嘴。 |
 | 140 | 00:11:21–00:11:24 | shot_140.jpg | Turn on the device.<br>中文：打开设备。 |
 | 141 | 00:11:24–00:11:28 | shot_141.jpg | Tap clean. Tap enable lasering. Tap confirm.<br>中文：点击“清洗”。点击“启用激光”。点击“确认”。 |
-| 142 | 00:11:28–00:11:46 | shot_142.jpg | Aim the cleaning nozzle at the starting point with the welding head parallel to the weld seam. Press and hold the grip sensing button and trigger to start laser cleaning. Laser cleaning is completed.<br>中文：把清洗喷嘴对准起点，焊接头与焊缝平行。按住握持感应按钮和扳机开始激光清洗。激光清洗完成。 |
+| 142 | 00:11:28–00:11:46 | shot_142.jpg | Aim the cleaning nozzle at the starting point with the welding head parallel to the weld seam. Press and hold the grip sensing button and trigger to start laser cleaning. Laser cleaning is completed.<br>中文：把清洗喷嘴对准起点，焊接头与 焊缝平行。按住握持感应按钮和扳机开始激光清洗。激光清洗完成。 |
 | 143 | 00:11:46–00:11:49 | shot_143.jpg | Laser cutting.<br>中文：激光切割。 |
 | 144 | 00:11:49–00:11:54 | shot_144.jpg | On the touch screen, tap system settings and take down the value of focus scale reference.<br>中文：在触摸屏上点击“系统设置”，记下焦点刻度参考值。 |
 | 145 | 00:11:54–00:11:56 | shot_145.jpg | Turn off the device.<br>中文：关闭设备。 |
@@ -358,7 +358,7 @@
 | 351 | 00:27:50–00:28:00 | shot_351.jpg | right fixture knob counterclockwise. Insert the right side of the material into the right fixture. Rotate the knob clockwise to tighten the right fixture. Rotate the left fixture knob<br>中文：右侧夹具旋钮。把材料的右侧插入右侧夹具。顺时针转动旋钮，拧紧右侧夹具。逆时针转动左侧夹具 |
 | 352 | 00:28:00–00:28:08 | shot_352.jpg | counterclockwise. Lift the linkage lever. Move the left fixture to the right to hold the material.<br>中文：旋钮。抬起联动杆。把左侧夹具向右移动以夹住材料。 |
 | 353 | 00:28:08–00:28:13 | shot_353.jpg | Rotate the knob clockwise to tighten the left fixture. Lower the linkage lever.<br>中文：顺时针转动旋钮，拧紧左侧夹具。放下联动杆。 |
-| 354 | 00:28:13–00:28:25 | shot_354.jpg | Open XCS and place the object on the material. Click the object. Click Unknown material at the upper right corner. Choose the corresponding material. Choose the corresponding tip.<br>中文：打开 XCS，把对象放在材料上。点击该对象。点击右上角的“未知材料”。选择对应的材料。选择对应的切割头。 |
+| 354 | 00:28:13–00:28:25 | shot_354.jpg | Open XCS and place the object on the material. Click the object. Click Unknown material at the upper right corner. Choose the corresponding material. Choose the corresponding tip.<br>中文：打开 XCS，把对象放在材料上。点击该对象。点击右上角的 “未知材料”。选择对应的材料。选择对应的切割头。 |
 | 355 | 00:28:25–00:28:46 | shot_355.jpg | Click Calibrate the capacitive sensor. Click Process. Before processing, check whether the requirements listed on the right panel are met. If yes, click Start.<br>中文：点击“校准电容传感器”。点击“加工”。加工之前，检查右侧面板上列出的要求是否都满足。如果满足，点击“开始”。 |
 | 356 | 00:28:46–00:28:52 | shot_356.jpg | Click Continue processing. Press the Start slash Stop button.<br>中文：点击“继续加工”。按下“开始/停止”按钮。 |
 | 357 | 00:28:52–00:28:54 | shot_357.jpg |  |

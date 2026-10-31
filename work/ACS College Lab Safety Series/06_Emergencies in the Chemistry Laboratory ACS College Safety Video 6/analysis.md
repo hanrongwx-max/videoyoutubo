@@ -5,11 +5,11 @@
 
 | 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写；英文下为中文翻译） |
 |---|---|---|---|
-| 1 | 00:00:00–00:00:19 | shot_001.jpg | The Personal Protective Equipment, PPE, worn by actors in this video was selected based on a risk assessment of the chemicals used in the experiment and conditions simulated in the activity. In scenes where the presenter did not wear PPE while in the lab, all chemicals were removed to eliminate chemical hazards.<br>中文：本视频中演员所穿戴的个人防护装备（PPE），是根据对实验所用化学品以及活动中模拟的条件进行的风险评估来选择的。在主持人于实验室内未穿戴个人防护装备的镜头中，所有化学品都已移走，以消除化学危害。 |
+| 1 | 00:00:00–00:00:19 | shot_001.jpg | The Personal Protective Equipment, PPE, worn by actors in this video was selected based on a risk assessment of the chemicals used in the experiment and conditions simulated in the activity. In scenes where the presenter did not wear PPE while in the lab, all chemicals were removed to eliminate chemical hazards.<br>中文：本视频中演员所穿戴的个人防护装备（PPE），是 根据对实验所用化学品 以及活动中模拟的条件进行的风险评估来选择的。在主持人 于实验室内未穿戴个人防护装备的镜头中，所有化学品都已移走，以消除化学危害。 |
 | 2 | 00:00:19–00:00:24 | shot_002.jpg | In this video, we'll go over various methods for dealing with lab emergencies.<br>中文：在本视频中，我们将介绍应对实验室紧急情况的各种方法。 |
 | 3 | 00:00:24–00:00:32 | shot_003.jpg | For this video, we'll assume you've already completed the first three steps of RAM. Recognize hazards, assess risks, and minimize risks.<br>中文：在本视频中，我们假设你已经完成了 RAMP 的前三步：识别危害、评估风险和最小化风险。 |
 | 4 | 00:00:32–00:00:35 | shot_004.jpg |  |
-| 5 | 00:00:35–00:00:44 | shot_005.jpg | Usually when things go wrong in the lab, either someone knew they were doing something unsafe and did it anyway, or someone didn't know that they were doing something unsafe.<br>中文：通常，实验室里出问题的时候，要么是有人明知自己在做不安全的事却还是做了，要么是有人不知道自己在做不安全的事。 |
+| 5 | 00:00:35–00:00:44 | shot_005.jpg | Usually when things go wrong in the lab, either someone knew they were doing something unsafe and did it anyway, or someone didn't know that they were doing something unsafe.<br>中文：通常，实验室里出问题的时候，要么是有人明知自己在做不安全的事 却还是做了，要么是有人不知道自己在做不安全的事。 |
 | 6 | 00:00:44–00:00:48 | shot_006.jpg | These are preventable situations if one follows the first three steps of RAM,<br>中文：如果遵循 RAMP 的前三步，这些情况都是可以预防的， |
 | 7 | 00:00:48–00:00:54 | shot_007.jpg | but equipment failures or unexpected power outages can occur in any case. It is prudent to prepare for emergencies.<br>中文：但设备故障或意外停电无论如何都可能发生。为紧急情况做好准备是明智的。 |
 | 8 | 00:00:54–00:00:59 | shot_008.jpg | Labs are required to have emergency equipment available and must be inspected regularly<br>中文：实验室必须配备应急设备，并且必须由你所在的机构 |
@@ -29,7 +29,7 @@
 | 22 | 00:01:58–00:02:02 | shot_022.jpg |  |
 | 23 | 00:02:02–00:02:05 | shot_023.jpg | What should you do if you're exposed to a hazardous chemical as the result of a spill?<br>中文：如果因为洒漏而接触到有害化学品，你该怎么办？ |
 | 24 | 00:02:05–00:02:11 | shot_024.jpg | You should always be wearing eye protection, but if a chemical does get in your eyes, use the eyewash station to flush it out.<br>中文：你应该始终佩戴眼部防护用品，但如果化学品真的进入眼睛，要使用洗眼器把它冲洗出来。 |
-| 25 | 00:02:11–00:02:21 | shot_025.jpg | Be sure to rinse for at least 15 minutes or longer. This may seem like a long time, but it can take a while to flush out the chemicals that may have absorbed into the tissues of your eye.<br>中文：一定要冲洗至少 15 分钟或更长时间。这可能看起来时间很长，但要冲洗掉可能已被眼部组织吸收的化学品需要一段时间。 |
+| 25 | 00:02:11–00:02:21 | shot_025.jpg | Be sure to rinse for at least 15 minutes or longer. This may seem like a long time, but it can take a while to flush out the chemicals that may have absorbed into the tissues of your eye.<br>中文：一定要冲洗至少 15 分钟或更长时间。这可能看起来时间很长，但要冲洗掉可能已被眼部组织吸收的化学品 需要一段时间。 |
 | 26 | 00:02:21–00:02:24 | shot_026.jpg | Your instructor will assist you in seeking medical attention.<br>中文：老师会协助你就医。 |
 | 27 | 00:02:24–00:02:29 | shot_027.jpg | If a liquid spills on your hand or lower arm,<br>中文：如果液体洒到你的手上或小臂上， |
 | 28 | 00:02:29–00:02:35 | shot_028.jpg | go to a sink and flush the area with lots of water.<br>中文：要到水槽边用大量的水冲洗该部位。 |
@@ -46,7 +46,7 @@
 | 39 | 00:03:32–00:03:38 | shot_039.jpg | You should inform other students in the immediate area and make sure you or someone else informs your instructor.<br>中文：你应该通知附近区域的其他同学，并确保你或其他人通知老师。 |
 | 40 | 00:03:38–00:03:40 | shot_040.jpg | For a spill on a lab bench or floor,<br>中文：对于实验台或地板上的洒漏， |
 | 41 | 00:03:40–00:03:43 | shot_041.jpg | you can remove items from the immediate area if it's safe to do so.<br>中文：如果安全的话，你可以把附近区域的物品移走。 |
-| 42 | 00:03:43–00:03:48 | shot_042.jpg | If you've been trained, you can isolate the spill by pouring a ring of sand or absorbent around it.<br>中文：如果你接受过培训，可以通过在洒漏物周围倒一圈沙子或吸附材料来隔离洒漏。 |
+| 42 | 00:03:43–00:03:48 | shot_042.jpg | If you've been trained, you can isolate the spill by pouring a ring of sand or absorbent around it.<br>中文：如果你接受过培训，可以通过在洒漏物周围 倒一圈沙子或吸附材料来隔离洒漏。 |
 | 43 | 00:03:48–00:03:52 | shot_043.jpg | Your instructor will decide if the lab needs to be evacuated.<br>中文：老师会决定实验室是否需要疏散。 |
 | 44 | 00:03:52–00:03:55 | shot_044.jpg |  |
 | 45 | 00:03:55–00:03:59 | shot_045.jpg | Fires in academic labs are not very common, and when they occur, they tend to be small.<br>中文：教学实验室里的火灾并不常见，而且即使发生，往往规模也很小。 |
@@ -58,7 +58,7 @@
 | 51 | 00:04:26–00:04:38 | shot_051.jpg | Read the label for every chemical you use to determine if it's flammable. The GHS pictogram on the bottle will also alert you to this hazard and note how similar the pictograms are for flammable and oxidizer.<br>中文：阅读你使用的每种化学品的标签，以确定它是否易燃。瓶子上的 GHS 象形图也会提醒你注意这种危害，注意易燃物和氧化剂的象形图有多么相似。 |
 | 52 | 00:04:38–00:04:48 | shot_052.jpg | Okay, what about an oxidizing agent? Flammable compounds are oxidized when they burn, and the most common oxidizing agent is all around us. It's the oxygen in the air.<br>中文：好，那氧化剂呢？易燃化合物燃烧时会被氧化，而最常见的氧化剂就在我们周围。那就是空气中的氧气。 |
 | 53 | 00:04:48–00:04:56 | shot_053.jpg | Finally, any ignition source will start the fire. This is usually a flame from a match or Bunsen burner or an electrical spark.<br>中文：最后，任何点火源都会引发火灾。通常是火柴或本生灯的火焰，或者电火花。 |
-| 54 | 00:04:56–00:05:02 | shot_054.jpg | Small, contained fires can be extinguished by simply placing a watch glass or large beaker over them.<br>中文：小规模、受控的火只需用一块表面皿或一个大烧杯盖住就能扑灭。 |
+| 54 | 00:04:56–00:05:02 | shot_054.jpg | Small, contained fires can be extinguished by simply placing a watch glass or large beaker over them.<br>中文：小规模、受控的火只需 用一块表面皿或一个大烧杯盖住就能扑灭。 |
 | 55 | 00:05:02–00:05:06 | shot_055.jpg |  |
 | 56 | 00:05:06–00:05:11 | shot_056.jpg | This deprives a fire of oxygen. Removing any side of the fire triangle extinguishes the fire.<br>中文：这样可以隔绝火的氧气。去掉燃烧三角形的任何一条边，火就会熄灭。 |
 | 57 | 00:05:11–00:05:20 | shot_057.jpg | Larger fires will likely require the use of a fire extinguisher. There are various types of fire extinguishers,<br>中文：较大的火可能需要使用灭火器。灭火器有多种类型， |

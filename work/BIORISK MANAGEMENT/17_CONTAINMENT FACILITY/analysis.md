@@ -43,7 +43,7 @@
 | 36 | 00:01:45–00:01:47 | shot_036.jpg |  |
 | 37 | 00:01:47–00:01:51 | shot_037.jpg |  |
 | 38 | 00:01:51–00:01:53 | shot_038.jpg | in the control room, we go down and we have an autoclave, so basically everything which<br>中文：闭路电视监视器。我们往下走，这里有一台高压灭菌器，基本上所有 |
-| 39 | 00:01:53–00:02:03 | shot_039.jpg | comes out from this facility is autoclave and incinerated in accordance with the standard operating procedure.<br>中文：从这个设施出来的东西，都要按照标准操作规程进行高压灭菌和焚烧处理。 |
+| 39 | 00:01:53–00:02:03 | shot_039.jpg | comes out from this facility is autoclave and incinerated in accordance with the standard operating procedure.<br>中文：从这个设施出来的东西，都要按照标准操作规程进行高压灭菌和焚烧 处理。 |
 | 40 | 00:02:03–00:02:05 | shot_040.jpg |  |
 | 41 | 00:02:05–00:02:08 | shot_041.jpg | And we have here what is known as the pass-through box, so samples are passed to the researchers<br>中文：这里还有所谓的传递箱，样本通过传递箱传递给 |
 | 42 | 00:02:08–00:02:12 | shot_042.jpg |  |
@@ -60,7 +60,7 @@
 | 53 | 00:02:52–00:02:55 | shot_053.jpg | with them, we have to adhere very strictly to SOPs and in turn these SOPs are tested<br>中文：这些规程执行，必须非常严格地遵守标准操作规程，而这些标准操作规程本身也要接受 |
 | 54 | 00:02:55–00:02:59 | shot_054.jpg | for performance as well.<br>中文：绩效检验。 |
 | 55 | 00:02:59–00:03:01 | shot_055.jpg |  |
-| 56 | 00:03:01–00:03:08 | shot_056.jpg | This is, there is one way in and this is the way out, when we come out we actually doff off here, I cannot take the camera beyond this point as that is a restricted area and<br>中文：这是，这里有一条入口通道，这是出口通道。出来时，我们实际上是在这里脱卸防护装备。我不能把摄像机带到这个点以外，因为那是限制区域， |
+| 56 | 00:03:01–00:03:08 | shot_056.jpg | This is, there is one way in and this is the way out, when we come out we actually doff off here, I cannot take the camera beyond this point as that is a restricted area and<br>中文：这是，这里有一条入口通道，这是出口通道。出来时，我们实际上是 在这里脱卸防护装备。我不能把摄像机带到这个点以外，因为那是限制区域， |
 | 57 | 00:03:08–00:03:11 | shot_057.jpg |  |
 | 58 | 00:03:11–00:03:13 | shot_058.jpg | we shower out on the way out here before changing into our street clothes.<br>中文：在出去的路上，我们要在这里淋浴后出来，然后换上日常便服。 |
 | 59 | 00:03:13–00:03:19 | shot_059.jpg | So all the taps as you can see are automated, we are not allowed to touch any surface or<br>中文：大家可以看到，所有的水龙头都是自动的，我们不得触碰任何表面， |

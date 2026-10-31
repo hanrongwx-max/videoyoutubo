@@ -16,7 +16,7 @@
 | 9 | 00:00:22–00:00:26 | shot_009.jpg | determined by you and those working with you. It's your responsibility to know and<br>中文：取决于你和与你一起工作的人。你有责任了解并 |
 | 10 | 00:00:26–00:00:28 | shot_010.jpg |  |
 | 11 | 00:00:28–00:00:31 | shot_011.jpg | follow the rules and be able to recognize potential safety hazards.<br>中文：遵守规则，并能够识别潜在的安全隐患。 |
-| 12 | 00:00:31–00:00:39 | shot_012.jpg | The first consideration is proper dress. What you wear in the lab can help prevent serious, even fatal injuries. Often you'll be working with chemicals<br>中文：首先要考虑的是正确着装。你在实验室里穿什么，有助于防止严重甚至致命的伤害。你经常会接触到一些化学品， |
+| 12 | 00:00:31–00:00:39 | shot_012.jpg | The first consideration is proper dress. What you wear in the lab can help prevent serious, even fatal injuries. Often you'll be working with chemicals<br>中文：首先要考虑的是正确着装。你在实验室里穿什么，有助于 防止严重甚至致命的伤害。你经常会接触到一些化学品， |
 | 13 | 00:00:39–00:00:44 | shot_013.jpg | that could harm you if they come into contact with your skin. So the best way<br>中文：如果它们接触到你的皮肤，可能会伤害你。所以防止皮肤暴露的 |
 | 14 | 00:00:44–00:00:52 | shot_014.jpg | to prevent skin exposure is to wear clothes that cover your entire body. Shorts and sandals leave your skin exposed, so instead wear long pants and<br>中文：最好办法，就是穿能遮盖全身的衣服。短裤和凉鞋会让皮肤暴露在外，所以应该穿长裤和 |
 | 15 | 00:00:52–00:00:54 | shot_015.jpg |  |
