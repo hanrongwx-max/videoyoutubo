@@ -1,0 +1,1016 @@
+{
+ "id": "02_Titration",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "酸碱滴定的规范操作",
+ "seconds": 370,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/02_Titration.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/02_Titration/src.py",
+ "points": {
+  "K1": "滴定用来测浓度",
+  "K2": "头号准则：准备好滴定管",
+  "K3": "润洗滴定管",
+  "K4": "装液并夹牢",
+  "K5": "排除尖嘴气泡",
+  "K6": "放到零附近，记初始液位",
+  "K7": "静置一分钟沥流",
+  "K8": "先做一次粗滴定",
+  "K9": "滴过头也要记下用量",
+  "K10": "认清终点的颜色",
+  "K11": "正式滴定先记初读数",
+  "K12": "加一到两滴指示剂",
+  "K13": "开始可以快一些",
+  "K14": "每加一次都要摇",
+  "K15": "接近终点逐滴慢加",
+  "K16": "塑料吸头让液滴更小",
+  "K17": "用封口膜固定吸头",
+  "K18": "先排吸头里的气泡",
+  "K19": "液滴大小对比",
+  "K20": "取下尖嘴最后半滴",
+  "K21": "确认终点：淡粉且持久",
+  "K22": "终点颜色会褪去",
+  "K23": "读终读数，计算用量",
+  "K24": "演示不能代替讲义",
+  "S1": "先读标签和安全技术说明书",
+  "S2": "低位装液，不举过头",
+  "S3": "装置稳固，台面整洁",
+  "S4": "搅拌器等用电安全",
+  "S5": "酸碱小量溅洒的处理",
+  "S6": "不在实验室饮食，离开前洗手"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在铁架台旁，台上夹着滴定管，下面是锥形瓶，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a ring stand holding a burette above a conical flask on a white base, and waves at the camera.",
+   "narration": "这一课讲酸碱滴定的规范操作。",
+   "overlay": [
+    "酸碱滴定的规范操作"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "滴定管、指示剂滴瓶、淡粉色锥形瓶三个图标",
+   "prompt_en": "Three icons in a row: a burette, a small dropper bottle, and a conical flask with very pale pink liquid. No people.",
+   "narration": "备好管、认准色、慢慢滴。",
+   "overlay": [],
+   "labels": [
+    "准备",
+    "终点",
+    "读数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰猛开活塞，锥形瓶里溶液变成深粉色，他一脸懊恼",
+   "prompt_en": "The young male student opens the burette stopcock wide; the liquid in the conical flask turns deep pink and he looks frustrated.",
+   "narration": "阿杰一口气放液，颜色变得太深了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "深粉色锥形瓶图标被红叉划掉",
+   "prompt_en": "An icon of a conical flask with deep pink liquid, crossed out with a red X. No people.",
+   "narration": "滴过了终点，这次结果作废。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴护目镜，指着一只几乎无色、只带淡粉的锥形瓶",
+   "prompt_en": "The female graduate student, wearing safety goggles, points at a conical flask with barely visible pale pink liquid.",
+   "narration": "小研说：终点只要淡淡的一点粉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods.",
+   "narration": "我们从准备滴定管开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "滴定用来测浓度",
+   "scene": "欣欣举起一瓶贴空白标签的溶液，旁边一个问号",
+   "prompt_en": "The panda mascot holds up a bottle of clear solution with a blank label, a question mark floating beside it.",
+   "narration": "这瓶溶液浓度是多少？",
+   "overlay": [
+    "滴定用来测浓度"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "滴定用来测浓度",
+   "scene": "标准溶液从滴定管滴入锥形瓶，颜色变化，箭头指向结果",
+   "prompt_en": "A standard solution drips from a burette into a conical flask, the color changes, and an arrow points to a blank result card. No people.",
+   "narration": "用已知浓度的溶液滴定，就能算出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "头号准则：准备好滴定管",
+   "scene": "欣欣竖起一根手指，身旁是滴定管",
+   "prompt_en": "The panda mascot raises one finger next to a burette on a stand.",
+   "narration": "头号准则：先把滴定管准备好。",
+   "overlay": [
+    "头号准则：准备好滴定管"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "头号准则：准备好滴定管",
+   "scene": "一本空白讲义翻到容量器具那一页",
+   "prompt_en": "A blank booklet open to a page with simple icons of a pipette, a flask and a burette. No people.",
+   "narration": "详细方法，见容量器具那一课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "润洗滴定管",
+   "scene": "小研戴护目镜手套，把滴定管放低，用小漏斗加少量滴定液",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, holds the burette below eye level and adds a small amount of titrant through a small funnel.",
+   "narration": "先加几毫升滴定液。",
+   "overlay": [
+    "润洗滴定管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "润洗滴定管",
+   "scene": "滴定管倾斜转动，液体润湿内壁后从尖嘴放掉",
+   "prompt_en": "A burette held almost level is rotated so the liquid coats the wall, then drained from the tip into a beaker. No people.",
+   "narration": "倾斜转动润湿内壁，再全部放掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "装液并夹牢",
+   "scene": "液面装到零刻度以上",
+   "prompt_en": "The burette is filled so the liquid level is above the top mark. No people.",
+   "narration": "装液到零刻度以上。",
+   "overlay": [
+    "装液并夹牢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "装液并夹牢",
+   "scene": "小研把滴定管牢牢夹在铁架台的滴定管夹上",
+   "prompt_en": "The female graduate student firmly clamps the burette in a burette clamp on the ring stand.",
+   "narration": "把滴定管牢牢夹在铁架台上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "排除尖嘴气泡",
+   "scene": "尖嘴里的气泡被放大镜圈出",
+   "prompt_en": "A magnifying glass highlights an air bubble in the burette tip. No people.",
+   "narration": "尖嘴有气泡，不能就这样开始。",
+   "overlay": [
+    "排除尖嘴气泡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "排除尖嘴气泡",
+   "scene": "手指快速来回转动活塞，液体一股股流进烧杯",
+   "prompt_en": "Fingers quickly turn the stopcock back and forth, letting short spurts of liquid into a beaker. No people.",
+   "narration": "快速来回转动活塞，把气泡冲出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "放到零附近，记初始液位",
+   "scene": "液面降到零刻度附近停住",
+   "prompt_en": "The liquid level drops and stops near the top mark of the burette. No people.",
+   "narration": "放到零刻度附近就可以。",
+   "overlay": [
+    "放到零附近，记初始液位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "放到零附近，记初始液位",
+   "scene": "时钟图标上一个小人反复调零的图标被打叉",
+   "prompt_en": "An icon of a person fiddling endlessly with a stopcock next to a clock, crossed out with a red X. No people.",
+   "narration": "不用花时间调到正好是零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "放到零附近，记初始液位",
+   "scene": "小研在空白记录本上写下初读数",
+   "prompt_en": "The female graduate student writes the starting reading in a blank notebook beside the burette.",
+   "narration": "关键是把初始读数记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "静置一分钟沥流",
+   "scene": "沙漏图标旁，滴定管内壁的液膜慢慢流下",
+   "prompt_en": "Next to an hourglass icon, a thin film of liquid slowly runs down the inside wall of the burette. No people.",
+   "narration": "静置约一分钟，让内壁的液体流下。",
+   "overlay": [
+    "静置一分钟沥流"
+   ],
+   "labels": [
+    "约1分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做一次粗滴定",
+   "scene": "欣欣举着一张空白卡片，上面画着一个问号和锥形瓶",
+   "prompt_en": "The panda mascot holds a blank card showing a conical flask icon and a question mark.",
+   "narration": "正式滴定前，先来一次粗滴定。",
+   "overlay": [
+    "先做一次粗滴定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做一次粗滴定",
+   "scene": "刻度上一个大致范围被圈出",
+   "prompt_en": "A burette scale with a rough range circled in green. No people.",
+   "narration": "看看终点大概在哪里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "滴过头也要记下用量",
+   "scene": "锥形瓶变成深粉色，旁边一个笑脸图标",
+   "prompt_en": "A conical flask turned deep pink, next to a relaxed smiley face icon. No people.",
+   "narration": "粗滴定滴过头了？没关系。",
+   "overlay": [
+    "滴过头也要记下用量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "滴过头也要记下用量",
+   "scene": "小研在记录本上写下大致用量",
+   "prompt_en": "The female graduate student notes the approximate volume used in a blank notebook.",
+   "narration": "记下用量，正式滴定时心里有数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认清终点的颜色",
+   "scene": "三只锥形瓶放在白纸上：无色、淡粉、深粉",
+   "prompt_en": "Three conical flasks on white paper: one colorless, one very pale pink, one deep pink. No people.",
+   "narration": "三瓶对比，哪一瓶是终点？",
+   "overlay": [
+    "认清终点的颜色"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认清终点的颜色",
+   "scene": "无色瓶旁出现加号，深粉瓶旁打叉",
+   "prompt_en": "The colorless flask gets a plus sign icon, the deep pink flask gets a red X. No people.",
+   "narration": "无色还差碱，深粉加多了。",
+   "overlay": [],
+   "labels": [
+    "不足",
+    "过量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认清终点的颜色",
+   "scene": "中间的淡粉色瓶子打上绿勾",
+   "prompt_en": "The middle flask with barely visible pale pink liquid gets a green check. No people.",
+   "narration": "澄清透亮、淡淡一点粉，正好。",
+   "overlay": [],
+   "labels": [
+    "正好"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "正式滴定先记初读数",
+   "scene": "滴定管刻度，液面停在零刻度下方",
+   "prompt_en": "Close-up of a burette scale with the liquid level a little below the top mark. No people.",
+   "narration": "正式滴定，先记初读数。",
+   "overlay": [
+    "正式滴定先记初读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "正式滴定先记初读数",
+   "scene": "三个不同的起始液面图标都打勾",
+   "prompt_en": "Three burette icons with different starting levels, each with a green check. No people.",
+   "narration": "从哪里开始都行，记清楚就好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "加一到两滴指示剂",
+   "scene": "小研拿着指示剂滴瓶向锥形瓶滴加",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, adds drops from a small dropper bottle into the conical flask.",
+   "narration": "加指示剂，颜色变化才看得见。",
+   "overlay": [
+    "加一到两滴指示剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "加一到两滴指示剂",
+   "scene": "两滴液滴图标",
+   "prompt_en": "An icon of two small drops falling into a flask. No people.",
+   "narration": "一般一到两滴，按酸的种类定。",
+   "overlay": [],
+   "labels": [
+    "1～2滴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "开始可以快一些",
+   "scene": "液体从尖嘴连续流入锥形瓶",
+   "prompt_en": "Titrant flows steadily from the burette tip into the conical flask on a white base. No people.",
+   "narration": "心里有数，开始可以滴得快些。",
+   "overlay": [
+    "开始可以快一些"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "每加一次都要摇",
+   "scene": "小研一手控活塞，一手旋摇锥形瓶",
+   "prompt_en": "The female graduate student controls the stopcock with one hand and swirls the conical flask with the other.",
+   "narration": "每加一次，都要摇一摇。",
+   "overlay": [
+    "每加一次都要摇"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "每加一次都要摇",
+   "scene": "粉色在溶液中散开后消失",
+   "prompt_en": "A pink streak appears in the flask and fades away as the liquid is swirled. No people.",
+   "narration": "粉色一摇就散，说明还没到终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "接近终点逐滴慢加",
+   "scene": "单个液滴慢慢从尖嘴落下",
+   "prompt_en": "A single drop slowly forms and falls from the burette tip. No people.",
+   "narration": "快到终点，就慢下来少量加。",
+   "overlay": [
+    "接近终点逐滴慢加"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "接近终点逐滴慢加",
+   "scene": "小研盯着锥形瓶的颜色，眼睛图标",
+   "prompt_en": "The female graduate student watches the color in the flask closely, with an eye icon beside her.",
+   "narration": "一滴一滴加，紧盯颜色变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "塑料吸头让液滴更小",
+   "scene": "半个液滴的图标与终点线",
+   "prompt_en": "An icon of half a drop next to a target line. No people.",
+   "narration": "要在不到一滴之内到终点。",
+   "overlay": [
+    "塑料吸头让液滴更小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "塑料吸头让液滴更小",
+   "scene": "手拿一支塑料吸头靠近滴定管尖嘴",
+   "prompt_en": "A gloved hand brings a plastic pipette tip close to the burette tip. No people.",
+   "narration": "可以给尖嘴套一个塑料吸头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "用封口膜固定吸头",
+   "scene": "塑料吸头套在玻璃尖嘴上",
+   "prompt_en": "The plastic tip is pushed onto the glass burette tip. No people.",
+   "narration": "先把吸头套在尖嘴上。",
+   "overlay": [
+    "用封口膜固定吸头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "用封口膜固定吸头",
+   "scene": "双手拉伸一条封口膜缠绕接口",
+   "prompt_en": "Gloved hands stretch a strip of sealing film and wrap it around the joint. No people.",
+   "narration": "封口膜要边拉伸边缠绕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "用封口膜固定吸头",
+   "scene": "撕断膜尾，手指轻拉检查",
+   "prompt_en": "The end of the film is torn off, and a finger gently tugs the tip to check it is firm. No people.",
+   "narration": "撕断后检查，套得牢不松动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "先排吸头里的气泡",
+   "scene": "吸头里的小气泡被放大镜圈出",
+   "prompt_en": "A magnifying glass highlights a small bubble in the plastic tip. No people.",
+   "narration": "装回去，先排掉吸头里的气泡。",
+   "overlay": [
+    "先排吸头里的气泡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "液滴大小对比",
+   "scene": "左边大液滴，右边小液滴，对比",
+   "prompt_en": "Side by side: a large drop from a glass tip on the left, a much smaller drop from a plastic tip on the right. No people.",
+   "narration": "普通尖嘴液滴大，吸头的小得多。",
+   "overlay": [
+    "液滴大小对比"
+   ],
+   "labels": [
+    "普通尖嘴",
+    "塑料吸头"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "取下尖嘴最后半滴",
+   "scene": "尖嘴挂着一滴液体",
+   "prompt_en": "A drop hangs from the burette tip above the flask. No people.",
+   "narration": "以为到终点了？尖嘴还挂着一滴。",
+   "overlay": [
+    "取下尖嘴最后半滴"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "取下尖嘴最后半滴",
+   "scene": "锥形瓶内壁轻碰尖嘴，液滴沿瓶壁流下",
+   "prompt_en": "The inner wall of the conical flask touches the burette tip, and the drop runs down the glass. No people.",
+   "narration": "用瓶内壁碰一下尖嘴，把它接下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "取下尖嘴最后半滴",
+   "scene": "小研倾斜转动锥形瓶",
+   "prompt_en": "The female graduate student tilts and rotates the conical flask to wash down drops on the wall.",
+   "narration": "再倾斜转动，冲下壁上的液滴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "确认终点：淡粉且持久",
+   "scene": "淡粉色锥形瓶在白纸上，旁边一个时钟",
+   "prompt_en": "A conical flask with barely visible pale pink liquid on white paper, a clock icon beside it. No people.",
+   "narration": "澄清、淡粉，而且颜色能保持。",
+   "overlay": [
+    "确认终点：淡粉且持久"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "终点颜色会褪去",
+   "scene": "空气中的小分子图标飘入瓶口，粉色渐渐变淡",
+   "prompt_en": "Small gas molecule icons drift from the air into the flask, and the pale pink slowly fades. No people.",
+   "narration": "终点颜色不是永久的。",
+   "overlay": [
+    "终点颜色会褪去"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "终点颜色会褪去",
+   "scene": "沙漏图标，粉色消失",
+   "prompt_en": "An hourglass icon next to the flask, whose pink color has disappeared. No people.",
+   "narration": "吸收空气里的二氧化碳，几分钟就褪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "读终读数，计算用量",
+   "scene": "沙漏图标旁的滴定管",
+   "prompt_en": "An hourglass icon next to the burette on its stand. No people.",
+   "narration": "收尾时，先静置一分钟。",
+   "overlay": [
+    "读终读数，计算用量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "读终读数，计算用量",
+   "scene": "小研平视滴定管读数并记录",
+   "prompt_en": "The female graduate student reads the burette at eye level and writes in her notebook.",
+   "narration": "平视读出终读数，记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "读终读数，计算用量",
+   "scene": "两个读数图标相减得到结果",
+   "prompt_en": "Two blank reading cards with a minus sign between them and an arrow to a result card. No people.",
+   "narration": "终读数减初读数，就是用量。",
+   "overlay": [],
+   "labels": [
+    "终读数－初读数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "演示不能代替讲义",
+   "scene": "欣欣手捧空白讲义",
+   "prompt_en": "The panda mascot holds a thick blank lab manual.",
+   "narration": "演示只是预习，讲义一定要读。",
+   "overlay": [
+    "演示不能代替讲义"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "演示不能代替讲义",
+   "scene": "书本和锥形瓶图标中间一个加号",
+   "prompt_en": "A book icon and a conical flask icon with a plus sign between them. No people.",
+   "narration": "原理和操作，两样都要会。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先读标签和安全技术说明书",
+   "scene": "小研拿起试剂瓶查看标签上的腐蚀象形图",
+   "prompt_en": "The female graduate student holds a reagent bottle and looks at a corrosive hazard pictogram on its otherwise blank label.",
+   "narration": "动手前，先看试剂标签。",
+   "overlay": [
+    "先读标签和安全技术说明书"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先读标签和安全技术说明书",
+   "scene": "一份空白的安全技术说明书，上面有象形图",
+   "prompt_en": "A blank safety data sheet document with hazard pictograms: corrosive and flammable. No people.",
+   "narration": "再查安全技术说明书。",
+   "overlay": [],
+   "labels": [
+    "腐蚀",
+    "易燃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先读标签和安全技术说明书",
+   "scene": "碱液瓶与眼睛图标，中间一个警示三角",
+   "prompt_en": "A base solution bottle icon and an eye icon with a yellow warning triangle between them. No people.",
+   "narration": "碱液伤眼，指示剂可能易燃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低位装液，不举过头",
+   "scene": "阿杰站在凳子上举起烧杯往高处滴定管里倒，被红叉划掉",
+   "prompt_en": "An icon of a student standing on a stool pouring liquid into a burette above his head, crossed out with a red X. No people.",
+   "narration": "别站凳子、别举过头顶倒液。",
+   "overlay": [
+    "低位装液，不举过头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低位装液，不举过头",
+   "scene": "小研把滴定管取下放低，用漏斗慢慢加液",
+   "prompt_en": "The female graduate student, wearing goggles, takes the burette down to below eye level and pours slowly through a small funnel.",
+   "narration": "取下滴定管，低于视线、用漏斗加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低位装液，不举过头",
+   "scene": "加完后取下漏斗",
+   "prompt_en": "A gloved hand removes the small funnel from the top of the burette. No people.",
+   "narration": "加完记得取下漏斗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "装置稳固，台面整洁",
+   "scene": "铁架台底座平稳，滴定管夹紧，绿勾",
+   "prompt_en": "A ring stand with a heavy base standing flat, the burette held firmly in its clamp, with a green check. No people.",
+   "narration": "铁架台放稳，滴定管夹紧。",
+   "overlay": [
+    "装置稳固，台面整洁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "装置稳固，台面整洁",
+   "scene": "杂乱台面和整洁台面对比",
+   "prompt_en": "A cluttered bench with bottles near the edge crossed out with a red X, next to a tidy bench with a green check. No people.",
+   "narration": "台面整洁，试剂瓶别放在边上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "搅拌器等用电安全",
+   "scene": "磁力搅拌器的电线远离水槽和溶液",
+   "prompt_en": "A magnetic stirrer with its power cord routed away from a sink and spilled liquid. No people.",
+   "narration": "用搅拌器，电线保持干燥。",
+   "overlay": [
+    "搅拌器等用电安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "搅拌器等用电安全",
+   "scene": "湿手碰插头的图标被打叉",
+   "prompt_en": "An icon of a wet hand reaching for a plug, crossed out with a red X. No people.",
+   "narration": "湿手不碰插头，用完关电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "酸碱小量溅洒的处理",
+   "scene": "台面上一小摊溶液，旁边是吸附垫和中和剂图标",
+   "prompt_en": "A small puddle of liquid on a bench next to absorbent pads and a spill kit box with a pictogram. No people.",
+   "narration": "台面溅了少量酸碱，先别慌。",
+   "overlay": [
+    "酸碱小量溅洒的处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "酸碱小量溅洒的处理",
+   "scene": "小研戴手套用吸附材料清理，放进废物袋",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, wipes up the spill with absorbent pads and places them in a waste bag.",
+   "narration": "戴好手套，用吸附材料清理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "酸碱小量溅洒的处理",
+   "scene": "小研向老周报告",
+   "prompt_en": "The female graduate student reports the spill to the older man.",
+   "narration": "按本校规定处理，并告诉负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "不在实验室饮食，离开前洗手",
+   "scene": "实验台上的水杯和零食被红叉划掉",
+   "prompt_en": "Icons of a drinking cup and a snack on a lab bench, crossed out with a red X. No people.",
+   "narration": "实验室里不吃东西、不喝水。",
+   "overlay": [
+    "不在实验室饮食，离开前洗手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "不在实验室饮食，离开前洗手",
+   "scene": "小研摘下手套，在水槽边洗手",
+   "prompt_en": "The female graduate student removes her gloves and washes her hands at a sink.",
+   "narration": "摘下手套，洗手后再离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现润洗、气泡、读数图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a rinsed burette, a popped bubble and a notebook.",
+   "narration": "润洗、夹牢、排气泡、记读数。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "粗滴定和淡粉色锥形瓶图标",
+   "prompt_en": "Icons of a rough trial flask and a pale pink flask with a green check. No people.",
+   "narration": "先粗后精，终点淡粉且持久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "单个液滴和瓶壁接液图标",
+   "prompt_en": "Icons of a single small drop and a flask wall touching a burette tip. No people.",
+   "narration": "近终点逐滴加，半滴也要接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标签、漏斗、洗手图标",
+   "prompt_en": "Icons of a hazard label, a small funnel and hand washing. No people.",
+   "narration": "看标签、低位装液、洗手离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一只淡粉色锥形瓶，挥手道别",
+   "prompt_en": "The panda mascot holds up a conical flask with pale pink liquid and waves goodbye at the camera.",
+   "narration": "一滴不多一滴不少，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
