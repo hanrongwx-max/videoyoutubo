@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 269 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 270 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| BIORISK MANAGEMENT | 44 / 47 | 0 / 42 |
+| BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
 | Microbiology Biosafety | 34 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
@@ -19,7 +19,7 @@
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
-| General Lab Safety Practices | 8 / 8 | 0 / 8 |
+| General Lab Safety Practices | 8 / 8 | 1 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 1 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 0 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 0 / 7 |
@@ -121,6 +121,7 @@
 | BIORISK MANAGEMENT | 42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS | 单一版 | 写下来，照着做：管理控制 | 109 | 9:05 | 23 / 3 | [剧本](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS/审查报告.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 国内版 | 生物安全员：职责与担当（国内版） | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 单一版 | 蚊虫传的病，怎么防 | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
@@ -178,6 +179,7 @@
 | Fume Hood & Cabinet Protocols | 10_Performing Column Chromatography | 国内版 | 柱色谱的操作与安全（国内版） | 103 | 8:35 | 24 / 7 | [剧本](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/10_Performing Column Chromatography（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 11_Physically Constructing a Galvanic Cell (Electrochemistry) | 国内版 | 动手搭一个原电池（国内版） | 74 | 6:10 | 15 / 7 | [剧本](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 12_Laboratory Synthesis of Aspirin | 国内版 | 阿司匹林合成实验与安全（国内版） | 104 | 8:40 | 24 / 9 | [剧本](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/审查报告.md>) |
+| General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 原著版 | 无菌操作与平板划线 | 106 | 8:50 | 31 / 0 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 国内版 | 无菌操作与平板划线（国内版） | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | 国内版 | pH电极的日常维护（国内版） | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/审查报告.md>) |
@@ -287,7 +289,7 @@
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 单一版 | 一张表看懂四个防护等级 | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
-| Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) |
+| Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/审查报告.md>) |
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
