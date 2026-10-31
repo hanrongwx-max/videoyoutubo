@@ -12,7 +12,7 @@
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
-| CDC Laboratory Safety Series | 23 / 23 | 21 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 22 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
@@ -232,6 +232,7 @@
 | CDC Laboratory Safety Series | 10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth | 国内版 | 隔离衣与手套一起脱（国内版） | 87 | 7:15 | 22 / 5 | [剧本](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves | 原著版 | 先脱隔离衣，再摘手套 | 66 | 5:30 | 25 / 0 | [剧本](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves/script.md>) |
 | CDC Laboratory Safety Series | 11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves | 国内版 | 先脱隔离衣，再摘手套（国内版） | 82 | 6:50 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe | 原著版 | 看不见的气幕：生物安全柜的气流 | 47 | 3:55 | 14 / 0 | [剧本](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe/script.md>) |
 | CDC Laboratory Safety Series | 12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe | 国内版 | 看不见的气幕：生物安全柜的气流（国内版） | 66 | 5:30 | 14 / 4 | [剧本](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 原著版 | 开工前，先把安全柜准备好 | 62 | 5:10 | 25 / 0 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo/script.md>) |
 | CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 国内版 | 开工前，先把安全柜准备好（国内版） | 75 | 6:15 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/审查报告.md>) |
