@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 288 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 289 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 50 / 59 | 1 / 25 |
-| BIORISK MANAGEMENT | 47 / 47 | 4 / 42 |
+| BIORISK MANAGEMENT | 47 / 47 | 5 / 42 |
 | CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 4 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
@@ -24,8 +24,8 @@
 | Photonics & Laser Safety Series | 8 / 8 | 6 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 5 / 7 |
+| Electrical Safety Series | 7 / 25 | 5 / 6 |
 | Laboratory Equipment Safety Series | 7 / 7 | 6 / 7 |
-| Electrical Safety Series | 6 / 25 | 5 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -121,6 +121,7 @@
 | BIORISK MANAGEMENT | 22_BIORISK MANAGEMENT 4 | 国内版 | 封闭温室怎么建（国内版） | 100 | 8:20 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/22_BIORISK MANAGEMENT 4（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 23_BIORISK MANAGEMENT | 国内版 | 植物为什么要关起来（国内版） | 78 | 6:30 | 21 / 4 | [剧本](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/23_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY | 国内版 | AMP三步管风险（国内版） | 85 | 7:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/24_BIORISK MANAGEMENT THE 'AMP' MODEL CC-BY（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 原著版 | 生物安全员是做什么的 | 123 | 10:15 | 40 / 0 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER/script.md>) |
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 国内版 | 生物安全员是做什么的（国内版） | 136 | 11:20 | 40 / 4 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 国内版 | 生物安全柜，这样操作（国内版） | 72 | 6:00 | 16 / 4 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 国内版 | 医院送来的样本（国内版） | 70 | 5:50 | 18 / 4 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/审查报告.md>) |
@@ -198,6 +199,7 @@
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 原著版 | 电压等级与爆炸危险区域 | 25 | 2:05 | 4 / 0 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/script.md>) |
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
+| Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |

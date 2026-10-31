@@ -1,0 +1,118 @@
+# 14_INTRODUCTION TO RISK MITIGATION 原著版卡通剧本作者源
+# 完全照原片：五类控制配合使用、三级实验室是防护区、防护的定义、一级防护保护人员（原片举例：个人防护与管理控制）、
+# 二级防护保护环境（工程控制与标准操作规程）、两级配合。知识点 K1–K7，无补充知识点
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "两道屏障，五类控制",
+    "edition": "原著版",
+    "points": {
+        "K1": "风险减缓：措施配合用",
+        "K2": "五类控制",
+        "K3": "防护区：在受控环境里研究",
+        "K4": "什么是防护",
+        "K5": "一级防护：护住人",
+        "K6": "二级防护：护住环境",
+        "K7": "两道屏障一起守",
+    },
+    "avoid": ["UMS", "Universiti Malaysia Sabah", "University Malaysia Sabah", "Commonwealth of Learning",
+              "Rodrigues", "Kenneth", "Biotechnology Research Institute", "MOOC"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验楼走廊，身后一扇关着的实验室门",
+ "The panda mascot stands in a laboratory corridor in front of a closed laboratory door, and waves at the camera.",
+ "这一课，讲怎么把风险降下来。", "两道屏障，五类控制"),
+# 情景
+("情景", "阿杰穿好实验服、戴上手套，得意地张开双臂",
+ "The young male student puts on a lab coat and gloves and spreads his arms proudly.",
+ "阿杰说：防护穿好，就万无一失了。"),
+("情景", "小研摇摇头，指向实验室的墙和排风口",
+ "The female graduate student shakes her head and points at the laboratory walls and an exhaust vent.",
+ "小研说：防护可不止一层。"),
+("情景", "阿杰一脸疑惑，欣欣出现在门边",
+ "The young male student looks puzzled as the panda mascot appears beside the door.",
+ "还有哪几层？听欣欣讲。"),
+# K1
+("K1", "红色风险条，旁边几块积木逐块加上，风险条变短",
+ "A long red risk bar shrinks step by step as building blocks are added beside it. No people.",
+ "风险减缓，就是用措施降风险。", "风险减缓：措施配合用"),
+("K1", "几块积木互相咬合成一堵墙",
+ "Several building blocks interlock into a single wall. No people.",
+ "几类措施要一起用，互相补位。"),
+# K2
+("K2", "五块积木，各有图标",
+ "Five building blocks, each with a different icon: a trash bin with a cross, a swap arrow, a cabinet, a clipboard and a glove. No people.",
+ "控制措施分五类：", "五类控制", ["消除", "替代", "工程控制", "管理控制", "个人防护"]),
+("K2", "欣欣依次指过前两块积木",
+ "The panda mascot points at the first two blocks.",
+ "消除、替代，"),
+("K2", "欣欣指过后三块积木",
+ "The panda mascot points at the last three blocks.",
+ "工程控制、管理控制、个人防护。"),
+# K3
+("K3", "高级别实验室外景，门上禁止入内标志",
+ "The outside of a high-level containment laboratory with a no entry sign on its door. No people.",
+ "高级别实验室，本身是一个防护区。", "防护区：在受控环境里研究"),
+("K3", "实验室里的人员在安全柜前工作，外面一圈盾牌",
+ "Inside the laboratory, a researcher works at a biological safety cabinet, while a ring of shields surrounds the room.",
+ "研究人员在受控的环境里工作。"),
+("K3", "欣欣站在高级别实验室门外，指着身后的门",
+ "The panda mascot stands outside the containment laboratory door and points back at it.",
+ "整个设施，都是为限制风险而建。"),
+# K4
+("K4", "病毒图标被关在一个透明方框里",
+ "A virus icon is enclosed inside a transparent box with a lock. No people.",
+ "什么是防护？", "什么是防护"),
+("K4", "方框外几道控制图标围住，小点出不去",
+ "Control icons surround the transparent box, and the dots inside cannot get out. No people.",
+ "把病原关在受控的空间里，"),
+("K4", "风险箭头被挡回去",
+ "A red arrow trying to leave the box bounces back. No people.",
+ "用各种控制，挡住它外泄。"),
+# K5
+("K5", "两层同心圆：里圈是人，外圈是房间",
+ "Two concentric circles: the inner circle around a person outline icon, the outer circle around a room outline. No people.",
+ "防护分两道，先看第一道。", "一级防护：护住人", ["一级防护", "二级防护"]),
+("K5", "里圈亮起，小研在安全柜前工作",
+ "The inner circle lights up around the female graduate student working at a biological safety cabinet.",
+ "一级防护，护住做实验的人。"),
+("K5", "小研的手套、实验服、护目镜依次发光",
+ "The female graduate student's gloves, lab coat and goggles glow one by one.",
+ "靠个人防护装备，"),
+("K5", "小研对照空白规程操作",
+ "The female graduate student follows a blank procedure sheet with icons.",
+ "也靠规范操作的管理措施。"),
+# K6
+("K6", "外圈亮起，整个实验室房间被罩住",
+ "The outer circle lights up around the whole laboratory room. No people.",
+ "二级防护，护住外面的环境。", "二级防护：护住环境"),
+("K6", "老李检查排风管和过滤器",
+ "The facility engineer checks an exhaust duct and filter housing.",
+ "靠工程控制：墙、门、通风、过滤。"),
+("K6", "王老师把空白进出规程贴在门边",
+ "The safety administrator posts a blank entry and exit procedure sheet beside the door.",
+ "也靠进出、去污等操作规程。"),
+# K7
+("K7", "两层圆圈同时亮起，外面的人群安心",
+ "Both circles light up together, and people outline icons outside the room look safe. No people.",
+ "两道防护，一起用。", "两道屏障一起守"),
+("K7", "外圈有个缺口，被打叉",
+ "The outer circle with a gap in it is crossed out with a red X. No people.",
+ "缺了一道，风险就漏出去。"),
+# 小结
+("小结", "欣欣站在两层同心圆前",
+ "The panda mascot stands in front of the two concentric circles.",
+ "一级护人，二级护环境。", "小结"),
+("小结", "五块积木咬合成一堵墙",
+ "Icons of the five blocks interlocking into one wall. No people.",
+ "五类控制，配合起来用。"),
+("小结", "阿杰看看自己的手套，又看看实验室的墙，向欣欣竖大拇指",
+ "The young male student looks at his gloves, then at the laboratory walls, and gives the panda mascot a thumbs-up.",
+ "护人的一层，护环境的一层，都要有。"),
+# 结尾
+("结尾", "欣欣挥手告别",
+ "The panda mascot waves goodbye in the corridor.",
+ "下一课，再一类类细讲，再见！"),
+]
