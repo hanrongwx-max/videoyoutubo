@@ -1,0 +1,786 @@
+{
+ "id": "15_Replace the AC Contactor for xTool MetalFab Laser Welder",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊接机交流接触器的规范更换",
+ "seconds": 270,
+ "source_doc": "course/Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "只限专业人员，先断电",
+  "K2": "高压和强激光的伤害",
+  "K3": "断电后仍有残余高压",
+  "K4": "全程戴绝缘手套",
+  "K5": "准备工具和备件",
+  "K6": "断开所有连接",
+  "K7": "锁住四个脚轮",
+  "K8": "静置放电和冷却",
+  "K9": "打开左侧门板",
+  "K10": "拆送丝安装板螺钉",
+  "K11": "拆下接地线",
+  "K12": "放平安装板",
+  "K13": "剪断两根扎带",
+  "K14": "拆接触器顶部四根线",
+  "K15": "拆组件的六颗螺钉",
+  "K16": "取下整块组件",
+  "K17": "台面上拆下八根线",
+  "K18": "扳手卡螺母，拆固定螺钉",
+  "K19": "接触器滑出导轨",
+  "K20": "新接触器上导轨，拧紧",
+  "K21": "接回八根线",
+  "K22": "轻拉导线查牢固",
+  "K23": "组件放回，六颗螺钉固定",
+  "K24": "顶部四根线，顺序对图",
+  "K25": "扎带重新捆扎",
+  "K26": "装回面板和外侧板",
+  "S1": "触点粘连：关了还有电",
+  "S2": "认识电弧伤害",
+  "S3": "扳手配合，防打滑伤手",
+  "S4": "机柜清灰的方法",
+  "S5": "接触器异常声响要停机",
+  "S6": "送电前呼唱应答"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在侧门打开的激光焊接机旁，指着机内一个方块形的黑色元件，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a gray wheeled laser welding machine with its side open, points at a black block-shaped electrical component inside, and waves at the camera.",
+   "narration": "这一课，看焊机的交流接触器怎样更换。",
+   "overlay": [
+    "激光焊接机交流接触器的规范更换"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "接触器示意：线圈通电，触点合上，灯泡亮",
+   "prompt_en": "A simple diagram of a contactor: when its coil is energized, the contacts close and a light bulb turns on. No people.",
+   "narration": "接触器像一道电闸，管着主电路的通断。",
+   "overlay": [],
+   "labels": [
+    "线圈",
+    "触点",
+    "主电路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰关掉开关，焊机屏幕却还亮着，风扇还在转",
+   "prompt_en": "The young male student switches off the machine, but its screen stays lit and the cooling fan keeps spinning.",
+   "narration": "阿杰关了机，焊机却还有电在转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，再按几次开关",
+   "prompt_en": "The young male student scratches his head and presses the switch a few more times.",
+   "narration": "他以为开关坏了，又按了几下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研立刻拔下插头，打电话给老李",
+   "prompt_en": "The female graduate student immediately pulls out the power plug and phones the facility engineer.",
+   "narration": "小研马上拔插头，请老李来查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触点粘连：关了还有电",
+   "scene": "接触器触点示意：两片触点焊在一起，冒着焦黑",
+   "prompt_en": "A simple diagram of contactor contacts welded together with dark burn marks. No people.",
+   "narration": "老李说：接触器触点粘住了。",
+   "overlay": [
+    "触点粘连：关了还有电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触点粘连：关了还有电",
+   "scene": "开关已关，但电流箭头仍流向机器",
+   "prompt_en": "A diagram: the power switch is in the off position, yet a current arrow still flows through the stuck contacts to the machine. No people.",
+   "narration": "开关关了，主电路却断不开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触点粘连：关了还有电",
+   "scene": "欣欣严肃地举手，旁边插头拔出的图标",
+   "prompt_en": "The panda mascot raises a paw seriously next to an icon of a plug pulled out of a socket.",
+   "narration": "遇到关不掉，直接拔插头或拉闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "只限专业人员，先断电",
+   "scene": "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+   "prompt_en": "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+   "narration": "换接触器只限专业人员。",
+   "overlay": [
+    "只限专业人员，先断电"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "高压和强激光的伤害",
+   "scene": "机箱剖面示意：一边闪电图标，一边激光束图标",
+   "prompt_en": "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+   "narration": "机内高压和强激光，会触电、烧伤。",
+   "overlay": [
+    "高压和强激光的伤害"
+   ],
+   "labels": [
+    "高电压",
+    "强激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电后仍有残余高压",
+   "scene": "拔掉插头的焊机内部，一个模块上闪电图标，旁边沙漏",
+   "prompt_en": "Inside an unplugged machine cabinet, one module shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+   "narration": "断电后仍有残余高压，要等待。",
+   "overlay": [
+    "断电后仍有残余高压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "全程戴绝缘手套",
+   "scene": "老李戴上厚绝缘手套",
+   "prompt_en": "The facility engineer pulls on thick insulated gloves.",
+   "narration": "全程戴好绝缘手套。",
+   "overlay": [
+    "全程戴绝缘手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "认识电弧伤害",
+   "scene": "示意：带电拔线时，触点间迸出一道亮白电弧",
+   "prompt_en": "A diagram of a bright white electric arc jumping between two contacts as a wire is pulled off while live. No people.",
+   "narration": "带电拆线，触点间会拉出电弧。",
+   "overlay": [
+    "认识电弧伤害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "认识电弧伤害",
+   "scene": "电弧旁的手和眼睛图标，分别标烧伤和眼伤",
+   "prompt_en": "Icons of a hand with a burn mark and an eye with rays, next to an arc symbol. No people.",
+   "narration": "电弧温度极高，会烧伤皮肤、伤眼睛。",
+   "overlay": [],
+   "labels": [
+    "烧伤",
+    "伤眼"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "认识电弧伤害",
+   "scene": "带电插拔的图标被打叉",
+   "prompt_en": "An icon of a hand unplugging a live connector with sparks, crossed out with a red X. No people.",
+   "narration": "所以必须断电后再动接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "准备工具和备件",
+   "scene": "工作台上摆着两把十字螺丝刀、开口扳手、内六角扳手、扎带、剪刀和新接触器",
+   "prompt_en": "On a workbench lie two cross-head screwdrivers, an open-end wrench, a hex key, cable ties, scissors and a new blank black contactor. No people.",
+   "narration": "十字刀、开口扳手、内六角和扎带。",
+   "overlay": [
+    "准备工具和备件"
+   ],
+   "labels": [
+    "十字刀",
+    "开口扳手",
+    "内六角",
+    "扎带",
+    "新接触器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断开所有连接",
+   "scene": "焊机背面接口全部空着",
+   "prompt_en": "The back of the laser welding machine with all sockets empty and the unplugged cables coiled on the floor. No people.",
+   "narration": "确认所有连接都已断开。",
+   "overlay": [
+    "断开所有连接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "锁住四个脚轮",
+   "scene": "老李踩下脚轮刹车",
+   "prompt_en": "The facility engineer presses down the brake on a caster wheel with his foot.",
+   "narration": "四个脚轮全部锁住。",
+   "overlay": [
+    "锁住四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "静置放电和冷却",
+   "scene": "焊机静静放着，墙上时钟指针转动",
+   "prompt_en": "The closed laser welding machine stands still while a wall clock shows time passing. No people.",
+   "narration": "静置一段时间，放电、冷却。",
+   "overlay": [
+    "静置放电和冷却"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "打开左侧门板",
+   "scene": "老李打开焊机左侧门板",
+   "prompt_en": "The facility engineer opens the hinged left side door of the machine.",
+   "narration": "打开左侧门板。",
+   "overlay": [
+    "打开左侧门板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拆送丝安装板螺钉",
+   "scene": "老李拆送丝安装板周边螺钉",
+   "prompt_en": "The facility engineer removes the screws around the wire feeder mounting plate.",
+   "narration": "拆下安装板十四颗螺钉。",
+   "overlay": [
+    "拆送丝安装板螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "拆下接地线",
+   "scene": "老李拆黄绿色接地线的螺钉",
+   "prompt_en": "The facility engineer removes the screw of the yellow-green earth wire.",
+   "narration": "拆下接地线螺钉。",
+   "overlay": [
+    "拆下接地线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放平安装板",
+   "scene": "安装板放平，露出机内一排黑色接触器和一个黄色模块",
+   "prompt_en": "The mounting plate is laid outward, revealing a row of black contactors and a yellow module inside the cabinet.",
+   "narration": "放平安装板。",
+   "overlay": [
+    "放平安装板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "机柜清灰的方法",
+   "scene": "老李用软毛刷和小吸尘器清理机柜底部的灰尘",
+   "prompt_en": "The facility engineer cleans dust from the bottom of the cabinet with a soft brush and a small vacuum cleaner.",
+   "narration": "机柜里有积灰，断电后刷一刷、吸一吸。",
+   "overlay": [
+    "机柜清灰的方法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "机柜清灰的方法",
+   "scene": "压缩空气枪对着电路板直吹的图标被打叉",
+   "prompt_en": "An icon of a compressed air gun blowing straight at a circuit board, crossed out with a red X. No people.",
+   "narration": "不用压缩空气直吹，灰会钻进元件里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "剪断两根扎带",
+   "scene": "剪刀剪断两根扎带",
+   "prompt_en": "Scissors snip two cable ties holding the wire bundle near the contactors.",
+   "narration": "剪断两根扎带。",
+   "overlay": [
+    "剪断两根扎带"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "拆接触器顶部四根线",
+   "scene": "十字刀拧下接触器顶部端子，四根线取下",
+   "prompt_en": "A cross-head screwdriver loosens the top terminals of the contactor and four wires are removed.",
+   "narration": "拆下接触器顶部的四根线。",
+   "overlay": [
+    "拆接触器顶部四根线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "拆组件的六颗螺钉",
+   "scene": "画面一角标出六颗螺钉位置，老李逐颗拧下",
+   "prompt_en": "A small inset marks six screw positions with arrows while the facility engineer removes them one by one.",
+   "narration": "拆下固定组件的六颗螺钉。",
+   "overlay": [
+    "拆组件的六颗螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "取下整块组件",
+   "scene": "接触器和黄色模块所在的整块安装板被取出",
+   "prompt_en": "The whole mounting plate carrying the black contactors and the yellow module is lifted out of the cabinet.",
+   "narration": "把整块组件取下来，放到工作台。",
+   "overlay": [
+    "取下整块组件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "台面上拆下八根线",
+   "scene": "工作台上，老李拆下接触器上的线",
+   "prompt_en": "On a workbench, the facility engineer disconnects the wires from the contactor terminals.",
+   "narration": "在台面上拆下接触器的八根线。",
+   "overlay": [
+    "台面上拆下八根线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "扳手卡螺母，拆固定螺钉",
+   "scene": "组件背面，开口扳手卡住螺母，内六角扳手拧螺钉",
+   "prompt_en": "On the back of the plate, an open-end wrench holds a nut while a hex key turns the fixing screw.",
+   "narration": "扳手卡住螺母，内六角拧下螺钉。",
+   "overlay": [
+    "扳手卡螺母，拆固定螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "扳手卡螺母，拆固定螺钉",
+   "scene": "两颗螺钉逐颗拆下",
+   "prompt_en": "The two fixing screws are removed one at a time.",
+   "narration": "两颗螺钉，一颗一颗拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "扳手配合，防打滑伤手",
+   "scene": "扳手打滑、手撞到锐边的图标被打叉",
+   "prompt_en": "An icon of a wrench slipping and a hand hitting a sharp metal edge, crossed out with a red X. No people.",
+   "narration": "用力方向别对着手，防打滑撞伤。",
+   "overlay": [
+    "扳手配合，防打滑伤手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "扳手配合，防打滑伤手",
+   "scene": "老李把组件压在台面上，扳手完全卡住螺母再发力",
+   "prompt_en": "The facility engineer holds the plate firmly on the bench and fully seats the wrench on the nut before turning.",
+   "narration": "工件压稳，扳手卡到位再用力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "接触器滑出导轨",
+   "scene": "接触器沿导轨滑出",
+   "prompt_en": "The old contactor slides off the metal mounting rail.",
+   "narration": "把旧接触器从导轨上滑出来。",
+   "overlay": [
+    "接触器滑出导轨"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "新接触器上导轨，拧紧",
+   "scene": "新接触器滑上导轨",
+   "prompt_en": "The new contactor slides onto the mounting rail.",
+   "narration": "新接触器滑上导轨。",
+   "overlay": [
+    "新接触器上导轨，拧紧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "新接触器上导轨，拧紧",
+   "scene": "扳手和内六角配合，拧紧两颗螺钉",
+   "prompt_en": "The wrench and hex key work together to tighten the two fixing screws.",
+   "narration": "拧紧两颗螺钉固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "接回八根线",
+   "scene": "画面一角是参考图，老李把八根线接回接触器",
+   "prompt_en": "A small reference picture in the corner while the facility engineer reconnects eight wires to the contactor.",
+   "narration": "对照参考图，接回八根线。",
+   "overlay": [
+    "接回八根线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "轻拉导线查牢固",
+   "scene": "老李逐根轻拉导线",
+   "prompt_en": "The facility engineer gently tugs each wire one by one.",
+   "narration": "每根线轻轻一拉，确认接牢。",
+   "overlay": [
+    "轻拉导线查牢固"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "组件放回，六颗螺钉固定",
+   "scene": "组件放回机柜，六颗螺钉拧紧",
+   "prompt_en": "The mounting plate assembly is placed back into the cabinet and six screws are tightened.",
+   "narration": "组件放回机柜，六颗螺钉固定。",
+   "overlay": [
+    "组件放回，六颗螺钉固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "顶部四根线，顺序对图",
+   "scene": "顶部端子用绿框标出，四根线接回",
+   "prompt_en": "The top terminals of the contactor are highlighted with a green frame and four wires are reconnected.",
+   "narration": "接回顶部四根线。",
+   "overlay": [
+    "顶部四根线，顺序对图"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "顶部四根线，顺序对图",
+   "scene": "参考图与实物线序用虚线对应",
+   "prompt_en": "Split view: a blank reference wiring picture and the four wires on top of the contactor, joined by matching dotted lines. No people.",
+   "narration": "顺序必须和参考图完全一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "扎带重新捆扎",
+   "scene": "线缆用扎带重新捆好，剪掉多余尾巴",
+   "prompt_en": "The wires are bundled again with cable ties and the extra tails are trimmed.",
+   "narration": "用扎带重新捆好线缆。",
+   "overlay": [
+    "扎带重新捆扎"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "装回面板和外侧板",
+   "scene": "老李抬回安装板，接送丝电机线和接地线",
+   "prompt_en": "The facility engineer lifts the mounting plate back and reconnects the wire feeder motor cable and earth wire.",
+   "narration": "接回电机线和接地线。",
+   "overlay": [
+    "装回面板和外侧板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "装回面板和外侧板",
+   "scene": "左门板关上，外侧板装回",
+   "prompt_en": "The left side door is closed and the outer side cover is refitted.",
+   "narration": "关好门板，装回外侧板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "送电前呼唱应答",
+   "scene": "老李喊话，小研在配电开关旁回应，两人对视",
+   "prompt_en": "The facility engineer calls out while the female graduate student, standing at the wall breaker, answers back and they look at each other.",
+   "narration": "送电前大声问：人员工具都撤了吗？",
+   "overlay": [
+    "送电前呼唱应答"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "送电前呼唱应答",
+   "scene": "小研确认后推上开关",
+   "prompt_en": "After confirming, the female graduate student switches the breaker on.",
+   "narration": "确认无误，回答可以送电，才合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "送电前呼唱应答",
+   "scene": "一人在机内，一人在远处合闸的图标被打叉",
+   "prompt_en": "An icon of one person working inside a machine while another switches on power far away, crossed out with a red X. No people.",
+   "narration": "不喊不应，绝不送电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "接触器异常声响要停机",
+   "scene": "焊机运行，机内传出嗡嗡声波图标",
+   "prompt_en": "The running laser welding machine with buzzing sound wave icons coming from inside. No people.",
+   "narration": "正常吸合是轻轻一声咔嗒。",
+   "overlay": [
+    "接触器异常声响要停机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "接触器异常声响要停机",
+   "scene": "嗡嗡响、频繁咔嗒、发烫三个图标",
+   "prompt_en": "Three warning icons: loud buzzing waves, repeated clicking marks and heat waves. No people.",
+   "narration": "持续嗡嗡响、反复跳、发烫，就是异常。",
+   "overlay": [],
+   "labels": [
+    "嗡嗡响",
+    "反复跳",
+    "发烫"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "接触器异常声响要停机",
+   "scene": "阿杰按下急停，拔掉插头，旁边空白报修单",
+   "prompt_en": "The young male student presses the emergency stop, unplugs the machine and fills a blank repair form.",
+   "narration": "马上停机断电，报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在焊机旁，身后浮现四个图标",
+   "prompt_en": "The panda mascot stands beside the laser welding machine with four icons behind: welded contacts, an electric arc, a wrench and two people calling to each other.",
+   "narration": "关不掉先拔插头，断电才动线。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "触点粘连",
+    "电弧",
+    "扳手",
+    "呼唱应答"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣伸出手指数着",
+   "prompt_en": "The panda mascot counts on its fingers.",
+   "narration": "刷灰不吹，异响停机，送电先呼唱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、老李、小研和阿杰在焊机前挥手",
+   "prompt_en": "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye in front of the laser welding machine.",
+   "narration": "通断有数，合闸有声。下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

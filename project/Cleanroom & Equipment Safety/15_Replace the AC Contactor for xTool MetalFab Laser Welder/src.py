@@ -1,0 +1,245 @@
+# 15_Replace the AC Contactor for xTool MetalFab Laser Welder 卡通剧本作者源
+# 原片为激光焊接设备厂家的售后维修教程（无旁白，只有字幕）：更换焊机的交流接触器。
+# 保留全部操作知识点 K1–K26，设备统称“手持式激光焊接机”；
+# 审查补充 S1–S6（触点粘连的危险、电弧伤害、扳手双手配合防打滑、机柜清灰方法、接触器异常声响、送电前呼唱应答）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "激光焊接机交流接触器的规范更换",
+    "points": {
+        "K1": "只限专业人员，先断电",
+        "K2": "高压和强激光的伤害",
+        "K3": "断电后仍有残余高压",
+        "K4": "全程戴绝缘手套",
+        "K5": "准备工具和备件",
+        "K6": "断开所有连接",
+        "K7": "锁住四个脚轮",
+        "K8": "静置放电和冷却",
+        "K9": "打开左侧门板",
+        "K10": "拆送丝安装板螺钉",
+        "K11": "拆下接地线",
+        "K12": "放平安装板",
+        "K13": "剪断两根扎带",
+        "K14": "拆接触器顶部四根线",
+        "K15": "拆组件的六颗螺钉",
+        "K16": "取下整块组件",
+        "K17": "台面上拆下八根线",
+        "K18": "扳手卡螺母，拆固定螺钉",
+        "K19": "接触器滑出导轨",
+        "K20": "新接触器上导轨，拧紧",
+        "K21": "接回八根线",
+        "K22": "轻拉导线查牢固",
+        "K23": "组件放回，六颗螺钉固定",
+        "K24": "顶部四根线，顺序对图",
+        "K25": "扎带重新捆扎",
+        "K26": "装回面板和外侧板",
+        "S1": "触点粘连：关了还有电",
+        "S2": "认识电弧伤害",
+        "S3": "扳手配合，防打滑伤手",
+        "S4": "机柜清灰的方法",
+        "S5": "接触器异常声响要停机",
+        "S6": "送电前呼唱应答",
+    },
+    "avoid": ["xTool", "X-Tool", "XTool", "X Tool", "MetalFab", "Metal Fab", "Schneider", "TeSys", "CHENZHU"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在侧门打开的激光焊接机旁，指着机内一个方块形的黑色元件，向镜头招手",
+ "The panda mascot stands beside a gray wheeled laser welding machine with its side open, points at a black block-shaped electrical component inside, and waves at the camera.",
+ "这一课，看焊机的交流接触器怎样更换。", "激光焊接机交流接触器的规范更换"),
+("开场", "接触器示意：线圈通电，触点合上，灯泡亮",
+ "A simple diagram of a contactor: when its coil is energized, the contacts close and a light bulb turns on. No people.",
+ "接触器像一道电闸，管着主电路的通断。", "", ["线圈", "触点", "主电路"]),
+# 情景
+("情景", "阿杰关掉开关，焊机屏幕却还亮着，风扇还在转",
+ "The young male student switches off the machine, but its screen stays lit and the cooling fan keeps spinning.",
+ "阿杰关了机，焊机却还有电在转。"),
+("情景", "阿杰挠头，再按几次开关",
+ "The young male student scratches his head and presses the switch a few more times.",
+ "他以为开关坏了，又按了几下。"),
+("情景", "小研立刻拔下插头，打电话给老李",
+ "The female graduate student immediately pulls out the power plug and phones the facility engineer.",
+ "小研马上拔插头，请老李来查。"),
+# S1
+("S1", "接触器触点示意：两片触点焊在一起，冒着焦黑",
+ "A simple diagram of contactor contacts welded together with dark burn marks. No people.",
+ "老李说：接触器触点粘住了。", "触点粘连：关了还有电"),
+("S1", "开关已关，但电流箭头仍流向机器",
+ "A diagram: the power switch is in the off position, yet a current arrow still flows through the stuck contacts to the machine. No people.",
+ "开关关了，主电路却断不开。"),
+("S1", "欣欣严肃地举手，旁边插头拔出的图标",
+ "The panda mascot raises a paw seriously next to an icon of a plug pulled out of a socket.",
+ "遇到关不掉，直接拔插头或拉闸。"),
+# K1
+("K1", "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+ "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+ "换接触器只限专业人员。", "只限专业人员，先断电"),
+# K2
+("K2", "机箱剖面示意：一边闪电图标，一边激光束图标",
+ "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+ "机内高压和强激光，会触电、烧伤。", "高压和强激光的伤害", ["高电压", "强激光"]),
+# K3
+("K3", "拔掉插头的焊机内部，一个模块上闪电图标，旁边沙漏",
+ "Inside an unplugged machine cabinet, one module shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+ "断电后仍有残余高压，要等待。", "断电后仍有残余高压"),
+# K4
+("K4", "老李戴上厚绝缘手套",
+ "The facility engineer pulls on thick insulated gloves.",
+ "全程戴好绝缘手套。", "全程戴绝缘手套"),
+# S2
+("S2", "示意：带电拔线时，触点间迸出一道亮白电弧",
+ "A diagram of a bright white electric arc jumping between two contacts as a wire is pulled off while live. No people.",
+ "带电拆线，触点间会拉出电弧。", "认识电弧伤害"),
+("S2", "电弧旁的手和眼睛图标，分别标烧伤和眼伤",
+ "Icons of a hand with a burn mark and an eye with rays, next to an arc symbol. No people.",
+ "电弧温度极高，会烧伤皮肤、伤眼睛。", "", ["烧伤", "伤眼"]),
+("S2", "带电插拔的图标被打叉",
+ "An icon of a hand unplugging a live connector with sparks, crossed out with a red X. No people.",
+ "所以必须断电后再动接线。"),
+# K5
+("K5", "工作台上摆着两把十字螺丝刀、开口扳手、内六角扳手、扎带、剪刀和新接触器",
+ "On a workbench lie two cross-head screwdrivers, an open-end wrench, a hex key, cable ties, scissors and a new blank black contactor. No people.",
+ "十字刀、开口扳手、内六角和扎带。", "准备工具和备件", ["十字刀", "开口扳手", "内六角", "扎带", "新接触器"]),
+# K6
+("K6", "焊机背面接口全部空着",
+ "The back of the laser welding machine with all sockets empty and the unplugged cables coiled on the floor. No people.",
+ "确认所有连接都已断开。", "断开所有连接"),
+# K7
+("K7", "老李踩下脚轮刹车",
+ "The facility engineer presses down the brake on a caster wheel with his foot.",
+ "四个脚轮全部锁住。", "锁住四个脚轮"),
+# K8
+("K8", "焊机静静放着，墙上时钟指针转动",
+ "The closed laser welding machine stands still while a wall clock shows time passing. No people.",
+ "静置一段时间，放电、冷却。", "静置放电和冷却"),
+# K9
+("K9", "老李打开焊机左侧门板",
+ "The facility engineer opens the hinged left side door of the machine.",
+ "打开左侧门板。", "打开左侧门板"),
+# K10
+("K10", "老李拆送丝安装板周边螺钉",
+ "The facility engineer removes the screws around the wire feeder mounting plate.",
+ "拆下安装板十四颗螺钉。", "拆送丝安装板螺钉"),
+# K11
+("K11", "老李拆黄绿色接地线的螺钉",
+ "The facility engineer removes the screw of the yellow-green earth wire.",
+ "拆下接地线螺钉。", "拆下接地线"),
+# K12
+("K12", "安装板放平，露出机内一排黑色接触器和一个黄色模块",
+ "The mounting plate is laid outward, revealing a row of black contactors and a yellow module inside the cabinet.",
+ "放平安装板。", "放平安装板"),
+# S4
+("S4", "老李用软毛刷和小吸尘器清理机柜底部的灰尘",
+ "The facility engineer cleans dust from the bottom of the cabinet with a soft brush and a small vacuum cleaner.",
+ "机柜里有积灰，断电后刷一刷、吸一吸。", "机柜清灰的方法"),
+("S4", "压缩空气枪对着电路板直吹的图标被打叉",
+ "An icon of a compressed air gun blowing straight at a circuit board, crossed out with a red X. No people.",
+ "不用压缩空气直吹，灰会钻进元件里。"),
+# K13
+("K13", "剪刀剪断两根扎带",
+ "Scissors snip two cable ties holding the wire bundle near the contactors.",
+ "剪断两根扎带。", "剪断两根扎带"),
+# K14
+("K14", "十字刀拧下接触器顶部端子，四根线取下",
+ "A cross-head screwdriver loosens the top terminals of the contactor and four wires are removed.",
+ "拆下接触器顶部的四根线。", "拆接触器顶部四根线"),
+# K15
+("K15", "画面一角标出六颗螺钉位置，老李逐颗拧下",
+ "A small inset marks six screw positions with arrows while the facility engineer removes them one by one.",
+ "拆下固定组件的六颗螺钉。", "拆组件的六颗螺钉"),
+# K16
+("K16", "接触器和黄色模块所在的整块安装板被取出",
+ "The whole mounting plate carrying the black contactors and the yellow module is lifted out of the cabinet.",
+ "把整块组件取下来，放到工作台。", "取下整块组件"),
+# K17
+("K17", "工作台上，老李拆下接触器上的线",
+ "On a workbench, the facility engineer disconnects the wires from the contactor terminals.",
+ "在台面上拆下接触器的八根线。", "台面上拆下八根线"),
+# K18
+("K18", "组件背面，开口扳手卡住螺母，内六角扳手拧螺钉",
+ "On the back of the plate, an open-end wrench holds a nut while a hex key turns the fixing screw.",
+ "扳手卡住螺母，内六角拧下螺钉。", "扳手卡螺母，拆固定螺钉"),
+("K18", "两颗螺钉逐颗拆下",
+ "The two fixing screws are removed one at a time.",
+ "两颗螺钉，一颗一颗拆。"),
+# S3
+("S3", "扳手打滑、手撞到锐边的图标被打叉",
+ "An icon of a wrench slipping and a hand hitting a sharp metal edge, crossed out with a red X. No people.",
+ "用力方向别对着手，防打滑撞伤。", "扳手配合，防打滑伤手"),
+("S3", "老李把组件压在台面上，扳手完全卡住螺母再发力",
+ "The facility engineer holds the plate firmly on the bench and fully seats the wrench on the nut before turning.",
+ "工件压稳，扳手卡到位再用力。"),
+# K19
+("K19", "接触器沿导轨滑出",
+ "The old contactor slides off the metal mounting rail.",
+ "把旧接触器从导轨上滑出来。", "接触器滑出导轨"),
+# K20
+("K20", "新接触器滑上导轨",
+ "The new contactor slides onto the mounting rail.",
+ "新接触器滑上导轨。", "新接触器上导轨，拧紧"),
+("K20", "扳手和内六角配合，拧紧两颗螺钉",
+ "The wrench and hex key work together to tighten the two fixing screws.",
+ "拧紧两颗螺钉固定。"),
+# K21
+("K21", "画面一角是参考图，老李把八根线接回接触器",
+ "A small reference picture in the corner while the facility engineer reconnects eight wires to the contactor.",
+ "对照参考图，接回八根线。", "接回八根线"),
+# K22
+("K22", "老李逐根轻拉导线",
+ "The facility engineer gently tugs each wire one by one.",
+ "每根线轻轻一拉，确认接牢。", "轻拉导线查牢固"),
+# K23
+("K23", "组件放回机柜，六颗螺钉拧紧",
+ "The mounting plate assembly is placed back into the cabinet and six screws are tightened.",
+ "组件放回机柜，六颗螺钉固定。", "组件放回，六颗螺钉固定"),
+# K24
+("K24", "顶部端子用绿框标出，四根线接回",
+ "The top terminals of the contactor are highlighted with a green frame and four wires are reconnected.",
+ "接回顶部四根线。", "顶部四根线，顺序对图"),
+("K24", "参考图与实物线序用虚线对应",
+ "Split view: a blank reference wiring picture and the four wires on top of the contactor, joined by matching dotted lines. No people.",
+ "顺序必须和参考图完全一致。"),
+# K25
+("K25", "线缆用扎带重新捆好，剪掉多余尾巴",
+ "The wires are bundled again with cable ties and the extra tails are trimmed.",
+ "用扎带重新捆好线缆。", "扎带重新捆扎"),
+# K26
+("K26", "老李抬回安装板，接送丝电机线和接地线",
+ "The facility engineer lifts the mounting plate back and reconnects the wire feeder motor cable and earth wire.",
+ "接回电机线和接地线。", "装回面板和外侧板"),
+("K26", "左门板关上，外侧板装回",
+ "The left side door is closed and the outer side cover is refitted.",
+ "关好门板，装回外侧板。"),
+# S6
+("S6", "老李喊话，小研在配电开关旁回应，两人对视",
+ "The facility engineer calls out while the female graduate student, standing at the wall breaker, answers back and they look at each other.",
+ "送电前大声问：人员工具都撤了吗？", "送电前呼唱应答"),
+("S6", "小研确认后推上开关",
+ "After confirming, the female graduate student switches the breaker on.",
+ "确认无误，回答可以送电，才合闸。"),
+("S6", "一人在机内，一人在远处合闸的图标被打叉",
+ "An icon of one person working inside a machine while another switches on power far away, crossed out with a red X. No people.",
+ "不喊不应，绝不送电。"),
+# S5
+("S5", "焊机运行，机内传出嗡嗡声波图标",
+ "The running laser welding machine with buzzing sound wave icons coming from inside. No people.",
+ "正常吸合是轻轻一声咔嗒。", "接触器异常声响要停机"),
+("S5", "嗡嗡响、频繁咔嗒、发烫三个图标",
+ "Three warning icons: loud buzzing waves, repeated clicking marks and heat waves. No people.",
+ "持续嗡嗡响、反复跳、发烫，就是异常。", "", ["嗡嗡响", "反复跳", "发烫"]),
+("S5", "阿杰按下急停，拔掉插头，旁边空白报修单",
+ "The young male student presses the emergency stop, unplugs the machine and fills a blank repair form.",
+ "马上停机断电，报修。"),
+# 小结
+("小结", "欣欣站在焊机旁，身后浮现四个图标",
+ "The panda mascot stands beside the laser welding machine with four icons behind: welded contacts, an electric arc, a wrench and two people calling to each other.",
+ "关不掉先拔插头，断电才动线。", "小结", ["触点粘连", "电弧", "扳手", "呼唱应答"]),
+("小结", "欣欣伸出手指数着",
+ "The panda mascot counts on its fingers.",
+ "刷灰不吹，异响停机，送电先呼唱。"),
+# 结尾
+("结尾", "欣欣、老李、小研和阿杰在焊机前挥手",
+ "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye in front of the laser welding machine.",
+ "通断有数，合闸有声。下次见！"),
+]
