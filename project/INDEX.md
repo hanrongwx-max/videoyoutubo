@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 209 / 441 个视频。
+已编写 210 / 441 个视频。
 
 ## 各剧集进度
 
@@ -8,7 +8,7 @@
 |---|---|
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
-| BIORISK MANAGEMENT | 18 / 47 |
+| BIORISK MANAGEMENT | 19 / 47 |
 | Lab Safety Training Series | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
@@ -95,6 +95,7 @@
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 看不见的墙：气流防护 | 56 | 4:40 | 13 / 3 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment/script.md>) · [审查](<BIORISK MANAGEMENT/16_Biorisk Management Containment/审查报告.md>) |
 | BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 跟着路线走进三级实验室 | 71 | 5:55 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY/script.md>) · [审查](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY/审查报告.md>) |
 | BIORISK MANAGEMENT | 18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19 | 送风头罩怎么用 | 60 | 5:00 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19/script.md>) · [审查](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19/审查报告.md>) |
+| BIORISK MANAGEMENT | 19_BIORISK MANAGEMENT | 四个风险组与三步管理 | 52 | 4:20 | 14 / 3 | [剧本](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
