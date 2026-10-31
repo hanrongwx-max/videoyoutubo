@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 36 / 59 |
+| Microbiology Biosafety | 59 / 59 | 37 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -696,6 +696,7 @@
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 国内版 | 一张表看懂四个防护等级（国内版） | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 原著版 | 哪一级实验室，操作哪类微生物 | 48 | 4:00 | 15 / 0 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/script.md>) |
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 国内版 | 哪一级实验室，操作哪类微生物（国内版） | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l（国内版）/script.md>) · [审查](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi | 原著版 | 每一级实验室，配哪些安全装备 | 48 | 4:00 | 15 / 0 | [剧本](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi/script.md>) |
 | Microbiology Biosafety | 37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi | 国内版 | 每一级实验室，配哪些安全装备（国内版） | 65 | 5:25 | 15 / 4 | [剧本](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（国内版）/script.md>) · [审查](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 国内版 | 一级到四级：各级实验室要学什么（国内版） | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa（国内版）/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa（国内版）/审查报告.md>) |
