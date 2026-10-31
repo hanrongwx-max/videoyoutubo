@@ -1,0 +1,133 @@
+# 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase 卡通剧本作者源
+# 原著版：完全照原片（2 分 08 秒车间走访：整理整顿也是安全），K1–K8，不加补充知识点、不做更正；
+# 保留原片内容：通道扫净、软管线缆离地；废料桶放在工作台尽头、废料伸出会扎人；注意力在会响的折弯机和激光机上；
+# 别靠激光机、别把手搭在格栅条上；别爬上工作台（原片提到多年前有人摔上台面缝了约 60 针）；废料骨架竖放架内用链条锁住；头部高度的板边要切掉或收好
+# 讲解人徒手指点废料照原片；原片没讲消防通道、防割手套、日常检查，本版也不加；讲解人姓名、公司名、网址和联系方式不出现，讲解人改为老李
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "整洁有序也是安全",
+    "edition": "原著版",
+    "points": {
+        "K1": "整理整顿也是安全",
+        "K2": "通道干净，线缆离地",
+        "K3": "废料伸出来会扎人",
+        "K4": "人的眼睛在别处",
+        "K5": "别靠机器，别搭格栅",
+        "K6": "不准爬上工作台",
+        "K7": "废料上架，链条锁住",
+        "K8": "头部高度的板边",
+    },
+    "avoid": ["Scott Kiser", "Kiser", "Innovative Laser", "Innovative Laser & Design", "InnovativeLaserCutting", "LaserServiceGuy", "Laser Maintenance Group", "LMG"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣拿着扫帚站在整洁的车间通道上，向镜头招手",
+ "The panda mascot holds a broom in a tidy workshop aisle and waves at the camera.",
+ "整洁有序，也是安全。", "整洁有序也是安全"),
+("开场", "通道、线缆、废料桶、格栅台、废料架五个图标",
+ "Five icons in a row: a clear aisle, a coiled cable, a scrap bin, a grid table and a scrap rack. No people.",
+ "跟老李在车间里走一圈。"),
+# 情景
+("情景", "办公区门口，老李对着镜头讲话，几位访客在旁",
+ "At an office door with a blank welcome sign, the facility engineer talks to the camera with a few visitors nearby.",
+ "客户来了，都想进车间看看。"),
+("情景", "老李推开门，带访客走进车间",
+ "The facility engineer pushes open the door and leads the visitors into the workshop.",
+ "带他们进来，就要照看好他们。"),
+# K1
+("K1", "激光图标旁加一个扫帚图标，中间画等号连到盾牌",
+ "A laser icon and a broom icon joined by an equals sign to a shield icon. No people.",
+ "今天讲的不是激光，是整理整顿。", "整理整顿也是安全"),
+("K1", "老李竖起一根手指",
+ "The facility engineer raises one finger while talking.",
+ "整理整顿，同样是安全。"),
+# K2
+("K2", "干净的通道，地面扫得发亮",
+ "A clean workshop aisle with a freshly swept shiny floor. No people.",
+ "通道要保持干净，扫干净。", "通道干净，线缆离地"),
+("K2", "软管和电缆挂在墙上的挂钩上，地面空着",
+ "Hoses and cables hang on wall hooks and the floor below is clear. No people.",
+ "软管、电缆都不放在地上。"),
+("K2", "家和办公室的图标，旁边一个车间图标",
+ "Icons of a home and an office next to an icon of an industrial workshop. No people.",
+ "访客习惯的是家里和办公室。"),
+# K3
+("K3", "工作台尽头摞着几个白色废料桶，尖角从桶口伸出",
+ "At the end of a blue workbench, several white scrap bins are stacked, with sharp metal pieces sticking out. No people.",
+ "工作台尽头，摞着几个废料桶。", "废料伸出来会扎人"),
+("K3", "老李弯腰指着桶口伸出的尖角",
+ "The facility engineer bends down and points with a bare hand at the sharp scrap sticking out of a bin.",
+ "图方便放在这儿，废料却伸了出来。"),
+("K3", "一个边走边张望的人图标，腿碰到伸出的尖角",
+ "An icon of a person looking around while walking, whose leg hits a sharp corner sticking out. No people.",
+ "边走边看的人不看脚下，就会被扎。"),
+# K4
+("K4", "折弯机和激光机上方画着声音波纹，人的视线都朝上",
+ "A press brake and a laser machine with sound wave lines above them, and eye icons all looking up at them. No people.",
+ "大家都在看会响的折弯机和激光机。", "人的眼睛在别处"),
+("K4", "脚下的线缆和废料图标旁一个问号",
+ "A cable and scrap pieces on the floor next to a question mark. No people.",
+ "没人会去看脚下。"),
+("K4", "畅通的通道和挂起的线缆打勾",
+ "A clear aisle and cables hung off the floor, with a green check. No people.",
+ "所以通道畅通、线缆离地很重要。"),
+# K5
+("K5", "老李走到激光切割机的格栅工作台旁",
+ "The facility engineer walks to the slatted grid table of a laser cutting machine.",
+ "到了激光切割机旁边。", "别靠机器，别搭格栅"),
+("K5", "人靠在激光机上的图标，被红叉划掉",
+ "An icon of a person leaning against a laser machine, crossed out with a red X. No people.",
+ "不要站在这儿，靠在激光机上。"),
+("K5", "格栅条上一排锯齿状的尖顶特写",
+ "Close-up of the jagged pointed tips along the slats of the grid table. No people.",
+ "格栅条是用来托住板材的。"),
+("K5", "手搭在格栅条上的图标，被红叉划掉",
+ "An icon of a hand resting on the grid slats, crossed out with a red X. No people.",
+ "把手搭在上面，会被划伤。"),
+# K6
+("K6", "有人爬上工作台的图标，被红叉划掉",
+ "An icon of a person climbing onto the laser cutting bed, crossed out with a red X. No people.",
+ "更不要爬上激光机的工作台。", "不准爬上工作台"),
+("K6", "老李回忆，旁边一个日历翻回多年前",
+ "The facility engineer recalls a story, with a calendar flipping back many years beside him.",
+ "多年前，有人摔在台面上。"),
+("K6", "一个缝针的医疗图标",
+ "A simple medical stitches icon with a bandage. No people.",
+ "伤得很重，缝了大约60针。", "", ["约60针"]),
+# K7
+("K7", "蓝色废料架前，散乱的废料图标",
+ "In front of a blue scrap rack, an icon of messy scattered scrap. No people.",
+ "废料管理真的很难，很容易乱。", "废料上架，链条锁住"),
+("K7", "大块废料骨架竖着插在架子里",
+ "Large leftover sheet skeletons stand upright in slots of a blue scrap rack. No people.",
+ "大块废料骨架，竖着放进架子。"),
+("K7", "老李拉起链条，把废料挂住",
+ "The facility engineer pulls up a chain across the rack and latches it.",
+ "再用链条挂住锁定，倒不出来。"),
+# K8
+("K8", "架子上方伸出一截板材边角，正好在头部高度",
+ "A sheet metal corner sticks out from the top of the rack at head height. No people.",
+ "架子上方伸出来的板材边角，", "头部高度的板边"),
+("K8", "老李伸手比到自己头部的高度",
+ "The facility engineer holds his hand at the level of his own head next to the sticking-out corner.",
+ "正好在头这么高，容易碰头。"),
+("K8", "板边被切掉、收进架内的示意",
+ "A diagram: the sticking-out corner is trimmed off and the rest is pushed back into the rack. No people.",
+ "这种东西要切掉，或者收进去。"),
+("K8", "废料按类别整齐放好的架子",
+ "A scrap rack with scrap sorted neatly by type and safely put away. No people.",
+ "废料分类整齐，安全收好。"),
+# 小结
+("小结", "欣欣身旁浮现通道、线缆、废料桶、格栅、废料架图标",
+ "The panda mascot stands beside icons of a clear aisle, cables off the floor, a scrap bin, a grid table and a scrap rack.",
+ "通道畅通，线缆离地，废料不伸出。", "小结"),
+("小结", "老李站在整齐的废料架前点头",
+ "The facility engineer nods in front of the neat, chained scrap rack.",
+ "别靠别爬，废料锁好，板边收好。"),
+# 结尾
+("结尾", "欣欣挥着扫帚告别",
+ "The panda mascot waves the broom goodbye.",
+ "整洁有序就是安全，下次见！"),
+]

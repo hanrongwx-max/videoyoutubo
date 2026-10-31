@@ -14,7 +14,7 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
-| Laser Maintenance Group Safety | 17 / 17 | 8 / 17 |
+| Laser Maintenance Group Safety | 17 / 17 | 9 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
@@ -710,6 +710,7 @@
 | Laser Maintenance Group Safety | 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 国内版 | 别让突然的响声吓到人（国内版） | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 原著版 | 做一个安全的参观向导 | 27 | 2:15 | 7 / 0 | [剧本](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In/script.md>) |
 | Laser Maintenance Group Safety | 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 国内版 | 做一个安全的参观向导（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In（国内版）/审查报告.md>) |
+| Laser Maintenance Group Safety | 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 原著版 | 整洁有序也是安全 | 32 | 2:40 | 8 / 0 | [剧本](<Laser Maintenance Group Safety/07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase/script.md>) |
 | Laser Maintenance Group Safety | 07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 国内版 | 整洁有序也是安全（国内版） | 39 | 3:15 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/07_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 国内版 | 激光设备旁，选对灭火器（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/08_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L | 国内版 | 非操作人员的激光车间安全（国内版） | 68 | 5:40 | 20 / 4 | [剧本](<Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/09_Industrial Laser Safety Tips for Non-Laser Operators (and Tourists) Innovative L（国内版）/审查报告.md>) |
