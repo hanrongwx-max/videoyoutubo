@@ -1,0 +1,661 @@
+{
+ "id": "11_Physically Constructing a Galvanic Cell (Electrochemistry)",
+ "edition": "原著版",
+ "series": "Fume Hood & Cabinet Protocols",
+ "title": "动手搭一个原电池",
+ "seconds": 240,
+ "source_doc": "course/Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry).md",
+ "author_source": "project/Fume Hood & Cabinet Protocols/11_Physically Constructing a Galvanic Cell (Electrochemistry)/src.py",
+ "points": {
+  "K1": "电池是怎样工作的",
+  "K2": "化学能变电能",
+  "K3": "自发的氧化还原反应",
+  "K4": "电子流动能做功",
+  "K5": "两个半电池：阳极与阴极",
+  "K6": "锌铜电池",
+  "K7": "盐桥的作用",
+  "K8": "接上电表就能测",
+  "K9": "搭建两个半电池",
+  "K10": "做一条盐桥",
+  "K11": "读出电压",
+  "K12": "计算理论电压",
+  "K13": "浓度对电压的影响",
+  "K14": "换电极，多种组合",
+  "K15": "身边的电池同一原理"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一节大电池模型，向镜头招手",
+   "prompt_en": "The panda mascot holds up a large cartoon battery model and waves at the camera.",
+   "narration": "这一课我们动手搭一个原电池。",
+   "overlay": [
+    "动手搭一个原电池"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "两只烧杯、纸条盐桥和电压表组成的装置图标",
+   "prompt_en": "An icon of two beakers with metal strips, joined by a paper strip and wired to a small meter. No people.",
+   "narration": "两只烧杯、两块金属，就能发电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着手机，电量图标很低，一脸好奇",
+   "prompt_en": "The young male student looks curiously at his phone showing a low battery icon.",
+   "narration": "阿杰好奇：电池里的电从哪来？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拆开一节旧电池模型，里面看不懂",
+   "prompt_en": "The young male student looks inside a cutaway cartoon battery model and scratches his head.",
+   "narration": "里面没有电线圈，电是怎么来的？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把两只烧杯和两块金属片摆到台上",
+   "prompt_en": "The female graduate student sets two beakers and two metal strips on the bench.",
+   "narration": "小研说：我们自己搭一个看看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先讲原理，再动手测一测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电池是怎样工作的",
+   "scene": "一排圆柱形电池特写",
+   "prompt_en": "A close-up of a row of generic cylindrical batteries with blank wrappers. No people.",
+   "narration": "这一课不练常规操作，来看电池。",
+   "overlay": [
+    "电池是怎样工作的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "化学能变电能",
+   "scene": "化学能图标向下箭头指向闪电图标",
+   "prompt_en": "A flask icon with a down arrow pointing to a lightning bolt icon. No people.",
+   "narration": "电池把化学能变成电能。",
+   "overlay": [
+    "化学能变电能"
+   ],
+   "labels": [
+    "化学能",
+    "电能"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "化学能变电能",
+   "scene": "电化学书本图标",
+   "prompt_en": "A blank book icon with a battery and a flask on its cover. No people.",
+   "narration": "这属于化学的一个分支：电化学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "自发的氧化还原反应",
+   "scene": "两个原子之间有电子小球跳过去",
+   "prompt_en": "Two atom icons; a small electron ball jumps from the left atom to the right atom. No people.",
+   "narration": "原电池靠自发的氧化还原反应发电。",
+   "overlay": [
+    "自发的氧化还原反应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "自发的氧化还原反应",
+   "scene": "左边原子少一个电子标减号，右边多一个标加号",
+   "prompt_en": "The left atom loses an electron with a minus marker, the right atom gains one with a plus marker. No people.",
+   "narration": "失去电子是氧化，得到电子是还原。",
+   "overlay": [],
+   "labels": [
+    "氧化：失电子",
+    "还原：得电子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子流动能做功",
+   "scene": "河水推动水车转动",
+   "prompt_en": "A small river turning a wooden water wheel. No people.",
+   "narration": "就像流水能推动水车。",
+   "overlay": [
+    "电子流动能做功"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子流动能做功",
+   "scene": "电子小球沿导线流动，点亮灯泡",
+   "prompt_en": "Small electron balls flow along a wire loop and light up a bulb. No people.",
+   "narration": "电子的流动就是电流，也能做功。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "两个半电池：阳极与阴极",
+   "scene": "两只烧杯分开放，一个标氧化一个标还原",
+   "prompt_en": "Two separate beakers side by side, each with a metal strip, one marked with a minus sign, one with a plus sign. No people.",
+   "narration": "把氧化和还原分开，放在两个半电池里。",
+   "overlay": [
+    "两个半电池：阳极与阴极"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "两个半电池：阳极与阴极",
+   "scene": "左侧金属原子变成离子进入溶液，放出电子",
+   "prompt_en": "On the left electrode, metal atoms turn into ions that drift into the solution, releasing electrons into the wire. No people.",
+   "narration": "阳极发生氧化：金属失电子成离子。",
+   "overlay": [],
+   "labels": [
+    "阳极：氧化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "两个半电池：阳极与阴极",
+   "scene": "右侧溶液中离子得电子沉积到电极上",
+   "prompt_en": "On the right electrode, ions from the solution gain electrons and deposit as metal on the strip. No people.",
+   "narration": "阴极发生还原：离子得电子沉积。",
+   "overlay": [],
+   "labels": [
+    "阴极：还原"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "锌铜电池",
+   "scene": "左烧杯灰色锌片在无色溶液中，右烧杯铜片在蓝色溶液中",
+   "prompt_en": "Left beaker: a gray metal strip in clear solution; right beaker: a copper-colored strip in blue solution. No people.",
+   "narration": "最常见的例子是锌铜电池。",
+   "overlay": [
+    "锌铜电池"
+   ],
+   "labels": [
+    "锌｜硫酸锌",
+    "铜｜硫酸铜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "锌铜电池",
+   "scene": "锌原子放出两个电子变成离子",
+   "prompt_en": "A gray atom releases two electron balls and becomes an ion floating into the solution. No people.",
+   "narration": "锌失去两个电子，变成锌离子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "锌铜电池",
+   "scene": "铜离子得到两个电子变成铜沉积",
+   "prompt_en": "A blue ion catches two electron balls and settles onto the copper strip as metal. No people.",
+   "narration": "铜离子得到两个电子，析出铜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "盐桥的作用",
+   "scene": "两烧杯之间搭着一条盐桥",
+   "prompt_en": "A bridge filled with salt solution connects the two beakers. No people.",
+   "narration": "两个半电池要用盐桥连起来。",
+   "overlay": [
+    "盐桥的作用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "盐桥的作用",
+   "scene": "离子在盐桥中两头移动，正负电荷平衡",
+   "prompt_en": "Small plus and minus ion icons move through the bridge in both directions, keeping both sides balanced. No people.",
+   "narration": "盐桥传递离子，防止两边电荷堆积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "接上电表就能测",
+   "scene": "两个电极接上灯泡，灯亮",
+   "prompt_en": "The two electrodes are wired to a small bulb that lights up. No people.",
+   "narration": "接上灯泡，就能用上这股电。",
+   "overlay": [
+    "接上电表就能测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "接上电表就能测",
+   "scene": "两个电极接上电压表，指针偏转",
+   "prompt_en": "The two electrodes are wired to a voltmeter whose needle swings. No people.",
+   "narration": "接上电压表，就能测出电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "搭建两个半电池",
+   "scene": "小研戴护目镜手套，向两只烧杯分别倒入无色和蓝色溶液",
+   "prompt_en": "The female graduate student in goggles, lab coat and gloves pours clear solution into one beaker and blue solution into another.",
+   "narration": "两只烧杯，分别装硫酸锌和硫酸铜。",
+   "overlay": [
+    "搭建两个半电池"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "搭建两个半电池",
+   "scene": "锌片放入无色溶液，铜片放入蓝色溶液",
+   "prompt_en": "A gloved hand places a gray strip into the clear solution and a copper strip into the blue solution.",
+   "narration": "锌片配硫酸锌，铜片配硫酸铜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "做一条盐桥",
+   "scene": "U形玻璃管装满盐溶液",
+   "prompt_en": "A U-shaped glass tube filled with clear salt solution, ends plugged with cotton. No people.",
+   "narration": "盐桥可以用装满盐溶液的U形管。",
+   "overlay": [
+    "做一条盐桥"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "做一条盐桥",
+   "scene": "小研剪滤纸条，浸进碘化钾溶液",
+   "prompt_en": "The female graduate student cuts a strip of filter paper and dips it into a small dish of clear salt solution with a blank label.",
+   "narration": "这里把滤纸条浸透碘化钾溶液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "做一条盐桥",
+   "scene": "湿纸条两头分别搭进两个烧杯",
+   "prompt_en": "The wet paper strip is draped across both beakers with each end dipping into a solution. No people.",
+   "narration": "两头分别浸入两个烧杯，连通起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "读出电压",
+   "scene": "数字电表用鳄鱼夹连上两个电极",
+   "prompt_en": "A generic digital multimeter connected with alligator clips to the two metal strips. No people.",
+   "narration": "夹上电表，马上就有读数。",
+   "overlay": [
+    "读出电压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "读出电压",
+   "scene": "电表屏幕上一个闪电图标",
+   "prompt_en": "The multimeter display shows a lightning bolt icon and a needle-like bar rising. No people.",
+   "narration": "读数约一伏，电已经产生了。",
+   "overlay": [],
+   "labels": [
+    "约1伏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "计算理论电压",
+   "scene": "一张空白的电位表和一个计算器图标；公式卡旁有铜和银图标",
+   "prompt_en": "A blank table of values and a calculator icon. No people.",
+   "narration": "每个半反应的标准电位都能查表。",
+   "overlay": [
+    "计算理论电压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "计算理论电压",
+   "scene": "阴极减阳极的公式卡",
+   "prompt_en": "A formula card with two boxes and a minus sign between them, an arrow to a result box; a small copper icon and a silver icon beside it. No people.",
+   "narration": "电动势等于阴极电位减阳极电位。",
+   "overlay": [],
+   "labels": [
+    "E=E阴极−E阳极",
+    "0.80−0.34",
+    "=0.46 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "计算理论电压",
+   "scene": "理论值与实验值两个柱子高度接近",
+   "prompt_en": "Two bars of similar height side by side, one solid and one striped. No people.",
+   "narration": "以铜银为例算得0.46伏，与实测接近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "浓度对电压的影响",
+   "scene": "三只烧杯，蓝色深浅不同",
+   "prompt_en": "Three beakers of blue solution in different shades from light to dark. No people.",
+   "narration": "溶液浓度也会影响电压。",
+   "overlay": [
+    "浓度对电压的影响"
+   ],
+   "labels": [
+    "能斯特方程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "浓度对电压的影响",
+   "scene": "天平图标：两边同时减半仍平衡",
+   "prompt_en": "A balance icon: both sides halved at the same time and still level, with a green check. No people.",
+   "narration": "关键看两边浓度的比值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "浓度对电压的影响",
+   "scene": "两侧同减半，电表读数不变",
+   "prompt_en": "Both beakers get lighter together and the meter bar stays the same height. No people.",
+   "narration": "两边同时减半，电压不变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "浓度对电压的影响",
+   "scene": "只改一侧，读数变化",
+   "prompt_en": "Only one beaker gets lighter and the meter bar changes height. No people.",
+   "narration": "只改一边浓度，电压就会变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "换电极，多种组合",
+   "scene": "小研把一侧换成绿色溶液和新电极",
+   "prompt_en": "The female graduate student in goggles and gloves replaces one half-cell with a beaker of green solution and a new metal strip.",
+   "narration": "测完可以换一侧，比如换成镍电极。",
+   "overlay": [
+    "换电极，多种组合"
+   ],
+   "labels": [
+    "镍｜镍盐溶液"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "换电极，多种组合",
+   "scene": "三个半电池两两连线，出现三条线",
+   "prompt_en": "Three beaker icons connected pair by pair with three lines. No people.",
+   "narration": "三个半电池，可以组成三种电池。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "换电极，多种组合",
+   "scene": "四个半电池两两连线，出现六条线",
+   "prompt_en": "Four beaker icons connected pair by pair with six lines. No people.",
+   "narration": "四个半电池，可以组成六种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "换电极，多种组合",
+   "scene": "电表图标打勾",
+   "prompt_en": "A multimeter icon with a green check. No people.",
+   "narration": "测电压的方法都一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "身边的电池同一原理",
+   "scene": "手机和汽车图标，内部有电池",
+   "prompt_en": "A smartphone icon and a car icon, each with a glowing battery inside. No people.",
+   "narration": "手机和汽车里的电池也是这个原理。",
+   "overlay": [
+    "身边的电池同一原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "身边的电池同一原理",
+   "scene": "电池剖面图：两极和中间隔层",
+   "prompt_en": "A simple cutaway of a battery cell showing two electrodes and a separator layer between them. No people.",
+   "narration": "电极反应更复杂，但同样是两个半电池。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "身边的电池同一原理",
+   "scene": "离子通道与外电路的示意",
+   "prompt_en": "Ions move through the middle layer while electrons flow through an outer wire to a bulb. No people.",
+   "narration": "内部走离子，外部走电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现两个半电池和盐桥图标",
+   "prompt_en": "The panda mascot stands beside floating icons of two half-cells linked by a salt bridge.",
+   "narration": "阳极氧化，阴极还原，盐桥连通。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电表、公式卡、浓度烧杯图标",
+   "prompt_en": "Icons of a multimeter, a formula card and beakers of different shades. No people.",
+   "narration": "测电压，算理论值，看浓度比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "换电极组合、手机电池图标",
+   "prompt_en": "Icons of four beakers linked by six lines and a smartphone battery. No people.",
+   "narration": "换电极组合多，身边电池同原理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一节亮起的电池模型挥手道别",
+   "prompt_en": "The panda mascot waves goodbye while holding a glowing cartoon battery model.",
+   "narration": "电从反应来，原理记心间，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
