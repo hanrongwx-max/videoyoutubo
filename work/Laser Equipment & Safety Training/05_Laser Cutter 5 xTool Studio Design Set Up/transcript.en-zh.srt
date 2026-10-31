@@ -1,0 +1,619 @@
+1
+00:00:00,000 --> 00:00:05,980
+Welcome back for this next video. We have moved on to the laser computer
+欢迎回来看下一个视频。我们已经转到激光切割机的电脑上了，
+
+2
+00:00:06,380 --> 00:00:09,440
+hopefully that humming from the laser isn't too loud and
+希望激光切割机的嗡嗡声不会太吵。
+
+3
+00:00:10,260 --> 00:00:14,660
+in this video we're going to be discussing our settings and
+在这个视频里，我们要讨论参数设置，
+
+4
+00:00:15,300 --> 00:00:18,760
+Setting up our material and getting everything ready to run
+放置材料，以及做好运行前的一切准备。
+
+5
+00:00:19,220 --> 00:00:22,840
+So you'll notice a couple of differences right off the bat
+你们一开始就会注意到几个不同之处。
+
+6
+00:00:22,840 --> 00:00:29,280
+The first is our background has changed because we are now on the laser computer in the workbench
+首先是背景变了，因为我们现在用的是 Workbench 里的激光切割机电脑。
+
+7
+00:00:29,820 --> 00:00:35,900
+We can see a live view of the inside of the lasers on set of that white grid. We have our honeycomb panel
+我们能看到激光切割机内部的实时画面，而不是那个白色网格。我们这里有蜂窝板。
+
+8
+00:00:36,520 --> 00:00:40,280
+The other main difference is we are now actively connected to the laser
+另一个主要区别是，我们现在已经实际连接到激光切割机了。
+
+9
+00:00:40,280 --> 00:00:48,840
+So right up here instead of just P2S it specifies BPL X tool with the little green dot that shows it is ready to run
+所以这里上方显示的不再只是 P2S，而是 BPL xTool，旁边有一个小绿点，表示可以运行。
+
+10
+00:00:49,560 --> 00:00:53,820
+Underneath we should also see our air filter the safety pro AP 2
+下面还应该能看到我们的空气过滤器 Safety Pro AP2，
+
+11
+00:00:54,340 --> 00:00:57,460
+Also with a green dot indicating that it is ready to run
+同样有一个绿点，表示可以运行。
+
+12
+00:00:57,460 --> 00:01:00,680
+If for whatever reason you don't see those two green dots
+如果由于某种原因你没看到这两个绿点，
+
+13
+00:01:00,680 --> 00:01:07,060
+That's a great opportunity to grab a staff member and have them help you make sure everything is connected appropriately
+那正好可以找一位工作人员，让他们帮你确认所有设备都已正确连接。
+
+14
+00:01:07,780 --> 00:01:13,980
+The laser will not run if both of those green dots are not present. So you do want to double check that
+如果这两个绿点不都在，激光切割机就不会运行。所以你一定要再确认一下。
+
+15
+00:01:15,420 --> 00:01:21,680
+The other thing that you may notice is that we have changed our design color the black wasn't showing up super well
+你可能还会注意到，我们改了设计的颜色，黑色显示得不太清楚。
+
+16
+00:01:22,460 --> 00:01:28,260
+Color doesn't have a ton of effect other than easily grouping things to make them easily selectable
+颜色没有太大作用，只是便于把东西分组、方便选择。
+
+17
+00:01:28,500 --> 00:01:36,260
+But once you have a piece selected like so you can just click right down here and move it to a different color group
+但当你像这样选中一个部件后，只要点这下面，就可以把它移到另一个颜色组。
+
+18
+00:01:36,260 --> 00:01:41,820
+So if I want to turn this purple I can do that and it'll change everything I have selected there
+所以如果我想把它变成紫色，就可以这样做，它会改变我选中的所有东西。
+
+19
+00:01:41,820 --> 00:01:47,460
+And the main thing that does is right over here in our object list. It groups them together by color
+它的主要作用就在这边的对象列表里：按颜色把它们归在一起。
+
+20
+00:01:47,460 --> 00:01:49,460
+So if I change just these
+所以如果我只把这些
+
+21
+00:01:50,460 --> 00:01:53,760
+To a different color. I can now select either
+改成另一种颜色，现在我就可以在颜色面板这里选中
+
+22
+00:01:54,440 --> 00:02:01,360
+Everything that's purple or everything that's red just over here in the color panel and it just makes it a little easier to group things up
+所有紫色的或者所有红色的东西，这样分组会稍微方便一点。
+
+23
+00:02:02,120 --> 00:02:05,560
+I should specify it makes it easier to select multiple things at once
+我应该说明一下，它让一次选中多个东西更方便。
+
+24
+00:02:05,560 --> 00:02:13,820
+It does not group them in the same way that the group button does but otherwise color has no impact on your design
+它不像“组合”按钮那样把它们组合起来，除此之外，颜色对你的设计没有任何影响。
+
+25
+00:02:13,820 --> 00:02:19,360
+Looking back over here at the panel on the right side
+回到右侧这里的面板，
+
+26
+00:02:19,360 --> 00:02:25,200
+We see our laser and then underneath we have two options. We have mode and material
+我们能看到激光切割机，下面有两个选项：模式和材料。
+
+27
+00:02:25,760 --> 00:02:30,760
+Mode is going to default to honeycomb panel and that's going to be what you're going to use
+模式默认是蜂窝板，这也是你们
+
+28
+00:02:31,160 --> 00:02:33,580
+80 to 90 percent of the time
+80% 到 90% 的时间会用的模式。
+
+29
+00:02:34,160 --> 00:02:40,560
+The other settings you might use are slats removed. That's going to be for if you're engraving on larger objects
+你们可能会用的其他设置是“移除栅条”，这是在较大的物体上雕刻时用的，
+
+30
+00:02:40,560 --> 00:02:45,260
+You're not cutting you're just engraving on anything over an inch half inch thick
+不切割，只是在厚度超过一英寸、半英寸的东西上雕刻。
+
+31
+00:02:46,480 --> 00:02:50,340
+You might also find the batch processing helpful
+你们可能还会觉得批量处理很有用。
+
+32
+00:02:50,340 --> 00:02:53,100
+I'm not going to get too far into those in this video
+这个视频里我不会讲太多，
+
+33
+00:02:53,260 --> 00:02:56,940
+But they can be really useful if you are making either multiples of the same design
+但如果你们要做同一设计的多个成品，它们会非常有用，
+
+34
+00:02:56,940 --> 00:03:01,100
+So you're copying the same bookmark or keychain or set of earrings over and over again
+也就是一遍又一遍地复制同一个书签、钥匙扣或一套耳环。
+
+35
+00:03:01,660 --> 00:03:05,760
+The batch processing different design will take the same basic cut design
+批量处理不同设计这个功能会使用同一个基本的切割设计，
+
+36
+00:03:05,760 --> 00:03:09,420
+But like you can see in the little icon it'll change it slightly
+但正如你们在这个小图标里看到的，它会稍作改变。
+
+37
+00:03:09,420 --> 00:03:14,360
+So if you wanted to number something or are producing multiples of the same thing with a slight variation
+所以如果你想给东西编号，或者要制作多个略有不同的同类成品，
+
+38
+00:03:14,580 --> 00:03:17,240
+This can also be super helpful
+这个功能也会非常有用。
+
+39
+00:03:17,680 --> 00:03:20,640
+There are options on here that the library does not offer
+这里有一些选项是图书馆不提供的。
+
+40
+00:03:20,640 --> 00:03:27,280
+So you'll see these use the rotary attachment or the conveyor feeder. We do not have those accessories
+你们会看到“使用旋转附件”或“传送进料器”，我们没有这些配件。
+
+41
+00:03:27,540 --> 00:03:32,080
+So you should not select them because all you'll really do is confuse the laser
+所以你们不应该选它们，因为那样只会让激光切割机混乱。
+
+42
+00:03:34,750 --> 00:03:39,310
+Once you have your processing mode selected underneath you can see material
+选好加工模式后，下面可以看到材料。
+
+43
+00:03:40,210 --> 00:03:46,570
+If you are using X tool material you can select from some of these presets here
+如果你用的是 xTool 的材料，可以从这里的一些预设中选择。
+
+44
+00:03:46,690 --> 00:03:51,490
+So for today, we are going to be using basswood plywood 1 8th thick
+今天我们要用的是 1/8 英寸厚的椴木胶合板。
+
+45
+00:03:51,790 --> 00:03:58,650
+You do want to pay attention to that because there are also settings for 1 4 5 16 different thicknesses
+这一点你们一定要注意，因为还有 1/4、5/16 等不同厚度的设置，
+
+46
+00:03:58,650 --> 00:04:03,670
+And those are going to change how strong the laser is how fast or slow it runs
+这些会改变激光的强度以及运行的快慢。
+
+47
+00:04:03,850 --> 00:04:08,470
+so you want to make sure you have the right thickness, but if you're using a
+所以你要确保厚度选对了。但如果你用的
+
+48
+00:04:09,330 --> 00:04:16,410
+Material that has a reference setting you can see that here reference processing mode. We can just hit apply
+材料有参考设置，就能在这里看到“参考加工模式”，我们只要点应用。
+
+49
+00:04:17,810 --> 00:04:24,210
+And what you'll see is now all of my steps over here have been set to the appropriate settings for that
+然后你们会看到，这边我所有的步骤都已经设成了相应的参数。
+
+50
+00:04:24,210 --> 00:04:27,930
+so now we can see this engraved step is at 10% power and
+现在我们可以看到，这个雕刻步骤的功率是 10%，
+
+51
+00:04:28,450 --> 00:04:31,030
+300 millimeters per second as the speed
+速度是每秒 300 毫米。
+
+52
+00:04:31,450 --> 00:04:38,790
+It is important to note that there are materials here that X tool will provide presets for
+需要注意的是，这里有些材料 xTool 提供了预设，
+
+53
+00:04:38,890 --> 00:04:42,890
+That are not on the list of library approved materials
+但它们不在图书馆批准的材料清单上。
+
+54
+00:04:42,890 --> 00:04:47,530
+And that means you should not place them in the laser and you should not use these settings
+这意味着你不应该把它们放进激光切割机，也不应该使用这些设置。
+
+55
+00:04:47,650 --> 00:04:51,490
+So there are going to be settings for things like silicone or stone
+比如会有硅胶或石材之类的设置，
+
+56
+00:04:52,210 --> 00:04:56,650
+That we do not allow that are not safe for cutting at the library
+这些是我们不允许的，在图书馆切割是不安全的。
+
+57
+00:04:56,850 --> 00:05:00,930
+So just because they're here does not mean you are allowed to use those materials
+所以它们出现在这里，并不代表你可以使用这些材料。
+
+58
+00:05:00,930 --> 00:05:07,050
+And I just want to reiterate that as a safety concern with our material set
+我只是想再强调一下，这是我们材料方面的一个安全问题。
+
+59
+00:05:07,050 --> 00:05:09,770
+We're going to go ahead and place a sheet of basswood
+我们现在把一张椴木板
+
+60
+00:05:10,750 --> 00:05:12,310
+into the laser
+放进激光切割机。
+
+61
+00:05:12,310 --> 00:05:18,030
+Now you may be wondering what do I do if I don't have X tool material if there is no preset
+你们可能会想，如果我没有 xTool 的材料，没有像这里看到的预设
+
+62
+00:05:18,190 --> 00:05:24,470
+settings like we see here and the answer to that is over here in the applications tab and
+参数，该怎么办？答案就在这边的“应用”选项卡里。
+
+63
+00:05:25,350 --> 00:05:31,310
+Over in the applications tab we have the material test array this option right here
+在“应用”选项卡里，有“材料测试阵列”，就是这个选项。
+
+64
+00:05:32,310 --> 00:05:39,810
+When we open that it'll give us a small menu to select from and we're going to start by choosing
+打开它后，会弹出一个小菜单供我们选择。首先要选
+
+65
+00:05:39,810 --> 00:05:48,800
+What type of action we're doing are we cutting engraving or scoring and then it's going to ask you to choose your broad material type wood
+我们做的是哪种操作：切割、雕刻还是划线；然后它会让你选择大致的材料类型：木材、
+
+66
+00:05:48,880 --> 00:05:50,880
+plastic or paper and
+塑料或纸张。
+
+67
+00:05:51,440 --> 00:05:56,200
+Then underneath we can set our settings for this grid
+接下来，我们可以在下面设置这个网格的参数。
+
+68
+00:05:56,240 --> 00:06:02,760
+So we can choose a maximum and minimum power that we'd like it to run at and a maximum and minimum speed
+我们可以选择希望运行的最大和最小功率，以及最大和最小速度。
+
+69
+00:06:04,000 --> 00:06:09,740
+We can also select the number of columns and rows that it will generate when it generates our little graph
+还可以选择生成小图表时的列数和行数，
+
+70
+00:06:09,740 --> 00:06:13,680
+Which you can see right here. I know it's light green and sort of overlapping material
+就是你们在这里看到的。我知道它是浅绿色的，而且有点和材料重叠，
+
+71
+00:06:13,860 --> 00:06:17,180
+We'll change that in just a moment to help that be a little more visible
+我们马上会改一下，让它更显眼一点。
+
+72
+00:06:18,140 --> 00:06:20,300
+All right, so we're going to bring this over here
+好，我们把它挪到这边来，
+
+73
+00:06:20,820 --> 00:06:25,520
+And I'm going to change the color again to something. I hope will pop a little bit more a nice bright blue
+我再把颜色改一下，改成我希望会更醒目一点的漂亮亮蓝色。
+
+74
+00:06:26,480 --> 00:06:31,080
+So now we can see that we have generated a little graph over here
+现在我们可以看到，这边已经生成了一个小图表。
+
+75
+00:06:31,080 --> 00:06:37,200
+This side is speed and this side is power and when we run
+这一边是速度，这一边是功率。当我们运行
+
+76
+00:06:37,720 --> 00:06:39,520
+this sort of graph
+这种图表时，
+
+77
+00:06:39,520 --> 00:06:46,280
+The end result will be a cutout where we can see which settings do or don't work on a particular set of material
+最终会得到一块切好的样板，可以看出哪些参数在某种材料上可行、哪些不行。
+
+78
+00:06:46,400 --> 00:06:51,240
+So using this I can see okay, if I go really slow at 50% power
+通过它我可以看出：好，如果我以 50% 功率非常慢地走，
+
+79
+00:06:51,240 --> 00:06:56,280
+I may be able to get through but if I'm going at 40 millimeters per second at 50% power
+也许能切透；但如果我以每秒 40 毫米、50% 功率走，
+
+80
+00:06:56,280 --> 00:07:00,560
+Maybe it doesn't cut all the way through. Maybe it just cuts part of the way through the material
+也许就切不透，也许只能切进材料的一部分。
+
+81
+00:07:01,120 --> 00:07:07,880
+So this can help visually identify what settings would work for cutting through a material that doesn't have
+所以这可以帮你直观地判断，对于没有参考设置的材料，
+
+82
+00:07:08,400 --> 00:07:10,000
+reference settings
+哪些参数可以切透。
+
+83
+00:07:10,000 --> 00:07:16,820
+It can also be really useful for engraving a really common question we get is how do I make this engraving look darker?
+它对雕刻也非常有用。我们经常被问到的一个问题是：怎样让雕刻看起来更深色？
+
+84
+00:07:16,820 --> 00:07:22,080
+How do I make this engraving look deeper? What settings do I use to make this look the way I want it to and
+怎样让雕刻看起来更深？用什么参数才能让它看起来是我想要的样子？
+
+85
+00:07:23,160 --> 00:07:28,640
+Staff can help to some extent, but the most helpful answer here is going to be run a material test array
+工作人员可以在一定程度上帮忙，但这里最有用的答案是：运行一个
+
+86
+00:07:29,640 --> 00:07:36,280
+For engraving and set your settings and now you can look it'll show you sort of a preview of what you might end up with
+雕刻的材料测试阵列，设置好参数，现在你可以看看，它会给你显示一个大致的成品预览。
+
+87
+00:07:36,640 --> 00:07:40,760
+But in looking at this visually you can say okay this engraving looks a lot darker
+但通过直观地看，你就可以说：好，这个雕刻看起来深多了，
+
+88
+00:07:40,760 --> 00:07:44,600
+This is about where I want it to be the engravings in this side are too light
+这个差不多就是我想要的，这一边的雕刻太浅了。
+
+89
+00:07:45,200 --> 00:07:48,860
+Maybe if you're looking for something a little more in between if this is too dark
+如果这个太深，也许你想要介于两者之间的效果，
+
+90
+00:07:49,280 --> 00:07:53,400
+You want one of these in the middle so you can just visually identify which
+就选中间的某一个。这样你就能直观地判断
+
+91
+00:07:54,560 --> 00:07:56,560
+Settings are gonna work best for you
+哪些参数最适合你。
+
+92
+00:07:57,200 --> 00:07:59,640
+If you are not using reference settings
+如果你不使用参考设置，
+
+93
+00:08:00,240 --> 00:08:02,680
+you will want to click on each step and
+就需要点击每个步骤，
+
+94
+00:08:03,280 --> 00:08:08,360
+Use the power and speed selectors here to set your settings appropriately
+用这里的功率和速度选择器把参数设置好。
+
+95
+00:08:08,360 --> 00:08:12,720
+So you want to make sure that your settings are on the right action
+所以你要确保参数设置在正确的操作上。
+
+96
+00:08:12,840 --> 00:08:19,740
+It's an image it will only ever engrave so you'll notice I can't set this image file to anything other than engrave
+图片只能雕刻，所以你们会注意到，这个图片文件我只能设成雕刻。
+
+97
+00:08:20,520 --> 00:08:23,920
+But things like our circle or our cats
+但像我们的圆形或者猫咪，
+
+98
+00:08:24,440 --> 00:08:26,940
+We can set to score engrave or cut
+可以设成划线、雕刻或切割。
+
+99
+00:08:28,440 --> 00:08:31,720
+And in that case we can set it to the appropriate action
+这种情况下，我们可以把它设成相应的操作，
+
+100
+00:08:31,720 --> 00:08:35,980
+And then we can adjust our speed and power based on that grid
+然后根据那个网格调整速度和功率。
+
+101
+00:08:35,980 --> 00:08:42,000
+We ran to match where we need them to be so if I know that 60 and 27 didn't quite get through
+根据我们运行的结果调到需要的数值。所以如果我知道 60 和 27 没能完全切透，
+
+102
+00:08:42,360 --> 00:08:44,360
+But instead I need them to be
+而我需要的是
+
+103
+00:08:44,640 --> 00:08:46,640
+70 and
+70 和
+
+104
+00:08:46,720 --> 00:08:48,760
+maybe
+也许
+
+105
+00:08:48,760 --> 00:08:52,520
+22 I can set those appropriately to match
+22，就可以相应地设置好。
+
+106
+00:08:53,360 --> 00:08:57,440
+In this case since we are using fastwood. I will go back and reset it to
+这里因为我们用的是椴木，我会回去把它重置为
+
+107
+00:08:58,480 --> 00:09:04,560
+The defaults now if you want to do some as the default settings you want to run your cuts at the default
+默认值。现在如果你想用默认设置，切割按默认值进行，
+
+108
+00:09:04,560 --> 00:09:11,280
+But the engravings you want a little darker. You can also adjust those so you can adjust individual steps based on your needs
+但雕刻想要深一点，也可以调整，你可以根据需要调整单个步骤。
+
+109
+00:09:11,560 --> 00:09:14,020
+so if I want my engraving a little darker, maybe I
+所以如果我想让雕刻深一点，也许我会
+
+110
+00:09:14,800 --> 00:09:17,200
+Increase the power decrease the speed a little bit
+提高功率，稍微降低速度，
+
+111
+00:09:17,880 --> 00:09:20,320
+and get my settings set
+把参数设置
+
+112
+00:09:20,920 --> 00:09:22,920
+appropriately
+妥当。
+
+113
+00:09:22,920 --> 00:09:28,520
+It is important to note that the order does not matter over here, so every time I add
+需要注意的是，这边的顺序并不重要。所以每次我往设计里
+
+114
+00:09:30,160 --> 00:09:32,160
+Something new to the design I
+添加新东西时，
+
+115
+00:09:34,400 --> 00:09:40,920
+May will either get lumped in with one of these if it's already got existing settings, so if I set this star
+它可能会被归到其中某个已有设置的步骤里。所以如果我把
+
+116
+00:09:40,920 --> 00:09:42,920
+I just added to cut
+刚添加的这个星形设成切割，
+
+117
+00:09:43,360 --> 00:09:48,840
+It'll get lumped in with this other cut step here, but if I set it to something separate
+它就会被归到这里的另一个切割步骤中。但如果我把它设成别的，
+
+118
+00:09:49,840 --> 00:09:57,960
+Nothing else is currently set to score. You can see that it gets added as a separate step over here order of these steps
+目前没有其他东西设成划线，你可以看到它会作为一个单独的步骤添加到这边。这些步骤的顺序
+
+119
+00:09:57,960 --> 00:10:03,360
+Does not matter so the score step can be anywhere either here at the top down at the bottom
+并不重要，所以划线步骤可以在任何位置，在顶部也好，在底部也好，
+
+120
+00:10:03,680 --> 00:10:07,680
+Doesn't make a difference because when we go to process our design
+都没有区别，因为当我们开始加工设计时，
+
+121
+00:10:08,320 --> 00:10:14,800
+The X tool app will automatically sort them into what it thinks is the best order of operations
+xTool 应用会自动把它们排成它认为最佳的操作顺序。
+
+122
+00:10:15,560 --> 00:10:20,000
+In the next video we're going to set up our badge project design
+在下一个视频里，我们会设置徽章项目的设计。
+
+123
+00:10:20,000 --> 00:10:24,280
+So we're going to set up and run the same design that you will run for your badge project
+我们会设置并运行你们在徽章项目中要运行的同一个设计，
+
+124
+00:10:24,600 --> 00:10:27,600
+From start to finish, so I'll see you then
+从头到尾演示一遍，到时候见。
