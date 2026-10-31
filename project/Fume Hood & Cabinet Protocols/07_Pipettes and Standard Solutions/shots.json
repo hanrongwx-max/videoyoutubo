@@ -1,0 +1,894 @@
+{
+ "id": "07_Pipettes and Standard Solutions",
+ "edition": "原著版",
+ "series": "Fume Hood & Cabinet Protocols",
+ "title": "移液器具与标准溶液",
+ "seconds": 325,
+ "source_doc": "course/Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions.md",
+ "author_source": "project/Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions/src.py",
+ "points": {
+  "K1": "量体积，选对器具",
+  "K2": "烧杯、锥形瓶刻度不准",
+  "K3": "量筒更准，但小体积有限",
+  "K4": "容量瓶准，但只有一个体积",
+  "K5": "移液器具：从微升到几十毫升",
+  "K6": "移液器具的基本构造",
+  "K7": "玻璃移液管",
+  "K8": "吸耳球的用法",
+  "K9": "移液泵更平稳",
+  "K10": "电动移液器适合重复量取",
+  "K11": "一次性塑料滴管",
+  "K12": "玻璃滴管与逐滴加入",
+  "K13": "二十滴约一毫升",
+  "K14": "微量移液器要定期校准",
+  "K15": "微量移液器的用法",
+  "K16": "什么是标准溶液",
+  "K17": "示例：邻苯二甲酸氢钾",
+  "K18": "称量与溶解",
+  "K19": "按摩尔质量计算",
+  "K20": "转移到容量瓶",
+  "K21": "定容：弯月面与刻线相切",
+  "K22": "完成标准溶液"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上摆着移液管、移液器和容量瓶，向镜头招手",
+   "prompt_en": "The panda mascot stands at a lab bench with glass pipettes, a micropipette and a volumetric flask and waves at the camera.",
+   "narration": "这一课讲移液器具和标准溶液。",
+   "overlay": [
+    "移液器具与标准溶液"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "量筒、移液管、微量移液器、容量瓶四个图标排成一行",
+   "prompt_en": "Four icons in a row: a graduated cylinder, a glass pipette with a bulb, a micropipette and a volumetric flask. No people.",
+   "narration": "量得准，配得准。",
+   "overlay": [],
+   "labels": [
+    "量得准",
+    "配得准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一只烧杯，正对着烧杯上的刻度倒液体",
+   "prompt_en": "The young male student pours liquid into a beaker and squints at the volume marks on its side.",
+   "narration": "阿杰要配溶液，拿烧杯就量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着烧杯刻度直皱眉，小研走过来摇头",
+   "prompt_en": "The young male student frowns at the rough marks on the beaker; the female graduate student walks over and shakes her head.",
+   "narration": "小研摇头：这样量，误差太大了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给阿杰一个吸耳球，指着台上的量器",
+   "prompt_en": "The female graduate student hands the young male student a rubber pipette bulb and points at the measuring tools on the bench.",
+   "narration": "小研说：量器有讲究，要选对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们从选对量器开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "量体积，选对器具",
+   "scene": "实验台上一排各种玻璃仪器",
+   "prompt_en": "A lab bench lined with many kinds of glassware: beakers, flasks, cylinders and pipettes. No people.",
+   "narration": "玻璃仪器各有用途，量体积也一样。",
+   "overlay": [
+    "量体积，选对器具"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "烧杯、锥形瓶刻度不准",
+   "scene": "小研举着锥形瓶，看侧面的刻度",
+   "prompt_en": "The female graduate student in a lab coat, goggles and gloves holds up an Erlenmeyer flask and looks at its side marks.",
+   "narration": "烧杯、锥形瓶上的刻度只是个大概。",
+   "overlay": [
+    "烧杯、锥形瓶刻度不准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "烧杯、锥形瓶刻度不准",
+   "scene": "宽口烧杯和窄管的液面示意：同样高度差对应的体积差别很大",
+   "prompt_en": "A diagram comparing a wide beaker and a narrow tube: the same small height error covers a large volume slice in the beaker. No people.",
+   "narration": "口径宽，读错一点，体积就差很多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "烧杯、锥形瓶刻度不准",
+   "scene": "用烧杯量取的图标被打叉",
+   "prompt_en": "An icon of a beaker used for accurate measuring, crossed out with a red X. No people.",
+   "narration": "要量准，别用烧杯量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "量筒更准，但小体积有限",
+   "scene": "量筒刻度特写",
+   "prompt_en": "Close-up of the dense blank scale lines on a graduated cylinder. No people.",
+   "narration": "量筒细、刻度密，误差小得多。",
+   "overlay": [
+    "量筒更准，但小体积有限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "量筒更准，但小体积有限",
+   "scene": "一排大小不同的量筒，最小的里面只有一点液体",
+   "prompt_en": "A row of graduated cylinders of different sizes; the smallest holds just a tiny bit of liquid with a question mark. No people.",
+   "narration": "可量很少的液体，量筒也不够准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "容量瓶准，但只有一个体积",
+   "scene": "小研摊手介绍台上的容量瓶，箭头指向瓶颈刻线",
+   "prompt_en": "The female graduate student gestures to a volumetric flask on the bench; an arrow points to the single line on its neck.",
+   "narration": "容量瓶的刻线，代表一个准确体积。",
+   "overlay": [
+    "容量瓶准，但只有一个体积"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "容量瓶准，但只有一个体积",
+   "scene": "一只容量瓶旁边几个不同体积的问号",
+   "prompt_en": "A volumetric flask next to several question mark bubbles of different sizes. No people.",
+   "narration": "可一只瓶只能量一个体积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "移液器具：从微升到几十毫升",
+   "scene": "从微小液滴到大量液体的刻度条",
+   "prompt_en": "A horizontal scale bar going from a tiny droplet icon to a large liquid column icon. No people.",
+   "narration": "要又准又灵活，就用移液器具。",
+   "overlay": [
+    "移液器具：从微升到几十毫升"
+   ],
+   "labels": [
+    "微升",
+    "毫升"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "移液器具：从微升到几十毫升",
+   "scene": "小研从支架上取下一支微量移液器",
+   "prompt_en": "The female graduate student takes a micropipette from a pipette stand.",
+   "narration": "从几微升到几十毫升，都能量准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "移液器具的基本构造",
+   "scene": "移液管剖面示意：下面是管，上面是吸取装置",
+   "prompt_en": "A simple diagram of a pipette: a long tube below and a suction device on top, with an up arrow and a down arrow. No people.",
+   "narration": "移液器具，一根管加一个吸取装置。",
+   "overlay": [
+    "移液器具的基本构造"
+   ],
+   "labels": [
+    "吸取装置",
+    "管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "移液器具的基本构造",
+   "scene": "液体被吸入管中，再放到另一个容器",
+   "prompt_en": "Liquid rises into a pipette from one beaker, then the pipette moves and releases it into another beaker. No people.",
+   "narration": "吸到需要的量，再放到别的容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "移液器具的基本构造",
+   "scene": "几种外形不同的移液工具并排",
+   "prompt_en": "Several different pipetting tools lined up: a glass pipette, a pump, an electric pipette controller, a dropper and a micropipette. No people.",
+   "narration": "种类不少，用法各有不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃移液管",
+   "scene": "小研举起一根玻璃移液管",
+   "prompt_en": "The female graduate student holds up a long glass graduated pipette.",
+   "narration": "化学实验室常用玻璃移液管。",
+   "overlay": [
+    "玻璃移液管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃移液管",
+   "scene": "玻璃移液管旁的体积范围图示",
+   "prompt_en": "A glass pipette icon next to a range bar from a small mark to a larger mark. No people.",
+   "narration": "能转移一毫升到几十毫升。",
+   "overlay": [],
+   "labels": [
+    "1 mL",
+    "几十 mL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "吸耳球的用法",
+   "scene": "小研把移液管上端插进吸耳球",
+   "prompt_en": "The female graduate student fits the top end of a glass pipette into a rubber bulb.",
+   "narration": "先把移液管上端插进吸耳球。",
+   "overlay": [
+    "吸耳球的用法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "吸耳球的用法",
+   "scene": "手捏扁吸耳球排出空气",
+   "prompt_en": "Gloved fingers squeeze the rubber bulb flat to push the air out. No people.",
+   "narration": "捏扁吸耳球，排出空气，别松手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "吸耳球的用法",
+   "scene": "管尖伸进溶液，慢慢松开吸耳球，液面上升到刻度",
+   "prompt_en": "The pipette tip goes into a beaker of purple solution; the bulb slowly relaxes and the liquid rises to a mark. No people.",
+   "narration": "伸进液体，慢慢松开，到刻度就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "吸耳球的用法",
+   "scene": "移到另一个烧杯上方，挤压吸耳球放出液体",
+   "prompt_en": "The pipette moves over another beaker and the bulb is pressed to release the liquid. No people.",
+   "narration": "移到目标容器，挤压放出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "移液泵更平稳",
+   "scene": "小研用带旋轮的移液泵吸液",
+   "prompt_en": "The female graduate student uses a pipette pump with a thumb wheel to draw liquid slowly.",
+   "narration": "想更准，可用移液泵，吸放更慢更稳。",
+   "overlay": [
+    "移液泵更平稳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电动移液器适合重复量取",
+   "scene": "小研按下电动移液器的按钮，液体自动吸入",
+   "prompt_en": "The female graduate student presses a button on an electric pipette controller and liquid is drawn up automatically.",
+   "narration": "电动移液器，按一下就能吸、能放。",
+   "overlay": [
+    "电动移液器适合重复量取"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "电动移液器适合重复量取",
+   "scene": "一排试管依次被加入液体，旁边计数图标",
+   "prompt_en": "A row of test tubes is filled one after another, with a counter icon going up. No people.",
+   "narration": "反复量取很多次，用它省力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "一次性塑料滴管",
+   "scene": "小研举起一支一次性塑料滴管",
+   "prompt_en": "The female graduate student holds up a disposable plastic dropper.",
+   "narration": "量更少的液体，常用一次性塑料滴管。",
+   "overlay": [
+    "一次性塑料滴管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "一次性塑料滴管",
+   "scene": "塑料滴管管身上的刻度特写",
+   "prompt_en": "Close-up of the blank scale marks on the stem of a plastic dropper. No people.",
+   "narration": "转移少量液体很方便，有的还带刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "玻璃滴管与逐滴加入",
+   "scene": "玻璃滴管和塑料滴管并排，一瓶溶剂只对玻璃打勾",
+   "prompt_en": "A glass dropper and a plastic dropper side by side; a solvent bottle icon shows a green check toward the glass one only. No people.",
+   "narration": "有些液体不能碰塑料，要用玻璃滴管。",
+   "overlay": [
+    "玻璃滴管与逐滴加入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "玻璃滴管与逐滴加入",
+   "scene": "小研清洗玻璃滴管后放进存放架",
+   "prompt_en": "The female graduate student rinses a glass dropper and places it in a storage rack.",
+   "narration": "玻璃滴管能重复用，用完洗净收好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "玻璃滴管与逐滴加入",
+   "scene": "无刻度滴管把液体转进带刻度的量筒",
+   "prompt_en": "A dropper without marks transfers liquid into a graduated cylinder. No people.",
+   "narration": "没刻度的，就转进有刻度的容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "玻璃滴管与逐滴加入",
+   "scene": "小研平视着向试管中一滴一滴加液",
+   "prompt_en": "The female graduate student, wearing goggles, adds solution drop by drop into a test tube at eye level.",
+   "narration": "也可以一滴一滴，慢慢加入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "二十滴约一毫升",
+   "scene": "二十个小液滴汇成一个量筒刻度",
+   "prompt_en": "Twenty small drop icons merge into one marked level in a small cylinder. No people.",
+   "narration": "经验上，二十滴大约一毫升。",
+   "overlay": [
+    "二十滴约一毫升"
+   ],
+   "labels": [
+    "约20滴≈1 mL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "二十滴约一毫升",
+   "scene": "约等号旁有一个问号",
+   "prompt_en": "An approximately equal sign with a small question mark beside it. No people.",
+   "narration": "只是估计，不能当准确量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "微量移液器要定期校准",
+   "scene": "小研手持微量移液器，旁边是试管架",
+   "prompt_en": "The female graduate student holds a micropipette next to a rack of small tubes.",
+   "narration": "小体积精确量取，用微量移液器。",
+   "overlay": [
+    "微量移液器要定期校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "微量移液器要定期校准",
+   "scene": "微小液滴图标和几次重复的相同液滴",
+   "prompt_en": "A tiny droplet icon repeated three times, all exactly the same size, with green checks. No people.",
+   "narration": "能准到一微升，次次都一样。",
+   "overlay": [],
+   "labels": [
+    "1 µL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "微量移液器要定期校准",
+   "scene": "老李在天平旁校准微量移液器",
+   "prompt_en": "The facility engineer checks a micropipette by weighing dispensed water on a balance with a blank display.",
+   "narration": "前提是定期校准，才能一直准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "微量移液器的用法",
+   "scene": "小研转动旋钮设定体积",
+   "prompt_en": "The female graduate student turns the volume knob of a micropipette to set a blank display.",
+   "narration": "先设定好要量的体积。",
+   "overlay": [
+    "微量移液器的用法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "微量移液器的用法",
+   "scene": "移液器轻压装上一次性吸头",
+   "prompt_en": "The micropipette presses gently onto a disposable tip in a tip box. No people.",
+   "narration": "装上一次性吸头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "微量移液器的用法",
+   "scene": "拇指按下活塞，吸头伸入溶液",
+   "prompt_en": "A thumb presses the plunger down, then the tip is placed into the purple solution. No people.",
+   "narration": "按下活塞，再把吸头伸进溶液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "微量移液器的用法",
+   "scene": "慢慢松开活塞，吸头吸入固定量液体",
+   "prompt_en": "The thumb slowly releases the plunger and the tip fills with a fixed amount of liquid. No people.",
+   "narration": "松开活塞，自动吸进设定的量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "微量移液器的用法",
+   "scene": "移液器在试管里放出液体",
+   "prompt_en": "The micropipette dispenses the liquid into a small tube by pressing the plunger again. No people.",
+   "narration": "不用盯着刻度停，按下就放出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "什么是标准溶液",
+   "scene": "欣欣举着一瓶贴空白标签的溶液",
+   "prompt_en": "The panda mascot holds up a bottle of clear solution with a blank label.",
+   "narration": "标准溶液，就是浓度准确已知的溶液。",
+   "overlay": [
+    "什么是标准溶液"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "什么是标准溶液",
+   "scene": "已知瓶和未知瓶之间的天平式比较图",
+   "prompt_en": "A diagram with a known solution bottle and an unknown sample flask linked by a comparison arrow. No people.",
+   "narration": "用它来测定未知物的浓度。",
+   "overlay": [],
+   "labels": [
+    "已知浓度",
+    "未知浓度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "示例：邻苯二甲酸氢钾",
+   "scene": "一瓶白色粉末的空白标签试剂瓶，旁边一个滴定管图标",
+   "prompt_en": "A jar of white powder with a blank label next to a burette icon. No people.",
+   "narration": "这次配0.1摩尔每升的KHP溶液。",
+   "overlay": [
+    "示例：邻苯二甲酸氢钾"
+   ],
+   "labels": [
+    "KHP"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "示例：邻苯二甲酸氢钾",
+   "scene": "容量瓶图标旁有浓度图示",
+   "prompt_en": "A volumetric flask icon with a small concentration label area left blank. No people.",
+   "narration": "KHP是酸碱滴定里常用的酸。",
+   "overlay": [],
+   "labels": [
+    "0.1 mol/L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "称量与溶解",
+   "scene": "小研在天平上用称量纸称取白色粉末",
+   "prompt_en": "The female graduate student weighs white powder on weighing paper on a balance.",
+   "narration": "称取约5克KHP粉末。",
+   "overlay": [
+    "称量与溶解"
+   ],
+   "labels": [
+    "约5 g"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "称量与溶解",
+   "scene": "粉末倒进烧杯，加水和搅拌子",
+   "prompt_en": "The powder is tipped into a beaker; water and a stir bar are added, and it stirs on a stirrer. No people.",
+   "narration": "倒进烧杯，加水，用搅拌子搅溶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "按摩尔质量计算",
+   "scene": "计算示意：粉末堆、摩尔质量图标、容量瓶",
+   "prompt_en": "A calculation diagram: a powder pile, an arrow to a molecule icon, an arrow to a volumetric flask. No people.",
+   "narration": "按摩尔质量，算出物质的量。",
+   "overlay": [
+    "按摩尔质量计算"
+   ],
+   "labels": [
+    "质量",
+    "物质的量",
+    "体积"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "按摩尔质量计算",
+   "scene": "容量瓶图标上标出250毫升",
+   "prompt_en": "A volumetric flask icon with its fill line highlighted. No people.",
+   "narration": "定容到250毫升，浓度正好。",
+   "overlay": [],
+   "labels": [
+    "定容至250 mL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "转移到容量瓶",
+   "scene": "小研把溶液经玻璃漏斗缓缓倒入容量瓶",
+   "prompt_en": "The female graduate student slowly pours the solution through a glass funnel into a volumetric flask.",
+   "narration": "溶好后，经漏斗慢慢倒进容量瓶。",
+   "overlay": [
+    "转移到容量瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "转移到容量瓶",
+   "scene": "小研用洗瓶冲洗烧杯，冲洗液也倒入容量瓶",
+   "prompt_en": "The female graduate student rinses the beaker with a wash bottle and pours the rinse into the flask.",
+   "narration": "用洗瓶冲洗烧杯，冲洗液也倒进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "转移到容量瓶",
+   "scene": "烧杯壁上残留的小颗粒被冲走",
+   "prompt_en": "Small leftover particles on the beaker wall are washed away by a stream of water. No people.",
+   "narration": "一点都不能落下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "定容：弯月面与刻线相切",
+   "scene": "小研用洗瓶往容量瓶里加水",
+   "prompt_en": "The female graduate student adds distilled water to the volumetric flask with a wash bottle.",
+   "narration": "用洗瓶加水，加到接近刻线。",
+   "overlay": [
+    "定容：弯月面与刻线相切"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "定容：弯月面与刻线相切",
+   "scene": "小研弯腰平视刻线，用滴管逐滴加水",
+   "prompt_en": "The female graduate student bends down to eye level with the line and adds water drop by drop with a dropper.",
+   "narration": "最后几毫升，改用滴管一滴滴加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "定容：弯月面与刻线相切",
+   "scene": "弯月面最低点刚好与刻线相切的特写",
+   "prompt_en": "Close-up of the bottom of the meniscus exactly touching the line on the flask neck, with a green check. No people.",
+   "narration": "弯月面最低点与刻线相切，就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "完成标准溶液",
+   "scene": "小研捧着配好的容量瓶",
+   "prompt_en": "The female graduate student holds the finished volumetric flask of clear solution.",
+   "narration": "标准溶液配好了。",
+   "overlay": [
+    "完成标准溶液"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "完成标准溶液",
+   "scene": "大容量瓶和微量移液器配小管的对比",
+   "prompt_en": "A large volumetric flask next to a micropipette filling a small tube. No people.",
+   "narration": "量少的标准溶液，可用微量移液器配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现烧杯打叉、量筒和容量瓶打勾",
+   "prompt_en": "The panda mascot stands beside floating icons: a beaker crossed out, a cylinder and a volumetric flask with checks.",
+   "narration": "量准体积，别靠烧杯刻度。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "移液管配吸耳球、滴管、微量移液器图标",
+   "prompt_en": "Icons of a glass pipette with a bulb, a dropper and a micropipette with a tip. No people.",
+   "narration": "移液管、滴管、微量移液器，各有所长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "称量、溶解、转移、定容四步图标",
+   "prompt_en": "Four step icons with arrows: a balance, a beaker on a stirrer, a funnel into a flask, and a flask filled to the line. No people.",
+   "narration": "称量、溶解、转移、定容到刻线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标准溶液瓶和未知样品瓶图标",
+   "prompt_en": "Icons of a standard solution bottle with a blank label and an unknown sample flask with a question mark. No people.",
+   "narration": "标准溶液，用来测未知浓度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着贴好标签的容量瓶挥手道别",
+   "prompt_en": "The panda mascot holds a labeled volumetric flask and waves goodbye at the camera.",
+   "narration": "一滴不差，配得精准，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

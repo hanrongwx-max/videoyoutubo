@@ -10,8 +10,8 @@
 | BIORISK MANAGEMENT | 47 / 47 | 18 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 15 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 9 / 23 |
-| Lab Safety Training Series | 13 / 13 | 5 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
+| Lab Safety Training Series | 13 / 13 | 6 / 13 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 5 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 7 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 9 / 10 |
@@ -74,6 +74,7 @@
 | Acids, Bases & Solvents Safety | 03_Module 10 — Waste Management | 国内版 | 实验室废物的分类与处置（国内版） | 77 | 6:25 | 18 / 6 | [剧本](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 原著版 | 实验室应急响应 | 61 | 5:05 | 17 / 0 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response/script.md>) |
 | Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 国内版 | 实验室应急响应（国内版） | 80 | 6:40 | 17 / 6 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 原著版 | 实验室设备与运行安全 | 63 | 5:15 | 16 / 0 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety/script.md>) |
 | Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 国内版 | 实验室设备与运行安全（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 06_Module 7 — Chemical & Biological Safety | 国内版 | 化学与生物危害的日常操作（国内版） | 76 | 6:20 | 15 / 6 | [剧本](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 07_Module 6 — Personal Protective Equipment | 国内版 | 个人防护装备：选对、穿对、脱对（国内版） | 105 | 8:45 | 25 / 5 | [剧本](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/07_Module 6 — Personal Protective Equipment（国内版）/审查报告.md>) |
@@ -352,6 +353,7 @@
 | Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 国内版 | 实验室里的人机工效（国内版） | 102 | 8:30 | 25 / 5 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/script.md>) · [审查](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 05_Behavior Lab Safety Video Part 3 | 原著版 | 实验室里的行为规范 | 39 | 3:15 | 17 / 0 | [剧本](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3/script.md>) |
 | Lab Safety Training Series | 05_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
+| Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 原著版 | 实验室里的安全设备 | 55 | 4:35 | 23 / 0 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2/script.md>) |
 | Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 07_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Lab Safety Training Series/07_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 08_Basic Lab Skills Training | 国内版 | 新生入门：九种基础仪器的规范使用（国内版） | 135 | 11:15 | 41 / 7 | [剧本](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/script.md>) · [审查](<Lab Safety Training Series/08_Basic Lab Skills Training（国内版）/审查报告.md>) |
