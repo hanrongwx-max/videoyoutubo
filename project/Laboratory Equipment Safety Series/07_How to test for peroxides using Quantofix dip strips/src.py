@@ -1,0 +1,142 @@
+# 07_How to test for peroxides using Quantofix dip strips 卡通剧本作者源（原著版）
+# 完全照原片：过氧化物试纸检测演示（1 分 39 秒），知识点 K1–K11，不加补充知识点、不做本土化和更正
+# 保留原片的做法和数值：废液直接蘸取、甩液后等 5 秒、有机溶液加一滴水、变蓝即有过氧化物、
+# 标签上的“首检后每 90 天检测”“超过 100 ppm 不得使用”、见结晶变色浑浊不开并联系安全部门
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "过氧化物试纸检测",
+    "edition": "原著版",
+    "points": {
+        "K1": "用试纸查过氧化物",
+        "K2": "在通风橱里，穿戴好防护",
+        "K3": "取试纸：够用就好，别碰测试区",
+        "K4": "非废液，另取少量来测",
+        "K5": "甩去余液，按时等待",
+        "K6": "测有机溶液，别漏加水步骤",
+        "K7": "水溶液也照样做",
+        "K8": "对照比色卡读结果",
+        "K9": "在专用标签上记录",
+        "K10": "试纸过期要更换",
+        "K11": "标签上的警示",
+    },
+    "avoid": ["Quantofix", "Quantifix", "Macherey", "Nagel", "Macherey-Nagel", "91312", "Peroxide 100",
+              "Iowa State", "ISU", "iastate", "Environmental Health and Safety"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在通风橱旁，手里举着一盒空白试纸",
+ "The panda mascot stands beside a fume hood holding up a blank box of test strips and waves at the camera.",
+ "今天讲怎样用试纸检查过氧化物。", "过氧化物试纸检测"),
+# 情景
+("情景", "阿杰端着一瓶有机废液走到通风橱前",
+ "The young male student carries a brown bottle of organic waste solution with a blank label to a fume hood.",
+ "阿杰要测一瓶有机废液。"),
+("情景", "小研拿着试纸盒走过来",
+ "The female graduate student walks over holding a blank test strip box.",
+ "小研说：跟着我一步步做。"),
+# K1
+("K1", "试纸盒特写，旁边溶剂瓶和放大镜图标",
+ "A close-up of a blank test strip box next to icons of a brown solvent bottle and a magnifying glass. No people.",
+ "用试纸，测有机溶液里有没有过氧化物。", "用试纸查过氧化物"),
+# K2
+("K2", "小研站在通风橱前，穿实验服、戴安全眼镜和蓝手套，橱内几只棕色瓶",
+ "The female graduate student stands at a fume hood wearing a lab coat, safety glasses and blue gloves; several brown bottles with orange and yellow labels sit inside the hood.",
+ "检测在通风橱里做。", "在通风橱里，穿戴好防护"),
+("K2", "五个防护图标排成一行",
+ "Five icons in a row: safety glasses, a lab coat, gloves, long pants and a closed-toe shoe. No people.",
+ "安全眼镜、实验服、手套、长裤、包趾鞋。", "", ["安全眼镜", "实验服", "手套", "长裤", "包趾鞋"]),
+# K3
+("K3", "小研打开铝制试纸罐，取出一条试纸",
+ "The female graduate student in blue gloves opens a blank aluminum test strip canister and takes out a single strip.",
+ "打开罐子，只取需要的试纸。", "取试纸：够用就好，别碰测试区"),
+("K3", "试纸末端的测试区被红框标出",
+ "A close view of a test strip with the small test pad at its end highlighted by a red frame. No people.",
+ "拿的时候，尽量别碰测试区。"),
+("K3", "戴手套的手把罐盖立即盖好",
+ "A gloved hand immediately presses the lid back onto the blank aluminum canister. No people.",
+ "取完马上盖好罐子。"),
+# K4
+("K4", "小研把试纸直接伸进废液瓶",
+ "The female graduate student dips the test strip straight into the brown waste bottle inside the fume hood.",
+ "这是废液，可以直接蘸取。", "非废液，另取少量来测"),
+("K4", "旁边的小烧杯被红框标出",
+ "A small empty beaker beside the bottle, highlighted by a red frame. No people.",
+ "不是废液，先倒少量到别的容器。"),
+("K4", "整瓶试剂被弄脏的图标打叉",
+ "An icon of a test strip dipped into a reagent stock bottle with dirty specks spreading, crossed out with a red X. No people.",
+ "免得污染整瓶化学品。"),
+# K5
+("K5", "试纸轻轻甩动，旁边计时器图标",
+ "A test strip being gently shaken with motion lines, next to a timer icon. No people.",
+ "甩掉多余液体，等待5秒。", "甩去余液，按时等待", ["5秒"]),
+# K6
+("K6", "空白说明书页，其中一段被红框标出",
+ "A blank instruction leaflet page with one paragraph area highlighted by a red frame and a water drop icon. No people.",
+ "说明书写着：测有机溶液要加一步。", "测有机溶液，别漏加水步骤"),
+("K6", "小研用滴管向试纸测试区加一滴水",
+ "The female graduate student uses a dropper to add one drop of water onto the test pad of the strip.",
+ "在测试区加一滴水。"),
+("K6", "说明书上的这一段旁边出现感叹号",
+ "The highlighted leaflet paragraph with a big exclamation mark icon beside it. No people.",
+ "这一步对准确度影响很大。"),
+("K6", "两条试纸并排，加水后的颜色明显变深",
+ "Two test strips side by side: the left pad pale, the right pad clearly darker blue, with a color scale beside them. No people.",
+ "注意看：加水前后，颜色差很多。", "", ["加水前", "加水后"]),
+# K7
+("K7", "水溶液瓶和有机溶液瓶都连到同一组步骤图标",
+ "Two bottle icons, one with a water drop symbol and one with a solvent symbol, both linked by arrows to the same row of step icons. No people.",
+ "测水溶液也加这一步，保持一致。", "水溶液也照样做"),
+("K7", "水溶液试纸旁打绿勾",
+ "A test strip for a water-based solution with a green check beside it. No people.",
+ "不会影响结果。"),
+# K8
+("K8", "小研把试纸贴近罐身的比色卡对照",
+ "The female graduate student holds the test strip next to a color scale of blank blue squares on the canister.",
+ "把测试区和比色卡对照。", "对照比色卡读结果"),
+("K8", "测试区由白变蓝的示意",
+ "A simple diagram of a test strip pad changing from white to blue with an arrow. No people.",
+ "有过氧化物，测试区会变蓝。"),
+# K9
+("K9", "瓶身的蓝色警示标签，记录行被红框标出",
+ "A blank blue warning label on a solvent bottle, with the results row highlighted by a red frame. No people.",
+ "在易形成过氧化物化学品标签上，", "在专用标签上记录"),
+("K9", "小研在标签记录行上填写",
+ "The female graduate student writes in the results row of the blank blue label with a pen.",
+ "记下浓度、日期和签名缩写。", "", ["浓度", "日期", "签名缩写"]),
+# K10
+("K10", "试纸盒有效期一栏被红框标出",
+ "A blank test strip box with its expiry area highlighted by a red frame and an hourglass icon. No people.",
+ "试纸过期了，丢掉换新的。", "试纸过期要更换"),
+# K11
+("K11", "欣欣指着蓝色标签上的警示三角",
+ "The panda mascot points at a general warning triangle on the blank blue label of a brown solvent bottle.",
+ "标签提醒：可能形成爆炸性过氧化物。", "标签上的警示"),
+("K11", "棕色瓶盖紧，旁边太阳、空气、火焰图标被打叉",
+ "A tightly capped brown bottle; beside it icons of a sun, an air swirl and a flame, each crossed out with a red X. No people.",
+ "原瓶密闭保存，避光、避空气、避热。"),
+("K11", "瓶口结晶、液体浑浊的瓶子图标，手停住",
+ "An icon of a bottle with crystals around the cap and cloudy liquid, and a hand stopping before the cap, crossed out with a red X. No people.",
+ "见到结晶、变色、浑浊，不要打开。"),
+("K11", "电话图标旁安全部门图标",
+ "A telephone icon next to a safety office building icon. No people.",
+ "联系安全部门协助。"),
+("K11", "标签上收货、开封、处置期限三栏和日历图标",
+ "A blank label with three empty date boxes and a calendar icon showing a ninety-day cycle. No people.",
+ "登记日期，首检后每90天检测一次。", "", ["收货日期", "开封日期", "处置期限", "每90天"]),
+("K11", "超过限值的瓶子打红叉",
+ "A bottle icon next to a test strip with a dark blue pad, crossed out with a red X. No people.",
+ "超过100 ppm，就不能再用。", "", ["超过100 ppm"]),
+# 小结
+("小结", "欣欣身旁浮现通风橱、试纸和水滴图标",
+ "The panda mascot stands beside floating icons of a fume hood, a test strip and a water drop.",
+ "通风橱里测，有机溶液加一滴水。", "小结"),
+("小结", "比色卡、标签和过期试纸盒图标",
+ "Icons of a color scale, a blank label and an expired strip box crossed out. No people.",
+ "对照变蓝，标签记录，过期更换。"),
+# 结尾
+("结尾", "欣欣在整齐的通风橱前挥手道别",
+ "The panda mascot waves goodbye in front of a tidy fume hood.",
+ "按步骤检测，安全用溶剂，下次见！"),
+]
