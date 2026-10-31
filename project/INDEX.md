@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 31 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 32 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -675,6 +675,7 @@
 | Laboratory Ergonomics & RSI | 31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety | 单一版 | 高处作业：争取一次过关 | 34 | 2:50 | 6 / 3 | [剧本](<Laboratory Ergonomics & RSI/31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety/script.md>) · [审查](<Laboratory Ergonomics & RSI/31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui | 原著版 | 安全员十问：施工安全基础 | 50 | 4:10 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui/script.md>) |
 | Laboratory Ergonomics & RSI | 32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui | 国内版 | 安全员十问：施工安全基础（国内版） | 50 | 4:10 | 11 / 2 | [剧本](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/32_Safety Quiz for Safety Officer Test Your Safety Knowledge Safety Quiz Safety Qui（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat | 原著版 | 安全管理十问 | 49 | 4:05 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat/script.md>) |
 | Laboratory Ergonomics & RSI | 33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat | 国内版 | 安全管理十问（国内版） | 46 | 3:50 | 11 / 2 | [剧本](<Laboratory Ergonomics & RSI/33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/33_SAFETY QUIZ SAFETY OFFICER SAFETY QUIZ MCQs Safety Quiz with Answer and Explanat（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide | 国内版 | 别国的安全日：十道问答（国内版） | 40 | 3:20 | 11 / 3 | [剧本](<Laboratory Ergonomics & RSI/34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/34_National Safety Day Safety Quiz Safety Quiz Competition @hsestudyguide（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire | 国内版 | 四个主题二十问（国内版） | 58 | 4:50 | 21 / 3 | [剧本](<Laboratory Ergonomics & RSI/35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/35_Safety Quiz - 2025 Workplace Safety Work at Height Safety Electrical Safety Fire（国内版）/审查报告.md>) |
