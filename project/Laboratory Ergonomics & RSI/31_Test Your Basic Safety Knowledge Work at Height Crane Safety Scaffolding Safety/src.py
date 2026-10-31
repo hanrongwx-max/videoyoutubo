@@ -1,0 +1,141 @@
+# 31_Test Your Basic Safety Knowledge Work at Height Crane Safety Scaffolding Safety 卡通剧本作者源
+# 原片为网站在线考试栏目录屏（选高处作业测验，主讲人得 20%）：改编为“首考就过关”的高处作业小测验，
+# 保留考试形式、“先读材料再答题”和录屏中能辨认的全部知识点（K1–K6），每题讲清原因；
+# 本土化：分级、安全带按国家标准；不出现网站、参加人数和广告。
+# 审查补充 S1–S3（高处储物柜固定防倾倒、悬挂后尽快解救、安全带调合身）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "高处作业：争取一次过关",
+    "points": {
+        "K1": "考试形式：先学再考",
+        "K2": "高处作业有哪些风险",
+        "K3": "有坠落风险就要防护",
+        "K4": "选梯子看四样",
+        "K5": "防坠落装备用前必查",
+        "K6": "救援计划为了尽快救人",
+        "S1": "高处储物柜固定防倾倒",
+        "S2": "悬挂后要尽快解救",
+        "S3": "安全带要调合身",
+    },
+    "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "hsestudyguide"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在梯子旁，举起一张空白答卷",
+ "The panda mascot stands next to a step ladder holding up a blank answer sheet and waves at the camera.",
+ "高处作业小测验，争取一次过关！", "高处作业：争取一次过关"),
+# 情景
+("情景", "阿杰拿到答卷就开始乱勾",
+ "The young male student starts ticking boxes on a blank answer sheet at random without reading.",
+ "阿杰拿到卷子，看都不看就勾。"),
+("情景", "小研递给他一本空白学习手册",
+ "The female graduate student hands him a blank study booklet.",
+ "小研说：先看材料，再答题。"),
+# K1
+("K1", "多个主题卡片：射线、化学品、脚手架、电气、高处",
+ "A row of topic cards: a radiation trefoil, a chemical bottle, scaffolding, a lightning bolt and a ladder. No people.",
+ "安全考试有很多主题。", "考试形式：先学再考"),
+("K1", "空白测验框：十格进度条和计时器",
+ "A blank quiz panel with ten progress segments and a countdown timer. No people.",
+ "每套十题十分钟，八题对才过。"),
+("K1", "一大群人只有少数打勾",
+ "A crowd of small person icons where only a few have green checks above them. No people.",
+ "第一次就过的人很少。"),
+("K1", "阿杰认真翻看手册",
+ "The young male student reads the study booklet carefully at a desk.",
+ "先把材料读懂，第一次就能过。"),
+# K2
+("K2", "三个图标：坠落的人、断裂的挂钩、风雨云",
+ "Three icons: a falling person, a broken hook and a wind and rain cloud. No people.",
+ "先了解高处作业的风险。", "高处作业有哪些风险", ["坠落", "设备失效", "环境因素"]),
+("K2", "老李站在梯子上，窗外刮风",
+ "The facility engineer stands on a ladder indoors while strong wind blows outside the window.",
+ "人会坠落，设备会失效，天气会添乱。"),
+# K3
+("K3", "高楼、夜晚月亮、雨伞三张卡片打叉",
+ "Three cards crossed out with red X marks: a tall building, a night moon and an umbrella. No people.",
+ "第一题：什么时候要防坠落保护？", "有坠落风险就要防护"),
+("K3", "人站在平台边缘，旁边护栏和安全带图标",
+ "A person icon near a platform edge, with a guardrail icon and a harness icon beside it. No people.",
+ "只要有从高处坠落的风险，就要防护。"),
+("K3", "王老师翻开国家标准",
+ "The safety administrator opens a blank standards book.",
+ "高处作业分级，按国家标准执行。"),
+# K4
+("K4", "价格标签、颜色色卡图标打叉",
+ "A price tag icon and a color swatch icon, both crossed out with red X marks. No people.",
+ "第二题：选梯子要考虑什么？", "选梯子看四样"),
+("K4", "四个图标：高度尺、砝码、材质块、任务卡",
+ "Four icons: a height ruler, a weight, a material sample block and a task card. No people.",
+ "高度、承重、材质，还有干什么活。", "", ["高度", "承重", "材质", "任务"]),
+("K4", "老李选了一把绝缘梯准备修灯",
+ "The facility engineer picks a non-conductive ladder to work near a light fixture.",
+ "靠近电线干活，选绝缘材质的梯子。"),
+# K5
+("K5", "老李检查安全带的织带和挂钩",
+ "The facility engineer inspects the webbing and hook of a full body harness.",
+ "第三题：防坠落装备多久查一次？", "防坠落装备用前必查"),
+("K5", "一年、半年、坏了才查的日历图标打叉",
+ "Calendar icons for yearly and half-yearly checks and a broken icon, all crossed out. No people.",
+ "每次用之前都要查。"),
+("K5", "空白说明书和带勾的检查记录",
+ "A blank manufacturer manual and a blank inspection record with a check mark. No people.",
+ "再按说明书要求，定期专项检查。"),
+# K6
+("K6", "老李挂在安全带上，悬在半空",
+ "The facility engineer hangs from his harness lanyard below a beam after a fall, holding still.",
+ "第四题：为什么要有救援计划？", "救援计划为了尽快救人"),
+("K6", "应付检查、只为合规的图标打叉",
+ "Two icons crossed out with red X marks: a person showing off and a stamp on a form. No people.",
+ "不是为了应付检查。"),
+("K6", "保卫处值班员推来移动平台把老李接下",
+ "The security officer brings a mobile platform and helps the facility engineer down safely.",
+ "是为了出事时迅速、安全地把人救下。"),
+# K1 结果
+("K1", "阿杰的答卷全是对勾",
+ "The young male student holds up an answer sheet full of green checks.",
+ "阿杰先学再考，一次过关。"),
+# S1
+("S1", "实验室高处试剂柜，没有固定，被碰得晃动",
+ "A tall reagent cabinet in a laboratory wobbles when bumped, not fixed to the wall. No people.",
+ "高高的试剂柜，一碰就晃。", "高处储物柜固定防倾倒"),
+("S1", "老李用支架把柜子固定在墙上",
+ "The facility engineer fixes the tall cabinet to the wall with metal brackets.",
+ "高柜、试剂架要固定在墙上。"),
+("S1", "重物放下层、轻物放上层",
+ "Heavy bottles placed on the lower shelves and light boxes on the upper shelves. No people.",
+ "重的放下层，轻的放上层。"),
+# S2
+("S2", "悬挂的人形和一个计时器",
+ "A person icon hanging in a harness beside a stopwatch icon. No people.",
+ "挂在安全带上不能久等。", "悬挂后要尽快解救"),
+("S2", "腿部血流受阻的示意",
+ "A simple body outline with leg straps highlighted and red arrows showing restricted circulation. No people.",
+ "腿带勒久了，会影响血液循环。"),
+("S2", "老周拨打电话，屏幕上 120",
+ "The older man calls on his phone while looking up at the scene.",
+ "按预案尽快解救，必要时拨120。"),
+# S3
+("S3", "阿杰穿着松垮的安全带，腿带垂下",
+ "The young male student wears a loose full body harness with leg straps hanging slack.",
+ "安全带松松垮垮，等于没穿。", "安全带要调合身"),
+("S3", "小研帮他收紧胸带和腿带",
+ "The female graduate student helps him tighten the chest strap and leg straps.",
+ "胸带腿带收紧，按说明书调到贴身。"),
+("S3", "阿杰抬腿弯腰活动，安全带不勒不松",
+ "The young male student bends and lifts his knee to test comfort in the adjusted harness.",
+ "活动一下，不勒不松，干活才不累。"),
+# 小结
+("小结", "一排图标：手册、护栏、梯子、检查表、救援平台",
+ "A row of icons: a study booklet, a guardrail, a ladder, a checklist and a mobile rescue platform. No people.",
+ "先学再考：有风险就防护，用前必检查。", "", ["先学", "防护", "选梯", "检查", "救援"]),
+("小结", "固定好的柜子和调好的安全带",
+ "A cabinet bolted to the wall and a properly adjusted harness on a hook. No people.",
+ "柜子固定好，安全带调合身。"),
+# 结尾
+("结尾", "欣欣挥手告别",
+ "The panda mascot waves goodbye next to the ladder.",
+ "先学再上手，安全一次过！"),
+]
