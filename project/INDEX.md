@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 276 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 278 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
-| Microbiology Biosafety | 40 / 59 | 0 / 25 |
+| BIORISK MANAGEMENT | 46 / 47 | 0 / 42 |
+| Microbiology Biosafety | 41 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -121,6 +121,7 @@
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 国内版 | 楼和柜子怎么挡住病原体：工程控制（国内版） | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT | 国内版 | 最后一道防线：个人防护（国内版） | 92 | 7:40 | 19 / 3 | [剧本](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/41_BIORISK MANAGEMENT PERSONAL PROTECTIVE EQUIPMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS | 单一版 | 写下来，照着做：管理控制 | 109 | 9:05 | 23 / 3 | [剧本](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS/script.md>) · [审查](<BIORISK MANAGEMENT/42_BIORISK MANAGEMENT ADMINISTRATIVE CONTROLS/审查报告.md>) |
+| BIORISK MANAGEMENT | 43_BIORISK MANAGEMENT STANDARD OPERATING PROCEDURES | 单一版 | 一份好规程是怎么写成的 | 98 | 8:10 | 23 / 3 | [剧本](<BIORISK MANAGEMENT/43_BIORISK MANAGEMENT STANDARD OPERATING PROCEDURES/script.md>) |
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 国内版 | 生物安全员：职责与担当（国内版） | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 单一版 | 蚊虫传的病，怎么防 | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/审查报告.md>) |
@@ -305,6 +306,7 @@
 | Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 单一版 | 微生物实验室的化学品安全 | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio/script.md>) · [审查](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 单一版 | 一张表看懂四个防护等级 | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi/审查报告.md>) |
+| Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 单一版 | 哪一级实验室，操作哪类微生物 | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/script.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/审查报告.md>) |
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
