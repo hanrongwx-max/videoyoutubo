@@ -11,7 +11,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
 | Lab Safety Training Series | 13 / 13 | 3 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 8 / 10 |
@@ -72,6 +72,7 @@
 | Acids, Bases & Solvents Safety | 02_Module 11 — Audit & Inspection Readiness | 国内版 | 天天准备好迎接安全检查（国内版） | 71 | 5:55 | 14 / 5 | [剧本](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/02_Module 11 — Audit & Inspection Readiness（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 03_Module 10 — Waste Management | 原著版 | 实验室废物的分类与处置 | 62 | 5:10 | 18 / 0 | [剧本](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management/script.md>) |
 | Acids, Bases & Solvents Safety | 03_Module 10 — Waste Management | 国内版 | 实验室废物的分类与处置（国内版） | 77 | 6:25 | 18 / 6 | [剧本](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/03_Module 10 — Waste Management（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 原著版 | 实验室应急响应 | 61 | 5:05 | 17 / 0 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response/script.md>) |
 | Acids, Bases & Solvents Safety | 04_Module 9 — Emergency Response | 国内版 | 实验室应急响应（国内版） | 80 | 6:40 | 17 / 6 | [剧本](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/04_Module 9 — Emergency Response（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 05_Module 8 — Equipment & Operational Safety | 国内版 | 实验室设备与运行安全（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/05_Module 8 — Equipment & Operational Safety（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 06_Module 7 — Chemical & Biological Safety | 国内版 | 化学与生物危害的日常操作（国内版） | 76 | 6:20 | 15 / 6 | [剧本](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/06_Module 7 — Chemical & Biological Safety（国内版）/审查报告.md>) |
