@@ -1,0 +1,600 @@
+{
+ "id": "11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE",
+ "edition": "单一版",
+ "series": "Electrical Safety Series",
+ "title": "漏电保护器的作用和类型",
+ "seconds": 220,
+ "source_doc": "course/Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE.md",
+ "author_source": "project/Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE/src.py",
+ "points": {
+  "K1": "什么是接地故障",
+  "K2": "电流改走人体",
+  "K3": "快速切断电源",
+  "K4": "流出流回一比较",
+  "K5": "装好维护好，一插就跳",
+  "K6": "能防什么，不防什么",
+  "K7": "漏电保护有多种形式",
+  "K8": "装在插座里的",
+  "K9": "可移动的",
+  "K10": "可移动的：断线也断电",
+  "K11": "做在插头上的",
+  "K12": "插头上有试验和复位键",
+  "S1": "临时、户外用电用移动式漏保",
+  "S2": "不得短接、拆除漏保",
+  "S3": "选用有3C标志的产品"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在工程训练中心的工作台旁，台上有一个带按钮的插座，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a workbench in a university engineering workshop, next to a wall socket with small test buttons, and waves at the camera.",
+   "narration": "这一课讲漏电保护器的作用和类型。",
+   "overlay": [
+    "漏电保护器的作用和类型"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "插座、移动插座盒、插头三个图标排成一行",
+   "prompt_en": "Three icons in a row: a wall socket with buttons, a portable socket box and a plug with buttons. No people.",
+   "narration": "它能在关键时刻，替你断电。",
+   "overlay": [],
+   "labels": [
+    "插座式",
+    "移动式",
+    "插头式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰站在地面潮湿的实训车间，拿着一把电钻准备插电",
+   "prompt_en": "The young male student stands on a damp workshop floor, holding an electric drill and reaching for a socket.",
+   "narration": "地面潮湿，阿杰要用电钻打孔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "电钻外壳漏电、电流经小人图标入地的示意，带警示三角",
+   "prompt_en": "An icon of a drill casing leaking current through a person pictogram into the wet floor, with a yellow warning triangle. No people.",
+   "narration": "要是电钻漏电，电会从人身上走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李递给阿杰一个带按钮的移动式漏电保护插座",
+   "prompt_en": "The facility engineer hands the young male student a portable socket box with test and reset buttons.",
+   "narration": "老李递来一个漏电保护插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣指着插座盒上的按钮",
+   "prompt_en": "The panda mascot points at the buttons on the portable socket box.",
+   "narration": "它是怎么保护人的？一起看看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是接地故障",
+   "scene": "电钻外壳经接地线通向大地的示意，线路完好",
+   "prompt_en": "A simple diagram of a drill's metal casing connected by a ground wire to the earth, intact. No people.",
+   "narration": "工具外壳本来有一条通向大地的路。",
+   "overlay": [
+    "什么是接地故障"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是接地故障",
+   "scene": "接地线中间断开的示意，断口处画红圈",
+   "prompt_en": "The same diagram with the ground wire broken in the middle, the break circled in red. No people.",
+   "narration": "这条低电阻的接地路断了，就是接地故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电流改走人体",
+   "scene": "电流箭头从工具外壳经手、身体、脚流入地面",
+   "prompt_en": "Current arrows flowing from the tool casing through a person pictogram's hand, body and feet into the floor. No people.",
+   "narration": "电流就会另找出路，从人身上入地。",
+   "overlay": [
+    "电流改走人体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电流改走人体",
+   "scene": "人体图标旁有心跳线和警示三角",
+   "prompt_en": "A person pictogram with a heartbeat line and a red warning triangle beside it. No people.",
+   "narration": "轻则受伤，重则丧命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "快速切断电源",
+   "scene": "漏电保护插座图标上，闪电被一道快速的开关断开",
+   "prompt_en": "An icon of a protective socket where a lightning bolt is cut off instantly by a fast-opening switch. No people.",
+   "narration": "漏电保护器，是一种动作很快的开关。",
+   "overlay": [
+    "快速切断电源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "快速切断电源",
+   "scene": "秒表图标指针只走了一小格",
+   "prompt_en": "A stopwatch icon whose hand moves only a tiny fraction. No people.",
+   "narration": "一出接地故障，眨眼间就断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "流出流回一比较",
+   "scene": "两根导线穿过一个圆环，流出流回箭头一样长",
+   "prompt_en": "A diagram of two wires passing through a ring sensor with equal current arrows going out and coming back. No people.",
+   "narration": "它时刻比较流出和流回的电流。",
+   "overlay": [
+    "流出流回一比较"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "流出流回一比较",
+   "scene": "回流箭头变短，圆环亮起，开关断开",
+   "prompt_en": "The return arrow becomes shorter, the ring sensor lights up and the switch opens. No people.",
+   "narration": "差了一点点，它就立即切断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装好维护好，一插就跳",
+   "scene": "老李用空白检测仪检查插座，并在空白卡上记录",
+   "prompt_en": "The facility engineer checks a protective socket with a blank tester and notes it on a blank card.",
+   "narration": "前提是安装正确、维护到位。",
+   "overlay": [
+    "装好维护好，一插就跳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装好维护好，一插就跳",
+   "scene": "漏电的电钻插头刚插进去，插座立即跳闸",
+   "prompt_en": "A leaky drill plug is pushed into the protective socket and the socket trips immediately with its indicator going dark.",
+   "narration": "有故障的工具一插上，它就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装好维护好，一插就跳",
+   "scene": "阿杰看着跳闸的插座，松了口气",
+   "prompt_en": "The young male student looks at the tripped socket and breathes a sigh of relief.",
+   "narration": "跳得够快，事故就来不及发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "能防什么，不防什么",
+   "scene": "小人双手同时摸两根带电导线的图标，旁边保护器图标灰掉",
+   "prompt_en": "An icon of a person pictogram touching two live wires at once with both hands, while the protection device icon beside it is greyed out. No people.",
+   "narration": "人同时碰到两根带电线，它管不了。",
+   "overlay": [
+    "能防什么，不防什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "能防什么，不防什么",
+   "scene": "老李断电后才打开接线盒",
+   "prompt_en": "The facility engineer switches off the power before opening a junction box.",
+   "narration": "所以检修还得断电，别碰带电部位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "能防什么，不防什么",
+   "scene": "盾牌挡住经人体入地的电流箭头",
+   "prompt_en": "A shield blocking a current arrow that flows through a person pictogram into the ground. No people.",
+   "narration": "它防的是最常见的那种触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "能防什么，不防什么",
+   "scene": "火焰、发热、电线外皮烧坏三个图标被盾牌挡住",
+   "prompt_en": "A shield in front of three icons: a flame, a heat symbol and a melted wire insulation. No people.",
+   "narration": "也能防漏电引起的起火和发热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电保护有多种形式",
+   "scene": "欣欣站在三格白板前",
+   "prompt_en": "The panda mascot stands in front of a whiteboard divided into three blank boxes.",
+   "narration": "漏电保护有好几种形式。",
+   "overlay": [
+    "漏电保护有多种形式"
+   ],
+   "labels": [
+    "插座式",
+    "移动式",
+    "插头式"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装在插座里的",
+   "scene": "墙上一个带试验、复位按钮的插座",
+   "prompt_en": "A wall socket with small test and reset buttons built into its face. No people.",
+   "narration": "一种直接装在插座里。",
+   "overlay": [
+    "装在插座里的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装在插座里的",
+   "scene": "一个这样的插座连着旁边几个普通插座",
+   "prompt_en": "One protective socket wired to protect several ordinary sockets next to it along the wall. No people.",
+   "narration": "一个能护住后面几个插座，价格也低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "可移动的",
+   "scene": "带提手的移动式漏电保护插座盒",
+   "prompt_en": "A portable protective socket box with a carrying handle. No people.",
+   "narration": "一种可以拿着走，方便携带。",
+   "overlay": [
+    "可移动的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "可移动的",
+   "scene": "移动插座盒插在普通墙插上，另一种带长电线",
+   "prompt_en": "One portable protective box plugged into an ordinary wall socket, and another version with its own long cord and plug. No people.",
+   "narration": "可插在普通插座上，或自带电线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "可移动的：断线也断电",
+   "scene": "供电线中间断开，插座盒的指示灯熄灭",
+   "prompt_en": "The supply cord to the portable box is cut in one wire and the box's indicator light goes out. No people.",
+   "narration": "供电线有一根断了，它也会断电。",
+   "overlay": [
+    "可移动的：断线也断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做在插头上的",
+   "scene": "电动工具的电线末端是一个较大的特殊插头",
+   "prompt_en": "A power tool cord ending in a larger, special-looking plug with a protection module built in. No people.",
+   "narration": "还有一种，直接做在插头上。",
+   "overlay": [
+    "做在插头上的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做在插头上的",
+   "scene": "保护范围从插头延伸到整根电线和工具",
+   "prompt_en": "A highlight spreading from the special plug along the entire cord to the power tool. No people.",
+   "narration": "它护住整根电线和连着的工具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插头上有试验和复位键",
+   "scene": "插头特写，上面有两个空白按钮",
+   "prompt_en": "A close-up of the special plug showing two blank buttons for test and reset. No people.",
+   "narration": "这种插头样子特别，带试验和复位键。",
+   "overlay": [
+    "插头上有试验和复位键"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插头上有试验和复位键",
+   "scene": "供电线断开时插头指示灯熄灭",
+   "prompt_en": "The supply side of the cord is broken and the plug's indicator light goes out. No people.",
+   "narration": "供电线断了，同样会自动断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "临时、户外用电用移动式漏保",
+   "scene": "户外活动现场，老李在移动式漏电保护插座上接电",
+   "prompt_en": "At an outdoor campus event, the facility engineer connects equipment through a portable protective socket box.",
+   "narration": "临时用电、户外用电，加一道漏保。",
+   "overlay": [
+    "临时、户外用电用移动式漏保"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "临时、户外用电用移动式漏保",
+   "scene": "普通插线板直接拖到草地上的图标，被红叉划掉",
+   "prompt_en": "An icon of an ordinary power strip dragged out onto wet grass, crossed out with a red X. No people.",
+   "narration": "别把普通插线板直接拉到室外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "临时、户外用电用移动式漏保",
+   "scene": "王老师在空白临时用电申请表上签字",
+   "prompt_en": "The safety administrator signs a blank temporary power application form.",
+   "narration": "临时用电先报批，由电工接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不得短接、拆除漏保",
+   "scene": "用导线把漏电保护器两端短接的图标，被红叉划掉",
+   "prompt_en": "An icon of a wire jumper bypassing a residual current device, crossed out with a red X. No people.",
+   "narration": "嫌它爱跳，就把它短接？绝对不行。",
+   "overlay": [
+    "不得短接、拆除漏保"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不得短接、拆除漏保",
+   "scene": "拆下的漏电保护器被扔在一边的图标，被红叉划掉",
+   "prompt_en": "An icon of a removed protection device tossed aside, crossed out with a red X. No people.",
+   "narration": "不能拆掉，也不能换成普通开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "不得短接、拆除漏保",
+   "scene": "阿杰报告老李，老李检查漏电的设备",
+   "prompt_en": "The young male student reports to the facility engineer, who inspects the leaking equipment.",
+   "narration": "老跳闸，就报修找原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "选用有3C标志的产品",
+   "scene": "包装盒上有 3C 认证标志的漏电保护插座图标",
+   "prompt_en": "An icon of a protective socket box packaging with a compulsory certification mark. No people.",
+   "narration": "选用有3C标志的合格产品。",
+   "overlay": [
+    "选用有3C标志的产品"
+   ],
+   "labels": [
+    "3C"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "选用有3C标志的产品",
+   "scene": "无标志的廉价插座图标，被红叉划掉",
+   "prompt_en": "An icon of a cheap unmarked socket product, crossed out with a red X. No people.",
+   "narration": "来路不明的便宜货，不能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在白板前，板上是电流经人体入地的示意",
+   "prompt_en": "The panda mascot stands at a whiteboard showing a diagram of current flowing through a person pictogram into the ground.",
+   "narration": "接地路一断，电就可能走人体。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "圆环比较电流、开关断开的示意",
+   "prompt_en": "A ring sensor comparing currents and a switch snapping open. No people.",
+   "narration": "漏电保护比电流，一有差值就断开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "插座式、移动式、插头式三个图标打勾",
+   "prompt_en": "Three icons with green checks: a protective wall socket, a portable protective box and a protective plug. No people.",
+   "narration": "插座式、移动式、插头式，按需选用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两根带电线的图标和断电开关",
+   "prompt_en": "An icon of two live wires next to a switched off breaker. No people.",
+   "narration": "它不是万能的，检修照样要断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、老李站在工作台旁挥手，台上是漏电保护插座",
+   "prompt_en": "The panda mascot waves goodbye at the camera together with the young male student and the facility engineer beside a workbench with a portable protective socket box.",
+   "narration": "装好漏保，安全用电，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
