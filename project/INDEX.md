@@ -20,7 +20,7 @@
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
 | General Lab Safety Practices | 8 / 8 | 3 / 8 |
-| Laser Equipment & Safety Training | 8 / 8 | 3 / 8 |
+| Laser Equipment & Safety Training | 8 / 8 | 4 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 2 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 1 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 2 / 7 |
@@ -265,6 +265,7 @@
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 国内版 | 激光切割机的运行安全（国内版） | 79 | 6:35 | 13 / 6 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 03_Laser Cutter 3 Materials | 原著版 | 激光切割的材料选择 | 54 | 4:30 | 15 / 0 | [剧本](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials/script.md>) |
 | Laser Equipment & Safety Training | 03_Laser Cutter 3 Materials | 国内版 | 激光切割的材料选择（国内版） | 67 | 5:35 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/03_Laser Cutter 3 Materials（国内版）/审查报告.md>) |
+| Laser Equipment & Safety Training | 04_Laser Cutter 4 xTool Studio | 原著版 | 激光设计软件入门与加工前检查 | 40 | 3:20 | 15 / 0 | [剧本](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio/script.md>) |
 | Laser Equipment & Safety Training | 04_Laser Cutter 4 xTool Studio | 国内版 | 激光设计软件入门与加工前检查（国内版） | 53 | 4:25 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 05_Laser Cutter 5 xTool Studio Design Set Up | 国内版 | 激光切割机：加工参数设置（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 国内版 | 激光切割机：徽章项目上机全流程（国内版） | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/审查报告.md>) |
