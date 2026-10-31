@@ -1,0 +1,1312 @@
+{
+ "id": "15_Distillation I",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "简单蒸馏与分馏",
+ "seconds": 480,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/15_Distillation I.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/15_Distillation I/src.py",
+ "points": {
+  "K1": "蒸馏：靠沸点分离液体",
+  "K2": "汽化与冷凝",
+  "K3": "蒸馏的过程",
+  "K4": "简单蒸馏的适用范围",
+  "K5": "分馏与减压蒸馏",
+  "K6": "器材清单",
+  "K7": "蒸馏瓶装三分之一到一半",
+  "K8": "加热套宁大勿小",
+  "K9": "搅拌子或沸石",
+  "K10": "固定烧瓶和加热套",
+  "K11": "给加热套留出退路",
+  "K12": "接上蒸馏头、冷凝管和接收瓶",
+  "K13": "温度计的位置与固定",
+  "K14": "备好接收瓶",
+  "K15": "磨口涂脂，热处不用塑料夹",
+  "K16": "冷凝水下进上出",
+  "K17": "管箍固定，水流适中",
+  "K18": "绝不加热密闭体系",
+  "K19": "冷凝环与温度骤升",
+  "K20": "前馏分弃去",
+  "K21": "每分钟约十滴",
+  "K22": "温度骤降，换瓶收尾",
+  "K23": "记录沸程，关闭热源",
+  "K24": "简单蒸馏五要点",
+  "K25": "分馏：许多次小蒸馏",
+  "K26": "分馏柱里的逐级富集",
+  "K27": "分馏装置",
+  "K28": "分馏要慢慢加热",
+  "K29": "给分馏柱保温",
+  "K30": "两三秒一滴最合适",
+  "S1": "停止蒸馏的正确顺序",
+  "S2": "加热套与调压器的用电",
+  "S3": "蒸馏放进通风柜",
+  "S4": "玻璃棉保温防纤维"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一套蒸馏装置旁",
+   "prompt_en": "The panda mascot stands beside a glass distillation setup with a round-bottom flask in a heating mantle, a condenser and a receiving flask, and waves at the camera.",
+   "narration": "这一课学简单蒸馏和分馏。",
+   "overlay": [
+    "简单蒸馏与分馏"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "简单蒸馏和分馏两套装置图标",
+   "prompt_en": "Two icons side by side: a simple distillation setup and one with a tall column between flask and head. No people.",
+   "narration": "装置怎么搭、怎么控速、哪里最危险，都讲。",
+   "overlay": [],
+   "labels": [
+    "简单蒸馏",
+    "分馏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把接收瓶接口用塞子堵严，准备开热",
+   "prompt_en": "The young male student pushes a stopper into the side outlet of the adapter and reaches for the heater knob.",
+   "narration": "阿杰想蒸一瓶溶剂，把出口堵得严严实实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研急忙拦住，指着被堵的出口",
+   "prompt_en": "The female graduate student quickly stops him and points at the blocked outlet.",
+   "narration": "小研说：封闭加热会炸！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在装置前点头",
+   "prompt_en": "The panda mascot nods in front of the distillation setup.",
+   "narration": "蒸馏规矩多，我们一条条来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "蒸馏：靠沸点分离液体",
+   "scene": "两种液体混在一个烧瓶里，分成两个瓶子",
+   "prompt_en": "One flask of mixed liquid splits by arrows into two separate flasks. No people.",
+   "narration": "分离液体混合物，或除去不挥发杂质。",
+   "overlay": [
+    "蒸馏：靠沸点分离液体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "蒸馏：靠沸点分离液体",
+   "scene": "温度计图标和两个不同高度的沸点标记",
+   "prompt_en": "A thermometer icon with two boiling marks at different heights. No people.",
+   "narration": "靠的是它们的沸点不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "汽化与冷凝",
+   "scene": "液滴变成蒸气向上",
+   "prompt_en": "A droplet turning into rising vapor lines with an up arrow. No people.",
+   "narration": "汽化：液体变成气体。",
+   "overlay": [
+    "汽化与冷凝"
+   ],
+   "labels": [
+    "汽化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "汽化与冷凝",
+   "scene": "蒸气遇冷变回液滴",
+   "prompt_en": "Vapor meeting a cold surface and turning back into droplets with a down arrow. No people.",
+   "narration": "冷凝：气体变回液体。",
+   "overlay": [],
+   "labels": [
+    "冷凝"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "蒸馏的过程",
+   "scene": "烧瓶加热，混合液沸腾",
+   "prompt_en": "A round-bottom flask heated in a mantle with the mixture gently boiling. No people.",
+   "narration": "加热混合物，易挥发的先沸腾。",
+   "overlay": [
+    "蒸馏的过程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "蒸馏的过程",
+   "scene": "蒸气经蒸馏头进冷凝管，冷水在夹套里流",
+   "prompt_en": "Vapor rises through the distilling head into a condenser with cold water flowing in its jacket. No people.",
+   "narration": "蒸气经蒸馏头，进入冷凝管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "蒸馏的过程",
+   "scene": "冷凝下来的液体流进接收瓶",
+   "prompt_en": "Condensed liquid drips into a receiving flask sitting in an ice bath. No people.",
+   "narration": "冷却成液体，流进接收瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "简单蒸馏的适用范围",
+   "scene": "三种蒸馏三个图标",
+   "prompt_en": "Three icons: a simple setup, a setup with a tall column, and a setup with a vacuum hose. No people.",
+   "narration": "蒸馏有三种，按液体性质选。",
+   "overlay": [
+    "简单蒸馏的适用范围"
+   ],
+   "labels": [
+    "简单",
+    "分馏",
+    "减压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "简单蒸馏的适用范围",
+   "scene": "简单蒸馏卡片：低沸点、沸点差大",
+   "prompt_en": "A card with a simple setup icon, a low thermometer and a big gap between two marks. No people.",
+   "narration": "沸点低于一百五十度，用简单蒸馏。",
+   "overlay": [],
+   "labels": [
+    "沸点＜150℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "简单蒸馏的适用范围",
+   "scene": "一种液体和不挥发杂质，或沸点差大的两种液体",
+   "prompt_en": "Two examples: a liquid with solid specks left behind, and two liquids with widely separated boiling marks. No people.",
+   "narration": "分开不挥发杂质，或沸点差二十五度以上。",
+   "overlay": [],
+   "labels": [
+    "相差≥25℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "分馏与减压蒸馏",
+   "scene": "沸点很接近的两个标记，分馏柱图标",
+   "prompt_en": "Two boiling marks very close together beside a fractionating column icon. No people.",
+   "narration": "沸点差小于二十五度，用分馏。",
+   "overlay": [
+    "分馏与减压蒸馏"
+   ],
+   "labels": [
+    "相差＜25℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "分馏与减压蒸馏",
+   "scene": "高温计图标和真空管图标",
+   "prompt_en": "A high thermometer icon next to a vacuum hose icon with a next-lesson arrow. No people.",
+   "narration": "沸点高于一百五十度用减压，下节讲。",
+   "overlay": [],
+   "labels": [
+    "沸点＞150℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "台面上摆出烧瓶、蒸馏头、冷凝管、接引管、温度计",
+   "prompt_en": "On a black bench: a round-bottom flask on a cork ring, a distilling head, a condenser, a vacuum adapter and a thermometer with adapter. No people.",
+   "narration": "备好烧瓶、蒸馏头、冷凝管、接引管。",
+   "overlay": [
+    "器材清单"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "铁架台、烧瓶夹、铁圈、加热套、调压器",
+   "prompt_en": "Two ring stands, extension clamps, an iron ring, a heating mantle and a variable voltage controller with a blank dial. No people.",
+   "narration": "铁架台、夹子、铁圈、加热套、调压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "器材清单",
+   "scene": "塑料磨口夹、管箍、橡胶管、接收瓶、冰水浴",
+   "prompt_en": "Plastic joint clips, hose clamps, rubber tubing, three receiving flasks and an ice bath bowl. No people.",
+   "narration": "还有磨口夹、管箍、水管和接收瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "蒸馏瓶装三分之一到一半",
+   "scene": "烧瓶液面在三分之一到一半之间，刻线标出",
+   "prompt_en": "A round-bottom flask filled between one third and one half, with two marker lines. No people.",
+   "narration": "蒸馏瓶装三分之一到一半。",
+   "overlay": [
+    "蒸馏瓶装三分之一到一半"
+   ],
+   "labels": [
+    "1/3–1/2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "蒸馏瓶装三分之一到一半",
+   "scene": "装太满的烧瓶暴沸冲进冷凝管的图标被打叉",
+   "prompt_en": "An icon of an overfilled flask bumping liquid up into the condenser, crossed out with a red X. No people.",
+   "narration": "太满会暴沸，杂质冲进接收瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "蒸馏瓶装三分之一到一半",
+   "scene": "装太少的烧瓶，大部分空间被蒸气占据",
+   "prompt_en": "An icon of a nearly empty flask with vapor filling it and a small loss icon. No people.",
+   "narration": "太少，光充满蒸气就要损失不少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "加热套宁大勿小",
+   "scene": "小加热套套大烧瓶、接触不好的图标被打叉",
+   "prompt_en": "An icon of a small heating mantle under a big flask with gaps and a burn mark, crossed out with a red X. No people.",
+   "narration": "加热套绝不能比烧瓶小，会烧坏。",
+   "overlay": [
+    "加热套宁大勿小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "加热套宁大勿小",
+   "scene": "大加热套里放小烧瓶，往空隙里倒沙",
+   "prompt_en": "A small flask sits in a larger heating mantle and sand is poured into the gap.",
+   "narration": "没有合适的就用大的，空隙填沙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "搅拌子或沸石",
+   "scene": "镊子把搅拌子放进烧瓶",
+   "prompt_en": "A gloved hand drops a small stir bar into the flask on a cork ring.",
+   "narration": "样品倒进烧瓶，放一根搅拌子。",
+   "overlay": [
+    "搅拌子或沸石"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "搅拌子或沸石",
+   "scene": "没有搅拌器时，刮勺加几粒沸石",
+   "prompt_en": "A spatula adds a few boiling stones to a cool flask. No people.",
+   "narration": "没有磁力搅拌，就加几粒沸石。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "固定烧瓶和加热套",
+   "scene": "烧瓶颈用夹子固定在铁架台",
+   "prompt_en": "The flask neck is clamped to a ring stand with an extension clamp.",
+   "narration": "烧瓶颈夹在铁架台上。",
+   "overlay": [
+    "固定烧瓶和加热套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "固定烧瓶和加热套",
+   "scene": "加热套接调压器，放在铁圈上",
+   "prompt_en": "A heating mantle plugged into a voltage controller rests on an iron ring under the flask; a magnetic stirrer sits below it. No people.",
+   "narration": "加热套接调压器，放在铁圈上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "固定烧瓶和加热套",
+   "scene": "加热套下面是磁力搅拌器",
+   "prompt_en": "Close view of the magnetic stirrer under the heating mantle. No people.",
+   "narration": "用搅拌子，下面再放磁力搅拌器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "给加热套留出退路",
+   "scene": "铁圈连同加热套向下移开",
+   "prompt_en": "The iron ring with the heating mantle slides down away from the flask, leaving space. No people.",
+   "narration": "铁圈下留空间，随时能把加热套降下来。",
+   "overlay": [
+    "给加热套留出退路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "接上蒸馏头、冷凝管和接收瓶",
+   "scene": "蒸馏头装上烧瓶，冷凝管接侧臂",
+   "prompt_en": "A distilling head is fitted on the flask and a condenser is joined to its side arm.",
+   "narration": "装上蒸馏头，冷凝管接侧臂。",
+   "overlay": [
+    "接上蒸馏头、冷凝管和接收瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "接上蒸馏头、冷凝管和接收瓶",
+   "scene": "接引管接冷凝管末端，夹在第二个铁架台",
+   "prompt_en": "A vacuum adapter is attached to the end of the condenser and clamped to a second ring stand. No people.",
+   "narration": "接引管接冷凝管，夹在第二个铁架台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "接上蒸馏头、冷凝管和接收瓶",
+   "scene": "小接收瓶用塑料夹接上，下面冰水浴",
+   "prompt_en": "A small receiving flask is secured to the adapter with a plastic joint clip and set into an ice bath. No people.",
+   "narration": "小接收瓶用塑料夹夹好，放进冰水浴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "温度计的位置与固定",
+   "scene": "温度计经套管插进蒸馏头顶部",
+   "prompt_en": "A thermometer is inserted through an adapter into the top of the distilling head and clipped. No people.",
+   "narration": "温度计经套管装在蒸馏头顶上。",
+   "overlay": [
+    "温度计的位置与固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "温度计的位置与固定",
+   "scene": "水银球上沿与侧臂下沿平齐的放大图",
+   "prompt_en": "Magnified diagram: the top of the thermometer bulb level with the bottom of the side arm, marked by a dashed line. No people.",
+   "narration": "球的上沿，和侧臂下沿平齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "温度计的位置与固定",
+   "scene": "冷凝管两端夹好，水管用管箍固定",
+   "prompt_en": "Both ends of the condenser are clipped; rubber hoses on its water ports are tightened with hose clamps. No people.",
+   "narration": "冷凝管两头夹牢，水管用管箍箍紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "备好接收瓶",
+   "scene": "装置旁放着两个干净的接收瓶",
+   "prompt_en": "Two clean dry receiving flasks wait on cork rings next to the setup. No people.",
+   "narration": "旁边再备两个干净干燥的接收瓶。",
+   "overlay": [
+    "备好接收瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "磨口涂脂，热处不用塑料夹",
+   "scene": "手指在磨口上抹一薄层润滑脂",
+   "prompt_en": "A gloved finger spreads a thin film of grease on a ground glass joint.",
+   "narration": "所有磨口，轻轻涂一层润滑脂。",
+   "overlay": [
+    "磨口涂脂，热处不用塑料夹"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "磨口涂脂，热处不用塑料夹",
+   "scene": "塑料夹夹在烧瓶热接口上的图标被打叉",
+   "prompt_en": "An icon of a plastic clip on the hot joint right above the heating mantle, melting, crossed out with a red X. No people.",
+   "narration": "会变热的接口，不用塑料夹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冷凝水下进上出",
+   "scene": "冷凝管下口进水、上口出水的箭头",
+   "prompt_en": "Arrows show water entering the lower port of the condenser and leaving from the upper port to a sink. No people.",
+   "narration": "冷凝水下口进，上口出到水槽。",
+   "overlay": [
+    "冷凝水下进上出"
+   ],
+   "labels": [
+    "进水",
+    "出水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "冷凝水下进上出",
+   "scene": "夹套里充满水，没有气泡",
+   "prompt_en": "Close view of the condenser jacket completely full of water with no air bubbles. No people.",
+   "narration": "下进上出，夹套里才不会存气泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "管箍固定，水流适中",
+   "scene": "手指检查每个管箍",
+   "prompt_en": "A gloved hand checks each hose clamp on the condenser tubing.",
+   "narration": "开水前，再查一遍管箍。",
+   "overlay": [
+    "管箍固定，水流适中"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "管箍固定，水流适中",
+   "scene": "水龙头只开一点，细细水流",
+   "prompt_en": "A tap opened only a little, sending a gentle steady flow. No people.",
+   "narration": "水流开到能冷却就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "管箍固定，水流适中",
+   "scene": "水开太大、水管冲脱喷水的图标被打叉",
+   "prompt_en": "An icon of a hose popping off the condenser and spraying water everywhere, crossed out with a red X. No people.",
+   "narration": "开太大，水管会冲脱，喷一桌子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "绝不加热密闭体系",
+   "scene": "调压器旋钮慢慢调高",
+   "prompt_en": "A gloved hand slowly turns up the knob of the voltage controller. No people.",
+   "narration": "打开调压器，加热到平稳沸腾。",
+   "overlay": [
+    "绝不加热密闭体系"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "绝不加热密闭体系",
+   "scene": "接引管侧口敞开，箭头通向空气",
+   "prompt_en": "The side outlet of the vacuum adapter is open with an arrow pointing out to the air. No people.",
+   "narration": "接引管侧口必须通大气。",
+   "overlay": [],
+   "labels": [
+    "通大气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "绝不加热密闭体系",
+   "scene": "密闭装置加热鼓胀炸裂的图标被打叉",
+   "prompt_en": "An icon of a sealed glass setup swelling and cracking under heat, crossed out with a big red X. No people.",
+   "narration": "绝不能加热密闭体系，会爆炸！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环与温度骤升",
+   "scene": "冷凝环沿瓶壁上升到蒸馏头",
+   "prompt_en": "A ring of condensing vapor climbs up the flask wall into the distilling head. No people.",
+   "narration": "冷凝环慢慢升到蒸馏头。",
+   "overlay": [
+    "冷凝环与温度骤升"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环与温度骤升",
+   "scene": "温度计读数骤然上升，球上挂着液滴",
+   "prompt_en": "The thermometer reading jumps up as a droplet forms on the bulb. No people.",
+   "narration": "蒸气到达水银球，温度一下跳上来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "冷凝环与温度骤升",
+   "scene": "冷凝环停住，调压器稍调高",
+   "prompt_en": "The condensate ring stops partway; the controller knob turns up slightly. No people.",
+   "narration": "冷凝环停住不动，稍微调高电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "前馏分弃去",
+   "scene": "小接收瓶里滴入约十滴",
+   "prompt_en": "Drops fall into the small receiving flask, a counter icon reaching ten. No people.",
+   "narration": "先接十滴左右前馏分。",
+   "overlay": [
+    "前馏分弃去"
+   ],
+   "labels": [
+    "约10滴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "前馏分弃去",
+   "scene": "迅速换上大接收瓶",
+   "prompt_en": "Gloved hands quickly swap the small flask for a larger receiving flask and clip it on.",
+   "narration": "迅速换上大接收瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "前馏分弃去",
+   "scene": "小瓶里的前馏分倒向废液桶",
+   "prompt_en": "The first drops from the small flask are poured into a waste container with a blank label. No people.",
+   "narration": "最初几滴可能有低沸点杂质，不要。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "每分钟约十滴",
+   "scene": "液滴稳定滴下，钟表图标",
+   "prompt_en": "Distillate drips steadily into the flask beside a clock icon. No people.",
+   "narration": "主馏分大约每分钟十滴。",
+   "overlay": [
+    "每分钟约十滴"
+   ],
+   "labels": [
+    "约10滴/分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "每分钟约十滴",
+   "scene": "滴得太快带出杂质、太慢钟表转圈的对比",
+   "prompt_en": "Two panels: a fast stream with impurity dots, and a slow drip with a spinning clock. No people.",
+   "narration": "太快混进杂质，太慢太费时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "温度骤降，换瓶收尾",
+   "scene": "温度计球上没有液滴，读数骤降",
+   "prompt_en": "The thermometer bulb is dry and the reading drops sharply. No people.",
+   "narration": "低沸点的蒸完了，温度突然下降。",
+   "overlay": [
+    "温度骤降，换瓶收尾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "温度骤降，换瓶收尾",
+   "scene": "立刻换上新的小接收瓶",
+   "prompt_en": "Gloved hands swap in a new small receiving flask. No people.",
+   "narration": "马上换新的小瓶，接最后几滴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "温度骤降，换瓶收尾",
+   "scene": "最后几滴里带着高沸点杂质的示意",
+   "prompt_en": "The last few drops shown with small impurity dots, kept apart from the main flask. No people.",
+   "narration": "这几滴可能有高沸点杂质，别混进主瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "记录沸程，关闭热源",
+   "scene": "记录本上一段温度范围",
+   "prompt_en": "A blank notebook with a temperature band sketched on it. No people.",
+   "narration": "记下从沸腾到骤降前的温度范围。",
+   "overlay": [
+    "记录沸程，关闭热源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "记录沸程，关闭热源",
+   "scene": "范围很窄，勾号",
+   "prompt_en": "A narrow temperature band with a green check mark. No people.",
+   "narration": "范围在两度以内，就比较纯。",
+   "overlay": [],
+   "labels": [
+    "≤2℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "记录沸程，关闭热源",
+   "scene": "接完最后几滴，关掉调压器",
+   "prompt_en": "After the last drops, the voltage controller is turned off. No people.",
+   "narration": "收完最后几滴，关闭热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "简单蒸馏五要点",
+   "scene": "五要点清单前两条：接口紧、装量",
+   "prompt_en": "A checklist board with two icons: a tight joint with a hose clamp, and a flask filled one third to half. No people.",
+   "narration": "要点：接口紧、水管牢、装量合适。",
+   "overlay": [
+    "简单蒸馏五要点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "简单蒸馏五要点",
+   "scene": "清单继续：滴速、三个接收瓶",
+   "prompt_en": "The checklist continues with a ten drops per minute clock and three receiving flasks for start, middle and end. No people.",
+   "narration": "每分钟十滴，前中后分瓶接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "简单蒸馏五要点",
+   "scene": "蒸干的烧瓶过热开裂的图标被打叉",
+   "prompt_en": "An icon of a dry flask overheating and cracking in the mantle, crossed out with a red X. No people.",
+   "narration": "绝不能蒸干，会过热破裂！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "分馏：许多次小蒸馏",
+   "scene": "两个沸点很近的标记，问号",
+   "prompt_en": "Two boiling marks almost touching with a question mark. No people.",
+   "narration": "沸点很近的两种液体，用分馏。",
+   "overlay": [
+    "分馏：许多次小蒸馏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "分馏：许多次小蒸馏",
+   "scene": "分馏柱内部有很多突刺，表面积大",
+   "prompt_en": "Close view of a fractionating column with many glass spikes inside, large surface area highlighted. No people.",
+   "narration": "分馏柱里表面积大，像做了很多次小蒸馏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "分馏柱里的逐级富集",
+   "scene": "蒸气在柱底冷凝成液滴，颜色偏向低沸点",
+   "prompt_en": "Animated diagram: vapor condenses into droplets at the bottom of the column, droplets tinted toward the low boiling color. No people.",
+   "narration": "蒸气在柱底冷凝，低沸点的多一些。",
+   "overlay": [
+    "分馏柱里的逐级富集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "分馏柱里的逐级富集",
+   "scene": "液滴再汽化，在更高处冷凝",
+   "prompt_en": "The droplets re-vaporize and condense higher up, each step more strongly tinted. No people.",
+   "narration": "再汽化、再冷凝，一级级往上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "分馏柱里的逐级富集",
+   "scene": "柱顶只剩一种颜色的蒸气",
+   "prompt_en": "At the top of the column only one color of vapor remains. No people.",
+   "narration": "到柱顶，理论上就是纯的低沸点组分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "分馏装置",
+   "scene": "在烧瓶和蒸馏头之间插入分馏柱",
+   "prompt_en": "A fractionating column is fitted between the flask and the distilling head.",
+   "narration": "烧瓶和蒸馏头之间加一根分馏柱。",
+   "overlay": [
+    "分馏装置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "分馏装置",
+   "scene": "一体式分馏装置",
+   "prompt_en": "An all-in-one distillation apparatus with a built-in column and several receiving flasks. No people.",
+   "narration": "也可用一体式仪器，操作和简单蒸馏一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "分馏要慢慢加热",
+   "scene": "调压器只调高一点点，升温箭头平缓",
+   "prompt_en": "The controller knob nudged up only slightly; a gentle rising arrow beside it. No people.",
+   "narration": "分馏要非常慢地加热。",
+   "overlay": [
+    "分馏要慢慢加热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "分馏要慢慢加热",
+   "scene": "加热太猛，柱内液体冲成一片的图标被打叉",
+   "prompt_en": "An icon of a column flooded with rushing vapor and liquid, crossed out with a red X. No people.",
+   "narration": "太猛，柱里来不及达到平衡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "分馏要慢慢加热",
+   "scene": "加热太弱，蒸气走到一半就冷了",
+   "prompt_en": "Diagram of vapor stalling halfway up a cold column with blue cold marks. No people.",
+   "narration": "太弱，蒸气爬不到柱顶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "给分馏柱保温",
+   "scene": "分馏柱外包一层保温材料再裹铝箔",
+   "prompt_en": "A fractionating column wrapped in an insulating layer and then aluminum foil. No people.",
+   "narration": "柱子散热太快，就包上保温层和铝箔。",
+   "overlay": [
+    "给分馏柱保温"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "两三秒一滴最合适",
+   "scene": "液滴稳定滴下，钟表每两三秒一跳",
+   "prompt_en": "A drop falls steadily into the receiver as a clock icon ticks every few seconds. No people.",
+   "narration": "慢而稳，两三秒一滴最合适。",
+   "overlay": [
+    "两三秒一滴最合适"
+   ],
+   "labels": [
+    "2–3秒/滴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "两三秒一滴最合适",
+   "scene": "欣欣举起一瓶清澈的馏出液",
+   "prompt_en": "The panda mascot holds up a flask of clear distillate and smiles.",
+   "narration": "方法对了，纯度和收率都好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停止蒸馏的正确顺序",
+   "scene": "调压器归零，加热套降下",
+   "prompt_en": "The female graduate student turns the voltage controller to zero and lowers the heating mantle away from the flask.",
+   "narration": "停蒸馏：先关热源，降下加热套。",
+   "overlay": [
+    "停止蒸馏的正确顺序"
+   ],
+   "labels": [
+    "① 停热"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停止蒸馏的正确顺序",
+   "scene": "烧瓶冷却，冷凝水还开着",
+   "prompt_en": "The flask cools while water still flows through the condenser, a clock icon beside it. No people.",
+   "narration": "冷凝水继续开着，等烧瓶凉下来。",
+   "overlay": [],
+   "labels": [
+    "② 冷却"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停止蒸馏的正确顺序",
+   "scene": "关水，再从上往下拆装置",
+   "prompt_en": "The tap is closed, then the female graduate student takes the glassware apart from the receiver end.",
+   "narration": "凉了再关水，然后拆装置。",
+   "overlay": [],
+   "labels": [
+    "③ 关水",
+    "④ 拆卸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停止蒸馏的正确顺序",
+   "scene": "先关水后停热的图标被打叉",
+   "prompt_en": "An icon of closing the water tap while the mantle is still glowing hot, crossed out with a red X. No people.",
+   "narration": "先关水，蒸气会从接口冲出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热套与调压器的用电",
+   "scene": "调压器旋钮在零位，再插电",
+   "prompt_en": "The voltage controller knob set at zero before the plug goes into the socket. No people.",
+   "narration": "调压器先归零，再插电开机。",
+   "overlay": [
+    "加热套与调压器的用电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热套与调压器的用电",
+   "scene": "电线搭在热的加热套上的图标被打叉",
+   "prompt_en": "An icon of a power cord lying across a hot heating mantle, crossed out with a red X. No people.",
+   "narration": "电线别搭在热面上，远离冷凝水管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "加热套与调压器的用电",
+   "scene": "加热套里洒进液体的图标被打叉",
+   "prompt_en": "An icon of liquid spilling into a heating mantle with sparks, crossed out with a red X. No people.",
+   "narration": "加热套里洒了液体，立即断电处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "蒸馏放进通风柜",
+   "scene": "整套蒸馏装置搭在通风柜里，柜门拉低",
+   "prompt_en": "A complete distillation setup assembled inside a fume hood with the sash lowered.",
+   "narration": "蒸易燃、有毒溶剂，装置搭在通风柜里。",
+   "overlay": [
+    "蒸馏放进通风柜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "蒸馏放进通风柜",
+   "scene": "接引管侧口接一根管子引向柜内后方",
+   "prompt_en": "A tube from the adapter side outlet leads toward the back of the fume hood. No people.",
+   "narration": "通大气的出口，蒸气引向通风处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "蒸馏放进通风柜",
+   "scene": "王老师看着柜门高度点头",
+   "prompt_en": "The safety administrator checks the sash height and nods.",
+   "narration": "柜门高度按本校规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "玻璃棉保温防纤维",
+   "scene": "小研戴手套和护目镜，用玻璃棉缠柱子",
+   "prompt_en": "The female graduate student, in gloves and goggles, wraps insulating glass wool around the column.",
+   "narration": "玻璃棉纤维扎手，戴手套护目镜。",
+   "overlay": [
+    "玻璃棉保温防纤维"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "玻璃棉保温防纤维",
+   "scene": "抖动玻璃棉、纤维飘散的图标被打叉",
+   "prompt_en": "An icon of shaking glass wool with fibers floating in the air, crossed out with a red X. No people.",
+   "narration": "别抖动扬起，碎屑装袋丢弃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现装量线和加热套图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a half-filled flask and a heating mantle.",
+   "narration": "装三分之一到一半，加热套宁大勿小。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "冷凝管下进上出与管箍图标",
+   "prompt_en": "Icons of a condenser with bottom-in top-out arrows and hose clamps. No people.",
+   "narration": "下进上出，管箍箍紧，水流适中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "通大气出口与禁止密闭图标",
+   "prompt_en": "Icons of an open outlet and a crossed-out sealed setup. No people.",
+   "narration": "通大气，不密闭，不蒸干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三个接收瓶和分馏柱图标",
+   "prompt_en": "Icons of three receiving flasks and a fractionating column. No people.",
+   "narration": "前中后分瓶，分馏慢热保温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "停热、冷却、关水、拆卸四步图标",
+   "prompt_en": "Four step icons in order: heat off, cooling, water off, take apart. No people.",
+   "narration": "停热、冷却、关水、拆卸，按顺序来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着馏出液挥手道别",
+   "prompt_en": "The panda mascot holds a flask of clear distillate and waves goodbye at the camera.",
+   "narration": "蒸得纯，做得稳，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
