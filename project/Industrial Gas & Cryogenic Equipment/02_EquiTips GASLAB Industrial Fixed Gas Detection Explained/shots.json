@@ -1,0 +1,444 @@
+{
+ "id": "02_EquiTips GASLAB Industrial Fixed Gas Detection Explained",
+ "edition": "原著版",
+ "series": "Industrial Gas & Cryogenic Equipment",
+ "title": "固定式气体检测报警",
+ "seconds": 155,
+ "source_doc": "course/Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained.md",
+ "author_source": "project/Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained/src.py",
+ "points": {
+  "K1": "使用危险气体的场所，最大风险是人员暴露和窒息",
+  "K2": "气体危害分三类：有毒、可燃、使氧含量降低（窒息）；未被察觉时危及人员、设施和运行",
+  "K3": "固定式气体检测系统连续监测，在浓度达到危险值之前提前报警",
+  "K4": "检测系统发出声光报警，并能联动排风机换气，或把信号直接传给消防、应急响应部门，形成完整的安全系统",
+  "K5": "可检测的气体种类多（二氧化碳、氧气、甲烷、氨、一氧化碳、氢气等），要按场所和所用气体选择探测器",
+  "K6": "适用场所包括充装厂、实验室、冷库和工业场所",
+  "K7": "检测报警系统要符合相关法规标准，既保护人员，也满足检查要求",
+  "K8": "选用质量体系认证、可靠的产品",
+  "K9": "气体安全刻不容缓，不是可选项，而是必需"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在挂着调压器和细管的白色展示墙前，台面上有白色检测仪和橙色报警灯，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of a white display wall with gas regulators and thin tubing, a white gas detector and an orange beacon on the counter, and waves at the camera.",
+   "narration": "今天聊每家气体经销商都该懂的事。",
+   "overlay": [
+    "固定式气体检测报警"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "老李走进画面，手里拿着灰色圆形探头",
+   "prompt_en": "The facility engineer walks into the frame holding a round gray explosion-proof gas sensor head.",
+   "narration": "嘉宾老李，是检测仪厂家的销售负责人。",
+   "overlay": [],
+   "labels": [
+    "气体安全检测"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在气瓶充装间里推着气瓶，四周是成排的钢瓶",
+   "prompt_en": "The young male student rolls a gas cylinder on a hand truck through a filling station lined with rows of steel cylinders.",
+   "narration": "阿杰在气瓶充装间打工，天天和气瓶打交道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抬头看空荡荡的墙面，挠挠头",
+   "prompt_en": "The young male student looks up at a bare wall with no detectors and scratches his head.",
+   "narration": "他想知道：这里最大的风险是什么？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "使用危险气体的场所，最大风险是人员暴露和窒息",
+   "scene": "欣欣向老李提问，旁边浮现一个人倒地的警示图标",
+   "prompt_en": "The panda mascot asks the facility engineer a question, with a warning icon of a person collapsing floating beside them.",
+   "narration": "老李说，最大的风险是暴露，甚至窒息。",
+   "overlay": [
+    "最大风险是人员暴露和窒息"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气体危害分三类：有毒、可燃、使氧含量降低（窒息）；未被察觉时危及人员、设施和运行",
+   "scene": "骷髅、火焰、氧气下降三个图标",
+   "prompt_en": "Three warning icons: a skull for toxic gas, a flame for flammable gas, and an O2 symbol with a down arrow. No people.",
+   "narration": "这些气体可能有毒、可燃，或者耗氧。",
+   "overlay": [
+    "气体危害分三类"
+   ],
+   "labels": [
+    "有毒",
+    "可燃",
+    "耗氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气体危害分三类：有毒、可燃、使氧含量降低（窒息）；未被察觉时危及人员、设施和运行",
+   "scene": "看不见的气体从气瓶阀口慢慢扩散到房间",
+   "prompt_en": "Faint transparent gas slowly spreads from a cylinder valve into a closed room. No people.",
+   "narration": "要是一直没被发现，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气体危害分三类：有毒、可燃、使氧含量降低（窒息）；未被察觉时危及人员、设施和运行",
+   "scene": "人、厂房、生产线三个图标上方都有警示三角",
+   "prompt_en": "Icons of a worker, a building and a production line, each with a yellow warning triangle above. No people.",
+   "narration": "员工、设施和运营都会陷入危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "固定式气体检测系统连续监测，在浓度达到危险值之前提前报警",
+   "scene": "老李手持白色壁挂式检测仪，欣欣捧着灰色防爆探头",
+   "prompt_en": "The facility engineer holds up a white wall-mount gas detector while the panda mascot holds a gray explosion-proof sensor head.",
+   "narration": "固定式检测器、防爆探头和控制器。",
+   "overlay": [
+    "连续监测，提前报警"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "固定式气体检测系统连续监测，在浓度达到危险值之前提前报警",
+   "scene": "墙上的检测仪屏幕上是平稳的曲线图标",
+   "prompt_en": "A white fixed gas detector on the wall, its blank screen showing a calm continuous wave icon. No people.",
+   "narration": "它们一刻不停地连续监测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "固定式气体检测系统连续监测，在浓度达到危险值之前提前报警",
+   "scene": "浓度曲线上升，在红线之前就亮起报警",
+   "prompt_en": "A rising concentration line approaches a red danger line, and an alarm bell lights up before it reaches the line. No people.",
+   "narration": "浓度到达危险值之前，就提醒大家。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "检测系统发出声光报警，并能联动排风机换气，或把信号直接传给消防、应急响应部门，形成完整的安全系统",
+   "scene": "欣欣举起橙色声光报警灯，灯在闪烁",
+   "prompt_en": "The panda mascot lifts an orange beacon alarm light that flashes, with sound wave icons around it.",
+   "narration": "检测到气体，就发出声光报警。",
+   "overlay": [
+    "声光报警、联动排风、远传信号"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "检测系统发出声光报警，并能联动排风机换气，或把信号直接传给消防、应急响应部门，形成完整的安全系统",
+   "scene": "报警器连线到排风扇，排风扇开始转动",
+   "prompt_en": "A gas detector connected by a line to an exhaust fan, which starts spinning and pulls air out. No people.",
+   "narration": "还能启动排风扇，把空气换干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "检测系统发出声光报警，并能联动排风机换气，或把信号直接传给消防、应急响应部门，形成完整的安全系统",
+   "scene": "报警信号沿线路传到消防车和救护车图标",
+   "prompt_en": "A signal line runs from a gas detector to a fire truck icon and an emergency response team icon. No people.",
+   "narration": "甚至直接给消防和应急队伍发信号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "检测系统发出声光报警，并能联动排风机换气，或把信号直接传给消防、应急响应部门，形成完整的安全系统",
+   "scene": "探测器、控制器、报警灯、风机连成一个圈",
+   "prompt_en": "A circle diagram linking a detector, a controller box, an alarm beacon and an exhaust fan. No people.",
+   "narration": "这样就构成一整套安全系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可检测的气体种类多（二氧化碳、氧气、甲烷、氨、一氧化碳、氢气等），要按场所和所用气体选择探测器",
+   "scene": "一排不同颜色外壳的探测器图标，上方浮现数字四十",
+   "prompt_en": "A row of gas detector icons with different colored housings, with a large number forty floating above. No people.",
+   "narration": "能测的气体组合有四十多种。",
+   "overlay": [
+    "可检测的气体种类多"
+   ],
+   "labels": [
+    "40多种"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可检测的气体种类多（二氧化碳、氧气、甲烷、氨、一氧化碳、氢气等），要按场所和所用气体选择探测器",
+   "scene": "六个气体分子图标排成两行",
+   "prompt_en": "Six simple gas molecule icons arranged in two rows. No people.",
+   "narration": "二氧化碳、氧气、甲烷、氨等等。",
+   "overlay": [],
+   "labels": [
+    "二氧化碳",
+    "氧气",
+    "甲烷",
+    "氨"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可检测的气体种类多（二氧化碳、氧气、甲烷、氨、一氧化碳、氢气等），要按场所和所用气体选择探测器",
+   "scene": "一氧化碳和氢气两个分子图标",
+   "prompt_en": "Two gas molecule icons side by side with small warning triangles. No people.",
+   "narration": "还有一氧化碳、氢气，以及更多。",
+   "overlay": [],
+   "labels": [
+    "一氧化碳",
+    "氢气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "适用场所包括充装厂、实验室、冷库和工业场所",
+   "scene": "充装厂、实验室、冷库、工厂四个场景图标",
+   "prompt_en": "Four scene icons: a cylinder filling station, a laboratory, a cold storage room and a factory. No people.",
+   "narration": "充装厂、实验室、冷库和工业场所，",
+   "overlay": [
+    "适用场所"
+   ],
+   "labels": [
+    "充装厂",
+    "实验室",
+    "冷库",
+    "工业场所"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "适用场所包括充装厂、实验室、冷库和工业场所",
+   "scene": "工程师在平面图上按房间布置探测器图标",
+   "prompt_en": "A floor plan with detector icons being placed room by room. No people.",
+   "narration": "都可以按需要定制方案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检测报警系统要符合相关法规标准，既保护人员，也满足检查要求",
+   "scene": "老李身旁浮现四本空白规范手册，上面印着星条小旗图标",
+   "prompt_en": "The facility engineer stands beside four floating blank code books, each marked with a small striped flag icon.",
+   "narration": "产品按美国职业安全卫生法规设计，",
+   "overlay": [
+    "要符合相关法规标准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检测报警系统要符合相关法规标准，既保护人员，也满足检查要求",
+   "scene": "四本空白规范手册排成一排",
+   "prompt_en": "Four blank code books lined up in a row with check marks. No people.",
+   "narration": "也符合美国消防和锅炉压力容器规范。",
+   "overlay": [],
+   "labels": [
+    "职业安全卫生",
+    "消防规范",
+    "国际消防规范",
+    "锅炉压力容器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检测报警系统要符合相关法规标准，既保护人员，也满足检查要求",
+   "scene": "检查员拿着空白检查表，罚单、停工、差评图标被红叉划掉",
+   "prompt_en": "An inspector holds a blank checklist, while icons of a fine ticket, a stopped factory and a thumbs-down are crossed out with a red X.",
+   "narration": "顺利过检查，免得罚款、停产、坏名声。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "选用质量体系认证、可靠的产品",
+   "scene": "空白证书和地球上许多握手图标",
+   "prompt_en": "A blank certificate with a seal stamp next to a globe covered with small handshake icons. No people.",
+   "narration": "厂家有ISO认证，全球伙伴都信赖。",
+   "overlay": [
+    "选用质量体系认证、可靠的产品"
+   ],
+   "labels": [
+    "ISO"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "气体安全刻不容缓，不是可选项，而是必需",
+   "scene": "欣欣问为什么现在就该装，老李看了看手表",
+   "prompt_en": "The panda mascot asks a question and the facility engineer taps his wristwatch.",
+   "narration": "为什么现在就要装？安全不能等。",
+   "overlay": [
+    "气体安全刻不容缓"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "气体安全刻不容缓，不是可选项，而是必需",
+   "scene": "盾牌罩住人、厂房和一张合规清单",
+   "prompt_en": "A large shield covering icons of a person, a building and a checklist. No people.",
+   "narration": "保护生命和设施，也保证合规。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "气体安全刻不容缓，不是可选项，而是必需",
+   "scene": "欣欣和老李一起面向镜头竖起大拇指",
+   "prompt_en": "The panda mascot and the facility engineer face the camera together and give a thumbs up.",
+   "narration": "气体安全不是可选项，而是必需品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "骷髅、火焰、氧气下降三个图标，旁边是检测仪",
+   "prompt_en": "Icons of a skull, a flame and a falling O2 symbol next to a wall-mounted gas detector.",
+   "narration": "有毒、可燃、耗氧，都要靠检测发现。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检测仪、报警灯、风机、消防车四个图标",
+   "prompt_en": "Four icons: a gas detector, a flashing beacon, an exhaust fan and a fire truck. No people.",
+   "narration": "连续监测，声光报警，联动排风远传。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣指向一部电话图标",
+   "prompt_en": "The panda mascot points to a telephone icon.",
+   "narration": "想装检测系统，就联系你的经销商。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和老李在展示墙前挥手道别",
+   "prompt_en": "The panda mascot and the facility engineer wave goodbye in front of the white display wall.",
+   "narration": "气体安全不等人，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
