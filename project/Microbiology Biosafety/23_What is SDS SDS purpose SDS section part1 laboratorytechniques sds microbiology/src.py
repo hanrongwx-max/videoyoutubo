@@ -50,7 +50,7 @@ META = {
         "S6": "管控类化学品，按规定领用",
     },
     "avoid": ["Ragba Micro Hub", "Ragba", "raqbamicrohub", "ARHMicroHub", "ARH Micro Hub",
-              "Occupational Safety and Health Administration"],
+              "Occupational Safety and Health Administration", "OSHA"],
 }
 
 SHOTS = [
