@@ -1,14 +1,14 @@
 # 卡通教学视频制作目录
 
-已编写 281 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 282 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| BIORISK MANAGEMENT | 46 / 47 | 0 / 42 |
+| BIORISK MANAGEMENT | 47 / 47 | 0 / 42 |
 | Microbiology Biosafety | 44 / 59 | 0 / 25 |
-| CDC Laboratory Safety Series | 23 / 23 | 1 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 2 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 0 / 12 |
@@ -25,7 +25,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 4 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 3 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 4 / 7 |
-| Electrical Safety Series | 6 / 25 | 3 / 6 |
+| Electrical Safety Series | 6 / 25 | 4 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -129,6 +129,7 @@
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 国内版 | 生物安全员：职责与担当（国内版） | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 单一版 | 蚊虫传的病，怎么防 | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/审查报告.md>) |
+| BIORISK MANAGEMENT | 47_POWERED AIR PURIFYING RESPIRATORS | 单一版 | 送风头罩，一步步穿对 | 51 | 4:15 | 14 / 4 | [剧本](<BIORISK MANAGEMENT/47_POWERED AIR PURIFYING RESPIRATORS/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
@@ -142,6 +143,7 @@
 | CDC Laboratory Safety Series | 10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth | 国内版 | 隔离衣与手套一起脱（国内版） | 87 | 7:15 | 22 / 5 | [剧本](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/10_Donning and Doffing PPE in Clinical Laboratories Removing Gown and Gloves Togeth（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves | 国内版 | 先脱隔离衣，再摘手套（国内版） | 82 | 6:50 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/11_Donning and Doffing PPE in Clinical Laboratories Removing Gown First and Gloves（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe | 国内版 | 看不见的气幕：生物安全柜的气流（国内版） | 66 | 5:30 | 14 / 4 | [剧本](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/12_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Factors Affe（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 原著版 | 开工前，先把安全柜准备好 | 62 | 5:10 | 25 / 0 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo/script.md>) |
 | CDC Laboratory Safety Series | 13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo | 国内版 | 开工前，先把安全柜准备好（国内版） | 75 | 6:15 | 25 / 4 | [剧本](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/13_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Preparing fo（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of | 国内版 | 生物安全柜的安全使用（国内版） | 71 | 5:55 | 20 / 3 | [剧本](<CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/14_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Safe Use of（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W | 国内版 | 生物安全柜的收尾工作（国内版） | 62 | 5:10 | 19 / 2 | [剧本](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/审查报告.md>) |
@@ -169,6 +171,7 @@
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 国内版 | 漏电保护器：两种型式与正确使用（国内版） | 62 | 5:10 | 14 / 5 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/script.md>) · [审查](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/审查报告.md>) |
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 原著版 | 电动工具的危害与预防 | 38 | 3:10 | 20 / 0 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi/script.md>) |
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 国内版 | 电动工具的危害与预防（国内版） | 60 | 5:00 | 20 / 6 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/script.md>) · [审查](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/审查报告.md>) |
+| Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 原著版 | 动火作业的危害与预防 | 44 | 3:40 | 25 / 0 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE/script.md>) |
 | Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 国内版 | 动火作业的危害与预防（国内版） | 61 | 5:05 | 25 / 6 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
