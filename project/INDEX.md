@@ -1,35 +1,35 @@
 # 卡通教学视频制作目录
 
-已编写 441 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 441 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。剧集名与实际内容不符的剧集标“⚠ 内容全部不符/部分不符”，详见该剧集目录下的 `内容不符说明.md`。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 59 / 59 |
+| Microbiology Biosafety ⚠ 内容部分不符（[说明](<Microbiology Biosafety/内容不符说明.md>)） | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 36 / 36 |
-| Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
-| Electrical Safety Series | 25 / 25 | 25 / 25 |
+| Laboratory Ergonomics & RSI ⚠ 内容全部不符（[说明](<Laboratory Ergonomics & RSI/内容不符说明.md>)） | 36 / 36 | 36 / 36 |
+| Cleanroom & Equipment Safety ⚠ 内容全部不符（[说明](<Cleanroom & Equipment Safety/内容不符说明.md>)） | 33 / 33 | 33 / 33 |
+| Electrical Safety Series ⚠ 内容部分不符（[说明](<Electrical Safety Series/内容不符说明.md>)） | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 17 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
-| ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
-| Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
+| Acids, Bases & Solvents Safety ⚠ 内容全部不符（[说明](<Acids, Bases & Solvents Safety/内容不符说明.md>)） | 12 / 12 | 12 / 12 |
+| Fume Hood & Cabinet Protocols ⚠ 内容全部不符（[说明](<Fume Hood & Cabinet Protocols/内容不符说明.md>)） | 12 / 12 | 12 / 12 |
+| ACS Hazard Communication & Safety ⚠ 内容全部不符（[说明](<ACS Hazard Communication & Safety/内容不符说明.md>)） | 10 / 10 | 10 / 10 |
+| Animal & Plant Biotech Safety ⚠ 内容部分不符（[说明](<Animal & Plant Biotech Safety/内容不符说明.md>)） | 10 / 10 | 10 / 10 |
+| Fire Safety & Extinguisher Training ⚠ 内容全部不符（[说明](<Fire Safety & Extinguisher Training/内容不符说明.md>)） | 9 / 9 | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 9 / 9 |
-| RSO Training Series | 9 / 9 | 9 / 9 |
-| General Lab Safety Practices | 8 / 8 | 8 / 8 |
+| RSO Training Series ⚠ 内容部分不符（[说明](<RSO Training Series/内容不符说明.md>)） | 9 / 9 | 9 / 9 |
+| General Lab Safety Practices ⚠ 内容部分不符（[说明](<General Lab Safety Practices/内容不符说明.md>)） | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 7 / 7 |
+| Chemical Spillage & Response ⚠ 内容部分不符（[说明](<Chemical Spillage & Response/内容不符说明.md>)） | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
 
 ## 已编写视频
