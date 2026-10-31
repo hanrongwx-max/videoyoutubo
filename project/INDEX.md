@@ -25,7 +25,7 @@
 | ACS College Lab Safety Series | 7 / 7 | 1 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 2 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 3 / 7 |
-| Electrical Safety Series | 6 / 25 | 1 / 6 |
+| Electrical Safety Series | 6 / 25 | 2 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -157,6 +157,7 @@
 | Chemical Spillage & Response | 07_Lab Safety Survey | 国内版 | 安全巡查：找找隐患在哪里（国内版） | 56 | 4:40 | 23 / 7 | [剧本](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/script.md>) · [审查](<Chemical Spillage & Response/07_Lab Safety Survey（国内版）/审查报告.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
+| Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 国内版 | 漏电保护器：两种型式与正确使用（国内版） | 62 | 5:10 | 14 / 5 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/script.md>) · [审查](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in（国内版）/审查报告.md>) |
 | Electrical Safety Series | 03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi | 国内版 | 电动工具的危害与预防（国内版） | 60 | 5:00 | 20 / 6 | [剧本](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/script.md>) · [审查](<Electrical Safety Series/03_Power Tools Safety in hindi Power Tools Hazards & Precautions in hindi（国内版）/审查报告.md>) |
 | Electrical Safety Series | 04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE | 国内版 | 动火作业的危害与预防（国内版） | 61 | 5:05 | 25 / 6 | [剧本](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/04_Hot Work Safety in hindi Hot Work hazards & precautions in hindi HSE STUDY GUIDE（国内版）/审查报告.md>) |

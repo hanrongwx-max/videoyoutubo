@@ -1,0 +1,631 @@
+{
+ "id": "02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in",
+ "edition": "原著版",
+ "series": "Electrical Safety Series",
+ "title": "漏电保护器：两种型式与正确使用",
+ "seconds": 220,
+ "source_doc": "course/Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in.md",
+ "author_source": "project/Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/src.py",
+ "points": {
+  "K1": "两个容易混淆的名字",
+  "K2": "两个名字的全称",
+  "K3": "新型已取代旧型",
+  "K4": "电压型：结构",
+  "K5": "电压型：怎样动作",
+  "K6": "电流型：零序互感器",
+  "K7": "电流型：正常时进出相等",
+  "K8": "电流型：漏电时不再相等",
+  "K9": "电流型：检出差值就跳闸",
+  "K10": "区别一：名称",
+  "K11": "区别二：电压型与电流型",
+  "K12": "区别三：是否依赖接地",
+  "K13": "区别四：漏电走哪条路",
+  "K14": "现在说的多是电流型"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在白板前，白板上画着两个空白模块，中间写着对比符号",
+   "prompt_en": "The panda mascot stands in front of a whiteboard showing two blank breaker modules with a versus symbol between them.",
+   "narration": "这一课比较两种漏电断路器。",
+   "overlay": [
+    "漏电保护器：两种型式与正确使用"
+   ],
+   "labels": [
+    "ELCB",
+    "RCCB"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "齿轮和天平两个图标",
+   "prompt_en": "Two icons in a row: a gear and a pair of balance scales. No people.",
+   "narration": "它们怎么工作，又有什么区别。",
+   "overlay": [],
+   "labels": [
+    "原理",
+    "区别"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着两个外观相似的空白模块，左看右看",
+   "prompt_en": "The young male student holds two similar blank breaker modules, one in each hand, looking back and forth.",
+   "narration": "阿杰拿着两个模块，分不清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶冒出问号",
+   "prompt_en": "The young male student scratches his head with a question mark bubble above him.",
+   "narration": "名字不同，样子却差不多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of the whiteboard and raises one finger.",
+   "narration": "来，一次讲明白。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两个容易混淆的名字",
+   "scene": "两个外观相似的空白模块并排，中间有问号",
+   "prompt_en": "Two similar blank breaker modules side by side with a big question mark between them. No people.",
+   "narration": "说到电气，这两个名字最容易混。",
+   "overlay": [
+    "两个容易混淆的名字"
+   ],
+   "labels": [
+    "ELCB",
+    "RCCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个名字的全称",
+   "scene": "第一个模块下方有接地符号和漏电小箭头",
+   "prompt_en": "A blank breaker module with a ground symbol and a small leaking arrow beneath it. No people.",
+   "narration": "ELCB，接地漏电断路器。",
+   "overlay": [
+    "两个名字的全称"
+   ],
+   "labels": [
+    "ELCB",
+    "接地漏电断路器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两个名字的全称",
+   "scene": "第二个模块下方有两个电流箭头和差值符号",
+   "prompt_en": "A blank breaker module with two opposite current arrows and a small difference symbol beneath it. No people.",
+   "narration": "RCCB，剩余电流断路器。",
+   "overlay": [],
+   "labels": [
+    "RCCB",
+    "剩余电流断路器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "新型已取代旧型",
+   "scene": "旧模块被放进回收箱，新模块装上导轨",
+   "prompt_en": "An old style blank breaker module goes into a recycling bin while a new blank module clicks onto a mounting rail. No people.",
+   "narration": "RCCB更新，已基本取代旧式ELCB。",
+   "overlay": [
+    "新型已取代旧型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电压型：结构",
+   "scene": "简化示意：进线两根、出线两根，旁边一个感测块",
+   "prompt_en": "A simple diagram: two incoming wires at the top, two outgoing wires at the bottom, a blue sensing block on the side. No people.",
+   "narration": "先看电压型ELCB的结构。",
+   "overlay": [
+    "电压型：结构"
+   ],
+   "labels": [
+    "进线",
+    "出线",
+    "感测脱扣块"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电压型：结构",
+   "scene": "进线和出线的放大",
+   "prompt_en": "A close view of the diagram: a red and a black incoming wire, a red and a black outgoing wire. No people.",
+   "narration": "进线、出线都是相线和中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电压型：结构",
+   "scene": "感测块一端用绿黄线连到设备金属外壳",
+   "prompt_en": "From the sensing block a green and yellow wire runs to the metal case of a machine. No people.",
+   "narration": "感测块一端接地线，来自设备外壳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压型：怎样动作",
+   "scene": "相线碰到设备金属外壳，闪出火花",
+   "prompt_en": "In the diagram, a live wire touches the inside of the metal machine case with a small spark. No people.",
+   "narration": "相线意外碰到金属外壳，",
+   "overlay": [
+    "电压型：怎样动作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压型：怎样动作",
+   "scene": "电流沿接地线流过感测块，感测块发亮",
+   "prompt_en": "Glowing dots flow from the case down the ground wire through the sensing block, which lights up. No people.",
+   "narration": "故障电流沿地线流过感测线圈。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压型：怎样动作",
+   "scene": "感测块上出现电压表图标",
+   "prompt_en": "A voltmeter icon appears on the glowing sensing block. No people.",
+   "narration": "产生的电压，足以让脱扣动作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压型：怎样动作",
+   "scene": "开关断开，设备灯灭",
+   "prompt_en": "The switch contacts open and the machine goes dark, separated from the power source. No people.",
+   "narration": "断路器断开，负载与电源隔离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电流型：零序互感器",
+   "scene": "一个圆环，相线和中性线一起从中间穿过",
+   "prompt_en": "A ring shaped core with a red wire and a black wire passing together through its center. No people.",
+   "narration": "RCCB靠零序电流互感器工作。",
+   "overlay": [
+    "电流型：零序互感器"
+   ],
+   "labels": [
+    "零序电流互感器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电流型：零序互感器",
+   "scene": "示意图：试验按钮、触头、继电器、负载",
+   "prompt_en": "A simple diagram with a test button, breaker contacts, the ring core, a relay coil and a load lamp. No people.",
+   "narration": "还有触头、试验按钮和继电器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流型：正常时进出相等",
+   "scene": "红线上向负载的箭头，黑线上流回的箭头",
+   "prompt_en": "On the red wire an arrow points toward the load, on the black wire an arrow points back. No people.",
+   "narration": "它一直比较相线和中性线的电流。",
+   "overlay": [
+    "电流型：正常时进出相等"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流型：正常时进出相等",
+   "scene": "两根线旁各有一个相同的电流表",
+   "prompt_en": "Two identical ammeter icons, one beside each wire, needles at the same position. No people.",
+   "narration": "比如相线送出20安，",
+   "overlay": [],
+   "labels": [
+    "相线 20A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流型：正常时进出相等",
+   "scene": "中性线电流表同样读数",
+   "prompt_en": "The ammeter on the black wire shows the same needle position as the red one. No people.",
+   "narration": "中性线也流回20安。",
+   "overlay": [],
+   "labels": [
+    "中性线 20A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流型：正常时进出相等",
+   "scene": "天平两端相等，圆环旁标零",
+   "prompt_en": "A balance scale perfectly level next to the ring core with a zero icon. No people.",
+   "narration": "互感器里抵消为零，不动作。",
+   "overlay": [],
+   "labels": [
+    "合成 = 0"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流型：漏电时不再相等",
+   "scene": "一只手形图标碰到红线，一股小箭头经身体流向地面",
+   "prompt_en": "An icon of a hand touching the red wire, with a small arrow running through a body pictogram down to the ground. No people.",
+   "narration": "有人碰到相线，或接地故障时，",
+   "overlay": [
+    "电流型：漏电时不再相等"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流型：漏电时不再相等",
+   "scene": "红线箭头变长",
+   "prompt_en": "The arrow on the red wire grows longer while the black wire arrow stays the same. No people.",
+   "narration": "相线是20安加30毫安漏电，",
+   "overlay": [],
+   "labels": [
+    "20A + 30mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流型：漏电时不再相等",
+   "scene": "黑线箭头仍为原长",
+   "prompt_en": "The black wire arrow remains at its original length, highlighted. No people.",
+   "narration": "中性线却还是20安。",
+   "overlay": [],
+   "labels": [
+    "20A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流型：漏电时不再相等",
+   "scene": "天平向一侧倾斜",
+   "prompt_en": "The balance scale tips to one side next to the ring core. No people.",
+   "narration": "两边不再相等。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电流型：检出差值就跳闸",
+   "scene": "圆环发亮，感测线圈发出信号",
+   "prompt_en": "The ring core glows and a small sensing coil around it sends a signal spark. No people.",
+   "narration": "这30毫安的差值被互感器检出，",
+   "overlay": [
+    "电流型：检出差值就跳闸"
+   ],
+   "labels": [
+    "差值 30mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电流型：检出差值就跳闸",
+   "scene": "信号传到继电器，开关拨下",
+   "prompt_en": "The signal travels to a small relay coil, which flips the breaker lever down to off. No people.",
+   "narration": "送到继电器线圈，RCCB跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "区别一：名称",
+   "scene": "欣欣站在左右两栏的空白板前",
+   "prompt_en": "The panda mascot stands in front of a blank board divided into left and right columns.",
+   "narration": "最后看两者的区别。",
+   "overlay": [
+    "区别一：名称"
+   ],
+   "labels": [
+    "接地漏电断路器",
+    "剩余电流断路器"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "区别一：名称",
+   "scene": "第二个模块旁又贴了一张空白标签",
+   "prompt_en": "The second blank breaker module gets an extra blank name tag attached to it. No people.",
+   "narration": "RCCB也叫RCD，剩余电流装置。",
+   "overlay": [],
+   "labels": [
+    "RCD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "区别二：电压型与电流型",
+   "scene": "左栏电压表图标，右栏电流表图标",
+   "prompt_en": "On the left a voltmeter icon, on the right an ammeter icon, separated by a line. No people.",
+   "narration": "ELCB是电压型，叫VOELCB。",
+   "overlay": [
+    "区别二：电压型与电流型"
+   ],
+   "labels": [
+    "电压型",
+    "电流型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "区别二：电压型与电流型",
+   "scene": "右栏电流表指针摆动",
+   "prompt_en": "The ammeter icon needle swings on the right side. No people.",
+   "narration": "RCCB是电流型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "区别三：是否依赖接地",
+   "scene": "左栏接地线完好，模块打勾",
+   "prompt_en": "On the left, the old module has an intact ground wire and a green check. No people.",
+   "narration": "ELCB要有良好的接地连接，",
+   "overlay": [
+    "区别三：是否依赖接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "区别三：是否依赖接地",
+   "scene": "左栏接地线断开，模块打问号",
+   "prompt_en": "On the left, the ground wire of the old module is broken, and the module shows a question mark. No people.",
+   "narration": "才能正常工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "区别三：是否依赖接地",
+   "scene": "右栏模块没有接地线，仍打绿勾",
+   "prompt_en": "On the right, the new module without any ground wire still shows a green check. No people.",
+   "narration": "RCCB不需要接地连接也能工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "区别四：漏电走哪条路",
+   "scene": "左栏漏电绕过接地线，从别处流走，模块未动作",
+   "prompt_en": "On the left, leakage current flows to ground through another path, bypassing the ground wire, the old module stays on. No people.",
+   "narration": "ELCB：漏电不走它的地线就不跳。",
+   "overlay": [
+    "区别四：漏电走哪条路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "区别四：漏电走哪条路",
+   "scene": "右栏漏电经人体流向大地，模块跳闸",
+   "prompt_en": "On the right, leakage current flows through a body pictogram to the ground and the new module trips off. No people.",
+   "narration": "RCCB：漏电经大地流走就会跳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "现在说的多是电流型",
+   "scene": "老式模块挂上淘汰标签",
+   "prompt_en": "The old style blank module gets a gray outdated tag and fades out. No people.",
+   "narration": "电压型ELCB已经被淘汰。",
+   "overlay": [
+    "现在说的多是电流型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "现在说的多是电流型",
+   "scene": "新模块上贴着两个名字的空白标签",
+   "prompt_en": "One new blank breaker module with two blank name tags attached to it. No people.",
+   "narration": "现在叫ELCB的，多半就是电流型。",
+   "overlay": [],
+   "labels": [
+    "ELCB",
+    "RCCB"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "现在说的多是电流型",
+   "scene": "欣欣点头指着新模块",
+   "prompt_en": "The panda mascot nods and points at the new breaker module.",
+   "narration": "原理一样，所以两个名字常混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现两个模块图标",
+   "prompt_en": "The panda mascot stands beside two floating blank breaker module icons.",
+   "narration": "电压型靠地线，电流型比进出。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天平倾斜，开关跳下",
+   "prompt_en": "Icons of a tipped balance scale and a breaker lever dropping to off. No people.",
+   "narration": "相线中性线不等，就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "旧模块淡出，新模块发亮",
+   "prompt_en": "An old module fading out next to a bright new module. No people.",
+   "narration": "如今用的，基本都是电流型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在白板前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in front of the whiteboard with two module drawings.",
+   "narration": "弄清两种保护器，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
