@@ -1,0 +1,861 @@
+{
+ "id": "17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊接机焊枪通讯线的规范更换",
+ "seconds": 300,
+ "source_doc": "course/Cleanroom & Equipment Safety/17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "只限专业人员，先断电",
+  "K2": "高压和强激光的伤害",
+  "K3": "断电后仍有残余高压",
+  "K4": "全程戴绝缘手套",
+  "K5": "准备工具和备件",
+  "K6": "关机，拔掉所有线缆",
+  "K7": "锁住四个脚轮",
+  "K8": "松开把手螺钉",
+  "K9": "拆左侧盖螺钉",
+  "K10": "取下焊枪，线缆不急弯",
+  "K11": "拆挂架和线缆夹",
+  "K12": "抬下右侧盖",
+  "K13": "拆焊枪外壳螺钉",
+  "K14": "拔下通讯线，拆底壳螺钉",
+  "K15": "拆线缆支架，别剪错线",
+  "K16": "松开线卡，回形针作记号",
+  "K17": "从弹簧和护套抽出旧线",
+  "K18": "转动机器，拔主板端",
+  "K19": "新线穿弹簧，接焊枪主板",
+  "K20": "线塞进护套，完全包住",
+  "K21": "穿过右侧盖，接主板",
+  "K22": "按记号紧固线卡，取回形针",
+  "K23": "装底壳，接线，轻拉检查",
+  "K24": "装顶盖，弹簧到位，拧紧",
+  "K25": "装右侧盖，焊枪归位",
+  "K26": "装左侧盖：挂钩对销钉",
+  "K27": "装回把手",
+  "S1": "通讯故障，别拍打焊枪",
+  "S2": "焊枪线缆日常检查",
+  "S3": "地面走线防碾压防绊倒",
+  "S4": "焊枪用完挂回挂架",
+  "S5": "微型批头选对型号",
+  "S6": "把手螺钉拧紧再搬运"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台带前后把手的激光焊接机旁，手里举着焊枪，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a gray wheeled laser welding machine with handles at the front and back, holding up its handheld welding gun, and waves at the camera.",
+   "narration": "这一课，看焊枪通讯线怎样更换。",
+   "overlay": [
+    "激光焊接机焊枪通讯线的规范更换"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "焊枪、长线缆、主机三个图标用虚线连起",
+   "prompt_en": "Three icons joined by a dotted line: a handheld welding gun, a long coiled cable and a machine cabinet. No people.",
+   "narration": "焊枪的按键信号，全靠这根线传回主机。",
+   "overlay": [],
+   "labels": [
+    "焊枪",
+    "通讯线",
+    "主机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰按焊枪上的按键，屏幕时有时无地跳出报警图标",
+   "prompt_en": "The young male student presses the buttons on the welding gun while a warning icon flickers on and off on the machine screen.",
+   "narration": "阿杰发现焊枪按键时灵时不灵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰举起焊枪准备往台面上拍",
+   "prompt_en": "The young male student raises the welding gun as if to bang it on the bench.",
+   "narration": "他想拍两下焊枪试试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研抓住他的手腕，老李走过来查看线缆",
+   "prompt_en": "The female graduate student catches his wrist while the facility engineer comes over to inspect the gun cable.",
+   "narration": "小研拦下，老李查出是通讯线坏了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "通讯故障，别拍打焊枪",
+   "scene": "拍打、甩动焊枪的两个图标被打叉",
+   "prompt_en": "Two icons crossed out with red X marks: a hand banging a welding gun on a table and a hand whipping the gun cable. No people.",
+   "narration": "焊枪不能拍、线缆不能甩。",
+   "overlay": [
+    "通讯故障，别拍打焊枪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "通讯故障，别拍打焊枪",
+   "scene": "焊枪头部激光出口旁边一个闪电和问号",
+   "prompt_en": "Close view of the welding gun nozzle with a lightning bolt and a question mark beside it. No people.",
+   "narration": "信号乱了，可能误出光、关不住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "通讯故障，别拍打焊枪",
+   "scene": "阿杰按急停，拔插头，旁边空白报修单",
+   "prompt_en": "The young male student presses the emergency stop, unplugs the machine and holds a blank repair form.",
+   "narration": "按键失灵就停机断电，报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "只限专业人员，先断电",
+   "scene": "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+   "prompt_en": "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+   "narration": "换线要拆机，只限专业人员。",
+   "overlay": [
+    "只限专业人员，先断电"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "高压和强激光的伤害",
+   "scene": "机箱剖面示意：一边闪电图标，一边激光束图标",
+   "prompt_en": "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+   "narration": "机内高压和强激光，会触电、烧伤。",
+   "overlay": [
+    "高压和强激光的伤害"
+   ],
+   "labels": [
+    "高电压",
+    "强激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电后仍有残余高压",
+   "scene": "拔掉插头的焊机内部，一个模块上闪电图标，旁边沙漏",
+   "prompt_en": "Inside an unplugged machine cabinet, one module shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+   "narration": "断电后仍有残余高压，按说明书等待。",
+   "overlay": [
+    "断电后仍有残余高压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "全程戴绝缘手套",
+   "scene": "老李戴上厚绝缘手套",
+   "prompt_en": "The facility engineer pulls on thick insulated gloves.",
+   "narration": "全程戴好绝缘手套。",
+   "overlay": [
+    "全程戴绝缘手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "准备工具和备件",
+   "scene": "工作台上摆着几把粗细不同的螺丝刀、内六角、剪刀、扎带、回形针和一卷新线",
+   "prompt_en": "On a workbench lie several screwdrivers of different sizes, a hex driver, scissors, cable ties, paper clips and a new coiled cable. No people.",
+   "narration": "几种螺丝刀、内六角、剪刀和扎带。",
+   "overlay": [
+    "准备工具和备件"
+   ],
+   "labels": [
+    "螺丝刀",
+    "内六角",
+    "回形针",
+    "新线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "准备工具和备件",
+   "scene": "老李举起一枚回形针",
+   "prompt_en": "The facility engineer holds up a single paper clip and smiles.",
+   "narration": "还有回形针，待会儿做记号用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "关机，拔掉所有线缆",
+   "scene": "老李关机，拔下背面所有线缆",
+   "prompt_en": "The facility engineer switches off the machine and unplugs all cables from the back.",
+   "narration": "关机，拔掉所有线缆。",
+   "overlay": [
+    "关机，拔掉所有线缆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "锁住四个脚轮",
+   "scene": "老李踩下脚轮刹车",
+   "prompt_en": "The facility engineer presses down the brake on a caster wheel with his foot.",
+   "narration": "四个脚轮全部锁住。",
+   "overlay": [
+    "锁住四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "松开把手螺钉",
+   "scene": "机器两端的把手连接处被虚线圈出，老李用内六角松螺钉",
+   "prompt_en": "The joints of the front and back handles are circled with dotted lines while the facility engineer loosens the screws with a hex driver.",
+   "narration": "用内六角，松开前后把手八颗螺钉。",
+   "overlay": [
+    "松开把手螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拆左侧盖螺钉",
+   "scene": "老李拆下左侧盖上的螺钉",
+   "prompt_en": "The facility engineer removes the screw on the left side cover.",
+   "narration": "拆下左侧盖的螺钉。",
+   "overlay": [
+    "拆左侧盖螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "取下焊枪，线缆不急弯",
+   "scene": "老李拆右侧盖螺钉，再从挂架上取下焊枪",
+   "prompt_en": "The facility engineer removes the screws on the right side cover, then lifts the welding gun off its holder.",
+   "narration": "拆右侧盖螺钉，取下焊枪。",
+   "overlay": [
+    "取下焊枪，线缆不急弯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "取下焊枪，线缆不急弯",
+   "scene": "焊枪线缆在台面上盘成大弧度",
+   "prompt_en": "The welding gun cable is laid on the bench in wide gentle curves. No people.",
+   "narration": "线缆别打急弯，保持挂着时的弧度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "拆挂架和线缆夹",
+   "scene": "老李拆下焊枪挂架的三颗螺钉，取下挂架",
+   "prompt_en": "The facility engineer removes three screws from the gun holder and takes it off.",
+   "narration": "拆下挂架三颗螺钉，取下挂架。",
+   "overlay": [
+    "拆挂架和线缆夹"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "拆挂架和线缆夹",
+   "scene": "画面一角红箭头标出线缆夹的两颗螺钉",
+   "prompt_en": "A small inset with red arrows marks the two screws of the cable clamp as they are removed.",
+   "narration": "再拆线缆夹的两颗螺钉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "抬下右侧盖",
+   "scene": "老李把右侧盖向上抬起，整块取下",
+   "prompt_en": "The facility engineer lifts the right side cover upward and takes it off completely.",
+   "narration": "右侧盖向上抬，完全取下来。",
+   "overlay": [
+    "抬下右侧盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "拆焊枪外壳螺钉",
+   "scene": "老李手持焊枪，用细梅花螺丝刀拆外壳螺钉，焊枪头部有激光警告标志",
+   "prompt_en": "The facility engineer holds the welding gun and removes its shell screws with a fine star-tip screwdriver; a laser warning sign is on the gun head.",
+   "narration": "用梅花刀，拆下焊枪外壳九颗螺钉。",
+   "overlay": [
+    "拆焊枪外壳螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "微型批头选对型号",
+   "scene": "几种不同形状的小批头并排：十字、梅花、内六角",
+   "prompt_en": "Small screwdriver bits side by side: cross-head, star-shaped and hex. No people.",
+   "narration": "小螺钉形状多，批头要选对型号。",
+   "overlay": [
+    "微型批头选对型号"
+   ],
+   "labels": [
+    "十字",
+    "梅花",
+    "内六角"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "微型批头选对型号",
+   "scene": "批头不匹配、螺钉滑丝的图标被打叉",
+   "prompt_en": "An icon of a mismatched bit stripping a tiny screw head, crossed out with a red X. No people.",
+   "narration": "用错批头会滑丝，外壳装不牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "拔下通讯线，拆底壳螺钉",
+   "scene": "焊枪外壳打开，老李抬起接线插座拔下线",
+   "prompt_en": "The gun shell is opened and the facility engineer lifts a small connector latch and unplugs the cable.",
+   "narration": "抬起插座，拔下通讯线。",
+   "overlay": [
+    "拔下通讯线，拆底壳螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "拔下通讯线，拆底壳螺钉",
+   "scene": "细十字刀拆下底壳螺钉",
+   "prompt_en": "A fine cross-head screwdriver removes the screw on the bottom shell of the gun.",
+   "narration": "再拆下底壳的螺钉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "拆线缆支架，别剪错线",
+   "scene": "侧盖打开的机身里，老李用梅花刀拆线缆支架",
+   "prompt_en": "Inside the open machine side, the facility engineer removes a small cable bracket with a star-tip screwdriver.",
+   "narration": "拆下机内的线缆支架。",
+   "overlay": [
+    "拆线缆支架，别剪错线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "拆线缆支架，别剪错线",
+   "scene": "剪刀靠近一束线，只剪扎带不碰导线",
+   "prompt_en": "Scissors snip only a cable tie next to a bundle of wires without touching the wires.",
+   "narration": "剪扎带时小心，别剪到其他线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "松开线卡，回形针作记号",
+   "scene": "黑色线缆护套上四个线卡，老李逐个拧松",
+   "prompt_en": "Four clamps hold a black cable sleeve inside the machine; the facility engineer loosens them one by one.",
+   "narration": "逐个松开护套上的四个线卡。",
+   "overlay": [
+    "松开线卡，回形针作记号"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "松开线卡，回形针作记号",
+   "scene": "每个线卡位置插上一枚回形针",
+   "prompt_en": "A paper clip is inserted at each clamp position on the sleeve as a marker. No people.",
+   "narration": "每个位置插一枚回形针作记号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "从弹簧和护套抽出旧线",
+   "scene": "通讯线从弹簧和黑色护套里被抽出",
+   "prompt_en": "The communication cable is pulled out from inside a spring and the black sleeve.",
+   "narration": "把旧线从弹簧和护套里抽出来。",
+   "overlay": [
+    "从弹簧和护套抽出旧线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "转动机器，拔主板端",
+   "scene": "两人转动机器，老李从主板上拔下线的另一端",
+   "prompt_en": "Two people turn the machine around, and the facility engineer unplugs the other end of the cable from the main board.",
+   "narration": "转动机器，拔下主板上的另一端。",
+   "overlay": [
+    "转动机器，拔主板端"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "新线穿弹簧，接焊枪主板",
+   "scene": "新线穿过弹簧，接到焊枪内的小电路板",
+   "prompt_en": "The new cable is threaded through the spring and plugged into a small circuit board inside the gun end.",
+   "narration": "新线穿过弹簧，接到焊枪主板。",
+   "overlay": [
+    "新线穿弹簧，接焊枪主板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "新线穿弹簧，接焊枪主板",
+   "scene": "线缆支架拧紧",
+   "prompt_en": "The cable bracket is screwed back in place.",
+   "narration": "装回线缆支架。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "线塞进护套，完全包住",
+   "scene": "线缆被慢慢塞进黑色护套，直到看不见",
+   "prompt_en": "The cable is gradually pushed into the black sleeve until it is fully covered.",
+   "narration": "线塞进黑色护套，直到完全包住。",
+   "overlay": [
+    "线塞进护套，完全包住"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "穿过右侧盖，接主板",
+   "scene": "线头穿过右侧盖的过孔，转到机器另一侧插到主板",
+   "prompt_en": "The cable end is routed through a hole in the right cover and plugged into the main board on the other side of the machine.",
+   "narration": "穿过右侧盖，另一端插回主板。",
+   "overlay": [
+    "穿过右侧盖，接主板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "按记号紧固线卡，取回形针",
+   "scene": "老李对着回形针的位置拧紧线卡",
+   "prompt_en": "The facility engineer tightens each clamp exactly where a paper clip marks the position.",
+   "narration": "对着回形针记号，逐个拧紧线卡。",
+   "overlay": [
+    "按记号紧固线卡，取回形针"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "按记号紧固线卡，取回形针",
+   "scene": "回形针全部取下放回盒里",
+   "prompt_en": "All the paper clips are removed and dropped back into a small box.",
+   "narration": "拧好后，回形针一个不落取下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "装底壳，接线，轻拉检查",
+   "scene": "焊枪底壳螺钉装回，线接回原位",
+   "prompt_en": "The bottom shell screw of the gun is refitted and the wire is reconnected to its original position.",
+   "narration": "装回底壳螺钉，线接回原位。",
+   "overlay": [
+    "装底壳，接线，轻拉检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "装底壳，接线，轻拉检查",
+   "scene": "老李轻拉导线",
+   "prompt_en": "The facility engineer gently tugs the wire to check it.",
+   "narration": "轻拉一下，确认接牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "装顶盖，弹簧到位，拧紧",
+   "scene": "顶盖合上前，手指把护套里的弹簧推到位",
+   "prompt_en": "Before closing the top cover, a finger pushes the spring inside the black sleeve into its seat.",
+   "narration": "装顶盖前，确认护套里的弹簧到位。",
+   "overlay": [
+    "装顶盖，弹簧到位，拧紧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "装顶盖，弹簧到位，拧紧",
+   "scene": "上下壳螺钉逐颗拧紧",
+   "prompt_en": "All screws on the top and bottom shells of the gun are tightened one by one.",
+   "narration": "上下壳的螺钉全部拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "装右侧盖，焊枪归位",
+   "scene": "右侧盖装回，线缆夹和挂架螺钉拧紧",
+   "prompt_en": "The right cover is refitted, and the screws of the cable clamp and the gun holder are tightened.",
+   "narration": "装回右侧盖、线缆夹和挂架。",
+   "overlay": [
+    "装右侧盖，焊枪归位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "装右侧盖，焊枪归位",
+   "scene": "焊枪放回挂架，侧盖螺钉装回",
+   "prompt_en": "The welding gun is placed back into its holder and the right cover screw is refitted.",
+   "narration": "焊枪放回挂架，装好螺钉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "装左侧盖：挂钩对销钉",
+   "scene": "左侧盖两边的挂钩对准机架上的销钉，推进去",
+   "prompt_en": "The hooks on both sides of the left cover are aligned with pegs on the frame and the cover is pushed in.",
+   "narration": "左侧盖挂钩对准销钉，推进去。",
+   "overlay": [
+    "装左侧盖：挂钩对销钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "装左侧盖：挂钩对销钉",
+   "scene": "拧紧左侧盖螺钉",
+   "prompt_en": "The screw securing the left cover is tightened.",
+   "narration": "拧紧螺钉固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "装回把手",
+   "scene": "两端把手装回，每侧四颗螺钉",
+   "prompt_en": "The front and back handles are refitted with four screws on each side.",
+   "narration": "装回把手，两侧各四颗螺钉。",
+   "overlay": [
+    "装回把手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "把手螺钉拧紧再搬运",
+   "scene": "老李用力摇一摇把手，确认不松动",
+   "prompt_en": "The facility engineer firmly shakes each handle to check that it does not wobble.",
+   "narration": "把手是搬运受力点，摇一摇不晃才行。",
+   "overlay": [
+    "把手螺钉拧紧再搬运"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "把手螺钉拧紧再搬运",
+   "scene": "把手松脱、机器砸地的图标被打叉",
+   "prompt_en": "An icon of a loose handle coming off and a machine falling onto the floor, crossed out with a red X. No people.",
+   "narration": "螺钉没拧紧就推拉，机器会脱手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "焊枪线缆日常检查",
+   "scene": "阿杰沿着焊枪线缆从头到尾摸一遍",
+   "prompt_en": "The young male student runs his hand along the welding gun cable from end to end.",
+   "narration": "每次用前，顺着线缆摸一遍。",
+   "overlay": [
+    "焊枪线缆日常检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "焊枪线缆日常检查",
+   "scene": "线缆破皮、压扁、弹簧外露三个图标",
+   "prompt_en": "Three warning icons: a cable with a torn jacket, a flattened cable and a cable with its inner spring sticking out. No people.",
+   "narration": "破皮、压扁、弹簧外露，都要停用。",
+   "overlay": [],
+   "labels": [
+    "破皮",
+    "压扁",
+    "弹簧外露"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "地面走线防碾压防绊倒",
+   "scene": "推车轮子压过地上焊枪线缆、人被线绊倒两个图标被打叉",
+   "prompt_en": "Two icons crossed out with red X marks: a cart wheel rolling over a gun cable on the floor and a person tripping over a cable. No people.",
+   "narration": "线缆别横在过道上。",
+   "overlay": [
+    "地面走线防碾压防绊倒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "地面走线防碾压防绊倒",
+   "scene": "线缆沿墙边走，用盖板盖住",
+   "prompt_en": "The gun cable runs along the wall edge under a flat cable cover. No people.",
+   "narration": "沿墙走或加盖板，防压防绊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "焊枪用完挂回挂架",
+   "scene": "小研焊完，把焊枪挂回挂架",
+   "prompt_en": "The female graduate student finishes welding and hangs the gun back on its holder.",
+   "narration": "焊枪用完挂回挂架。",
+   "overlay": [
+    "焊枪用完挂回挂架"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "焊枪用完挂回挂架",
+   "scene": "焊枪放在地上、放在工件上两个图标被打叉",
+   "prompt_en": "Two icons crossed out with red X marks: a welding gun lying on the floor and a welding gun resting on a workpiece. No people.",
+   "narration": "放地上会摔坏，压到扳机会误出光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在焊机旁，身后浮现四个图标",
+   "prompt_en": "The panda mascot stands beside the laser welding machine with four icons behind: a crossed-out hand banging, a cable check, a cable cover and a gun on a holder.",
+   "narration": "故障不拍打，线缆常检查。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "不拍打",
+    "常检查",
+    "防碾压",
+    "挂回去"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣伸出手指数着",
+   "prompt_en": "The panda mascot counts on its fingers.",
+   "narration": "走线防绊倒，焊枪挂好，把手拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、老李、小研和阿杰在焊机前挥手，焊枪挂在挂架上",
+   "prompt_en": "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye beside the machine with its gun hung on the holder.",
+   "narration": "一根线连着手和光，要护好。下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
