@@ -1,6 +1,6 @@
 # 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE 卡通剧本作者源
 # 原片讲十条电气安全规则：保留全部知识点 K1–K11（国外距离数值与统计不写入），面向高校改写为“电工这样做，学生要配合”；
-# 审查补充 S1–S3（自制改装电气装置要评估、电气作业要有人监护、动手前先评估风险）
+# 审查补充 S1–S3（自制改装电气装置要评估、电气作业要有人监护、电工作业时不围观不乱碰）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -19,7 +19,7 @@ META = {
         "K11": "规则十：先培训，合格者作业",
         "S1": "自制、改装电气装置要评估",
         "S2": "电气作业要有人监护",
-        "S3": "动手前，先评估风险",
+        "S3": "电工作业时：不围观，不乱碰",
     },
     "avoid": ["HSE Study Guide", "HSE STUDY GUIDE", "HSC study guide", "HSE Coach", "The HSE Coach",
               "HSEStudyGuide", "HSCstudyGuide", "ESFI", "Electrical Safety Foundation International"],
@@ -165,15 +165,15 @@ SHOTS = [
  "An icon of a lone person working on wiring in a dark workshop at night, crossed out with a red X. No people.",
  "深夜、独自一人，不做电气作业。"),
 # S3
-("S3", "欣欣拿着空白清单，旁边三个问号",
- "The panda mascot holds a blank checklist with three question mark icons beside it.",
- "动手前，先想一想。", "动手前，先评估风险"),
-("S3", "电源、工具、人员三个图标逐一打勾",
- "Three icons checked one by one: a power switch, a toolbox and a person pictogram. No people.",
- "电源断了吗？工具好吗？人到位吗？", "", ["电源", "工具", "人员"]),
-("S3", "老李和阿杰对着空白清单交底",
- "The facility engineer and the young male student review a blank checklist together before starting work.",
- "说清步骤和风险，再开始干。"),
+("S3", "老李在打开的配电箱前作业，周围拉着警戒带",
+ "The facility engineer works at an open distribution box behind caution tape with a blank maintenance sign hanging on it.",
+ "电工检修时，周围会设隔离。", "电工作业时：不围观，不乱碰"),
+("S3", "学生凑到警戒带边伸手的图标，被红叉划掉",
+ "An icon of a student leaning over caution tape and reaching toward an open box, crossed out with a red X. No people.",
+ "别凑近围观，别碰工具和开关。"),
+("S3", "阿杰停下手里的事，在远处等老李示意",
+ "The young male student pauses his work and waits at a distance until the facility engineer signals him.",
+ "听从安排，等通知再恢复用电。"),
 # 小结
 ("小结", "欣欣身旁浮现验电笔和挂锁图标",
  "The panda mascot stands beside floating icons of a voltage tester pen and a padlock with a tag.",
@@ -187,9 +187,9 @@ SHOTS = [
 ("小结", "接地符号和培训证书图标",
  "Icons of a ground symbol and a blank training certificate. No people.",
  "做好接地，先培训，持证作业。"),
-("小结", "申请表、两个人、清单三个图标",
- "Icons of a blank application form, two person pictograms and a checklist. No people.",
- "改装要评估，作业有监护，先评估风险。"),
+("小结", "申请表、两个人、警戒带三个图标",
+ "Icons of a blank application form, two person pictograms and caution tape. No people.",
+ "改装要评估，作业有监护，旁人不围观。"),
 # 结尾
 ("结尾", "欣欣在整洁的工作间里挥手道别",
  "The panda mascot waves goodbye at the camera in a tidy lab workshop.",
