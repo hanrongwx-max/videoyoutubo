@@ -1,0 +1,856 @@
+{
+ "id": "06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "双控与三地控制照明实验",
+ "seconds": 305,
+ "source_doc": "course/Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT.md",
+ "author_source": "project/Basic Electrical Engineering Lab/06_Two Way and Three-Way Control of Lamp Basic Electrical Engineering Laboratory VT/src.py",
+ "points": {
+  "K1": "双控：两地控一灯",
+  "K2": "三地控制：加中间开关",
+  "K3": "实验目的",
+  "K4": "所需器材",
+  "K5": "双控电路的接法",
+  "K6": "按图接线",
+  "K7": "扳动开关，观察灯",
+  "K8": "双控真值表",
+  "K9": "中间开关：直连与交叉",
+  "K10": "三地控制电路的接法",
+  "K11": "三地控制接线",
+  "K12": "两种状态分别测",
+  "K13": "三地控制真值表",
+  "K14": "三地控制用在哪",
+  "K15": "实验结论",
+  "S1": "熔断器和开关接相线",
+  "S2": "断电接线，教师检查后通电",
+  "S3": "通电后只碰开关手柄",
+  "S4": "灯泡烫手，换灯先断电",
+  "S5": "熔丝熔断，查明原因",
+  "S6": "触电和起火，先断电"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在楼梯口，楼梯上下各有一个开关，向镜头招手",
+   "prompt_en": "The panda mascot stands at the foot of a staircase with a light switch at the bottom and another at the top, waving at the camera.",
+   "narration": "这一课做双控和三地控制照明实验。",
+   "overlay": [
+    "双控与三地控制照明实验"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "一盏灯连着两个开关和三个开关的两组图标",
+   "prompt_en": "Two icons: one lamp linked to two switches, and one lamp linked to three switches. No people.",
+   "narration": "一盏灯，两处、三处都能开关。",
+   "overlay": [],
+   "labels": [
+    "两地控制",
+    "三地控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰走到楼梯顶，回头发现楼下的灯关不了",
+   "prompt_en": "The young male student reaches the top of a staircase and looks back at a lamp he cannot switch off from upstairs.",
+   "narration": "阿杰上了楼，楼下的灯却关不掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在楼上按开关，灯灭了",
+   "prompt_en": "The female graduate student presses a switch at the top of the stairs and the lamp turns off.",
+   "narration": "小研在楼上一按，灯就灭了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰惊讶地挠头，欣欣在旁边竖起手指",
+   "prompt_en": "The young male student scratches his head in surprise while the panda mascot raises one finger beside him.",
+   "narration": "秘密就在开关的接法里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "双控：两地控一灯",
+   "scene": "楼梯上下两个开关控制同一盏灯的示意",
+   "prompt_en": "A staircase icon with a switch at the bottom and the top, both linked to one ceiling lamp. No people.",
+   "narration": "双控：两个地点控制同一盏灯。",
+   "overlay": [
+    "双控：两地控一灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "双控：两地控一灯",
+   "scene": "卧室门口和床头各一个开关控制吊灯",
+   "prompt_en": "A bedroom icon with one switch by the door and one by the bed, both linked to the ceiling lamp. No people.",
+   "narration": "楼梯常用，卧室也能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三地控制：加中间开关",
+   "scene": "两只双控开关之间加了一只中间开关",
+   "prompt_en": "An icon of two two-way switches with an intermediate switch placed between them, all linked to one lamp. No people.",
+   "narration": "再加一只中间开关，就能三地控制。",
+   "overlay": [
+    "三地控制：加中间开关"
+   ],
+   "labels": [
+    "双控开关",
+    "中间开关",
+    "双控开关"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "实验目的",
+   "scene": "空白实验记录本上画着两张空表",
+   "prompt_en": "A blank lab notebook showing two empty table grids. No people.",
+   "narration": "目的：实现两地、三地控灯，列出真值表。",
+   "overlay": [
+    "实验目的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "所需器材",
+   "scene": "实验台上摆着两只双控开关、一只中间开关、一个灯泡和导线",
+   "prompt_en": "On a lab bench: two two-way switches, one intermediate switch, an incandescent bulb in a holder and a bundle of connecting leads. No people.",
+   "narration": "器材：两只双控开关，一只中间开关。",
+   "overlay": [
+    "所需器材"
+   ],
+   "labels": [
+    "双控开关×2",
+    "中间开关×1",
+    "白炽灯×1",
+    "连接导线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "所需器材",
+   "scene": "开关和灯泡旁各有一块空白铭牌",
+   "prompt_en": "Blank rating labels beside each switch and the bulb. No people.",
+   "narration": "还有一盏白炽灯和连接导线，额定值要相配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "双控电路的接法",
+   "scene": "电路图：相线经熔断器接到第一只开关的公共端",
+   "prompt_en": "A circuit diagram icon: the line wire passes through a fuse to the common terminal of the first two-way switch. No people.",
+   "narration": "相线先经熔断器，接到开关一的公共端。",
+   "overlay": [
+    "双控电路的接法"
+   ],
+   "labels": [
+    "相线",
+    "熔断器",
+    "公共端"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "双控电路的接法",
+   "scene": "两只开关之间两根导线对应相连",
+   "prompt_en": "The diagram shows two wires linking the two outer terminals of switch one to the two outer terminals of switch two. No people.",
+   "narration": "两只开关的两个触点，对应连起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "双控电路的接法",
+   "scene": "开关二的公共端接灯，灯另一端接中性线",
+   "prompt_en": "The diagram shows switch two's common terminal wired to the lamp, and the lamp's other end to the neutral wire. No people.",
+   "narration": "开关二公共端接灯，灯再接中性线。",
+   "overlay": [],
+   "labels": [
+    "中性线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按图接线",
+   "scene": "小研在透明接线板上按图插线，电源开关处于断开状态",
+   "prompt_en": "The female graduate student plugs leads into a transparent wiring board following a blank diagram; the bench power switch is clearly off.",
+   "narration": "备齐器材，按图一根根接线。",
+   "overlay": [
+    "按图接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按图接线",
+   "scene": "接好的导线逐根打勾",
+   "prompt_en": "The connected leads on the board each get a small green check. No people.",
+   "narration": "先连两开关之间，再接灯和中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "扳动开关，观察灯",
+   "scene": "小研扳动开关一，灯亮",
+   "prompt_en": "The female graduate student flips switch one by its handle and the bulb lights up.",
+   "narration": "扳动开关一，灯亮了。",
+   "overlay": [
+    "扳动开关，观察灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "扳动开关，观察灯",
+   "scene": "阿杰扳动开关二，灯灭",
+   "prompt_en": "The young male student flips switch two by its handle and the bulb goes out.",
+   "narration": "再扳开关二，灯又灭了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "双控真值表",
+   "scene": "一张 4 行真值表，只有亮灯和灭灯图标",
+   "prompt_en": "A four-row table with only lamp-on and lamp-off icons in the last column, other cells blank. No people.",
+   "narration": "把四种开关状态记成真值表。",
+   "overlay": [
+    "双控真值表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "双控真值表",
+   "scene": "两开关同侧时灯亮，异侧时灯灭",
+   "prompt_en": "Two switch pairs: both levers pointing the same way with a lit lamp, pointing opposite ways with a dark lamp. No people.",
+   "narration": "两开关位置对应，灯亮；错开，灯灭。",
+   "overlay": [],
+   "labels": [
+    "同位 亮",
+    "错位 灭"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中间开关：直连与交叉",
+   "scene": "中间开关内部两条平行连线",
+   "prompt_en": "A cutaway icon of an intermediate switch with two straight parallel links inside. No people.",
+   "narration": "中间开关有两种状态：一是直连。",
+   "overlay": [
+    "中间开关：直连与交叉"
+   ],
+   "labels": [
+    "直连"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中间开关：直连与交叉",
+   "scene": "中间开关内部两条交叉连线",
+   "prompt_en": "The same intermediate switch icon now with two crossed links inside. No people.",
+   "narration": "二是交叉连接。",
+   "overlay": [],
+   "labels": [
+    "交叉"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中间开关：直连与交叉",
+   "scene": "直连和交叉同时出现的图标被红叉划掉",
+   "prompt_en": "An icon showing straight and crossed links at the same time, crossed out with a red X. No people.",
+   "narration": "两种状态，同一时刻只能有一种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三地控制电路的接法",
+   "scene": "电路图：开关一的两个触点连到中间开关一侧",
+   "prompt_en": "A circuit diagram icon: the two outer terminals of switch one wired to one side of the intermediate switch. No people.",
+   "narration": "开关一的两根线，接到中间开关一侧。",
+   "overlay": [
+    "三地控制电路的接法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三地控制电路的接法",
+   "scene": "中间开关另一侧连到开关二，开关二接灯",
+   "prompt_en": "The diagram continues: the other side of the intermediate switch wired to switch two, and switch two to the lamp and neutral. No people.",
+   "narration": "另一侧接开关二，再接灯和中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三地控制接线",
+   "scene": "老周在接线板上加装中间开关并插线（电源断开）",
+   "prompt_en": "The older man adds an intermediate switch to the wiring board and plugs in leads while the bench power is off.",
+   "narration": "在两只开关之间，接入中间开关。",
+   "overlay": [
+    "三地控制接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三地控制接线",
+   "scene": "中间开关扳上、扳下两个图标",
+   "prompt_en": "Two icons of the intermediate switch lever: up with straight links, down with crossed links. No people.",
+   "narration": "扳上是直连，扳下是交叉。",
+   "overlay": [],
+   "labels": [
+    "上 直连",
+    "下 交叉"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "两种状态分别测",
+   "scene": "中间开关扳上，阿杰轮流扳动两只双控开关",
+   "prompt_en": "With the intermediate switch up, the young male student flips the two two-way switches in turn by their handles.",
+   "narration": "先在直连状态下，扳动两只开关。",
+   "overlay": [
+    "两种状态分别测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "两种状态分别测",
+   "scene": "中间开关扳下，再轮流扳动",
+   "prompt_en": "With the intermediate switch down, the young male student flips the two switches again while the female graduate student records.",
+   "narration": "再换成交叉状态，重复一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "三地控制真值表",
+   "scene": "一张 8 行真值表，上半与下半用颜色区分",
+   "prompt_en": "An eight-row table with the top half shaded one color and the bottom half another, only lamp icons in the last column. No people.",
+   "narration": "三地控制，一共八种状态。",
+   "overlay": [
+    "三地控制真值表"
+   ],
+   "labels": [
+    "直连 4 种",
+    "交叉 4 种"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "三地控制真值表",
+   "scene": "上半表亮灭顺序与双控相同，下半表完全相反",
+   "prompt_en": "The top half shows lamp on, off, off, on; the bottom half shows off, on, on, off. No people.",
+   "narration": "直连和双控一样，交叉正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "三地控制真值表",
+   "scene": "亮灯图标旁是 1，灭灯旁是 0",
+   "prompt_en": "A lit lamp icon next to the digit one and a dark lamp icon next to the digit zero. No people.",
+   "narration": "亮记 1，灭记 0，逻辑一目了然。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "三地控制用在哪",
+   "scene": "大仓库里三个门口各有一个开关",
+   "prompt_en": "A large warehouse icon with a switch at each of three doors, all linked to the hall lights. No people.",
+   "narration": "大仓库、粮库，多处都要能开关灯。",
+   "overlay": [
+    "三地控制用在哪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实验结论",
+   "scene": "欣欣指着两地和三地控制的两张图",
+   "prompt_en": "The panda mascot points at the two-way and three-way control diagrams on a board.",
+   "narration": "双控两地控灯，加中间开关三地控灯。",
+   "overlay": [
+    "实验结论"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实验结论",
+   "scene": "房屋图标里的楼梯灯",
+   "prompt_en": "A house icon with a staircase lamp highlighted. No people.",
+   "narration": "弄懂开关逻辑，家里布线也明白了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "熔断器和开关接相线",
+   "scene": "熔断器和开关都串在相线上，打绿勾",
+   "prompt_en": "A circuit icon with the fuse and switches all in the line wire and a green check. No people.",
+   "narration": "熔断器和开关，都要串在相线上。",
+   "overlay": [
+    "熔断器和开关接相线"
+   ],
+   "labels": [
+    "相线 √"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "熔断器和开关接相线",
+   "scene": "开关串在零线上的图标被红叉划掉，灯座仍有闪电符号",
+   "prompt_en": "A circuit icon with the switch in the neutral wire and a lightning symbol still on the lamp holder, crossed out with a red X. No people.",
+   "narration": "开关接在零线上，关了灯，灯座照样带电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "熔断器和开关接相线",
+   "scene": "螺口灯座：中心触点接相线，螺纹接零线",
+   "prompt_en": "A cutaway icon of a screw lamp holder: the center contact linked to the line wire, the screw shell to neutral. No people.",
+   "narration": "螺口灯座，螺纹那头接零线。",
+   "overlay": [],
+   "labels": [
+    "中心 相线",
+    "螺纹 零线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "阿杰先拉下实验台总开关，再插线",
+   "prompt_en": "The young male student switches off the bench main switch before plugging leads into the wiring board.",
+   "narration": "接线、改线、拆线，一律先断电。",
+   "overlay": [
+    "断电接线，教师检查后通电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "王老师对照电路图逐根检查",
+   "prompt_en": "The safety administrator checks every lead on the wiring board against a blank circuit diagram.",
+   "narration": "接好后，请老师逐根检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "王老师点头，阿杰合闸",
+   "prompt_en": "After the safety administrator nods, the young male student switches on the bench power.",
+   "narration": "老师同意了，才能合闸通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "改接三地控制前，先断电",
+   "prompt_en": "An icon sequence: power switch off, then a new intermediate switch added to the board. No people.",
+   "narration": "从双控改三地控制，也要先断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "通电后只碰开关手柄",
+   "scene": "手指只按开关手柄，打绿勾",
+   "prompt_en": "A close-up icon of a finger flipping only the plastic switch lever, with a green check. No people.",
+   "narration": "通电后，只碰开关手柄。",
+   "overlay": [
+    "通电后只碰开关手柄"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "通电后只碰开关手柄",
+   "scene": "手碰插孔、插头金属和灯座的图标被红叉划掉",
+   "prompt_en": "Icons of a hand touching an open socket hole, a metal plug tip and a lamp holder, crossed out with a red X. No people.",
+   "narration": "插孔、插头金属、灯座，一概不碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "通电后只碰开关手柄",
+   "scene": "手表、戒指图标被红叉划掉",
+   "prompt_en": "Icons of a metal wristwatch and a ring crossed out with a red X. No people.",
+   "narration": "摘下手表戒指等金属饰品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯泡烫手，换灯先断电",
+   "scene": "亮着的灯泡上方有热浪",
+   "prompt_en": "Heat waves rising from a glowing incandescent bulb. No people.",
+   "narration": "白炽灯亮一会儿就很烫。",
+   "overlay": [
+    "灯泡烫手，换灯先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯泡烫手，换灯先断电",
+   "scene": "断电后等待，再用手拧下灯泡",
+   "prompt_en": "An icon sequence: power switch off, a clock, then a hand unscrewing a cooled bulb. No people.",
+   "narration": "换灯泡：先断电，等凉了再拧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯泡烫手，换灯先断电",
+   "scene": "灯泡旁的纸张被红叉划掉",
+   "prompt_en": "A sheet of paper lying against a lit bulb, crossed out with a red X. No people.",
+   "narration": "灯泡旁边不放纸张杂物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔丝熔断，查明原因",
+   "scene": "熔断器里的熔丝断开",
+   "prompt_en": "A cutaway icon of a fuse with its fuse wire melted apart. No people.",
+   "narration": "熔丝断了，说明电路有问题。",
+   "overlay": [
+    "熔丝熔断，查明原因"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔丝熔断，查明原因",
+   "scene": "老李断电后查线路，找到碰在一起的导线",
+   "prompt_en": "With the power off, the facility engineer inspects the wiring board and finds two bare wire ends touching.",
+   "narration": "先断电，请老师查明短路原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "熔丝熔断，查明原因",
+   "scene": "用铜丝代替熔丝的图标被红叉划掉",
+   "prompt_en": "An icon of a thick copper wire replacing a fuse, crossed out with a red X. No people.",
+   "narration": "绝不能用铜丝铁丝代替熔丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电和起火，先断电",
+   "scene": "阿杰触电倒在台边，小研冲去拉下总闸",
+   "prompt_en": "The young male student slumps beside the bench after an electric shock; the female graduate student rushes to pull the main switch.",
+   "narration": "有人触电，先断电，不徒手拉人。",
+   "overlay": [
+    "触电和起火，先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电和起火，先断电",
+   "scene": "老周打电话，老李在旁照护",
+   "prompt_en": "The older man calls on a mobile phone with a blank screen while the facility engineer, trained in first aid, attends to the young male student.",
+   "narration": "拨打 120，受过培训的人施救。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电和起火，先断电",
+   "scene": "接线板冒烟，老李拉闸后用二氧化碳灭火器",
+   "prompt_en": "The wiring board starts smoking; the facility engineer switches off the power and uses a carbon dioxide extinguisher.",
+   "narration": "电气起火，先断电，不用水浇。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电和起火，先断电",
+   "scene": "火势变大，众人撤离，保卫处值班员打电话",
+   "prompt_en": "The fire grows; everyone leaves under an exit sign while the security officer calls on a phone.",
+   "narration": "控制不住就撤离，拨打 119。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "触电和起火，先断电",
+   "scene": "小研向王老师报告，保卫处值班员记录",
+   "prompt_en": "The female graduate student reports to the safety administrator while the security officer writes on a blank clipboard.",
+   "narration": "报告实验室负责人、学院和保卫处。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双控和三地控制两张电路图",
+   "prompt_en": "Two circuit diagram icons: two-way control and three-way control with an intermediate switch. No people.",
+   "narration": "双控两只开关，三地再加中间开关。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "4 行和 8 行两张真值表",
+   "prompt_en": "A four-row table and an eight-row table with lamp icons. No people.",
+   "narration": "真值表：双控四种，三地八种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "相线上的熔断器和开关、断电开关、老师检查三个图标",
+   "prompt_en": "Three icons: a fuse and switch in the line wire, a switched-off power switch, and a teacher checking a circuit. No people.",
+   "narration": "开关接相线，断电接线，查过再通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "开关手柄、冷却的灯泡、灭火器三个图标",
+   "prompt_en": "Three icons: a switch lever, a cooled bulb, and a fire extinguisher. No people.",
+   "narration": "只碰手柄，凉了换灯，异常先断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在楼梯中间，按下开关，灯亮，挥手道别",
+   "prompt_en": "The panda mascot stands halfway up the staircase, presses a switch so the lamp lights, and waves goodbye.",
+   "narration": "哪里都能开关，安全一直在线，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
