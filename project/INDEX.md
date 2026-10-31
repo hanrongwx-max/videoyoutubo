@@ -18,13 +18,13 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 1 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 2 / 9 |
-| RSO Training Series | 9 / 9 | 1 / 9 |
+| RSO Training Series | 9 / 9 | 2 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
-| Photonics & Laser Safety Series | 8 / 8 | 5 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 | 6 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 6 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 4 / 7 |
-| Laboratory Equipment Safety Series | 7 / 7 | 5 / 7 |
+| Laboratory Equipment Safety Series | 7 / 7 | 6 / 7 |
 | Electrical Safety Series | 6 / 25 | 5 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
 | Basic Electrical Engineering Lab | 0 / 23 | 0 / 0 |
@@ -302,6 +302,7 @@
 | Laboratory Equipment Safety Series | 04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet | 国内版 | 气瓶减压器的安装与拆卸（国内版） | 60 | 5:00 | 22 / 6 | [剧本](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/04_Compressed Gas Cylinders Installation and Removal of a Regulator Equipment Safet（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 原著版 | 气瓶泄漏：大漏小漏怎么办 | 40 | 3:20 | 16 / 0 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety/script.md>) |
 | Laboratory Equipment Safety Series | 05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety | 国内版 | 气瓶泄漏：大漏小漏怎么办（国内版） | 53 | 4:25 | 16 / 5 | [剧本](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/05_Compressed Gas Cylinders Major and Minor Leaks Equipment Safety（国内版）/审查报告.md>) |
+| Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 原著版 | 读懂气瓶上的标记 | 51 | 4:15 | 21 / 0 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe/script.md>) |
 | Laboratory Equipment Safety Series | 06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe | 国内版 | 读懂气瓶上的标记（国内版） | 58 | 4:50 | 21 / 5 | [剧本](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/审查报告.md>) |
 | Laboratory Equipment Safety Series | 07_How to test for peroxides using Quantofix dip strips | 国内版 | 过氧化物试纸检测（国内版） | 42 | 3:30 | 11 / 4 | [剧本](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/script.md>) · [审查](<Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
@@ -379,11 +380,13 @@
 | Photonics & Laser Safety Series | 04_4. More on Properties of Light | 国内版 | 光学材料：折射、吸收与反射（国内版） | 83 | 6:55 | 16 / 5 | [剧本](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 原著版 | 认识光学元件：材料、镀膜与滤光片 | 91 | 7:35 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components/script.md>) |
 | Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 国内版 | 认识光学元件：材料、镀膜与滤光片（国内版） | 108 | 9:00 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/审查报告.md>) |
+| Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 原著版 | 光学元件的安装、定位与维护 | 75 | 6:15 | 24 / 0 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care/script.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 国内版 | 光学元件的安装、定位与维护（国内版） | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 07_7. Light Sources | 国内版 | 光源与光对人体的作用（国内版） | 125 | 10:25 | 25 / 5 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 国内版 | 激光安全入门（国内版） | 147 | 12:15 | 26 / 9 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 原著版 | 辐射安全基础：来源、剂量与生物效应 | 65 | 5:25 | 16 / 0 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 国内版 | 辐射安全基础：来源、剂量与生物效应（国内版） | 86 | 7:10 | 16 / 9 | [剧本](<RSO Training Series/01_Radiation Safety Basics（国内版）/script.md>) · [审查](<RSO Training Series/01_Radiation Safety Basics（国内版）/审查报告.md>) |
+| RSO Training Series | 02_RSO Training | 原著版 | 学生社团年度培训：管理、财务与活动安全 | 93 | 7:45 | 31 / 0 | [剧本](<RSO Training Series/02_RSO Training/script.md>) |
 | RSO Training Series | 02_RSO Training | 国内版 | 学生社团年度培训：管理、财务与活动安全（国内版） | 124 | 10:20 | 31 / 9 | [剧本](<RSO Training Series/02_RSO Training（国内版）/script.md>) · [审查](<RSO Training Series/02_RSO Training（国内版）/审查报告.md>) |
 | RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 国内版 | 放射性废物：从实验台到安全处置（国内版） | 70 | 5:50 | 14 / 8 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/script.md>) · [审查](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/审查报告.md>) |
 | RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 国内版 | 辐射剂量（上）：吸收剂量与当量剂量（国内版） | 71 | 5:55 | 13 / 8 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/script.md>) · [审查](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/审查报告.md>) |
