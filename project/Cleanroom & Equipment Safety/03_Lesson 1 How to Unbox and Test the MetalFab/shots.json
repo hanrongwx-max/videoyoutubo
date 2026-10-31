@@ -1,0 +1,1510 @@
+{
+ "id": "03_Lesson 1 How to Unbox and Test the MetalFab",
+ "edition": "原著版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊机与切割机：开箱、组装与调试",
+ "seconds": 555,
+ "source_doc": "course/Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab.md",
+ "author_source": "project/Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab/src.py",
+ "points": {
+  "K1": "这一课：两台设备一起装",
+  "K2": "焊机开箱，线缆别急弯",
+  "K3": "认识焊机和送丝机",
+  "K4": "放置主机，锁住脚轮",
+  "K5": "接保护气",
+  "K6": "焊枪支架和感应线",
+  "K7": "接电源",
+  "K8": "释放急停、开机解锁",
+  "K9": "核对焦距",
+  "K10": "装送丝机、送丝轮、送丝管",
+  "K11": "装焊丝、试送丝",
+  "K12": "开工前的防护",
+  "K13": "标准模式焊接",
+  "K14": "激光清洗",
+  "K15": "手持激光切割",
+  "K16": "更换送丝嘴",
+  "K17": "切割机开箱",
+  "K18": "下坡道、就位、调平",
+  "K19": "抬升主机",
+  "K20": "安装固定杆",
+  "K21": "装侧板、前板、后板",
+  "K22": "底板加沙或水",
+  "K23": "装排风扇和排烟管",
+  "K24": "装天线和挂钩",
+  "K25": "焊接头装上滑架",
+  "K26": "接电、接气、开机",
+  "K27": "校准一：振动补偿",
+  "K28": "校准二：激光焦点",
+  "K29": "校准三：红光位置",
+  "K30": "示例项目：装夹板材",
+  "K31": "示例项目：加工取件"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台手持激光焊机和一台封闭式切割机中间，向镜头招手",
+   "prompt_en": "The panda mascot stands between a wheeled handheld laser welder and a large enclosed laser cutting machine and waves at the camera.",
+   "narration": "这一课：焊机和切割机，从开箱到调试。",
+   "overlay": [
+    "激光焊机与切割机：开箱、组装与调试"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "纸箱、木箱、扳手、电脑四个图标",
+   "prompt_en": "Four icons in a row: a cardboard box, a wooden crate, a wrench and a laptop. No people.",
+   "narration": "开箱、组装、校准、试切。",
+   "overlay": [],
+   "labels": [
+    "开箱",
+    "组装",
+    "校准",
+    "试切"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "实验室门口停着一个大纸箱和一个大木箱，阿杰兴奋地搓手",
+   "prompt_en": "A large cardboard box and a huge wooden crate sit at the door of a university workshop; the young male student rubs his hands excitedly.",
+   "narration": "实训室新到了两台激光设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拿着空白快速指南，指指两个箱子",
+   "prompt_en": "The facility engineer holds a blank quick start guide and points at the two boxes.",
+   "narration": "老李说：先装焊机，再装切割机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "跟着步骤，从开箱一直到试切。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：两台设备一起装",
+   "scene": "两台设备并排的示意图，一条线缆把焊接头连到切割机里",
+   "prompt_en": "Diagram of a handheld laser welder and an enclosed cutting machine side by side, with the welding head cable running into the cutting machine. No people.",
+   "narration": "焊机既能手持用，也能装进切割机。",
+   "overlay": [
+    "这一课：两台设备一起装"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：两台设备一起装",
+   "scene": "两个空白章节卡：焊机、切割机",
+   "prompt_en": "Two blank chapter cards side by side, one with a welding gun icon and one with a cutting machine icon. No people.",
+   "narration": "先装焊机，再装切割机。",
+   "overlay": [],
+   "labels": [
+    "第一部分",
+    "第二部分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "焊机开箱，线缆别急弯",
+   "scene": "纸箱上的开箱示意图，老李掀开顶盖",
+   "prompt_en": "The facility engineer looks at a simple unboxing diagram printed on the box, then lifts off the lid.",
+   "narration": "看清箱上的提示，先开顶盖拆外箱。",
+   "overlay": [
+    "焊机开箱，线缆别急弯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "焊机开箱，线缆别急弯",
+   "scene": "先取出焊接头，再拿掉泡沫",
+   "prompt_en": "The facility engineer lifts the welding head out of the foam first, then removes the foam blocks.",
+   "narration": "先取焊接头，再拿泡沫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "焊机开箱，线缆别急弯",
+   "scene": "线缆被折成锐角的图标打叉，旁边圆弧弯打勾",
+   "prompt_en": "Two icons: a cable bent into a sharp kink crossed out with a red X, and a cable in a gentle curve with a green check. No people.",
+   "narration": "线缆不能急弯，会影响激光传输。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "焊机开箱，线缆别急弯",
+   "scene": "线缆绕挂在主机侧面",
+   "prompt_en": "The long cable is wound in neat loops on the side hanger of the welder unit. No people.",
+   "narration": "绕好挂在主机侧面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识焊机和送丝机",
+   "scene": "焊机正面示意：急停、钥匙孔、接口",
+   "prompt_en": "Front view diagram of the welder unit with a red emergency stop button, a key slot and several ports, all with blank labels. No people.",
+   "narration": "正面有急停、钥匙孔和几个接口。",
+   "overlay": [
+    "认识焊机和送丝机"
+   ],
+   "labels": [
+    "急停",
+    "钥匙孔",
+    "接地柱",
+    "保护气口"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识焊机和送丝机",
+   "scene": "焊机背面示意：电源开关、送丝机口、切割机口",
+   "prompt_en": "Rear view diagram of the welder unit with a power switch, a feeder port, a cutter port and a power port, all with blank labels. No people.",
+   "narration": "背面有电源、送丝机和切割机接口。",
+   "overlay": [],
+   "labels": [
+    "电源开关",
+    "送丝机口",
+    "切割机口"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识焊机和送丝机",
+   "scene": "送丝机正背面示意",
+   "prompt_en": "Front and back view diagram of a small wire feeder with two buttons, a spool and a drive unit inside. No people.",
+   "narration": "送丝机有按键、丝盘和送丝驱动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "放置主机，锁住脚轮",
+   "scene": "主机前后留空隙的示意，脚轮刹车踩下",
+   "prompt_en": "Diagram of the welder unit with clear space arrows in front and behind it, and a hand pressing a caster brake. No people besides the hand.",
+   "narration": "前后各留10厘米以上，锁住脚轮。",
+   "overlay": [
+    "放置主机，锁住脚轮"
+   ],
+   "labels": [
+    "≥10cm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "接保护气",
+   "scene": "蓝色气管一端插进主机，另一端接气瓶流量计",
+   "prompt_en": "A blue gas tube runs from the gas inlet on the welder to the flow meter of a gas cylinder. No people.",
+   "narration": "外径10毫米气管，接主机和气瓶。",
+   "overlay": [
+    "接保护气"
+   ],
+   "labels": [
+    "外径10mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "焊枪支架和感应线",
+   "scene": "老李用内六角组装焊枪支架，焊接头放上去",
+   "prompt_en": "The facility engineer assembles a black welding head cradle with a hex key and places the welding head on it.",
+   "narration": "用2.5毫米内六角组装支架。",
+   "overlay": [
+    "焊枪支架和感应线"
+   ],
+   "labels": [
+    "2.5mm内六角"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "焊枪支架和感应线",
+   "scene": "工件感应线插进主机接口",
+   "prompt_en": "Close view of a hand plugging the workpiece sensing cable into its port on the welder unit.",
+   "narration": "工件感应线插进对应接口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "接电源",
+   "scene": "电源线旁边的空白铭牌和三个图标",
+   "prompt_en": "A coiled power cable beside a blank rating plate and three icons: an AC plug, a lightning bolt and an ammeter. No people.",
+   "narration": "铭牌：单相220到240伏，4200瓦。",
+   "overlay": [
+    "接电源"
+   ],
+   "labels": [
+    "220–240V",
+    "4200W",
+    "21A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "接电源",
+   "scene": "配电箱里一个单独的断路器亮起，接地符号闪烁",
+   "prompt_en": "Inside an open distribution box, one dedicated circuit breaker is highlighted and a ground symbol glows beside it. No people.",
+   "narration": "满载21安，建议25安以上独立回路。",
+   "overlay": [],
+   "labels": [
+    "≥25A",
+    "必须接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "接电源",
+   "scene": "电工在配电箱前接线",
+   "prompt_en": "The facility engineer wires a power cable at an open distribution box with a screwdriver.",
+   "narration": "接法因地而异，硬接线找专业电工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "接电源",
+   "scene": "圆形插头对准方向插入焊机并旋紧",
+   "prompt_en": "Close view of a round power connector aligned by an arrow and screwed into the socket on the welder.",
+   "narration": "圆形插头大针朝上，插入旋紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "释放急停、开机解锁",
+   "scene": "手旋转红色急停按钮使其弹起，旁边旋转箭头",
+   "prompt_en": "Close view of a hand rotating a red emergency stop button so it pops up, with a curved arrow. ",
+   "narration": "旋转急停按钮，让它弹起来。",
+   "overlay": [
+    "释放急停、开机解锁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "释放急停、开机解锁",
+   "scene": "插钥匙，打开电源开关，屏幕亮起",
+   "prompt_en": "A key is inserted into the key slot, then a finger flips the rocker power switch and the touchscreen lights up blank.",
+   "narration": "插钥匙，开电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "释放急停、开机解锁",
+   "scene": "小研用手机扫屏幕上的码，看培训视频",
+   "prompt_en": "The female graduate student scans a square code pattern on the touchscreen with her phone and watches a video with a laser warning icon.",
+   "narration": "首次开机，先看安全培训视频。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "释放急停、开机解锁",
+   "scene": "电脑网页生成密码，屏幕出现开锁图标",
+   "prompt_en": "A laptop shows a blank web form with a key icon; the welder touchscreen shows an unlocked padlock icon. No people.",
+   "narration": "看完生成密码，输入后解锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核对焦距",
+   "scene": "屏幕设置页数值框，焊接头刻度管特写",
+   "prompt_en": "Split view: a blank value box on the touchscreen settings page and the graduated tube on the welding head. No people.",
+   "narration": "对照焦距参考值，看刻度管。",
+   "overlay": [
+    "核对焦距"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核对焦距",
+   "scene": "手松开卡扣推拉刻度管",
+   "prompt_en": "Close view of a hand opening a fastener and sliding the graduated tube on the welding head.",
+   "narration": "不一致，就松卡扣推拉调整。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装送丝机、送丝轮、送丝管",
+   "scene": "三个图标：焊接要送丝机，清洗和切割不要",
+   "prompt_en": "Three icons: a weld seam with a wire feeder and a green check, a cleaning icon and a cutting icon each with the wire feeder crossed out. No people.",
+   "narration": "送丝机只在焊接时用。",
+   "overlay": [
+    "装送丝机、送丝轮、送丝管"
+   ],
+   "labels": [
+    "焊接要用",
+    "清洗不用",
+    "切割不用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装送丝机、送丝轮、送丝管",
+   "scene": "送丝机放主机左侧，连接线两端一样",
+   "prompt_en": "The wire feeder stands on the left of the welder unit; a cable with identical round connectors on both ends links them. No people.",
+   "narration": "放在主机左侧，用连接线接好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装送丝机、送丝轮、送丝管",
+   "scene": "送丝轮外侧规格放大，装到驱动上",
+   "prompt_en": "Close view of a drive roll with a magnified blank size marking being fitted onto the drive unit.",
+   "narration": "送丝轮规格要和焊丝一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装送丝机、送丝轮、送丝管",
+   "scene": "送丝管不带卡扣端插入送丝机",
+   "prompt_en": "Close view of hands inserting the plain end of the wire feeding tube into the wire feeder and tightening a screw.",
+   "narration": "送丝管不带卡扣的一端插进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "一把钳子图标，旁边空白提示框",
+   "prompt_en": "A pair of pliers icon next to a blank tip card with an exclamation mark. No people.",
+   "narration": "装焊丝要自备钳子。",
+   "overlay": [
+    "装焊丝、试送丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "丝盘孔对销钉装上，大丝盘旁套筒打叉",
+   "prompt_en": "A wire spool is fitted with its hole on the pin; beside it a large spool icon with the sleeve crossed out. No people.",
+   "narration": "丝盘孔对销钉；大丝盘不装套筒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "捏紧丝头，戴手套剪掉弯头",
+   "prompt_en": "A gloved hand pinches the loose wire end, then trims the bent end with pliers.",
+   "narration": "捏紧丝头别松手，剪掉弯头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "焊丝穿过送丝轮，合上压紧器，旁边空白张力表",
+   "prompt_en": "The wire passes between the drive rolls into the tube; tension levers close next to a blank table. No people.",
+   "narration": "穿丝，合压紧器，按表调张力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "按住送丝键，丝从焊接嘴伸出",
+   "prompt_en": "A finger holds the feed button on the wire feeder; the wire tip appears out of the welding nozzle groove. No people besides the hand.",
+   "narration": "按住送丝键，丝出嘴就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "装焊丝、试送丝",
+   "scene": "送丝管装到焊接头，放回支架",
+   "prompt_en": "The wire feeding tube is clipped onto the welding head tip, and the head is placed back on its cradle. No people.",
+   "narration": "送丝管装到焊接头，放回支架。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开工前的防护",
+   "scene": "六个蓝色防护图标",
+   "prompt_en": "Six blue round safety pictograms: goggles, a welding face shield, a dust mask, gloves, coveralls and an apron. No people.",
+   "narration": "防护镜、面罩、口罩、手套和防护服。",
+   "overlay": [
+    "开工前的防护"
+   ],
+   "labels": [
+    "激光防护镜",
+    "焊接面罩",
+    "防尘口罩",
+    "隔热手套",
+    "防护服围裙"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开工前的防护",
+   "scene": "防护面罩镜片特写，旁边波长图标",
+   "prompt_en": "Close view of a tinted face shield visor with a blank label and a small wavelength wave icon beside it. No people.",
+   "narration": "面罩上标着适用波长和光密度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开工前的防护",
+   "scene": "车间排风扇转动",
+   "prompt_en": "An exhaust fan in the workshop wall spins with airflow arrows. No people.",
+   "narration": "工作间保持通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "流量计、出光关闭图标、开阀",
+   "prompt_en": "Three steps in a row: a flow meter on a gas cylinder, a laser toggle in the off position, and a gloved hand opening the cylinder valve. No people besides the hand.",
+   "narration": "装流量计，确认出光关闭，开气。",
+   "overlay": [
+    "标准模式焊接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "按握持键和扳机，流量计浮子升起",
+   "prompt_en": "A gloved hand presses the grip button and trigger of the welding head while the float in the flow meter rises.",
+   "narration": "按键通气，流量调到每分钟15到30升。",
+   "overlay": [],
+   "labels": [
+    "15–30 L/min"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "感应线夹在工件上打勾，夹在刻度管上打叉",
+   "prompt_en": "Two icons: a cable clamp on a metal workpiece with a green check, and a clamp on the welding head graduated tube with a red X. No people.",
+   "narration": "感应线夹工件，严禁夹刻度管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "丝尖对准红点",
+   "prompt_en": "Close view of the welding wire tip meeting a small red aiming dot. No people.",
+   "narration": "丝尖对准红光，偏了要校准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "屏幕选材料、厚度、丝径，弹窗提醒戴防护",
+   "prompt_en": "A touchscreen with blank material, thickness and wire buttons, and a pop-up showing a face shield and goggles icon. No people.",
+   "narration": "选参数，启用送丝和出光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "阿杰穿工作服戴隔热手套焊接两块金属板",
+   "prompt_en": "The young male student in work clothes and heat-resistant gloves welds two metal plates with the handheld welding head.",
+   "narration": "先点焊两端，再焊整条缝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "标准模式焊接",
+   "scene": "焊接头下压图标打叉，高温工件图标",
+   "prompt_en": "Two icons: a welding head pressed down hard crossed out, and a glowing hot workpiece with a hot surface sign. No people.",
+   "narration": "别往下压；焊完别空手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "激光清洗",
+   "scene": "关机换清洗嘴，屏幕选清洗",
+   "prompt_en": "Hands swap the welding nozzle for a straight cleaning nozzle, then a finger taps a cleaning icon on the touchscreen.",
+   "narration": "清洗：关机换嘴，开机选清洗。",
+   "overlay": [
+    "激光清洗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "激光清洗",
+   "scene": "阿杰平行焊缝清洗",
+   "prompt_en": "The young male student in work clothes and gloves holds the welding head parallel to a weld seam and cleans it.",
+   "narration": "焊接头平行焊缝清洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手持激光切割",
+   "scene": "记下参考值，关机换切割嘴",
+   "prompt_en": "A notepad with a blank value box, then hands fit a slim cutting tip onto the welding head.",
+   "narration": "切割：记参考值，关机换切割嘴。",
+   "overlay": [
+    "手持激光切割"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手持激光切割",
+   "scene": "气瓶换装带两块表的减压阀",
+   "prompt_en": "A gas cylinder fitted with a pressure-reducing regulator with two blank gauges. No people.",
+   "narration": "换装带减压阀的压力表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手持激光切割",
+   "scene": "红点清晰打勾，模糊打叉",
+   "prompt_en": "Split view: a sharp round red dot with a green check and a blurry broken dot with a red X. No people.",
+   "narration": "红光要清晰，不清晰先校准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手持激光切割",
+   "scene": "阿杰手持焊接头切割金属板，火花四溅",
+   "prompt_en": "The young male student in work clothes and gloves cuts a metal plate with the handheld head; sparks fly in all directions.",
+   "narration": "气压调到0.8到1.2兆帕，再切割。",
+   "overlay": [],
+   "labels": [
+    "0.8–1.2 MPa"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "更换送丝嘴",
+   "scene": "大小两个送丝嘴",
+   "prompt_en": "Two copper wire feeding nozzles, one small and one large, with blank tags. No people.",
+   "narration": "送丝嘴按焊丝粗细来换。",
+   "overlay": [
+    "更换送丝嘴"
+   ],
+   "labels": [
+    "0.8/1.0",
+    "1.2/1.6"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "切割机开箱",
+   "scene": "一个大木箱，前后画出至少一米的空地",
+   "prompt_en": "A large wooden crate on a pallet with floor marks showing a wide clear area in front of and behind it. No people.",
+   "narration": "开箱前，箱子前后至少留1米。",
+   "overlay": [
+    "切割机开箱"
+   ],
+   "labels": [
+    "≥1m"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "切割机开箱",
+   "scene": "老李打开木箱前面的搭扣，前板放下成坡道",
+   "prompt_en": "The facility engineer opens the metal latches on the front of the crate and lowers the front panel to form a ramp.",
+   "narration": "先开前板7个搭扣，放下当坡道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "切割机开箱",
+   "scene": "再打开左右和后面的搭扣，拆掉侧板",
+   "prompt_en": "The facility engineer opens the latches on the left, right and rear panels and lifts them away.",
+   "narration": "左右后板各3个搭扣，只留底板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "切割机开箱",
+   "scene": "配件盒里一排零件图标",
+   "prompt_en": "An open foam tray of parts with a blank checklist showing pictograms of nozzles, rings, screws and slats. No people.",
+   "narration": "对照清单清点配件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "下坡道、就位、调平",
+   "scene": "剪开绑带，扳手旋起调平脚，离限位块约一厘米",
+   "prompt_en": "Hands cut a black strap, then use a wrench to raise a leveling foot so it sits a small gap below the limit block, shown with a measure mark.",
+   "narration": "调平脚旋起，离限位块约1厘米。",
+   "overlay": [
+    "下坡道、就位、调平"
+   ],
+   "labels": [
+    "1cm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "下坡道、就位、调平",
+   "scene": "老李一个人在后面扶着设备慢慢推下坡道",
+   "prompt_en": "The facility engineer alone holds the back of the heavy machine and pushes it slowly down the wooden ramp.",
+   "narration": "下坡会因惯性冲，要控制速度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "下坡道、就位、调平",
+   "scene": "设备就位，四周留出组装空间",
+   "prompt_en": "The machine stands in place with clear space arrows around all sides for assembly. No people.",
+   "narration": "推到位置，四周至少留50厘米。",
+   "overlay": [],
+   "labels": [
+    "≥50cm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "下坡道、就位、调平",
+   "scene": "放下调平脚触地，扳手锁紧螺母",
+   "prompt_en": "Close view of a leveling foot lowered to the floor and a wrench tightening its nut.",
+   "narration": "放下调平脚，锁紧螺母。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "抬升主机",
+   "scene": "内六角拆下底角固定杆，螺丝放进小盒",
+   "prompt_en": "Hands remove a fixing bar at the bottom corner with a hex key and put the screws into a small blank box.",
+   "narration": "3毫米内六角拆杆，16颗螺丝留好。",
+   "overlay": [
+    "抬升主机"
+   ],
+   "labels": [
+    "3mm内六角",
+    "16颗螺丝"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "抬升主机",
+   "scene": "Z形扳手在机后摇升主机",
+   "prompt_en": "The facility engineer turns a Z-shaped crank at the back of the machine; the main body rises on a scissor frame.",
+   "narration": "用Z形扳手摇升主机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "抬升主机",
+   "scene": "平视侧面白线与底梁平齐",
+   "prompt_en": "Close view at eye level of a white line on the side frame lining up with the base beam, with a green check. No people.",
+   "narration": "平视白线，和底梁平齐就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "安装固定杆",
+   "scene": "长固定杆对孔上螺丝，旁边提示先不拧紧",
+   "prompt_en": "Hands align a long fixing bar with holes on the frame and insert screws loosely; a small loose-screw icon floats beside.",
+   "narration": "装长固定杆，螺丝先不拧紧。",
+   "overlay": [
+    "安装固定杆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "安装固定杆",
+   "scene": "四根装完后用内六角全部拧紧",
+   "prompt_en": "After all four long bars are in place, a hand tightens every screw with a hex key.",
+   "narration": "四根都装好，再全部拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "安装固定杆",
+   "scene": "短固定杆装在前左右，箭头示意方向",
+   "prompt_en": "Short fixing bars are fitted on the front, left and right sides, with arrows showing their correct direction. No people.",
+   "narration": "短固定杆注意安装方向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "装侧板、前板、后板",
+   "scene": "侧板凹槽对凸起推入，上螺丝",
+   "prompt_en": "Hands push a side panel so its grooves slide onto the frame protrusions, then fix it with two screws.",
+   "narration": "侧板对槽推入，螺丝固定。",
+   "overlay": [
+    "装侧板、前板、后板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "装侧板、前板、后板",
+   "scene": "前板和后板依次装上",
+   "prompt_en": "The front panel and then the back panel are pushed into place and secured with screws. No people besides hands.",
+   "narration": "前板、后板依次装好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "底板加沙或水",
+   "scene": "底板推入槽中",
+   "prompt_en": "A shallow metal base tray is slid into the slots at the bottom of the machine. No people.",
+   "narration": "把底板推进卡槽。",
+   "overlay": [
+    "底板加沙或水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "底板加沙或水",
+   "scene": "往底板里倒入沙子或水",
+   "prompt_en": "Hands pour sand into the base tray, and in a second view water is poured into it. No people besides hands.",
+   "narration": "加适量沙或水，隔热防变形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "装排风扇和排烟管",
+   "scene": "排风扇箭头面朝上，接好插头",
+   "prompt_en": "An exhaust fan box with arrow marks facing up; a hand plugs its connector into the machine.",
+   "narration": "排风扇箭头朝上，接好插头。",
+   "overlay": [
+    "装排风扇和排烟管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "装排风扇和排烟管",
+   "scene": "排风扇对准四个销钉压到位",
+   "prompt_en": "The exhaust fan is aligned with four pins on the back of the machine and gently pressed into place.",
+   "narration": "对准销钉，轻压到位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "装排风扇和排烟管",
+   "scene": "排烟软管用卡箍拧紧，另一端接到净化器",
+   "prompt_en": "A flexible smoke exhaust pipe is secured with hose clamps on the fan and connected to a white fume purifier box. No people besides hands.",
+   "narration": "排烟管卡箍拧紧，接到净化器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "装天线和挂钩",
+   "scene": "天线拧到机背并竖起，挂钩用螺丝固定",
+   "prompt_en": "An external antenna is screwed onto the back of the machine and raised; a metal hook is fixed to the side with screws.",
+   "narration": "装好天线和挂钩。",
+   "overlay": [
+    "装天线和挂钩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "通信线两端分别接到切割机和焊机并旋紧",
+   "prompt_en": "A communication cable is plugged into a port on the cutting machine and the other end into the control port on the welder, both screwed tight.",
+   "narration": "通信线两头接好，旋紧。",
+   "overlay": [
+    "焊接头装上滑架"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "打开防护盖，取出三颗运输固定螺栓",
+   "prompt_en": "The lid of the cutting machine is opened and a hand removes three wing bolts used for transport fixing.",
+   "narration": "开盖取出三颗运输固定螺栓。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "焊接头换上切割嘴",
+   "prompt_en": "Hands remove the welding tip from the handheld welding head and insert a cutting tip, aligning a small protrusion with a slot.",
+   "narration": "焊接头换上切割嘴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "示意：人握紧焊接头，把线缆拉直",
+   "prompt_en": "Diagram of a person holding the welding head firmly while the cable from the welder is laid out straight. No people besides the outline figure.",
+   "narration": "握紧焊接头，把线缆理直。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "焊接头对准滑架两个销钉，合上搭扣",
+   "prompt_en": "The welding head is aligned with two pins on the gantry carriage and a toggle latch is closed.",
+   "narration": "对准销钉装上滑架，合上搭扣。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "焊接头装上滑架",
+   "scene": "线缆卡进线夹，远离导轨",
+   "prompt_en": "The cable is snapped into clamps along the gantry and kept clear of the guide rail, with a green check. No people.",
+   "narration": "线缆卡好，不能碰到导轨。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "接电、接气、开机",
+   "scene": "两台设备分别接电源",
+   "prompt_en": "Power cables are plugged into the cutting machine and the welder. No people.",
+   "narration": "切割机接上电源。",
+   "overlay": [
+    "接电、接气、开机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "接电、接气、开机",
+   "scene": "电工徒手在配电箱前接三根线",
+   "prompt_en": "The facility engineer with bare hands connects three wires of a power cable at an open distribution box.",
+   "narration": "焊机电源线由专业电工接入回路。",
+   "overlay": [],
+   "labels": [
+    "PE",
+    "N",
+    "L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "接电、接气、开机",
+   "scene": "两台设备的急停都旋起，插上钥匙",
+   "prompt_en": "Both red emergency stop buttons are rotated up, and a key is inserted into the welder.",
+   "narration": "两台急停都要释放，插钥匙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "接电、接气、开机",
+   "scene": "取下防尘帽接气管，另一端接空压机和干燥机",
+   "prompt_en": "A dust cap is removed from the gas inlet and a tube is connected; the other end goes to an air compressor and an air dryer. No people.",
+   "narration": "接气：气瓶，或空压机加干燥机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "接电、接气、开机",
+   "scene": "两台设备依次开机",
+   "prompt_en": "The welder power switch and then the cutting machine power switch are turned on. No people besides a finger.",
+   "narration": "按说明开阀，两台依次开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "校准一：振动补偿",
+   "scene": "笔记本电脑上下载软件、连接设备",
+   "prompt_en": "A laptop shows a blank download page and a connect device window with a check icon. No people.",
+   "narration": "下载设计软件，连接切割机。",
+   "overlay": [
+    "校准一：振动补偿"
+   ],
+   "labels": [
+    "振动补偿",
+    "激光焦点",
+    "红光位置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "校准一：振动补偿",
+   "scene": "按下机器上的开始停止键，切割头自动运动",
+   "prompt_en": "A finger presses the glowing start-stop button on the machine; the cutting head moves by itself inside the closed lid.",
+   "narration": "按开始键，机器自动做振动补偿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "校准二：激光焦点",
+   "scene": "两台设备关机，取出焊接头",
+   "prompt_en": "Both machines are switched off and the welding head is taken out of the carriage.",
+   "narration": "先关两台机，取出焊接头。",
+   "overlay": [
+    "校准二：激光焦点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "校准二：激光焦点",
+   "scene": "拔出切割嘴，内六角松螺丝，U形件拉到刻度",
+   "prompt_en": "Close view of hands pulling out the cutting tip, loosening a screw with a small hex key and sliding a U-shaped part to a scale mark.",
+   "narration": "2.5毫米内六角松螺丝，拉到正1。",
+   "overlay": [],
+   "labels": [
+    "+1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "校准二：激光焦点",
+   "scene": "拧紧后拉一拉确认，装回滑架",
+   "prompt_en": "The screw is tightened, the part is tugged to check it is firm, and the welding head goes back onto the carriage.",
+   "narration": "拧紧试牢，装回，理好线缆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "校准三：红光位置",
+   "scene": "对位贴纸贴在激光模块下，关盖",
+   "prompt_en": "A small alignment sticker is attached under the cutting tip, then the lid is closed. ",
+   "narration": "贴好对位贴纸，关上机盖。",
+   "overlay": [
+    "校准三：红光位置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "校准三：红光位置",
+   "scene": "屏幕点单次出光；开盖看光斑是否在同心圆中心",
+   "prompt_en": "A laptop button for single emission is clicked; then a sticker with concentric circles shows a mark near the center. No people.",
+   "narration": "单次出光，看光斑是否居中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "校准三：红光位置",
+   "scene": "旋钮转到刻度，印台给切割嘴上色，对位卡放在下面",
+   "prompt_en": "A knob is turned to a scale mark, a red stamp pad is pressed against the cutting tip, then a small alignment card is placed right under it.",
+   "narration": "不居中：旋钮转到负10，印台上色。",
+   "overlay": [],
+   "labels": [
+    "−10"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "校准三：红光位置",
+   "scene": "红印与红光对比，左右拧螺丝，前后点按钮",
+   "prompt_en": "Split view: a red ring mark on a card with a red dot offset, a small hex key turning a screw on the welding head, and forward-back buttons on a laptop. No people.",
+   "narration": "左右拧螺丝，前后点按钮调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "校准三：红光位置",
+   "scene": "红点落在圆心，绿色对勾",
+   "prompt_en": "A red dot sits exactly in the center of a red ring mark, with a green check. No people.",
+   "narration": "红点居中，校准完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "示例项目：装夹板材",
+   "scene": "栅条齿朝上卡入槽，等距排列",
+   "prompt_en": "Metal slats with teeth facing up are placed in slots across the cutting bed at equal intervals. No people.",
+   "narration": "栅条齿朝上，两端卡进槽。",
+   "overlay": [
+    "示例项目：装夹板材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "示例项目：装夹板材",
+   "scene": "右夹具夹住板材右侧，拧紧",
+   "prompt_en": "A metal sheet is inserted into the right fixture and a knob is turned to tighten it.",
+   "narration": "板材插进右夹具，拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "示例项目：装夹板材",
+   "scene": "抬联动杆，左夹具右移夹住，拧紧放下",
+   "prompt_en": "A linkage lever is lifted, the left fixture slides right to hold the sheet, the knob is tightened and the lever lowered.",
+   "narration": "左夹具移过来夹住，再拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "示例项目：加工取件",
+   "scene": "电脑上放图案、选材料和喷嘴",
+   "prompt_en": "On a laptop, a blank outline shape is placed on the material and material and nozzle icons are selected. No people.",
+   "narration": "放图案，选材料和喷嘴。",
+   "overlay": [
+    "示例项目：加工取件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "示例项目：加工取件",
+   "scene": "校准传感器，核对右侧检查清单",
+   "prompt_en": "A sensor calibration progress bar and a blank checklist with items being ticked on the laptop. No people.",
+   "narration": "校准传感器，逐项核对要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "示例项目：加工取件",
+   "scene": "电脑弹出黄色警告框，手指点了继续按钮",
+   "prompt_en": "A yellow warning pop-up with a gauge icon appears on the laptop, and a finger clicks the continue button. No people besides the finger.",
+   "narration": "提示气压偏低，演示中点了继续加工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "示例项目：加工取件",
+   "scene": "关盖按开始键，机内火花",
+   "prompt_en": "The lid is closed, a finger presses the start button, and sparks appear inside behind the tinted window.",
+   "narration": "关盖，按开始键加工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "示例项目：加工取件",
+   "scene": "戴耐热手套拉出底板，举起金属挂件",
+   "prompt_en": "The female graduate student wearing heat-resistant gloves pulls out the base tray and holds up a small metal animal-shaped ornament.",
+   "narration": "戴耐热手套取件，第一件完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现焊机、送丝机、气瓶图标",
+   "prompt_en": "The panda mascot points to floating icons of a welder unit, a wire feeder and a gas cylinder.",
+   "narration": "焊机：接气、接电、装丝，先看培训。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现木箱、坡道、扳手图标",
+   "prompt_en": "The panda mascot points to icons of a wooden crate, a ramp and a wrench.",
+   "narration": "切割机：开箱下坡，按顺序组装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现三个校准图标",
+   "prompt_en": "The panda mascot points to three icons: a vibration wave, a focus mark and a red dot in a circle.",
+   "narration": "三项校准做完，再试切。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现栅条、夹具和金属挂件图标",
+   "prompt_en": "The panda mascot points to icons of metal slats, a clamp and a small metal ornament.",
+   "narration": "装夹板材，关盖加工，第一件完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、阿杰、老李在两台设备前挥手",
+   "prompt_en": "The panda mascot, the female graduate student, the young male student and the facility engineer wave goodbye in front of the two machines.",
+   "narration": "两台设备装好了，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
