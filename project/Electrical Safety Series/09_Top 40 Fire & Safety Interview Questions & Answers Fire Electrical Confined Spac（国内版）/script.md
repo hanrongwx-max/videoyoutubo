@@ -1,7 +1,7 @@
-# 安全知识竞赛四十题
+# 安全知识竞赛四十题（国内版）
 
 - 剧集：Electrical Safety Series；对应原视频：09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac（内容分析见 `course/Electrical Safety Series/09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../09_Top 40 Fire & Safety Interview Questions & Answers Fire Electrical Confined Spac/`
 - 时长：10 分 25 秒（125 个镜头 × 5 秒）；熊猫出镜说话 9 镜，画外音 116 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）、保卫处值班员

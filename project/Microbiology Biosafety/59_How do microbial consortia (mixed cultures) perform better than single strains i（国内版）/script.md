@@ -1,7 +1,7 @@
-# 菌群接力：边解毒，边发电
+# 菌群接力：边解毒，边发电（国内版）
 
 - 剧集：Microbiology Biosafety；对应原视频：59_How do microbial consortia (mixed cultures) perform better than single strains i（内容分析见 `course/Microbiology Biosafety/59_How do microbial consortia (mixed cultures) perform better than single strains i.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../59_How do microbial consortia (mixed cultures) perform better than single strains i/`
 - 时长：3 分 15 秒（39 个镜头 × 5 秒）；熊猫出镜说话 5 镜，画外音 34 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）

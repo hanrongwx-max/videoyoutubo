@@ -1,7 +1,7 @@
-# 噬菌体与治污微生物
+# 噬菌体与治污微生物（国内版）
 
 - 剧集：Microbiology Biosafety；对应原视频：57_What role do bacteriophages play in removing biological hazards microbiology tre（内容分析见 `course/Microbiology Biosafety/57_What role do bacteriophages play in removing biological hazards microbiology tre.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../57_What role do bacteriophages play in removing biological hazards microbiology tre/`
 - 时长：4 分 0 秒（48 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 42 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）
