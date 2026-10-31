@@ -1,0 +1,594 @@
+{
+ "id": "20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical",
+ "edition": "单一版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "最大功率传输：口试问答与电池光伏安全",
+ "seconds": 215,
+ "source_doc": "course/Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical.md",
+ "author_source": "project/Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical/src.py",
+ "points": {
+  "K1": "最大功率传输定理",
+  "K2": "交流电路以后再学",
+  "K3": "最大功率时效率只有一半",
+  "K4": "最大功率怎么算",
+  "K5": "什么是内阻",
+  "K6": "应用：光伏最大功率点跟踪",
+  "K7": "应用：音频放大与收音机",
+  "K8": "有疑问就提出",
+  "S1": "电池没有开关，两极别短接",
+  "S2": "电池鼓包漏液停用，废电池回收",
+  "S3": "光伏板见光就有电",
+  "S4": "直流接头不带载插拔",
+  "S5": "新实验，先做风险评估"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台前，台上有电池组、滑线变阻器和电表",
+   "prompt_en": "The panda mascot stands at a lab bench with a battery pack, a sliding rheostat and a blank-dial meter, waving at the camera.",
+   "narration": "大家好！今天复习最大功率传输定理。",
+   "overlay": [
+    "最大功率传输：口试问答与电池光伏安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "电池、变阻器、光伏板三个图标",
+   "prompt_en": "Three icons in a row: a battery, a sliding rheostat and a solar panel. No people.",
+   "narration": "顺便聊聊电池和光伏板的安全。",
+   "overlay": [],
+   "labels": [
+    "定理",
+    "电池",
+    "光伏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰调变阻器，盯着功率表读数忽大忽小",
+   "prompt_en": "The young male student turns a sliding rheostat while watching a meter needle rise and fall.",
+   "narration": "阿杰调负载，功率先升后降，纳闷了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在空白纸上画出一条先升后降的曲线",
+   "prompt_en": "The female graduate student sketches a curve that rises to a peak and then falls on a blank sheet.",
+   "narration": "小研说：顶点那儿，就有门道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最大功率传输定理",
+   "scene": "电源和内阻串联，外接一个可变负载电阻的电路图标",
+   "prompt_en": "A circuit icon: a source with an internal resistor in series, connected to a variable load resistor. No people.",
+   "narration": "第一题：什么是最大功率传输定理？",
+   "overlay": [
+    "最大功率传输定理"
+   ],
+   "labels": [
+    "Rth",
+    "RL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最大功率传输定理",
+   "scene": "天平两边分别放内阻和负载电阻，正好平衡",
+   "prompt_en": "A balance scale with an internal resistor icon on one side and a load resistor icon on the other, perfectly level. No people.",
+   "narration": "条件：负载电阻等于电源内阻。",
+   "overlay": [],
+   "labels": [
+    "Rth=RL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最大功率传输定理",
+   "scene": "负载电阻图标亮起，功率柱达到最高",
+   "prompt_en": "The load resistor icon glows and a power bar reaches its highest point. No people.",
+   "narration": "这时负载得到的功率最大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "最大功率传输定理",
+   "scene": "功率随负载变化的曲线，顶点被圈出",
+   "prompt_en": "A curve of power versus load resistance with its peak circled. No people.",
+   "narration": "负载太大太小，功率都上不去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "交流电路以后再学",
+   "scene": "正弦波图标和一本空白高年级教材",
+   "prompt_en": "A sine wave icon next to a blank advanced textbook. No people.",
+   "narration": "交流电路的条件，高年级再详细学。",
+   "overlay": [
+    "交流电路以后再学"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "最大功率时效率只有一半",
+   "scene": "一个圆饼图一半给负载、一半在内阻上发热",
+   "prompt_en": "A pie chart split in half: one half flowing to the load, the other half turning into heat in the internal resistor. No people.",
+   "narration": "第二题：此时效率多少？百分之五十。",
+   "overlay": [
+    "最大功率时效率只有一半"
+   ],
+   "labels": [
+    "50%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "最大功率时效率只有一半",
+   "scene": "内阻图标冒出热气",
+   "prompt_en": "An internal resistor icon giving off heat waves. No people.",
+   "narration": "一半功率，消耗在电源内部。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "最大功率怎么算",
+   "scene": "白板上写着最大功率公式",
+   "prompt_en": "A whiteboard with a maximum power formula in symbols only. No people.",
+   "narration": "第三题：最大功率有多大？",
+   "overlay": [
+    "最大功率怎么算"
+   ],
+   "labels": [
+    "Pm=E0²/(4RL)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "最大功率怎么算",
+   "scene": "公式中分母的 4 和负载电阻被高亮",
+   "prompt_en": "The denominator of the formula highlighted. No people.",
+   "narration": "电动势平方，除以四倍负载电阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是内阻",
+   "scene": "一节电池剖开，里面有一个小电阻图标",
+   "prompt_en": "A battery icon cut open, revealing a small resistor icon inside. No people.",
+   "narration": "第四题：什么是内阻？",
+   "overlay": [
+    "什么是内阻"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是内阻",
+   "scene": "电池符号与一个电阻串联，被圈在一起",
+   "prompt_en": "A battery symbol in series with a small resistor, both circled together. No people.",
+   "narration": "电源内部本身就有电阻，画成串联。",
+   "overlay": [],
+   "labels": [
+    "Rint"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是内阻",
+   "scene": "欧姆符号图标",
+   "prompt_en": "A large ohm symbol icon. No people.",
+   "narration": "内阻的单位也是欧姆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "应用：光伏最大功率点跟踪",
+   "scene": "屋顶上的光伏板，太阳时隐时现",
+   "prompt_en": "A solar panel on a rooftop under a sun that moves in and out of clouds. No people.",
+   "narration": "第五题：应用。光伏发电最典型。",
+   "overlay": [
+    "应用：光伏最大功率点跟踪"
+   ],
+   "labels": [
+    "光伏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "应用：光伏最大功率点跟踪",
+   "scene": "光照强弱变化，光伏板输出柱子跟着高低起伏",
+   "prompt_en": "As sunlight brightens and dims, a power bar beside the solar panel rises and falls. No people.",
+   "narration": "光照一变，光伏板的输出就变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "应用：光伏最大功率点跟踪",
+   "scene": "一个控制盒连着光伏板，曲线顶点上有一个小圆点跟着移动",
+   "prompt_en": "A small controller box connected to a solar panel, and a dot that keeps tracking the peak of a power curve. No people.",
+   "narration": "跟踪控制器随时找功率最高点。",
+   "overlay": [],
+   "labels": [
+    "MPPT"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "应用：光伏最大功率点跟踪",
+   "scene": "小研指着跟踪曲线讲解",
+   "prompt_en": "The female graduate student points at the tracking curve on a board and explains.",
+   "narration": "让光伏板始终输出最大功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "应用：音频放大与收音机",
+   "scene": "功放和音箱图标",
+   "prompt_en": "An audio amplifier icon connected to a loudspeaker icon. No people.",
+   "narration": "功放带音箱，也讲究匹配。",
+   "overlay": [
+    "应用：音频放大与收音机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "应用：音频放大与收音机",
+   "scene": "老式收音机调谐旋钮图标",
+   "prompt_en": "An old radio icon with a tuning knob. No people.",
+   "narration": "收音机调谐，也用到这个思想。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "有疑问就提出",
+   "scene": "阿杰举手，王老师走过来",
+   "prompt_en": "The young male student raises his hand and the safety administrator walks over.",
+   "narration": "复习有疑问，及时问老师。",
+   "overlay": [
+    "有疑问就提出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "电池没有开关，两极别短接",
+   "scene": "电池组图标，两极闪着小闪电，没有开关",
+   "prompt_en": "A battery pack icon with small lightning symbols at both terminals and no switch. No people.",
+   "narration": "电池没有开关，随时都带电。",
+   "overlay": [
+    "电池没有开关，两极别短接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "电池没有开关，两极别短接",
+   "scene": "扳手横搭在电池两极上冒火花的图标被红叉划掉",
+   "prompt_en": "An icon of a metal wrench lying across both battery terminals with sparks, crossed out with a red X. No people.",
+   "narration": "金属工具搭住两极，会短路发烫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "电池没有开关，两极别短接",
+   "scene": "小研给电池端子套上绝缘护帽",
+   "prompt_en": "The female graduate student fits insulating caps onto the terminals of a battery pack.",
+   "narration": "不用时套上护帽，正负分开放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "电池鼓包漏液停用，废电池回收",
+   "scene": "鼓包、漏液的电池图标",
+   "prompt_en": "Icons of a swollen battery and a leaking battery. No people.",
+   "narration": "电池鼓包、漏液、发烫，都是危险信号。",
+   "overlay": [
+    "电池鼓包漏液停用，废电池回收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "电池鼓包漏液停用，废电池回收",
+   "scene": "阿杰把鼓包电池放进防火盒，向王老师报告",
+   "prompt_en": "The young male student places a swollen battery into a fireproof box and reports to the safety administrator.",
+   "narration": "立即停用，隔离存放，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "电池鼓包漏液停用，废电池回收",
+   "scene": "废电池被投进专用回收箱",
+   "prompt_en": "Used batteries being dropped into a dedicated battery recycling bin. No people.",
+   "narration": "废电池投进专用回收箱，不混扔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光伏板见光就有电",
+   "scene": "阳光照在光伏板上，接线端闪着闪电符号",
+   "prompt_en": "Sunlight falls on a solar panel and lightning symbols glow at its output terminals. No people.",
+   "narration": "光伏板见了光，就会发电。",
+   "overlay": [
+    "光伏板见光就有电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光伏板见光就有电",
+   "scene": "以为没接电源就去摸光伏板接线的图标被红叉划掉",
+   "prompt_en": "An icon of a bare hand touching solar panel output leads in sunlight, crossed out with a red X. No people.",
+   "narration": "没接电源，端子照样有电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "光伏板见光就有电",
+   "scene": "老李用不透光的布盖住光伏板后再接线",
+   "prompt_en": "The facility engineer covers a solar panel with an opaque cloth before working on its wiring.",
+   "narration": "接线前遮光，并按老师要求操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "直流接头不带载插拔",
+   "scene": "直流接头在通电时被拔开，冒出电弧的图标",
+   "prompt_en": "An icon of a DC connector pulled apart while current flows, with an arc between the contacts. No people.",
+   "narration": "直流电断开时，容易拉出电弧。",
+   "overlay": [
+    "直流接头不带载插拔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "直流接头不带载插拔",
+   "scene": "带电拔直流接头的图标被红叉划掉",
+   "prompt_en": "An icon of a hand unplugging a DC connector under load, crossed out with a red X. No people.",
+   "narration": "不在带负载时插拔接头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "直流接头不带载插拔",
+   "scene": "阿杰先关负载开关，再拔下接头",
+   "prompt_en": "The young male student switches off the load first, then unplugs the DC connector.",
+   "narration": "先断开负载和电源，再插拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "新实验，先做风险评估",
+   "scene": "王老师和小研在空白风险评估表前讨论",
+   "prompt_en": "The safety administrator and the female graduate student discuss in front of a blank risk assessment form.",
+   "narration": "做新实验前，先想一想风险。",
+   "overlay": [
+    "新实验，先做风险评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "新实验，先做风险评估",
+   "scene": "电池、光伏板、变阻器三个图标各配一个问号",
+   "prompt_en": "Three icons, a battery, a solar panel and a rheostat, each with a question mark. No people.",
+   "narration": "哪里有电？哪里会烫？出事怎么办？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "新实验，先做风险评估",
+   "scene": "空白表格上打勾，王老师签字",
+   "prompt_en": "Check marks appear on a blank form and the safety administrator signs it.",
+   "narration": "措施落实，老师同意，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天平平衡图标和 50% 饼图",
+   "prompt_en": "A balanced scale icon next to a half-filled pie chart. No people.",
+   "narration": "负载等于内阻，功率最大，效率一半。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "Rth=RL",
+    "50%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "最大功率和最高效率两个奖杯，中间不等号",
+   "prompt_en": "Two trophy icons, one for maximum power and one for maximum efficiency, with a not-equal sign between them. No people.",
+   "narration": "记住：最大功率不等于最高效率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "光伏板、功放、收音机三个图标",
+   "prompt_en": "Three icons: a solar panel, an audio amplifier and a radio. No people.",
+   "narration": "光伏跟踪、功放、收音机都用得上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电池护帽、回收箱、遮光布、断开的接头四个图标",
+   "prompt_en": "Four icons: battery terminal caps, a battery recycling bin, a cloth-covered solar panel, and an unplugged connector. No people.",
+   "narration": "电池别短接，光伏见光有电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整理好的实验台前挥手",
+   "prompt_en": "The panda mascot waves goodbye at a tidy lab bench with the battery pack capped.",
+   "narration": "祝口试顺利，安全用电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
