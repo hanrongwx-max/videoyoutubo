@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 366 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 367 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -12,10 +12,10 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
+| Cleanroom & Equipment Safety | 13 / 33 | 0 / 8 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
-| Cleanroom & Equipment Safety | 12 / 33 | 0 / 8 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
@@ -267,7 +267,8 @@
 | Cleanroom & Equipment Safety | 09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder | 单一版 | 激光焊接机开关电源的规范更换 | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/09_Replace the Switched-Mode Power Supply for xTool MetalFab Laser Welder/审查报告.md>) |
 | Cleanroom & Equipment Safety | 10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder | 单一版 | 激光焊接机气动组件的规范更换 | 59 | 4:55 | 20 / 6 | [剧本](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder/审查报告.md>) |
 | Cleanroom & Equipment Safety | 11_Replace the Display Screen for xTool MetalFab Laser Welder | 单一版 | 激光焊接机显示屏的规范更换 | 45 | 3:45 | 15 / 6 | [剧本](<Cleanroom & Equipment Safety/11_Replace the Display Screen for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/11_Replace the Display Screen for xTool MetalFab Laser Welder/审查报告.md>) |
-| Cleanroom & Equipment Safety | 12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder | 单一版 | 激光焊接机交流电源板的规范更换 | 47 | 3:55 | 19 / 6 | [剧本](<Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder/script.md>) |
+| Cleanroom & Equipment Safety | 12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder | 单一版 | 激光焊接机交流电源板的规范更换 | 47 | 3:55 | 19 / 6 | [剧本](<Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder/审查报告.md>) |
+| Cleanroom & Equipment Safety | 13_Replace the Laser Power Supply for xTool MetalFab Laser Welder | 单一版 | 激光焊接机激光电源的规范更换 | 56 | 4:40 | 24 / 6 | [剧本](<Cleanroom & Equipment Safety/13_Replace the Laser Power Supply for xTool MetalFab Laser Welder/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
