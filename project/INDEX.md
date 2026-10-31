@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 268 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 269 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 44 / 47 | 0 / 42 |
-| Microbiology Biosafety | 33 / 59 | 0 / 25 |
+| Microbiology Biosafety | 34 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -281,6 +281,7 @@
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 国内版 | 读懂安全技术说明书（下）：第8到15部分（国内版） | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 国内版 | 微生物实验室的生物安全措施（国内版） | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 国内版 | 微生物实验室的应急准备（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 28_Why are microbes transported bacteriology microbiology raqbamicrohub | 单一版 | 微生物为什么要运输，又该怎样运 | 64 | 5:20 | 19 / 3 | [剧本](<Microbiology Biosafety/28_Why are microbes transported bacteriology microbiology raqbamicrohub/script.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 国内版 | 实验室危害，伤的是谁（国内版） | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz | 单一版 | 灭菌，也藏着危害 | 60 | 5:00 | 14 / 4 | [剧本](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/script.md>) · [审查](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
