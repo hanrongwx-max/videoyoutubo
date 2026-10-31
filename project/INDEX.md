@@ -12,7 +12,7 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
 | Lab Safety Training Series | 13 / 13 | 4 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 6 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 8 / 10 |
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
@@ -251,6 +251,7 @@
 | Fume Hood & Cabinet Protocols | 04_Liquid-Liquid Extraction | 国内版 | 液液萃取：用分液漏斗分开溶液（国内版） | 92 | 7:40 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 05_Simple Distillation | 原著版 | 简单蒸馏 | 80 | 6:40 | 21 / 0 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation/script.md>) |
 | Fume Hood & Cabinet Protocols | 05_Simple Distillation | 国内版 | 简单蒸馏（国内版） | 110 | 9:10 | 21 / 8 | [剧本](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/05_Simple Distillation（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 原著版 | 重结晶与熔点测定 | 77 | 6:25 | 28 / 0 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis/script.md>) |
 | Fume Hood & Cabinet Protocols | 06_Recrystallization and Melting Point Analysis | 国内版 | 重结晶与熔点测定（国内版） | 104 | 8:40 | 28 / 8 | [剧本](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/06_Recrystallization and Melting Point Analysis（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 07_Pipettes and Standard Solutions | 国内版 | 移液器具与标准溶液（国内版） | 90 | 7:30 | 22 / 8 | [剧本](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/07_Pipettes and Standard Solutions（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 08_Titration of Strong Acid With Strong Base | 国内版 | 强酸强碱滴定（国内版） | 96 | 8:00 | 25 / 8 | [剧本](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/审查报告.md>) |
