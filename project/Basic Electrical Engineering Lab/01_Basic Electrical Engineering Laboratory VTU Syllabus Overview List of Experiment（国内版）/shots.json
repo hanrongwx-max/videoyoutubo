@@ -1,0 +1,906 @@
+{
+ "id": "01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment",
+ "edition": "国内版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工基础实验：课程导览（国内版）",
+ "seconds": 325,
+ "source_doc": "course/Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment.md",
+ "author_source": "project/Basic Electrical Engineering Lab/01_Basic Electrical Engineering Laboratory VTU Syllabus Overview List of Experiment（国内版）/src.py",
+ "points": {
+  "K1": "课程目标：认识常用电气设备",
+  "K2": "先认识设备，再动手做实验",
+  "K3": "实验一：验证基尔霍夫定律",
+  "K4": "实验二：各类灯具的功率与功率因数",
+  "K5": "实验三：三电压表法测线圈参数",
+  "K6": "实验四：星形与三角形连接",
+  "K7": "实验五：二瓦特表法测三相功率",
+  "K8": "实验六：双控与多地控制照明",
+  "K9": "实验七：测量接地电阻",
+  "K10": "实验八：开路与短路",
+  "K11": "目标一：认识元件、导线和仪表",
+  "K12": "目标二：功率、功率因数与阻抗",
+  "K13": "目标三：接地电阻与多地控灯",
+  "K14": "导论课要认识的器材",
+  "K15": "用电安全，人人要懂",
+  "K16": "有疑问及时提出",
+  "S1": "先培训考核，再进实验室",
+  "S2": "进实验室前的着装与准备",
+  "S3": "断电接线，教师检查后通电",
+  "S4": "不带电作业，不私拉乱接",
+  "S5": "触电急救：先断电",
+  "S6": "电气起火：先断电再灭火",
+  "S7": "出了事故要报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在电工实验台前，台上整齐摆着电表和导线，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of an electrical lab bench with neatly arranged analog meters and coiled wires, waving at the camera.",
+   "narration": "欢迎来到电工基础实验课！",
+   "overlay": [
+    "电工基础实验：课程导览"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "电表、导线、灯泡、闪电警示标志四个图标排成一行",
+   "prompt_en": "Four icons in a row: an analog meter with a blank dial, a coil of wire, a light bulb, and an electrical hazard warning sign. No people.",
+   "narration": "今天先看看这门课要学什么。",
+   "overlay": [],
+   "labels": [
+    "认设备",
+    "做实验",
+    "懂安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一次走进电工实验室，好奇地伸手去摸台上的接线柱",
+   "prompt_en": "The young male student walks into an electrical lab for the first time and curiously reaches toward the terminals on a bench panel.",
+   "narration": "阿杰第一次进电工实验室，啥都想摸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住阿杰，指向墙上的电源总闸",
+   "prompt_en": "The female graduate student stops the young male student and points to the main power switch box on the wall.",
+   "narration": "小研拦住他：先弄清哪里有电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "这门课，先认设备，再学安全，后动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "课程目标：认识常用电气设备",
+   "scene": "王老师站在实验室讲台前，身后是家用配电箱和工厂电机的图片",
+   "prompt_en": "The safety administrator stands at the front of an electrical lab; behind him are simple pictures of a home distribution box and a factory motor.",
+   "narration": "这门课介绍家里和工厂常用的电气设备。",
+   "overlay": [
+    "课程目标：认识常用电气设备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "课程目标：认识常用电气设备",
+   "scene": "一本空白理论教材和一块实验板用箭头连在一起",
+   "prompt_en": "A blank textbook icon and a lab circuit board icon connected by a two-way arrow. No people.",
+   "narration": "动手做一做，理论课也更好懂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先认识设备，再动手做实验",
+   "scene": "欣欣指着排成两步的图标：先是工具箱，后是电路板",
+   "prompt_en": "The panda mascot points at two steps shown as icons: first a toolbox with meters, then a circuit board with a check mark.",
+   "narration": "先一件件认识设备，再一个个做实验。",
+   "overlay": [
+    "先认识设备，再动手做实验"
+   ],
+   "labels": [
+    "第一步 认设备",
+    "第二步 做实验"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "实验一：验证基尔霍夫定律",
+   "scene": "一个简单直流电路图标，节点处有几个箭头汇合",
+   "prompt_en": "A simple DC circuit icon with a battery and resistors, arrows meeting at one junction. No people.",
+   "narration": "实验一：验证基尔霍夫电流和电压定律。",
+   "overlay": [
+    "实验一：验证基尔霍夫定律"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "实验一：验证基尔霍夫定律",
+   "scene": "小研先在空白纸上计算，再看电表读数比对",
+   "prompt_en": "The female graduate student first calculates on a blank sheet of paper, then compares her result with a meter reading on the bench.",
+   "narration": "先算理论值，再用实测来验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "实验二：各类灯具的功率与功率因数",
+   "scene": "白炽灯、荧光灯管、LED 灯三个图标并排，各配一个电表",
+   "prompt_en": "Three icons side by side: an incandescent bulb, a fluorescent tube and an LED bulb, each with a small blank meter below. No people.",
+   "narration": "实验二：测各种灯的电流和功率。",
+   "overlay": [
+    "实验二：各类灯具的功率与功率因数"
+   ],
+   "labels": [
+    "白炽灯",
+    "荧光灯",
+    "LED灯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "实验二：各类灯具的功率与功率因数",
+   "scene": "三个灯泡下方的柱形高低不同",
+   "prompt_en": "Three lamp icons with bars of different heights beneath them, showing different energy use. No people.",
+   "narration": "比一比，谁最费电、谁最省电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "实验二：各类灯具的功率与功率因数",
+   "scene": "欣欣举着一个写着问号的空白卡片",
+   "prompt_en": "The panda mascot holds up a blank card with a question mark icon.",
+   "narration": "还要弄懂什么是功率因数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "实验三：三电压表法测线圈参数",
+   "scene": "一个线圈图标连着三个电压表图标",
+   "prompt_en": "An icon of an iron-core coil connected with three small voltmeter icons. No people.",
+   "narration": "实验三：三个电压表，算出线圈的电阻和电感。",
+   "overlay": [
+    "实验三：三电压表法测线圈参数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "实验四：星形与三角形连接",
+   "scene": "星形和三角形两种连接图标并排",
+   "prompt_en": "Two icons side by side: three loads connected in a star shape and three loads connected in a triangle shape. No people.",
+   "narration": "实验四：三相负载的星形和三角形接法。",
+   "overlay": [
+    "实验四：星形与三角形连接"
+   ],
+   "labels": [
+    "星形",
+    "三角形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "实验四：星形与三角形连接",
+   "scene": "老周指着两种接法图标讲解",
+   "prompt_en": "The older man points at the star and triangle connection icons on a board and explains.",
+   "narration": "实测线电压、相电压，线电流、相电流的关系。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验五：二瓦特表法测三相功率",
+   "scene": "两个功率表图标接在三相线路上",
+   "prompt_en": "Two wattmeter icons with blank dials connected to a three-line power circuit icon. No people.",
+   "narration": "实验五：用两只功率表测三相功率。",
+   "overlay": [
+    "实验五：二瓦特表法测三相功率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验五：二瓦特表法测三相功率",
+   "scene": "平衡的天平和不平衡的天平两个图标都打勾",
+   "prompt_en": "Two icons, a balanced scale and an unbalanced scale, both with green check marks. No people.",
+   "narration": "负载对称不对称，这个方法都能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验六：双控与多地控制照明",
+   "scene": "楼梯上下各有一个开关，控制同一盏灯",
+   "prompt_en": "A staircase icon with a wall switch at the bottom and another at the top, both controlling one ceiling lamp. No people.",
+   "narration": "实验六：楼上楼下两个开关控一盏灯。",
+   "overlay": [
+    "实验六：双控与多地控制照明"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验六：双控与多地控制照明",
+   "scene": "长走廊或仓库里三个开关控制同一盏灯",
+   "prompt_en": "A long corridor icon with three wall switches along it, all linked to one ceiling lamp. No people.",
+   "narration": "长走廊、大仓库，多处都能开关同一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验六：双控与多地控制照明",
+   "scene": "一张空白表格，格子里只有亮灯和灭灯图标",
+   "prompt_en": "A blank table grid with only lamp-on and lamp-off icons in its cells. No people.",
+   "narration": "还要把开关状态列成真值表。",
+   "overlay": [],
+   "labels": [
+    "真值表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "实验七：测量接地电阻",
+   "scene": "接地极插入土地，旁边一个测量仪器图标",
+   "prompt_en": "An icon of a metal earth rod driven into the ground with a cable to a blank test instrument. No people.",
+   "narration": "实验七：测量接地电阻。",
+   "overlay": [
+    "实验七：测量接地电阻"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "实验七：测量接地电阻",
+   "scene": "电器外壳通过导线接地，故障电流流入大地",
+   "prompt_en": "An icon of an appliance casing with a green-yellow earth wire leading into the ground, an arrow showing fault current flowing to earth. No people.",
+   "narration": "弄懂为什么要接地，接地电阻怎样降低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实验八：开路与短路",
+   "scene": "一个断开的电路和一个被导线短接的电路图标",
+   "prompt_en": "Two circuit icons: one with an open gap in the wire, one with a wire bridging across the load. No people.",
+   "narration": "实验八：交流电路开路和短路会怎样。",
+   "overlay": [
+    "实验八：开路与短路"
+   ],
+   "labels": [
+    "开路",
+    "短路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "目标一：认识元件、导线和仪表",
+   "scene": "电阻、电容、电感三个元件图标",
+   "prompt_en": "Icons of a resistor, a capacitor and an inductor coil lined up on a bench. No people.",
+   "narration": "目标一：认识电阻、电容、电感。",
+   "overlay": [
+    "目标一：认识元件、导线和仪表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "目标一：认识元件、导线和仪表",
+   "scene": "不同颜色、粗细的导线卷",
+   "prompt_en": "Coils of wire in different colors and thicknesses on a shelf. No people.",
+   "narration": "认识各种导线和测量仪表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "目标一：认识元件、导线和仪表",
+   "scene": "交流波形和直流直线两个图标，各连一个电表",
+   "prompt_en": "Two icons: a sine wave and a straight line, each linked to a blank meter. No people.",
+   "narration": "学会交流、直流怎么测，表怎么接。",
+   "overlay": [],
+   "labels": [
+    "交流",
+    "直流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "目标二：功率、功率因数与阻抗",
+   "scene": "灯泡和三相电机图标旁各有一个功率表",
+   "prompt_en": "A lamp icon and a three-phase motor icon, each with a blank wattmeter beside it. No people.",
+   "narration": "目标二：测灯具和三相电路的功率。",
+   "overlay": [
+    "目标二：功率、功率因数与阻抗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "目标二：功率、功率因数与阻抗",
+   "scene": "电阻加线圈、电阻加电容两个小电路图标",
+   "prompt_en": "Two small circuit icons: a resistor with a coil, and a resistor with a capacitor. No people.",
+   "narration": "再学会测量阻抗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "目标三：接地电阻与多地控灯",
+   "scene": "接地极图标和多开关控灯图标并排",
+   "prompt_en": "An earth rod icon next to an icon of one lamp controlled by switches in different places. No people.",
+   "narration": "目标三：测接地电阻，学多地控灯。",
+   "overlay": [
+    "目标三：接地电阻与多地控灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "导论课要认识的器材",
+   "scene": "欣欣站在器材柜前，柜里有电表、电源、示波器",
+   "prompt_en": "The panda mascot stands beside an open equipment cabinet holding analog meters, a regulated power supply and an oscilloscope with blank screen.",
+   "narration": "导论课要认识一批器材。",
+   "overlay": [
+    "导论课要认识的器材"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "导论课要认识的器材",
+   "scene": "变阻器、二极管、晶体管、导线图标",
+   "prompt_en": "Icons of a sliding rheostat, a diode, a transistor and a coil of wire. No people.",
+   "narration": "元件：变阻器、二极管、晶体管、导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "导论课要认识的器材",
+   "scene": "电压表、电流表、功率表、万用表图标",
+   "prompt_en": "Icons of a voltmeter, an ammeter, a wattmeter and a multimeter, all with blank dials. No people.",
+   "narration": "仪表：电压表、电流表、功率表、万用表。",
+   "overlay": [],
+   "labels": [
+    "电压表",
+    "电流表",
+    "功率表",
+    "万用表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "导论课要认识的器材",
+   "scene": "稳压电源、信号发生器、示波器图标",
+   "prompt_en": "Icons of a regulated DC power supply, a function generator and an oscilloscope, all with blank panels. No people.",
+   "narration": "仪器：稳压电源、信号源、示波器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "导论课要认识的器材",
+   "scene": "变压器、直流电动机、发电机、三相电动机图标",
+   "prompt_en": "Icons of a transformer, a DC motor, a generator and a three-phase induction motor. No people.",
+   "narration": "还有变压器和各种电机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "用电安全，人人要懂",
+   "scene": "欣欣举着闪电警示标志",
+   "prompt_en": "The panda mascot holds up an electrical hazard warning sign.",
+   "narration": "做实验之前，先学用电安全。",
+   "overlay": [
+    "用电安全，人人要懂"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "用电安全，人人要懂",
+   "scene": "阿杰回家给家人讲插座安全，家人点头",
+   "prompt_en": "The young male student at home explains socket safety to the older man, pointing at a wall socket; the older man nods.",
+   "narration": "学会了，也给身边的人讲一讲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "有疑问及时提出",
+   "scene": "阿杰举手提问，王老师微笑回应",
+   "prompt_en": "The young male student raises his hand to ask a question, and the safety administrator smiles and answers.",
+   "narration": "有不懂的，随时提问。",
+   "overlay": [
+    "有疑问及时提出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先培训考核，再进实验室",
+   "scene": "王老师给新生上安全课，屏幕空白只有闪电图标",
+   "prompt_en": "The safety administrator gives a safety class to new students in front of a screen showing only an electrical hazard icon.",
+   "narration": "进实验室前，先参加安全培训。",
+   "overlay": [
+    "先培训考核，再进实验室"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先培训考核，再进实验室",
+   "scene": "一张空白证书上盖了绿色对勾章",
+   "prompt_en": "A blank certificate with a green check stamp. No people.",
+   "narration": "考核合格，才能进来做实验。",
+   "overlay": [],
+   "labels": [
+    "考核合格"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先培训考核，再进实验室",
+   "scene": "小研在门口的空白登记本上签名",
+   "prompt_en": "The female graduate student signs a blank logbook at the lab entrance.",
+   "narration": "进出登记，听从指导教师安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "进实验室前的着装与准备",
+   "scene": "小研穿实验服、平底鞋，长发扎起，双手干燥",
+   "prompt_en": "The female graduate student wears a lab coat and closed flat shoes, her long hair tied back, showing dry hands.",
+   "narration": "穿好实验服和不露脚的鞋，长发扎起。",
+   "overlay": [
+    "进实验室前的着装与准备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "进实验室前的着装与准备",
+   "scene": "戒指、手链、手表图标被红叉划掉",
+   "prompt_en": "Icons of a metal ring, a metal bracelet and a metal watch, crossed out with a red X. No people.",
+   "narration": "摘下金属饰品，手要擦干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "进实验室前的着装与准备",
+   "scene": "台面上水杯和饮料被红叉划掉",
+   "prompt_en": "A water cup and a drink bottle on an electrical bench, crossed out with a red X. No people.",
+   "narration": "实验台上不放水杯饮料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "阿杰先拉下实验台电源开关，再动手接线",
+   "prompt_en": "The young male student first switches off the bench power switch, then starts connecting wires on the panel.",
+   "narration": "接线、改线、拆线，一律先断电。",
+   "overlay": [
+    "断电接线，教师检查后通电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "王老师对照电路图逐根检查导线",
+   "prompt_en": "The safety administrator checks each connecting wire against a blank circuit diagram on the bench.",
+   "narration": "接好后，请指导教师检查线路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "王老师点头，阿杰才合上电源开关",
+   "prompt_en": "The safety administrator nods approval, and only then does the young male student switch on the bench power.",
+   "narration": "老师同意了，才能合闸通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "断电接线，教师检查后通电",
+   "scene": "阿杰拉下开关后才去改线",
+   "prompt_en": "The young male student switches off the bench power before moving a wire.",
+   "narration": "要改线？先断电，改完再请老师查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "不带电作业，不私拉乱接",
+   "scene": "手伸向通电接线柱的图标被红叉划掉",
+   "prompt_en": "An icon of a bare hand reaching toward live terminals with a lightning symbol, crossed out with a red X. No people.",
+   "narration": "不带电接线，不用手碰带电部分。",
+   "overlay": [
+    "不带电作业，不私拉乱接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "不带电作业，不私拉乱接",
+   "scene": "插线板串接插线板的图标被红叉划掉",
+   "prompt_en": "An icon of a power strip plugged into another power strip with tangled cords, crossed out with a red X. No people.",
+   "narration": "不私拉电线，不乱接插线板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "不带电作业，不私拉乱接",
+   "scene": "破皮导线图标被红叉划掉，旁边是完好的导线打勾",
+   "prompt_en": "Two icons: a wire with cracked insulation crossed out with a red X, and an intact wire with a green check. No people.",
+   "narration": "导线破损、仪器异常，停用并报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "触电急救：先断电",
+   "scene": "阿杰触电倒在台边，小研冲向墙上总闸",
+   "prompt_en": "The young male student slumps beside a bench after an electric shock; the female graduate student rushes to the main power switch on the wall.",
+   "narration": "有人触电，第一步：立刻切断电源。",
+   "overlay": [
+    "触电急救：先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "触电急救：先断电",
+   "scene": "徒手拉触电者的图标被红叉划掉",
+   "prompt_en": "An icon of a bare hand grabbing a person being shocked, crossed out with a red X. No people.",
+   "narration": "断电前，绝不能徒手去拉触电的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "触电急救：先断电",
+   "scene": "老周拨打电话，手机屏幕空白",
+   "prompt_en": "The older man calls on a mobile phone with a blank screen, looking urgent.",
+   "narration": "断电后，立即拨打 120 求救。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "触电急救：先断电",
+   "scene": "受过培训的老李在旁照护伤者",
+   "prompt_en": "The facility engineer, trained in first aid, kneels to check on the young male student, who now lies on the floor away from the bench.",
+   "narration": "受过培训的人，按规范进行急救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "电气起火：先断电再灭火",
+   "scene": "实验台冒烟，老李先拉下总闸",
+   "prompt_en": "Smoke rises from a bench; the facility engineer pulls down the main power switch first.",
+   "narration": "电气起火，先切断电源。",
+   "overlay": [
+    "电气起火：先断电再灭火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "电气起火：先断电再灭火",
+   "scene": "向冒烟电器泼水的图标被红叉划掉",
+   "prompt_en": "An icon of a bucket of water thrown onto a smoking appliance, crossed out with a red X. No people.",
+   "narration": "带电设备着火，不能用水浇。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "电气起火：先断电再灭火",
+   "scene": "老李用二氧化碳灭火器对准火根",
+   "prompt_en": "The facility engineer aims a carbon dioxide fire extinguisher at the base of a small fire on the bench.",
+   "narration": "用干粉或二氧化碳灭火器扑救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "电气起火：先断电再灭火",
+   "scene": "火势变大，大家沿疏散路线撤离，有人打电话",
+   "prompt_en": "The fire grows; students leave along an evacuation route marked by an exit sign while the security officer calls on a phone.",
+   "narration": "火势控制不住，撤离并拨打 119。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "出了事故要报告",
+   "scene": "小研向王老师报告，保卫处值班员在一旁记录",
+   "prompt_en": "The female graduate student reports to the safety administrator while the security officer takes notes on a blank clipboard.",
+   "narration": "事后报告实验室负责人、学院和保卫处。",
+   "overlay": [
+    "出了事故要报告"
+   ],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "出了事故要报告",
+   "scene": "王老师和老李查看烧坏的设备并在空白表格上记录",
+   "prompt_en": "The safety administrator and the facility engineer inspect a damaged instrument and fill in a blank report form.",
+   "narration": "如实记录，查找原因，防止再犯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "八个实验图标排成两行",
+   "prompt_en": "Eight small experiment icons in two rows: circuit junction, lamps, coil, star and triangle, wattmeters, staircase switches, earth rod, open and short circuit. No people.",
+   "narration": "八个实验，先认设备再动手。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "培训证书、断电开关、教师检查三个打勾图标",
+   "prompt_en": "Three icons with green checks: a training certificate, a switched-off power switch, and a teacher checking a circuit. No people.",
+   "narration": "先培训，断电接线，查过再通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "断电、灭火器、电话三个图标",
+   "prompt_en": "Three icons: a main power switch turned off, a fire extinguisher, and a telephone. No people.",
+   "narration": "触电起火，先断电，再求救报告。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整齐断电的实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a tidy, switched-off electrical lab bench.",
+   "narration": "安全用电，下节课见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
