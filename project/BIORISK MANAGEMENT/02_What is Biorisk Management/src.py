@@ -1,0 +1,111 @@
+# 02_What is Biorisk Management 卡通剧本作者源（原著版）
+# 完全照原片：只保留原片知识点 K1–K7，不本土化、不补充（第一步按原片由生物安全负责人做全面评估）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "三步管好生物风险",
+    "edition": "原著版",
+    "points": {
+        "K1": "生物因子威胁公众健康",
+        "K2": "看不见的病原体",
+        "K3": "管理风险分三步",
+        "K4": "第一步：风险评估",
+        "K5": "第二步：风险减缓",
+        "K6": "第三步：绩效评估",
+        "K7": "三步连成一个过程",
+    },
+    "avoid": ["UMS", "Universiti Malaysia Sabah", "University Malaysia Sabah", "Commonwealth of Learning",
+              "Rodrigues", "Kenneth", "Biotechnology Research Institute"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验楼前，身旁浮现三个台阶图标",
+ "The panda mascot stands in front of a laboratory building with three floating step icons beside it and waves at the camera.",
+ "生物风险怎么管？今天讲三步。", "三步管好生物风险"),
+("开场", "欣欣举起一块画着微生物的空白卡片",
+ "The panda mascot holds up a blank card with a cartoon microbe icon on it.",
+ "这是生物风险管理的入门一课。"),
+# 情景
+("情景", "阿杰拿着空白课程表，皱眉",
+ "The young male student holds a blank course schedule and frowns in a laboratory corridor.",
+ "阿杰要进微生物实验室做课题。"),
+("情景", "阿杰问小研，小研指向墙上的流程图标",
+ "The young male student asks the female graduate student a question; she points to a wall chart with three icons.",
+ "他问：生物风险到底怎么管？"),
+("情景", "小研竖起三根手指",
+ "The female graduate student holds up three fingers and smiles.",
+ "小研说：记住三个步骤就行。"),
+# K1
+("K1", "实验楼外一圈人群图标，中间有微生物图标",
+ "A laboratory building in the center surrounded by small people outline icons, with a microbe icon above the building. No people.",
+ "生物因子一旦失控，", "生物因子威胁公众健康"),
+("K1", "人群图标上出现黄色警示三角",
+ "Yellow warning triangles appear over the people outline icons around the building. No people.",
+ "会严重威胁公众的健康和安全。"),
+# K2
+("K2", "细菌、病毒和其他病原体的卡通图标",
+ "Cartoon icons of a bacterium, a virus particle and another round pathogen floating in the air. No people.",
+ "生物因子包括细菌、病毒，", "看不见的病原体", ["细菌", "病毒", "其他病原体"]),
+("K2", "更多形状各异的小病原体图标",
+ "More small pathogen icons of different shapes join the bacterium and the virus. No people.",
+ "还有其他各种病原体。"),
+("K2", "放大镜下才看见的小颗粒飘向健康人图标",
+ "Under a magnifier, tiny particles drift toward a healthy person outline icon. No people.",
+ "它们能让原本健康的人生病。"),
+# K3
+("K3", "三个台阶，分别画放大镜、盾牌、对勾",
+ "Three steps going up, with a magnifier icon, a shield icon and a check mark icon on each step. No people.",
+ "管理生物风险，有三个基本步骤。", "管理风险分三步", ["风险评估", "风险减缓", "绩效评估"]),
+("K3", "欣欣沿台阶一级级往上走",
+ "The panda mascot walks up the three steps one by one.",
+ "我们一步一步来看。"),
+# K4
+("K4", "老周拿着空白评估表走进实验室",
+ "The older man, as the biosafety officer, walks into the laboratory holding a blank risk assessment form.",
+ "第一步，风险评估。", "第一步：风险评估"),
+("K4", "评估表上画着病原图标和人员图标",
+ "A blank form with a pathogen icon on one side, a person outline icon on the other and an arrow between them. No people.",
+ "看病原会给实验人员带来什么风险。"),
+("K4", "老周逐项查看实验台、样品和设备",
+ "The older man checks the lab bench, the sample rack and the equipment one by one, ticking the blank form.",
+ "由生物安全负责人，做全面评估。"),
+# K5
+("K5", "五块积木叠成一面墙",
+ "Five building blocks stacked into a protective wall, each with a different icon. No people.",
+ "第二步，风险减缓。", "第二步：风险减缓", ["五类控制措施"]),
+("K5", "风险箭头撞到积木墙后变小",
+ "A large red risk arrow hits the five-block wall and comes out the other side as a small orange arrow. No people.",
+ "用五类控制措施，把风险降下来。"),
+("K5", "小研在生物安全柜前操作，穿戴防护",
+ "The female graduate student, in a lab gown, gloves and goggles, works at a biological safety cabinet.",
+ "让生物因子带来的风险变小。"),
+# K6
+("K6", "老周拿着空白检查表巡查",
+ "The older man walks through the laboratory holding a blank checklist.",
+ "第三步，绩效评估。", "第三步：绩效评估"),
+("K6", "检查表上一项项打勾",
+ "A blank checklist being ticked item by item with green check marks. No people.",
+ "看控制措施选得合不合适，"),
+("K6", "老李测试设备，指示灯为绿色",
+ "The facility engineer tests a biological safety cabinet; a green indicator light shines on its blank panel.",
+ "是不是处于良好的运行状态。"),
+# K7
+("K7", "三个台阶连成一条箭头",
+ "The three step icons are joined by one continuous arrow. No people.",
+ "评估、减缓、绩效，三步连起来，", "三步连成一个过程"),
+("K7", "箭头汇成一个大盾牌图标",
+ "The arrow flows into one large shield icon with a biohazard warning sign on it. No people.",
+ "就是生物风险管理的过程。"),
+# 小结
+("小结", "欣欣身旁浮现三个台阶",
+ "The panda mascot stands beside three floating step icons with a magnifier, a shield and a check mark.",
+ "生物因子会威胁公众健康。", "小结"),
+("小结", "放大镜、积木墙、对勾依次亮起",
+ "A magnifier icon, a five-block wall icon and a check mark icon light up one after another. No people.",
+ "先评估，再减缓，后检查绩效。"),
+# 结尾
+("结尾", "欣欣挥手道别",
+ "The panda mascot waves goodbye in front of the laboratory building.",
+ "三步走稳，生物安全，下次见！"),
+]
