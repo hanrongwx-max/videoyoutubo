@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 54 / 59 | 6 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 21 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 17 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 10 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 11 / 23 |
 | Lab Safety Training Series | 13 / 13 | 7 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 6 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 8 / 12 |
@@ -333,6 +333,7 @@
 | Lab Safety Training - Essential Protocols | 04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices | 国内版 | 化学品危害告知：一书一签（国内版） | 44 | 3:40 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/04_OSHA Hazard Communication Standards Safer Labs Through Smarter Practices（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course | 原著版 | 控制层级：从源头管住危害 | 40 | 3:20 | 12 / 0 | [剧本](<Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course/script.md>) |
 | Lab Safety Training - Essential Protocols | 05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course | 国内版 | 控制层级：从源头管住危害（国内版） | 47 | 3:55 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/05_Practical Steps for Laboratory Safety Hierarchy of Controls Training Course（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety | 原著版 | 识别危害，选对防护 | 39 | 3:15 | 15 / 0 | [剧本](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety/script.md>) |
 | Lab Safety Training - Essential Protocols | 06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety | 国内版 | 识别危害，选对防护（国内版） | 47 | 3:55 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/06_Recognizing Lab Hazards and Selecting the Right PPE A Guide to Lab Safety（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory | 国内版 | 职业素养与废物处置（国内版） | 35 | 2:55 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/07_Professionalism and Waste Disposal Key Practices for a Safer Laboratory（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 08_Emergency Response and Safety Training Preparedness and Best Practices | 国内版 | 应急准备与应急培训（国内版） | 54 | 4:30 | 14 / 4 | [剧本](<Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/08_Emergency Response and Safety Training Preparedness and Best Practices（国内版）/审查报告.md>) |
