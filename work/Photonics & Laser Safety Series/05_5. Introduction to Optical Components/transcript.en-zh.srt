@@ -1,0 +1,3819 @@
+1
+00:00:10,060 --> 00:00:16,060
+Hi, you're watching lecture number 5 of the Introduction to Photonics video series.
+大家好，你正在观看光子学入门系列视频的第 5 讲。
+
+2
+00:00:16,060 --> 00:00:20,060
+Today we are going to talk about the optical components.
+今天我们要讲光学元件。
+
+3
+00:00:20,060 --> 00:00:24,060
+So we are slowly moving in the direction of doing practical stuff.
+所以我们正慢慢地朝动手实践的方向迈进。
+
+4
+00:00:24,060 --> 00:00:29,060
+So the concepts and the subject that is going to be introduced today
+所以今天要介绍的概念和主题
+
+5
+00:00:29,060 --> 00:00:35,060
+is going to play an important role in your hands-on part of this course
+将在本课程的动手实践部分中发挥重要作用，
+
+6
+00:00:35,060 --> 00:00:37,060
+that you're going to take at the end of it.
+你们会在课程最后参加这一部分。
+
+7
+00:00:37,060 --> 00:00:43,060
+So again, direction number 5, we are going to introduce the optical components.
+所以再说一遍，在第 5 讲中，我们要介绍光学元件。
+
+8
+00:00:43,060 --> 00:00:49,060
+So specifically, we are going to talk about the thermal, mechanical and chemical properties of optical materials
+具体来说，我们要讲光学材料的热学、力学和化学性质，
+
+9
+00:00:49,060 --> 00:00:54,060
+in addition to their primary optical characteristics.
+以及它们主要的光学特性。
+
+10
+00:00:54,060 --> 00:00:56,060
+So we talked a little bit about optical materials.
+我们之前稍微讲了一点光学材料。
+
+11
+00:00:56,060 --> 00:01:04,060
+Last time we explained and expanded on the topic of index of refraction.
+上次我们解释并展开讲了折射率这个话题。
+
+12
+00:01:04,060 --> 00:01:08,060
+Today we're going to also, as I said, look at some other non-optical properties
+今天，正如我所说，我们还要看一些其他的非光学性质，
+
+13
+00:01:08,060 --> 00:01:13,060
+that are playing an important role in the selection of optical materials
+它们在光学材料的选择中起着重要作用，
+
+14
+00:01:13,060 --> 00:01:17,060
+such as thermal, mechanical and chemical properties.
+比如热学、力学和化学性质。
+
+15
+00:01:17,060 --> 00:01:20,060
+We're also going to look at different optical materials
+我们还要看各种不同的光学材料，
+
+16
+00:01:20,060 --> 00:01:25,060
+and we'll see how we can choose a specific type of optical material
+我们将看到如何为不同光谱区域中的特定用途
+
+17
+00:01:25,060 --> 00:01:31,060
+for a specific use in different types of spectral regions
+选择特定类型的光学材料，
+
+18
+00:01:31,060 --> 00:01:34,060
+such as visible ultraviolet and infrared region.
+比如可见光、紫外和红外区域。
+
+19
+00:01:34,060 --> 00:01:38,060
+And finally, we are going to shift our attention at the end
+最后，我们将在结尾把注意力转到
+
+20
+00:01:38,060 --> 00:01:42,060
+to different types of coatings and filters.
+各种不同类型的镀膜和滤光片上。
+
+21
+00:01:42,060 --> 00:01:52,060
+We'll see that very often coatings are being placed on a transparent material for different reasons.
+我们将看到，出于各种原因，人们常常在透明材料上镀膜。
+
+22
+00:01:52,060 --> 00:01:58,060
+And we're going to explain different processes to achieve that.
+我们将解释实现这一点的各种工艺。
+
+23
+00:01:58,060 --> 00:02:01,060
+And finally, we're going to talk about different types of filters
+最后，我们要讲各种不同类型的滤光片，
+
+24
+00:02:01,060 --> 00:02:04,060
+that you can come across in a photonics lab.
+你们在光子学实验室中可能会遇到它们。
+
+25
+00:02:04,060 --> 00:02:07,060
+In addition to optical properties of optical materials,
+除了光学材料的光学性质之外，
+
+26
+00:02:07,060 --> 00:02:12,060
+there's also other non-optical properties that have to be taken into account.
+还有其他非光学性质需要考虑。
+
+27
+00:02:12,060 --> 00:02:17,060
+Specifically, we are going to talk first about thermal properties of optical materials.
+具体来说，我们首先要讲光学材料的热学性质。
+
+28
+00:02:17,060 --> 00:02:21,060
+Extreme heat or cold and rapid changes in temperature
+极热或极冷以及温度的快速变化
+
+29
+00:02:21,060 --> 00:02:29,060
+can cause temporary or permanent changes in the physical characteristics of an optical material.
+会导致光学材料的物理特性发生暂时或永久的变化。
+
+30
+00:02:29,060 --> 00:02:32,060
+So the goal is to select the optical material
+所以目标是选择这样一种光学材料，
+
+31
+00:02:32,060 --> 00:02:36,060
+where these types of changes are reduced to the minimum.
+使这类变化降到最低。
+
+32
+00:02:36,060 --> 00:02:38,060
+Why is this important to us?
+为什么这对我们很重要？
+
+33
+00:02:38,060 --> 00:02:42,060
+Very often you are going to take a specific type of optical component
+你常常要拿某种
+
+34
+00:02:42,060 --> 00:02:45,060
+made out of optical material.
+用光学材料制成的光学元件。
+
+35
+00:02:45,060 --> 00:02:48,060
+Most of the time it's going to be some sort of glass.
+大多数时候它会是某种玻璃。
+
+36
+00:02:48,060 --> 00:02:51,060
+And in order to establish an optical system,
+为了搭建一个光学系统，
+
+37
+00:02:51,060 --> 00:02:54,060
+you are going to mount these optical components,
+你要安装这些光学元件，
+
+38
+00:02:54,060 --> 00:03:03,060
+be it prisms or optical windows or lenses or mirrors made out of glass.
+不管是用玻璃制成的棱镜、光学窗口、透镜还是反射镜。
+
+39
+00:03:03,060 --> 00:03:10,060
+You're going to mount them into some sort of optical mount that is going to be made out of metal.
+你要把它们装进某种用金属制成的光学镜架中。
+
+40
+00:03:10,060 --> 00:03:16,060
+So that's a specific example where thermal properties of both materials
+所以这就是一个具体的例子，两种材料的热学性质
+
+41
+00:03:16,060 --> 00:03:19,060
+would start playing an important role.
+在这里开始起重要作用。
+
+42
+00:03:19,060 --> 00:03:20,060
+Why?
+为什么呢？
+
+43
+00:03:20,060 --> 00:03:27,060
+Because the thermal expansion of glass and thermal expansion of metal are not going to be the same.
+因为玻璃的热膨胀和金属的热膨胀是不一样的。
+
+44
+00:03:27,060 --> 00:03:31,060
+So if your optical system, if your optical component in the system
+所以如果你的光学系统，如果系统中的光学元件
+
+45
+00:03:31,060 --> 00:03:35,060
+is exposed to variations in the temperature,
+受到温度变化的影响，
+
+46
+00:03:35,060 --> 00:03:39,060
+those variations in temperature may result,
+这些温度变化可能会导致、
+
+47
+00:03:39,060 --> 00:03:45,060
+may cause thermal expansion of glass and metal at different rates,
+可能会使玻璃和金属以不同的速率热膨胀，
+
+48
+00:03:45,060 --> 00:03:51,060
+which in turn is going to result in a specific amount of stress
+这反过来会在光学元件上产生一定的应力，
+
+49
+00:03:51,060 --> 00:03:58,060
+on the optical elements that can be serious to the point where the optical component can even break.
+这种应力可能严重到连光学元件都会破裂的程度。
+
+50
+00:03:58,060 --> 00:04:01,060
+So once more, if a lens is held in a metallic mount,
+所以再说一遍，如果一个透镜装在金属镜架中，
+
+51
+00:04:01,060 --> 00:04:04,060
+the combination is subjected to a high temperature,
+而这个组合受到高温作用，
+
+52
+00:04:04,060 --> 00:04:07,060
+the primary heat loss that's going to be experienced by the lens
+透镜所经历的主要热量散失
+
+53
+00:04:07,060 --> 00:04:10,060
+will be through its edges and onto the mount.
+将通过它的边缘传到镜架上。
+
+54
+00:04:10,060 --> 00:04:14,060
+This will make the window hotter at the center and cooler at the edges.
+这会使窗口中心较热、边缘较冷。
+
+55
+00:04:14,060 --> 00:04:17,060
+And not only that you're introducing the stress,
+这样不仅会引入应力，
+
+56
+00:04:17,060 --> 00:04:23,060
+this condition can also create certain distortion in optical properties to optical material
+这种情况还会使光学材料的光学性质产生一定的畸变，
+
+57
+00:04:23,060 --> 00:04:30,060
+that can significantly have an impact on the performance of your optical system.
+从而对你的光学系统的性能产生显著影响。
+
+58
+00:04:30,060 --> 00:04:35,060
+The table on the right-hand side shows thermal properties of some of the typical materials
+右边的表格显示了我们在光子学实验室中
+
+59
+00:04:35,060 --> 00:04:39,060
+that we are coming across in a photonic slab.
+遇到的一些典型材料的热学性质。
+
+60
+00:04:39,060 --> 00:04:44,060
+You can see a few different types of metals such as copper, silver and steel.
+你可以看到几种不同的金属，比如铜、银和钢。
+
+61
+00:04:44,060 --> 00:04:48,060
+And then down on the bottom you have different crystals and glasses
+然后在下面有各种晶体和玻璃，
+
+62
+00:04:48,060 --> 00:04:55,060
+that would be different types of transparent materials that optical components are made out of.
+它们是制作光学元件的各种透明材料。
+
+63
+00:04:55,060 --> 00:04:58,060
+There's a few things that you can immediately observe.
+有几点你可以马上观察到。
+
+64
+00:04:58,060 --> 00:05:04,060
+You can see that, for example, the thermal conductivity of metals is significantly larger
+你可以看到，例如，金属的热导率明显大于
+
+65
+00:05:04,060 --> 00:05:10,060
+than the thermal conductivity of glass-based types of materials.
+玻璃类材料的热导率。
+
+66
+00:05:10,060 --> 00:05:14,060
+In other words, if these materials are heated,
+换句话说，如果这些材料被加热，
+
+67
+00:05:14,060 --> 00:05:20,060
+it's going to be much easier to take the heat away from the metals
+从金属中带走热量要容易得多，
+
+68
+00:05:20,060 --> 00:05:24,060
+as opposed to the glasses that are going to get hotter.
+而玻璃则会变得更热。
+
+69
+00:05:24,060 --> 00:05:31,060
+Also, the last column in the table shows the amount of thermal expansion
+另外，表格中的最后一列显示了
+
+70
+00:05:31,060 --> 00:05:33,060
+of each of these materials.
+这些材料各自的热膨胀量。
+
+71
+00:05:33,060 --> 00:05:38,060
+And you can see that the metals are expanding at much larger rates
+你可以看到，金属膨胀的速率
+
+72
+00:05:38,060 --> 00:05:41,060
+than most of the crystals and glasses.
+比大多数晶体和玻璃大得多。
+
+73
+00:05:41,060 --> 00:05:50,060
+So if both metals and transparent materials are exposed to the temperature variations,
+所以如果金属和透明材料都受到温度变化的影响，
+
+74
+00:05:50,060 --> 00:05:53,060
+you're going to see a significant thermal expansion of the metals,
+你会看到金属有显著的热膨胀，
+
+75
+00:05:53,060 --> 00:06:00,060
+which may, as we already elaborated, which may cause the stress on the joints
+正如我们已经详细说明的，这可能会在金属与玻璃之间的
+
+76
+00:06:00,060 --> 00:06:02,060
+between the metal and the glass.
+接合处产生应力。
+
+77
+00:06:02,060 --> 00:06:06,060
+There are certain ways how you can quantify the stress
+有一些方法可以定量描述
+
+78
+00:06:06,060 --> 00:06:09,060
+that's caused through the thermal expansion.
+由热膨胀引起的应力。
+
+79
+00:06:09,060 --> 00:06:13,060
+So here's an example of an equation that can be used.
+这里是一个可以使用的方程的例子。
+
+80
+00:06:13,060 --> 00:06:18,060
+So if you want to figure out the stress,
+所以如果你想算出应力，
+
+81
+00:06:18,060 --> 00:06:26,060
+that stress can be quantified through a certain relationship
+这个应力可以通过以下各量之间的
+
+82
+00:06:26,060 --> 00:06:29,060
+between the thickness of the optical component,
+某种关系来定量描述：光学元件的厚度、
+
+83
+00:06:29,060 --> 00:06:33,060
+the diameter of the component,
+元件的直径、
+
+84
+00:06:33,060 --> 00:06:37,060
+pressure difference between the sides of the optical component,
+光学元件两侧的压力差、
+
+85
+00:06:37,060 --> 00:06:40,060
+elasticity of the material, et cetera.
+材料的弹性，等等。
+
+86
+00:06:40,060 --> 00:06:46,060
+So we are not going to go much in detail about implementing the formula
+所以我们不会过多地详细讲如何运用
+
+87
+00:06:46,060 --> 00:06:47,060
+that you are seeing here.
+你在这里看到的这个公式。
+
+88
+00:06:47,060 --> 00:06:50,060
+This formula, this equation is just given for reference
+这个公式、这个方程只是给出来供参考，
+
+89
+00:06:50,060 --> 00:06:53,060
+to show you that you can use certain concepts
+向你说明你可以用热力学中的
+
+90
+00:06:53,060 --> 00:07:00,060
+from a thermodynamic to quantify the amount of stress
+某些概念来定量描述
+
+91
+00:07:00,060 --> 00:07:05,060
+that can be induced in the case of significant thermal variations
+在温度变化显著时，在膨胀系数不同的材料上
+
+92
+00:07:05,060 --> 00:07:11,060
+on materials with different coefficients of expansion.
+可能产生的应力大小。
+
+93
+00:07:11,060 --> 00:07:14,060
+In addition to thermal properties,
+除了热学性质之外，
+
+94
+00:07:14,060 --> 00:07:19,060
+chemical properties of optical materials can also affect
+光学材料的化学性质也会影响
+
+95
+00:07:19,060 --> 00:07:22,060
+the performance of your optical system
+你的光学系统的性能，
+
+96
+00:07:22,060 --> 00:07:26,060
+and would have to be paid close attention.
+必须密切关注。
+
+97
+00:07:26,060 --> 00:07:29,060
+So we're talking about the chemical damage to optical element
+所以我们说的是光学元件的化学损伤，
+
+98
+00:07:29,060 --> 00:07:34,060
+that can be caused by different chemicals
+它可能由各种化学品引起，
+
+99
+00:07:34,060 --> 00:07:39,060
+or chemical ability to etch or dissolve on a transparent medium.
+或者说化学品在透明介质上的刻蚀或溶解能力。
+
+100
+00:07:39,060 --> 00:07:45,060
+So examples of such damage can be the effects of acetone
+这类损伤的例子有丙酮
+
+101
+00:07:45,060 --> 00:07:48,060
+or plastics, as well the effects of water vapor
+对塑料的影响，以及水蒸气
+
+102
+00:07:48,060 --> 00:07:55,060
+on ionic crystal windows such as different types of salt.
+对离子晶体窗口（比如各种盐类）的影响。
+
+103
+00:07:55,060 --> 00:08:00,060
+So this is another important aspect that has to be taken to account
+所以如果你在光子学实验室工作，
+
+104
+00:08:00,060 --> 00:08:02,060
+if you're working in the photonic slab
+根据你所做的实验，
+
+105
+00:08:02,060 --> 00:08:05,060
+based on the experiments that you are performing.
+这是必须考虑的另一个重要方面。
+
+106
+00:08:05,060 --> 00:08:12,060
+So if you are using certain chemicals for different experimentations,
+所以如果你在各种实验中使用某些化学品，
+
+107
+00:08:12,060 --> 00:08:16,060
+you have to pay close attention what is going to be the effect
+你必须密切关注这些化学品
+
+108
+00:08:16,060 --> 00:08:21,060
+of those chemicals on different optical windows, prisms,
+会对你在光学实验室中可能使用的各种光学窗口、棱镜、
+
+109
+00:08:21,060 --> 00:08:27,060
+lenses, and other materials that you may be using in your optical lab.
+透镜和其他材料产生什么影响。
+
+110
+00:08:27,060 --> 00:08:31,060
+Everything that we talked about so far about optical materials
+到目前为止，我们讲的关于光学材料
+
+111
+00:08:31,060 --> 00:08:35,060
+and optical components is going to have a significant impact
+和光学元件的一切，都会对你的决策产生重大影响，
+
+112
+00:08:35,060 --> 00:08:40,060
+on your decision or if you are tasked
+或者说在你接到任务、
+
+113
+00:08:40,060 --> 00:08:45,060
+to select specific optical components for your optical system.
+要为你的光学系统选择特定光学元件时产生重大影响。
+
+114
+00:08:45,060 --> 00:08:49,060
+So as a photonics technician, very often you will be tasked
+所以作为光子学技术员，你常常会接到
+
+115
+00:08:49,060 --> 00:08:53,060
+with a task of establishing a specific optical system
+搭建某个特定光学系统的任务，
+
+116
+00:08:53,060 --> 00:08:57,060
+that is going to also involve selection
+这还会涉及选择
+
+117
+00:08:57,060 --> 00:09:00,060
+and the order of different types of optical components.
+和订购各种不同类型的光学元件。
+
+118
+00:09:00,060 --> 00:09:08,060
+So the prior knowledge of the concepts that we are introducing
+所以事先掌握我们在本讲和上一讲中
+
+119
+00:09:08,060 --> 00:09:13,060
+in this and the previous lecture is going to play an important role
+介绍的概念，对于你能否成功完成
+
+120
+00:09:13,060 --> 00:09:20,060
+in the success of how you are executing that task of selection
+选择和订购光学元件的任务
+
+121
+00:09:20,060 --> 00:09:23,060
+and the order of optical components.
+将起到重要作用。
+
+122
+00:09:23,060 --> 00:09:27,060
+So again, to wrap up, to summarize,
+所以再说一遍，总结一下，
+
+123
+00:09:27,060 --> 00:09:29,060
+when you are selecting an optical component,
+当你选择光学元件时，
+
+124
+00:09:29,060 --> 00:09:32,060
+you have to pay close attention to the optical properties
+你必须密切关注
+
+125
+00:09:32,060 --> 00:09:36,060
+of the materials that your component is going to be made out of.
+制作该元件的材料的光学性质。
+
+126
+00:09:36,060 --> 00:09:41,060
+And not only optical properties, but also thermal properties, chemical properties.
+而且不仅是光学性质，还有热学性质、化学性质。
+
+127
+00:09:42,060 --> 00:09:44,060
+And finally, also the cost.
+最后，还有成本。
+
+128
+00:09:44,060 --> 00:09:47,060
+So very often you are going to be dealing with a limited budget,
+你常常会面对有限的预算，
+
+129
+00:09:47,060 --> 00:09:52,060
+so you have to make a good decision as far as the quality
+所以你必须在所订购光学元件的
+
+130
+00:09:52,060 --> 00:09:54,060
+of the optical components that you are ordering
+质量方面做出好的决策，
+
+131
+00:09:54,060 --> 00:09:58,060
+and as well as the pricing of these components.
+同时还要兼顾这些元件的价格。
+
+132
+00:09:58,060 --> 00:10:02,060
+So the cost of optical components will depend on many factors
+所以光学元件的成本取决于许多因素，
+
+133
+00:10:02,060 --> 00:10:04,060
+that you have to take into account.
+你必须把它们考虑进去。
+
+134
+00:10:04,060 --> 00:10:07,060
+For example, if you're looking at the glass and fused quartz,
+例如，如果你看玻璃和熔融石英，
+
+135
+00:10:07,060 --> 00:10:12,060
+those types of components are comparatively expensive
+这类元件相对昂贵，
+
+136
+00:10:12,060 --> 00:10:16,060
+because these materials have to be grounded and polished
+因为这些材料必须经过研磨和抛光，
+
+137
+00:10:16,060 --> 00:10:20,060
+and then tested and maintained for a correct flatness of curvature.
+然后还要经过检测和维护，以保证正确的平面度和曲率。
+
+138
+00:10:20,060 --> 00:10:24,060
+So in this case, if you are ordering glass
+所以在这种情况下，如果你订购玻璃
+
+139
+00:10:24,060 --> 00:10:26,060
+or fused quartz type of optical components,
+或熔融石英类的光学元件，
+
+140
+00:10:26,060 --> 00:10:28,060
+those would be the most expensive.
+它们会是最贵的。
+
+141
+00:10:28,060 --> 00:10:32,060
+You also have some cheaper alternatives such as plastic optics
+也有一些更便宜的替代品，比如塑料光学元件，
+
+142
+00:10:32,060 --> 00:10:35,060
+because in the case of a plastic optics,
+因为对于塑料光学元件，
+
+143
+00:10:35,060 --> 00:10:37,060
+you don't have to do the polishing,
+你不必进行抛光，
+
+144
+00:10:37,060 --> 00:10:42,060
+but rather you can make them using the molding processes.
+而是可以用模压工艺来制作。
+
+145
+00:10:42,060 --> 00:10:45,060
+Also, if you're looking at optical elements that are made out of crystals,
+另外，如果你看用晶体制成的光学元件，
+
+146
+00:10:45,060 --> 00:10:48,060
+they are also expensive because these crystals have to be grown
+它们也很贵，因为这些晶体必须
+
+147
+00:10:48,060 --> 00:10:51,060
+in a large size with expensive equipment.
+用昂贵的设备生长成大尺寸。
+
+148
+00:10:51,060 --> 00:10:54,060
+So pretty much the type of process that's being used
+所以基本上，制造某种材料或元件
+
+149
+00:10:54,060 --> 00:10:58,060
+to manufacture a specific type of a material or a component
+所用的工艺类型，
+
+150
+00:10:58,060 --> 00:11:03,060
+is going to play an important role in the cost of those components.
+对这些元件的成本起着重要作用。
+
+151
+00:11:03,060 --> 00:11:06,060
+So knowing a little bit about different materials
+所以稍微了解一些不同的材料，
+
+152
+00:11:06,060 --> 00:11:10,060
+and how a specific type of optical component is being made
+以及某种光学元件是如何制造的，
+
+153
+00:11:10,060 --> 00:11:12,060
+would definitely not hurt,
+肯定没有坏处，
+
+154
+00:11:12,060 --> 00:11:15,060
+and it's going to help you make a sound decision
+它会帮助你对你要为光子学实验室
+
+155
+00:11:15,060 --> 00:11:17,060
+about a specific optical component
+购买的特定光学元件
+
+156
+00:11:17,060 --> 00:11:20,060
+that you're going to be buying for your photonic slab.
+做出合理的决策。
+
+157
+00:11:20,060 --> 00:11:23,060
+We also have to keep in mind that most of these optical components
+我们还必须记住，这些光学元件中的大多数
+
+158
+00:11:23,060 --> 00:11:27,060
+would have a specific type of coating
+都会有某种镀膜，
+
+159
+00:11:27,060 --> 00:11:29,060
+that's going to be placed on the optical component
+出于各种原因，
+
+160
+00:11:29,060 --> 00:11:31,060
+for different reasons,
+镀在光学元件上，
+
+161
+00:11:31,060 --> 00:11:35,060
+such as anti-reflective coatings, anti-transmission coatings, et cetera,
+比如增透膜、防透射膜，等等，
+
+162
+00:11:35,060 --> 00:11:38,060
+and all those processes of applying the coating
+而所有这些镀膜工艺
+
+163
+00:11:38,060 --> 00:11:42,060
+would also increase the cost of these elements considerably.
+也会显著增加这些元件的成本。
+
+164
+00:11:42,060 --> 00:11:46,060
+So to summarize, the manufacturing cost of an optical element
+所以总结一下，光学元件的制造成本
+
+165
+00:11:46,060 --> 00:11:48,060
+depends on many factors,
+取决于许多因素：
+
+166
+00:11:48,060 --> 00:11:50,060
+size of the component,
+元件的尺寸、
+
+167
+00:11:50,060 --> 00:11:53,060
+type of a material that's being used,
+所用材料的类型、
+
+168
+00:11:53,060 --> 00:11:55,060
+surface curvature of the element,
+元件的表面曲率，
+
+169
+00:11:55,060 --> 00:11:59,060
+it's easier to obviously make a flat component
+显然，制作平面元件
+
+170
+00:11:59,060 --> 00:12:02,060
+if you have to make some sort of correct component, such as lens.
+要比制作某种曲面元件（比如透镜）容易。
+
+171
+00:12:02,060 --> 00:12:05,060
+Accuracy of the flatness of the curvature
+平面度和曲率的精度
+
+172
+00:12:05,060 --> 00:12:07,060
+is going to play an important role.
+会起重要作用。
+
+173
+00:12:07,060 --> 00:12:10,060
+Of course, it depends on the optical system that you're building.
+当然，这取决于你要搭建的光学系统。
+
+174
+00:12:10,060 --> 00:12:14,060
+You know how the accuracy of the flatness or curvature is important
+你要知道平面度或曲率的精度有多重要，
+
+175
+00:12:14,060 --> 00:12:17,060
+is crucial for the performance of your optical system.
+它对你的光学系统的性能至关重要。
+
+176
+00:12:17,060 --> 00:12:19,060
+You also have to take into account
+你还必须考虑
+
+177
+00:12:19,060 --> 00:12:21,060
+the wavelength of the light to be transmitted.
+要透射的光的波长。
+
+178
+00:12:21,060 --> 00:12:23,060
+Different materials would be reacting
+不同的材料对不同的波长
+
+179
+00:12:23,060 --> 00:12:26,060
+to different types of wavelengths in a different way.
+会有不同的反应。
+
+180
+00:12:26,060 --> 00:12:29,060
+And finally, the types of coatings on the surface,
+最后，还有表面上镀膜的类型，
+
+181
+00:12:29,060 --> 00:12:35,060
+and finally the aberrations that may be on the optical component
+以及光学元件上可能存在的、
+
+182
+00:12:35,060 --> 00:12:37,060
+that would have to be corrected.
+必须加以校正的像差。
+
+183
+00:12:37,060 --> 00:12:40,060
+So all these different factors are going to play an important role
+所以所有这些不同的因素都对
+
+184
+00:12:40,060 --> 00:12:43,060
+in establishing the cost of the optical component
+确定光学元件的成本
+
+185
+00:12:43,060 --> 00:12:45,060
+and how much you're going to pay for them.
+以及你要为它们付多少钱起着重要作用。
+
+186
+00:12:45,060 --> 00:12:47,060
+So as a photonics technician,
+所以作为光子学技术员，
+
+187
+00:12:47,060 --> 00:12:50,060
+you have to know all these different aspects to a certain extent
+你必须在一定程度上了解所有这些不同的方面，
+
+188
+00:12:50,060 --> 00:12:52,060
+to be able to make a sound decision
+才能在为你所搭建的光学系统
+
+189
+00:12:52,060 --> 00:12:54,060
+during the selection process
+选择元件的过程中
+
+190
+00:12:54,060 --> 00:12:57,060
+of the components for the optical system that you're building.
+做出合理的决策。
+
+191
+00:12:57,060 --> 00:12:59,060
+So what you're seeing on this slide
+你在这张幻灯片上看到的
+
+192
+00:12:59,060 --> 00:13:02,060
+are different types of optical components
+是各种不同类型的光学元件，
+
+193
+00:13:02,060 --> 00:13:05,060
+that you may come across in a photonics lab.
+你在光子学实验室中可能会遇到它们。
+
+194
+00:13:05,060 --> 00:13:07,060
+Most of them, if not all,
+它们中的大多数，如果不是全部的话，
+
+195
+00:13:07,060 --> 00:13:09,060
+are made out of transparent materials,
+都是用透明材料制成的，
+
+196
+00:13:09,060 --> 00:13:15,060
+the glass, fuse quartz, plastic optics.
+比如玻璃、熔融石英、塑料光学材料。
+
+197
+00:13:15,060 --> 00:13:21,060
+And the shape would determine the type of the optical component,
+而形状决定了光学元件的类型，
+
+198
+00:13:21,060 --> 00:13:24,060
+so you may come across the front surface mirrors,
+所以你可能会遇到前表面反射镜，
+
+199
+00:13:24,060 --> 00:13:28,060
+you may come across filters, lenses, prisms, et cetera.
+可能会遇到滤光片、透镜、棱镜，等等。
+
+200
+00:13:28,060 --> 00:13:31,060
+Many of these components are also going to have
+这些元件中的许多还会有
+
+201
+00:13:31,060 --> 00:13:33,060
+a specific type of optical coating.
+某种特定的光学镀膜。
+
+202
+00:13:33,060 --> 00:13:37,060
+You can see that certain surfaces of these components
+你可以看到，这些元件的某些表面
+
+203
+00:13:37,060 --> 00:13:39,060
+are shown here in different colors,
+在这里用不同的颜色显示，
+
+204
+00:13:39,060 --> 00:13:42,060
+and those colors are actually representing the optical coating
+而这些颜色实际上代表的是
+
+205
+00:13:42,060 --> 00:13:46,060
+that has been placed on an optical component.
+镀在光学元件上的光学膜层。
+
+206
+00:13:46,060 --> 00:13:50,060
+So we are talking about materials of a specific thickness
+所以我们说的是具有特定厚度
+
+207
+00:13:50,060 --> 00:13:54,060
+and composition that are deposited through a certain process
+和成分的材料，它们通过某种工艺沉积
+
+208
+00:13:54,060 --> 00:13:56,060
+on the surface of the optical components
+在光学元件的表面上，
+
+209
+00:13:56,060 --> 00:13:59,060
+to control the amount of light that's passing through them.
+用来控制通过它们的光量。
+
+210
+00:13:59,060 --> 00:14:03,060
+So these optical coatings have a very, very, very
+所以这些光学膜层的厚度
+
+211
+00:14:03,060 --> 00:14:08,060
+tightly controlled thickness through specific processes
+通过特定的工艺被控制得非常非常非常严格，
+
+212
+00:14:08,060 --> 00:14:10,060
+because the thickness of the optical coating
+因为光学膜层的厚度
+
+213
+00:14:10,060 --> 00:14:13,060
+is going to affect how that optical component
+会影响该光学元件
+
+214
+00:14:13,060 --> 00:14:17,060
+is going to be performing in the optical system.
+在光学系统中的性能。
+
+215
+00:14:17,060 --> 00:14:19,060
+In other words, you know how it is going to control
+换句话说，它会影响
+
+216
+00:14:19,060 --> 00:14:22,060
+the reflection and the transmission of the light
+光通过这层光学膜时
+
+217
+00:14:22,060 --> 00:14:26,060
+as the light is being passed through that optical coating.
+光的反射和透射。
+
+218
+00:14:26,060 --> 00:14:30,060
+This light gives you a brief insight into the two
+这张幻灯片让你简单了解光子学中
+
+219
+00:14:30,060 --> 00:14:35,060
+distinct processes that are being used in the photonics
+用来在光学元件上沉积
+
+220
+00:14:35,060 --> 00:14:39,060
+to deposit or to apply an optical coating
+或施加光学镀膜的
+
+221
+00:14:39,060 --> 00:14:41,060
+onto an optical component.
+两种不同工艺。
+
+222
+00:14:41,060 --> 00:14:46,060
+So those two processes are evaporation and sputtering.
+这两种工艺是蒸发和溅射。
+
+223
+00:14:46,060 --> 00:14:48,060
+In the case of evaporation, the material that's
+在蒸发工艺中，要沉积的材料
+
+224
+00:14:48,060 --> 00:14:51,060
+to be deposited is converted into a vapor
+被热束或电子束
+
+225
+00:14:51,060 --> 00:14:53,060
+using a thermal or electronic beam,
+转化为蒸气，
+
+226
+00:14:53,060 --> 00:14:56,060
+and then that vapor is going to be depositing itself
+然后这些蒸气会沉积
+
+227
+00:14:56,060 --> 00:14:59,060
+onto the optical material substrate.
+在光学材料基底上。
+
+228
+00:14:59,060 --> 00:15:03,060
+So there has to be some sort of control mechanism
+所以必须有某种控制机制
+
+229
+00:15:03,060 --> 00:15:06,060
+as far as the duration of the whole deposition
+来控制整个沉积过程的持续时间，
+
+230
+00:15:06,060 --> 00:15:12,060
+because the longer you continue with this process,
+因为这个过程持续得越久，
+
+231
+00:15:12,060 --> 00:15:17,060
+the thickness of the optical coating is going to increase.
+光学膜层的厚度就越大。
+
+232
+00:15:17,060 --> 00:15:21,060
+So there has to be some sort of dynamic control
+所以必须有某种动态控制
+
+233
+00:15:21,060 --> 00:15:24,060
+or measurement of the thickness that is going to stop
+或厚度测量，在光学膜层
+
+234
+00:15:24,060 --> 00:15:29,060
+the whole process when the optical coating
+达到所需厚度时
+
+235
+00:15:29,060 --> 00:15:32,060
+achieves the desired thickness.
+停止整个过程。
+
+236
+00:15:32,060 --> 00:15:34,060
+The second process is so-called sputtering.
+第二种工艺是所谓的溅射。
+
+237
+00:15:34,060 --> 00:15:38,060
+In this case, we are talking about the use of a high voltage
+在这种情况下，我们说的是使用高电压
+
+238
+00:15:38,060 --> 00:15:40,060
+that creates a heavy ions of plasma,
+产生等离子体重离子，
+
+239
+00:15:40,060 --> 00:15:44,060
+and that plasma is going to bombard so-called target
+这些等离子体会轰击所谓的靶材，
+
+240
+00:15:44,060 --> 00:15:46,060
+and knock out small particles of the target
+把靶材的小颗粒撞出来，
+
+241
+00:15:46,060 --> 00:15:50,060
+that are then going to be condensed on a cooled substrate.
+然后这些颗粒会凝结在冷却的基底上。
+
+242
+00:15:50,060 --> 00:15:53,060
+So the optical coating is a material
+所以光学膜层是一种
+
+243
+00:15:53,060 --> 00:15:56,060
+that has been knocked out of the target
+从放在溅射装置中的靶材上
+
+244
+00:15:56,060 --> 00:15:58,060
+placed in a sputter.
+撞击出来的材料。
+
+245
+00:15:58,060 --> 00:16:01,060
+And then, as I said, heavy ions of plasma
+然后，正如我所说，等离子体重离子
+
+246
+00:16:01,060 --> 00:16:03,060
+are going to be hitting that target
+会撞击这个靶材，
+
+247
+00:16:03,060 --> 00:16:06,060
+and knocking out small particles of the material
+把材料的小颗粒撞出来，
+
+248
+00:16:06,060 --> 00:16:09,060
+that is going to be then applied
+然后这些颗粒会以
+
+249
+00:16:09,060 --> 00:16:12,060
+in the form of a coating on the optical component.
+镀膜的形式施加到光学元件上。
+
+250
+00:16:12,060 --> 00:16:16,060
+Both of these processes are being used in optics
+这两种工艺在光学中都被用来
+
+251
+00:16:16,060 --> 00:16:18,060
+to create optical coatings.
+制作光学镀膜。
+
+252
+00:16:18,060 --> 00:16:21,060
+And in addition to the process of application,
+除了镀膜工艺本身，
+
+253
+00:16:21,060 --> 00:16:23,060
+you also, as I mentioned,
+正如我提到的，你还
+
+254
+00:16:23,060 --> 00:16:26,060
+have to have some sort of thickness control
+必须有某种动态的
+
+255
+00:16:26,060 --> 00:16:31,060
+in a dynamic means where the thickness
+厚度控制手段，在实际镀膜过程中
+
+256
+00:16:31,060 --> 00:16:35,060
+of the layer of coating that's being deposited
+控制通过这两种工艺
+
+257
+00:16:35,060 --> 00:16:38,060
+through these two processes is going to be controlled
+沉积的膜层
+
+258
+00:16:38,060 --> 00:16:41,060
+during the actual process of application.
+的厚度。
+
+259
+00:16:41,060 --> 00:16:44,060
+And when the thickness of the coating,
+而当膜层的厚度，
+
+260
+00:16:44,060 --> 00:16:49,060
+as I said, achieves a desired value,
+正如我所说，达到所需的值时，
+
+261
+00:16:49,060 --> 00:16:52,060
+the whole process would have to stop.
+整个过程就必须停止。
+
+262
+00:16:52,060 --> 00:16:53,060
+As we already mentioned,
+正如我们已经提到的，
+
+263
+00:16:53,060 --> 00:16:56,060
+the thickness control of the optical coating
+光学膜层的厚度控制
+
+264
+00:16:56,060 --> 00:16:58,060
+is extremely important
+极其重要，
+
+265
+00:16:58,060 --> 00:17:00,060
+because the thickness of the coating
+因为膜层的厚度
+
+266
+00:17:00,060 --> 00:17:03,060
+is going to affect its optical properties.
+会影响它的光学性质。
+
+267
+00:17:03,060 --> 00:17:07,060
+So during the process of optical coating application,
+所以在光学镀膜过程中，
+
+268
+00:17:07,060 --> 00:17:09,060
+you have to have some sort of way
+你必须有某种方法
+
+269
+00:17:09,060 --> 00:17:11,060
+of monitoring the thickness
+在光学元件还在真空室中时
+
+270
+00:17:11,060 --> 00:17:14,060
+while the optical component is in the chamber.
+监测厚度。
+
+271
+00:17:14,060 --> 00:17:17,060
+There's two distinct ways how is this being achieved.
+实现这一点有两种不同的方法。
+
+272
+00:17:17,060 --> 00:17:20,060
+The first one is the use of so-called crystal oscillators.
+第一种是使用所谓的晶体振荡器。
+
+273
+00:17:20,060 --> 00:17:23,060
+These crystal oscillators are based on the quartz crystal plates
+这些晶体振荡器基于石英晶片，
+
+274
+00:17:23,060 --> 00:17:25,060
+that are placed in the same plane
+它们放置在与待镀基底
+
+275
+00:17:25,060 --> 00:17:27,060
+as the substrate to be coated.
+同一平面内。
+
+276
+00:17:27,060 --> 00:17:30,060
+It turns out that the resonant frequency
+结果表明，这种振荡器的
+
+277
+00:17:30,060 --> 00:17:34,060
+of oscillation of such an oscillator
+谐振频率
+
+278
+00:17:34,060 --> 00:17:36,060
+is going to depend on the mass of the crystal.
+取决于晶体的质量。
+
+279
+00:17:36,060 --> 00:17:39,060
+So as you are applying the coating
+所以当你往光学元件上
+
+280
+00:17:39,060 --> 00:17:41,060
+onto the optical component,
+镀膜时，
+
+281
+00:17:41,060 --> 00:17:43,060
+its mass is going to increase,
+它的质量会增加，
+
+282
+00:17:43,060 --> 00:17:46,060
+and that increase is going to result
+而质量的增加会导致
+
+283
+00:17:46,060 --> 00:17:48,060
+in the change of the resonant frequency
+晶体振荡器的
+
+284
+00:17:48,060 --> 00:17:50,060
+of the crystal oscillator.
+谐振频率发生变化。
+
+285
+00:17:50,060 --> 00:17:52,060
+And that's going to be the mechanism
+而这就是你
+
+286
+00:17:52,060 --> 00:17:54,060
+how you are controlling the thickness
+控制光学元件厚度、光学膜层厚度的
+
+287
+00:17:54,060 --> 00:17:58,060
+of the optical component, of the optical coating.
+机制。
+
+288
+00:17:58,060 --> 00:18:03,060
+Another way is the use of so-called interference effects.
+另一种方法是利用所谓的干涉效应。
+
+289
+00:18:03,060 --> 00:18:09,060
+So we are observing interference effects
+我们通过透射或反射的光束
+
+290
+00:18:09,060 --> 00:18:12,060
+through a transmitted or reflected optical beam,
+来观察干涉效应，
+
+291
+00:18:12,060 --> 00:18:16,060
+and the transmittance obviously is going to change
+显然，随着膜层厚度的增加，
+
+292
+00:18:16,060 --> 00:18:18,060
+as the thickness of the coating layer is building up,
+透射率会发生变化，
+
+293
+00:18:18,060 --> 00:18:21,060
+and that is going to establish the mechanism
+而这就构成了我们
+
+294
+00:18:21,060 --> 00:18:22,060
+of how we are going to be controlling
+控制光学膜层厚度的
+
+295
+00:18:22,060 --> 00:18:25,060
+the thickness of the optical coating.
+机制。
+
+296
+00:18:25,060 --> 00:18:28,060
+Now that we introduced the process
+既然我们介绍了
+
+297
+00:18:28,060 --> 00:18:32,060
+of the optical coating application,
+光学镀膜的工艺
+
+298
+00:18:32,060 --> 00:18:34,060
+and the way how it's being controlled,
+以及它是如何控制的，
+
+299
+00:18:34,060 --> 00:18:37,060
+let's talk about a few different types
+我们就来讲几种不同类型的
+
+300
+00:18:37,060 --> 00:18:39,060
+of optical coatings that you may come across
+光学镀膜，你可能会遇到它们
+
+301
+00:18:39,060 --> 00:18:43,060
+in the world of optics.
+在光学领域中。
+
+302
+00:18:43,060 --> 00:18:46,060
+The first one is so-called anti-reflection coating.
+第一种是所谓的增透膜。
+
+303
+00:18:46,060 --> 00:18:48,060
+This is a very popular type of coating,
+这是一种非常常用的镀膜，
+
+304
+00:18:48,060 --> 00:18:51,060
+very often is being put on a glass,
+常常镀在玻璃上，
+
+305
+00:18:51,060 --> 00:18:54,060
+as you can see on the right-hand side.
+正如你在右边看到的。
+
+306
+00:18:54,060 --> 00:18:57,060
+So what we are trying to achieve here
+所以我们这里要实现的
+
+307
+00:18:57,060 --> 00:19:00,060
+is a reduction of the reflection.
+是减少反射。
+
+308
+00:19:00,060 --> 00:19:03,060
+So when the light hits this transparent optical medium
+所以当光照射到这种
+
+309
+00:19:03,060 --> 00:19:05,060
+that's made out of glass,
+用玻璃制成的透明光学介质上时，
+
+310
+00:19:05,060 --> 00:19:08,060
+as we already explained in the previous lecture,
+正如我们在上一讲中已经解释过的，
+
+311
+00:19:08,060 --> 00:19:11,060
+there's going to be a certain amount of reflection
+玻璃表面会发生
+
+312
+00:19:11,060 --> 00:19:14,060
+off of the surface of the glass,
+一定量的反射，
+
+313
+00:19:14,060 --> 00:19:17,060
+based on the indices of reflection of the medium
+这取决于玻璃周围介质的
+
+314
+00:19:17,060 --> 00:19:19,060
+that's surrounding the glass
+折射率
+
+315
+00:19:19,060 --> 00:19:23,060
+and the index of reflection of the glass itself.
+以及玻璃本身的折射率。
+
+316
+00:19:23,060 --> 00:19:27,060
+So the way how the coating is going to reduce the reflection
+所以镀膜减少反射的方式
+
+317
+00:19:27,060 --> 00:19:30,060
+is a very creative way.
+非常巧妙。
+
+318
+00:19:30,060 --> 00:19:32,060
+So if you're looking at what's shown here
+所以如果你看这里
+
+319
+00:19:32,060 --> 00:19:34,060
+on the left-hand side,
+左边所示的内容，
+
+320
+00:19:34,060 --> 00:19:36,060
+you can see here basically three layers.
+你基本上可以看到三层。
+
+321
+00:19:36,060 --> 00:19:38,060
+The first layer is the air,
+第一层是空气，
+
+322
+00:19:38,060 --> 00:19:40,060
+and then you have a dielectric coat,
+然后是介质膜层，
+
+323
+00:19:40,060 --> 00:19:43,060
+and then on the bottom you have a glass.
+然后最下面是玻璃。
+
+324
+00:19:43,060 --> 00:19:46,060
+So what's being shown here, again,
+所以这里再次显示的
+
+325
+00:19:46,060 --> 00:19:49,060
+is a complete structure that consists of the glass
+是一个完整的结构，它由玻璃、
+
+326
+00:19:49,060 --> 00:19:51,060
+and then anti-reflective coating
+增透膜
+
+327
+00:19:51,060 --> 00:19:54,060
+and finally the surrounding medium.
+以及周围的介质组成。
+
+328
+00:19:54,060 --> 00:19:56,060
+So as the incident light is coming
+所以当入射光
+
+329
+00:19:56,060 --> 00:20:00,060
+from the face-first medium, in this case, air,
+从第一种介质（这里是空气）射来时，
+
+330
+00:20:00,060 --> 00:20:03,060
+there's going to be a certain amount of reflection
+在第一个前表面上
+
+331
+00:20:03,060 --> 00:20:05,060
+on the first frontal surface
+会发生一定量的反射，
+
+332
+00:20:05,060 --> 00:20:08,060
+that's shown here as a reflected beam number one.
+这里显示为反射光束 1。
+
+333
+00:20:08,060 --> 00:20:13,060
+And then most of the light is going to enter into the coating,
+然后大部分光会进入膜层，
+
+334
+00:20:13,060 --> 00:20:16,060
+and we can see that that transmitted light
+我们可以看到，进入膜层的
+
+335
+00:20:16,060 --> 00:20:20,060
+that entered the coating is going to be reflected again
+那部分透射光会在
+
+336
+00:20:20,060 --> 00:20:25,060
+from the next surface between the coating and the glass.
+膜层与玻璃之间的下一个表面上再次反射。
+
+337
+00:20:25,060 --> 00:20:28,060
+And so that reflection is going to come back
+所以这部分反射光会返回，
+
+338
+00:20:28,060 --> 00:20:33,060
+and certain amount of it is going to pass back into the air.
+其中一部分会穿回空气中。
+
+339
+00:20:33,060 --> 00:20:38,060
+So we are going to end up with two reflected beams,
+所以我们最终会得到两束反射光：
+
+340
+00:20:38,060 --> 00:20:42,060
+the reflected beam one, or so-called primary reflected beam,
+反射光束 1，即所谓的一次反射光束，
+
+341
+00:20:42,060 --> 00:20:44,060
+and then reflected beam number two,
+以及反射光束 2，
+
+342
+00:20:44,060 --> 00:20:46,060
+or secondary reflected beam,
+即二次反射光束，
+
+343
+00:20:46,060 --> 00:20:49,060
+that has been produced through the reflection
+它是由光学膜层与玻璃之间的
+
+344
+00:20:49,060 --> 00:20:52,060
+between the optical coating and the glass.
+反射产生的。
+
+345
+00:20:52,060 --> 00:20:59,060
+So these two reflected beams are going to interfere,
+所以这两束反射光会发生干涉，
+
+346
+00:20:59,060 --> 00:21:03,060
+and we're going to talk about that in lectures
+我们会在本讲之后的
+
+347
+00:21:03,060 --> 00:21:05,060
+that follow this one.
+几讲中讲这个。
+
+348
+00:21:05,060 --> 00:21:07,060
+There's going to be certain, as I said, interference
+正如我所说，会发生一定的干涉，
+
+349
+00:21:07,060 --> 00:21:11,060
+where these two guys will either be adding up
+这两束光要么相加，
+
+350
+00:21:11,060 --> 00:21:14,060
+or canceling out based on their phase,
+要么相消，取决于它们的相位，
+
+351
+00:21:14,060 --> 00:21:17,060
+and this so-called phase is going to be controlled
+而这个所谓的相位
+
+352
+00:21:17,060 --> 00:21:21,060
+by the thickness of the optical coating.
+由光学膜层的厚度来控制。
+
+353
+00:21:21,060 --> 00:21:24,060
+So the phase of the two reflected beams
+所以两束反射光的相位
+
+354
+00:21:24,060 --> 00:21:27,060
+depends on their relative path lengths.
+取决于它们的相对光程。
+
+355
+00:21:27,060 --> 00:21:30,060
+We can see that the path length of the reflected beam one
+我们可以看到，反射光束 1 的光程
+
+356
+00:21:30,060 --> 00:21:33,060
+is significantly different than the path
+与反射光束 2 的光程
+
+357
+00:21:33,060 --> 00:21:35,060
+of the reflected beam number two,
+明显不同，
+
+358
+00:21:35,060 --> 00:21:37,060
+because reflected beam number two
+因为反射光束 2
+
+359
+00:21:37,060 --> 00:21:41,060
+have this extra route to go through,
+要多走这样一段路程，
+
+360
+00:21:41,060 --> 00:21:44,060
+which is equal to the approximately
+它大约等于
+
+361
+00:21:44,060 --> 00:21:48,060
+twice the length of the optical coating.
+光学膜层厚度的两倍。
+
+362
+00:21:48,060 --> 00:21:50,060
+So the path lengths are different,
+所以光程不同，
+
+363
+00:21:50,060 --> 00:21:53,060
+phases are different, and these phases are so adjusted
+相位也不同，而这些相位经过调节，
+
+364
+00:21:53,060 --> 00:21:57,060
+for these two reflected beams to cancel out.
+使这两束反射光相互抵消。
+
+365
+00:21:57,060 --> 00:22:01,060
+In such a case, we have achieved
+在这种情况下，我们就实现了
+
+366
+00:22:01,060 --> 00:22:04,060
+a significant reduction of the reflection,
+反射的显著减少，
+
+367
+00:22:04,060 --> 00:22:06,060
+or maybe to better use the term,
+或者也许更恰当的说法是，
+
+368
+00:22:06,060 --> 00:22:08,060
+instead of using the term reduction,
+不用“减少”这个词，
+
+369
+00:22:08,060 --> 00:22:13,060
+better to use the term of cancellation of the reflections.
+而最好用“消除反射”这个说法。
+
+370
+00:22:14,060 --> 00:22:19,060
+So the reflection looks like it does not occur.
+所以看起来好像没有发生反射。
+
+371
+00:22:21,060 --> 00:22:24,060
+So the effect can be seen on the picture
+这种效果可以在右边的
+
+372
+00:22:24,060 --> 00:22:25,060
+on the right-hand side.
+图片中看到。
+
+373
+00:22:25,060 --> 00:22:29,060
+We can see that the glasses
+我们可以看到，左边图片中的
+
+374
+00:22:29,060 --> 00:22:32,060
+on the picture on the left side
+眼镜
+
+375
+00:22:32,060 --> 00:22:34,060
+don't have optical coating,
+没有光学镀膜，
+
+376
+00:22:34,060 --> 00:22:36,060
+so we see a significant reflection
+所以我们看到镜片表面
+
+377
+00:22:36,060 --> 00:22:38,060
+of the surface of the glass,
+有明显的反射，
+
+378
+00:22:38,060 --> 00:22:41,060
+as opposed to the optical glasses
+而右边图片中的
+
+379
+00:22:41,060 --> 00:22:43,060
+on the picture on the right-hand side,
+光学眼镜
+
+380
+00:22:43,060 --> 00:22:45,060
+where there is no reflection,
+没有反射，
+
+381
+00:22:45,060 --> 00:22:49,060
+where the reflection has been significantly reduced
+通过镀增透膜的工艺，
+
+382
+00:22:49,060 --> 00:22:54,060
+to the process of entire reflection coating application.
+反射被显著减少了。
+
+383
+00:22:54,060 --> 00:22:59,060
+Obviously, the thickness of the optical coating
+显然，光学膜层的厚度
+
+384
+00:22:59,060 --> 00:23:01,060
+is going to play an important role
+对反射会怎样、
+
+385
+00:23:01,060 --> 00:23:07,060
+as far as how the reflection is going to be,
+反射波之间会发生
+
+386
+00:23:07,060 --> 00:23:09,060
+what kind of interference is going to happen
+什么样的干涉
+
+387
+00:23:09,060 --> 00:23:10,060
+between the reflected waves,
+起着重要作用，
+
+388
+00:23:10,060 --> 00:23:12,060
+so there are certain formulas that can be used
+所以有一些公式可以用来
+
+389
+00:23:12,060 --> 00:23:15,060
+to calculate the thickness of the optical coating
+计算能够产生增透性能的
+
+390
+00:23:15,060 --> 00:23:18,060
+that's going to produce entire reflective properties.
+光学膜层的厚度。
+
+391
+00:23:18,060 --> 00:23:20,060
+Specifically on this slide,
+具体来说，在这张幻灯片上，
+
+392
+00:23:20,060 --> 00:23:25,060
+you can see the whole concept being further expanded upon.
+你可以看到对整个概念的进一步展开。
+
+393
+00:23:25,060 --> 00:23:27,060
+So we are talking about, again,
+所以我们说的仍然是
+
+394
+00:23:27,060 --> 00:23:30,060
+two reflected beams, beam number one
+两束反射光，光束 1
+
+395
+00:23:30,060 --> 00:23:32,060
+and beam number two,
+和光束 2，
+
+396
+00:23:32,060 --> 00:23:38,060
+that have a total of 180-degree phase difference
+它们之间总共有 180 度的相位差，
+
+397
+00:23:38,060 --> 00:23:42,060
+that is going to enable so-called
+这会实现所谓的
+
+398
+00:23:42,060 --> 00:23:44,060
+destructive interference or cancellation
+相消干涉，也就是使
+
+399
+00:23:44,060 --> 00:23:46,060
+of these two reflected beams.
+这两束反射光相互抵消。
+
+400
+00:23:46,060 --> 00:23:48,060
+There are certain formulas that can be used
+有一些公式可以用来
+
+401
+00:23:48,060 --> 00:23:51,060
+to calculate the thickness of this coating
+计算这层膜的厚度，
+
+402
+00:23:51,060 --> 00:23:55,060
+that is going to result in a 180-degree phase difference
+使这两束反射光的两个相位之间
+
+403
+00:23:55,060 --> 00:23:59,060
+between the two phases of these two reflected beams,
+产生 180 度的相位差，
+
+404
+00:23:59,060 --> 00:24:02,060
+and if you do the proper math,
+如果你进行正确的数学推导，
+
+405
+00:24:02,060 --> 00:24:03,060
+you're coming up with a formula
+就会得到
+
+406
+00:24:03,060 --> 00:24:05,060
+shown here on the right-hand side
+右边所示的公式，
+
+407
+00:24:05,060 --> 00:24:11,060
+that can be used as a direction
+它可以用作指导，
+
+408
+00:24:11,060 --> 00:24:14,060
+in terms of what kind of thickness
+告诉你光学膜层必须选择
+
+409
+00:24:14,060 --> 00:24:20,060
+would have to be selected for an optical coating
+什么样的厚度，
+
+410
+00:24:20,060 --> 00:24:23,060
+to produce entire reflective properties
+才能在某一特定的单一波长 λ 上
+
+411
+00:24:23,060 --> 00:24:28,060
+at a specific single wavelength of light, lambda.
+产生增透性能。
+
+412
+00:24:28,060 --> 00:24:30,060
+Another popular type of coating
+另一种常用的镀膜
+
+413
+00:24:30,060 --> 00:24:33,060
+is so-called high-reflection coating.
+是所谓的高反射膜。
+
+414
+00:24:33,060 --> 00:24:37,060
+So this type of coating has found many applications.
+这类镀膜已经有了许多应用。
+
+415
+00:24:37,060 --> 00:24:40,060
+This slide here shows a specific type of application,
+这张幻灯片显示了一种具体的应用，
+
+416
+00:24:40,060 --> 00:24:44,060
+for example, in warmer regions of the country
+例如，在国内较温暖的地区，
+
+417
+00:24:44,060 --> 00:24:48,060
+where you want to have good control of air conditioning.
+你想很好地控制空调。
+
+418
+00:24:48,060 --> 00:24:51,060
+You don't want the solar energy
+你不希望太阳能
+
+419
+00:24:51,060 --> 00:25:00,060
+to heat the interior spaces of apartments or houses.
+把公寓或房屋的室内空间晒热。
+
+420
+00:25:00,060 --> 00:25:04,060
+So you want to put a specific type of coating
+所以你想在窗户的前表面上
+
+421
+00:25:04,060 --> 00:25:08,060
+on the frontal surface of the windows
+镀上一种特定的膜，
+
+422
+00:25:08,060 --> 00:25:11,060
+that is going to enable a huge reflection
+使来自太阳的光
+
+423
+00:25:11,060 --> 00:25:15,060
+of the light that is coming from the sun.
+被大量反射。
+
+424
+00:25:15,060 --> 00:25:19,060
+So in such a case, you want to create
+所以在这种情况下，你要制作
+
+425
+00:25:19,060 --> 00:25:22,060
+the so-called high-reflection type of coating
+所谓的高反射膜，
+
+426
+00:25:22,060 --> 00:25:25,060
+that is going to greatly increase the reflection.
+它会大大增加反射。
+
+427
+00:25:25,060 --> 00:25:28,060
+The way how this type of coating works
+这类镀膜的工作原理
+
+428
+00:25:28,060 --> 00:25:32,060
+is very similar to the previous anti-reflection coating.
+与前面的增透膜非常相似。
+
+429
+00:25:32,060 --> 00:25:35,060
+It's just that here the condition is different.
+只是这里的条件不同。
+
+430
+00:25:35,060 --> 00:25:38,060
+So here we would want to establish
+所以这里我们想确定
+
+431
+00:25:38,060 --> 00:25:41,060
+or achieve the thickness of the coating
+或者说实现这样的膜层厚度，
+
+432
+00:25:41,060 --> 00:25:45,060
+that is going to enable the two reflective beams.
+使两束反射光，
+
+433
+00:25:45,060 --> 00:25:47,060
+If you remember our beam one and beam number two,
+如果你还记得我们的光束 1 和光束 2，
+
+434
+00:25:47,060 --> 00:25:50,060
+you want these two beams this time
+这一次你希望这两束光
+
+435
+00:25:50,060 --> 00:25:52,060
+to interfere constructively
+发生相长干涉，
+
+436
+00:25:52,060 --> 00:25:55,060
+or you want them to add up.
+或者说你希望它们相加。
+
+437
+00:25:55,060 --> 00:25:58,060
+And here very often multiple layers
+而这里常常是把多层
+
+438
+00:25:58,060 --> 00:26:00,060
+of dielectric or metallic coatings
+介质膜或金属膜
+
+439
+00:26:00,060 --> 00:26:03,060
+are being placed on a glass or a suitable surface.
+镀在玻璃或合适的表面上。
+
+440
+00:26:03,060 --> 00:26:06,060
+You're going to see this type of application
+你也会经常在激光器中
+
+441
+00:26:06,060 --> 00:26:08,060
+also very often in lasers
+看到这类应用，
+
+442
+00:26:08,060 --> 00:26:11,060
+because every laser has a cavity
+因为每台激光器都有一个谐振腔，
+
+443
+00:26:11,060 --> 00:26:14,060
+that ends with two mirrors on each side
+它的两端各有一个反射镜，
+
+444
+00:26:14,060 --> 00:26:16,060
+and those two mirrors have to have
+而这两个反射镜必须具有
+
+445
+00:26:16,060 --> 00:26:19,060
+very, very good reflective properties.
+非常非常好的反射性能。
+
+446
+00:26:19,060 --> 00:26:21,060
+And the way how that's being achieved
+实现这一点的方法
+
+447
+00:26:21,060 --> 00:26:24,060
+is by creating multiple layers of coating
+是制作多层膜，
+
+448
+00:26:24,060 --> 00:26:26,060
+that is going to result
+从而得到
+
+449
+00:26:26,060 --> 00:26:31,060
+in a very, very efficient type of reflection.
+非常非常高效的反射。
+
+450
+00:26:31,060 --> 00:26:33,060
+So these coatings can be designed
+所以这些镀膜可以设计成
+
+451
+00:26:33,060 --> 00:26:37,060
+for very high reflectance or partial reflectance.
+非常高的反射率或部分反射率。
+
+452
+00:26:37,060 --> 00:26:41,060
+It can be a function of wavelengths.
+它可以是波长的函数。
+
+453
+00:26:41,060 --> 00:26:44,060
+And in the case of high reflection coatings,
+而对于高反射膜，
+
+454
+00:26:44,060 --> 00:26:47,060
+the thickness of the coating is, as I said,
+正如我所说，膜层的厚度
+
+455
+00:26:47,060 --> 00:26:49,060
+adjusted to give constructive interference
+经过调节，使反射光线之间
+
+456
+00:26:49,060 --> 00:26:52,060
+between the reflected rays of light.
+产生相长干涉。
+
+457
+00:26:52,060 --> 00:26:53,060
+High reflectivity can be achieved
+高反射率只能
+
+458
+00:26:53,060 --> 00:26:55,060
+only in a narrow wavelength region
+在很窄的波长范围内实现，
+
+459
+00:26:55,060 --> 00:26:58,060
+and also depends on the angle of incidence.
+而且还取决于入射角。
+
+460
+00:26:58,060 --> 00:27:00,060
+This is important, as I said, in the case of lasers
+正如我所说，这对激光器很重要，
+
+461
+00:27:00,060 --> 00:27:03,060
+because lasers are devices
+因为激光器是
+
+462
+00:27:03,060 --> 00:27:05,060
+that are operating at a single wavelength.
+在单一波长上工作的器件。
+
+463
+00:27:05,060 --> 00:27:08,060
+So using a specific type of coating
+所以使用某种特定的镀膜
+
+464
+00:27:08,060 --> 00:27:11,060
+is going to enable the reflection
+可以使那个特定波长
+
+465
+00:27:11,060 --> 00:27:12,060
+of that specific wavelength
+得到反射，
+
+466
+00:27:12,060 --> 00:27:15,060
+while other wavelengths are going to be passed
+而其他波长则会
+
+467
+00:27:15,060 --> 00:27:16,060
+through the mirrors
+透过反射镜，
+
+468
+00:27:16,060 --> 00:27:18,060
+as they are not playing an important role
+因为它们对激光系统的性能
+
+469
+00:27:18,060 --> 00:27:22,060
+in the performance of a laser system.
+不起重要作用。
+
+470
+00:27:22,060 --> 00:27:24,060
+What you see on the right-hand side
+你在右边看到的
+
+471
+00:27:24,060 --> 00:27:28,060
+are properties of different types of materials
+是不同类型材料的性质，
+
+472
+00:27:28,060 --> 00:27:30,060
+based on the thickness of the layers
+取决于所镀膜层的
+
+473
+00:27:30,060 --> 00:27:31,060
+that have been applied.
+厚度。
+
+474
+00:27:31,060 --> 00:27:33,060
+And you can see here that
+你可以在这里看到，
+
+475
+00:27:33,060 --> 00:27:36,060
+that specific wavelength, lambda sub-zero,
+在那个特定波长 λ0 处，
+
+476
+00:27:36,060 --> 00:27:39,060
+the reflectance is going to increase
+如果你增加更多的膜层，
+
+477
+00:27:39,060 --> 00:27:40,060
+if you add more layers.
+反射率就会提高。
+
+478
+00:27:40,060 --> 00:27:43,060
+So if you have applied just the two layers,
+所以如果你只镀了两层，
+
+479
+00:27:43,060 --> 00:27:46,060
+the reflectance is around 99%
+反射率大约是 99%，
+
+480
+00:27:46,060 --> 00:27:47,060
+and you can make it more efficient.
+而你可以让它更高效。
+
+481
+00:27:47,060 --> 00:27:48,060
+You can make it more reflective
+你可以让它反射得更多，
+
+482
+00:27:48,060 --> 00:27:50,060
+by adding four or even five layers
+方法是增加到四层甚至五层，
+
+483
+00:27:50,060 --> 00:27:55,060
+where the reflectance goes from 99%
+这时反射率从 99%
+
+484
+00:27:55,060 --> 00:27:58,060
+to almost 100%.
+提高到几乎 100%。
+
+485
+00:27:58,060 --> 00:28:02,060
+Every photonic slab has plenty of mirrors.
+每个光子学实验室都有大量反射镜。
+
+486
+00:28:02,060 --> 00:28:03,060
+In the case of mirrors,
+对于反射镜，
+
+487
+00:28:03,060 --> 00:28:05,060
+we are using metallic coatings.
+我们使用金属膜。
+
+488
+00:28:05,060 --> 00:28:09,060
+So we are depositing certain coating
+所以我们沉积某种
+
+489
+00:28:09,060 --> 00:28:12,060
+that's made out of a metal.
+用金属制成的膜层。
+
+490
+00:28:12,060 --> 00:28:13,060
+So in this case,
+所以在这种情况下，
+
+491
+00:28:13,060 --> 00:28:15,060
+we are talking about highly reflective,
+我们说的是高反射、
+
+492
+00:28:15,060 --> 00:28:18,060
+broadband, specular types of reflections,
+宽带的镜面反射，
+
+493
+00:28:18,060 --> 00:28:21,060
+as opposed to the optical coatings
+这与用非金属材料制成的
+
+494
+00:28:21,060 --> 00:28:25,060
+made out of non-metallic materials
+光学膜层不同，
+
+495
+00:28:25,060 --> 00:28:28,060
+where the reflection is focused
+后者的反射集中在
+
+496
+00:28:28,060 --> 00:28:30,060
+on a specific single wavelength.
+某一个特定的单一波长上。
+
+497
+00:28:30,060 --> 00:28:32,060
+Here, we can produce the reflections
+而这里，我们可以在
+
+498
+00:28:32,060 --> 00:28:36,060
+at a large range of different wavelengths.
+很宽的波长范围内产生反射。
+
+499
+00:28:36,060 --> 00:28:38,060
+And you can see here different types of metals
+你可以在这里看到
+
+500
+00:28:38,060 --> 00:28:41,060
+that are being used to produce metallic coatings,
+用来制作金属膜的各种金属，
+
+501
+00:28:41,060 --> 00:28:43,060
+aluminum, gold.
+铝、金。
+
+502
+00:28:43,060 --> 00:28:45,060
+And it's very important to mention
+非常重要的是要提到，
+
+503
+00:28:45,060 --> 00:28:47,060
+that these metals are sensitive to corrosion
+这些金属容易被腐蚀，
+
+504
+00:28:47,060 --> 00:28:49,060
+and therefore must be protected
+因此必须用一层额外的
+
+505
+00:28:49,060 --> 00:28:52,060
+by an additional protective dielectric coating.
+介质保护膜加以保护。
+
+506
+00:28:52,060 --> 00:28:55,060
+Those nuances are addressed in some way
+这些细节在制造反射镜的工厂
+
+507
+00:28:55,060 --> 00:28:58,060
+during the production of the mirrors
+生产反射镜的过程中
+
+508
+00:28:58,060 --> 00:29:01,060
+at the facilities that are making mirrors.
+会以某种方式得到处理。
+
+509
+00:29:01,060 --> 00:29:03,060
+There's a few things that you would want
+有几点你需要
+
+510
+00:29:03,060 --> 00:29:06,060
+to pay close attention to.
+密切关注。
+
+511
+00:29:06,060 --> 00:29:08,060
+You can see that, for example, aluminum
+你可以看到，例如，铝
+
+512
+00:29:08,060 --> 00:29:11,060
+has relatively good properties
+在整个紫外、可见光
+
+513
+00:29:11,060 --> 00:29:14,060
+in terms of reflectance over the entire
+甚至红外范围内
+
+514
+00:29:14,060 --> 00:29:17,060
+ultraviolet and visible
+都有相对较好的
+
+515
+00:29:17,060 --> 00:29:22,060
+and even infrared range that is about 90%.
+反射性能，大约 90%。
+
+516
+00:29:22,060 --> 00:29:24,060
+As opposed to, for example, gold,
+而例如金，
+
+517
+00:29:24,060 --> 00:29:26,060
+where you can see that the reflectance of gold
+你可以看到金的反射率
+
+518
+00:29:26,060 --> 00:29:29,060
+is good in infrared region about 700 nanometers,
+在约 700 纳米的红外区域很好，
+
+519
+00:29:29,060 --> 00:29:32,060
+while as you are moving into the visible region,
+而当你进入可见光区域时，
+
+520
+00:29:32,060 --> 00:29:35,060
+the reflectance of gold is kind of dropping down
+金的反射率就会下降，
+
+521
+00:29:35,060 --> 00:29:40,060
+to almost 40% at a color of violet
+在 400 纳米的紫色处
+
+522
+00:29:40,060 --> 00:29:43,060
+of 400 nanometers.
+降到几乎 40%。
+
+523
+00:29:43,060 --> 00:29:46,060
+Let's slightly change the subject here
+在讲完镀膜之后，
+
+524
+00:29:46,060 --> 00:29:48,060
+after we talked about coatings.
+我们在这里稍微换个话题。
+
+525
+00:29:48,060 --> 00:29:50,060
+We also want to introduce optical filters.
+我们还要介绍光学滤光片。
+
+526
+00:29:50,060 --> 00:29:53,060
+Optical filters are also components
+光学滤光片也是在光子学实验室中
+
+527
+00:29:53,060 --> 00:29:58,060
+that are very frequently used in photonics labs.
+非常常用的元件。
+
+528
+00:29:58,060 --> 00:30:01,060
+You may come across many different types of filters
+你可能会遇到许多不同类型的滤光片，
+
+529
+00:30:01,060 --> 00:30:05,060
+and here the classification is being presented.
+这里给出了分类。
+
+530
+00:30:05,060 --> 00:30:07,060
+So you may come across so-called
+所以你可能会遇到所谓的
+
+531
+00:30:07,060 --> 00:30:10,060
+broadband filters, narrowband filters,
+宽带滤光片、窄带滤光片、
+
+532
+00:30:10,060 --> 00:30:13,060
+ND or neutral density filters,
+ND，即中性密度滤光片、
+
+533
+00:30:13,060 --> 00:30:14,060
+stepped filters, radiometric,
+阶梯滤光片、辐射度
+
+534
+00:30:14,060 --> 00:30:17,060
+photometric filters, polarizing filters,
+滤光片、光度滤光片、偏振滤光片，
+
+535
+00:30:17,060 --> 00:30:21,060
+and also certain special application filters.
+以及某些特殊用途的滤光片。
+
+536
+00:30:21,060 --> 00:30:23,060
+In the following slides,
+在接下来的幻灯片中，
+
+537
+00:30:23,060 --> 00:30:28,060
+we're going to talk about some of the most popular
+我们将讲这个列表中
+
+538
+00:30:28,060 --> 00:30:32,060
+filters from this list.
+一些最常用的滤光片。
+
+539
+00:30:32,060 --> 00:30:35,060
+The first type of filter that we're going to talk about
+我们要讲的第一类滤光片
+
+540
+00:30:35,060 --> 00:30:36,060
+are so-called broadband filters.
+是所谓的宽带滤光片。
+
+541
+00:30:36,060 --> 00:30:39,060
+Here we are talking about the filters that can transmit
+这里我们说的是这样一类滤光片：它能透过
+
+542
+00:30:39,060 --> 00:30:41,060
+a certain band of wavelengths of light
+一定波段的光，
+
+543
+00:30:41,060 --> 00:30:45,060
+while blocking all other wavelengths outside of this band.
+同时挡住这个波段以外的所有其他波长。
+
+544
+00:30:45,060 --> 00:30:49,060
+A typical performance curve of this type of broadband filter
+这类宽带滤光片的典型性能曲线
+
+545
+00:30:49,060 --> 00:30:51,060
+is shown here on this slide.
+显示在这张幻灯片上。
+
+546
+00:30:51,060 --> 00:30:55,060
+You can see a bell-shaped type of a curve.
+你可以看到一条钟形曲线。
+
+547
+00:30:55,060 --> 00:30:58,060
+What this bell-shaped or Gaussian type of a curl
+这条钟形或高斯型曲线
+
+548
+00:30:58,060 --> 00:31:01,060
+represents is basically what kind of wavelengths
+表示的基本上是哪些波长
+
+549
+00:31:01,060 --> 00:31:05,060
+are being passed to this type of a broadband filter.
+能够通过这类宽带滤光片。
+
+550
+00:31:05,060 --> 00:31:07,060
+So at the peak of the bell-shaped curve
+所以钟形曲线的峰值处
+
+551
+00:31:07,060 --> 00:31:09,060
+is your central wavelength.
+就是你的中心波长。
+
+552
+00:31:09,060 --> 00:31:11,060
+That's where you have the most of transmittance.
+那里的透射率最高。
+
+553
+00:31:11,060 --> 00:31:14,060
+So if you select that wavelength,
+所以如果你选择那个波长，
+
+554
+00:31:14,060 --> 00:31:16,060
+most of the light at that wavelength
+那个波长上的大部分光
+
+555
+00:31:16,060 --> 00:31:18,060
+is going to be transmitted to this type of filter.
+都会透过这类滤光片。
+
+556
+00:31:18,060 --> 00:31:21,060
+As you're moving away from the central wavelength,
+当你离开中心波长时，
+
+557
+00:31:21,060 --> 00:31:24,060
+you still have a certain range of wavelengths
+在中心波长附近
+
+558
+00:31:24,060 --> 00:31:26,060
+around that central wavelength
+仍然有一定的波长范围，
+
+559
+00:31:26,060 --> 00:31:29,060
+where the transmittance is relatively high.
+其透射率相对较高。
+
+560
+00:31:29,060 --> 00:31:31,060
+The way how you are establishing
+确定宽带滤光片
+
+561
+00:31:31,060 --> 00:31:34,060
+so-called bandwidth of a broadband filter
+所谓带宽的方法
+
+562
+00:31:34,060 --> 00:31:37,060
+is you're basically looking at the entire range
+基本上是看这样一个完整的
+
+563
+00:31:37,060 --> 00:31:40,060
+of the wavelengths where the transmittance
+波长范围：在其中某一波长的透射率
+
+564
+00:31:40,060 --> 00:31:43,060
+of a specific wavelength is about 50%
+大约是峰值透射率的
+
+565
+00:31:43,060 --> 00:31:45,060
+of the transmittance of the peak.
+50%。
+
+566
+00:31:45,060 --> 00:31:49,060
+So, for example, if the peak has transmittance
+所以例如，如果峰值的透射率
+
+567
+00:31:49,060 --> 00:31:52,060
+of, let's say, 94%,
+是比如说 94%，
+
+568
+00:31:52,060 --> 00:31:55,060
+you're going to be looking at 50% of 94,
+你就要看 94 的 50%，
+
+569
+00:31:55,060 --> 00:31:58,060
+which in our case is going to be 47.
+在我们这里就是 47。
+
+570
+00:31:58,060 --> 00:32:01,060
+So at 47, you're going to look at the two wavelengths
+所以在 47 处，你要找出透射率
+
+571
+00:32:01,060 --> 00:32:07,060
+where the transmittance is going to be dropped down to 47,
+降到 47 的两个波长，
+
+572
+00:32:07,060 --> 00:32:10,060
+and you're going to establish the lower
+从而确定你的通带的下限
+
+573
+00:32:10,060 --> 00:32:13,060
+and then higher end of your passband,
+和上限，
+
+574
+00:32:13,060 --> 00:32:15,060
+and that's going to define the bandwidth
+而这就定义了
+
+575
+00:32:15,060 --> 00:32:18,060
+of the broadband filter.
+宽带滤光片的带宽。
+
+576
+00:32:18,060 --> 00:32:19,060
+Another type of filter to mention
+要提到的另一类滤光片
+
+577
+00:32:19,060 --> 00:32:21,060
+are so-called cutoff filters.
+是所谓的截止滤光片。
+
+578
+00:32:21,060 --> 00:32:23,060
+So these filters would allow radiation
+这类滤光片允许
+
+579
+00:32:23,060 --> 00:32:26,060
+up to a specific wavelength to pass
+某一特定波长以内的辐射通过，
+
+580
+00:32:26,060 --> 00:32:30,060
+while cutting all other remaining wavelengths.
+同时截止其余所有波长。
+
+581
+00:32:30,060 --> 00:32:34,060
+So for this specific type of curve that we're seeing here,
+所以对于我们在这里看到的这条曲线，
+
+582
+00:32:34,060 --> 00:32:37,060
+you can see that transmittance is very high,
+你可以看到，对于大约 650 纳米以上的
+
+583
+00:32:37,060 --> 00:32:40,060
+is about 90% for all the wavelengths
+所有波长，透射率都非常高，
+
+584
+00:32:40,060 --> 00:32:43,060
+above about 650 nanometers.
+大约是 90%。
+
+585
+00:32:43,060 --> 00:32:45,060
+So this kind of filter is going to be passing
+所以这种滤光片会让
+
+586
+00:32:45,060 --> 00:32:48,060
+almost the entire infrared range
+几乎整个红外范围通过，
+
+587
+00:32:48,060 --> 00:32:50,060
+while cutting all the wavelengths
+同时截止 650 纳米以下、
+
+588
+00:32:50,060 --> 00:32:53,060
+below 650 nanometers into the visible range
+进入可见光范围
+
+589
+00:32:53,060 --> 00:32:56,060
+and further into the ultraviolet range.
+并进一步进入紫外范围的所有波长。
+
+590
+00:32:56,060 --> 00:32:57,060
+We're going to find many applications
+我们会发现这类滤光片
+
+591
+00:32:57,060 --> 00:32:59,060
+of these types of filters.
+有许多应用。
+
+592
+00:32:59,060 --> 00:33:04,060
+For example, if you're dealing with a specific type of a laser,
+例如，如果你在使用某种激光器，
+
+593
+00:33:04,060 --> 00:33:08,060
+you want to address the safety concerns.
+你想解决安全问题。
+
+594
+00:33:08,060 --> 00:33:11,060
+That laser is going to have a certain harmful radiation
+那台激光器会在某些波长上
+
+595
+00:33:11,060 --> 00:33:14,060
+at certain wavelengths,
+产生某种有害辐射，
+
+596
+00:33:14,060 --> 00:33:17,060
+so you would have to use a specific type of a filter
+所以你必须使用某种特定的滤光片
+
+597
+00:33:17,060 --> 00:33:19,060
+to cut off those wavelengths
+把这些波长截止掉，
+
+598
+00:33:19,060 --> 00:33:23,060
+so that you don't harm the eye
+这样你就不会伤害
+
+599
+00:33:23,060 --> 00:33:24,060
+of the photonic technician
+使用这类激光器工作的
+
+600
+00:33:24,060 --> 00:33:26,060
+that is working with that type of a laser.
+光子学技术员的眼睛。
+
+601
+00:33:26,060 --> 00:33:30,060
+So specifically here, frequency double YAG laser
+所以这里具体提到了倍频 YAG 激光器，
+
+602
+00:33:30,060 --> 00:33:34,060
+is mentioned that has output of 532 nanometers
+它的输出为 532 纳米，
+
+603
+00:33:34,060 --> 00:33:38,060
+and then also harmful infrared radiation
+同时还有有害的红外辐射，
+
+604
+00:33:38,060 --> 00:33:41,060
+at 10, 60 nanometers.
+波长在 1060 纳米。
+
+605
+00:33:41,060 --> 00:33:46,060
+So very often we would want to cut some of these wavelengths
+所以我们常常想截止其中一些波长，
+
+606
+00:33:46,060 --> 00:33:52,060
+in order to block any kind of potential damage
+以阻止对光学系统
+
+607
+00:33:52,060 --> 00:33:56,060
+to either optical system
+造成任何潜在损坏，
+
+608
+00:33:56,060 --> 00:34:02,060
+or to reduce the risk of any kind of hazard
+或者降低在光子学实验室工作的人员
+
+609
+00:34:02,060 --> 00:34:06,060
+to the people who are working in photonics lab.
+遇到任何危险的风险。
+
+610
+00:34:06,060 --> 00:34:08,060
+Neutral density filters,
+中性密度滤光片，
+
+611
+00:34:08,060 --> 00:34:11,060
+filters are the filters that are not wavelength sensitive.
+这类滤光片对波长不敏感。
+
+612
+00:34:11,060 --> 00:34:13,060
+They're intensity sensitive.
+它们对强度敏感。
+
+613
+00:34:13,060 --> 00:34:15,060
+So we can see on the curves on the right-hand side
+所以我们可以在右边的曲线上看到，
+
+614
+00:34:15,060 --> 00:34:18,060
+that the performance of these filters
+这些滤光片的性能
+
+615
+00:34:18,060 --> 00:34:22,060
+is relatively flat over the entire range of wavelengths.
+在整个波长范围内相对平坦。
+
+616
+00:34:22,060 --> 00:34:27,060
+And these filters are also going to be very, very, very frequently used
+这些滤光片在光学实验室中
+
+617
+00:34:27,060 --> 00:34:28,060
+in an optical lab.
+也会被非常非常非常频繁地使用。
+
+618
+00:34:28,060 --> 00:34:31,060
+So for example, you may have a certain equipment,
+所以例如，你可能有某种设备，
+
+619
+00:34:31,060 --> 00:34:33,060
+certain measurement equipment
+某种测量设备，
+
+620
+00:34:33,060 --> 00:34:36,060
+that is sensitive to the irradiance
+它对辐照度很敏感
+
+621
+00:34:36,060 --> 00:34:42,060
+or the power of the light that is entering their detectors.
+或者说对进入其探测器的光功率很敏感。
+
+622
+00:34:42,060 --> 00:34:45,060
+So you would want to put this type of filter
+所以你就要放上这类滤光片
+
+623
+00:34:45,060 --> 00:34:47,060
+to reduce the intensity of light
+来降低光的强度，
+
+624
+00:34:47,060 --> 00:34:51,060
+so that it becomes non-harmful to the detectors
+使它不会损害
+
+625
+00:34:51,060 --> 00:34:55,060
+that are being used in these measuring devices.
+这些测量设备中所用的探测器。
+
+626
+00:34:55,060 --> 00:34:59,060
+You can see that according to the label
+你可以看到，按照标号，
+
+627
+00:34:59,060 --> 00:35:03,060
+you may have ND30, ND20, ND10 or ND5
+你可能有 ND30、ND20、ND10 或 ND5，
+
+628
+00:35:03,060 --> 00:35:05,060
+and many others.
+以及许多其他型号。
+
+629
+00:35:05,060 --> 00:35:07,060
+And each of these different labels
+而这些不同的标号中的每一个
+
+630
+00:35:07,060 --> 00:35:14,060
+would correspond to a specific amount of transmittance
+都对应于通过这种中性密度滤光片的
+
+631
+00:35:14,060 --> 00:35:18,060
+through that type of neutral density filter.
+特定透射率。
+
+632
+00:35:18,060 --> 00:35:23,060
+The type of the filter depends also on something called optical density
+滤光片的类型还取决于一个叫光密度的东西，
+
+633
+00:35:23,060 --> 00:35:26,060
+or so-called number OD.
+也就是所谓的 OD 值。
+
+634
+00:35:26,060 --> 00:35:30,060
+And we can see that the OD as shown on a plot
+我们可以看到，右边的图上
+
+635
+00:35:30,060 --> 00:35:31,060
+on the right-hand side
+所示的
+
+636
+00:35:31,060 --> 00:35:34,060
+for different types of neutral density filter
+各种中性密度滤光片的 OD 值，
+
+637
+00:35:34,060 --> 00:35:38,060
+can be translated into a specific amount of transmittance
+可以用左边方程中所示的公式
+
+638
+00:35:38,060 --> 00:35:43,060
+using the formula shown in the equation on the left-hand side.
+换算成特定的透射率。
+
+639
+00:35:43,060 --> 00:35:51,060
+So for example, if you are considering the neutral density filter ND20
+所以例如，如果你考虑中性密度滤光片 ND20，
+
+640
+00:35:51,060 --> 00:35:57,060
+you can see that ND20 would have an optical density of about 2.
+你可以看到 ND20 的光密度约为 2。
+
+641
+00:35:57,060 --> 00:36:00,060
+So ND20 has an optical density of about 2.
+所以 ND20 的光密度约为 2。
+
+642
+00:36:00,060 --> 00:36:04,060
+So if you take the OD equal to 2
+所以如果你取 OD 等于 2，
+
+643
+00:36:04,060 --> 00:36:08,060
+and you substitute in the formula on the left-hand side
+代入左边的公式，
+
+644
+00:36:08,060 --> 00:36:11,060
+you're going to have 10 to the negative 2
+你就会得到 10 的负 2 次方，
+
+645
+00:36:11,060 --> 00:36:14,060
+which is equal to 0.01 or 1%.
+它等于 0.01，也就是 1%。
+
+646
+00:36:14,060 --> 00:36:17,060
+In other words, that type of a filter is going to be passing
+换句话说，这种滤光片
+
+647
+00:36:17,060 --> 00:36:20,060
+only 1% of the incident light.
+只会透过 1% 的入射光。
+
+648
+00:36:20,060 --> 00:36:26,060
+So the ND20 filter is going to be passing only 1% of the incident light
+所以 ND20 滤光片只会透过 1% 的入射光，
+
+649
+00:36:26,060 --> 00:36:31,060
+while blocking the rest of 99% of that light.
+同时挡住其余 99% 的光。
+
+650
+00:36:31,060 --> 00:36:35,060
+So that's how you can translate a specific label
+所以这就是你如何根据
+
+651
+00:36:35,060 --> 00:36:39,060
+or type of neutral density filter based on the curve
+右边看到的曲线，
+
+652
+00:36:39,060 --> 00:36:41,060
+that you see on the right-hand side
+把中性密度滤光片的某个标号或类型
+
+653
+00:36:41,060 --> 00:36:44,060
+into a specific amount of transmittance.
+换算成特定的透射率。
+
+654
+00:36:44,060 --> 00:36:47,060
+Let's mention a few other types of filters.
+我们再提几种其他类型的滤光片。
+
+655
+00:36:47,060 --> 00:36:50,060
+Narrow band filter is a type of filter
+窄带滤光片是这样一类滤光片：
+
+656
+00:36:50,060 --> 00:36:53,060
+that's going to pass the light only at a specific wavelength
+它只让某一特定波长的光通过，
+
+657
+00:36:53,060 --> 00:36:57,060
+while the rest of the spectrum is going to get reflected.
+而光谱的其余部分会被反射。
+
+658
+00:36:57,060 --> 00:37:00,060
+So it's kind of like very similar to a broadband filter
+所以它有点像宽带滤光片，非常相似，
+
+659
+00:37:00,060 --> 00:37:03,060
+is just that in this case the whole bandwidth
+只是在这种情况下，整个带宽
+
+660
+00:37:03,060 --> 00:37:07,060
+is very, very, very reduced to a minimum
+被非常非常非常地压缩到最小，
+
+661
+00:37:07,060 --> 00:37:09,060
+almost like a single wavelength is being passed
+几乎就像只有一个波长能
+
+662
+00:37:09,060 --> 00:37:10,060
+through this type of a filter.
+通过这类滤光片。
+
+663
+00:37:10,060 --> 00:37:12,060
+Radiometric filters are the filters
+辐射度滤光片是这样一类滤光片：
+
+664
+00:37:12,060 --> 00:37:15,060
+that are going to transmit light equally at all wavelengths.
+它们在所有波长上均等地透射光。
+
+665
+00:37:15,060 --> 00:37:18,060
+They have found different applications
+它们有各种不同的应用，
+
+666
+00:37:18,060 --> 00:37:20,060
+such as in the case of light detectors
+比如用于光探测器，
+
+667
+00:37:20,060 --> 00:37:23,060
+that often do not have a flat response
+光探测器对光的所有波长
+
+668
+00:37:23,060 --> 00:37:24,060
+to all the wavelengths of light.
+往往没有平坦的响应。
+
+669
+00:37:24,060 --> 00:37:26,060
+And these filters are going to be used
+而这些滤光片就用来
+
+670
+00:37:26,060 --> 00:37:29,060
+to establish that kind of balance
+建立这种平衡，
+
+671
+00:37:29,060 --> 00:37:32,060
+so that the light detector reacts
+使光探测器对感兴趣的
+
+672
+00:37:32,060 --> 00:37:37,060
+to the entire range of wavelengths of interest in the same way.
+整个波长范围的响应都相同。
+
+673
+00:37:37,060 --> 00:37:39,060
+Photometric filters are the filters
+光度滤光片是这样一类滤光片：
+
+674
+00:37:39,060 --> 00:37:43,060
+that are transmitting maximum light at 550 nanometers
+它们在 550 纳米处透射的光最多，
+
+675
+00:37:43,060 --> 00:37:46,060
+and then falls deeply on each side.
+然后在两侧急剧下降。
+
+676
+00:37:46,060 --> 00:37:49,060
+And these type of photometric filters
+而这类光度滤光片
+
+677
+00:37:49,060 --> 00:37:52,060
+are basically a replica of the performance of a human eye.
+基本上复现了人眼的性能。
+
+678
+00:37:52,060 --> 00:37:55,060
+So you can see the two curves on the left-hand side
+所以你可以看到左边的两条曲线，
+
+679
+00:37:55,060 --> 00:38:00,060
+one that represents the filtering properties of a human eye
+一条代表人眼的滤光特性，
+
+680
+00:38:00,060 --> 00:38:04,060
+another one that represents the filtering properties
+另一条代表
+
+681
+00:38:04,060 --> 00:38:06,060
+of a photocell with a photometric filter.
+带光度滤光片的光电池的滤光特性。
+
+682
+00:38:06,060 --> 00:38:11,060
+So there's certain applications where you want to replicate
+所以在某些应用中，你想复现
+
+683
+00:38:11,060 --> 00:38:14,060
+the filtering properties of the human eye
+人眼的滤光特性，
+
+684
+00:38:14,060 --> 00:38:16,060
+and that's where the photometric filters
+这时光度滤光片
+
+685
+00:38:16,060 --> 00:38:18,060
+are going to find their use.
+就派上了用场。
+
+686
+00:38:18,060 --> 00:38:22,060
+And finally, at the end, since we are talking about the filters
+最后，既然我们在讲滤光片，
+
+687
+00:38:22,060 --> 00:38:26,060
+we cannot avoid the subject of a protective eyewear.
+就不能不谈防护眼镜这个话题。
+
+688
+00:38:26,060 --> 00:38:29,060
+This is an important subject that is going to be addressed
+这是一个重要的话题，我们将在本课程最后
+
+689
+00:38:29,060 --> 00:38:33,060
+in a separate lecture at the end of this course.
+用单独的一讲来讨论。
+
+690
+00:38:33,060 --> 00:38:37,060
+We are going to soon talk about the human eye
+我们很快就会讲人眼
+
+691
+00:38:37,060 --> 00:38:41,060
+and its sensitivity to the light
+以及它对光的敏感性，
+
+692
+00:38:41,060 --> 00:38:45,060
+especially to a stronger power of the light beams.
+特别是对较强功率光束的敏感性。
+
+693
+00:38:45,060 --> 00:38:49,060
+So before we talk about that we're going to just
+所以在讲这个之前，我们先
+
+694
+00:38:49,060 --> 00:38:51,060
+introduce the concept of the laser safety
+简单介绍一下激光安全
+
+695
+00:38:51,060 --> 00:38:54,060
+and the safety in the photonics lab.
+以及光子学实验室中的安全概念。
+
+696
+00:38:54,060 --> 00:38:57,060
+We are going to see that certain lasers
+我们将看到，某些功率
+
+697
+00:38:57,060 --> 00:39:00,060
+with the powers above certain thresholds
+超过一定阈值的激光器，
+
+698
+00:39:00,060 --> 00:39:02,060
+and the certain durations of exposure
+在一定的照射时间下，
+
+699
+00:39:02,060 --> 00:39:05,060
+will be having a hazardous effect
+会对人眼产生危险的影响、
+
+700
+00:39:05,060 --> 00:39:08,060
+harmful effect to the human eye.
+有害的影响。
+
+701
+00:39:08,060 --> 00:39:13,060
+So as a photonics technician you would need to know
+所以作为光子学技术员，你需要知道
+
+702
+00:39:13,060 --> 00:39:16,060
+how to properly select a protective safety eyewear
+如何在光子学实验室中
+
+703
+00:39:16,060 --> 00:39:18,060
+in the photonics lab.
+正确选择防护安全眼镜。
+
+704
+00:39:18,060 --> 00:39:21,060
+So again, laser safety is a very important factor
+所以再说一遍，激光安全在激光实验室中
+
+705
+00:39:21,060 --> 00:39:24,060
+in the laser laboratory and this protective eyewear
+是一个非常重要的因素，而这种防护眼镜
+
+706
+00:39:24,060 --> 00:39:28,060
+is nothing else than a specific type of filter
+不过就是一种特定的滤光片，
+
+707
+00:39:28,060 --> 00:39:31,060
+that is blocking light at specific wavelengths
+它挡住特定波长的光，
+
+708
+00:39:31,060 --> 00:39:34,060
+while passing the light at other wavelengths.
+同时让其他波长的光通过。
+
+709
+00:39:34,060 --> 00:39:37,060
+So if you're looking at a human body
+所以如果你看人体
+
+710
+00:39:37,060 --> 00:39:40,060
+with various organs it turns out that the eye
+的各种器官，结果表明眼睛
+
+711
+00:39:40,060 --> 00:39:43,060
+is the most vulnerable to the laser radiation
+对激光辐射最为脆弱，
+
+712
+00:39:43,060 --> 00:39:46,060
+because if the reflected laser beam
+因为如果反射的激光束
+
+713
+00:39:46,060 --> 00:39:51,060
+or incident laser beam is focused on a retina of the eye
+或入射的激光束聚焦在眼睛的视网膜上，
+
+714
+00:39:51,060 --> 00:39:54,060
+it can result in a significant damage
+就会造成严重的损伤，
+
+715
+00:39:54,060 --> 00:39:57,060
+that may be severe and irreparable.
+这种损伤可能非常严重且无法修复。
+
+716
+00:39:57,060 --> 00:40:00,060
+And in order for that to avoid
+为了避免这种情况，
+
+717
+00:40:00,060 --> 00:40:03,060
+you have to use specific type of a protective eyewear,
+你必须使用特定类型的防护眼镜，
+
+718
+00:40:03,060 --> 00:40:06,060
+specific type of safety goggles
+特定类型的安全护目镜，
+
+719
+00:40:06,060 --> 00:40:09,060
+that would have specific types of properties
+它们具有特定的性能
+
+720
+00:40:09,060 --> 00:40:12,060
+and specific type of filtering characteristics.
+和特定的滤光特性。
+
+721
+00:40:12,060 --> 00:40:16,060
+So you can see here one type of laser protective eyewear
+所以你在这里可以看到一种激光防护眼镜，
+
+722
+00:40:16,060 --> 00:40:19,060
+and then also a curve that presents the transmittance
+还有一条曲线，表示通过
+
+723
+00:40:19,060 --> 00:40:22,060
+through this type of laser safety eyewear.
+这种激光安全眼镜的透射率。
+
+724
+00:40:22,060 --> 00:40:27,060
+You can see here that this type of laser safety eyewear
+你可以在这里看到，这种激光安全眼镜
+
+725
+00:40:27,060 --> 00:40:30,060
+is going to have good blocking characteristics
+在 430 及以下的波长上
+
+726
+00:40:30,060 --> 00:40:34,060
+at the wavelengths of 430 and below.
+具有良好的阻挡特性。
+
+727
+00:40:34,060 --> 00:40:37,060
+So this type of laser safety eyewear
+所以这种激光安全眼镜
+
+728
+00:40:37,060 --> 00:40:41,060
+is going to be used for that range, for the ultraviolet range
+会用于那个范围，用于紫外范围，
+
+729
+00:40:41,060 --> 00:40:44,060
+while at the same time is passing the visible range.
+同时又能让可见光范围通过。
+
+730
+00:40:44,060 --> 00:40:46,060
+So if you are dealing with, for example,
+所以如果你在使用，例如，
+
+731
+00:40:46,060 --> 00:40:49,060
+the ultraviolet laser, UV laser
+紫外激光器，UV 激光器，
+
+732
+00:40:49,060 --> 00:40:53,060
+you want to protect your eyes from that UV radiation
+你想保护你的眼睛免受
+
+733
+00:40:53,060 --> 00:40:55,060
+that's coming off of the UV laser
+UV 激光器发出的紫外辐射伤害，
+
+734
+00:40:55,060 --> 00:40:58,060
+and this type of laser safety eyewear
+那么这种具有这种滤光曲线的
+
+735
+00:40:58,060 --> 00:41:00,060
+with this type of filtering curve
+激光安全眼镜
+
+736
+00:41:00,060 --> 00:41:04,060
+may be a good fit for that type of purpose
+可能很适合这种用途
+
+737
+00:41:04,060 --> 00:41:06,060
+or for that type of application.
+或者说这种应用。
+
+738
+00:41:06,060 --> 00:41:10,060
+To conclude the lecture number five of our video series,
+作为我们视频系列第五讲的总结，
+
+739
+00:41:10,060 --> 00:41:15,060
+in this lecture we started considering certain practical aspects
+在本讲中，我们开始考虑光子学实验室的
+
+740
+00:41:15,060 --> 00:41:21,060
+of photonics lab after we introduced light
+某些实际方面，在此之前，我们在前三讲中
+
+741
+00:41:21,060 --> 00:41:24,060
+and important quantities that describes the light
+介绍了光以及描述光的
+
+742
+00:41:24,060 --> 00:41:26,060
+in our first three lectures
+重要物理量，
+
+743
+00:41:26,060 --> 00:41:31,060
+and after we laid out the foundation of photonics
+奠定了光子学的基础，
+
+744
+00:41:31,060 --> 00:41:34,060
+and after we talked about the terminology of light,
+讲了光的术语、
+
+745
+00:41:34,060 --> 00:41:38,060
+the nature of light, its interaction with the media.
+光的本质、光与介质的相互作用。
+
+746
+00:41:38,060 --> 00:41:43,060
+In this lecture we are slowly moving into the photonics lab
+在本讲中，我们正慢慢地走进光子学实验室，
+
+747
+00:41:43,060 --> 00:41:48,060
+and we are trying to see how all those basic foundations
+我们试图看看所有那些
+
+748
+00:41:48,060 --> 00:41:51,060
+of how the light interacts with the media
+关于光如何与介质相互作用的基础知识，
+
+749
+00:41:51,060 --> 00:41:55,060
+can be translated into its use in the photonics lab.
+如何转化为在光子学实验室中的应用。
+
+750
+00:41:55,060 --> 00:41:58,060
+So we started talking about optical materials,
+所以我们开始讲光学材料、
+
+751
+00:41:58,060 --> 00:42:02,060
+optical components, coatings, filters.
+光学元件、镀膜、滤光片。
+
+752
+00:42:03,060 --> 00:42:06,060
+So these types of components
+所以这些类型的元件
+
+753
+00:42:06,060 --> 00:42:09,060
+are going to be frequently used in the photonics lab.
+会在光子学实验室中经常使用。
+
+754
+00:42:09,060 --> 00:42:11,060
+So you're going to be frequently using them
+所以作为光子学技术员，
+
+755
+00:42:11,060 --> 00:42:12,060
+as a photonics technician.
+你会经常使用它们。
+
+756
+00:42:12,060 --> 00:42:15,060
+So it's important to understand the background
+所以理解它们的工作原理
+
+757
+00:42:15,060 --> 00:42:18,060
+behind their operation.
+背后的背景知识很重要。
+
+758
+00:42:18,060 --> 00:42:19,060
+Next time in the lecture six,
+下一次，在第六讲中，
+
+759
+00:42:19,060 --> 00:42:21,060
+we are going to be talking about optical amounts
+我们将讲光学镜架，
+
+760
+00:42:21,060 --> 00:42:26,060
+which is also going to be an important subject
+这也是一个重要的话题，
+
+761
+00:42:26,060 --> 00:42:30,060
+that you should be aware as a photonics technician.
+作为光子学技术员，你应该了解它。
+
+762
+00:42:30,060 --> 00:42:33,060
+So here I'm going to conclude lecture number five.
+所以在这里，我来结束第五讲。
+
+763
+00:42:33,060 --> 00:42:36,060
+I wish you the pleasant rest of the day
+祝你今天余下的时间愉快，
+
+764
+00:42:36,060 --> 00:42:37,060
+and see you next time.
+我们下次见。
