@@ -125,7 +125,7 @@ SHOTS = [
  "怎样安全运输和标识？有统一规则。", "统一的分类和标签制度"),
 ("K11", "标准书封面上一个红框菱形，旁边一本法规书",
  "A blank standard booklet with a red diamond pictogram on the cover next to a blank regulations book. No people.",
- "国内按条例和 GB 30000 系列执行。", None, ["危化品条例", "GB 30000"]),
+ "国内按危化品安全法和 GB 30000 执行。", None, ["危化品安全法", "GB 30000"]),
 ("K11", "生产厂家箱子上贴标签、附说明书",
  "A manufacturer's box with a hazard label on the side and a blank document tucked inside. No people.",
  "厂家要告知危害，提供标签和说明书。"),

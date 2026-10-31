@@ -90,7 +90,7 @@ SHOTS = [
  "说明书是化学品安全的重要一环，", "化学品安全的重要一环，有法规管"),
 ("K6", "王老师翻开空白的法规文本",
  "The safety administrator opens a blank regulation book at a desk.",
- "国内有《危险化学品安全管理条例》，"),
+ "国内有《危险化学品安全法》，"),
 ("K6", "说明书和安全标签并排，上面有法槌图标",
  "A data sheet and a chemical safety label side by side with a gavel icon above them. No people.",
  "要求提供说明书，并贴安全标签。"),

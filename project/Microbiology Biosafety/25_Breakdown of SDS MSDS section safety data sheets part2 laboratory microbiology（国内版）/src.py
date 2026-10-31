@@ -309,7 +309,7 @@ SHOTS = [
  "列出管这种化学品的安全、健康、环境法规。", "", ["安全", "健康", "环境"]),
 ("K27", "王老师查阅法规文件夹",
  "The safety administrator reviews a blank regulation binder at her desk.",
- "国内主要看危险化学品安全管理条例。"),
+ "国内主要看危险化学品安全法。"),
 # K28
 ("K28", "放大镜在一份长名单上找到一行",
  "A magnifying glass finds one highlighted line on a long blank list. No people.",
