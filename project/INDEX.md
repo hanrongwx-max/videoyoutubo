@@ -14,12 +14,12 @@
 | Acids, Bases & Solvents Safety | 12 / 12 | 0 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 0 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 0 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 1 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 0 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
-| General Lab Safety Practices | 8 / 8 | 5 / 8 |
+| General Lab Safety Practices | 8 / 8 | 6 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 5 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 3 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 3 / 7 |
@@ -71,6 +71,7 @@
 | Acids, Bases & Solvents Safety | 10_Module 3 — Hazard Identification & Risk Assessment | 国内版 | 找出危险，评估风险（国内版） | 82 | 6:50 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 11_Module 2 — The OSHA Laboratory Standard | 国内版 | 实验室安全制度：写在纸上，做在手上（国内版） | 70 | 5:50 | 16 / 3 | [剧本](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 12_Module 1 — Introduction to Laboratory Safety | 国内版 | 实验室安全第一课（国内版） | 68 | 5:40 | 15 / 2 | [剧本](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 原著版 | 生物技术实验室安全入门 | 60 | 5:00 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/script.md>) |
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 国内版 | 生物技术实验室安全入门（国内版） | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 02_APB - Plasmids and Bacteria | 国内版 | 质粒、细菌与遗传转化（国内版） | 72 | 6:00 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 03_APB - Conducting Background Research | 国内版 | 做好背景调研，写好研究论文（国内版） | 65 | 5:25 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/03_APB - Conducting Background Research（国内版）/审查报告.md>) |
@@ -200,6 +201,7 @@
 | General Lab Safety Practices | 04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance | 国内版 | 离心机的清洁维护与转子检查（国内版） | 86 | 7:10 | 15 / 7 | [剧本](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/script.md>) · [审查](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 05_How to Use a Centrifuge | 原著版 | 离心机的正确使用 | 43 | 3:35 | 9 / 0 | [剧本](<General Lab Safety Practices/05_How to Use a Centrifuge/script.md>) |
 | General Lab Safety Practices | 05_How to Use a Centrifuge | 国内版 | 离心机的正确使用（国内版） | 70 | 5:50 | 9 / 7 | [剧本](<General Lab Safety Practices/05_How to Use a Centrifuge（国内版）/script.md>) · [审查](<General Lab Safety Practices/05_How to Use a Centrifuge（国内版）/审查报告.md>) |
+| General Lab Safety Practices | 06_Centrifugation Hazards | 原著版 | 离心机的危害与安全使用 | 89 | 7:25 | 25 / 0 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards/script.md>) |
 | General Lab Safety Practices | 06_Centrifugation Hazards | 国内版 | 离心机的危害与安全使用（国内版） | 117 | 9:45 | 25 / 7 | [剧本](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/script.md>) · [审查](<General Lab Safety Practices/06_Centrifugation Hazards（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 07_How to Quantify DNA with a Spectrophotometer | 国内版 | 用紫外分光光度计测DNA浓度（国内版） | 75 | 6:15 | 9 / 7 | [剧本](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer（国内版）/script.md>) · [审查](<General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival | 国内版 | 合成生物学建模与生物安全（国内版） | 124 | 10:20 | 18 / 7 | [剧本](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（国内版）/script.md>) · [审查](<General Lab Safety Practices/08_Modelling for Synthetic Biology - iGEM 2020 Opening Weekend Festival（国内版）/审查报告.md>) |
