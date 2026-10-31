@@ -59,7 +59,7 @@ def names():
 def render(d, table=None):
     tr = load(d)
     segs = tr["segments"]
-    if complete(tr):
+    if complete(tr) and any(s["text"].strip() for s in segs):   # 无语音的视频不生成
         zh = [s.get("zh", "").strip() for s in segs]
         (d / "transcript.zh.srt").write_text("\n".join(
             f"{i}\n{ts(s['start'])} --> {ts(s['end'])}\n{z}\n" for i, (s, z) in enumerate(zip(segs, zh), 1)),
