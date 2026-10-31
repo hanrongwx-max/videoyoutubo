@@ -1,0 +1,440 @@
+{
+ "id": "13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY",
+ "edition": "原著版",
+ "series": "Electrical Safety Series",
+ "title": "漏电保护器的灵敏度档位",
+ "seconds": 155,
+ "source_doc": "course/Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY.md",
+ "author_source": "project/Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/src.py",
+ "points": {
+  "K1": "RCCB也叫RCD",
+  "K2": "发现漏电就断开",
+  "K3": "防止直接接触触电",
+  "K4": "灵敏度：10到1000毫安",
+  "K5": "不同档位，用途不同",
+  "K6": "防人身电击用30毫安",
+  "K7": "100毫安：不得已才用",
+  "K8": "300毫安只管防火和设备"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在楼道的配电箱旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a closed wall-mounted electrical distribution box in a bright building corridor and waves at the camera.",
+   "narration": "你好！今天聊聊RCCB的额定值。",
+   "overlay": [
+    "漏电保护器的灵敏度档位"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "RCCB模块图标旁，一个刻度盘从小指到大",
+   "prompt_en": "An icon of a residual current breaker module next to a dial gauge whose needle sweeps from low to high. No people.",
+   "narration": "同样是RCCB，灵敏度可不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李打开配电箱，阿杰在旁边好奇地看着一排模块",
+   "prompt_en": "The facility engineer opens a distribution box, and the young male student looks curiously at a row of blank breaker modules inside.",
+   "narration": "老李检修配电箱，阿杰凑过来看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰指着两个外形相似、标签空白的模块",
+   "prompt_en": "The young male student points at two similar-looking breaker modules with blank labels.",
+   "narration": "“这两个长得一样，有什么不同？”",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李笑着把欣欣请到箱前",
+   "prompt_en": "The facility engineer smiles and gestures toward the panda mascot, who walks up to the box.",
+   "narration": "老李说：区别就在灵敏度上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "RCCB也叫RCD",
+   "scene": "欣欣举起一个空白标签的RCCB模型",
+   "prompt_en": "The panda mascot holds up a model of a residual current breaker module with a blank label and a small test button.",
+   "narration": "RCCB，就是剩余电流断路器。",
+   "overlay": [
+    "RCCB也叫RCD"
+   ],
+   "labels": [
+    "RCCB"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "RCCB也叫RCD",
+   "scene": "一个模块图标，周围出现三个空白名牌，用箭头连到同一个模块",
+   "prompt_en": "Three blank name tags with arrows all pointing to the same breaker module icon. No people.",
+   "narration": "它也叫RCD，剩余电流装置。",
+   "overlay": [],
+   "labels": [
+    "RCD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "发现漏电就断开",
+   "scene": "接线示意：RCCB 串在线路里，设备外壳连着地线",
+   "prompt_en": "A wiring diagram: a breaker module in the supply line, and the metal case of a machine connected to an earth wire. No people.",
+   "narration": "它是一种接线保护器件。",
+   "overlay": [
+    "发现漏电就断开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "发现漏电就断开",
+   "scene": "一小股电流从设备外壳漏到地线，箭头变红",
+   "prompt_en": "A small red arrow of current leaks from the metal case of a machine into the earth wire. No people.",
+   "narration": "检测到电流漏到地线，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "发现漏电就断开",
+   "scene": "模块开关啪地跳下，后面的线路变暗",
+   "prompt_en": "The breaker module lever snaps down to off and the circuit behind it goes dark. No people.",
+   "narration": "它就立刻断开电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防止直接接触触电",
+   "scene": "人形图标的手碰到裸露带电导线，闪电符号",
+   "prompt_en": "A person pictogram whose hand touches a bare live wire, with a lightning bolt symbol. No people.",
+   "narration": "手直接碰到带电部分，最危险。",
+   "overlay": [
+    "防止直接接触触电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防止直接接触触电",
+   "scene": "电流经人形图标流向地面，模块随即跳闸，人形周围出现盾牌",
+   "prompt_en": "Current flows through a person pictogram to the ground, the breaker module trips at once, and a shield appears around the pictogram. No people.",
+   "narration": "RCCB能防止这种电击，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防止直接接触触电",
+   "scene": "盾牌图标护住心脏图标",
+   "prompt_en": "A shield icon protecting a heart icon. No people.",
+   "narration": "防止触电死亡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灵敏度：10到1000毫安",
+   "scene": "欣欣指着一排从小到大排列的刻度格",
+   "prompt_en": "The panda mascot points at a row of blank scale blocks arranged from small to large.",
+   "narration": "它的额定值，叫剩余电流灵敏度。",
+   "overlay": [
+    "灵敏度：10到1000毫安"
+   ],
+   "labels": [
+    "灵敏度"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灵敏度：10到1000毫安",
+   "scene": "六个大小递增的空白模块图标排成一排",
+   "prompt_en": "Six blank breaker module icons in a row, each slightly larger than the one before. No people.",
+   "narration": "10、30、100、300、500、1000毫安。",
+   "overlay": [],
+   "labels": [
+    "10、30mA",
+    "100mA",
+    "300mA",
+    "500mA",
+    "1000mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灵敏度：10到1000毫安",
+   "scene": "刻度盘指针在小的一端，旁边一个很小的漏电箭头就让开关跳下",
+   "prompt_en": "A dial needle at the low end, and a tiny leakage arrow is enough to make the breaker lever drop. No people.",
+   "narration": "档位越小，越小的漏电就会跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不同档位，用途不同",
+   "scene": "三个模块分别连到人形、房屋火焰、机器三个图标",
+   "prompt_en": "Three breaker module icons, each linked by a line to a different icon: a person pictogram, a house with a flame and a machine. No people.",
+   "narration": "不同档位，保护的对象不同。",
+   "overlay": [
+    "不同档位，用途不同"
+   ],
+   "labels": [
+    "保护人",
+    "防火",
+    "护设备"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不同档位，用途不同",
+   "scene": "小研拿着空白清单，对着三个图标打勾",
+   "prompt_en": "The female graduate student holds a blank checklist and ticks beside three icons on a board.",
+   "narration": "先想清楚保护谁，再选档位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "防人身电击用30毫安",
+   "scene": "人形图标旁的模块，刻度盘指针在30毫安",
+   "prompt_en": "A breaker module next to a person pictogram, with a dial needle near the sensitive end. No people.",
+   "narration": "要防人身电击，推荐用30毫安。",
+   "overlay": [
+    "防人身电击用30毫安"
+   ],
+   "labels": [
+    "30mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "防人身电击用30毫安",
+   "scene": "30毫安模块挡住经人形图标的电流，盾牌打勾",
+   "prompt_en": "A sensitive breaker module blocks a current arrow through a person pictogram, with a shield and a green check. No people.",
+   "narration": "30毫安，是保护人的那一档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "100毫安：不得已才用",
+   "scene": "刻度盘指针往大的一端挪了一格",
+   "prompt_en": "A dial needle moves one step toward the high end. No people.",
+   "narration": "100毫安，也还有一定电击防护。",
+   "overlay": [
+    "100毫安：不得已才用"
+   ],
+   "labels": [
+    "100mA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "100毫安：不得已才用",
+   "scene": "盾牌图标有一半变淡",
+   "prompt_en": "A shield icon with half of it faded. No people.",
+   "narration": "但保护打了折扣。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "100毫安：不得已才用",
+   "scene": "老李看着空白图纸，摇头后又点头",
+   "prompt_en": "The facility engineer studies a blank wiring drawing, first shaking his head and then nodding reluctantly.",
+   "narration": "只有用不了30毫安时，才用它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "300毫安只管防火和设备",
+   "scene": "刻度盘指针在大的一端，旁边是房屋火焰和机器图标",
+   "prompt_en": "A dial needle at the high end, next to icons of a house with a flame and a machine. No people.",
+   "narration": "300毫安，用来防火、保护设备。",
+   "overlay": [
+    "300毫安只管防火和设备"
+   ],
+   "labels": [
+    "300mA",
+    "防火",
+    "护设备"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "300毫安只管防火和设备",
+   "scene": "电缆老化处缓慢漏电，模块跳闸，火苗图标熄灭",
+   "prompt_en": "Slow leakage at an aged cable section, the breaker module trips, and a small flame icon goes out. No people.",
+   "narration": "漏电发热要起火时，它能切断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "300毫安只管防火和设备",
+   "scene": "大档位模块护着人形图标，打红叉",
+   "prompt_en": "A high-range breaker module placed in front of a person pictogram, crossed out with a red X. No people.",
+   "narration": "300毫安绝不能用来防电击。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "300毫安只管防火和设备",
+   "scene": "两个模块上下排列：上面防火档，下面高灵敏度档",
+   "prompt_en": "Two breaker module icons stacked: an upper one marked with a flame icon and a lower one marked with a person icon. No people.",
+   "narration": "防火和防电击，各司其职。",
+   "overlay": [],
+   "labels": [
+    "300mA 防火",
+    "30mA 防电击"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在配电箱旁，身后是刻度盘图标",
+   "prompt_en": "The panda mascot stands beside the distribution box with a dial gauge icon behind.",
+   "narration": "RCCB，发现漏电就断开。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "人形图标配最灵敏档，房屋火焰配大档位",
+   "prompt_en": "A person pictogram paired with a sensitive breaker icon, and a house with a flame paired with a high-range breaker icon. No people.",
+   "narration": "防电击用30毫安，300毫安防火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "刻度盘指针停在100毫安，旁边半个盾牌",
+   "prompt_en": "A dial needle resting one step above the sensitive end next to a half faded shield. No people.",
+   "narration": "100毫安，只在没办法时才用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、老李和阿杰在配电箱前一起向镜头挥手",
+   "prompt_en": "The panda mascot, the facility engineer and the young male student wave goodbye at the camera in front of the closed distribution box.",
+   "narration": "选对档位，安全用电，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

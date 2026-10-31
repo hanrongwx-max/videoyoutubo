@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 12 / 25 |
+| Electrical Safety Series | 25 / 25 | 13 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -350,6 +350,7 @@
 | Electrical Safety Series | 11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE | 国内版 | 漏电保护器的作用和类型（国内版） | 44 | 3:40 | 12 / 3 | [剧本](<Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/11_GFCI - Ground Fault Circuit Interrupter Types of GFCI HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H | 原著版 | 用电安全检查表 | 54 | 4:30 | 29 / 0 | [剧本](<Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H/script.md>) |
 | Electrical Safety Series | 12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H | 国内版 | 用电安全检查表（国内版） | 62 | 5:10 | 29 / 4 | [剧本](<Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（国内版）/script.md>) · [审查](<Electrical Safety Series/12_Electrical Safety Inspection Electrical Inspection Checklist Electrical Safety H（国内版）/审查报告.md>) |
+| Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 原著版 | 漏电保护器的灵敏度档位 | 31 | 2:35 | 8 / 0 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 国内版 | 漏电保护器的灵敏度档位（国内版） | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/审查报告.md>) |
 | Electrical Safety Series | 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID | 国内版 | 用电安全十五问（国内版） | 79 | 6:35 | 15 / 5 | [剧本](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/script.md>) · [审查](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/审查报告.md>) |
 | Electrical Safety Series | 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview | 国内版 | 安全知识四关挑战（国内版） | 107 | 8:55 | 47 / 5 | [剧本](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview（国内版）/script.md>) · [审查](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview（国内版）/审查报告.md>) |
