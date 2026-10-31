@@ -1,0 +1,1130 @@
+{
+ "id": "02_Lesson 6 How to Cut Long Materials Using Passthrough？",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "超长板材的分段激光切割",
+ "seconds": 420,
+ "source_doc": "course/Cleanroom & Equipment Safety/02_Lesson 6 How to Cut Long Materials Using Passthrough？.md",
+ "author_source": "project/Cleanroom & Equipment Safety/02_Lesson 6 How to Cut Long Materials Using Passthrough？/src.py",
+ "points": {
+  "K1": "这一课：切比幅面还长的板",
+  "K2": "板材从侧槽穿进去",
+  "K3": "两端等距，拧紧夹具",
+  "K4": "装切割嘴，接好气源",
+  "K5": "封闭字母要留连接筋",
+  "K6": "把图形合成一个整体",
+  "K7": "图案太长，就分两段",
+  "K8": "分割图案，去掉多余线",
+  "K9": "设置参数，留出边距",
+  "K10": "校准、走边框，切第一段",
+  "K11": "平移板材，重新对齐",
+  "K12": "红光找到接缝点",
+  "K13": "箭头对准十字，记下坐标",
+  "K14": "对不上？算出偏转角",
+  "K15": "走边框检查，切第二段",
+  "K16": "推出板材，检查接缝",
+  "S1": "准入培训与授权使用",
+  "S2": "侧槽开着，防光防火花",
+  "S3": "手伸进机内前：停光停机",
+  "S4": "板材割手又烫手",
+  "S5": "烟尘排风与防火",
+  "S6": "急停与应急报告",
+  "S7": "气源压力与管路",
+  "S8": "用后收尾"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台封闭式激光切割机旁，机器两侧各有一条窄槽",
+   "prompt_en": "The panda mascot stands beside a large enclosed laser cutting machine with a narrow slot on each side and waves at the camera.",
+   "narration": "这一课：怎么切比机器还长的板。",
+   "overlay": [
+    "超长板材的分段激光切割"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "一块长金属板穿过机器，两侧都露在外面的示意图",
+   "prompt_en": "Diagram of a long metal sheet passing straight through an enclosed cutting machine, sticking out of both side slots. No people.",
+   "narration": "秘诀就是两侧的穿透槽。",
+   "overlay": [],
+   "labels": [
+    "左侧槽",
+    "右侧槽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着一张很长的门牌设计图，皱眉看着机器的工作台",
+   "prompt_en": "The female graduate student holds a long blank sign drawing and frowns at the cutting bed of the enclosed machine.",
+   "narration": "小研要做一块长门牌，比工作台还长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿尺子比画，摇头",
+   "prompt_en": "The young male student measures the cutting bed with a tape and shakes his head.",
+   "narration": "阿杰说：放不下，只能锯短了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李笑着指向机器侧面的窄槽",
+   "prompt_en": "The facility engineer smiles and points to the narrow slot on the side of the machine.",
+   "narration": "老李说：分两段切，照样能接上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "关键是对得准，还要守住安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：切比幅面还长的板",
+   "scene": "一块薄不锈钢长板平放在台面上，旁边虚线框表示幅面",
+   "prompt_en": "A long thin stainless steel sheet lies on a table; a dashed rectangle beside it shows the much shorter cutting area. No people.",
+   "narration": "以一块薄不锈钢板为例。",
+   "overlay": [
+    "这一课：切比幅面还长的板"
+   ],
+   "labels": [
+    "板长",
+    "幅面"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课：切比幅面还长的板",
+   "scene": "长板被分成左右两段的示意，中间一条接缝",
+   "prompt_en": "Diagram of the long sheet divided into a left part and a right part with a joint line in the middle. No people.",
+   "narration": "切完一段，挪一挪，再切另一段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "板材从侧槽穿进去",
+   "scene": "小研戴着防割手套，把长板从左侧槽推进机器",
+   "prompt_en": "The female graduate student wearing cut-resistant gloves slides the long sheet into the left side slot of the enclosed machine.",
+   "narration": "切割前，把板材从侧槽穿进去。",
+   "overlay": [
+    "板材从侧槽穿进去"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "板材从侧槽穿进去",
+   "scene": "左右两个侧槽都亮起的示意",
+   "prompt_en": "Diagram of the machine seen from the front with both side slots highlighted in green. No people.",
+   "narration": "左右两边都能进，这次从左往右。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "两端等距，拧紧夹具",
+   "scene": "板材两端到机架的距离用两个红色箭头标出，长度相同",
+   "prompt_en": "Top view diagram of the sheet inside the machine with two red arrows at both ends showing equal distance to the machine frame. No people.",
+   "narration": "固定前，两端到机架的距离要相等。",
+   "overlay": [
+    "两端等距，拧紧夹具"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "两端等距，拧紧夹具",
+   "scene": "板材歪斜的示意图打叉",
+   "prompt_en": "Diagram of the sheet lying slightly crooked in the machine, crossed out with a red X. No people.",
+   "narration": "不相等，板材就会斜过去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "两端等距，拧紧夹具",
+   "scene": "戴手套的手拧紧两侧夹具旋钮",
+   "prompt_en": "Close view of gloved hands tightening the fixture knobs on both sides of the cutting bed.",
+   "narration": "对齐后，拧紧两侧的夹具旋钮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "装切割嘴，接好气源",
+   "scene": "老李把一个铜色切割嘴装到切割头上",
+   "prompt_en": "The facility engineer screws a copper cutting nozzle onto the cutting head inside the open machine.",
+   "narration": "装上合适的切割嘴。",
+   "overlay": [
+    "装切割嘴，接好气源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "装切割嘴，接好气源",
+   "scene": "空压机通过软管连到机器，压力表指针稳定",
+   "prompt_en": "An air compressor connected to the machine by a hose, its blank pressure gauge showing a steady needle. No people.",
+   "narration": "用空压机供气，压力按设定值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "封闭字母要留连接筋",
+   "scene": "电脑屏幕上一个空心字母O被切掉只剩圆洞的示意",
+   "prompt_en": "A computer screen showing a hollow letter O outline; next to it the cut result is just a round hole with the inner part fallen out. No people.",
+   "narration": "字母O直接切，中间那块会掉下来。",
+   "overlay": [
+    "封闭字母要留连接筋"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "封闭字母要留连接筋",
+   "scene": "在O中间竖着加一个窄长方形",
+   "prompt_en": "On the screen, a narrow vertical rectangle is placed across the middle of the letter O. No people.",
+   "narration": "在O中间竖着加一条窄矩形。",
+   "overlay": [],
+   "labels": [
+    "窄矩形"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "封闭字母要留连接筋",
+   "scene": "合并后O被连接筋分开，内芯保留",
+   "prompt_en": "On the screen, after subtracting, the letter O shows two small bridges holding the inner oval in place. No people.",
+   "narration": "合并减去后，内芯就保住了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把图形合成一个整体",
+   "scene": "屏幕上两个小孔和外边框合并成一体",
+   "prompt_en": "On the screen, two small round holes and a long frame outline merge into one shape. No people.",
+   "narration": "孔和边框，合并成一个整体。",
+   "overlay": [
+    "把图形合成一个整体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把图形合成一个整体",
+   "scene": "图层面板，字母图层被拖到边框图层上方",
+   "prompt_en": "On the screen, a simple layer panel where the letters layer is dragged above the frame layer, shown with an up arrow. No people.",
+   "narration": "字母图层要放在边框图层上面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把图形合成一个整体",
+   "scene": "字母和边框合并后得到完整门牌图案",
+   "prompt_en": "On the screen, the letters and the frame merge into one complete long sign design with blank letter shapes. No people.",
+   "narration": "再合并，就得到最终的加工图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "图案太长，就分两段",
+   "scene": "长图案超出画布，旋转90度的箭头",
+   "prompt_en": "On the screen, a long sign design sticks out of the canvas; a curved arrow shows it rotating ninety degrees. No people.",
+   "narration": "图案太长，先旋转九十度。",
+   "overlay": [
+    "图案太长，就分两段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "图案太长，就分两段",
+   "scene": "一条矩形分割线放在两个字母之间的空白处",
+   "prompt_en": "On the screen, a thin rectangle is placed as a split line in the blank space between two letters. No people.",
+   "narration": "分割线尽量放在空白处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "图案太长，就分两段",
+   "scene": "分割线切过一个字母中间，旁边提示图标",
+   "prompt_en": "On the screen, the split line passes through the middle of one letter, with a small caution icon beside it. No people.",
+   "narration": "这样误差小；放不下时才切字中间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "分割图案，去掉多余线",
+   "scene": "屏幕上图案被复制成上下两份",
+   "prompt_en": "On the screen, the whole design is copied and pasted, with one copy placed below the other. No people.",
+   "narration": "复制一份图案，放在下面。",
+   "overlay": [
+    "分割图案，去掉多余线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "分割图案，去掉多余线",
+   "scene": "矩形与图案相减，分出左半和右半",
+   "prompt_en": "On the screen, a rectangle subtracts from each copy, leaving a left half and a right half. No people.",
+   "narration": "用矩形相减，分出左半和右半。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "分割图案，去掉多余线",
+   "scene": "剪刀图标点在一条多余线上，线变色",
+   "prompt_en": "On the screen, a scissors cursor clicks on an unwanted line that changes color. No people.",
+   "narration": "多余的线，用剪刀工具删掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "分割图案，去掉多余线",
+   "scene": "左半黑色，右半红色",
+   "prompt_en": "On the screen, the left half of the design is black and the right half is red. No people.",
+   "narration": "两半换成不同颜色，好区分。",
+   "overlay": [],
+   "labels": [
+    "第一段",
+    "第二段"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设置参数，留出边距",
+   "scene": "软件参数面板：模式、材料、气体、喷嘴四栏",
+   "prompt_en": "On the screen, a blank settings panel with four rows marked by icons: a clamp, a metal sheet, a gas bottle and a nozzle. No people.",
+   "narration": "选夹具切割模式，选好材料。",
+   "overlay": [
+    "设置参数，留出边距"
+   ],
+   "labels": [
+    "模式",
+    "材料",
+    "气体",
+    "喷嘴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设置参数，留出边距",
+   "scene": "气体选空压机，喷嘴选切割嘴",
+   "prompt_en": "On the screen, an air compressor icon and a cutting nozzle icon are selected with green frames. No people.",
+   "narration": "气体和喷嘴，跟实际装的一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设置参数，留出边距",
+   "scene": "红色图案的输出开关被关掉",
+   "prompt_en": "On the screen, the output toggle of the red half is switched off. No people.",
+   "narration": "第二段先关闭输出，不然会报错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设置参数，留出边距",
+   "scene": "黑色图案离板边留出一段距离，箭头标注",
+   "prompt_en": "On the screen, the black half sits inside the sheet outline with a margin arrow between the design and the sheet edge. No people.",
+   "narration": "图案离板边，要留出一段距离。",
+   "overlay": [],
+   "labels": [
+    "留边"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准、走边框，切第一段",
+   "scene": "切割头在板面上方，屏幕显示校准进度条",
+   "prompt_en": "The cutting head hovers over the metal sheet while a progress bar on the screen shows sensor calibration. No people.",
+   "narration": "先校准高度传感器。",
+   "overlay": [
+    "校准、走边框，切第一段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准、走边框，切第一段",
+   "scene": "切割头沿图案外框走一圈红光，老李按下设备按钮",
+   "prompt_en": "The facility engineer presses a button on the machine while a red aiming dot traces the outer frame of the design on the sheet, lid closed.",
+   "narration": "再走边框，看位置对不对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准、走边框，切第一段",
+   "scene": "加工前检查页：喷嘴、气压、焦点三项打勾",
+   "prompt_en": "A blank checklist page on the screen with three items checked: a nozzle icon, a gauge icon and a focus icon. No people.",
+   "narration": "开始前，照检查提示逐项核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校准、走边框，切第一段",
+   "scene": "机盖关闭，机内火花闪烁，小研站在操作台前",
+   "prompt_en": "The machine lid is closed and sparks flicker inside behind the tinted window; the female graduate student watches from the control desk wearing safety glasses.",
+   "narration": "关好机盖，切出第一段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平移板材，重新对齐",
+   "scene": "阿杰换上皮质耐热手套",
+   "prompt_en": "The young male student pulls on thick leather heat-resistant gloves.",
+   "narration": "切完的板很烫，戴耐热手套再动。",
+   "overlay": [
+    "平移板材，重新对齐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平移板材，重新对齐",
+   "scene": "松开旋钮，板材平行向右推出一段",
+   "prompt_en": "Gloved hands loosen the fixture knobs and push the sheet straight to the right through the slot.",
+   "narration": "松开旋钮，板材平行往右移。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平移板材，重新对齐",
+   "scene": "两个红色箭头重新量两端距离",
+   "prompt_en": "Two red arrows again show equal distances from both ends of the sheet to the machine frame. No people.",
+   "narration": "两端距离要和刚才一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平移板材，重新对齐",
+   "scene": "手拧紧旋钮",
+   "prompt_en": "Close view of a gloved hand tightening a fixture knob.",
+   "narration": "确认后，再拧紧旋钮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "红光找到接缝点",
+   "scene": "红色光点落在第一段切线的末端",
+   "prompt_en": "Close view of a small red aiming dot landing on the end point of the first cut line on the metal sheet. No people.",
+   "narration": "把红光移到第一段切线的端点。",
+   "overlay": [
+    "红光找到接缝点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "红光找到接缝点",
+   "scene": "红光较大，圆心对准接缝点",
+   "prompt_en": "A larger red dot is centered on the joint point, with a small crosshair showing its center. No people.",
+   "narration": "光点大，就让圆心对准接缝点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "红光找到接缝点",
+   "scene": "屏幕上点向下箭头，切割头下降，红点变小",
+   "prompt_en": "On the screen a down arrow is clicked; the cutting head moves lower and the red dot becomes small and sharp. No people.",
+   "narration": "让切割头下降，光点变小再微调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "箭头对准十字，记下坐标",
+   "scene": "屏幕上黑色图案移走，红色图案打开输出",
+   "prompt_en": "On the screen, the black half is moved off the canvas and the red half is switched on and placed on the canvas. No people.",
+   "narration": "移走第一段，换第二段上场。",
+   "overlay": [
+    "箭头对准十字，记下坐标"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "箭头对准十字，记下坐标",
+   "scene": "绿色箭头图案的尖端与十字准线重合",
+   "prompt_en": "On the screen, the tip of a large green arrow shape overlaps exactly with a red crosshair. No people.",
+   "narration": "加一个箭头，箭尖对准十字准线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "箭头对准十字，记下坐标",
+   "scene": "小研在空白本子上记下两个数字格",
+   "prompt_en": "The female graduate student writes in two blank boxes in a notebook next to the computer.",
+   "narration": "记下这一点的横纵坐标。",
+   "overlay": [],
+   "labels": [
+    "X1",
+    "Y1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "箭头对准十字，记下坐标",
+   "scene": "第二条切线端点重复操作，再记两格",
+   "prompt_en": "The red dot moves to the end of the second cut line, and two more blank boxes are filled in the notebook.",
+   "narration": "第二条切线端点，再做一遍。",
+   "overlay": [],
+   "labels": [
+    "X2",
+    "Y2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "对不上？算出偏转角",
+   "scene": "图案一角对齐第一个箭头，另一角偏开",
+   "prompt_en": "On the screen, one corner of the red design matches the first arrow tip while the other corner is slightly off from the second arrow. No people.",
+   "narration": "图案一角对齐，看另一角准不准。",
+   "overlay": [
+    "对不上？算出偏转角"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "对不上？算出偏转角",
+   "scene": "示意：板材斜了一个小角度",
+   "prompt_en": "Diagram of the sheet tilted by a tiny angle relative to the frame, with an angle arc. No people.",
+   "narration": "对不上，说明板材挪的时候斜了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "对不上？算出偏转角",
+   "scene": "两点连线，计算器算出角度",
+   "prompt_en": "Diagram of two points joined by a line and a blank calculator showing an angle result. No people.",
+   "narration": "用两点坐标，算出连线的角度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "对不上？算出偏转角",
+   "scene": "九十度减去这个角度，得到很小的偏转量",
+   "prompt_en": "Diagram: a right angle minus the measured angle leaves a tiny slice of angle highlighted. No people.",
+   "narration": "九十度减去它，就是偏转量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "对不上？算出偏转角",
+   "scene": "图案按反方向转一点，两角都对上箭头",
+   "prompt_en": "On the screen, the red design rotates slightly in the opposite direction and both corners now meet both arrow tips. No people.",
+   "narration": "图案往回转这么多，两角都对上。",
+   "overlay": [],
+   "labels": [
+    "逆时针取负值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "走边框检查，切第二段",
+   "scene": "删掉箭头，红色图案输出打开",
+   "prompt_en": "On the screen, the arrow shapes are deleted and the output toggle of the red half is switched on. No people.",
+   "narration": "删掉箭头，打开第二段的输出。",
+   "overlay": [
+    "走边框检查，切第二段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "走边框检查，切第二段",
+   "scene": "红光沿第二段边框走一圈",
+   "prompt_en": "A red aiming dot traces the frame of the second half on the sheet, lid closed. No people.",
+   "narration": "不用再校准传感器，但必须走边框。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "走边框检查，切第二段",
+   "scene": "机盖关闭，第二段切割",
+   "prompt_en": "The lid is closed and the machine cuts the second half, sparks visible only behind the tinted window. No people.",
+   "narration": "确认对准，切第二段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "推出板材，检查接缝",
+   "scene": "戴手套松开旋钮，从侧槽推出长板",
+   "prompt_en": "Gloved hands loosen the knobs and slide the finished long sheet out through the side slot.",
+   "narration": "松开旋钮，从侧槽推出板材。",
+   "overlay": [
+    "推出板材，检查接缝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "推出板材，检查接缝",
+   "scene": "接缝处字母特写，看不出拼接痕迹",
+   "prompt_en": "Close view of a cut letter at the joint area of the sign; the cut edge looks smooth and continuous. No people.",
+   "narration": "接缝几乎看不出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "推出板材，检查接缝",
+   "scene": "小研举起长门牌，阿杰竖大拇指",
+   "prompt_en": "The female graduate student holds up the long finished metal sign with blank letter cutouts; the young male student gives a thumbs up.",
+   "narration": "按步骤来，手动对位也很准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与授权使用",
+   "scene": "王老师给学生发放空白授权卡",
+   "prompt_en": "The safety administrator hands a blank authorization card to the female graduate student after a training session.",
+   "narration": "大型激光设备，培训授权后才能用。",
+   "overlay": [
+    "准入培训与授权使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与授权使用",
+   "scene": "墙上的空白操作规程和预约本",
+   "prompt_en": "A blank operating procedure poster on the wall beside the cutting machine and a blank booking logbook on a desk. No people.",
+   "narration": "按规程操作，预约登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "侧槽开着，防光防火花",
+   "scene": "机器侧槽开着，光线和火花从槽口逸出的示意",
+   "prompt_en": "Diagram of the enclosed machine with an open side slot; small reflected light rays and sparks escape from the slot. No people.",
+   "narration": "侧槽打开，机罩就不再完全封闭。",
+   "overlay": [
+    "侧槽开着，防光防火花"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "侧槽开着，防光防火花",
+   "scene": "侧槽附近划出警戒区，人形图标打叉",
+   "prompt_en": "A taped warning zone on the floor around both side slots, with a person icon inside crossed out. No people.",
+   "narration": "切割时，槽口附近不站人、不伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "侧槽开着，防光防火花",
+   "scene": "操作者戴着防护眼镜站在操作台前",
+   "prompt_en": "The female graduate student stands at the control desk wearing laser safety glasses, a laser warning sign on the machine.",
+   "narration": "操作者戴好对应的激光防护眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "侧槽开着，防光防火花",
+   "scene": "机盖联锁开关被胶带封住的图标打叉",
+   "prompt_en": "Icon of a lid interlock switch taped over, crossed out with a red X. No people.",
+   "narration": "机盖联锁不能拆，不能短接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "手伸进机内前：停光停机",
+   "scene": "屏幕上出光开关为关，切割头静止",
+   "prompt_en": "The screen shows the laser toggle switched off and the cutting head standing still. No people.",
+   "narration": "手伸进机内前，确认出光已关。",
+   "overlay": [
+    "手伸进机内前：停光停机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "手伸进机内前：停光停机",
+   "scene": "龙门横梁运动夹手的示意图打叉",
+   "prompt_en": "Diagram of a moving gantry beam about to pinch a hand on the rail, crossed out with a red X. No people.",
+   "narration": "横梁停稳再伸手，防止夹伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "手伸进机内前：停光停机",
+   "scene": "眼睛直视红光的图标打叉",
+   "prompt_en": "Icon of an eye staring straight into a red aiming beam, crossed out with a red X. No people.",
+   "narration": "红光也不要直视。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "板材割手又烫手",
+   "scene": "板材锋利边缘和刚切完的发红切口",
+   "prompt_en": "Close view of a sharp metal sheet edge and a freshly cut outline still glowing slightly, with cut and hot warning icons. No people.",
+   "narration": "板边锋利，切口刚切完很烫。",
+   "overlay": [
+    "板材割手又烫手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "板材割手又烫手",
+   "scene": "上料时戴防割手套，取件时换耐热手套",
+   "prompt_en": "Split view: gloved hands with cut-resistant gloves loading a sheet, and gloved hands with leather heat-resistant gloves taking out a part.",
+   "narration": "上料戴防割手套，取件戴耐热手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "板材割手又烫手",
+   "scene": "阿杰和老李一人一头抬长板",
+   "prompt_en": "The young male student and the facility engineer carry a long metal sheet together, one at each end.",
+   "narration": "长板两人抬，别一个人硬拖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "烟尘排风与防火",
+   "scene": "排风管从机器顶部接出，烟尘被抽走",
+   "prompt_en": "An exhaust duct runs from the top of the enclosed machine; arrows show fumes being drawn out. No people.",
+   "narration": "切割会产生烟尘，排风要开。",
+   "overlay": [
+    "烟尘与通风"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "烟尘排风与防火",
+   "scene": "机器下方废料抽屉里堆着碎屑，被拉出清理",
+   "prompt_en": "The scrap drawer under the cutting bed is pulled out, showing metal slag and small pieces being cleaned out. No people.",
+   "narration": "废料抽屉及时清，旁边不放易燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "烟尘排风与防火",
+   "scene": "机旁挂着灭火器",
+   "prompt_en": "A fire extinguisher hangs on the wall next to the machine with a fire extinguisher sign above. No people.",
+   "narration": "旁边备好灭火器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "气源压力与管路",
+   "scene": "空压机软管接头和压力表特写",
+   "prompt_en": "Close view of a hose connector and a blank pressure gauge on an air compressor. No people.",
+   "narration": "开机前检查气管接头，压力别超限。",
+   "overlay": [
+    "气源压力与管路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "气源压力与管路",
+   "scene": "老李用手试探软管有无漏气",
+   "prompt_en": "The facility engineer checks along the air hose for leaks with a gloved hand.",
+   "narration": "发现漏气、破损，先停机修好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "急停与应急报告",
+   "scene": "手拍下机器上的红色急停按钮",
+   "prompt_en": "A hand slaps the red emergency stop button on the front of the machine.",
+   "narration": "异常冒烟、起火，立即按急停。",
+   "overlay": [
+    "急停与应急报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "急停与应急报告",
+   "scene": "学生撤离，手机上显示119",
+   "prompt_en": "Students walk calmly out of the room following an exit sign while one dials on a phone showing 119.",
+   "narration": "火控制不住，撤离并拨打119。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "急停与应急报告",
+   "scene": "小研打电话，旁边三个图标",
+   "prompt_en": "The female graduate student makes a phone call; beside her icons of a lab door, a college building and a security shield.",
+   "narration": "有人受伤打120，并逐级报告。",
+   "overlay": [],
+   "labels": [
+    "120",
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "用后收尾",
+   "scene": "屏幕关闭出光，空压机关掉",
+   "prompt_en": "The laser toggle on the screen is switched off and the air compressor is turned off. No people.",
+   "narration": "用完关出光、关气源、关机。",
+   "overlay": [
+    "用后收尾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "用后收尾",
+   "scene": "阿杰清扫台面碎屑，在记录本上签字",
+   "prompt_en": "The young male student sweeps metal chips from the cutting bed and signs a blank usage logbook.",
+   "narration": "清理碎屑，填写使用记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现侧槽、等距箭头、旋钮图标",
+   "prompt_en": "The panda mascot points to floating icons of a side slot, two equal arrows and a knob.",
+   "narration": "侧槽穿板，两端等距，拧紧夹具。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现分割线、箭头和十字图标",
+   "prompt_en": "The panda mascot points to icons of a split line, an arrow tip and a crosshair.",
+   "narration": "分段设计，箭头对点，算准偏角。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现边框、防护眼镜、手套图标",
+   "prompt_en": "The panda mascot points to icons of a dashed frame, laser safety glasses and gloves.",
+   "narration": "走边框再切，防护做到位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、阿杰、老李举着长门牌挥手",
+   "prompt_en": "The panda mascot, the female graduate student, the young male student and the facility engineer hold the long metal sign together and wave goodbye.",
+   "narration": "长板也能切得准，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
