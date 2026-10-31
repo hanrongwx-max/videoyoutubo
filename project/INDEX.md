@@ -17,7 +17,7 @@
 | Animal & Plant Biotech Safety | 10 / 10 | 6 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
-| Industrial Gas & Cryogenic Equipment | 9 / 9 | 3 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 | 4 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
 | Electrical Safety Series | 8 / 25 | 6 / 6 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
@@ -275,6 +275,7 @@
 | Industrial Gas & Cryogenic Equipment | 02_EquiTips GASLAB Industrial Fixed Gas Detection Explained | 国内版 | 固定式气体检测报警（国内版） | 47 | 3:55 | 9 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/02_EquiTips GASLAB Industrial Fixed Gas Detection Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 原著版 | 液氮杜瓦罐的安全使用 | 25 | 2:05 | 6 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 国内版 | 液氮杜瓦罐的安全使用（国内版） | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（国内版）/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 原著版 | 低温截止阀的安全操作 | 25 | 2:05 | 7 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 国内版 | 低温截止阀的安全操作（国内版） | 40 | 3:20 | 7 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 国内版 | 空温式汽化器与储罐站安全（国内版） | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 国内版 | 减压阀与背压阀的安全使用（国内版） | 41 | 3:25 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/审查报告.md>) |
