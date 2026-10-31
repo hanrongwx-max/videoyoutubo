@@ -1,7 +1,7 @@
 # 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL 卡通剧本作者源
 # 原片是 04、06 同一双层装袋操作的剪辑配字版（无人声，只有字幕条）：乙醇喷手套和容器、扎内袋、表面补喷、
 # 扎外袋、提袋后表面消毒、按生物安全手册高压灭菌、紫外灯收尾。保留全部知识点 K1–K8，
-# 审查补充 S1–S4（乙醇防火柜内不用明火；废物先分类不混装；暂存有专区、及时清运；手套破损立即更换）。
+# 审查补充 S1–S4（乙醇防火柜内不用明火；废物先分类不混装；暂存有专区、及时清运；转运洒漏先围住再报告）。
 # 04 已补锐器、装载量、灭菌验证、包装交接；05 已补开机检查、紫外辅助、柜内溢洒、与通风柜区别；
 # 06 已补袋破处理、出柜前外袋消毒换手套、脱防护顺序、液体废物；其余各片 S 点也不重复。
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
@@ -20,7 +20,7 @@ META = {
         "S1": "乙醇易燃，柜内不用明火",
         "S2": "废物先分类，不混装",
         "S3": "暂存有专区，及时清运",
-        "S4": "手套破了，马上换",
+        "S4": "转运洒漏：先围住，再报告",
     },
     "avoid": ["UMS", "Universiti Malaysia Sabah", "Malaysia Sabah", "Rodrigues", "Kenneth", "MOOC", "Stay Biosafe"],
 }
@@ -163,18 +163,18 @@ SHOTS = [
  "The facility engineer wheels a closed waste cart away along a marked route.",
  "按时清运，不长时间存放。"),
 # S4
-("S4", "小研张开双手检查手套",
- "The female graduate student spreads her gloved hands and inspects them.",
- "喷了乙醇，也要看看手套。", "手套破了，马上换"),
-("S4", "手套指尖有小裂口，红色感叹号",
- "A glove fingertip with a small tear, marked with a red exclamation icon. No people.",
- "发现破口或明显沾污，"),
-("S4", "在柜内脱下外层手套丢进废物袋，换上新手套",
- "Outer gloves are peeled off inside the cabinet into a waste bag and a fresh pair is put on. No people.",
- "先在柜内脱下，换上新的。"),
-("S4", "皮肤上有伤口的示意，箭头指向报告",
- "An icon of a scratch on the skin with an arrow to a reporting icon. No people.",
- "皮肤碰到了，冲洗后报告老师。"),
+("S4", "走廊里转运车上的废物袋掉落，袋口渗出少量液体",
+ "A waste bag falls off a closed cart in a corridor and a little liquid seeps out of it. No people.",
+ "转运路上，万一袋子掉了漏了，", "转运洒漏：先围住，再报告"),
+("S4", "老李停下，伸手拦住来人，放下生物危害警示牌",
+ "The facility engineer stops, holds out a hand to keep others back and sets down a stand with a biohazard warning sign.",
+ "先让旁人绕开，别用手去捡。"),
+("S4", "老李打电话报告，王老师提着溢洒处理箱赶来",
+ "The facility engineer reports by phone while the safety administrator hurries over carrying a spill kit box.",
+ "马上报告，取来溢洒处理包。"),
+("S4", "王老师穿戴防护，用吸水纸覆盖洒漏处后消毒",
+ "The safety administrator, in gloves, gown and goggles, covers the spill with absorbent paper and applies disinfectant from the edges inward.",
+ "穿好防护，覆盖消毒，按规程处理。"),
 # 小结
 ("小结", "欣欣身旁浮现喷手套、两道扎口的图标",
  "The panda mascot stands beside icons of a sprayed glove and two tied bag necks.",
@@ -185,9 +185,9 @@ SHOTS = [
 ("小结", "打叉的酒精灯和分类废物桶图标",
  "A crossed-out alcohol burner icon next to three sorted waste containers. No people.",
  "柜内不用明火，废物分类收集。"),
-("小结", "暂存间和换手套图标",
- "Icons of a waste storage room door and a fresh pair of gloves. No people.",
- "暂存及时清运，手套破了就换。"),
+("小结", "暂存间和溢洒处理箱图标",
+ "Icons of a waste storage room door and a spill kit box. No people.",
+ "暂存及时清运，洒漏先围再报告。"),
 # 结尾
 ("结尾", "欣欣、小研和阿杰在整洁的安全柜前挥手",
  "The panda mascot, the female graduate student and the young male student stand in front of a clean biological safety cabinet and wave goodbye.",
