@@ -2,7 +2,7 @@
 # 原片为讲座录屏（27 分 40 秒，CC-BY）：风险评估在 AMP 循环中的位置、评估范围（冰山）、评估要素、
 # 自编评估问卷（病原部分 + 管理/设施部分）、病原安全数据表 PSDS 九章的结构与应用。
 # 保留全部知识点 K1–K23（病原一律匿名、不写数值和改造内容；PSDS 讲为国外参考，查分类以国内目录为准；风险组讲清国内外方向相反）；
-# 审查补充 S1–S4（查分类以国内目录为准、评估别忘了人员健康与过敏、评估要形成文件经审核、情况一变就重新评估）
+# 审查补充 S1–S4（查分类以国内目录为准、评估别忘了人员健康与过敏、评估要形成文件经审核、评估也要看安保风险）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -34,7 +34,7 @@ META = {
         "S1": "查危害分类，以国内目录为准",
         "S2": "评估别忘了人：健康与过敏",
         "S3": "评估要形成文件，经审核",
-        "S4": "情况一变，就重新评估",
+        "S4": "评估也要看安保风险",
     },
     "avoid": ["UMS", "Universiti Malaysia Sabah", "Malaysia", "Kenneth", "Rodrigues", "Rodriguez",
               "Biotechnology Research Institute", "Government of Canada", "Health Canada", "Canada",
@@ -307,15 +307,15 @@ SHOTS = [
  "The report links to a row of concrete control icons. No people.",
  "再对应到一条条具体措施。"),
 # S4
-("S4", "日历上一个定期复评的标记",
- "A calendar with a periodic-review mark. No people.",
- "评估不是做一次就完。", "情况一变，就重新评估"),
-("S4", "新病原、新操作、出事故三个触发图标",
- "Three trigger icons: a new microbe, a new procedure and an incident. No people.",
- "换病原、改操作、出事故,", "", ["新病原", "新操作", "出事故"]),
-("S4", "触发图标连回放大镜,循环重新开始",
- "The triggers loop back to a magnifying glass, restarting the cycle. No people.",
- "情况一变,就要重新评估。"),
+("S4", "评估表上加了一栏锁形图标",
+ "An assessment form with an added row marked by a padlock icon. No people.",
+ "评估不只防意外,也要防人为。", "评估也要看安保风险"),
+("S4", "带锁的冰箱、门禁读卡器和空白出入登记本",
+ "Icons of a locked freezer, an access card reader and a blank sign-in logbook. No people.",
+ "谁能拿、存在哪、怎么锁,", "", ["谁能拿", "存在哪", "怎么锁"]),
+("S4", "老周对照空白清单清点样本管，逐个打勾",
+ "The older man counts sample tubes against a blank inventory list and ticks them off one by one.",
+ "都要写进评估,定期清点。"),
 # K23 小结
 ("K23", "欣欣站在冰山和问卷中间",
  "The panda mascot stands between an iceberg and a questionnaire.",
@@ -323,9 +323,9 @@ SHOTS = [
 ("小结", "病原要素、问卷、资料表九章依次亮起",
  "Pathogen factors, the questionnaire and nine data-sheet sections light up in turn. No people.",
  "从要素到问卷,再查资料表。"),
-("小结", "国内目录、评估报告、审批章、日历图标",
- "Icons of a domestic catalogue, an assessment report, an approval stamp and a calendar. No people.",
- "以国内目录为准,写文件,定期复评。"),
+("小结", "国内目录、评估报告、审批章、锁形图标",
+ "Icons of a domestic catalogue, an assessment report, an approval stamp and a padlock. No people.",
+ "以国内目录为准,写文件,也评安保。"),
 # 结尾
 ("结尾", "欣欣和小研、阿杰、老周一起向镜头挥手",
  "The panda mascot waves goodbye with the female graduate student, the young male student and the older man.",
