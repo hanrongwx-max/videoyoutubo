@@ -1,0 +1,186 @@
+# 10_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder 卡通剧本作者源
+# 原著版：完全照原片（厂商售后视频：更换焊机内的气动组件，无旁白、只有字幕），K1–K20，不加补充知识点、不做更正；
+# 保留原片警示（仅限专业人员、断电、至少等 5 分钟、全程戴绝缘手套）、静置 10 分钟、3 颗 / 14 颗螺钉、5 根扎带，
+# 以及原片画面（操作者徒手、一人放倒和扶正机器、拆气管前未讲关气泄压）；品牌型号不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "激光焊接机气动组件的规范更换",
+    "edition": "原著版",
+    "points": {
+        "K1": "只限专业人员，先断电",
+        "K2": "高压和强激光的伤害",
+        "K3": "断电后仍有残余高压",
+        "K4": "全程戴绝缘手套",
+        "K5": "准备工具和备件",
+        "K6": "断开所有连接",
+        "K7": "锁住四个脚轮",
+        "K8": "静置放电和冷却",
+        "K9": "侧放机器，垫好软垫",
+        "K10": "拆右侧板和线缆挂架",
+        "K11": "平放机器，拆底部螺钉",
+        "K12": "剪扎带，不伤线缆",
+        "K13": "按卡套拔出气管",
+        "K14": "打开左侧，放平安装板",
+        "K15": "断开两根线，取出组件",
+        "K16": "新组件穿线接主板",
+        "K17": "接回电机线，关左门",
+        "K18": "接回气管，装底部螺钉",
+        "K19": "装光纤固定块，扎好线缆",
+        "K20": "装回右侧板，收好线缆",
+    },
+    "avoid": ["xTool", "X-Tool", "XTool", "X Tool", "MetalFab", "Metal Fab", "Schneider", "TeSys"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在一台侧板打开的激光焊接机旁，机内露出蓝色气管，向镜头招手",
+ "The panda mascot stands beside a gray wheeled laser welding machine with its side panel open, blue air tubes visible inside, and waves at the camera.",
+ "这一课，看焊机的气动组件怎样更换。", "激光焊接机气动组件的规范更换"),
+("开场", "四个图标：警示卡、右侧板、气动组件、扎带",
+ "Four icons in a row: a warning card, a side panel, an air valve block and a cable tie. No people.",
+ "拆右侧板、换组件、扎线、装回。", "", ["警示", "拆侧板", "换组件", "装回"]),
+# 情景
+("情景", "阿杰拿着焊枪按扳机，焊枪口没有气流，他一脸疑惑",
+ "The young male student presses the trigger of a handheld welding gun; no gas flows from the nozzle and he looks puzzled.",
+ "阿杰发现焊枪按下去，不出保护气了。"),
+("情景", "老李检查后摇头，指着机身里的气动组件位置示意图",
+ "The facility engineer shakes his head after checking and points at a simple diagram showing an air valve block inside the machine.",
+ "老李判断：机器里的气动组件坏了。"),
+("情景", "老李提着工具箱和新组件走来",
+ "The facility engineer walks in carrying a toolbox and a boxed new air valve block.",
+ "专业技术人员老李来更换。"),
+# K1
+("K1", "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+ "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+ "和所有维修一样，只限专业人员动手。", "只限专业人员，先断电"),
+("K1", "老李把焊机电源开关拨到关",
+ "The facility engineer switches the main power switch of the laser welding machine to off.",
+ "动手之前，先关机断电。"),
+# K2
+("K2", "机箱剖面示意：一边闪电图标，一边激光束图标",
+ "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+ "机内有高压和强激光，会触电、烧伤。", "高压和强激光的伤害", ["高电压", "强激光"]),
+# K3
+("K3", "拔掉插头的焊机内部，一个模块上还亮着闪电图标，旁边沙漏",
+ "Inside an unplugged machine cabinet, one module still shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+ "电源里可能残留高压，至少等5分钟。", "断电后仍有残余高压", ["≥5分钟"]),
+# K4
+("K4", "警示卡上一副绝缘手套图标",
+ "A warning card with a yellow and black striped border showing an insulated glove icon. No people.",
+ "全程戴好绝缘手套。", "全程戴绝缘手套"),
+# K5
+("K5", "工作台上摆着两把十字螺丝刀、一把剪刀、五根扎带和一个新气动组件",
+ "On a workbench lie two cross-head screwdrivers of different sizes, a pair of scissors, five cable ties and a new blank air valve block with blue tubes. No people.",
+ "备好两把十字刀、剪刀和五根扎带。", "准备工具和备件", ["十字刀", "剪刀", "扎带", "新组件"]),
+("K5", "老李把新气动组件从盒子里拿出来看了看",
+ "The facility engineer lifts the new air valve block out of its box and inspects it.",
+ "还有新的气动组件。"),
+# K6
+("K6", "焊机背面接口全部空着，电源线和焊枪线放在一边",
+ "The back of the laser welding machine with all sockets empty; the unplugged power cable and the gun cable lie coiled on the floor. No people.",
+ "确认所有电线和管线都已断开。", "断开所有连接"),
+# K7
+("K7", "老李踩下脚轮刹车",
+ "The facility engineer presses down the brake on a caster wheel with his foot.",
+ "四个脚轮全部锁住。", "锁住四个脚轮"),
+# K8
+("K8", "焊机静静放着，墙上时钟指针转动",
+ "The closed laser welding machine stands still while a wall clock shows time passing. No people.",
+ "静置10分钟，放电、冷却。", "静置放电和冷却", ["10分钟"]),
+# K9
+("K9", "地上铺好软垫，机器准备朝左侧放倒",
+ "A thick soft mat is laid on the floor beside the laser welding machine, ready for it to be tipped onto its left side. No people.",
+ "拆右侧板，要把机器左侧朝下放倒。", "侧放机器，垫好软垫"),
+("K9", "机器侧躺在软垫上",
+ "The laser welding machine lies on its left side on the soft mat. No people.",
+ "机器很重，着地面要垫上软垫。"),
+# K10
+("K10", "老李拧下底部固定右侧板的螺钉",
+ "The facility engineer removes the screws holding the right side panel at the bottom of the machine.",
+ "拧下固定右侧板的三颗螺钉。", "拆右侧板和线缆挂架"),
+("K10", "取下右侧的线缆挂架，线缆放在软垫上",
+ "The facility engineer takes off the round cable holder on the right side and lays the gun cable on the soft mat.",
+ "取下线缆挂架，再取下右侧板。"),
+# K11
+("K11", "桌面铺好泡沫，机器平放在上面",
+ "A layer of cushioning foam is spread on a workbench and the machine lies flat on it. No people.",
+ "把机器平放在铺了泡沫的桌面上。", "平放机器，拆底部螺钉"),
+("K11", "老李拧下气动组件下方的三颗固定螺钉",
+ "The facility engineer removes three fixing screws under the air valve block from the bottom of the machine.",
+ "拆下气动组件下方的三颗螺钉。"),
+# K12
+("K12", "老李一个人把机器扶正",
+ "The facility engineer alone lifts the heavy machine back to its upright position.",
+ "再把机器扶正。", "剪扎带，不伤线缆"),
+("K12", "斜口钳小心剪断扎带，旁边线缆完好",
+ "Close view of flush cutters carefully snipping a cable tie while the nearby cables stay intact.",
+ "剪断五根扎带，别剪到旁边的线。"),
+# K13
+("K13", "手指按下快插接头的卡套，拔出蓝色气管",
+ "Close view of bare fingers pressing the collar of a push-fit connector and pulling out a blue air tube.",
+ "按住接头卡套，拔出蓝色气管。", "按卡套拔出气管"),
+# K14
+("K14", "老李打开焊机左侧门板，拆送丝安装板螺钉",
+ "The facility engineer opens the left side door and removes the screws of the wire feeder mounting plate.",
+ "打开左侧门板，拆安装板十四颗螺钉。", "打开左侧，放平安装板"),
+("K14", "拆接地线螺钉，把安装板放平",
+ "The facility engineer removes the yellow-green earth wire screw and lays the mounting plate down.",
+ "拆下接地线，把安装板放平。"),
+# K15
+("K15", "主板上两个插头被画圈，老李拔下",
+ "Two connectors on the main board are highlighted with circles, and the facility engineer unplugs them.",
+ "从主板拔下气动组件的两根线。", "断开两根线，取出组件"),
+("K15", "老李把旧气动组件整个取出",
+ "The facility engineer pulls the whole old air valve block out of the machine.",
+ "把整个旧组件取出来。"),
+# K16
+("K16", "新组件的两根线从右侧穿进，从左侧伸出",
+ "Two cables of the new air valve block are routed from the right side of the cabinet through to the left side.",
+ "新组件的两根线，从右边穿到左边。", "新组件穿线接主板"),
+("K16", "插头插回主板",
+ "The two connectors are plugged back into the main board.",
+ "插回主板原来的位置。"),
+# K17
+("K17", "抬回安装板，插回送丝电机线",
+ "The facility engineer lifts the mounting plate back and plugs the wire feeder motor cable into the main board.",
+ "抬回安装板，接回送丝电机线。", "接回电机线，关左门"),
+("K17", "装回接地线和螺钉，关上左侧门板",
+ "The earth wire and screws are refitted and the left side door is closed.",
+ "装回接地线和螺钉，关好左门板。"),
+# K18
+("K18", "蓝色气管两端插进快插接头",
+ "Both ends of the blue air tube are pushed firmly into the push-fit connectors.",
+ "两端接回蓝色气管，插到底。", "接回气管，装底部螺钉"),
+("K18", "机器平放，装回底部三颗螺钉，再扶正",
+ "The machine is laid flat to refit the three bottom screws, then the facility engineer alone lifts it upright.",
+ "装回底部3颗螺钉，扶正机器。"),
+# K19
+("K19", "老李装回光纤固定块",
+ "The facility engineer refits the small fixing block that holds the optical fiber cable in place.",
+ "装回光纤固定块，把光纤固定好。", "装光纤固定块，扎好线缆"),
+("K19", "线缆理顺，用五根扎带捆好",
+ "The cables are neatly arranged and bundled with five cable ties.",
+ "线缆理顺，用五根扎带扎好。"),
+# K20
+("K20", "老李装回右侧板，把焊接头线缆卡进侧板",
+ "The facility engineer refits the right side panel and secures the welding gun cable into its slot on the panel.",
+ "装回右侧板，固定好焊接头线缆。", "装回右侧板，收好线缆"),
+("K20", "拧紧三颗螺钉，线缆绕回挂架",
+ "Three screws are tightened and the gun cable is wound in wide loops back onto the cable holder.",
+ "拧紧螺钉，线缆绕回挂架。"),
+("K20", "机器底部螺钉全部装回",
+ "All the screws at the bottom of the machine are fastened. No people.",
+ "最后装回底部螺钉。"),
+# 小结
+("小结", "欣欣站在焊机旁，身后浮现四个图标",
+ "The panda mascot stands beside the laser welding machine with four icons behind: a warning card, a soft mat, an air valve block and a cable tie.",
+ "断电静置，侧放垫软垫，拆下右侧板。", "小结", ["断电静置", "垫软垫", "换组件", "扎线"]),
+("小结", "欣欣伸出手指数着",
+ "The panda mascot counts on its fingers.",
+ "穿线接主板，接回气管，扎好线缆。"),
+# 结尾
+("结尾", "欣欣、老李、小研和阿杰在焊机前挥手",
+ "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye in front of the laser welding machine.",
+ "气动组件换好了，下次见！"),
+]
