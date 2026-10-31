@@ -1,0 +1,611 @@
+{
+ "id": "07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "交流电路的开路与短路",
+ "seconds": 210,
+ "source_doc": "course/Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr.md",
+ "author_source": "project/Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr/src.py",
+ "points": {
+  "K1": "实验目的",
+  "K2": "所需器材",
+  "K3": "电源与熔断器",
+  "K4": "用带插头的导线",
+  "K5": "两灯串联的主回路",
+  "K6": "电流表和开关组成短路支路",
+  "K7": "电压表并在灯 1 两端",
+  "K8": "先串联，后并联",
+  "K9": "认识实物",
+  "K10": "通电时开关先断开",
+  "K11": "先看量程再读数",
+  "K12": "开路：电压高，电流零",
+  "K13": "短路：电流大，电压零",
+  "K14": "口试常问",
+  "K15": "结果与结论"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上两盏灯泡、一只电流表、一只电压表，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a lab bench with two light bulbs on a wiring board, an analog ammeter and an analog voltmeter, waving at the camera.",
+   "narration": "这一课做交流电路的开路与短路实验。",
+   "overlay": [
+    "交流电路的开路与短路"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "断开的电路和被短接的电路两个图标",
+   "prompt_en": "Two icons: a circuit with a gap, and a circuit with a wire bridging across a lamp. No people.",
+   "narration": "开路和短路，到底有什么不同？",
+   "overlay": [],
+   "labels": [
+    "开路",
+    "短路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰翻着空白课本，指着开路和短路两个词发愁",
+   "prompt_en": "The young male student flips through a blank textbook, frowning at two circuit icons: an open gap and a bridged load.",
+   "narration": "阿杰总分不清开路和短路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指向实验台上的两盏灯和两只表",
+   "prompt_en": "The female graduate student points to two lamps and two meters on the lab bench.",
+   "narration": "小研说：做一遍实验，看看表就明白。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "一起来研究开路和短路的影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的",
+   "scene": "欣欣指着开路、短路两个图标",
+   "prompt_en": "The panda mascot points at the open circuit icon and the short circuit icon.",
+   "narration": "目的：观察开路和短路时电压电流的变化。",
+   "overlay": [
+    "实验目的"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "所需器材",
+   "scene": "实验台上：交流电流表、交流电压表、两盏白炽灯、一个单极开关",
+   "prompt_en": "On the bench: an AC ammeter, an AC voltmeter, two incandescent bulbs and a single-pole switch. No people.",
+   "narration": "器材：交流电流表、电压表，都是动铁式。",
+   "overlay": [
+    "所需器材"
+   ],
+   "labels": [
+    "交流电流表",
+    "交流电压表",
+    "白炽灯×2",
+    "单极开关"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "所需器材",
+   "scene": "两盏灯泡旁空白铭牌",
+   "prompt_en": "Two incandescent bulbs with blank nameplates beside them. No people.",
+   "narration": "白炽灯两只，一百瓦、二百三十伏。",
+   "overlay": [],
+   "labels": [
+    "100 W",
+    "230 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "所需器材",
+   "scene": "电压表旁边一只万用表打问号",
+   "prompt_en": "A voltmeter next to a multimeter with a small question mark. No people.",
+   "narration": "没有电压表，可以用万用表代替。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源与熔断器",
+   "scene": "接线板上的电源区：一个双极开关和一个熔断器",
+   "prompt_en": "The supply section of a patch board: a double-pole switch and a fuse. No people.",
+   "narration": "单相交流电，二百三十伏、五十赫兹。",
+   "overlay": [
+    "电源与熔断器"
+   ],
+   "labels": [
+    "230 V 50 Hz"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源与熔断器",
+   "scene": "相线和中性线从熔断器和开关后引出到插孔",
+   "prompt_en": "Live and neutral lines lead out from the fuse and switch to two sockets on the board. No people.",
+   "narration": "经双极开关和五安熔断器引出相线、中性线。",
+   "overlay": [],
+   "labels": [
+    "5 A 熔断器",
+    "相线",
+    "中性线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "用带插头的导线",
+   "scene": "两端带插头的连接导线打绿勾，两根裸线头打红叉",
+   "prompt_en": "Two icons: a connecting lead with proper plugs on both ends with a green check, and two bare wire ends crossed out with a red X. No people.",
+   "narration": "连接导线要带合适的插头，不用裸线头。",
+   "overlay": [
+    "用带插头的导线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "两灯串联的主回路",
+   "scene": "电路图：相线接灯 1，灯 1 接灯 2，灯 2 接中性线",
+   "prompt_en": "A circuit diagram icon: the line wire goes to lamp one, lamp one to lamp two, and lamp two to the neutral wire. No people.",
+   "narration": "相线接灯一，灯一接灯二，灯二接零线。",
+   "overlay": [
+    "两灯串联的主回路"
+   ],
+   "labels": [
+    "灯1",
+    "灯2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "两灯串联的主回路",
+   "scene": "两盏灯首尾相连成一串",
+   "prompt_en": "Two lamp icons connected end to end in a single series loop. No people.",
+   "narration": "两盏灯串联，构成主回路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电流表和开关组成短路支路",
+   "scene": "从灯 1 前端引线到电流表，再到开关，回到灯 1 后端",
+   "prompt_en": "The diagram highlights a branch: from the front of lamp one through an ammeter and a switch back to the back of lamp one. No people.",
+   "narration": "电流表和开关串起来，跨接在灯一两端。",
+   "overlay": [
+    "电流表和开关组成短路支路"
+   ],
+   "labels": [
+    "电流表",
+    "开关S1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电流表和开关组成短路支路",
+   "scene": "支路导线画得比主回路粗",
+   "prompt_en": "The branch wire drawn thicker than the main loop wires. No people.",
+   "narration": "这条支路用粗一点的导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电流表和开关组成短路支路",
+   "scene": "开关后端接到灯 1 后端或灯 2 前端，两点用同色圆点标出",
+   "prompt_en": "The diagram marks the back of lamp one and the front of lamp two with the same colored dot. No people.",
+   "narration": "接灯一后端或灯二前端，都是同一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电压表并在灯 1 两端",
+   "scene": "电压表用细导线并接在灯 1 两端",
+   "prompt_en": "A voltmeter connected with thin wires across lamp one. No people.",
+   "narration": "电压表用细线，并在灯一两端。",
+   "overlay": [
+    "电压表并在灯 1 两端"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电压表并在灯 1 两端",
+   "scene": "电压表和电流表的量程旋钮各指向一个挡",
+   "prompt_en": "Range terminals on the voltmeter and ammeter highlighted. No people.",
+   "narration": "电压表选三百伏，电流表选一安或两安。",
+   "overlay": [],
+   "labels": [
+    "0–300 V",
+    "0–1 A / 0–2 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先串联，后并联",
+   "scene": "先画出串联回路，再加上并联支路的两步图",
+   "prompt_en": "Two step icons: first the series loop drawn, then the parallel branch added. No people.",
+   "narration": "接线顺序：先接串联，后接并联。",
+   "overlay": [
+    "先串联，后并联"
+   ],
+   "labels": [
+    "第1步 串联",
+    "第2步 并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "认识实物",
+   "scene": "接线板上两盏灯、开关、两只表的实物",
+   "prompt_en": "The real setup on the bench: two bulbs, a switch, an ammeter and a voltmeter connected with plug leads. No people.",
+   "narration": "实物就是这样：两盏灯，一开关，两只表。",
+   "overlay": [
+    "认识实物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "通电时开关先断开",
+   "scene": "开关 S1 处于断开位置，打绿勾",
+   "prompt_en": "A close-up of switch S1 in the off position with a green check. No people.",
+   "narration": "通电时，开关 S1 必须先断开。",
+   "overlay": [
+    "通电时开关先断开"
+   ],
+   "labels": [
+    "S1 断开"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先看量程再读数",
+   "scene": "电压表接线柱被圈出，箭头指向下刻度",
+   "prompt_en": "The voltmeter's connected terminal circled, an arrow pointing to the lower scale on the dial. No people.",
+   "narration": "先看表接在哪个量程，读对应刻度。",
+   "overlay": [
+    "先看量程再读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先看量程再读数",
+   "scene": "表盘一段放大，数小格",
+   "prompt_en": "A magnified section of the dial showing small divisions between two numbered marks. No people.",
+   "narration": "再数小格，算出读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开路：电压高，电流零",
+   "scene": "S1 断开，灯 1 发亮",
+   "prompt_en": "Switch S1 open; lamp one glows. No people.",
+   "narration": "S1 断开，这就是开路状态，灯一亮着。",
+   "overlay": [
+    "开路：电压高，电流零"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开路：电压高，电流零",
+   "scene": "电压表指针偏转较大",
+   "prompt_en": "The voltmeter needle deflects well up the scale. No people.",
+   "narration": "电压表读数约一百一十二到一百一十四伏。",
+   "overlay": [],
+   "labels": [
+    "约112–114 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开路：电压高，电流零",
+   "scene": "电流表指针停在零",
+   "prompt_en": "The ammeter needle stays at zero. No people.",
+   "narration": "电流表读数为零。",
+   "overlay": [],
+   "labels": [
+    "0 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开路：电压高，电流零",
+   "scene": "欣欣举着开路卡片：电压高，电流零",
+   "prompt_en": "The panda mascot holds up a card with an open circuit icon.",
+   "narration": "开路：电压高，电流为零。",
+   "overlay": [],
+   "labels": [
+    "电压 高",
+    "电流 零"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "短路：电流大，电压零",
+   "scene": "老周戴着腕表，徒手扳下开关 S1，灯 1 熄灭",
+   "prompt_en": "The older man, wearing a metal wristwatch, flips switch S1 on the patch board bare-handed; lamp one goes dark.",
+   "narration": "闭合 S1，灯一被短接，熄灭了。",
+   "overlay": [
+    "短路：电流大，电压零"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "短路：电流大，电压零",
+   "scene": "电流表指针偏转",
+   "prompt_en": "The ammeter needle deflects. No people.",
+   "narration": "电流表读数约零点四一到零点四二安。",
+   "overlay": [],
+   "labels": [
+    "约0.41–0.42 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "短路：电流大，电压零",
+   "scene": "电压表指针回到零",
+   "prompt_en": "The voltmeter needle drops back to zero. No people.",
+   "narration": "灯一两端电压变成零。",
+   "overlay": [],
+   "labels": [
+    "0 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "短路：电流大，电压零",
+   "scene": "欣欣举着短路卡片：电流大，电压零",
+   "prompt_en": "The panda mascot holds up a card with a short circuit icon.",
+   "narration": "短路：电流大，电压为零。",
+   "overlay": [],
+   "labels": [
+    "电流 大",
+    "电压 零"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "口试常问",
+   "scene": "王老师拿着三张空白问题卡",
+   "prompt_en": "The safety administrator holds three blank question cards.",
+   "narration": "口试常问三个问题。",
+   "overlay": [
+    "口试常问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "口试常问",
+   "scene": "开路和短路两个图标之间一个问号",
+   "prompt_en": "An open circuit icon and a short circuit icon with a question mark between them. No people.",
+   "narration": "一问：开路和短路有什么区别？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "口试常问",
+   "scene": "两盏灯，其中一盏变暗，旁边问号",
+   "prompt_en": "Two lamps, one dimmer than the other, with a question mark. No people.",
+   "narration": "二问：短路时，为什么一盏灯变暗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "口试常问",
+   "scene": "动铁式和动圈式表芯剖面",
+   "prompt_en": "Cutaway icons of a moving iron and a moving coil meter movement. No people.",
+   "narration": "三问：动铁式和动圈式仪表有何不同？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "结果与结论",
+   "scene": "空白结果表，只有开关、亮灯、灭灯图标",
+   "prompt_en": "A blank results table with only switch icons and lamp-on and lamp-off icons in the cells. No people.",
+   "narration": "把开关状态、电压、电流、灯的状态填进表。",
+   "overlay": [
+    "结果与结论"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "结果与结论",
+   "scene": "开路和短路两张卡片并排",
+   "prompt_en": "The open circuit card and the short circuit card side by side. No people.",
+   "narration": "开路电压大电流零，短路电流大电压零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "开路和短路两张卡片",
+   "prompt_en": "Two cards: an open circuit icon and a short circuit icon. No people.",
+   "narration": "开路电压大电流零，短路电流大电压零。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "串联主回路和并联支路的接线顺序图标",
+   "prompt_en": "Icons showing the wiring order: series main loop first, then the parallel branch. No people.",
+   "narration": "带插头导线，先串后并，S1 先断开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "表盘上下两条刻度和一个放大镜",
+   "prompt_en": "A meter dial with upper and lower scales and a magnifying glass. No people.",
+   "narration": "看清量程再读数，记好结果表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a lab bench with two lamps and two meters.",
+   "narration": "分清开路和短路，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
