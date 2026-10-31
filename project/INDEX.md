@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 3 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 13 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 14 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 13 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
 | Lab Safety Training Series | 13 / 13 | 4 / 13 |
@@ -138,6 +138,7 @@
 | BIORISK MANAGEMENT | 25_THE BIOSAFETY OFFICER OER | 国内版 | 生物安全员是做什么的（国内版） | 136 | 11:20 | 40 / 4 | [剧本](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/25_THE BIOSAFETY OFFICER OER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 原著版 | 生物安全柜，这样操作 | 53 | 4:25 | 16 / 0 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION/script.md>) |
 | BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 国内版 | 生物安全柜，这样操作（国内版） | 72 | 6:00 | 16 / 4 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 原著版 | 医院送来的样本 | 55 | 4:35 | 18 / 0 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES/script.md>) |
 | BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 国内版 | 医院送来的样本（国内版） | 70 | 5:50 | 18 / 4 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 国内版 | 安全柜里的双层装袋（国内版） | 50 | 4:10 | 8 / 4 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT | 国内版 | 生物风险管理学习路线（国内版） | 49 | 4:05 | 10 / 3 | [剧本](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT（国内版）/审查报告.md>) |
@@ -222,7 +223,7 @@
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 原著版 | 用电安全知识问答 | 98 | 8:10 | 27 / 0 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu/script.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
-| Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 单一版 | 便携式发电机安全使用 | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) |
+| Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 单一版 | 便携式发电机安全使用 | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) · [审查](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/审查报告.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 单一版 | 漏电保护器的灵敏度档位 | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 单一版 | 电线的颜色：认得清，更要验得准 | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/script.md>) |
