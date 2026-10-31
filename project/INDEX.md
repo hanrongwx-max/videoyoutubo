@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 52 / 59 | 2 / 48 |
+| Microbiology Biosafety | 52 / 59 | 3 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 12 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
@@ -14,7 +14,7 @@
 | Acids, Bases & Solvents Safety | 12 / 12 | 3 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 7 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 8 / 10 |
 | Electrical Safety Series | 9 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 3 / 9 |
@@ -95,6 +95,7 @@
 | Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 国内版 | 植物组织培养的无菌技术（国内版） | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 原著版 | 胡萝卜组织培养 | 52 | 4:20 | 11 / 0 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots/script.md>) |
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 国内版 | 胡萝卜组织培养（国内版） | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 原著版 | 身边的生物技术 | 50 | 4:10 | 12 / 0 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life/script.md>) |
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 国内版 | 身边的生物技术（国内版） | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 09_APB - Laboratory Notebooks | 国内版 | 实验记录本（国内版） | 66 | 5:30 | 13 / 5 | [剧本](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/09_APB - Laboratory Notebooks（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 10_APB - Moving Research into Production | 国内版 | 从实验室到生产（国内版） | 80 | 6:40 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/10_APB - Moving Research into Production（国内版）/审查报告.md>) |
@@ -374,6 +375,7 @@
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 国内版 | 生物安全第一课：防护与风险评估（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 原著版 | 一级到四级：实验室生物安全防护等级 | 55 | 4:35 | 17 / 0 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/script.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 国内版 | 一级到四级：实验室生物安全防护等级（国内版） | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 原著版 | 三个柜子不一样：通风柜、超净台、生物安全柜 | 46 | 3:50 | 14 / 0 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/script.md>) |
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 国内版 | 三个柜子不一样：通风柜、超净台、生物安全柜（国内版） | 61 | 5:05 | 14 / 4 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/script.md>) · [审查](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa | 国内版 | 生物安全柜的三个级别（国内版） | 51 | 4:15 | 14 / 4 | [剧本](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/script.md>) · [审查](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 国内版 | 转基因生物：先评估，再放行（国内版） | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/审查报告.md>) |
