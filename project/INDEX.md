@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 32 / 59 |
+| Microbiology Biosafety | 59 / 59 | 33 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -688,6 +688,7 @@
 | Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 国内版 | 微生物实验室的化学品安全（国内版） | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/script.md>) · [审查](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety | 原著版 | 微生物实验室的用电安全 | 29 | 2:25 | 8 / 0 | [剧本](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety/script.md>) |
 | Microbiology Biosafety | 32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety | 国内版 | 微生物实验室的用电安全（国内版） | 43 | 3:35 | 8 / 4 | [剧本](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety（国内版）/script.md>) · [审查](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog | 原著版 | 化学需氧量与测定安全 | 33 | 2:45 | 8 / 0 | [剧本](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/script.md>) |
 | Microbiology Biosafety | 33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog | 国内版 | 化学需氧量与测定安全（国内版） | 50 | 4:10 | 8 / 4 | [剧本](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog（国内版）/script.md>) · [审查](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 国内版 | 一张表看懂四个防护等级（国内版） | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/审查报告.md>) |
