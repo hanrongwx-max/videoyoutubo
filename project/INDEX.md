@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 429 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 430 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -20,10 +20,10 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
+| MIT Digital Lab Techniques Manual | 10 / 17 | 1 / 9 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
-| MIT Digital Lab Techniques Manual | 9 / 17 | 1 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -549,6 +549,7 @@
 | MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 国内版 | 旋转蒸发仪的正确使用（国内版） | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 07_Filtration | 国内版 | 三种过滤方法（国内版） | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 08_Sublimation | 国内版 | 升华纯化（国内版） | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 09_Recrystallization | 单一版 | 重结晶提纯固体 | 140 | 11:40 | 33 / 7 | [剧本](<MIT Digital Lab Techniques Manual/09_Recrystallization/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
