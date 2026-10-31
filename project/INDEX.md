@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 15 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 16 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -762,6 +762,7 @@
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 15_Distillation I | 原著版 | 简单蒸馏与分馏 | 84 | 7:00 | 30 / 0 | [剧本](<MIT Digital Lab Techniques Manual/15_Distillation I/script.md>) |
 | MIT Digital Lab Techniques Manual | 15_Distillation I | 国内版 | 简单蒸馏与分馏（国内版） | 96 | 8:00 | 30 / 4 | [剧本](<MIT Digital Lab Techniques Manual/15_Distillation I（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/15_Distillation I（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 16_Distillation II | 原著版 | 减压蒸馏 | 58 | 4:50 | 23 / 0 | [剧本](<MIT Digital Lab Techniques Manual/16_Distillation II/script.md>) |
 | MIT Digital Lab Techniques Manual | 16_Distillation II | 国内版 | 减压蒸馏（国内版） | 71 | 5:55 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/16_Distillation II（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/16_Distillation II（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 17_Refluxing a Reaction | 国内版 | 加热回流（国内版） | 76 | 6:20 | 25 / 5 | [剧本](<MIT Digital Lab Techniques Manual/17_Refluxing a Reaction（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/17_Refluxing a Reaction（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
