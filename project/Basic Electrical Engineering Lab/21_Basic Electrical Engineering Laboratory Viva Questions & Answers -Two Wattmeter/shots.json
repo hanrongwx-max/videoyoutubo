@@ -1,0 +1,416 @@
+{
+ "id": "21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "二瓦特表法：三相功率口试问答",
+ "seconds": 140,
+ "source_doc": "course/Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter.md",
+ "author_source": "project/Basic Electrical Engineering Lab/21_Basic Electrical Engineering Laboratory Viva Questions & Answers -Two Wattmeter/src.py",
+ "points": {
+  "K1": "三相功率怎么测",
+  "K2": "什么是二瓦特表法",
+  "K3": "三相有功功率公式",
+  "K4": "三相无功功率公式",
+  "K5": "由两表读数算功率因数",
+  "K6": "三相电源和三相负载举例",
+  "K7": "还会问到电机",
+  "K8": "功率表的两个线圈",
+  "K9": "有疑问就提出"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三相实验台前，台上两块功率表和一台小电动机",
+   "prompt_en": "The panda mascot stands at a three-phase lab bench with two wattmeters with blank dials and a small motor, waving at the camera.",
+   "narration": "大家好！今天复习二瓦特表法。",
+   "overlay": [
+    "二瓦特表法：三相功率口试问答"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "两块功率表、三相线、电动机三个图标",
+   "prompt_en": "Three icons in a row: two wattmeters, three supply lines, and an induction motor. No people.",
+   "narration": "两块表，测出三相总功率。",
+   "overlay": [],
+   "labels": [
+    "两块表",
+    "三相",
+    "功率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着两块功率表挠头",
+   "prompt_en": "The young male student scratches his head in front of two wattmeters with blank dials.",
+   "narration": "阿杰纳闷：三相功率，两块表就够？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿出空白题卡",
+   "prompt_en": "The female graduate student holds up a stack of blank question cards.",
+   "narration": "小研说：口试题一道道过，就明白了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三相功率怎么测",
+   "scene": "三相线路上接着两块功率表的图标",
+   "prompt_en": "An icon of a three-phase line with two wattmeters connected. No people.",
+   "narration": "第一题：三相功率怎么测？",
+   "overlay": [
+    "三相功率怎么测"
+   ],
+   "labels": [
+    "二瓦特表法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三相功率怎么测",
+   "scene": "平衡天平和不平衡天平都打勾",
+   "prompt_en": "Two icons, a balanced scale and an unbalanced scale, both with green checks. No people.",
+   "narration": "用二瓦特表法，负载对称不对称都能测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "两块功率表分别串在两根相线上，第三根线作公共参考",
+   "prompt_en": "An icon of two wattmeters placed on two of the three lines, with the third line as the common reference. No people.",
+   "narration": "第二题：两块功率表接在任意两根相线上。",
+   "overlay": [
+    "什么是二瓦特表法"
+   ],
+   "labels": [
+    "W1",
+    "W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "星形连接的三相电源图标，线间标着电压",
+   "prompt_en": "A star-connected three-phase source icon with a voltage arrow between two lines. No people.",
+   "narration": "三相电源星形连接，线电压四百伏。",
+   "overlay": [],
+   "labels": [
+    "400 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "两块表的读数相加得到总功率",
+   "prompt_en": "Two meter icons with a plus sign between them and an equals sign leading to a total power icon. No people.",
+   "narration": "总功率等于两块表读数相加。",
+   "overlay": [],
+   "labels": [
+    "P=W1+W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是二瓦特表法",
+   "scene": "功率表旁一个有功功率灯泡图标",
+   "prompt_en": "A wattmeter icon beside a glowing lamp icon representing real power. No people.",
+   "narration": "测出来的是有功功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "三相有功功率公式",
+   "scene": "白板上写着三相有功功率公式",
+   "prompt_en": "A whiteboard with a three-phase real power formula in symbols only. No people.",
+   "narration": "第三题：有功功率可以用线量写。",
+   "overlay": [
+    "三相有功功率公式"
+   ],
+   "labels": [
+    "P=√3·VL·IL",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "三相有功功率公式",
+   "scene": "白板上写着用相量表示的公式",
+   "prompt_en": "A whiteboard with the same formula written using phase quantities. No people.",
+   "narration": "也可以用相量写，cosφ 是功率因数。",
+   "overlay": [],
+   "labels": [
+    "P=3·Vph·Iph",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相无功功率公式",
+   "scene": "白板上把 cos 换成 sin",
+   "prompt_en": "A whiteboard where a cosine symbol is replaced by a sine symbol. No people.",
+   "narration": "无功功率：把余弦换成正弦。",
+   "overlay": [
+    "三相无功功率公式"
+   ],
+   "labels": [
+    "Q=√3·VL·IL",
+    "×sinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "两块表的读数卡片和一个计算器",
+   "prompt_en": "Two blank reading cards for two meters next to a calculator. No people.",
+   "narration": "第四题：功率因数怎么算？",
+   "overlay": [
+    "由两表读数算功率因数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "白板上写着正切公式",
+   "prompt_en": "A whiteboard with a tangent formula in symbols only. No people.",
+   "narration": "先由两表读数算出正切值。",
+   "overlay": [],
+   "labels": [
+    "tanφ=√3×",
+    "(W2−W1)",
+    "÷(W1+W2)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "由两表读数算功率因数",
+   "scene": "小研用计算器先求角度，再求余弦",
+   "prompt_en": "The female graduate student uses a calculator, first finding an angle, then its cosine.",
+   "narration": "反求出角度，再取余弦，就是功率因数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相电源和三相负载举例",
+   "scene": "发电机图标引出三根线",
+   "prompt_en": "A generator icon with three output lines. No people.",
+   "narration": "第五题：三相电源，比如交流发电机。",
+   "overlay": [
+    "三相电源和三相负载举例"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三相电源和三相负载举例",
+   "scene": "三相异步电动机图标",
+   "prompt_en": "A three-phase induction motor icon. No people.",
+   "narration": "三相负载，最典型的是异步电动机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "还会问到电机",
+   "scene": "电动机和发电机图标旁各一个问号",
+   "prompt_en": "A motor icon and a generator icon, each with a question mark. No people.",
+   "narration": "口试也可能问电机的原理。",
+   "overlay": [
+    "还会问到电机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "功率表内部两个线圈示意：一个粗一个细",
+   "prompt_en": "A cutaway icon of a wattmeter showing two coils, one thick and one thin. No people.",
+   "narration": "补充：功率表里有两个线圈。",
+   "overlay": [
+    "功率表的两个线圈"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "粗线圈串在线路里",
+   "prompt_en": "The thick coil connected in series with the line. No people.",
+   "narration": "电流线圈串在线路里。",
+   "overlay": [],
+   "labels": [
+    "电流线圈",
+    "M",
+    "L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "功率表的两个线圈",
+   "scene": "细线圈并在两根线之间",
+   "prompt_en": "The thin coil connected across two lines. No people.",
+   "narration": "电压线圈并在线路两端。",
+   "overlay": [],
+   "labels": [
+    "电压线圈",
+    "C",
+    "V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "有疑问就提出",
+   "scene": "阿杰举手，王老师走过来",
+   "prompt_en": "The young male student raises his hand and the safety administrator walks over.",
+   "narration": "复习有疑问，及时问老师。",
+   "overlay": [
+    "有疑问就提出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两块功率表相加的图标",
+   "prompt_en": "Two wattmeter icons with a plus sign and an equals sign. No people.",
+   "narration": "二瓦特表法：两表相加是总功率。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "P=W1+W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "余弦和正弦两张公式卡片",
+   "prompt_en": "Two formula cards, one with a cosine symbol and one with a sine symbol. No people.",
+   "narration": "有功用余弦，无功用正弦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "发电机和电动机图标",
+   "prompt_en": "A generator icon and a motor icon side by side. No people.",
+   "narration": "电源如发电机，负载如电动机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "功率表两个线圈图标",
+   "prompt_en": "A wattmeter icon showing its thick current coil and thin voltage coil. No people.",
+   "narration": "功率表：电流线圈串，电压线圈并。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在三相实验台前挥手",
+   "prompt_en": "The panda mascot waves goodbye at the three-phase lab bench with two wattmeters.",
+   "narration": "祝口试顺利，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
