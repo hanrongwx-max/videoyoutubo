@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 53 / 59 | 3 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 14 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 15 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 14 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
 | Lab Safety Training Series | 13 / 13 | 4 / 13 |
@@ -127,6 +127,7 @@
 | BIORISK MANAGEMENT | 16_Biorisk Management Containment | 国内版 | 看不见的墙：气流防护（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/16_Biorisk Management Containment（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 原著版 | 跟着路线走进三级实验室 | 53 | 4:25 | 19 / 0 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY/script.md>) |
 | BIORISK MANAGEMENT | 17_CONTAINMENT FACILITY | 国内版 | 跟着路线走进三级实验室（国内版） | 71 | 5:55 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/17_CONTAINMENT FACILITY（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19 | 原著版 | 送风头罩怎么用 | 43 | 3:35 | 15 / 0 | [剧本](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19/script.md>) |
 | BIORISK MANAGEMENT | 18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19 | 国内版 | 送风头罩怎么用（国内版） | 60 | 5:00 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/18_PERSONAL PROTECTIVE EQUIPPMENT FOR COVID19（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 19_BIORISK MANAGEMENT | 国内版 | 四个风险组与三步管理（国内版） | 52 | 4:20 | 14 / 3 | [剧本](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/19_BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 20_UMS BRI 12 months of Biorisk Management Biological Agents | 国内版 | 认识生物因子（国内版） | 97 | 8:05 | 36 / 4 | [剧本](<BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/20_UMS BRI 12 months of Biorisk Management Biological Agents（国内版）/审查报告.md>) |
@@ -227,7 +228,7 @@
 | Electrical Safety Series | 07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S | 单一版 | 便携式发电机安全使用 | 83 | 6:55 | 26 / 5 | [剧本](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/script.md>) · [审查](<Electrical Safety Series/07_Generator Safety Portable Generator Hazards And Precautions Electric Generator S/审查报告.md>) |
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 单一版 | 漏电保护器的灵敏度档位 | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
-| Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 单一版 | 电线的颜色：认得清，更要验得准 | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/script.md>) |
+| Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 单一版 | 电线的颜色：认得清，更要验得准 | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
