@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 395 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 396 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -19,10 +19,10 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 5 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
+| Laboratory Ergonomics & RSI | 10 / 36 | 0 / 8 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
-| Laboratory Ergonomics & RSI | 9 / 36 | 0 / 8 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -485,6 +485,7 @@
 | Laboratory Ergonomics & RSI | 07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire | 国内版 | 灭火器十问：选对、拿稳、用好（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC | 国内版 | 事故调查十问：查事实，改系统（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs | 单一版 | 工作危害分析十问 | 91 | 7:35 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs/script.md>) · [审查](<Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te | 单一版 | 动火作业安全十问 | 81 | 6:45 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te/script.md>) · [审查](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te/审查报告.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 原著版 | 认识激光切割机 | 29 | 2:25 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro/script.md>) |
 | Laser Equipment & Safety Training | 01_Laser Cutter 1 Intro | 国内版 | 认识激光切割机（国内版） | 43 | 3:35 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/01_Laser Cutter 1 Intro（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 02_Laser Cutter 2 Safety | 原著版 | 激光切割机的运行安全 | 61 | 5:05 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/02_Laser Cutter 2 Safety/script.md>) |
