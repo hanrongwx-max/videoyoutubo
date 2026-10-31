@@ -1,0 +1,1031 @@
+{
+ "id": "10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING",
+ "series": "BIORISK MANAGEMENT",
+ "title": "医院样本的接收与处理",
+ "seconds": 375,
+ "source_doc": "course/BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING.md",
+ "author_source": "project/BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING/src.py",
+ "points": {
+  "K1": "样本从哪里来",
+  "K2": "已知培养物，风险好评估",
+  "K3": "病人样本，可能不止一种病原",
+  "K4": "医院样本，往高处估风险",
+  "K5": "运输：密封袋加冷却剂",
+  "K6": "到货先给外包装消毒",
+  "K7": "样本管与病人隐私",
+  "K8": "管口一团纱布，防滴漏",
+  "K9": "送检方要贴好、包好",
+  "K10": "要培养的样本：最严防护",
+  "K11": "做核酸的样本：先灭活",
+  "K12": "柜内操作，穿好防护",
+  "K13": "柜内提取核酸",
+  "K14": "荧光定量检测",
+  "K15": "评估操作本身的风险",
+  "K16": "评估在前，控制在后",
+  "K17": "已知未知，一样管好",
+  "S1": "不合格样本：拒收并记录",
+  "S2": "开盖：先静置，垫纸慢拧",
+  "S3": "灭活要验证，标识后出柜",
+  "S4": "核酸检测分区，单向流动"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在样本接收窗口旁，手里拿着一个黄色密封袋",
+   "prompt_en": "The panda mascot stands beside a sample reception window holding a sealed yellow bag and waves at the camera.",
+   "narration": "今天说说：医院送来的样本怎么接。",
+   "overlay": [
+    "医院样本的接收与处理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "保卫处值班员把一个保温箱交给阿杰",
+   "prompt_en": "The security officer hands an insulated transport box to the young male student at the laboratory door.",
+   "narration": "阿杰第一次值班接收医院样本。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抱着箱子，看着箱上的生物危害标志发愣",
+   "prompt_en": "The young male student holds the box and stares uncertainly at the biohazard warning sign on its lid.",
+   "narration": "这里面装的是什么？危险吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴好手套走过来，示意他把箱子放到指定台面",
+   "prompt_en": "The female graduate student, wearing gloves, walks over and gestures toward a marked reception bench.",
+   "narration": "小研说：别急，一步一步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "样本从哪里来",
+   "scene": "多条箭头从医院、研究室、外单位图标汇向一个实验室",
+   "prompt_en": "Arrows from a hospital icon, a research lab icon and another institute icon converge on one laboratory icon. No people.",
+   "narration": "实验室的样本，来自不同地方。",
+   "overlay": [
+    "样本从哪里来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "样本从哪里来",
+   "scene": "实验室门上的三级生物安全标识图标",
+   "prompt_en": "A laboratory door icon marked with a biosafety level three pictogram. No people.",
+   "narration": "在高等级实验室，样本更要处理得当。",
+   "overlay": [],
+   "labels": [
+    "BSL-3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "已知培养物，风险好评估",
+   "scene": "一支标签清楚的培养物试管，旁边一张卡片画着已知病原和改造标记",
+   "prompt_en": "A neatly labeled culture tube beside a blank card showing one known microbe icon and a small gene edit icon. No people.",
+   "narration": "研究人员送来的纯培养物，",
+   "overlay": [
+    "已知培养物，风险好评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "已知培养物，风险好评估",
+   "scene": "卡片上打勾",
+   "prompt_en": "The card receives a green check mark. No people.",
+   "narration": "是什么病原、改过什么，都清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "已知培养物，风险好评估",
+   "scene": "天平图标稳定平衡",
+   "prompt_en": "A balance scale icon resting steady and even. No people.",
+   "narration": "所以风险比较好评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "病人样本，可能不止一种病原",
+   "scene": "一排图标：拭子、血清管、血管、尿杯、粪便盒",
+   "prompt_en": "A row of icons: a swab, a serum tube, a blood tube, a urine cup and a stool container. No people.",
+   "narration": "病人的样本就不一样了。",
+   "overlay": [
+    "病人样本，可能不止一种病原"
+   ],
+   "labels": [
+    "拭子",
+    "血清",
+    "血液",
+    "尿液",
+    "粪便"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "病人样本，可能不止一种病原",
+   "scene": "一支样本管里有几种不同形状的小病原",
+   "prompt_en": "A sample tube containing several different tiny microbe shapes. No people.",
+   "narration": "一管样本里，可能有好几种病原。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "病人样本，可能不止一种病原",
+   "scene": "样本管上浮着一个问号",
+   "prompt_en": "A large question mark floating above the sample tube. No people.",
+   "narration": "到底有什么，事先说不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "医院样本，往高处估风险",
+   "scene": "警示刻度表，指针指向高端",
+   "prompt_en": "A warning gauge with its needle pointing to the high end. No people.",
+   "narration": "所以原片说：按最高可能的风险对待。",
+   "overlay": [
+    "医院样本，往高处估风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "医院样本，往高处估风险",
+   "scene": "小研戴手套、穿防护服，小心拿着样本管",
+   "prompt_en": "The female graduate student in gloves and a lab gown handles a sample tube with care.",
+   "narration": "在国内，先一律当作有传染性，",
+   "overlay": [],
+   "labels": [
+    "标准预防"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "医院样本，往高处估风险",
+   "scene": "王老师翻看空白的病原目录和风险评估表",
+   "prompt_en": "The safety administrator reviews a blank pathogen catalogue book and a blank risk assessment form.",
+   "narration": "再按病原目录和风险评估定级别。",
+   "overlay": [],
+   "labels": [
+    "病原目录",
+    "风险评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "医院样本，往高处估风险",
+   "scene": "两排格子：左边第1格最浅，右边第一类最深，中间反转箭头",
+   "prompt_en": "Two rows of four boxes: on the left the first box is lightest, on the right the first box is darkest, with a reversing arrow between. No people.",
+   "narration": "记住：国际1组最低，国内第一类最危险。",
+   "overlay": [],
+   "labels": [
+    "国际1-4组",
+    "国内第一至四类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "运输：密封袋加冷却剂",
+   "scene": "黄色密封袋，袋口用扎带锁紧",
+   "prompt_en": "A sealed yellow plastic bag with its opening locked by a cable tie. No people.",
+   "narration": "医院样本装在专用密封袋里，",
+   "overlay": [
+    "运输：密封袋加冷却剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "运输：密封袋加冷却剂",
+   "scene": "扎带特写，袋口封死",
+   "prompt_en": "Close-up of the cable tie cinched tight around the bag opening. No people.",
+   "narration": "袋口用扎带锁紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "运输：密封袋加冷却剂",
+   "scene": "密封袋放进保温箱，周围是冰袋和干冰块图标",
+   "prompt_en": "The sealed bag placed inside an insulated box surrounded by ice packs and a dry ice block icon. No people.",
+   "narration": "再放进有冰袋或干冰的箱子运来。",
+   "overlay": [],
+   "labels": [
+    "冰袋",
+    "干冰"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "到货先给外包装消毒",
+   "scene": "小研用消毒液喷洒、擦拭密封袋外表面",
+   "prompt_en": "The female graduate student sprays and wipes the outside of the sealed bag with disinfectant on a reception tray.",
+   "narration": "收到后，第一步：给外包装消毒。",
+   "overlay": [
+    "到货先给外包装消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "到货先给外包装消毒",
+   "scene": "消毒液瓶旁一个计时器图标",
+   "prompt_en": "A disinfectant bottle next to a timer icon. No people.",
+   "narration": "消毒要等够作用时间，",
+   "overlay": [],
+   "labels": [
+    "作用时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "到货先给外包装消毒",
+   "scene": "规程卡上计时器打勾",
+   "prompt_en": "A blank procedure card with the timer icon checked. No people.",
+   "narration": "多久按本单位规程，别凭感觉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "到货先给外包装消毒",
+   "scene": "计时结束后，小研把袋子移进生物安全柜再打开",
+   "prompt_en": "After the timer ends, the female graduate student moves the bag into a biological safety cabinet and opens it inside.",
+   "narration": "时间到了，在柜子里再开袋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "样本管与病人隐私",
+   "scene": "柜内，小研从袋中取出一支红盖样本管",
+   "prompt_en": "Inside the biological safety cabinet, the female graduate student takes a red-capped sample tube out of the bag.",
+   "narration": "取出样本管。",
+   "overlay": [
+    "样本管与病人隐私"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "样本管与病人隐私",
+   "scene": "样本管标签上的病人姓名被条码代替",
+   "prompt_en": "A tube label where the patient name area is replaced by a barcode. No people.",
+   "narration": "这是病人样本，用编号代替姓名。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "样本管与病人隐私",
+   "scene": "手机拍照对着样本管，被打叉",
+   "prompt_en": "A phone camera aimed at a sample tube label, crossed out with a red X. No people.",
+   "narration": "病人信息不外传，不拍照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "管口一团纱布，防滴漏",
+   "scene": "样本管管口缠着一小团白色纱布的特写",
+   "prompt_en": "Close-up of a small wad of white gauze wrapped around the neck of the sample tube. No people.",
+   "narration": "看，管口包着一小团纱布。",
+   "overlay": [
+    "管口一团纱布，防滴漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "管口一团纱布，防滴漏",
+   "scene": "柜内拧开管盖，一滴液体被纱布吸住",
+   "prompt_en": "Inside the cabinet, as the cap is loosened, a drop of liquid is soaked up by the gauze. No people.",
+   "narration": "开管时滴下的液体，被它吸住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "管口一团纱布，防滴漏",
+   "scene": "干净的手套特写，旁边小盾牌图标",
+   "prompt_en": "Close-up of a clean gloved hand next to a small green shield icon. No people.",
+   "narration": "不沾手套，防护就不会被突破。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "送检方要贴好、包好",
+   "scene": "医院里，老周给样本管贴空白标签、装袋",
+   "prompt_en": "In a hospital room, the older man labels a sample tube with a blank label and seals it in a bag.",
+   "narration": "这些准备，在医院就要做好。",
+   "overlay": [
+    "送检方要贴好、包好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "送检方要贴好、包好",
+   "scene": "标签和密封袋两个图标打勾",
+   "prompt_en": "A blank label icon and a sealed bag icon, both with green check marks. No people.",
+   "narration": "标签贴清楚，包装封严实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "送检方要贴好、包好",
+   "scene": "运送人员图标和实验室人员图标头上各有一个盾牌",
+   "prompt_en": "Two person pictograms, a courier and a lab worker, each with a shield above the head. No people.",
+   "narration": "保护路上的运送人，也保护实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "要培养的样本：最严防护",
+   "scene": "样本到达后分出两条路线箭头",
+   "prompt_en": "An arrow from an arriving sample splits into two paths: one to a culture plate, one to a DNA helix. No people.",
+   "narration": "进了实验室，样本分两种走法。",
+   "overlay": [
+    "要培养的样本：最严防护"
+   ],
+   "labels": [
+    "要培养",
+    "做核酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "要培养的样本：最严防护",
+   "scene": "小研在柜内把样本接种到平板上",
+   "prompt_en": "The female graduate student streaks a sample onto a culture plate inside the biological safety cabinet.",
+   "narration": "一种是要培养病原的，",
+   "overlay": [],
+   "labels": [
+    "培养"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "要培养的样本：最严防护",
+   "scene": "平板上菌落变多，旁边警示图标升高",
+   "prompt_en": "Colonies multiply on a culture plate while a warning gauge beside it rises. No people.",
+   "narration": "病原会越养越多，按活培养物评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "要培养的样本：最严防护",
+   "scene": "防护措施图标全部亮起",
+   "prompt_en": "A row of protective measure icons all lighting up: cabinet, gown, gloves, face shield. No people.",
+   "narration": "防护措施要做到最严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做核酸的样本：先灭活",
+   "scene": "另一条箭头指向核酸检测",
+   "prompt_en": "The second path arrow leads to a DNA helix and a test tube icon. No people.",
+   "narration": "另一种是做核酸检测的，",
+   "overlay": [
+    "做核酸的样本：先灭活"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做核酸的样本：先灭活",
+   "scene": "柜内一台加热模块，样本管插在孔里",
+   "prompt_en": "Sample tubes seated in a heating block inside the biological safety cabinet. No people.",
+   "narration": "先把样本灭活，让病原失去活性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做核酸的样本：先灭活",
+   "scene": "加热模块旁一本空白规程，标着某病原图标",
+   "prompt_en": "A blank procedure book with a microbe icon on the cover beside the heating block. No people.",
+   "narration": "怎么灭活，按该病原的操作规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "做核酸的样本：先灭活",
+   "scene": "日历图标上写着过去的年份标记，旁边规程书",
+   "prompt_en": "A calendar icon flipping back to an earlier year beside a blank procedure book. No people.",
+   "narration": "原片的条件是当时做法，以现行规定为准。",
+   "overlay": [],
+   "labels": [
+    "当时做法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "柜内操作，穿好防护",
+   "scene": "小研穿好防护在生物安全柜前操作",
+   "prompt_en": "The female graduate student in gown, gloves and face shield works at a biological safety cabinet.",
+   "narration": "这些步骤，都在生物安全柜里做，",
+   "overlay": [
+    "柜内操作，穿好防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "柜内操作，穿好防护",
+   "scene": "防护服、手套、面罩图标，旁边规程卡",
+   "prompt_en": "Icons of a gown, gloves and a face shield next to a blank procedure card. No people.",
+   "narration": "穿好防护，按管理规定来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "柜内提取核酸",
+   "scene": "柜内，小研把灭活后的样本加到提取管里",
+   "prompt_en": "Inside the cabinet, the female graduate student adds an inactivated sample into extraction tubes.",
+   "narration": "灭活后，提取核酸。",
+   "overlay": [
+    "柜内提取核酸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "柜内提取核酸",
+   "scene": "提取操作仍在柜内，柜子图标打勾",
+   "prompt_en": "A biological safety cabinet icon with a green check mark over extraction tubes. No people.",
+   "narration": "提取这一步，也要在柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光定量检测",
+   "scene": "一台荧光定量 PCR 仪，机身空白",
+   "prompt_en": "A real-time thermal cycler instrument with a plain blank casing. No people.",
+   "narration": "最后上荧光定量PCR仪检测，",
+   "overlay": [
+    "荧光定量检测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光定量检测",
+   "scene": "屏幕上一条上升的扩增曲线，屏幕无文字",
+   "prompt_en": "A screen showing a rising amplification curve with no text. No people.",
+   "narration": "看样本里有没有目标病原。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "评估操作本身的风险",
+   "scene": "流程图：接收、开袋、灭活、提取、检测五个方框",
+   "prompt_en": "A flowchart of five blank boxes connected by arrows: reception, opening, inactivation, extraction, testing. No people.",
+   "narration": "这一整套，要写进样本处理方案。",
+   "overlay": [
+    "评估操作本身的风险"
+   ],
+   "labels": [
+    "接收",
+    "开袋",
+    "灭活",
+    "提取",
+    "检测"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "评估操作本身的风险",
+   "scene": "每个方框上方一个小天平图标",
+   "prompt_en": "Small balance scale icons appear above each box in the flowchart. No people.",
+   "narration": "每一步操作本身的风险，也要评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估在前，控制在后",
+   "scene": "王老师指着白板上的两个大方框：评估、控制",
+   "prompt_en": "The safety administrator points at a whiteboard with two large blank boxes linked by an arrow, with a balance icon and a shield icon.",
+   "narration": "回顾一下：先评估，再控制。",
+   "overlay": [
+    "评估在前，控制在后"
+   ],
+   "labels": [
+    "评估",
+    "控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估在前，控制在后",
+   "scene": "医院样本图标指向高风险刻度",
+   "prompt_en": "A hospital sample icon pointing to the high end of a risk gauge. No people.",
+   "narration": "医院样本，风险往高处估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估在前，控制在后",
+   "scene": "实验室建筑和生物安全柜图标",
+   "prompt_en": "Icons of a containment laboratory building and a biological safety cabinet. No people.",
+   "narration": "工程控制：合适的实验室和安全柜。",
+   "overlay": [],
+   "labels": [
+    "工程控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估在前，控制在后",
+   "scene": "防护服、手套、面罩图标",
+   "prompt_en": "Icons of a gown, gloves and a face shield. No people.",
+   "narration": "再加上个人防护。",
+   "overlay": [],
+   "labels": [
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "已知未知，一样管好",
+   "scene": "两支样本管：一支标签清楚，一支带问号，都被盾牌罩住",
+   "prompt_en": "Two tubes, one clearly labeled and one with a question mark, both covered by the same shield. No people.",
+   "narration": "已知的、未知的样本，",
+   "overlay": [
+    "已知未知，一样管好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "已知未知，一样管好",
+   "scene": "评估加控制两个图标连成一个圈",
+   "prompt_en": "A balance icon and a shield icon joined in a loop. No people.",
+   "narration": "都按这个思路来管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不合格样本：拒收并记录",
+   "scene": "小研核对样本管条码和空白申请单",
+   "prompt_en": "The female graduate student compares a tube barcode with a blank request form.",
+   "narration": "接收时，先核对样本和申请单。",
+   "overlay": [
+    "不合格样本：拒收并记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不合格样本：拒收并记录",
+   "scene": "三个问题图标：无标签的管、管单不符、裂开的管",
+   "prompt_en": "Three problem icons: an unlabeled tube, a tube and form that do not match, and a cracked tube. No people.",
+   "narration": "没标签、对不上、容器破损，",
+   "overlay": [],
+   "labels": [
+    "无标签",
+    "不相符",
+    "容器破损"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不合格样本：拒收并记录",
+   "scene": "这类样本放进隔离盒，旁边登记本",
+   "prompt_en": "The problem sample placed into a separate holding box beside a blank logbook. No people.",
+   "narration": "就拒收或单独隔离，并登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不合格样本：拒收并记录",
+   "scene": "小研打电话联系送检方",
+   "prompt_en": "The female graduate student calls the sending hospital on a desk phone.",
+   "narration": "联系送检方，别自己猜着做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开盖：先静置，垫纸慢拧",
+   "scene": "柜内样本管竖直放在架上静置",
+   "prompt_en": "A sample tube standing upright in a rack inside the cabinet, resting. No people.",
+   "narration": "开盖前，先让管子静置一会儿。",
+   "overlay": [
+    "开盖：先静置，垫纸慢拧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开盖：先静置，垫纸慢拧",
+   "scene": "小研用沾消毒液的吸水纸裹住管盖",
+   "prompt_en": "The female graduate student wraps the tube cap with a disinfectant-soaked absorbent paper inside the cabinet.",
+   "narration": "用沾了消毒液的纸巾包住管盖，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开盖：先静置，垫纸慢拧",
+   "scene": "管盖被缓慢拧开",
+   "prompt_en": "The wrapped cap is unscrewed slowly and gently. No people.",
+   "narration": "慢慢拧开，不猛拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开盖：先静置，垫纸慢拧",
+   "scene": "甩管子和用力拔盖的图标，被打叉",
+   "prompt_en": "Icons of a tube being flicked hard and a cap being yanked off, both crossed out with a red X. No people.",
+   "narration": "甩管、硬拔，都会溅出气溶胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "灭活要验证，标识后出柜",
+   "scene": "灭活后的样本管旁，一张空白验证报告",
+   "prompt_en": "Inactivated sample tubes beside a blank validation report with a check mark. No people.",
+   "narration": "灭活方法要经过验证，确认有效。",
+   "overlay": [
+    "灭活要验证，标识后出柜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "灭活要验证，标识后出柜",
+   "scene": "小研给灭活后的样本管贴上空白彩色标签",
+   "prompt_en": "The female graduate student puts blank colored labels on the inactivated tubes.",
+   "narration": "灭活后的样本，贴上明显标识。",
+   "overlay": [],
+   "labels": [
+    "已灭活"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "灭活要验证，标识后出柜",
+   "scene": "样本架外壁被擦拭消毒后才移出柜子",
+   "prompt_en": "A sample rack being wiped with disinfectant before it is moved out of the cabinet. No people.",
+   "narration": "外壁消毒，确认后才移出柜子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "灭活要验证，标识后出柜",
+   "scene": "未贴标识的管子被直接拿出柜子，被打叉",
+   "prompt_en": "An unlabeled tube being carried straight out of the cabinet, crossed out with a red X. No people.",
+   "narration": "没确认的，别拿出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "四个房间图标连成一排",
+   "prompt_en": "Four room icons in a row connected by one-way arrows. No people.",
+   "narration": "核酸检测实验室，分成几个区。",
+   "overlay": [
+    "核酸检测分区，单向流动"
+   ],
+   "labels": [
+    "试剂准备",
+    "样本处理",
+    "扩增",
+    "产物分析"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "人员沿单向箭头前进，回头箭头被打叉",
+   "prompt_en": "A person pictogram walks along the one-way arrows; a backward arrow is crossed out with a red X. No people.",
+   "narration": "人和物品单向走，不走回头路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "每个房间门口挂着不同颜色的工作服",
+   "prompt_en": "Each room door has its own rack of lab coats in a different color. No people.",
+   "narration": "各区的工作服和用品，不混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "盾牌图标同时罩住人员和样本管",
+   "prompt_en": "A shield icon covering both a person pictogram and a sample tube. No people.",
+   "narration": "既防污染结果，也保护人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现密封袋、消毒液、纱布样本管三个图标",
+   "prompt_en": "The panda mascot stands beside three icons: a sealed bag, a disinfectant bottle and a tube with gauze.",
+   "narration": "密封运来，外包装消毒，纱布防滴漏。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "核对单、隔离盒、包着纸巾的管盖图标",
+   "prompt_en": "Icons of a checklist, a holding box and a tube cap wrapped in paper. No people.",
+   "narration": "核对样本，异常拒收，开盖要慢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两条路线箭头：培养和灭活，后面接生物安全柜",
+   "prompt_en": "Two path arrows, culture and inactivation, both leading into a biological safety cabinet icon. No people.",
+   "narration": "要培养的最严防，做核酸的先灭活。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天平和盾牌图标，旁边四个分区房间",
+   "prompt_en": "A balance icon and a shield icon beside four room icons with one-way arrows. No people.",
+   "narration": "先评估再控制，分区单向走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣抱着贴好标签的样本盒，向镜头挥手",
+   "prompt_en": "The panda mascot holds a neatly labeled sample box and waves goodbye at the camera.",
+   "narration": "接好每一份样本，我们下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
