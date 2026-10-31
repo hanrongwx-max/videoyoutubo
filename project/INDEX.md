@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 275 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 276 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
-| Microbiology Biosafety | 39 / 59 | 0 / 25 |
+| Microbiology Biosafety | 40 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -21,9 +21,9 @@
 | RSO Training Series | 9 / 9 | 0 / 9 |
 | General Lab Safety Practices | 8 / 8 | 3 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 3 / 8 |
-| Photonics & Laser Safety Series | 8 / 8 | 1 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 | 2 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 1 / 7 |
-| Chemical Spillage & Response | 7 / 7 | 1 / 7 |
+| Chemical Spillage & Response | 7 / 7 | 2 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 3 / 7 |
 | Electrical Safety Series | 6 / 25 | 1 / 6 |
 | MIT Digital Lab Techniques Manual | 1 / 17 | 0 / 1 |
@@ -148,6 +148,7 @@
 | CDC Laboratory Safety Series | 23_Fundamentals of Methylene Chloride Safety – Introduction | 国内版 | 二氯甲烷的安全使用（国内版） | 36 | 3:00 | 6 / 5 | [剧本](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/23_Fundamentals of Methylene Chloride Safety – Introduction（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 原著版 | 进实验室，先穿对、戴好 | 52 | 4:20 | 17 / 0 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1/script.md>) |
 | Chemical Spillage & Response | 01_Proper Dress and PPE Lab Safety Video Part 1 | 国内版 | 进实验室，先穿对、戴好（国内版） | 59 | 4:55 | 17 / 6 | [剧本](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/script.md>) · [审查](<Chemical Spillage & Response/01_Proper Dress and PPE Lab Safety Video Part 1（国内版）/审查报告.md>) |
+| Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 原著版 | 实验室里的安全设备 | 55 | 4:35 | 23 / 0 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2/script.md>) |
 | Chemical Spillage & Response | 02_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Chemical Spillage & Response/02_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 03_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Chemical Spillage & Response/03_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
 | Chemical Spillage & Response | 04_Chemical Hazards Lab Safety Video Part 4 | 国内版 | 认识化学品的危害：SDS与标签（国内版） | 60 | 5:00 | 17 / 6 | [剧本](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/script.md>) · [审查](<Chemical Spillage & Response/04_Chemical Hazards Lab Safety Video Part 4（国内版）/审查报告.md>) |
@@ -279,6 +280,7 @@
 | Microbiology Biosafety | 08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf | 单一版 | 生物安全与生物安保：防意外，也防故意 | 58 | 4:50 | 14 / 3 | [剧本](<Microbiology Biosafety/08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf/script.md>) · [审查](<Microbiology Biosafety/08_what's the difference b w biosafety & biosecurity microbiology laboratory biosaf/审查报告.md>) |
 | Microbiology Biosafety | 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu | 国内版 | 生物恐怖怎么防：识别·预防·报告（国内版） | 44 | 3:40 | 8 / 4 | [剧本](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（国内版）/script.md>) · [审查](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe | 单一版 | 层流台 VS 生物安全柜：别选错 | 42 | 3:30 | 13 / 4 | [剧本](<Microbiology Biosafety/10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe/script.md>) · [审查](<Microbiology Biosafety/10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe/审查报告.md>) |
+| Microbiology Biosafety | 11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory | 单一版 | 生物安全的五个 P | 28 | 2:20 | 7 / 3 | [剧本](<Microbiology Biosafety/11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory/script.md>) · [审查](<Microbiology Biosafety/11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory/审查报告.md>) |
 | Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 国内版 | 实验室里的八类危害（国内版） | 71 | 5:55 | 14 / 4 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/script.md>) · [审查](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 国内版 | 实验室八条通用安全规则（国内版） | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
@@ -310,6 +312,7 @@
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
+| Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 国内版 | 光的波动：反射、折射、干涉与偏振（国内版） | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 国内版 | 光的粒子性：光子、光谱与热辐射（国内版） | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 04_4. More on Properties of Light | 国内版 | 光学材料：折射、吸收与反射（国内版） | 83 | 6:55 | 16 / 5 | [剧本](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/04_4. More on Properties of Light（国内版）/审查报告.md>) |
