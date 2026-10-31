@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
-| BIORISK MANAGEMENT | 47 / 47 | 40 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 41 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
@@ -192,6 +192,7 @@
 | BIORISK MANAGEMENT | 37_BIORISK ASSESSMENT HAZARDS AND RISKS | 国内版 | 危害与风险评估（国内版） | 59 | 4:55 | 28 / 4 | [剧本](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 原著版 | 风险评估怎么做 | 40 | 3:20 | 29 / 0 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT/script.md>) |
 | BIORISK MANAGEMENT | 38_BIORISK ASSESSMENT | 国内版 | 风险评估怎么做（国内版） | 46 | 3:50 | 29 / 5 | [剧本](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/38_BIORISK ASSESSMENT（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 39_BIOSAFETY LEVEL 3 LABORATORY | 原著版 | 三级室怎么封 | 25 | 2:05 | 15 / 0 | [剧本](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY/script.md>) |
 | BIORISK MANAGEMENT | 39_BIOSAFETY LEVEL 3 LABORATORY | 国内版 | 三级室怎么封（国内版） | 30 | 2:30 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/39_BIOSAFETY LEVEL 3 LABORATORY（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 原著版 | 楼和柜子怎么挡住病原体：工程控制 | 129 | 10:45 | 30 / 0 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS/script.md>) |
 | BIORISK MANAGEMENT | 40_ENGINEERING CONTROLS | 国内版 | 楼和柜子怎么挡住病原体：工程控制（国内版） | 144 | 12:00 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/40_ENGINEERING CONTROLS（国内版）/审查报告.md>) |
