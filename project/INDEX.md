@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 38 / 59 |
+| Microbiology Biosafety | 59 / 59 | 39 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -700,6 +700,7 @@
 | Microbiology Biosafety | 37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi | 国内版 | 每一级实验室，配哪些安全装备（国内版） | 65 | 5:25 | 15 / 4 | [剧本](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（国内版）/script.md>) · [审查](<Microbiology Biosafety/37_What safety equipment is used at each BSL Biosafety Levels BSL-1 to BSL-4 trendi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 原著版 | 谁来定规矩：生物安全等级的标准与审批 | 48 | 4:00 | 17 / 0 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending/script.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 原著版 | 一级到四级：各级实验室要学什么 | 58 | 4:50 | 21 / 0 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) |
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 国内版 | 一级到四级：各级实验室要学什么（国内版） | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa（国内版）/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 40_How do you determine the biosafety level for a new microorganism or experiment b | 国内版 | 怎么定级别：新微生物和新实验的风险评估（国内版） | 70 | 5:50 | 18 / 3 | [剧本](<Microbiology Biosafety/40_How do you determine the biosafety level for a new microorganism or experiment b（国内版）/script.md>) · [审查](<Microbiology Biosafety/40_How do you determine the biosafety level for a new microorganism or experiment b（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
