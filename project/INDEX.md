@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 10 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 11 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -750,6 +750,7 @@
 | MIT Digital Lab Techniques Manual | 08_Sublimation | 国内版 | 升华纯化（国内版） | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 09_Recrystallization | 原著版 | 重结晶提纯固体 | 116 | 9:40 | 33 / 0 | [剧本](<MIT Digital Lab Techniques Manual/09_Recrystallization/script.md>) |
 | MIT Digital Lab Techniques Manual | 09_Recrystallization | 国内版 | 重结晶提纯固体（国内版） | 140 | 11:40 | 33 / 7 | [剧本](<MIT Digital Lab Techniques Manual/09_Recrystallization（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/09_Recrystallization（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 10_Column Chromatography | 原著版 | 柱色谱分离 | 115 | 9:35 | 35 / 0 | [剧本](<MIT Digital Lab Techniques Manual/10_Column Chromatography/script.md>) |
 | MIT Digital Lab Techniques Manual | 10_Column Chromatography | 国内版 | 柱色谱分离（国内版） | 132 | 11:00 | 35 / 5 | [剧本](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/10_Column Chromatography（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 11_Using a Balance | 国内版 | 分析天平的使用（国内版） | 96 | 8:00 | 29 / 5 | [剧本](<MIT Digital Lab Techniques Manual/11_Using a Balance（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/11_Using a Balance（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 12_Melting Point | 国内版 | 熔点测定（国内版） | 95 | 7:55 | 28 / 4 | [剧本](<MIT Digital Lab Techniques Manual/12_Melting Point（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/12_Melting Point（国内版）/审查报告.md>) |
