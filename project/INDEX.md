@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 8 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 9 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -628,6 +628,7 @@
 | Laboratory Ergonomics & RSI | 07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire | 国内版 | 灭火器十问：选对、拿稳、用好（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC | 原著版 | 事故调查十问：查事实，改系统 | 36 | 3:00 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC/script.md>) |
 | Laboratory Ergonomics & RSI | 08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC | 国内版 | 事故调查十问：查事实，改系统（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs | 原著版 | 工作危害分析十问 | 53 | 4:25 | 10 / 0 | [剧本](<Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs/script.md>) |
 | Laboratory Ergonomics & RSI | 09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs | 国内版 | 工作危害分析十问（国内版） | 91 | 7:35 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/09_Test Your Knowledge of Job Hazard Analysis (JHA) Job Safety Analysis (JSA) MCQs（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te | 国内版 | 动火作业安全十问（国内版） | 81 | 6:45 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/10_Test Your Hot Work Safety Knowledge Hot Work Safety Quiz Hot Work Safety MCQs Te（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet | 国内版 | 脚手架安全十问（国内版） | 72 | 6:00 | 10 / 6 | [剧本](<Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/11_Test Your Scaffolding Safety Knowledge Scaffolding Safety Quiz Scaffolding Safet（国内版）/审查报告.md>) |
