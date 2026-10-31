@@ -1,0 +1,723 @@
+{
+ "id": "23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder",
+ "edition": "单一版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊接机更换激光电源",
+ "seconds": 260,
+ "source_doc": "course/Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "仅限专业人员，内有高压和强激光",
+  "K2": "残余高压，等够时间再碰",
+  "K3": "全程戴绝缘手套",
+  "K4": "准备工具和新激光电源",
+  "K5": "关机并拔掉全部线缆",
+  "K6": "锁定四个脚轮",
+  "K7": "拆把手，最后一颗扶住把手",
+  "K8": "拆下左侧盖板",
+  "K9": "拆五根电源线，黄胶用镊子剥",
+  "K10": "拆下电源固定螺丝",
+  "K11": "向右滑出，先抬左侧",
+  "K12": "拆下电源支架",
+  "K13": "支架装到新电源，挂钩朝外",
+  "K14": "新电源装回原位",
+  "K15": "理线，逐根固定电源线",
+  "K16": "复核接线顺序",
+  "K17": "拧回固定螺丝",
+  "K18": "挂钩对销钉，装回左盖",
+  "K19": "两侧把手装回",
+  "S1": "维修区围起来，闲人免进",
+  "S2": "开着盖，不通电调试",
+  "S3": "认得总闸，配电箱前不堆物",
+  "S4": "金属反光也伤人"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台带脚轮的激光焊接机旁招手",
+   "prompt_en": "The panda mascot stands beside a blank gray wheeled handheld laser welding machine in a workshop and waves at the camera.",
+   "narration": "这一课讲激光焊接机怎样更换激光电源。",
+   "overlay": [
+    "激光焊接机更换激光电源"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "围挡、插头打叉、总闸、反光四个图标排成一行",
+   "prompt_en": "Four icons in a row: a barrier tape, a crossed-out power plug, a main circuit breaker, and a beam reflecting off a metal plate. No people.",
+   "narration": "围好维修区，开盖不通电，认总闸，防反光。",
+   "overlay": [],
+   "labels": [
+    "围挡",
+    "不通电",
+    "总闸",
+    "防反光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "焊接机侧盖打开着，阿杰好奇地凑过去看",
+   "prompt_en": "The side cover of the laser welding machine is open, and the young male student leans in curiously to look inside.",
+   "narration": "老李在修焊接机，阿杰凑过去想看个究竟。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰的手快要碰到机内的电线",
+   "prompt_en": "The young male student's hand drifts toward the exposed wires inside the open machine.",
+   "narration": "手差点就碰到机器里的电线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李伸手挡住，指向地上的黄黑隔离带",
+   "prompt_en": "The facility engineer raises a hand to stop him and points at a yellow and black barrier tape on the floor.",
+   "narration": "老李拦住他：维修区，请在线外看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维修区围起来，闲人免进",
+   "scene": "老李在机器四周拉起隔离带，挂上空白提示牌",
+   "prompt_en": "The facility engineer sets up barrier tape around the machine and hangs a blank notice board with a wrench pictogram.",
+   "narration": "开盖维修，先把维修区围起来。",
+   "overlay": [
+    "维修区围起来，闲人免进"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维修区围起来，闲人免进",
+   "scene": "隔离带外站着阿杰和小研，隔离带内只有老李",
+   "prompt_en": "The young male student and the female graduate student stand outside the barrier tape while only the facility engineer works inside.",
+   "narration": "无关人员在线外，不靠近、不伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "维修区围起来，闲人免进",
+   "scene": "机器屏幕上贴着一张空白的停用卡",
+   "prompt_en": "A blank out-of-service card with a stop pictogram is taped onto the machine's control panel. No people.",
+   "narration": "设备上挂停用提示，别人不会误开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "仅限专业人员，内有高压和强激光",
+   "scene": "当心触电和当心激光两个警告标志并排",
+   "prompt_en": "An electric shock warning sign and a laser warning sign side by side on a yellow background. No people.",
+   "narration": "激光焊接机里有高压，也有强激光。",
+   "overlay": [
+    "仅限专业人员，内有高压和强激光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "仅限专业人员，内有高压和强激光",
+   "scene": "触电和烧伤图标并排，下面一个惊叹号",
+   "prompt_en": "Icons of an electric shock and a burned hand side by side with a large exclamation mark below. No people.",
+   "narration": "处理不当，会触电、烧伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "仅限专业人员，内有高压和强激光",
+   "scene": "学生拿螺丝刀伸向机箱的图标，被红叉划掉",
+   "prompt_en": "An icon of a student reaching toward a machine cabinet with a screwdriver, crossed out with a red X. No people.",
+   "narration": "非专业人员严禁拆机，动手前必须断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "残余高压，等够时间再碰",
+   "scene": "长条形电源图标里闪着电，旁边一个沙漏",
+   "prompt_en": "An icon of a long power supply module with a small lightning symbol inside and an hourglass beside it. No people.",
+   "narration": "激光电源断电后，还可能残留高压。",
+   "overlay": [
+    "残余高压，等够时间再碰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "残余高压，等够时间再碰",
+   "scene": "老李看空白说明书，再看手表",
+   "prompt_en": "The facility engineer reads a blank service manual and checks his watch.",
+   "narration": "按说明书规定的时间等够，再触碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "全程戴绝缘手套",
+   "scene": "老李戴好绝缘手套，开始工作",
+   "prompt_en": "The facility engineer puts on thick insulated rubber gloves before starting work.",
+   "narration": "全过程戴绝缘手套。",
+   "overlay": [
+    "全程戴绝缘手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "准备工具和新激光电源",
+   "scene": "木纹台面上一个长条形银色电源和一排工具",
+   "prompt_en": "Top view of a wooden workbench with a long silver power supply module, several screwdrivers, two hex wrenches and tweezers. No people.",
+   "narration": "备好新激光电源、十字和一字螺丝刀，",
+   "overlay": [
+    "准备工具和新激光电源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "准备工具和新激光电源",
+   "scene": "两把大小不同的内六角扳手和一把镊子特写",
+   "prompt_en": "Close view of two hex wrenches of different sizes and a pair of tweezers on the bench. No people.",
+   "narration": "两把内六角扳手，还有镊子。",
+   "overlay": [],
+   "labels": [
+    "激光电源",
+    "螺丝刀",
+    "内六角扳手",
+    "镊子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关机并拔掉全部线缆",
+   "scene": "老李拔下电源插头和其他线缆",
+   "prompt_en": "The facility engineer pulls out the power plug and disconnects the other cables from the machine.",
+   "narration": "关机，拔掉全部线缆。",
+   "overlay": [
+    "关机并拔掉全部线缆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "锁定四个脚轮",
+   "scene": "老李把四个脚轮锁扣依次踩下",
+   "prompt_en": "The facility engineer presses down the brake levers of all four caster wheels one by one.",
+   "narration": "锁好四个脚轮。",
+   "overlay": [
+    "锁定四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆把手，最后一颗扶住把手",
+   "scene": "老李用内六角扳手松把手螺丝",
+   "prompt_en": "The facility engineer loosens the handle screws with a hex wrench.",
+   "narration": "松开前后把手的八颗螺丝。",
+   "overlay": [
+    "拆把手，最后一颗扶住把手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆把手，最后一颗扶住把手",
+   "scene": "老李一只手扶住把手，另一只手拧最后一颗螺丝",
+   "prompt_en": "The facility engineer holds the handle with one hand while removing the last screw with the other.",
+   "narration": "拆最后一颗时扶住把手，免得掉下砸脚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "拆下左侧盖板",
+   "scene": "老李拆下左盖螺丝，取下盖板",
+   "prompt_en": "The facility engineer removes the left cover screw and lifts the side cover away.",
+   "narration": "拆下左侧盖板。",
+   "overlay": [
+    "拆下左侧盖板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拆五根电源线，黄胶用镊子剥",
+   "scene": "机内长条电源一端，五根线接在端子上",
+   "prompt_en": "Inside the machine, one end of a long power supply module shows five wires connected to a terminal strip. No people.",
+   "narration": "激光电源一端接着五根电源线。",
+   "overlay": [
+    "拆五根电源线，黄胶用镊子剥"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拆五根电源线，黄胶用镊子剥",
+   "scene": "老李用十字螺丝刀逐根拆下端子线",
+   "prompt_en": "Wearing insulated gloves, the facility engineer unscrews the terminal wires one by one with a cross-head screwdriver.",
+   "narration": "用十字螺丝刀，逐根拆下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拆五根电源线，黄胶用镊子剥",
+   "scene": "老李用镊子剥掉端子上的黄色固定胶",
+   "prompt_en": "The facility engineer uses tweezers to peel yellow fixing glue off a terminal.",
+   "narration": "端子上有黄色固定胶，用镊子剥掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拆下电源固定螺丝",
+   "scene": "主板旁边一颗被圆圈标出的螺丝，螺丝刀拧下",
+   "prompt_en": "A screw near the circuit board is marked with a green circle and removed with a screwdriver.",
+   "narration": "再拆下固定电源的螺丝。",
+   "overlay": [
+    "拆下电源固定螺丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开着盖，不通电调试",
+   "scene": "欣欣站在开着盖的机器旁，手里拿着拔下的插头",
+   "prompt_en": "The panda mascot stands beside the open machine holding an unplugged power cord.",
+   "narration": "盖子开着的时候，绝不通电试机。",
+   "overlay": [
+    "开着盖，不通电调试"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开着盖，不通电调试",
+   "scene": "开盖的机器插着电、亮着灯，被红叉划掉",
+   "prompt_en": "An icon of an open machine plugged in with its indicator lit, crossed out with a red X. No people.",
+   "narration": "想看看灯亮不亮，也不能插电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开着盖，不通电调试",
+   "scene": "老李把插头放在自己身边，别人够不着",
+   "prompt_en": "The facility engineer keeps the unplugged power cord coiled beside him, out of others' reach.",
+   "narration": "插头放在自己手边，别人插不上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "开着盖，不通电调试",
+   "scene": "老李翻开空白规程，指着一个持证图标",
+   "prompt_en": "The facility engineer opens a blank procedure booklet and points at a certificate icon.",
+   "narration": "确需带电测量，由持证人员按规程做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "向右滑出，先抬左侧",
+   "scene": "老李双手把长条电源从左向右滑动",
+   "prompt_en": "The facility engineer slides the long power supply from left to right with both hands.",
+   "narration": "把电源从左往右滑。",
+   "overlay": [
+    "向右滑出，先抬左侧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "向右滑出，先抬左侧",
+   "scene": "老李先抬起电源左端，再慢慢取出右端",
+   "prompt_en": "The facility engineer lifts the left end of the power supply out first, then slowly pulls out the right end.",
+   "narration": "先抬出左侧，再慢慢取出右侧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "拆下电源支架",
+   "scene": "电源放在台面上，老李用小号内六角扳手拆支架",
+   "prompt_en": "The power supply lies on the bench; the facility engineer removes the bracket screws with a small hex wrench.",
+   "narration": "放到台面上，拆下电源支架的八颗螺丝。",
+   "overlay": [
+    "拆下电源支架"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "支架装到新电源，挂钩朝外",
+   "scene": "新电源和支架并排，支架上的挂钩被圆圈标出",
+   "prompt_en": "The new power supply lies next to the metal bracket, its hooks marked with green circles. No people.",
+   "narration": "把支架装到新电源上。",
+   "overlay": [
+    "支架装到新电源，挂钩朝外"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "支架装到新电源，挂钩朝外",
+   "scene": "挂钩朝外的支架打勾，朝内的打叉",
+   "prompt_en": "Two icons: a bracket with hooks facing outward with a green check, and hooks facing inward with a red X. No people.",
+   "narration": "注意方向：挂钩要朝外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "支架装到新电源，挂钩朝外",
+   "scene": "老李拧紧支架螺丝",
+   "prompt_en": "The facility engineer tightens the bracket screws on the new power supply.",
+   "narration": "八颗螺丝拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "新电源装回原位",
+   "scene": "老李把新电源放回机内原位",
+   "prompt_en": "The facility engineer slides the new power supply back into its place inside the machine.",
+   "narration": "把新电源装回原来的位置。",
+   "overlay": [
+    "新电源装回原位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "理线，逐根固定电源线",
+   "scene": "老李把线缆理顺，逐根拧紧端子",
+   "prompt_en": "The facility engineer tidies the cables and tightens each terminal screw one by one.",
+   "narration": "理顺线缆，五根电源线逐根拧紧。",
+   "overlay": [
+    "理线，逐根固定电源线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "复核接线顺序",
+   "scene": "老李对照平板上的空白接线示意图检查",
+   "prompt_en": "The facility engineer compares the terminals with a simple wiring diagram of lines and colored dots on a tablet.",
+   "narration": "对照参考图，再核对一遍接线顺序。",
+   "overlay": [
+    "复核接线顺序"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "复核接线顺序",
+   "scene": "端子和导线颜色一一对应，打勾",
+   "prompt_en": "Icon of terminals and wires matched one to one by color with a green check mark. No people.",
+   "narration": "一根都不能接错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "拧回固定螺丝",
+   "scene": "老李拧回主板旁的固定螺丝",
+   "prompt_en": "The facility engineer refastens the screw near the circuit board that secures the power supply.",
+   "narration": "拧回固定电源的螺丝。",
+   "overlay": [
+    "拧回固定螺丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "挂钩对销钉，装回左盖",
+   "scene": "盖板挂钩对准销钉，老李推入并拧紧",
+   "prompt_en": "The facility engineer aligns the side cover's three hooks with three pegs on the frame, pushes it in and tightens the screw.",
+   "narration": "三个挂钩对准三个销钉，装回左盖。",
+   "overlay": [
+    "挂钩对销钉，装回左盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "两侧把手装回",
+   "scene": "老李装回两侧把手",
+   "prompt_en": "The facility engineer refits the handles on both sides and tightens them with the hex wrench.",
+   "narration": "两侧把手装回拧紧。",
+   "overlay": [
+    "两侧把手装回"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认得总闸，配电箱前不堆物",
+   "scene": "欣欣站在墙上的配电箱前，指着里面的总开关",
+   "prompt_en": "The panda mascot stands at a wall-mounted electrical distribution box and points at the main breaker inside.",
+   "narration": "上岗前，先认清这台设备的总闸在哪。",
+   "overlay": [
+    "认得总闸，配电箱前不堆物"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认得总闸，配电箱前不堆物",
+   "scene": "配电箱前堆着纸箱的图标，被红叉划掉",
+   "prompt_en": "An icon of cardboard boxes piled in front of a distribution box, crossed out with a red X. No people.",
+   "narration": "配电箱前不堆杂物，保持通道畅通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认得总闸，配电箱前不堆物",
+   "scene": "机器冒烟图标，小研快步拉下总闸",
+   "prompt_en": "A small smoke icon rises from a machine; the female graduate student quickly switches off the main breaker.",
+   "narration": "出现异常，第一时间断开电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "金属反光也伤人",
+   "scene": "光束打到亮金属板上，反射线射向一旁",
+   "prompt_en": "Diagram: a laser beam hits a shiny metal plate and a reflected dashed line bounces off to the side toward an eye icon. No people.",
+   "narration": "修好试焊时，金属表面会反射激光。",
+   "overlay": [
+    "金属反光也伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "金属反光也伤人",
+   "scene": "反射线指向眼睛和手两个图标",
+   "prompt_en": "Two reflected dashed lines point to an eye icon and a hand icon. No people.",
+   "narration": "反射光同样能伤眼睛、灼伤皮肤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "金属反光也伤人",
+   "scene": "老李戴防护眼镜和长手套，阿杰在围挡外",
+   "prompt_en": "The facility engineer wears laser safety goggles and long gloves at the welding bench while the young male student stays outside an opaque curtain.",
+   "narration": "做好眼睛和皮肤防护，旁人在围挡外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "金属反光也伤人",
+   "scene": "欣欣指着封面有激光标志的空白小册子",
+   "prompt_en": "The panda mascot points at a blank booklet with a laser warning pictogram on the cover.",
+   "narration": "防护要求以现行国家标准为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身后浮现几个步骤图标",
+   "prompt_en": "The panda mascot stands beside the closed machine with step icons floating behind: barrier tape, a crossed-out plug, a breaker and goggles.",
+   "narration": "围好维修区，开盖不通电，认总闸，防反光。",
+   "overlay": [],
+   "labels": [
+    "围维修区",
+    "不通电",
+    "认总闸",
+    "防反光"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰站在隔离带外，向老李竖起大拇指",
+   "prompt_en": "The young male student stands outside the barrier tape and gives the facility engineer a thumbs up.",
+   "narration": "阿杰记住了：看维修，也要守规矩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣挥手告别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in the workshop.",
+   "narration": "安全无小事。下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

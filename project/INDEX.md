@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 376 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 377 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -11,8 +11,8 @@
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
+| Cleanroom & Equipment Safety | 23 / 33 | 0 / 21 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Cleanroom & Equipment Safety | 22 / 33 | 0 / 21 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Laser Maintenance Group Safety | 13 / 17 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
@@ -277,7 +277,8 @@
 | Cleanroom & Equipment Safety | 19_Replace the Rocker Switch for xTool MetalFab Laser Welder | 国内版 | 带把手机型电源开关的规范更换（国内版） | 38 | 3:10 | 16 / 4 | [剧本](<Cleanroom & Equipment Safety/19_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/19_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 20_xTool MetalFab Laser Welder 800W - Unboxing and First Use | 国内版 | 手持激光焊接机开箱、安装与首次使用（国内版） | 93 | 7:45 | 32 / 6 | [剧本](<Cleanroom & Equipment Safety/20_xTool MetalFab Laser Welder 800W - Unboxing and First Use（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/20_xTool MetalFab Laser Welder 800W - Unboxing and First Use（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 21_Replace the Motherboard for the xTool MetalFab Laser Welder | 国内版 | 激光焊接机更换主控板（国内版） | 53 | 4:25 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
-| Cleanroom & Equipment Safety | 22_Replace the DC Power Supply for the xTool MetalFab Laser Welder | 单一版 | 激光焊接机更换直流电源 | 50 | 4:10 | 15 / 5 | [剧本](<Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder/script.md>) |
+| Cleanroom & Equipment Safety | 22_Replace the DC Power Supply for the xTool MetalFab Laser Welder | 单一版 | 激光焊接机更换直流电源 | 50 | 4:10 | 15 / 5 | [剧本](<Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder/审查报告.md>) |
+| Cleanroom & Equipment Safety | 23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder | 单一版 | 激光焊接机更换激光电源 | 52 | 4:20 | 19 / 4 | [剧本](<Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
