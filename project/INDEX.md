@@ -7,10 +7,10 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 3 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 12 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 13 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
-| Lab Safety Training Series | 13 / 13 | 3 / 13 |
+| Lab Safety Training Series | 13 / 13 | 4 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
@@ -108,6 +108,7 @@
 | BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 国内版 | 生物风险管理，人人有份（国内版） | 41 | 3:25 | 9 / 3 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 原著版 | 生物废物双层装袋 | 29 | 2:25 | 9 / 0 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste/script.md>) |
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 国内版 | 生物废物双层装袋（国内版） | 47 | 3:55 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 原著版 | 在生物安全柜里干活 | 56 | 4:40 | 15 / 0 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET/script.md>) |
 | BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 国内版 | 在生物安全柜里干活（国内版） | 79 | 6:35 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC | 国内版 | 安全柜里的废物收尾（国内版） | 52 | 4:20 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 07_BIOSAFETY LABORATORY ENGINEERING | 国内版 | 生物安全实验室的“幕后”设备（国内版） | 60 | 5:00 | 12 / 4 | [剧本](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING（国内版）/审查报告.md>) |
@@ -330,6 +331,7 @@
 | Lab Safety Training Series | 02_„General Laboratory Safety - Safety instructions | 国内版 | 化学实验室通用安全守则（国内版） | 175 | 14:35 | 35 / 7 | [剧本](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions（国内版）/script.md>) · [审查](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 03_Safety in laboratory | 原著版 | 实验室里的五类危险源与个人防护 | 89 | 7:25 | 28 / 0 | [剧本](<Lab Safety Training Series/03_Safety in laboratory/script.md>) |
 | Lab Safety Training Series | 03_Safety in laboratory | 国内版 | 实验室里的五类危险源与个人防护（国内版） | 118 | 9:50 | 28 / 7 | [剧本](<Lab Safety Training Series/03_Safety in laboratory（国内版）/script.md>) · [审查](<Lab Safety Training Series/03_Safety in laboratory（国内版）/审查报告.md>) |
+| Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 87 | 7:15 | 25 / 0 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
 | Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 国内版 | 实验室里的人机工效（国内版） | 102 | 8:30 | 25 / 5 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/script.md>) · [审查](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 05_Behavior Lab Safety Video Part 3 | 国内版 | 实验室里的行为规范（国内版） | 53 | 4:25 | 17 / 6 | [剧本](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3（国内版）/script.md>) · [审查](<Lab Safety Training Series/05_Behavior Lab Safety Video Part 3（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 06_Safety Equipment Lab Safety Video Part 2 | 国内版 | 实验室里的安全设备（国内版） | 60 | 5:00 | 23 / 6 | [剧本](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/script.md>) · [审查](<Lab Safety Training Series/06_Safety Equipment Lab Safety Video Part 2（国内版）/审查报告.md>) |
