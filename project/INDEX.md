@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 327 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 329 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -26,8 +26,8 @@
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Laser Maintenance Group Safety | 5 / 17 | 0 / 3 |
-| Basic Electrical Engineering Lab | 4 / 23 | 0 / 2 |
+| Laser Maintenance Group Safety | 6 / 17 | 0 / 3 |
+| Basic Electrical Engineering Lab | 5 / 23 | 0 / 2 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 0 / 2 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
 | Cleanroom & Equipment Safety | 0 / 33 | 0 / 0 |
@@ -181,6 +181,7 @@
 | Basic Electrical Engineering Lab | 02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa | 国内版 | 认识电工实验室的四种仪表（国内版） | 89 | 7:25 | 22 / 6 | [剧本](<Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/02_Basic Electrical Laboratory VTU Familiarization of Meters Ammeters Voltmeters Wa（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C | 单一版 | 导线、导体与自耦调压器 | 83 | 6:55 | 22 / 6 | [剧本](<Basic Electrical Engineering Lab/03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C/script.md>) · [审查](<Basic Electrical Engineering Lab/03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C/审查报告.md>) |
 | Basic Electrical Engineering Lab | 04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G | 单一版 | 变阻器与开关 | 67 | 5:35 | 18 / 6 | [剧本](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G/script.md>) · [审查](<Basic Electrical Engineering Lab/04_VTU Basic Electrical Engg Laboratory Familiarization of Switches and Rheostats G/审查报告.md>) |
+| Basic Electrical Engineering Lab | 05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St | 单一版 | 电工工具与直流稳压电源 | 64 | 5:20 | 19 / 6 | [剧本](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St/script.md>) · [审查](<Basic Electrical Engineering Lab/05_Basic Electrical Engg Laboratory VTU Syllabus How to use Line Tester RPS Wire St/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 原著版 | 新实验室的危害在哪里 | 24 | 2:00 | 4 / 0 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) |
@@ -443,7 +444,8 @@
 | Laser Maintenance Group Safety | 02_Burning Laser Bellows Jan2020 | 国内版 | 风琴管着火了怎么办（国内版） | 42 | 3:30 | 5 / 7 | [剧本](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/02_Burning Laser Bellows Jan2020（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser | 国内版 | 激光设备为什么要例行维护（国内版） | 42 | 3:30 | 6 / 7 | [剧本](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/03_Why Do Routine Laser Maintenance -- Laser Maintenance Group Kiser（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser | 单一版 | 一颗螺栓引发的连锁故障 | 58 | 4:50 | 15 / 4 | [剧本](<Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser/script.md>) · [审查](<Laser Maintenance Group Safety/04_LMG -- Stop Burnout with Routine Laser Maintenance Kiser/审查报告.md>) |
-| Laser Maintenance Group Safety | 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 单一版 | 别让突然的响声吓到人 | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf/script.md>) |
+| Laser Maintenance Group Safety | 05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf | 单一版 | 别让突然的响声吓到人 | 41 | 3:25 | 8 / 4 | [剧本](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf/script.md>) · [审查](<Laser Maintenance Group Safety/05_Preventing Industrial Laser Sound Shock Innovative Laser Maintenance Tourist Saf/审查报告.md>) |
+| Laser Maintenance Group Safety | 06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In | 单一版 | 做一个安全的参观向导 | 38 | 3:10 | 7 / 5 | [剧本](<Laser Maintenance Group Safety/06_Safety Prep For Tourists and Visitors Laser Safety at Laser Maintenance Group In/script.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
