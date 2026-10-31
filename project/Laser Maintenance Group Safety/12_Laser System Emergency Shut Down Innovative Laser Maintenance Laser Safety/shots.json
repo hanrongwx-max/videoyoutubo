@@ -1,0 +1,468 @@
+{
+ "id": "12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety",
+ "edition": "单一版",
+ "series": "Laser Maintenance Group Safety",
+ "title": "激光设备的紧急停机",
+ "seconds": 170,
+ "source_doc": "course/Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety.md",
+ "author_source": "project/Laser Maintenance Group Safety/12_Laser System Emergency Shut Down Innovative Laser Maintenance Laser Safety/src.py",
+ "points": {
+  "K1": "欢迎参观，更要照看",
+  "K2": "人人都想凑近看",
+  "K3": "安全地垫：一踩全停",
+  "K4": "两种停机按钮",
+  "K5": "进给保持：只停运动",
+  "K6": "急停：驱动高压全断",
+  "K7": "出了事拿不准，拉总闸",
+  "K8": "总闸一拉，全部断电",
+  "K9": "还要犹豫，就拉闸",
+  "S1": "停机装置要定期测试",
+  "S2": "平时演练，人人会停机"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在激光切割机旁，一手指着红色急停按钮",
+   "prompt_en": "The panda mascot stands beside a large laser cutting machine, pointing at a red emergency stop button.",
+   "narration": "这一课讲：激光设备怎么紧急停机。",
+   "overlay": [
+    "激光设备的紧急停机"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "地垫、急停按钮、总闸三个图标排成一行",
+   "prompt_en": "Three icons in a row: a floor safety mat, a red emergency stop button, and a main disconnect switch. No people.",
+   "narration": "地垫、按钮、总闸，三道保险。",
+   "overlay": [],
+   "labels": [
+    "安全地垫",
+    "急停按钮",
+    "总闸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研带着几位新同学走进激光加工实验室",
+   "prompt_en": "The female graduate student leads a few new students into a laser processing lab.",
+   "narration": "小研带新同学来看激光切割。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "切割头突然冒出一团火光，新同学愣在原地",
+   "prompt_en": "A sudden flash and puff of smoke appears at the cutting head, and a new student freezes in place.",
+   "narration": "切割头突然冒火，新同学愣住了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前举起三根手指",
+   "prompt_en": "The panda mascot holds up three fingers in front of a blank whiteboard.",
+   "narration": "这时该按哪里？我们一样一样说。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "欢迎参观，更要照看",
+   "scene": "老李在实验室门口欢迎参观的同学",
+   "prompt_en": "The facility engineer welcomes visiting students at the lab door.",
+   "narration": "来参观的人都想看激光，很欢迎。",
+   "overlay": [
+    "欢迎参观，更要照看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "欢迎参观，更要照看",
+   "scene": "老李走在参观队伍旁边，伸手示意大家靠拢",
+   "prompt_en": "The facility engineer walks beside the group of visitors, gesturing for them to stay together.",
+   "narration": "带人进来，就要照看好每一个。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "人人都想凑近看",
+   "scene": "几个同学弯腰凑到激光机前往里看",
+   "prompt_en": "Several students lean forward toward the front of the laser cutting machine to look inside.",
+   "narration": "走到机器前，人人都想凑近看。",
+   "overlay": [
+    "人人都想凑近看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "激光机前铺着一条长长的黑色安全地垫",
+   "prompt_en": "A long black safety floor mat lies along the front of the laser cutting machine. No people.",
+   "narration": "机器前面，铺着一条安全地垫。",
+   "overlay": [
+    "安全地垫：一踩全停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "示意图：脚踩上地垫，机器所有运动图标停止",
+   "prompt_en": "A diagram: a foot steps on the safety mat and all motion icons of the machine stop at once. No people.",
+   "narration": "一脚踩上去，整台机器马上停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "地垫图标和盾牌图标连在一起",
+   "prompt_en": "An icon of the safety mat linked to a shield icon. No people.",
+   "narration": "它是机器上最重要的保护之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两种停机按钮",
+   "scene": "操作台上并排一个红色急停按钮和一个黄色快停按钮",
+   "prompt_en": "A red emergency stop button and a yellow feed hold button side by side on the control panel. No people.",
+   "narration": "操作台上有两种停机按钮。",
+   "overlay": [
+    "两种停机按钮"
+   ],
+   "labels": [
+    "急停",
+    "进给保持"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两种停机按钮",
+   "scene": "机器末端也有一个快停按钮",
+   "prompt_en": "Another feed hold button mounted at the far end of the machine. No people.",
+   "narration": "机器末端，也装着快停按钮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "进给保持：只停运动",
+   "scene": "按下快停，龙门架停住，电源指示灯仍亮",
+   "prompt_en": "A diagram: pressing the feed hold stops the moving gantry while the power indicator lights stay on. No people.",
+   "narration": "快停只让机器停止运动。",
+   "overlay": [
+    "进给保持：只停运动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "进给保持：只停运动",
+   "scene": "停住的龙门架旁，电源柜仍带电的闪电图标",
+   "prompt_en": "A paused gantry next to a power cabinet that still shows a lightning icon. No people.",
+   "narration": "电源和高压，其实还开着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "急停：驱动高压全断",
+   "scene": "老李按下红色蘑菇头急停按钮",
+   "prompt_en": "The facility engineer presses a red mushroom-head emergency stop button.",
+   "narration": "急停按钮不一样。",
+   "overlay": [
+    "急停：驱动高压全断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "急停：驱动高压全断",
+   "scene": "示意图：驱动、高压、激光三个图标同时熄灭",
+   "prompt_en": "A diagram: three icons turn off at the same time: drive motors, high voltage, and laser. No people.",
+   "narration": "一按下去，驱动、高压全部断开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出了事拿不准，拉总闸",
+   "scene": "新同学站在冒烟的机器旁一脸慌张",
+   "prompt_en": "A new student stands beside a smoking machine, looking confused and scared.",
+   "narration": "出了事故，新手不知道怎么办，",
+   "overlay": [
+    "出了事拿不准，拉总闸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出了事拿不准，拉总闸",
+   "scene": "老李快步走向墙边的总隔离开关",
+   "prompt_en": "The facility engineer walks quickly past tanks and a chiller to a main disconnect switch on the wall.",
+   "narration": "就去拉下墙上的总隔离开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "总闸一拉，全部断电",
+   "scene": "总闸、激光电源柜、冷水机、储罐图标连成一串",
+   "prompt_en": "Icons of a main disconnect switch connected in a chain to a laser power cabinet, a chiller, and support equipment. No people.",
+   "narration": "激光器、冷水机都从这里供电。",
+   "overlay": [
+    "总闸一拉，全部断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "总闸一拉，全部断电",
+   "scene": "拉下总闸，所有设备图标一起熄灭",
+   "prompt_en": "A diagram: the main disconnect lever is pulled down and all the equipment icons go dark together. No people.",
+   "narration": "一拉，所有设备一起断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "还要犹豫，就拉闸",
+   "scene": "一个人头上冒问号，旁边的总闸图标发亮",
+   "prompt_en": "An icon of a person with a question mark above the head next to a glowing main disconnect switch icon. No people.",
+   "narration": "还要停下来想一想？",
+   "overlay": [
+    "还要犹豫，就拉闸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "还要犹豫，就拉闸",
+   "scene": "老李握住总闸手柄，坚定地点头",
+   "prompt_en": "The facility engineer grips the main disconnect handle and nods firmly.",
+   "narration": "那就别犹豫，直接拉闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机装置要定期测试",
+   "scene": "王老师带着检查表，踩地垫测试机器是否停下",
+   "prompt_en": "The safety administrator holds a blank checklist while stepping on the safety mat to test that the machine stops.",
+   "narration": "地垫、急停要定期测试。",
+   "overlay": [
+    "停机装置要定期测试"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机装置要定期测试",
+   "scene": "老李按下急停后核对指示灯，在空白记录本上打勾",
+   "prompt_en": "The facility engineer presses the emergency stop, checks the indicator lights, and ticks a blank logbook.",
+   "narration": "试一次，记一次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机装置要定期测试",
+   "scene": "失灵的急停按钮上挂着停用牌，旁边扳手图标",
+   "prompt_en": "A faulty emergency stop button with a blank out-of-service tag hanging on it, next to a wrench icon. No people.",
+   "narration": "失灵了立刻停用，报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "停机装置要定期测试",
+   "scene": "用胶带缠住急停、用重物压住地垫的图标，被红叉划掉",
+   "prompt_en": "Icons crossed out with red X marks: tape wrapped over an emergency stop button and a heavy box pressing on a safety mat. No people.",
+   "narration": "不准屏蔽、绕过停机装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "平时演练，人人会停机",
+   "scene": "王老师组织同学演练：小研按急停，阿杰去拉总闸",
+   "prompt_en": "The safety administrator runs a drill: the female graduate student presses the emergency stop and the young male student goes to the main disconnect.",
+   "narration": "平时多演练，谁按哪个要清楚。",
+   "overlay": [
+    "平时演练，人人会停机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "平时演练，人人会停机",
+   "scene": "演练后，同学们围在王老师身边打电话报告",
+   "prompt_en": "After the drill, the students gather around the safety administrator, and one of them makes a phone call to report.",
+   "narration": "停机后，马上报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "平时演练，人人会停机",
+   "scene": "电话图标显示119和120",
+   "prompt_en": "A phone icon with two emergency number icons, 119 and 120. No people.",
+   "narration": "着火拨119，有人受伤拨120。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现地垫、急停、总闸三个图标",
+   "prompt_en": "The panda mascot stands beside three icons: a safety mat, an emergency stop button, and a main disconnect switch.",
+   "narration": "地垫一踩停，急停全断开。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "快停和总闸两个图标",
+   "prompt_en": "Two icons: a yellow feed hold button and a main disconnect switch with a lightning bolt. No people.",
+   "narration": "快停只停运动，拿不准就拉总闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检查表和演练的图标",
+   "prompt_en": "Icons of a blank checklist and a group drill. No people.",
+   "narration": "定期测试，经常演练。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、老李、王老师在激光机旁挥手",
+   "prompt_en": "The panda mascot waves goodbye with the female graduate student, the facility engineer and the safety administrator beside the laser machine.",
+   "narration": "关键时刻，停得下来才安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
