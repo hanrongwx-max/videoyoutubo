@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 2 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 9 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 10 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 10 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 6 / 23 |
 | Lab Safety Training Series | 13 / 13 | 2 / 13 |
@@ -102,6 +102,7 @@
 | BIORISK MANAGEMENT | 02_What is Biorisk Management | 国内版 | 三步管好生物风险（国内版） | 38 | 3:10 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 原著版 | 生物风险管理，人人有份 | 29 | 2:25 | 9 / 0 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management/script.md>) |
 | BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 国内版 | 生物风险管理，人人有份（国内版） | 41 | 3:25 | 9 / 3 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 原著版 | 生物废物双层装袋 | 29 | 2:25 | 9 / 0 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste/script.md>) |
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 国内版 | 生物废物双层装袋（国内版） | 47 | 3:55 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 国内版 | 在生物安全柜里干活（国内版） | 79 | 6:35 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC | 国内版 | 安全柜里的废物收尾（国内版） | 52 | 4:20 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/审查报告.md>) |
