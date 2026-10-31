@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| BIORISK MANAGEMENT | 47 / 47 | 1 / 42 |
+| BIORISK MANAGEMENT | 47 / 47 | 2 / 42 |
 | Microbiology Biosafety | 45 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 4 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
@@ -20,7 +20,7 @@
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 1 / 9 |
 | RSO Training Series | 9 / 9 | 1 / 9 |
 | General Lab Safety Practices | 8 / 8 | 7 / 8 |
-| Laser Equipment & Safety Training | 8 / 8 | 7 / 8 |
+| Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 5 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 5 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 4 / 7 |
@@ -100,6 +100,7 @@
 | BIORISK MANAGEMENT | 10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING | 国内版 | 医院样本的接收与处理（国内版） | 75 | 6:15 | 17 / 4 | [剧本](<BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS | 国内版 | 呼吸道病毒样本的核酸检测（国内版） | 58 | 4:50 | 13 / 4 | [剧本](<BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT | 国内版 | 生物安全实验室谁来管（国内版） | 66 | 5:30 | 17 / 5 | [剧本](<BIORISK MANAGEMENT/12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/12_MOOC INTRODUCTION TO BIORISK MANAGEMENT FACILITY MANAGEMENT（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW | 原著版 | 生物风险管理：一张全景图 | 73 | 6:05 | 20 / 0 | [剧本](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW/script.md>) |
 | BIORISK MANAGEMENT | 13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW | 国内版 | 生物风险管理：一张全景图（国内版） | 85 | 7:05 | 20 / 4 | [剧本](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/13_MOOC INTRODUCTION TO BIORISK MANAGEMENT OVERVIEW（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 14_INTRODUCTION TO RISK MITIGATION | 国内版 | 两道屏障，五类控制（国内版） | 40 | 3:20 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/14_INTRODUCTION TO RISK MITIGATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 15_Biorisk Management PPEs | 国内版 | 进门之前，穿戴到位（国内版） | 49 | 4:05 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/15_Biorisk Management PPEs（国内版）/审查报告.md>) |
@@ -306,6 +307,7 @@
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 国内版 | 激光切割机：徽章项目上机全流程（国内版） | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 原著版 | 激光切割机：考核、授权与预约 | 38 | 3:10 | 13 / 0 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 国内版 | 激光切割机：考核、授权与预约（国内版） | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/审查报告.md>) |
+| Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 原著版 | 激光切割机：规程更新须知 | 24 | 2:00 | 6 / 0 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 国内版 | 生物安全第一课：防护与风险评估（国内版） | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic（国内版）/审查报告.md>) |
