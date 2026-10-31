@@ -12,7 +12,7 @@
 | Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
-| Fume Hood & Cabinet Protocols | 12 / 12 | 1 / 12 |
+| Fume Hood & Cabinet Protocols | 12 / 12 | 2 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 1 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 3 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 2 / 9 |
@@ -198,6 +198,7 @@
 | Fire Safety & Extinguisher Training | 09_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 国内版 | 实验室安全入门（国内版） | 153 | 12:45 | 45 / 8 | [剧本](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 01_Introduction to Chemistry Laboratory Techniques | 原著版 | 走进化学实验室：技术与安全的第一课 | 32 | 2:40 | 8 / 0 | [剧本](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/script.md>) |
 | Fume Hood & Cabinet Protocols | 01_Introduction to Chemistry Laboratory Techniques | 国内版 | 走进化学实验室：技术与安全的第一课（国内版） | 47 | 3:55 | 8 / 6 | [剧本](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques（国内版）/审查报告.md>) |
+| Fume Hood & Cabinet Protocols | 02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory | 原著版 | 认识化学实验室的常用仪器 | 103 | 8:35 | 33 / 0 | [剧本](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory/script.md>) |
 | Fume Hood & Cabinet Protocols | 02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory | 国内版 | 认识化学实验室的常用仪器（国内版） | 123 | 10:15 | 33 / 5 | [剧本](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/02_Common Scientific Glassware and the Undergraduate Chemistry Laboratory（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 03_Gravity Filtration and Vacuum Filtration | 国内版 | 常压过滤与减压过滤（国内版） | 90 | 7:30 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/03_Gravity Filtration and Vacuum Filtration（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 04_Liquid-Liquid Extraction | 国内版 | 液液萃取：用分液漏斗分开溶液（国内版） | 92 | 7:40 | 24 / 5 | [剧本](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/04_Liquid-Liquid Extraction（国内版）/审查报告.md>) |
