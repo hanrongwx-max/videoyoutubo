@@ -1,0 +1,878 @@
+{
+ "id": "37_BIORISK ASSESSMENT HAZARDS AND RISKS",
+ "edition": "国内版",
+ "series": "BIORISK MANAGEMENT",
+ "title": "危害与风险评估（国内版）",
+ "seconds": 295,
+ "source_doc": "course/BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS.md",
+ "author_source": "project/BIORISK MANAGEMENT/37_BIORISK ASSESSMENT HAZARDS AND RISKS（国内版）/src.py",
+ "points": {
+  "K1": "实验室危害不止一种",
+  "K2": "本讲四个目标",
+  "K3": "学完能做到的事",
+  "K4": "险情：可能伤人",
+  "K5": "事故：已经伤人",
+  "K6": "危害是什么",
+  "K7": "实验室常见危害",
+  "K8": "风险：可能性×严重性",
+  "K9": "可能性与后果",
+  "K10": "生物风险是什么",
+  "K11": "危害如何变成风险",
+  "K12": "流程越往后，风险越高",
+  "K13": "风险管理五步链",
+  "K14": "危害识别：定特征归组",
+  "K15": "查病原资料找依据",
+  "K16": "评估看控制够不够",
+  "K17": "五类控制",
+  "K18": "残余风险清不了零",
+  "K19": "案例：团队管一份样本",
+  "K20": "把流程拆成步骤",
+  "K21": "现有控制够不够",
+  "K22": "要评估哪些风险",
+  "K23": "两道屏障护人护环境",
+  "K24": "每一步都要评",
+  "K25": "用风险矩阵打分",
+  "K26": "总体风险看全程",
+  "K27": "决策点：评完再减缓",
+  "K28": "小结回顾",
+  "S1": "危害组：国内第一类最危险",
+  "S2": "高致病性实验，须审批",
+  "S3": "残余风险高，报委员会",
+  "S4": "出事逐级报告不隐瞒"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在天平图标前，一端危害一端风险",
+   "prompt_en": "The panda mascot stands beside a balance scale icon.",
+   "narration": "这一课，学会辨危害、评风险。",
+   "overlay": [
+    "危害与风险评估"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣身旁出现放大镜和盾牌",
+   "prompt_en": "The panda mascot beside a magnifying glass and a shield icon. No people.",
+   "narration": "先看清，再防住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿到一盒样本就想马上开做",
+   "prompt_en": "The young male student holds a sample box and reaches to open it eagerly.",
+   "narration": "阿杰拿到样本，想立刻开工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摆手拦住，拿出空白评估表",
+   "prompt_en": "The female graduate student waves to stop him and holds a blank form.",
+   "narration": "小研拦住：先评估再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师点头，身后一面空白流程图",
+   "prompt_en": "The safety administrator nods beside a blank flow chart on the wall.",
+   "narration": "王老师说：风险，是能理清的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验室危害不止一种",
+   "scene": "欣欣指向实验室里多种危害图标",
+   "prompt_en": "The panda mascot points at several hazard icons in a lab.",
+   "narration": "实验室里，危害不止一种。",
+   "overlay": [
+    "实验室危害不止一种"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验室危害不止一种",
+   "scene": "生物、化学、电、火、辐射图标并排",
+   "prompt_en": "Icons in a row: biohazard, chemical, electricity, fire, radiation. No people.",
+   "narration": "生物、化学、电、火、辐射都算。",
+   "overlay": [],
+   "labels": [
+    "生物",
+    "化学",
+    "电气",
+    "火灾",
+    "辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "本讲四个目标",
+   "scene": "四个目标图标竖排点亮",
+   "prompt_en": "Four objective icons light up in a column. No people.",
+   "narration": "本讲有四个目标。",
+   "overlay": [
+    "本讲四个目标"
+   ],
+   "labels": [
+    "懂危害风险",
+    "懂流程升级",
+    "会识别评估",
+    "记住术语"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "学完能做到的事",
+   "scene": "三个对勾方框依次打勾",
+   "prompt_en": "Three check boxes get ticked one by one. No people.",
+   "narration": "学完要能定义、识别、会评估。",
+   "overlay": [
+    "学完能做到的事"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "险情：可能伤人",
+   "scene": "一只手打翻杯子又及时扶住，地上没洒",
+   "prompt_en": "A hand knocks a blank cup but catches it in time; nothing spills. No people.",
+   "narration": "险情：差点出事，还没伤人。",
+   "overlay": [
+    "险情：可能伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "险情：可能伤人",
+   "scene": "出现一个问号和一个安全对勾",
+   "prompt_en": "A question mark next to a safety tick. No people.",
+   "narration": "这叫险兆，是个警告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "事故：已经伤人",
+   "scene": "杯子真打翻，地上出现警示标",
+   "prompt_en": "A blank cup tips over; a warning mark appears on the floor. No people.",
+   "narration": "事故：非预期，已经造成伤害。",
+   "overlay": [
+    "事故：已经伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "危害是什么",
+   "scene": "一辆车停在车库，旁边放大镜",
+   "prompt_en": "A parked car in a garage, with a magnifying glass. No people.",
+   "narration": "危害：有伤人潜能的东西。",
+   "overlay": [
+    "危害是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "危害是什么",
+   "scene": "同一辆车开上马路，危险显现",
+   "prompt_en": "The same car now drives onto a busy road. No people.",
+   "narration": "车本身不危险，一上路就有风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室常见危害",
+   "scene": "六个危害图标围成一圈",
+   "prompt_en": "Six hazard icons arranged in a ring. No people.",
+   "narration": "常见危害：盗窃、火、辐射、",
+   "overlay": [
+    "实验室常见危害"
+   ],
+   "labels": [
+    "盗窃",
+    "火灾",
+    "辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室常见危害",
+   "scene": "滑倒、生物、电气三个图标点亮",
+   "prompt_en": "Three icons light up: a slip sign, a biohazard, a power plug. No people.",
+   "narration": "滑倒、生物、电气也在其中。",
+   "overlay": [],
+   "labels": [
+    "滑倒",
+    "生物",
+    "电气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "风险：可能性×严重性",
+   "scene": "一个天平：左盘可能性，右盘严重性",
+   "prompt_en": "A balance scale: likelihood on the left, severity on the right. No people.",
+   "narration": "风险：可能性和严重性的组合。",
+   "overlay": [
+    "风险：可能性×严重性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "可能性与后果",
+   "scene": "骰子代表可能性，警示牌代表后果",
+   "prompt_en": "A dice icon for likelihood, a warning sign for consequence. No people.",
+   "narration": "可能性是几率，后果是大小。",
+   "overlay": [
+    "可能性与后果"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "生物风险是什么",
+   "scene": "生物危害标志旁出现天平",
+   "prompt_en": "A biohazard symbol beside a balance scale. No people.",
+   "narration": "伤害源是生物因子，就叫生物风险。",
+   "overlay": [
+    "生物风险是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "危害如何变成风险",
+   "scene": "一个危害图标顺箭头变成风险图标",
+   "prompt_en": "A hazard icon turns into a risk icon along an arrow. No people.",
+   "narration": "一动起来，危害就变成风险。",
+   "overlay": [
+    "危害如何变成风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "危害如何变成风险",
+   "scene": "操作、运输、盗窃、封闭破损四个图标",
+   "prompt_en": "Four icons: a procedure, a transport truck, a theft hand, a broken barrier. No people.",
+   "narration": "操作、运输、盗窃、封闭破损都是。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "流程越往后，风险越高",
+   "scene": "一条上升的阶梯，每级配一个流程图标",
+   "prompt_en": "A rising staircase, each step marked with a process icon. No people.",
+   "narration": "流程一步步走，风险一级级升。",
+   "overlay": [
+    "流程越往后，风险越高"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "流程越往后，风险越高",
+   "scene": "阶梯顶端出现放大的风险箭头",
+   "prompt_en": "An enlarged red risk arrow at the top of the staircase. No people.",
+   "narration": "越往后，释放的后果越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风险管理五步链",
+   "scene": "五个方块连成一条链",
+   "prompt_en": "Five blocks joined into a chain. No people.",
+   "narration": "管理分五步：识别、评估、",
+   "overlay": [
+    "风险管理五步链"
+   ],
+   "labels": [
+    "识别",
+    "评估",
+    "控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "风险管理五步链",
+   "scene": "链条后两块：残余风险、决策",
+   "prompt_en": "The last two blocks of the chain: residual risk and decision. No people.",
+   "narration": "控制、残余风险、再决策。",
+   "overlay": [],
+   "labels": [
+    "残余风险",
+    "决策"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "危害识别：定特征归组",
+   "scene": "一个危害被放进对应的分组格子",
+   "prompt_en": "A hazard token is placed into a matching group slot. No people.",
+   "narration": "识别：认出危害，归入它的组。",
+   "overlay": [
+    "危害识别：定特征归组"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "查病原资料找依据",
+   "scene": "一台平板显示空白资料页",
+   "prompt_en": "A tablet showing a blank data sheet page. No people.",
+   "narration": "查病原资料，拿到先验依据。",
+   "overlay": [
+    "查病原资料找依据"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "危害组：国内第一类最危险",
+   "scene": "一个倒序的四级阶梯，第一级标红",
+   "prompt_en": "A four-step ladder in reverse order, the first step marked red. No people.",
+   "narration": "国内分类：第一类最危险。",
+   "overlay": [
+    "危害组：国内第一类最危险"
+   ],
+   "labels": [
+    "第一类最危险",
+    "第四类最低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "危害组：国内第一类最危险",
+   "scene": "两张分级表方向相反，并排对比",
+   "prompt_en": "Two grading charts side by side pointing in opposite directions. No people.",
+   "narration": "和国际编号方向正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估看控制够不够",
+   "scene": "一把尺子量现有控制够不够",
+   "prompt_en": "A ruler measuring whether existing controls are enough. No people.",
+   "narration": "评估：看现有控制够不够。",
+   "overlay": [
+    "评估看控制够不够"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "评估看控制够不够",
+   "scene": "一个对勾和一个问号在天平两端",
+   "prompt_en": "A tick and a question mark on a balance. No people.",
+   "narration": "够，就可接受；不够，再加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五类控制",
+   "scene": "一座五层金字塔",
+   "prompt_en": "A five-layer pyramid. No people.",
+   "narration": "控制分五类，从上到下：",
+   "overlay": [
+    "五类控制"
+   ],
+   "labels": [
+    "消除",
+    "替代",
+    "工程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "五类控制",
+   "scene": "金字塔下两层点亮",
+   "prompt_en": "The bottom two layers of the pyramid light up. No people.",
+   "narration": "管理控制，最后才是个人防护。",
+   "overlay": [],
+   "labels": [
+    "管理",
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "残余风险清不了零",
+   "scene": "一个风险球缩小但没消失",
+   "prompt_en": "A risk ball shrinks but does not disappear. No people.",
+   "narration": "残余风险：降得下，清不了零。",
+   "overlay": [
+    "残余风险清不了零"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "高致病性实验，须审批",
+   "scene": "一份审批单盖上印章",
+   "prompt_en": "An approval form being stamped. No people.",
+   "narration": "高致病性实验，先审批再做。",
+   "overlay": [
+    "高致病性实验，须审批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "高致病性实验，须审批",
+   "scene": "阿杰看着禁止单手图标，退后一步",
+   "prompt_en": "The young male student sees a no-solo icon and steps back.",
+   "narration": "学生不得擅自开展。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "案例：团队管一份样本",
+   "scene": "小研、阿杰、王老师围着一份样本图标",
+   "prompt_en": "The female graduate student, the young male student and the safety administrator around a sample icon.",
+   "narration": "案例：团队一起管一份样本。",
+   "overlay": [
+    "案例：团队管一份样本"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "案例：团队管一份样本",
+   "scene": "样本卡上只有空白图标和编号位",
+   "prompt_en": "A sample card with blank icons and a code slot. No people.",
+   "narration": "样本是已知感染性的，信息齐全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "把流程拆成步骤",
+   "scene": "一条流程线分成六段",
+   "prompt_en": "A process line split into six segments. No people.",
+   "narration": "把流程拆开：运输、接收、储存、",
+   "overlay": [
+    "把流程拆成步骤"
+   ],
+   "labels": [
+    "运输",
+    "接收",
+    "储存"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "把流程拆成步骤",
+   "scene": "后三段点亮：处理、处置、数据",
+   "prompt_en": "The last three segments light up: processing, disposal, data. No people.",
+   "narration": "处理、处置、数据传输。",
+   "overlay": [],
+   "labels": [
+    "处理",
+    "处置",
+    "数据"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "现有控制够不够",
+   "scene": "一张清单，六个检查项",
+   "prompt_en": "A checklist with six inspection items. No people.",
+   "narration": "先查控制够不够：设施、仪器、",
+   "overlay": [
+    "现有控制够不够"
+   ],
+   "labels": [
+    "设施",
+    "仪器",
+    "人员"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "现有控制够不够",
+   "scene": "清单后三项打勾：培训、处置、应急",
+   "prompt_en": "The last three items ticked: training, disposal, emergency plan. No people.",
+   "narration": "人员、培训、处置、应急预案。",
+   "overlay": [],
+   "labels": [
+    "培训",
+    "处置",
+    "应急"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "要评估哪些风险",
+   "scene": "两个方向的箭头：对内对外",
+   "prompt_en": "Two arrows, one pointing inward and one outward. No people.",
+   "narration": "要评两类：生物安全和安保。",
+   "overlay": [
+    "要评估哪些风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "要评估哪些风险",
+   "scene": "一是人员暴露，二是蓄意盗取",
+   "prompt_en": "One icon of worker exposure, one of a theft hand. No people.",
+   "narration": "人员社区会暴露，样本会被盗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "两道屏障护人护环境",
+   "scene": "一个柜子图标外再套一圈围墙",
+   "prompt_en": "A cabinet icon with a wall ring around it. No people.",
+   "narration": "两道屏障：柜护人，房护环境。",
+   "overlay": [
+    "两道屏障护人护环境"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "每一步都要评",
+   "scene": "流程线每一段都插上一面小旗",
+   "prompt_en": "Each segment of the process line gets a small flag. No people.",
+   "narration": "每一步，都插旗评一次。",
+   "overlay": [
+    "每一步都要评"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "用风险矩阵打分",
+   "scene": "一张四乘四的彩色矩阵",
+   "prompt_en": "A four-by-four coloured matrix grid. No people.",
+   "narration": "矩阵打分：后果配可能性。",
+   "overlay": [
+    "用风险矩阵打分"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "用风险矩阵打分",
+   "scene": "矩阵四档从绿到红",
+   "prompt_en": "The matrix cells shade from green to red across four levels. No people.",
+   "narration": "低、中、高、很高，颜色一看就懂。",
+   "overlay": [],
+   "labels": [
+    "低",
+    "中",
+    "高",
+    "很高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "总体风险看全程",
+   "scene": "一张按流程排列的总体风险表",
+   "prompt_en": "An overall risk table arranged by process step. No people.",
+   "narration": "总体表：全程风险一行看清。",
+   "overlay": [
+    "总体风险看全程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "总体风险看全程",
+   "scene": "前段标红、后段转绿",
+   "prompt_en": "Early rows turn red, later rows turn green. No people.",
+   "narration": "样本灭活后，盗取风险就降了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "决策点：评完再减缓",
+   "scene": "一个岔路口，牌子写着决策",
+   "prompt_en": "A fork in the road with a decision signpost. No people.",
+   "narration": "决策点：残余风险，够不够？",
+   "overlay": [
+    "决策点：评完再减缓"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "决策点：评完再减缓",
+   "scene": "一条路通向减缓措施图标",
+   "prompt_en": "One path leads to a mitigation icon. No people.",
+   "narration": "评完，再进下一步减缓。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "残余风险高，报委员会",
+   "scene": "残余风险球仍然很大，旁边一个会议桌",
+   "prompt_en": "A still-large risk ball beside a committee meeting table. No people.",
+   "narration": "风险太高，报生物安全委员会。",
+   "overlay": [
+    "残余风险高，报委员会"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "出事逐级报告不隐瞒",
+   "scene": "一条上报链：三个台阶加一部电话",
+   "prompt_en": "A reporting chain of three steps plus a phone icon. No people.",
+   "narration": "出事逐级报告，不瞒不拖。",
+   "overlay": [
+    "出事逐级报告不隐瞒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "出事逐级报告不隐瞒",
+   "scene": "台阶依次点亮，最后拨号",
+   "prompt_en": "The steps light up in turn, ending at a phone dialling. No people.",
+   "narration": "负责人、学院、保卫处，必要时120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁：天平、放大镜、五步链",
+   "prompt_en": "The panda mascot beside a balance, a magnifying glass and a five-step chain.",
+   "narration": "危害变风险，五步能管住。",
+   "overlay": [
+    "小结回顾"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "矩阵、两道屏障、审批章三个图标",
+   "prompt_en": "Three icons: a matrix, two barriers, an approval stamp. No people.",
+   "narration": "矩阵打分、两道屏障、先审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "小结回顾",
+   "scene": "欣欣把本课要点拼成一块盾牌",
+   "prompt_en": "The panda mascot assembles the key points into a shield.",
+   "narration": "评清楚、控到位，再做决定。",
+   "overlay": [
+    "小结回顾"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣挥手，身后盾牌发亮",
+   "prompt_en": "The panda mascot waves goodbye with a glowing shield behind.",
+   "narration": "做好评估，我们下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

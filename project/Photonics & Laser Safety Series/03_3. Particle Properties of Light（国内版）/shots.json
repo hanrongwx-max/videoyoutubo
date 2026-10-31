@@ -1,0 +1,1447 @@
+{
+ "id": "03_3. Particle Properties of Light",
+ "edition": "国内版",
+ "series": "Photonics & Laser Safety Series",
+ "title": "光的粒子性：光子、光谱与热辐射（国内版）",
+ "seconds": 545,
+ "source_doc": "course/Photonics & Laser Safety Series/03_3. Particle Properties of Light.md",
+ "author_source": "project/Photonics & Laser Safety Series/03_3. Particle Properties of Light（国内版）/src.py",
+ "points": {
+  "K1": "光也是一串粒子",
+  "K2": "本课要弄懂的四件事",
+  "K3": "光子是什么",
+  "K4": "光子能量看颜色",
+  "K5": "光穿过材料：反射、吸收、散射、透射",
+  "K6": "从宏观走进原子",
+  "K7": "原子的壳层",
+  "K8": "越往外，能量越高",
+  "K9": "基态、激发与光子",
+  "K10": "能量要刚好对上",
+  "K11": "发射与各种光源",
+  "K12": "三种光谱",
+  "K13": "亮线和暗线一一对应",
+  "K14": "光谱是物质的指纹",
+  "K15": "谱线为什么有强有弱",
+  "K16": "固体的吸收带",
+  "K17": "热辐射：温度越高越亮",
+  "K18": "温度看颜色",
+  "K19": "峰值随温度移动",
+  "K20": "光的波粒二象性",
+  "S1": "强光、紫外和红外：护眼护肤",
+  "S2": "放电光源的高压与放电",
+  "S3": "暗室照明与防绊倒",
+  "S4": "眼睛受照：报告与就医"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在光学实验室门口，手里托着一个发光的小光球，向镜头招手",
+   "prompt_en": "The panda mascot stands at the door of an optics lab holding a small glowing ball of light in one paw and waves at the camera.",
+   "narration": "这一课讲光的粒子性。",
+   "overlay": [
+    "光的粒子性：光子、光谱与热辐射"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "光子、原子、彩虹光谱条、发红的铁块四个图标排成一行",
+   "prompt_en": "Four icons in a row: a tiny glowing dot of light, a simple atom with rings, a rainbow strip with dark lines, and a red-hot iron bar. No people.",
+   "narration": "光子、能级、光谱，还有热辐射。",
+   "overlay": [],
+   "labels": [
+    "光子",
+    "能级",
+    "光谱",
+    "热辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "光谱实验室里，阿杰凑近一盏发着刺眼蓝白光的灯，眯眼想看清颜色",
+   "prompt_en": "In a dim spectroscopy lab, the young male student leans close to a lamp glowing harsh blue-white light and squints straight into it.",
+   "narration": "阿杰想看清灯的颜色，凑上去直盯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "人眼直视发光灯的图标，被红叉划掉",
+   "prompt_en": "An icon of an eye staring directly at a bright glowing lamp, crossed out with a red X. No people.",
+   "narration": "强光和看不见的紫外，都会伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把阿杰拉开，递给他一副防护眼镜，指向灯前的挡板",
+   "prompt_en": "The female graduate student pulls the young male student back, hands him a pair of safety glasses and points to a shield in front of the lamp.",
+   "narration": "小研拉开他：先戴眼镜，隔着挡板看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起一根手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先弄懂光是什么，才知道怎么防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串粒子",
+   "scene": "欣欣一手托着水波图标，一手托着一串小光点",
+   "prompt_en": "The panda mascot holds a wavy water ripple icon in one paw and a string of tiny glowing dots in the other.",
+   "narration": "光既像波，也像一串粒子。",
+   "overlay": [
+    "光也是一串粒子"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串粒子",
+   "scene": "反射、折射图标贴在波浪旁，发光、吸收图标贴在光点旁",
+   "prompt_en": "Icons of a mirror reflection and a bent straw in water placed beside a wave; icons of a glowing bulb and a dark absorbing block placed beside a row of dots. No people.",
+   "narration": "反射折射靠波，发光吸收靠粒子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串粒子",
+   "scene": "一串光点像小火车一样连成一列向前跑",
+   "prompt_en": "A row of tiny glowing dots lined up like a little train running forward. No people.",
+   "narration": "今天，我们把光看成一串光子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "本课要弄懂的四件事",
+   "scene": "欣欣身旁浮现四张空白卡片",
+   "prompt_en": "The panda mascot stands beside four blank cards floating in the air.",
+   "narration": "这一课，要弄懂四件事。",
+   "overlay": [
+    "本课要弄懂的四件事"
+   ],
+   "labels": [
+    "原子收放能量",
+    "光谱怎么来",
+    "线谱带谱连续谱",
+    "穿过材料的光"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "本课要弄懂的四件事",
+   "scene": "四张卡片依次打上绿勾",
+   "prompt_en": "Four blank cards each getting a green check mark one by one. No people.",
+   "narration": "原子、光谱、热辐射、穿过材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光子是什么",
+   "scene": "一束光被放大，分成一个个小光包",
+   "prompt_en": "A beam of light zooms in and splits into many small glowing packets. No people.",
+   "narration": "光子，是光里最小的一份。",
+   "overlay": [
+    "光子是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光子是什么",
+   "scene": "红、绿、蓝三种颜色的小光包并排",
+   "prompt_en": "Three small glowing packets side by side, one red, one green and one blue. No people.",
+   "narration": "不同颜色，光子也不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光子是什么",
+   "scene": "小光包旁边是波浪、尺子、电池三个图标",
+   "prompt_en": "A glowing packet next to three icons: a wavy line, a ruler and a battery. No people.",
+   "narration": "用频率、波长和能量来描述它。",
+   "overlay": [],
+   "labels": [
+    "频率",
+    "波长",
+    "能量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光子是什么",
+   "scene": "实心小球图标被打叉，旁边是一小段波浪组成的光包",
+   "prompt_en": "A solid tiny ball icon crossed out with a red X, next to a short bundle of waves wrapped into a glowing packet. No people.",
+   "narration": "它不是小钢珠，更像一小团波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光子能量看颜色",
+   "scene": "欣欣举着红色和紫色两个光包，紫色的更亮更大",
+   "prompt_en": "The panda mascot holds up a red glowing packet and a violet glowing packet, the violet one brighter and fuller.",
+   "narration": "频率越高，每个光子能量越大。",
+   "overlay": [
+    "光子能量看颜色"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光子能量看颜色",
+   "scene": "长波浪和短密波浪对比，短波浪旁有向上箭头",
+   "prompt_en": "A long lazy wave next to a short tightly packed wave, with an up arrow beside the short wave. No people.",
+   "narration": "波长越短，单个光子越有劲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光子能量看颜色",
+   "scene": "从红到紫的色带下方，一排能量柱由低到高",
+   "prompt_en": "A rainbow strip from red to violet with a row of bars underneath rising from low on the red side to high on the violet side. No people.",
+   "narration": "红光最温和，紫光、紫外更强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光子能量看颜色",
+   "scene": "能量柱的紫外一端亮起黄色警示三角",
+   "prompt_en": "The high end of the energy bars beyond violet lights up with a yellow warning triangle. No people.",
+   "narration": "紫外光子能量高，伤眼伤皮肤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光穿过材料：反射、吸收、散射、透射",
+   "scene": "一束光射向一块透明玻璃板的示意图",
+   "prompt_en": "A simple diagram of a light beam heading toward a clear glass slab. No people.",
+   "narration": "光穿过一块材料，会分成几路。",
+   "overlay": [
+    "光穿过材料：反射、吸收、散射、透射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光穿过材料：反射、吸收、散射、透射",
+   "scene": "玻璃板前后两个面各有一小股光被反射回来",
+   "prompt_en": "Small parts of the beam bounce back from both the front face and the back face of the glass slab. No people.",
+   "narration": "进出两个表面，各反射一点。",
+   "overlay": [],
+   "labels": [
+    "反射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光穿过材料：反射、吸收、散射、透射",
+   "scene": "玻璃板内部，光线一部分被吸收变暗，一部分向四周散开",
+   "prompt_en": "Inside the glass slab, part of the beam fades into the material and part sprays out sideways in small rays. No people.",
+   "narration": "材料里，一部分被吸收，一部分散射。",
+   "overlay": [],
+   "labels": [
+    "吸收",
+    "散射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光穿过材料：反射、吸收、散射、透射",
+   "scene": "剩下的细一些的光束从玻璃板后面出去",
+   "prompt_en": "A thinner beam comes out of the back of the glass slab and continues forward. No people.",
+   "narration": "剩下的，才透射出去。",
+   "overlay": [],
+   "labels": [
+    "透射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光穿过材料：反射、吸收、散射、透射",
+   "scene": "示意图中光束越来越窄，旁边一个电池图标电量下降",
+   "prompt_en": "In the diagram the beam gets narrower step by step, next to a battery icon whose charge drops. No people.",
+   "narration": "图里光束变窄，表示能量变少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "从宏观走进原子",
+   "scene": "一串光点走进材料，一个个消失",
+   "prompt_en": "A row of glowing dots enters a block of material and disappears one by one. No people.",
+   "narration": "吸收，就是光子被材料吃掉。",
+   "overlay": [
+    "从宏观走进原子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "从宏观走进原子",
+   "scene": "光点越来越少，光束越来越暗",
+   "prompt_en": "Fewer and fewer glowing dots remain, and the beam becomes dimmer. No people.",
+   "narration": "光子少了，光就弱了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "从宏观走进原子",
+   "scene": "放大镜对准材料，里面露出许多小原子",
+   "prompt_en": "A magnifying glass over the block of material reveals many tiny atoms inside. No people.",
+   "narration": "要看清吸收，得钻进原子里看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "原子的壳层",
+   "scene": "欣欣指着一个大原子模型：中间原子核，外面一圈圈轨道",
+   "prompt_en": "The panda mascot points at a big atom model with a nucleus in the center and several rings around it.",
+   "narration": "物质由原子组成。",
+   "overlay": [
+    "原子的壳层"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "原子的壳层",
+   "scene": "原子核标正号，电子标负号，在圈上转动",
+   "prompt_en": "A nucleus with a plus symbol and small electrons with minus symbols circling on rings. No people.",
+   "narration": "原子核带正电，电子在外面绕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "原子的壳层",
+   "scene": "像洋葱一样的多层圆环，由内向外",
+   "prompt_en": "Nested rings like layers of an onion, from inner to outer. No people.",
+   "narration": "电子分层住，一层叫一个壳层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "原子的壳层",
+   "scene": "最内层放两个电子，第二层放八个",
+   "prompt_en": "The innermost ring holds two electrons and the second ring holds eight electrons. No people.",
+   "narration": "每层能住的电子数有上限。",
+   "overlay": [],
+   "labels": [
+    "第一层2个",
+    "第二层8个"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "原子的壳层",
+   "scene": "电子像座位一样从内圈开始依次坐满",
+   "prompt_en": "Electrons fill seats on the rings starting from the inner ring outward, like filling seats in a theater. No people.",
+   "narration": "从里往外，一层层坐满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "越往外，能量越高",
+   "scene": "原子壳层变成一架楼梯，越往上台阶越高",
+   "prompt_en": "The atom rings turn into a staircase, with higher steps further up. No people.",
+   "narration": "每一层，对应一级能量台阶。",
+   "overlay": [
+    "越往外，能量越高"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "越往外，能量越高",
+   "scene": "靠近原子核的电子在低台阶，外层电子在高台阶",
+   "prompt_en": "An electron near the nucleus sits on a low step, and an outer electron sits on a high step. No people.",
+   "narration": "离核越远，能量越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "越往外，能量越高",
+   "scene": "电子拿到一个能量包，跳上更高一级台阶",
+   "prompt_en": "An electron receives a small glowing energy packet and jumps up to a higher step. No people.",
+   "narration": "电子得到能量，才能往上跳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "基态、激发与光子",
+   "scene": "所有电子都安静地待在最低台阶上",
+   "prompt_en": "All electrons rest quietly on the lowest steps of the staircase. No people.",
+   "narration": "都在最低处，叫基态。",
+   "overlay": [
+    "基态、激发与光子"
+   ],
+   "labels": [
+    "基态"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "基态、激发与光子",
+   "scene": "一个电子吸收能量，跳到高处，周围闪光",
+   "prompt_en": "One electron absorbs energy and leaps to a high step with a small flash around it. No people.",
+   "narration": "吸收能量跳上去，叫激发。",
+   "overlay": [],
+   "labels": [
+    "激发态"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "基态、激发与光子",
+   "scene": "电子上下跳，每次带走或放出一个小光包",
+   "prompt_en": "An electron jumps up and down the steps, taking in or releasing one small glowing packet each time. No people.",
+   "narration": "上下一跳，就收放一份能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "基态、激发与光子",
+   "scene": "小光包上标着一个整份的标记",
+   "prompt_en": "A single glowing packet shown as one whole unit, like one coin. No people.",
+   "narration": "这一份能量，就是一个光子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "能量要刚好对上",
+   "scene": "欣欣拿着一枚硬币，站在只收特定面额的投币机前",
+   "prompt_en": "The panda mascot holds one coin in front of a vending machine whose slot fits only one coin size.",
+   "narration": "跳一级台阶，要刚好那么多能量。",
+   "overlay": [
+    "能量要刚好对上"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "能量要刚好对上",
+   "scene": "台阶高度和光包大小正好吻合，电子跳上去",
+   "prompt_en": "A glowing packet exactly matches the height of a step and the electron jumps up. No people.",
+   "narration": "光子能量等于台阶差，才被吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "能量要刚好对上",
+   "scene": "太大和太小的光包从原子旁边穿过",
+   "prompt_en": "A too-big glowing packet and a too-small glowing packet pass straight through beside the atom. No people.",
+   "narration": "对不上的光子，直接穿过去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "能量要刚好对上",
+   "scene": "白光照在材料上，只有某几种颜色被留下",
+   "prompt_en": "White light shines on a block of material and only a few specific colors get caught inside. No people.",
+   "narration": "所以材料只吸收特定颜色的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "能量要刚好对上",
+   "scene": "小研指着一张空白能级图上两级台阶之间的间距",
+   "prompt_en": "The female graduate student points at the gap between two steps on a blank energy level chart.",
+   "narration": "能级图上的间距，就是光子的能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发射与各种光源",
+   "scene": "电子从高台阶落下，放出一个光包",
+   "prompt_en": "An electron drops down from a high step and releases a glowing packet. No people.",
+   "narration": "反过来，电子落下就放出光。",
+   "overlay": [
+    "发射与各种光源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发射与各种光源",
+   "scene": "太阳、星星、闪电图标",
+   "prompt_en": "Icons of the sun, stars and a lightning bolt. No people.",
+   "narration": "天然光源：太阳、恒星、闪电。",
+   "overlay": [],
+   "labels": [
+    "天然光源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发射与各种光源",
+   "scene": "白炽灯、荧光灯管、加热器、激光器图标",
+   "prompt_en": "Icons of an incandescent bulb, a fluorescent tube, a heater and a laser box with a beam. No people.",
+   "narration": "人造光源：灯、加热器、激光器。",
+   "overlay": [],
+   "labels": [
+    "人造光源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发射与各种光源",
+   "scene": "天线、雷达、X 光管图标",
+   "prompt_en": "Icons of a radio antenna, a radar dish and an X-ray tube. No people.",
+   "narration": "天线、雷达、X光管也都在辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发射与各种光源",
+   "scene": "一块金属慢慢加热，从暗红开始发光",
+   "prompt_en": "A metal block slowly heats up and starts to glow dark red. No people.",
+   "narration": "任何物体都在辐射，热到一定才看得见。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "欣欣举着一个三棱镜，白光穿过后散成彩虹",
+   "prompt_en": "The panda mascot holds a glass prism; white light passes through it and spreads into a rainbow.",
+   "narration": "光源发出的颜色范围，叫光谱。",
+   "overlay": [
+    "三种光谱"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "灯泡、棱镜和一条完整的彩虹色带",
+   "prompt_en": "A light bulb, a prism and a complete rainbow strip from red to violet. No people.",
+   "narration": "白光散开，是连续的彩带。",
+   "overlay": [],
+   "labels": [
+    "连续谱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "发光的热气体团经棱镜，在黑底上出现几条彩色亮线",
+   "prompt_en": "A glowing cloud of hot gas shines through a prism, giving a few bright colored lines on a black strip. No people.",
+   "narration": "热气体发光，只有几条亮线。",
+   "overlay": [],
+   "labels": [
+    "发射谱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "热气体里的电子从高台阶纷纷落下，每次放出一种颜色",
+   "prompt_en": "Inside the hot gas, electrons drop down from high steps, each drop releasing one color of light. No people.",
+   "narration": "电子落回低处，放出固定颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "白光穿过冷气体团，彩虹带上出现几条黑线",
+   "prompt_en": "White light passes through a cold gas cloud and a rainbow strip shows a few dark lines. No people.",
+   "narration": "白光穿过冷气体，彩带上缺几条。",
+   "overlay": [],
+   "labels": [
+    "吸收谱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三种光谱",
+   "scene": "冷气体里电子吸收光包向上跳",
+   "prompt_en": "Inside the cold gas, electrons catch glowing packets and jump up. No people.",
+   "narration": "缺的颜色，被电子吸收了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "亮线和暗线一一对应",
+   "scene": "发射谱亮线和吸收谱暗线上下对齐，虚线连接",
+   "prompt_en": "A strip of bright lines on black placed above a rainbow strip with dark lines, dashed lines showing the positions match. No people.",
+   "narration": "同一种气体，亮线和暗线位置相同。",
+   "overlay": [
+    "亮线和暗线一一对应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "亮线和暗线一一对应",
+   "scene": "向下箭头配亮光，向上箭头配暗线",
+   "prompt_en": "A down arrow with a bright flash and an up arrow with a dark gap, side by side. No people.",
+   "narration": "一个往下放光，一个往上吸光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光谱是物质的指纹",
+   "scene": "几条不同的谱线图案像条形码一样排列",
+   "prompt_en": "Several different line spectrum patterns lined up like barcodes. No people.",
+   "narration": "每种原子分子，有自己的谱线。",
+   "overlay": [
+    "光谱是物质的指纹"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光谱是物质的指纹",
+   "scene": "谱线条形码旁边是一个指纹图标",
+   "prompt_en": "A spectral barcode pattern next to a fingerprint icon. No people.",
+   "narration": "这就是物质的光谱指纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光谱是物质的指纹",
+   "scene": "小研在光谱仪前比对两张空白图谱",
+   "prompt_en": "The female graduate student compares two blank spectrum charts in front of a spectrometer, wearing safety glasses.",
+   "narration": "比对谱线，就能认出是什么物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光谱是物质的指纹",
+   "scene": "原子模型、一本空白书和一个光谱仪图标",
+   "prompt_en": "Icons of an atom model, a blank book and a spectrometer. No people.",
+   "narration": "谱线研究，催生了量子理论和光谱学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "光谱是物质的指纹",
+   "scene": "阿杰在本子上画谱线图标，点头",
+   "prompt_en": "The young male student sketches a line pattern icon in a blank notebook and nods.",
+   "narration": "做光电技术，常会用到它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "谱线为什么有强有弱",
+   "scene": "一支细玻璃管里的气体在放电中发光",
+   "prompt_en": "A slim glass tube of gas glowing from an electric discharge, inside a closed lamp housing. No people.",
+   "narration": "低压气体放电，能发出线状谱。",
+   "overlay": [
+    "谱线为什么有强有弱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "谱线为什么有强有弱",
+   "scene": "每条亮线对应一个向下的跳跃箭头",
+   "prompt_en": "Each bright line connected to one downward jump arrow on a staircase. No people.",
+   "narration": "一条谱线，对应一种跳跃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "谱线为什么有强有弱",
+   "scene": "高高低低的谱线峰，高峰旁是常走的宽路，矮峰旁是少走的小路",
+   "prompt_en": "A chart of tall and short spectral peaks; a busy wide path beside the tall peak and a quiet narrow path beside the short peak. No people.",
+   "narration": "常发生的跳跃，谱线就强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "谱线为什么有强有弱",
+   "scene": "电子在台阶上停留，旁边沙漏一快一慢",
+   "prompt_en": "Electrons waiting on steps, with one fast-running hourglass and one slow hourglass beside them. No people.",
+   "narration": "少发生的跳跃，谱线就弱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "固体的吸收带",
+   "scene": "光照向一块固体，能量箭头流进材料",
+   "prompt_en": "Light shines onto a solid block and energy arrows flow into the material. No people.",
+   "narration": "吸收，是光把能量交给材料。",
+   "overlay": [
+    "固体的吸收带"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "固体的吸收带",
+   "scene": "透过固体的彩带上，有几段宽宽的暗带",
+   "prompt_en": "A rainbow strip after passing through the solid shows several wide dark bands. No people.",
+   "narration": "透过来的光，缺了几段颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "固体的吸收带",
+   "scene": "吸收曲线上的几个宽峰被圈出",
+   "prompt_en": "A simple absorption curve with a few broad humps circled. No people.",
+   "narration": "这些被吸走的范围，叫吸收带。",
+   "overlay": [],
+   "labels": [
+    "吸收带"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "热辐射：温度越高越亮",
+   "scene": "欣欣站在一个慢慢变红的电炉丝旁，保持距离",
+   "prompt_en": "The panda mascot stands at a safe distance from a stove coil slowly turning red.",
+   "narration": "热的物体都会发出辐射。",
+   "overlay": [
+    "热辐射：温度越高越亮"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "热辐射：温度越高越亮",
+   "scene": "温度计图标旁，三条辐射曲线一条比一条高",
+   "prompt_en": "A thermometer icon next to three simple hill-shaped curves, each taller than the last. No people.",
+   "narration": "温度越高，辐射越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "热辐射：温度越高越亮",
+   "scene": "高温曲线的山峰更尖更突出",
+   "prompt_en": "The hottest curve has a sharper, more pronounced peak. No people.",
+   "narration": "峰也越尖，颜色更集中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "热辐射：温度越高越亮",
+   "scene": "曲线峰顶向紫色一侧移动的箭头",
+   "prompt_en": "An arrow showing the curve peak moving toward the violet side as temperature rises. No people.",
+   "narration": "峰值往短波、往紫外方向移。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "温度看颜色",
+   "scene": "金属棒从暗红、橙、黄变到发白",
+   "prompt_en": "A metal rod changing color from dark red to orange to yellow to bright white. No people.",
+   "narration": "金属越烧越热：红、橙、黄、白。",
+   "overlay": [
+    "温度看颜色"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "温度看颜色",
+   "scene": "冷金属旁画着看不见的红外波浪",
+   "prompt_en": "A cool metal rod with faint invisible wavy lines drawn around it. No people.",
+   "narration": "还没发红时，已在放红外线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "温度看颜色",
+   "scene": "灯丝、碳弧灯、太阳三个图标，从左到右越来越亮",
+   "prompt_en": "Three icons from left to right getting brighter: a lamp filament, a carbon arc lamp and the sun. No people.",
+   "narration": "灯丝、弧光灯、太阳，一个比一个热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "温度看颜色",
+   "scene": "夜空中一颗蓝星和一颗红星",
+   "prompt_en": "A night sky with one blue star and one red star. No people.",
+   "narration": "蓝色恒星更热，红色恒星较冷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "峰值随温度移动",
+   "scene": "温度计升高，曲线峰顶向左滑",
+   "prompt_en": "A thermometer rising while the peak of a curve slides to the left. No people.",
+   "narration": "温度越高，峰值波长越短。",
+   "overlay": [
+    "峰值随温度移动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "峰值随温度移动",
+   "scene": "跷跷板一头是温度计，一头是波长尺",
+   "prompt_en": "A seesaw with a thermometer on one end and a wavelength ruler on the other end. No people.",
+   "narration": "两者一升一降，乘积不变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "峰值随温度移动",
+   "scene": "摄氏度温度计箭头指向绝对温标温度计",
+   "prompt_en": "An arrow from an ordinary thermometer icon to an absolute temperature thermometer icon. No people.",
+   "narration": "计算时，温度要换成开尔文。",
+   "overlay": [],
+   "labels": [
+    "先换算成开尔文"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "光的波粒二象性",
+   "scene": "欣欣一边举波浪图标，一边举光点图标",
+   "prompt_en": "The panda mascot holds a wave icon in one paw and a glowing dot icon in the other.",
+   "narration": "吸收、发射、热辐射，靠粒子性。",
+   "overlay": [
+    "光的波粒二象性"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "光的波粒二象性",
+   "scene": "反射、折射图标贴在波浪一侧",
+   "prompt_en": "Icons of reflection and refraction placed on the wave side. No people.",
+   "narration": "反射、折射，靠波动性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "光的波粒二象性",
+   "scene": "波浪和光点合成一个徽章",
+   "prompt_en": "A wave icon and a glowing dot icon merge into one badge. No people.",
+   "narration": "光，既是波，也是粒子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "弧光灯、紫外灯、红外加热灯三个图标，旁边黄色警示三角",
+   "prompt_en": "Icons of an arc lamp, an ultraviolet lamp and an infrared heat lamp next to a general warning triangle. No people.",
+   "narration": "强光、紫外、红外光源，都要防护。",
+   "overlay": [
+    "强光、紫外和红外：护眼护肤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "眼睛图标旁的红外和紫外线条是虚线，表示看不见",
+   "prompt_en": "An eye icon next to dashed invisible wavy lines for infrared and ultraviolet. No people.",
+   "narration": "看不见，不等于没有伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "小研戴着护目镜和手套，在灯前放下遮光挡板",
+   "prompt_en": "The female graduate student wearing goggles and gloves lowers a shield in front of a bright lamp.",
+   "narration": "用挡板和灯罩，把光关在里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "防护眼镜图标旁是一个波段选择的空白标签",
+   "prompt_en": "A safety goggles icon next to a blank tag with a color band icon. No people.",
+   "narration": "护目镜要按光源波段选择。",
+   "overlay": [],
+   "labels": [
+    "按波段选镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "手臂上套袖、戴手套的图标，皮肤裸露图标被打叉",
+   "prompt_en": "An icon of an arm covered by a sleeve and glove, next to a bare skin icon crossed out. No people.",
+   "narration": "紫外也晒伤皮肤，别露手臂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外和红外：护眼护肤",
+   "scene": "直视灯光的眼睛被打叉，旁边是一块散射屏",
+   "prompt_en": "An eye staring straight at a lamp crossed out with a red X, next to a white viewing screen. No people.",
+   "narration": "不直视光源，用屏幕间接观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放电光源的高压与放电",
+   "scene": "光谱灯的电源盒上贴着电击警告标志",
+   "prompt_en": "A lamp power supply box with an electrical warning sign on its side. No people.",
+   "narration": "放电灯要用高压电源。",
+   "overlay": [
+    "放电光源的高压与放电"
+   ],
+   "labels": [
+    "当心触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放电光源的高压与放电",
+   "scene": "老李关掉电源、拔下插头，挂上空白检修牌",
+   "prompt_en": "The facility engineer switches off the power supply, unplugs it and hangs a blank maintenance tag on it.",
+   "narration": "换灯管前，先断电拔插头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放电光源的高压与放电",
+   "scene": "电容器图标里还残留电火花，旁边沙漏",
+   "prompt_en": "A capacitor icon still holding a small spark, next to an hourglass. No people.",
+   "narration": "断电后电容可能还带电，要等放完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放电光源的高压与放电",
+   "scene": "手伸向刚关掉还发烫的灯罩的图标被打叉，旁边烫伤警告标志",
+   "prompt_en": "An icon of a hand reaching for a just-switched-off lamp housing crossed out, next to a hot surface warning sign. No people.",
+   "narration": "灯罩很烫，冷却后再碰。",
+   "overlay": [],
+   "labels": [
+    "当心烫伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放电光源的高压与放电",
+   "scene": "王老师指着设备旁空白的操作规程卡",
+   "prompt_en": "The safety administrator points at a blank operating procedure card posted next to the equipment.",
+   "narration": "按规程操作，电源不擅自拆开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "暗室照明与防绊倒",
+   "scene": "关灯的暗室里，地面上的线缆和箱子图标被圈出",
+   "prompt_en": "In a darkened lab, cables and a box lying on the floor are circled. No people.",
+   "narration": "关灯做光谱，最怕被绊倒。",
+   "overlay": [
+    "暗室照明与防绊倒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "暗室照明与防绊倒",
+   "scene": "阿杰把线缆收进线槽，把箱子搬到架上",
+   "prompt_en": "The young male student tucks cables into a floor cable cover and lifts a box onto a shelf.",
+   "narration": "关灯前，收好线缆，清空通道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "暗室照明与防绊倒",
+   "scene": "暗室门口一盏小红灯和墙边地脚灯亮着",
+   "prompt_en": "A small dim red work light near the door and low floor lights along the wall glowing in a dark lab. No people.",
+   "narration": "留一盏弱光照明，看清出口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "暗室照明与防绊倒",
+   "scene": "墙上的安全出口标志在黑暗中发亮",
+   "prompt_en": "An emergency exit sign glowing on the wall of the dark lab. No people.",
+   "narration": "出口标志要亮，通道不能堵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "阿杰捂着一只眼睛，小研扶着他",
+   "prompt_en": "The young male student covers one eye with his hand while the female graduate student supports him.",
+   "narration": "眼睛被强光照到，不要揉眼。",
+   "overlay": [
+    "眼睛受照：报告与就医"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "小研关掉光源，挂上空白停用牌",
+   "prompt_en": "The female graduate student switches off the lamp and hangs a blank do-not-use tag on it.",
+   "narration": "先关掉光源，防止别人再受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "小研打电话，旁边老周快步赶来",
+   "prompt_en": "The female graduate student makes a phone call while the older man hurries over.",
+   "narration": "立即报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "电话图标和救护车图标",
+   "prompt_en": "A telephone icon next to an ambulance icon. No people.",
+   "narration": "尽快到眼科就医，紧急拨打120。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "王老师在空白记录本上登记经过",
+   "prompt_en": "The safety administrator writes in a blank incident logbook with the older man beside him.",
+   "narration": "如实记录，向学院报告，查找原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现光包和楼梯图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a glowing packet and a staircase.",
+   "narration": "光子是一份份能量，颜色定能量。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电子上跳吸收、下落发光的两个图标",
+   "prompt_en": "Two icons: an electron jumping up while catching light, and an electron dropping down while giving off light. No people.",
+   "narration": "能量刚好对上才吸收，落下就发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "连续谱、亮线谱、暗线谱三条色带和指纹图标",
+   "prompt_en": "Three strips: a full rainbow, bright lines on black, a rainbow with dark lines, plus a fingerprint icon. No people.",
+   "narration": "三种光谱，谱线是物质的指纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "由红到白发光的金属棒图标",
+   "prompt_en": "An icon of a metal rod glowing from red to white. No people.",
+   "narration": "越热越亮，峰值越往短波移。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、挡板、断电插头、报告单四个图标",
+   "prompt_en": "Four icons: safety goggles, a lamp shield, an unplugged power plug and a blank report form. No people.",
+   "narration": "护眼护肤、断电防烫，受照就报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在光学实验室里摘下护目镜挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in a tidy optics lab, holding safety goggles in the other paw.",
+   "narration": "看懂光，也护好眼，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

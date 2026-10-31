@@ -1,0 +1,839 @@
+{
+ "id": "06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe",
+ "edition": "国内版",
+ "series": "Laboratory Equipment Safety Series",
+ "title": "读懂气瓶上的标记（国内版）",
+ "seconds": 290,
+ "source_doc": "course/Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe.md",
+ "author_source": "project/Laboratory Equipment Safety Series/06_Compressed Gas Cylinders Reading Compressed Gas Cylinder Markings Equipment Safe（国内版）/src.py",
+ "points": {
+  "K1": "会读标记是用气基本功",
+  "K2": "钢印里记着什么",
+  "K3": "瓶颈处的产权或制造单位",
+  "K4": "标签写明气体和危害",
+  "K5": "不能只凭颜色认气体",
+  "K6": "读标签，查安全技术说明书",
+  "K7": "各家配色可能不同",
+  "K8": "没有标签，坚决不用",
+  "K9": "气瓶一般租用，由供方送检",
+  "K10": "气瓶必须定期检验",
+  "K11": "标记告诉你检验周期",
+  "K12": "到期按时送检",
+  "K13": "只有一个日期：制造和首检",
+  "K14": "检验周期因瓶因气而异",
+  "K15": "多个日期：历次复检",
+  "K16": "找到最近一次，算出下一次",
+  "K17": "制造依据的标准和监管",
+  "K18": "材质和工作压力",
+  "K19": "气瓶编号",
+  "K20": "供应单位的条码贴纸",
+  "K21": "查本校手册，有疑问就问",
+  "S1": "国内气瓶的颜色标志",
+  "S2": "用前三查",
+  "S3": "合规来源，严禁涂改",
+  "S4": "建立气瓶台账",
+  "S5": "问题气瓶：停用、隔离、报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一只固定好的气瓶旁，手拿放大镜，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a strapped gas cylinder holding a magnifying glass and waves at the camera.",
+   "narration": "这一课教你读懂气瓶上的标记。",
+   "overlay": [
+    "读懂气瓶上的标记"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "瓶颈、标签、钢印、色环四个图标排成一行",
+   "prompt_en": "Four icons in a row: a cylinder neck ring, a blank product label, stamped marks on a cylinder shoulder, and a colored band around a cylinder. No people.",
+   "narration": "钢印、标签、颜色，都在说话。",
+   "overlay": [],
+   "labels": [
+    "钢印",
+    "标签",
+    "颜色"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "供气单位刚送来气瓶，阿杰签收时只看了一眼颜色",
+   "prompt_en": "The young male student signs for a newly delivered gas cylinder, glancing only at its color.",
+   "narration": "新气瓶送到，阿杰看了眼颜色就签收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着瓶肩钢印，阿杰一脸茫然",
+   "prompt_en": "The female graduate student points at the stamped marks on the cylinder shoulder; the young male student looks confused.",
+   "narration": "小研问：它什么时候检验到期？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶一个问号",
+   "prompt_en": "The young male student scratches his head with a question mark icon above him.",
+   "narration": "阿杰答不上来。我们一起来学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "会读标记是用气基本功",
+   "scene": "小研用手指着瓶肩钢印，欣欣在旁点头",
+   "prompt_en": "The female graduate student traces the stamped marks on the cylinder shoulder with a gloved finger while the panda mascot nods.",
+   "narration": "找到检验日期、看懂标记，是基本功。",
+   "overlay": [
+    "会读标记是用气基本功"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "钢印里记着什么",
+   "scene": "瓶肩钢印特写，旁边浮现五个空白小卡片",
+   "prompt_en": "A close-up of stamped marks on a cylinder shoulder with five small blank cards floating beside it. No people.",
+   "narration": "瓶肩上的钢印，记着气瓶的身世。",
+   "overlay": [
+    "钢印里记着什么"
+   ],
+   "labels": [
+    "制造信息",
+    "气瓶编号",
+    "制造日期",
+    "产权单位",
+    "检验日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "瓶颈处的产权或制造单位",
+   "scene": "瓶颈圈上的刻字特写，手指示意（刻字模糊不可读）",
+   "prompt_en": "A gloved finger points at blurred engraved letters on the neck ring of a gas cylinder. No people.",
+   "narration": "瓶颈处刻着产权单位或制造单位。",
+   "overlay": [
+    "瓶颈处的产权或制造单位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "标签写明气体和危害",
+   "scene": "气瓶肩部贴着空白标签，上面只有危险象形图",
+   "prompt_en": "A gas cylinder shoulder with a blank product label showing only a hazard pictogram diamond. No people.",
+   "narration": "每只气瓶都要有清楚的标签。",
+   "overlay": [
+    "标签写明气体和危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "标签写明气体和危害",
+   "scene": "标签图标旁浮现气体名、危害两张卡片",
+   "prompt_en": "A blank label icon with two blank cards floating beside it: one with a gas cylinder icon, one with a warning triangle. No people.",
+   "narration": "标签写明装的什么气、有什么危害。",
+   "overlay": [],
+   "labels": [
+    "气体名称",
+    "危险性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "不能只凭颜色认气体",
+   "scene": "两只颜色相同的气瓶，问号在中间",
+   "prompt_en": "Two gas cylinders painted the same color side by side, with a question mark between them. No people.",
+   "narration": "只看颜色认气体，靠不住。",
+   "overlay": [
+    "不能只凭颜色认气体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读标签，查安全技术说明书",
+   "scene": "小研对照瓶身标签，翻阅空白说明书",
+   "prompt_en": "The female graduate student compares the cylinder label with a blank safety data sheet booklet.",
+   "narration": "要读标签，再查安全技术说明书。",
+   "overlay": [
+    "读标签，查安全技术说明书"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读标签，查安全技术说明书",
+   "scene": "易燃、助燃、有毒、窒息、高压五个象形图图标",
+   "prompt_en": "Five hazard pictogram icons in a row: a flame, a flame over a circle, a skull, a person short of breath, and a gas cylinder. No people.",
+   "narration": "弄清它的危害和性质。",
+   "overlay": [],
+   "labels": [
+    "易燃",
+    "助燃",
+    "有毒",
+    "窒息",
+    "高压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "各家配色可能不同",
+   "scene": "一排各种颜色的气瓶",
+   "prompt_en": "A row of gas cylinders of many different colors, all with blank labels. No people.",
+   "narration": "进口气瓶和不同来源，配色可能不同。",
+   "overlay": [
+    "各家配色可能不同"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "没有标签，坚决不用",
+   "scene": "没有标签的气瓶被红叉划掉",
+   "prompt_en": "A gas cylinder with no label at all, crossed out with a red X. No people.",
+   "narration": "标签掉了、看不清，坚决不用。",
+   "overlay": [
+    "没有标签，坚决不用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "没有标签，坚决不用",
+   "scene": "小研打电话联系供应单位",
+   "prompt_en": "The female graduate student phones the gas supplier while standing beside an unlabeled cylinder.",
+   "narration": "立即联系供应单位处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "气瓶一般租用，由供方送检",
+   "scene": "老李用推车送来气瓶，老周签收",
+   "prompt_en": "The facility engineer delivers a cylinder on a hand truck; the older man signs a blank receipt.",
+   "narration": "实验室气瓶多是向供气单位租用。",
+   "overlay": [
+    "气瓶一般租用，由供方送检"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "气瓶一般租用，由供方送检",
+   "scene": "供气单位的仓库图标，箭头指向检验设备图标",
+   "prompt_en": "An icon of a gas supplier warehouse with an arrow to an icon of a cylinder testing station. No people.",
+   "narration": "定期检验，由产权单位负责送检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "气瓶必须定期检验",
+   "scene": "气瓶处在运输、充装、使用三个场景图标的中心",
+   "prompt_en": "A gas cylinder in the center surrounded by three icons: a delivery truck, a filling station and a lab bench. No people.",
+   "narration": "气瓶必须定期检验，",
+   "overlay": [
+    "气瓶必须定期检验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "气瓶必须定期检验",
+   "scene": "三个场景图标上方出现绿色盾牌",
+   "prompt_en": "Green shield icons appear above the truck, filling station and lab bench icons. No people.",
+   "narration": "运输、充装、使用的人才安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标记告诉你检验周期",
+   "scene": "瓶肩上的检验标记旁浮现日历图标",
+   "prompt_en": "Inspection marks on a cylinder shoulder with a calendar icon beside them. No people.",
+   "narration": "检验标记告诉你多久检一次。",
+   "overlay": [
+    "标记告诉你检验周期"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "到期按时送检",
+   "scene": "日历翻到到期月，气瓶被推回供气单位",
+   "prompt_en": "A calendar flips to a circled month, and a cylinder on a cart rolls back toward a supplier warehouse icon. No people.",
+   "narration": "快到期了，按时退回送检。",
+   "overlay": [
+    "到期按时送检"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "只有一个日期：制造和首检",
+   "scene": "钢印中只有一行日期被圈出",
+   "prompt_en": "A cylinder shoulder with only one stamped date line, circled in yellow. No people.",
+   "narration": "只有一个日期？那是制造年月。",
+   "overlay": [
+    "只有一个日期：制造和首检"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "只有一个日期：制造和首检",
+   "scene": "新出厂气瓶图标旁打一个绿勾",
+   "prompt_en": "An icon of a brand-new cylinder leaving a factory with a green check mark. No people.",
+   "narration": "也就是它出厂和第一次检验的时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "检验周期因瓶因气而异",
+   "scene": "几种不同气瓶与不同气体图标，下面各配一个日历",
+   "prompt_en": "Several different cylinder types with different gas icons, each above its own calendar icon. No people.",
+   "narration": "检验周期，因气瓶种类和气体而异。",
+   "overlay": [
+    "检验周期因瓶因气而异"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "检验周期因瓶因气而异",
+   "scene": "王老师指着空白的规程手册",
+   "prompt_en": "The safety administrator points at a blank regulations binder.",
+   "narration": "具体周期，按气瓶安全技术规程。",
+   "overlay": [],
+   "labels": [
+    "按规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "多个日期：历次复检",
+   "scene": "瓶肩钢印下方多行日期依次亮起",
+   "prompt_en": "Several stamped date lines on a cylinder shoulder light up one after another. No people.",
+   "narration": "看到好几个日期？那是历次检验。",
+   "overlay": [
+    "多个日期：历次复检"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "多个日期：历次复检",
+   "scene": "检验标记示意：日期和检验单位两个空白格",
+   "prompt_en": "A diagram of an inspection mark with two blank boxes, one with a calendar icon and one with a building icon. No people.",
+   "narration": "标记里有检验年月和检验单位。",
+   "overlay": [],
+   "labels": [
+    "检验年月",
+    "检验单位"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "找到最近一次，算出下一次",
+   "scene": "小研手指停在最下方、最新的一行",
+   "prompt_en": "The female graduate student's gloved finger stops on the newest date line at the bottom.",
+   "narration": "找到最近一次检验日期，",
+   "overlay": [
+    "找到最近一次，算出下一次"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "找到最近一次，算出下一次",
+   "scene": "日历加号周期图标，等于下次检验",
+   "prompt_en": "A calendar icon plus a cycle arrow icon equals a calendar with a circled future month. No people.",
+   "narration": "加上规定周期，就是下次检验时间。",
+   "overlay": [],
+   "labels": [
+    "最近检验",
+    "规定周期",
+    "下次检验"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "找到最近一次，算出下一次",
+   "scene": "过期日历被红叉划掉，气瓶旁有停止手势",
+   "prompt_en": "An expired calendar crossed out with a red X next to a cylinder with a stop hand icon. No people.",
+   "narration": "超过检验有效期，就不能再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "制造依据的标准和监管",
+   "scene": "瓶肩另一侧的钢印特写，旁边一本空白标准文本",
+   "prompt_en": "Another side of the cylinder shoulder with stamped marks, next to a blank standards book icon. No people.",
+   "narration": "钢印还标明它按什么标准制造。",
+   "overlay": [
+    "制造依据的标准和监管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "制造依据的标准和监管",
+   "scene": "带空白合格铭牌的气瓶图标打绿勾，旁边一本空白规程",
+   "prompt_en": "A cylinder icon with a blank certification plate and a green check mark, next to a blank regulations booklet. No people.",
+   "narration": "国内使用的气瓶，要符合国内规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "材质和工作压力",
+   "scene": "钢瓶和铝瓶两个剖面图标",
+   "prompt_en": "Two cutaway icons: a steel cylinder and an aluminum cylinder. No people.",
+   "narration": "还有气瓶材质的标记，",
+   "overlay": [
+    "材质和工作压力"
+   ],
+   "labels": [
+    "钢质",
+    "铝合金"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "材质和工作压力",
+   "scene": "压力表图标，指针下方空白刻度",
+   "prompt_en": "A pressure gauge icon with a blank dial next to a cylinder icon. No people.",
+   "narration": "和公称工作压力，国内以兆帕计。",
+   "overlay": [],
+   "labels": [
+    "公称工作压力"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "气瓶编号",
+   "scene": "钢印中一串编号被圈出，旁边身份证图标",
+   "prompt_en": "A stamped serial number on a cylinder shoulder circled in yellow, next to an ID card icon. No people.",
+   "narration": "这串编号，是气瓶的身份证号。",
+   "overlay": [
+    "气瓶编号"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "供应单位的条码贴纸",
+   "scene": "瓶肩上的空白条码贴纸和二维码贴纸",
+   "prompt_en": "A blank barcode sticker and a blank square code sticker on a cylinder shoulder. No people.",
+   "narration": "供应单位贴的条码，记着批号等信息。",
+   "overlay": [
+    "供应单位的条码贴纸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "供应单位的条码贴纸",
+   "scene": "手机扫描气瓶上的二维码图标",
+   "prompt_en": "A phone icon scanning a square code sticker on a cylinder icon. No people.",
+   "narration": "有的能扫码，追溯气瓶来历。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "查本校手册，有疑问就问",
+   "scene": "王老师递给阿杰一本空白的气瓶安全手册",
+   "prompt_en": "The safety administrator hands the young male student a blank gas cylinder safety handbook.",
+   "narration": "细则查本校气瓶手册，不懂就问。",
+   "overlay": [
+    "查本校手册，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内气瓶的颜色标志",
+   "scene": "一排颜色各异、带色环的气瓶，旁边一本空白国标",
+   "prompt_en": "A row of cylinders of different colors with painted bands, beside a blank national standard booklet. No people.",
+   "narration": "国内气瓶颜色有国家标准统一规定。",
+   "overlay": [
+    "国内气瓶的颜色标志"
+   ],
+   "labels": [
+    "气瓶颜色标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内气瓶的颜色标志",
+   "scene": "气瓶上的瓶色、字样、色环三个部位被圈出",
+   "prompt_en": "Three parts of a cylinder circled: the body color, a blank lettering area and a colored band. No people.",
+   "narration": "瓶色、字样、字色、色环，都有含义。",
+   "overlay": [],
+   "labels": [
+    "瓶色",
+    "字样",
+    "色环"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内气瓶的颜色标志",
+   "scene": "淡蓝色氧气瓶和淡绿色氢气瓶，旁边空白标签打勾",
+   "prompt_en": "A light blue cylinder and a light green cylinder side by side, each with a blank label and a green check. No people.",
+   "narration": "颜色帮你识别，但仍以字样标签为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内气瓶的颜色标志",
+   "scene": "颜色剥落、字样模糊的气瓶被红叉划掉",
+   "prompt_en": "A cylinder with faded peeling paint and unreadable lettering, crossed out with a red X. No people.",
+   "narration": "颜色字样看不清，同样不能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "用前三查",
+   "scene": "小研对着气瓶依次打勾三张空白卡片",
+   "prompt_en": "The female graduate student checks three blank cards one by one beside a cylinder.",
+   "narration": "接气瓶、用气瓶，先做三查。",
+   "overlay": [
+    "用前三查"
+   ],
+   "labels": [
+    "查标签字样",
+    "查检验日期",
+    "查外观"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "用前三查",
+   "scene": "瓶帽、瓶阀、瓶身三个部位放大镜检查，锈蚀和凹陷处打叉",
+   "prompt_en": "A magnifying glass checks the cap, valve and body of a cylinder; spots of rust and a dent are marked with red X marks. No people.",
+   "narration": "瓶帽阀门完好，瓶身无锈蚀变形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "合规来源，严禁涂改",
+   "scene": "老周从带资质牌的供气单位接收气瓶",
+   "prompt_en": "The older man receives a cylinder from a supplier counter that has a blank license plaque on the wall.",
+   "narration": "气瓶要从有资质的单位购买或租用。",
+   "overlay": [
+    "合规来源，严禁涂改"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "合规来源，严禁涂改",
+   "scene": "来路不明的气瓶被红叉划掉",
+   "prompt_en": "An unmarked cylinder left at a doorway with no label or tag, crossed out with a red X. No people.",
+   "narration": "来路不明的气瓶，不收不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "合规来源，严禁涂改",
+   "scene": "用油漆刷改颜色、用锉刀磨钢印的图标被红叉划掉",
+   "prompt_en": "Icons of a paint brush repainting a cylinder and a file grinding stamped marks, both crossed out with a red X. No people.",
+   "narration": "严禁涂改钢印和颜色，严禁自行充装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "建立气瓶台账",
+   "scene": "小研在空白台账本上登记气瓶",
+   "prompt_en": "The female graduate student records a cylinder in a blank logbook beside the cylinder rack.",
+   "narration": "实验室要建气瓶台账。",
+   "overlay": [
+    "建立气瓶台账"
+   ],
+   "labels": [
+    "编号",
+    "气体",
+    "检验日期",
+    "进出记录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "建立气瓶台账",
+   "scene": "日历上提前标出提醒铃铛",
+   "prompt_en": "A calendar with a bell reminder icon marked a few weeks before a circled date. No people.",
+   "narration": "快到期提前联系，换瓶退瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "问题气瓶：停用、隔离、报告",
+   "scene": "小研给超期气瓶挂上空白停用牌，移到角落",
+   "prompt_en": "The female graduate student hangs a blank out-of-service tag on a cylinder and moves it to a separate secured spot.",
+   "narration": "超期、无标签、标记不清的气瓶，",
+   "overlay": [
+    "问题气瓶：停用、隔离、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "问题气瓶：停用、隔离、报告",
+   "scene": "隔离区里固定好的问题气瓶，旁边警示标志",
+   "prompt_en": "A separated area with a strapped cylinder and a general warning sign beside it. No people.",
+   "narration": "挂牌停用，单独固定存放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "问题气瓶：停用、隔离、报告",
+   "scene": "小研向老周报告，老周打电话给供气单位",
+   "prompt_en": "The female graduate student reports to the older man, who then phones the gas supplier.",
+   "narration": "报告负责人，联系供应单位收回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现标签和象形图图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a blank label and a hazard pictogram.",
+   "narration": "认气体：看字样标签，查说明书。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "颜色图标旁一个小勾、一个提示符",
+   "prompt_en": "A colored cylinder icon with a small check mark and an info icon beside it. No people.",
+   "narration": "颜色是辅助，不能只凭颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "日历加周期等于下次检验的图标",
+   "prompt_en": "A calendar plus a cycle arrow equals a circled future date. No people.",
+   "narration": "找最近检验日期，超期不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "台账本、停用牌和电话图标",
+   "prompt_en": "Icons of a blank logbook, a blank out-of-service tag and a telephone. No people.",
+   "narration": "建台账、问题瓶停用，报告处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着放大镜在气瓶旁挥手道别",
+   "prompt_en": "The panda mascot holds a magnifying glass beside a strapped gas cylinder and waves goodbye.",
+   "narration": "看懂标记再用气，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

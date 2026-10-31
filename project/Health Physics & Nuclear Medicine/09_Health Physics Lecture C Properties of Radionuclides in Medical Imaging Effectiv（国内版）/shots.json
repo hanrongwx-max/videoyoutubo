@@ -1,0 +1,1515 @@
+{
+ "id": "09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv",
+ "edition": "国内版",
+ "series": "Health Physics & Nuclear Medicine",
+ "title": "挑一颗好核素：有效半衰期的秘密（国内版）",
+ "seconds": 570,
+ "source_doc": "course/Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv.md",
+ "author_source": "project/Health Physics & Nuclear Medicine/09_Health Physics Lecture C Properties of Radionuclides in Medical Imaging Effectiv（国内版）/src.py",
+ "points": {
+  "K1": "用影像看身体里的问题",
+  "K2": "X射线：各组织拦得不一样",
+  "K3": "没有差别，就没有图像",
+  "K4": "X射线是外部技术",
+  "K5": "体外放γ源行不通",
+  "K6": "把核素随载体送进身体",
+  "K7": "病灶多吃，就多发光",
+  "K8": "多角度接收，计算机成像",
+  "K9": "什么是放射性药物",
+  "K10": "生物半衰期：身体往外排",
+  "K11": "物理半衰期：自己衰变",
+  "K12": "有效半衰期：两条路一起走",
+  "K13": "桌上的源与身体里的源",
+  "K14": "诊断用核素要短命",
+  "K15": "半衰期几个小时最合适",
+  "K16": "子体要稳定",
+  "K17": "只要γ光子，不要α和β",
+  "K18": "γ能量要适中",
+  "K19": "单一能量，便于去掉散射",
+  "K20": "标记牢固，不改变药物",
+  "K21": "就近可得，比活度高",
+  "K22": "理想放射性药物的其他条件",
+  "S1": "有效半衰期与检查后告知",
+  "S2": "短半衰期核素的运输与交接",
+  "S3": "陪护人员与孕妇儿童",
+  "S4": "核素选择的最优化",
+  "S5": "动物示踪实验的废物"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个放大镜，对着一颗发光的小原子核图标",
+   "prompt_en": "The panda mascot holds a big magnifying glass up to a small glowing atomic nucleus icon, smiling at the camera.",
+   "narration": "这一课，我们学怎样挑一颗好核素。",
+   "overlay": [
+    "挑一颗好核素：有效半衰期的秘密"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "沙漏、出口门、稳定的小方块和人体轮廓四个图标排成一排",
+   "prompt_en": "Four icons in a row: an hourglass, an exit door, a calm solid cube and a simple human body outline. No people.",
+   "narration": "关键词：半衰期、排出、安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周在走廊上打电话，表情犹豫，手腕上贴着一小块空白胶布",
+   "prompt_en": "The older man stands in a corridor talking on a phone with a hesitant face, a small blank plaster on the back of his hand.",
+   "narration": "老周刚做完核医学检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周手机屏幕上是一个小孩头像图标和一个问号",
+   "prompt_en": "Close-up of a phone screen showing a simple child avatar icon and a big question mark, the screen otherwise blank. No people.",
+   "narration": "孙子想来看他，能抱一抱吗？",
+   "overlay": [],
+   "labels": [
+    "能抱吗？"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研在电脑前对比两张空白卡片，每张上有一个沙漏图标",
+   "prompt_en": "The female graduate student sits at a computer comparing two blank cards, each with an hourglass icon of a different size.",
+   "narration": "小研的课题要选一种显像核素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶冒出两个沙漏和一个问号",
+   "prompt_en": "The young male student scratches his head, with two hourglass icons and a question mark floating above him.",
+   "narration": "阿杰问：为什么它们都要很快消失？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣站在三人中间，手里拿着一个沙漏",
+   "prompt_en": "The panda mascot stands between the older man, the female graduate student and the young male student, holding up an hourglass.",
+   "narration": "答案藏在有效半衰期里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "用影像看身体里的问题",
+   "scene": "医生图标看着一块发光的空白看片灯箱",
+   "prompt_en": "A simple doctor pictogram looks at a glowing blank light box on the wall. No people.",
+   "narration": "医生常靠影像判断身体哪里出问题。",
+   "overlay": [
+    "用影像看身体里的问题"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "用影像看身体里的问题",
+   "scene": "两束箭头：一束标X射线图标，一束标γ射线图标，指向人体轮廓",
+   "prompt_en": "Two bundles of arrows point at a human body outline, one marked with a box-shaped tube icon, the other with a small glowing nucleus icon. No people.",
+   "narration": "影像可以用X射线，也可以用γ射线。",
+   "overlay": [],
+   "labels": [
+    "X射线",
+    "γ射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "X射线：各组织拦得不一样",
+   "scene": "X射线箭头从左侧射入人体轮廓，从背后射出落在空白底片上",
+   "prompt_en": "Arrows from a box-shaped tube icon on the left pass through a human body outline and land on a blank film plate behind it. No people.",
+   "narration": "拍X光片，射线从体外穿过身体。",
+   "overlay": [
+    "X射线：各组织拦得不一样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "X射线：各组织拦得不一样",
+   "scene": "人体内分成肌肉、血液、骨骼三种颜色区域，各自拦下不同数量的小球",
+   "prompt_en": "Inside a body outline, three colored regions for muscle, blood and bone each stop a different number of small bright balls. No people.",
+   "narration": "肌肉、血液、骨头，拦射线的本领不同。",
+   "overlay": [],
+   "labels": [
+    "肌肉",
+    "血液",
+    "骨骼"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "X射线：各组织拦得不一样",
+   "scene": "底片上出现深浅不一的影子图案",
+   "prompt_en": "The film plate now shows a shadow pattern with light and dark areas of bones and soft tissue. No people.",
+   "narration": "穿过来的多少不同，底片上就有图案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "没有差别，就没有图像",
+   "scene": "一个全部由同样灰色方块拼成的人体，底片一片均匀灰",
+   "prompt_en": "A body outline made entirely of identical grey blocks, and behind it a film plate that is evenly grey with no pattern. No people.",
+   "narration": "假如全身都一样，底片就一片均匀。",
+   "overlay": [
+    "没有差别，就没有图像"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "没有差别，就没有图像",
+   "scene": "欣欣指着均匀灰色的底片摇头，旁边是一张有图案的底片打勾",
+   "prompt_en": "The panda mascot shakes its head at an evenly grey film, then points to a patterned film with a green check mark.",
+   "narration": "正是不均匀，才让我们看出东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "X射线是外部技术",
+   "scene": "射线源在人体外面，箭头从前面进、后面出",
+   "prompt_en": "A ray source icon sits outside a human body outline; arrows enter from the front and leave from the back. No people.",
+   "narration": "X射线从外面进来，再从后面出去。",
+   "overlay": [
+    "X射线是外部技术"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "X射线是外部技术",
+   "scene": "一个写着“外部”的小门图标在体外，箭头一路直穿",
+   "prompt_en": "A small door icon outside the body outline with straight parallel arrows passing all the way through. No people.",
+   "narration": "所以它叫外部成像技术。",
+   "overlay": [],
+   "labels": [
+    "外部"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "体外放γ源行不通",
+   "scene": "一个小小的γ源图标放在体外，射线向四面八方散开",
+   "prompt_en": "A tiny gamma source icon placed outside a body outline, with rays spreading out in all directions like a small lamp. No people.",
+   "narration": "能不能把γ源也放在体外照？",
+   "overlay": [
+    "体外放γ源行不通"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "体外放γ源行不通",
+   "scene": "老李把一小罐源放进厚厚的屏蔽罐，旁边“少量”字样",
+   "prompt_en": "The facility engineer, wearing gloves and a dosimeter badge, sets a tiny shielded pot inside a thick shielding container.",
+   "narration": "γ源放射性强，用量只能很少。",
+   "overlay": [],
+   "labels": [
+    "少量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "体外放γ源行不通",
+   "scene": "点光源照向人体：近处亮、远处暗，光线不平行",
+   "prompt_en": "A small point light shines at a body outline: the near side is bright, the far side is dim, and the rays fan out instead of being parallel. No people.",
+   "narration": "点状的源，光线不平行，照得不均匀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "体外放γ源行不通",
+   "scene": "欣欣两手一摊，面前是被红叉划掉的“体外γ源照射”图标",
+   "prompt_en": "The panda mascot spreads its paws in front of a crossed-out icon of a gamma source shining from outside a body.",
+   "narration": "这样做和拍X光没什么区别。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把核素随载体送进身体",
+   "scene": "一个小光点骑在一辆送货小车上，小车开进人体轮廓",
+   "prompt_en": "A tiny glowing dot rides on a small delivery cart, and the cart drives into a human body outline. No people.",
+   "narration": "新思路：把核素和某种物质绑在一起。",
+   "overlay": [
+    "把核素随载体送进身体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把核素随载体送进身体",
+   "scene": "人体轮廓里，小光点沿着血管均匀流动",
+   "prompt_en": "Inside a body outline, many tiny glowing dots flow evenly along simple blood vessel lines. No people.",
+   "narration": "送进身体后，随血液在全身循环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "把核素随载体送进身体",
+   "scene": "注射器图标和一个吸入面罩图标，注射器更大，旁边打勾",
+   "prompt_en": "A syringe icon and a small breathing mask icon side by side, the syringe larger with a green check mark. No people.",
+   "narration": "多数是静脉注射，少数经吸入。",
+   "overlay": [],
+   "labels": [
+    "多为注射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "病灶多吃，就多发光",
+   "scene": "人体轮廓中一个器官的一小块区域像磁铁一样吸引光点",
+   "prompt_en": "Inside a body outline, one small spot in an organ attracts glowing dots like a magnet. No people.",
+   "narration": "有些病变细胞，特别爱吸收某种物质。",
+   "overlay": [
+    "病灶多吃，就多发光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "病灶多吃，就多发光",
+   "scene": "开始全身光点均匀，过一会儿那一小块越来越亮",
+   "prompt_en": "At first the glowing dots are spread evenly through the body, then over time one small spot becomes much brighter than the rest. No people.",
+   "narration": "过一段时间，光点在那里越聚越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "病灶多吃，就多发光",
+   "scene": "体外几个空白探测器方块，对着亮点的那个收到最多光点",
+   "prompt_en": "Several blank detector blocks around the body outline; the block facing the bright spot catches the most light dots. No people.",
+   "narration": "体外探测器发现那里的γ光子特别多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "病灶多吃，就多发光",
+   "scene": "医生图标指着图像上的亮点，旁边一个感叹号",
+   "prompt_en": "A simple doctor pictogram points at a bright spot on a blank body image, with an exclamation mark beside it. No people.",
+   "narration": "医生就知道，那个部位可能有情况。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "多角度接收，计算机成像",
+   "scene": "左边X射线箭头整齐同向穿过身体，右边光点从体内向四周发光",
+   "prompt_en": "Split picture: on the left, parallel arrows pass through a body in one direction; on the right, light shines out from inside the body in all directions. No people.",
+   "narration": "X射线方向一致，γ从体内向四周发。",
+   "overlay": [
+    "多角度接收，计算机成像"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "多角度接收，计算机成像",
+   "scene": "探测器方块绕着人体转到不同角度",
+   "prompt_en": "Blank detector blocks move around a body outline, stopping at several different angles. No people.",
+   "narration": "探测器从不同角度接收γ光子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "多角度接收，计算机成像",
+   "scene": "一台空白屏幕的电脑把几张侧影拼成一张立体图像",
+   "prompt_en": "A computer with a blank screen combines several flat shadow pictures into one simple three-dimensional organ image. No people.",
+   "narration": "计算机把这些信息拼成图像。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "多角度接收，计算机成像",
+   "scene": "图像上的亮点被一个圆圈标出",
+   "prompt_en": "A simple organ image with one bright spot circled. No people.",
+   "narration": "从而找到病灶的位置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是放射性药物",
+   "scene": "一颗光点和一个小分子积木拼在一起，像贴上发光标签",
+   "prompt_en": "A glowing dot snaps onto a small molecule made of building blocks, like attaching a glowing tag. No people.",
+   "narration": "核素常连在盐或有机化合物上。",
+   "overlay": [
+    "什么是放射性药物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是放射性药物",
+   "scene": "带光点的分子顺着路线自己走到一个目标器官",
+   "prompt_en": "The tagged molecule travels by itself along a path to one target organ in a body outline. No people.",
+   "narration": "靠这种物质的代谢特点，聚到目标器官。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是放射性药物",
+   "scene": "小研举起一个带电离辐射警告标志的空白药瓶",
+   "prompt_en": "The female graduate student, wearing gloves and a dosimeter badge, holds up a blank vial with an ionizing radiation warning sign.",
+   "narration": "贴上放射性标记的药物，叫放射性药物。",
+   "overlay": [],
+   "labels": [
+    "放射性药物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "生物半衰期：身体往外排",
+   "scene": "一个浴缸里装着蓝色的水，底部排水口慢慢往外流",
+   "prompt_en": "A bathtub filled with blue water, with the drain at the bottom slowly letting water out. No people.",
+   "narration": "先想象身体是一个浴缸。",
+   "overlay": [
+    "生物半衰期：身体往外排"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "生物半衰期：身体往外排",
+   "scene": "人体轮廓里普通药物小球经由代谢箭头和出口门慢慢离开",
+   "prompt_en": "Plain medicine balls inside a body outline slowly leave through metabolism arrows and an exit door. No people.",
+   "narration": "普通药物会被代谢、排泄，慢慢离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "生物半衰期：身体往外排",
+   "scene": "排水口旁一个小沙漏图标，水位降到一半",
+   "prompt_en": "A small hourglass icon beside the drain while the water level drops to half. No people.",
+   "narration": "排掉一半的时间，叫生物半衰期。",
+   "overlay": [],
+   "labels": [
+    "生物半衰期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变",
+   "scene": "一个密封小瓶放在架子上，瓶里光点一个个熄灭",
+   "prompt_en": "A sealed small vial sits on a shelf, and the glowing dots inside go out one by one. No people.",
+   "narration": "核素放在瓶子里，也会自己衰变。",
+   "overlay": [
+    "物理半衰期：自己衰变"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变",
+   "scene": "瓶子旁的沙漏，光点亮度降到一半",
+   "prompt_en": "An hourglass next to the vial while the overall glow drops to half. No people.",
+   "narration": "活度减半的时间，叫物理半衰期。",
+   "overlay": [],
+   "labels": [
+    "物理半衰期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "浴缸既有排水口往下流，水面又在蒸发冒气",
+   "prompt_en": "The bathtub is draining from the bottom and at the same time the water surface is evaporating with rising steam. No people.",
+   "narration": "药物进了身体，两条路同时在走。",
+   "overlay": [
+    "有效半衰期：两条路一起走"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "两条出口箭头：一个“衰变”，一个“排出”，共同指向外面",
+   "prompt_en": "Two exit arrows lead out of a body outline together, one with a fading dot icon, one with an exit door icon. No people.",
+   "narration": "一边衰变，一边被排出体外。",
+   "overlay": [],
+   "labels": [
+    "衰变",
+    "排出"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "三个沙漏比大小：两个大的，一个最小的放在中间",
+   "prompt_en": "Three hourglasses compared side by side: two larger ones on the sides and the smallest one in the middle, highlighted. No people.",
+   "narration": "合起来的有效半衰期，比两者都短。",
+   "overlay": [],
+   "labels": [
+    "有效半衰期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "几个不同的人形图标，各自身边的沙漏大小不同",
+   "prompt_en": "Several different human figure icons, each with an hourglass of a different size beside them. No people.",
+   "narration": "它随药物、器官，甚至病情因人而异。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "桌上一个密封源放在透明盒里，周围有警戒标志，钟表转了很多圈",
+   "prompt_en": "A sealed source in a clear box on a table with an ionizing radiation warning sign nearby, and a clock beside it spinning many rounds. No people.",
+   "narration": "桌上的密封源，只按物理半衰期衰减。",
+   "overlay": [
+    "桌上的源与身体里的源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "人体轮廓里有流动的箭头、消化和排泄的循环图标",
+   "prompt_en": "Inside a body outline, moving arrows show circulation, digestion and excretion like a busy little factory. No people.",
+   "narration": "身体却是个流动的系统，会往外排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "大部分光点从出口门离开，但有一两个留在角落里",
+   "prompt_en": "Most glowing dots leave through the exit door, but one or two remain stuck in a corner of the body. No people.",
+   "narration": "可总有一点可能留在体内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "留下的光点旁的沙漏几乎不动，周围组织出现警示三角",
+   "prompt_en": "Next to the remaining dot an hourglass barely moves, and a warning triangle appears over the nearby tissue. No people.",
+   "narration": "要是半衰期很长，就会长期照射身体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "一个密封源和一个药瓶之间画红叉",
+   "prompt_en": "A sealed source capsule and a medicine vial with a red cross between them, showing they must never be mixed. No people.",
+   "narration": "长寿命的密封源，绝不能拿来做药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "诊断用核素要短命",
+   "scene": "一根快燃尽的短蜡烛，旁边打勾；一根很长的蜡烛打叉",
+   "prompt_en": "A short candle that is almost burnt out with a green check mark, next to a very tall candle with a red cross. No people.",
+   "narration": "所以诊断用的核素，半衰期要短。",
+   "overlay": [
+    "诊断用核素要短命"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "诊断用核素要短命",
+   "scene": "相机图标拍完照，体内光点很快变暗",
+   "prompt_en": "A camera icon takes a picture, and right afterward the glowing dots inside the body quickly fade. No people.",
+   "narration": "拍完图像，放射性就较快减少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "诊断用核素要短命",
+   "scene": "欣欣摇摇手指，旁边一个写着“零”的气泡被划掉",
+   "prompt_en": "The panda mascot wags a finger beside a crossed-out speech bubble with a zero icon.",
+   "narration": "但不是几分钟就完全没有了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "半衰期几个小时最合适",
+   "scene": "一条时间线：制备—运送—注射，旁边一个几小时的钟面图标",
+   "prompt_en": "A simple timeline with three icons: preparing a vial, a delivery box, and a syringe, with a small clock face above. No people.",
+   "narration": "理想的物理半衰期，约为几个小时。",
+   "overlay": [
+    "半衰期几个小时最合适"
+   ],
+   "labels": [
+    "制备",
+    "运送",
+    "注射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "半衰期几个小时最合适",
+   "scene": "和从制备到注射所需时间差不多的沙漏",
+   "prompt_en": "An hourglass whose sand runs out just as the timeline reaches the syringe icon. No people.",
+   "narration": "和从制备到注射的时间差不多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "半衰期几个小时最合适",
+   "scene": "患者图标做一次检查；工作人员图标在日历上天天打卡",
+   "prompt_en": "A patient pictogram with a single check mark, next to a staff pictogram with a calendar full of daily ticks. No people.",
+   "narration": "患者只做一次，工作人员却天天接触。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "半衰期几个小时最合适",
+   "scene": "工作人员图标身边的剂量柱一天天累积升高",
+   "prompt_en": "Beside the staff pictogram, a small bar slowly grows taller day after day. No people.",
+   "narration": "不注意防护，一年下来剂量会累积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "半衰期几个小时最合适",
+   "scene": "太长的沙漏打叉；太短的沙漏旁堆着一大堆药瓶也打叉",
+   "prompt_en": "A very long hourglass with a red cross, and a tiny hourglass beside a big pile of vials also with a red cross. No people.",
+   "narration": "太长不行；太短又得多准备很多活度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "子体要稳定",
+   "scene": "一个光点衰变后变成安静的灰色小方块",
+   "prompt_en": "A glowing dot decays into a calm grey solid cube that no longer glows. No people.",
+   "narration": "衰变后的子体，最好是稳定的。",
+   "overlay": [
+    "子体要稳定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "子体要稳定",
+   "scene": "灰色小方块旁一个巨大的沙漏，几乎不动",
+   "prompt_en": "Next to the grey cube stands a huge hourglass whose sand barely moves. No people.",
+   "narration": "至少也要寿命极长、几乎不再发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "只要γ光子，不要α和β",
+   "scene": "γ光子箭头从人体中穿出被探测器接住，打勾",
+   "prompt_en": "Gamma photon arrows come out of a body outline and are caught by a blank detector block, with a green check mark. No people.",
+   "narration": "成像只需要能穿出身体的γ光子。",
+   "overlay": [
+    "只要γ光子，不要α和β"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "只要γ光子，不要α和β",
+   "scene": "α、β小粒子和很低能的光子在组织里很快停下，留下红点，被红叉划掉",
+   "prompt_en": "Small alpha and beta particle icons and very weak photon icons stop quickly inside tissue, leaving red marks, all crossed out. No people.",
+   "narration": "α、β和低能光子跑不远，只留下剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "只要γ光子，不要α和β",
+   "scene": "两个小图标：原子核内部重排、原子核吸进一个电子",
+   "prompt_en": "Two small icons: a nucleus quietly rearranging itself, and a nucleus capturing an orbiting electron. No people.",
+   "narration": "所以优先选同质异能跃迁或电子俘获。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "γ能量要适中",
+   "scene": "三支箭头：太弱的停在体内，太强的穿透一切，中间的刚好被探测到",
+   "prompt_en": "Three arrows: a weak one stops inside the body, a very strong one passes through everything including the detector, and a medium one is neatly caught. No people.",
+   "narration": "γ能量要适中，像挑合适的球速。",
+   "overlay": [
+    "γ能量要适中"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "γ能量要适中",
+   "scene": "中等能量的箭头穿出身体，进入带细孔的准直器",
+   "prompt_en": "The medium arrow leaves the body and passes neatly through a collimator plate with fine holes into a detector. No people.",
+   "narration": "够穿出身体，又容易准直和探测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单一能量，便于去掉散射",
+   "scene": "一排完全一样颜色的小球，整齐排队",
+   "prompt_en": "A row of identical small balls, all exactly the same color, lined up neatly. No people.",
+   "narration": "最好发出单一能量的γ射线。",
+   "overlay": [
+    "单一能量，便于去掉散射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单一能量，便于去掉散射",
+   "scene": "能量筛子挡住颜色偏了的散射小球",
+   "prompt_en": "An energy sieve lets the true-colored balls through and blocks balls whose color has shifted after bouncing. No people.",
+   "narration": "散射后能量变了，可以按能量筛掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单一能量，便于去掉散射",
+   "scene": "一张简化能谱：一个高峰、一片平台、几个小峰，均无数字",
+   "prompt_en": "A simplified energy spectrum with one tall peak, a low flat plateau and a few small peaks, no numbers. No people.",
+   "narration": "回顾能谱：全能峰、康普顿平台。",
+   "overlay": [],
+   "labels": [
+    "全能峰",
+    "康普顿"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单一能量，便于去掉散射",
+   "scene": "能谱上两个小峰亮起，旁边两个光子合并的小图标",
+   "prompt_en": "Two small peaks light up on the spectrum, next to an icon of two photons merging into one. No people.",
+   "narration": "还有逃逸峰，以及源太近时的和峰。",
+   "overlay": [],
+   "labels": [
+    "逃逸峰",
+    "和峰"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "标记牢固，不改变药物",
+   "scene": "光点牢牢扣在分子积木上，室温温度计图标",
+   "prompt_en": "A glowing dot clicks firmly onto a molecule made of building blocks, with a room temperature thermometer icon. No people.",
+   "narration": "核素要在室温下容易、牢固地标记。",
+   "overlay": [
+    "标记牢固，不改变药物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "标记牢固，不改变药物",
+   "scene": "火箭载着卫星飞向轨道",
+   "prompt_en": "A small rocket carries a satellite up toward orbit around a cartoon earth. No people.",
+   "narration": "药物像火箭，核素像卫星。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "标记牢固，不改变药物",
+   "scene": "卫星太重，火箭飞不起来，被红叉",
+   "prompt_en": "The satellite is so heavy that the rocket cannot lift off, with a red cross. No people.",
+   "narration": "卫星太重，火箭就飞不出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "标记牢固，不改变药物",
+   "scene": "带光点的分子仍沿原路线顺利到达目标器官，打勾",
+   "prompt_en": "The tagged molecule still travels along its normal path to the target organ, with a green check mark. No people.",
+   "narration": "标记后，药物的代谢行为不能变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "就近可得，比活度高",
+   "scene": "医院旁边一个小仓库图标，送货距离很短",
+   "prompt_en": "A small storage building icon right next to a hospital icon with a very short delivery arrow. No people.",
+   "narration": "放射性药物要在使用地方便获得。",
+   "overlay": [
+    "就近可得，比活度高"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "就近可得，比活度高",
+   "scene": "一个小瓶里光点密密麻麻",
+   "prompt_en": "A tiny vial packed densely with glowing dots. No people.",
+   "narration": "比活度要高：一点点体积，活度够用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "就近可得，比活度高",
+   "scene": "一个大的“母”沙漏连着一个小的“子”沙漏",
+   "prompt_en": "A large parent hourglass connected by a tube to a small child hourglass, slowly refilling it. No people.",
+   "narration": "短寿命核素，可由长寿命的母体供应。",
+   "overlay": [],
+   "labels": [
+    "母体",
+    "子体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "理想放射性药物的其他条件",
+   "scene": "光点迅速大量聚到目标器官，其他地方很少",
+   "prompt_en": "Glowing dots gather quickly and mostly in the target organ, with very few elsewhere. No people.",
+   "narration": "要快速、大量地聚到要查的组织。",
+   "overlay": [
+    "理想放射性药物的其他条件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "理想放射性药物的其他条件",
+   "scene": "检查时长的钟面和有效半衰期沙漏并排，长短相近",
+   "prompt_en": "A clock showing the exam duration side by side with an hourglass of similar length. No people.",
+   "narration": "有效半衰期和检查时长相当。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "理想放射性药物的其他条件",
+   "scene": "过敏、毒性图标被红叉；一个笑脸患者图标",
+   "prompt_en": "Allergy and toxicity icons crossed out, next to a smiling patient pictogram. No people.",
+   "narration": "毒性低，不引起过敏等不良反应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "理想放射性药物的其他条件",
+   "scene": "试管图标和人体图标，两边的分子都完整不散",
+   "prompt_en": "A test tube icon and a body outline icon, each holding an intact tagged molecule that does not fall apart. No people.",
+   "narration": "体外、体内都要稳定，不易分解。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "理想放射性药物的其他条件",
+   "scene": "一个价签图标和一个打勾",
+   "prompt_en": "A blank price tag icon with a green check mark. No people.",
+   "narration": "还要容易买到，价格合理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "有效半衰期与检查后告知",
+   "scene": "老周拿着一张空白告知单，上面有沙漏图标",
+   "prompt_en": "The older man holds a blank instruction sheet with an hourglass icon printed on it.",
+   "narration": "检查后的注意事项，取决于有效半衰期。",
+   "overlay": [
+    "有效半衰期与检查后告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "有效半衰期与检查后告知",
+   "scene": "不同核素对应的沙漏长短不同，各配一张空白告知卡",
+   "prompt_en": "Several hourglasses of different lengths, each paired with its own blank instruction card. No people.",
+   "narration": "核素不同，注意多久也不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "有效半衰期与检查后告知",
+   "scene": "医生图标把告知单递给老周",
+   "prompt_en": "A simple doctor pictogram hands the blank instruction sheet to the older man.",
+   "narration": "具体多久，以医生书面告知为准。",
+   "overlay": [],
+   "labels": [
+    "遵医嘱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "有效半衰期与检查后告知",
+   "scene": "核素治疗患者的门口，空白出院单旁边一个测量仪图标",
+   "prompt_en": "A door of a treatment ward with an ionizing radiation warning sign, a blank discharge form and a survey meter icon beside it. No people.",
+   "narration": "核素治疗后能否出院，要经测量评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "有效半衰期与检查后告知",
+   "scene": "一本空白封面的国家标准和一本学校规定",
+   "prompt_en": "A national standard book with a blank cover and a school rules folder side by side. No people.",
+   "narration": "标准以现行文本和医院规定为准。",
+   "overlay": [],
+   "labels": [
+    "以现行文本为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "一个带电离辐射警告标志的货包，表面贴空白标签",
+   "prompt_en": "A transport package with an ionizing radiation warning sign and blank labels on its surface. No people.",
+   "narration": "短寿命核素，常常是一路赶时间。",
+   "overlay": [
+    "短半衰期核素的运输与交接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "货包坐在专用运输车上，旁边一个红叉的公交车图标",
+   "prompt_en": "The package rides in a dedicated delivery vehicle, while a public bus icon next to it is crossed out. No people.",
+   "narration": "要由有资质的单位按规定运输。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "小研和送货人员图标核对货包，签空白交接单",
+   "prompt_en": "The female graduate student, wearing gloves and a dosimeter badge, checks the package with a delivery pictogram and signs a blank handover sheet.",
+   "narration": "到货当面核对，签字交接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "老李用巡测仪测货包表面，空白表盘旁打勾",
+   "prompt_en": "The facility engineer measures the package surface with a survey meter, a green check beside the blank dial.",
+   "narration": "检查包装完好，测一测表面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "带屏蔽的手推车载着铅罐走专用通道",
+   "prompt_en": "A shielded trolley carries a lead pot along a dedicated corridor marked with an ionizing radiation warning sign. No people.",
+   "narration": "校内转运用屏蔽容器，走规定路线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "手拎小罐进教室、宿舍、食堂的图标都被红叉",
+   "prompt_en": "Icons of carrying a small pot into a classroom, a dormitory and a canteen, all crossed out. No people.",
+   "narration": "不手拎进教室、宿舍和食堂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "短半衰期核素的运输与交接",
+   "scene": "时钟图标旁一个“急”字被红叉，换成清单打勾",
+   "prompt_en": "A clock icon beside a rushing figure icon crossed out, replaced by a checklist with a green tick. No people.",
+   "narration": "再赶时间，也不能跳过核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "陪护人员与孕妇儿童",
+   "scene": "候诊区外，陪护者图标坐在远一点的椅子上",
+   "prompt_en": "Outside a waiting area with an ionizing radiation warning sign, a companion pictogram sits on a chair farther away. No people.",
+   "narration": "陪护的人，也会受到少量照射。",
+   "overlay": [
+    "陪护人员与孕妇儿童"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "陪护人员与孕妇儿童",
+   "scene": "一个人举手表示自愿，旁边空白知情单",
+   "prompt_en": "A companion pictogram raises a hand to volunteer, next to a blank consent sheet. No people.",
+   "narration": "陪护应当自愿、知情，人数尽量少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "陪护人员与孕妇儿童",
+   "scene": "孕妇图标和儿童图标前有一块“请勿陪护”的停止手势",
+   "prompt_en": "A pregnant woman icon and a child icon in front of a stop-hand gesture icon. No people.",
+   "narration": "孕妇和儿童，不宜担任陪护。",
+   "overlay": [],
+   "labels": [
+    "不宜陪护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "陪护人员与孕妇儿童",
+   "scene": "带小孩进核医学候诊区的图标被红叉",
+   "prompt_en": "An icon of bringing a small child into a nuclear medicine waiting area, crossed out. No people.",
+   "narration": "就诊别带小孩同去候诊区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "陪护人员与孕妇儿童",
+   "scene": "老周隔着视频屏幕向孙子挥手，屏幕上只有小孩轮廓",
+   "prompt_en": "The older man waves warmly at a tablet screen showing only a simple child silhouette.",
+   "narration": "老周先和孙子视频，按医嘱再抱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "三个天平：诊断需求一边，剂量一边，平衡",
+   "prompt_en": "A balance scale with a magnifying glass icon on one side and a small dose icon on the other, perfectly balanced. No people.",
+   "narration": "选核素也要讲最优化。",
+   "overlay": [
+    "核素选择的最优化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "小研比较几张空白卡片，最短沙漏的那张被圈出",
+   "prompt_en": "The female graduate student compares several blank cards and circles the one with the shortest suitable hourglass.",
+   "narration": "满足需要时，优先选短寿命核素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "活度刻度上一个小箭头停在“够用”处，更高处被红叉",
+   "prompt_en": "An activity gauge with a small arrow stopping at a just-enough mark, and higher marks crossed out. No people.",
+   "narration": "活度够用就好，不盲目加量。",
+   "overlay": [],
+   "labels": [
+    "够用就好"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "儿童图标旁一个更小的药瓶",
+   "prompt_en": "A child icon next to a smaller vial than the adult one. No people.",
+   "narration": "儿童和小体重者，按规范减量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "非放射性方法的图标和放射性方法的图标并列，先选前者",
+   "prompt_en": "A non-radioactive method icon and a radioactive method icon side by side, with an arrow choosing the non-radioactive one first. No people.",
+   "narration": "能用非放射方法解决的，就不用核素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "核素选择的最优化",
+   "scene": "王老师在空白审批表上盖章",
+   "prompt_en": "The safety administrator stamps a blank approval form at a desk.",
+   "narration": "新课题选用核素，先经安全审核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "动物示踪实验的废物",
+   "scene": "一只卡通小鼠在专用笼子里，笼子上有电离辐射警告标志",
+   "prompt_en": "A cartoon mouse in a dedicated cage with an ionizing radiation warning sign on it. No people.",
+   "narration": "做动物示踪实验，动物体内也有核素。",
+   "overlay": [
+    "动物示踪实验的废物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "动物示踪实验的废物",
+   "scene": "笼子里的垫料和排泄物旁亮起小光点",
+   "prompt_en": "Small glowing dots appear on the bedding and droppings inside the cage. No people.",
+   "narration": "排泄物和垫料都会带放射性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "动物示踪实验的废物",
+   "scene": "小研戴手套把垫料装入带警告标志的专用废物袋，贴空白标签",
+   "prompt_en": "The female graduate student, wearing gloves, a lab coat and a dosimeter badge, puts used bedding into a dedicated waste bag with an ionizing radiation warning sign and a blank label.",
+   "narration": "收进专用废物袋，标明核素和日期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "动物示踪实验的废物",
+   "scene": "普通垃圾桶、水槽和普通动物尸体冰柜都被红叉",
+   "prompt_en": "A regular trash bin, a sink and a regular animal carcass freezer, all crossed out. No people.",
+   "narration": "不混进普通垃圾、下水道和普通尸体柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "动物示踪实验的废物",
+   "scene": "带警告标志的专用冰柜，门上空白登记表",
+   "prompt_en": "A dedicated freezer with an ionizing radiation warning sign and a blank log sheet on its door. No people.",
+   "narration": "动物尸体专柜暂存，登记后按规定处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在白板前，白板上三个沙漏图标",
+   "prompt_en": "The panda mascot stands in front of a whiteboard showing three hourglass icons.",
+   "narration": "我们来回顾一下今天的内容。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "浴缸排水又蒸发，最小的沙漏被圈出",
+   "prompt_en": "The draining and evaporating bathtub, with the smallest hourglass circled. No people.",
+   "narration": "衰变加排出，有效半衰期比两者都短。",
+   "overlay": [],
+   "labels": [
+    "有效半衰期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "短蜡烛、稳定方块、γ箭头、单色小球四个图标",
+   "prompt_en": "Four icons: a short candle, a calm grey cube, a gamma arrow leaving a body, and a row of same-colored balls. No people.",
+   "narration": "短寿命、子体稳、只发γ、能量单一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "火箭载卫星、医院旁的仓库、打勾的笑脸患者",
+   "prompt_en": "A rocket carrying a satellite, a storage building beside a hospital, and a smiling patient with a check mark. No people.",
+   "narration": "标记牢、易获得、毒性低、聚得准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "告知单、货包、陪护者、天平、小鼠笼五个图标",
+   "prompt_en": "Five icons in a row: an instruction sheet, a transport package, a companion figure, a balance scale and a mouse cage. No people.",
+   "narration": "告知、运输、陪护、最优化、废物都要管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "老周、小研、阿杰围在一起点头",
+   "prompt_en": "The older man, the female graduate student and the young male student stand together nodding.",
+   "narration": "懂原理，守规矩，用得放心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣挥手告别，手里拿着沙漏",
+   "prompt_en": "The panda mascot waves goodbye with one paw, holding an hourglass in the other.",
+   "narration": "挑好核素，算好时间，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

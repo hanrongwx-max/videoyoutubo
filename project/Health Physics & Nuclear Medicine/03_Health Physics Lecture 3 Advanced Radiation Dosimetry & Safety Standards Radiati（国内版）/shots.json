@@ -1,0 +1,1832 @@
+{
+ "id": "03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati",
+ "edition": "国内版",
+ "series": "Health Physics & Nuclear Medicine",
+ "title": "辐射怎样伤人，屏蔽怎样护人（国内版）",
+ "seconds": 670,
+ "source_doc": "course/Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati.md",
+ "author_source": "project/Health Physics & Nuclear Medicine/03_Health Physics Lecture 3 Advanced Radiation Dosimetry & Safety Standards Radiati（国内版）/src.py",
+ "points": {
+  "K1": "辐射靠电离伤害细胞",
+  "K2": "直接作用与间接作用",
+  "K3": "高LET：像子弹打断DNA",
+  "K4": "单链断裂与双链断裂",
+  "K5": "间接作用：水被打碎产生自由基",
+  "K6": "DNA损伤的种类",
+  "K7": "氧效应：氧把损伤固定",
+  "K8": "氧增强比与缺氧肿瘤",
+  "K9": "线性二次模型：细胞存活曲线",
+  "K10": "一次击中与两次叠加",
+  "K11": "α/β比：早反应与晚反应组织",
+  "K12": "随机性效应与确定性效应",
+  "K13": "线性无阈：没有绝对安全的剂量",
+  "K14": "器官各有阈值",
+  "K15": "急性放射病的四个阶段",
+  "K16": "急性放射病的三种类型",
+  "K17": "外照射防护：时间、距离、屏蔽",
+  "K18": "散射让屏蔽后的剂量更高",
+  "K19": "半值层与十值层",
+  "K20": "γ屏蔽：铅与混凝土",
+  "K21": "β粒子有最大射程",
+  "K22": "β屏蔽陷阱：先轻后重",
+  "S1": "剂量限值不是安全线",
+  "S2": "眼睛和双手的局部防护",
+  "S3": "孕期及时告知",
+  "S4": "屏蔽设施不擅改，剂量要实测",
+  "S5": "β源操作要点",
+  "S6": "疑似超剂量照射怎么办"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一条发光的DNA双螺旋和一面砖墙之间，向镜头招手",
+   "prompt_en": "The panda mascot stands between a glowing DNA double helix model and a sturdy brick wall, and waves at the camera.",
+   "narration": "这一课：辐射怎样伤人，屏蔽怎样护人。",
+   "overlay": [
+    "辐射怎样伤人，屏蔽怎样护人"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "左边DNA图标，右边盾牌图标，中间一个箭头",
+   "prompt_en": "A DNA helix icon on the left, a shield icon on the right, and an arrow pointing from the helix to the shield. No people.",
+   "narration": "先看伤害从哪来，再学怎么挡住它。",
+   "overlay": [],
+   "labels": [
+    "生物效应",
+    "屏蔽防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在放射实验室里，拿着一卷空白的金属箔，看着一个小屏蔽盒",
+   "prompt_en": "In a radiation lab, the young male student holds a roll of blank metal foil and looks at a small source container on a tray lined with absorbent paper.",
+   "narration": "阿杰想用一层厚铅，把β源包严实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰自信地竖起大拇指",
+   "prompt_en": "The young male student gives a confident thumbs-up with a big grin.",
+   "narration": "他觉得：越重的材料越安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴着剂量计走来，摇头示意他停下",
+   "prompt_en": "The female graduate student, wearing a dosimeter badge on her lab coat, walks over and shakes her head, signaling him to stop.",
+   "narration": "小研摇头：这样反而会产生X射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶冒出问号",
+   "prompt_en": "The young male student scratches his head with a question mark floating above him.",
+   "narration": "阿杰糊涂了：辐射到底怎么伤人？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起一根手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们从细胞里的DNA说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射靠电离伤害细胞",
+   "scene": "一束射线穿过一个细胞，细胞里的小球被打出电子",
+   "prompt_en": "A beam of small arrows passes through a round cell; tiny electrons are knocked out of small balls inside it. No people.",
+   "narration": "辐射靠电离能力，伤害活的组织。",
+   "overlay": [
+    "辐射靠电离伤害细胞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射靠电离伤害细胞",
+   "scene": "两条岔路通向同一个DNA图标",
+   "prompt_en": "Two forked paths, one straight and one winding, both lead to the same DNA helix icon. No people.",
+   "narration": "伤害DNA，有两条路。",
+   "overlay": [],
+   "labels": [
+    "直接",
+    "间接"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "一颗小炮弹直接撞上DNA梯子，梯子断开",
+   "prompt_en": "A small cannonball flies straight into a DNA ladder and snaps one of its rails. No people.",
+   "narration": "直接作用：辐射直接打断DNA。",
+   "overlay": [
+    "直接作用与间接作用"
+   ],
+   "labels": [
+    "直接作用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "α粒子和快电子图标旁打着“密集”记号",
+   "prompt_en": "Icons of a heavy alpha particle ball and a fast electron dot, each leaving a dense trail of sparks. No people.",
+   "narration": "α粒子、快电子常这样伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "细胞里装满水滴，闪电击中水滴，冒出带刺的小火星",
+   "prompt_en": "A cell filled with water droplets; a small lightning bolt hits a droplet and it releases spiky glowing sparks. No people.",
+   "narration": "间接作用：先打碎细胞里的水。",
+   "overlay": [],
+   "labels": [
+    "间接作用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "细胞剖面里约七成被蓝色水填满",
+   "prompt_en": "A cell cross-section where about seventy percent of the area is filled with blue water. No people.",
+   "narration": "细胞里大约七成是水。",
+   "overlay": [],
+   "labels": [
+    "水约占七成"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "带刺火星游向DNA并咬出缺口",
+   "prompt_en": "The spiky glowing sparks drift through the cell and bite small notches into a DNA ladder. No people.",
+   "narration": "水变成的自由基，再去咬DNA。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "X射线和γ射线波浪图标指向“间接”箭头",
+   "prompt_en": "Two wavy-line ray icons point to the winding path icon leading to the DNA. No people.",
+   "narration": "X射线、γ射线，主要走这条路。",
+   "overlay": [],
+   "labels": [
+    "X射线",
+    "γ射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高LET：像子弹打断DNA",
+   "scene": "一颗保龄球冲过DNA梯子，沿路留下密集裂口",
+   "prompt_en": "A bowling ball rolls straight through a long DNA ladder, leaving a dense line of cracks along its path. No people.",
+   "narration": "高LET辐射，像子弹一路密集撞击。",
+   "overlay": [
+    "高LET：像子弹打断DNA"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高LET：像子弹打断DNA",
+   "scene": "放大镜下DNA梯子的扶手断开",
+   "prompt_en": "Under a magnifying glass, one side rail of the DNA ladder is physically broken. No people.",
+   "narration": "梯子扶手，也就是骨架，被打断。",
+   "overlay": [],
+   "labels": [
+    "骨架断裂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高LET：像子弹打断DNA",
+   "scene": "放大镜下梯子的横档松脱",
+   "prompt_en": "Under a magnifying glass, a few rungs of the DNA ladder come loose and hang apart. No people.",
+   "narration": "梯子横档，也就是碱基对，被拆开。",
+   "overlay": [],
+   "labels": [
+    "碱基对受损"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高LET：像子弹打断DNA",
+   "scene": "一小段梯子上挤着好几处断口",
+   "prompt_en": "A short section of the DNA ladder has several breaks crowded closely together. No people.",
+   "narration": "短短一段挤着多处断口，叫成簇损伤。",
+   "overlay": [],
+   "labels": [
+    "成簇损伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高LET：像子弹打断DNA",
+   "scene": "细胞里的小修理工看着成团断口发愁",
+   "prompt_en": "A tiny cartoon repair worker inside a cell looks worried at the crowded tangle of breaks on the DNA ladder. No people.",
+   "narration": "这种伤，细胞很难修好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "梯子一侧扶手断了，另一侧完好",
+   "prompt_en": "A DNA ladder with only one side rail cut, the other rail intact. No people.",
+   "narration": "只断一条链，叫单链断裂。",
+   "overlay": [
+    "单链断裂与双链断裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "小修理工照着完好的一侧把断口补上，打绿勾",
+   "prompt_en": "A tiny cartoon repair worker copies the intact rail and patches the broken rail; a green check mark appears. No people.",
+   "narration": "照着另一条链当模板，就能补好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "许多单链断口图标，几乎都打绿勾",
+   "prompt_en": "Many small single-break icons, almost all of them with green check marks. No people.",
+   "narration": "单链断裂数量多，几乎都能修好。",
+   "overlay": [],
+   "labels": [
+    "数量多",
+    "易修复"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "梯子两侧扶手同一处都断，梯子断成两截",
+   "prompt_en": "Both rails of the DNA ladder are cut at the same spot and the ladder falls into two pieces. No people.",
+   "narration": "两条链一起断，叫双链断裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "断成两截的梯子旁亮红色警示三角",
+   "prompt_en": "The two broken pieces of the DNA ladder with a red warning triangle icon beside them. No people.",
+   "narration": "数量少，却难修，最危险。",
+   "overlay": [],
+   "labels": [
+    "数量少",
+    "难修复"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "单链断裂与双链断裂",
+   "scene": "红色警示三角指向一个死亡细胞和一个变色细胞",
+   "prompt_en": "The red warning triangle points to a shriveled dead cell and a cell with a strange color change. No people.",
+   "narration": "细胞死亡和突变，多由它引起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "间接作用：水被打碎产生自由基",
+   "scene": "第一格：射线击中水分子，打出一个电子",
+   "prompt_en": "Panel one of a three-panel comic: a ray hits a water molecule and knocks out a small electron. No people.",
+   "narration": "第一步，射线把水分子电离。",
+   "overlay": [
+    "间接作用：水被打碎产生自由基"
+   ],
+   "labels": [
+    "第一步"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "间接作用：水被打碎产生自由基",
+   "scene": "第二格：带电的水分子裂开，冒出带刺火星",
+   "prompt_en": "Panel two: the charged water molecule splits apart and releases a spiky glowing spark. No people.",
+   "narration": "第二步，裂开成活泼的自由基。",
+   "overlay": [],
+   "labels": [
+    "第二步",
+    "羟基自由基"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "间接作用：水被打碎产生自由基",
+   "scene": "第三格：火星在细胞里飘向DNA并咬出缺口",
+   "prompt_en": "Panel three: the spiky spark drifts across the cell and bites a notch in the DNA ladder. No people.",
+   "narration": "第三步，自由基扩散，攻击DNA。",
+   "overlay": [],
+   "labels": [
+    "第三步"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "间接作用：水被打碎产生自由基",
+   "scene": "医院拍片机图标旁的人体轮廓，体内散布小火星",
+   "prompt_en": "A simple medical X-ray machine icon next to a human body outline with tiny sparks scattered inside. No people.",
+   "narration": "受X射线、γ射线照射时，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "间接作用：水被打碎产生自由基",
+   "scene": "饼图大部分标为间接作用",
+   "prompt_en": "A pie chart icon where the large majority slice is colored blue and the small slice orange. No people.",
+   "narration": "大部分伤害来自这条间接途径。",
+   "overlay": [],
+   "labels": [
+    "间接作用为主"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "DNA损伤的种类",
+   "scene": "一排DNA损伤图卡：单断、双断、碱基坏、交联、成簇",
+   "prompt_en": "A row of five picture cards showing DNA ladders with different damage: one rail cut, both rails cut, a damaged rung, two rungs stuck together, and a tangle of breaks. No people.",
+   "narration": "DNA的伤，不只是断链。",
+   "overlay": [
+    "DNA损伤的种类"
+   ],
+   "labels": [
+    "单链断裂",
+    "双链断裂",
+    "碱基损伤",
+    "交联",
+    "成簇损伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "DNA损伤的种类",
+   "scene": "交联图卡放大：两段被粘连在一起",
+   "prompt_en": "Close-up of a card where two strands of the DNA ladder are wrongly glued together. No people.",
+   "narration": "还有碱基损伤，和链之间的交联。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "DNA损伤的种类",
+   "scene": "成簇损伤图卡旁出现保龄球图标",
+   "prompt_en": "Close-up of the tangled clustered-damage card with a small bowling ball icon beside it. No people.",
+   "narration": "高LET辐射，更容易造成成簇损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "DNA损伤的种类",
+   "scene": "阿杰在笔记本上画了一个星号",
+   "prompt_en": "The young male student draws a big star in his blank notebook during class.",
+   "narration": "这是辐射生物学的重点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "氧效应：氧把损伤固定",
+   "scene": "左边细胞亮着氧气小泡，右边细胞灰暗无氧",
+   "prompt_en": "Two cells side by side: the left one is full of small bright oxygen bubbles, the right one is grey with no bubbles. No people.",
+   "narration": "细胞里有没有氧，伤害大不一样。",
+   "overlay": [
+    "氧效应：氧把损伤固定"
+   ],
+   "labels": [
+    "有氧",
+    "缺氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "氧效应：氧把损伤固定",
+   "scene": "氧气小泡像胶水，把DNA断口粘成一块硬疤",
+   "prompt_en": "A small oxygen bubble acts like glue and seals a DNA break into a hard permanent scar. No people.",
+   "narration": "氧和自由基结合，把伤口“定型”。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "氧效应：氧把损伤固定",
+   "scene": "硬疤旁的小修理工无从下手",
+   "prompt_en": "A tiny cartoon repair worker tries to fix the hard scar but cannot. No people.",
+   "narration": "定型的伤，就修不回去了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "氧效应：氧把损伤固定",
+   "scene": "无氧细胞里两个断头重新接上，打绿勾",
+   "prompt_en": "In the grey oxygen-free cell, two broken DNA ends rejoin; a green check mark appears. No people.",
+   "narration": "缺氧时，断头还可能自己接回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "氧增强比与缺氧肿瘤",
+   "scene": "两个天平：缺氧那边要放更多砝码",
+   "prompt_en": "Two balance scales: to reach the same tilt, the oxygen-free side needs about three times more weights than the oxygen-rich side. No people.",
+   "narration": "要造成同样伤害，缺氧细胞要更多剂量。",
+   "overlay": [
+    "氧增强比与缺氧肿瘤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "氧增强比与缺氧肿瘤",
+   "scene": "细雨图标旁的砝码约三倍",
+   "prompt_en": "A light drizzle icon next to a stack of three weights versus one weight. No people.",
+   "narration": "X、γ射线下，大约要三倍。",
+   "overlay": [],
+   "labels": [
+    "约3倍"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "氧增强比与缺氧肿瘤",
+   "scene": "保龄球图标旁两边砝码一样多",
+   "prompt_en": "A bowling ball icon next to two equal stacks of weights. No people.",
+   "narration": "高LET辐射，有氧没氧差不多。",
+   "overlay": [],
+   "labels": [
+    "接近1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "氧增强比与缺氧肿瘤",
+   "scene": "肿瘤剖面：外层鲜红，核心灰暗",
+   "prompt_en": "A cross-section of a tumor lump: the outer layer is bright red with blood vessels, the core is grey and pale. No people.",
+   "narration": "肿瘤核心常缺氧，更耐受放疗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "线性二次模型：细胞存活曲线",
+   "scene": "一条从高处缓缓下弯、越往后越陡的滑梯曲线",
+   "prompt_en": "A playground slide shaped like a curve that starts gently from the top and gets steeper toward the end. No people.",
+   "narration": "剂量越大，细胞存活越少。",
+   "overlay": [
+    "线性二次模型：细胞存活曲线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "线性二次模型：细胞存活曲线",
+   "scene": "两个旋钮图标分别贴着不同组织图标",
+   "prompt_en": "Two control knob icons, each attached to a different tissue icon: skin and lung. No people.",
+   "narration": "曲线的形状，因组织而不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "线性二次模型：细胞存活曲线",
+   "scene": "老周在空白屏幕前给小研和阿杰讲解曲线",
+   "prompt_en": "The older man points at a blank screen showing only a curved line, explaining to the female graduate student and the young male student.",
+   "narration": "它帮我们预测不同剂量下的组织损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次击中与两次叠加",
+   "scene": "一击就断的木棍",
+   "prompt_en": "A wooden stick snaps in one single hit from a small hammer. No people.",
+   "narration": "一部分伤害，是一次击中就致命。",
+   "overlay": [
+    "一次击中与两次叠加"
+   ],
+   "labels": [
+    "一次击中"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次击中与两次叠加",
+   "scene": "小雨云图标下，存活曲线前段的直线部分发亮",
+   "prompt_en": "A slope icon labeled with a small drizzle cloud shows the straight early part of the curve glowing. No people.",
+   "narration": "低剂量时，这一项占主导。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次击中与两次叠加",
+   "scene": "两道轻微裂纹靠近后合成一道大裂缝",
+   "prompt_en": "Two small cracks on a wooden stick grow toward each other and join into one big break. No people.",
+   "narration": "另一部分，是两处小伤叠成大伤。",
+   "overlay": [],
+   "labels": [
+    "两次叠加"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次击中与两次叠加",
+   "scene": "大雨图标下曲线后半段发亮",
+   "prompt_en": "A heavy rain cloud icon above the curve, with the steep later part of the curve glowing. No people.",
+   "narration": "高剂量时，这一项占主导。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "α/β比：早反应与晚反应组织",
+   "scene": "两个计时器：一个快沙漏，一个慢沙漏",
+   "prompt_en": "Two hourglasses: one with sand falling fast, one with sand falling very slowly. No people.",
+   "narration": "组织有快反应，也有慢反应。",
+   "overlay": [
+    "α/β比：早反应与晚反应组织"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "α/β比：早反应与晚反应组织",
+   "scene": "皮肤和肠道图标旁是快沙漏",
+   "prompt_en": "Skin and intestine icons next to the fast hourglass. No people.",
+   "narration": "皮肤、肠道，受照后很快出现损伤。",
+   "overlay": [],
+   "labels": [
+    "早反应组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "α/β比：早反应与晚反应组织",
+   "scene": "脊髓和肺图标旁是慢沙漏",
+   "prompt_en": "Spinal cord and lung icons next to the slow hourglass. No people.",
+   "narration": "脊髓、肺，损伤要几个月甚至几年。",
+   "overlay": [],
+   "labels": [
+    "晚反应组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "α/β比：早反应与晚反应组织",
+   "scene": "一大块剂量被切成许多小块",
+   "prompt_en": "A large block is cut into many small equal slices, like a cake. No people.",
+   "narration": "慢反应组织，怕单次大剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "α/β比：早反应与晚反应组织",
+   "scene": "一把尺子横跨两类组织图标",
+   "prompt_en": "A ruler stretched across the two groups of tissue icons. No people.",
+   "narration": "α/β比，就是衡量这种差别的尺子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "左边一筐彩票，右边一个太阳和晒红的手臂",
+   "prompt_en": "On the left, a basket of lottery tickets; on the right, a bright sun and a sunburned arm. No people.",
+   "narration": "辐射的健康效应分两类。",
+   "overlay": [
+    "随机性效应与确定性效应"
+   ],
+   "labels": [
+    "随机性",
+    "确定性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "彩票越来越多，中奖概率上升，但奖品一样大",
+   "prompt_en": "More and more lottery tickets pile up and the chance meter rises, but the single prize box stays the same size. No people.",
+   "narration": "随机性：剂量越大，发生概率越高，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "同一个奖品盒不变大",
+   "prompt_en": "Close-up of the same prize box, unchanged in size. No people.",
+   "narration": "但发生后，严重程度和剂量无关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "一个细胞变色后不断分裂成一团",
+   "prompt_en": "One cell changes color and keeps dividing into a growing cluster. No people.",
+   "narration": "源头是单个突变细胞存活、增殖。",
+   "overlay": [],
+   "labels": [
+    "致癌",
+    "遗传效应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "太阳越来越强，手臂从微红到通红，起点有一道门槛线",
+   "prompt_en": "The sun grows stronger and the arm turns from slightly pink to deep red, with a threshold line marked at the start. No people.",
+   "narration": "确定性：超过阈值才发生，越多越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应与确定性效应",
+   "scene": "大片细胞同时倒下",
+   "prompt_en": "A large field of cells collapses at the same time. No people.",
+   "narration": "源头是大量细胞死亡，组织修不过来。",
+   "overlay": [],
+   "labels": [
+    "皮肤红斑",
+    "白内障",
+    "急性放射病"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：没有绝对安全的剂量",
+   "scene": "一条从原点出发的直线斜坡，起点没有台阶",
+   "prompt_en": "A straight ramp starting right from the ground, with no step at the bottom. No people.",
+   "narration": "防护上假定：风险和剂量成正比。",
+   "overlay": [
+    "线性无阈：没有绝对安全的剂量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：没有绝对安全的剂量",
+   "scene": "斜坡最底端出现一个小警示三角",
+   "prompt_en": "At the very bottom of the ramp, a small warning triangle appears. No people.",
+   "narration": "再小的剂量，也不当作零风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：没有绝对安全的剂量",
+   "scene": "日历一页页翻过多年",
+   "prompt_en": "Calendar pages flip quickly through many years. No people.",
+   "narration": "致癌往往潜伏多年才出现。",
+   "overlay": [],
+   "labels": [
+    "潜伏期长"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：没有绝对安全的剂量",
+   "scene": "生殖细胞图标连到下一代婴儿图标，线条较淡",
+   "prompt_en": "A germ cell icon linked by a faint dashed line to a baby icon. No people.",
+   "narration": "遗传效应可能存在，风险比致癌低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：没有绝对安全的剂量",
+   "scene": "王老师在空白图表前用计算器估算",
+   "prompt_en": "The safety administrator uses a calculator in front of a blank chart with a rising straight line.",
+   "narration": "风险系数用来估算人群的癌症风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "器官各有阈值",
+   "scene": "人体轮廓上眼睛、皮肤、腰部、腹部四处亮起",
+   "prompt_en": "A simple human body outline with four spots glowing: the eyes, the skin of an arm, the lower body and the belly of a pregnant figure outline. No people.",
+   "narration": "确定性效应，每个器官门槛不同。",
+   "overlay": [
+    "器官各有阈值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "器官各有阈值",
+   "scene": "眼睛图标里晶状体变浑浊",
+   "prompt_en": "An eye icon whose clear lens slowly turns cloudy. No people.",
+   "narration": "眼晶状体受照多了，会得白内障。",
+   "overlay": [],
+   "labels": [
+    "晶状体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "器官各有阈值",
+   "scene": "皮肤图标从发红到脱皮",
+   "prompt_en": "A skin patch icon turns red and then starts peeling. No people.",
+   "narration": "皮肤会发红，严重时脱皮。",
+   "overlay": [],
+   "labels": [
+    "皮肤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "器官各有阈值",
+   "scene": "生殖器官图标和胚胎图标亮起警示三角",
+   "prompt_en": "A reproductive organ icon and an embryo icon, each with a small warning triangle. No people.",
+   "narration": "生殖腺和孕早期胚胎特别敏感。",
+   "overlay": [],
+   "labels": [
+    "生殖腺",
+    "胚胎"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "人体轮廓被一大片强光短时间笼罩",
+   "prompt_en": "A human body outline is briefly flooded by a huge wave of strong light from all sides. No people.",
+   "narration": "全身短时间受大剂量，会得急性放射病。",
+   "overlay": [
+    "急性放射病的四个阶段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "四格时间轴，第一格亮：恶心图标",
+   "prompt_en": "A four-step timeline; step one lights up with a nausea icon and a clock showing hours. No people.",
+   "narration": "第一期：几小时内恶心、呕吐、乏力。",
+   "overlay": [],
+   "labels": [
+    "前驱期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "第二格亮：人体轮廓看似正常，打问号",
+   "prompt_en": "Step two of the timeline lights up: the body outline looks normal, with a question mark beside it. No people.",
+   "narration": "接着是潜伏期，好像好了，其实没有。",
+   "overlay": [],
+   "labels": [
+    "潜伏期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "第三格亮：骨髓、感染、出血图标",
+   "prompt_en": "Step three lights up with icons of bone marrow, germs and a blood drop. No people.",
+   "narration": "几周后，骨髓衰竭、感染、出血。",
+   "overlay": [],
+   "labels": [
+    "症状明显期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "第四格亮：岔路，一边绿色康复一边灰色",
+   "prompt_en": "Step four lights up with a forked path: one branch green with a recovery heart, one branch grey. No people.",
+   "narration": "最后康复或死亡，看剂量和救治。",
+   "overlay": [],
+   "labels": [
+    "恢复或死亡"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "急性放射病的四个阶段",
+   "scene": "一摞档案盒和放大镜",
+   "prompt_en": "A stack of old archive boxes with a magnifying glass on top. No people.",
+   "narration": "这些认识，多来自历史上的核灾难。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "急性放射病的三种类型",
+   "scene": "一支温度计，从下到上分成三段颜色",
+   "prompt_en": "A tall thermometer divided into three colored zones from bottom to top: yellow, orange and dark red. No people.",
+   "narration": "按剂量由低到高，分三种类型。",
+   "overlay": [
+    "急性放射病的三种类型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "急性放射病的三种类型",
+   "scene": "最下一段亮起骨头和血滴图标",
+   "prompt_en": "The bottom yellow zone lights up with a bone and blood drop icon. No people.",
+   "narration": "造血型：骨髓衰竭，血细胞减少。",
+   "overlay": [],
+   "labels": [
+    "造血型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "急性放射病的三种类型",
+   "scene": "中间一段亮起肠道图标",
+   "prompt_en": "The middle orange zone lights up with an intestine icon. No people.",
+   "narration": "胃肠型：肠道内壁被破坏。",
+   "overlay": [],
+   "labels": [
+    "胃肠型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "急性放射病的三种类型",
+   "scene": "最上一段亮起大脑和心脏图标",
+   "prompt_en": "The top dark red zone lights up with a brain icon and a heart icon. No people.",
+   "narration": "脑型：剂量最高，几乎无法救治。",
+   "overlay": [],
+   "labels": [
+    "脑型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "急性放射病的三种类型",
+   "scene": "欣欣严肃地举起暂停手势",
+   "prompt_en": "The panda mascot looks serious and raises a paw in a stop gesture.",
+   "narration": "所以，大剂量照射必须杜绝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "外照射防护：时间、距离、屏蔽",
+   "scene": "欣欣站在三角形前，三角顶点是时钟、尺子、砖墙",
+   "prompt_en": "The panda mascot stands in front of a big triangle with a clock, a ruler and a brick wall at its three corners.",
+   "narration": "怎么保护自己？记住三招。",
+   "overlay": [
+    "外照射防护：时间、距离、屏蔽"
+   ],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "外照射防护：时间、距离、屏蔽",
+   "scene": "沙漏旁剂量计数字越积越多",
+   "prompt_en": "An hourglass next to a dose meter icon whose bar fills up as the sand falls. No people.",
+   "narration": "时间：剂量和停留时间成正比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "外照射防护：时间、距离、屏蔽",
+   "scene": "人往后退，篝火的热浪迅速变小",
+   "prompt_en": "A campfire icon with heat waves that shrink quickly as a footprint trail moves away from it. No people.",
+   "narration": "距离：离远一倍，剂量剩四分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "外照射防护：时间、距离、屏蔽",
+   "scene": "放射源和人形图标之间立起一面墙",
+   "prompt_en": "A wall rises between a small source container icon and a person-shaped icon. No people.",
+   "narration": "屏蔽：在源和人之间放吸收材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "散射让屏蔽后的剂量更高",
+   "scene": "一束细手电光穿过一块玻璃，光束整齐",
+   "prompt_en": "A narrow flashlight beam passes cleanly through a thick block, staying neat and straight. No people.",
+   "narration": "理想情况：一束细光穿过屏蔽体。",
+   "overlay": [
+    "散射让屏蔽后的剂量更高"
+   ],
+   "labels": [
+    "窄束"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "散射让屏蔽后的剂量更高",
+   "scene": "宽光束进入块中四处反弹，后方多出许多小箭头",
+   "prompt_en": "A wide beam enters the thick block, bounces around inside, and many extra small arrows come out behind it. No people.",
+   "narration": "现实中，射线会在屏蔽里散射。",
+   "overlay": [],
+   "labels": [
+    "宽束",
+    "散射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "散射让屏蔽后的剂量更高",
+   "scene": "两个剂量条：实际比估算高",
+   "prompt_en": "Two bar icons side by side behind the block: the measured bar is taller than the estimated bar. No people.",
+   "narration": "厚屏蔽后，实际剂量总比简单估算高。",
+   "overlay": [],
+   "labels": [
+    "估算",
+    "实际"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "散射让屏蔽后的剂量更高",
+   "scene": "阿杰看着实验曲线偏离预期，挠头",
+   "prompt_en": "The young male student looks at a blank lab chart where the plotted dots drift away from a straight line, and scratches his head.",
+   "narration": "实验曲线对不上，常是散射在作怪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "半值层与十值层",
+   "scene": "一张纸对折一次，光点亮度减半",
+   "prompt_en": "A sheet of paper is folded once, and a glowing light dot behind it becomes half as bright. No people.",
+   "narration": "半值层：让射线减到一半的厚度。",
+   "overlay": [
+    "半值层与十值层"
+   ],
+   "labels": [
+    "剩一半"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "半值层与十值层",
+   "scene": "更厚的一块板，后面只剩一个小光点",
+   "prompt_en": "A thicker slab, with only one tenth of the light dots coming out behind it. No people.",
+   "narration": "十值层：减到十分之一的厚度。",
+   "overlay": [],
+   "labels": [
+    "剩十分之一"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "半值层与十值层",
+   "scene": "七块一样的薄板排成一排，光点越来越暗",
+   "prompt_en": "Seven identical thin slabs in a row; the light dot gets dimmer and dimmer after each one. No people.",
+   "narration": "叠七个半值层，剩下不到百分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "半值层与十值层",
+   "scene": "不同材料的板各自标着不同厚度",
+   "prompt_en": "Slabs of different materials of different thicknesses lined up for comparison. No people.",
+   "narration": "用这些量，方便比较各种材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "γ屏蔽：铅与混凝土",
+   "scene": "一块薄铅板和一堵厚混凝土墙并排，挡住同样的射线",
+   "prompt_en": "A thin lead plate and a thick concrete wall stand side by side, each blocking the same ray arrows. No people.",
+   "narration": "挡γ射线，铅最节省空间。",
+   "overlay": [
+    "γ屏蔽：铅与混凝土"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "γ屏蔽：铅与混凝土",
+   "scene": "铅板只有混凝土墙的约八分之一厚",
+   "prompt_en": "A thickness comparison: the lead plate is only about one eighth as thick as the concrete wall. No people.",
+   "narration": "同样效果，铅约是混凝土厚度的八分之一。",
+   "overlay": [],
+   "labels": [
+    "铅省空间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "γ屏蔽：铅与混凝土",
+   "scene": "老李拍拍一堵高大的混凝土屏蔽墙",
+   "prompt_en": "The facility engineer pats a tall, solid concrete shielding wall of a radiation facility.",
+   "narration": "但混凝土结实，固定设施的墙用它。",
+   "overlay": [],
+   "labels": [
+    "混凝土结实"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "β粒子有最大射程",
+   "scene": "小球滚进沙地，滚一段就停下",
+   "prompt_en": "Small balls roll into a sandbox and each one stops after a short distance. No people.",
+   "narration": "β粒子不一样，它有最大射程。",
+   "overlay": [
+    "β粒子有最大射程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "β粒子有最大射程",
+   "scene": "电子小球一路与材料里的电子云碰撞减速",
+   "prompt_en": "Small electron balls bump through clouds of electrons inside a block, slowing down step by step. No people.",
+   "narration": "带电的它，一路碰撞，一路减速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "β粒子有最大射程",
+   "scene": "一块足够厚的板后面没有小球穿出，打绿勾",
+   "prompt_en": "A slab thick enough that no balls come out the other side; a green check mark appears. No people.",
+   "narration": "厚度超过射程，就能全部挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "β屏蔽陷阱：先轻后重",
+   "scene": "β源被厚铅直接包住，铅块后射出X射线箭头，画红叉",
+   "prompt_en": "A beta source wrapped directly in a heavy lead block, with penetrating ray arrows shooting out behind it; the whole picture is crossed out with a red X. No people.",
+   "narration": "铅直接包β源，会产生轫致辐射。",
+   "overlay": [
+    "β屏蔽陷阱：先轻后重"
+   ],
+   "labels": [
+    "错误做法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "β屏蔽陷阱：先轻后重",
+   "scene": "飞快的小车撞上铁墙，迸出火花",
+   "prompt_en": "A fast toy car crashes into an iron wall and throws off bright sparks. No people.",
+   "narration": "就像急刹车，电子撞铅放出X射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "β屏蔽陷阱：先轻后重",
+   "scene": "内层透明有机玻璃，外层薄铅，打绿勾",
+   "prompt_en": "A two-layer shield: a thick clear acrylic inner layer and a thin lead outer layer, with a green check mark. No people.",
+   "narration": "正确做法：内层先用有机玻璃挡住β。",
+   "overlay": [],
+   "labels": [
+    "内层轻材料",
+    "外层薄铅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "β屏蔽陷阱：先轻后重",
+   "scene": "少量X射线箭头被外层薄铅挡住",
+   "prompt_en": "A few faint ray arrows escaping the acrylic are stopped by the thin outer lead layer. No people.",
+   "narration": "外层再用薄铅，挡住少量X射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "β屏蔽陷阱：先轻后重",
+   "scene": "小研把阿杰手里的金属箔放回架上，递给他透明屏蔽盒",
+   "prompt_en": "The female graduate student puts the roll of blank metal foil back on the shelf and hands the young male student a clear acrylic shielding box.",
+   "narration": "阿杰明白了：先轻后重，双层屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量限值不是安全线",
+   "scene": "王老师站在空白规章册前",
+   "prompt_en": "The safety administrator stands beside a closed blank rulebook with a radiation warning symbol on the cover.",
+   "narration": "国家标准对工作人员规定了剂量限值。",
+   "overlay": [
+    "剂量限值不是安全线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量限值不是安全线",
+   "scene": "一条横线下方仍画着向下的箭头",
+   "prompt_en": "A horizontal limit line with an arrow below it still pointing further down. No people.",
+   "narration": "限值不是安全线，低于它也要尽量低。",
+   "overlay": [],
+   "labels": [
+    "合理尽量低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量限值不是安全线",
+   "scene": "空白文件夹和学校徽章图标",
+   "prompt_en": "A blank folder icon next to a simple school building icon. No people.",
+   "narration": "具体数值，以现行标准和学校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "小研戴上防护眼镜",
+   "prompt_en": "The female graduate student puts on protective safety glasses in the radiation lab.",
+   "narration": "晶状体敏感，操作时戴防护眼镜。",
+   "overlay": [
+    "眼睛和双手的局部防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "小研手上戴双层手套和指环剂量计",
+   "prompt_en": "Close-up of the female graduate student's hands wearing double gloves and a ring dosimeter.",
+   "narration": "手离源最近，按要求戴指环剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "长柄镊子夹起小瓶，徒手抓取图标打叉",
+   "prompt_en": "A pair of long tongs lifts a small vial, next to an icon of a bare hand grabbing a vial crossed out with a red X. No people.",
+   "narration": "用长柄工具，不用手直接拿源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "孕期及时告知",
+   "scene": "小研向老周说话，老周点头",
+   "prompt_en": "The female graduate student talks to the older man in his office; he nods understandingly.",
+   "narration": "怀孕或备孕，及时告知导师和单位。",
+   "overlay": [
+    "孕期及时告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "孕期及时告知",
+   "scene": "工作安排表上一项被调整的图标",
+   "prompt_en": "A blank work schedule board where one task card is moved to another column. No people.",
+   "narration": "单位会依规调整工作，保护胎儿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "孕期及时告知",
+   "scene": "带锁的文件夹图标",
+   "prompt_en": "A blank folder with a small lock icon on it. No people.",
+   "narration": "个人信息保密，具体以本校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "屏蔽设施不擅改，剂量要实测",
+   "scene": "老李检查屏蔽墙和门上的联锁装置",
+   "prompt_en": "The facility engineer checks a heavy shielding door and its interlock switch with a blank inspection checklist.",
+   "narration": "屏蔽墙、铅门、联锁，都经过设计验收。",
+   "overlay": [
+    "屏蔽设施不擅改，剂量要实测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "屏蔽设施不擅改，剂量要实测",
+   "scene": "拆下铅砖、按住联锁开关的手被红叉",
+   "prompt_en": "Icons of a hand removing a lead brick and a hand taping down an interlock switch, both crossed out with a red X. No people.",
+   "narration": "不得擅自拆移屏蔽，不得短接联锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "屏蔽设施不擅改，剂量要实测",
+   "scene": "小研用手持巡测仪在屏蔽外测量",
+   "prompt_en": "The female graduate student measures outside a shielding wall with a handheld survey meter.",
+   "narration": "算出来只是估计，要用仪器实测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "屏蔽设施不擅改，剂量要实测",
+   "scene": "巡测仪读数异常，小研举手报告",
+   "prompt_en": "The female graduate student sees the survey meter needle jump high and raises her hand to call the older man.",
+   "narration": "读数异常，停止工作，报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "β源操作要点",
+   "scene": "托盘里铺吸水纸，有机玻璃屏蔽盒挡在源前",
+   "prompt_en": "A tray lined with absorbent paper and a clear acrylic shielding screen standing in front of a small source container. No people.",
+   "narration": "操作β源，用有机玻璃屏蔽挡在前面。",
+   "overlay": [
+    "β源操作要点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "β源操作要点",
+   "scene": "小研站在屏蔽后，用长镊子操作",
+   "prompt_en": "The female graduate student works behind the clear acrylic screen using long tweezers, wearing glasses and gloves.",
+   "narration": "人站在屏蔽后，动作熟练、快速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "β源操作要点",
+   "scene": "小研用巡测仪检查手套和台面",
+   "prompt_en": "The female graduate student checks her gloves and the bench surface with a handheld survey meter.",
+   "narration": "做完检查手套和台面，有没有污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "剂量计图标旁闪着警示三角",
+   "prompt_en": "A dosimeter badge icon with a flashing warning triangle beside it. No people.",
+   "narration": "怀疑自己受到大剂量照射？",
+   "overlay": [
+    "疑似超剂量照射怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "小研拉着阿杰离开房间，关上门",
+   "prompt_en": "The female graduate student leads the young male student out of the lab and closes the door behind them.",
+   "narration": "先离开现场，防止继续受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "报告链条图标：实验室负责人—学院—保卫处",
+   "prompt_en": "Three linked icons in a chain: a lab room, a department building and a security office. No people.",
+   "narration": "立即报告负责人、学院和保卫处。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "保卫处值班员接电话并记录",
+   "prompt_en": "The security officer answers a phone and writes in a blank logbook.",
+   "narration": "学校按规定向主管部门报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "剂量计放入空白信封送检",
+   "prompt_en": "A dosimeter badge is put into a blank envelope for testing. No people.",
+   "narration": "剂量计马上送检，估算受照剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "红十字电话图标和医院图标",
+   "prompt_en": "A telephone icon with a red cross beside it, next to a hospital icon. No people.",
+   "narration": "有症状或受伤，拨打120就医。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "疑似超剂量照射怎么办",
+   "scene": "被红叉划掉的捂嘴图标",
+   "prompt_en": "An icon of a hand covering a mouth, crossed out with a red X. No people.",
+   "narration": "早期没症状也别侥幸，不能瞒报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 128,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现DNA和盾牌图标",
+   "prompt_en": "The panda mascot stands beside a floating DNA helix icon and a shield icon.",
+   "narration": "辐射直接或间接，伤害DNA。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 129,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双链断裂和氧气小泡图标",
+   "prompt_en": "Icons of a DNA ladder broken in two and a small oxygen bubble. No people.",
+   "narration": "双链断裂最危险，氧会加重损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 130,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "彩票和晒红手臂图标并排",
+   "prompt_en": "A lottery ticket icon and a sunburned arm icon side by side. No people.",
+   "narration": "随机性看概率，确定性有阈值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 131,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "时钟、尺子、砖墙三个打勾图标",
+   "prompt_en": "Three icons with green check marks: a clock, a ruler and a brick wall. No people.",
+   "narration": "时间短、距离远、有屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 132,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "有机玻璃加薄铅的双层图标，旁边巡测仪",
+   "prompt_en": "A two-layer shield icon of clear acrylic plus thin lead, next to a handheld survey meter icon. No people.",
+   "narration": "β先轻后重，剂量要实测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 133,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防护眼镜、指环剂量计和电话图标",
+   "prompt_en": "Icons of safety glasses, a ring dosimeter and a telephone. No people.",
+   "narration": "护好眼和手，异常立即报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 134,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在发光的DNA和砖墙前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in front of the glowing DNA helix and the sturdy brick wall.",
+   "narration": "懂原理、会屏蔽，安全用辐射！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

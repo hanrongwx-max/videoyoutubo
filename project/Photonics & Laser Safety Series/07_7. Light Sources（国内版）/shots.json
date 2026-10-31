@@ -1,0 +1,1688 @@
+{
+ "id": "07_7. Light Sources",
+ "edition": "国内版",
+ "series": "Photonics & Laser Safety Series",
+ "title": "光源与光对人体的作用（国内版）",
+ "seconds": 625,
+ "source_doc": "course/Photonics & Laser Safety Series/07_7. Light Sources.md",
+ "author_source": "project/Photonics & Laser Safety Series/07_7. Light Sources（国内版）/src.py",
+ "points": {
+  "K1": "光源的分类",
+  "K2": "五类非激光光源",
+  "K3": "白炽灯：钨丝与充气",
+  "K4": "卤钨灯：不让灯泡发黑",
+  "K5": "卤素灯很烫",
+  "K6": "灯丝的形状",
+  "K7": "荧光灯怎样发光",
+  "K8": "阴极与光效",
+  "K9": "镇流器的作用",
+  "K10": "高强度气体放电灯",
+  "K11": "放电灯外壳破了会漏紫外",
+  "K12": "闪光灯与弧光灯",
+  "K13": "发光二极管",
+  "K14": "LED 与激光二极管的区别",
+  "K15": "PN 结：单向的门",
+  "K16": "LED 为什么会发光",
+  "K17": "眼睛是一台光学仪器",
+  "K18": "聚焦放大：杂散光束最伤眼",
+  "K19": "角膜与房水",
+  "K20": "晶状体、虹膜与瞳孔",
+  "K21": "视网膜与中央凹",
+  "K22": "不同波长伤眼的部位不同",
+  "K23": "皮肤的结构",
+  "K24": "皮肤怎样受光伤害",
+  "K25": "本课回顾与下一课",
+  "S1": "强光、紫外、红外光源的防护",
+  "S2": "灯具高温：防烫、远离易燃物",
+  "S3": "高压电源与电容放电",
+  "S4": "灯管破碎：汞与玻璃碎片",
+  "S5": "眼睛受照后：报告与就医"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在光学实验台旁，台上摆着灯泡、灯管和小 LED，向镜头招手",
+   "prompt_en": "The panda mascot stands beside an optical table with a light bulb, a fluorescent tube and a small LED on it, and waves at the camera.",
+   "narration": "这一课讲光源，还有光怎样伤害人体。",
+   "overlay": [
+    "光源与光对人体的作用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "灯泡、眼睛、皮肤三个图标排成一行",
+   "prompt_en": "Three icons in a row: a glowing light bulb, a human eye and a patch of skin. No people.",
+   "narration": "先认识光源，再认识眼睛和皮肤。",
+   "overlay": [],
+   "labels": [
+    "光源",
+    "眼睛",
+    "皮肤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰刚关掉一盏卤素灯，伸手要去拧灯泡",
+   "prompt_en": "In an optics lab, the young male student has just switched off a halogen work lamp and reaches out with his bare hand to unscrew the bulb.",
+   "narration": "阿杰刚关灯，就想徒手去换灯泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拉住他，指向旁边一盏亮着的紫外灯",
+   "prompt_en": "The female graduate student holds back the young male student and points at a glowing ultraviolet lamp on the bench nearby.",
+   "narration": "小研拦住他：灯还烫，那边紫外灯也亮着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "徒手抓热灯泡、直视亮灯两个图标，各打红叉",
+   "prompt_en": "Two icons: a bare hand grabbing a hot bulb, and an eye staring at a bright lamp, each crossed out with a red X. No people.",
+   "narration": "烫手、伤眼，都是光源带来的风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "先弄懂光源怎么发光，才知道怎么防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光源的分类",
+   "scene": "太阳和电灯两个图标并排",
+   "prompt_en": "Two icons side by side: a sun and an electric light bulb. No people.",
+   "narration": "光源分两类：自然光源和人造光源。",
+   "overlay": [
+    "光源的分类"
+   ],
+   "labels": [
+    "自然光源",
+    "人造光源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光源的分类",
+   "scene": "人造光源分叉成灯泡和激光器两个图标",
+   "prompt_en": "A branching diagram: a light bulb icon on one branch and a small laser box with a beam on the other. No people.",
+   "narration": "人造光源又分非激光光源和激光。",
+   "overlay": [],
+   "labels": [
+    "非激光光源",
+    "激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光源的分类",
+   "scene": "欣欣拍拍灯泡图标",
+   "prompt_en": "The panda mascot taps a large light bulb icon on a blank board.",
+   "narration": "这一课只讲非激光光源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "五类非激光光源",
+   "scene": "五个图标排成一排：灯泡、灯管、大放电灯、闪光灯管、LED",
+   "prompt_en": "Five icons in a row: a light bulb, a long fluorescent tube, a large discharge lamp, a straight flash tube and a small LED. No people.",
+   "narration": "常见的非激光光源有五类。",
+   "overlay": [
+    "五类非激光光源"
+   ],
+   "labels": [
+    "白炽灯",
+    "荧光灯",
+    "放电灯",
+    "闪光灯",
+    "LED"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "五类非激光光源",
+   "scene": "小研在空白笔记本上逐项打勾",
+   "prompt_en": "The female graduate student ticks five items on a blank notebook page at a lab bench.",
+   "narration": "白炽、荧光、放电、闪光，还有LED。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "白炽灯：钨丝与充气",
+   "scene": "灯泡剖面示意：玻壳里一根发光的灯丝",
+   "prompt_en": "A simple cutaway illustration of a light bulb with a glowing coiled filament inside a glass bulb. No people.",
+   "narration": "白炽灯靠灯丝烧得通红来发光。",
+   "overlay": [
+    "白炽灯：钨丝与充气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "白炽灯：钨丝与充气",
+   "scene": "温度计、坚固的链条、不冒烟的金属丝三个图标",
+   "prompt_en": "Three icons: a tall thermometer, a strong chain link, and a metal wire with no vapor rising from it. No people.",
+   "narration": "钨耐高温、不易蒸发，还很结实。",
+   "overlay": [],
+   "labels": [
+    "耐高温",
+    "少蒸发",
+    "结实"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "白炽灯：钨丝与充气",
+   "scene": "灯泡里飘着浅色气体小点",
+   "prompt_en": "A light bulb illustration filled with small pale gas dots around the filament. No people.",
+   "narration": "灯泡里充惰性气体，让灯丝更长寿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "卤钨灯：不让灯泡发黑",
+   "scene": "旧灯泡内壁发黑的示意图",
+   "prompt_en": "An illustration of an old light bulb with a dark gray coating on the inside of the glass. No people.",
+   "narration": "灯丝的钨会蒸发，粘在玻壳上发黑。",
+   "overlay": [
+    "卤钨灯：不让灯泡发黑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "卤钨灯：不让灯泡发黑",
+   "scene": "小卫士图标把钨小颗粒送回灯丝",
+   "prompt_en": "A cartoon illustration of tiny helper dots carrying small metal particles back from the glass wall to the filament. No people.",
+   "narration": "加一点卤素，把钨“送回”灯丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "卤钨灯：不让灯泡发黑",
+   "scene": "干净透亮的卤素灯泡",
+   "prompt_en": "A clean, clear small halogen bulb glowing brightly. No people.",
+   "narration": "这样灯泡就能一直保持透亮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "卤素灯很烫",
+   "scene": "卤素灯泡旁冒出热浪线",
+   "prompt_en": "A glowing small halogen bulb with wavy heat lines rising from it. No people.",
+   "narration": "卤素灯必须很热，循环才转得起来。",
+   "overlay": [
+    "卤素灯很烫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "卤素灯很烫",
+   "scene": "石英灯壳与普通玻璃对比，普通玻璃上有裂纹",
+   "prompt_en": "Two small bulbs side by side: a quartz bulb intact and an ordinary glass bulb with crack lines. No people.",
+   "narration": "普通玻璃受不了，要用石英或耐热玻璃。",
+   "overlay": [],
+   "labels": [
+    "石英",
+    "普通玻璃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "卤素灯很烫",
+   "scene": "欣欣把手缩回，指向热灯泡",
+   "prompt_en": "The panda mascot pulls its paw back from a glowing bulb and points at the heat lines.",
+   "narration": "记住：白炽类的灯都很烫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯丝的形状",
+   "scene": "直灯丝和螺旋灯丝两个线图",
+   "prompt_en": "Two simple line drawings: a straight filament and a coiled filament between two support wires. No people.",
+   "narration": "灯丝可以是直的，也可以绕成螺旋。",
+   "overlay": [
+    "灯丝的形状"
+   ],
+   "labels": [
+    "直丝",
+    "螺旋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯丝的形状",
+   "scene": "一根长绳绕成弹簧的比喻图",
+   "prompt_en": "An illustration of a long rope being wound into a compact spring shape. No people.",
+   "narration": "绕成螺旋，就能把更长的丝装进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯丝的形状",
+   "scene": "密绕螺旋发出均匀亮光，疏绕螺旋光较暗",
+   "prompt_en": "Two coils side by side: a tightly wound coil glowing evenly and brightly, and a loosely wound coil glowing dimmer. No people.",
+   "narration": "绕得密更亮更匀，绕得疏更便宜。",
+   "overlay": [],
+   "labels": [
+    "密绕",
+    "疏绕"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯丝的形状",
+   "scene": "一台老式幻灯投影机图标",
+   "prompt_en": "An icon of an old slide projector casting a blank square of light. No people.",
+   "narration": "不需要强光的投影，用疏绕就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "荧光灯怎样发光",
+   "scene": "一根荧光灯管的剖面示意",
+   "prompt_en": "A cutaway illustration of a fluorescent tube with a white coating on the inside of the glass. No people.",
+   "narration": "荧光灯是低压汞蒸气放电灯。",
+   "overlay": [
+    "荧光灯怎样发光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "荧光灯怎样发光",
+   "scene": "电子撞击汞原子，冒出紫色小光点",
+   "prompt_en": "An illustration of electrons flowing through the tube and hitting small atoms, which give off violet sparkles. No people.",
+   "narration": "通电后电子撞汞原子，放出紫外线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "荧光灯怎样发光",
+   "scene": "紫色光点打到内壁涂层，变成白光射出",
+   "prompt_en": "Violet sparkles strike the white inner coating of the tube and turn into bright white light shining outward. No people.",
+   "narration": "紫外线打到荧光粉上，变成可见光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "荧光灯怎样发光",
+   "scene": "欣欣举着一盏亮白的荧光灯管",
+   "prompt_en": "The panda mascot holds up a glowing white fluorescent tube.",
+   "narration": "像接力赛：电子传给汞，汞传给荧光粉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "阴极与光效",
+   "scene": "灯管两端的电极，一端暖色一端冷色",
+   "prompt_en": "A fluorescent tube with an electrode at each end, one glowing warm orange and one pale blue. No people.",
+   "narration": "电极分冷阴极和热阴极。",
+   "overlay": [
+    "阴极与光效"
+   ],
+   "labels": [
+    "冷阴极",
+    "热阴极"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "阴极与光效",
+   "scene": "冷阴极旁画快进图标，热阴极旁画灯泡加号",
+   "prompt_en": "A fast-forward icon beside the pale blue electrode and a brighter bulb icon with a plus sign beside the orange electrode. No people.",
+   "narration": "冷阴极启动快，热阴极更省电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "阴极与光效",
+   "scene": "电能进、可见光出的漏斗比喻图",
+   "prompt_en": "A funnel diagram: a lightning bolt icon goes in at the top and a bundle of light rays comes out at the bottom. No people.",
+   "narration": "光效：多少电能变成了看得见的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "阴极与光效",
+   "scene": "一长一短两根灯管，长的更亮",
+   "prompt_en": "Two fluorescent tubes, one long and one short, the long one glowing brighter. No people.",
+   "narration": "一般来说，灯管越长，光效越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "镇流器的作用",
+   "scene": "灯管连着一个空白小盒子",
+   "prompt_en": "A fluorescent tube connected by wires to a small blank box. No people.",
+   "narration": "荧光灯离不开镇流器。",
+   "overlay": [
+    "镇流器的作用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "镇流器的作用",
+   "scene": "两个空白盒子，各连一根灯管",
+   "prompt_en": "Two blank boxes of different shapes, each connected to a glowing tube. No people.",
+   "narration": "常见快速启动型和预热型两种。",
+   "overlay": [],
+   "labels": [
+    "快速启动",
+    "预热"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "镇流器的作用",
+   "scene": "亮度条和沙漏图标",
+   "prompt_en": "A brightness bar icon and an hourglass icon side by side. No people.",
+   "narration": "镇流器选得对，灯更亮、寿命更长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高强度气体放电灯",
+   "scene": "一盏大号放电灯泡，中间小管里有一道亮弧",
+   "prompt_en": "A large discharge lamp bulb with a small inner arc tube in the middle showing a bright arc between two electrodes. No people.",
+   "narration": "高强度放电灯靠电弧发光。",
+   "overlay": [
+    "高强度气体放电灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高强度气体放电灯",
+   "scene": "小管里气体点火，金属盐变成发亮的等离子云",
+   "prompt_en": "Inside a small arc tube, a spark starts and then small salt grains turn into a glowing plasma cloud. No people.",
+   "narration": "气体先起弧，金属盐受热变成等离子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高强度气体放电灯",
+   "scene": "电弧管图标旁有汞、钠、金属卤化物三个小瓶图标",
+   "prompt_en": "A small arc tube icon next to three blank small vial icons. No people.",
+   "narration": "有汞灯、钠灯和金属卤化物灯。",
+   "overlay": [],
+   "labels": [
+    "汞",
+    "钠",
+    "金属卤化物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高强度气体放电灯",
+   "scene": "电弧管外有压力表图标",
+   "prompt_en": "An arc tube icon with a pressure gauge icon beside it. No people.",
+   "narration": "管里有好几个大气压，所以叫高压灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "放电灯的内管和外壳两层示意",
+   "prompt_en": "A cutaway illustration of a discharge lamp showing an inner quartz tube and an outer glass jacket. No people.",
+   "narration": "含汞放电灯有两层玻壳。",
+   "overlay": [
+    "放电灯外壳破了会漏紫外"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "外壳像一件外套，把紫色射线挡在里面",
+   "prompt_en": "The outer glass jacket is drawn like a coat, keeping violet rays inside. No people.",
+   "narration": "外壳的任务，是把紫外线挡在里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "外壳被飞来的碎片打破，紫色射线漏出",
+   "prompt_en": "A small flying fragment cracks the outer jacket and violet rays leak out through the hole. No people.",
+   "narration": "外壳破了，灯却还亮，紫外就漏出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "眼睛发红和皮肤发红两个图标",
+   "prompt_en": "Two icons: a red irritated eye and a reddened patch of skin with a warning triangle. No people.",
+   "narration": "会灼伤皮肤，引起眼睛发炎。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "外壳破损后灯自动熄灭的示意",
+   "prompt_en": "A lamp with a cracked outer jacket that has gone dark, with a green check mark beside it. No people.",
+   "narration": "可选外壳一破就自动熄灭的灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "放电灯外壳破了会漏紫外",
+   "scene": "老李关掉电闸，给破灯挂上空白停用牌",
+   "prompt_en": "The facility engineer switches off a wall breaker and hangs a blank out-of-service tag on a lamp with a cracked jacket.",
+   "narration": "发现外壳破损，立即断电停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "闪光灯与弧光灯",
+   "scene": "一根直的闪光灯管，两端是电极",
+   "prompt_en": "A straight flash tube with an electrode at each end, flashing brightly. No people.",
+   "narration": "闪光灯和弧光灯也是放电灯。",
+   "overlay": [
+    "闪光灯与弧光灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "闪光灯与弧光灯",
+   "scene": "照相机闪光和激光器里的闪光灯图标",
+   "prompt_en": "Two icons: a camera with a flash and a laser box with a flash tube inside. No people.",
+   "narration": "用在摄影和激光器里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "闪光灯与弧光灯",
+   "scene": "闪光灯管两端闪电图标，管内气体被点亮",
+   "prompt_en": "A flash tube with lightning bolt icons at both ends and the gas inside lit up. No people.",
+   "narration": "管里充氙或氪，靠高压触发放电。",
+   "overlay": [],
+   "labels": [
+    "氙",
+    "氪"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "闪光灯与弧光灯",
+   "scene": "灯管外包着一层流水的套管",
+   "prompt_en": "A flash tube surrounded by an outer sleeve with flowing water arrows. No people.",
+   "narration": "发光强、发热大，常用水套冷却。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "发光二极管",
+   "scene": "一颗小小的 LED 发出红光",
+   "prompt_en": "A small LED glowing red on a blank circuit board. No people.",
+   "narration": "发光二极管，就是LED。",
+   "overlay": [
+    "发光二极管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "发光二极管",
+   "scene": "光纤、计算器、显示屏三个图标",
+   "prompt_en": "Three icons: a fiber optic cable, a pocket calculator with a blank screen, and a blank display panel. No people.",
+   "narration": "通信、计算器、显示屏都用它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "发光二极管",
+   "scene": "两颗 LED，一颗发可见光，一颗发看不见的暗红光",
+   "prompt_en": "Two LEDs: one glowing green and one with faint dark red rays marked by an invisible-light icon. No people.",
+   "narration": "LED能发可见光，也能发红外光。",
+   "overlay": [],
+   "labels": [
+    "可见光",
+    "红外"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "LED 与激光二极管的区别",
+   "scene": "LED 向四面八方发光，激光二极管射出一条细光束",
+   "prompt_en": "Side by side: an LED glowing in all directions, and a laser diode emitting one narrow straight beam. No people.",
+   "narration": "LED向四面散光，激光管射出细光束。",
+   "overlay": [
+    "LED 与激光二极管的区别"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "LED 与激光二极管的区别",
+   "scene": "一群人各走各路 vs 一队人齐步走的比喻图",
+   "prompt_en": "A metaphor illustration: a crowd of dots walking in random directions next to a neat column of dots marching in step. No people.",
+   "narration": "一个各自发光，一个整齐受激发光。",
+   "overlay": [],
+   "labels": [
+    "自发辐射",
+    "受激辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "LED 与激光二极管的区别",
+   "scene": "小、凉、结实、便宜四个图标",
+   "prompt_en": "Four icons: a tiny size ruler, a snowflake, a shield and a coin. No people.",
+   "narration": "LED功率小，但小巧、低温、耐用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "LED 与激光二极管的区别",
+   "scene": "LED 灯泡和白炽灯泡并排，LED 旁有省电图标",
+   "prompt_en": "An LED household bulb and an incandescent bulb side by side, with an energy-saving leaf icon by the LED. No people.",
+   "narration": "LED灯泡比白炽灯省电得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "PN 结：单向的门",
+   "scene": "两块拼在一起的方块，一边满是小点，一边满是小圆圈",
+   "prompt_en": "Two blocks joined together: one filled with small dots, the other filled with small empty circles, with a thin gap between. No people.",
+   "narration": "PN结：一边电子多，一边空穴多。",
+   "overlay": [
+    "PN 结：单向的门"
+   ],
+   "labels": [
+    "N区",
+    "P区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "PN 结：单向的门",
+   "scene": "中间的缝像一道门槛",
+   "prompt_en": "The thin gap between the two blocks is drawn as a low threshold barrier. No people.",
+   "narration": "中间有一道门槛，挡住电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "PN 结：单向的门",
+   "scene": "正向接电时门槛变低，小点流过去",
+   "prompt_en": "With a battery icon connected one way, the barrier shrinks and dots flow across. No people.",
+   "narration": "正着接，门槛变低，电流通过。",
+   "overlay": [],
+   "labels": [
+    "正偏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "PN 结：单向的门",
+   "scene": "反向接电时门槛变高，被挡住",
+   "prompt_en": "With the battery icon reversed, the barrier grows taller and the dots are blocked. No people.",
+   "narration": "反着接，门槛变高，电流被挡。",
+   "overlay": [],
+   "labels": [
+    "反偏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "LED 为什么会发光",
+   "scene": "小点从高台阶跳到低台阶，掉进小圆圈，冒出一颗光点",
+   "prompt_en": "A dot jumps down from a high step to a low step, drops into an empty circle and releases a small spark of light. No people.",
+   "narration": "电子从高处落进空穴，多余能量变成光。",
+   "overlay": [
+    "LED 为什么会发光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "LED 为什么会发光",
+   "scene": "许多光点汇成 LED 的亮光",
+   "prompt_en": "Many small sparks join together into the steady glow of an LED. No people.",
+   "narration": "无数次这样的“落下”，就是LED的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "LED 为什么会发光",
+   "scene": "欣欣捧着一颗发光的 LED",
+   "prompt_en": "The panda mascot holds a glowing LED carefully in its paws.",
+   "narration": "能量守恒，在LED里看得见。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛是一台光学仪器",
+   "scene": "欣欣指着一个大眼睛模型",
+   "prompt_en": "The panda mascot points at a large model of a human eye on a stand.",
+   "narration": "要懂光的危害，先认识眼睛。",
+   "overlay": [
+    "眼睛是一台光学仪器"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛是一台光学仪器",
+   "scene": "眼球剖面示意：前面透明，后面一层感光膜",
+   "prompt_en": "A simple cross-section illustration of an eyeball with a clear front window, a lens and a light-sensitive layer at the back. No people.",
+   "narration": "眼睛是能接收、聚焦、感光的仪器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛是一台光学仪器",
+   "scene": "眼球外层白色，内部充满透明液体和凝胶",
+   "prompt_en": "The eyeball illustration with its white outer layer highlighted and clear fluid and gel inside. No people.",
+   "narration": "白色外壳和眼内液体，撑起眼球形状。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛是一台光学仪器",
+   "scene": "光线穿过角膜和晶状体，落到眼底",
+   "prompt_en": "Light rays pass through the clear front window and the lens and land on the back of the eye. No people.",
+   "narration": "光穿过角膜、晶状体，落到视网膜。",
+   "overlay": [],
+   "labels": [
+    "角膜",
+    "晶状体",
+    "视网膜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "聚焦放大：杂散光束最伤眼",
+   "scene": "放大镜把阳光聚成一个亮点的比喻图",
+   "prompt_en": "A magnifying glass focusing sunlight into one tiny bright dot on a leaf. No people.",
+   "narration": "晶状体像放大镜，把光聚成一点。",
+   "overlay": [
+    "聚焦放大：杂散光束最伤眼"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "聚焦放大：杂散光束最伤眼",
+   "scene": "宽光束进眼，眼底一个刺眼的小点",
+   "prompt_en": "A wide beam enters the eye illustration and becomes a tiny, intensely bright dot on the back of the eye. No people.",
+   "narration": "同样的光，聚到眼底强了许多许多倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "聚焦放大：杂散光束最伤眼",
+   "scene": "一道细光束从镜子反射，射向眼睛图标，打叉",
+   "prompt_en": "A thin beam bounces off a small mirror toward an eye icon, with a red X on the path. No people.",
+   "narration": "所以杂散的激光束射进眼里，最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "聚焦放大：杂散光束最伤眼",
+   "scene": "视神经把信号传到大脑的示意",
+   "prompt_en": "A simple illustration of signals traveling from the back of the eye along a nerve to a brain icon. No people.",
+   "narration": "视网膜的信号经视神经送到大脑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "角膜与房水",
+   "scene": "眼球最前面透明的一层被高亮",
+   "prompt_en": "The eyeball illustration with the clear front layer highlighted. No people.",
+   "narration": "角膜是眼睛最外面的透明窗口。",
+   "overlay": [
+    "角膜与房水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "角膜与房水",
+   "scene": "角膜图标旁有循环箭头",
+   "prompt_en": "A cornea icon with a circular renewal arrow beside it. No people.",
+   "narration": "角膜细胞更新快，轻伤好得快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "角膜与房水",
+   "scene": "角膜和晶状体之间的水样液体，吸走热浪",
+   "prompt_en": "Clear watery fluid between the front window and the lens absorbs wavy heat lines. No people.",
+   "narration": "房水主要是水，能吸收热量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "晶状体、虹膜与瞳孔",
+   "scene": "晶状体变厚变薄，分别对准近处和远处",
+   "prompt_en": "The lens illustration changes from thick to thin, focusing on a near flower and then a far mountain. No people.",
+   "narration": "晶状体能变形，远近都能看清。",
+   "overlay": [
+    "晶状体、虹膜与瞳孔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "晶状体、虹膜与瞳孔",
+   "scene": "彩色的虹膜围着黑色的瞳孔",
+   "prompt_en": "A close-up illustration of a colored iris around a dark pupil. No people.",
+   "narration": "虹膜像光圈，调节进光的多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "晶状体、虹膜与瞳孔",
+   "scene": "亮处瞳孔小，暗处瞳孔大",
+   "prompt_en": "Two eye illustrations: a small pupil under a sun icon, and a large pupil under a moon icon. No people.",
+   "narration": "亮处瞳孔缩小，暗处瞳孔放大。",
+   "overlay": [],
+   "labels": [
+    "亮处",
+    "暗处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "晶状体、虹膜与瞳孔",
+   "scene": "暗室里放大的瞳孔前有一道光束，警示三角",
+   "prompt_en": "A large dilated pupil in a dim room with a thin beam approaching, and a yellow warning triangle. No people.",
+   "narration": "暗室里瞳孔大，进眼的光也更多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "视网膜与中央凹",
+   "scene": "眼球中央的透明凝胶被高亮",
+   "prompt_en": "The eyeball illustration with the clear gel in the center highlighted. No people.",
+   "narration": "玻璃体是透明凝胶，撑起眼球。",
+   "overlay": [
+    "视网膜与中央凹"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "视网膜与中央凹",
+   "scene": "眼底一层感光膜，像一块小屏幕",
+   "prompt_en": "The back of the eye drawn as a small curved screen with tiny rod and cone shapes. No people.",
+   "narration": "视网膜像一块屏幕，把光变成电信号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "视网膜与中央凹",
+   "scene": "视网膜正中一个小点被高亮",
+   "prompt_en": "A tiny spot at the center of the back of the eye glows as the most sensitive point. No people.",
+   "narration": "中央凹最敏感，管最精细的视力。",
+   "overlay": [],
+   "labels": [
+    "中央凹"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "视网膜与中央凹",
+   "scene": "中央凹上的小点被红叉标出",
+   "prompt_en": "The tiny central spot is marked with a red damage icon. No people.",
+   "narration": "激光伤到中央凹，是视力最坏的结局。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "彩虹色波长尺下方是眼球剖面",
+   "prompt_en": "A rainbow wavelength bar above an eyeball cross-section, with violet on the left and dark red on the right. No people.",
+   "narration": "不同波长的光，伤眼的部位不同。",
+   "overlay": [
+    "不同波长伤眼的部位不同"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "紫色射线停在眼睛最前面",
+   "prompt_en": "Violet rays stop at the clear front window of the eye. No people.",
+   "narration": "短波紫外主要被角膜吸收。",
+   "overlay": [],
+   "labels": [
+    "短波紫外→角膜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "淡紫色射线穿过角膜，停在晶状体",
+   "prompt_en": "Pale violet rays pass the front window and stop in the lens. No people.",
+   "narration": "长波紫外主要被晶状体吸收。",
+   "overlay": [],
+   "labels": [
+    "长波紫外→晶状体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "可见光和暗红射线一直穿到眼底",
+   "prompt_en": "Colored visible rays and dark red rays pass all the way through to the back of the eye. No people.",
+   "narration": "可见光和近红外，一直射到视网膜。",
+   "overlay": [],
+   "labels": [
+    "可见/近红外→眼底"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "眼底被高亮，警示三角",
+   "prompt_en": "The back of the eye highlighted with a yellow warning triangle. No people.",
+   "narration": "再被聚焦放大，所以最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "不同波长伤眼的部位不同",
+   "scene": "欣欣摆手，旁边是紫色射线和眼睛前部发红图标",
+   "prompt_en": "The panda mascot shakes its head beside an icon of violet rays and a reddened front of an eye.",
+   "narration": "紫外也会伤角膜和晶状体，不能大意。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "皮肤的结构",
+   "scene": "皮肤剖面示意：上层薄、下层厚",
+   "prompt_en": "A simple cross-section illustration of skin with a thin top layer and a thicker layer beneath. No people.",
+   "narration": "皮肤的风险排在眼睛之后。",
+   "overlay": [
+    "皮肤的结构"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "皮肤的结构",
+   "scene": "热浪图标和化学分子图标",
+   "prompt_en": "Two icons: wavy heat lines and a simple molecule shape. No people.",
+   "narration": "光伤皮肤，有热的，也有光化学的。",
+   "overlay": [],
+   "labels": [
+    "热效应",
+    "光化学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "皮肤的结构",
+   "scene": "表皮、真皮两层标出，最外面一层干燥的死细胞",
+   "prompt_en": "The skin illustration with its outer dead cell layer, the epidermis and the dermis clearly separated. No people.",
+   "narration": "表皮在上，真皮在下，最外是角质层。",
+   "overlay": [],
+   "labels": [
+    "角质层",
+    "表皮",
+    "真皮"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "皮肤的结构",
+   "scene": "表皮中的深色小颗粒挡住紫色射线",
+   "prompt_en": "Small dark granules in the top skin layer catch violet rays before they go deeper. No people.",
+   "narration": "黑色素吸收紫外，保护下面的真皮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "皮肤怎样受光伤害",
+   "scene": "可见光和红光被皮肤表面反射，紫色光被吸收",
+   "prompt_en": "Visible and red rays bounce off the skin surface while violet rays are absorbed into it. No people.",
+   "narration": "皮肤反射大部分可见光和近红外。",
+   "overlay": [
+    "皮肤怎样受光伤害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "皮肤怎样受光伤害",
+   "scene": "紫色射线停在皮肤表层",
+   "prompt_en": "Violet rays absorbed in the top skin layer, which turns slightly red. No people.",
+   "narration": "紫外容易被皮肤吸收，最需提防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "皮肤怎样受光伤害",
+   "scene": "很强很久的光束穿透到皮肤深层",
+   "prompt_en": "A strong beam with a clock icon pushes deep into the skin cross-section. No people.",
+   "narration": "光够强、照够久，任何波长都能伤深层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "皮肤怎样受光伤害",
+   "scene": "日历翻页和皮肤老化图标",
+   "prompt_en": "A calendar with many pages flipping and an icon of wrinkled skin with a warning triangle. No people.",
+   "narration": "长期受紫外照射，加速老化、易致癌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "皮肤怎样受光伤害",
+   "scene": "一台远红外激光器的光束让皮肤冒热浪",
+   "prompt_en": "A box-shaped far-infrared laser beam icon hitting skin with heat lines rising. No people.",
+   "narration": "远红外激光，对皮肤的热伤害最明显。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外、红外光源的防护",
+   "scene": "欣欣戴上防紫外面罩，旁边一盏紫外灯",
+   "prompt_en": "The panda mascot puts on a clear face shield beside a glowing ultraviolet lamp on a bench.",
+   "narration": "强光、紫外、红外光源，都要防护。",
+   "overlay": [
+    "强光、紫外、红外光源的防护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外、红外光源的防护",
+   "scene": "小研戴防紫外护目镜，穿长袖实验服和手套",
+   "prompt_en": "The female graduate student wears ultraviolet-blocking goggles, a long-sleeved lab coat and gloves at a bench.",
+   "narration": "用紫外灯，戴防紫外眼镜和面罩，遮住皮肤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外、红外光源的防护",
+   "scene": "灯外罩着遮光罩和挡板",
+   "prompt_en": "A bright lamp enclosed in a dark housing with a black shield panel in front. No people.",
+   "narration": "光源装好遮光罩，加挡板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外、红外光源的防护",
+   "scene": "眼睛直视亮灯的图标打红叉",
+   "prompt_en": "An icon of an eye staring straight at a bright arc lamp, crossed out with a red X. No people.",
+   "narration": "不直视弧光灯、闪光灯和强光源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "强光、紫外、红外光源的防护",
+   "scene": "紫外灯旁的空白警示牌",
+   "prompt_en": "A blank warning placard with a sun-ray pictogram posted beside an ultraviolet lamp, and a general warning triangle. No people.",
+   "narration": "紫外灯工作时贴警示，离开就关灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "灯具高温：防烫、远离易燃物",
+   "scene": "阿杰戴隔热手套，等灯冷却后才更换",
+   "prompt_en": "The young male student waits with heat-resistant gloves on, then changes a cooled halogen bulb.",
+   "narration": "换灯先断电，等灯冷却再动手。",
+   "overlay": [
+    "灯具高温：防烫、远离易燃物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "灯具高温：防烫、远离易燃物",
+   "scene": "手指碰石英灯壳的图标打叉",
+   "prompt_en": "An icon of bare fingers touching a quartz bulb, crossed out with a red X. No people.",
+   "narration": "别用手指直接碰石英灯壳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "灯具高温：防烫、远离易燃物",
+   "scene": "热灯旁的纸张和溶剂瓶被移开",
+   "prompt_en": "Paper sheets and a blank solvent bottle are moved away from a hot lamp, with arrows showing the clearance. No people.",
+   "narration": "高温灯具周围，不放纸张和溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "高压电源与电容放电",
+   "scene": "闪光灯电源盒上的触电警告标志",
+   "prompt_en": "A blank power supply box for a flash lamp with an electric shock warning sign on its cover. No people.",
+   "narration": "闪光灯、弧光灯电源电压很高。",
+   "overlay": [
+    "高压电源与电容放电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "高压电源与电容放电",
+   "scene": "电源盒里的电容图标仍有闪电符号",
+   "prompt_en": "A cutaway icon of the power box showing capacitor shapes still holding a lightning bolt after the plug is pulled. No people.",
+   "narration": "断电后，电容里还可能存着电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "高压电源与电容放电",
+   "scene": "老李挂上空白停电牌，等待电容放完电",
+   "prompt_en": "The facility engineer hangs a blank lockout tag on the switched-off power supply and waits beside it with insulated gloves.",
+   "narration": "维修由授权人员断电、放电后进行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "高压电源与电容放电",
+   "scene": "学生拆电源外壳的图标打叉",
+   "prompt_en": "An icon of a student opening a power supply cover with a screwdriver, crossed out with a red X. No people.",
+   "narration": "学生不得自行拆开高压电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯管破碎：汞与玻璃碎片",
+   "scene": "地上一根摔碎的荧光灯管",
+   "prompt_en": "A broken fluorescent tube lying on the lab floor with glass fragments around it. No people.",
+   "narration": "荧光灯和放电灯里含汞。",
+   "overlay": [
+    "灯管破碎：汞与玻璃碎片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯管破碎：汞与玻璃碎片",
+   "scene": "打开的窗户，人员离开房间的箭头",
+   "prompt_en": "An open window with airflow arrows and an arrow showing people leaving the room. No people.",
+   "narration": "灯管破了，先开窗通风，人员暂离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯管破碎：汞与玻璃碎片",
+   "scene": "小研戴手套，用硬纸片收集碎片装进密封袋",
+   "prompt_en": "The female graduate student wearing gloves scoops glass fragments with stiff cardboard into a sealable bag.",
+   "narration": "戴手套用硬纸收集，不用吸尘器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灯管破碎：汞与玻璃碎片",
+   "scene": "密封袋放进空白标签的废物桶",
+   "prompt_en": "A sealed bag placed into a waste bin with a blank label. No people.",
+   "narration": "废灯管和碎片按含汞废物交回收。",
+   "overlay": [],
+   "labels": [
+    "含汞废物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛受照后：报告与就医",
+   "scene": "阿杰揉着发红的眼睛",
+   "prompt_en": "The young male student rubs his reddened eyes at the bench, looking uncomfortable.",
+   "narration": "眼睛被强光、紫外照到，别硬撑。",
+   "overlay": [
+    "眼睛受照后：报告与就医"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛受照后：报告与就医",
+   "scene": "揉眼的图标打叉",
+   "prompt_en": "An icon of hands rubbing an eye, crossed out with a red X. No people.",
+   "narration": "不要揉眼，立即停止工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛受照后：报告与就医",
+   "scene": "阿杰向王老师报告",
+   "prompt_en": "The young male student reports to the safety administrator in the lab corridor.",
+   "narration": "马上报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛受照后：报告与就医",
+   "scene": "电话图标旁有红十字",
+   "prompt_en": "A telephone icon with a red cross icon beside it. No people.",
+   "narration": "及时就医，紧急时拨打120。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "眼睛受照后：报告与就医",
+   "scene": "王老师在空白记录本上登记",
+   "prompt_en": "The safety administrator writes in a blank incident logbook with the young male student beside him.",
+   "narration": "如实记录，查找原因，防止再犯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "本课回顾与下一课",
+   "scene": "欣欣在实验台旁，台上灯泡、灯管、LED 依次亮起",
+   "prompt_en": "The panda mascot stands at an optical table as a bulb, a tube and an LED light up one by one.",
+   "narration": "做光学实验，先要有光源。",
+   "overlay": [
+    "本课回顾与下一课"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "本课回顾与下一课",
+   "scene": "眼睛和皮肤图标旁一个激光器图标",
+   "prompt_en": "An eye icon and a skin icon next to a small laser box icon with a beam. No people.",
+   "narration": "下一课，我们讲激光安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "白炽灯、荧光灯、放电灯、闪光灯、LED 五个图标",
+   "prompt_en": "Five icons: a light bulb, a fluorescent tube, a discharge lamp, a flash tube and an LED. No people.",
+   "narration": "五类光源，原理各不相同。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "热浪、闪电、紫色射线三个警示图标",
+   "prompt_en": "Three warning icons: heat lines, a lightning bolt and violet rays. No people.",
+   "narration": "高温、高压、紫外，是它们的隐患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "放大镜聚焦到眼底的图标",
+   "prompt_en": "An icon of a lens focusing light into a tiny bright dot at the back of an eye. No people.",
+   "narration": "眼睛会聚光，杂散光束最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、面罩、手套三个打勾图标",
+   "prompt_en": "Three icons with green checks: goggles, a face shield and gloves. No people.",
+   "narration": "眼睛皮肤都要护，出了事先报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣戴着护目镜挥手道别",
+   "prompt_en": "The panda mascot wears safety goggles and waves goodbye at the camera beside a tidy optical table.",
+   "narration": "认识光，善用光，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

@@ -1,0 +1,1516 @@
+{
+ "id": "07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea",
+ "edition": "国内版",
+ "series": "Health Physics & Nuclear Medicine",
+ "title": "辐射为什么伤人，又怎样治病（国内版）",
+ "seconds": 565,
+ "source_doc": "course/Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea.md",
+ "author_source": "project/Health Physics & Nuclear Medicine/07_Health Physics Lecture A Radiation Dosimetry & Biological Effects Applied Nuclea（国内版）/src.py",
+ "points": {
+  "K1": "健康物理：辐射有害也有益",
+  "K2": "剂量学：先懂剂量，再学测量",
+  "K3": "应用核物理：物理加生物",
+  "K4": "灯光照人为什么不伤人",
+  "K5": "断一个键，细胞就出问题",
+  "K6": "化学看断键，物理看电离",
+  "K7": "α、β、γ都能断键电离",
+  "K8": "细胞里的分子五花八门",
+  "K9": "思想实验：γ源照细胞",
+  "K10": "哪种辐射对哪个器官更有害",
+  "K11": "局部断键，可累及全身",
+  "K12": "辐射治病：只打坏细胞",
+  "K13": "两种办法：止增殖或杀死",
+  "K14": "按病选射线种类",
+  "K15": "健康物理要回答的问题",
+  "S1": "核医学工作场所分区与通道",
+  "S2": "放射性药物分装的防护",
+  "S3": "给药前核对：人、药、活度",
+  "S4": "注射后患者的防护与告知",
+  "S5": "放射性废物衰变贮存",
+  "S6": "防护衣和药片不是万能的"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个发光细胞模型和一支带屏蔽套的注射器图标之间，向镜头招手",
+   "prompt_en": "The panda mascot stands between a large glowing cell model and a big icon of a syringe inside a shielded sleeve, and waves at the camera.",
+   "narration": "这一课：辐射为什么伤人，又怎样治病。",
+   "overlay": [
+    "辐射为什么伤人，又怎样治病"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "左边破裂细胞图标，右边带绿勾的靶心图标",
+   "prompt_en": "A cracked cell icon on the left and a target icon with a green check mark on the right, joined by an arrow. No people.",
+   "narration": "先看伤害从哪来，再看怎样用好它。",
+   "overlay": [],
+   "labels": [
+    "伤害",
+    "治疗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "核医学实验室里，阿杰看着托盘上一个小铅罐，伸手要去拿",
+   "prompt_en": "In a nuclear medicine lab, the young male student looks at a small lead container on a tray lined with absorbent paper and reaches out with a bare hand.",
+   "narration": "阿杰第一次到核医学实验室帮忙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰指着天花板上的灯，耸耸肩",
+   "prompt_en": "The young male student points up at the ceiling lights and shrugs casually.",
+   "narration": "他想：灯光天天照我，也没事呀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴着手套和剂量计走来，伸手拦住他",
+   "prompt_en": "The female graduate student, wearing gloves and a dosimeter badge, walks over and raises a hand to stop him.",
+   "narration": "小研拦住他：这可不是普通的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头，头顶冒出问号",
+   "prompt_en": "The young male student scratches his head with a question mark floating above him.",
+   "narration": "阿杰糊涂了：都是能量，差在哪？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣站在空白黑板前竖起一根手指",
+   "prompt_en": "The panda mascot stands in front of a blank chalkboard and raises one finger.",
+   "narration": "我们从健康物理讲起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "健康物理：辐射有害也有益",
+   "scene": "一颗心形图标和一个原子图标用加号连在一起",
+   "prompt_en": "A heart icon and an atom icon joined by a plus sign. No people.",
+   "narration": "健康物理，研究辐射怎样影响健康。",
+   "overlay": [
+    "健康物理：辐射有害也有益"
+   ],
+   "labels": [
+    "健康",
+    "物理"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "健康物理：辐射有害也有益",
+   "scene": "天平一端是破裂细胞图标，另一端是医院图标",
+   "prompt_en": "A balance scale with a cracked cell icon on one pan and a hospital icon on the other pan. No people.",
+   "narration": "辐射不全是坏事，用好了能治病。",
+   "overlay": [],
+   "labels": [
+    "有害",
+    "有益"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "健康物理：辐射有害也有益",
+   "scene": "阿杰和小研在空白黑板前听讲",
+   "prompt_en": "The young male student and the female graduate student sit at desks facing a blank chalkboard, listening attentively.",
+   "narration": "所以既要会防护，也要会利用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量学：先懂剂量，再学测量",
+   "scene": "一碗米饭放在厨房秤上，旁边是一堆数不清的小块",
+   "prompt_en": "A bowl of rice sits on a kitchen scale with a blank display, next to a messy pile of small food pieces. No people.",
+   "narration": "吃了多少，说几块不准，要称重。",
+   "overlay": [
+    "剂量学：先懂剂量，再学测量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量学：先懂剂量，再学测量",
+   "scene": "一束射线照向一个人形图标，人形旁是一个问号刻度表",
+   "prompt_en": "A beam of small arrows shines on a human outline icon, beside a blank gauge dial with a question mark. No people.",
+   "narration": "受了多少辐射，也要有个量度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量学：先懂剂量，再学测量",
+   "scene": "两个台阶图标：先是放大镜，再是仪表",
+   "prompt_en": "Two step icons: the first step holds a magnifying glass, the second step holds a meter with a blank dial. No people.",
+   "narration": "剂量学：先弄清剂量是什么。",
+   "overlay": [],
+   "labels": [
+    "什么是剂量",
+    "怎样测量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量学：先懂剂量，再学测量",
+   "scene": "小研拿着一个空白表盘的仪器演示",
+   "prompt_en": "The female graduate student holds up a handheld meter with a blank dial and shows it to the young male student.",
+   "narration": "再学怎样用仪器把它测出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "应用核物理：物理加生物",
+   "scene": "一棵树的树干是原子图标，分出三根树枝",
+   "prompt_en": "A tree whose trunk is an atom icon, splitting into three branches ending in a particle ring icon, a power plant icon and a hospital icon. No people.",
+   "narration": "核物理有很多应用。",
+   "overlay": [
+    "应用核物理：物理加生物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "应用核物理：物理加生物",
+   "scene": "加速器环形图标和反应堆图标各打绿勾",
+   "prompt_en": "A ring-shaped particle accelerator icon and a reactor building icon, each with a green check mark. No people.",
+   "narration": "加速器、反应堆，都是核物理的应用。",
+   "overlay": [],
+   "labels": [
+    "加速器",
+    "反应堆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "应用核物理：物理加生物",
+   "scene": "原子图标和细胞图标握手",
+   "prompt_en": "A cartoon atom icon and a cartoon cell icon shake hands. No people.",
+   "narration": "健康物理，让物理和生物握手。",
+   "overlay": [],
+   "labels": [
+    "物理",
+    "生物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "应用核物理：物理加生物",
+   "scene": "一排空白的尺子、秤和表盘图标",
+   "prompt_en": "A row of measuring icons: a ruler, a scale and a gauge dial, all blank. No people.",
+   "narration": "第一步，先学各种测量量和单位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灯光照人为什么不伤人",
+   "scene": "天花板灯光照在阿杰身上，光线从他身上反射到小研眼里",
+   "prompt_en": "Light from ceiling lamps falls on the young male student and bounces off him toward the eyes of the female graduate student.",
+   "narration": "你看得见我，是因为灯光照到我身上。",
+   "overlay": [
+    "灯光照人为什么不伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灯光照人为什么不伤人",
+   "scene": "光线一部分被皮肤吸收，一部分四散反射",
+   "prompt_en": "Close-up diagram of skin: some light rays sink into the surface, others scatter back in many directions. No people.",
+   "narration": "一部分光被吸收，其余散射进你眼里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灯光照人为什么不伤人",
+   "scene": "放大镜下皮肤细胞里的小分子轻轻摇晃",
+   "prompt_en": "Under a magnifying glass, tiny ball-and-stick molecules inside a skin cell jiggle gently. No people.",
+   "narration": "被吸收的可见光，只让分子晃一晃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灯光照人为什么不伤人",
+   "scene": "一只手轻拍手臂，旁边一个绿勾",
+   "prompt_en": "A hand gently pats a forearm, with a green check mark beside it. No people.",
+   "narration": "就像轻拍皮肤，细胞完全承受得住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "灯光照人为什么不伤人",
+   "scene": "小光点撞到原子，电子纹丝不动",
+   "prompt_en": "A small soft light dot bumps into an atom, and the electron on its orbit stays in place. No people.",
+   "narration": "它能量太小，打不出电子。",
+   "overlay": [],
+   "labels": [
+    "打不出电子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "断一个键，细胞就出问题",
+   "scene": "细胞剖面里塞满许多球棍分子",
+   "prompt_en": "A cell cross-section packed with many ball-and-stick molecules. No people.",
+   "narration": "细胞由大量分子组成。",
+   "overlay": [
+    "断一个键，细胞就出问题"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "断一个键，细胞就出问题",
+   "scene": "一条长长的原子链，原子之间用小棍相连",
+   "prompt_en": "A long chain of atoms connected by small sticks, like a beaded necklace. No people.",
+   "narration": "分子是原子用化学键连起来的链。",
+   "overlay": [],
+   "labels": [
+    "化学键"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "断一个键，细胞就出问题",
+   "scene": "长链上一根小棍啪地断开",
+   "prompt_en": "One small stick in the long atom chain snaps apart with a tiny spark. No people.",
+   "narration": "一个大分子，哪怕只断一个键……",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "断一个键，细胞就出问题",
+   "scene": "细胞里的齿轮卡住冒烟",
+   "prompt_en": "Inside a cartoon cell, a set of small gears jams and gives off a puff of smoke. No people.",
+   "narration": "细胞的运转就会受影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "断一个键，细胞就出问题",
+   "scene": "细胞图标边缘出现裂纹",
+   "prompt_en": "A round cell icon with cracks appearing along its edge. No people.",
+   "narration": "这就是细胞损伤的开始。",
+   "overlay": [],
+   "labels": [
+    "细胞损伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学看断键，物理看电离",
+   "scene": "左边断开的小棍，右边飞出的电子，中间等号",
+   "prompt_en": "On the left a snapped stick between two atoms, on the right an electron flying off an atom, with an equals sign between them. No people.",
+   "narration": "同一件事，有两种说法。",
+   "overlay": [
+    "化学看断键，物理看电离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学看断键，物理看电离",
+   "scene": "化学烧瓶图标指向断开的小棍",
+   "prompt_en": "A chemistry flask icon pointing to a snapped stick between two atoms. No people.",
+   "narration": "化学上，叫断键。",
+   "overlay": [],
+   "labels": [
+    "断键"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学看断键，物理看电离",
+   "scene": "原子图标的一个电子被弹出轨道飞走",
+   "prompt_en": "An atom icon with one electron knocked off its orbit and flying away. No people.",
+   "narration": "物理上，叫电离：电子被打出去。",
+   "overlay": [],
+   "labels": [
+    "电离"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学看断键，物理看电离",
+   "scene": "失去电子的原子松开了旁边的小棍",
+   "prompt_en": "The atom that lost its electron loosens its grip on the stick connecting it to its neighbor. No people.",
+   "narration": "少了电子，化学键也跟着变了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "α、β、γ都能断键电离",
+   "scene": "α、β、γ三个射线图标飞向原子链",
+   "prompt_en": "Three ray icons, a heavy ball, a small fast dot and a wavy line, fly toward an atom chain. No people.",
+   "narration": "α、β、γ这些电离辐射，",
+   "overlay": [
+    "α、β、γ都能断键电离"
+   ],
+   "labels": [
+    "α",
+    "β",
+    "γ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "α、β、γ都能断键电离",
+   "scene": "原子链多处断开，电子四散",
+   "prompt_en": "The atom chain breaks at several points and electrons scatter away. No people.",
+   "narration": "都能打出电子、打断化学键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "α、β、γ都能断键电离",
+   "scene": "欣欣指着断开的链",
+   "prompt_en": "The panda mascot points at a broken atom chain model on a table.",
+   "narration": "所以要研究辐射对细胞的影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "细胞里的分子五花八门",
+   "scene": "一个细胞剖面：外层膜、中间细胞核、周围小细胞器",
+   "prompt_en": "A cutaway cartoon of a human cell: an outer membrane, a nucleus in the middle and small organelles floating around. No people.",
+   "narration": "细胞有膜，有核，有各种细胞器。",
+   "overlay": [
+    "细胞里的分子五花八门"
+   ],
+   "labels": [
+    "细胞膜",
+    "细胞核",
+    "细胞器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "细胞里的分子五花八门",
+   "scene": "植物细胞的方形硬壳图标被红叉，旁边圆形人体细胞打绿勾",
+   "prompt_en": "A boxy plant cell icon with a rigid wall crossed out with a red X, next to a round soft animal cell icon with a green check mark. No people.",
+   "narration": "人体细胞没有细胞壁，只有细胞膜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "细胞里的分子五花八门",
+   "scene": "细胞里漂着形状、颜色各不相同的分子",
+   "prompt_en": "Inside a cell, molecules of many different shapes and colors float around. No people.",
+   "narration": "细胞里的分子，有很多种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "思想实验：γ源照细胞",
+   "scene": "一个带电离辐射警告标志的小铅罐放在细胞培养皿旁",
+   "prompt_en": "A small lead container with an ionizing radiation warning sign sits next to a petri dish of cells on a lab bench. No people.",
+   "narration": "做个思想实验：把γ源放到细胞旁。",
+   "overlay": [
+    "思想实验：γ源照细胞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "思想实验：γ源照细胞",
+   "scene": "波浪线射线穿过培养皿",
+   "prompt_en": "Wavy lines pass from the container through the petri dish. No people.",
+   "narration": "γ射线穿过细胞样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "思想实验：γ源照细胞",
+   "scene": "老周和小研隔着屏蔽观察，手拿空白记录本",
+   "prompt_en": "The older man and the female graduate student watch from behind a transparent shield, holding a blank notebook.",
+   "narration": "会发生什么？这正是健康物理的问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "思想实验：γ源照细胞",
+   "scene": "被红叉划掉的“手伸向源”图标",
+   "prompt_en": "An icon of a bare hand reaching toward a source container, crossed out with a red X. No people.",
+   "narration": "真实操作要按规程，有屏蔽和监测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "一个四乘四方格，每格一种不同形状的分子",
+   "prompt_en": "A four-by-four grid, each cell holding a differently shaped molecule icon. No people.",
+   "narration": "把细胞想成由十六种分子组成。",
+   "overlay": [
+    "哪种辐射对哪个器官更有害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "方格中两格闪光",
+   "prompt_en": "Two squares in the grid glow brightly while the rest stay dim. No people.",
+   "narration": "受照后，有的分子受伤更重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "人体轮廓里几个器官亮度不同",
+   "prompt_en": "A human body outline with several organs glowing at different brightness levels. No people.",
+   "narration": "人体也一样，器官受影响各不相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "同样光照下的两个器官图标，一个出现裂纹，一个平静",
+   "prompt_en": "Two organ icons under the same beam of light: both receive the same amount, but one frowns with a small crack while the other stays calm. No people.",
+   "narration": "外照射时吸收差不多，差在敏感程度。",
+   "overlay": [],
+   "labels": [
+    "敏感程度不同"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "人体轮廓中甲状腺位置聚集许多小光点",
+   "prompt_en": "A human neck outline with many small glowing dots gathering at the thyroid gland location. No people.",
+   "narration": "进入体内后，有的核素会聚集在器官。",
+   "overlay": [],
+   "labels": [
+    "核素聚集"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪种辐射对哪个器官更有害",
+   "scene": "小研对照一张空白图表，把射线图标和器官图标连线",
+   "prompt_en": "The female graduate student draws lines on a blank chart connecting ray icons to organ icons.",
+   "narration": "弄清哪种辐射伤哪里，才能防得准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "局部断键，可累及全身",
+   "scene": "第一块多米诺骨牌倒下，后面一排接连倒下",
+   "prompt_en": "The first domino tips over and a long row of dominoes falls one after another. No people.",
+   "narration": "断键是一种化学变化，会连锁传开。",
+   "overlay": [
+    "局部断键，可累及全身"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "局部断键，可累及全身",
+   "scene": "细胞图标、组织图标、器官图标依次变暗",
+   "prompt_en": "A cell icon, a tissue icon and an organ icon dim one after another along an arrow. No people.",
+   "narration": "细胞坏了，组织和器官跟着受损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "局部断键，可累及全身",
+   "scene": "人体轮廓多个器官同时亮红灯",
+   "prompt_en": "A human body outline with red warning lights on several organs at once. No people.",
+   "narration": "大剂量照射，可能伤及全身多个器官。",
+   "overlay": [],
+   "labels": [
+    "大剂量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "局部断键，可累及全身",
+   "scene": "受照人员图标旁的普通人打绿勾",
+   "prompt_en": "An icon of an exposed person standing next to an ordinary person, with a green check mark between them. No people.",
+   "narration": "注意：只受外照射，人不会带上放射性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "局部断键，可累及全身",
+   "scene": "欣欣表情认真",
+   "prompt_en": "The panda mascot looks serious and nods slowly.",
+   "narration": "所以，辐射剂量必须认真对待。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "辐射治病：只打坏细胞",
+   "scene": "一群笑脸好细胞中夹着几个皱眉坏细胞",
+   "prompt_en": "A crowd of smiling healthy cell icons with a few frowning dark tumor cell icons among them. No people.",
+   "narration": "辐射也能治病，比如对付癌细胞。",
+   "overlay": [
+    "辐射治病：只打坏细胞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "辐射治病：只打坏细胞",
+   "scene": "射线击中坏细胞，坏细胞裂开",
+   "prompt_en": "A narrow beam hits a dark tumor cell and the tumor cell cracks apart. No people.",
+   "narration": "打断癌细胞的化学键，让它死亡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "辐射治病：只打坏细胞",
+   "scene": "坏细胞紧挨着好细胞",
+   "prompt_en": "Dark tumor cells pressed tightly against smiling healthy cells. No people.",
+   "narration": "可癌细胞和健康细胞挨在一起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "辐射治病：只打坏细胞",
+   "scene": "靶心图标对准坏细胞，好细胞上有盾牌",
+   "prompt_en": "A target reticle centered on the tumor cells while the healthy cells around them are covered by small shields. No people.",
+   "narration": "治疗要只打坏细胞，少伤好细胞。",
+   "overlay": [],
+   "labels": [
+    "打准",
+    "少伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "两种办法：止增殖或杀死",
+   "scene": "一个细胞分成两个，两个分成四个，四个分成八个",
+   "prompt_en": "One cell splits into two, two into four, four into eight, in a growing tree diagram. No people.",
+   "narration": "癌细胞会不断分裂，越长越多。",
+   "overlay": [
+    "两种办法：止增殖或杀死"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "两种办法：止增殖或杀死",
+   "scene": "分裂箭头被红色停止标记拦住",
+   "prompt_en": "The splitting arrows of the cell tree are blocked by a red stop marker. No people.",
+   "narration": "办法一：让它停止分裂，肿瘤不再长。",
+   "overlay": [],
+   "labels": [
+    "止增殖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "两种办法：止增殖或杀死",
+   "scene": "坏细胞化成小光点消失",
+   "prompt_en": "A dark tumor cell dissolves into small sparkles and disappears. No people.",
+   "narration": "办法二：直接把它杀死。",
+   "overlay": [],
+   "labels": [
+    "杀死"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按病选射线种类",
+   "scene": "α、β射线图标排在药瓶图标旁",
+   "prompt_en": "A heavy ball ray icon and a small fast dot ray icon placed next to a blank medicine vial icon. No people.",
+   "narration": "治疗会用不同种类的射线。",
+   "overlay": [
+    "按病选射线种类"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按病选射线种类",
+   "scene": "短箭头和长箭头对比：α只走很短，β走得远",
+   "prompt_en": "A comparison of two arrows from a source: a very short thick arrow and a longer thin arrow. No people.",
+   "narration": "α射程极短，β射程较长。",
+   "overlay": [],
+   "labels": [
+    "α：极短",
+    "β：较长"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按病选射线种类",
+   "scene": "钥匙形状的小药分子插进坏细胞上的锁孔",
+   "prompt_en": "A key-shaped drug molecule carrying a small glowing dot fits into a lock on the surface of a tumor cell. No people.",
+   "narration": "靠药物把核素送到病灶，像钥匙配锁。",
+   "overlay": [],
+   "labels": [
+    "靶向"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按病选射线种类",
+   "scene": "红叉划掉一个“细胞爱吃”的餐盘图标",
+   "prompt_en": "A dinner plate icon with a fork beside a cell, crossed out with a red X. No people.",
+   "narration": "不是细胞挑食，而是送得准、射程合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "按病选射线种类",
+   "scene": "老周和小研对着空白方案表讨论",
+   "prompt_en": "The older man and the female graduate student discuss over a blank planning sheet with ray and organ icons.",
+   "narration": "选哪种射线，由医生和物理师评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "健康物理要回答的问题",
+   "scene": "一张清单图标，前几项打勾",
+   "prompt_en": "A clipboard icon with a blank checklist; the first few lines get check marks one by one. No people.",
+   "narration": "健康物理要回答一串问题。",
+   "overlay": [
+    "健康物理要回答的问题"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "健康物理要回答的问题",
+   "scene": "器官图标和射线图标并排",
+   "prompt_en": "Organ icons and ray icons lined up side by side with question marks between them. No people.",
+   "narration": "哪个器官？哪种辐射？",
+   "overlay": [],
+   "labels": [
+    "哪个器官",
+    "哪种辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "健康物理要回答的问题",
+   "scene": "一个空白刻度的量杯和一个效果图标",
+   "prompt_en": "A measuring cup with blank markings next to a cell effect icon. No people.",
+   "narration": "受多少剂量，会出现什么效应？",
+   "overlay": [],
+   "labels": [
+    "多少剂量",
+    "什么效应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "健康物理要回答的问题",
+   "scene": "DNA双螺旋上出现缺口",
+   "prompt_en": "A DNA double helix with a small notch broken out of it. No people.",
+   "narration": "还有分子破坏带来的DNA变化。",
+   "overlay": [],
+   "labels": [
+    "DNA变化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "健康物理要回答的问题",
+   "scene": "欣欣站在核医学科大门前，门上有电离辐射警告标志",
+   "prompt_en": "The panda mascot stands at the entrance of a nuclear medicine department with an ionizing radiation warning sign on the door.",
+   "narration": "下面看核医学工作中怎样做好防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "核医学场所平面图图标，分成三种颜色的区域",
+   "prompt_en": "A floor plan icon of a nuclear medicine facility divided into three colored zones. No people.",
+   "narration": "核医学场所，要按风险分区管理。",
+   "overlay": [
+    "核医学工作场所分区与通道"
+   ],
+   "labels": [
+    "控制区",
+    "监督区",
+    "非限制区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "门上贴电离辐射警告标志，门口有空白告示牌",
+   "prompt_en": "A door with an ionizing radiation warning sign and a blank notice board beside it. No people.",
+   "narration": "控制区入口有警告标志，无关人员勿入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "平面图上两条不交叉的箭头：一条给工作人员，一条给患者",
+   "prompt_en": "On the floor plan, two arrows that never cross: one path for staff and one path for patients. No people.",
+   "narration": "工作人员和患者，走各自的通道。",
+   "overlay": [],
+   "labels": [
+    "工作人员通道",
+    "患者通道"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "平面图上药物箭头从储存间单向流到注射室",
+   "prompt_en": "On the floor plan, a one-way arrow carries a small vial icon from the storage room to the injection room. No people.",
+   "narration": "药物和废物按单向路线走，不走回头路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "小研在出口用巡测仪检查手和鞋",
+   "prompt_en": "At the exit of the controlled area, the female graduate student checks her hands and shoe covers with a handheld survey meter.",
+   "narration": "离开控制区，先测手和鞋有无污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "核医学工作场所分区与通道",
+   "scene": "封面有电离辐射警告标志的文件夹图标",
+   "prompt_en": "A closed binder icon with an ionizing radiation warning sign on its cover. No people.",
+   "narration": "具体分区要求，以现行标准和学校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "小研在带屏蔽的分装柜前，戴双层手套和防护眼镜",
+   "prompt_en": "The female graduate student works at a shielded dispensing cabinet, wearing double gloves, safety glasses and a dosimeter badge.",
+   "narration": "分装放射性药物，要在专用分装柜里。",
+   "overlay": [
+    "放射性药物分装的防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "注射器装进屏蔽套，药瓶放在铅罐里",
+   "prompt_en": "A syringe slides into a shielded syringe sleeve, and a vial sits inside a small lead container. No people.",
+   "narration": "药瓶放铅罐，注射器套上屏蔽套。",
+   "overlay": [],
+   "labels": [
+    "铅罐",
+    "屏蔽套"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "托盘里铺着吸水纸，长柄镊子夹着小瓶",
+   "prompt_en": "A tray lined with absorbent paper, and long tongs holding a small vial. No people.",
+   "narration": "托盘铺吸水纸，用长柄工具夹取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "被红叉划掉的“徒手拿药瓶”图标",
+   "prompt_en": "An icon of a bare hand holding a vial, crossed out with a red X. No people.",
+   "narration": "不能徒手拿药瓶，也不能用嘴吸移液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "被红叉划掉的水杯和饼干图标放在实验台上",
+   "prompt_en": "A cup and a cookie icon on a lab bench, crossed out with a red X. No people.",
+   "narration": "工作区不吃不喝，不化妆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "放射性药物分装的防护",
+   "scene": "小研做完后用巡测仪测台面和手套",
+   "prompt_en": "After finishing, the female graduate student checks the bench surface and her gloves with a handheld survey meter.",
+   "narration": "做完测台面和手套，再脱手套洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "老周手拿空白表单，对照患者腕带图标",
+   "prompt_en": "The older man holds a blank form and compares it with a large blank wristband icon on a stand.",
+   "narration": "给药前先核对：是不是这位患者。",
+   "overlay": [
+    "给药前核对：人、药、活度"
+   ],
+   "labels": [
+    "核对患者"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "药瓶空白标签与空白处方单并排对照",
+   "prompt_en": "A vial with a blank label placed side by side with a blank prescription form, with an arrow between them. No people.",
+   "narration": "是不是这种药。",
+   "overlay": [],
+   "labels": [
+    "核对药物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "注射器放进活度计井里，表盘空白",
+   "prompt_en": "A shielded syringe is lowered into the well of a radioactivity calibrator with a blank display. No people.",
+   "narration": "用活度计测量，活度对不对。",
+   "overlay": [],
+   "labels": [
+    "核对活度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "两个人图标一起签字",
+   "prompt_en": "Two staff member icons signing a blank record form together. No people.",
+   "narration": "双人核对，签字记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "电话图标和登记本，旁边警示三角",
+   "prompt_en": "A telephone icon and a blank logbook with a warning triangle beside them. No people.",
+   "narration": "给错药或给错量，立即报告，不能隐瞒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "专用候诊区：椅子间隔较远，一个患者图标坐着",
+   "prompt_en": "A dedicated waiting area with widely spaced chairs, one chair holding a simple seated patient pictogram, and an ionizing radiation warning sign on the wall. No people.",
+   "narration": "注射后的患者，身上带着放射性。",
+   "overlay": [
+    "注射后患者的防护与告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "患者体内发光，周围有淡淡的光圈",
+   "prompt_en": "A patient outline with a soft glow inside the body and a faint halo around it. No people.",
+   "narration": "要在专用候诊区等候，不随意走动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "专用卫生间门上有电离辐射警告标志",
+   "prompt_en": "A dedicated restroom door with an ionizing radiation warning sign on it. No people.",
+   "narration": "使用专用卫生间，便后多冲水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "小研举起一张空白告知单讲解，旁边是患者图标立牌",
+   "prompt_en": "The female graduate student holds up a blank instruction sheet and explains it with a friendly gesture, next to a standee showing a simple patient pictogram.",
+   "narration": "工作人员要书面告知注意事项。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "患者图标与孕妇、婴儿图标之间有距离箭头",
+   "prompt_en": "A patient icon separated from a pregnant woman icon and a baby icon by a long distance arrow. No people.",
+   "narration": "近期少接触孕妇和儿童，时长遵医嘱。",
+   "overlay": [],
+   "labels": [
+    "遵医嘱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "孕妇图标和哺乳图标旁有举手图标",
+   "prompt_en": "A pregnant woman icon and a breastfeeding icon with a raised hand icon beside them. No people.",
+   "narration": "怀孕或哺乳，检查前务必先告诉医生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "注射后患者的防护与告知",
+   "scene": "工作人员图标与患者图标之间有距离箭头和时钟",
+   "prompt_en": "A staff member pictogram and a patient pictogram separated by a distance arrow, with a small clock icon above. No people.",
+   "narration": "工作人员也要保持距离，减少停留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "带电离辐射警告标志的专用废物桶，分成几格",
+   "prompt_en": "Dedicated waste bins with ionizing radiation warning signs, divided into several compartments. No people.",
+   "narration": "放射性废物，按核素和类别分开收集。",
+   "overlay": [
+    "放射性废物衰变贮存"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "废物袋贴上空白标签，旁边一个日历图标",
+   "prompt_en": "A waste bag gets a blank label, next to a calendar icon. No people.",
+   "narration": "贴标签，写明核素和日期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "废物袋放进上锁的衰变贮存柜，旁边沙漏",
+   "prompt_en": "A labeled waste bag is placed into a locked decay storage cabinet, with an hourglass icon beside it. No people.",
+   "narration": "放进专用贮存间，等它自然衰变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "沙漏里的光点越来越少",
+   "prompt_en": "Inside an hourglass, the glowing dots become fewer and fewer. No people.",
+   "narration": "半衰期短，衰变快；半衰期长，存得久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "老李用巡测仪测废物袋，空白表盘旁打绿勾",
+   "prompt_en": "The facility engineer checks a waste bag with a handheld survey meter with a blank dial, and a green check mark appears.",
+   "narration": "到期要监测，达标并记录后才能处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "普通垃圾桶和水槽各被红叉",
+   "prompt_en": "An ordinary trash bin and a sink, each crossed out with a red X. No people.",
+   "narration": "不能混进普通垃圾，不能倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "放射性废物衰变贮存",
+   "scene": "带电离辐射警告标志的文件夹图标",
+   "prompt_en": "A closed binder icon with an ionizing radiation warning sign on its cover. No people.",
+   "narration": "贮存时间和标准，以现行规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "防护衣和药片不是万能的",
+   "scene": "一件铅衣挂在架子上，粗波浪线穿过它",
+   "prompt_en": "A lead apron hangs on a rack while a thick wavy ray line passes straight through it. No people.",
+   "narration": "铅衣只能减弱散射线，挡不住强γ。",
+   "overlay": [
+    "防护衣和药片不是万能的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "防护衣和药片不是万能的",
+   "scene": "时钟、尺子、砖墙三个图标打绿勾",
+   "prompt_en": "Three icons with green check marks: a clock, a ruler and a brick wall. No people.",
+   "narration": "防护主要靠时间、距离和屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "防护衣和药片不是万能的",
+   "scene": "被红叉划掉的“防辐射”药瓶图标",
+   "prompt_en": "A blank pill bottle icon with a radiation-shaped pill, crossed out with a red X. No people.",
+   "narration": "没有吃了就能防辐射的药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "防护衣和药片不是万能的",
+   "scene": "碘片药盒放在上锁柜里，旁边扩音喇叭图标",
+   "prompt_en": "A blank tablet box stored in a locked cabinet, next to a loudspeaker icon. No people.",
+   "narration": "碘片只在应急时按政府指令服用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "防护衣和药片不是万能的",
+   "scene": "被红叉划掉的“自己吃药”图标",
+   "prompt_en": "An icon of a person swallowing a pill from a blank bottle, crossed out with a red X. No people.",
+   "narration": "不要自行服药，有疑问问医生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现细胞和断开的链",
+   "prompt_en": "The panda mascot stands beside a floating cell icon and a snapped atom chain icon.",
+   "narration": "辐射伤人，是因为断键和电离。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "灯泡打勾，射线图标打警示",
+   "prompt_en": "A light bulb icon with a green check mark next to a ray icon with a warning triangle. No people.",
+   "narration": "可见光能量小，电离辐射才伤细胞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "器官图标亮度不同",
+   "prompt_en": "Several organ icons glowing at different brightness levels. No people.",
+   "narration": "各器官敏感程度不同，内照射会聚集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "钥匙配锁和靶心图标",
+   "prompt_en": "A key-and-lock icon next to a target reticle icon. No people.",
+   "narration": "治病要打准坏细胞，少伤好细胞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "分区平面图、屏蔽套和核对清单图标",
+   "prompt_en": "Icons of a zoned floor plan, a shielded syringe sleeve and a checklist. No people.",
+   "narration": "分区走通道，分装有屏蔽，给药要核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "专用候诊区和衰变贮存柜图标",
+   "prompt_en": "Icons of a dedicated waiting area and a locked decay storage cabinet. No people.",
+   "narration": "患者要告知，废物要衰变贮存。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在核医学科门口挥手道别，身旁发光细胞模型",
+   "prompt_en": "The panda mascot waves goodbye at the camera at the entrance of a nuclear medicine department, beside a glowing cell model.",
+   "narration": "懂原理、守规矩，安全用辐射！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

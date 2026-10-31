@@ -1,0 +1,1315 @@
+{
+ "id": "08_Titration of Strong Acid With Strong Base",
+ "edition": "国内版",
+ "series": "Fume Hood & Cabinet Protocols",
+ "title": "强酸强碱滴定（国内版）",
+ "seconds": 480,
+ "source_doc": "course/Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base.md",
+ "author_source": "project/Fume Hood & Cabinet Protocols/08_Titration of Strong Acid With Strong Base（国内版）/src.py",
+ "points": {
+  "K1": "回顾酸碱与滴定",
+  "K2": "滴定：用已知测未知",
+  "K3": "一比一的中和反应",
+  "K4": "等当点",
+  "K5": "本课重在动手操作",
+  "K6": "强酸强碱：等当点呈中性",
+  "K7": "用指示剂看终点",
+  "K8": "酚酞：持久的粉红",
+  "K9": "滴定流程一览",
+  "K10": "滴定需要哪些器材",
+  "K11": "滴定管装碱，锥形瓶装酸",
+  "K12": "先用水试漏",
+  "K13": "试通旋塞，放空关好",
+  "K14": "装碱戴好护目镜和手套",
+  "K15": "记录初读数",
+  "K16": "量取酸，加指示剂",
+  "K17": "粗滴：快速估计",
+  "K18": "粗滴读数只作参考",
+  "K19": "精滴：先快后慢",
+  "K20": "半毫升到一滴，摇匀看色",
+  "K21": "接近终点格外小心",
+  "K22": "计算酸的浓度",
+  "K23": "平行三次取平均",
+  "K24": "更复杂的滴定",
+  "K25": "打好滴定的基础",
+  "S1": "灌装不过头顶，不站凳子",
+  "S2": "灌完取下漏斗",
+  "S3": "稀释浓酸：通风柜、酸入水",
+  "S4": "酸碱分开存放",
+  "S5": "台面溅洒的处理",
+  "S6": "溅到人身上：冲洗与报告",
+  "S7": "用后及时清洗滴定管",
+  "S8": "滴定废液的处置"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在滴定装置旁，锥形瓶里是浅粉红溶液，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a burette on a ring stand with a flask of pale pink solution below and waves at the camera.",
+   "narration": "这一课，我们来做强酸强碱滴定。",
+   "overlay": [
+    "强酸强碱滴定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "滴定管、锥形瓶、指示剂滴瓶、计算器四个图标排成一行",
+   "prompt_en": "Four icons in a row: a burette, an Erlenmeyer flask, a small dropper bottle and a calculator. No people.",
+   "narration": "装好、读准、滴准、算准。",
+   "overlay": [],
+   "labels": [
+    "装好",
+    "读准",
+    "滴准",
+    "算准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰站在凳子上，举着瓶子往高高的滴定管里倒液体",
+   "prompt_en": "The young male student stands on a stool and lifts a bottle above his head to pour liquid into a tall burette.",
+   "narration": "阿杰站上凳子，举着碱液往上倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研赶紧扶住凳子，示意他下来",
+   "prompt_en": "The female graduate student hurries over, steadies the stool and signals him to step down.",
+   "narration": "小研赶紧叫停：太危险了！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把滴定管从夹上取下，放低到胸前",
+   "prompt_en": "The female graduate student lowers the burette in its clamp to chest height below eye level.",
+   "narration": "把滴定管放低，在视线以下灌装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "滴定要准，更要安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "回顾酸碱与滴定",
+   "scene": "酸和碱两个图标，中间一个滴定管图标",
+   "prompt_en": "An acid bottle icon and a base bottle icon with a burette icon between them. No people.",
+   "narration": "先回顾一下酸碱和滴定。",
+   "overlay": [
+    "回顾酸碱与滴定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "滴定：用已知测未知",
+   "scene": "滴定管标已知、锥形瓶标未知的示意图",
+   "prompt_en": "A titration diagram: a burette marked with a green check above, and a flask marked with a question mark below. No people.",
+   "narration": "滴定是中和反应，用已知测未知。",
+   "overlay": [
+    "滴定：用已知测未知"
+   ],
+   "labels": [
+    "滴定剂：已知",
+    "被测物：未知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "滴定：用已知测未知",
+   "scene": "体积、物质的量、浓度三个图标用箭头相连",
+   "prompt_en": "Three icons linked by arrows: a volume scale, a pile of particles, and a concentration dial. No people.",
+   "narration": "由滴定剂用了多少，算出未知浓度。",
+   "overlay": [],
+   "labels": [
+    "体积",
+    "物质的量",
+    "浓度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一比一的中和反应",
+   "scene": "一个酸分子和一个碱分子相遇，生成盐和水",
+   "prompt_en": "One acid particle icon meets one base particle icon and they turn into a salt crystal icon and a water drop icon. No people.",
+   "narration": "盐酸和氢氧化钠，一比一反应。",
+   "overlay": [
+    "一比一的中和反应"
+   ],
+   "labels": [
+    "1 : 1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一比一的中和反应",
+   "scene": "天平两边分别是酸和碱的小球，数量相等",
+   "prompt_en": "A balance scale with equal numbers of acid balls and base balls on each side. No people.",
+   "narration": "加了多少碱，就知道原来有多少酸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "等当点",
+   "scene": "锥形瓶里酸和碱的小球正好配对完",
+   "prompt_en": "Inside a flask, every acid ball pairs with a base ball, leaving only salt and water icons. No people.",
+   "narration": "酸碱恰好中和的点，叫等当点。",
+   "overlay": [
+    "等当点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "等当点",
+   "scene": "滴定管尖一滴一滴落下",
+   "prompt_en": "Single drops fall slowly from the burette tip into the flask. No people.",
+   "narration": "要一点一点慢慢加，才能停在这里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "本课重在动手操作",
+   "scene": "计算器图标淡出，手和滴定管图标放大",
+   "prompt_en": "A calculator icon fades back while a hand turning a burette stopcock icon comes forward. No people.",
+   "narration": "计算课上讲过，这里重点练动手。",
+   "overlay": [
+    "本课重在动手操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "强酸强碱：等当点呈中性",
+   "scene": "pH 刻度条上指针停在中间",
+   "prompt_en": "A pH color scale bar with a pointer stopping exactly in the middle. No people.",
+   "narration": "强酸强碱恰好中和，溶液呈中性。",
+   "overlay": [
+    "强酸强碱：等当点呈中性"
+   ],
+   "labels": [
+    "pH 7"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "强酸强碱：等当点呈中性",
+   "scene": "盐和水两个图标",
+   "prompt_en": "A salt crystal icon and a water drop icon side by side. No people.",
+   "narration": "只剩盐和水，可以测pH判断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "用指示剂看终点",
+   "scene": "欣欣举着一只小滴瓶",
+   "prompt_en": "The panda mascot holds up a small brown dropper bottle with a blank label.",
+   "narration": "实验室里，更常用的是指示剂。",
+   "overlay": [
+    "用指示剂看终点"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "用指示剂看终点",
+   "scene": "无色溶液在终点变色的示意",
+   "prompt_en": "A flask icon whose clear liquid suddenly changes color, with a star burst. No people.",
+   "narration": "到了等当点，它会变颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酚酞：持久的粉红",
+   "scene": "锥形瓶从无色变成粉红",
+   "prompt_en": "A flask of clear solution turns bright pink. No people.",
+   "narration": "常用酚酞：酸性无色，碱性变粉红。",
+   "overlay": [
+    "酚酞：持久的粉红"
+   ],
+   "labels": [
+    "酸性：无色",
+    "碱性：粉红"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酚酞：持久的粉红",
+   "scene": "酸小球用完，多出的碱小球与指示剂小球结合变粉",
+   "prompt_en": "All acid balls are gone; one extra base ball meets an indicator ball, which turns pink. No people.",
+   "narration": "酸一用完，多出的碱就让酚酞变色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酚酞：持久的粉红",
+   "scene": "粉红溶液旁一个计时图标",
+   "prompt_en": "A flask of pink solution next to a clock icon with a green check. No people.",
+   "narration": "粉红一直不褪，就是到了终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "滴定流程一览",
+   "scene": "四步流程图标：酸加指示剂、碱滴定、变色、计算",
+   "prompt_en": "Four step icons with arrows: a flask with a drop, a burette dripping, a pink flask, and a calculator. No people.",
+   "narration": "酸加指示剂，用碱滴，变色再计算。",
+   "overlay": [
+    "滴定流程一览"
+   ],
+   "labels": [
+    "加指示剂",
+    "用碱滴",
+    "变色",
+    "计算"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "滴定流程一览",
+   "scene": "碱液瓶和一瓶未知酸",
+   "prompt_en": "A plastic base bottle and a glass acid bottle with a question mark, both with blank labels. No people.",
+   "narration": "这次用已知浓度的碱，测盐酸浓度。",
+   "overlay": [],
+   "labels": [
+    "0.1 mol/L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "滴定需要哪些器材",
+   "scene": "小研站在铁架台后，台上摆好器材",
+   "prompt_en": "The female graduate student in a lab coat, goggles and gloves stands behind a ring stand with a burette clamp and laid out equipment.",
+   "narration": "先把器材备齐。",
+   "overlay": [
+    "滴定需要哪些器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "滴定需要哪些器材",
+   "scene": "滴定管、锥形瓶、烧杯、漏斗特写",
+   "prompt_en": "Close-up of a burette, an Erlenmeyer flask, a small beaker and a glass funnel. No people.",
+   "narration": "滴定管、锥形瓶、烧杯、漏斗。",
+   "overlay": [],
+   "labels": [
+    "滴定管",
+    "锥形瓶",
+    "烧杯",
+    "漏斗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "滴定需要哪些器材",
+   "scene": "酸瓶、碱瓶、指示剂瓶、量筒特写",
+   "prompt_en": "Close-up of an acid bottle, a base bottle, an indicator dropper bottle and a graduated cylinder, all with blank labels. No people.",
+   "narration": "酸、碱、指示剂，还有量筒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "滴定管装碱，锥形瓶装酸",
+   "scene": "小研把洁净的滴定管夹到滴定管夹上",
+   "prompt_en": "The female graduate student clamps a clean burette into the burette clamp on the ring stand.",
+   "narration": "洁净的滴定管夹在铁架台上。",
+   "overlay": [
+    "滴定管装碱，锥形瓶装酸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "滴定管装碱，锥形瓶装酸",
+   "scene": "示意：滴定管里是碱，锥形瓶里是酸",
+   "prompt_en": "A diagram: the burette holds the base titrant and the flask below holds the acid analyte. No people.",
+   "narration": "管里装碱，下面锥形瓶里装酸。",
+   "overlay": [],
+   "labels": [
+    "碱：滴定剂",
+    "酸：被测物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先用水试漏",
+   "scene": "小研把滴定管放低，经漏斗加入清水",
+   "prompt_en": "The female graduate student, with the burette lowered below eye level, pours plain water in through a small funnel.",
+   "narration": "装碱之前，先用清水试一试。",
+   "overlay": [
+    "先用水试漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先用水试漏",
+   "scene": "旋塞处渗出水珠的图标",
+   "prompt_en": "A close-up icon of a stopcock with a small water drop leaking out and a magnifying glass. No people.",
+   "narration": "旋塞可能漏液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先用水试漏",
+   "scene": "碱液漏出、数字出错的图标被打叉",
+   "prompt_en": "An icon of base leaking from the stopcock next to a wrong result icon, crossed out with a red X. No people.",
+   "narration": "碱漏掉了，结果就算错了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "试通旋塞，放空关好",
+   "scene": "旋塞转到与管平行，水流顺畅流下",
+   "prompt_en": "The stopcock handle turns parallel to the burette and water flows freely out of the tip. No people.",
+   "narration": "不漏了，打开旋塞，看出水是否顺畅。",
+   "overlay": [
+    "试通旋塞，放空关好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "试通旋塞，放空关好",
+   "scene": "小研放空清水，关上旋塞",
+   "prompt_en": "The female graduate student drains all the water into a beaker and closes the stopcock.",
+   "narration": "确认通畅，放掉清水，关好旋塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "装碱戴好护目镜和手套",
+   "scene": "欣欣举着腐蚀性物质警示标志",
+   "prompt_en": "The panda mascot holds up a corrosive substance warning sign.",
+   "narration": "酸和碱都有腐蚀性。",
+   "overlay": [
+    "装碱戴好护目镜和手套"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "装碱戴好护目镜和手套",
+   "scene": "小研戴好护目镜和手套，在视线以下经漏斗倒入碱液",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, pours base from a small beaker through a funnel into the lowered burette below eye level.",
+   "narration": "戴好护目镜手套，经漏斗慢慢灌碱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "装碱戴好护目镜和手套",
+   "scene": "小研用少量碱液润洗滴定管后放出",
+   "prompt_en": "The female graduate student rinses the burette with a small amount of base, tilts and turns it, then drains it into a waste beaker.",
+   "narration": "先用少量碱液润洗，再正式装满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "装碱戴好护目镜和手套",
+   "scene": "滴定管尖嘴里的气泡被排出",
+   "prompt_en": "Close-up of the burette tip: a small air bubble is flushed out as liquid runs through. No people.",
+   "narration": "放出一点，排掉尖嘴里的气泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "记录初读数",
+   "scene": "眼睛与弯月面最低点平齐的示意",
+   "prompt_en": "A diagram of an eye level with the bottom of the meniscus in a burette, with a green check. No people.",
+   "narration": "平视弯月面最低点读数。",
+   "overlay": [
+    "记录初读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "记录初读数",
+   "scene": "小研在空白记录本上写下读数",
+   "prompt_en": "The female graduate student writes the starting reading in a blank lab notebook.",
+   "narration": "按合适的有效数字，记进记录本。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "量取酸，加指示剂",
+   "scene": "小研平视量筒量取酸液",
+   "prompt_en": "The female graduate student measures acid in a graduated cylinder, checking the level at eye level.",
+   "narration": "量取一定体积的待测盐酸。",
+   "overlay": [
+    "量取酸，加指示剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "量取酸，加指示剂",
+   "scene": "酸倒进锥形瓶，放到滴定管正下方",
+   "prompt_en": "The acid is poured into an Erlenmeyer flask, which is placed right under the burette tip. No people.",
+   "narration": "倒进锥形瓶，放在滴定管正下方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "量取酸，加指示剂",
+   "scene": "滴瓶向锥形瓶滴入几滴指示剂",
+   "prompt_en": "A dropper bottle adds a few drops of indicator into the flask. No people.",
+   "narration": "再滴几滴指示剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "粗滴：快速估计",
+   "scene": "小研一手开旋塞，一手摇锥形瓶",
+   "prompt_en": "The female graduate student opens the stopcock with one hand and swirls the flask with the other.",
+   "narration": "先做一次粗滴，快速摸个底。",
+   "overlay": [
+    "粗滴：快速估计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "粗滴：快速估计",
+   "scene": "锥形瓶放在磁力搅拌器上转动",
+   "prompt_en": "The flask sits on a magnetic stirrer with a stir bar spinning. No people.",
+   "narration": "边滴边摇，也可以用磁力搅拌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "粗滴：快速估计",
+   "scene": "小研不时停下，观察颜色",
+   "prompt_en": "The female graduate student pauses and looks at the flask color closely.",
+   "narration": "不时停下，看颜色是否持久变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "粗滴：快速估计",
+   "scene": "粗滴数据被灰色划掉标注",
+   "prompt_en": "A blank data row grayed out with a small rough sketch icon beside it. No people.",
+   "narration": "粗滴快但不准，数据不算进结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "粗滴读数只作参考",
+   "scene": "小研记录终读数，两个读数相减",
+   "prompt_en": "The female graduate student writes the final reading; a subtraction icon appears between two blank numbers.",
+   "narration": "记终读数，减去初读数，就是用量。",
+   "overlay": [
+    "粗滴读数只作参考"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "粗滴读数只作参考",
+   "scene": "刻度条上的标记略微超过终点",
+   "prompt_en": "A scale bar with a mark slightly past a dashed target line. No people.",
+   "narration": "滴得快，多半加过了一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "精滴：先快后慢",
+   "scene": "小研换一瓶新的酸液，重新滴定",
+   "prompt_en": "The female graduate student places a fresh flask of acid with indicator under the burette.",
+   "narration": "再做精滴，这次要准。",
+   "overlay": [
+    "精滴：先快后慢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "精滴：先快后慢",
+   "scene": "刻度条上四分之三处的标记",
+   "prompt_en": "A scale bar filled quickly up to a three quarter mark, with the rest dashed. No people.",
+   "narration": "先较快加到粗滴用量的四分之三。",
+   "overlay": [],
+   "labels": [
+    "约3/4"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "精滴：先快后慢",
+   "scene": "慢行图标出现在剩余的四分之一",
+   "prompt_en": "A slow snail icon appears over the remaining dashed quarter of the scale bar. No people.",
+   "narration": "剩下的，就要放慢了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "半毫升到一滴，摇匀看色",
+   "scene": "小研轻转旋塞，每次加一小份",
+   "prompt_en": "The female graduate student gently turns the stopcock to add a small portion, then closes it.",
+   "narration": "每次约半毫升，也可以一滴一滴。",
+   "overlay": [
+    "半毫升到一滴，摇匀看色"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "半毫升到一滴，摇匀看色",
+   "scene": "滴入处一闪粉红，摇匀后又褪去",
+   "prompt_en": "A pink flash appears where a drop lands, then fades as the flask is swirled. No people.",
+   "narration": "滴入时一闪粉红，摇匀又没了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "半毫升到一滴，摇匀看色",
+   "scene": "还没到终点的提示图标",
+   "prompt_en": "A flask with clear liquid and a small not-yet icon. No people.",
+   "narration": "这说明还没到终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "半毫升到一滴，摇匀看色",
+   "scene": "摇匀后颜色仍保持的锥形瓶",
+   "prompt_en": "A swirled flask that stays pale pink, with a green check. No people.",
+   "narration": "要等摇匀后，颜色还保持住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "接近终点格外小心",
+   "scene": "小研半开旋塞，一滴悬在尖嘴",
+   "prompt_en": "The female graduate student carefully lets a single drop hang at the burette tip.",
+   "narration": "越接近终点，越要小心。",
+   "overlay": [
+    "接近终点格外小心"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "接近终点格外小心",
+   "scene": "深粉红的锥形瓶被打叉，浅粉红的打勾",
+   "prompt_en": "Two flasks: a deep magenta one crossed out with a red X and a pale pink one with a green check. No people.",
+   "narration": "加过量就错过了终点。",
+   "overlay": [],
+   "labels": [
+    "过量",
+    "刚好"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "接近终点格外小心",
+   "scene": "浅粉红不再变化的特写",
+   "prompt_en": "Close-up of pale pink solution that stays the same color while swirling. No people.",
+   "narration": "浅粉红不再褪去，就是终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "计算酸的浓度",
+   "scene": "小研读终读数，写进记录本",
+   "prompt_en": "The female graduate student reads the final burette level at eye level and records it.",
+   "narration": "记下终读数，求出用了多少碱。",
+   "overlay": [
+    "计算酸的浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "计算酸的浓度",
+   "scene": "公式图示：碱的体积乘浓度除以酸的体积",
+   "prompt_en": "A simple fraction diagram: a burette volume icon times a concentration icon over a flask volume icon equals a question mark. No people.",
+   "narration": "碱的体积乘浓度，除以酸的体积。",
+   "overlay": [],
+   "labels": [
+    "V碱×c碱",
+    "÷V酸",
+    "=c酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "平行三次取平均",
+   "scene": "三只粉红锥形瓶排成一排",
+   "prompt_en": "Three pale pink flasks in a row, each with a blank result card. No people.",
+   "narration": "一般平行滴定三次。",
+   "overlay": [
+    "平行三次取平均"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "平行三次取平均",
+   "scene": "三个数合成一个平均值",
+   "prompt_en": "Three blank number cards merge into one with an average symbol. No people.",
+   "narration": "取平均值，结果更可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "更复杂的滴定",
+   "scene": "弱酸弱碱图标让 pH 指针偏离中间",
+   "prompt_en": "A weak acid icon and a weak base icon push a pH pointer away from the middle. No people.",
+   "narration": "换成弱酸弱碱，终点pH就变了。",
+   "overlay": [
+    "更复杂的滴定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "更复杂的滴定",
+   "scene": "几种不同颜色的指示剂滴瓶",
+   "prompt_en": "Several indicator dropper bottles with different colored liquids and blank labels. No people.",
+   "narration": "指示剂也要跟着换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "更复杂的滴定",
+   "scene": "电子转移箭头的滴定图标",
+   "prompt_en": "A titration icon with an electron transfer arrow above the flask. No people.",
+   "narration": "还有氧化还原滴定等别的类型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "打好滴定的基础",
+   "scene": "小研在滴定管前完成一次滴定，锥形瓶浅粉红",
+   "prompt_en": "The female graduate student finishes a titration at the burette; the flask below is pale pink.",
+   "narration": "这些是滴定最基本的功夫。",
+   "overlay": [
+    "打好滴定的基础"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "灌装不过头顶，不站凳子",
+   "scene": "举瓶过头往高处倒液、站在凳子上的图标被打叉",
+   "prompt_en": "An icon of a person standing on a stool pouring liquid above head height, crossed out with a red X. No people.",
+   "narration": "不要站凳子，不要举过头顶倒液。",
+   "overlay": [
+    "灌装不过头顶，不站凳子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "灌装不过头顶，不站凳子",
+   "scene": "液滴溅向眼睛的示意",
+   "prompt_en": "A diagram of drops splashing down from a high funnel toward a face with goggles, with a warning triangle. No people.",
+   "narration": "腐蚀液一溅，正好落在脸上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "灌装不过头顶，不站凳子",
+   "scene": "小研把滴定管降到视线以下，用小烧杯慢慢倒",
+   "prompt_en": "The female graduate student lowers the burette below eye level and pours slowly from a small beaker through the funnel.",
+   "narration": "放低滴定管，用小烧杯慢慢倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "灌完取下漏斗",
+   "scene": "小研灌好后取下漏斗",
+   "prompt_en": "The female graduate student lifts the funnel off the top of the burette after filling.",
+   "narration": "灌好后，记得取下漏斗。",
+   "overlay": [
+    "灌完取下漏斗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "灌完取下漏斗",
+   "scene": "漏斗残液滴进滴定管的图标被打叉",
+   "prompt_en": "An icon of a funnel left on a burette dripping extra liquid inside, crossed out with a red X. No people.",
+   "narration": "漏斗里的残液会滴下，读数就不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "稀释浓酸：通风柜、酸入水",
+   "scene": "小研在通风柜里把浓酸缓缓倒进水中",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, slowly pours concentrated acid into a beaker of water inside a fume hood.",
+   "narration": "稀释浓酸，在通风柜里操作。",
+   "overlay": [
+    "稀释浓酸：通风柜、酸入水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "稀释浓酸：通风柜、酸入水",
+   "scene": "酸入水打勾，水入酸打叉",
+   "prompt_en": "Two icons: acid poured into water with a green check, and water poured into acid crossed out with a red X. No people.",
+   "narration": "把酸慢慢加进水里，不能反过来。",
+   "overlay": [],
+   "labels": [
+    "酸入水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "稀释浓酸：通风柜、酸入水",
+   "scene": "边加边用玻璃棒搅拌",
+   "prompt_en": "Acid is added slowly while a glass rod stirs the water. No people.",
+   "narration": "边加边搅，让热量散开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱分开存放",
+   "scene": "试剂柜里酸和碱分放两格",
+   "prompt_en": "A reagent cabinet with acids on one shelf and bases on a separate shelf, labels blank. No people.",
+   "narration": "酸和碱，分开存放。",
+   "overlay": [
+    "酸碱分开存放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱分开存放",
+   "scene": "碱液装在带塑料盖的瓶里，磨口玻璃塞被打叉",
+   "prompt_en": "A base solution in a plastic bottle with a screw cap with a green check, and a glass stopper bottle crossed out with a red X. No people.",
+   "narration": "碱液用塑料瓶，别用磨口玻璃塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱分开存放",
+   "scene": "瓶子上的空白标签被写满",
+   "prompt_en": "Blank labels on the bottles are being filled in with a pen. No people.",
+   "narration": "瓶上标签写清名称和浓度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "台面溅洒的处理",
+   "scene": "台面上一小摊液体，小研戴手套用吸附棉吸",
+   "prompt_en": "A small spill on the bench; the female graduate student wearing gloves covers it with absorbent pads.",
+   "narration": "少量酸碱溅到台面，戴手套吸附。",
+   "overlay": [
+    "台面溅洒的处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "台面溅洒的处理",
+   "scene": "徒手擦拭液体的图标被打叉",
+   "prompt_en": "An icon of a bare hand wiping a spill, crossed out with a red X. No people.",
+   "narration": "不要徒手去擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "台面溅洒的处理",
+   "scene": "小研用湿布把台面擦净，吸附物放进废物袋",
+   "prompt_en": "The female graduate student wipes the bench with a damp cloth and puts the used pads into a waste bag.",
+   "narration": "清理干净，废料按规定收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溅到人身上：冲洗与报告",
+   "scene": "阿杰在水槽用大量流水冲手臂",
+   "prompt_en": "The young male student rinses his forearm under plenty of running water at a lab sink.",
+   "narration": "溅到皮肤，立即用大量流水冲洗。",
+   "overlay": [
+    "溅到人身上：冲洗与报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溅到人身上：冲洗与报告",
+   "scene": "洗眼器标志和洗眼器",
+   "prompt_en": "An eyewash sign above a lab eyewash station with water flowing. No people.",
+   "narration": "溅进眼睛，马上到洗眼器冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溅到人身上：冲洗与报告",
+   "scene": "小研扶着阿杰在洗眼器前冲眼",
+   "prompt_en": "The female graduate student helps the young male student hold his eyes open under the eyewash.",
+   "narration": "撑开眼皮，持续冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溅到人身上：冲洗与报告",
+   "scene": "电话图标旁有红十字，小研向老周报告",
+   "prompt_en": "The female graduate student reports to the older man; a telephone icon with a red cross floats beside them.",
+   "narration": "报告负责人，及时就医，拨120。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后及时清洗滴定管",
+   "scene": "小研放出剩余碱液，用清水冲洗滴定管",
+   "prompt_en": "The female graduate student drains the leftover base and rinses the burette with water.",
+   "narration": "用完及时放掉碱液，洗净滴定管。",
+   "overlay": [
+    "用后及时清洗滴定管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后及时清洗滴定管",
+   "scene": "旋塞被碱液粘住的图标被打叉",
+   "prompt_en": "An icon of a stopcock stuck fast with dried base, crossed out with a red X. No people.",
+   "narration": "碱留在旋塞处，会把它粘死。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后及时清洗滴定管",
+   "scene": "滴定管倒置夹在架上晾干",
+   "prompt_en": "A clean burette clamped upside down on a stand to drain dry. No people.",
+   "narration": "洗净后倒置晾干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "滴定废液的处置",
+   "scene": "小研把滴定后的溶液倒进废液桶",
+   "prompt_en": "The female graduate student pours the titrated solutions into a waste container with a blank label.",
+   "narration": "滴定废液和剩余酸碱，按规定收集。",
+   "overlay": [
+    "滴定废液的处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "滴定废液的处置",
+   "scene": "倒入水槽的图标被打叉",
+   "prompt_en": "An icon of acid or base poured into a sink drain, crossed out with a red X. No people.",
+   "narration": "不要随手倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "滴定废液的处置",
+   "scene": "王老师检查废液桶标签",
+   "prompt_en": "The safety administrator checks the blank label on the waste container with the female graduate student.",
+   "narration": "如何处置，以本校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现滴定管、旋塞、漏斗图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a burette, a stopcock and a funnel.",
+   "narration": "先试漏，再润洗、排气泡。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、手套和放低的滴定管图标",
+   "prompt_en": "Icons of safety goggles, gloves and a burette lowered below eye level. No people.",
+   "narration": "戴好防护，视线以下灌装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "平视读数、粗滴、精滴图标",
+   "prompt_en": "Icons of an eye level with a meniscus, a fast pouring burette and a single drop. No people.",
+   "narration": "平视读数，先粗滴，再精滴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "浅粉红锥形瓶和三张结果卡",
+   "prompt_en": "Icons of a pale pink flask and three blank result cards. No people.",
+   "narration": "粉红不褪是终点，三次取平均。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "洗眼器、清洗后的滴定管、废液桶图标",
+   "prompt_en": "Icons of an eyewash station, a clean burette upside down and a waste container. No people.",
+   "narration": "会应急，勤清洗，废液分类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一瓶浅粉红溶液挥手道别",
+   "prompt_en": "The panda mascot holds up a flask of pale pink solution and waves goodbye at the camera.",
+   "narration": "一滴定乾坤，安全每一步，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

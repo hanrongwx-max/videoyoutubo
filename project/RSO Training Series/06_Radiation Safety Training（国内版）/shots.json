@@ -1,0 +1,1494 @@
+{
+ "id": "06_Radiation Safety Training",
+ "edition": "国内版",
+ "series": "RSO Training Series",
+ "title": "核医学身边的辐射安全：病人、溢洒与急救（国内版）",
+ "seconds": 535,
+ "source_doc": "course/RSO Training Series/06_Radiation Safety Training.md",
+ "author_source": "project/RSO Training Series/06_Radiation Safety Training（国内版）/src.py",
+ "points": {
+  "K1": "为什么要做辐射安全告知",
+  "K2": "身边有放射性，你要知道",
+  "K3": "天然辐射无处不在",
+  "K4": "运动负荷室人员受照很低",
+  "K5": "辐射工作人员有剂量上限",
+  "K6": "怀孕的工作人员有专门限值",
+  "K7": "实际受照远低于上限",
+  "K8": "剂量计戴在身上和手上",
+  "K9": "三种射线，三种挡法",
+  "K10": "时间、距离、屏蔽",
+  "K11": "什么是 ALARA",
+  "K12": "擦拭检测和巡测",
+  "K13": "一滴也算溢洒，要控制",
+  "K14": "个人防护用品",
+  "K15": "病人担心时怎么说",
+  "K16": "药物注入体内，相机不放射",
+  "K17": "受照量级与体内消退",
+  "K18": "排泄物有放射性，但量很小",
+  "K19": "绝不延误抢救",
+  "K20": "接触后别乱碰、别乱走",
+  "K21": "离院病人的急诊与防护",
+  "K22": "污染物品收进指定容器",
+  "K23": "等检测放行，房间可能关闭",
+  "K24": "情景：药物掉在了地上",
+  "K25": "溢洒常在哪里，多少算溢洒",
+  "K26": "保持冷静，听技师指挥",
+  "K27": "不要伸手帮忙",
+  "K28": "房间关闭与专业巡测",
+  "K29": "抽血化验的时间",
+  "K30": "留置针由技师处理",
+  "K31": "有问题随时问",
+  "S1": "依法许可，学校有专人管",
+  "S2": "辐射工作人员先培训再上岗",
+  "S3": "个人剂量监测与职业健康检查",
+  "S4": "认识警告标志，不乱进",
+  "S5": "手套脏了不摸脸",
+  "S6": "放射性废物单独收集",
+  "S7": "怀孕、哺乳要先告知",
+  "S8": "注射后病人的日常防护",
+  "S9": "出了事故怎么报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在医院核医学科走廊，门上有电离辐射警告标志，向镜头招手",
+   "prompt_en": "The panda mascot stands in a hospital corridor next to a door with an ionizing radiation warning sign and waves at the camera.",
+   "narration": "这一课讲核医学身边的辐射安全。",
+   "overlay": [
+    "核医学身边的辐射安全：病人、溢洒与急救"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "三个图标：注射器、地上一滴液体、急救十字",
+   "prompt_en": "Three icons in a row: a syringe, a single drop on the floor, and a medical first aid cross. No people.",
+   "narration": "病人、溢洒、急救，一个个说清楚。",
+   "overlay": [],
+   "labels": [
+    "注射后病人",
+    "溢洒",
+    "急救"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰穿着白大褂，在心脏运动负荷试验室的跑步机旁",
+   "prompt_en": "The young male student in a white coat stands beside a treadmill in a cardiac stress test room.",
+   "narration": "阿杰在附属医院的运动负荷室实习。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周在跑步机上，胳膊上贴着留置针",
+   "prompt_en": "The older man walks on the treadmill with an IV cannula taped on his arm.",
+   "narration": "今天的病人老周，刚注射过放射性药物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰后退一步，一脸紧张",
+   "prompt_en": "The young male student takes a step back with a nervous look.",
+   "narration": "阿杰有点慌：我会不会被照坏了？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起一根手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "别慌，也别大意，先把道理弄明白。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要做辐射安全告知",
+   "scene": "一叠空白法规文本和一个盾牌图标",
+   "prompt_en": "A stack of blank regulation booklets and a shield icon. No people.",
+   "narration": "核医学用放射性药物，管得很严。",
+   "overlay": [
+    "为什么要做辐射安全告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要做辐射安全告知",
+   "scene": "王老师给一屋子医护和学生上课",
+   "prompt_en": "The safety administrator gives a short training to doctors, nurses and students in a meeting room.",
+   "narration": "可能接触的人，都要接受安全告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "身边有放射性，你要知道",
+   "scene": "医院平面图上，运动负荷室、病房、急诊几个图标亮起",
+   "prompt_en": "A simple hospital floor plan with the stress test room, a ward and the emergency room highlighted. No people.",
+   "narration": "注射后的病人，会去医院很多地方。",
+   "overlay": [
+    "身边有放射性，你要知道"
+   ],
+   "labels": [
+    "运动负荷室",
+    "病房",
+    "急诊"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "身边有放射性，你要知道",
+   "scene": "阿杰认真看着欣欣",
+   "prompt_en": "The young male student listens carefully to the panda mascot.",
+   "narration": "常和他们打交道，就要懂一点辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "天然辐射无处不在",
+   "scene": "太阳、飞机、山峰、房屋、空气四个图标",
+   "prompt_en": "Icons of the sun, an airplane, a mountain, a house, and air swirls. No people.",
+   "narration": "阳光、空气、建材、高海拔、坐飞机，",
+   "overlay": [
+    "天然辐射无处不在"
+   ],
+   "labels": [
+    "阳光",
+    "空气",
+    "建材",
+    "高海拔",
+    "飞行"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "天然辐射无处不在",
+   "scene": "一个普通人图标被淡淡的光点包围",
+   "prompt_en": "An ordinary person icon surrounded by faint glowing dots. Icon only, no people.",
+   "narration": "都会带来天然辐射，人人每年都有。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "运动负荷室人员受照很低",
+   "scene": "运动负荷室里，阿杰站在跑步机旁，一根很短的刻度条",
+   "prompt_en": "In the stress test room the young male student stands beside the treadmill; a very short gauge bar floats beside him.",
+   "narration": "运动负荷室的人员，受照一般很低。",
+   "overlay": [
+    "运动负荷室人员受照很低"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "运动负荷室人员受照很低",
+   "scene": "两根刻度条：天然本底和运动负荷室，后者更短",
+   "prompt_en": "Two blank gauge bars side by side, the second one much shorter than the first. No people.",
+   "narration": "病人再多，也是很低的水平。",
+   "overlay": [],
+   "labels": [
+    "天然本底",
+    "运动负荷室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员有剂量上限",
+   "scene": "小研穿工作服，旁边一把空白刻度尺带红色上限线",
+   "prompt_en": "The female graduate student in a work coat stands beside a blank ruler with a red upper limit line.",
+   "narration": "天天和放射性药物打交道的人，",
+   "overlay": [
+    "辐射工作人员有剂量上限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员有剂量上限",
+   "scene": "全身轮廓和手的轮廓，各有一条上限线",
+   "prompt_en": "A whole body outline and a hand outline, each with its own red limit line. No people.",
+   "narration": "全身和手，各有年剂量上限。",
+   "overlay": [],
+   "labels": [
+    "全身",
+    "手",
+    "以国家标准为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "怀孕的工作人员有专门限值",
+   "scene": "孕妇图标旁一条更低的红线",
+   "prompt_en": "A pregnant woman icon beside a lower red limit line. Icon only, no people.",
+   "narration": "怀孕的工作人员，限值更严。",
+   "overlay": [
+    "怀孕的工作人员有专门限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "怀孕的工作人员有专门限值",
+   "scene": "空白的工作安排表，有人调整一格",
+   "prompt_en": "A blank work schedule chart with one slot being moved. No people.",
+   "narration": "守住限值，可以按安排继续工作。",
+   "overlay": [],
+   "labels": [
+    "以国家标准为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实际受照远低于上限",
+   "scene": "一根刻度尺，实际值远低于红线",
+   "prompt_en": "A blank gauge with a short green bar far below the red limit line. No people.",
+   "narration": "技师实际受照，通常远低于上限。",
+   "overlay": [
+    "实际受照远低于上限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实际受照远低于上限",
+   "scene": "欣欣指着红线摇头",
+   "prompt_en": "The panda mascot points at the red limit line and shakes its head gently.",
+   "narration": "上限是底线，不是可以用完的额度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "剂量计戴在身上和手上",
+   "scene": "小研胸前别着剂量计，手指戴着指环剂量计",
+   "prompt_en": "The female graduate student wears a dosimeter badge on her chest and a ring dosimeter on her finger.",
+   "narration": "技师身上戴一个剂量计，手上也戴。",
+   "overlay": [
+    "剂量计戴在身上和手上"
+   ],
+   "labels": [
+    "全身",
+    "手部"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "剂量计戴在身上和手上",
+   "scene": "日历一年的格子逐月累加",
+   "prompt_en": "A one-year calendar with months filling up one by one into a total bar. No people.",
+   "narration": "全年剂量累计起来，确保安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "剂量计戴在身上和手上",
+   "scene": "阿杰站在远处，一根很短的刻度条",
+   "prompt_en": "The young male student stands at a distance with a very short gauge bar beside him.",
+   "narration": "偶尔接触的人，受照只是很小一部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三种射线，三种挡法",
+   "scene": "示意图：α 粒子被一张纸挡住",
+   "prompt_en": "A diagram: alpha particles stopped by a single sheet of paper. No people.",
+   "narration": "α粒子，一张纸就能挡住。",
+   "overlay": [
+    "三种射线，三种挡法"
+   ],
+   "labels": [
+    "α 粒子",
+    "纸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三种射线，三种挡法",
+   "scene": "示意图：β 粒子被一层衣服或塑料板挡住",
+   "prompt_en": "A diagram: beta particles stopped by a layer of clothing or a plastic plate. No people.",
+   "narration": "β粒子，衣服或塑料板能挡住。",
+   "overlay": [],
+   "labels": [
+    "β 粒子",
+    "塑料"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三种射线，三种挡法",
+   "scene": "示意图：γ 射线被混凝土墙或铅板挡住大部分",
+   "prompt_en": "A diagram: gamma rays mostly stopped by a thick concrete wall or a lead plate. No people.",
+   "narration": "γ射线，要靠厚混凝土或铅。",
+   "overlay": [],
+   "labels": [
+    "γ 射线",
+    "混凝土",
+    "铅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三种射线，三种挡法",
+   "scene": "铅罐和注射器铅套图标",
+   "prompt_en": "Icons of a lead container and a lead syringe shield. No people.",
+   "narration": "所以放射性药物，常装在铅罐里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "人站在源旁，钟表指针转得很少",
+   "prompt_en": "A diagram: a person icon near a small glowing source with a clock showing a short time. Icon only, no people.",
+   "narration": "时间：在源附近，待得越短越好。",
+   "overlay": [
+    "时间、距离、屏蔽"
+   ],
+   "labels": [
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "人从源旁走远，箭头拉长",
+   "prompt_en": "A diagram: a person icon walking away from a glowing source with a long arrow. Icon only, no people.",
+   "narration": "距离：离源越远越好。",
+   "overlay": [],
+   "labels": [
+    "距离"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "人躲在墙后，射线被墙挡住",
+   "prompt_en": "A diagram: a person icon sitting behind a wall that blocks rays from a glowing source. Icon only, no people.",
+   "narration": "屏蔽：用墙、铅板挡在中间。",
+   "overlay": [],
+   "labels": [
+    "屏蔽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "什么是 ALARA",
+   "scene": "欣欣举着写有向下箭头的牌子",
+   "prompt_en": "The panda mascot holds up a blank sign with a downward arrow.",
+   "narration": "防护的总原则：合理可行，尽量低。",
+   "overlay": [
+    "什么是 ALARA"
+   ],
+   "labels": [
+    "合理可行尽量低"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "什么是 ALARA",
+   "scene": "钟表、箭头、盾牌三个图标合成一个",
+   "prompt_en": "Three icons, a clock, an arrow and a shield, joining together into one badge. No people.",
+   "narration": "时间、距离、屏蔽，就是三个关键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "擦拭检测和巡测",
+   "scene": "小研用棉签擦拭台面",
+   "prompt_en": "The female graduate student wipes a small area of a countertop with a swab, wearing gloves.",
+   "narration": "技师会定期擦拭取样，",
+   "overlay": [
+    "擦拭检测和巡测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "擦拭检测和巡测",
+   "scene": "小研拿着巡测仪沿地面检查",
+   "prompt_en": "The female graduate student checks the floor with a handheld survey meter.",
+   "narration": "再用仪器巡测，看有没有滴漏污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一滴也算溢洒，要控制",
+   "scene": "地上一滴液体的特写",
+   "prompt_en": "A close-up of a single small drop on a clean floor. No people.",
+   "narration": "哪怕只有一两滴，也算溢洒。",
+   "overlay": [
+    "一滴也算溢洒，要控制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "一滴也算溢洒，要控制",
+   "scene": "吸水垫圈住液滴，周围拉起警戒线",
+   "prompt_en": "An absorbent pad placed around the drop, with a small barrier tape around the area. No people.",
+   "narration": "受过训练的人马上控制，不让它扩散。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "个人防护用品",
+   "scene": "手套、隔离衣、鞋套、护目镜图标",
+   "prompt_en": "Icons of gloves, a disposable gown, shoe covers and safety goggles. No people.",
+   "narration": "手套、隔离衣、鞋套，也是防护的一环。",
+   "overlay": [
+    "个人防护用品"
+   ],
+   "labels": [
+    "手套",
+    "隔离衣",
+    "鞋套",
+    "护目镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "病人担心时怎么说",
+   "scene": "老周坐在候诊椅上，皱着眉问小研",
+   "prompt_en": "The older man sits in a waiting chair and asks the female graduate student a worried question.",
+   "narration": "病人担心辐射，你可以这样说：",
+   "overlay": [
+    "病人担心时怎么说"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "病人担心时怎么说",
+   "scene": "小研微笑着解释",
+   "prompt_en": "The female graduate student smiles and explains gently to the older man.",
+   "narration": "核医学检查很常用，受照很低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "药物注入体内，相机不放射",
+   "scene": "注射器把液体注入手臂血管的示意图",
+   "prompt_en": "A simple diagram of a syringe injecting liquid into a vein in an arm. No people.",
+   "narration": "药物是液体，注射进血液里。",
+   "overlay": [
+    "药物注入体内，相机不放射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "药物注入体内，相机不放射",
+   "scene": "显像设备的探头图标，旁边打勾",
+   "prompt_en": "An imaging camera detector icon with a green check and no rays coming out of it. No people.",
+   "narration": "显像的相机只接收，自己不产生辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "受照量级与体内消退",
+   "scene": "两个刻度条：常见检查和常见影像检查，差不多高",
+   "prompt_en": "Two blank gauge bars of similar height side by side. No people.",
+   "narration": "受照量级，和一些常见检查差不多。",
+   "overlay": [
+    "受照量级与体内消退"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "受照量级与体内消退",
+   "scene": "沙漏和逐渐变淡的人形图标",
+   "prompt_en": "An hourglass next to a person icon whose glow fades step by step. Icon only, no people.",
+   "narration": "药物会衰变、排出，体内逐渐减少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "受照量级与体内消退",
+   "scene": "小研指着空白日程卡",
+   "prompt_en": "The female graduate student points to a blank instruction card for the older man.",
+   "narration": "具体多久，听核医学科的医嘱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排泄物有放射性，但量很小",
+   "scene": "急救室里，医护围着病床",
+   "prompt_en": "Nurses and a doctor gather around a hospital bed in an emergency room.",
+   "narration": "注射过药物的病人，也可能需要急救。",
+   "overlay": [
+    "排泄物有放射性，但量很小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排泄物有放射性，但量很小",
+   "scene": "血滴、尿杯图标，旁边一个很小的辐射点",
+   "prompt_en": "Icons of a blood drop and a urine cup, each with a tiny radiation dot. No people.",
+   "narration": "血、尿等排泄物有放射性，但量很小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "排泄物有放射性，但量很小",
+   "scene": "生物危害警告标志放大",
+   "prompt_en": "A biohazard warning sign shown large. No people.",
+   "narration": "相比之下，血液传播的病原体更要防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "绝不延误抢救",
+   "scene": "医护正在抢救，欣欣在一旁举起大拇指",
+   "prompt_en": "A medical team performs emergency care on a patient while the panda mascot gives a thumbs up beside them.",
+   "narration": "救命第一，绝不能因为辐射而耽误。",
+   "overlay": [
+    "绝不延误抢救"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "接触后别乱碰、别乱走",
+   "scene": "戴手套的手伸向门把手和电脑键盘，打红叉",
+   "prompt_en": "A gloved hand reaching for a door handle and a keyboard, crossed out with red X marks. No people.",
+   "narration": "碰过排泄物后，别再摸门把手、电脑。",
+   "overlay": [
+    "接触后别乱碰、别乱走"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "接触后别乱碰、别乱走",
+   "scene": "门口画着停止手势，旁边是巡测仪图标",
+   "prompt_en": "A doorway with a stop hand icon and a survey meter icon beside it. No people.",
+   "narration": "没经过检测放行，别去其他区域。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "离院病人的急诊与防护",
+   "scene": "老周躺在急诊推车上，医生不知情的问号",
+   "prompt_en": "The older man lies on an emergency stretcher; a question mark floats above the doctor's head.",
+   "narration": "病人离院后再来急诊，医院可能不知道。",
+   "overlay": [
+    "离院病人的急诊与防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "离院病人的急诊与防护",
+   "scene": "医护戴好手套和隔离衣",
+   "prompt_en": "Nurses put on gloves and disposable gowns before treating a patient.",
+   "narration": "所以急救时按规矩穿戴防护，就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "污染物品收进指定容器",
+   "scene": "小研把用过的纱布放进带辐射标志的桶里",
+   "prompt_en": "The female graduate student puts used gauze into a lidded bin with an ionizing radiation warning sign.",
+   "narration": "污染的物品，由技师收进指定容器。",
+   "overlay": [
+    "污染物品收进指定容器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "等检测放行，房间可能关闭",
+   "scene": "急救结束，医护站在房间里等待",
+   "prompt_en": "After emergency care, the medical team waits inside the room calmly.",
+   "narration": "抢救完，接触过的人先留在房间里。",
+   "overlay": [
+    "等检测放行，房间可能关闭"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "等检测放行，房间可能关闭",
+   "scene": "小研用巡测仪检查医护的手和鞋",
+   "prompt_en": "The female graduate student checks the hands and shoes of a nurse with a survey meter.",
+   "narration": "技师逐个检测，没问题才放行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "等检测放行，房间可能关闭",
+   "scene": "房门挂上空白暂停使用牌，然后又取下",
+   "prompt_en": "A blank closed sign hangs on a room door, then is taken down. No people.",
+   "narration": "污染重的房间先关闭，清干净再开放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "情景：药物掉在了地上",
+   "scene": "小研准备给老周注射，台上有铅罐",
+   "prompt_en": "The female graduate student prepares an injection at a table with a lead container; the older man sits with his arm out.",
+   "narration": "我们看一个场景。",
+   "overlay": [
+    "情景：药物掉在了地上"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "情景：药物掉在了地上",
+   "scene": "一滴液体从台边落到地上",
+   "prompt_en": "A single drop falls from the edge of the table onto the floor. No people.",
+   "narration": "一不小心，药物掉到了地上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "情景：药物掉在了地上",
+   "scene": "小研愣住，双手停在半空",
+   "prompt_en": "The female graduate student freezes with her gloved hands held away from her body.",
+   "narration": "这就是一次溢洒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "溢洒常在哪里，多少算溢洒",
+   "scene": "运动负荷室图标被圈出",
+   "prompt_en": "A stress test room icon with a treadmill, circled. No people.",
+   "narration": "溢洒最常出现在运动负荷室。",
+   "overlay": [
+    "溢洒常在哪里，多少算溢洒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "溢洒常在哪里，多少算溢洒",
+   "scene": "地上一滴液体，旁边一个放大镜",
+   "prompt_en": "A single drop on the floor with a magnifying glass beside it. No people.",
+   "narration": "可能只有一滴，也要按溢洒处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "保持冷静，听技师指挥",
+   "scene": "阿杰深呼吸，站在原地",
+   "prompt_en": "The young male student takes a deep breath and stands still in the room.",
+   "narration": "在场的人先冷静，没人有即时危险。",
+   "overlay": [
+    "保持冷静，听技师指挥"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "保持冷静，听技师指挥",
+   "scene": "小研抬手示意大家站好，医生也照做",
+   "prompt_en": "The female graduate student raises her hand to guide everyone; a doctor follows her instruction.",
+   "narration": "技师会指挥所有人，医生也要听。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "不要伸手帮忙",
+   "scene": "阿杰伸手想帮忙，被打红叉",
+   "prompt_en": "An icon of a helping hand reaching toward a spill, crossed out with a red X. No people.",
+   "narration": "再想帮忙，也别伸手。",
+   "overlay": [
+    "不要伸手帮忙"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "不要伸手帮忙",
+   "scene": "小研戴手套用吸水垫处理，阿杰站在一边",
+   "prompt_en": "The female graduate student in gloves handles the spill with absorbent pads while the young male student stays back.",
+   "narration": "清理交给技师，以免越弄越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "不要伸手帮忙",
+   "scene": "阿杰站在原地等待，小研给他检测",
+   "prompt_en": "The young male student waits in place while the female graduate student checks him with a survey meter.",
+   "narration": "技师确认之前，先留在房间里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "房间关闭与专业巡测",
+   "scene": "房门挂着空白暂停使用牌",
+   "prompt_en": "A blank closed sign hangs on the stress test room door. No people.",
+   "narration": "房间可能暂时关闭，等放射性清除。",
+   "overlay": [
+    "房间关闭与专业巡测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "房间关闭与专业巡测",
+   "scene": "日程表上后面的病人照常",
+   "prompt_en": "A blank appointment list where later slots still have green check marks. No people.",
+   "narration": "后面的病人，可能还能照常检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "房间关闭与专业巡测",
+   "scene": "王老师在旁边看小研巡测、记录",
+   "prompt_en": "The safety administrator watches and takes notes while the female graduate student completes a survey.",
+   "narration": "技师在辐射安全管理人员监督下巡测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "抽血化验的时间",
+   "scene": "采血管图标和日程箭头，采血在检查之前",
+   "prompt_en": "A blood sample tube icon placed before an imaging scan icon on a timeline arrow. No people.",
+   "narration": "要抽血化验，最好在检查前做完。",
+   "overlay": [
+    "抽血化验的时间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "抽血化验的时间",
+   "scene": "时间轴上检查后有一段等待",
+   "prompt_en": "A timeline arrow with a waiting gap after the scan icon before the blood tube icon. No people.",
+   "narration": "检查后再抽血，听核医学科安排时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "留置针由技师处理",
+   "scene": "小研戴手套拔除留置针，放进带标志的容器",
+   "prompt_en": "The female graduate student in gloves removes an IV cannula and places it into a shielded container.",
+   "narration": "门诊病人的留置针，由核医学技师拔。",
+   "overlay": [
+    "留置针由技师处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "留置针由技师处理",
+   "scene": "病房里的病人手上留着留置针",
+   "prompt_en": "The older man rests in a hospital ward bed with an IV cannula still in his arm.",
+   "narration": "住院病人需要的话，可以留着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "留置针由技师处理",
+   "scene": "冲管示意图，放射性在血管里而不在针里",
+   "prompt_en": "A diagram: an IV line being flushed, the glowing dots in the vein not in the cannula. No people.",
+   "narration": "冲管后，放射性主要在血液里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K31",
+   "section_title": "有问题随时问",
+   "scene": "阿杰举手提问，小研微笑回答",
+   "prompt_en": "The young male student raises his hand to ask a question; the female graduate student smiles and answers.",
+   "narration": "有疑问，随时问核医学科。",
+   "overlay": [
+    "有问题随时问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法许可，学校有专人管",
+   "scene": "空白法规文本和许可证图标",
+   "prompt_en": "Blank regulation booklets next to a blank license certificate icon. No people.",
+   "narration": "用放射性药物，要依法取得许可。",
+   "overlay": [
+    "依法许可，学校有专人管"
+   ],
+   "labels": [
+    "放射性污染防治法",
+    "安全和防护条例"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法许可，学校有专人管",
+   "scene": "学校、学院、实验室三级图标，最上面是辐射安全管理部门",
+   "prompt_en": "A three-level chart icon: university, college, laboratory, with a radiation safety office at the top. No people.",
+   "narration": "学校有辐射安全管理部门和专人负责。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法许可，学校有专人管",
+   "scene": "王老师在办公室里翻看空白台账",
+   "prompt_en": "The safety administrator reviews a blank ledger in an office.",
+   "narration": "有问题，就找辐射安全管理人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "辐射工作人员先培训再上岗",
+   "scene": "小研在电脑前做空白考题",
+   "prompt_en": "The female graduate student takes a blank online test at a computer.",
+   "narration": "辐射工作人员，培训考核合格才上岗。",
+   "overlay": [
+    "辐射工作人员先培训再上岗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "辐射工作人员先培训再上岗",
+   "scene": "日历上标出复训的日期",
+   "prompt_en": "A calendar with a refresher training date circled. No people.",
+   "narration": "还要按期参加复训。",
+   "overlay": [],
+   "labels": [
+    "以本校规定为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "剂量计被放进信封寄出",
+   "prompt_en": "A dosimeter badge being placed into an envelope to be sent for reading. No people.",
+   "narration": "剂量计按期送检，结果建档。",
+   "overlay": [
+    "个人剂量监测与职业健康检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "剂量计借给别人、留在工作间，均打红叉",
+   "prompt_en": "Two icons crossed out with red X marks: handing a dosimeter to someone else, and leaving it on a bench. No people.",
+   "narration": "不借用、不乱放，下班别留在工作区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "小研在体检中心做检查",
+   "prompt_en": "The female graduate student has a health check-up at a clinic with a doctor.",
+   "narration": "上岗前、在岗期间，按时做职业健康检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "认识警告标志，不乱进",
+   "scene": "电离辐射警告标志贴在门上",
+   "prompt_en": "An ionizing radiation warning sign on a closed door. No people.",
+   "narration": "看到这个标志，说明里面有辐射源。",
+   "overlay": [
+    "认识警告标志，不乱进"
+   ],
+   "labels": [
+    "电离辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "认识警告标志，不乱进",
+   "scene": "地面上两种颜色的区域线",
+   "prompt_en": "Floor markings showing two zones of different colors at a doorway. No people.",
+   "narration": "控制区、监督区，无关人员别进。",
+   "overlay": [],
+   "labels": [
+    "控制区",
+    "监督区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "手套脏了不摸脸",
+   "scene": "戴手套的手伸向脸，打红叉",
+   "prompt_en": "A gloved hand reaching toward a face, crossed out with a red X. No people.",
+   "narration": "戴着手套，别摸脸、别揉眼。",
+   "overlay": [
+    "手套脏了不摸脸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "手套脏了不摸脸",
+   "scene": "小研摘手套、洗手，再用仪器测手",
+   "prompt_en": "The female graduate student removes her gloves, washes her hands, then checks them with a survey meter.",
+   "narration": "离开前摘手套、洗手，测一测再走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "手套脏了不摸脸",
+   "scene": "水杯、食物、化妆品图标在工作区，打红叉",
+   "prompt_en": "Icons of a cup, food and cosmetics on a work bench, crossed out with red X marks. No people.",
+   "narration": "工作区里不吃不喝不化妆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "放射性废物单独收集",
+   "scene": "带辐射标志的废物桶和普通垃圾桶分开放",
+   "prompt_en": "A lidded waste bin with an ionizing radiation warning sign placed apart from an ordinary trash bin. No people.",
+   "narration": "沾了放射性的废物，单独收集。",
+   "overlay": [
+    "放射性废物单独收集"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "放射性废物单独收集",
+   "scene": "放射性废物倒进普通垃圾桶的图标，打红叉",
+   "prompt_en": "An icon of radioactive waste being thrown into an ordinary trash bin, crossed out with a red X. No people.",
+   "narration": "不混进普通垃圾和医疗废物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "放射性废物单独收集",
+   "scene": "老李在暂存间核对空白标签",
+   "prompt_en": "The facility engineer checks blank labels on bins in a locked waste storage room.",
+   "narration": "贴好标签登记，交给专人处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "怀孕、哺乳要先告知",
+   "scene": "小研在王老师办公室里交谈",
+   "prompt_en": "The female graduate student talks with the safety administrator in an office.",
+   "narration": "工作人员怀孕了，要及时告诉单位。",
+   "overlay": [
+    "怀孕、哺乳要先告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "怀孕、哺乳要先告知",
+   "scene": "空白工作安排表被调整",
+   "prompt_en": "A blank work schedule being adjusted with arrows. No people.",
+   "narration": "单位会评估，调整工作安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "怀孕、哺乳要先告知",
+   "scene": "女性病人对医生举手示意",
+   "prompt_en": "A female patient raises her hand to tell a doctor something before a scan.",
+   "narration": "病人怀孕或哺乳，检查前先告诉医生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "注射后病人的日常防护",
+   "scene": "老周喝水，旁边是洗手间图标",
+   "prompt_en": "The older man drinks a glass of water, with a restroom icon beside him.",
+   "narration": "做完检查，多喝水、勤排尿。",
+   "overlay": [
+    "注射后病人的日常防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "注射后病人的日常防护",
+   "scene": "老周和孕妇、婴儿图标之间有距离箭头",
+   "prompt_en": "The older man sits apart, with a distance arrow between him and icons of a pregnant woman and a baby.",
+   "narration": "短时间内，和孕妇、小孩保持距离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "注射后病人的日常防护",
+   "scene": "小研递给老周一张空白须知卡",
+   "prompt_en": "The female graduate student hands the older man a blank instruction card.",
+   "narration": "具体注意什么，照核医学科的须知做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "出了事故怎么报告",
+   "scene": "手机拨号图标和三级图标",
+   "prompt_en": "A phone dialing icon connected to a lab leader, a college building and a radiation safety office icon. No people.",
+   "narration": "溢洒失控、药物丢失，马上报告。",
+   "overlay": [
+    "出了事故怎么报告"
+   ],
+   "labels": [
+    "负责人",
+    "学院",
+    "辐射安全管理部门"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "出了事故怎么报告",
+   "scene": "保卫处值班员接电话",
+   "prompt_en": "The security officer answers a phone call at a duty desk.",
+   "narration": "同时报告保卫处，有人受伤打120。",
+   "overlay": [],
+   "labels": [
+    "保卫处",
+    "急救 120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "出了事故怎么报告",
+   "scene": "空白记录本",
+   "prompt_en": "A blank incident record notebook and a pen. No people.",
+   "narration": "如实记录，不瞒报、不私自处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在白板前，白板上有钟表、箭头、盾牌",
+   "prompt_en": "The panda mascot stands in front of a whiteboard with a clock, an arrow and a shield icon.",
+   "narration": "最后，记住几句话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "钟表、箭头、盾牌图标",
+   "prompt_en": "Icons of a clock, an arrow and a shield. No people.",
+   "narration": "时间短、距离远、有屏蔽。",
+   "overlay": [],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "急救十字和绿勾",
+   "prompt_en": "A medical cross icon with a green check. No people.",
+   "narration": "注射过药物的病人，抢救照样第一。",
+   "overlay": [],
+   "labels": [
+    "救命第一"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "溢洒的液滴和停止手势",
+   "prompt_en": "A drop on the floor next to a stop hand icon. No people.",
+   "narration": "溢洒了，别伸手，等技师放行。",
+   "overlay": [],
+   "labels": [
+    "不伸手",
+    "等放行"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "剂量计和警告标志图标",
+   "prompt_en": "A dosimeter badge icon next to an ionizing radiation warning sign. No people.",
+   "narration": "戴好剂量计，认清标志，及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰微笑着扶老周下跑步机",
+   "prompt_en": "The young male student smiles and helps the older man step off the treadmill.",
+   "narration": "阿杰不慌了，照顾老周也更安心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研、阿杰在核医学科门口挥手",
+   "prompt_en": "The panda mascot waves goodbye with the female graduate student and the young male student at the nuclear medicine department entrance.",
+   "narration": "懂辐射，不怕辐射。下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

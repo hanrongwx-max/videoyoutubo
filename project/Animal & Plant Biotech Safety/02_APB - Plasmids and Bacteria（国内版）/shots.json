@@ -1,0 +1,958 @@
+{
+ "id": "02_APB - Plasmids and Bacteria",
+ "edition": "国内版",
+ "series": "Animal & Plant Biotech Safety",
+ "title": "质粒、细菌与遗传转化（国内版）",
+ "seconds": 360,
+ "source_doc": "course/Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria.md",
+ "author_source": "project/Animal & Plant Biotech Safety/02_APB - Plasmids and Bacteria（国内版）/src.py",
+ "points": {
+  "K1": "什么是遗传转化",
+  "K2": "转化生物的例子",
+  "K3": "质粒是什么",
+  "K4": "质粒可以剪开、插入、复制",
+  "K5": "细菌摄取质粒并表达",
+  "K6": "教学用发光质粒",
+  "K7": "受体菌：无害的实验室菌株",
+  "K8": "先做预测",
+  "K9": "平板1：普通培养基",
+  "K10": "平板2：加抗生素，无质粒",
+  "K11": "平板3：抗生素加质粒",
+  "K12": "平板4：再加阿拉伯糖",
+  "K13": "复习与下一个活动",
+  "S1": "转化实验先评估、再审批",
+  "S2": "菌株与质粒的管理",
+  "S3": "无菌操作与个人防护",
+  "S4": "紫外灯观察要防护",
+  "S5": "培养物先灭活再处置",
+  "S6": "菌液洒落与报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，身边浮着一个环状DNA",
+   "prompt_en": "The panda mascot stands beside a lab bench with a glowing circular DNA ring floating next to it and waves at the camera.",
+   "narration": "这一课讲质粒、细菌和遗传转化。",
+   "overlay": [
+    "质粒、细菌与遗传转化"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "质粒环、细菌、培养皿、盾牌四个图标排成一行",
+   "prompt_en": "Four icons in a row: a circular plasmid ring, a rod-shaped bacterium, a petri dish and a shield. No people.",
+   "narration": "先懂原理，再守规矩做实验。",
+   "overlay": [],
+   "labels": [
+    "质粒",
+    "细菌",
+    "平板",
+    "安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着四个空白培养皿，一脸困惑",
+   "prompt_en": "The young male student holds four petri dishes with blank labels and looks confused.",
+   "narration": "阿杰配好了四种平板，却不知道有啥用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着白板上画的环状DNA",
+   "prompt_en": "The female graduate student points at a simple drawing of a circular DNA ring on a whiteboard.",
+   "narration": "小研说：先弄懂质粒，再动手转化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在白板前举起一个小细菌模型",
+   "prompt_en": "The panda mascot holds up a small toy model of a rod-shaped bacterium in front of a whiteboard.",
+   "narration": "我们从遗传转化讲起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是遗传转化",
+   "scene": "一个基因片段从左边的细胞飞向右边的细胞",
+   "prompt_en": "Diagram of a short colored gene segment moving with an arrow from one cell on the left into another cell on the right. No people.",
+   "narration": "遗传转化，是把基因从一种生物转到另一种。",
+   "overlay": [
+    "什么是遗传转化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是遗传转化",
+   "scene": "基因片段装在一个小环形载体里传送",
+   "prompt_en": "Diagram of a gene segment carried inside a small circular DNA carrier traveling between two cells. No people.",
+   "narration": "它借助人工改造的DNA分子来运送。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是遗传转化",
+   "scene": "接受了新基因的细胞发出淡淡的光",
+   "prompt_en": "Diagram of a cell that has received a new gene, now shining with a soft new color. No people.",
+   "narration": "得到外来基因的生物，叫转基因生物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是遗传转化",
+   "scene": "欣欣在三个“修饰方法”图标中圈出其中一个",
+   "prompt_en": "The panda mascot circles one of three method icons on a blank board.",
+   "narration": "转化，是现代遗传修饰的一种方法。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转化生物的例子",
+   "scene": "海面油污上，细菌图标在分解油滴",
+   "prompt_en": "Icon of an oil slick on water with small bacteria icons breaking the oil droplets apart. No people.",
+   "narration": "比如能分解溢油的细菌，",
+   "overlay": [
+    "转化生物的例子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转化生物的例子",
+   "scene": "玉米植株旁，一只害虫被挡开",
+   "prompt_en": "Icon of a healthy corn plant with a pest insect bouncing off a shield around it. No people.",
+   "narration": "能抵抗特定害虫的作物，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转化生物的例子",
+   "scene": "细菌图标旁边是药瓶图标",
+   "prompt_en": "Icon of a bacterium next to a small medicine vial with a protein symbol. No people.",
+   "narration": "还有能生产药用蛋白的细菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "质粒是什么",
+   "scene": "细菌示意图：中间一团大染色体，旁边几个小环",
+   "prompt_en": "Cross-section diagram of a bacterium with one large tangled chromosome in the middle and a few small separate DNA rings nearby. No people.",
+   "narration": "质粒是染色体之外的DNA。",
+   "overlay": [
+    "质粒是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "质粒是什么",
+   "scene": "小环复制出另一个小环",
+   "prompt_en": "Diagram of a small circular DNA ring copying itself into two identical rings. No people.",
+   "narration": "它是环状的，能自己复制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "质粒是什么",
+   "scene": "小环和大染色体各自工作，互不干扰",
+   "prompt_en": "Diagram of a small DNA ring and a large chromosome side by side, each with its own green check, not touching. No people.",
+   "narration": "它不干扰宿主染色体的正常工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "质粒可以剪开、插入、复制",
+   "scene": "环上标出几段不同颜色的基因",
+   "prompt_en": "Diagram of a circular plasmid with several colored segments marked as genes. No people.",
+   "narration": "质粒上带着基因。",
+   "overlay": [
+    "质粒可以剪开、插入、复制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "质粒可以剪开、插入、复制",
+   "scene": "一把小剪刀把环剪开一个口",
+   "prompt_en": "Diagram of a small pair of molecular scissors cutting the plasmid ring open at one point. No people.",
+   "narration": "用限制性内切酶，可以把它剪开一个口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "质粒可以剪开、插入、复制",
+   "scene": "新的基因片段嵌进缺口，环重新闭合",
+   "prompt_en": "Diagram of a new colored gene segment fitting into the gap and the ring closing again. No people.",
+   "narration": "放进新基因，环重新闭合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "质粒可以剪开、插入、复制",
+   "scene": "闭合的环在细胞质里复制成多个",
+   "prompt_en": "Diagram of the closed plasmid ring multiplying into several copies inside a cell. No people.",
+   "narration": "闭合后，它会在宿主细胞里复制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细菌摄取质粒并表达",
+   "scene": "细菌细胞膜上开小口，质粒进入",
+   "prompt_en": "Diagram of a small plasmid ring passing through the membrane into a bacterium. No people.",
+   "narration": "细菌能摄取小片段DNA。",
+   "overlay": [
+    "细菌摄取质粒并表达"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细菌摄取质粒并表达",
+   "scene": "质粒周围出现绿色小点和盾牌图标",
+   "prompt_en": "Diagram of a bacterium with a plasmid inside producing small green dots and a small shield symbol. No people.",
+   "narration": "质粒上的基因，就能在细菌里表达。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "教学用发光质粒",
+   "scene": "一个环状质粒图，上面有绿色发光段和盾牌段",
+   "prompt_en": "Diagram of a circular plasmid with a green glowing segment and a segment marked with a shield. No people.",
+   "narration": "课堂用的是商品化的教学用发光质粒。",
+   "overlay": [
+    "教学用发光质粒"
+   ],
+   "labels": [
+    "发光基因",
+    "抗性基因"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "教学用发光质粒",
+   "scene": "绿色发光的水母图标和荧光蛋白图标",
+   "prompt_en": "Icon of a glowing green jellyfish next to a small green fluorescent protein icon. No people.",
+   "narration": "一个基因让细菌发出绿色荧光，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "教学用发光质粒",
+   "scene": "抗生素药片图标被盾牌挡住",
+   "prompt_en": "Icon of an antibiotic capsule bouncing off a shield. No people.",
+   "narration": "另一个让细菌能抵抗氨苄青霉素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "教学用发光质粒",
+   "scene": "一把钥匙插进发光基因的锁",
+   "prompt_en": "Diagram of a small key labeled with a sugar symbol unlocking the green glowing gene segment. No people.",
+   "narration": "发光基因要靠阿拉伯糖来开启。",
+   "overlay": [],
+   "labels": [
+    "阿拉伯糖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "教学用发光质粒",
+   "scene": "培养皿里的菌落发出绿光，旁边打勾",
+   "prompt_en": "Icon of a petri dish with green glowing colonies and a green check beside it. No people.",
+   "narration": "看到发光，就说明转化成功了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "受体菌：无害的实验室菌株",
+   "scene": "一个圆头杆状细菌图标，旁边打着绿色勾",
+   "prompt_en": "Icon of a friendly-looking rod-shaped bacterium with a green check beside it. No people.",
+   "narration": "受体菌是大肠杆菌的一个实验室菌株。",
+   "overlay": [
+    "受体菌：无害的实验室菌株"
+   ],
+   "labels": [
+    "实验室菌株",
+    "HB101"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "受体菌：无害的实验室菌株",
+   "scene": "两个细菌图标并排：一个打勾，一个带骷髅标记被隔开",
+   "prompt_en": "Two bacteria icons side by side: one with a green check, the other with a red warning mark kept behind a barrier. No people.",
+   "narration": "它无害、常用，别和致病菌株混为一谈。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "受体菌：无害的实验室菌株",
+   "scene": "未转化细菌遇到抗生素后消失",
+   "prompt_en": "Diagram of plain bacteria fading away when antibiotic capsules surround them. No people.",
+   "narration": "没被转化的它，遇到氨苄就活不了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做预测",
+   "scene": "四个培养皿排成一排，标签空白",
+   "prompt_en": "Four petri dishes in a row with blank labels on a bench. No people.",
+   "narration": "四个平板，成分组合各不相同。",
+   "overlay": [
+    "先做预测"
+   ],
+   "labels": [
+    "普通",
+    "加氨苄",
+    "氨苄+质粒",
+    "再加糖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做预测",
+   "scene": "暂停键图标和一个问号",
+   "prompt_en": "A large pause button icon with a question mark beside it. No people.",
+   "narration": "先暂停：会长菌落吗？会发光吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做预测",
+   "scene": "阿杰在空白笔记本上画四个圆圈写预测",
+   "prompt_en": "The young male student draws four circles in a blank notebook and writes his predictions under each.",
+   "narration": "四个平板都写下预测，再写理由。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先做预测",
+   "scene": "阿杰和小研对照着比较两份笔记",
+   "prompt_en": "The young male student and the female graduate student compare two notebooks side by side.",
+   "narration": "然后再对照专家的答案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "平板1：普通培养基",
+   "scene": "第一个平板高亮，布满白色菌落",
+   "prompt_en": "The first of four petri dishes is highlighted, covered with many white bacterial colonies, no glow. No people.",
+   "narration": "平板1只有普通培养基，没加质粒。",
+   "overlay": [
+    "平板1：普通培养基"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "平板1：普通培养基",
+   "scene": "菌落密布，旁边发光图标被打叉",
+   "prompt_en": "Close view of the first dish full of colonies, with a glow icon beside it crossed out. No people.",
+   "narration": "细菌长得很多，但不会发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "平板2：加抗生素，无质粒",
+   "scene": "第二个平板高亮，空空如也",
+   "prompt_en": "The second petri dish is highlighted and is completely empty with no colonies. No people.",
+   "narration": "平板2加了氨苄，没加质粒。",
+   "overlay": [
+    "平板2：加抗生素，无质粒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "平板2：加抗生素，无质粒",
+   "scene": "抗生素图标挡住细菌",
+   "prompt_en": "Icon of antibiotic capsules surrounding bacteria that fade away. No people.",
+   "narration": "氨苄抑制细菌，所以一个菌落都不长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平板3：抗生素加质粒",
+   "scene": "第三个平板高亮，只有零星几个白色菌落",
+   "prompt_en": "The third petri dish is highlighted with only a few scattered white colonies. No people.",
+   "narration": "平板3有氨苄，也加了质粒。",
+   "overlay": [
+    "平板3：抗生素加质粒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平板3：抗生素加质粒",
+   "scene": "很多细菌中只有少数带着质粒环",
+   "prompt_en": "Diagram of many bacteria where only a few contain a small plasmid ring and survive. No people.",
+   "narration": "只有摄取了质粒的少数细菌能长出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "平板3：抗生素加质粒",
+   "scene": "零星菌落旁，发光图标被打叉",
+   "prompt_en": "The few colonies on the third dish with a glow icon beside them crossed out. No people.",
+   "narration": "缺少激活剂，它们不发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "平板4：再加阿拉伯糖",
+   "scene": "第四个平板高亮，零星菌落发绿光",
+   "prompt_en": "The fourth petri dish is highlighted with a few colonies glowing bright green under a dim lamp. No people.",
+   "narration": "平板4再加了阿拉伯糖。",
+   "overlay": [
+    "平板4：再加阿拉伯糖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "平板4：再加阿拉伯糖",
+   "scene": "四个平板并排，第三、四个打勾少量菌，只有第四个发光",
+   "prompt_en": "Four petri dishes side by side: the third and fourth have a few colonies, and only the fourth glows green. No people.",
+   "narration": "有质粒和氨苄的，只长少量菌落；",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "平板4：再加阿拉伯糖",
+   "scene": "欣欣指着发光的第四个平板",
+   "prompt_en": "The panda mascot points at the fourth petri dish glowing green.",
+   "narration": "只有加了阿拉伯糖的那个会发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "复习与下一个活动",
+   "scene": "笔记本上三处荧光笔标记和一个问号",
+   "prompt_en": "A notebook page with three highlighted lines and a question mark in the margin. No people.",
+   "narration": "划出三条要点，连上旧知识，写下疑问。",
+   "overlay": [
+    "复习与下一个活动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "复习与下一个活动",
+   "scene": "阿杰拿笔记向王老师请教",
+   "prompt_en": "The young male student holds his notes and asks the safety administrator a question.",
+   "narration": "疑问拿去和老师讨论。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "复习与下一个活动",
+   "scene": "小研和阿杰站在实验台前，台上摆着平板和冰盒",
+   "prompt_en": "The female graduate student and the young male student stand at a lab bench with petri dishes and an ice box, both in lab coats and goggles.",
+   "narration": "下一个活动，亲手把质粒转进细菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "转化实验先评估、再审批",
+   "scene": "小研在空白风险评估表上逐项打勾",
+   "prompt_en": "The female graduate student ticks items on a blank risk assessment form at a desk.",
+   "narration": "转化实验涉及重组DNA，先做风险评估。",
+   "overlay": [
+    "转化实验先评估、再审批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "转化实验先评估、再审批",
+   "scene": "法规书本图标和生物危害标志",
+   "prompt_en": "Icons of a closed law book and a biohazard warning sign side by side. No people.",
+   "narration": "要遵守国家生物安全法规。",
+   "overlay": [],
+   "labels": [
+    "生物安全法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "转化实验先评估、再审批",
+   "scene": "老周在空白审批表上签字",
+   "prompt_en": "The older man signs a blank approval form at his office desk.",
+   "narration": "按本校规定审批备案，批了才能做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "菌株与质粒的管理",
+   "scene": "冰箱里一排贴着空白标签的菌种管",
+   "prompt_en": "A lab refrigerator shelf with a neat row of small tubes, each with a blank label. No people.",
+   "narration": "菌种和质粒要登记、贴标签、专人保管。",
+   "overlay": [
+    "菌株与质粒的管理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "菌株与质粒的管理",
+   "scene": "菌种管被装进口袋带出门的图标被打叉",
+   "prompt_en": "Icon of a tube being put into a pocket and carried out of a door, crossed out with a red X. No people.",
+   "narration": "不许私自带出，也不许转送他人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "菌株与质粒的管理",
+   "scene": "从室外捡来的未知样品图标被打叉",
+   "prompt_en": "Icon of an unknown sample jar from outdoors being brought into the lab, crossed out with a red X. No people.",
+   "narration": "不把来历不明的菌株带进实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "无菌操作与个人防护",
+   "scene": "小研穿实验服、戴手套和护目镜，在酒精灯旁操作",
+   "prompt_en": "The female graduate student in lab coat, gloves and goggles works carefully next to a lit alcohol lamp.",
+   "narration": "接种转化要穿实验服，戴手套和护目镜。",
+   "overlay": [
+    "无菌操作与个人防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "无菌操作与个人防护",
+   "scene": "嘴吸移液管的图标被打叉，旁边是移液器打勾",
+   "prompt_en": "Icon of mouth pipetting crossed out with a red X, next to a hand pipette with a green check. No people.",
+   "narration": "绝不用嘴吸液，用移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "无菌操作与个人防护",
+   "scene": "酒精灯旁边的酒精瓶被移远",
+   "prompt_en": "Icon of an alcohol bottle being moved away from a lit alcohol lamp, with an arrow. No people.",
+   "narration": "灼烧接种环时，酒精瓶远离火焰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "无菌操作与个人防护",
+   "scene": "小研擦拭消毒台面后洗手",
+   "prompt_en": "The female graduate student wipes the bench with disinfectant, then washes her hands at the sink.",
+   "narration": "做完消毒台面，摘手套洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "紫外灯观察要防护",
+   "scene": "阿杰凑近紫外灯直视的图标被打叉",
+   "prompt_en": "Icon of a person staring directly into a purple ultraviolet lamp, crossed out with a red X. No people.",
+   "narration": "看荧光要用紫外灯，紫外线伤眼伤皮肤。",
+   "overlay": [
+    "紫外灯观察要防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "紫外灯观察要防护",
+   "scene": "阿杰戴上防紫外面罩和手套，观察平板",
+   "prompt_en": "The young male student wears a UV face shield and gloves while viewing a glowing plate under a lamp.",
+   "narration": "戴防紫外面罩或护目镜，不直视灯管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "培养物先灭活再处置",
+   "scene": "用过的平板、吸头、接种环装进灭菌袋",
+   "prompt_en": "Used petri dishes, pipette tips and inoculation loops placed into an autoclave bag. No people.",
+   "narration": "用过的平板、吸头和接种环，",
+   "overlay": [
+    "培养物先灭活再处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "培养物先灭活再处置",
+   "scene": "灭菌袋放进高压灭菌器",
+   "prompt_en": "An autoclave bag placed inside an open autoclave chamber. No people.",
+   "narration": "先高压灭菌，杀灭全部活菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "培养物先灭活再处置",
+   "scene": "平板扔进生活垃圾桶、菌液倒进水槽的图标被打叉",
+   "prompt_en": "Icons of a petri dish thrown into a household trash bin and liquid culture poured into a sink, both crossed out with red X marks. No people.",
+   "narration": "不能直接扔垃圾桶，也不能倒下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "培养物先灭活再处置",
+   "scene": "细菌和抗生素盾牌图标外面画着隔离圈",
+   "prompt_en": "Icon of a bacterium carrying a shield symbol enclosed inside a containment circle. No people.",
+   "narration": "转化菌带抗性基因，不能让它外泄。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "培养物先灭活再处置",
+   "scene": "灭菌后的袋子投入感染性废物桶",
+   "prompt_en": "A sealed bag placed into a biohazard waste bin after sterilization. No people.",
+   "narration": "灭活后按感染性废物交学校处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "菌液洒落与报告",
+   "scene": "菌液洒在台面上，小研用吸水纸覆盖",
+   "prompt_en": "Some liquid culture is spilled on the bench, and the female graduate student covers it with absorbent paper.",
+   "narration": "菌液洒了，先用吸水纸覆盖。",
+   "overlay": [
+    "菌液洒落与报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "菌液洒落与报告",
+   "scene": "消毒液从外向内倒在吸水纸上的示意图",
+   "prompt_en": "Diagram of disinfectant being poured onto absorbent paper from the edge toward the center. No people.",
+   "narration": "从外向内倒消毒液，按规定作用后再清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "菌液洒落与报告",
+   "scene": "小研向老周报告，老周点头记录",
+   "prompt_en": "The female graduate student reports to the older man, who nods and writes on a blank form.",
+   "narration": "沾到皮肤立即冲洗，并报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现质粒环、剪刀和细菌图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a plasmid ring, molecular scissors and a bacterium.",
+   "narration": "质粒能剪开、插入，在细菌里复制。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四个平板图标，只有第四个发光",
+   "prompt_en": "Icons of four petri dishes, only the fourth one glowing green. No people.",
+   "narration": "抗性筛选转化菌，阿拉伯糖开启发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "评估表和审批章图标",
+   "prompt_en": "Icons of a blank checklist and a round approval stamp. No people.",
+   "narration": "转化实验，先评估审批，菌种严管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、防紫外面罩和手套图标",
+   "prompt_en": "Icons of safety goggles, a UV face shield and gloves. No people.",
+   "narration": "做好防护，看荧光别直视紫外灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "灭菌器和感染性废物桶图标",
+   "prompt_en": "Icons of an autoclave and a biohazard waste bin. No people.",
+   "narration": "培养物先灭活，再按规定处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一个发光的培养皿挥手道别",
+   "prompt_en": "The panda mascot holds a closed glowing petri dish and waves goodbye at the camera.",
+   "narration": "弄懂原理，守好规矩，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

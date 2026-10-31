@@ -1,0 +1,405 @@
+{
+ "id": "02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario",
+ "edition": "国内版",
+ "series": "CDC Laboratory Safety Series",
+ "title": "新实验室的危害在哪里（国内版）",
+ "seconds": 145,
+ "source_doc": "course/CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario.md",
+ "author_source": "project/CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/src.py",
+ "points": {
+  "K1": "进入新实验室的第一天",
+  "K2": "负责人带你认识危害",
+  "K3": "还能从哪里知道危害",
+  "K4": "本课不能代替本实验室规程",
+  "S1": "门口的安全信息牌",
+  "S2": "看懂安全标志",
+  "S3": "化学品标签与SDS",
+  "S4": "安全手册、规程和风险评估",
+  "S5": "认清应急设施和逃生路线"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一间实验室门口，手搭凉棚张望",
+   "prompt_en": "The panda mascot stands at a laboratory doorway, shading its eyes with one paw and looking around curiously.",
+   "narration": "这一课：新实验室里，危害藏在哪？",
+   "overlay": [
+    "新实验室的危害在哪里"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "进入新实验室的第一天",
+   "scene": "阿杰背着书包，第一次走进一间明亮的实验室",
+   "prompt_en": "The young male student with a backpack walks into a bright university laboratory for the first time, looking around.",
+   "narration": "今天是阿杰进新实验室的第一天。",
+   "overlay": [
+    "进入新实验室的第一天"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "进入新实验室的第一天",
+   "scene": "阿杰望着满墙的试剂架和仪器，眼睛发直",
+   "prompt_en": "The young male student stares at shelves of reagent bottles with blank labels and several instruments, looking overwhelmed.",
+   "narration": "瓶瓶罐罐、大小仪器，看得他眼花。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "负责人带你认识危害",
+   "scene": "老周带着阿杰沿实验台走，指着通风柜",
+   "prompt_en": "The older man walks the young male student along the benches and points at a fume hood.",
+   "narration": "老周带他转一圈，一一指出危险的地方。",
+   "overlay": [
+    "负责人带你认识危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "负责人带你认识危害",
+   "scene": "老周指着墙角的气瓶，阿杰认真点头",
+   "prompt_en": "The older man points at a gas cylinder chained to the wall in the corner; the young male student nods seriously.",
+   "narration": "这里有气瓶，那边有化学品柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "还能从哪里知道危害",
+   "scene": "阿杰手里的本子上画了一个大问号",
+   "prompt_en": "The young male student holds a blank notebook with a big question mark icon floating above it.",
+   "narration": "可老周不会天天在身边，还能问谁？",
+   "overlay": [
+    "还能从哪里知道危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "还能从哪里知道危害",
+   "scene": "欣欣出现在阿杰身边，指向实验室四周",
+   "prompt_en": "The panda mascot appears beside the young male student and gestures around the laboratory.",
+   "narration": "其实，实验室自己就会告诉你。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "门口的安全信息牌",
+   "scene": "实验室门口挂着一块安全信息牌，牌面只有图标",
+   "prompt_en": "A laboratory door with a safety information board beside it, showing only hazard pictograms and a phone icon. No people.",
+   "narration": "先看门口的安全信息牌。",
+   "overlay": [
+    "门口的安全信息牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "门口的安全信息牌",
+   "scene": "信息牌放大：危险类别图标、人像图标、电话图标",
+   "prompt_en": "Close-up of the safety information board: a row of hazard pictograms, a person icon and a telephone icon. No people.",
+   "narration": "上面写着危险类别、负责人和应急电话。",
+   "overlay": [],
+   "labels": [
+    "危险类别",
+    "负责人",
+    "应急电话"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "门口的安全信息牌",
+   "scene": "阿杰在信息牌前用手机拍照",
+   "prompt_en": "The young male student photographs the safety information board with a blank phone.",
+   "narration": "把负责人和应急电话记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "看懂安全标志",
+   "scene": "门上并排贴着生物危害、电离辐射、激光警示标志",
+   "prompt_en": "A laboratory door with a biohazard warning sign, an ionizing radiation warning sign and a laser warning sign side by side. No people.",
+   "narration": "再看门上和设备上的安全标志。",
+   "overlay": [
+    "看懂安全标志"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "看懂安全标志",
+   "scene": "黄色三角警告、红圈禁止、蓝圆指令三种标志",
+   "prompt_en": "Three sign shapes in a row: a yellow warning triangle, a red prohibition circle, and a blue mandatory circle. No people.",
+   "narration": "黄三角警告，红圈禁止，蓝圆必须做。",
+   "overlay": [],
+   "labels": [
+    "警告",
+    "禁止",
+    "指令"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "看懂安全标志",
+   "scene": "气瓶上的颜色和标签，旁边有压缩气体图标",
+   "prompt_en": "A gas cylinder with colored shoulder bands and a compressed gas pictogram label. No people.",
+   "narration": "气瓶颜色、仪器标签，也在提示危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学品标签与SDS",
+   "scene": "小研举起一瓶试剂，标签上有红边菱形象形图",
+   "prompt_en": "The female graduate student holds up a reagent bottle whose blank label shows red-bordered diamond hazard pictograms.",
+   "narration": "化学品瓶上的标签，是第一张危险说明。",
+   "overlay": [
+    "化学品标签与SDS"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学品标签与SDS",
+   "scene": "火焰、腐蚀、骷髅、感叹号四个GHS象形图",
+   "prompt_en": "Four GHS hazard pictograms in red diamonds: a flame, corrosion, a skull and crossbones, and an exclamation mark. No people.",
+   "narration": "看象形图和信号词，就知道危险类型。",
+   "overlay": [],
+   "labels": [
+    "易燃",
+    "腐蚀",
+    "急性毒性",
+    "警告"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学品标签与SDS",
+   "scene": "小研从文件夹里取出一份空白的安全技术说明书",
+   "prompt_en": "The female graduate student takes a blank safety data sheet out of a binder labeled with a book icon.",
+   "narration": "更详细的，查安全技术说明书SDS。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学品标签与SDS",
+   "scene": "SDS页面放大，几个小图标：防护、急救、泄漏",
+   "prompt_en": "Close-up of a blank data sheet with small icons: goggles and gloves, a first aid cross, and a spill drop. No people.",
+   "narration": "防护、急救、泄漏处理，里面都有。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "安全手册、规程和风险评估",
+   "scene": "书架上一本空白的实验室安全手册和一叠规程",
+   "prompt_en": "A shelf with a blank laboratory safety manual and a stack of blank procedure binders. No people.",
+   "narration": "实验室安全手册和操作规程要读。",
+   "overlay": [
+    "安全手册、规程和风险评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "安全手册、规程和风险评估",
+   "scene": "阿杰翻看空白的风险评估表，旁边是放大镜图标",
+   "prompt_en": "The young male student reads a blank risk assessment form with a magnifier icon beside it.",
+   "narration": "风险评估记录，写明每项实验的危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "安全手册、规程和风险评估",
+   "scene": "王老师递给阿杰一本空白的化学品台账",
+   "prompt_en": "The safety administrator hands the young male student a blank chemical inventory logbook.",
+   "narration": "化学品台账，告诉你这里存了什么。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "认清应急设施和逃生路线",
+   "scene": "洗眼器、紧急喷淋、灭火器标志排成一行",
+   "prompt_en": "An eyewash sign, an emergency shower sign and a fire extinguisher sign in a row. No people.",
+   "narration": "洗眼器、喷淋、灭火器，先找到位置。",
+   "overlay": [
+    "认清应急设施和逃生路线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "认清应急设施和逃生路线",
+   "scene": "安全出口标志下，绿色箭头指向走廊",
+   "prompt_en": "A green emergency exit sign above a door, with a green arrow pointing down a corridor. No people.",
+   "narration": "疏散路线和安全出口，也要走一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "认清应急设施和逃生路线",
+   "scene": "王老师在培训室给新生讲课，阿杰举手提问",
+   "prompt_en": "The safety administrator teaches new students in a training room; the young male student raises his hand to ask a question.",
+   "narration": "入室培训和考核，帮你把这些串起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "负责人带你认识危害",
+   "scene": "老周拍拍阿杰肩膀，指着信息牌",
+   "prompt_en": "The older man pats the young male student on the shoulder and points at the safety information board.",
+   "narration": "看不懂的，随时问负责人和安全员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "本课不能代替本实验室规程",
+   "scene": "一张空白课程卡片和一本更大的空白规程手册",
+   "prompt_en": "A small blank course card next to a larger blank procedure binder with a check mark. No people.",
+   "narration": "这门课不能代替本实验室的规程。",
+   "overlay": [
+    "本课不能代替本实验室规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现信息牌、标志、标签三个图标",
+   "prompt_en": "The panda mascot stands beside floating icons of an information board, a warning sign and a bottle label.",
+   "narration": "门口看信息牌，墙上看标志。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "SDS、手册、风险评估表三个图标",
+   "prompt_en": "Three icons: a blank data sheet, a blank manual, and a blank risk assessment checklist. No people.",
+   "narration": "瓶上看标签，细节查SDS和手册。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "洗眼器和安全出口图标",
+   "prompt_en": "Icons of an eyewash station and an emergency exit sign side by side. No people.",
+   "narration": "应急设施和出口，第一天就认清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰站在安全信息牌前挥手",
+   "prompt_en": "The panda mascot and the young male student wave goodbye in front of the laboratory safety information board.",
+   "narration": "危害看得见，安全才心安，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

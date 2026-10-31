@@ -1,0 +1,1015 @@
+{
+ "id": "07_How to Quantify DNA with a Spectrophotometer",
+ "edition": "国内版",
+ "series": "General Lab Safety Practices",
+ "title": "用紫外分光光度计测DNA浓度（国内版）",
+ "seconds": 375,
+ "source_doc": "course/General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer.md",
+ "author_source": "project/General Lab Safety Practices/07_How to Quantify DNA with a Spectrophotometer（国内版）/src.py",
+ "points": {
+  "K1": "测量原理：DNA吸收紫外光",
+  "K2": "认识微量分光光度计",
+  "K3": "先做空白",
+  "K4": "擦净检测面再上样",
+  "K5": "读出浓度",
+  "K6": "看比值判断纯度",
+  "K7": "常见错误：测未纯化的PCR产物",
+  "K8": "未纯化样品的浓度不可信",
+  "K9": "又纯又浓，测量成功",
+  "S1": "准入培训与使用登记",
+  "S2": "个人防护",
+  "S3": "认清样品的风险",
+  "S4": "仪器与移液器的规范使用",
+  "S5": "溅洒与接触的应急处置",
+  "S6": "用后清洁与废弃物处置",
+  "S7": "实验室卫生习惯"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上有一台小巧的分光光度计和电脑",
+   "prompt_en": "The panda mascot stands beside a lab bench with a small benchtop spectrophotometer connected to a computer with a blank screen, and waves at the camera.",
+   "narration": "这一课讲怎样用紫外光测DNA浓度。",
+   "overlay": [
+    "用紫外分光光度计测DNA浓度"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "DNA双螺旋、紫外光束和对勾三个图标排成一行",
+   "prompt_en": "Three icons in a row from left to right: a DNA double helix, a violet light beam, and a magnifying glass with a check mark. No people.",
+   "narration": "测浓度，也要看纯度。",
+   "overlay": [],
+   "labels": [
+    "测浓度",
+    "看纯度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰盯着电脑屏幕，兴奋地举起一支小离心管",
+   "prompt_en": "The young male student looks at a computer screen with a blank chart and excitedly holds up a small sample tube.",
+   "narration": "阿杰刚做完PCR，直接拿反应液来测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "屏幕旁浮现一个特别高的柱子图标，阿杰欢呼",
+   "prompt_en": "A very tall bar icon pops up beside the blank screen; the young male student cheers with both fists up.",
+   "narration": "读数特别高，他以为产物多得很。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研走过来，指着屏幕摇头",
+   "prompt_en": "The female graduate student walks over, points at the blank screen and gently shakes her head.",
+   "narration": "小研说：先别高兴，这个数可能不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给阿杰一副手套",
+   "prompt_en": "The female graduate student hands a pair of nitrile gloves to the young male student next to the bench.",
+   "narration": "戴好手套，我们从原理讲起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods encouragingly.",
+   "narration": "一步一步，学会测准DNA。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "测量原理：DNA吸收紫外光",
+   "scene": "欣欣举起一个DNA双螺旋模型",
+   "prompt_en": "The panda mascot holds up a colorful DNA double helix model and smiles.",
+   "narration": "原理很简单：DNA会吸收紫外光。",
+   "overlay": [
+    "测量原理：DNA吸收紫外光"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "测量原理：DNA吸收紫外光",
+   "scene": "一束紫光穿过小液滴，出来时变暗",
+   "prompt_en": "A violet light beam passes through a small droplet; the beam coming out the other side is dimmer. No people.",
+   "narration": "DNA越多，被吸收的光就越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "测量原理：DNA吸收紫外光",
+   "scene": "四个不同颜色的小积木，各自上方有一个小峰",
+   "prompt_en": "Four small blocks in four colors, each with a small hump curve above it at slightly different positions. No people.",
+   "narration": "四种核苷酸的吸收波长稍有不同。",
+   "overlay": [],
+   "labels": [
+    "A",
+    "T",
+    "G",
+    "C"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "测量原理：DNA吸收紫外光",
+   "scene": "四个小峰合成一个大峰",
+   "prompt_en": "The four small hump curves merge into one large smooth peak on a blank chart. No people.",
+   "narration": "合在一起，吸收峰在260纳米左右。",
+   "overlay": [],
+   "labels": [
+    "260 nm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识微量分光光度计",
+   "scene": "台式微量分光光度计特写，样品臂抬起露出检测面",
+   "prompt_en": "Close-up of a small benchtop spectrophotometer with its sample arm lifted, showing a tiny round measuring spot. No people.",
+   "narration": "我们用台式微量紫外分光光度计。",
+   "overlay": [
+    "认识微量分光光度计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识微量分光光度计",
+   "scene": "一滴小水珠落在检测面上",
+   "prompt_en": "A single tiny droplet sits on the round measuring spot of the instrument. No people.",
+   "narration": "不用比色皿，一两微升就能测。",
+   "overlay": [],
+   "labels": [
+    "1–2 µL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识微量分光光度计",
+   "scene": "仪器连着电脑，屏幕上一张空白坐标图",
+   "prompt_en": "The spectrophotometer is cabled to a computer showing a blank chart with empty axes. No people.",
+   "narration": "结果在电脑上显示成一条光谱曲线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "小研穿实验服戴手套，拿起移液器",
+   "prompt_en": "The female graduate student, wearing a lab coat and gloves, picks up a micropipette at the bench.",
+   "narration": "第一步，先做空白。",
+   "overlay": [
+    "先做空白"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "两只小管并排，一只装水，一只装DNA溶液",
+   "prompt_en": "Two small tubes side by side, one with clear water and one with a clear sample, both with blank labels, linked by an equals sign icon. No people.",
+   "narration": "空白要用稀释DNA的同一种溶液。",
+   "overlay": [],
+   "labels": [
+    "溶剂",
+    "样品"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "放大的水管图标",
+   "prompt_en": "A small tube of clear water glowing with a check mark. No people.",
+   "narration": "这次DNA溶在水里，就用水做空白。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "小研抬起样品臂，在检测面上点一小滴水",
+   "prompt_en": "The female graduate student lifts the sample arm and places a tiny droplet of water on the measuring spot with a micropipette.",
+   "narration": "吸取1.5微升，点在检测面上。",
+   "overlay": [],
+   "labels": [
+    "1.5 µL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "小研放下样品臂，点击鼠标",
+   "prompt_en": "The female graduate student lowers the sample arm and clicks the mouse; the blank screen shows a spinning wait icon.",
+   "narration": "合上样品臂，点击空白按钮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "屏幕上的坐标图变成一条平直的基线",
+   "prompt_en": "Close-up of the computer screen: a flat baseline appears on the blank chart. No people.",
+   "narration": "这样就扣除了溶剂本身的吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净检测面再上样",
+   "scene": "小研抬起样品臂，用无尘纸擦检测面",
+   "prompt_en": "The female graduate student lifts the sample arm and wipes the measuring spot with a plain white lint-free tissue.",
+   "narration": "上样前，用干净无尘纸擦净检测面。",
+   "overlay": [
+    "擦净检测面再上样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净检测面再上样",
+   "scene": "上下两个检测面都擦干净，闪亮",
+   "prompt_en": "Both the upper and lower measuring spots shine clean with a sparkle icon. No people.",
+   "narration": "上下两个检测面都要擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净检测面再上样",
+   "scene": "小研把1.5微升样品点在检测面上",
+   "prompt_en": "The female graduate student carefully places a tiny droplet of sample on the measuring spot with a micropipette.",
+   "narration": "再加1.5微升DNA样品。",
+   "overlay": [],
+   "labels": [
+    "1.5 µL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净检测面再上样",
+   "scene": "带气泡的液滴图标被打叉，圆润液滴打勾",
+   "prompt_en": "Two droplet icons: one with small bubbles inside crossed out with a red X, and one smooth round droplet with a green check. No people.",
+   "narration": "看一眼液滴，不能有气泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净检测面再上样",
+   "scene": "小研合上样品臂，点击测量",
+   "prompt_en": "The female graduate student lowers the sample arm and clicks the mouse.",
+   "narration": "合上样品臂，点击测量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "屏幕上出现一条曲线，260处有个高峰",
+   "prompt_en": "Close-up of the screen: a smooth curve rises to a tall single peak in the middle of the blank chart. No people.",
+   "narration": "260纳米处出现一个明显的峰。",
+   "overlay": [
+    "读出浓度"
+   ],
+   "labels": [
+    "260 nm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "峰上亮起DNA双螺旋图标",
+   "prompt_en": "A small DNA double helix icon lights up at the top of the peak. No people.",
+   "narration": "这个峰，就是DNA的吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "吸光度乘以系数得到浓度的示意",
+   "prompt_en": "A blank card with an arrow pointing from the peak height to a blank result box, with a multiplication icon in between. No people.",
+   "narration": "软件按260处的吸光度换算浓度。",
+   "overlay": [],
+   "labels": [
+    "吸光度×系数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "结果框亮起",
+   "prompt_en": "The blank result box glows green with a check mark. No people.",
+   "narration": "这个样品，约200纳克每微升。",
+   "overlay": [],
+   "labels": [
+    "≈200 ng/µL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "曲线上230和280两处被放大镜照亮",
+   "prompt_en": "A magnifying glass moves along the curve and highlights two spots, one on the left and one on the right of the main peak. No people.",
+   "narration": "只看浓度还不够，还要看纯度。",
+   "overlay": [
+    "看比值判断纯度"
+   ],
+   "labels": [
+    "230 nm",
+    "280 nm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "蛋白分子、盐晶体图标靠近280和230",
+   "prompt_en": "A protein molecule icon floats near the right spot and small salt crystal icons float near the left spot. No people.",
+   "narration": "230和280附近，是杂质吸收的地方。",
+   "overlay": [],
+   "labels": [
+    "盐等杂质",
+    "蛋白"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "干净的单峰曲线，两侧平滑",
+   "prompt_en": "A clean single peak curve with smooth flat sides and no extra bumps, with a green check. No people.",
+   "narration": "这两处没有异常吸收，说明样品较纯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "两张比值卡片",
+   "prompt_en": "Two blank ratio cards side by side, each with a green check mark. No people.",
+   "narration": "也可以看两个吸光度比值。",
+   "overlay": [],
+   "labels": [
+    "260/280",
+    "260/230"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "第一张卡片亮起",
+   "prompt_en": "The first ratio card lights up next to a DNA helix icon. No people.",
+   "narration": "纯DNA的260比280，约1.8。",
+   "overlay": [],
+   "labels": [
+    "≈1.8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "第二张卡片亮起",
+   "prompt_en": "The second ratio card lights up next to a DNA helix icon. No people.",
+   "narration": "260比230，一般在2.0到2.2左右。",
+   "overlay": [],
+   "labels": [
+    "≈2.0–2.2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "欣欣竖起大拇指",
+   "prompt_en": "The panda mascot gives a thumbs up beside a clean peak icon.",
+   "narration": "样品纯，读出的才是DNA浓度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "欣欣指着一本空白的说明书",
+   "prompt_en": "The panda mascot points at a blank instrument manual on the bench.",
+   "narration": "参考范围以说明书和本室规程为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "阿杰拿着PCR反应管，小研指着它",
+   "prompt_en": "The young male student holds a small reaction tube; the female graduate student points at it.",
+   "narration": "常见错误：直接测未纯化的PCR产物。",
+   "overlay": [
+    "常见错误：测未纯化的PCR产物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "阿杰在检测面上点样，点击测量",
+   "prompt_en": "The young male student, wearing gloves, places a tiny droplet on the measuring spot and clicks the mouse.",
+   "narration": "我们也加1.5微升，看看结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "屏幕上曲线左端高高翘起",
+   "prompt_en": "Close-up of the screen: the curve shoots up very high at the left edge of the chart, with only a small bump in the middle. No people.",
+   "narration": "230纳米附近，吸收高得吓人。",
+   "overlay": [],
+   "labels": [
+    "230 nm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "中间的小鼓包向右移动，变得歪斜",
+   "prompt_en": "The small bump in the middle of the curve looks lopsided and shifted toward the right. No people.",
+   "narration": "原来的主峰也变了形，偏向280。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "比值卡片亮起红灯",
+   "prompt_en": "Two blank ratio cards turn red with warning triangle icons. No people.",
+   "narration": "两个比值都明显偏低。",
+   "overlay": [],
+   "labels": [
+    "260/280偏低",
+    "260/230很低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "常见错误：测未纯化的PCR产物",
+   "scene": "反应管里浮出蛋白、盐、引物等小图标",
+   "prompt_en": "Small icons float out of a reaction tube: a protein molecule, salt crystals and short strand pieces. No people.",
+   "narration": "反应液里有蛋白、盐和其他成分。",
+   "overlay": [],
+   "labels": [
+    "蛋白",
+    "盐",
+    "其他成分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "未纯化样品的浓度不可信",
+   "scene": "高高的柱子图标出现裂纹",
+   "prompt_en": "The very tall bar icon from before cracks down the middle. No people.",
+   "narration": "这时读出的浓度，不能当真。",
+   "overlay": [
+    "未纯化样品的浓度不可信"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "未纯化样品的浓度不可信",
+   "scene": "长链DNA和许多散落的小核苷酸图标一起吸收紫光",
+   "prompt_en": "A violet beam hits both long DNA strands and many small scattered nucleotide pieces, all glowing. No people.",
+   "narration": "没用完的dNTP，也在260吸收。",
+   "overlay": [],
+   "labels": [
+    "PCR产物",
+    "dNTP"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "未纯化样品的浓度不可信",
+   "scene": "天平图标一边是产物，一边是小碎片，碎片很多",
+   "prompt_en": "A balance scale icon with one long strand on one side and a pile of small nucleotide pieces on the other side. No people.",
+   "narration": "读数里混进了大量单个核苷酸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "未纯化样品的浓度不可信",
+   "scene": "小研把反应管放进纯化柱，旁边一个干净小管",
+   "prompt_en": "The female graduate student places a reaction tube next to a small spin column and a clean empty tube.",
+   "narration": "要测PCR产物，先纯化，再定量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "未纯化样品的浓度不可信",
+   "scene": "阿杰恍然大悟，点头",
+   "prompt_en": "The young male student nods with a lightbulb icon above his head.",
+   "narration": "阿杰明白了：数大不等于产物多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "又纯又浓，测量成功",
+   "scene": "欣欣捧着干净的样品管，旁边是一个干净单峰图标",
+   "prompt_en": "The panda mascot holds a clean sample tube next to a clean single peak icon with a green check.",
+   "narration": "第一个样品又纯又浓，测量成功！",
+   "overlay": [
+    "又纯又浓，测量成功"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与使用登记",
+   "scene": "王老师给阿杰讲解仪器操作规程",
+   "prompt_en": "The safety administrator explains a blank operating procedure card to the young male student next to the spectrophotometer.",
+   "narration": "第一次用仪器，先培训，再看操作规程。",
+   "overlay": [
+    "准入培训与使用登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与使用登记",
+   "scene": "阿杰在空白的使用登记本上签字",
+   "prompt_en": "The young male student signs a blank instrument logbook beside the spectrophotometer.",
+   "narration": "使用前后登记，发现故障及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护",
+   "scene": "小研穿好实验服、戴手套和护目镜",
+   "prompt_en": "The female graduate student stands at the bench wearing a buttoned lab coat, safety goggles and nitrile gloves.",
+   "narration": "实验服、手套，必要时戴护目镜。",
+   "overlay": [
+    "个人防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护",
+   "scene": "徒手点样的图标被打叉",
+   "prompt_en": "An icon of a bare hand holding a micropipette, crossed out with a red X. No people.",
+   "narration": "不要徒手处理样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护",
+   "scene": "手套一边护着手，一边护着样品管",
+   "prompt_en": "A gloved hand holding a sample tube, with a shield icon over the hand and another shield icon over the tube. No people.",
+   "narration": "手套护自己，也防样品被污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认清样品的风险",
+   "scene": "小研对照试剂盒阅读空白的安全技术说明书",
+   "prompt_en": "The female graduate student reads a blank safety data sheet next to a reagent kit box with a blank label.",
+   "narration": "用试剂盒前，先看标签和说明书。",
+   "overlay": [
+    "认清样品的风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认清样品的风险",
+   "scene": "质粒和工程菌图标，旁边是生物危害标志",
+   "prompt_en": "Icons of a small circular plasmid and a rod-shaped bacterium next to a biohazard warning sign. No people.",
+   "narration": "重组DNA和工程菌，按生物安全规定管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "认清样品的风险",
+   "scene": "王老师在登记本上核对",
+   "prompt_en": "The safety administrator checks a blank register at a lab freezer.",
+   "narration": "具体要求，以本校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "仪器与移液器的规范使用",
+   "scene": "移液器竖直吸液，横放的移液器图标被打叉",
+   "prompt_en": "An icon of a micropipette held upright with a green check, and an icon of a micropipette lying on its side with liquid in the tip crossed out with a red X. No people.",
+   "narration": "移液器竖直使用，带液时不要横放。",
+   "overlay": [
+    "仪器与移液器的规范使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "仪器与移液器的规范使用",
+   "scene": "样品臂轻轻放下",
+   "prompt_en": "Close-up of a gloved hand gently lowering the sample arm of the spectrophotometer.",
+   "narration": "样品臂轻抬轻放，测量时保持合上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "仪器与移液器的规范使用",
+   "scene": "液体远离电脑和键盘",
+   "prompt_en": "Sample tubes in a rack placed well away from the computer keyboard, and a separate icon of a cup spilling on a keyboard crossed out with a red X. No people.",
+   "narration": "液体远离电脑、键盘和插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "小研用吸水纸处理台面一小滴溅洒",
+   "prompt_en": "The female graduate student, wearing gloves, covers a small spill on the bench with absorbent paper.",
+   "narration": "少量溅洒，按规程吸附、擦拭消毒。",
+   "overlay": [
+    "溅洒与接触的应急处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "洗眼器标志，旁边是洗眼器",
+   "prompt_en": "An eyewash sign above a lab eyewash station with water flowing. No people.",
+   "narration": "溅入眼睛，立即用洗眼器冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "阿杰向老周报告",
+   "prompt_en": "The young male student reports to the older man in the lab doorway; the older man listens and nods.",
+   "narration": "事后报告实验室负责人，必要时就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "用后清洁与废弃物处置",
+   "scene": "小研用沾水的无尘纸擦净检测面",
+   "prompt_en": "The female graduate student wipes both measuring spots with a lint-free tissue moistened with water.",
+   "narration": "测完擦净检测面，不留残液。",
+   "overlay": [
+    "用后清洁与废弃物处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "用后清洁与废弃物处置",
+   "scene": "用过的吸头和擦拭纸放入带空白标签的废物盒",
+   "prompt_en": "A gloved hand drops used pipette tips and tissues into a closed waste box with a blank label.",
+   "narration": "吸头和擦拭纸，按本校规定分类收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "用后清洁与废弃物处置",
+   "scene": "随手扔进普通垃圾桶的图标被打叉",
+   "prompt_en": "An icon of used pipette tips tossed into an ordinary trash can, crossed out with a red X. No people.",
+   "narration": "沾过生物样品的，不进普通垃圾桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "用后清洁与废弃物处置",
+   "scene": "剩余样品管盖紧，放入冰箱",
+   "prompt_en": "The female graduate student closes the lid of a sample tube with a blank label and puts it into a lab freezer.",
+   "narration": "剩余样品贴好标签，盖紧放回冰箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "实验室卫生习惯",
+   "scene": "实验台上的水杯和零食图标被打叉",
+   "prompt_en": "Icons of a drink cup and a snack on a lab bench, crossed out with a red X. No people.",
+   "narration": "实验室里不饮食。",
+   "overlay": [
+    "实验室卫生习惯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "实验室卫生习惯",
+   "scene": "阿杰摘下手套，在水槽边洗手",
+   "prompt_en": "The young male student takes off his gloves and washes his hands with soap at a lab sink.",
+   "narration": "离开前摘手套、洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现水滴和空白基线图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a water droplet and a flat baseline.",
+   "narration": "先用同一溶剂做空白。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "擦拭纸和圆润液滴图标",
+   "prompt_en": "Icons of a lint-free tissue and a smooth round droplet with no bubbles. No people.",
+   "narration": "擦净检测面，上样无气泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "一个干净单峰和两张比值卡片",
+   "prompt_en": "A clean single peak icon next to two blank ratio cards with green checks. No people.",
+   "narration": "看260的峰，也看两个比值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "反应管经过纯化柱变干净的图标",
+   "prompt_en": "An icon of a reaction tube passing through a spin column and coming out as a clean tube. No people.",
+   "narration": "PCR产物要先纯化再定量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "手套、登记本和废物盒图标",
+   "prompt_en": "Icons of gloves, a blank logbook and a closed waste box in a row. No people.",
+   "narration": "做好防护，规范处置废弃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in front of a tidy lab bench.",
+   "narration": "测得准，用得放心，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

@@ -1,0 +1,720 @@
+{
+ "id": "06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions",
+ "edition": "国内版",
+ "series": "ACS Hazard Communication & Safety",
+ "title": "安全知识问答：读懂职业接触限值（国内版）",
+ "seconds": 270,
+ "source_doc": "course/ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions.md",
+ "author_source": "project/ACS Hazard Communication & Safety/06_What is TLV, TWA, STEL & IDLH HSE officer Interview Questions（国内版）/src.py",
+ "points": {
+  "K1": "阈限值：一辈子接触的界线",
+  "K2": "时间加权平均浓度",
+  "K3": "短时间接触限值",
+  "K4": "立即威胁生命和健康的浓度",
+  "K5": "四个术语怎么区分",
+  "S1": "国内用的三类接触限值",
+  "S2": "限值不是安全线",
+  "S3": "浓度靠检测，不靠感觉",
+  "S4": "呼吸防护要选对",
+  "S5": "职业健康检查与告知"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在问答台后，台上亮着问号灯",
+   "prompt_en": "The panda mascot stands behind a quiz desk with a glowing question-mark lamp and waves at the camera.",
+   "narration": "安全知识问答，今天读懂接触限值。",
+   "overlay": [
+    "安全知识问答：读懂职业接触限值"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "四张空白卡片排成一行，每张上面一个时间图标",
+   "prompt_en": "Four blank cards in a row, each with a different icon: a calendar of many years, a clock, an hourglass, and a red alarm bell. No people.",
+   "narration": "四个英文缩写，其实一点不难。",
+   "overlay": [],
+   "labels": [
+    "TLV",
+    "TWA",
+    "STEL",
+    "IDLH"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰盯着说明书上的空白表格，挠头",
+   "prompt_en": "The young male student stares at a blank table in a data sheet at his bench and scratches his head, wearing a lab coat and safety glasses.",
+   "narration": "阿杰在说明书里看到一串缩写。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰转头问小研，小研笑着走过来",
+   "prompt_en": "The young male student turns to ask the female graduate student, who walks over smiling.",
+   "narration": "这些数字，到底是什么意思？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着通风柜，又指指说明书",
+   "prompt_en": "The female graduate student points at a running fume hood, then at the blank data sheet.",
+   "narration": "它们说的是：空气里有多少才算多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在问答台前竖起一根手指",
+   "prompt_en": "The panda mascot stands at the quiz desk and raises one finger.",
+   "narration": "我们一个一个来认识。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "阈限值：一辈子接触的界线",
+   "scene": "一条很长的时间轴，从年轻到退休的人形图标",
+   "prompt_en": "A long timeline with person pictograms from young to old walking along it, and a calendar icon. No people.",
+   "narration": "第一个：阈限值。",
+   "overlay": [
+    "阈限值：一辈子接触的界线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "阈限值：一辈子接触的界线",
+   "scene": "空气中的有害物质小点，浓度线在虚线以下",
+   "prompt_en": "Small dots representing a hazardous substance floating in air, with a level line below a dashed limit line. No people.",
+   "narration": "它是空气中有害物质的一个浓度界线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "阈限值：一辈子接触的界线",
+   "scene": "一年年翻过的日历和健康的心形图标",
+   "prompt_en": "Calendar pages flipping year after year next to a healthy heart icon with a green check. No people.",
+   "narration": "在此之下，天天接触、干一辈子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "阈限值：一辈子接触的界线",
+   "scene": "长期影响和短期影响两个图标都打勾",
+   "prompt_en": "Two icons, a long arrow and a short arrow, each with a green check mark beside a person pictogram. No people.",
+   "narration": "大多数人长期短期都不受伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间加权平均浓度",
+   "scene": "一天的时钟图标和一周日历，五天亮起",
+   "prompt_en": "A clock icon showing a workday next to a weekly calendar with five days highlighted. No people.",
+   "narration": "第二个：时间加权平均浓度。",
+   "overlay": [
+    "时间加权平均浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间加权平均浓度",
+   "scene": "一天里高低起伏的浓度曲线，被拉平成一条虚线",
+   "prompt_en": "A wavy concentration line over a workday that is averaged into a flat dashed line. No people.",
+   "narration": "把一天里高高低低的浓度，平均一下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间加权平均浓度",
+   "scene": "平均线位于限值线以下，打勾",
+   "prompt_en": "The flat average line sits below a red limit line, with a green check mark. No people.",
+   "narration": "按正常工时算，平均值不能超。",
+   "overlay": [],
+   "labels": [
+    "每天8小时",
+    "每周40小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间加权平均浓度",
+   "scene": "小研在通风柜前做实验，旁边的平均线平稳",
+   "prompt_en": "The female graduate student works calmly at a fume hood, wearing a lab coat, gloves and safety glasses.",
+   "narration": "不超这条线，正常工作不伤身体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间加权平均浓度",
+   "scene": "空白数字牌被打叉",
+   "prompt_en": "A blank number plate crossed out with a red X next to a blank standards booklet. No people.",
+   "narration": "具体数值，查国家标准，不靠背。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "短时间接触限值",
+   "scene": "沙漏图标和一段短尖峰",
+   "prompt_en": "An hourglass icon next to a line chart with one short spike. No people.",
+   "narration": "第三个：短时间接触限值。",
+   "overlay": [
+    "短时间接触限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "短时间接触限值",
+   "scene": "阿杰倒溶剂的瞬间，浓度短暂升高",
+   "prompt_en": "The young male student pours a solvent inside a fume hood, and a small spike icon appears above the bottle.",
+   "narration": "倒试剂、开瓶时，浓度会短暂冒高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "短时间接触限值",
+   "scene": "尖峰被一条红线压住，旁边沙漏",
+   "prompt_en": "The short spike stays under a red limit line, with an hourglass icon showing a short time. No people.",
+   "narration": "短时间内的最高浓度，也有上限。",
+   "overlay": [],
+   "labels": [
+    "最长15分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "短时间接触限值",
+   "scene": "平均线合格但尖峰超线，打叉",
+   "prompt_en": "A chart where the average line is fine but one spike crosses the red limit line, crossed out with a red X. No people.",
+   "narration": "平均没超，尖峰超了，也不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "立即威胁生命和健康的浓度",
+   "scene": "红色警报铃和骷髅图标",
+   "prompt_en": "A red alarm bell icon next to a skull pictogram inside a red warning frame. No people.",
+   "narration": "第四个：立即威胁生命和健康的浓度。",
+   "overlay": [
+    "立即威胁生命和健康的浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "立即威胁生命和健康的浓度",
+   "scene": "浓度条冲到最高的深红区",
+   "prompt_en": "A concentration bar filling up into a dark red zone at the top. No people.",
+   "narration": "到这个浓度，一接触就可能致命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "立即威胁生命和健康的浓度",
+   "scene": "小人图标向出口跑，背后是气体云",
+   "prompt_en": "A person pictogram running toward an exit sign away from a dark gas cloud. No people.",
+   "narration": "这样的环境，人不能在里面作业。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "立即威胁生命和健康的浓度",
+   "scene": "有人想冲进气体云救人，被打叉",
+   "prompt_en": "An icon of a person rushing into a dark gas cloud, crossed out with a red X. No people.",
+   "narration": "也绝不能贸然冲进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "四个术语怎么区分",
+   "scene": "四个台阶，从低到高，分别放四个图标",
+   "prompt_en": "Four steps rising from low to high, with a calendar, a clock, an hourglass and a red alarm bell on each step. No people.",
+   "narration": "四个概念，像四级台阶。",
+   "overlay": [
+    "四个术语怎么区分"
+   ],
+   "labels": [
+    "一辈子",
+    "每天平均",
+    "短时间",
+    "立即危险"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "四个术语怎么区分",
+   "scene": "欣欣指着第一、二级台阶",
+   "prompt_en": "The panda mascot points at the first two steps.",
+   "narration": "前两个看长期和每天的平均。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "四个术语怎么区分",
+   "scene": "欣欣指着第三、四级台阶",
+   "prompt_en": "The panda mascot points at the top two steps, the hourglass and the alarm bell.",
+   "narration": "后两个看短时尖峰和立即危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内用的三类接触限值",
+   "scene": "空白国家标准文件，封面一个盾牌图标",
+   "prompt_en": "A blank national standards booklet with a shield icon on the cover. No people.",
+   "narration": "在国内，我们看职业接触限值标准。",
+   "overlay": [
+    "国内用的三类接触限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内用的三类接触限值",
+   "scene": "三张卡片：平均线、短尖峰、一条绝不能碰的红线",
+   "prompt_en": "Three cards: a flat average line, a short spike under a line, and a solid red ceiling line. No people.",
+   "narration": "分三类：时间加权、短时间、最高容许。",
+   "overlay": [],
+   "labels": [
+    "PC-TWA",
+    "PC-STEL",
+    "MAC"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内用的三类接触限值",
+   "scene": "第三张卡片上的红线被高亮",
+   "prompt_en": "The third card with the solid red ceiling line glows. No people.",
+   "narration": "最高容许浓度，任何时候都不能超。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国内用的三类接触限值",
+   "scene": "欣欣指向空白标准，旁边打叉的外文缩写卡",
+   "prompt_en": "The panda mascot points at the blank national standards booklet; beside it a blank foreign card is set aside.",
+   "narration": "国外缩写只作了解，以国标为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "限值不是安全线",
+   "scene": "限值线下方仍有小小的警示三角",
+   "prompt_en": "A red limit line with a small yellow warning triangle still visible below it. No people.",
+   "narration": "低于限值，不等于绝对安全。",
+   "overlay": [
+    "限值不是安全线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "限值不是安全线",
+   "scene": "孕妇和过敏人群的小人图标",
+   "prompt_en": "Person pictograms for a pregnant woman and a person sneezing, each with a small caution icon. No people.",
+   "narration": "有人更敏感，需要额外保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "限值不是安全线",
+   "scene": "倒金字塔：消除、替代、工程、管理、防护",
+   "prompt_en": "An inverted pyramid divided into five blank levels, the top widest, with icons: crossed-out bottle, swap arrows, fume hood, clipboard, gloves. No people.",
+   "narration": "能少用就少用，能换就换。",
+   "overlay": [],
+   "labels": [
+    "消除",
+    "替代",
+    "工程控制",
+    "管理控制",
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "限值不是安全线",
+   "scene": "阿杰把挥发性试剂放进通风柜操作",
+   "prompt_en": "The young male student moves an open solvent bottle into a fume hood and works with the sash lowered, wearing gloves and safety glasses.",
+   "narration": "挥发性操作，放进通风柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "限值不是安全线",
+   "scene": "浓度箭头一路向下",
+   "prompt_en": "A concentration arrow pointing steadily downward to a low level. No people.",
+   "narration": "接触越低越好，不是贴线就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "浓度靠检测，不靠感觉",
+   "scene": "鼻子图标被打叉，旁边是检测仪图标",
+   "prompt_en": "A nose icon crossed out with a red X next to a handheld gas detector icon with a check mark. No people.",
+   "narration": "浓度高不高，鼻子说了不算。",
+   "overlay": [
+    "浓度靠检测，不靠感觉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "浓度靠检测，不靠感觉",
+   "scene": "老李在实验室墙上检查固定式气体报警器",
+   "prompt_en": "The facility engineer checks a wall-mounted gas detector in a lab with a blank tablet.",
+   "narration": "用有毒气体的房间，装报警器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "浓度靠检测，不靠感觉",
+   "scene": "老李给报警器做标定，贴空白合格签",
+   "prompt_en": "The facility engineer calibrates the gas detector and attaches a blank inspection tag.",
+   "narration": "报警器要定期检定，确保好用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "浓度靠检测，不靠感觉",
+   "scene": "王老师手持便携检测仪，旁边空白记录单",
+   "prompt_en": "The safety administrator holds a portable gas detector next to a blank record sheet on a clipboard.",
+   "narration": "需要时请专业机构检测，留好记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "浓度靠检测，不靠感觉",
+   "scene": "报警器亮红灯，小人沿箭头撤离",
+   "prompt_en": "The wall detector flashes red while person pictograms walk out along an evacuation arrow. No people.",
+   "narration": "一报警，立刻停下，撤离报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "呼吸防护要选对",
+   "scene": "口罩、防毒面具、长管供气面罩三个图标",
+   "prompt_en": "Three icons: a dust mask, a half-face respirator with cartridges, and a supplied-air full-face mask with a hose. No people.",
+   "narration": "呼吸防护，不是随便戴个口罩。",
+   "overlay": [
+    "呼吸防护要选对"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "呼吸防护要选对",
+   "scene": "滤毒罐图标对应不同气体颜色块",
+   "prompt_en": "A respirator cartridge icon next to several blank colored blocks, with a matching arrow. No people.",
+   "narration": "过滤式要选对滤毒罐，按时更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "呼吸防护要选对",
+   "scene": "缺氧环境中戴过滤式面具的小人，被打叉",
+   "prompt_en": "A person pictogram wearing a filter respirator inside a low-oxygen tank icon, crossed out with a red X. No people.",
+   "narration": "缺氧或浓度极高，过滤式不管用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "呼吸防护要选对",
+   "scene": "小研对着镜子检查面罩密合",
+   "prompt_en": "The female graduate student adjusts a half-face respirator and checks the seal with both hands.",
+   "narration": "戴前要培训，戴时检查密合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "呼吸防护要选对",
+   "scene": "通风柜和面具图标，通风柜在前",
+   "prompt_en": "A fume hood icon placed in front of a respirator icon, with an arrow showing order. No people.",
+   "narration": "先靠通风，防护用品是最后一道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "职业健康检查与告知",
+   "scene": "医生给研究人员做体检的简笔图标",
+   "prompt_en": "A simple icon of a doctor examining a lab worker with a stethoscope. No people.",
+   "narration": "长期接触有毒物质，要做健康检查。",
+   "overlay": [
+    "职业健康检查与告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "职业健康检查与告知",
+   "scene": "老周给小研看空白告知卡",
+   "prompt_en": "The older man shows the female graduate student a blank hazard notice card posted at the lab entrance.",
+   "narration": "实验室有哪些危害，要如实告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "职业健康检查与告知",
+   "scene": "空白档案夹和日历图标",
+   "prompt_en": "A blank file folder and a calendar icon with a check mark. No people.",
+   "narration": "上岗前、在岗期间、离岗时都要查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "职业健康检查与告知",
+   "scene": "小研咳嗽，转身向老周报告",
+   "prompt_en": "The female graduate student coughs lightly and turns to report to the older man.",
+   "narration": "身体不适，及时报告，及时就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现四级台阶图标",
+   "prompt_en": "The panda mascot stands beside an icon of four rising steps.",
+   "narration": "四个概念：长期、平均、短时、立即。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "国家标准文件图标",
+   "prompt_en": "A blank national standards booklet with three blank tabs. No people.",
+   "narration": "国内以职业接触限值国家标准为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检测仪、通风柜、面具三个图标",
+   "prompt_en": "Three icons: a gas detector, a fume hood, and a respirator. No people.",
+   "narration": "靠检测、靠通风，防护要选对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "体检和告知卡图标",
+   "prompt_en": "Icons of a health check stethoscope and a blank notice card. No people.",
+   "narration": "健康检查和危害告知，一样不能少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在问答台后挥手道别",
+   "prompt_en": "The panda mascot waves goodbye from behind the quiz desk with the question-mark lamp.",
+   "narration": "数值查标准，安全靠行动，再见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

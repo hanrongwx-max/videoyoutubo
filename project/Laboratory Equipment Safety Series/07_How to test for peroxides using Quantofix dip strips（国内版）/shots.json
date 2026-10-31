@@ -1,0 +1,597 @@
+{
+ "id": "07_How to test for peroxides using Quantofix dip strips",
+ "edition": "国内版",
+ "series": "Laboratory Equipment Safety Series",
+ "title": "过氧化物试纸检测（国内版）",
+ "seconds": 210,
+ "source_doc": "course/Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips.md",
+ "author_source": "project/Laboratory Equipment Safety Series/07_How to test for peroxides using Quantofix dip strips（国内版）/src.py",
+ "points": {
+  "K1": "用试纸查过氧化物",
+  "K2": "在通风橱里，穿戴好防护",
+  "K3": "取试纸：够用就好，别碰测试区",
+  "K4": "非废液，另取少量来测",
+  "K5": "甩去余液，按时等待",
+  "K6": "测有机溶液，别漏加水步骤",
+  "K7": "水溶液也照样做",
+  "K8": "对照比色卡读结果",
+  "K9": "在专用标签上记录",
+  "K10": "试纸过期要更换",
+  "K11": "标签上的警示",
+  "S1": "为什么要查过氧化物",
+  "S2": "收货、开封都写日期",
+  "S3": "可疑容器：不开、不动、先报告",
+  "S4": "超限停用，按危废处置"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在通风橱旁，手里举着一条空白试纸",
+   "prompt_en": "The panda mascot stands beside a fume hood holding up a blank white test strip and waves at the camera.",
+   "narration": "今天讲怎样用试纸检查过氧化物。",
+   "overlay": [
+    "过氧化物试纸检测"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰从柜子深处拿出一瓶落灰的溶剂，标签空白",
+   "prompt_en": "The young male student pulls a dusty brown solvent bottle with a blank label from the back of a chemical cabinet.",
+   "narration": "阿杰翻出一瓶放了很久的溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研抬手示意他停下，指向瓶上的空白日期栏",
+   "prompt_en": "The female graduate student raises her hand to stop him and points at the blank date boxes on the bottle label.",
+   "narration": "小研说：先别开，这种溶剂要先检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "用试纸查过氧化物",
+   "scene": "试纸、溶剂瓶和放大镜三个图标",
+   "prompt_en": "Three icons: a blank test strip, a brown solvent bottle and a magnifying glass. No people.",
+   "narration": "用专用试纸，查溶液里有没有过氧化物。",
+   "overlay": [
+    "用试纸查过氧化物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "在通风橱里，穿戴好防护",
+   "scene": "小研站在通风橱前，穿实验服、戴护目镜和手套",
+   "prompt_en": "The female graduate student stands at a fume hood wearing a lab coat, safety goggles, gloves, long pants and closed shoes.",
+   "narration": "检测在通风橱里做。",
+   "overlay": [
+    "在通风橱里，穿戴好防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "在通风橱里，穿戴好防护",
+   "scene": "五个防护图标排成一行",
+   "prompt_en": "Five icons in a row: safety goggles, a lab coat, gloves, long pants and a closed shoe. No people.",
+   "narration": "护目镜、实验服、手套、长裤、包脚鞋。",
+   "overlay": [],
+   "labels": [
+    "护目镜",
+    "实验服",
+    "手套",
+    "长裤",
+    "包脚鞋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "取试纸：够用就好，别碰测试区",
+   "scene": "小研打开空白的试纸罐，取出一条试纸",
+   "prompt_en": "The female graduate student opens a blank metal test strip canister and takes out a single strip.",
+   "narration": "需要几条取几条，不要多拿。",
+   "overlay": [
+    "取试纸：够用就好，别碰测试区"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "取试纸：够用就好，别碰测试区",
+   "scene": "试纸一端的测试区被圈出，手指图标打叉",
+   "prompt_en": "A close icon of a test strip with the test pad at one end circled, and a fingertip touching the pad crossed out with a red X. No people.",
+   "narration": "尽量别碰试纸上的测试区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "取试纸：够用就好，别碰测试区",
+   "scene": "试纸罐盖子马上盖好",
+   "prompt_en": "A gloved hand immediately presses the lid back onto the blank test strip canister. No people.",
+   "narration": "取完马上盖好试纸罐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "非废液，另取少量来测",
+   "scene": "废液瓶图标旁一条试纸，打绿勾",
+   "prompt_en": "A waste bottle icon with a blank label and a test strip beside it, with a green check. No people.",
+   "narration": "测废液，可以直接蘸取。",
+   "overlay": [
+    "非废液，另取少量来测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "非废液，另取少量来测",
+   "scene": "试剂瓶倒出少量到小烧杯里，试纸伸进小烧杯",
+   "prompt_en": "A small amount of liquid poured from a reagent bottle into a small beaker, and a test strip dipped into the beaker. No people.",
+   "narration": "不是废液，先倒少量到小杯里测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "非废液，另取少量来测",
+   "scene": "试纸伸进试剂原瓶的图标被打叉",
+   "prompt_en": "An icon of a test strip dipped straight into a reagent stock bottle, crossed out with a red X. No people.",
+   "narration": "免得把整瓶试剂弄脏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "甩去余液，按时等待",
+   "scene": "试纸轻轻甩动，旁边一个计时器图标",
+   "prompt_en": "A test strip being gently shaken with motion lines, next to a timer icon. No people.",
+   "narration": "甩掉多余液体，按说明书等待。",
+   "overlay": [
+    "甩去余液，按时等待"
+   ],
+   "labels": [
+    "时间按说明书"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测有机溶液，别漏加水步骤",
+   "scene": "小研对照一份空白说明书检查步骤",
+   "prompt_en": "The female graduate student checks a blank instruction leaflet with numbered pictogram steps.",
+   "narration": "测有机溶液，说明书还有一个关键步骤。",
+   "overlay": [
+    "测有机溶液，别漏加水步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测有机溶液，别漏加水步骤",
+   "scene": "滴管向试纸测试区加一滴水的示意",
+   "prompt_en": "A simple diagram of a dropper adding one drop of water onto the pad of a test strip. No people.",
+   "narration": "按说明书，在测试区加一滴水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测有机溶液，别漏加水步骤",
+   "scene": "两条试纸并排，加水后的颜色明显不同",
+   "prompt_en": "Two test strips side by side: the left pad pale, the right pad clearly darker blue, with an arrow between them. No people.",
+   "narration": "漏了这一步，结果就不准。",
+   "overlay": [],
+   "labels": [
+    "加水前",
+    "加水后"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "水溶液也照样做",
+   "scene": "水溶液瓶和有机溶液瓶都连到同一组步骤图标",
+   "prompt_en": "Two bottle icons, one with a water drop symbol and one with a solvent symbol, both linked by arrows to the same row of step icons. No people.",
+   "narration": "测水溶液也加这一步，步骤统一。",
+   "overlay": [
+    "水溶液也照样做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "对照比色卡读结果",
+   "scene": "小研把试纸贴近罐身的空白比色卡对照",
+   "prompt_en": "The female graduate student holds the test strip next to a color scale of blank blue squares on the canister.",
+   "narration": "把测试区和比色卡对照。",
+   "overlay": [
+    "对照比色卡读结果"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "对照比色卡读结果",
+   "scene": "测试区由白变蓝的示意",
+   "prompt_en": "A simple diagram of a test strip pad changing from white to blue with an arrow. No people.",
+   "narration": "测试区变蓝，说明有过氧化物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "在专用标签上记录",
+   "scene": "小研在瓶身的空白警示标签上填写",
+   "prompt_en": "The female graduate student writes on a blank blue warning label on the solvent bottle.",
+   "narration": "在专用标签上记下检测结果。",
+   "overlay": [
+    "在专用标签上记录"
+   ],
+   "labels": [
+    "检测结果",
+    "日期",
+    "签名"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "试纸过期要更换",
+   "scene": "试纸盒上的沙漏图标，过期的试纸盒被打叉",
+   "prompt_en": "A blank test strip box with an hourglass icon, and an expired box crossed out with a red X next to a new box with a green check. No people.",
+   "narration": "试纸过期了，换新的再用。",
+   "overlay": [
+    "试纸过期要更换"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标签上的警示",
+   "scene": "欣欣指着瓶身空白标签上的警示三角",
+   "prompt_en": "The panda mascot points at a general warning triangle on the blank label of a brown solvent bottle.",
+   "narration": "标签提醒：这类化学品会生成过氧化物。",
+   "overlay": [
+    "标签上的警示"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标签上的警示",
+   "scene": "棕色瓶盖紧，旁边太阳、空气、火焰图标被打叉",
+   "prompt_en": "A tightly capped brown bottle; beside it icons of a sun, an air swirl and a flame, each crossed out with a red X. No people.",
+   "narration": "原瓶盖紧，避光、少接触空气、远离热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标签上的警示",
+   "scene": "瓶口结晶、液体浑浊的瓶子图标被打叉，手停住",
+   "prompt_en": "An icon of a bottle with crystals around the cap and cloudy liquid, and a hand stopping before the cap, crossed out with a red X. No people.",
+   "narration": "看到结晶、变色、浑浊，绝不能打开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "为什么要查过氧化物",
+   "scene": "欣欣站在白板前，白板上是瓶子和日历图标",
+   "prompt_en": "The panda mascot stands at a whiteboard showing a bottle icon and a calendar icon.",
+   "narration": "有些溶剂放久了，会慢慢生成过氧化物。",
+   "overlay": [
+    "为什么要查过氧化物"
+   ],
+   "labels": [
+    "部分醚类等"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "为什么要查过氧化物",
+   "scene": "过氧化物遇热、撞击、摩擦会爆炸的警示图标",
+   "prompt_en": "Three icons — a flame, a hammer and two rubbing surfaces — pointing at a warning triangle. No people.",
+   "narration": "它们遇热、撞击、摩擦可能爆炸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "为什么要查过氧化物",
+   "scene": "蒸馏烧瓶和加热器图标被打叉",
+   "prompt_en": "An icon of a distillation flask with a heater, crossed out with a red X. No people.",
+   "narration": "没检测合格，不能蒸馏或浓缩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "收货、开封都写日期",
+   "scene": "小研在新到的溶剂瓶空白标签上写日期",
+   "prompt_en": "The female graduate student writes on the blank label of a newly delivered solvent bottle at the bench.",
+   "narration": "收到时、开封时，都要写上日期。",
+   "overlay": [
+    "收货、开封都写日期"
+   ],
+   "labels": [
+    "收货日期",
+    "开封日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "收货、开封都写日期",
+   "scene": "日历图标和检测试纸图标",
+   "prompt_en": "A calendar icon with a circular arrow next to a test strip icon. No people.",
+   "narration": "按学校规程定期检测，按期用完。",
+   "overlay": [],
+   "labels": [
+    "按学校规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "收货、开封都写日期",
+   "scene": "整齐的柜子里只放少量瓶子",
+   "prompt_en": "A tidy chemical cabinet holding only a few small bottles with blank labels. No people.",
+   "narration": "少量采购，不要长期囤放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "可疑容器：不开、不动、先报告",
+   "scene": "架上一只瓶盖结壳的老旧瓶子，小人后退",
+   "prompt_en": "An old dusty bottle with a crusty cap sits on a shelf; a person pictogram steps back from it with an arrow. No people.",
+   "narration": "老旧、超期、来历不明的瓶子，别打开。",
+   "overlay": [
+    "可疑容器：不开、不动、先报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "可疑容器：不开、不动、先报告",
+   "scene": "摇晃瓶子和拧瓶盖的手图标都被打叉",
+   "prompt_en": "Two icons each crossed out with a red X: a hand shaking a bottle and a hand twisting a bottle cap. No people.",
+   "narration": "不摇、不拧、不挪动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "可疑容器：不开、不动、先报告",
+   "scene": "小研在柜门上贴空白警示牌，关上柜门",
+   "prompt_en": "The female graduate student closes the cabinet door and sticks a blank sign with a general warning triangle on it.",
+   "narration": "就地隔离，挂上警示，别让人靠近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "可疑容器：不开、不动、先报告",
+   "scene": "小研打电话，旁边报告链条图标",
+   "prompt_en": "The female graduate student makes a phone call; beside her float linked icons of a lab room, a department building and a university building.",
+   "narration": "报告实验室负责人和学校主管部门。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "学校主管部门"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "可疑容器：不开、不动、先报告",
+   "scene": "保卫处值班员接听电话",
+   "prompt_en": "The security officer answers a phone call at a duty desk.",
+   "narration": "起火拨119，有人受伤拨120。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "超限停用，按危废处置",
+   "scene": "检测结果超限的瓶子贴上停用标签",
+   "prompt_en": "A solvent bottle gets a blank stop-use label with a red cross mark. No people.",
+   "narration": "结果超出学校限值，立即停用。",
+   "overlay": [
+    "超限停用，按危废处置"
+   ],
+   "labels": [
+    "限值按学校规定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "超限停用，按危废处置",
+   "scene": "瓶子放进危险废物收集箱",
+   "prompt_en": "The bottle is placed into a labelled hazardous waste collection box with a blank label. No people.",
+   "narration": "按危险废物交专业单位处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "超限停用，按危废处置",
+   "scene": "瓶子倒进水槽的图标被打叉",
+   "prompt_en": "An icon of a bottle being poured into a sink, crossed out with a red X. No people.",
+   "narration": "不得自行处理，更不能倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现通风橱、试纸和比色卡图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a fume hood, a test strip and a color scale.",
+   "narration": "通风橱里，按说明书一步不漏。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标签、日历和签名笔图标",
+   "prompt_en": "Icons of a blank label, a calendar and a pen. No people.",
+   "narration": "写日期、记结果、定期查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "结晶瓶子图标和电话图标",
+   "prompt_en": "An icon of a bottle with crystals around its cap next to a telephone icon. No people.",
+   "narration": "可疑瓶子不打开，马上报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整齐的化学品柜前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye in front of a tidy chemical cabinet with dated blank labels.",
+   "narration": "日期写清楚，检测不马虎，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

@@ -1,0 +1,1958 @@
+{
+ "id": "08_8. Introduction to Lasers and Laser Safety",
+ "edition": "国内版",
+ "series": "Photonics & Laser Safety Series",
+ "title": "激光安全入门（国内版）",
+ "seconds": 735,
+ "source_doc": "course/Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety.md",
+ "author_source": "project/Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/src.py",
+ "points": {
+  "K1": "功率越高，越要讲安全",
+  "K2": "激光安全标准",
+  "K3": "1 类：正常使用无危害",
+  "K4": "2 类：别盯着看",
+  "K5": "先用低功率光对光",
+  "K6": "3a 类：怕望远镜聚光",
+  "K7": "3b 类：直视就伤眼",
+  "K8": "4 类：漫反射也伤人",
+  "K9": "三类控制措施",
+  "K10": "工程控制：用硬件挡住危险",
+  "K11": "管理控制：用制度管住流程",
+  "K12": "个人防护装备",
+  "K13": "控制措施一览",
+  "K14": "最大允许照射量",
+  "K15": "强度和时间都要算",
+  "K16": "防护眼镜靠吸收",
+  "K17": "光密度 OD",
+  "K18": "OD 越高，透过越少",
+  "K19": "按需要算出最低 OD",
+  "K20": "激光警示标志",
+  "K21": "标志分级使用",
+  "K22": "事故多因控制不到位",
+  "K23": "通用规则：不看、去反光、划区域",
+  "K24": "通用规则：专人负责、及时报告",
+  "K25": "光束以外的危害",
+  "K26": "从理论走向实验",
+  "S1": "国标激光分类与标签",
+  "S2": "当心激光标志与门外警示",
+  "S3": "防护眼镜：按波长和 OD 选",
+  "S4": "光路高度避开眼睛",
+  "S5": "摘下首饰，工具防反光",
+  "S6": "每条光束都要有终点",
+  "S7": "准入培训与授权使用",
+  "S8": "眼睛受照：报告与就医",
+  "S9": "激光烟雾与激光笔"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣戴着激光防护眼镜，站在光学平台旁向镜头招手，门口挂着激光警告标志",
+   "prompt_en": "The panda mascot wears laser safety goggles and waves at the camera beside an optical table, with a laser warning sign on the door behind.",
+   "narration": "这一课讲激光安全。",
+   "overlay": [
+    "激光安全入门"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "分类、控制、眼镜、标志四个图标排成一行",
+   "prompt_en": "Four icons in a row: a ladder with numbered steps, a shield, a pair of goggles and a laser warning sign. No people.",
+   "narration": "分清类别，做好控制，戴对眼镜。",
+   "overlay": [],
+   "labels": [
+    "分类",
+    "控制",
+    "眼镜",
+    "标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰弯着腰，眼睛凑近光学平台上的反射镜调光路，没戴眼镜",
+   "prompt_en": "The young male student bends down with his eyes close to the beam height, adjusting a mirror mount on an optical table, wearing no goggles and a shiny wristwatch.",
+   "narration": "阿杰没戴眼镜，弯腰凑近调光路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "一道细光束从他手表表面反射出去",
+   "prompt_en": "A thin beam glints off the young male student's shiny wristwatch and bounces sideways. No faces visible.",
+   "narration": "光束打到手表上，反射了出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研立刻按下光闸按钮，光束消失",
+   "prompt_en": "The female graduate student quickly presses the shutter button on the laser, and the beam disappears.",
+   "narration": "小研马上关闸：停！先戴眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前严肃地竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger with a serious face.",
+   "narration": "激光伤眼只要一瞬间，没有后悔药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲安全",
+   "scene": "台阶图标，越往上激光器越大",
+   "prompt_en": "A staircase icon with a small laser box on the bottom step and larger laser boxes on higher steps. No people.",
+   "narration": "学得越深，用的激光功率越高。",
+   "overlay": [
+    "功率越高，越要讲安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲安全",
+   "scene": "眼睛图标与激光束，警示三角",
+   "prompt_en": "An eye icon facing a laser beam icon with a yellow warning triangle between them. No people.",
+   "narration": "上一课说过，激光最先伤的是眼睛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲安全",
+   "scene": "六个空白卡片排开",
+   "prompt_en": "Six blank cards laid out in a row on a table, each with a simple icon. No people.",
+   "narration": "分类、限值、控制、标志、事故、规则。",
+   "overlay": [],
+   "labels": [
+    "分类",
+    "照射限值",
+    "控制",
+    "标志",
+    "规则"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光安全标准",
+   "scene": "一本厚厚的空白标准文本",
+   "prompt_en": "A thick blank standards book lying open on a desk. No people.",
+   "narration": "激光安全标准，规定怎样安全使用激光。",
+   "overlay": [
+    "激光安全标准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光安全标准",
+   "scene": "书脊上的年代刻度不断延伸",
+   "prompt_en": "A row of blank books of growing thickness with a timeline arrow underneath. No people.",
+   "narration": "激光一发明就有了标准，并不断修订。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光安全标准",
+   "scene": "王老师翻阅厚标准，旁边是空白证书",
+   "prompt_en": "The safety administrator studies a thick blank standards book at a desk, with a blank certificate beside it.",
+   "narration": "负责激光安全的人，要把标准吃透。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光安全标准",
+   "scene": "欣欣指向一个国旗色的空白书本图标",
+   "prompt_en": "The panda mascot points at a blank red book icon on a board.",
+   "narration": "在国内，看国家标准和学校规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "1 类：正常使用无危害",
+   "scene": "五级台阶，最低一级亮绿色",
+   "prompt_en": "A five-step staircase icon, the lowest step glowing green. No people.",
+   "narration": "激光按危害分级，最低的是1类。",
+   "overlay": [
+    "1 类：正常使用无危害"
+   ],
+   "labels": [
+    "1类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "1 类：正常使用无危害",
+   "scene": "一台全封闭的设备，光束在里面看不见",
+   "prompt_en": "A fully enclosed instrument box with no visible beam outside, and a green check mark. No people.",
+   "narration": "光路全封闭，正常使用不会伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "1 类：正常使用无危害",
+   "scene": "高功率激光器被装进封闭外壳，标签变绿",
+   "prompt_en": "A large laser box being covered by a closed protective housing, its tag turning green. No people.",
+   "narration": "大激光装进封闭外壳，也能按1类管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "1 类：正常使用无危害",
+   "scene": "拆开外壳的图标，标签变红",
+   "prompt_en": "An icon of the protective housing being opened, the tag turning red with a warning triangle. No people.",
+   "narration": "可一旦打开外壳，危险就回来了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "2 类：别盯着看",
+   "scene": "一台小功率可见光激光器射出红色细光束",
+   "prompt_en": "A small low-power visible laser emits a thin red beam onto a white card. No people.",
+   "narration": "2类是低功率的可见光激光。",
+   "overlay": [
+    "2 类：别盯着看"
+   ],
+   "labels": [
+    "2类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "2 类：别盯着看",
+   "scene": "眼睛遇到亮光自然眨眼的示意",
+   "prompt_en": "An eye icon blinking at a bright red dot. No people.",
+   "narration": "偶尔一晃，眼睛会自然躲开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "2 类：别盯着看",
+   "scene": "眼睛盯着光点，旁边沙漏，打红叉",
+   "prompt_en": "An eye icon staring at a red beam with an hourglass beside it, crossed out with a red X. No people.",
+   "narration": "但长时间盯着看，照样会伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "2 类：别盯着看",
+   "scene": "功率和时钟两个图标相加",
+   "prompt_en": "A power meter icon plus a clock icon equals a warning triangle. No people.",
+   "narration": "危害既看功率，也看照射时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "2 类：别盯着看",
+   "scene": "激光器上贴着空白标签",
+   "prompt_en": "A small laser box with a blank label on its side, next to a laser warning sign. No people.",
+   "narration": "2类激光器要贴警示标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先用低功率光对光",
+   "scene": "大激光器和小指示激光装在同一外壳里",
+   "prompt_en": "A large laser housing with a small visible guide laser mounted inside the same housing. No people.",
+   "narration": "对光时，别拿大功率激光直接调。",
+   "overlay": [
+    "先用低功率光对光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先用低功率光对光",
+   "scene": "红色指示光沿着反射镜一路对准",
+   "prompt_en": "A thin red guide beam travels along a row of mirrors and lenses on an optical table, each with a green check. No people.",
+   "narration": "先用低功率可见指示光，把光路对准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先用低功率光对光",
+   "scene": "关掉指示光，再开主激光的两步图标",
+   "prompt_en": "Two steps: a switch turning off the small guide laser, then a key switch turning on the large main laser. No people.",
+   "narration": "关掉指示光，再开主激光做实验。",
+   "overlay": [],
+   "labels": [
+    "①关指示光",
+    "②开主激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "3a 类：怕望远镜聚光",
+   "scene": "台阶第三级亮起",
+   "prompt_en": "The five-step staircase icon with the third step glowing yellow. No people.",
+   "narration": "原片的3a类，国标里大致是3R类。",
+   "overlay": [
+    "3a 类：怕望远镜聚光"
+   ],
+   "labels": [
+    "3a类≈3R类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "3a 类：怕望远镜聚光",
+   "scene": "裸眼看光点，打绿勾；用望远镜看，打红叉",
+   "prompt_en": "Two icons: a bare eye near a beam with a green check, and binoculars pointed at a beam with a red X. No people.",
+   "narration": "裸眼一般不伤，用望远镜聚光就危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "3a 类：怕望远镜聚光",
+   "scene": "一支空白激光笔",
+   "prompt_en": "A plain blank laser pointer lying on a desk. No people.",
+   "narration": "很多激光笔就在这一类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3b 类：直视就伤眼",
+   "scene": "台阶第四级亮橙色",
+   "prompt_en": "The five-step staircase icon with the fourth step glowing orange. No people.",
+   "narration": "3b类，安全问题开始严重。",
+   "overlay": [
+    "3b 类：直视就伤眼"
+   ],
+   "labels": [
+    "3b类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3b 类：直视就伤眼",
+   "scene": "光束直射眼睛图标，打红叉",
+   "prompt_en": "A beam pointing directly at an eye icon, crossed out with a red X. No people.",
+   "narration": "不戴防护，直视光束就会伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3b 类：直视就伤眼",
+   "scene": "光束打到镜面，反射出一道同样亮的光",
+   "prompt_en": "A beam hits a flat mirror and reflects as an equally bright beam toward an eye icon, with a warning triangle. No people.",
+   "narration": "镜面反射的光，和直射一样危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3b 类：直视就伤眼",
+   "scene": "小研戴上激光防护眼镜",
+   "prompt_en": "The female graduate student puts on laser safety goggles before switching on a laser.",
+   "narration": "用3b和4类激光，全程戴防护眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "4 类：漫反射也伤人",
+   "scene": "台阶最高一级亮红色",
+   "prompt_en": "The five-step staircase icon with the top step glowing red. No people.",
+   "narration": "4类是最高一级。",
+   "overlay": [
+    "4 类：漫反射也伤人"
+   ],
+   "labels": [
+    "4类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "4 类：漫反射也伤人",
+   "scene": "光束打到粗糙表面，向四面散开",
+   "prompt_en": "A strong beam hits a rough matte surface and scatters in all directions toward several eye icons. No people.",
+   "narration": "连粗糙表面的漫反射都能伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "4 类：漫反射也伤人",
+   "scene": "光束照到纸张冒烟起火的图标",
+   "prompt_en": "A strong beam hitting a sheet of paper that starts to smoke and catch fire, with a fire warning sign. No people.",
+   "narration": "4类激光还能引燃东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "4 类：漫反射也伤人",
+   "scene": "护目镜和手套、长袖两个图标",
+   "prompt_en": "Two icons: laser safety goggles, and long sleeves with gloves. No people.",
+   "narration": "眼睛和皮肤都要防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三类控制措施",
+   "scene": "激光器上的空白类别标签特写",
+   "prompt_en": "A close-up of a blank class label on the side of a laser housing next to a laser warning sign. No people.",
+   "narration": "激光类别看设备标签，据此定措施。",
+   "overlay": [
+    "三类控制措施"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三类控制措施",
+   "scene": "三根柱子撑起屋顶：齿轮、文件夹、护目镜",
+   "prompt_en": "Three pillars holding up a roof: a gear icon, a blank folder icon and a goggles icon. No people.",
+   "narration": "控制措施分三类，像三根柱子。",
+   "overlay": [],
+   "labels": [
+    "工程控制",
+    "管理控制",
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三类控制措施",
+   "scene": "欣欣拍拍三根柱子",
+   "prompt_en": "The panda mascot pats the three pillars one by one.",
+   "narration": "3B和4类激光，三根柱子都要立牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "激光器外罩着完整的防护外壳",
+   "prompt_en": "A laser enclosed in a complete protective housing on an optical table. No people.",
+   "narration": "工程控制，是用硬件把危险挡住。",
+   "overlay": [
+    "工程控制：用硬件挡住危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "光闸挡板落下，光束被截断",
+   "prompt_en": "A shutter blade drops in front of the laser output and cuts the beam. No people.",
+   "narration": "光闸能随时截断光束。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "衰减片让光束变细变暗",
+   "prompt_en": "A dark attenuator filter makes the beam behind it thinner and dimmer. No people.",
+   "narration": "衰减器把功率降下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "门开时激光自动停止的示意",
+   "prompt_en": "A lab door opening with a link line to a laser that switches off automatically. No people.",
+   "narration": "门联锁：一开门，激光自动停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "门外亮着的红色警示灯",
+   "prompt_en": "A red warning light glowing above a closed lab door with a laser warning sign. No people.",
+   "narration": "门外亮警示灯，提醒正在出光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "光束打进黑色光束终止器",
+   "prompt_en": "A beam ends in a black beam dump block on the optical table. No people.",
+   "narration": "光束终止器把多余的光收走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "老李在隔壁房间看监控屏远程操作",
+   "prompt_en": "The facility engineer operates a laser remotely from a control desk with a blank monitor screen in an adjoining room.",
+   "narration": "还可以远程触发、远程监控。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理控制：用制度管住流程",
+   "scene": "空白操作规程夹在实验台旁",
+   "prompt_en": "A blank clipboard with a standard operating procedure hangs beside the laser table. No people.",
+   "narration": "管理控制，是用制度管住流程。",
+   "overlay": [
+    "管理控制：用制度管住流程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理控制：用制度管住流程",
+   "scene": "门口张贴激光警告标志",
+   "prompt_en": "A laser warning sign posted on the lab door at eye level. No people.",
+   "narration": "张贴警示标志和标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理控制：用制度管住流程",
+   "scene": "王老师给学生做激光安全培训",
+   "prompt_en": "The safety administrator teaches a group of students in a training room in front of a blank screen.",
+   "narration": "上岗前要接受安全培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理控制：用制度管住流程",
+   "scene": "阿杰在门口的空白登记本上签到",
+   "prompt_en": "The young male student signs a blank logbook at the lab entrance.",
+   "narration": "进出实验室要登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理控制：用制度管住流程",
+   "scene": "空白实验记录本上的表格",
+   "prompt_en": "A blank lab notebook open on the bench with empty table lines. No people.",
+   "narration": "做了哪些实验、测了什么，都记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护装备",
+   "scene": "护目镜、手套、防护服三个图标",
+   "prompt_en": "Three icons: laser safety goggles, gloves and a long-sleeved protective coat. No people.",
+   "narration": "个人防护：眼镜、手套和防护服。",
+   "overlay": [
+    "个人防护装备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护装备",
+   "scene": "实验室里每个人都戴着眼镜",
+   "prompt_en": "The female graduate student and the young male student both wear laser safety goggles while working at an optical table.",
+   "narration": "在场的人都要穿戴，不只操作者。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护装备",
+   "scene": "欣欣比出最后一道防线的手势",
+   "prompt_en": "The panda mascot holds up its paw like a stop sign in front of a goggles icon.",
+   "narration": "个人防护，是最后一道防线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "控制措施一览",
+   "scene": "三栏空白表格，每栏一个图标",
+   "prompt_en": "A blank three-column table with a gear icon, a folder icon and a goggles icon at the top of each column. No people.",
+   "narration": "把措施列成一张表，一目了然。",
+   "overlay": [
+    "控制措施一览"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "控制措施一览",
+   "scene": "工程栏里浮现外壳、联锁、钥匙开关、警示灯图标",
+   "prompt_en": "Under the gear column, small icons appear: a housing, an interlock, a key switch and a warning light. No people.",
+   "narration": "外壳、联锁、钥匙开关、警示灯。",
+   "overlay": [],
+   "labels": [
+    "外壳",
+    "联锁",
+    "钥匙",
+    "警示灯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "控制措施一览",
+   "scene": "管理栏里浮现人物、规程、访客限制图标",
+   "prompt_en": "Under the folder column, icons appear: a person with a badge, a blank procedure sheet and a visitor with a stop hand. No people.",
+   "narration": "安全负责人、规程、限制访客。",
+   "overlay": [],
+   "labels": [
+    "负责人",
+    "规程",
+    "限访客"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "控制措施一览",
+   "scene": "防护栏里浮现眼镜、衣服、手套",
+   "prompt_en": "Under the goggles column, icons appear: goggles, a coat and gloves. No people.",
+   "narration": "眼镜、衣服、手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "最大允许照射量",
+   "scene": "一个天平：左边光束，右边眼睛",
+   "prompt_en": "A balance scale with a beam icon on one side and an eye icon on the other. No people.",
+   "narration": "眼睛能承受多少光？有一条界线。",
+   "overlay": [
+    "最大允许照射量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "最大允许照射量",
+   "scene": "界线下方绿色，上方红色",
+   "prompt_en": "A horizontal line on a chart: green area below the line, red area above. No people.",
+   "narration": "这叫最大允许照射量，低于它才安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "最大允许照射量",
+   "scene": "波长、功率、光斑、时钟四个图标",
+   "prompt_en": "Four icons: a rainbow wave, a power meter, a beam spot circle and a clock. No people.",
+   "narration": "它与波长、功率、光斑、时间有关。",
+   "overlay": [],
+   "labels": [
+    "波长",
+    "功率",
+    "光斑",
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "最大允许照射量",
+   "scene": "几个人的眼睛图标大小不同",
+   "prompt_en": "Several eye icons of slightly different sizes and colors in a row. No people.",
+   "narration": "每个人的敏感程度也不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "强度和时间都要算",
+   "scene": "小光束配长沙漏，大光束配短沙漏，两边都是警示三角",
+   "prompt_en": "Two icons: a thin beam with a tall hourglass, and a thick beam with a short hourglass, both with yellow warning triangles. No people.",
+   "narration": "弱光照久了，和强光一闪一样危险。",
+   "overlay": [
+    "强度和时间都要算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "强度和时间都要算",
+   "scene": "两个苹果放在同一个秤上",
+   "prompt_en": "Two apples placed on the same scale, with matching blank labels. No people.",
+   "narration": "比较时，单位一定要一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "强度和时间都要算",
+   "scene": "王老师查阅一张空白表格",
+   "prompt_en": "The safety administrator checks a blank reference table in a thick standards book.",
+   "narration": "限值查国标，由安全负责人把关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "强度和时间都要算",
+   "scene": "光束经过挡板后降到绿线以下",
+   "prompt_en": "A beam passes a shield and drops below a green line on a chart. No people.",
+   "narration": "超过限值，就必须加防护措施。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护眼镜靠吸收",
+   "scene": "光束穿过一片有色玻璃后变暗",
+   "prompt_en": "A bright beam enters a tinted glass plate and comes out much dimmer on the other side. No people.",
+   "narration": "防护眼镜的镜片，靠吸收挡光。",
+   "overlay": [
+    "防护眼镜靠吸收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护眼镜靠吸收",
+   "scene": "镜片内部冒出热浪线",
+   "prompt_en": "The tinted plate glows slightly with small wavy heat lines as it absorbs the beam. No people.",
+   "narration": "被吸收的光能变成了热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护眼镜靠吸收",
+   "scene": "薄片和厚片对比，厚片后光更暗",
+   "prompt_en": "Two tinted plates side by side: the thicker one lets through a much dimmer beam. No people.",
+   "narration": "吸收多少，看材料，也看厚度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "防护眼镜靠吸收",
+   "scene": "红光被挡，绿光却穿过同一片镜片",
+   "prompt_en": "A red beam is blocked by a tinted plate while a green beam passes through the same plate. No people.",
+   "narration": "同一种材料，对不同波长效果不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "光密度 OD",
+   "scene": "防护眼镜镜腿特写，刻着空白小字区",
+   "prompt_en": "A close-up of a laser safety goggles temple arm with a blank engraved label area. No people.",
+   "narration": "镜片挡光的本领，用光密度OD表示。",
+   "overlay": [
+    "光密度 OD"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "光密度 OD",
+   "scene": "镜腿上并排几个空白标记格",
+   "prompt_en": "The temple arm shows several blank marking boxes side by side, each with a small color dot. No people.",
+   "narration": "OD随波长变，一副眼镜常标好几段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "光密度 OD",
+   "scene": "小研拿起眼镜，对照激光器标签核对",
+   "prompt_en": "The female graduate student holds goggles up next to the blank label on a laser housing and compares them.",
+   "narration": "用前核对：波长对上，OD够不够。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "OD 越高，透过越少",
+   "scene": "台阶式的光逐级变暗",
+   "prompt_en": "A staircase diagram where a light beam gets ten times dimmer at each step down. No people.",
+   "narration": "OD每高一级，透过的光少到十分之一。",
+   "overlay": [
+    "OD 越高，透过越少"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "OD 越高，透过越少",
+   "scene": "OD 高的镜片后几乎没有光",
+   "prompt_en": "Behind a dark high-density filter, only a tiny faint beam remains. No people.",
+   "narration": "OD越高，挡住的光越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "OD 越高，透过越少",
+   "scene": "大激光器配深色眼镜，小激光器配浅色眼镜",
+   "prompt_en": "A large laser paired with dark goggles and a small laser paired with lighter goggles. No people.",
+   "narration": "激光越强，需要的OD越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "按需要算出最低 OD",
+   "scene": "激光、镜片、眼睛排成一线的示意",
+   "prompt_en": "A simple diagram: a laser box, a filter plate, then an eye icon in a line, with the beam getting dimmer after the filter. No people.",
+   "narration": "镜片要把光压到限值以下。",
+   "overlay": [
+    "按需要算出最低 OD"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "按需要算出最低 OD",
+   "scene": "王老师在空白计算纸上写写算算",
+   "prompt_en": "The safety administrator works on a blank calculation sheet with a calculator.",
+   "narration": "按激光参数和限值，算出最低OD。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "按需要算出最低 OD",
+   "scene": "眼镜上的 OD 格高于最低线，打绿勾",
+   "prompt_en": "A goggles icon with a level indicator above a minimum line and a green check mark. No people.",
+   "narration": "所选眼镜在该波长的OD，不能低于它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "激光警示标志",
+   "scene": "三块空白矩形标志牌，颜色不同",
+   "prompt_en": "Three blank rectangular signboards with a laser starburst pictogram, colored red, yellow and blue. No people.",
+   "narration": "原片介绍了三种激光标志。",
+   "overlay": [
+    "激光警示标志"
+   ],
+   "labels": [
+    "危险",
+    "警告",
+    "注意"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "激光警示标志",
+   "scene": "标志牌上的空白位置标出波长图标",
+   "prompt_en": "A blank signboard with a small rainbow wave icon in one corner. No people.",
+   "narration": "标志上常标出激光的波长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "激光警示标志",
+   "scene": "国标的当心激光标志",
+   "prompt_en": "A laser warning sign mounted at the entrance of a laser lab. No people.",
+   "narration": "国内统一用“当心激光”警告标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "标志分级使用",
+   "scene": "黄色牌子挂在小激光器上",
+   "prompt_en": "A blank yellow signboard with a laser pictogram hangs beside a small low-power laser. No people.",
+   "narration": "“警告”用于低功率激光。",
+   "overlay": [
+    "标志分级使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "标志分级使用",
+   "scene": "红色牌子挂在大激光器旁",
+   "prompt_en": "A blank red signboard with a laser pictogram hangs beside a large high-power laser. No people.",
+   "narration": "“危险”用于高功率，必须强制防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "标志分级使用",
+   "scene": "蓝色牌子立在维修现场",
+   "prompt_en": "A blank blue signboard stands at a temporary barrier around a laser under repair, with tools nearby. No people.",
+   "narration": "“注意”用于维修时的临时控制区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "事故多因控制不到位",
+   "scene": "饼图里最大的一块是调光路图标",
+   "prompt_en": "A pie chart icon where the largest slice shows a mirror adjustment icon. No people.",
+   "narration": "事故里，对光调试最常见。",
+   "overlay": [
+    "事故多因控制不到位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "事故多因控制不到位",
+   "scene": "高压闪电、破眼镜、没戴眼镜等小图标环绕饼图",
+   "prompt_en": "Small icons around the pie chart: a lightning bolt, cracked goggles, a bare face without goggles and a broken gear. No people.",
+   "narration": "还有高压、眼镜失效、没戴眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "事故多因控制不到位",
+   "scene": "控制措施缺口的拼图",
+   "prompt_en": "A puzzle shaped like a shield with several missing pieces, and a warning triangle. No people.",
+   "narration": "大多数事故，是控制措施没落实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "事故多因控制不到位",
+   "scene": "欣欣竖起大拇指，旁边笑脸和大脑图标",
+   "prompt_en": "The panda mascot gives a thumbs up beside a smiling face icon and a brain icon.",
+   "narration": "端正态度，用好常识，最管用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "通用规则：不看、去反光、划区域",
+   "scene": "眼睛看光束和看反射光两个图标，打红叉",
+   "prompt_en": "Two icons: an eye looking into a beam, and an eye looking at a reflected beam, both crossed out with red X marks. No people.",
+   "narration": "规则一：不直视光束，也不看反射。",
+   "overlay": [
+    "通用规则：不看、去反光、划区域"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "通用规则：不看、去反光、划区域",
+   "scene": "老李把台面上的金属盒、镜面物品收走",
+   "prompt_en": "The facility engineer removes shiny metal boxes and a mirror-like tray from the optical table.",
+   "narration": "规则二：清走不必要的反光物品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "通用规则：不看、去反光、划区域",
+   "scene": "地面黄线围出激光区，门口警告标志",
+   "prompt_en": "A laser area marked by yellow floor lines with a curtain and a laser warning sign at the entrance. No people.",
+   "narration": "规则三：划定可控区域，张贴标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "通用规则：不看、去反光、划区域",
+   "scene": "路人在门口看到标志停步",
+   "prompt_en": "The older man stops at the lab door after seeing the laser warning sign and the red warning light.",
+   "narration": "让路过的人一看就知道有危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "通用规则：专人负责、及时报告",
+   "scene": "王老师胸前戴着空白工作牌，在实验室巡查",
+   "prompt_en": "The safety administrator wearing a blank badge inspects the laser lab with a clipboard.",
+   "narration": "规则四：懂行的人操作或现场监督。",
+   "overlay": [
+    "通用规则：专人负责、及时报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "通用规则：专人负责、及时报告",
+   "scene": "王老师指出问题，阿杰点头整改",
+   "prompt_en": "The safety administrator points at an uncovered beam path and the young male student nods and fixes it.",
+   "narration": "激光安全负责人有权检查和叫停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "通用规则：专人负责、及时报告",
+   "scene": "电话图标和眼睛图标",
+   "prompt_en": "A telephone icon next to an eye icon with a red cross. No people.",
+   "narration": "规则五：出事立即报告，眼睛受照看眼科。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "光束以外的危害",
+   "scene": "欣欣站在激光器旁，身边浮现四个图标",
+   "prompt_en": "The panda mascot stands beside a laser box with four floating icons: fire, explosion, lightning bolt and a chemical bottle.",
+   "narration": "光束之外，还有四种危害。",
+   "overlay": [
+    "光束以外的危害"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "光束以外的危害",
+   "scene": "火焰图标",
+   "prompt_en": "A fire warning sign next to a large laser beam hitting a dark curtain. No people.",
+   "narration": "火灾：4类激光能引燃物品。",
+   "overlay": [],
+   "labels": [
+    "火灾"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "光束以外的危害",
+   "scene": "灯管和电容爆裂的示意图标",
+   "prompt_en": "Icons of a high-pressure arc lamp and a capacitor bank with burst lines and a warning triangle. No people.",
+   "narration": "爆炸：高压弧光灯和电容组。",
+   "overlay": [],
+   "labels": [
+    "爆炸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "光束以外的危害",
+   "scene": "电源箱上的触电警告标志",
+   "prompt_en": "A laser power supply cabinet with an electric shock warning sign. No people.",
+   "narration": "触电：激光电源电压很高。",
+   "overlay": [],
+   "labels": [
+    "触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "光束以外的危害",
+   "scene": "染料瓶上的易燃和有毒图标",
+   "prompt_en": "A blank dye solution bottle with flammable and toxic pictograms beside a dye laser icon. No people.",
+   "narration": "化学：染料激光的染料和溶剂。",
+   "overlay": [],
+   "labels": [
+    "化学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国标激光分类与标签",
+   "scene": "欣欣举着一本空白国标文本",
+   "prompt_en": "The panda mascot holds up a blank red standards booklet.",
+   "narration": "国内的激光分类，看GB 7247.1。",
+   "overlay": [
+    "国标激光分类与标签"
+   ],
+   "labels": [
+    "以现行文本为准"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国标激光分类与标签",
+   "scene": "七级台阶，从绿到红",
+   "prompt_en": "A seven-step staircase icon colored from green at the bottom to red at the top. No people.",
+   "narration": "1、1M、2、2M、3R、3B、4类。",
+   "overlay": [],
+   "labels": [
+    "1/1M",
+    "2/2M",
+    "3R",
+    "3B",
+    "4"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国标激光分类与标签",
+   "scene": "带 M 的台阶旁画着望远镜打叉",
+   "prompt_en": "Next to two steps a pair of binoculars is crossed out with a red X. No people.",
+   "narration": "带M的，用望远镜看就可能有危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国标激光分类与标签",
+   "scene": "激光器上贴着警告标记和空白说明标签",
+   "prompt_en": "A laser housing with a laser warning sign and a blank rectangular explanatory label beside it. No people.",
+   "narration": "激光产品要有警告标记和说明标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "国标激光分类与标签",
+   "scene": "标签被撕掉的图标打叉",
+   "prompt_en": "An icon of a hand peeling a label off a laser, crossed out with a red X. No people.",
+   "narration": "标签不准撕，看不清要报告补贴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "当心激光标志与门外警示",
+   "scene": "激光实验室门口的当心激光标志",
+   "prompt_en": "A laser warning sign on the door of a laser lab, with a red warning light above. No people.",
+   "narration": "门口贴“当心激光”，亮起出光警示灯。",
+   "overlay": [
+    "当心激光标志与门外警示"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "当心激光标志与门外警示",
+   "scene": "门内挂着遮光帘，窗户贴着遮光膜",
+   "prompt_en": "Inside the lab door hangs a dark laser curtain and the window is covered with a dark film. No people.",
+   "narration": "门窗遮挡，光不能射出实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "当心激光标志与门外警示",
+   "scene": "警示灯亮时，路人停在门外",
+   "prompt_en": "The older man waits outside the door while the red warning light is on.",
+   "narration": "灯亮时，未经允许不得进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "防护眼镜：按波长和 OD 选",
+   "scene": "架子上几副不同颜色的防护眼镜",
+   "prompt_en": "Several pairs of laser safety goggles with different colored lenses on a rack. No people.",
+   "narration": "防护眼镜要按激光波长挑。",
+   "overlay": [
+    "防护眼镜：按波长和 OD 选"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "防护眼镜：按波长和 OD 选",
+   "scene": "拿绿光的眼镜去防红外光，打红叉",
+   "prompt_en": "An icon of goggles for one color being used with a laser of another color, crossed out with a red X. No people.",
+   "narration": "不同波长的激光，不能共用一副。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "防护眼镜：按波长和 OD 选",
+   "scene": "小研对着灯光检查镜片有无划痕裂纹",
+   "prompt_en": "The female graduate student holds goggles up to the light to check the lenses for scratches and cracks.",
+   "narration": "用前检查镜片，有划伤裂纹就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "防护眼镜：按波长和 OD 选",
+   "scene": "戴着眼镜直视光束的图标打叉",
+   "prompt_en": "An icon of a person wearing goggles staring straight into a beam, crossed out with a red X. No people.",
+   "narration": "戴了眼镜，也不能直视光束。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "防护眼镜：按波长和 OD 选",
+   "scene": "用荧光卡和相机屏幕间接看光斑",
+   "prompt_en": "The young male student wearing goggles checks a beam spot on a fluorescent card and on a small camera screen.",
+   "narration": "找光斑用观察卡或相机，间接观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光路高度避开眼睛",
+   "scene": "光学平台侧面，光束高度线低于坐着和站着的眼睛",
+   "prompt_en": "A side view of an optical table: the beam height line is well below the eye levels of a seated and a standing person outline. No people.",
+   "narration": "光路高度，要避开坐着和站着的眼睛。",
+   "overlay": [
+    "光路高度避开眼睛"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光路高度避开眼睛",
+   "scene": "弯腰把眼睛降到光束平面的图标打叉",
+   "prompt_en": "An icon of a person bending down with eyes at beam level, crossed out with a red X. No people.",
+   "narration": "别弯腰，把眼睛降到光束平面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光路高度避开眼睛",
+   "scene": "掉在台下的工具，先关闸再弯腰捡",
+   "prompt_en": "The young male student presses the shutter button first, then bends to pick up a dropped wrench under the table.",
+   "narration": "东西掉了，先关闸再弯腰捡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "光路高度避开眼睛",
+   "scene": "向上射的光束被挡板挡住",
+   "prompt_en": "A beam angled upward is blocked by a black shield before it can leave the table. No people.",
+   "narration": "光束不往上走，必须向上就加挡板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "摘下首饰，工具防反光",
+   "scene": "阿杰摘下手表和戒指放进抽屉",
+   "prompt_en": "The young male student takes off his wristwatch and ring and puts them in a drawer before entering the laser area.",
+   "narration": "进激光区，先摘手表、戒指和手链。",
+   "overlay": [
+    "摘下首饰，工具防反光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "摘下首饰，工具防反光",
+   "scene": "亮面工具和哑光黑色工具对比",
+   "prompt_en": "Two wrenches side by side: a shiny chrome one crossed out with a red X, and a matte black one with a green check. No people.",
+   "narration": "尽量用不反光的工具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "摘下首饰，工具防反光",
+   "scene": "工牌和金属笔反射光束的图标打叉",
+   "prompt_en": "An icon of a shiny badge clip and a metal pen reflecting a beam, crossed out with a red X. No people.",
+   "narration": "胸牌、金属笔也会把光反射出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "每条光束都要有终点",
+   "scene": "光路末端是黑色光束终止器",
+   "prompt_en": "Every beam path on the optical table ends in a black beam dump block. No people.",
+   "narration": "每条光束，都要有自己的终点。",
+   "overlay": [
+    "每条光束都要有终点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "每条光束都要有终点",
+   "scene": "光路两侧围着黑色挡板和管道",
+   "prompt_en": "Black side panels and beam tubes enclose the beam path along the optical table. No people.",
+   "narration": "光路能封闭就封闭，加挡板和光管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "每条光束都要有终点",
+   "scene": "暂不用光时，挡板插进光路",
+   "prompt_en": "A beam block is placed into the beam path when the experiment is paused. No people.",
+   "narration": "暂时不用，关光闸或挡住光束。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "每条光束都要有终点",
+   "scene": "调整一件元件后，用观察卡顺着光路检查",
+   "prompt_en": "The female graduate student wearing goggles follows the beam with a viewing card after adjusting a mirror.",
+   "narration": "动过元件，要沿光路检查杂散光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "准入培训与授权使用",
+   "scene": "王老师给阿杰讲解，旁边是空白考核卷",
+   "prompt_en": "The safety administrator explains laser rules to the young male student, with a blank test paper on the desk.",
+   "narration": "先培训、考核，合格才能上手。",
+   "overlay": [
+    "准入培训与授权使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "准入培训与授权使用",
+   "scene": "钥匙开关和空白授权卡",
+   "prompt_en": "A laser key switch next to a blank authorization card. No people.",
+   "narration": "3B、4类激光，经授权才能使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 128,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "准入培训与授权使用",
+   "scene": "钥匙放进上锁的抽屉",
+   "prompt_en": "A laser key is placed in a locked drawer after use. No people.",
+   "narration": "钥匙专人保管，用完收回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 129,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "准入培训与授权使用",
+   "scene": "访客在门外等候，王老师递给他防护眼镜",
+   "prompt_en": "The safety administrator hands laser safety goggles to the older man waiting at the lab door.",
+   "narration": "访客要经同意，戴好眼镜，有人陪同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 130,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "小研关掉激光器，扶着捂眼睛的阿杰",
+   "prompt_en": "The female graduate student switches off the laser and supports the young male student, who covers one eye with his hand.",
+   "narration": "眼睛被激光照到，先停止出光。",
+   "overlay": [
+    "眼睛受照：报告与就医"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 131,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "用激光看视力、揉眼的图标打叉",
+   "prompt_en": "Two icons crossed out with red X marks: rubbing an eye, and testing vision by looking at a light. No people.",
+   "narration": "不要揉眼，也别自己对着光试视力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 132,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "报告链条图标：实验室—学院—学校",
+   "prompt_en": "Three linked icons in a chain: a lab room, a department building and a university building. No people.",
+   "narration": "立即报告负责人、学院和学校。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "学校主管部门"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 133,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "医院眼科图标",
+   "prompt_en": "A hospital building icon with an eye icon on its sign. No people.",
+   "narration": "尽快到医院眼科检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 134,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "电话图标旁有红十字",
+   "prompt_en": "A telephone icon with a red cross icon beside it. No people.",
+   "narration": "情况紧急，拨打120。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 135,
+   "seconds": 5,
+   "section": "S8",
+   "section_title": "眼睛受照：报告与就医",
+   "scene": "王老师和阿杰对着空白记录本复盘",
+   "prompt_en": "The safety administrator and the young male student review a blank incident record together.",
+   "narration": "记录经过，查明原因，防止再犯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 136,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "激光烟雾与激光笔",
+   "scene": "激光照射材料冒出烟雾，上方排风罩吸走",
+   "prompt_en": "A laser processing station where smoke rises from the workpiece and is drawn into an exhaust hood above. No people.",
+   "narration": "激光加工会产生烟雾，要排风。",
+   "overlay": [
+    "激光烟雾与激光笔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 137,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "激光烟雾与激光笔",
+   "scene": "排风罩关闭时的图标打叉",
+   "prompt_en": "An icon of an exhaust hood switched off while smoke rises, crossed out with a red X. No people.",
+   "narration": "排风没开，不得加工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 138,
+   "seconds": 5,
+   "section": "S9",
+   "section_title": "激光烟雾与激光笔",
+   "scene": "激光笔对着人脸和天空飞机的图标打叉",
+   "prompt_en": "Two icons crossed out with red X marks: a laser pointer aimed at a face, and a laser pointer aimed at an airplane in the sky. No people.",
+   "narration": "激光笔不对人眼，不对车辆和飞机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 139,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "从理论走向实验",
+   "scene": "欣欣站在课本和实验台之间，指向实验台",
+   "prompt_en": "The panda mascot stands between a stack of blank books and an optical table, pointing toward the table.",
+   "narration": "理论学完，接下来走进实验室。",
+   "overlay": [
+    "从理论走向实验"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 140,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "从理论走向实验",
+   "scene": "三条小路通向透镜、光纤卷、激光器图标",
+   "prompt_en": "Three paths lead to three icons: a lens, a coil of optical fiber and a laser box. No people.",
+   "narration": "还可以学几何光学、光纤和激光技术。",
+   "overlay": [],
+   "labels": [
+    "几何光学",
+    "光纤",
+    "激光技术"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 141,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "从理论走向实验",
+   "scene": "小研和阿杰戴着眼镜，在光学平台前做实验",
+   "prompt_en": "The female graduate student and the young male student, both wearing laser safety goggles, work carefully at an optical table.",
+   "narration": "上手之前，先把安全装进脑子里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 142,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "七级台阶图标",
+   "prompt_en": "The seven-step laser class staircase icon from green to red. No people.",
+   "narration": "先看类别，类别越高防护越严。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 143,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三根柱子：工程、管理、个人防护",
+   "prompt_en": "Three pillars icon: a gear, a folder and goggles. No people.",
+   "narration": "工程、管理、个人防护，一个不少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 144,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防护眼镜和波长、OD 两个打勾图标",
+   "prompt_en": "A goggles icon with two green checks beside a rainbow wave icon and a filter icon. No people.",
+   "narration": "眼镜对波长、OD够，戴了也不直视。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 145,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "低光路、摘首饰、光束终止器三个打勾图标",
+   "prompt_en": "Three icons with green checks: a low beam line, a removed wristwatch and a black beam dump. No people.",
+   "narration": "光路低于眼睛，摘首饰，光束有终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 146,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "当心激光标志、钥匙和电话图标",
+   "prompt_en": "Icons of a laser warning sign, a key and a telephone. No people.",
+   "narration": "挂标志、授权用，出事马上报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 147,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣戴着激光防护眼镜挥手道别",
+   "prompt_en": "The panda mascot wearing laser safety goggles waves goodbye at the camera beside a tidy optical table with covered beam paths.",
+   "narration": "护好双眼，安全用光，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

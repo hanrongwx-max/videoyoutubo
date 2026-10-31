@@ -1,0 +1,419 @@
+{
+ "id": "06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario",
+ "edition": "国内版",
+ "series": "CDC Laboratory Safety Series",
+ "title": "是事故还是未遂（国内版）",
+ "seconds": 150,
+ "source_doc": "course/CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario.md",
+ "author_source": "project/CDC Laboratory Safety Series/06_Fundamentals of Laboratory Safety Incident or Near Miss Scenario（国内版）/src.py",
+ "points": {
+  "K1": "给实验猴注射",
+  "K2": "针头脱落，留在皮肤里",
+  "K3": "想把针头重新接回去",
+  "K4": "针扎到了手指",
+  "K5": "这是事故还是未遂",
+  "K6": "本课不能代替本实验室规程",
+  "S1": "事故与未遂的区别",
+  "S2": "针刺后立即处置",
+  "S3": "锐器：不回套、不重装",
+  "S4": "动物实验：保定与培训",
+  "S5": "暴露登记与医学随访"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在动物实验室门口，两手各举一张卡片：一张有对勾，一张有感叹号",
+   "prompt_en": "The panda mascot stands at an animal facility door holding two blank cards, one with a check mark icon and one with an exclamation mark icon.",
+   "narration": "这一课：是事故，还是未遂事件？",
+   "overlay": [
+    "是事故还是未遂"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "给实验猴注射",
+   "scene": "小研穿防护服、戴口罩面屏和手套，在动物实验室里，旁边是一个简化的猴子图标",
+   "prompt_en": "The female graduate student in a gown, mask, face shield and gloves stands in an animal room next to a simple cartoon monkey icon on a padded table.",
+   "narration": "小研在动物实验室给实验猴做注射。",
+   "overlay": [
+    "给实验猴注射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "针头脱落，留在皮肤里",
+   "scene": "注射器图标和针头图标分开，中间有断开符号",
+   "prompt_en": "An icon of a syringe body separated from its needle, with a small break symbol between them. No people.",
+   "narration": "注射后，针头和注射器脱开了。",
+   "overlay": [
+    "针头脱落，留在皮肤里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "针头脱落，留在皮肤里",
+   "scene": "简化的猴子图标上插着一枚小针头，旁边警示三角",
+   "prompt_en": "A simple cartoon monkey icon with a tiny needle icon on its arm and a yellow warning triangle beside it. No people.",
+   "narration": "针头还留在动物的皮肤里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "想把针头重新接回去",
+   "scene": "徒手捏起针头的图标，被红叉划掉",
+   "prompt_en": "An icon of bare fingers picking up a loose needle, crossed out with a red X. No people.",
+   "narration": "她用手把针头取了下来。",
+   "overlay": [
+    "想把针头重新接回去"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "想把针头重新接回去",
+   "scene": "注射器对准针头重新组装的图标，被红叉划掉",
+   "prompt_en": "An icon of a syringe being pushed back onto a loose needle held in fingers, crossed out with a red X. No people.",
+   "narration": "又想接回注射器，一起丢进锐器盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "针扎到了手指",
+   "scene": "手指图标上出现一个红点和警示三角",
+   "prompt_en": "A finger icon with a small red dot and a yellow warning triangle beside it. No people.",
+   "narration": "就在这时，针头扎进了手指。",
+   "overlay": [
+    "针扎到了手指"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "这是事故还是未遂",
+   "scene": "欣欣在两张卡片之间来回看，头顶一个问号",
+   "prompt_en": "The panda mascot looks back and forth between two blank cards labeled only with icons, a question mark above its head.",
+   "narration": "这算事故，还是未遂事件？",
+   "overlay": [
+    "这是事故还是未遂"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "这是事故还是未遂",
+   "scene": "欣欣举起带感叹号的卡片",
+   "prompt_en": "The panda mascot holds up the card with the exclamation mark icon.",
+   "narration": "答案：已经扎伤，这是一起事故。",
+   "overlay": [],
+   "labels": [
+    "事故"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故与未遂的区别",
+   "scene": "左边：受伤的小人图标；右边：险些被砸到但没受伤的小人图标",
+   "prompt_en": "Two icons side by side: on the left a person pictogram with a bandage, on the right a person pictogram stepping back from a falling object, unhurt. No people.",
+   "narration": "造成了伤害或暴露，就是事故。",
+   "overlay": [
+    "事故与未遂的区别"
+   ],
+   "labels": [
+    "事故",
+    "未遂事件"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故与未遂的区别",
+   "scene": "右边图标放大：物体落在身边，人完好",
+   "prompt_en": "Close-up of the right icon: an object lands right next to an unhurt person pictogram. No people.",
+   "narration": "差一点出事、但没有伤害，叫未遂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故与未遂的区别",
+   "scene": "两种卡片都被放进同一个报告箱",
+   "prompt_en": "Both cards drop into the same blank report box. No people.",
+   "narration": "两者都要报告，都要找原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "针刺后立即处置",
+   "scene": "小研立即停下，在水槽边冲洗手指",
+   "prompt_en": "The female graduate student immediately stops and rinses her finger under running water at a sink.",
+   "narration": "被扎后，立即挤出血液，流动水冲洗。",
+   "overlay": [
+    "针刺后立即处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "针刺后立即处置",
+   "scene": "消毒棉签和创可贴图标",
+   "prompt_en": "Icons of an antiseptic swab and a bandage. No people.",
+   "narration": "冲洗后消毒，包扎伤口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "针刺后立即处置",
+   "scene": "小研向老周报告，老周拿起电话",
+   "prompt_en": "The female graduate student reports to the older man, who immediately picks up a telephone.",
+   "narration": "马上报告负责人，尽快就医评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "针刺后立即处置",
+   "scene": "猴子图标旁加一个红色感叹号和医院图标",
+   "prompt_en": "A simple monkey icon with a red exclamation mark next to a hospital building icon. No people.",
+   "narration": "动物来源的针刺，风险更特殊，不能拖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "锐器：不回套、不重装",
+   "scene": "锐器盒放在操作台旁，伸手可及",
+   "prompt_en": "A yellow sharps container placed right next to the work table, within arm's reach. No people.",
+   "narration": "锐器盒放在手边，用完立即投入。",
+   "overlay": [
+    "锐器：不回套、不重装"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "锐器：不回套、不重装",
+   "scene": "回套针帽、徒手拆针、重装针头三个图标被红叉划掉",
+   "prompt_en": "Three icons crossed out with red X marks: recapping a needle, removing a needle by hand, and reattaching a needle. No people.",
+   "narration": "不回套针帽，不徒手拆装针头。",
+   "overlay": [],
+   "labels": [
+    "不回套",
+    "不徒手拆",
+    "不重装"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "锐器：不回套、不重装",
+   "scene": "镊子夹起一枚脱落的针头，放入锐器盒",
+   "prompt_en": "Tweezers pick up a loose needle and drop it into a sharps container. No people.",
+   "narration": "针头掉了，用镊子夹起放进锐器盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "锐器：不回套、不重装",
+   "scene": "一体式带锁口的注射器图标打勾",
+   "prompt_en": "An icon of a syringe with a screw-lock needle connection and a green check mark. No people.",
+   "narration": "选用不易脱开的注射器和针头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "动物实验：保定与培训",
+   "scene": "老周和小研两人配合，动物图标被妥善保定",
+   "prompt_en": "The older man and the female graduate student work together beside a simple monkey icon resting calmly in a padded restraint frame.",
+   "narration": "动物要妥善保定，必要时两人配合。",
+   "overlay": [
+    "动物实验：保定与培训"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "动物实验：保定与培训",
+   "scene": "王老师给小研发放空白的培训合格证",
+   "prompt_en": "The safety administrator hands the female graduate student a blank training certificate.",
+   "narration": "动物实验人员，须经培训合格上岗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "暴露登记与医学随访",
+   "scene": "王老师在空白登记表上记录，小研在旁说明",
+   "prompt_en": "The safety administrator fills in a blank exposure record form while the female graduate student explains.",
+   "narration": "暴露要登记：时间、经过、处置。",
+   "overlay": [
+    "暴露登记与医学随访"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "暴露登记与医学随访",
+   "scene": "日历图标上圈出几个复查日期，旁边是医院图标",
+   "prompt_en": "A calendar icon with several follow-up dates circled next to a hospital icon. No people.",
+   "narration": "按医嘱随访复查，不能一扎了之。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "暴露登记与医学随访",
+   "scene": "老周和组员围着空白白板，讨论改进办法",
+   "prompt_en": "The older man and team members gather around a blank whiteboard discussing improvements.",
+   "narration": "全组复盘，改进操作和器材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "本课不能代替本实验室规程",
+   "scene": "一张空白课程卡片和一本更大的空白规程手册",
+   "prompt_en": "A small blank course card next to a larger blank procedure binder with a check mark. No people.",
+   "narration": "这门课不能代替本实验室的规程。",
+   "overlay": [
+    "本课不能代替本实验室规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现事故卡和未遂卡",
+   "prompt_en": "The panda mascot stands beside floating cards with an exclamation mark icon and a check mark icon.",
+   "narration": "有伤害是事故，没伤害是未遂。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "锐器盒和镊子图标",
+   "prompt_en": "Icons of a sharps container and tweezers. No people.",
+   "narration": "针头不回套，不徒手，进锐器盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "水龙头、电话、日历三个图标",
+   "prompt_en": "Three icons: a running faucet, a telephone, and a calendar. No people.",
+   "narration": "扎伤先冲洗，再报告、就医、随访。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和小研在动物实验室门口挥手",
+   "prompt_en": "The panda mascot and the female graduate student wave goodbye at the animal facility door.",
+   "narration": "锐器无小事，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

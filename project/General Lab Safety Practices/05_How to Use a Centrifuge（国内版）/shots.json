@@ -1,0 +1,939 @@
+{
+ "id": "05_How to Use a Centrifuge",
+ "edition": "国内版",
+ "series": "General Lab Safety Practices",
+ "title": "离心机的正确使用（国内版）",
+ "seconds": 350,
+ "source_doc": "course/General Lab Safety Practices/05_How to Use a Centrifuge.md",
+ "author_source": "project/General Lab Safety Practices/05_How to Use a Centrifuge（国内版）/src.py",
+ "points": {
+  "K1": "认识常见的离心机",
+  "K2": "用前必记的四件事",
+  "K3": "离心管尺寸要匹配",
+  "K4": "小管要用适配器",
+  "K5": "配平：两管体积一致",
+  "K6": "对称放置与配平管",
+  "K7": "拧紧转子盖再关机盖",
+  "K8": "检查时间和转速",
+  "K9": "四要点与失衡的后果",
+  "S1": "准入培训与使用登记",
+  "S2": "个人防护与样品管检查",
+  "S3": "运行前检查转子和腔体",
+  "S4": "更多配平情形",
+  "S5": "启动与运行中观察",
+  "S6": "停稳再开盖，取出样品",
+  "S7": "用后整理与异常报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上有一台小型台式离心机",
+   "prompt_en": "The panda mascot stands beside a lab bench with a small white benchtop centrifuge, and waves at the camera.",
+   "narration": "这一课讲离心机的正确使用。",
+   "overlay": [
+    "离心机的正确使用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "管子、天平、转子盖、旋钮四个图标排成一行",
+   "prompt_en": "Four icons in a row: a small plastic tube, a balance scale, a round rotor lid, and a control knob. No people.",
+   "narration": "管子、配平、盖子、设置，一个都不能错。",
+   "overlay": [],
+   "labels": [
+    "选管",
+    "配平",
+    "拧盖",
+    "设置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一支样品管走向离心机，神情轻松",
+   "prompt_en": "The young male student walks toward a benchtop centrifuge holding a single small sample tube, looking relaxed.",
+   "narration": "阿杰只有一管样品，想马上离心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "转子上只放一支管、另一侧空着的图标，被红叉划掉",
+   "prompt_en": "A top view icon of a centrifuge rotor holding only one tube with all other slots empty, crossed out with a red X. No people.",
+   "narration": "他把管子一插，就要按启动键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研伸手拦住阿杰，指着离心机",
+   "prompt_en": "The female graduate student gently stops the young male student and points at the open centrifuge.",
+   "narration": "小研说：慢着，没配平可不行！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods encouragingly.",
+   "narration": "离心机转得飞快，每一步都要做对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "认识常见的离心机",
+   "scene": "欣欣拍拍一台小型台式离心机",
+   "prompt_en": "The panda mascot pats the lid of a small white benchtop microcentrifuge on a lab bench.",
+   "narration": "实验室里，离心机有好几种。",
+   "overlay": [
+    "认识常见的离心机"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "认识常见的离心机",
+   "scene": "小型台式微量离心机，开盖可见小转子",
+   "prompt_en": "A small benchtop microcentrifuge with its lid open, showing a compact round rotor with many small slots. No people.",
+   "narration": "台式微量离心机，用来甩小离心管。",
+   "overlay": [],
+   "labels": [
+    "台式微量离心机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "认识常见的离心机",
+   "scene": "一台较大的台式离心机，旁边有雪花温度计图标",
+   "prompt_en": "A larger benchtop centrifuge with a blank control panel, and a snowflake thermometer icon floating beside it. No people.",
+   "narration": "带温控的台式离心机，能放更大的管子。",
+   "overlay": [],
+   "labels": [
+    "温控台式离心机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "认识常见的离心机",
+   "scene": "落地式高速离心机，机身厚重",
+   "prompt_en": "A heavy floor-standing high-speed centrifuge with a round lid and a blank control panel, standing in a lab corner. No people.",
+   "narration": "落地式高速离心机，转速更高。",
+   "overlay": [],
+   "labels": [
+    "高速离心机"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "认识常见的离心机",
+   "scene": "洗衣机图标被打叉，旁边是离心机",
+   "prompt_en": "A washing machine icon crossed out with a red X, next to a floor-standing centrifuge with a caution triangle icon. No people.",
+   "narration": "它可不是洗衣机，不能随便摆弄。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "用前必记的四件事",
+   "scene": "三台离心机排成一排，上方浮现清单",
+   "prompt_en": "Three centrifuges of different sizes stand in a row; a blank checklist card with four empty boxes floats above them. No people.",
+   "narration": "不管用哪一台，都要记住四件事。",
+   "overlay": [
+    "用前必记的四件事"
+   ],
+   "labels": [
+    "选对管",
+    "配好平",
+    "拧紧盖",
+    "查设置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "离心管尺寸要匹配",
+   "scene": "小研举起一支小离心管",
+   "prompt_en": "The female graduate student, wearing a lab coat and nitrile gloves, holds up a small clear plastic microtube.",
+   "narration": "第一件事：离心管要和离心机配套。",
+   "overlay": [
+    "离心管尺寸要匹配"
+   ],
+   "labels": [
+    "1.5 mL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "离心管尺寸要匹配",
+   "scene": "小管稳稳插进转子孔位，绿勾",
+   "prompt_en": "A clear microtube slides snugly into a matching slot of a benchtop rotor, with a green check mark. No people.",
+   "narration": "常用的1.5毫升管，适合多数台式机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "离心管尺寸要匹配",
+   "scene": "不同大小的管子对着不同大小的孔位",
+   "prompt_en": "Tubes of several sizes, each paired by an arrow to a slot of matching size. No people.",
+   "narration": "管子太大放不进，太小会晃动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "小管要用适配器",
+   "scene": "小研两手各拿一支管，一大一小",
+   "prompt_en": "The female graduate student holds a small tube in one hand and a larger microtube in the other, comparing their sizes.",
+   "narration": "0.5毫升的小管也能用这台离心机。",
+   "overlay": [
+    "小管要用适配器"
+   ],
+   "labels": [
+    "0.5 mL",
+    "1.5 mL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "小管要用适配器",
+   "scene": "小管套进深色适配器，再放进孔位",
+   "prompt_en": "A tiny tube is placed into a dark plastic adapter sleeve, and the sleeve is then set into a rotor slot. No people.",
+   "narration": "但要先套进适配器，再放进孔位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "小管要用适配器",
+   "scene": "小管直接掉进大孔、管身开裂的图标，被打叉",
+   "prompt_en": "An icon of a tiny tube dropped loose into an oversized slot with a crack on it, crossed out with a red X. No people.",
+   "narration": "不用适配器，管子可能被甩破。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "配平：两管体积一致",
+   "scene": "小研双手各举一支离心管对比",
+   "prompt_en": "The female graduate student holds up two clear microtubes side by side at eye level.",
+   "narration": "第二件事：离心管必须配平。",
+   "overlay": [
+    "配平：两管体积一致"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "配平：两管体积一致",
+   "scene": "两支管液面一高一低，红叉",
+   "prompt_en": "Two clear tubes side by side, one filled much higher than the other, with a red X between them. No people.",
+   "narration": "一管多一管少，就是不平衡。",
+   "overlay": [],
+   "labels": [
+    "不平衡"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "配平：两管体积一致",
+   "scene": "两支管液面一样高，绿勾",
+   "prompt_en": "Two clear tubes side by side filled to exactly the same level, with a green check mark. No people.",
+   "narration": "两管装到同样的量，才算平衡。",
+   "overlay": [],
+   "labels": [
+    "平衡"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "配平：两管体积一致",
+   "scene": "小研用移液器向一支管中补液，与另一支对齐",
+   "prompt_en": "The female graduate student uses a pipette to add liquid into one tube until it matches the level of the other tube.",
+   "narration": "补到同样体积，液面对齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "配平：两管体积一致",
+   "scene": "欣欣指着两支同样高的小管",
+   "prompt_en": "The panda mascot points at two small tubes filled to the same level.",
+   "narration": "同种溶液的小管，看体积一致即可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "对称放置与配平管",
+   "scene": "转子俯视图，两支管放在正对的孔位",
+   "prompt_en": "Top view of a round rotor with numbered-dot slots; two tubes sit in slots exactly opposite each other across the center. No people.",
+   "narration": "两支管要放在转子正对的位置。",
+   "overlay": [
+    "对称放置与配平管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "对称放置与配平管",
+   "scene": "两支管放在相邻孔位的图标被打叉",
+   "prompt_en": "A rotor icon with two tubes placed in neighboring slots on the same side, crossed out with a red X. No people.",
+   "narration": "挨着放在同一边，转起来会失衡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "对称放置与配平管",
+   "scene": "阿杰手里只有一支样品管，挠头",
+   "prompt_en": "The young male student holds a single sample tube and scratches his head beside the centrifuge.",
+   "narration": "只有一个样品怎么办？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "对称放置与配平管",
+   "scene": "小研往一支空管中加入等量的水",
+   "prompt_en": "The female graduate student pipettes water into an empty tube to match the volume of the sample tube held by the young male student.",
+   "narration": "另取一管，装入等体积的水来配平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "对称放置与配平管",
+   "scene": "样品管和配平管放在正对孔位",
+   "prompt_en": "Top view of a rotor with the sample tube and the matching balance tube in exactly opposite slots. No people.",
+   "narration": "配平管放在样品管的正对面。",
+   "overlay": [],
+   "labels": [
+    "样品",
+    "配平管"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拧紧转子盖再关机盖",
+   "scene": "小研把透明转子盖放到转子中心",
+   "prompt_en": "The female graduate student places a clear round rotor lid onto the center of the rotor inside an open benchtop centrifuge.",
+   "narration": "第三件事：盖上转子盖并拧紧。",
+   "overlay": [
+    "拧紧转子盖再关机盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拧紧转子盖再关机盖",
+   "scene": "手拧转子盖中心的旋钮，旁边绿勾",
+   "prompt_en": "A gloved hand turns the center knob of the rotor lid until it is firmly fixed, with a green check mark. No people.",
+   "narration": "确认盖子固定牢靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拧紧转子盖再关机盖",
+   "scene": "小研合上离心机外盖",
+   "prompt_en": "The female graduate student closes the outer lid of the benchtop centrifuge until it clicks shut.",
+   "narration": "然后再关上离心机的外盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拧紧转子盖再关机盖",
+   "scene": "转子盖松动飞出的图标，被打叉",
+   "prompt_en": "An icon of a loose rotor lid lifting off a spinning rotor, crossed out with a red X. No people.",
+   "narration": "转子盖没拧紧，高速下会松脱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "检查时间和转速",
+   "scene": "离心机控制面板，两个旋钮，屏幕空白",
+   "prompt_en": "Close view of a centrifuge control panel with two round knobs and a blank display screen. No people.",
+   "narration": "第四件事：开机前检查设置。",
+   "overlay": [
+    "检查时间和转速"
+   ],
+   "labels": [
+    "时间",
+    "转速"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "检查时间和转速",
+   "scene": "小研对照空白实验方案转动旋钮",
+   "prompt_en": "The female graduate student turns a knob on the centrifuge panel while checking a blank protocol sheet.",
+   "narration": "时间和转速，都按实验方案来设。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "检查时间和转速",
+   "scene": "转速表指针停在红区之前，绿勾",
+   "prompt_en": "A speed gauge icon with its needle stopping just before the red zone, with a green check mark. No people.",
+   "narration": "转速最关键，不能让管子承受不住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "检查时间和转速",
+   "scene": "离心管和转子上各有一个上限图标",
+   "prompt_en": "A microtube and a rotor, each with a small maximum limit icon beside it. No people.",
+   "narration": "看清管子和转子允许的最高转速。",
+   "overlay": [],
+   "labels": [
+    "管子上限",
+    "转子上限"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四要点与失衡的后果",
+   "scene": "欣欣身旁浮现四个打勾的图标",
+   "prompt_en": "The panda mascot stands beside four floating icons with green check marks: a tube, a balance scale, a rotor lid and a knob.",
+   "narration": "选对管、配好平、拧紧盖、查设置。",
+   "overlay": [
+    "四要点与失衡的后果"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四要点与失衡的后果",
+   "scene": "失衡离心机剧烈震动、在台面上移动的图标",
+   "prompt_en": "An icon of an unbalanced centrifuge shaking violently with motion lines and sliding across a bench, crossed out with a red X. No people.",
+   "narration": "做不到，离心机会剧烈震动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "四要点与失衡的后果",
+   "scene": "破碎的管子和损坏的转子图标",
+   "prompt_en": "Icons of a cracked tube and a damaged rotor with warning triangle icons. No people.",
+   "narration": "严重时破管、损坏转子，甚至伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与使用登记",
+   "scene": "王老师给阿杰和小研讲解离心机",
+   "prompt_en": "The safety administrator explains a benchtop centrifuge to the young male student and the female graduate student.",
+   "narration": "第一次用离心机，先培训，看操作规程。",
+   "overlay": [
+    "准入培训与使用登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与使用登记",
+   "scene": "阿杰在空白使用登记本上填写",
+   "prompt_en": "The young male student writes in a blank equipment log book placed beside the centrifuge.",
+   "narration": "公用离心机，用前用后都要登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护与样品管检查",
+   "scene": "小研穿实验服、戴手套和护目镜",
+   "prompt_en": "The female graduate student stands at the bench wearing a buttoned lab coat, nitrile gloves and safety goggles.",
+   "narration": "操作样品时，穿好实验服，戴上手套。",
+   "overlay": [
+    "个人防护与样品管检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护与样品管检查",
+   "scene": "小研对着光检查离心管有没有裂纹",
+   "prompt_en": "The female graduate student holds a microtube up to the light and checks it carefully for cracks.",
+   "narration": "离心管先查有没有裂纹和变形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护与样品管检查",
+   "scene": "装得太满的管子被打叉，适量的管子打勾",
+   "prompt_en": "Two tubes side by side: an overfilled tube crossed out with a red X and a properly filled tube with a green check mark. No people.",
+   "narration": "不要装太满，不超过管子的最大装量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "个人防护与样品管检查",
+   "scene": "手按下管盖，咔哒盖紧",
+   "prompt_en": "A gloved thumb presses a microtube cap down until it snaps tightly shut. No people.",
+   "narration": "管盖要盖紧，防止甩出漏液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "运行前检查转子和腔体",
+   "scene": "小研打开离心机盖往腔内看",
+   "prompt_en": "The female graduate student opens the centrifuge lid and looks inside the chamber.",
+   "narration": "放样前，先看腔体和转子。",
+   "overlay": [
+    "运行前检查转子和腔体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "运行前检查转子和腔体",
+   "scene": "干净干燥的离心腔，绿勾",
+   "prompt_en": "A clean and dry centrifuge chamber with the rotor sitting level on its shaft, with a green check mark. No people.",
+   "narration": "腔内干净干燥，转子装稳到位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "运行前检查转子和腔体",
+   "scene": "转子与离心管型号匹配的图标",
+   "prompt_en": "A rotor icon and a tube icon joined by a green link symbol. No people.",
+   "narration": "转子要和离心机、离心管配套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "运行前检查转子和腔体",
+   "scene": "有裂纹的转子图标被打叉，旁边是报告图标",
+   "prompt_en": "An icon of a rotor with a visible crack crossed out with a red X, next to a speech bubble report icon. No people.",
+   "narration": "转子有裂纹、腐蚀，停用并报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "更多配平情形",
+   "scene": "转子上三支管等距分布",
+   "prompt_en": "Top view of a rotor with three tubes placed at equal spacing around the circle, like a triangle. No people.",
+   "narration": "管子多时，按转子等分位置对称摆放。",
+   "overlay": [
+    "更多配平情形"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "更多配平情形",
+   "scene": "小研在天平上称两支大离心管",
+   "prompt_en": "The female graduate student weighs two large centrifuge tubes one after another on a lab balance with a blank display.",
+   "narration": "大体积或溶液轻重不同，要用天平称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "更多配平情形",
+   "scene": "两只吊篮挂在转子两侧，成对对称",
+   "prompt_en": "A swinging bucket rotor icon with two buckets hanging on exactly opposite sides, both holding tubes. No people.",
+   "narration": "吊篮、适配器也要成对对称放置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "更多配平情形",
+   "scene": "配平管装同样的缓冲液",
+   "prompt_en": "Two tubes side by side holding the same kind of clear liquid, linked by an equal sign icon. No people.",
+   "narration": "配平液尽量和样品溶液一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "启动与运行中观察",
+   "scene": "小研确认外盖关好后按下启动键",
+   "prompt_en": "The female graduate student checks that the centrifuge lid is closed, then presses the start button on a blank panel.",
+   "narration": "外盖关好，再按启动键。",
+   "overlay": [
+    "启动与运行中观察"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "启动与运行中观察",
+   "scene": "小研站在离心机旁注视",
+   "prompt_en": "The female graduate student stands beside the running centrifuge and watches it attentively.",
+   "narration": "启动后先别走，等升到设定转速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "启动与运行中观察",
+   "scene": "离心机剧烈抖动，手按停止键",
+   "prompt_en": "A benchtop centrifuge shaking with motion lines; a hand presses the stop button on the blank panel.",
+   "narration": "有异响或剧烈震动，立即按停止键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "启动与运行中观察",
+   "scene": "趴在离心机上、在上面放东西的图标被打叉",
+   "prompt_en": "Icons of a person leaning on a running centrifuge and of bottles placed on its lid, each crossed out with a red X. No people.",
+   "narration": "运行时不倚靠、不在机盖上放东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "停稳再开盖，取出样品",
+   "scene": "转子图标逐渐减速，最后停住",
+   "prompt_en": "A rotor icon with fading motion lines slowing down and finally coming to a complete stop. No people.",
+   "narration": "离心结束，等转子完全停稳。",
+   "overlay": [
+    "停稳再开盖，取出样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "停稳再开盖，取出样品",
+   "scene": "用手按住转子和强行掀盖的图标被打叉",
+   "prompt_en": "Icons of a hand stopping a spinning rotor and of a hand forcing open a locked lid, each crossed out with a red X. No people.",
+   "narration": "不用手刹转子，不强行开盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "停稳再开盖，取出样品",
+   "scene": "小研打开外盖，再慢慢拧开转子盖",
+   "prompt_en": "The female graduate student opens the centrifuge lid, then slowly unscrews the rotor lid.",
+   "narration": "盖子解锁后再打开，慢慢拧开转子盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "停稳再开盖，取出样品",
+   "scene": "小研轻轻取出管子，看有无漏液",
+   "prompt_en": "The female graduate student gently lifts the tubes out and checks them and the rotor for leaks.",
+   "narration": "轻拿样品管，看看有无破管漏液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "停稳再开盖，取出样品",
+   "scene": "生物危害标志旁是一个密封转子",
+   "prompt_en": "A biohazard warning sign next to a sealed rotor icon. No people.",
+   "narration": "感染性样品，按生物安全规定操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后整理与异常报告",
+   "scene": "小研用纸巾擦干腔体，盖子开着晾干",
+   "prompt_en": "The female graduate student wipes the inside of the centrifuge chamber dry with a paper towel and leaves the lid open.",
+   "narration": "用完擦干腔体，开盖晾干。",
+   "overlay": [
+    "用后整理与异常报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后整理与异常报告",
+   "scene": "阿杰关闭电源，在登记本上记录",
+   "prompt_en": "The young male student switches off the centrifuge and writes in the blank equipment log book.",
+   "narration": "关机、登记，样品带走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "用后整理与异常报告",
+   "scene": "阿杰向老周报告，旁边离心机贴着空白停用牌",
+   "prompt_en": "The young male student reports to the older man; a centrifuge nearby has a blank out-of-service tag on it.",
+   "narration": "破管、故障，停用并报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现离心管和适配器图标",
+   "prompt_en": "The panda mascot stands beside floating icons of microtubes and an adapter sleeve.",
+   "narration": "管子配套，小管用适配器。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两支等量的管子对称放在转子上",
+   "prompt_en": "Two equally filled tubes sit in opposite slots of a rotor. No people.",
+   "narration": "体积一致，对称放置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "转子盖拧紧、转速表指针在安全区",
+   "prompt_en": "Icons of a tightened rotor lid and a speed gauge needle in the safe zone. No people.",
+   "narration": "拧紧盖子，转速不超上限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "停稳的转子与登记本图标",
+   "prompt_en": "Icons of a stopped rotor, a pair of gloves and a blank log book. No people.",
+   "narration": "停稳再开盖，用后整理登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在离心机旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera beside a tidy benchtop centrifuge.",
+   "narration": "转得稳，才用得安全，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

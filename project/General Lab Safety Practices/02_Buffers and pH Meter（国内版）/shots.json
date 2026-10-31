@@ -1,0 +1,1535 @@
+{
+ "id": "02_Buffers and pH Meter",
+ "edition": "国内版",
+ "series": "General Lab Safety Practices",
+ "title": "缓冲液配制与pH计使用（国内版）",
+ "seconds": 570,
+ "source_doc": "course/General Lab Safety Practices/02_Buffers and pH Meter.md",
+ "author_source": "project/General Lab Safety Practices/02_Buffers and pH Meter（国内版）/src.py",
+ "points": {
+  "K1": "缓冲液与缓冲容量",
+  "K2": "选择缓冲体系",
+  "K3": "确定酸碱对与对应的盐",
+  "K4": "用公式算出碱酸比",
+  "K5": "算出用量并配制",
+  "K6": "方法二：称量与溶解",
+  "K7": "边测pH边滴加调节",
+  "K8": "转移、定容与混匀",
+  "K9": "pH计的测量原理",
+  "K10": "认识部件，保护玻璃电极",
+  "K11": "何时校准与两点校准",
+  "K12": "第一点校准",
+  "K13": "第二点校准",
+  "K14": "测量样品与记录",
+  "K15": "配得准测得准，样品才稳定",
+  "S1": "准入培训与操作规程",
+  "S2": "先看标签和安全技术说明书",
+  "S3": "个人防护",
+  "S4": "酸碱溶液的安全使用",
+  "S5": "溅洒与接触的应急处置",
+  "S6": "溶液标识与电极维护",
+  "S7": "废液与破损玻璃的处置"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上有烧杯、磁力搅拌器和pH计",
+   "prompt_en": "The panda mascot stands beside a lab bench with a glass beaker, a magnetic stirrer and a benchtop pH meter with a blank display, and waves at the camera.",
+   "narration": "这一课讲缓冲液配制和pH计使用。",
+   "overlay": [
+    "缓冲液配制与pH计使用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "计算配制、滴定配制、pH计三个图标排成一行",
+   "prompt_en": "Three icons in a row from left to right: a calculator next to a balance, a beaker with a dropper above it, and a pH meter probe. No people.",
+   "narration": "两种配制方法，再加pH计的正确用法。",
+   "overlay": [],
+   "labels": [
+    "计算配制",
+    "边测边调",
+    "pH计"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着空白实验方案挠头，旁边冰盒里放着蛋白样品管",
+   "prompt_en": "The young male student scratches his head while reading a blank protocol sheet; a small sample tube sits in an ice box beside him.",
+   "narration": "阿杰的蛋白实验，要求pH固定不变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "勺子把粉末随手倒进烧杯、没有天平的图标，被红叉划掉",
+   "prompt_en": "A floating icon of a spoon tipping powder into a beaker with no balance nearby, crossed out with a red X. No people.",
+   "narration": "他想随手溶点盐，差不多就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住阿杰，指着空白计算本和计算器",
+   "prompt_en": "The female graduate student gently stops the young male student and points to a blank calculation notebook and a calculator on the desk.",
+   "narration": "小研说：先选体系、算用量，再校准测量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把护目镜递给阿杰",
+   "prompt_en": "The female graduate student hands a pair of safety goggles to the young male student next to the lab bench.",
+   "narration": "动手之前，防护和规程也要准备好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头示意",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods encouragingly.",
+   "narration": "我们一步一步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "欣欣举起一个装着清澈液体的烧杯",
+   "prompt_en": "The panda mascot holds up a beaker of clear liquid and smiles.",
+   "narration": "缓冲液能抵抗加酸加碱带来的pH变化。",
+   "overlay": [
+    "缓冲液与缓冲容量"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "两只烧杯各滴入一滴强酸，左边的指针大幅摆动",
+   "prompt_en": "Two beakers side by side, a drop falls into each from above; above the left beaker a needle gauge swings wildly. No people.",
+   "narration": "同样滴几滴强酸，清水的pH变化很大。",
+   "overlay": [],
+   "labels": [
+    "清水",
+    "缓冲液"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "右边烧杯上方的指针几乎不动",
+   "prompt_en": "Close view of the right beaker; the needle gauge above it barely moves while drops fall in. No people.",
+   "narration": "缓冲液的pH基本保持稳定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "一面盾牌挡住落下的酸滴和碱滴",
+   "prompt_en": "A blue shield icon blocks falling drops shown as red and blue droplet pictograms. No people.",
+   "narration": "能中和多少强酸强碱，叫缓冲容量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "浅色烧杯配小盾牌，深色烧杯配大盾牌",
+   "prompt_en": "Two beakers: a pale solution with a small shield icon and a deeper colored solution with a large shield icon. No people.",
+   "narration": "容量取决于弱酸和共轭碱的浓度。",
+   "overlay": [],
+   "labels": [
+    "浓度低",
+    "浓度高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "欣欣指着大盾牌竖起大拇指",
+   "prompt_en": "The panda mascot points at the large shield icon and gives a thumbs up.",
+   "narration": "浓度越高，缓冲容量越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "小研在书桌前打开空白计算本，旁边浮现三张卡片",
+   "prompt_en": "The female graduate student sits at a desk with a blank calculation notebook; three blank cards float beside her.",
+   "narration": "例一：为蛋白配一升50毫摩尔缓冲液。",
+   "overlay": [
+    "选择缓冲体系"
+   ],
+   "labels": [
+    "1 L",
+    "50 mM",
+    "pH 7.3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "蛋白分子图标在一个笑脸温度计旁保持完整",
+   "prompt_en": "A simple protein molecule icon stays intact next to a smiling gauge icon. No people.",
+   "narration": "这种蛋白在pH 7.3时最稳定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "清单上两个勾",
+   "prompt_en": "A blank checklist card with two checkboxes, both getting green check marks. No people.",
+   "narration": "第一步选体系：pH要稳，容量要够。",
+   "overlay": [],
+   "labels": [
+    "pH稳定",
+    "容量足够"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "数轴上目标点两侧各标出一段范围",
+   "prompt_en": "A horizontal number line with a highlighted target point and a shaded band one unit wide on each side. No people.",
+   "narration": "弱酸的pKa，要在目标pH上下一个单位内。",
+   "overlay": [],
+   "labels": [
+    "pKa≈pH±1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "数轴上一个小球滑向目标点",
+   "prompt_en": "A small ball slides along the number line and stops right next to the target point. No people.",
+   "narration": "越接近目标，效果越好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "空白表格的五行，每行一个瓶子图标",
+   "prompt_en": "A blank table with five rows, each row with a small bottle pictogram and an empty cell. No people.",
+   "narration": "对照常见弱酸的pKa表来挑选。",
+   "overlay": [],
+   "labels": [
+    "醋酸 4.76",
+    "碳酸 6.35",
+    "磷酸二氢根 6.82",
+    "Tris 8.09",
+    "甘氨酸 9.78"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "选择缓冲体系",
+   "scene": "第三行亮起，打上绿勾",
+   "prompt_en": "The third row of the blank table lights up and gets a green check mark. No people.",
+   "narration": "磷酸二氢根pKa 6.82，最接近7.3。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "确定酸碱对与对应的盐",
+   "scene": "两只空白标签的试剂瓶，用箭头连到两个离子图标",
+   "prompt_en": "Two reagent jars with blank labels, each linked by an arrow to a simple ion icon above it. No people.",
+   "narration": "弱酸是磷酸二氢根，共轭碱是磷酸氢根。",
+   "overlay": [
+    "确定酸碱对与对应的盐"
+   ],
+   "labels": [
+    "弱酸",
+    "共轭碱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "确定酸碱对与对应的盐",
+   "scene": "小研分别拿起两只试剂瓶对照",
+   "prompt_en": "The female graduate student picks up two reagent jars with blank labels, one in each hand, and compares them.",
+   "narration": "对应的盐是磷酸二氢钠和磷酸氢二钠。",
+   "overlay": [],
+   "labels": [
+    "磷酸二氢钠",
+    "磷酸氢二钠"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "用公式算出碱酸比",
+   "scene": "小研指着空白黑板，黑板旁浮现公式卡片",
+   "prompt_en": "The female graduate student points at a blank chalkboard; a blank formula card floats beside it.",
+   "narration": "用亨德森-哈塞尔巴尔赫方程求比例。",
+   "overlay": [
+    "用公式算出碱酸比"
+   ],
+   "labels": [
+    "pH=pKa+lg比"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "用公式算出碱酸比",
+   "scene": "两个数字卡片落进公式卡片",
+   "prompt_en": "Two blank number cards drop into slots on a blank formula card. No people.",
+   "narration": "代入pH 7.3和pKa 6.82。",
+   "overlay": [],
+   "labels": [
+    "pH 7.3",
+    "pKa 6.82"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "用公式算出碱酸比",
+   "scene": "天平图标，一侧略重",
+   "prompt_en": "A balance scale icon with a blue weight on one side slightly heavier than a red weight on the other. No people.",
+   "narration": "算出共轭碱与弱酸之比约为1.6。",
+   "overlay": [],
+   "labels": [
+    "碱∶酸=1.6"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "用公式算出碱酸比",
+   "scene": "两堆粉末，右堆比左堆大一些",
+   "prompt_en": "Two small piles of white powder on blank weighing boats, the right pile noticeably larger than the left. No people.",
+   "narration": "磷酸氢二钠的量，是磷酸二氢钠的1.6倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "小研在计算本上写写算算",
+   "prompt_en": "The female graduate student writes on a blank notebook page with a calculator beside her.",
+   "narration": "再按总浓度和比例，算出各自用量。",
+   "overlay": [
+    "算出用量并配制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "两块拼图合成一个整体",
+   "prompt_en": "Two puzzle pieces, one red and one blue, join to form one complete block. No people.",
+   "narration": "酸和碱的浓度加起来，等于50毫摩尔。",
+   "overlay": [],
+   "labels": [
+    "酸+碱=50 mM"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "蓝色积木是红色积木的一倍半多",
+   "prompt_en": "A blue bar beside a red bar, the blue bar about one and a half times as long. No people.",
+   "narration": "碱的浓度，等于酸的1.6倍。",
+   "overlay": [],
+   "labels": [
+    "碱=1.6×酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "两个式子合并成一个",
+   "prompt_en": "Two blank equation cards slide together and merge into a single card. No people.",
+   "narration": "两式联立：酸加1.6倍的酸，等于50。",
+   "overlay": [],
+   "labels": [
+    "2.6×酸=50 mM"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "两个结果卡片弹出",
+   "prompt_en": "Two blank result cards pop up side by side with check marks. No people.",
+   "narration": "解得酸19.2、碱30.8毫摩尔每升。",
+   "overlay": [],
+   "labels": [
+    "酸 19.2 mM",
+    "碱 30.8 mM"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "天平上两只称量舟",
+   "prompt_en": "An analytical balance icon with two blank weighing boats beside it. No people.",
+   "narration": "折算成一升：2.30克和4.37克。",
+   "overlay": [],
+   "labels": [
+    "2.30 g",
+    "4.37 g"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "小研戴护目镜和手套，在分析天平上称量",
+   "prompt_en": "The female graduate student, wearing a lab coat, safety goggles and gloves, weighs white powder on a weighing boat on an analytical balance.",
+   "narration": "按计算结果，分别称取两种盐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "小研把溶液倒进容量瓶，加蒸馏水",
+   "prompt_en": "The female graduate student pours a clear solution into a one liter volumetric flask and adds distilled water from a wash bottle.",
+   "narration": "溶解后加蒸馏水，定容到一升。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "算出用量并配制",
+   "scene": "欣欣指着pH计",
+   "prompt_en": "The panda mascot points at a benchtop pH meter with a blank display.",
+   "narration": "配好后，最好再用pH计核对一下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "欣欣举起一只烧杯和一支滴管",
+   "prompt_en": "The panda mascot holds up a beaker in one hand and a dropper in the other.",
+   "narration": "方法二更简单准确，计算也少得多。",
+   "overlay": [
+    "方法二：称量与溶解"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "三张卡片浮在试剂瓶旁",
+   "prompt_en": "Three blank cards float beside a white reagent jar with a blank label. No people.",
+   "narration": "例二：配一升1.0毫摩尔Tris缓冲液。",
+   "overlay": [],
+   "labels": [
+    "1 L",
+    "1.0 mM",
+    "pH 7.60"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "小研在计算本上写下一个数",
+   "prompt_en": "The female graduate student writes a single number on a blank notebook page.",
+   "narration": "目标pH 7.60，先算出弱碱用量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "试剂瓶旁一个小称量舟",
+   "prompt_en": "A small blank weighing boat with a little white powder beside a reagent jar with a blank label. No people.",
+   "narration": "1.0毫摩尔Tris，大约121毫克。",
+   "overlay": [],
+   "labels": [
+    "1.0 mmol",
+    "121 mg"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "小研往放在搅拌器上的大烧杯里倒蒸馏水，再放入搅拌子",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, pours distilled water into a large beaker on a magnetic stirrer, then drops in a white stir bar.",
+   "narration": "一升烧杯里先加约800毫升水和搅拌子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "小研称好粉末，倒入烧杯",
+   "prompt_en": "The female graduate student tips white powder from a weighing boat into the large beaker.",
+   "narration": "称好121毫克Tris，倒进烧杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "方法二：称量与溶解",
+   "scene": "小研用洗瓶冲洗称量舟，冲洗液流进烧杯",
+   "prompt_en": "The female graduate student rinses the empty weighing boat with a wash bottle, letting the rinse run into the beaker.",
+   "narration": "冲洗称量舟，冲洗液也倒进烧杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "搅拌子转动，pH探头用夹子固定在液体中",
+   "prompt_en": "A beaker on a magnetic stirrer, the white stir bar spinning; a pH probe is held by a clamp in the liquid, away from the stir bar. No people.",
+   "narration": "边搅拌，边用pH计监测。",
+   "overlay": [
+    "边测pH边滴加调节"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "戴手套的手用滴管逐滴加液，仪表数字在变",
+   "prompt_en": "A gloved hand adds liquid drop by drop with a dropper into the stirring beaker; the pH meter display shows changing blank segments.",
+   "narration": "逐滴加入酸或碱溶液，调到7.60。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "欣欣在弱碱瓶旁举起一个酸滴图标",
+   "prompt_en": "The panda mascot stands beside a reagent jar with a blank label and holds up a red droplet icon.",
+   "narration": "Tris本身偏碱，从弱碱起步通常要加酸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "三只滴瓶浓淡不同",
+   "prompt_en": "Three dropper bottles with blank labels containing liquids of light, medium and dark shades. No people.",
+   "narration": "调节液浓度不必精确，但要选合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "一大桶淡色液体倒进烧杯，烧杯快满了",
+   "prompt_en": "A big jug of pale liquid pours into a beaker that is nearly overflowing, with a yellow warning triangle icon. No people.",
+   "narration": "太稀，要加很大体积，把缓冲液冲淡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "一滴深色液体让仪表指针冲过目标线",
+   "prompt_en": "One drop of dark liquid falls and a gauge needle shoots past a highlighted target line. No people.",
+   "narration": "太浓，一滴下去就容易调过头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "边测pH边滴加调节",
+   "scene": "反向箭头把指针拉回目标线",
+   "prompt_en": "A curved reverse arrow pulls the gauge needle slowly back to the target line. No people.",
+   "narration": "调过头，就用反向的酸或碱慢慢调回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "转移、定容与混匀",
+   "scene": "小研借助漏斗把溶液倒入一升容量瓶",
+   "prompt_en": "The female graduate student pours the solution through a funnel into a one liter volumetric flask.",
+   "narration": "把溶液转入一升容量瓶。",
+   "overlay": [
+    "转移、定容与混匀"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "转移、定容与混匀",
+   "scene": "小研用蒸馏水冲洗烧杯，洗液倒入容量瓶",
+   "prompt_en": "The female graduate student rinses the empty beaker with distilled water several times and pours each rinse into the volumetric flask.",
+   "narration": "烧杯用蒸馏水洗几次，洗液并入瓶中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "转移、定容与混匀",
+   "scene": "小研平视容量瓶刻度线，慢慢加水",
+   "prompt_en": "The female graduate student bends down so her eyes are level with the mark on the flask neck and adds water slowly with a wash bottle.",
+   "narration": "加水到刻度线，视线与刻度平齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "转移、定容与混匀",
+   "scene": "小研盖好瓶塞，上下颠倒容量瓶",
+   "prompt_en": "The female graduate student stoppers the volumetric flask, holds the stopper with one hand and turns the flask upside down several times.",
+   "narration": "盖紧瓶塞，反复颠倒混匀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "pH计的测量原理",
+   "scene": "欣欣站在pH计旁拍拍仪器",
+   "prompt_en": "The panda mascot stands beside a benchtop pH meter with a blank display and pats it.",
+   "narration": "方法二离不开pH计，下面讲正确用法。",
+   "overlay": [
+    "pH计的测量原理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "pH计的测量原理",
+   "scene": "复合电极剖面示意，内外两层",
+   "prompt_en": "A simple cutaway diagram of a combination pH probe: a thin glass bulb at the tip, an inner tube and an outer tube around it. No people.",
+   "narration": "pH计用玻璃电极测氢离子活度。",
+   "overlay": [],
+   "labels": [
+    "玻璃电极",
+    "参比电极"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "pH计的测量原理",
+   "scene": "外层参比电极高亮",
+   "prompt_en": "The outer tube of the probe diagram is highlighted, wrapped around the inner glass electrode. No people.",
+   "narration": "玻璃电极外同轴套着银-氯化银参比电极。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "pH计的测量原理",
+   "scene": "探头浸入溶液，一条发光的回路连起来",
+   "prompt_en": "The probe diagram dips into a beaker of solution and a glowing loop connects the probe, the solution and back. No people.",
+   "narration": "探头浸入溶液，三者连成一条回路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "pH计的测量原理",
+   "scene": "回路上出现电压图标，仪表显示数值",
+   "prompt_en": "A small voltage icon appears on the glowing loop and the meter display lights up with blank segments. No people.",
+   "narration": "内外pH不同产生电位差，仪表显示出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认识部件，保护玻璃电极",
+   "scene": "pH计三个部位依次高亮",
+   "prompt_en": "A benchtop pH meter with its display, the probe and the probe tip highlighted one after another. No people.",
+   "narration": "主要部件：显示屏、探头和电极尖端。",
+   "overlay": [
+    "认识部件，保护玻璃电极"
+   ],
+   "labels": [
+    "显示屏",
+    "探头",
+    "电极尖端"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认识部件，保护玻璃电极",
+   "scene": "电极尖端玻璃球泡特写，旁边有裂纹图标",
+   "prompt_en": "Close-up of the thin glass bulb at the probe tip, with a small crack warning icon beside it. No people.",
+   "narration": "尖端是很薄的玻璃球泡，容易碎。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认识部件，保护玻璃电极",
+   "scene": "探头撞向烧杯壁的图标被打叉",
+   "prompt_en": "An icon of a probe hitting the side of a beaker, crossed out with a red X. No people.",
+   "narration": "不要让探头碰到烧杯壁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认识部件，保护玻璃电极",
+   "scene": "搅拌子碰到球泡的图标被打叉",
+   "prompt_en": "An icon of a spinning stir bar hitting the probe bulb, crossed out with a red X. No people.",
+   "narration": "用搅拌子时，探头要离它远一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "认识部件，保护玻璃电极",
+   "scene": "小研轻轻把探头放进烧杯并用夹子固定",
+   "prompt_en": "The female graduate student gently lowers the probe into a beaker and fixes it in a clamp, well above the stir bar.",
+   "narration": "放入和取出探头，动作都要轻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "何时校准与两点校准",
+   "scene": "小研检查探头电缆是否插好",
+   "prompt_en": "The female graduate student checks that the probe cable is firmly plugged into the back of the pH meter.",
+   "narration": "先确认电极已经接好仪表。",
+   "overlay": [
+    "何时校准与两点校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "何时校准与两点校准",
+   "scene": "欣欣举起一块空白的校准卡片",
+   "prompt_en": "The panda mascot holds up a blank card with a target icon.",
+   "narration": "然后校准，不校准的读数不可信。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "何时校准与两点校准",
+   "scene": "电源图标和时钟图标",
+   "prompt_en": "A power button icon and a clock icon side by side, each with a circular arrow. No people.",
+   "narration": "每次开机都要重新校准。",
+   "overlay": [],
+   "labels": [
+    "每次开机",
+    "连续使用3–4小时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "何时校准与两点校准",
+   "scene": "时钟指针转动，再次出现循环箭头",
+   "prompt_en": "The clock hands sweep forward several hours and the circular arrow lights up again. No people.",
+   "narration": "连续用了三四个小时，也要再校准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "何时校准与两点校准",
+   "scene": "两瓶不同颜色的标准液",
+   "prompt_en": "Two small bottles with blank labels, one with red liquid and one with blue liquid, in front of a pH meter. No people.",
+   "narration": "两点校准：用两种已知pH的标准液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "小研打开pH计，选择显示模式",
+   "prompt_en": "The female graduate student switches on the pH meter and presses a mode key on its blank keypad.",
+   "narration": "开机，选0.1或0.01的显示精度。",
+   "overlay": [
+    "第一点校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "小研按一个按键，屏幕亮起",
+   "prompt_en": "The female graduate student presses one key on the blank keypad and the display lights up.",
+   "narration": "按等电位键，核对读数是否为7.00。",
+   "overlay": [],
+   "labels": [
+    "7.00"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "小研在废液杯上方用洗瓶冲洗探头",
+   "prompt_en": "The female graduate student rinses the probe with a wash bottle over an empty waste beaker.",
+   "narration": "蒸馏水冲洗探头，冲洗水接进废液杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "小研用无尘纸轻轻吸干探头",
+   "prompt_en": "The female graduate student gently blots the probe tip with a plain white lint-free tissue.",
+   "narration": "用无尘纸轻轻吸干，不要用力擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "小研把探头放入第一种标准液，按校准键",
+   "prompt_en": "The female graduate student places the probe into the first small bottle of standard buffer and presses a key on the meter.",
+   "narration": "放入第一种标准液，按校准键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "屏幕交替闪烁",
+   "prompt_en": "Close-up of the meter display flashing alternately between two blank segment patterns. No people.",
+   "narration": "屏幕交替显示数字1和读数。",
+   "overlay": [],
+   "labels": [
+    "1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "第一点校准",
+   "scene": "读数停住，手指按确认键",
+   "prompt_en": "The display stops flashing and holds steady; a gloved finger presses a key.",
+   "narration": "读数稳定后，按确认键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "屏幕上出现新的闪烁",
+   "prompt_en": "Close-up of the meter display showing a new single blank symbol. No people.",
+   "narration": "屏幕出现数字2，准备第二点。",
+   "overlay": [
+    "第二点校准"
+   ],
+   "labels": [
+    "2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "小研再次冲洗、吸干探头",
+   "prompt_en": "The female graduate student rinses the probe again over the waste beaker and blots it with a lint-free tissue.",
+   "narration": "再次冲洗吸干，放入第二种标准液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "红色标准液瓶旁亮起酸性图标",
+   "prompt_en": "The red standard buffer bottle glows next to an acid droplet icon. No people.",
+   "narration": "样品偏酸，用pH 4.01的标准液。",
+   "overlay": [],
+   "labels": [
+    "pH 4.01"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "蓝色标准液瓶旁亮起碱性图标",
+   "prompt_en": "The blue standard buffer bottle glows next to a base droplet icon. No people.",
+   "narration": "样品偏碱，用pH 10.01的标准液。",
+   "overlay": [],
+   "labels": [
+    "pH 10.01"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "屏幕交替闪烁后停住，手指按确认",
+   "prompt_en": "The display flashes alternately, then holds steady; a gloved finger presses a key.",
+   "narration": "交替显示2和读数，稳定后按确认。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第二点校准",
+   "scene": "屏幕显示就绪，小研点头",
+   "prompt_en": "The meter display shows a steady ready symbol and the female graduate student nods.",
+   "narration": "屏幕显示pH，就可以开始测量了。",
+   "overlay": [],
+   "labels": [
+    "pH"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测量样品与记录",
+   "scene": "温度计图标与缓冲液瓶并排",
+   "prompt_en": "A thermometer icon next to a bottle of buffer with a blank label and a thermostat dial icon. No people.",
+   "narration": "测量前，样品温度要和实验温度一致。",
+   "overlay": [
+    "测量样品与记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测量样品与记录",
+   "scene": "温度计升降，指针跟着变化",
+   "prompt_en": "As the thermometer level rises and falls, a gauge needle beside it moves too. No people.",
+   "narration": "因为pH会随温度变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测量样品与记录",
+   "scene": "小研冲洗吸干探头，放入待测缓冲液",
+   "prompt_en": "The female graduate student rinses and blots the probe, then places it into a beaker of buffer sample.",
+   "narration": "冲洗吸干探头，放入待测缓冲液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测量样品与记录",
+   "scene": "小研在实验记录本上写下读数",
+   "prompt_en": "The female graduate student waits for the display to settle, then writes in a blank lab notebook.",
+   "narration": "等读数稳定，再记录pH值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "配得准测得准，样品才稳定",
+   "scene": "欣欣捧着装有蛋白样品的冰盒",
+   "prompt_en": "The panda mascot holds a small ice box with sample tubes and smiles.",
+   "narration": "缓冲液配得准，pH测得准，",
+   "overlay": [
+    "配得准测得准，样品才稳定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "配得准测得准，样品才稳定",
+   "scene": "蛋白分子图标闪着健康的绿光",
+   "prompt_en": "A protein molecule icon glows healthy green next to a check mark. No people.",
+   "narration": "蛋白和其他敏感试剂才能长期保持活性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与操作规程",
+   "scene": "王老师给阿杰讲解仪器操作规程",
+   "prompt_en": "The safety administrator explains a blank operating procedure card to the young male student next to a pH meter.",
+   "narration": "第一次用pH计，先培训，再看操作规程。",
+   "overlay": [
+    "准入培训与操作规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "准入培训与操作规程",
+   "scene": "阿杰在空白使用登记本上签字",
+   "prompt_en": "The young male student signs a blank instrument logbook beside the pH meter.",
+   "narration": "使用前后登记，发现故障及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先看标签和安全技术说明书",
+   "scene": "小研对照试剂瓶阅读空白的安全技术说明书",
+   "prompt_en": "The female graduate student reads a blank safety data sheet next to a reagent bottle with a blank label.",
+   "narration": "称量滴加前，先看标签和安全技术说明书。",
+   "overlay": [
+    "先看标签和安全技术说明书"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先看标签和安全技术说明书",
+   "scene": "试剂瓶上的腐蚀象形图",
+   "prompt_en": "A GHS corrosion hazard pictogram in a red diamond on a blank bottle label. No people.",
+   "narration": "强酸强碱溶液有腐蚀性，留意象形图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "先看标签和安全技术说明书",
+   "scene": "王老师在领用登记本上核对",
+   "prompt_en": "The safety administrator checks a blank chemical use register at a reagent cabinet.",
+   "narration": "盐酸属管控化学品，领用要按规定登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人防护",
+   "scene": "小研穿实验服、戴护目镜和手套",
+   "prompt_en": "The female graduate student stands at the bench wearing a buttoned lab coat, safety goggles and nitrile gloves.",
+   "narration": "实验服、护目镜、手套，一样不少。",
+   "overlay": [
+    "个人防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "个人防护",
+   "scene": "露趾凉鞋和披散长发的图标被打叉",
+   "prompt_en": "Icons of open-toe sandals and loose long hair, each crossed out with a red X. No people.",
+   "narration": "长发扎起，不穿露趾鞋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱溶液的安全使用",
+   "scene": "酸滴图标沿杯壁流进水里，反向的图标被打叉",
+   "prompt_en": "An icon of acid poured slowly into a beaker of water with a green check, and an icon of water poured into acid crossed out with a red X. No people.",
+   "narration": "稀释浓酸，要把酸慢慢加入水中。",
+   "overlay": [
+    "酸碱溶液的安全使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱溶液的安全使用",
+   "scene": "小研滴加时脸离烧杯较远",
+   "prompt_en": "The female graduate student adds drops into a beaker that sits steady on the bench, keeping her face well back from it.",
+   "narration": "滴加时容器放稳，脸不要凑近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "酸碱溶液的安全使用",
+   "scene": "柜子里酸和碱分开两格存放",
+   "prompt_en": "A chemical cabinet with two separate shelves, red droplet icons on one and blue droplet icons on the other, all caps closed. No people.",
+   "narration": "酸和碱分开存放，瓶盖拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "洗眼器标志，旁边是洗眼器",
+   "prompt_en": "An eyewash sign above a lab eyewash station with water flowing. No people.",
+   "narration": "溅入眼睛，立即到洗眼器用流水冲洗。",
+   "overlay": [
+    "溅洒与接触的应急处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "小研在水槽边用大量流水冲手臂",
+   "prompt_en": "The female graduate student rinses her forearm under running water at a lab sink.",
+   "narration": "溅到皮肤，脱去污染衣物，大量清水冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "小研用吸附垫处理台面少量溅洒",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, covers a small spill on the bench with absorbent pads.",
+   "narration": "台面少量溅洒，按规程吸附后清理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "阿杰向老周报告",
+   "prompt_en": "The young male student reports to the older man in the lab doorway; the older man listens and nods.",
+   "narration": "事后报告实验室负责人，必要时就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "溅洒与接触的应急处置",
+   "scene": "电话图标上显示急救号码",
+   "prompt_en": "A telephone icon with a red cross icon beside it. No people.",
+   "narration": "伤情严重，拨打120求救。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溶液标识与电极维护",
+   "scene": "小研给缓冲液瓶贴空白标签",
+   "prompt_en": "The female graduate student sticks a blank label onto a bottle of freshly made buffer.",
+   "narration": "贴好标签：名称、浓度、pH、日期、配制人。",
+   "overlay": [
+    "溶液标识与电极维护"
+   ],
+   "labels": [
+    "名称 浓度 pH",
+    "日期 配制人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溶液标识与电极维护",
+   "scene": "探头冲净后套上装有保存液的保护帽",
+   "prompt_en": "A rinsed pH probe gets a small protective cap filled with storage solution fitted over its tip. No people.",
+   "narration": "电极用完冲净，套上装保存液的保护帽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溶液标识与电极维护",
+   "scene": "探头干放和泡在蒸馏水里的图标被打叉",
+   "prompt_en": "Icons of a probe lying dry on the bench and a probe standing in a cup of plain water, both crossed out with a red X. No people.",
+   "narration": "不要干放，也不要长期泡在蒸馏水里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "溶液标识与电极维护",
+   "scene": "电线远离液体，湿手碰插头的图标被打叉",
+   "prompt_en": "The pH meter cable runs away from beakers; a separate icon of a wet hand touching a plug is crossed out with a red X. No people.",
+   "narration": "电线远离液体，湿手不碰插头开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "废液与破损玻璃的处置",
+   "scene": "小研把废液倒入有空白标签的废液桶",
+   "prompt_en": "The female graduate student pours waste liquid from the waste beaker into a closed waste container with a blank label.",
+   "narration": "冲洗液和废弃溶液，按本校规定分类收集。",
+   "overlay": [
+    "废液与破损玻璃的处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "废液与破损玻璃的处置",
+   "scene": "倒向水槽的图标被打叉",
+   "prompt_en": "An icon of liquid poured into a sink drain, crossed out with a red X. No people.",
+   "narration": "不要随意倒进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "S7",
+   "section_title": "废液与破损玻璃的处置",
+   "scene": "破损的电极放进锐器盒",
+   "prompt_en": "A gloved hand drops a broken glass probe tip into a rigid sharps box.",
+   "narration": "电极破损，碎玻璃放进专用锐器盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现天平和容量瓶图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a balance and a volumetric flask.",
+   "narration": "选体系、算比例、称量、定容。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "滴管和指针回到目标线的图标",
+   "prompt_en": "Icons of a dropper and a gauge needle settling on a target line. No people.",
+   "narration": "边测边调pH，过头就反向回调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "pH计、两瓶标准液和受保护的电极",
+   "prompt_en": "A pH meter, two small standard buffer bottles and a probe with a shield icon. No people.",
+   "narration": "pH计先校准，轻拿轻放护电极。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护目镜、手套和废液桶图标",
+   "prompt_en": "Icons of safety goggles, gloves and a closed waste container in a row. No people.",
+   "narration": "做好防护，规范处置废液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台前挥手道别",
+   "prompt_en": "The panda mascot waves goodbye at the camera in front of a tidy lab bench.",
+   "narration": "规范操作，安全实验，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
