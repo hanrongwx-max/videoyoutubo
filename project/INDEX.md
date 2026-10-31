@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 316 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 317 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 24 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
-| Electrical Safety Series | 19 / 25 | 6 / 16 |
+| Electrical Safety Series | 20 / 25 | 6 / 16 |
 | Lab Safety Training Series | 13 / 13 | 9 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
@@ -256,6 +256,7 @@
 | Electrical Safety Series | 13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY | 国内版 | 漏电保护器的灵敏度档位（国内版） | 46 | 3:50 | 8 / 4 | [剧本](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/script.md>) · [审查](<Electrical Safety Series/13_RCCB RCD Ratings of RCCB Residual Current Sensitivity RCCB 30mA 100mA HSE STUDY（国内版）/审查报告.md>) |
 | Electrical Safety Series | 14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID | 国内版 | 用电安全十五问（国内版） | 79 | 6:35 | 15 / 5 | [剧本](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/script.md>) · [审查](<Electrical Safety Series/14_Electrical Safety Electrical Safety Interview Questions & Answers HSE STUDY GUID（国内版）/审查报告.md>) |
 | Electrical Safety Series | 15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview | 单一版 | 安全知识四关挑战 | 107 | 8:55 | 47 / 5 | [剧本](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview/script.md>) · [审查](<Electrical Safety Series/15_60 Most Basic Safety Interview Questions & Answers Construction Safety Interview/审查报告.md>) |
+| Electrical Safety Series | 16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE | 单一版 | 电击从哪来，怎样防 | 55 | 4:35 | 20 / 5 | [剧本](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE/script.md>) · [审查](<Electrical Safety Series/16_Electrical Shock Causes of Electrical Shock How To Prevent Electrical Shock HSE/审查报告.md>) |
 | Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 国内版 | 人体电阻：为什么湿手更危险（国内版） | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU（国内版）/审查报告.md>) |
 | Electrical Safety Series | 20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co | 国内版 | 电线的颜色：认得清，更要验得准（国内版） | 37 | 3:05 | 6 / 4 | [剧本](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/script.md>) · [审查](<Electrical Safety Series/20_Color code for Electrical Power Cable Electrical Color Code Power Cable Color Co（国内版）/审查报告.md>) |
 | Electrical Safety Series | 21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE | 单一版 | 两种漏电保护器：十个方面比一比 | 53 | 4:25 | 11 / 3 | [剧本](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/script.md>) · [审查](<Electrical Safety Series/21_ELCB Vs RCCB Difference between ELCB and RCCB @HSE STUDY GUIDE/审查报告.md>) |
