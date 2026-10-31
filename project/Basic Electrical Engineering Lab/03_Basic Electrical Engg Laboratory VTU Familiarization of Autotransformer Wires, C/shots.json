@@ -1,0 +1,864 @@
+{
+ "id": "03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "导线、导体与自耦调压器",
+ "seconds": 305,
+ "source_doc": "course/Basic Electrical Engineering Lab/03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C.md",
+ "author_source": "project/Basic Electrical Engineering Lab/03_Basic Electrical Engg Laboratory VTU Familiarization of Autotransformer Wires, C/src.py",
+ "points": {
+  "K1": "本课内容",
+  "K2": "导体：自由电子多",
+  "K3": "电导是电阻的倒数",
+  "K4": "铜导线",
+  "K5": "铝导线",
+  "K6": "按载流量选截面",
+  "K7": "镀锌铁线",
+  "K8": "良导体、不良导体、非导体",
+  "K9": "常用绝缘材料",
+  "K10": "实心线、绞合线、多股线、软线",
+  "K11": "单芯与双芯",
+  "K12": "粗线电阻小",
+  "K13": "导线等于导体加绝缘层",
+  "K14": "绝缘层的作用",
+  "K15": "按电路选导线",
+  "K16": "自耦调压器：一个绕组",
+  "K17": "原副边相连，不隔离",
+  "K18": "调节线路电压",
+  "K19": "单相调压器的接法",
+  "K20": "单相与三相调压器",
+  "K21": "调压器的别名",
+  "K22": "本课回顾"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台边，台上有一卷卷彩色导线和一台带旋钮的圆形调压器，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a lab bench with coils of colored wire and a round variable autotransformer with a big knob, waving at the camera.",
+   "narration": "这一课认识导线、导体和自耦调压器。",
+   "overlay": [
+    "导线、导体与自耦调压器"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "导体、绝缘层、导线、调压器四个图标",
+   "prompt_en": "Four icons in a row: a copper strand, an insulating sleeve, a coiled wire and a round voltage regulator with a knob. No people.",
+   "narration": "导体、绝缘、导线、调压器。",
+   "overlay": [],
+   "labels": [
+    "导体",
+    "绝缘",
+    "导线",
+    "调压器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰面对一桌粗细不同的彩色导线，拿起一根又放下",
+   "prompt_en": "The young male student faces a bench full of colored wires of different thicknesses, picking one up and putting it down, unsure.",
+   "narration": "阿杰看着一桌导线，不知道该用哪根。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰指着圆形调压器的旋钮，一脸疑问",
+   "prompt_en": "The young male student points at the knob of a round variable autotransformer with a puzzled look.",
+   "narration": "旁边这个带旋钮的圆盒子，又是什么？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿起两根导线比较粗细",
+   "prompt_en": "The female graduate student holds up two wires side by side to compare their thickness.",
+   "narration": "小研说：先弄懂导体、导线和调压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "导线和调压器，看着简单，学问不少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课内容",
+   "scene": "欣欣依次指向四个图标",
+   "prompt_en": "The panda mascot points one by one at four icons: a conductor, an insulator, a wire and an autotransformer.",
+   "narration": "先讲导体和绝缘，再讲导线和调压器。",
+   "overlay": [
+    "本课内容"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "导体：自由电子多",
+   "scene": "金属里很多自由移动的小圆点",
+   "prompt_en": "An icon of a metal block with many small free-moving dots inside, arrows showing them drifting. No people.",
+   "narration": "导体里的自由电子多，容易导电。",
+   "overlay": [
+    "导体：自由电子多"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "导体：自由电子多",
+   "scene": "左边圆点密集标绿勾，右边圆点稀少标黄色",
+   "prompt_en": "Two blocks side by side: left packed with free dots and a green check, right with few dots and a yellow mark. No people.",
+   "narration": "电子多，电阻小；电子少，电阻大。",
+   "overlay": [],
+   "labels": [
+    "良导体",
+    "不良导体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电导是电阻的倒数",
+   "scene": "电阻符号和倒数箭头指向电导符号",
+   "prompt_en": "A resistor symbol with a flip arrow pointing to a conductance symbol. No people.",
+   "narration": "电导是电阻的倒数。",
+   "overlay": [
+    "电导是电阻的倒数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电导是电阻的倒数",
+   "scene": "一张空白卡片上有单位图示",
+   "prompt_en": "A blank card with a unit icon. No people.",
+   "narration": "单位是西门子，旧称姆欧。",
+   "overlay": [],
+   "labels": [
+    "西门子 S"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "铜导线",
+   "scene": "一卷闪亮的铜线",
+   "prompt_en": "A shiny coil of copper wire on a bench. No people.",
+   "narration": "铜线导电好，好焊接。",
+   "overlay": [
+    "铜导线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "铜导线",
+   "scene": "铜线卷放在天平一侧较重，旁边有钱币图标",
+   "prompt_en": "A copper coil on a balance scale tipping down, next to a coin stack icon. No people.",
+   "narration": "缺点是重一些、贵一些。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "铜导线",
+   "scene": "房屋图标里的墙内布线",
+   "prompt_en": "A house icon with wiring routes drawn inside the walls. No people.",
+   "narration": "家里布线常用铜线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "铝导线",
+   "scene": "一卷银灰色铝线，轻轻浮在天平上",
+   "prompt_en": "A coil of silver-grey aluminum wire on a balance scale tipping up, lighter. No people.",
+   "narration": "铝线便宜又轻。",
+   "overlay": [
+    "铝导线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "铝导线",
+   "scene": "铜和铝两根导电柱，铝的约为铜的六成",
+   "prompt_en": "Two conductivity bars: a copper bar full height and an aluminum bar about sixty percent as tall. No people.",
+   "narration": "导电率大约是铜的六成。",
+   "overlay": [],
+   "labels": [
+    "铝≈铜的60%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按载流量选截面",
+   "scene": "粗细不同的四根导线截面圆，从小到大排开",
+   "prompt_en": "Four wire cross-section circles of increasing size in a row. No people.",
+   "narration": "截面有 1、1.5、4、6 平方毫米等规格。",
+   "overlay": [
+    "按载流量选截面"
+   ],
+   "labels": [
+    "1",
+    "1.5",
+    "4",
+    "6 mm²"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按载流量选截面",
+   "scene": "电流箭头穿过导线，粗电流配粗线",
+   "prompt_en": "Current arrows passing through wires; the thick arrow goes through the thick wire. No people.",
+   "narration": "电流大，就选截面大的导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按载流量选截面",
+   "scene": "电压表回路接细线，电流回路接粗线",
+   "prompt_en": "A circuit icon: thin wires leading to a voltmeter, thick wires in the main current loop with an ammeter. No people.",
+   "narration": "比如测电压的回路用细线，电流回路用粗线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "镀锌铁线",
+   "scene": "一卷灰色镀锌铁线",
+   "prompt_en": "A coil of dull grey galvanized iron wire. No people.",
+   "narration": "镀锌铁线：重，导电最差。",
+   "overlay": [
+    "镀锌铁线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "镀锌铁线",
+   "scene": "架空线和接地极两个图标",
+   "prompt_en": "Two icons: overhead line poles with wires, and an earth rod in the ground. No people.",
+   "narration": "多用在架空线和接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "良导体、不良导体、非导体",
+   "scene": "铜铝导线图标打绿勾",
+   "prompt_en": "Icons of copper and aluminum wires with a green check. No people.",
+   "narration": "铜、铝是良导体，电阻小，用来输电。",
+   "overlay": [
+    "良导体、不良导体、非导体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "良导体、不良导体、非导体",
+   "scene": "发光的灯丝和发红的电热丝",
+   "prompt_en": "Icons of a glowing lamp filament and a red-hot heating coil. No people.",
+   "narration": "钨丝、镍铬丝电阻较大，用来发热发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "良导体、不良导体、非导体",
+   "scene": "塑料管和玻璃瓶图标",
+   "prompt_en": "Icons of plastic pipes and a glass bottle. No people.",
+   "narration": "塑料、玻璃几乎不导电，用来绝缘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "良导体、不良导体、非导体",
+   "scene": "导线剖面：中间铜芯，外面塑料皮",
+   "prompt_en": "A cutaway icon of a wire: copper core in the middle, plastic sleeve outside. No people.",
+   "narration": "电线把导体和绝缘体组合起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "常用绝缘材料",
+   "scene": "PVC、橡胶两种绝缘层样品，天然橡胶打黄色问号",
+   "prompt_en": "Samples of PVC insulation and vulcanized rubber insulation with green checks, and natural rubber with a yellow question mark. No people.",
+   "narration": "绝缘层常用塑料和硫化橡胶。",
+   "overlay": [
+    "常用绝缘材料"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "常用绝缘材料",
+   "scene": "天然橡胶样品打叉",
+   "prompt_en": "A natural rubber sample crossed out with a red X. No people.",
+   "narration": "天然橡胶不宜作导线绝缘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "一根粗实心铜芯的剖面",
+   "prompt_en": "A cross-section of a wire with one solid copper core. No people.",
+   "narration": "实心导线，一根铜芯，常用在电缆里。",
+   "overlay": [
+    "实心线、绞合线、多股线、软线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "几股铜丝绞在一起的导线，轻松弯曲",
+   "prompt_en": "A wire made of several copper strands twisted together, bending easily. No people.",
+   "narration": "绞合导线有 1、7、19、37 股，最常用。",
+   "overlay": [],
+   "labels": [
+    "1/7/19/37 股"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "绞合导线旁边一把卡尺图标",
+   "prompt_en": "A stranded wire next to a caliper icon. No people.",
+   "narration": "整根直径大约 1.13 到 3.73 毫米，比单根软。",
+   "overlay": [],
+   "labels": [
+    "1.13–3.73mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "很多细铜丝组成的多股线",
+   "prompt_en": "A wire made of many fine copper strands. No people.",
+   "narration": "多股导线单丝约零点二到零点三毫米，载流更好。",
+   "overlay": [],
+   "labels": [
+    "单丝0.2–0.3mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "极细铜丝组成的软线，可绕成圈",
+   "prompt_en": "A flexible cord of very fine copper strands, coiled into a loop. No people.",
+   "narration": "软线有 14、23、40 股，单丝更细。",
+   "overlay": [],
+   "labels": [
+    "14/23/40 股",
+    "单丝<0.2 mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "实心线、绞合线、多股线、软线",
+   "scene": "小研在空白订货单上写股数",
+   "prompt_en": "The female graduate student writes on a blank order form next to a coil of flexible cord.",
+   "narration": "订购软线时，要说明股数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "单芯与双芯",
+   "scene": "三根导线：单芯单股、单芯多股、双芯多股",
+   "prompt_en": "Three wire icons: single core single strand, single core multi-strand, and two-core multi-strand. No people.",
+   "narration": "还有单芯单股、单芯多股、双芯多股。",
+   "overlay": [
+    "单芯与双芯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "粗线电阻小",
+   "scene": "公式卡：电阻等于电阻率乘长度除以截面",
+   "prompt_en": "A blank card with a formula icon showing resistance proportional to length over area. No people.",
+   "narration": "电阻跟长度成正比，跟截面成反比。",
+   "overlay": [
+    "粗线电阻小"
+   ],
+   "labels": [
+    "R=ρL/A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "粗线电阻小",
+   "scene": "大截面圆打绿勾标低电阻，小截面圆标高电阻",
+   "prompt_en": "Two cross-section circles: a large one labeled low resistance, a small one labeled high resistance. No people.",
+   "narration": "截面大，电阻小；截面小，电阻大。",
+   "overlay": [],
+   "labels": [
+    "粗→电阻小",
+    "细→电阻大"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "粗线电阻小",
+   "scene": "长导线和短导线对比",
+   "prompt_en": "A long wire and a short wire side by side, the long one with a bigger resistance symbol. No people.",
+   "narration": "导线越长，电阻越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "导线等于导体加绝缘层",
+   "scene": "导线剖面：铜芯 + 外皮，加号连接",
+   "prompt_en": "An icon equation: a copper core plus an insulating sleeve equals a finished wire. No people.",
+   "narration": "导线，就是导体加绝缘层。",
+   "overlay": [
+    "导线等于导体加绝缘层"
+   ],
+   "labels": [
+    "导体",
+    "绝缘层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "导线等于导体加绝缘层",
+   "scene": "铝芯和铜芯两根导线对比",
+   "prompt_en": "Two wires: one with an aluminum core and a coin icon, one with a copper core and a lightning icon. No people.",
+   "narration": "图省钱选铝，要导电好选铜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "绝缘层的作用",
+   "scene": "电流箭头只在铜芯里流动，外皮挡住",
+   "prompt_en": "Current arrows flowing only inside the copper core while the insulation sheath blocks them. No people.",
+   "narration": "绝缘层让电流只在导体里走，保证安全。",
+   "overlay": [
+    "绝缘层的作用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "绝缘层的作用",
+   "scene": "小研捏着导线绝缘外皮插入接线孔",
+   "prompt_en": "The female graduate student holds a wire by its insulation and plugs it into a terminal.",
+   "narration": "也方便用手拿取和接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按电路选导线",
+   "scene": "实验台上一排不同颜色、长短的连接导线",
+   "prompt_en": "A rack of connecting leads in different colors and lengths on a lab bench. No people.",
+   "narration": "连接导线种类多，按电路选用。",
+   "overlay": [
+    "按电路选导线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "自耦调压器：一个绕组",
+   "scene": "圆形调压器剖面：一个线圈绕在铁心上，有滑动触点",
+   "prompt_en": "A cutaway of a round variable autotransformer: a single coil wound on a laminated iron core with a sliding contact. No people.",
+   "narration": "自耦调压器只有一个绕组。",
+   "overlay": [
+    "自耦调压器：一个绕组"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "自耦调压器：一个绕组",
+   "scene": "转动旋钮，输出电压条平滑上升",
+   "prompt_en": "An icon of a knob turning and an output bar rising smoothly. No people.",
+   "narration": "转动旋钮，交流电压平滑可调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "原副边相连，不隔离",
+   "scene": "单个绕组上，输入和输出共用一部分线圈",
+   "prompt_en": "A single winding icon where input and output share part of the same coil. No people.",
+   "narration": "它和普通变压器相似，但原副边绕组相连。",
+   "overlay": [
+    "原副边相连，不隔离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "原副边相连，不隔离",
+   "scene": "普通变压器两个独立线圈 vs 自耦变压器一个线圈",
+   "prompt_en": "Comparison icons: a two-winding transformer with two separate coils, and an autotransformer with one coil. No people.",
+   "narration": "缺点是很难做到隔离。",
+   "overlay": [],
+   "labels": [
+    "双绕组",
+    "自耦"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "原副边相连，不隔离",
+   "scene": "铜线卷变小、钱币图标",
+   "prompt_en": "A smaller copper coil icon next to a coin icon. No people.",
+   "narration": "好处是省铜、经济。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "调节线路电压",
+   "scene": "电压指针在设定线附近保持稳定",
+   "prompt_en": "A voltage gauge needle holding steady at a set line while input arrows vary. No people.",
+   "narration": "它用来调整电压，或让电压保持稳定。",
+   "overlay": [
+    "调节线路电压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单相调压器的接法",
+   "scene": "单相调压器正面：输入插头、两个输出接线柱、旋钮和刻度",
+   "prompt_en": "The front of a single-phase variable autotransformer: a power cord with plug, two output terminals, a big knob and a blank dial scale. No people.",
+   "narration": "单相调压器：插头接电源输入。",
+   "overlay": [
+    "单相调压器的接法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单相调压器的接法",
+   "scene": "输入端标相线和中性线两个空白标签",
+   "prompt_en": "The input side of the autotransformer with two blank tags for line and neutral. No people.",
+   "narration": "输入端分相线和中性线。",
+   "overlay": [],
+   "labels": [
+    "相线 L",
+    "中性线 N"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "单相调压器的接法",
+   "scene": "旋钮转动，输出端电压随刻度变化",
+   "prompt_en": "The knob turning and the dial pointer moving, an arrow from the output terminals. No people.",
+   "narration": "转旋钮，输出端电压随之改变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "单相与三相调压器",
+   "scene": "一台圆形单相调压器和一台高大的三相调压器并排",
+   "prompt_en": "A round single-phase variable autotransformer next to a tall three-phase one. No people.",
+   "narration": "调压器有单相和三相两种。",
+   "overlay": [
+    "单相与三相调压器"
+   ],
+   "labels": [
+    "单相",
+    "三相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "单相与三相调压器",
+   "scene": "三相电路图标连到三相调压器",
+   "prompt_en": "A three-phase circuit icon linked to the three-phase variable autotransformer. No people.",
+   "narration": "测三相功率，就要用三相调压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "单相与三相调压器",
+   "scene": "单相调压器的空白铭牌，旁边是电压和电流图标",
+   "prompt_en": "The single-phase unit with a blank nameplate, voltage and current icons beside it. No people.",
+   "narration": "单相的举例：零到二百七十伏，十安。",
+   "overlay": [],
+   "labels": [
+    "0–270 V",
+    "10 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "单相与三相调压器",
+   "scene": "三相调压器的空白铭牌，旁边是电压和电流图标",
+   "prompt_en": "The three-phase unit with a blank nameplate, voltage and current icons beside it. No people.",
+   "narration": "三相的约四百七十伏、十安，容量各不同。",
+   "overlay": [],
+   "labels": [
+    "约470 V",
+    "10 A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "调压器的别名",
+   "scene": "欣欣拿着调压器的空白名牌",
+   "prompt_en": "The panda mascot holds a blank name tag beside a variable autotransformer.",
+   "narration": "自耦调压器，实验室常简称调压器。",
+   "overlay": [
+    "调压器的别名"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "本课回顾",
+   "scene": "导体、导线、调压器三个图标依次亮起",
+   "prompt_en": "Three icons light up one by one: a conductor, a wire and an autotransformer. No people.",
+   "narration": "导体、绝缘、导线规格和调压器，都讲了。",
+   "overlay": [
+    "本课回顾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "铜、铝、铁三种导线和截面圆",
+   "prompt_en": "Three coils of copper, aluminium and galvanized iron wire with cross-section circles. No people.",
+   "narration": "按材料和载流量选导线，粗线电阻小。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "导线剖面：导体加绝缘层，旁边几种结构",
+   "prompt_en": "A wire cross-section of conductor plus insulation, beside solid, stranded and flexible wire icons. No people.",
+   "narration": "导线是导体加绝缘，结构规格各不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "调压器旋钮和单相、三相两个图标",
+   "prompt_en": "A variable autotransformer knob with single-phase and three-phase icons. No people.",
+   "narration": "调压器一个绕组，平滑调电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在整齐的导线架和调压器旁挥手道别",
+   "prompt_en": "The panda mascot waves goodbye beside a tidy wire rack and a variable autotransformer.",
+   "narration": "认识了导线和调压器，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
