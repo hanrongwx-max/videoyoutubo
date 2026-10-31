@@ -1,0 +1,450 @@
+{
+ "id": "14_Replace the Rocker Switch for xTool MetalFab Laser Welder",
+ "edition": "原著版",
+ "series": "Cleanroom & Equipment Safety",
+ "title": "激光焊接机电源开关的规范更换",
+ "seconds": 150,
+ "source_doc": "course/Cleanroom & Equipment Safety/14_Replace the Rocker Switch for xTool MetalFab Laser Welder.md",
+ "author_source": "project/Cleanroom & Equipment Safety/14_Replace the Rocker Switch for xTool MetalFab Laser Welder/src.py",
+ "points": {
+  "K1": "只限专业人员，先断电",
+  "K2": "高压和强激光的伤害",
+  "K3": "断电后仍有残余高压",
+  "K4": "全程戴绝缘手套",
+  "K5": "准备工具和备件",
+  "K6": "断开所有连接",
+  "K7": "锁住四个脚轮",
+  "K8": "静置放电和冷却",
+  "K9": "打开左侧门板",
+  "K10": "拆送丝安装板螺钉",
+  "K11": "拆下接地线",
+  "K12": "放平安装板",
+  "K13": "压弹片，逐根拔线",
+  "K14": "压卡扣，推出旧开关",
+  "K15": "按入新开关，听咔嗒声",
+  "K16": "插回四根线，咔嗒到位",
+  "K17": "线色对应端子",
+  "K18": "装回左侧面板"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在激光焊接机背面，指着一个红色船形开关，向镜头招手",
+   "prompt_en": "The panda mascot stands at the back of a gray wheeled laser welding machine, points at a red illuminated rocker switch, and waves at the camera.",
+   "narration": "这一课，看焊机的电源开关怎样更换。",
+   "overlay": [
+    "激光焊接机电源开关的规范更换"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "四个图标：警示卡、螺丝刀、旧开关、新开关",
+   "prompt_en": "Four icons in a row: a warning card, a flat-head screwdriver, an old rocker switch and a new rocker switch. No people.",
+   "narration": "看警示、拆旧开关、装新开关。",
+   "overlay": [],
+   "labels": [
+    "警示",
+    "拆旧",
+    "装新"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰按下船形开关，开关没有反应",
+   "prompt_en": "The young male student presses the red rocker switch; its light stays off and nothing happens.",
+   "narration": "阿杰发现焊机的电源开关坏了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李提着工具箱和新开关走来",
+   "prompt_en": "The facility engineer comes over carrying a toolbox and a new red rocker switch.",
+   "narration": "专业技术人员老李来换开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "我们看看具体步骤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "只限专业人员，先断电",
+   "scene": "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+   "prompt_en": "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+   "narration": "换开关也要拆机，只限专业人员。",
+   "overlay": [
+    "只限专业人员，先断电"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "高压和强激光的伤害",
+   "scene": "机箱剖面示意：一边闪电图标，一边激光束图标",
+   "prompt_en": "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+   "narration": "机内高压和强激光，会触电、烧伤。",
+   "overlay": [
+    "高压和强激光的伤害"
+   ],
+   "labels": [
+    "高电压",
+    "强激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电后仍有残余高压",
+   "scene": "拔掉插头的焊机内部，一个模块上闪电图标，旁边沙漏",
+   "prompt_en": "Inside an unplugged machine cabinet, one module shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+   "narration": "可能残留高压，至少等5分钟再碰。",
+   "overlay": [
+    "断电后仍有残余高压"
+   ],
+   "labels": [
+    "≥5分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "全程戴绝缘手套",
+   "scene": "警示卡上一副绝缘手套图标",
+   "prompt_en": "A warning card with a yellow and black striped border showing an insulated glove icon. No people.",
+   "narration": "全程戴好绝缘手套。",
+   "overlay": [
+    "全程戴绝缘手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "准备工具和备件",
+   "scene": "工作台上摆着两把十字螺丝刀、一把一字螺丝刀和一个新的红色船形开关",
+   "prompt_en": "On a workbench lie two cross-head screwdrivers, one flat-head screwdriver and a new red rocker switch. No people.",
+   "narration": "5、3毫米十字刀，6毫米一字刀，新开关。",
+   "overlay": [
+    "准备工具和备件"
+   ],
+   "labels": [
+    "5/3mm十字刀",
+    "6mm一字刀",
+    "新开关"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断开所有连接",
+   "scene": "焊机背面接口全部空着",
+   "prompt_en": "The back of the laser welding machine with all sockets empty and the unplugged cables coiled on the floor. No people.",
+   "narration": "确认所有连接都已断开。",
+   "overlay": [
+    "断开所有连接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "锁住四个脚轮",
+   "scene": "老李踩下脚轮刹车",
+   "prompt_en": "The facility engineer presses down the brake on a caster wheel with his foot.",
+   "narration": "四个脚轮全部锁住。",
+   "overlay": [
+    "锁住四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "静置放电和冷却",
+   "scene": "焊机静静放着，墙上时钟指针转动",
+   "prompt_en": "The closed laser welding machine stands still while a wall clock shows time passing. No people.",
+   "narration": "静置10分钟，放电、冷却。",
+   "overlay": [
+    "静置放电和冷却"
+   ],
+   "labels": [
+    "10分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "打开左侧门板",
+   "scene": "老李打开焊机左侧门板",
+   "prompt_en": "The facility engineer opens the hinged left side door of the machine.",
+   "narration": "打开左侧门板。",
+   "overlay": [
+    "打开左侧门板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拆送丝安装板螺钉",
+   "scene": "老李拆送丝安装板周边螺钉",
+   "prompt_en": "The facility engineer removes the screws around the wire feeder mounting plate.",
+   "narration": "拆下安装板十四颗螺钉。",
+   "overlay": [
+    "拆送丝安装板螺钉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "拆下接地线",
+   "scene": "老李拆黄绿色接地线的螺钉",
+   "prompt_en": "The facility engineer removes the screw of the yellow-green earth wire.",
+   "narration": "拆下接地线螺钉。",
+   "overlay": [
+    "拆下接地线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放平安装板",
+   "scene": "安装板放平，露出机内电气区",
+   "prompt_en": "The mounting plate is laid outward, revealing the wiring inside the cabinet.",
+   "narration": "放平安装板。",
+   "overlay": [
+    "放平安装板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "压弹片，逐根拔线",
+   "scene": "一字刀压住端子上的弹片，另一只手同时把导线拔出",
+   "prompt_en": "Close view: a flat-head screwdriver presses the spring clip on a push-in terminal while the other hand pulls the wire out at the same time.",
+   "narration": "一字刀压住端子弹片，同时拔线。",
+   "overlay": [
+    "压弹片，逐根拔线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "压弹片，逐根拔线",
+   "scene": "四根线逐根拆下",
+   "prompt_en": "The four wires are removed from the switch terminals one by one.",
+   "narration": "四根线一根一根拆下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "压卡扣，推出旧开关",
+   "scene": "示意图：一字刀压下开关角上的凸起卡扣",
+   "prompt_en": "A simple diagram: a flat-head screwdriver presses down a raised latch at the corner of the rocker switch body. No people.",
+   "narration": "一字刀压下开关角上的卡扣。",
+   "overlay": [
+    "压卡扣，推出旧开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "压卡扣，推出旧开关",
+   "scene": "开关从面板另一侧被推出，取下",
+   "prompt_en": "The rocker switch is pushed out through the panel from the other side and removed.",
+   "narration": "从面板另一侧把开关推出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按入新开关，听咔嗒声",
+   "scene": "老李在机身背面把新开关按进安装孔",
+   "prompt_en": "At the back of the machine, the facility engineer presses the new rocker switch into its mounting hole.",
+   "narration": "新开关从外侧按进安装孔。",
+   "overlay": [
+    "按入新开关，听咔嗒声"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按入新开关，听咔嗒声",
+   "scene": "按入的瞬间出现咔嗒音符图标",
+   "prompt_en": "As the switch snaps into place, a small click sound icon appears beside it. No people.",
+   "narration": "听到咔嗒一声，说明装牢了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "插回四根线，咔嗒到位",
+   "scene": "导线插进端子，出现咔嗒音符图标",
+   "prompt_en": "A wire is pushed into a push-in terminal on the back of the switch and a small click sound icon appears.",
+   "narration": "四根线逐根插回，咔嗒一声到位。",
+   "overlay": [
+    "插回四根线，咔嗒到位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "线色对应端子",
+   "scene": "四根不同颜色的线和参考图用虚线对应",
+   "prompt_en": "Split view: a blank reference wiring picture and the four colored wires on the switch, with matching dotted lines. No people.",
+   "narration": "每根线的颜色，都要对上端子。",
+   "overlay": [
+    "线色对应端子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "装回左侧面板",
+   "scene": "老李抬回安装板，接送丝电机线，装回接地线和螺钉",
+   "prompt_en": "The facility engineer lifts the mounting plate back, plugs in the wire feeder motor cable, refits the earth wire and screws.",
+   "narration": "接回电机线、接地线，装回螺钉。",
+   "overlay": [
+    "装回左侧面板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "装回左侧面板",
+   "scene": "关上左侧门板",
+   "prompt_en": "The left side door is closed.",
+   "narration": "关好左侧门板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在焊机背面，身后浮现四个图标",
+   "prompt_en": "The panda mascot stands at the back of the laser welding machine with four icons behind: a warning card, an hourglass, a flat-head screwdriver and a rocker switch.",
+   "narration": "专业人员操作，断电静置，压弹片拔线。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [
+    "专业人员",
+    "断电静置",
+    "压弹片"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣伸出手指数着",
+   "prompt_en": "The panda mascot counts on its fingers.",
+   "narration": "听到咔嗒才到位，线色对端子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、老李、小研和阿杰在焊机前挥手，开关指示灯亮着",
+   "prompt_en": "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye beside the machine with its switch light glowing.",
+   "narration": "开关换好了，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
