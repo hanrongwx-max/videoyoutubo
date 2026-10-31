@@ -1,0 +1,805 @@
+{
+ "id": "11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS",
+ "series": "BIORISK MANAGEMENT",
+ "title": "呼吸道病毒样本的核酸检测",
+ "seconds": 290,
+ "source_doc": "course/BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS.md",
+ "author_source": "project/BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS/src.py",
+ "points": {
+  "K1": "这一课讲什么",
+  "K2": "样本有哪几种",
+  "K3": "到货先编目登记",
+  "K4": "编码代替姓名",
+  "K5": "一律在安全柜里开管",
+  "K6": "开管后先灭活",
+  "K7": "提取病毒 RNA",
+  "K8": "RNA 怕放，提完上冰",
+  "K9": "先逆转录，再定量扩增",
+  "K10": "引物对准几个基因",
+  "K11": "各基因拷贝数不一样",
+  "K12": "三步走回顾",
+  "K13": "有疑问就提出来",
+  "S1": "培养病毒和做检测，级别不同",
+  "S2": "阳性结果：报告与样本处置",
+  "S3": "大批量检测，轮班防疲劳",
+  "S4": "防护口罩要密合"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在核酸检测实验室门口，向镜头招手",
+   "prompt_en": "The panda mascot stands at the door of a nucleic acid testing laboratory and waves at the camera.",
+   "narration": "今天聊聊：呼吸道病毒样本怎么检测。",
+   "overlay": [
+    "呼吸道病毒样本的核酸检测"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣身后一个日历图标翻回过去的年份",
+   "prompt_en": "Behind the panda mascot, a calendar icon flips back to an earlier year.",
+   "narration": "原片拍于疫情期间，有些是当时做法。",
+   "overlay": [],
+   "labels": [
+    "当时做法"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰站在一大批样本盒前，表情紧张",
+   "prompt_en": "The young male student stands in front of a large stack of sample boxes, looking nervous.",
+   "narration": "阿杰被派去帮忙做核酸检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰翻着空白笔记本，满是问号",
+   "prompt_en": "The young male student flips through a blank notebook covered with question mark icons.",
+   "narration": "样本这么多，先干什么，后干什么？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着空白流程卡走过来",
+   "prompt_en": "The female graduate student walks over holding a blank flowchart card.",
+   "narration": "小研说：照着流程，一步一步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课讲什么",
+   "scene": "流程卡展开：样本管、柜子、加热模块、提取管、PCR 仪五个图标",
+   "prompt_en": "The flowchart card unfolds into five icons: a sample tube, a safety cabinet, a heating block, extraction tubes and a thermal cycler. No people.",
+   "narration": "这一课，从样本进门讲到出结果。",
+   "overlay": [
+    "这一课讲什么"
+   ],
+   "labels": [
+    "登记",
+    "开管",
+    "灭活",
+    "提取",
+    "检测"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "样本有哪几种",
+   "scene": "一支拭子插在装有保存液的小管里",
+   "prompt_en": "A swab sitting in a small tube of transport medium liquid. No people.",
+   "narration": "最常见的是鼻咽拭子，泡在保存液里。",
+   "overlay": [
+    "样本有哪几种"
+   ],
+   "labels": [
+    "鼻咽拭子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "样本有哪几种",
+   "scene": "一排图标：血清管、血管、粪便盒、尿杯",
+   "prompt_en": "A row of icons: a serum tube, a blood tube, a stool container and a urine cup. No people.",
+   "narration": "也可能是血清、血液、粪便、尿液。",
+   "overlay": [],
+   "labels": [
+    "血清",
+    "血液",
+    "粪便",
+    "尿液"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "样本有哪几种",
+   "scene": "每个样本都配着对应的保存管",
+   "prompt_en": "Each sample icon paired with its own matching storage tube. No people.",
+   "narration": "送来时，都装在合适的保存介质里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "到货先编目登记",
+   "scene": "小研在电脑前录入，屏幕空白表格",
+   "prompt_en": "The female graduate student enters sample records on a computer showing a blank table.",
+   "narration": "样本到了，第一步是编目登记。",
+   "overlay": [
+    "到货先编目登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "到货先编目登记",
+   "scene": "小研和电话另一头的医院图标核对清单",
+   "prompt_en": "The female graduate student checks a blank list while on the phone with a hospital icon on the other end.",
+   "narration": "和送样的医院一起核对清单。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "编码代替姓名",
+   "scene": "病人头像图标变成一串编码条码",
+   "prompt_en": "A patient silhouette icon turning into a coded barcode label on a tube. No people.",
+   "narration": "每份样本编一个号，",
+   "overlay": [
+    "编码代替姓名"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "编码代替姓名",
+   "scene": "姓名卡上一把锁",
+   "prompt_en": "A blank name card locked under a padlock. No people.",
+   "narration": "病人的身份信息，锁起来保护好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "一律在安全柜里开管",
+   "scene": "小研把样本架放进生物安全柜",
+   "prompt_en": "The female graduate student places a sample rack inside a biological safety cabinet.",
+   "narration": "开样本管，必须在生物安全柜里。",
+   "overlay": [
+    "一律在安全柜里开管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "一律在安全柜里开管",
+   "scene": "在普通台面上开管的图标，被打叉",
+   "prompt_en": "An icon of a sample tube being opened on an open bench, crossed out with a red X. No people.",
+   "narration": "病人样本，不能在台面上开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "一律在安全柜里开管",
+   "scene": "柜旁挂着一本空白操作规程",
+   "prompt_en": "A blank standard operating procedure binder hanging beside the cabinet. No people.",
+   "narration": "每一步，都照操作规程做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开管后先灭活",
+   "scene": "柜内，样本管插进加热模块",
+   "prompt_en": "Inside the cabinet, sample tubes are seated in a heating block. No people.",
+   "narration": "开管后，先灭活。",
+   "overlay": [
+    "开管后先灭活"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开管后先灭活",
+   "scene": "温度计图标加计时器图标",
+   "prompt_en": "A thermometer icon next to a timer icon. No people.",
+   "narration": "加热到规定温度，保持规定时间。",
+   "overlay": [],
+   "labels": [
+    "温度",
+    "时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开管后先灭活",
+   "scene": "规程书上一个日历标记，旁边写着当时做法的图示",
+   "prompt_en": "A blank procedure book stamped with an old calendar icon. No people.",
+   "narration": "原片的条件，是当时做法，",
+   "overlay": [],
+   "labels": [
+    "当时做法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开管后先灭活",
+   "scene": "新版规程书盖上对勾",
+   "prompt_en": "A newer blank procedure book receiving a green check stamp. No people.",
+   "narration": "以现行规定和试剂说明书为准。",
+   "overlay": [],
+   "labels": [
+    "以现行规定为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开管后先灭活",
+   "scene": "病毒图标从活跃变成灰色",
+   "prompt_en": "A virus icon fading from bright to grey and inactive. No people.",
+   "narration": "灭活后，病毒失去感染力，再往下做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "提取病毒 RNA",
+   "scene": "RNA 单链图标",
+   "prompt_en": "A single-stranded RNA icon. No people.",
+   "narration": "这类病毒的遗传物质是RNA。",
+   "overlay": [
+    "提取病毒 RNA"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "提取病毒 RNA",
+   "scene": "小研在柜内用空白提取试剂盒操作",
+   "prompt_en": "The female graduate student uses a plain blank extraction kit inside the biological safety cabinet.",
+   "narration": "所以用RNA提取试剂盒来提取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "RNA 怕放，提完上冰",
+   "scene": "RNA 图标在室温下碎成几段",
+   "prompt_en": "An RNA strand icon breaking into pieces at room temperature. No people.",
+   "narration": "RNA很不稳定，放久了就降解。",
+   "overlay": [
+    "RNA 怕放，提完上冰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "RNA 怕放，提完上冰",
+   "scene": "提取好的管子立刻插进冰盒",
+   "prompt_en": "Freshly extracted tubes placed straight into an ice box. No people.",
+   "narration": "提取完，马上放到冰上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "RNA 怕放，提完上冰",
+   "scene": "日历和时钟图标，箭头直接指向提取",
+   "prompt_en": "A clock icon with a short arrow straight from sample arrival to extraction. No people.",
+   "narration": "样本到了，最好尽快处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "先逆转录，再定量扩增",
+   "scene": "一台实时荧光 PCR 仪，机身空白",
+   "prompt_en": "A real-time thermal cycler with a plain blank casing. No people.",
+   "narration": "接下来，上荧光定量PCR仪。",
+   "overlay": [
+    "先逆转录，再定量扩增"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "先逆转录，再定量扩增",
+   "scene": "RNA 单链经过一把剪刀状的酶图标变成 DNA 双链",
+   "prompt_en": "An RNA strand passing through an enzyme icon and turning into a double-stranded DNA. No people.",
+   "narration": "先用逆转录酶，把RNA变成cDNA，",
+   "overlay": [],
+   "labels": [
+    "RNA",
+    "cDNA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "先逆转录，再定量扩增",
+   "scene": "屏幕上一条上升的曲线，无文字",
+   "prompt_en": "A screen showing a rising amplification curve, no text. No people.",
+   "narration": "再一边扩增，一边读荧光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "引物对准几个基因",
+   "scene": "病毒基因组长条，上面三段被高亮",
+   "prompt_en": "A long viral genome bar with three short segments highlighted. No people.",
+   "narration": "引物专门对准几段关键基因，",
+   "overlay": [
+    "引物对准几个基因"
+   ],
+   "labels": [
+    "RdRp",
+    "E",
+    "S"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "引物对准几个基因",
+   "scene": "三对小箭头分别夹住三段基因",
+   "prompt_en": "Three pairs of small arrows clamping each highlighted segment. No people.",
+   "narration": "原片用了这三个靶基因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "各基因拷贝数不一样",
+   "scene": "三根高低不同的柱子",
+   "prompt_en": "Three bars of different heights side by side. No people.",
+   "narration": "不同基因，拷贝数可能不一样。",
+   "overlay": [
+    "各基因拷贝数不一样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "各基因拷贝数不一样",
+   "scene": "小研看着屏幕上的三条曲线思考",
+   "prompt_en": "The female graduate student studies three amplification curves on a screen with no text.",
+   "narration": "判读结果时，要把这点考虑进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三步走回顾",
+   "scene": "三个大图标连成一排：加热模块、提取管、PCR 仪",
+   "prompt_en": "Three big icons in a row joined by arrows: a heating block, extraction tubes and a thermal cycler. No people.",
+   "narration": "回顾：第一步，加热灭活；",
+   "overlay": [
+    "三步走回顾"
+   ],
+   "labels": [
+    "灭活",
+    "提取",
+    "检测"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三步走回顾",
+   "scene": "提取管图标亮起",
+   "prompt_en": "The extraction tube icon lights up. No people.",
+   "narration": "第二步，提取RNA；",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三步走回顾",
+   "scene": "PCR 仪图标亮起",
+   "prompt_en": "The thermal cycler icon lights up. No people.",
+   "narration": "第三步，逆转录加定量PCR。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有疑问就提出来",
+   "scene": "阿杰举手提问，小研点头",
+   "prompt_en": "The young male student raises his hand to ask a question while the female graduate student nods.",
+   "narration": "哪一步没弄懂，就问。",
+   "overlay": [
+    "有疑问就提出来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有疑问就提出来",
+   "scene": "王老师在一旁听着，手里拿着空白记录本",
+   "prompt_en": "The safety administrator listens nearby holding a blank notebook.",
+   "narration": "不懂别硬做，问清楚再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "培养病毒和做检测，级别不同",
+   "scene": "两扇门：左边普通二级实验室，右边更高级别实验室",
+   "prompt_en": "Two laboratory doors: one with a biosafety level two pictogram and one with a higher level pictogram. No people.",
+   "narration": "做检测和培养病毒，要求不一样。",
+   "overlay": [
+    "培养病毒和做检测，级别不同"
+   ],
+   "labels": [
+    "检测",
+    "培养"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "培养病毒和做检测，级别不同",
+   "scene": "培养瓶图标指向高级别门，旁边审批印章",
+   "prompt_en": "A culture flask icon pointing to the higher-level door with an approval stamp beside it. No people.",
+   "narration": "培养活病毒，风险高，须经批准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "培养病毒和做检测，级别不同",
+   "scene": "阿杰走向高级别门，被打叉",
+   "prompt_en": "The young male student walking toward the higher-level door, crossed out with a red X.",
+   "narration": "学生不得擅自开展。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "培养病毒和做检测，级别不同",
+   "scene": "王老师翻看空白的病原目录",
+   "prompt_en": "The safety administrator reviews a blank pathogen catalogue book.",
+   "narration": "具体级别，以现行病原目录为准。",
+   "overlay": [],
+   "labels": [
+    "病原目录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "阳性结果：报告与样本处置",
+   "scene": "屏幕上一个阳性红点图标，小研立刻拿起电话",
+   "prompt_en": "A screen showing a red positive dot icon; the female graduate student picks up the phone at once.",
+   "narration": "出现阳性结果，按规定及时报告。",
+   "overlay": [
+    "阳性结果：报告与样本处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "阳性结果：报告与样本处置",
+   "scene": "阳性样本管放进单独的带锁冰箱",
+   "prompt_en": "The positive sample tube placed into a separate locked freezer. No people.",
+   "narration": "阳性样本单独保存，按要求移交。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "阳性结果：报告与样本处置",
+   "scene": "检测后的样本和废物进高压灭菌器",
+   "prompt_en": "Used samples and waste going into an autoclave icon with a biohazard warning sign. No people.",
+   "narration": "用完的样本，按感染性废物处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "阳性结果：报告与样本处置",
+   "scene": "日历图标和规程书",
+   "prompt_en": "A calendar icon beside a blank procedure book. No people.",
+   "narration": "报告要求是当时做法，以现行规定为准。",
+   "overlay": [],
+   "labels": [
+    "当时做法"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "大批量检测，轮班防疲劳",
+   "scene": "一大堆样本盒和一个疲惫的人形图标",
+   "prompt_en": "A huge stack of sample boxes next to a tired, drooping person pictogram. No people.",
+   "narration": "样本多、时间长，人会累。",
+   "overlay": [
+    "大批量检测，轮班防疲劳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "大批量检测，轮班防疲劳",
+   "scene": "人累了，手边的管子被碰倒，打叉",
+   "prompt_en": "A tired hand knocking over a tube rack, crossed out with a red X. No people.",
+   "narration": "一累就容易出错、出事故。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "大批量检测，轮班防疲劳",
+   "scene": "排班表图标，几个时段轮换",
+   "prompt_en": "A blank shift schedule icon with alternating time blocks. No people.",
+   "narration": "要排好班，定时轮换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "大批量检测，轮班防疲劳",
+   "scene": "阿杰脱下防护后在休息室喝水",
+   "prompt_en": "The young male student, out of protective clothing, drinks water in a rest room.",
+   "narration": "出来休息，喝水，再进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "防护口罩要密合",
+   "scene": "小研戴上防护口罩，双手按压鼻夹",
+   "prompt_en": "The female graduate student puts on a protective respirator mask and presses the nose clip with both hands.",
+   "narration": "接触呼吸道样本，要戴防护口罩。",
+   "overlay": [
+    "防护口罩要密合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "防护口罩要密合",
+   "scene": "小研双手捂住口罩轻轻呼气检查",
+   "prompt_en": "The female graduate student cups both hands over the mask and breathes out gently to check the seal.",
+   "narration": "每次戴上，都检查一下密合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "防护口罩要密合",
+   "scene": "王老师帮阿杰做口罩适合性检验，戴着检测头罩",
+   "prompt_en": "The safety administrator conducts a respirator fit test for the young male student wearing a test hood.",
+   "narration": "首次选型，要做适合性检验。",
+   "overlay": [],
+   "labels": [
+    "适合性检验"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "防护口罩要密合",
+   "scene": "胡须和口罩边缘漏气的图标，被打叉",
+   "prompt_en": "An icon of a mask edge leaking air over a beard, crossed out with a red X. No people.",
+   "narration": "边缘漏气，口罩就白戴了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现条码、生物安全柜、加热模块三个图标",
+   "prompt_en": "The panda mascot stands beside three icons: a barcode, a biological safety cabinet and a heating block.",
+   "narration": "编码登记，柜内开管，先灭活。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "提取管放冰盒、PCR 仪、三根柱子",
+   "prompt_en": "Icons of tubes in an ice box, a thermal cycler and three bars of different heights. No people.",
+   "narration": "提完上冰，逆转录扩增，留意拷贝数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两扇实验室门、电话、排班表、口罩图标",
+   "prompt_en": "Icons of two laboratory doors, a phone, a shift schedule and a respirator mask. No people.",
+   "narration": "分清级别，及时报告，轮班，戴严口罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一个冰盒，向镜头挥手",
+   "prompt_en": "The panda mascot holds up an ice box of sample tubes and waves goodbye at the camera.",
+   "narration": "规范检测，护己护人，我们下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

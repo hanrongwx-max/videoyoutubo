@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 201 / 441 个视频。
+已编写 202 / 441 个视频。
 
 ## 各剧集进度
 
@@ -11,9 +11,9 @@
 | Lab Safety Training Series | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
+| BIORISK MANAGEMENT | 11 / 47 |
 | ACS Hazard Communication & Safety | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 |
-| BIORISK MANAGEMENT | 10 / 47 |
 | Fire Safety & Extinguisher Training | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 |
@@ -87,6 +87,7 @@
 | BIORISK MANAGEMENT | 08_BIORISK MANAGEMENT CLINICAL SAMPLES | 临床样本的生物风险管理 | 105 | 8:45 | 23 / 5 | [剧本](<BIORISK MANAGEMENT/08_BIORISK MANAGEMENT CLINICAL SAMPLES/script.md>) · [审查](<BIORISK MANAGEMENT/08_BIORISK MANAGEMENT CLINICAL SAMPLES/审查报告.md>) |
 | BIORISK MANAGEMENT | 09_GENOLUTION Nextractor®(NX-48) | 自动核酸提取仪的安全使用 | 72 | 6:00 | 18 / 5 | [剧本](<BIORISK MANAGEMENT/09_GENOLUTION Nextractor®(NX-48)/script.md>) · [审查](<BIORISK MANAGEMENT/09_GENOLUTION Nextractor®(NX-48)/审查报告.md>) |
 | BIORISK MANAGEMENT | 10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING | 医院样本的接收与处理 | 75 | 6:15 | 17 / 4 | [剧本](<BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING/script.md>) · [审查](<BIORISK MANAGEMENT/10_MOOC INTRODUCTION TO BIORISK MANAGEMENT SAMPLE HANDLING/审查报告.md>) |
+| BIORISK MANAGEMENT | 11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS | 呼吸道病毒样本的核酸检测 | 58 | 4:50 | 13 / 4 | [剧本](<BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS/script.md>) · [审查](<BIORISK MANAGEMENT/11_MOOC INTRODUCTION TO BIORISK MANAGEMENT COVID19 DIAGNOSTICS/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 新实验室的危害在哪里 | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 安全问题找谁问 | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario/审查报告.md>) |
