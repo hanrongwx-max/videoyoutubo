@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 54 / 59 | 3 / 48 |
+| Microbiology Biosafety | 54 / 59 | 4 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 17 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 14 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 8 / 23 |
@@ -393,6 +393,7 @@
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 国内版 | 一级到四级：实验室生物安全防护等级（国内版） | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 原著版 | 三个柜子不一样：通风柜、超净台、生物安全柜 | 46 | 3:50 | 14 / 0 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/script.md>) |
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 国内版 | 三个柜子不一样：通风柜、超净台、生物安全柜（国内版） | 61 | 5:05 | 14 / 4 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/script.md>) · [审查](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa | 原著版 | 生物安全柜的三个级别 | 35 | 2:55 | 14 / 0 | [剧本](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa/script.md>) |
 | Microbiology Biosafety | 04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa | 国内版 | 生物安全柜的三个级别（国内版） | 51 | 4:15 | 14 / 4 | [剧本](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/script.md>) · [审查](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 国内版 | 转基因生物：先评估，再放行（国内版） | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro | 国内版 | 转基因生物：分几类，防几级（国内版） | 53 | 4:25 | 12 / 3 | [剧本](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（国内版）/script.md>) · [审查](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro（国内版）/审查报告.md>) |
