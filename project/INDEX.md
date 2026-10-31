@@ -22,7 +22,7 @@
 | RSO Training Series | 9 / 9 | 4 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
-| Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
@@ -441,7 +441,7 @@
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 国内版 | 实验室生物安保：五种威胁怎么防（国内版） | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 国内版 | 生物风险管理，怎么检查好不好（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/script.md>) · [审查](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 单一版 | 危险物品怎么分类：九大类与象形图 | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/审查报告.md>) |
-| Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 单一版 | 危险物品伤人也伤环境 | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) |
+| Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 单一版 | 危险物品伤人也伤环境 | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) · [审查](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/审查报告.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 单一版 | 生物统计：让微生物数据说真话 | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/审查报告.md>) |
 | Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 单一版 | 吃农药、吸重金属的微生物 | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
@@ -458,6 +458,7 @@
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 国内版 | 光学元件的安装、定位与维护（国内版） | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 07_7. Light Sources | 原著版 | 光源与光对人体的作用 | 103 | 8:35 | 25 / 0 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources/script.md>) |
 | Photonics & Laser Safety Series | 07_7. Light Sources | 国内版 | 光源与光对人体的作用（国内版） | 125 | 10:25 | 25 / 5 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/审查报告.md>) |
+| Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 原著版 | 激光安全入门 | 112 | 9:20 | 26 / 0 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety/script.md>) |
 | Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 国内版 | 激光安全入门（国内版） | 147 | 12:15 | 26 / 9 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 原著版 | 辐射安全基础：来源、剂量与生物效应 | 65 | 5:25 | 16 / 0 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 国内版 | 辐射安全基础：来源、剂量与生物效应（国内版） | 86 | 7:10 | 16 / 9 | [剧本](<RSO Training Series/01_Radiation Safety Basics（国内版）/script.md>) · [审查](<RSO Training Series/01_Radiation Safety Basics（国内版）/审查报告.md>) |
