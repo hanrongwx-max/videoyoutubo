@@ -1,0 +1,1539 @@
+{
+ "id": "02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do",
+ "edition": "原著版",
+ "series": "Health Physics & Nuclear Medicine",
+ "title": "剂量限值与剂量测量：管住体外，也管住体内",
+ "seconds": 550,
+ "source_doc": "course/Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do.md",
+ "author_source": "project/Health Physics & Nuclear Medicine/02_Health Physics Lecture 2 Radiation Interactions and Energy Transfer Radiation Do/src.py",
+ "points": {
+  "K1": "从剂量单位到限值和测量",
+  "K2": "随机性效应：看概率",
+  "K3": "确定性效应：过阈值才出现",
+  "K4": "限值主要管随机性风险",
+  "K5": "职业人员与公众的剂量限值",
+  "K6": "眼晶体限值被下调",
+  "K7": "做实验的你是职业人员",
+  "K8": "进辐射区戴剂量计",
+  "K9": "限值、约束、参考水平",
+  "K10": "ALARA：合理可行尽量低",
+  "K11": "什么是剂量学",
+  "K12": "外照射与内照射剂量学",
+  "K13": "剂量学的用途",
+  "K14": "四种射线的穿透力",
+  "K15": "照射几何影响剂量",
+  "K16": "个人剂量计测三个深度",
+  "K17": "放射性物质怎样进入体内",
+  "K18": "内照射为什么更复杂",
+  "K19": "待积剂量与剂量系数",
+  "K20": "源器官照靶器官",
+  "K21": "物理半衰期",
+  "K22": "生物半衰期",
+  "K23": "有效半衰期更短",
+  "K24": "碘-131在甲状腺",
+  "K25": "三根支柱"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一道发光的边界线前，一侧是体外射线箭头，一侧是发光的人体轮廓",
+   "prompt_en": "The panda mascot stands in front of a glowing boundary line; on one side are arrows of rays coming from outside, on the other a glowing human body outline, and it waves at the camera.",
+   "narration": "这一课，讲剂量限值和剂量测量。",
+   "overlay": [
+    "剂量限值与剂量测量：管住体外，也管住体内"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "限速牌、尺子、人体轮廓三个图标依次亮起",
+   "prompt_en": "Three icons light up one by one: a blank round speed limit style sign, a measuring ruler and a human body outline with a glowing spot inside. No people.",
+   "narration": "上限是多少，怎么量，体内怎么算。",
+   "overlay": [],
+   "labels": [
+    "限值",
+    "测量",
+    "体内"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿到一个小小的剂量计徽章，翻来覆去地看",
+   "prompt_en": "The young male student holds a small blank dosimeter badge and turns it over curiously in a lab corridor.",
+   "narration": "阿杰领到剂量计，觉得没什么用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰随手把剂量计扔进抽屉，转身要进门",
+   "prompt_en": "The young male student tosses the dosimeter badge into a desk drawer and turns toward a door with an ionizing radiation warning sign.",
+   "narration": "他把它丢进抽屉，就想进机房。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，从抽屉里取出剂量计别在他胸前",
+   "prompt_en": "The female graduate student stops the young male student, takes the dosimeter badge out of the drawer and clips it onto his chest.",
+   "narration": "小研拦下他：剂量计必须戴上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods.",
+   "narration": "为什么要戴？我们从头说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从剂量单位到限值和测量",
+   "scene": "欣欣身边浮现四级小台阶图标",
+   "prompt_en": "The panda mascot stands beside a small floating four-step staircase icon.",
+   "narration": "上一课，我们认识了四个剂量量。",
+   "overlay": [
+    "从剂量单位到限值和测量"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从剂量单位到限值和测量",
+   "scene": "台阶顶端出现限速牌和尺子图标",
+   "prompt_en": "A blank round speed limit style sign and a measuring ruler appear on top of the four-step staircase icon. No people.",
+   "narration": "这一课：剂量上限，和怎么测量。",
+   "overlay": [],
+   "labels": [
+    "剂量限值",
+    "剂量学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "随机性效应：看概率",
+   "scene": "抽奖箱图标，里面红球随剂量刻度增多",
+   "prompt_en": "A lottery box icon in which the number of red balls increases as a dial beside it turns up. No people.",
+   "narration": "第一类损伤，像抽奖。",
+   "overlay": [
+    "随机性效应：看概率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "随机性效应：看概率",
+   "scene": "剂量越大，抽中的机会越大；抽中的结果一样",
+   "prompt_en": "Two lottery boxes side by side, the right one with many more red balls; the drawn red ball is the same size in both. No people.",
+   "narration": "剂量越大，中签概率越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "随机性效应：看概率",
+   "scene": "抽中的红球大小始终不变",
+   "prompt_en": "A single red ball shown three times at exactly the same size next to three increasing dose dials. No people.",
+   "narration": "但一旦发生，严重程度不随剂量变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "随机性效应：看概率",
+   "scene": "细胞图标和家谱图标",
+   "prompt_en": "Icons of a blood cell, a thyroid gland outline and a simple family tree. No people.",
+   "narration": "例如辐射引起的白血病、甲状腺癌。",
+   "overlay": [],
+   "labels": [
+    "白血病",
+    "甲状腺癌",
+    "遗传效应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "随机性效应：看概率",
+   "scene": "从原点出发的一条直线图标",
+   "prompt_en": "A simple straight line rising from the origin of a blank graph, with no flat part at the bottom. No people.",
+   "narration": "防护上假设：没有安全阈值。",
+   "overlay": [],
+   "labels": [
+    "线性无阈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "水坝图标，水位低于坝顶时无事",
+   "prompt_en": "A small dam icon with water below the top of the dam and dry land behind it. No people.",
+   "narration": "第二类损伤，像水漫过堤坝。",
+   "overlay": [
+    "确定性效应：过阈值才出现"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "水位越过坝顶，越漫越多",
+   "prompt_en": "The water rises over the top of the dam and the flood behind it grows larger and larger. No people.",
+   "narration": "过了阈值才出现，剂量越大越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "皮肤发红、眼睛浑浊、人体疲惫三个图标",
+   "prompt_en": "Three icons: reddened skin on an arm, a cloudy eye lens and a tired body outline lying down. No people.",
+   "narration": "皮肤红斑、白内障、急性放射病。",
+   "overlay": [],
+   "labels": [
+    "红斑 约2 Gy",
+    "白内障 约0.5 Gy",
+    "急性放射病 >1 Gy"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "限值主要管随机性风险",
+   "scene": "抽奖箱上加了一个盖子标尺",
+   "prompt_en": "A lottery box icon with a lid and a ruler marking a maximum fill line. No people.",
+   "narration": "剂量限值，主要管住抽奖的风险。",
+   "overlay": [
+    "限值主要管随机性风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "限值主要管随机性风险",
+   "scene": "水坝图标，水位远低于坝顶，绿色勾",
+   "prompt_en": "The dam icon again with the water level far below the top and a green check mark. No people.",
+   "narration": "确定性效应，靠剂量远低于阈值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "两个人形图标：一个戴剂量计穿实验服，一个普通路人",
+   "prompt_en": "Two simple person icons side by side: one in a lab coat wearing a dosimeter badge, one in everyday clothes. No people.",
+   "narration": "限值分两类人：职业人员和公众。",
+   "overlay": [
+    "职业人员与公众的剂量限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "空白表格，四行分别配全身、眼睛、皮肤、手脚图标",
+   "prompt_en": "A blank table with four rows marked by icons: a whole body outline, an eye, a patch of skin, and a hand with a foot. No people.",
+   "narration": "全身、眼晶体、皮肤、手足各有上限。",
+   "overlay": [],
+   "labels": [
+    "全身",
+    "眼晶体",
+    "皮肤",
+    "手足"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "职业人员一列的数值依次亮起",
+   "prompt_en": "The worker column of the blank table lights up row by row with glowing red cells. No people.",
+   "narration": "职业人员：有效剂量五年平均每年20毫希。",
+   "overlay": [],
+   "labels": [
+    "五年平均 20",
+    "单年最多 50"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "职业人员一列下半部分亮起",
+   "prompt_en": "The lower rows of the worker column glow red: eye, skin, hands and feet. No people.",
+   "narration": "眼晶体20，皮肤和手足各500毫希。",
+   "overlay": [],
+   "labels": [
+    "眼晶体 20",
+    "皮肤 500",
+    "手足 500"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "五个日历叠在一起，其中一个日历上加了单独的上限线",
+   "prompt_en": "Five stacked blank calendars with an averaging bar across them, and one calendar with its own separate maximum line. No people.",
+   "narration": "职业人员可多年平均，单年也封顶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "公众的柱子远低于职业人员的柱子",
+   "prompt_en": "Two blank bars, the public bar much shorter than the worker bar. No people.",
+   "narration": "公众的限值低得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "职业人员与公众的剂量限值",
+   "scene": "公众一列的数值亮起",
+   "prompt_en": "The public column of the blank table lights up with smaller glowing cells. No people.",
+   "narration": "公众每年1毫希，眼晶体15，皮肤50。",
+   "overlay": [],
+   "labels": [
+    "有效剂量 1",
+    "眼晶体 15",
+    "皮肤 50"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "眼晶体限值被下调",
+   "scene": "眼睛图标旁的上限线大幅下移",
+   "prompt_en": "An eye icon beside a maximum line that slides far down. No people.",
+   "narration": "2011年，眼晶体限值从150降到20毫希。",
+   "overlay": [
+    "眼晶体限值被下调"
+   ],
+   "labels": [
+    "150→20"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "眼晶体限值被下调",
+   "scene": "放大镜下一只眼睛，晶状体变浑浊",
+   "prompt_en": "A magnifying glass over an eye icon whose lens turns slightly cloudy. No people.",
+   "narration": "研究发现，白内障比想象的更容易发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "做实验的你是职业人员",
+   "scene": "小研和阿杰在实验台前，身旁铅罐上有电离辐射警告标志",
+   "prompt_en": "The female graduate student and the young male student stand at a lab bench beside a closed lead container with an ionizing radiation warning sign.",
+   "narration": "用放射源做实验的研究生和科研人员，",
+   "overlay": [
+    "做实验的你是职业人员"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "做实验的你是职业人员",
+   "scene": "两人胸前的剂量计亮起",
+   "prompt_en": "The dosimeter badges on the chests of the female graduate student and the young male student glow softly.",
+   "narration": "都属于职业人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "做实验的你是职业人员",
+   "scene": "职业人员手持培训证书，路人头上一个问号",
+   "prompt_en": "A person icon in a lab coat holds a blank training certificate; a person icon in everyday clothes has a question mark above the head. No people.",
+   "narration": "受过培训、懂规则；公众不了解。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "做实验的你是职业人员",
+   "scene": "两条不同高度的上限线",
+   "prompt_en": "Two horizontal maximum lines at different heights next to the two person icons. No people.",
+   "narration": "所以两类人适用不同的限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "进辐射区戴剂量计",
+   "scene": "老周在辐射区门口取下剂量计徽章",
+   "prompt_en": "The older man stands at the door of a radiation area and clips a small dosimeter badge to his chest.",
+   "narration": "老周说，他读研时每次进辐射区，",
+   "overlay": [
+    "进辐射区戴剂量计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "进辐射区戴剂量计",
+   "scene": "老周胸前的剂量计特写",
+   "prompt_en": "Close-up of the small dosimeter badge on the chest of the older man.",
+   "narration": "都戴着热释光剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "进辐射区戴剂量计",
+   "scene": "剂量计放入读数仪，屏幕空白，日历翻页",
+   "prompt_en": "A dosimeter badge is placed into a reader device with a blank screen while a calendar flips pages. No people.",
+   "narration": "定期读数，算出一年受了多少剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值、约束、参考水平",
+   "scene": "三层倒三角图标，从下往上亮起",
+   "prompt_en": "An inverted triangle divided into three layers lights up from the bottom tip to the top. No people.",
+   "narration": "防护有三道线。",
+   "overlay": [
+    "限值、约束、参考水平"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值、约束、参考水平",
+   "scene": "最底层亮红：一道硬墙",
+   "prompt_en": "The bottom layer glows red and turns into a solid wall icon. No people.",
+   "narration": "剂量限值：正常工作的硬上限。",
+   "overlay": [],
+   "labels": [
+    "剂量限值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值、约束、参考水平",
+   "scene": "中间层亮黄：一个放射源图标上的较低横线",
+   "prompt_en": "The middle layer glows yellow, showing a sealed source icon with its own lower line below the wall. No people.",
+   "narration": "剂量约束：针对某个源，定得更低。",
+   "overlay": [],
+   "labels": [
+    "剂量约束"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值、约束、参考水平",
+   "scene": "顶层亮橙：警报灯和行动箭头",
+   "prompt_en": "The top layer glows orange with an alarm light and an action arrow. No people.",
+   "narration": "参考水平：应急时超过就要行动。",
+   "overlay": [],
+   "labels": [
+    "参考水平"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "ALARA：合理可行尽量低",
+   "scene": "欣欣举着一个向下的箭头牌",
+   "prompt_en": "The panda mascot holds up a blank sign with a large downward arrow on it.",
+   "narration": "低于限值，就可以放心了吗？",
+   "overlay": [
+    "ALARA：合理可行尽量低"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "ALARA：合理可行尽量低",
+   "scene": "限值线下方，柱子继续被往下压",
+   "prompt_en": "A blank bar already below a red maximum line is pushed further down by a hand icon. No people.",
+   "narration": "不。还要合理可行、尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "ALARA：合理可行尽量低",
+   "scene": "天平一边是剂量，一边是钱袋和人群",
+   "prompt_en": "A balance scale with a dose icon on one side and a money bag and group icon on the other. No people.",
+   "narration": "同时考虑经济和社会因素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "ALARA：合理可行尽量低",
+   "scene": "倒三角中间出现齿轮",
+   "prompt_en": "A gear icon appears in the middle of the inverted three-layer triangle. No people.",
+   "narration": "这是防护最优化的核心原则。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "什么是剂量学",
+   "scene": "尺子、计算器、放大镜三个图标",
+   "prompt_en": "Three icons in a row: a ruler, a calculator and a magnifying glass. No people.",
+   "narration": "剂量学：测量、计算、评估剂量。",
+   "overlay": [
+    "什么是剂量学"
+   ],
+   "labels": [
+    "测量",
+    "计算",
+    "评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "什么是剂量学",
+   "scene": "人体轮廓和材料方块被电离射线照到",
+   "prompt_en": "Ionizing rays hit a human body outline and a solid material cube. No people.",
+   "narration": "看人体和材料吸收了多少电离辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "什么是剂量学",
+   "scene": "手机和信号塔图标被灰色圈出，标“非电离”",
+   "prompt_en": "A smartphone icon and a cell tower icon inside a grey circle, set apart from the ionizing ray icons. No people.",
+   "narration": "手机、基站是非电离辐射，不在此列。",
+   "overlay": [],
+   "labels": [
+    "非电离辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "人体轮廓左侧有外来箭头",
+   "prompt_en": "A human body outline with orange arrows coming from a source outside on the left. No people.",
+   "narration": "外照射：源在体外。",
+   "overlay": [
+    "外照射与内照射剂量学"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "剂量计徽章和电离室图标",
+   "prompt_en": "Icons of a small dosimeter badge and a cylindrical ionization chamber. No people.",
+   "narration": "用剂量计、电离室来测。",
+   "overlay": [],
+   "labels": [
+    "剂量计",
+    "电离室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "外照射三要素图标：箭头、墙、方位",
+   "prompt_en": "Three icons: a sharp arrow, a lead wall and a compass showing directions. No people.",
+   "narration": "取决于穿透力、屏蔽和照射方位。",
+   "overlay": [],
+   "labels": [
+    "穿透力",
+    "屏蔽",
+    "几何"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "人体轮廓里有几个发光的器官",
+   "prompt_en": "A human body outline with a few organs glowing green from inside. No people.",
+   "narration": "内照射：放射性物质留在体内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "试管、身体扫描、计算机模型三个图标",
+   "prompt_en": "Three icons: a sample tube, a body scanning bed and a computer with a simple body model on screen. No people.",
+   "narration": "靠生物样品、体外测量和模型来算。",
+   "overlay": [],
+   "labels": [
+    "生物样品",
+    "活体测量",
+    "模型计算"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量学",
+   "scene": "发光点在体内流动、停留",
+   "prompt_en": "Glowing dots move through the body outline, some staying longer in certain organs. No people.",
+   "narration": "取决于分布、代谢和停留的器官。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "剂量学的用途",
+   "scene": "盾牌图标与治疗床图标并排",
+   "prompt_en": "A shield icon and a treatment bed icon side by side. No people.",
+   "narration": "剂量学既保护工作人员，",
+   "overlay": [
+    "剂量学的用途"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "剂量学的用途",
+   "scene": "老李在空白屏幕前看治疗计划示意",
+   "prompt_en": "The facility engineer looks at a blank monitor next to a radiotherapy treatment bed.",
+   "narration": "也为放疗和核医学治疗做计划。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "皮肤、组织、深部器官的分层剖面，四种颜色的箭头射来",
+   "prompt_en": "A cross-section with layers: skin, tissue and deep organs; four differently colored arrows fly toward it. No people.",
+   "narration": "四种射线，穿透力大不相同。",
+   "overlay": [
+    "四种射线的穿透力"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "黄色乒乓球撞在纸上就停",
+   "prompt_en": "A yellow ping-pong ball bounces off a thin sheet of paper and stops. No people.",
+   "narration": "阿尔法粒子，几厘米空气、死皮就挡住。",
+   "overlay": [],
+   "labels": [
+    "α粒子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "α箭头停在皮肤表层，体内器官安然",
+   "prompt_en": "A yellow arrow stops at the outer dead skin layer of an arm outline; the organs inside are untouched. No people.",
+   "narration": "在体外，几乎照不到内脏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "蓝色箭头穿进皮肤几毫米停住，皮肤发红",
+   "prompt_en": "A blue arrow goes a short way into the skin and stops; the skin surface turns red. No people.",
+   "narration": "贝塔粒子在组织里走几毫米到一厘米。",
+   "overlay": [],
+   "labels": [
+    "β粒子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "皮肤表面一片发红",
+   "prompt_en": "A patch of skin on an arm outline turns red where a blue arrow stopped. No people.",
+   "narration": "皮肤剂量可能很大，能量高才深入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "波浪线穿透整个人体轮廓",
+   "prompt_en": "Wavy lines pass straight through an entire human body outline. No people.",
+   "narration": "伽马和X射线穿透强，照到全身。",
+   "overlay": [],
+   "labels": [
+    "γ射线",
+    "X射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "红色感叹号放在波浪线旁",
+   "prompt_en": "A red exclamation icon next to the wavy lines passing through the body. No people.",
+   "narration": "它们是外照射的主要危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "灰色小球钻入体内，撞上小氢原子弹开",
+   "prompt_en": "Grey balls dive deep into a body outline and bounce off small hydrogen atom icons, some captured by nitrogen atom icons. No people.",
+   "narration": "中子钻得深，被氢散射、被氮俘获。",
+   "overlay": [],
+   "labels": [
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "四种射线的穿透力",
+   "scene": "全身轮廓整体泛红",
+   "prompt_en": "The whole body outline glows faint red. No people.",
+   "narration": "中子是全身危害最大的元凶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "照射几何影响剂量",
+   "scene": "平行光束整齐照向人体轮廓",
+   "prompt_en": "Wide parallel beams shine evenly onto a human body outline. No people.",
+   "narration": "同样的源，站的位置不同，剂量也不同。",
+   "overlay": [
+    "照射几何影响剂量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "照射几何影响剂量",
+   "scene": "三幅小图：平行束、四面散射、只照一只手",
+   "prompt_en": "Three small panels: wide parallel beams on a body, scattered rays from all directions around a body, and rays hitting only one hand. No people.",
+   "narration": "平行宽束、四面散射、局部受照。",
+   "overlay": [],
+   "labels": [
+    "宽束",
+    "散射场",
+    "局部"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "照射几何影响剂量",
+   "scene": "平行束中深处器官发亮",
+   "prompt_en": "Inside the body outline under parallel beams, deep organs glow. No people.",
+   "narration": "宽束照射，深部剂量为主。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "个人剂量计测三个深度",
+   "scene": "小研身上三处剂量计亮起：胸前、眼旁、指环",
+   "prompt_en": "The female graduate student wears three small dosimeters that glow: a badge on her chest, a small one near her eye, and a ring on her finger.",
+   "narration": "个人剂量计，测身体特定部位。",
+   "overlay": [
+    "个人剂量计测三个深度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "个人剂量计测三个深度",
+   "scene": "皮肤剖面上三条深度线，最深一条亮",
+   "prompt_en": "A skin cross-section with three depth lines; the deepest line glows. No people.",
+   "narration": "测深一厘米处，代表全身剂量。",
+   "overlay": [],
+   "labels": [
+    "Hp(10)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "个人剂量计测三个深度",
+   "scene": "眼睛剖面，晶状体处一条线亮",
+   "prompt_en": "An eye cross-section with a line glowing at the lens depth. No people.",
+   "narration": "测几毫米处，代表眼晶体。",
+   "overlay": [],
+   "labels": [
+    "Hp(3)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "个人剂量计测三个深度",
+   "scene": "皮肤最表层一条细线亮",
+   "prompt_en": "A very thin line glows at the surface of the skin cross-section. No people.",
+   "narration": "测极浅处，代表皮肤剂量。",
+   "overlay": [],
+   "labels": [
+    "Hp(0.07)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "放射性物质怎样进入体内",
+   "scene": "人体轮廓四个入口图标：鼻子、嘴、伤口、针筒",
+   "prompt_en": "A human body outline with four entry icons: a nose with air, a mouth, a small cut on a hand, and a syringe. No people.",
+   "narration": "吸入、食入、伤口、注射，",
+   "overlay": [
+    "放射性物质怎样进入体内"
+   ],
+   "labels": [
+    "吸入",
+    "食入",
+    "伤口",
+    "注射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "放射性物质怎样进入体内",
+   "scene": "发光点进入体内",
+   "prompt_en": "Glowing dots enter the body outline through those four routes. No people.",
+   "narration": "放射性物质一进体内，就是内照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "内照射为什么更复杂",
+   "scene": "四步循环图标逐一亮起",
+   "prompt_en": "A four-step circular arrow diagram with four blank boxes lights up step by step. No people.",
+   "narration": "内照射难算，有四个原因。",
+   "overlay": [
+    "内照射为什么更复杂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "内照射为什么更复杂",
+   "scene": "发光点散布在不同组织",
+   "prompt_en": "Glowing dots spread unevenly through different tissues of the body outline. No people.",
+   "narration": "一是源分散在不同组织里。",
+   "overlay": [],
+   "labels": [
+    "分布源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "内照射为什么更复杂",
+   "scene": "发光点沿血管流动",
+   "prompt_en": "Glowing dots flow along blood vessels from organ to organ. No people.",
+   "narration": "二是它随代谢在体内搬家。",
+   "overlay": [],
+   "labels": [
+    "生物动力学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "内照射为什么更复杂",
+   "scene": "射线射程和器官大小对比",
+   "prompt_en": "Short and long ray tracks drawn against organs of different sizes. No people.",
+   "narration": "三是射程和器官大小决定沉积。",
+   "overlay": [],
+   "labels": [
+    "射程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "内照射为什么更复杂",
+   "scene": "沙漏图标，发光点慢慢变少",
+   "prompt_en": "An hourglass icon beside the body outline while the glowing dots slowly fade. No people.",
+   "narration": "四是会一直照，直到排出或衰变完。",
+   "overlay": [],
+   "labels": [
+    "持续照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "长长的时间轴，起点一个小发光点",
+   "prompt_en": "A long timeline arrow starting from a small glowing dot. No people.",
+   "narration": "摄入后，体内会持续受照很多年。",
+   "overlay": [
+    "待积剂量与剂量系数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "时间轴上的柱子被累加成一个总数",
+   "prompt_en": "Small bars along the timeline are collected into one stacked total bar. No people.",
+   "narration": "把这些年的剂量加起来，就是待积剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "大人和小孩图标，各自不同长度的时间轴",
+   "prompt_en": "An adult icon and a child icon, each with its own timeline, the child's longer. No people.",
+   "narration": "成人算五十年，儿童算七十年。",
+   "overlay": [],
+   "labels": [
+    "成人50年",
+    "儿童70年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "查表图标乘以摄入量图标",
+   "prompt_en": "A lookup table icon multiplied by an intake amount icon equals a dose icon. No people.",
+   "narration": "捷径：查剂量系数，乘以摄入量。",
+   "overlay": [],
+   "labels": [
+    "剂量系数",
+    "×",
+    "摄入量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "源器官照靶器官",
+   "scene": "发光的源器官向旁边的靶器官发出箭头",
+   "prompt_en": "A glowing source organ sends arrows to a nearby target organ. No people.",
+   "narration": "核医学里，常看一个器官照另一个。",
+   "overlay": [
+    "源器官照靶器官"
+   ],
+   "labels": [
+    "源器官",
+    "靶器官"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "源器官照靶器官",
+   "scene": "源器官像暖炉烤着周围器官",
+   "prompt_en": "The glowing source organ looks like a little heater warming the organs around it. No people.",
+   "narration": "就像暖炉烤着旁边的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "源器官照靶器官",
+   "scene": "累积活度图标乘以查表图标",
+   "prompt_en": "A pile of glowing dots icon multiplied by a lookup table icon with a simple body model. No people.",
+   "narration": "累积活度乘S值，查标准体模表。",
+   "overlay": [],
+   "labels": [
+    "累积活度",
+    "S值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "物理半衰期",
+   "scene": "三个时钟图标：原子、肾脏、怀表",
+   "prompt_en": "Three clock icons: one with an atom, one with a kidney, one pocket watch. No people.",
+   "narration": "体内活度减少，看三个半衰期。",
+   "overlay": [
+    "物理半衰期"
+   ],
+   "labels": [
+    "物理",
+    "生物",
+    "有效"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "物理半衰期",
+   "scene": "一堆发光原子一半熄灭",
+   "prompt_en": "A pile of glowing atoms where half of them go dark. No people.",
+   "narration": "物理半衰期：一半原子衰变的时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "物理半衰期",
+   "scene": "原子钟摆不受外界影响",
+   "prompt_en": "An atom clock ticking steadily, unaffected by hands trying to push it. No people.",
+   "narration": "只由原子核决定，谁也改变不了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "肾脏和膀胱图标，发光点被排出",
+   "prompt_en": "Kidney and bladder icons with glowing dots flowing out. No people.",
+   "narration": "生物半衰期：身体排出一半的时间。",
+   "overlay": [
+    "生物半衰期"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "排出过程与衰变无关的两条独立路线",
+   "prompt_en": "Two separate paths: one showing excretion, one showing decay, with no link between them. No people.",
+   "narration": "靠排泄和代谢，和衰变无关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "水滴图标快速流走",
+   "prompt_en": "A water drop icon flowing away quickly. No people.",
+   "narration": "含氚的水，约十天排走一半。",
+   "overlay": [],
+   "labels": [
+    "氚水 约10天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "甲状腺图标里发光点久久不散",
+   "prompt_en": "A thyroid gland icon where glowing dots stay for a long time. No people.",
+   "narration": "甲状腺里的碘-131，约八十天。",
+   "overlay": [],
+   "labels": [
+    "碘-131 约80天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "骨头图标里发光点像钙一样嵌住",
+   "prompt_en": "A bone icon with glowing dots locked inside like calcium. No people.",
+   "narration": "锶-90像钙一样进骨头，约五十年。",
+   "overlay": [],
+   "labels": [
+    "锶-90 约50年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "生物半衰期",
+   "scene": "气泡图标飘散",
+   "prompt_en": "Gas bubble icons drifting out and fading. No people.",
+   "narration": "惰性气体，几分钟到几小时就出去。",
+   "overlay": [],
+   "labels": [
+    "惰性气体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "有效半衰期更短",
+   "scene": "浴缸有两个出水口同时放水",
+   "prompt_en": "A bathtub icon draining through two outlets at the same time. No people.",
+   "narration": "衰变和排出，两个出水口同时放水。",
+   "overlay": [
+    "有效半衰期更短"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "有效半衰期更短",
+   "scene": "水位下降比任何单个出口都快",
+   "prompt_en": "The bathtub water level drops faster than with either outlet alone. No people.",
+   "narration": "所以有效半衰期总比两个都短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "有效半衰期更短",
+   "scene": "大出口特别亮",
+   "prompt_en": "The larger, faster outlet glows brighter than the small one. No people.",
+   "narration": "谁更短，谁说了算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "碘-131在甲状腺",
+   "scene": "甲状腺图标旁两个时钟",
+   "prompt_en": "A thyroid gland icon with two clocks beside it, one small and one large. No people.",
+   "narration": "看碘-131在甲状腺里。",
+   "overlay": [
+    "碘-131在甲状腺"
+   ],
+   "labels": [
+    "物理约8天",
+    "生物约80天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "碘-131在甲状腺",
+   "scene": "两个时钟合并成一个更小的时钟",
+   "prompt_en": "The two clocks merge into one even smaller clock. No people.",
+   "narration": "合起来约七天多，比八天还短。",
+   "overlay": [],
+   "labels": [
+    "有效约7.3天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "碘-131在甲状腺",
+   "scene": "小时钟高亮",
+   "prompt_en": "The small physical clock is highlighted. No people.",
+   "narration": "这里是物理半衰期说了算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三根支柱",
+   "scene": "三根发光柱子撑起一个屋顶",
+   "prompt_en": "Three glowing pillars hold up a roof with a shield icon on top. No people.",
+   "narration": "这一课有三根支柱。",
+   "overlay": [
+    "三根支柱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三根支柱",
+   "scene": "第一根柱子：上限线和向下箭头",
+   "prompt_en": "The first pillar shows a maximum line and a downward arrow. No people.",
+   "narration": "限值加优化，划出边界。",
+   "overlay": [],
+   "labels": [
+    "限值",
+    "ALARA"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三根支柱",
+   "scene": "第二根柱子：剂量计徽章",
+   "prompt_en": "The second pillar shows a dosimeter badge. No people.",
+   "narration": "个人剂量计，测量体外照射。",
+   "overlay": [],
+   "labels": [
+    "外照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三根支柱",
+   "scene": "第三根柱子：体内发光器官和时钟",
+   "prompt_en": "The third pillar shows a glowing organ inside a body outline and a clock. No people.",
+   "narration": "器官模型和半衰期，追踪体内照射。",
+   "overlay": [],
+   "labels": [
+    "内照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "三根支柱",
+   "scene": "原子图标和心形图标连在一起",
+   "prompt_en": "An atom icon and a heart icon joined by a glowing line. No people.",
+   "narration": "物理加生物学，守护人的安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身边浮现抽奖箱和水坝图标",
+   "prompt_en": "The panda mascot stands beside a lottery box icon and a small dam icon.",
+   "narration": "一类看概率，一类有阈值。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "限值线和向下箭头",
+   "prompt_en": "A maximum line with a downward arrow below it. No people.",
+   "narration": "守住限值，还要尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四种射线箭头和剂量计",
+   "prompt_en": "Four ray arrows of different lengths and a dosimeter badge. No people.",
+   "narration": "外照射看穿透力，剂量计要戴好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "浴缸两个出水口",
+   "prompt_en": "A bathtub icon with two outlets draining. No people.",
+   "narration": "内照射看分布和半衰期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两张限值卡片，一高一低",
+   "prompt_en": "Two blank cards with maximum lines, the worker card higher and the public card lower. No people.",
+   "narration": "职业每年20毫希，公众1毫希。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "甲状腺图标和一个小时钟",
+   "prompt_en": "A thyroid gland icon with one small clock beside it. No people.",
+   "narration": "碘-131在甲状腺，有效半衰期约7.3天。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣戴着小剂量计徽章挥手道别",
+   "prompt_en": "The panda mascot wears a small dosimeter badge on its chest and waves goodbye at the camera.",
+   "narration": "守住限值，算清内外照射！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}

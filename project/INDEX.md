@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 51 / 59 | 1 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 7 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 9 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 5 / 23 |
 | Lab Safety Training Series | 13 / 13 | 2 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 2 / 12 |
@@ -21,7 +21,7 @@
 | RSO Training Series | 9 / 9 | 3 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
-| Photonics & Laser Safety Series | 8 / 8 | 6 / 8 |
+| Photonics & Laser Safety Series | 8 / 8 | 7 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 5 / 7 |
 | Electrical Safety Series | 7 / 25 | 5 / 6 |
@@ -173,6 +173,7 @@
 | CDC Laboratory Safety Series | 15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W | 国内版 | 生物安全柜的收尾工作（国内版） | 62 | 5:10 | 19 / 2 | [剧本](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/15_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Completing W（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up | 原著版 | 生物安全柜内溢洒的清理 | 39 | 3:15 | 14 / 0 | [剧本](<CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up/script.md>) |
 | CDC Laboratory Safety Series | 16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up | 国内版 | 生物安全柜内溢洒的清理（国内版） | 50 | 4:10 | 14 / 3 | [剧本](<CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/16_Fundamentals of Working Safely in a Biological Safety Cabinet (BSC) Cleaning Up（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected | 原著版 | 通风柜的气流会被什么影响 | 43 | 3:35 | 16 / 0 | [剧本](<CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected/script.md>) |
 | CDC Laboratory Safety Series | 17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected | 国内版 | 通风柜的气流会被什么影响（国内版） | 49 | 4:05 | 16 / 2 | [剧本](<CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 18_Fundamentals of Chemical Fume Hood Safety Good Work Practices | 国内版 | 通风柜的良好操作习惯（国内版） | 58 | 4:50 | 19 / 3 | [剧本](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction | 国内版 | 甲醛和戊二醛的安全使用（国内版） | 48 | 4:00 | 10 / 5 | [剧本](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/审查报告.md>) |
@@ -377,7 +378,7 @@
 | Microbiology Biosafety | 30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz | 国内版 | 灭菌，也藏着危害（国内版） | 60 | 5:00 | 14 / 4 | [剧本](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（国内版）/script.md>) · [审查](<Microbiology Biosafety/30_Significance of lab hazard in terms of sterilization, laboratory hazard steriliz（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio | 国内版 | 微生物实验室的化学品安全（国内版） | 47 | 3:55 | 8 / 4 | [剧本](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/script.md>) · [审查](<Microbiology Biosafety/31_Importance of Chemical Safety in Microbiology Labs laboratory biosafety microbio（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety | 国内版 | 微生物实验室的用电安全（国内版） | 43 | 3:35 | 8 / 4 | [剧本](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety（国内版）/script.md>) · [审查](<Microbiology Biosafety/32_Electrical safety in Microbiology Labs electrical safety laboratory biosafety（国内版）/审查报告.md>) |
-| Microbiology Biosafety | 33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog | 单一版 | 化学需氧量与测定安全 | 50 | 4:10 | 8 / 4 | [剧本](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/script.md>) |
+| Microbiology Biosafety | 33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog | 单一版 | 化学需氧量与测定安全 | 50 | 4:10 | 8 / 4 | [剧本](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/script.md>) · [审查](<Microbiology Biosafety/33_What is COD , COD removal formula, Chemical Oxygen Demand laboratory microbiolog/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 国内版 | 微生物实验室的消防安全（国内版） | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi | 国内版 | 一张表看懂四个防护等级（国内版） | 68 | 5:40 | 12 / 4 | [剧本](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/script.md>) · [审查](<Microbiology Biosafety/35_What is the difference between BSL-1, BSL-2, BSL-3 and BSL-4 Biosafety levels bi（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 国内版 | 哪一级实验室，操作哪类微生物（国内版） | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l（国内版）/script.md>) · [审查](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l（国内版）/审查报告.md>) |
@@ -408,6 +409,7 @@
 | Photonics & Laser Safety Series | 05_5. Introduction to Optical Components | 国内版 | 认识光学元件：材料、镀膜与滤光片（国内版） | 108 | 9:00 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/05_5. Introduction to Optical Components（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 原著版 | 光学元件的安装、定位与维护 | 75 | 6:15 | 24 / 0 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care/script.md>) |
 | Photonics & Laser Safety Series | 06_6. Optical Handling Positioning and Care | 国内版 | 光学元件的安装、定位与维护（国内版） | 97 | 8:05 | 24 / 6 | [剧本](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/06_6. Optical Handling Positioning and Care（国内版）/审查报告.md>) |
+| Photonics & Laser Safety Series | 07_7. Light Sources | 原著版 | 光源与光对人体的作用 | 102 | 8:30 | 25 / 0 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources/script.md>) |
 | Photonics & Laser Safety Series | 07_7. Light Sources | 国内版 | 光源与光对人体的作用（国内版） | 125 | 10:25 | 25 / 5 | [剧本](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/07_7. Light Sources（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 08_8. Introduction to Lasers and Laser Safety | 国内版 | 激光安全入门（国内版） | 147 | 12:15 | 26 / 9 | [剧本](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/08_8. Introduction to Lasers and Laser Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 01_Radiation Safety Basics | 原著版 | 辐射安全基础：来源、剂量与生物效应 | 65 | 5:25 | 16 / 0 | [剧本](<RSO Training Series/01_Radiation Safety Basics/script.md>) |
