@@ -11,7 +11,7 @@
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
-| Basic Electrical Engineering Lab | 23 / 23 | 8 / 23 |
+| Basic Electrical Engineering Lab | 23 / 23 | 9 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
@@ -226,6 +226,7 @@
 | Basic Electrical Engineering Lab | 07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr | 国内版 | 交流电路的开路与短路（国内版） | 65 | 5:25 | 15 / 6 | [剧本](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/07_Study of Open Circuit and Short Circuit Conditions in an AC Circuit Basic Electr（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical | 原著版 | 三相星形与三角形连接实验 | 50 | 4:10 | 24 / 0 | [剧本](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical/script.md>) |
 | Basic Electrical Engineering Lab | 08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical | 国内版 | 三相星形与三角形连接实验（国内版） | 72 | 6:00 | 24 / 6 | [剧本](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/08_Star Delta Connection Verification of Line and Phase Quantities Basic Electrical（国内版）/审查报告.md>) |
+| Basic Electrical Engineering Lab | 09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore | 原著版 | 电工实验：测灯具的功率与功率因数 | 48 | 4:00 | 17 / 0 | [剧本](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/script.md>) |
 | Basic Electrical Engineering Lab | 09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore | 国内版 | 电工实验：测灯具的功率与功率因数（国内版） | 62 | 5:10 | 17 / 4 | [剧本](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B | 国内版 | 电工实验：三电压表法测线圈（国内版） | 57 | 4:45 | 16 / 3 | [剧本](<Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/10_Three Voltmeter Method Basic Electrical Engineering laboratory All Branches of B（国内版）/审查报告.md>) |
 | Basic Electrical Engineering Lab | 11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical | 国内版 | 电工实验：基尔霍夫定律（理论计算）（国内版） | 51 | 4:15 | 14 / 3 | [剧本](<Basic Electrical Engineering Lab/11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical（国内版）/script.md>) · [审查](<Basic Electrical Engineering Lab/11_Verification of KVL & KCL Theoretical Calculation with examples Basic Electrical（国内版）/审查报告.md>) |

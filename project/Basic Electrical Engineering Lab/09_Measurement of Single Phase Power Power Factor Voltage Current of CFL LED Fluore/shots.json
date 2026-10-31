@@ -1,0 +1,691 @@
+{
+ "id": "09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore",
+ "edition": "原著版",
+ "series": "Basic Electrical Engineering Lab",
+ "title": "电工实验：测灯具的功率与功率因数",
+ "seconds": 240,
+ "source_doc": "course/Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore.md",
+ "author_source": "project/Basic Electrical Engineering Lab/09_Measurement of Single Phase Power Power Factor Voltage Current of CFL LED Fluore/src.py",
+ "points": {
+  "K1": "实验目的：四种灯的电流功率",
+  "K2": "要准备的器材",
+  "K3": "按功率因数高低选功率表",
+  "K4": "导线先测通断",
+  "K5": "看懂电路图",
+  "K6": "功率表的四个端子",
+  "K7": "功率表常数",
+  "K8": "记录数据，算功率因数",
+  "K9": "认清台上的灯和表",
+  "K10": "万用表拨到交流电压档",
+  "K11": "电流回路粗线，电压回路细线",
+  "K12": "测量步骤",
+  "K13": "读数不歪看，量程对刻度",
+  "K14": "测LED灯和节能灯",
+  "K15": "分清相线和零线",
+  "K16": "结论：哪种灯最省电",
+  "K17": "参考教材，有疑问就问"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台前，台上并排放着四盏不同的灯",
+   "prompt_en": "The panda mascot stands in front of an electrical lab bench with four different lamps in a row, waving at the camera.",
+   "narration": "今天做电工实验：给四种灯测功率！",
+   "overlay": [
+    "电工实验：测灯具的功率与功率因数"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "白炽灯、荧光灯管、节能灯、LED 灯四个图标排成一行",
+   "prompt_en": "Four icons in a row: an incandescent bulb, a straight fluorescent tube, a spiral compact fluorescent bulb and an LED bulb. No people.",
+   "narration": "看看哪种灯最费电，哪种最省电。",
+   "overlay": [],
+   "labels": [
+    "白炽灯",
+    "荧光灯",
+    "节能灯",
+    "LED灯"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在宿舍台灯前犹豫，手里拿着两只不同的灯泡",
+   "prompt_en": "The young male student hesitates in front of a desk lamp in his dorm, holding two different bulbs.",
+   "narration": "阿杰想换台灯灯泡，不知道选哪种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着指向实验室里的灯具实验台",
+   "prompt_en": "The female graduate student smiles and points to a lamp test bench in the lab.",
+   "narration": "小研说：做个实验，用数据说话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的：四种灯的电流功率",
+   "scene": "王老师站在实验台旁，四盏灯各连着电表",
+   "prompt_en": "The safety administrator stands beside a bench where four lamps are each connected to analog meters with blank dials.",
+   "narration": "本实验要测四种灯的电流和电压。",
+   "overlay": [
+    "实验目的：四种灯的电流功率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的：四种灯的电流功率",
+   "scene": "电流、电压、功率、功率因数四个图标",
+   "prompt_en": "Four simple icons: a current arrow, a voltage symbol, a power meter dial and a triangle diagram. No people.",
+   "narration": "还要测功率，算出功率因数。",
+   "overlay": [],
+   "labels": [
+    "电流",
+    "电压",
+    "功率",
+    "功率因数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "器材柜里取出电流表、电压表、功率表",
+   "prompt_en": "An open equipment cabinet with an AC ammeter, an AC voltmeter and a wattmeter, all with blank dials. No people.",
+   "narration": "准备交流电流表、电压表和功率表。",
+   "overlay": [
+    "要准备的器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "数字万用表图标代替电压表，旁边打勾",
+   "prompt_en": "A digital multimeter icon with a blank display placed beside a voltmeter icon, with a green check mark. No people.",
+   "narration": "没有电压表，可以用万用表代替。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "要准备的器材",
+   "scene": "四盏灯和一捆连接导线摆在台面上",
+   "prompt_en": "Four lamps and a bundle of connecting wires laid out on a bench. No people.",
+   "narration": "再备好四种灯和足够的连接导线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按功率因数高低选功率表",
+   "scene": "两只外观相同的功率表，一只贴蓝色标签一只贴橙色标签",
+   "prompt_en": "Two identical-looking wattmeters, one with a blank blue tag and one with a blank orange tag. No people.",
+   "narration": "功率表有两种，要按灯来选。",
+   "overlay": [
+    "按功率因数高低选功率表"
+   ],
+   "labels": [
+    "UPF",
+    "LPF"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按功率因数高低选功率表",
+   "scene": "LED 灯和节能灯图标连向橙色标签功率表",
+   "prompt_en": "An LED bulb icon and a compact fluorescent bulb icon linked to the orange-tagged wattmeter. No people.",
+   "narration": "LED和节能灯功率因数低，用低功率因数表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按功率因数高低选功率表",
+   "scene": "白炽灯和荧光灯管图标连向蓝色标签功率表",
+   "prompt_en": "An incandescent bulb icon and a fluorescent tube icon linked to the blue-tagged wattmeter. No people.",
+   "narration": "白炽灯和荧光灯，用单位功率因数表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导线先测通断",
+   "scene": "小研用万用表两支表笔碰一根未接入电路的导线两端",
+   "prompt_en": "The female graduate student touches the two probes of a multimeter to both ends of an unconnected wire on the bench.",
+   "narration": "导线用前，先用万用表测通断。",
+   "overlay": [
+    "导线先测通断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导线先测通断",
+   "scene": "断线图标打叉，通的导线打勾",
+   "prompt_en": "Two icons: a wire broken inside with a red X, and an intact wire with a green check. No people.",
+   "narration": "内部断了的线，挑出来不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "看懂电路图",
+   "scene": "简化电路图：电源、开关、电流表、功率表、灯",
+   "prompt_en": "A simple circuit diagram icon: an AC source, a switch, an ammeter, a wattmeter and a lamp in a loop, with a voltmeter across the lamp. No people.",
+   "narration": "接线前，先把电路图看懂。",
+   "overlay": [
+    "看懂电路图"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "看懂电路图",
+   "scene": "箭头从电源出发，依次经过开关、电流表、功率表到灯",
+   "prompt_en": "An arrow travels from the AC source through the switch, the ammeter and the wattmeter to the lamp. No people.",
+   "narration": "电源经开关，串过电流表和功率表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "看懂电路图",
+   "scene": "电压表图标并在灯的两端",
+   "prompt_en": "A voltmeter icon connected across the two ends of a lamp icon. No people.",
+   "narration": "电压表并在灯两端，测灯的电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "功率表的四个端子",
+   "scene": "功率表放大图，四个接线柱旁各有一个空白小牌",
+   "prompt_en": "A close-up icon of a wattmeter with four terminals, each marked by a small blank tag. No people.",
+   "narration": "功率表有四个接线端。",
+   "overlay": [
+    "功率表的四个端子"
+   ],
+   "labels": [
+    "M 电源端",
+    "L 负载端",
+    "C 公共端",
+    "V 电压端"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "功率表的四个端子",
+   "scene": "电流线圈串在回路里，电压线圈跨在负载上",
+   "prompt_en": "An icon showing a thick current coil placed in series in the loop and a thin voltage coil connected across the load. No people.",
+   "narration": "电流线圈串进回路，电压线圈跨在负载上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "功率表常数",
+   "scene": "老周在空白白板前画分数线，只有符号没有文字",
+   "prompt_en": "The older man stands at a blank whiteboard drawing a fraction line with simple symbols, no words.",
+   "narration": "用功率表前，先算功率表常数。",
+   "overlay": [
+    "功率表常数"
+   ],
+   "labels": [
+    "电压量程×电流量程",
+    "×功率因数÷满格数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "功率表常数",
+   "scene": "表盘指针指在一格刻度上，旁边一个乘号和数字 2",
+   "prompt_en": "A wattmeter dial icon with the needle on a mark, next to a multiplication sign and the number 2. No people.",
+   "narration": "读数乘常数，才是真实功率。",
+   "overlay": [],
+   "labels": [
+    "10格×2=20瓦"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "功率表常数",
+   "scene": "欣欣竖起手指提醒",
+   "prompt_en": "The panda mascot raises one finger as a reminder.",
+   "narration": "换了量程，常数也要重新算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "记录数据，算功率因数",
+   "scene": "一张空白记录表，四行四种灯的图标",
+   "prompt_en": "A blank data table with four rows, each row starting with a lamp icon, and empty columns. No people.",
+   "narration": "每种灯的电压、电流、功率都记下来。",
+   "overlay": [
+    "记录数据，算功率因数"
+   ],
+   "labels": [
+    "电压",
+    "电流",
+    "功率",
+    "功率因数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "记录数据，算功率因数",
+   "scene": "功率除以电压乘电流的图示",
+   "prompt_en": "A simple diagram: a power icon divided by a voltage icon multiplied by a current icon. No people.",
+   "narration": "功率因数等于功率除以电压乘电流。",
+   "overlay": [],
+   "labels": [
+    "P÷(U×I)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "记录数据，算功率因数",
+   "scene": "有功功率与视在功率两根长短不同的柱",
+   "prompt_en": "Two bars side by side, a shorter one for real power and a taller one for apparent power. No people.",
+   "narration": "就是有功功率和视在功率之比。",
+   "overlay": [],
+   "labels": [
+    "有功",
+    "视在"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "记录数据，算功率因数",
+   "scene": "刻度尺最高处标着 1",
+   "prompt_en": "A vertical scale with its top mark highlighted as 1. No people.",
+   "narration": "功率因数最大就是一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "认清台上的灯和表",
+   "scene": "实验台全景，灯和表旁各插一面编号小旗",
+   "prompt_en": "A wide view of the lab bench with four lamps and three meters, each with a small numbered flag from 1 to 7. No people.",
+   "narration": "先认清台上的四盏灯和三块表。",
+   "overlay": [
+    "认清台上的灯和表"
+   ],
+   "labels": [
+    "1-4 灯",
+    "5 电流表",
+    "6 功率表",
+    "7 电压表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "万用表拨到交流电压档",
+   "scene": "手把万用表旋钮拨到交流电压档，屏幕空白",
+   "prompt_en": "A hand turns a multimeter's rotary switch to the AC voltage range; the display is blank. No people.",
+   "narration": "万用表当电压表，一定先拨到交流电压档。",
+   "overlay": [
+    "万用表拨到交流电压档"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "万用表拨到交流电压档",
+   "scene": "万用表并在灯两端",
+   "prompt_en": "A multimeter connected across a lamp holder in place of a voltmeter. No people.",
+   "narration": "再把它并在灯的两端。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流回路粗线，电压回路细线",
+   "scene": "一粗一细两根导线并排",
+   "prompt_en": "A thick connecting wire and a thin connecting wire side by side. No people.",
+   "narration": "电流回路用粗线，电压回路用细线。",
+   "overlay": [
+    "电流回路粗线，电压回路细线"
+   ],
+   "labels": [
+    "电流回路：粗",
+    "电压回路：细"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "测量步骤",
+   "scene": "阿杰对照电路图在灯具面板上接线",
+   "prompt_en": "The young male student connects wires on an open lamp panel following a circuit diagram.",
+   "narration": "按电路图接好线，选好要测的那盏灯。",
+   "overlay": [
+    "测量步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "测量步骤",
+   "scene": "阿杰合上电源，白炽灯亮起",
+   "prompt_en": "The young male student switches on the supply and the incandescent bulb lights up.",
+   "narration": "合上电源，灯亮了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "测量步骤",
+   "scene": "小研依次看电压表、功率表、电流表，并在空白表格上记录",
+   "prompt_en": "The female graduate student reads the voltmeter, wattmeter and ammeter in turn and writes in a blank table.",
+   "narration": "依次读电压、功率、电流，记进表格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "测量步骤",
+   "scene": "阿杰拉下电源开关，灯熄灭",
+   "prompt_en": "The young male student switches off the supply and the bulb goes dark.",
+   "narration": "读完断开电源，再测下一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "读数不歪看，量程对刻度",
+   "scene": "侧面歪着看表盘的眼睛图标打叉，正对表盘的打勾",
+   "prompt_en": "Two icons: an eye viewing a meter dial from the side with a red X, and an eye directly in front with a green check. No people.",
+   "narration": "读指针表要正对表盘，避免视差。",
+   "overlay": [
+    "读数不歪看，量程对刻度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "读数不歪看，量程对刻度",
+   "scene": "老周通电时用手指贴近功率表接线柱，指着表盘读数",
+   "prompt_en": "With the circuit powered, the older man points his finger close to the wattmeter terminals while reading the dial.",
+   "narration": "选哪个量程，就读哪排刻度。",
+   "overlay": [],
+   "labels": [
+    "小量程→下排",
+    "大量程→上排"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测LED灯和节能灯",
+   "scene": "LED 灯亮起，旁边接的是低功率因数功率表",
+   "prompt_en": "An LED bulb is lit on the bench, connected to the wattmeter with the orange label.",
+   "narration": "测LED灯，换上低功率因数功率表。",
+   "overlay": [
+    "测LED灯和节能灯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测LED灯和节能灯",
+   "scene": "电流表指针只偏转一点点",
+   "prompt_en": "An ammeter dial with the needle moved only slightly from zero. No people.",
+   "narration": "LED的电流很小，读数要仔细。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "测LED灯和节能灯",
+   "scene": "节能灯亮起，小研记录读数",
+   "prompt_en": "A spiral compact fluorescent bulb is lit; the female graduate student records readings on a blank sheet.",
+   "narration": "节能灯同样步骤，读完断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "分清相线和零线",
+   "scene": "电源引线两根，一根红线一根黑线",
+   "prompt_en": "Two supply leads on the bench, one red and one black. No people.",
+   "narration": "电源两根线，要分清相线和零线。",
+   "overlay": [
+    "分清相线和零线"
+   ],
+   "labels": [
+    "红：相线",
+    "黑：零线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "分清相线和零线",
+   "scene": "老周指着红线和黑线说明",
+   "prompt_en": "The older man points at the red lead and then the black lead while explaining.",
+   "narration": "演示里，红线接相线，黑线接零线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "结论：哪种灯最省电",
+   "scene": "四盏灯下方柱形：白炽灯最高，LED 最低",
+   "prompt_en": "Four lamp icons with bars beneath them: the incandescent bar is tallest and the LED bar is shortest. No people.",
+   "narration": "结果：白炽灯最费电，LED最省电。",
+   "overlay": [
+    "结论：哪种灯最省电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "结论：哪种灯最省电",
+   "scene": "白炽灯冒出热浪图标，只有少量光线",
+   "prompt_en": "An incandescent bulb icon radiating large heat waves and only a few light rays. No people.",
+   "narration": "白炽灯的电能大多变成了热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "结论：哪种灯最省电",
+   "scene": "阿杰在宿舍台灯里装上 LED 灯泡，满意地笑",
+   "prompt_en": "The young male student screws an LED bulb into his desk lamp in the dormitory and smiles.",
+   "narration": "阿杰决定：台灯换成LED灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "参考教材，有疑问就问",
+   "scene": "一本空白封面的电工教材和一只举起的手",
+   "prompt_en": "A textbook with a blank cover next to a raised hand icon. No people.",
+   "narration": "课后对照教材复习，有疑问就问。",
+   "overlay": [
+    "参考教材，有疑问就问"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四盏灯和两种功率表图标",
+   "prompt_en": "Icons of four lamps and two wattmeters with blue and orange tags. No people.",
+   "narration": "按灯选功率表，读数乘常数。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "记录表和柱状图图标",
+   "prompt_en": "A blank record table icon and a bar chart icon. No people.",
+   "narration": "算出功率因数，LED最省电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台前挥手",
+   "prompt_en": "The panda mascot waves in front of the lamp test bench.",
+   "narration": "家里照明选LED，下个实验见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
