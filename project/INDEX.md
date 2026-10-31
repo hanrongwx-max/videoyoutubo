@@ -10,7 +10,7 @@
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
-| Electrical Safety Series | 25 / 25 | 23 / 25 |
+| Electrical Safety Series | 25 / 25 | 24 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
@@ -372,6 +372,7 @@
 | Electrical Safety Series | 22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE | 国内版 | 十条用电安全规则（国内版） | 50 | 4:10 | 11 / 3 | [剧本](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/script.md>) · [审查](<Electrical Safety Series/22_10 Electrical Safety Rules Every Worker Must Know @HSE STUDY GUIDE（国内版）/审查报告.md>) |
 | Electrical Safety Series | 23_Complete Electrical Safety | 原著版 | 电气安全全攻略 | 67 | 5:35 | 15 / 0 | [剧本](<Electrical Safety Series/23_Complete Electrical Safety/script.md>) |
 | Electrical Safety Series | 23_Complete Electrical Safety | 国内版 | 电气安全全攻略（国内版） | 76 | 6:20 | 15 / 3 | [剧本](<Electrical Safety Series/23_Complete Electrical Safety（国内版）/script.md>) · [审查](<Electrical Safety Series/23_Complete Electrical Safety（国内版）/审查报告.md>) |
+| Electrical Safety Series | 24_10 Important Electrical Safety Rules Every Worker Must Follow | 原著版 | 用电安全十条守则 | 42 | 3:30 | 12 / 0 | [剧本](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow/script.md>) |
 | Electrical Safety Series | 24_10 Important Electrical Safety Rules Every Worker Must Follow | 国内版 | 用电安全十条守则（国内版） | 51 | 4:15 | 12 / 3 | [剧本](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow（国内版）/script.md>) · [审查](<Electrical Safety Series/24_10 Important Electrical Safety Rules Every Worker Must Follow（国内版）/审查报告.md>) |
 | Electrical Safety Series | 25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil | 国内版 | 接地：看不见的保护线（国内版） | 70 | 5:50 | 19 / 3 | [剧本](<Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（国内版）/script.md>) · [审查](<Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
