@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 246 / 441 个视频。
+已编写 249 / 441 个视频。
 
 ## 各剧集进度
 
@@ -9,8 +9,8 @@
 | BIORISK MANAGEMENT | 42 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
+| Microbiology Biosafety | 16 / 59 |
 | Lab Safety Training Series | 13 / 13 |
-| Microbiology Biosafety | 13 / 59 |
 | Acids, Bases & Solvents Safety | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 |
@@ -257,6 +257,7 @@
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 生物安全第一课：防护与风险评估 | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/审查报告.md>) |
 | Microbiology Biosafety | 02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl | 一级到四级：实验室生物安全防护等级 | 71 | 5:55 | 17 / 4 | [剧本](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/script.md>) · [审查](<Microbiology Biosafety/02_What is Biosafety levels Types Biosafetylevels-1,2,3,4 ARHMicroHub microbiologyl/审查报告.md>) |
 | Microbiology Biosafety | 03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm | 三个柜子不一样：通风柜、超净台、生物安全柜 | 61 | 5:05 | 14 / 4 | [剧本](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/script.md>) · [审查](<Microbiology Biosafety/03_Difference Function Purpose of Fume hood,Laminar flowhood,Biosafety cabinat arhm/审查报告.md>) |
+| Microbiology Biosafety | 04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa | 生物安全柜的三个级别 | 51 | 4:15 | 14 / 4 | [剧本](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa/script.md>) · [审查](<Microbiology Biosafety/04_What are Biosafety cabinets , biosafety cabinet in microbiology laboratory biosa/审查报告.md>) |
 | Microbiology Biosafety | 05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m | 转基因生物：先评估，再放行 | 67 | 5:35 | 15 / 3 | [剧本](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/script.md>) · [审查](<Microbiology Biosafety/05_Risk Assessment, their steps, safety assessment & typical issues of GMOs part4 m/审查报告.md>) |
 | Microbiology Biosafety | 06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro | 转基因生物：分几类，防几级 | 53 | 4:25 | 12 / 3 | [剧本](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro/script.md>) · [审查](<Microbiology Biosafety/06_Risk group classes biosafety level rating of GMOs part5 biosafety level risk gro/审查报告.md>) |
 | Microbiology Biosafety | 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu | 生物恐怖怎么防：识别·预防·报告 | 44 | 3:40 | 8 / 4 | [剧本](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu/script.md>) · [审查](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu/审查报告.md>) |
@@ -264,7 +265,9 @@
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 实验室八条通用安全规则 | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules/审查报告.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 实验报告怎么写：从记录到安全 | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 认识安全技术说明书 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology/审查报告.md>) |
+| Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 安全技术说明书有什么用 | 47 | 3:55 | 8 / 3 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical/script.md>) · [审查](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical/审查报告.md>) |
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 化学品的说明书：SDS 是什么（上） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology/审查报告.md>) |
+| Microbiology Biosafety | 24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf | 看不见的危险：微生物实验室安全用电 | 60 | 5:00 | 7 / 6 | [剧本](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/script.md>) · [审查](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/审查报告.md>) |
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 读懂安全技术说明书（下）：第8到15部分 | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 微生物实验室的生物安全措施 | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
