@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 42 / 59 |
+| Microbiology Biosafety | 59 / 59 | 43 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -708,6 +708,7 @@
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 原著版 | 危害组与防护级别：别把顺序记反 | 29 | 2:25 | 10 / 0 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 国内版 | 危害组与防护级别：别把顺序记反（国内版） | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b（国内版）/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 原著版 | 生物风险评估六步走 | 29 | 2:25 | 7 / 0 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) |
 | Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 国内版 | 生物风险评估六步走（国内版） | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 44_What are the core components of a Biorisk management system biorisk biosafety tr | 国内版 | 生物风险管理体系的六根支柱（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr（国内版）/script.md>) · [审查](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 45_Who is responsible for Biorisk management in a laboratory biorisk management bio | 国内版 | 生物安全，谁来负责（国内版） | 37 | 3:05 | 5 / 3 | [剧本](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio（国内版）/script.md>) · [审查](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio（国内版）/审查报告.md>) |
