@@ -1,0 +1,968 @@
+{
+ "id": "25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil",
+ "edition": "单一版",
+ "series": "Electrical Safety Series",
+ "title": "接地：看不见的保护线",
+ "seconds": 350,
+ "source_doc": "course/Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil.md",
+ "author_source": "project/Electrical Safety Series/25_Earthing & Grounding Explained Earth Pit Inspection & Safety Officer Responsibil/src.py",
+ "points": {
+  "K1": "这一课回答几个问题",
+  "K2": "什么是保护接地",
+  "K3": "保护接地的作用",
+  "K4": "例子：电焊机外壳带电",
+  "K5": "什么是系统接地",
+  "K6": "名称各国不同，按标准执行",
+  "K7": "三种接地极",
+  "K8": "用哪种，看条件",
+  "K9": "为什么接地这么重要",
+  "K10": "检查一：外观和盖板",
+  "K11": "检查二：周边环境",
+  "K12": "检查三：连接是否牢靠",
+  "K13": "检查四：测试记录",
+  "K14": "发现问题怎么办",
+  "K15": "检查人员的职责",
+  "K16": "重点关注的设备",
+  "K17": "检查人员不动手维修",
+  "K18": "两种接地，一句话区分",
+  "K19": "接地绝不能忽视",
+  "S1": "管道不能当地线",
+  "S2": "防雷装置也要定期检测",
+  "S3": "仪器接地线不得私拆"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验楼外墙边，墙角有一个带盖的接地检查井",
+   "prompt_en": "The panda mascot stands by the outer wall of a lab building next to a small covered ground inspection pit and waves at the camera.",
+   "narration": "这一课讲接地，一条看不见的保护线。",
+   "overlay": [
+    "接地：看不见的保护线"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "仪器外壳、绿黄线、大地三个图标连成一条线",
+   "prompt_en": "Three icons linked in a line: an instrument case, a green and yellow wire, and the ground. No people.",
+   "narration": "它把设备和大地连在一起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰嫌三孔插头插不进旧插线板，想把接地脚掰掉",
+   "prompt_en": "The young male student tries to bend off the ground pin of a three-pin plug because it does not fit an old two-hole power strip.",
+   "narration": "阿杰的插头插不进，想掰掉接地脚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研赶紧拦住，摇头",
+   "prompt_en": "The female graduate student quickly stops him and shakes her head.",
+   "narration": "小研拦住他：那根脚是保命的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰一脸疑惑看着插头",
+   "prompt_en": "The young male student looks at the plug with a puzzled face.",
+   "narration": "阿杰问：不接地，不也照样能用？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣站在白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "平时能用，出故障时就要命了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课回答几个问题",
+   "scene": "白板上六个问号气泡",
+   "prompt_en": "Six question mark bubbles on a whiteboard, each with a small icon: a ground symbol, a transformer, three rods, a shield, a magnifying glass and a balance. No people.",
+   "narration": "什么是接地、有几种、为何重要，",
+   "overlay": [
+    "这一课回答几个问题"
+   ],
+   "labels": [
+    "保护接地",
+    "系统接地",
+    "类型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "这一课回答几个问题",
+   "scene": "放大镜和天平气泡亮起",
+   "prompt_en": "The magnifying glass and balance bubbles light up. No people.",
+   "narration": "怎么检查，两种接地有何区别。",
+   "overlay": [],
+   "labels": [
+    "为何重要",
+    "怎么检查",
+    "区别"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是保护接地",
+   "scene": "电机金属外壳上接着一根黄绿线，通向埋在地下的金属棒",
+   "prompt_en": "The metal case of an electric motor connected by a green and yellow wire to a metal rod buried in the soil. No people.",
+   "narration": "把设备外露的金属外壳和大地相连，",
+   "overlay": [
+    "什么是保护接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "什么是保护接地",
+   "scene": "外壳和大地之间的连线发光",
+   "prompt_en": "The connection between the metal case and the ground glows softly. No people.",
+   "narration": "这就叫保护接地。",
+   "overlay": [],
+   "labels": [
+    "保护接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "保护接地的作用",
+   "scene": "电机内部绝缘破损，火花碰到外壳，外壳带电",
+   "prompt_en": "A cutaway of the motor: damaged internal insulation lets a spark touch the metal case, which glows red. No people.",
+   "narration": "设备内部出故障，外壳带了电，",
+   "overlay": [
+    "保护接地的作用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "保护接地的作用",
+   "scene": "故障电流沿黄绿线流入大地",
+   "prompt_en": "A fault current arrow flows from the case down the green and yellow wire into the ground. No people.",
+   "narration": "电流顺着低电阻的接地线流入大地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "保护接地的作用",
+   "scene": "配电箱里的保护开关跳下",
+   "prompt_en": "In a distribution box, a protective breaker lever drops to off. No people.",
+   "narration": "还能让保护开关动作，切断故障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "例子：电焊机外壳带电",
+   "scene": "一台电焊机，内部绝缘破损的示意",
+   "prompt_en": "A welding machine with a cutaway showing a damaged internal insulation and a red glowing case. No people.",
+   "narration": "比如电焊机内部绝缘坏了，外壳带电。",
+   "overlay": [
+    "例子：电焊机外壳带电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "例子：电焊机外壳带电",
+   "scene": "接地良好，故障电流沿接地通路流走，打绿勾",
+   "prompt_en": "With a good ground wire, the fault current flows safely along the ground path, green check. No people.",
+   "narration": "接地良好，故障电流就有安全通路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "例子：电焊机外壳带电",
+   "scene": "老李碰到机壳，盾牌护住他",
+   "prompt_en": "The facility engineer touches the welding machine case while a protective shield icon surrounds his hand.",
+   "narration": "人碰到机壳，触电风险大大降低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是系统接地",
+   "scene": "变压器中性点连着大地",
+   "prompt_en": "A transformer icon with its neutral point connected by a wire to the ground. No people.",
+   "narration": "把电气系统和大地参考相连，",
+   "overlay": [
+    "什么是系统接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是系统接地",
+   "scene": "左边设备接地，右边系统接地，两个框",
+   "prompt_en": "Two boxes: on the left a motor case connected to ground, on the right a transformer neutral connected to ground. No people.",
+   "narration": "外壳接地是设备接地，系统接地是系统的。",
+   "overlay": [],
+   "labels": [
+    "设备接地",
+    "系统接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "名称各国不同，按标准执行",
+   "scene": "地球图标和几本空白标准手册",
+   "prompt_en": "A globe icon next to several blank standards books with different colored covers. No people.",
+   "narration": "各国、各标准，叫法不太一样。",
+   "overlay": [
+    "名称各国不同，按标准执行"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "名称各国不同，按标准执行",
+   "scene": "老李翻开空白标准手册对照",
+   "prompt_en": "The facility engineer opens a blank standards book and compares it with a blank drawing.",
+   "narration": "实际工作，按国家标准和设计执行。",
+   "overlay": [],
+   "labels": [
+    "保护接地",
+    "工作接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三种接地极",
+   "scene": "三个剖面图并排：埋入地下的管、板、棒",
+   "prompt_en": "Three soil cross-sections side by side: a vertical metal pipe, a flat metal plate and a metal rod buried in the ground. No people.",
+   "narration": "常见的接地极有三种。",
+   "overlay": [
+    "三种接地极"
+   ],
+   "labels": [
+    "管式",
+    "板式",
+    "棒式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三种接地极",
+   "scene": "管式剖面放大",
+   "prompt_en": "Close-up of the cross-section with a metal pipe electrode buried in soil and a wire clamp on top. No people.",
+   "narration": "管式：把金属管埋进地下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三种接地极",
+   "scene": "板式剖面放大",
+   "prompt_en": "Close-up of the cross-section with a flat copper colored plate buried deep in soil. No people.",
+   "narration": "板式：埋一块铜板或镀锌钢板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "三种接地极",
+   "scene": "棒式剖面放大",
+   "prompt_en": "Close-up of the cross-section with a long conductive rod driven into soil. No people.",
+   "narration": "棒式：把导电棒打进土里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用哪种，看条件",
+   "scene": "土壤、图纸、标准手册三个图标",
+   "prompt_en": "Three icons: a soil sample jar, a blank design drawing and a blank standards book. No people.",
+   "narration": "用哪种，看土壤、设计和要求，",
+   "overlay": [
+    "用哪种，看条件"
+   ],
+   "labels": [
+    "土壤条件",
+    "电气设计",
+    "适用标准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用哪种，看条件",
+   "scene": "老李和王老师看图纸",
+   "prompt_en": "The facility engineer and the safety administrator review a blank design drawing together.",
+   "narration": "由专业人员按标准确定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "为什么接地这么重要",
+   "scene": "触电、火灾、设备损坏三个图标被盾牌挡住",
+   "prompt_en": "Three icons blocked by a big shield: a shock symbol, a flame and a broken instrument. No people.",
+   "narration": "接地减少触电、电气火灾和设备损坏。",
+   "overlay": [
+    "为什么接地这么重要"
+   ],
+   "labels": [
+    "防触电",
+    "防火",
+    "护设备"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "为什么接地这么重要",
+   "scene": "配电柜外壳带电，接地线断开，打红叉",
+   "prompt_en": "A distribution cabinet with a glowing live enclosure and a broken ground wire, red X. No people.",
+   "narration": "配电柜外壳带电，如果接地断了，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "为什么接地这么重要",
+   "scene": "接地和连接线完好，故障电流流走，开关跳闸",
+   "prompt_en": "With intact ground and bonding wires, the fault current flows away and the breaker trips off, green check. No people.",
+   "narration": "接地完好，故障电流有路走，开关跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "为什么接地这么重要",
+   "scene": "欣欣严肃地指着接地符号",
+   "prompt_en": "The panda mascot points seriously at a large ground symbol.",
+   "narration": "所以接地，绝不能忽视。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "检查一：外观和盖板",
+   "scene": "王老师拿着空白检查表走向接地检查井",
+   "prompt_en": "The safety administrator walks toward the ground inspection pit holding a blank checklist.",
+   "narration": "接地怎么查？一步一步来。",
+   "overlay": [
+    "检查一：外观和盖板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "检查一：外观和盖板",
+   "scene": "检查井清晰可见，旁边有接地标志",
+   "prompt_en": "The ground inspection pit is clearly visible and accessible, with a ground symbol sign beside it. No people.",
+   "narration": "先看：位置清楚、有标识、能接近、有保护。",
+   "overlay": [],
+   "labels": [
+    "可见",
+    "有标识",
+    "可接近",
+    "有保护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "检查一：外观和盖板",
+   "scene": "盖板完好打勾，破裂盖板打叉",
+   "prompt_en": "Two pit covers side by side: an intact one with a green check, a cracked broken one with a red X. No people.",
+   "narration": "盖板要完好，不能破损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "检查二：周边环境",
+   "scene": "检查井周围积水、地面开挖",
+   "prompt_en": "Water pooling around the inspection pit and an open excavation nearby, with a warning triangle. No people.",
+   "narration": "再看周边：有没有积水、破坏、开挖。",
+   "overlay": [
+    "检查二：周边环境"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "检查三：连接是否牢靠",
+   "scene": "老李打开盖板，查看接地线与接地极的连接",
+   "prompt_en": "The facility engineer opens the pit cover and looks at the clamp joining the ground wire to the electrode.",
+   "narration": "再看连接：要紧固，不能松动。",
+   "overlay": [
+    "检查三：连接是否牢靠"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "检查三：连接是否牢靠",
+   "scene": "锈蚀严重的接头图标，打红叉",
+   "prompt_en": "An icon of a heavily rusted clamp with a loose wire, crossed out with a red X. No people.",
+   "narration": "不能有严重锈蚀，导线要接对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查四：测试记录",
+   "scene": "王老师翻看空白测试记录",
+   "prompt_en": "The safety administrator checks a blank earth resistance test record in a folder.",
+   "narration": "还要查接地电阻的测试记录。",
+   "overlay": [
+    "检查四：测试记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查四：测试记录",
+   "scene": "老李用空白仪表测试，仪表旁有校准标签",
+   "prompt_en": "The facility engineer measures with a blank test meter that has a calibration sticker.",
+   "narration": "由合格电工，用校准过的仪器测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查四：测试记录",
+   "scene": "眼睛图标打问号，仪表图标打勾",
+   "prompt_en": "An eye icon with a question mark next to a test meter icon with a green check. No people.",
+   "narration": "光看外观，判断不了接地好不好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "检查四：测试记录",
+   "scene": "测试结果和空白标准手册对照",
+   "prompt_en": "A blank test report placed next to a blank standards book with a check mark. No people.",
+   "narration": "结果要按标准和设计要求核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "发现问题怎么办",
+   "scene": "检查中发现接头松动、锈蚀",
+   "prompt_en": "Close-up: a loose, rusted clamp found during the inspection, with a magnifying glass. No people.",
+   "narration": "发现接头松动、锈蚀，怎么办？",
+   "overlay": [
+    "发现问题怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "发现问题怎么办",
+   "scene": "王老师在检查表上记录，打电话",
+   "prompt_en": "The safety administrator writes the defect on the blank checklist and makes a phone call.",
+   "narration": "不忽视，记下来，通知电工整改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "发现问题怎么办",
+   "scene": "老李换上新接头，王老师复查打勾",
+   "prompt_en": "The facility engineer replaces the clamp; the safety administrator rechecks and ticks the checklist.",
+   "narration": "修好后，再复查确认。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "检查人员的职责",
+   "scene": "五个打勾的格子",
+   "prompt_en": "A checklist with five boxes being ticked one by one. No people.",
+   "narration": "检查人员要做到五点：",
+   "overlay": [
+    "检查人员的职责"
+   ],
+   "labels": [
+    "该接地的已接地",
+    "接地状况良好",
+    "记录齐全",
+    "缺陷立即报告",
+    "整改闭环"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "检查人员的职责",
+   "scene": "循环箭头：发现—报告—整改—复查",
+   "prompt_en": "A circular arrow loop with four icons: magnifying glass, telephone, wrench and check mark. No people.",
+   "narration": "整改要闭环，复查后才算完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "重点关注的设备",
+   "scene": "临时配电箱、发电机、电焊机、电动工具图标",
+   "prompt_en": "Icons: a temporary distribution box, a portable generator, a welding machine and a power drill. No people.",
+   "narration": "临时配电箱、发电机、电焊机、电动工具，",
+   "overlay": [
+    "重点关注的设备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "重点关注的设备",
+   "scene": "实验楼配电箱和金属外壳仪器",
+   "prompt_en": "A lab building distribution box and several metal-cased lab instruments like an oven and a centrifuge. No people.",
+   "narration": "实验室里的配电箱和金属外壳仪器，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "重点关注的设备",
+   "scene": "接地符号逐一出现在这些设备旁",
+   "prompt_en": "A ground symbol appears beside each of these devices one by one. No people.",
+   "narration": "都要特别留意接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "检查人员不动手维修",
+   "scene": "老李在警戒线内测试，王老师在线外记录",
+   "prompt_en": "The facility engineer tests equipment inside a marked area while the safety administrator takes notes outside the line.",
+   "narration": "检查人员不亲自维修和测试。",
+   "overlay": [
+    "检查人员不动手维修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "检查人员不动手维修",
+   "scene": "老李手持空白操作证",
+   "prompt_en": "The facility engineer holds up a blank work permit card.",
+   "narration": "交给有资质的电工来做。",
+   "overlay": [],
+   "labels": [
+    "特种作业操作证"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "检查人员不动手维修",
+   "scene": "放大镜、核对、电话、跟进四个图标",
+   "prompt_en": "Four icons: a magnifying glass, a check mark, a telephone and a calendar with an arrow. No people.",
+   "narration": "检查、核实、报告、跟进，才是本职。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "两种接地，一句话区分",
+   "scene": "左框：外壳接地，人旁有盾牌",
+   "prompt_en": "Left box: a motor case connected to ground, a person pictogram nearby protected by a shield. No people.",
+   "narration": "保护接地：连外壳，漏电时防触电。",
+   "overlay": [
+    "两种接地，一句话区分"
+   ],
+   "labels": [
+    "保护接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "两种接地，一句话区分",
+   "scene": "右框：系统中性点接地，故障电流入地，系统稳定",
+   "prompt_en": "Right box: a transformer neutral connected to ground, a fault current flowing safely into the earth and a steady gauge. No people.",
+   "narration": "系统接地：连系统，让故障电流安全入地。",
+   "overlay": [],
+   "labels": [
+    "系统接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "接地绝不能忽视",
+   "scene": "检查表上连接、设备、检查井、记录、整改五项",
+   "prompt_en": "A checklist with five icons: a clamp, an instrument, a pit cover, a record folder and a wrench. No people.",
+   "narration": "不光看检查井，还要看连接、设备和记录。",
+   "overlay": [
+    "接地绝不能忽视"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "接地绝不能忽视",
+   "scene": "小火花图标长成大警示",
+   "prompt_en": "A tiny spark icon growing into a large warning triangle. No people.",
+   "narration": "用电的小疏忽，会变成大事故。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "管道不能当地线",
+   "scene": "地线接到燃气管、暖气管、水管的图标，被红叉划掉",
+   "prompt_en": "Icons of a ground wire clamped to a gas pipe, a radiator pipe and a water pipe, each crossed out with a red X. No people.",
+   "narration": "燃气管、暖气管、水管，不能当地线。",
+   "overlay": [
+    "管道不能当地线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "管道不能当地线",
+   "scene": "燃气管旁出现火花和火焰警示",
+   "prompt_en": "A gas pipe with a small spark and a flame warning triangle. No people.",
+   "narration": "电流走管道，可能引起火灾或触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "管道不能当地线",
+   "scene": "仪器三孔插头插进三孔插座，打绿勾",
+   "prompt_en": "A lab instrument three-pin plug inserted into a properly grounded three-hole socket, green check. No people.",
+   "narration": "接地，要用规范的接地线路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "防雷装置也要定期检测",
+   "scene": "实验楼屋顶的避雷针和引下线",
+   "prompt_en": "A lightning rod on the roof of a lab building with a down conductor running to the ground. No people.",
+   "narration": "楼顶的避雷装置，也靠接地。",
+   "overlay": [
+    "防雷装置也要定期检测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "防雷装置也要定期检测",
+   "scene": "日历图标和检测仪表，空白检测报告",
+   "prompt_en": "A calendar icon, a test meter and a blank inspection report. No people.",
+   "narration": "按规定定期检测，留好报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "防雷装置也要定期检测",
+   "scene": "锈断的引下线，旁边电话图标",
+   "prompt_en": "A rusted broken down conductor on a wall with a telephone icon beside it. No people.",
+   "narration": "发现引下线锈断，及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "仪器接地线不得私拆",
+   "scene": "精密仪器背后接着一根单独的接地线",
+   "prompt_en": "A precision lab instrument with a separate green and yellow ground wire attached to a ground terminal on the wall. No people.",
+   "narration": "有的仪器有专门的接地线。",
+   "overlay": [
+    "仪器接地线不得私拆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "仪器接地线不得私拆",
+   "scene": "学生拧下接地线、掰掉接地脚两个图标，都打叉",
+   "prompt_en": "Two icons each crossed out with a red X: a hand unscrewing a ground wire from an instrument, and a hand breaking off a plug's ground pin. No people.",
+   "narration": "不拆接地线，不掰接地脚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "仪器接地线不得私拆",
+   "scene": "阿杰把插线板换成带三孔的合格插线板",
+   "prompt_en": "The young male student replaces the old two-hole strip with a certified power strip that has three-hole sockets.",
+   "narration": "插不进，就换合格的三孔插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现外壳接地图标",
+   "prompt_en": "The panda mascot stands beside a floating icon of an instrument case connected to ground.",
+   "narration": "保护接地，给故障电流一条安全路。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "管、板、棒三个图标",
+   "prompt_en": "Icons of a pipe electrode, a plate electrode and a rod electrode. No people.",
+   "narration": "管式、板式、棒式，按标准选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "盖板、积水、接头、测试记录四个图标",
+   "prompt_en": "Icons of a pit cover, a water puddle, a clamp and a test record. No people.",
+   "narration": "看外观、看周边、看连接、查记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电话、扳手、勾的循环图标",
+   "prompt_en": "A loop of icons: a telephone, a wrench and a check mark. No people.",
+   "narration": "发现问题报告，电工整改，复查闭环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "管道打叉、避雷针、三孔插头三个图标",
+   "prompt_en": "Icons of a crossed-out pipe, a lightning rod and a three-pin plug. No people.",
+   "narration": "管道不当地线，防雷定期测，接地不私拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拍拍三孔插头，挥手道别",
+   "prompt_en": "The panda mascot pats a three-pin plug in a wall socket and waves goodbye at the camera.",
+   "narration": "接地连着平安，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
