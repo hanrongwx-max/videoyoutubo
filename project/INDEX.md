@@ -21,7 +21,7 @@
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
-| Fire Safety & Extinguisher Training | 9 / 9 | 7 / 9 |
+| Fire Safety & Extinguisher Training | 9 / 9 | 8 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
@@ -348,6 +348,7 @@
 | Fire Safety & Extinguisher Training | 06_OSHA Formaldehyde Training Video - [Standard 1910.1048] | 国内版 | 甲醛的危害与安全使用（国内版） | 122 | 10:10 | 30 / 6 | [剧本](<Fire Safety & Extinguisher Training/06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/06_OSHA Formaldehyde Training Video - [Standard 1910.1048]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 07_Safety Showers and Eye Washes in the Laboratory - [Employee Training] | 原著版 | 紧急淋浴和洗眼器 | 87 | 7:15 | 31 / 0 | [剧本](<Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]/script.md>) |
 | Fire Safety & Extinguisher Training | 07_Safety Showers and Eye Washes in the Laboratory - [Employee Training] | 国内版 | 紧急淋浴和洗眼器（国内版） | 100 | 8:20 | 31 / 5 | [剧本](<Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）/审查报告.md>) |
+| Fire Safety & Extinguisher Training | 08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training] | 原著版 | 压缩气体钢瓶的安全使用 | 99 | 8:15 | 32 / 0 | [剧本](<Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]/script.md>) |
 | Fire Safety & Extinguisher Training | 08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training] | 国内版 | 压缩气体钢瓶的安全使用（国内版） | 115 | 9:35 | 32 / 6 | [剧本](<Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/08_Laboratory Safety for Compressed Gas Cylinders - [Employee Training]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 09_Orientation to Laboratory Safety - [Lab Worker Safety Training] | 国内版 | 实验室安全入门（国内版） | 153 | 12:45 | 45 / 8 | [剧本](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/09_Orientation to Laboratory Safety - [Lab Worker Safety Training]（国内版）/审查报告.md>) |
 | Fume Hood & Cabinet Protocols | 01_Introduction to Chemistry Laboratory Techniques | 原著版 | 走进化学实验室：技术与安全的第一课 | 32 | 2:40 | 8 / 0 | [剧本](<Fume Hood & Cabinet Protocols/01_Introduction to Chemistry Laboratory Techniques/script.md>) |
