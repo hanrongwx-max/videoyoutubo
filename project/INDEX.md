@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 253 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 254 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -9,7 +9,7 @@
 | BIORISK MANAGEMENT | 42 / 47 | 0 / 0 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 0 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 0 |
-| Microbiology Biosafety | 20 / 59 | 0 / 0 |
+| Microbiology Biosafety | 21 / 59 | 0 / 0 |
 | Lab Safety Training Series | 13 / 13 | 0 / 0 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 0 / 0 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 0 / 0 |
@@ -273,6 +273,7 @@
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 单一版 | 微生物实验室的生物安全措施 | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology/审查报告.md>) |
 | Microbiology Biosafety | 29_Significance of lab hazards in terms of personal microbiology laboratory hazard | 单一版 | 实验室危害，伤的是谁 | 63 | 5:15 | 15 / 4 | [剧本](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/script.md>) · [审查](<Microbiology Biosafety/29_Significance of lab hazards in terms of personal microbiology laboratory hazard/审查报告.md>) |
 | Microbiology Biosafety | 34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet | 单一版 | 微生物实验室的消防安全 | 69 | 5:45 | 10 / 5 | [剧本](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/script.md>) · [审查](<Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/审查报告.md>) |
+| Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 单一版 | 生物风险管理是什么 | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora/script.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 单一版 | 一份管用的生物风险管理计划 | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 单一版 | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 单一版 | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
