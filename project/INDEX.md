@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 20 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 21 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -652,6 +652,7 @@
 | Laboratory Ergonomics & RSI | 19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H | 国内版 | 开挖与沟槽安全十五问（国内版） | 59 | 4:55 | 15 / 5 | [剧本](<Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/19_Test Your Safety Knowledge of Excavation Excavation MCQs Test Safety MCQs Test H（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S | 原著版 | 实验室里找答案：综合安全二十问 | 64 | 5:20 | 22 / 0 | [剧本](<Laboratory Ergonomics & RSI/20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S/script.md>) |
 | Laboratory Ergonomics & RSI | 20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S | 国内版 | 实验室里找答案：综合安全二十问（国内版） | 70 | 5:50 | 22 / 4 | [剧本](<Laboratory Ergonomics & RSI/20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/20_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Quiz For S（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD | 原著版 | 进场考核：二十五道判断题 | 66 | 5:30 | 26 / 0 | [剧本](<Laboratory Ergonomics & RSI/21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD/script.md>) |
 | Laboratory Ergonomics & RSI | 21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD | 国内版 | 进场考核：二十五道判断题（国内版） | 77 | 6:25 | 26 / 4 | [剧本](<Laboratory Ergonomics & RSI/21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/21_Test Your Safety Knowledge Safety Quiz Saudi Aramco Safety Officer Test HSE STUD（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 22_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Officer Qu | 国内版 | 安全员模拟面试二十问（国内版） | 68 | 5:40 | 21 / 4 | [剧本](<Laboratory Ergonomics & RSI/22_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Officer Qu（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/22_Test Your Safety Knowledge Safety Quiz Safety Quiz Competition Safety Officer Qu（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q | 国内版 | 作业许可三十问：签发人与接收人（国内版） | 107 | 8:55 | 31 / 5 | [剧本](<Laboratory Ergonomics & RSI/23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/23_Test Your Safety Knowledge Safety Quiz Work Permit Receiver Safety Quiz Safety Q（国内版）/审查报告.md>) |
