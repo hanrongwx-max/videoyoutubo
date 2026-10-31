@@ -23,7 +23,7 @@
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 9 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 9 / 9 |
-| Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 | 9 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -426,6 +426,7 @@
 | Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 国内版 | 高压阀门与接头的安全使用（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications | 原著版 | 二氧化碳与干冰的安全使用 | 25 | 2:05 | 7 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications | 国内版 | 二氧化碳与干冰的安全使用（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA | 原著版 | 气瓶阀的安全使用 | 24 | 2:00 | 6 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA | 国内版 | 气瓶阀的安全使用（国内版） | 39 | 3:15 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/09_EquiTips Sherwood Valves Gas Cylinder Valves Made in the USA（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 01_Laboratory Safety Protecting Lives with Emergency Response Preparedness | 原著版 | 应急准备：有备才能无患 | 33 | 2:45 | 10 / 0 | [剧本](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness/script.md>) |
 | Lab Safety Training - Essential Protocols | 01_Laboratory Safety Protecting Lives with Emergency Response Preparedness | 国内版 | 应急准备：有备才能无患（国内版） | 45 | 3:45 | 10 / 3 | [剧本](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/01_Laboratory Safety Protecting Lives with Emergency Response Preparedness（国内版）/审查报告.md>) |
