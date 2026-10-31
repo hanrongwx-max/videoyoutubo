@@ -8,7 +8,7 @@
 |---|---|---|
 | BIORISK MANAGEMENT | 46 / 47 | 0 / 42 |
 | Microbiology Biosafety | 43 / 59 | 0 / 25 |
-| CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 1 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 0 / 12 |
@@ -20,9 +20,9 @@
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
 | General Lab Safety Practices | 8 / 8 | 6 / 8 |
-| Laser Equipment & Safety Training | 8 / 8 | 5 / 8 |
+| Laser Equipment & Safety Training | 8 / 8 | 6 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 3 / 8 |
-| ACS College Lab Safety Series | 7 / 7 | 3 / 7 |
+| ACS College Lab Safety Series | 7 / 7 | 4 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 3 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 4 / 7 |
 | Electrical Safety Series | 6 / 25 | 3 / 6 |
@@ -44,6 +44,7 @@
 | ACS College Lab Safety Series | 02_Chemical Safety Information Resources ACS College Safety Video 2 | 国内版 | 读懂化学品安全信息（国内版） | 94 | 7:50 | 20 / 6 | [剧本](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/02_Chemical Safety Information Resources ACS College Safety Video 2（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 | 原著版 | 化学实验室的风险评估 | 66 | 5:30 | 17 / 0 | [剧本](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3/script.md>) |
 | ACS College Lab Safety Series | 03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3 | 国内版 | 化学实验室的风险评估（国内版） | 81 | 6:45 | 17 / 6 | [剧本](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/03_Assessing Risks in the Chemistry Laboratory ACS College Safety Video 3（国内版）/审查报告.md>) |
+| ACS College Lab Safety Series | 04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4 | 原著版 | 化学实验室怎样降低风险 | 81 | 6:45 | 21 / 0 | [剧本](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4/script.md>) |
 | ACS College Lab Safety Series | 04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4 | 国内版 | 化学实验室怎样降低风险（国内版） | 94 | 7:50 | 21 / 6 | [剧本](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/04_Minimizing Risks in the Chemistry Laboratory ACS College Safety Video 4（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video | 国内版 | 降低风险：化学实验的操作技巧（国内版） | 116 | 9:40 | 29 / 7 | [剧本](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/05_Minimizing Risks in the Chemistry Laboratory Techniques ACS College Safety Video（国内版）/审查报告.md>) |
 | ACS College Lab Safety Series | 06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6 | 国内版 | 化学实验室的应急处置（国内版） | 112 | 9:20 | 29 / 7 | [剧本](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/script.md>) · [审查](<ACS College Lab Safety Series/06_Emergencies in the Chemistry Laboratory ACS College Safety Video 6（国内版）/审查报告.md>) |
@@ -128,6 +129,7 @@
 | BIORISK MANAGEMENT | 44_THE BIOSAFETY OFFICER | 国内版 | 生物安全员：职责与担当（国内版） | 145 | 12:05 | 44 / 4 | [剧本](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/44_THE BIOSAFETY OFFICER（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT | 国内版 | 安全做得好不好，怎么评（国内版） | 112 | 9:20 | 33 / 4 | [剧本](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/45_BIORISK MANAGEMENT PERFORMANCE ASSESSMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA | 单一版 | 蚊虫传的病，怎么防 | 119 | 9:55 | 37 / 4 | [剧本](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/script.md>) · [审查](<BIORISK MANAGEMENT/46_VECTOR-BORNE DISEASES MALARIA, DENGUE % CHIKUNGUNYA/审查报告.md>) |
+| CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 原著版 | 走进实验室安全 | 32 | 2:40 | 9 / 0 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 国内版 | 走进实验室安全（国内版） | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario | 国内版 | 新实验室的危害在哪里（国内版） | 29 | 2:25 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/02_Fundamentals of Laboratory Safety Laboratory Hazards Scenario（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 03_Fundamentals of Laboratory Safety Safety Resources Scenario | 国内版 | 安全问题找谁问（国内版） | 28 | 2:20 | 4 / 5 | [剧本](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/03_Fundamentals of Laboratory Safety Safety Resources Scenario（国内版）/审查报告.md>) |
@@ -280,6 +282,7 @@
 | Laser Equipment & Safety Training | 04_Laser Cutter 4 xTool Studio | 国内版 | 激光设计软件入门与加工前检查（国内版） | 53 | 4:25 | 15 / 5 | [剧本](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/04_Laser Cutter 4 xTool Studio（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 05_Laser Cutter 5 xTool Studio Design Set Up | 原著版 | 激光切割机：加工参数设置 | 61 | 5:05 | 16 / 0 | [剧本](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up/script.md>) |
 | Laser Equipment & Safety Training | 05_Laser Cutter 5 xTool Studio Design Set Up | 国内版 | 激光切割机：加工参数设置（国内版） | 78 | 6:30 | 16 / 5 | [剧本](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/05_Laser Cutter 5 xTool Studio Design Set Up（国内版）/审查报告.md>) |
+| Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 原著版 | 激光切割机：徽章项目上机全流程 | 58 | 4:50 | 18 / 0 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project/script.md>) |
 | Laser Equipment & Safety Training | 06_Laser Cutter 6 Badge Project | 国内版 | 激光切割机：徽章项目上机全流程（国内版） | 76 | 6:20 | 18 / 4 | [剧本](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/06_Laser Cutter 6 Badge Project（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 国内版 | 激光切割机：考核、授权与预约（国内版） | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up（国内版）/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 国内版 | 激光切割机：规程更新须知（国内版） | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates（国内版）/审查报告.md>) |
