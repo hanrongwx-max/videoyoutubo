@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 360 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 361 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -27,8 +27,8 @@
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
+| Cleanroom & Equipment Safety | 7 / 33 | 0 / 1 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| Cleanroom & Equipment Safety | 6 / 33 | 0 / 1 |
 | MIT Digital Lab Techniques Manual | 2 / 17 | 1 / 2 |
 | Laboratory Ergonomics & RSI | 1 / 36 | 0 / 1 |
 
@@ -261,7 +261,8 @@
 | Cleanroom & Equipment Safety | 03_Lesson 1 How to Unbox and Test the MetalFab | 单一版 | 激光焊机与切割机：开箱、组装与调试 | 136 | 11:20 | 31 / 11 | [剧本](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab/script.md>) · [审查](<Cleanroom & Equipment Safety/03_Lesson 1 How to Unbox and Test the MetalFab/审查报告.md>) |
 | Cleanroom & Equipment Safety | 04_Lesson 7 How to Extend the Lifespan of MetalFab | 单一版 | 激光焊机与切割机的维护保养 | 71 | 5:55 | 17 / 7 | [剧本](<Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab/script.md>) · [审查](<Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab/审查报告.md>) |
 | Cleanroom & Equipment Safety | 05_Lesson 3 How to Produce High-Quality Weld Beads | 单一版 | 手持激光焊接：焊出好焊缝 | 85 | 7:05 | 25 / 8 | [剧本](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads/script.md>) · [审查](<Cleanroom & Equipment Safety/05_Lesson 3 How to Produce High-Quality Weld Beads/审查报告.md>) |
-| Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 单一版 | 激光焊机安全继电器的更换 | 54 | 4:30 | 11 / 6 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder/script.md>) |
+| Cleanroom & Equipment Safety | 06_Replace the Safety Relay for xTool MetalFab Laser Welder | 单一版 | 激光焊机安全继电器的更换 | 54 | 4:30 | 11 / 6 | [剧本](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder/script.md>) · [审查](<Cleanroom & Equipment Safety/06_Replace the Safety Relay for xTool MetalFab Laser Welder/审查报告.md>) |
+| Cleanroom & Equipment Safety | 07_Lesson 10 How to Fix Incomplete Handheld Cutting | 单一版 | 手持激光切割切不透怎么办 | 59 | 4:55 | 16 / 7 | [剧本](<Cleanroom & Equipment Safety/07_Lesson 10 How to Fix Incomplete Handheld Cutting/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 原著版 | 认识电：触电伤害与基本防护 | 75 | 6:15 | 28 / 0 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti/script.md>) |
 | Electrical Safety Series | 01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti | 国内版 | 认识电：触电伤害与基本防护（国内版） | 100 | 8:20 | 28 / 6 | [剧本](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/script.md>) · [审查](<Electrical Safety Series/01_Electrical Safety in hindi Electrical injuries Shock Severity Hazards & Protecti（国内版）/审查报告.md>) |
 | Electrical Safety Series | 02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in | 原著版 | 漏电保护器：两种型式与正确使用 | 44 | 3:40 | 14 / 0 | [剧本](<Electrical Safety Series/02_Difference Between ELCB and RCCB in hindi How to work ELCB RCCB full details in/script.md>) |
