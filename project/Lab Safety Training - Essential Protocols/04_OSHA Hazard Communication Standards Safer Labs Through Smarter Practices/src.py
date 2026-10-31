@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一个贴有危险象形图标签的试剂瓶",
  "The panda mascot holds up a closed reagent bottle with a blank label showing hazard pictograms in red diamonds.",
- "这一课讲美国的危害告知标准。", "化学品危害告知：一书一签"),
+ "这一课讲美国的危害告知标准。", "危害告知标准：更聪明的做法，更安全的实验室"),
 ("开场", "一本空白说明书和一张空白标签并排",
  "A blank safety data sheet booklet and a blank chemical label with red diamond pictograms side by side. No people.",
  "核心就是标签和安全技术说明书。", "", ["标签", "说明书"]),

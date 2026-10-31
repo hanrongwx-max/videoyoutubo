@@ -44,7 +44,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室中央，身后是通风柜和水槽",
  "The panda mascot stands in the middle of a lab with a fume hood and a sink behind it, and waves at the camera.",
- "这一课，学在实验室里好好保护自己。", "实验室生存指南：穿戴、操作与应急"),
+ "这一课，学在实验室里好好保护自己。", "实验技术与安全"),
 ("开场", "护目镜、扎起的头发、通风柜、废液桶、喷淋头五个图标",
  "Five icons in a row: safety goggles, tied-up hair, a fume hood, a waste container and an emergency shower head. No people.",
  "穿什么、怎么做、出了事怎么办。"),

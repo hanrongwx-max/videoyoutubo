@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在三相实验台前，台上两块功率表和一台小电动机",
  "The panda mascot stands at a three-phase lab bench with two wattmeters with blank dials and a small motor, waving at the camera.",
- "大家好！今天复习二瓦特表法。", "二瓦特表法：三相功率口试问答"),
+ "大家好！今天复习二瓦特表法。", "二瓦特表法口试问答"),
 ("开场", "两块功率表、三相线、电动机三个图标",
  "Three icons in a row: two wattmeters, three supply lines, and an induction motor. No people.",
  "两块表，测出三相总功率。", "", ["两块表", "三相", "功率"]),

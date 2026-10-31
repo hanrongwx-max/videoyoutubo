@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着两个空白模块，中间写着对比符号",
  "The panda mascot stands in front of a whiteboard showing two blank breaker modules with a versus symbol between them.",
- "这一课比较两种漏电断路器。", "漏电保护器：两种型式与正确使用", ["ELCB", "RCCB"]),
+ "这一课比较两种漏电断路器。", "ELCB与RCCB的区别及工作原理", ["ELCB", "RCCB"]),
 ("开场", "齿轮和天平两个图标",
  "Two icons in a row: a gear and a pair of balance scales. No people.",
  "它们怎么工作，又有什么区别。", "", ["原理", "区别"]),

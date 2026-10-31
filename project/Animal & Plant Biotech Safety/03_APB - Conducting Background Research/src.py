@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在图书馆书桌前，向镜头招手",
  "The panda mascot sits at a library desk with stacks of closed books and waves at the camera.",
- "这一课讲背景调研和研究论文写作。", "做好背景调研，写好研究论文"),
+ "这一课讲背景调研和研究论文写作。", "开展背景研究"),
 ("开场", "放大镜、书本、笔、对勾四个图标排成一行",
  "Four icons in a row: a magnifying glass, a stack of books, a pen and a green check mark. No people.",
  "找得准、读得透、写得清、引得对。", "", ["找资料", "读文献", "写论文", "规范引用"]),

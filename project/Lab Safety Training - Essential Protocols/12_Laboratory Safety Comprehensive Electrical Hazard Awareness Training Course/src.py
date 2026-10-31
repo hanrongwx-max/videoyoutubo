@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有几台仪器和插线板",
  "The panda mascot stands beside a lab bench with several instruments and a power strip, waving at the camera.",
- "这一课讲：认清电气危害。", "电气危害：认得清，躲得开"),
+ "这一课讲：认清电气危害。", "实验室安全：电气危害意识综合培训"),
 ("开场", "闪电警示、培训、标准文本三个图标",
  "Three icons in a row: a lightning warning sign, a training class and a stack of blank standard booklets. No people.",
  "危害有多重，培训防什么，标准怎么定。", "", ["危害", "培训", "标准"]),

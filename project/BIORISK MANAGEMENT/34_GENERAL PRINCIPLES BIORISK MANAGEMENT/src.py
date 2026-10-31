@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个大大的生物危害标志旁",
  "The panda mascot stands next to a large biohazard warning sign.",
- "今天讲风险分组和防护水平。", "风险分组与防护水平"),
+ "今天讲风险分组和防护水平。", "生物风险管理的一般原则"),
 ("开场", "四个彩色台阶和四扇门并排出现",
  "Four coloured steps appear beside four doors of increasing thickness. No people.",
  "病原有几组？实验室又分几级？"),

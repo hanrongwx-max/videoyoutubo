@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在通风柜旁，柜里放着两只空白标签的试剂瓶",
  "The panda mascot stands beside a chemical fume hood with two reagent bottles with blank labels inside, and waves at the camera.",
- "这一课讲甲醛和戊二醛的安全使用。", "甲醛和戊二醛的安全使用"),
+ "这一课讲甲醛和戊二醛的安全使用。", "甲醛与戊二醛安全操作基础：导论"),
 ("开场", "鼻子、肺、盾牌、通风柜四个图标排成一行",
  "Four icons in a row: a nose, a pair of lungs, a shield, and a fume hood. No people.",
  "认清危害，做好防护，规范处置。", "", ["认危害", "做防护", "会处置"]),

@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在工地办公室外墙边，墙角有一个带盖的接地检查井",
  "The panda mascot stands by the outer wall of a site office next to a small covered ground inspection pit and waves at the camera.",
- "这一课讲接地，一条看不见的保护线。", "接地：看不见的保护线"),
+ "这一课讲接地，一条看不见的保护线。", "接地详解：接地井检查与安全员职责"),
 ("开场", "仪器外壳、绿黄线、大地三个图标连成一条线",
  "Three icons linked in a line: an instrument case, a green and yellow wire, and the ground. No people.",
  "它把设备和大地连在一起。"),

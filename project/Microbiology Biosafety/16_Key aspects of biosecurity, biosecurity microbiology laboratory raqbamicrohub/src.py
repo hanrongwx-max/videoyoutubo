@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼前，身边浮现六块拼图",
  "The panda mascot stands in front of a lab building with six puzzle pieces floating around it, each with a simple icon.",
- "欢迎回到生物安全课。", "生物安保的六个关键方面"),
+ "欢迎回到生物安全课。", "生物安保的关键方面"),
 ("开场", "六块拼图拼成一面盾牌",
  "The six puzzle pieces snap together to form a shield. No people.",
  "今天讲生物安保的六个关键方面。"),

@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在厂房走廊的配电箱旁，向镜头招手",
  "The panda mascot stands beside a closed electrical distribution box in a factory corridor and waves at the camera.",
- "这一课，把用电安全讲个明白。", "用电安全全知道"),
+ "这一课，把用电安全讲个明白。", "用电安全全解：电气伤害、危害与防护"),
 ("开场", "闪电、人体、盾牌、断路器四个图标排成一行",
  "Four icons in a row: a lightning bolt, a human body outline, a shield and a breaker module. No people.",
  "电的常识、伤害、防护，ELCB和RCCB。", "", ["常识", "伤害", "防护", "ELCB/RCCB"]),

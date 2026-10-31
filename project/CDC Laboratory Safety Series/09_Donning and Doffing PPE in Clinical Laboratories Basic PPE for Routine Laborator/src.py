@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着白色实验服、戴着安全眼镜，向镜头招手",
  "The panda mascot wears a white lab coat and wraparound safety glasses and waves at the camera.",
- "这一课讲基本防护装备的穿与脱。", "基本防护装备的穿与脱"),
+ "这一课讲基本防护装备的穿与脱。", "临床实验室防护装备穿脱：常规操作的基本防护"),
 ("开场", "实验服、手套、安全眼镜三个图标排成一行",
  "Three icons in a row: a white lab coat, a pair of blue gloves and wraparound safety glasses. No people.",
  "适用于常规的实验室操作。", "", ["实验服", "手套", "安全眼镜"]),

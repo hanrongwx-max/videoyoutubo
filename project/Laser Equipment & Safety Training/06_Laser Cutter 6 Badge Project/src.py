@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在桌面式激光切割机旁，手里举着一枚木质刻度尺徽章",
  "The panda mascot stands beside a closed desktop laser cutter holding up a small wooden ruler-shaped badge and waves at the camera.",
- "这一课，从头到尾做一枚徽章。", "激光切割机：徽章项目上机全流程"),
+ "这一课，从头到尾做一枚徽章。", "激光切割机6：徽章项目"),
 ("开场", "放料、设计、测距、看守、取件五个图标排成一行",
  "Five icons in a row: a wooden sheet, a design outline, a measuring arrow, an eye and a hand lifting a small piece. No people.",
  "放料、设计、测距、看守、取件。", "", ["放料", "设计", "测距", "看守", "取件"]),

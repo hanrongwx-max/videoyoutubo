@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽，手里拿着一条彩色吊带招手",
  "The panda mascot in a hard hat holds a colorful flat lifting sling and waves at the camera.",
- "今天两道面试题：吊带颜色和载荷。", "安全知识问答：吊装带与重物搬运"),
+ "今天两道面试题：吊带颜色和载荷。", "扁平吊带的颜色代码与安全工作载荷"),
 # 情景
 ("情景", "阿杰站在仓库里，面前挂着一排不同颜色的吊带",
  "The young male student stands in a warehouse in front of a rack of flat slings in many colors.",

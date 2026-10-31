@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着闪电图标，向镜头招手",
  "The panda mascot stands in front of a whiteboard with a lightning bolt drawing, waving at the camera.",
- "这一课讲电气区域分类。", "电压等级与爆炸危险区域"),
+ "这一课讲电气区域分类。", "电气区域分类：高压、中压与低压"),
 ("开场", "三个大小不同的闪电图标排成一行",
  "Three lightning bolt icons in a row, large, medium and small. No people.",
  "一共分三类，很好记。", "", ["HV", "MV", "LV"]),

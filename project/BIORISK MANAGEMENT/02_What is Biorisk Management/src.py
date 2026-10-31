@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼前，身旁浮现三个台阶图标",
  "The panda mascot stands in front of a laboratory building with three floating step icons beside it and waves at the camera.",
- "生物风险怎么管？今天讲三步。", "三步管好生物风险"),
+ "生物风险怎么管？今天讲三步。", "什么是生物风险管理？"),
 ("开场", "欣欣举起一块画着微生物的空白卡片",
  "The panda mascot holds up a blank card with a cartoon microbe icon on it.",
  "这是生物风险管理的入门一课。"),

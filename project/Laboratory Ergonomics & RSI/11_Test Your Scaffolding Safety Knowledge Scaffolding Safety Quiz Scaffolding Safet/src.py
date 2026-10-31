@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽站在脚手架前，向镜头招手",
  "The panda mascot wearing a safety helmet stands in front of a scaffold and waves at the camera.",
- "今天用十道题，学学脚手架安全。", "脚手架安全十问"),
+ "今天用十道题，学学脚手架安全。", "脚手架安全知识自测"),
 ("开场", "一行图标：脚手架、踏板、护栏、安全带",
  "A row of simple icons: a scaffold, a plank, a guardrail and a safety harness. No people.",
  "踏板、护栏、坠落防护，一个都不能少。", "", ["踏板", "护栏", "坠落防护"]),

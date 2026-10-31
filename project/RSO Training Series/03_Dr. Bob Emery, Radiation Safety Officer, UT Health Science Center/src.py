@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排贴着电离辐射标志的废物桶前，向镜头招手",
  "The panda mascot stands in front of a row of closed waste drums with ionizing radiation warning signs and waves at the camera.",
- "这一课，我们聊聊放射性废物。", "放射性废物：从实验台到安全处置"),
+ "这一课，我们聊聊放射性废物。", "辐射安全官谈放射性废物处置"),
 ("开场", "试管、手套、废物桶、仓库四个图标用箭头连成一条线",
  "Four icons linked by arrows: a test tube, a glove, a waste drum and a storage building. No people.",
  "它从哪来，又要到哪里去。", "", ["使用", "收集", "封装", "处置"]),

@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在装好减压器的气瓶旁，双表朝向镜头",
  "The panda mascot stands beside a gas cylinder standing upright, fitted with a two-gauge pressure regulator, and waves at the camera.",
- "这一课讲开瓶阀和调节输出压力。", "开瓶阀与调压力"),
+ "这一课讲开瓶阀和调节输出压力。", "压缩气瓶安全操作基础：设定减压器压力"),
 ("开场", "两只压力表图标，一只标进口、一只标出口",
  "Two round pressure gauge icons side by side with blank dials, connected by a short pipe. No people.",
  "一只表看瓶里，一只表看输出。", "", ["进口压力表", "输出压力表"]),

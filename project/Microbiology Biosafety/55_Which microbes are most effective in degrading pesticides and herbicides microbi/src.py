@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在农田和污水池的背景板前，手里拿着放大镜",
  "The panda mascot stands in front of a backdrop of farm fields and a wastewater pond, holding a magnifying glass, and waves at the camera.",
- "有些微生物，专吃人类留下的毒物。", "吃农药、吸重金属的微生物"),
+ "有些微生物，专吃人类留下的毒物。", "哪些微生物最能降解农药和除草剂？"),
 ("开场", "欣欣身旁浮现两个图标：农药喷雾瓶、工厂排水管",
  "The panda mascot points to two floating icons: a spray bottle with a skull pictogram and a factory drain pipe.",
  "今天两道题：农药和重金属。", "", ["农药", "重金属"]),

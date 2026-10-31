@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在两个灭火器之间，一红一黄，向镜头招手",
  "The panda mascot stands between a red extinguisher and a yellow extinguisher and waves at the camera.",
- "激光设备旁，该用哪种灭火器？", "激光设备旁，选对灭火器"),
+ "激光设备旁，该用哪种灭火器？", "激光系统该配二氧化碳还是D类灭火器？"),
 ("开场", "二氧化碳灭火器和D类灭火器两个图标，中间一个问号",
  "Two icons, a carbon dioxide extinguisher and a metal fire extinguisher, with a question mark between them. No people.",
  "二氧化碳，还是D类？", "", ["二氧化碳", "D类"]),

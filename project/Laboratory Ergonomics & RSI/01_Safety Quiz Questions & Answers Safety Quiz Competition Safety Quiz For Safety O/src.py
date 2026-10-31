@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在问答台后，台上有抢答铃，向镜头招手",
  "The panda mascot stands behind a quiz podium with a buzzer on it and waves at the camera.",
- "安全日到了，我们来办知识竞赛！", "安全日知识竞赛：二十道综合安全题"),
+ "安全日到了，我们来办知识竞赛！", "安全竞赛问答：职业健康、环境与消防"),
 ("开场", "一排图标：汽车、警铃、心形、火焰、电插头、垃圾桶、化学品瓶",
  "A row of simple icons: a car, an alarm bell, a heart, a flame, a power plug, a waste bin and a chemical bottle. No people.",
  "交通、疏散、急救、消防、环保，样样都有。", "", ["交通", "疏散", "急救", "消防", "环保"]),

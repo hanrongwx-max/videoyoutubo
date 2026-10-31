@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电脑屏幕旁，屏幕上是空白的课程页面",
  "The panda mascot stands beside a computer screen showing a blank online course page and waves at the camera.",
- "这一课，带你走进生物风险管理。", "走进生物风险管理"),
+ "这一课，带你走进生物风险管理。", "生物风险管理导论"),
 # 情景
 ("情景", "阿杰在宿舍用笔记本电脑浏览，屏幕上一个空白招生横幅",
  "The young male student browses on a laptop in a dorm; the screen shows a blank course banner with a microbe pictogram.",

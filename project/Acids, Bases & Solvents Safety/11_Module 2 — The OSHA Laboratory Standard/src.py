@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一本空白安全手册，向镜头招手",
  "The panda mascot holds a thick blank safety manual and waves at the camera in a tidy lab.",
- "这一课讲美国的实验室安全标准。", "实验室安全制度：写在纸上，做在手上"),
+ "这一课讲美国的实验室安全标准。", "第2单元：实验室安全法规标准"),
 ("开场", "适用范围、计划、限值、培训四个图标排成一行",
  "Four icons in a row: a boundary circle, a blank plan binder, a gauge with a red line and a training board. No people.",
  "适用范围、卫生计划、雇主义务。", "", ["适用范围", "化学卫生计划", "雇主义务"]),

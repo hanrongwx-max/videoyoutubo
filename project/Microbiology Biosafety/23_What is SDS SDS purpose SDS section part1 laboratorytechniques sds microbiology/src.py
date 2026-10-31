@@ -51,7 +51,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在试剂柜前，手里举着一本空白封面的小册子，向镜头招手",
  "The panda mascot stands in front of a chemical cabinet, holding up a booklet with a blank cover and waving at the camera.",
- "每瓶化学品，都有一本说明书。", "化学品的说明书：SDS 是什么（上）"),
+ "每瓶化学品，都有一本说明书。", "什么是SDS：用途与组成（上）"),
 ("开场", "小册子翻开，内页分成整齐的十六格，格内空白",
  "Close-up: the booklet opens to pages divided into sixteen neat blank boxes. No people.",
  "今天我们学会读懂它。", None, ["安全技术说明书"]),

@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在三个相连的彩色圆圈前",
  "The panda mascot stands in front of three connected coloured circles.",
- "这一课，学用AMP三步管风险。", "AMP三步管风险"),
+ "这一课，学用AMP三步管风险。", "生物风险管理：AMP模型"),
 ("开场", "三个圆圈循环转动，中间一个盾牌",
  "Three circles rotate in a loop around a shield icon. No people.",
  "评估、减缓、绩效，一圈一圈转。"),

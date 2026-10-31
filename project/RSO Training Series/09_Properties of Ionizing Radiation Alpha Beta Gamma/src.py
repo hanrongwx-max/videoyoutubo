@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验桌旁，桌上有探测器和三块屏蔽片，向镜头招手",
  "The panda mascot stands beside a lab bench with a detector and three shielding plates, waving at the camera.",
- "这一课，我们来比一比三种射线。", "α、β、γ：三种射线的性质"),
+ "这一课，我们来比一比三种射线。", "电离辐射的性质：α、β、γ"),
 ("开场", "α、β、γ三个符号卡片排成一行",
  "Three blank cards in a row with simple particle and wave icons. No people.",
  "看它们电离能力和穿透能力有啥不同。", "", ["α", "β", "γ"]),

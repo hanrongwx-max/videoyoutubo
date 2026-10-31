@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身后是一排实验台",
  "The panda mascot stands at a lab doorway with rows of lab benches behind it and waves at the camera.",
- "这一课认识实验室里的五类危险源。", "实验室里的五类危险源与个人防护"),
+ "这一课认识实验室里的五类危险源。", "实验室里的安全"),
 ("开场", "试剂瓶、插座、水龙头、气瓶、加热炉五个图标排成一行",
  "Five icons in a row: a reagent bottle, a wall socket, a water tap, a gas cylinder and a furnace. No people.",
  "再学会穿戴防护，管好气瓶。", "", ["化学品", "电", "水", "气瓶", "热源"]),

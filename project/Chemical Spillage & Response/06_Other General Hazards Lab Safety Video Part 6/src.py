@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室里，张开双手对镜",
  "The panda mascot stands in the lab and opens both arms toward the camera.",
- "安全系列最后一课：其他常见危害。", "实验室的其他常见危害"),
+ "安全系列最后一课：其他常见危害。", "实验室安全（六）：其他常见危害"),
 ("开场", "电插头、热表面、雪花、滑倒小人、气瓶五个图标",
  "Five icons in a row: an electric plug with a lightning bolt, a hot surface, a snowflake, a slipping person pictogram and a gas cylinder. No people.",
  "触电、烫伤、冻伤、摔跤和气瓶。", "", ["触电", "烫伤", "冻伤", "摔跤", "气瓶"]),

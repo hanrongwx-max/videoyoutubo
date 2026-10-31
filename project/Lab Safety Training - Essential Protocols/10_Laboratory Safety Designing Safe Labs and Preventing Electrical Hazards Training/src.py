@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在新装修的实验室里，墙上有整齐的插座和配电箱",
  "The panda mascot stands in a newly built lab with neat wall outlets and a closed electrical panel, waving at the camera.",
- "这一课讲：从设计开始防电气危害。", "从设计开始防电气危害"),
+ "这一课讲：从设计开始防电气危害。", "实验室安全：安全设计与电气危害预防"),
 ("开场", "图纸、插座、断路器、挂锁、绝缘手套五个图标",
  "Five icons in a row: a blueprint, a wall outlet, a circuit breaker, a padlock and an insulating glove. No people.",
  "布局、保护、安装、上锁、防护。", "", ["布局", "保护", "安装", "上锁", "防护"]),

@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在四级台阶前，手里拿着一叠空白培训证书",
  "The panda mascot stands in front of a four-step staircase holding a stack of blank training certificates and waves at the camera.",
- "今天讲：在不同级别实验室，要学什么。", "一级到四级：各级实验室要学什么"),
+ "今天讲：在不同级别实验室，要学什么。", "各生物安全等级需要哪些培训？"),
 ("开场", "四本颜色不同的空白培训手册排成一行",
  "Four blank training manuals in a row, colored green, yellow, orange and blue. No people.",
  "级别越高，要学的越多、越深。", "", ["一级", "二级", "三级", "四级"]),

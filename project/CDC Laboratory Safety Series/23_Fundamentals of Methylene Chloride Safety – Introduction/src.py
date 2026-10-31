@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在通风柜旁，柜里有一瓶空白标签的溶剂",
  "The panda mascot stands beside a chemical fume hood with a brown solvent bottle with a blank label inside, and waves at the camera.",
- "这一课讲二氯甲烷的安全使用。", "二氯甲烷的安全使用"),
+ "这一课讲二氯甲烷的安全使用。", "二氯甲烷安全基础：导论"),
 ("开场", "溶剂瓶旁浮现健康危害和感叹号象形图",
  "A solvent bottle with a blank label next to a health hazard pictogram and an exclamation mark pictogram. No people.",
  "先说说，它为什么值得专门学。"),

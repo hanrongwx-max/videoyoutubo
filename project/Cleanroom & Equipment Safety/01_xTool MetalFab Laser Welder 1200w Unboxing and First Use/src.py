@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实训车间里，身旁是一台带轮子的手持激光焊机，向镜头招手",
  "The panda mascot stands in a bright university workshop beside a wheeled handheld laser welder unit with a coiled cable and waves at the camera.",
- "这一课：手持激光焊机从开箱到上手。", "手持激光焊机：开箱安装与首次使用"),
+ "这一课：手持激光焊机从开箱到上手。", "1200瓦手持激光焊机：开箱与首次使用"),
 ("开场", "纸箱、插头、焊枪、扳手四个图标排成一行",
  "Four icons in a row: a cardboard box, a power plug, a handheld welding gun and a wrench. No people.",
  "开箱、安装、首次使用、日常维护。", "", ["开箱", "安装", "首次使用", "维护"]),

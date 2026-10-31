@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白作业许可证，向镜头招手",
  "The panda mascot holds up a blank work permit form and waves at the camera.",
- "作业许可十问，听完选项马上揭晓答案。", "作业许可十问：何时办、谁检查、何时停"),
+ "作业许可十问，听完选项马上揭晓答案。", "作业许可制度安全测验"),
 ("开场", "一行图标：许可证、焊枪、监火人、泵区",
  "A row of icons: a permit form, a welding torch, a fire watch person and a pump area. No people.",
  "何时办、谁检查、何时停，都在题里。", "", ["何时办", "谁检查", "何时停"]),

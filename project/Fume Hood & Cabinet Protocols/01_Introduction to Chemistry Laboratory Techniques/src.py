@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着实验服站在化学实验室里招手",
  "The panda mascot, wearing a lab coat, stands in a chemistry teaching lab and waves at the camera.",
- "欢迎来到化学实验技术课！", "走进化学实验室：技术与安全的第一课"),
+ "欢迎来到化学实验技术课！", "化学实验室技术入门"),
 ("开场", "烧杯、分液漏斗、冷凝管、色谱柱四个图标排成一行",
  "Four icons in a row: a beaker, a separatory funnel, a condenser and a chromatography column. No people.",
  "这一集先说说这套课讲什么。", "", ["实验技术"]),

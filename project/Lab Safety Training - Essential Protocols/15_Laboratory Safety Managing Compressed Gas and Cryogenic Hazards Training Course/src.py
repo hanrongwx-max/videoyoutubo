@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在货架旁，架上排着橙、蓝、黄色气瓶，向镜头招手",
  "The panda mascot stands beside a shelf of orange, blue and yellow gas cylinders and waves at the camera.",
- "这一课，认识压缩气体的危害。", "认识压缩气体的危害"),
+ "这一课，认识压缩气体的危害。", "实验室安全：管理压缩气体的危害"),
 # 情景
 ("情景", "阿杰站在一排颜色不同的气瓶前发愣",
  "The young male student stands puzzled in front of a row of gas cylinders of different colors with blank labels.",

@@ -43,7 +43,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室试剂柜前，手里拿着一本空白说明书，向镜头招手",
  "The panda mascot stands in front of a chemical reagent cabinet holding a thick blank booklet and waves at the camera.",
- "欢迎回来，继续读安全技术说明书。", "读懂安全技术说明书（下）：第8到15部分"),
+ "欢迎回来，继续读安全技术说明书。", "SDS各部分详解（下）"),
 ("开场", "欣欣翻开空白说明书，书页上有编号8到15的空白书签",
  "The panda mascot opens the blank booklet; colored blank tabs stick out from the pages.",
  "这一集讲第八到第十五部分。", "", ["第8–15部分"]),

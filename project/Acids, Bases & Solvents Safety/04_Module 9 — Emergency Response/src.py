@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在洗眼器和灭火器旁，向镜头招手",
  "The panda mascot stands beside an eyewash station and a fire extinguisher on the wall and waves at the camera.",
- "这一课讲实验室出事时怎么应对。", "实验室应急响应"),
+ "这一课讲实验室出事时怎么应对。", "第9单元：应急响应"),
 ("开场", "实验台、楼房、人体三个图标，中间有升级箭头",
  "Three icons linked by escalating arrows: a lab bench, a building and a human figure. No people.",
  "从台面，到楼里，到身上。", "", ["溢洒", "火灾疏散", "人员暴露", "报告调查"]),

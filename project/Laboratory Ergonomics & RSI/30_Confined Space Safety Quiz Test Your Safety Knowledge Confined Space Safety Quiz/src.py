@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个打开的井口旁，向镜头招手",
  "The panda mascot stands next to an open manhole and waves at the camera.",
- "受限空间小测验，来试一试！", "有限空间小测验"),
+ "受限空间小测验，来试一试！", "受限空间安全测验"),
 # 情景
 ("情景", "厂区一个地下水池的检修口",
  "The access hatch of an underground water tank at a plant. No people.",

@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一个放大镜，对着一颗发光的小原子核图标",
  "The panda mascot holds a big magnifying glass up to a small glowing atomic nucleus icon, smiling at the camera.",
- "这一课，我们学怎样挑一颗好核素。", "挑一颗好核素：有效半衰期的秘密"),
+ "这一课，我们学怎样挑一颗好核素。", "医学成像用放射性核素的性质：有效半衰期"),
 ("开场", "沙漏、出口门、稳定的小方块和人体轮廓四个图标排成一排",
  "Four icons in a row: an hourglass, an exit door, a calm solid cube and a simple human body outline. No people.",
  "关键词：半衰期、排出、安全。"),

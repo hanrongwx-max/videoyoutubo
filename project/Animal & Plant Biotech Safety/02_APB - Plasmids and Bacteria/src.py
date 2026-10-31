@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，身边浮着一个环状DNA",
  "The panda mascot stands beside a lab bench with a glowing circular DNA ring floating next to it and waves at the camera.",
- "这一课讲质粒、细菌和遗传转化。", "质粒、细菌与遗传转化"),
+ "这一课讲质粒、细菌和遗传转化。", "质粒与细菌"),
 ("开场", "质粒环、细菌、培养皿、盾牌四个图标排成一行",
  "Four icons in a row: a circular plasmid ring, a rod-shaped bacterium, a petri dish and a shield. No people.",
  "先懂原理，再动手做转化。", "", ["质粒", "细菌", "平板", "安全"]),

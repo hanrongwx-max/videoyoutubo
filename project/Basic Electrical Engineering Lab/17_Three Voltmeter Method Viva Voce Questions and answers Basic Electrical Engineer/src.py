@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电工实验台前，台上放着一个铁芯线圈和三块电压表",
  "The panda mascot stands at an electrical lab bench with an iron-core coil and three analog voltmeters with blank dials, waving at the camera.",
- "大家好！今天聊三电压表法的口试题。", "三电压表法：口试问答与用电安全"),
+ "大家好！今天聊三电压表法的口试题。", "三电压表法口试问答"),
 ("开场", "线圈、三块电压表、问号卡片三个图标",
  "Three icons in a row: an iron-core coil, three small voltmeters, and a card with a question mark. No people.",
  "概念、公式、单位，一题一题过。", "", ["概念", "公式", "单位"]),

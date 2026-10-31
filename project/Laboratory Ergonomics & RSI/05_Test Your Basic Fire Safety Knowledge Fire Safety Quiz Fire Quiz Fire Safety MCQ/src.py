@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白测验卡，身旁是消防车图标",
  "The panda mascot holds a blank quiz card next to a small fire truck icon and waves at the camera.",
- "十道消防基础题，测测你！", "消防基础自测：十道题测测你"),
+ "十道消防基础题，测测你！", "基础消防知识自测"),
 # 情景
 ("情景", "阿杰在通风柜前做实验，突然警铃响",
  "The young male student works at a fume hood when a fire alarm bell suddenly rings in the corridor.",

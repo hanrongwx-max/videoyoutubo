@@ -53,7 +53,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在书架前，手里捧着一本厚厚的空白手册",
  "The panda mascot stands in front of a bookshelf holding a thick blank manual and waves at the camera.",
- "这一课，我们来读懂一部手册。", "读懂实验室生物安全手册"),
+ "这一课，我们来读懂一部手册。", "国际实验室生物安全手册"),
 ("开场", "手册封面是一个生物危害标志图标，旁边分出九个小标签",
  "A thick manual with a biohazard warning sign on the cover, nine small tabs fanning out from it. No people.",
  "一部实验室生物安全手册，共九部分。"),

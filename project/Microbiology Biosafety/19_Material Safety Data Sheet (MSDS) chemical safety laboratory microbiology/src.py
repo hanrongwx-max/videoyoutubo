@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在化学品柜旁，手里拿着一本空白小册子",
  "The panda mascot stands beside a chemical storage cabinet, holding a thin booklet with a blank cover, and waves at the camera.",
- "今天认识一份重要的文件。", "认识安全技术说明书"),
+ "今天认识一份重要的文件。", "化学品安全技术说明书（MSDS）"),
 ("开场", "欣欣把小册子翻开，里面是空白的分节页",
  "The panda mascot opens the booklet to show blank sectioned pages.",
  "它叫安全数据表。"),

@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在仓库货架通道里，对着镜头招手",
  "The panda mascot stands in a warehouse aisle between shelves of blue parts bins and waves at the camera.",
- "欢迎来到设备小课堂，我是欣欣。", "减压阀与背压阀的安全使用"),
+ "欢迎来到设备小课堂，我是欣欣。", "减压阀与背压阀解析"),
 ("开场", "欣欣身旁浮现一只阀门图标和一个盾牌图标",
  "The panda mascot stands beside a floating valve icon and a shield icon.",
  "今天介绍一个调压阀门品牌。"),

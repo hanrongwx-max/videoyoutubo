@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台带脚轮的激光焊接机旁招手",
  "The panda mascot stands beside a blank gray wheeled handheld laser welding machine in a workshop and waves at the camera.",
- "这一课讲激光焊接机怎样更换激光电源。", "激光焊接机更换激光电源"),
+ "这一课讲激光焊接机怎样更换激光电源。", "激光焊机：更换激光电源（带把手机型）"),
 ("开场", "四个图标排成一行：把手、侧盖、长条电源、支架",
  "Four icons in a row: a machine handle, a side cover, a long power supply module and a metal bracket. No people.",
  "拆把手左盖、换电源、装支架、装回。", "", ["拆把手", "开左盖", "换电源", "装回"]),

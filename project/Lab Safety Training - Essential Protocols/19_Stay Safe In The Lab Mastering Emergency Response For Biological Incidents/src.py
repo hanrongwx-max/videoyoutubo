@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在贴有生物危害标志的实验室门外，向镜头招手",
  "The panda mascot stands outside a lab door marked with a biohazard warning sign and waves at the camera.",
- "接下来，讲生物安全事故。", "生物安全事故的应急处置"),
+ "接下来，讲生物安全事故。", "实验室安全：生物事故的应急响应"),
 # 情景
 ("情景", "小研戴口罩护目镜蓝手套，拿起一支红盖采血管",
  "The female graduate student in a mask, goggles and blue gloves picks up a red-capped blood sample tube.",

@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在车间的工作台旁，台上有一个带按钮的插座，向镜头招手",
  "The panda mascot stands beside a workbench in a factory workshop, next to a wall socket with small test buttons, and waves at the camera.",
- "这一课讲接地故障断路器和它的类型。", "漏电保护器的作用和类型"),
+ "这一课讲接地故障断路器和它的类型。", "接地故障断路器的作用与类型"),
 ("开场", "插座、移动插座盒、插头三个图标排成一行",
  "Three icons in a row: a wall socket with buttons, a portable socket box and a plug with buttons. No people.",
  "它能在关键时刻，替你断电。", "", ["插座型", "便携型", "线缆连接型"]),

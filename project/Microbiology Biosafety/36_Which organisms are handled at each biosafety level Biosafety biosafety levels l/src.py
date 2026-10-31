@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在四扇颜色不同的实验室门前",
  "The panda mascot stands in front of four lab doors with green, yellow, orange and red biohazard warning signs, and waves.",
- "哪一级实验室，操作哪类微生物？", "哪一级实验室，操作哪类微生物"),
+ "哪一级实验室，操作哪类微生物？", "各生物安全等级操作哪些微生物？"),
 ("开场", "四色生物危害标志排成一排",
  "Four biohazard warning signs in a row: green, yellow, orange and red. No people.",
  "今天按级别，一类一类看。", "", ["一级", "二级", "三级", "四级"]),

@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台生物安全柜旁，柜门前窗半开，向镜头招手",
  "The panda mascot stands beside a biological safety cabinet with its front sash half open and waves at the camera.",
- "今天进生物安全柜，学规矩。", "在生物安全柜里干活"),
+ "今天进生物安全柜，学规矩。", "生物安全：在生物安全柜中工作"),
 ("开场", "欣欣拍拍柜体侧面",
  "The panda mascot pats the side of the biological safety cabinet and smiles.",
  "它是实验室里的防护主力。"),

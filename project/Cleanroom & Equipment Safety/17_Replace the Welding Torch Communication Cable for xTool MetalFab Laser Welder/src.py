@@ -43,7 +43,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台带前后把手的激光焊接机旁，手里举着焊枪，向镜头招手",
  "The panda mascot stands beside a gray wheeled laser welding machine with handles at the front and back, holding up its handheld welding gun, and waves at the camera.",
- "这一课，看焊枪通讯线怎样更换。", "激光焊接机焊枪通讯线的规范更换"),
+ "这一课，看焊枪通讯线怎样更换。", "激光焊机：更换焊枪通讯线"),
 ("开场", "焊枪、长线缆、主机三个图标用虚线连起",
  "Three icons joined by a dotted line: a handheld welding gun, a long coiled cable and a machine cabinet. No people.",
  "拆侧盖、开焊枪、换线、装回。", "", ["拆侧盖", "开焊枪", "换线", "装回"]),

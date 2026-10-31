@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个五层倒三角图旁",
  "The panda mascot stands beside a large inverted triangle diagram divided into five colored layers with no text.",
- "这一课讲控制层级。", "控制层级：从源头管住危害"),
+ "这一课讲控制层级。", "实验室安全实用步骤：控制层级"),
 ("开场", "倒三角五层依次亮起",
  "An inverted triangle with five blank colored layers lighting up one by one from top to bottom. No people.",
  "消除、替代、工程、管理、个体防护。", "", ["消除", "替代", "工程控制", "管理控制", "个体防护"]),

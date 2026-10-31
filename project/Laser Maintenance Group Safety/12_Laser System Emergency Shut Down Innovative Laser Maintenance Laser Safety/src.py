@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光切割机旁，指着一个红色大按钮",
  "The panda mascot stands beside a laser cutting machine and points at a big red button.",
- "激光设备怎么紧急停机？", "激光设备的紧急停机"),
+ "激光设备怎么紧急停机？", "激光系统紧急停机"),
 ("开场", "地垫、按钮、闸刀开关三个图标",
  "Three icons in a row: a floor safety mat, a stop button and a wall knife switch. No people.",
  "三种办法：地垫、按钮、总闸。", "", ["安全地垫", "停机按钮", "总闸"]),

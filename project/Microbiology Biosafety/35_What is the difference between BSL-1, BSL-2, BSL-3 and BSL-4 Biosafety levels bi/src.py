@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张大表格前，表头四格依次亮起",
  "The panda mascot stands in front of a large blank table whose four header cells light up one by one.",
- "一到四级防护等级，到底差在哪？", "一张表看懂四个防护等级"),
+ "一到四级防护等级，到底差在哪？", "BSL-1到BSL-4有什么区别？"),
 ("开场", "表格左列七个空格，旁边七个小图标",
  "A blank table with seven rows; each row starts with a small icon: a germ, a petri dish, a door, gloves, a cabinet, a building, and floating droplets. No people.",
  "今天用七行，把它们比一比。"),

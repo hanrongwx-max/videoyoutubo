@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一面贴满红框菱形象形图的墙前，向镜头招手",
  "The panda mascot stands in front of a wall covered with GHS hazard pictograms and waves at the camera.",
- "危险物品这么多，怎么分门别类？", "危险物品怎么分类：九大类与象形图"),
+ "危险物品这么多，怎么分门别类？", "什么是危险物品？如何分类？"),
 ("开场", "九个空白格子排成三行三列，依次亮起",
  "Nine blank boxes arranged in three rows of three light up one by one. No people.",
  "今天认识九大类和它们的标志。"),

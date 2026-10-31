@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在仓库货架通道里，货架上摆着南瓜灯装饰，向镜头招手",
  "The panda mascot stands in a warehouse aisle with carved pumpkin lanterns on the shelves and waves at the camera.",
- "欢迎来到设备小课堂，万圣节快乐！", "二氧化碳与干冰的安全使用"),
+ "欢迎来到设备小课堂，万圣节快乐！", "认识二氧化碳及其应用"),
 ("开场", "大大的二氧化碳分子图标飞入画面",
  "A large carbon dioxide molecule icon, one carbon ball between two oxygen balls, flies into the frame. No people.",
  "今天的主题是二氧化碳。", "", ["CO2"]),

@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在培养架前，架上一排培养瓶里长着小绿苗",
  "The panda mascot stands in front of a shelf of glass culture jars with tiny green plantlets inside and waves at the camera.",
- "这一课讲植物克隆：组织培养入门。", "植物克隆：组织培养入门"),
+ "这一课讲植物克隆：组织培养入门。", "植物克隆"),
 ("开场", "一片叶子、一团细胞、一株小苗、一盆植物四个图标排成一行",
  "Four icons in a row connected by arrows: a small leaf piece, a cluster of cells, a tiny plantlet and a potted plant. No people.",
  "一小块组织，能长成一整株植物。", "", ["取材", "愈伤", "小苗", "成株"]),

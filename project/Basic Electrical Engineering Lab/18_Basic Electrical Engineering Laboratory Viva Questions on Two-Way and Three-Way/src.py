@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在楼梯口，楼梯上下各有一个开关，头顶一盏灯",
  "The panda mascot stands at the foot of a staircase with a wall switch at the bottom and another at the top, one ceiling lamp above, waving at the camera.",
- "大家好！今天复习双控和三控照明。", "双控与三控照明：口试问答与家庭用电"),
+ "大家好！今天复习双控和三控照明。", "两地与三地控制照明口试问答"),
 ("开场", "楼梯、走廊、家里插座三个图标",
  "Three icons in a row: a staircase with a lamp, a long corridor with a lamp, and a wall socket. No people.",
  "还有家里的电器为什么要并联。", "", ["双控", "三控", "家庭布线"]),

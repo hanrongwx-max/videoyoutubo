@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，身后有溢洒处理箱，向镜头招手",
  "The panda mascot stands beside a lab bench with a spill kit box behind, waving at the camera.",
- "这一课，具体讲讲化学品溢洒。", "化学品溢洒与接触的应急处置"),
+ "这一课，具体讲讲化学品溢洒。", "化学品溢洒与接触：实验室应急规程"),
 # 情景
 ("情景", "小研戴口罩在显微镜前，旁边台面上试管打翻，红色液体流开",
  "The female graduate student in a mask works at a microscope; beside her, tubes and a syringe tip over and red liquid spreads on the bench.",

@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在面试桌一侧，向镜头招手",
  "The panda mascot sits on one side of an interview table and waves at the camera.",
- "安全员面试常问二十题，一起来想一想。", "安全员模拟面试二十问"),
+ "安全员面试常问二十题，一起来想一想。", "安全员测验：有限空间、事故率与开挖"),
 ("开场", "一行图标：氧气、焊枪、井口、梯子、护栏",
  "A row of icons: an oxygen symbol, a welding torch, a manhole, a ladder and a guardrail. No people.",
  "有限空间、焊接、事故统计都会问到。", "", ["有限空间", "焊接", "事故统计"]),

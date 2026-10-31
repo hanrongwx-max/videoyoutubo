@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个白色箱式转移室旁，箱里有几只小培养瓶，向镜头招手",
  "The panda mascot stands beside a white box-shaped transfer chamber with two round arm ports and a few small culture jars inside, waving at the camera.",
- "这一课讲植物组织培养的无菌技术。", "植物组织培养的无菌技术"),
+ "这一课讲植物组织培养的无菌技术。", "植物克隆的无菌技术"),
 ("开场", "洗手、喷壶、培养皿、警示三角四个图标排成一行",
  "Four icons in a row: washing hands, a blank spray bottle, a petri dish with a green plantlet, and a yellow warning triangle. No people.",
  "清洁消毒，守住无菌。", "", ["清洁", "消毒", "无菌", "安全"]),

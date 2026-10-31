@@ -51,7 +51,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在校园社团招新摊位前，向镜头招手",
  "The panda mascot stands in front of a row of campus club recruitment booths with blank posters and waves at the camera.",
- "这一课讲学生社团的年度培训。", "学生社团年度培训：管理、财务与活动安全"),
+ "这一课讲学生社团的年度培训。", "注册学生社团培训"),
 ("开场", "组织结构、钱袋、日历三个图标排成一行",
  "Three icons in a row: an organization chart, a money bag and a calendar. No people.",
  "组织结构、财务管理、活动策划。", "", ["组织", "财务", "活动"]),

@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，手里举着一块空白薄层板，向镜头招手",
  "The panda mascot stands beside a lab bench, holds up a small blank white plate and waves at the camera.",
- "这一课学薄层色谱的操作与安全。", "薄层色谱的操作与安全"),
+ "这一课学薄层色谱的操作与安全。", "薄层色谱（TLC）操作"),
 ("开场", "薄层板、毛细管、展开缸、紫外灯四个图标排成一行",
  "Four icons in a row: a small white plate with dots, a thin capillary tube, a capped glass jar, and a lamp with violet rays. No people.",
  "点得准、展得稳、看得清、算得对。", "", ["点样", "展开", "显色", "计算"]),

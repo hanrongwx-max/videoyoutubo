@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼走廊，身后一扇关着的实验室门",
  "The panda mascot stands in a laboratory corridor in front of a closed laboratory door, and waves at the camera.",
- "这一课，讲怎么把风险降下来。", "两道屏障，五类控制"),
+ "这一课，讲怎么把风险降下来。", "风险减缓导论"),
 # 情景
 ("情景", "阿杰穿好实验服、戴上手套，得意地张开双臂",
  "The young male student puts on a lab coat and gloves and spreads his arms proudly.",

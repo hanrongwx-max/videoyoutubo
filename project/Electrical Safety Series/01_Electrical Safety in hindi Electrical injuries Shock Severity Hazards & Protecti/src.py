@@ -43,7 +43,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板旁画着闪电和灯泡，向镜头招手",
  "The panda mascot stands in front of a blank whiteboard decorated with a lightning bolt and a glowing light bulb drawing, waving at the camera.",
- "今天我们来聊聊电。", "认识电：触电伤害与基本防护"),
+ "今天我们来聊聊电。", "用电安全：电气伤害、电击程度、危害与防护"),
 ("开场", "灯泡、警示三角、盾牌三个图标排成一行",
  "Three icons in a row: a light bulb, a yellow warning triangle and a shield. No people.",
  "电是什么、有什么危害、怎么防。", "", ["是什么", "危害", "防护"]),

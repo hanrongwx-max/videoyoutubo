@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，向镜头招手",
  "The panda mascot stands beside a clean lab bench with a few reagent bottles and waves at the camera.",
- "这一课讲怎样安全地操作化学品。", "安全操作化学品"),
+ "这一课讲怎样安全地操作化学品。", "实验室安全（五）：化学品的安全操作"),
 ("开场", "护目镜、通风柜、易燃品柜、废液桶四个图标",
  "Four icons in a row: safety goggles, a fume hood, a yellow flammable storage cabinet and a waste container. No people.",
  "防护、通风、储存、废弃，一样不落。", "", ["防护", "通风", "储存", "废弃"]),

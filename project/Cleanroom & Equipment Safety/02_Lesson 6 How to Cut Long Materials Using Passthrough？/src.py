@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台封闭式激光切割机旁，机器两侧各有一条窄槽",
  "The panda mascot stands beside a large enclosed laser cutting machine with a narrow slot on each side and waves at the camera.",
- "这一课：怎么切比机器还长的板。", "超长板材的分段激光切割"),
+ "这一课：怎么切比机器还长的板。", "第6课：如何用贯通口切割长料"),
 ("开场", "一块长金属板穿过机器，两侧都露在外面的示意图",
  "Diagram of a long metal sheet passing straight through an enclosed cutting machine, sticking out of both side slots. No people.",
  "秘诀就是两侧的穿透槽。", "", ["左侧槽", "右侧槽"]),

@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在问答台后，背景是地球和握在一起的手的图标",
  "The panda mascot stands behind a quiz podium in front of a globe icon held up by many hands and waves at the camera.",
- "今天的问答，讲讲别国的安全日。", "安全日问答：别国的安全日和我们的安全月"),
+ "今天的问答，讲讲别国的安全日。", "某国安全日知识竞赛"),
 ("开场", "日历图标，三月初的一天被圈出",
  "A blank calendar with one day in early March circled. No text. No people.",
  "十道选择题，先想再看答案。", "", ["国家安全日", "10道题"]),

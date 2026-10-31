@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在侧门打开的激光焊接机旁，指着机内一个方块形的黑色元件，向镜头招手",
  "The panda mascot stands beside a gray wheeled laser welding machine with its side open, points at a black block-shaped electrical component inside, and waves at the camera.",
- "这一课，看焊机的交流接触器怎样更换。", "激光焊接机交流接触器的规范更换"),
+ "这一课，看焊机的交流接触器怎样更换。", "激光焊机：更换交流接触器"),
 ("开场", "四个图标：警示卡、安装板、接触器、扎带",
  "Four icons in a row: a warning card, a mounting plate, a black contactor and a cable tie. No people.",
  "取组件、换接触器、接线、装回。", "", ["取组件", "换接触器", "接线", "装回"]),

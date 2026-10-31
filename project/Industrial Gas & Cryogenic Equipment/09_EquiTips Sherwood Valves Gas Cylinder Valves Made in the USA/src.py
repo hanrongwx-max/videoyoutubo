@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在仓库货架前，向镜头招手",
  "The panda mascot stands in front of warehouse shelves of parts bins and waves at the camera.",
- "欢迎来到设备小课堂第一期！", "气瓶阀的安全使用"),
+ "欢迎来到设备小课堂第一期！", "气瓶阀解析"),
 ("开场", "一只黄铜气瓶阀图标，旁边一张地图上标出一个州",
  "A brass gas cylinder valve icon next to a simple map with one state highlighted. No people.",
  "今天介绍一家俄亥俄州的气瓶阀厂家。", "", ["美国制造"]),

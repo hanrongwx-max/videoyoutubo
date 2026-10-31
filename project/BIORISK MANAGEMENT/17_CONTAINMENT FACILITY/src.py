@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一块空白的蓝色房间指示牌旁，对镜头招手",
  "The panda mascot stands next to a blank blue room directory sign and waves at the camera.",
- "今天跟着路线，走进三级实验室。", "跟着路线走进三级实验室"),
+ "今天跟着路线，走进三级实验室。", "生物防护设施"),
 # 情景
 ("情景", "小研拿着空白的准入通知，站在实验室双开门前",
  "The female graduate student holds a blank access approval notice in front of a double door to the laboratory.",

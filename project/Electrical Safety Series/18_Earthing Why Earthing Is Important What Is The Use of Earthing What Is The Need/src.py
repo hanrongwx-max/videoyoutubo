@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室配电箱旁，手里拿着一段黄绿色导线，向镜头招手",
  "The panda mascot stands beside a lab distribution box holding a short green and yellow wire and waves at the camera.",
- "你好！今天讲讲接地。", "接地，给漏电找条路"),
+ "你好！今天讲讲接地。", "接地为什么重要"),
 ("开场", "接地符号、闪电、盾牌三个图标",
  "Three icons in a row: a ground symbol, a lightning bolt and a shield. No people.",
  "它是什么，为什么非要不可？"),

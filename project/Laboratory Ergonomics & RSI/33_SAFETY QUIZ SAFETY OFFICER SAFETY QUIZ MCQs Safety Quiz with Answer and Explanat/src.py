@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个大问号旁，向镜头招手",
  "The panda mascot stands next to a big question mark and waves at the camera.",
- "安全管理十问，有答案也有解释！", "安全管理十问"),
+ "安全管理十问，有答案也有解释！", "安全员选择题测验（附答案与解析）"),
 # 情景
 ("情景", "办公室里，小研抱着一叠空白讲义",
  "In an office, the female graduate student holds a stack of blank handouts.",

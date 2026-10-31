@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，旁边墙上挂着灭火器",
  "The panda mascot stands at a lab door next to a wall-mounted fire extinguisher and waves at the camera.",
- "今天说说微生物实验室的消防安全。", "微生物实验室的消防安全"),
+ "今天说说微生物实验室的消防安全。", "微生物实验室消防安全的重要性"),
 ("开场", "灭火器、火焰、安全出口三个图标",
  "Three icons in a row: a fire extinguisher, a small flame, and an emergency exit sign. No people.",
  "防火、报警、逃生，一个都不能少。"),

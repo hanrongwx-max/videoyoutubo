@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光切割机旁，举着一张空白通知单",
  "The panda mascot stands beside a closed desktop laser cutter holding up a blank notice sheet and waves at the camera.",
- "激光切割机的规程，有了新变化。", "激光切割机：规程更新须知"),
+ "激光切割机的规程，有了新变化。", "激光切割机6.5：更新"),
 ("开场", "风扇图标和一块透明板图标并排",
  "Two icons side by side: an air purifier fan and a clear plastic sheet. No people.",
  "一条关于净化器，一条关于亚克力。", "", ["净化器风量", "亚克力材料"]),

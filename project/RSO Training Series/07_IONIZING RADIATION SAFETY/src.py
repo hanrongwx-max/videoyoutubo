@@ -62,7 +62,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼走廊，身旁门上有电离辐射警告标志，向镜头招手",
  "The panda mascot stands in a university lab building corridor beside a door with an ionizing radiation warning sign and waves at the camera.",
- "这一课讲电离辐射安全。", "电离辐射安全：从原理到日常防护"),
+ "这一课讲电离辐射安全。", "电离辐射安全"),
 ("开场", "四个图标：原子、时钟、盾牌、剂量计",
  "Four icons in a row: an atom, a clock, a shield and a small clip-on dosimeter badge. No people.",
  "从原理讲到防护，再讲到日常管理。", "", ["原理", "防护", "监测", "应急"]),

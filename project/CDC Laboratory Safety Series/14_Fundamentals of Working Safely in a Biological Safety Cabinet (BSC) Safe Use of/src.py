@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台生物安全柜旁，向镜头招手",
  "The panda mascot stands beside a biological safety cabinet with its glass front sash and waves at the camera.",
- "这一课讲生物安全柜的安全使用。", "生物安全柜的安全使用"),
+ "这一课讲生物安全柜的安全使用。", "生物安全柜安全操作基础：安全使用"),
 ("开场", "四个图标排成一行：擦拭布、分区格子、坐姿小人、向内气流箭头",
  "Four icons in a row: a wiping cloth, a three-zone layout grid, a seated person, and inward airflow arrows. No people.",
  "擦干净、摆整齐、坐端正、少进出。", "", ["擦干净", "摆整齐", "坐端正", "少进出"]),

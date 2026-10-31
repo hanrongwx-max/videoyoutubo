@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在三台外形相似的柜子前，向镜头招手",
  "The panda mascot stands in front of three similar-looking lab cabinets in a row and waves at the camera.",
- "这三个柜子，你分得清吗？", "三个柜子不一样：通风柜、超净台、生物安全柜"),
+ "这三个柜子，你分得清吗？", "通风柜、层流罩与生物安全柜的区别和用途"),
 ("开场", "三台柜子依次亮起",
  "The three cabinets light up one after another: a chemical fume hood, a clean bench, and a biological safety cabinet. No people.",
  "今天讲它们的区别、作用和用途。", "", ["化学通风柜", "超净工作台", "生物安全柜"]),

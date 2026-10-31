@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，向镜头招手",
  "The panda mascot stands at the door of a microbiology teaching lab and waves at the camera.",
- "这一课讲生物恐怖怎么防。", "生物恐怖怎么防：识别·预防·报告"),
+ "这一课讲生物恐怖怎么防。", "什么是生物恐怖？生物恐怖实例"),
 ("开场", "欣欣身旁浮现盾牌、眼睛、电话三个图标",
  "The panda mascot points to three floating icons: a shield, an eye, and a telephone. Blank icons.",
  "记住三件事：识别、预防、报告。", "", ["识别", "预防", "报告"]),

@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在展台旁，桌上一排大小不同的银色液氮罐，向镜头招手",
  "The panda mascot stands at an exhibition table lined with silver liquid nitrogen dewars of different sizes and waves at the camera.",
- "欢迎来到设备小课堂，今天看液氮罐。", "液氮杜瓦罐的安全使用"),
+ "欢迎来到设备小课堂，今天看液氮罐。", "实验室杜瓦瓶与液氮储存解析"),
 ("开场", "小研走过来，和欣欣握手寒暄",
  "The female graduate student walks over and shakes hands with the panda mascot in a friendly greeting.",
  "嘉宾小研，是液氮罐厂家的销售代表。"),

@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，向镜头挥手",
  "The panda mascot stands in front of a lab bench and waves at the camera.",
- "安全系列第三课：实验室里的行为。", "实验室里的行为规范"),
+ "安全系列第三课：实验室里的行为。", "实验室安全（三）：行为规范"),
 ("开场", "俯瞰一间忙碌的实验室",
  "A high-angle view of a busy teaching lab with people working at several benches.",
  "看看大家在实验室里该怎么做。"),

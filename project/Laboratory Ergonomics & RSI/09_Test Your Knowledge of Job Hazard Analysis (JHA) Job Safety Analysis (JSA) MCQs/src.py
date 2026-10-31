@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，手拿一张空白分析表，向镜头招手",
  "The panda mascot stands at a laboratory door holding a blank analysis sheet and waves at the camera.",
- "今天用十道题，学会工作危害分析。", "工作危害分析十问"),
+ "今天用十道题，学会工作危害分析。", "工作危害分析（JHA/JSA）知识自测"),
 ("开场", "一行图标：分解的台阶、放大镜、盾牌",
  "A row of three simple icons: a staircase of steps, a magnifying glass and a shield. No people.",
  "拆步骤、找危害、定措施，一步不落。", "", ["拆步骤", "找危害", "定措施"]),

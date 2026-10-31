@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在样本接收窗口旁，手里拿着一个空白标签的样本管模型",
  "The panda mascot stands beside a sample reception window holding a model sample tube with a blank label.",
- "医院送来的样本，怎么接、怎么做？", "医院送来的样本"),
+ "医院送来的样本，怎么接、怎么做？", "生物风险管理：医院样本"),
 ("开场", "欣欣指向身后的生物安全柜",
  "The panda mascot points to a biological safety cabinet behind it.",
  "今天一步步讲清楚。"),

@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一座六根柱子撑起的小房子前",
  "The panda mascot stands in front of a small house held up by six pillars, a biohazard symbol on its roof, and waves at the camera.",
- "这一课讲生物风险管理体系的六根支柱。", "生物风险管理体系的六根支柱"),
+ "这一课讲生物风险管理体系的六根支柱。", "生物风险管理体系的核心组成"),
 # 情景
 ("情景", "王老师通知：下月学院要检查各实验室的管理体系",
  "The safety administrator hands a blank notice to the older man in the lab office.",

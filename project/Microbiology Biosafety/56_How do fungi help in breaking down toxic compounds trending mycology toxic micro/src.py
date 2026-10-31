@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在森林里一根长着白色菌丝的朽木旁",
  "The panda mascot stands in a forest beside a rotting log covered with white fungal threads, and waves at the camera.",
- "朽木上的真菌，也能对付毒物。", "真菌和细菌：拆解难缠的毒物"),
+ "朽木上的真菌，也能对付毒物。", "真菌如何帮助分解有毒化合物？"),
 ("开场", "欣欣身旁浮现三个图标：染料瓶、带爆炸象形图的箱子、电离辐射标志",
  "The panda mascot points to three floating icons: a dye bottle, a crate with an explosive pictogram, and an ionizing radiation warning sign.",
  "污染物、炸药、放射性废物，一起看。", "", ["污染物", "炸药", "放射性"]),

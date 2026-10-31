@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着红色安全帽，站在露天堆场里成排横放的铝翅片汽化器前，向镜头招手",
  "The panda mascot wearing a red hard hat stands in an outdoor yard in front of rows of aluminum finned vaporizers lying on their sides, and waves at the camera.",
- "欢迎来到设备小课堂，今天在汽化器厂。", "空温式汽化器与储罐站安全"),
+ "欢迎来到设备小课堂，今天在汽化器厂。", "空温式汽化器解析"),
 ("开场", "老李戴着白色安全帽走进画面，和欣欣并肩站立",
  "The facility engineer wearing a white hard hat walks into the frame and stands beside the panda mascot.",
  "嘉宾老李，是这家工厂的厂长。"),

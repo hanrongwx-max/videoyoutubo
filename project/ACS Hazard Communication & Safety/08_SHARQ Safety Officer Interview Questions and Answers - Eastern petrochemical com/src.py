@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前招手",
  "The panda mascot stands in front of a blank whiteboard and waves at the camera.",
- "欢迎回来！今天分享一场石化厂面试。", "安全知识问答：制度、红线与不安全行为"),
+ "欢迎回来！今天分享一场石化厂面试。", "某石化公司安全员面试问答"),
 ("开场", "石化厂剪影，旁边十五个小方格",
  "A silhouette of a petrochemical plant next to fifteen small squares in a grid. No people.",
  "一共十五道题，答案写在白板上。", "", ["15道题"]),

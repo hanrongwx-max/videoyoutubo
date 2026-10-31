@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在培训大厅，身后一面空白的知识墙",
  "The panda mascot stands in a company training hall in front of a large blank knowledge wall and waves at the camera.",
- "这一课，把电气安全从头讲一遍。", "电气安全全攻略"),
+ "这一课，把电气安全从头讲一遍。", "电气安全全面讲解"),
 ("开场", "原理、危害、预防、应急四个图标",
  "Four icons in a row: a light bulb, a lightning bolt with a warning triangle, a shield and a first aid kit. No people.",
  "从原理到预防，再到应急。", "", ["原理", "危害", "预防", "应急"]),

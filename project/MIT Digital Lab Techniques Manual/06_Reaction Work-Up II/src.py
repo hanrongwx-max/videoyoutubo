@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台旋转蒸发仪旁，向镜头招手",
  "The panda mascot stands beside a rotary evaporator with a condenser, a water bath and a round-bottom flask, and waves at the camera.",
- "这一课讲旋转蒸发仪的正确使用。", "旋转蒸发仪的正确使用"),
+ "这一课讲旋转蒸发仪的正确使用。", "反应后处理（下）"),
 ("开场", "七个编号空白圆牌排成一排",
  "Seven round blank badges in a row, each with a different small icon. No people.",
  "七条规矩，条条要记牢。", "", ["七条规则"]),

@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿实验服戴护目镜手套，站在通风橱旁向镜头招手",
  "The panda mascot in a lab coat, safety goggles and gloves stands beside a chemical fume hood and waves at the camera.",
- "这一课讲化学实验室怎样降低风险。", "化学实验室怎样降低风险"),
+ "这一课讲化学实验室怎样降低风险。", "降低化学实验室的风险"),
 ("开场", "倒金字塔五层图标",
  "An inverted pyramid icon with five colored layers, each marked by a simple icon. No people.",
  "堵住途径，按层级选措施。", "", ["消除", "替代", "工程控制", "管理控制", "个人防护"]),

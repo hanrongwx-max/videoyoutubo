@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼前，抬手指向楼顶的排风机",
  "The panda mascot stands in front of a laboratory building and points up at the exhaust fans on the roof.",
- "今天带大家看看实验室的幕后设备。", "生物安全实验室的“幕后”设备"),
+ "今天带大家看看实验室的幕后设备。", "生物安全实验室：工程设施"),
 # 情景
 ("情景", "阿杰在生物安全实验室门口，看着门边空白的压差表",
  "The young male student stands at the door of a biosafety laboratory looking at a blank pressure gauge beside the door.",

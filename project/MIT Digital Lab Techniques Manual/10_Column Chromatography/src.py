@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一根装满白色粉末的玻璃柱旁",
  "The panda mascot stands next to a tall glass column filled with white powder clamped on a ring stand, and waves at the camera.",
- "这一课学柱色谱，把混合物分开。", "柱色谱分离"),
+ "这一课学柱色谱，把混合物分开。", "柱色谱"),
 ("开场", "选条件、装柱、上样、跑柱四个图标",
  "Four icons in a row: a small plate with spots, a column being filled, a dropper over the column, and a rack of test tubes. No people.",
  "选条件、装柱、上样、跑柱，一步步来。", "", ["选条件", "装柱", "上样", "跑柱"]),

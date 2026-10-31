@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣手里捧着一个发光的小灯泡，站在人体轮廓挂图旁",
  "The panda mascot holds a small glowing light bulb and stands beside a large poster with a simple human body outline.",
- "这一课，我们走进核医学。", "核医学入门：把“小灯泡”送进身体"),
+ "这一课，我们走进核医学。", "核医学物理与放射性药物"),
 ("开场", "人体轮廓里一个器官微微发光，体外一圈小方块接收光点",
  "A simple human body outline with one organ glowing softly inside, surrounded by a ring of small blank detector blocks catching light dots. No people.",
  "把光源放进身体，从外面看里面。"),

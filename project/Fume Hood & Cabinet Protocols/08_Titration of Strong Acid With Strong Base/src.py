@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在滴定装置旁，锥形瓶里是浅粉红溶液，向镜头招手",
  "The panda mascot stands beside a burette on a ring stand with a flask of pale pink solution below and waves at the camera.",
- "这一课，我们来做强酸强碱滴定。", "强酸强碱滴定"),
+ "这一课，我们来做强酸强碱滴定。", "强酸与强碱的滴定"),
 ("开场", "滴定管、锥形瓶、指示剂滴瓶、计算器四个图标排成一行",
  "Four icons in a row: a burette, an Erlenmeyer flask, a small dropper bottle and a calculator. No people.",
  "装好、读准、滴准、算准。", "", ["装好", "读准", "滴准", "算准"]),

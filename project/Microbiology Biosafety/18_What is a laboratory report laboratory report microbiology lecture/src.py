@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一本空白记录本站在微生物实验室门口",
  "The panda mascot stands at the door of a microbiology teaching lab, holding a notebook with a blank cover, and waves at the camera.",
- "今天聊聊实验报告怎么写。", "实验报告怎么写：从记录到安全"),
+ "今天聊聊实验报告怎么写。", "什么是实验报告？"),
 ("开场", "欣欣身旁浮现报告、图表和星星三个图标",
  "The panda mascot points to three floating icons: a stapled report, a bar chart and a star.",
  "它由哪几部分组成，各写什么。"),

@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着实验服、戴着护目镜和手套向镜头招手",
  "The panda mascot wearing a lab coat, safety goggles and gloves waves at the camera in a lab.",
- "这一课讲识别危害、选对防护。", "识别危害，选对防护"),
+ "这一课讲识别危害、选对防护。", "识别实验室危害，选对个人防护装备"),
 ("开场", "放大镜、说明书、手套、护目镜四个图标",
  "Four icons in a row: a magnifying glass, a blank data sheet, a pair of gloves and safety goggles. No people.",
  "先看清危害，再选对、穿对防护。", "", ["看清危害", "选对防护", "穿对防护"]),

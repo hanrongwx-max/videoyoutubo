@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在黑板前，黑板旁有电离辐射警告标志，向镜头招手",
  "The panda mascot stands in front of a blank blackboard next to an ionizing radiation warning sign and waves at the camera.",
- "这一课，我们把辐射安全的基础讲透。", "辐射安全基础课"),
+ "这一课，我们把辐射安全的基础讲透。", "基础辐射安全"),
 ("开场", "四个图标排成一行：原子、盾牌、仪表、细胞",
  "Four icons in a row: an atom, a shield, a gauge meter and a cell. No people.",
  "来源、防护、单位、探测，还有生物效应。", "", ["来源", "防护", "单位与探测", "生物效应"]),

@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台加热板旁，指着地上的一根电线",
  "The panda mascot stands beside a hot plate on a bench and points down at a power cord on the floor.",
- "这一课是个情景题：一根电线引发的烫伤。", "一根电线引发的烫伤"),
+ "这一课是个情景题：一根电线引发的烫伤。", "实验室安全基础：实验室工作规范情景"),
 ("开场", "欣欣举起一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "看完故事，请你一起来找原因。"),

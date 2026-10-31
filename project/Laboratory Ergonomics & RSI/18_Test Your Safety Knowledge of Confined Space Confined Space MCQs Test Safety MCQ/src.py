@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个盖着盖板的检修井旁，向镜头招手",
  "The panda mascot stands beside a covered maintenance hatch with a warning sign and waves at the camera.",
- "今天十道题，讲讲有限空间。", "有限空间安全十问"),
+ "今天十道题，讲讲有限空间。", "受限空间安全知识自测"),
 ("开场", "一行图标：井口、储罐、气体检测仪、监护人",
  "A row of icons: a manhole, a storage tank, a gas detector and an attendant with a radio. No people.",
  "定义、检测、监护、救援，都在题里。", "", ["定义", "检测", "监护", "救援"]),

@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着焊接面罩掀起来，向镜头招手",
  "The panda mascot lifts a welding face shield up from its face and waves at the camera.",
- "今天用十道题，聊聊动火作业安全。", "动火作业安全十问"),
+ "今天用十道题，聊聊动火作业安全。", "动火作业安全知识自测"),
 ("开场", "一行图标：火焰、气瓶、砂轮、焊枪",
  "A row of simple icons: a flame, a gas cylinder, a grinding wheel and a welding torch. No people.",
  "气割、焊接、打磨，都会产生明火火花。", "", ["气割", "焊接", "打磨"]),

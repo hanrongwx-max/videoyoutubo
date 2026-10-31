@@ -46,7 +46,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台显微镜旁向镜头招手",
  "The panda mascot stands beside a light microscope on a lab bench and waves at the camera.",
- "这一课认识光学显微镜。", "显微镜：看得清，也用得安全"),
+ "这一课认识光学显微镜。", "光学显微镜详解"),
 ("开场", "显微镜和一个放大的细胞图标并排",
  "A microscope icon next to an enlarged cell icon. No people.",
  "从组成、原理讲到类型和局限。"),

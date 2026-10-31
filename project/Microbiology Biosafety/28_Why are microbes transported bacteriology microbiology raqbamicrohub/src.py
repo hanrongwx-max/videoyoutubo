@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身边放着一个带生物危害标志的运输箱",
  "The panda mascot stands at a lab door beside a transport box with a biohazard warning sign and waves at the camera.",
- "今天聊聊：微生物为什么要运输。", "微生物为什么要运输，又该怎样运"),
+ "今天聊聊：微生物为什么要运输。", "微生物为什么要运输？"),
 ("开场", "欣欣身旁出现一条从实验室到各处的路线图",
  "The panda mascot points to a route map with arrows from a lab icon to a hospital, a factory, a farm and a school.",
  "它们被送去了哪里，做什么用。"),

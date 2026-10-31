@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一条从实验台通向工厂和超市的道路起点，向镜头招手",
  "The panda mascot stands at the start of a winding path that leads from a lab bench to a small factory and a grocery store, waving at the camera.",
- "这一课讲成果怎样从实验室走向生产。", "从实验室到生产"),
+ "这一课讲成果怎样从实验室走向生产。", "把研究成果推向生产"),
 ("开场", "工厂、天平、盾牌、试管四个图标排成一行",
  "Four icons in a row: a factory, a balance scale, a shield with a check, and a rack of test tubes. No people.",
  "生产、风险分析、监管、测试。", "", ["生产", "风险分析", "监管", "测试"]),

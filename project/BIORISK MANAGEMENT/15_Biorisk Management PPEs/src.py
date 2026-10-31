@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室缓冲间里，身边挂着防护服",
  "The panda mascot stands in a laboratory anteroom beside a rack of white protective coveralls, and waves at the camera.",
- "今天在缓冲间，学穿防护。", "进门之前，穿戴到位"),
+ "今天在缓冲间，学穿防护。", "生物风险管理：个人防护装备的穿戴"),
 # 情景
 ("情景", "小研拿着样本转运箱，准备进实验室",
  "The female graduate student holds a sealed sample transport box and walks toward the anteroom.",

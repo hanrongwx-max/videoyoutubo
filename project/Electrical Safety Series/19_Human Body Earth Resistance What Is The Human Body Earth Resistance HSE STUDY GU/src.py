@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着一个空白的人形轮廓",
  "The panda mascot stands in front of a whiteboard with a simple blank human outline drawn on it and waves at the camera.",
- "这一课聊聊人体电阻。", "人体电阻：为什么湿手更危险"),
+ "这一课聊聊人体电阻。", "人体对地电阻"),
 ("开场", "人形图标、电阻符号、水滴三个图标",
  "Three icons in a row: a human pictogram, a resistor symbol and a water droplet. No people.",
  "它有多大，湿了又会怎样。", "", ["人体", "电阻", "潮湿"]),

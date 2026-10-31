@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着激光防护面罩，站在激光焊接工位旁招手",
  "The panda mascot wears an orange laser safety face shield pushed up on its head and waves beside a handheld laser welding station.",
- "这一课是手持式激光焊接的安全培训。", "手持式激光焊接安全培训"),
+ "这一课是手持式激光焊接的安全培训。", "手持激光焊机：激光焊接安全培训"),
 ("开场", "光束、防护、部件、操作、停机五个图标",
  "Five icons in a row: a diverging beam cone, a face shield, an emergency stop button, a welding gun, and a power switch turned off. No people.",
  "光束、防护、部件、操作、停机，五部分。", "", ["光束", "防护", "部件", "操作", "停机"]),

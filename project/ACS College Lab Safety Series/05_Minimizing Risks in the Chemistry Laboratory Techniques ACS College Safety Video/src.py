@@ -46,7 +46,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在整洁的化学实验台前，台上摆着滴定架和电热板，向镜头招手",
  "The panda mascot stands in front of a tidy chemistry lab bench with a titration stand and a hot plate, waving at the camera.",
- "这一课讲化学实验里降低风险的操作技巧。", "降低风险：化学实验的操作技巧"),
+ "这一课讲化学实验里降低风险的操作技巧。", "降低化学实验室的风险：操作技术"),
 ("开场", "四个图标排成一行：整洁台面、滴定管、烧瓶加热、废液桶",
  "Four icons in a row: a tidy bench, a burette, a flask on a hot plate, and a waste container with a lid. No people.",
  "实验前、滴定、合成、实验后，逐一来看。", "", ["实验前", "滴定", "合成", "实验后"]),

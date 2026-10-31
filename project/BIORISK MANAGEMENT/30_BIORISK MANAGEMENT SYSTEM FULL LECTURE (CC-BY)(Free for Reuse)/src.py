@@ -48,7 +48,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张由齿轮连成的大图前，向镜头挥手",
  "The panda mascot stands in front of a big diagram of interlocking gears and waves at the camera.",
- "生物安全，靠一个人盯不住，", "把生物安全管成一个体系"),
+ "生物安全，靠一个人盯不住，", "生物风险管理体系：完整讲座"),
 ("开场", "齿轮一起转动起来",
  "The interlocking gears start turning together. No people.",
  "要靠一整套体系转起来。"),

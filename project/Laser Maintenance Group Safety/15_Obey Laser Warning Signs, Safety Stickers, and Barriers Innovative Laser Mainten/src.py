@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一条黄黑链条前，旁边贴着黄色激光警告标志",
  "The panda mascot stands in front of a yellow and black chain barrier next to a yellow laser warning sign.",
- "警示标志、贴纸和链条，要听它们的。", "看懂激光警示：标志、贴纸和链条"),
+ "警示标志、贴纸和链条，要听它们的。", "遵守激光警示标志、安全标贴与隔离栏"),
 ("开场", "警告标志、贴纸、链条三个图标",
  "Three icons in a row: a laser warning sign, a warning sticker and a chain barrier. No people.",
  "老李带我们去机器背面看看。", "", ["标志", "贴纸", "链条"]),

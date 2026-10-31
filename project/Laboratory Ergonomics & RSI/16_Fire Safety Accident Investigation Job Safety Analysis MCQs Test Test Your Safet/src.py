@@ -67,7 +67,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一叠题卡，向镜头招手",
  "The panda mascot holds a stack of blank question cards and waves at the camera.",
- "五套题、五十问，一口气复习完。", "五合一安全五十问"),
+ "五套题、五十问，一口气复习完。", "安全知识自测：消防、事故调查与工作安全分析"),
 ("开场", "五个图标：火焰、灭火器、放大镜、台阶、齿轮",
  "Five icons in a row: a flame, a fire extinguisher, a magnifying glass, a staircase and a gear. No people.",
  "消防、灭火器、事故调查、危害分析、机械。", "", ["消防", "灭火器", "事故调查", "危害分析", "机械防护"]),

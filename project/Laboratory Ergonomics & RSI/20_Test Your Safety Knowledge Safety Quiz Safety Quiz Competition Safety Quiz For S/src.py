@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室休息区的白板前，举起一张空白答题卡",
  "The panda mascot stands at a whiteboard in a lab break area, holds up a blank answer card and waves at the camera.",
- "二十道综合安全题，一起来测一测！", "实验室里找答案：综合安全二十问"),
+ "二十道综合安全题，一起来测一测！", "安全知识测验：职业健康、环境与消防"),
 ("开场", "一排图标：汽车、警铃、心形、火焰、电插头、垃圾桶、化学品瓶",
  "A row of simple icons: a car, an alarm bell, a heart, a flame, a power plug, a waste bin and a chemical bottle. No people.",
  "交通、疏散、急救、消防、环保，样样都有。", "", ["交通", "疏散", "急救", "消防", "环保"]),

@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身旁一本合上的安全手册",
  "The panda mascot stands at a laboratory door beside a closed blank safety manual on a small stand and waves at the camera.",
- "这一课讲安全文化和人的因素。", "安全文化与人的因素"),
+ "这一课讲安全文化和人的因素。", "第12单元：安全文化与人的因素"),
 ("开场", "手册、人群、天平、上升箭头四个图标排成一行",
  "Four icons in a row: a closed blank manual, a group of people, a balance scale and an upward arrow. No people.",
  "从守规矩，到人人自觉守安全。", "", ["合规", "文化", "公正", "持续"]),

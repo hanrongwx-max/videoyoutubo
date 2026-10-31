@@ -45,7 +45,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一摞空白复习卡片旁，向镜头招手",
  "The panda mascot stands beside a tall stack of blank review cards on a desk and waves at the camera.",
- "这一课，把辐射防护从头复习一遍。", "辐射防护总复习：从剂量到屏蔽"),
+ "这一课，把辐射防护从头复习一遍。", "辐射防护与健康物理：全面概览"),
 ("开场", "五个图标排成一行：尺子、地球、细胞、限速牌、盾牌",
  "Five icons in a row: a ruler, a globe, a cell, a blank speed-limit style round sign, and a shield. No people.",
  "剂量、本底、效应、限值、屏蔽。", "", ["剂量", "本底", "效应", "限值", "屏蔽"]),

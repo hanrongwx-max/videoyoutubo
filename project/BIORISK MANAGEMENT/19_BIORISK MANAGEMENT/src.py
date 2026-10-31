@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在门上贴着生物危害标志的实验室前，向镜头招手",
  "The panda mascot stands in front of a lab door with a biohazard warning sign and waves at the camera.",
- "这一课讲风险分组和三步管理。", "四个风险组与三步管理"),
+ "这一课讲风险分组和三步管理。", "风险组与生物风险管理三步法"),
 ("开场", "四级台阶图标和三个相连的圆圈图标",
  "Icons of a four-step staircase and three linked circles side by side. No people.",
  "先认清风险，再一步步管住它。", "", ["四个风险组", "三步管理"]),

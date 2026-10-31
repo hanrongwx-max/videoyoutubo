@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张五格路线图前，向镜头挥手",
  "The panda mascot stands in front of a big five-step road map made of blank boxes and waves at the camera.",
- "生物风险管理，从哪里学起？", "生物风险管理学习路线"),
+ "生物风险管理，从哪里学起？", "生物风险管理导论：课程路线"),
 # 情景
 ("情景", "阿杰第一天进微生物实验室，兴奋地想直接开始实验",
  "On his first day, the young male student walks into a microbiology laboratory, eager to start an experiment right away.",

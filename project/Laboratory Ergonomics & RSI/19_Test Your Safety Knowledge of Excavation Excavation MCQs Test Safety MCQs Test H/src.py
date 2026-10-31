@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴安全帽站在围挡外，向镜头招手",
  "The panda mascot wearing a safety helmet stands outside a construction fence and waves at the camera.",
- "今天十五道题，测测开挖安全知识。", "开挖与沟槽安全十五问"),
+ "今天十五道题，测测开挖安全知识。", "开挖安全知识自测"),
 ("开场", "一行图标：挖掘机、沟槽、梯子、气体检测仪",
  "A row of icons: an excavator, a trench, a ladder and a gas detector. No people.",
  "选择题和判断题，听题再看答案。", "", ["选择题", "判断题"]),

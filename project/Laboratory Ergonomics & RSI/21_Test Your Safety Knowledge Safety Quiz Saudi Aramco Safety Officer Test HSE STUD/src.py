@@ -44,7 +44,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴安全帽坐在考桌前，举起一张空白答卷",
  "The panda mascot wearing a safety helmet sits at an exam desk, holds up a blank answer sheet and waves.",
- "二十五道判断题，你能答对几道？", "进场考核：二十五道判断题"),
+ "二十五道判断题，你能答对几道？", "某石油公司安全员测验"),
 ("开场", "一行图标：梯子、电钻、安全帽、吊车、灭火器",
  "A row of icons: a ladder, a power drill, a hard hat, a crane and a fire extinguisher. No people.",
  "梯子、电动工具、吊装、用电、消防。", "", ["梯子", "电动工具", "吊装", "用电", "消防"]),

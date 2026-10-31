@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有烧杯、磁力搅拌器和pH计",
  "The panda mascot stands beside a lab bench with a glass beaker, a magnetic stirrer and a benchtop pH meter with a blank display, and waves at the camera.",
- "这一课讲缓冲液配制和pH计使用。", "缓冲液配制与pH计使用"),
+ "这一课讲缓冲液配制和pH计使用。", "缓冲液与pH计"),
 ("开场", "计算配制、滴定配制、pH计三个图标排成一行",
  "Three icons in a row from left to right: a calculator next to a balance, a beaker with a dropper above it, and a pH meter probe. No people.",
  "两种配制方法，再加pH计的正确用法。", "", ["计算配制", "边测边调", "pH计"]),

@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在创客空间的电脑前，屏幕上是空白的设计画布，向镜头招手",
  "The panda mascot sits at a computer in a makerspace, the monitor showing a blank design canvas, and waves at the camera.",
- "这一课，认识激光切割机的设计软件。", "激光设计软件入门与加工前检查"),
+ "这一课，认识激光切割机的设计软件。", "激光切割机4：设计软件"),
 ("开场", "电脑、文件夹、上传箭头、放大镜四个图标",
  "Four icons in a row: a computer monitor, a folder, an upload arrow and a magnifying glass. No people.",
  "账号、文件、找设计，一样样来。", "", ["账号", "传文件", "找设计"]),

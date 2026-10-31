@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实训车间里一个大纸箱旁，向镜头招手",
  "The panda mascot stands next to a large blank cardboard box in a university training workshop and waves at the camera.",
- "这一课，从开箱到第一次焊接。", "手持激光焊接机开箱、安装与首次使用"),
+ "这一课，从开箱到第一次焊接。", "800瓦手持激光焊机：开箱与首次使用"),
 ("开场", "三个图标：焊缝、清洗刷、切割火花",
  "Three icons in a row: a weld seam, a cleaning brush with sparkles and a cutting spark. No people.",
  "这台焊机能焊接、能清洗、也能切割。", "", ["焊接", "清洗", "切割"]),

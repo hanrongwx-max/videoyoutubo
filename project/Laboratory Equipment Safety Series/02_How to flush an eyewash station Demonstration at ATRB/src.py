@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在走廊墙边的嵌墙式洗眼柜旁，向镜头招手",
  "The panda mascot stands beside a recessed stainless steel eyewash cabinet in a corridor wall and waves at the camera.",
- "今天看看洗眼器怎样定期冲洗。", "洗眼器的定期冲洗"),
+ "今天看看洗眼器怎样定期冲洗。", "如何冲洗洗眼器"),
 # 情景
 ("情景", "阿杰穿着T恤短裤，提着蓝色水桶走到柜前",
  "The young male student in a T-shirt and shorts walks up to the wall cabinet carrying a blue plastic water can with a black hose.",

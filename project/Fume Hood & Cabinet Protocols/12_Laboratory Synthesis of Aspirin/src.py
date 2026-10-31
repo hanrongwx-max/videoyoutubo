@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，手里举着一个白色药片模型，向镜头招手",
  "The panda mascot stands at a lab bench, holds up a large white tablet model and waves at the camera.",
- "这一课，我们来合成阿司匹林。", "阿司匹林合成实验与安全"),
+ "这一课，我们来合成阿司匹林。", "阿司匹林的实验室合成"),
 ("开场", "锥形瓶、热水浴、抽滤漏斗、试管架四个图标",
  "Four icons in a row: a conical flask, a beaker water bath on a hot plate, a filter funnel and a rack of test tubes. No people.",
  "合成、提纯、检验，一步步来。", "", ["合成", "提纯", "检验"]),

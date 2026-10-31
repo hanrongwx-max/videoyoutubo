@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在焊接机主机和一台送丝机之间招手",
  "The panda mascot stands between a blank gray laser welding main unit and a blank wire feeder box and waves at the camera.",
- "这一课讲送丝机怎样安装和设置。", "激光焊接机送丝机的安装与设置"),
+ "这一课讲送丝机怎样安装和设置。", "激光焊机：送丝机的安装与设置"),
 ("开场", "电缆、送丝轮、焊丝盘、焊枪四个图标",
  "Four icons in a row: a cable with two plugs, a drive roller, a wire spool and a welding gun. No people.",
  "连接、装轮、装丝、送丝，一步步来。", "", ["连接", "装轮", "装丝", "送丝"]),

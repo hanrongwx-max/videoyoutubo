@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排用链条固定的气瓶旁，向镜头招手",
  "The panda mascot stands beside a row of gas cylinders chained to a wall rack and waves at the camera.",
- "这一课讲压缩气瓶的安全使用。", "压缩气瓶的安全使用"),
+ "这一课讲压缩气瓶的安全使用。", "压缩气瓶安全：实验室操作规程"),
 ("开场", "收货箱、货架、推车、阀门、警示灯五个图标排成一行",
  "Five icons in a row: a delivery box, a storage rack, a hand truck, a valve and a warning light. No people.",
  "验收、储存、搬运、使用、应急。", "", ["验收", "储存", "搬运", "使用", "应急"]),

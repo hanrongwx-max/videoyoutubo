@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光车间门口，向镜头招手",
  "The panda mascot stands at the entrance of a laser workshop and waves at the camera.",
- "不开激光的人，进车间要注意什么？", "非操作人员的激光车间安全"),
+ "不开激光的人，进车间要注意什么？", "非激光操作人员与参观者的工业激光安全提示"),
 ("开场", "储罐、地垫、急停、总闸、灭火器、链条六个图标",
  "Six icons in a row: a cryogenic tank, a floor safety mat, an emergency stop button, a wall disconnect switch, an extinguisher and a chain. No people.",
  "跟老李把车间完整走一圈。"),

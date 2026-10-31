@@ -44,7 +44,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一支可调式移液器",
  "The panda mascot holds up an adjustable air-displacement pipette with a yellow plastic tip and waves at the camera.",
- "这一课学移液器的正确用法。", "移液器的使用"),
+ "这一课学移液器的正确用法。", "自动移液器"),
 ("开场", "选规格、设体积、吸放液、校准四个图标",
  "Four icons in a row: three pipettes of different sizes, a dial window, a tip dipping into liquid, and a balance. No people.",
  "选规格、设体积、吸放液、校准，一个不落。", "", ["选规格", "设体积", "吸放液", "校准"]),

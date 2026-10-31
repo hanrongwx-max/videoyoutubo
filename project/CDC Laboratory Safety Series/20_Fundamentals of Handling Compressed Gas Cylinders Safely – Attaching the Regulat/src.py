@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台边的一只气瓶旁，手里拿着减压器",
  "The panda mascot stands beside a gas cylinder standing upright next to a lab bench, holding a pressure regulator with two round gauges, and waves at the camera.",
- "这一课讲怎样给气瓶装上减压器。", "给气瓶装上减压器"),
+ "这一课讲怎样给气瓶装上减压器。", "压缩气瓶安全操作基础：安装减压器"),
 ("开场", "放大镜、关闭的阀门、手、扳手四个图标排成一行",
  "Four icons in a row: a magnifying glass, a closed valve, a hand, and a wrench. No people.",
  "先检查，再归零，手拧上，扳手紧。", "", ["检查", "归零", "手拧", "拧牢"]),

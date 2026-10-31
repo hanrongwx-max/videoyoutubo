@@ -45,7 +45,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一套蒸馏装置旁",
  "The panda mascot stands beside a glass distillation setup with a round-bottom flask in a heating mantle, a condenser and a receiving flask, and waves at the camera.",
- "这一课学简单蒸馏和分馏。", "简单蒸馏与分馏"),
+ "这一课学简单蒸馏和分馏。", "蒸馏（上）"),
 ("开场", "简单蒸馏和分馏两套装置图标",
  "Two icons side by side: a simple distillation setup and one with a tall column between flask and head. No people.",
  "装置怎么搭、怎么控速、哪里最危险，都讲。", "", ["简单蒸馏", "分馏"]),

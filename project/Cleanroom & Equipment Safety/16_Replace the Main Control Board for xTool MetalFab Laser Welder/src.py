@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在侧门打开的激光焊接机旁，指着机内一块长条电路板，向镜头招手",
  "The panda mascot stands beside a gray wheeled laser welding machine with its side open, points at a long blank circuit board inside, and waves at the camera.",
- "这一课，看焊机的主控板怎样更换。", "激光焊接机主控板的规范更换"),
+ "这一课，看焊机的主控板怎样更换。", "激光焊机：更换主控板"),
 ("开场", "四个图标：警示卡、插头、旧电路板、新电路板",
  "Four icons in a row: a warning card, a cable connector, an old circuit board and a new circuit board. No people.",
  "拔插头、拆旧板、装新板、插回。", "", ["拔插头", "拆旧板", "装新板", "插回"]),

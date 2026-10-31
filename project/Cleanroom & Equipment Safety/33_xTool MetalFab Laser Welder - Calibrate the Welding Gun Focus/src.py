@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着焊枪，指着枪管上的一圈刻度",
  "The panda mascot holds a handheld laser welding gun and points at the graduated scale on its barrel.",
- "这一课讲焊枪焦距怎样校准。", "激光焊接机焊枪焦距的校准"),
+ "这一课讲焊枪焦距怎样校准。", "激光焊机：校准焊枪焦点"),
 ("开场", "三个步骤图标：设置屏幕、电源开关、刻度管",
  "Three icons in a row: a settings screen, a power switch turned off and a graduated tube. No people.",
  "一共三步：查、关、调。", "", ["查参考值", "关电源", "调刻度管"]),

@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张空白评估表前，向镜头招手",
  "The panda mascot stands beside a large blank assessment chart on an easel and waves at the camera.",
- "新微生物、新实验，用几级防护？", "怎么定级别：新微生物和新实验的风险评估"),
+ "新微生物、新实验，用几级防护？", "如何确定新微生物或新实验的生物安全等级？"),
 ("开场", "一个天平，一端是微生物图标，一端是防护等级台阶",
  "A balance scale with a microbe icon on one side and a four-step staircase icon on the other. No people.",
  "今天讲：怎么科学地确定防护级别。"),

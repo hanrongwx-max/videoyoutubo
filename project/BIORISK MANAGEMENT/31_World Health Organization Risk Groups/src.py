@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着四个空格子",
  "The panda mascot stands in front of a whiteboard with four empty boxes drawn on it and waves at the camera.",
- "这一课，我们来认识四个风险组。", "四个风险组怎么分"),
+ "这一课，我们来认识四个风险组。", "国际通行的风险组分级"),
 ("开场", "四个格子由浅到深排开，旁边一个地球图标",
  "Four boxes in a row shaded from light to dark, next to a globe icon. No people.",
  "再看看评估时要考虑哪些地区因素。"),

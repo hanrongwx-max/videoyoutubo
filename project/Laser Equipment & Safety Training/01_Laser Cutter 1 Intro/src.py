@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在创客空间里一台桌面式激光切割机旁，向镜头招手",
  "The panda mascot stands in a bright makerspace beside a closed desktop laser cutter with a dark lid and waves at the camera.",
- "这一课，我们来认识激光切割机。", "认识激光切割机"),
+ "这一课，我们来认识激光切割机。", "激光切割机1：入门"),
 ("开场", "木板、木尺、齿轮三个图标排成一行",
  "Three icons in a row: a wooden board, a small wooden ruler and a gear. No people.",
  "它是什么，能做什么，先看一看。", "", ["是什么", "能做什么"]),

@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上摆着移液管、容量瓶、滴定管和注射器，向镜头招手",
  "The panda mascot stands beside a lab bench with a pipette, a volumetric flask, a burette on a stand and a syringe, and waves at the camera.",
- "这一课讲容量器具的规范使用。", "容量器具的规范使用"),
+ "这一课讲容量器具的规范使用。", "容量分析技术"),
 ("开场", "四种器具图标排成一行",
  "Four icons in a row: a volumetric pipette with a rubber bulb, a volumetric flask, a burette with a stopcock, and a small syringe. No people.",
  "四件器具，量得准还要用得安全。", "", ["移液管", "容量瓶", "滴定管", "注射器"]),

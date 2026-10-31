@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一栋实验楼模型前，向镜头招手",
  "The panda mascot stands in front of a small model of a laboratory building and waves at the camera.",
- "今天聊聊：生物安全实验室谁来管。", "生物安全实验室谁来管"),
+ "今天聊聊：生物安全实验室谁来管。", "生物风险管理导论：设施管理"),
 # 情景
 ("情景", "阿杰在走廊里看到老李在修设备，王老师在检查，老周在开会",
  "In a corridor, the young male student sees the facility engineer repairing a unit, the safety administrator inspecting a door and the older man in a meeting room.",

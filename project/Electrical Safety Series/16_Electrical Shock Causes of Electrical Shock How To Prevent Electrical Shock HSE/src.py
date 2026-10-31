@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，向镜头招手",
  "The panda mascot stands at the door of a bright university lab and waves at the camera.",
- "你好！今天说说电击从哪来。", "电击从哪来，怎样防"),
+ "你好！今天说说电击从哪来。", "触电的原因与预防"),
 ("开场", "闪电、问号、盾牌三个图标",
  "Three icons in a row: a lightning bolt, a question mark and a shield. No people.",
  "弄清原因，才知道怎么防。", "", ["原因", "预防"]),

@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室门口，向镜头招手",
  "The panda mascot stands at the door of a microbiology lab and waves at the camera.",
- "这一课讲：什么是生物安全。", "什么是生物安全"),
+ "这一课讲：什么是生物安全。", "什么是生物安全？"),
 ("开场", "欣欣身旁出现一个生物危害警示图标",
  "The panda mascot beside a biohazard warning sign. No text.",
  "一句话，弄懂这个词。"),
@@ -36,7 +36,7 @@ SHOTS = [
 # K1
 ("K1", "三个并排的空白图标：操作手册、安全柜、实验楼",
  "Three blank icons in a row: a manual, a safety cabinet, and a lab building. No people.",
- "生物安全靠三样东西。", "什么是生物安全", ["操作", "设备", "设施"]),
+ "生物安全靠三样东西。", "什么是生物安全？", ["操作", "设备", "设施"]),
 ("K1", "一本操作手册图标",
  "A procedure-manual icon. No people.",
  "规范的操作方法，"),

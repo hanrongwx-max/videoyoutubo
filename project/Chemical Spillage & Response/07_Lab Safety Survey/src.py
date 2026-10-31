@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿实验服站在实验室里，对镜微笑",
  "The panda mascot in a lab coat stands in the lab and smiles at the camera.",
- "这一课，示范一次实验室安全巡查。", "安全巡查：找找隐患在哪里"),
+ "这一课，示范一次实验室安全巡查。", "实验室安全巡查"),
 # 情景
 ("情景", "小研拿着写字板走到实验台前，低头查看",
  "The female graduate student walks up to a lab bench holding a clipboard and looks down carefully.",

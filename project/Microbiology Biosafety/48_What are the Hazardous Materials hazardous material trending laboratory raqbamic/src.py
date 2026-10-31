@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排空白标签的瓶罐前，向镜头招手",
  "The panda mascot stands in front of a row of bottles and cans with blank labels and waves at the camera.",
- "这些瓶瓶罐罐，哪些有危险？", "认识危险物品：七大类和它们藏在哪"),
+ "这些瓶瓶罐罐，哪些有危险？", "什么是危险物品？"),
 ("开场", "七个彩色格子依次亮起，每格一个危险象形图",
  "Seven colored boxes light up one by one, each with a hazard pictogram. No people.",
  "今天认识危险物品的七大类。", None, ["七大类"]),

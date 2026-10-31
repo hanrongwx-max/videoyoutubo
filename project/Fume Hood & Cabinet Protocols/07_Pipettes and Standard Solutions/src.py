@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上摆着移液管、移液器和容量瓶，向镜头招手",
  "The panda mascot stands at a lab bench with glass pipettes, a micropipette and a volumetric flask and waves at the camera.",
- "这一课讲移液器具和标准溶液。", "移液器具与标准溶液"),
+ "这一课讲移液器具和标准溶液。", "移液管与标准溶液"),
 ("开场", "量筒、移液管、微量移液器、容量瓶四个图标排成一行",
  "Four icons in a row: a graduated cylinder, a glass pipette with a bulb, a micropipette and a volumetric flask. No people.",
  "量得准，配得准。", "", ["量得准", "配得准"]),

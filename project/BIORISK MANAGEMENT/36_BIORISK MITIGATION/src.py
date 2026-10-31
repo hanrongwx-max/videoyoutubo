@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一座五层彩色金字塔旁",
  "The panda mascot stands beside a five-band coloured pyramid.",
- "这一课，讲怎么用控制减风险。", "五类控制减风险"),
+ "这一课，讲怎么用控制减风险。", "生物风险减缓"),
 ("开场", "三个圆圈循环里，第二个圆被点亮",
  "Three circles form a loop; the second one lights up. No people.",
  "评估之后,就该动手减缓了。"),

@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在校园里，身后是实验楼、农田和小河",
  "The panda mascot stands on a campus path with a lab building, a field and a small river behind it, waving at the camera.",
- "欢迎来到生物安全课。", "什么是生物安保"),
+ "欢迎来到生物安全课。", "什么是生物安保？"),
 ("开场", "欣欣举起一面带锁头图案的盾牌",
  "The panda mascot holds up a shield with a padlock icon on it.",
  "今天说一个词：生物安保。"),

@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在灭菌间门口，向镜头招手",
  "The panda mascot stands at the door of a sterilization room with an autoclave behind it and waves at the camera.",
- "欢迎来到实验室安全课。", "灭菌，也藏着危害"),
+ "欢迎来到实验室安全课。", "实验室危害与灭菌"),
 ("开场", "欣欣身旁浮现火焰、试剂瓶、射线三个图标",
  "Beside the panda mascot float three icons: a flame, a reagent bottle, and radiating rays.",
  "今天说说灭菌和危害的关系。"),

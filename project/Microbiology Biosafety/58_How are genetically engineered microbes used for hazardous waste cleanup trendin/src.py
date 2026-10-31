@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，身旁浮着一个DNA双螺旋和细菌图标",
  "The panda mascot stands at a lab bench beside a floating DNA double helix icon and a bacterium icon, and waves at the camera.",
- "改造过基因的细菌，能帮忙治污。", "工程菌治污：本事大，规矩更大"),
+ "改造过基因的细菌，能帮忙治污。", "基因工程微生物如何用于危险废物治理？"),
 ("开场", "欣欣指向一个细菌图标和一个盾牌图标",
  "The panda mascot points to a bacterium icon and a shield icon side by side.",
  "今天讲它的本事，也看它的风险。", "", ["本事", "风险"]),

@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在桌面式激光切割机旁，手里举着一枚木质徽章",
  "The panda mascot stands beside a closed desktop laser cutter holding up a small wooden badge and waves at the camera.",
- "激光切割培训的最后一课。", "激光切割机：考核、授权与预约"),
+ "激光切割培训的最后一课。", "激光切割机7：总结"),
 ("开场", "测验卷、徽章、日历、签到台四个图标排成一行",
  "Four icons in a row: a blank quiz sheet, a wooden badge, a blank calendar and a front desk. No people.",
  "测验、徽章、预约、签到。", "", ["测验", "上机考核", "预约", "签到"]),

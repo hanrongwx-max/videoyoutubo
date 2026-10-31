@@ -55,7 +55,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身边漂浮着各种微生物卡通图标",
  "The panda mascot stands at a lab doorway with cartoon icons of microbes floating around it and waves at the camera.",
- "这一课，我们来认识生物因子。", "认识生物因子"),
+ "这一课，我们来认识生物因子。", "生物风险管理：生物因子"),
 ("开场", "微生物图标排成一排，旁边是放大镜和评估表",
  "A row of cartoon microbe icons next to a magnifying glass and a blank risk assessment form. No people.",
  "它们有哪些种类，风险怎么评估。"),

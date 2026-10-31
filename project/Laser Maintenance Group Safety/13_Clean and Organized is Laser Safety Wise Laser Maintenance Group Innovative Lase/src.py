@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣拿着扫帚站在整洁的车间通道上，向镜头招手",
  "The panda mascot holds a broom in a tidy workshop aisle and waves at the camera.",
- "整洁有序，也是安全。", "整洁有序也是安全"),
+ "整洁有序，也是安全。", "整洁有序，激光更安全"),
 ("开场", "通道、线缆、废料桶、格栅台、废料架五个图标",
  "Five icons in a row: a clear aisle, a coiled cable, a scrap bin, a grid table and a scrap rack. No people.",
  "跟老李在车间里走一圈。"),

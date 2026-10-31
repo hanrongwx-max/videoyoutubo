@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光焊接机背面，指着一个红色船形开关，向镜头招手",
  "The panda mascot stands at the back of a gray wheeled laser welding machine, points at a red illuminated rocker switch, and waves at the camera.",
- "这一课，看焊机的电源开关怎样更换。", "激光焊接机电源开关的规范更换"),
+ "这一课，看焊机的电源开关怎样更换。", "激光焊机：更换船形开关"),
 ("开场", "四个图标：警示卡、螺丝刀、旧开关、新开关",
  "Four icons in a row: a warning card, a flat-head screwdriver, an old rocker switch and a new rocker switch. No people.",
  "看警示、拆旧开关、装新开关。", "", ["警示", "拆旧", "装新"]),

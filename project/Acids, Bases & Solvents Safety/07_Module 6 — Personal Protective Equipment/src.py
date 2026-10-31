@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着实验服、戴护目镜和手套，向镜头招手",
  "The panda mascot wearing a lab coat, safety goggles and gloves waves at the camera in a bright lab.",
- "这一课讲个人防护：选对、穿对、脱对。", "个人防护装备：选对、穿对、脱对"),
+ "这一课讲个人防护：选对、穿对、脱对。", "第6单元：个人防护装备"),
 ("开场", "护目镜、手套、实验服、口罩四个图标从头到手排成一列",
  "Four icons stacked from top to bottom: safety goggles, a respirator mask, a lab coat and a pair of gloves. No people.",
  "从眼睛、口鼻、身体到双手，一样样看。", "", ["眼面部", "呼吸", "身体", "手部"]),

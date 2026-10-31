@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排贴着空白标签的废液桶旁",
  "The panda mascot stands beside a neat row of waste containers with blank labels in a lab corner and waves at the camera.",
- "这一课讲职业素养和废物处置。", "职业素养与废物处置"),
+ "这一课讲职业素养和废物处置。", "职业素养与废物处置：实验室安全要点"),
 ("开场", "握手、护目镜、废液桶、对话气泡四个图标",
  "Four icons in a row: a handshake, safety goggles, a waste container and a speech bubble. No people.",
  "守规矩、戴防护、管废物、多沟通。", "", ["守规矩", "戴防护", "管废物", "多沟通"]),

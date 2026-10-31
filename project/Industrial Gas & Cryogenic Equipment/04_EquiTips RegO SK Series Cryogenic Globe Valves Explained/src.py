@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着护目镜站在阀门厂车间的货架前，向镜头招手",
  "The panda mascot wearing safety glasses stands in front of shelves in a valve factory workshop and waves at the camera.",
- "欢迎来到设备小课堂，今天在阀门厂。", "低温截止阀的安全操作"),
+ "欢迎来到设备小课堂，今天在阀门厂。", "低温截止阀解析"),
 ("开场", "小研戴着护目镜走进画面，和欣欣并肩站立",
  "The female graduate student wearing safety glasses walks into the frame and stands beside the panda mascot.",
  "嘉宾小研，是厂家的产品管理总监。"),

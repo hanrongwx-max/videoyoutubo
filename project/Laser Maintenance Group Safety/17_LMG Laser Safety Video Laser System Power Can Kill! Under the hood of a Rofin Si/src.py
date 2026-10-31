@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台大机柜旁，旁边一个闪电图标",
  "The panda mascot stands beside a large laser cabinet with a lightning bolt icon nearby.",
- "激光器里的电，是能要命的。", "激光器里的高压电"),
+ "激光器里的电，是能要命的。", "激光系统的电能可致命：谐振腔内部"),
 ("开场", "机柜、联锁开关、闪电、紫色光四个图标",
  "Four icons in a row: a laser cabinet, an interlock switch, a lightning bolt and a purple glow. No people.",
  "跟老李掀开谐振腔看一看。"),

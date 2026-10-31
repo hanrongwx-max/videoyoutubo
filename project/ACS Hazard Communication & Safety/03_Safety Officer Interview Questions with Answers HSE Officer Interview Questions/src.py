@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，向镜头招手",
  "The panda mascot stands in front of a blank whiteboard and waves at the camera.",
- "欢迎收看安全员面试问答！", "安全知识问答：实验室安全管理入门"),
+ "欢迎收看安全员面试问答！", "安全员面试问答：危害、风险与事故预防"),
 ("开场", "白板上一级级台阶，从低到高",
  "A drawing of steps rising from low to high on a whiteboard, with a handshake icon at the top. No people.",
  "题目由易到难，一起来练。", "", ["由易到难"]),

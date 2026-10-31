@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在车间一台黄色移动式电焊机旁，向镜头招手",
  "The panda mascot stands next to a yellow wheeled welding machine in a factory workshop and waves at the camera.",
- "这一课讲电焊机使用前怎样检查。", "电焊机使用前检查"),
+ "这一课讲电焊机使用前怎样检查。", "如何检查电焊机"),
 ("开场", "放大镜在焊机图标上移动，旁边出现空白清单",
  "A magnifying glass icon moves over a welding machine icon next to a blank checklist. No people.",
  "一台焊机，十个检查点。"),

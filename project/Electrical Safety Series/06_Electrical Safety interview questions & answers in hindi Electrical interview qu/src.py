@@ -44,7 +44,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着安全帽和闪电，向镜头招手",
  "The panda mascot stands in front of a whiteboard with drawings of a hard hat and a lightning bolt, waving at the camera.",
- "安全员面试，电气题怎么答？", "用电安全知识问答"),
+ "安全员面试，电气题怎么答？", "用电安全面试问答"),
 ("开场", "十三张空白问题卡排成两行",
  "Thirteen blank question cards arranged in two rows on a board. No people.",
  "今天一口气讲十三道题。", "", ["13道题"]),

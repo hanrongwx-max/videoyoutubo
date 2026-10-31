@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台运行中的桌面式激光切割机旁，向镜头招手",
  "The panda mascot stands beside a running desktop laser cutter with a closed tinted lid and waves at the camera.",
- "这一课讲激光切割机运行时的安全。", "激光切割机的运行安全"),
+ "这一课讲激光切割机运行时的安全。", "激光切割机2：安全"),
 ("开场", "眼睛、暂停键、急停按钮、灭火器四个图标",
  "Four icons in a row: an open eye, a pause button, a red emergency stop button and a fire extinguisher. No people.",
  "守得住、停得下、灭得了。", "", ["守在旁", "会暂停", "会急停", "会灭火"]),

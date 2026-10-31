@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在核酸检测实验室门口，向镜头招手",
  "The panda mascot stands at the door of a nucleic acid testing laboratory and waves at the camera.",
- "今天聊聊：呼吸道病毒样本怎么检测。", "呼吸道病毒样本的核酸检测"),
+ "今天聊聊：呼吸道病毒样本怎么检测。", "生物风险管理导论：新冠病毒诊断检测"),
 ("开场", "欣欣举起一支装着拭子的样本管",
  "The panda mascot holds up a sample tube containing a swab.",
  "这一课讲新冠病人样本的处理。", "", ["新冠样本"]),

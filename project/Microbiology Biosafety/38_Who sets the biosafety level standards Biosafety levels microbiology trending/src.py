@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一摞空白手册旁，向镜头招手",
  "The panda mascot stands beside a stack of blank manuals and waves at the camera.",
- "今天聊聊：生物安全等级，谁来定？", "谁来定规矩：生物安全等级的标准与审批"),
+ "今天聊聊：生物安全等级，谁来定？", "谁来制定生物安全等级标准？"),
 ("开场", "五个图标排成一行：国旗式样的盾牌、地球、DNA、安全帽、圆桌",
  "Five icons in a row: a national shield, a globe, a DNA double helix, a hard hat and a round table. No people.",
  "答案是：好几个机构一起定。", "", ["国家机构", "国际组织", "科研管理", "职业安全", "单位委员会"]),

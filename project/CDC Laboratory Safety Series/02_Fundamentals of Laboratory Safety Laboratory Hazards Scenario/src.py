@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一间实验室门口，手搭凉棚张望",
  "The panda mascot stands at a laboratory doorway, shading its eyes with one paw and looking around curiously.",
- "这一课是个情景题：危害在哪？", "新实验室的危害在哪里"),
+ "这一课是个情景题：危害在哪？", "实验室安全基础：实验室危害情景"),
 ("开场", "欣欣手里举着一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "看完故事，请你一起来想答案。"),

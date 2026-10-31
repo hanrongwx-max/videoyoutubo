@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在化学品柜前，柜门上有危险化学品象形图",
  "The panda mascot stands in front of a chemical storage cabinet with hazard pictograms on its door and waves at the camera.",
- "微生物实验室，也有不少化学品。", "微生物实验室的化学品安全"),
+ "微生物实验室，也有不少化学品。", "微生物实验室安全措施：化学品安全"),
 ("开场", "欣欣身旁浮现标签、柜子、通风柜、泄漏包四个图标",
  "The panda mascot points to four floating icons: a label, a cabinet, a chemical fume hood and a spill kit bucket.",
  "今天讲标签储存、操作和泄漏。", "", ["标签储存", "操作", "泄漏应对"]),

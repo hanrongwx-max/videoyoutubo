@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排装备架前，架上有实验服、面屏、防护服",
  "The panda mascot stands beside an equipment rack holding a lab coat, a face shield and a protective suit, and waves.",
- "每一级实验室，要配哪些安全装备？", "每一级实验室，配哪些安全装备"),
+ "每一级实验室，要配哪些安全装备？", "各生物安全等级使用哪些安全设备？"),
 ("开场", "四色生物危害标志下各放一组装备图标",
  "Four biohazard warning signs from pale yellow to deep red, each above a growing group of equipment icons. No people.",
  "今天从一级一直看到四级。", "", ["一级", "二级", "三级", "四级"]),

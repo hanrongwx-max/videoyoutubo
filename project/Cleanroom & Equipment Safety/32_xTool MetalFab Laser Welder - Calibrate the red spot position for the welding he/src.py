@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣指着焊嘴下方的一个小红点",
  "The panda mascot points at a small red dot on the work surface below a welding gun nozzle.",
- "这一课讲焊枪红色定位点的校准。", "激光焊接机红色定位点的校准"),
+ "这一课讲焊枪红色定位点的校准。", "激光焊机：校准焊接头的红光定位点"),
 ("开场", "两个图标：左右箭头、上下箭头",
  "Two icons side by side: a left-right arrow and an up-down arrow around a red dot. No people.",
  "分左右偏移和上下偏移两种。", "", ["左右偏移", "上下偏移"]),

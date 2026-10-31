@@ -48,7 +48,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有一瓶白色晶体和锥形瓶",
  "The panda mascot stands beside a lab bench with a jar of white crystals and an Erlenmeyer flask, and waves at the camera.",
- "这一课学重结晶，把固体提纯。", "重结晶提纯固体"),
+ "这一课学重结晶，把固体提纯。", "重结晶"),
 ("开场", "单溶剂和双溶剂两个图标并排",
  "Two icons side by side: one flask with a single droplet symbol, and one flask with two droplets of different colors. No people.",
  "单溶剂和双溶剂两种做法都会讲。", "", ["单溶剂", "双溶剂"]),

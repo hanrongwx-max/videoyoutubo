@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电路板焊接台旁，向镜头招手",
  "The panda mascot stands beside a circuit board soldering bench and waves at the camera.",
- "这一课，看懂电，管住电气危害。", "看懂电，管住电气危害"),
+ "这一课，看懂电，管住电气危害。", "实验室安全：减缓工作场所的电气风险"),
 # 情景
 ("情景", "阿杰对着仪器机柜的旋钮犹豫，不知从何下手",
  "The young male student hesitates in front of an instrument cabinet full of knobs, unsure where to start.",

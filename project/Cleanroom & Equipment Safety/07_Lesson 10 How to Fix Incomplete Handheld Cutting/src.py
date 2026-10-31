@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在焊接台旁，手里拿着一块没切断的金属板，向镜头招手",
  "The panda mascot stands beside a welding bench holding a metal sheet with an unfinished cut line and waves at the camera.",
- "这一课：手持激光切割切不透怎么办。", "手持激光切割切不透怎么办"),
+ "这一课：手持激光切割切不透怎么办。", "第10课：手持切割切不透怎么办"),
 ("开场", "三个问号图标分别连着工具、手、屏幕",
  "Three question mark icons linked to a toolbox, a hand holding a welding head and a touchscreen. No people.",
  "从准备、操作、参数三方面查。", "", ["准备", "操作", "参数"]),

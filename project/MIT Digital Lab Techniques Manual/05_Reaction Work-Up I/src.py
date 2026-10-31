@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在铁架台旁，铁圈上架着一只分液漏斗，里面有两层液体，向镜头招手",
  "The panda mascot stands beside a ring stand holding a separatory funnel with two liquid layers, and waves at the camera.",
- "这一课讲反应后处理。", "反应后处理：萃取、洗涤与干燥"),
+ "这一课讲反应后处理。", "反应后处理（上）"),
 ("开场", "分液漏斗、洗瓶、干燥剂粉末三个图标",
  "Three icons in a row: a separatory funnel with two layers, a wash bottle, and a flask with white drying powder. No people.",
  "萃取、洗涤、干燥，一步一步来。", "", ["萃取", "洗涤", "干燥"]),

@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，身旁一个小灯泡连着一个装泥水的容器",
  "The panda mascot stands at a lab bench beside a small light bulb wired to a container of muddy water, and waves at the camera.",
- "细菌不光能吃废物，还能发电。", "菌群接力：边解毒，边发电"),
+ "细菌不光能吃废物，还能发电。", "解毒中混合菌群为何优于单一菌株？"),
 ("开场", "欣欣指向两个图标：电池、一群手拉手的细菌",
  "The panda mascot points to two floating icons: a battery and a group of bacteria holding hands.",
  "今天讲燃料电池和混合菌群。", "", ["燃料电池", "混合菌群"]),

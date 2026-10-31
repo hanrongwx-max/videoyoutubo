@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全实验室门口，门上贴着生物危害标志，向镜头招手",
  "The panda mascot stands at the door of a biosafety laboratory with a biohazard warning sign and waves at the camera.",
- "今天上生物风险管理的第一课。", "生物风险管理第一课"),
+ "今天上生物风险管理的第一课。", "生物风险管理：入门单元"),
 ("开场", "欣欣举起三块空白卡片，分别画着放大镜、盾牌、对勾图标",
  "The panda mascot holds up three blank cards with a magnifier icon, a shield icon and a check mark icon.",
  "先把几个关键词弄明白。"),

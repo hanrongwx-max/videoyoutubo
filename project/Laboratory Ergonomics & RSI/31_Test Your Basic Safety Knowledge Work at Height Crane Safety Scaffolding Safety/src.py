@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在梯子旁，举起一张空白答卷",
  "The panda mascot stands next to a step ladder holding up a blank answer sheet and waves at the camera.",
- "高处作业小测验，看看能不能一次过关！", "高处作业：争取一次过关"),
+ "高处作业小测验，看看能不能一次过关！", "基础安全测验：高处作业、起重、脚手架与消防"),
 # 情景
 ("情景", "阿杰坐在电脑前，屏幕上一排空白主题卡片",
  "The young male student sits at a computer whose screen shows a row of blank topic cards.",

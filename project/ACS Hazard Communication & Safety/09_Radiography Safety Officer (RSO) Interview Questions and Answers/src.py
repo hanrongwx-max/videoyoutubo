@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽，站在一段管道旁招手",
  "The panda mascot in a hard hat stands beside a section of steel pipeline and waves at the camera.",
- "今天的面试题：工业射线探伤！", "安全知识问答：射线探伤与辐射防护"),
+ "今天的面试题：工业射线探伤！", "射线探伤安全员面试问答"),
 ("开场", "辐射警告标志旁十二个小方格",
  "A radiation warning sign next to twelve small squares in a grid. No people.",
  "一共十二道题。", "", ["12道题"]),

@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室的试剂柜前，向镜头招手",
  "The panda mascot stands in front of a reagent cabinet in a microbiology lab and waves at the camera.",
- "欢迎来到实验室安全课。", "微生物实验室的化学品安全"),
+ "欢迎来到实验室安全课。", "微生物实验室化学品安全的重要性"),
 ("开场", "欣欣身旁浮现三色圆环：烧瓶、细菌、闪电图标",
  "Beside the panda mascot floats a three-colored ring with a flask icon, a microbe icon and a lightning bolt icon.",
  "化学、生物、物理，今天说化学。", "", ["化学", "生物", "物理"]),

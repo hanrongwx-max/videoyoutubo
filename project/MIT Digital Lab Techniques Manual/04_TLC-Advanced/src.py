@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有一块大玻璃板、一盏燃气灯和几瓶显色剂，向镜头招手",
  "The panda mascot stands beside a lab bench with a large glass plate, an unlit gas burner and a few reagent jars with blank labels, and waves at the camera.",
- "这一课讲薄层色谱的进阶技巧。", "薄层色谱进阶技巧"),
+ "这一课讲薄层色谱的进阶技巧。", "薄层色谱：进阶"),
 ("开场", "玻璃刀、细毛细管、显色瓶三个图标",
  "Three icons in a row: a glass cutter, a thin glass capillary, and a reagent jar with a plate dipping in. No people.",
  "切板、拉管、染色，三样本领。", "", ["切玻璃板", "拉点样管", "显色剂染色"]),

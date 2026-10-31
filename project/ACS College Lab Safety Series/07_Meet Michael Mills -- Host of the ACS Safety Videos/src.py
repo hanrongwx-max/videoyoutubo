@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在摄影棚里，身后有补光灯和摄像机，向镜头招手",
  "The panda mascot stands in a small film studio with soft lights and a camera on a tripod behind it, waving at the camera.",
- "这一课，带你看看安全课的幕后。", "安全课幕后：为什么安全放在第一位"),
+ "这一课，带你看看安全课的幕后。", "认识化学安全系列视频的主持人"),
 ("开场", "场记板、护目镜、紧急喷淋、四个台阶图标排成一行",
  "Four icons in a row: a blank film clapperboard, safety goggles, an emergency shower, and four steps going up. No people.",
  "拍安全课的人，自己学到了什么？"),

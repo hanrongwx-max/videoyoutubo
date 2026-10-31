@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白作业许可证，向镜头招手",
  "The panda mascot holds up a blank work permit form and waves at the camera.",
- "作业许可三十问，签发人和接收人都要会。", "作业许可三十问：签发人与接收人"),
+ "作业许可三十问，签发人和接收人都要会。", "作业许可接收人安全测验"),
 ("开场", "一行图标：许可证、印章、监火人、罐区",
  "A row of icons: a permit form, a stamp, a fire watch person and storage tanks. No people.",
  "许可、签发、检查、监火，都在题里。", "", ["许可", "签发", "联合检查", "监火"]),

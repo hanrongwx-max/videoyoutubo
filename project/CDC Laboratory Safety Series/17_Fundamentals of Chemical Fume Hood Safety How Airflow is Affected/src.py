@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台化学通风柜旁，向镜头招手",
  "The panda mascot stands beside a chemical fume hood with its glass sash half open and waves at the camera.",
- "这一课讲通风柜的气流会被什么影响。", "通风柜的气流会被什么影响"),
+ "这一课讲通风柜的气流会被什么影响。", "化学通风柜安全基础：气流如何受影响"),
 ("开场", "通风柜图标里，向内的气流箭头，几个干扰图标围在外面",
  "A fume hood icon with inward airflow arrows, surrounded by small icons: a walking person, a fast-moving sash, a large box and a door. No people.",
  "看不见的气流，最怕被打乱。"),

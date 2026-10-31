@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有一台小巧的分光光度计和电脑",
  "The panda mascot stands beside a lab bench with a small benchtop spectrophotometer connected to a computer with a blank screen, and waves at the camera.",
- "这一课讲怎样用紫外光测DNA浓度。", "用紫外分光光度计测DNA浓度"),
+ "这一课讲怎样用紫外光测DNA浓度。", "用分光光度计定量DNA"),
 ("开场", "DNA双螺旋、紫外光束和对勾三个图标排成一行",
  "Three icons in a row from left to right: a DNA double helix, a violet light beam, and a magnifying glass with a check mark. No people.",
  "测浓度，也要看纯度。", "", ["测浓度", "看纯度"]),

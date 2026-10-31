@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一具灭火器，向镜头招手",
  "The panda mascot holds a red fire extinguisher and waves at the camera.",
- "灭火器十问，选对、拿稳、用好！", "灭火器十问：选对、拿稳、用好"),
+ "灭火器十问，选对、拿稳、用好！", "灭火器安全知识自测"),
 # 情景
 ("情景", "阿杰在走廊里看着墙上的灭火器，挠头",
  "The young male student looks at a fire extinguisher hanging on a corridor wall and scratches his head.",

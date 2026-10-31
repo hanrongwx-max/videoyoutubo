@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一面贴满安全标志的墙前，向镜头招手",
  "The panda mascot stands in front of a wall covered with colorful safety signs and waves at the camera.",
- "今天来一场健康与安全综合十问。", "健康与安全综合十问"),
+ "今天来一场健康与安全综合十问。", "健康与安全测验"),
 ("开场", "一行图标：放大镜、四色标志、人群、火焰",
  "A row of simple icons: a magnifying glass, safety signs in four colors, a group of people and a flame. No people.",
  "事故、标志、责任、危害、灭火都有。", "", ["事故", "标志", "责任", "灭火"]),

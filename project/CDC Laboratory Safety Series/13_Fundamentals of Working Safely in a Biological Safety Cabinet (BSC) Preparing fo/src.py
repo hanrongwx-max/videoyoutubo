@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全柜前，手里拿着空白核查表",
  "The panda mascot stands in front of a biological safety cabinet holding a clipboard with a blank checklist.",
- "这一课讲安全柜开工前的准备。", "开工前，先把安全柜准备好"),
+ "这一课讲安全柜开工前的准备。", "生物安全柜安全操作基础：工作前的准备"),
 ("开场", "核查表上的几个空白方框依次打勾",
  "A blank checklist with empty boxes being ticked one by one with green checks. No people.",
  "准备做足，操作才安心。"),

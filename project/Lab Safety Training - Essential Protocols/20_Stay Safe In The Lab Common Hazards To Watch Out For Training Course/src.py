@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，向镜头招手",
  "The panda mascot stands at the doorway of a busy lab and waves at the camera.",
- "这一课，认识实验室里的常见危害。", "实验室里的五类常见危害"),
+ "这一课，认识实验室里的常见危害。", "实验室安全：要当心的常见危害"),
 # 情景
 ("情景", "阿杰戴护目镜、穿防护服站在实验台前，东张西望",
  "The young male student in safety goggles and a protective coat stands at a lab bench looking around.",

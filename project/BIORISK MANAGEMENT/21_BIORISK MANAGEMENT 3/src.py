@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在温室门口，身边一盆标着问号的禾苗",
  "The panda mascot stands at a greenhouse doorway beside a potted rice seedling with a question mark tag.",
- "这一课，讲怎么管住转基因的风险。", "管住转基因的风险"),
+ "这一课，讲怎么管住转基因的风险。", "转基因植物的风险评估与控制"),
 ("开场", "评估、控制、残余风险三个图标连成一条线",
  "Three icons connected in a line: a form, a shield, and a small leftover dot. No people.",
  "评估、控制、再看剩下多少风险。"),

@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台带透明防护罩的设备旁，向镜头招手",
  "The panda mascot stands beside a machine with a clear protective cover and waves at the camera.",
- "今天用十道题，认识机械防护。", "机械防护十问"),
+ "今天用十道题，认识机械防护。", "机械防护知识自测"),
 ("开场", "一行图标：齿轮、皮带轮、防护罩、锁",
  "A row of simple icons: a gear, a belt pulley, a protective cover and a padlock. No people.",
  "转动的部件，要用防护罩隔开。", "", ["齿轮", "皮带", "防护罩"]),

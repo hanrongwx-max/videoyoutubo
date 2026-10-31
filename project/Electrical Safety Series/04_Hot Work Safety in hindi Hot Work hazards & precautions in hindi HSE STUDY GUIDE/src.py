@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板旁画着火焰和焊花，向镜头招手",
  "The panda mascot stands in front of a whiteboard with drawings of a flame and welding sparks, waving at the camera.",
- "这一课讲动火作业。", "动火作业的危害与预防"),
+ "这一课讲动火作业。", "动火作业的危害与预防措施"),
 ("开场", "火焰、警示三角、盾牌三个图标",
  "Three icons in a row: a flame, a yellow warning triangle and a shield. No people.",
  "什么是动火，有哪些危害和预防。", "", ["定义", "危害", "预防"]),

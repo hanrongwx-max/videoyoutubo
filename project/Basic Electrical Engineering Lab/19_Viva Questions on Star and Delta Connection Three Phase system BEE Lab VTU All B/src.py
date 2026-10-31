@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在三相实验台前，台上有三盏灯和一台小电动机",
  "The panda mascot stands at a three-phase lab bench with three lamps and a small electric motor, waving at the camera.",
- "大家好！今天复习三相电路口试题。", "星形与三角形：三相电路口试问答"),
+ "大家好！今天复习三相电路口试题。", "三相星形与三角形连接口试问答"),
 ("开场", "星形、三角形、电动机、发电机四个图标",
  "Four icons in a row: a star connection, a triangle connection, a motor and a generator. No people.",
  "从星三角，一路讲到电机。", "", ["星形", "三角形", "电动机", "发电机"]),

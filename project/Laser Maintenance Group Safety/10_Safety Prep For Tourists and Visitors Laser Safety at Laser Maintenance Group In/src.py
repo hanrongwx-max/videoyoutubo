@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着导游小旗站在车间门口，向镜头招手",
  "The panda mascot holds a small tour guide flag at a workshop entrance and waves at the camera.",
- "怎样做一个安全的参观向导？", "做一个安全的参观向导"),
+ "怎样做一个安全的参观向导？", "访客参观前的安全准备：激光安全"),
 ("开场", "相机、鞋子、站位、警示灯、说话气泡五个图标",
  "Five icons in a row: a camera, a shoe, a standing spot, a warning light and a speech bubble. No people.",
  "老李在车间里讲了七件事。"),

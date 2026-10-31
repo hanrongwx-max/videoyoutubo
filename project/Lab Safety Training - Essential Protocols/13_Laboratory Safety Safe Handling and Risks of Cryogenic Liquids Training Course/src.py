@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一只冒白雾的不锈钢低温容器旁，向镜头招手",
  "The panda mascot stands beside a stainless steel cryogenic container with white vapor drifting from its opening and waves at the camera.",
- "今天聊聊低温液体，冷得会伤人。", "低温液体：冷得伤人"),
+ "今天聊聊低温液体，冷得会伤人。", "实验室安全：低温液体的安全操作与风险"),
 # 情景
 ("情景", "阿杰穿着运动鞋，伸出光手想去摸结霜的管道",
  "The young male student in mesh sneakers reaches a bare hand toward a frosted metal pipe on a cryogenic tank.",

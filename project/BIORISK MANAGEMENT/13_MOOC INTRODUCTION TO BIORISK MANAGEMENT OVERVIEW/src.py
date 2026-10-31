@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼前，手里拿着一张卷起的空白地图",
  "The panda mascot stands in front of a laboratory building holding a rolled-up blank map, and waves at the camera.",
- "今天给大家画一张生物风险管理全景图。", "生物风险管理：一张全景图"),
+ "今天给大家画一张生物风险管理全景图。", "生物风险管理导论：概述"),
 ("开场", "欣欣展开地图，上面是几个图标：盾牌、锁、循环箭头、手掌",
  "The panda mascot unrolls the blank map showing only icons: a shield, a padlock, a circle of arrows and an open hand.",
  "从概念到方法，一次看明白。"),

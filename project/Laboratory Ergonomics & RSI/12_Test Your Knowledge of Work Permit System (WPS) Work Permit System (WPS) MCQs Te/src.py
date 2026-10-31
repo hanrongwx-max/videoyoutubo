@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白作业票，向镜头招手",
  "The panda mascot holds up a blank work permit form and waves at the camera.",
- "今天用十道题，弄懂作业许可。", "作业许可十问"),
+ "今天用十道题，弄懂作业许可。", "作业许可制度知识自测"),
 ("开场", "一行图标：作业票、签字笔、现场检查放大镜、锁",
  "A row of simple icons: a blank permit form, a signing pen, a magnifying glass over a site and a padlock. No people.",
  "危险的活，先办许可、再检查、后动手。", "", ["办许可", "检查", "动手"]),

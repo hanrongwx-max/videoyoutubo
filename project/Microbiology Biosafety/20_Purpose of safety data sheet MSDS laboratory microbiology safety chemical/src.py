@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一份空白的说明书站在实验台前",
  "The panda mascot stands at a lab bench, holding up a data sheet with blank sections, and waves at the camera.",
- "说明书到底有什么用？", "安全技术说明书有什么用"),
+ "说明书到底有什么用？", "安全技术说明书的用途"),
 ("开场", "欣欣身旁浮现手、柜子、废液桶、急救箱图标",
  "The panda mascot points to floating icons: a gloved hand, a storage cabinet, a waste container and a first aid kit.",
  "今天把它的用处一条条说清。"),

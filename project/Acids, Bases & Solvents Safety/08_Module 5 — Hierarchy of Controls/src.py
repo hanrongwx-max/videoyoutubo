@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一座倒置的五层金字塔模型旁，向镜头招手",
  "The panda mascot stands beside an upside-down five-layer pyramid model and waves at the camera.",
- "这一课讲控制措施层级。", "控制措施层级：从塔尖往下建"),
+ "这一课讲控制措施层级。", "第5单元：控制措施层级"),
 ("开场", "倒金字塔五层依次亮起，从宽到窄",
  "An inverted pyramid icon with five layers lighting up one by one from the wide top to the narrow tip. No people.",
  "消除、替代、工程、管理、防护。", "", ["消除", "替代", "工程控制", "管理措施", "个人防护"]),

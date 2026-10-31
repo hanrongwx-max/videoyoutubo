@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在配电箱旁，手里拿着空白记录板，向镜头招手",
  "The panda mascot stands beside an electrical panel holding a blank clipboard and waves at the camera.",
- "这一课讲电气危害的风险评估。", "用电风险，先评估再动手"),
+ "这一课讲电气危害的风险评估。", "实验室安全：综合风险评估与危害减缓"),
 # 情景
 ("情景", "王老师在培训室前，阿杰举手提问",
  "In a training room, the safety administrator stands at the front while the young male student raises his hand.",

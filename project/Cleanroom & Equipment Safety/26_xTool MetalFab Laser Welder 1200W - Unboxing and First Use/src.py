@@ -56,7 +56,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个大包装箱旁，向镜头招手",
  "The panda mascot stands beside a large blank cardboard shipping box on a wooden pallet and waves at the camera.",
- "这一课讲手持激光焊接机的开箱和首次使用。", "手持式激光焊接机开箱与首次使用"),
+ "这一课讲手持激光焊接机的开箱和首次使用。", "1200瓦手持激光焊机：开箱与首次使用"),
 ("开场", "开箱、安装、首次使用、维护四个图标",
  "Four icons in a row: an opened box, a wrench, a welding gun with a spark, and a gear with a cloth. No people.",
  "开箱、安装、首次使用、维护，四部分。", "", ["开箱", "安装", "首次使用", "维护"]),

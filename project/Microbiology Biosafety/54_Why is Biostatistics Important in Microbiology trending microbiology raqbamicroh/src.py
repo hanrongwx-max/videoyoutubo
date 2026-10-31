@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室里，身旁浮着柱状图和培养皿图标",
  "The panda mascot stands in a microbiology teaching lab, a floating bar chart icon and a culture dish icon beside it, and waves at the camera.",
- "今天聊聊微生物实验里的统计。", "生物统计：让微生物数据说真话"),
+ "今天聊聊微生物实验里的统计。", "生物统计为什么对微生物学重要？"),
 ("开场", "欣欣指向三个图标：烧瓶、柱状图、天平",
  "The panda mascot points to three floating icons: a flask, a bar chart and a balance scale.",
  "设计、分析、决策，三步都要它。", "", ["实验设计", "数据分析", "决策"]),

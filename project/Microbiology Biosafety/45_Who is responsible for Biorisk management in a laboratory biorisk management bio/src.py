@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一条由几个人形图标连成的链条前",
  "The panda mascot stands in front of a chain of linked person icons and waves at the camera.",
- "这一课讲：实验室生物安全，到底谁负责。", "生物安全，谁来负责"),
+ "这一课讲：实验室生物安全，到底谁负责。", "实验室生物风险管理由谁负责？"),
 # 情景
 ("情景", "生物安全柜报警灯亮着，阿杰站在旁边",
  "A biosafety cabinet shows a red alarm light while the young male student stands beside it looking unsure.",

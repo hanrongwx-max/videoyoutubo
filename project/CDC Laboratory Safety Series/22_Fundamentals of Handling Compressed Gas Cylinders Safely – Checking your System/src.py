@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣手拿一只洗瓶，站在气瓶旁",
  "The panda mascot holds a plastic wash bottle and stands beside an upright gas cylinder fitted with a regulator, waving at the camera.",
- "这一课讲供气系统怎样检漏。", "供气系统检漏"),
+ "这一课讲供气系统怎样检漏。", "压缩气瓶安全操作基础：检查系统泄漏"),
 ("开场", "洗瓶、气泡、扳手、记录本四个图标",
  "Four icons in a row: a wash bottle, soap bubbles, a wrench and a blank logbook. No people.",
  "涂液、看泡、紧固、记录。", "", ["涂液", "看泡", "紧固", "记录"]),

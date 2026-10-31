@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，门旁有安全出口标志和灭火器",
  "The panda mascot stands at a lab doorway next to an emergency exit sign and a wall-mounted fire extinguisher, waving at the camera.",
- "这一课讲实验室的应急准备。", "应急准备：有备才能无患"),
+ "这一课讲实验室的应急准备。", "实验室安全：以应急准备守护生命"),
 ("开场", "报警器、文件夹、洗眼器三个图标排成一行",
  "Three icons in a row: a ceiling alarm detector, a blank binder and an eyewash station. No people.",
  "预警、资料、演练，一样都不能少。", "", ["预警", "资料", "演练"]),

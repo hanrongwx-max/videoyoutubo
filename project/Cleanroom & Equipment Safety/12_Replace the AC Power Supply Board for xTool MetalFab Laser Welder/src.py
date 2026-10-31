@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光焊接机旁，身后墙上是一个插座和配电箱，向镜头招手",
  "The panda mascot stands beside a gray wheeled laser welding machine, with a wall socket and a small distribution box behind it, and waves at the camera.",
- "这一课，看焊机的交流电源板怎样更换。", "激光焊接机交流电源板的规范更换"),
+ "这一课，看焊机的交流电源板怎样更换。", "激光焊机：更换交流电源板"),
 ("开场", "电网输电线、插头、电路板、焊机四个图标用箭头连起",
  "Four icons joined by arrows: a power line tower, a plug, a circuit board and a laser welding machine. No people.",
  "市电进机器，第一站就是这块板。", "", ["市电", "插头", "电源板", "焊机"]),

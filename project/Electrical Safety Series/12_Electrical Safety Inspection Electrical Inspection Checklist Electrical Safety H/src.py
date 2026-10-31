@@ -45,7 +45,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白检查表，站在工地配电箱旁，向镜头招手",
  "The panda mascot holds up a blank clipboard checklist next to a closed distribution box at a construction site office and waves at the camera.",
- "这一课讲用电安全检查表怎么用。", "用电安全检查表"),
+ "这一课讲用电安全检查表怎么用。", "用电安全检查与检查表"),
 ("开场", "电缆、配电箱、漏电断路器、接地符号、插头五个图标排成一行",
  "Five icons in a row: a cable reel, a distribution box, a residual current device, a ground symbol and a plug. No people.",
  "五大块，一项一项查。", "", ["电缆", "配电箱", "ELCB", "接地", "设备"]),

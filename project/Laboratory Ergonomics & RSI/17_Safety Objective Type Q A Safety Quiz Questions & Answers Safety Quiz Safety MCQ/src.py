@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着写有15的牌子，向镜头招手",
  "The panda mascot holds up a blank sign with a large number-shaped badge and waves at the camera.",
- "今天十五道安全常识题，一起来答。", "安全常识十五问"),
+ "今天十五道安全常识题，一起来答。", "安全常识测验：事故成本与安全色"),
 ("开场", "一行图标：盾牌、钱袋、标志牌、心形",
  "A row of icons: a shield, a money bag, a safety sign and a heart. No people.",
  "管理、成本、标志、态度，一个不落。", "", ["管理", "成本", "标志", "态度"]),

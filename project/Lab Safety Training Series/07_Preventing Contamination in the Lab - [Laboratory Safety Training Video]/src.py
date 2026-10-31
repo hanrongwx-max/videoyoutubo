@@ -43,7 +43,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在整洁的实验台旁，向镜头招手",
  "The panda mascot stands beside a tidy lab bench and waves at the camera.",
- "这一课讲实验室里看不见的污染。", "看不见的污染：实验室防污染"),
+ "这一课讲实验室里看不见的污染。", "实验室防污染"),
 ("开场", "手套、实验服、通风柜、洗手池四个图标排成一行",
  "Four icons in a row: a pair of gloves, a lab coat, a fume hood and a hand washing sink. No people.",
  "管住手、管住物、管住门。", "", ["防护", "规范", "清洁", "洗手"]),

@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室里，身边是手套、口罩和黄色废物袋",
  "The panda mascot stands in a microbiology lab next to a box of gloves, a face mask and a yellow waste bag with a biohazard sign.",
- "欢迎来到生物安全课。", "微生物实验室的通用安全措施"),
+ "欢迎来到生物安全课。", "微生物实验室的安全措施：通用安全、防护与培训"),
 ("开场", "欣欣竖起三根手指，身旁三个图标：手套、洗手、讲台",
  "The panda mascot holds up three fingers beside three icons: gloves, washing hands, and a classroom podium.",
  "今天讲三件事：防护、习惯、培训。", "", ["个人防护", "操作习惯", "培训"]),

@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台空白屏幕的电脑旁，向镜头招手",
  "The panda mascot stands next to a computer with a blank screen and waves at the camera.",
- "消防小测验，十分钟八题过关！", "消防小测验：十分钟八题过关"),
+ "消防小测验，十分钟八题过关！", "消防安全测验：基础消防知识"),
 # 情景
 ("情景", "阿杰坐在电脑前，屏幕空白",
  "The young male student sits in front of a computer with a blank screen.",

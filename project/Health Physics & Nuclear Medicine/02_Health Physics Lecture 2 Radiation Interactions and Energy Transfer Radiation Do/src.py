@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一道发光的边界线前，一侧是体外射线箭头，一侧是发光的人体轮廓",
  "The panda mascot stands in front of a glowing boundary line; on one side are arrows of rays coming from outside, on the other a glowing human body outline, and it waves at the camera.",
- "这一课，讲剂量限值和剂量测量。", "剂量限值与剂量测量：管住体外，也管住体内"),
+ "这一课，讲剂量限值和剂量测量。", "剂量限值与剂量学"),
 ("开场", "限速牌、尺子、人体轮廓三个图标依次亮起",
  "Three icons light up one by one: a blank round speed limit style sign, a measuring ruler and a human body outline with a glowing spot inside. No people.",
  "上限是多少，怎么量，体内怎么算。", "", ["限值", "测量", "体内"]),

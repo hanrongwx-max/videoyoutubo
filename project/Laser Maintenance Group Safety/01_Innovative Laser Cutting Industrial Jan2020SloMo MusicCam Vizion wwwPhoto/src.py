@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台工业激光切割机旁，向镜头招手",
  "The panda mascot stands beside a large industrial laser cutting machine and waves at the camera.",
- "今天带大家看看工业激光切割。", "看懂激光切割，也看懂它的危险"),
+ "今天带大家看看工业激光切割。", "工业激光切割：过程、部件与打标"),
 ("开场", "金属零件、切割头、火花、打标四个图标排成一行",
  "Four icons in a row: a metal part, a laser cutting head, flying sparks and an engraved part. No people.",
  "看它怎么切零件，怎么打标。", "", ["零件", "切割", "打标"]),

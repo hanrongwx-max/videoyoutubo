@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张摆满木板、亚克力板、皮革和纸板的桌子后，向镜头招手",
  "The panda mascot stands behind a table covered with wooden boards, acrylic sheets, leather pieces and cardboard, and waves at the camera.",
- "这一课讲：激光切割能用哪些材料。", "激光切割的材料选择"),
+ "这一课讲：激光切割能用哪些材料。", "激光切割机3：材料"),
 ("开场", "材料、标签、清单、工作人员四个图标",
  "Four icons in a row: a stack of sheets, a blank label tag, a blank checklist and a person icon at a desk. No people.",
  "选对材料、带好凭证、听从把关。", "", ["选对材料", "带好凭证", "听从把关"]),

@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室里，两手各举一张卡片：一张有感叹号，一张有半个感叹号",
  "The panda mascot stands in a laboratory holding two blank cards, one with a full exclamation mark icon and one with a faded exclamation mark icon.",
- "这一课是个判断题：事故还是未遂？", "是事故还是未遂"),
+ "这一课是个判断题：事故还是未遂？", "实验室安全基础：事故或未遂事件情景"),
 ("开场", "欣欣举起一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "听完故事，请你来做判断。"),

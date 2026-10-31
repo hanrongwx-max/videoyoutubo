@@ -44,7 +44,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台带玻璃罩的分析天平旁",
  "The panda mascot stands beside an analytical balance with a glass draft shield and a blank display, and waves at the camera.",
- "这一课学分析天平怎么用、怎么爱护。", "分析天平的使用"),
+ "这一课学分析天平怎么用、怎么爱护。", "使用天平"),
 ("开场", "称量、环境、维护三个图标",
  "Three icons in a row: a balance with a weigh boat, a door with an air current arrow, and a soft brush. No people.",
  "称量方法、环境影响、故障判断都会讲。", "", ["称量", "环境", "维护"]),

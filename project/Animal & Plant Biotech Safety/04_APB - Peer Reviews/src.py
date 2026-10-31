@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着两份论文初稿，向镜头招手",
  "The panda mascot holds up two blank paper drafts and waves at the camera.",
- "这一课讲怎样给同学的论文做互评。", "同伴互评：帮同学把论文改得更好"),
+ "这一课讲怎样给同学的论文做互评。", "同伴评审"),
 ("开场", "放大镜、红笔、加号、问号四个图标排成一行",
  "Four icons in a row: a magnifying glass, a red pen, a plus sign and a question mark. No people.",
  "读得细、评得准、说得暖、问得清。", "", ["细读", "准评", "建议", "提问"]),

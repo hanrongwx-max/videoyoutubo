@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光切割机旁，举起两只手掌",
  "The panda mascot stands beside a laser cutting machine and holds up both paws.",
- "出光时，为什么双手要放在外面？", "出光时，双手放在外面"),
+ "出光时，为什么双手要放在外面？", "危险激光：为什么出光时双手要放在外面"),
 ("开场", "两只手图标在机器外面，喷嘴下一块透明块",
  "Two hand icons placed outside a machine outline, and a clear block under a nozzle. No people.",
  "老李用一块亚克力来说明。"),

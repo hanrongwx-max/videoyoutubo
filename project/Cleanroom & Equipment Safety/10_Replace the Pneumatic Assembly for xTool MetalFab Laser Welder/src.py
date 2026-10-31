@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台侧板打开的激光焊接机旁，机内露出蓝色气管，向镜头招手",
  "The panda mascot stands beside a gray wheeled laser welding machine with its side panel open, blue air tubes visible inside, and waves at the camera.",
- "这一课，看焊机的气动组件怎样更换。", "激光焊接机气动组件的规范更换"),
+ "这一课，看焊机的气动组件怎样更换。", "激光焊机：更换气动组件"),
 ("开场", "四个图标：警示卡、右侧板、气动组件、扎带",
  "Four icons in a row: a warning card, a side panel, an air valve block and a cable tie. No people.",
  "拆右侧板、换组件、扎线、装回。", "", ["警示", "拆侧板", "换组件", "装回"]),

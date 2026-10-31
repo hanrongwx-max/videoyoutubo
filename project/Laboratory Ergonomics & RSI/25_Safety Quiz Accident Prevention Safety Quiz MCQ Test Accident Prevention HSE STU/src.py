@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴安全帽，举着一块空白记录板，向镜头招手",
  "The panda mascot wearing a safety helmet holds a blank clipboard and waves at the camera.",
- "事故预防十二问，来测一测！", "事故预防十二问"),
+ "事故预防十二问，来测一测！", "事故预防安全测验"),
 # 情景
 ("情景", "车间里，阿杰第一天上岗，老李迎上来",
  "In a workshop, the young male student arrives for his first day and the facility engineer greets him.",

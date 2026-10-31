@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有一台小型台式离心机",
  "The panda mascot stands beside a lab bench with a small white benchtop centrifuge, and waves at the camera.",
- "这一课讲离心机的正确使用。", "离心机的正确使用"),
+ "这一课讲离心机的正确使用。", "如何使用离心机"),
 ("开场", "管子、天平、转子盖、旋钮四个图标排成一行",
  "Four icons in a row: a small plastic tube, a balance scale, a round rotor lid, and a control knob. No people.",
  "管子、配平、盖子、设置，一个都不能错。", "", ["选管", "配平", "拧盖", "设置"]),

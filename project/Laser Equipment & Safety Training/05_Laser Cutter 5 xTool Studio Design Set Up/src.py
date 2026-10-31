@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台桌面式激光切割机和一台电脑旁，向镜头招手",
  "The panda mascot stands beside a closed desktop laser cutter connected to a computer with a blank screen and waves at the camera.",
- "这一课讲激光切割机的参数设置。", "激光切割机：加工参数设置"),
+ "这一课讲激光切割机的参数设置。", "激光切割机5：软件中的设计设置"),
 ("开场", "材料板、滑块、方格三个图标排成一行",
  "Three icons in a row: a wooden sheet, a pair of slider controls and a small grid of squares. No people.",
  "选模式、选材料、调参数，再试一试。", "", ["加工模式", "材料", "功率速度", "测试方格"]),

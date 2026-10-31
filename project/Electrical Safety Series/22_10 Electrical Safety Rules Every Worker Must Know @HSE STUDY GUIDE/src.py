@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在工作间门口，身后十个空白卡片排成一排",
  "The panda mascot stands at the door of a lab workshop with ten blank cards lined up on the wall behind it, waving at the camera.",
- "这一课讲十条用电安全规则。", "十条用电安全规则"),
+ "这一课讲十条用电安全规则。", "每个工人必知的十条用电安全规则"),
 ("开场", "闪电、锁、手套、水滴、插头五个图标",
  "Five icons in a row: a lightning bolt, a padlock, an insulating glove, a water droplet and a plug. No people.",
  "记住它们，远离触电和电气火灾。"),

@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室门口，门上有生物危害标志",
  "The panda mascot stands at the door of a microbiology lab with a biohazard warning sign on the door and waves at the camera.",
- "欢迎来到微生物实验室。", "微生物实验室的生物安全措施"),
+ "欢迎来到微生物实验室。", "微生物实验室安全措施：生物安全"),
 ("开场", "欣欣身旁浮现四个图标：台阶、安全柜、喷壶、灭菌器",
  "The panda mascot points to four floating icons: a staircase with four steps, a biological safety cabinet, a spray bottle and an autoclave.",
  "今天讲四件事：等级、安全柜、去污、废物。", "", ["防护等级", "安全柜", "去污", "废物"]),

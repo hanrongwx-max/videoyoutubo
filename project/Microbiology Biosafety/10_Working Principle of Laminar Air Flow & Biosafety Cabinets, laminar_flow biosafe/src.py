@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在两台外形相似的设备中间，向镜头招手",
  "The panda mascot stands between two similar-looking lab cabinets and waves at the camera. Blank panels.",
- "这一课比较两种实验室设备。", "层流台 VS 生物安全柜：别选错"),
+ "这一课比较两种实验室设备。", "层流台与生物安全柜的工作原理"),
 ("开场", "欣欣指向左右两个空白设备图标",
  "The panda mascot points to a left and a right blank cabinet icon. No text on them.",
  "层流台和生物安全柜，别搞混。", "", ["层流台", "安全柜"]),

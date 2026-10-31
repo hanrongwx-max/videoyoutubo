@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个发光的空白刻度表前，向镜头招手",
  "The panda mascot stands next to a large glowing blank gauge dial and waves at the camera.",
- "这一课，我们来认识辐射剂量。", "辐射剂量（上）：吸收剂量与当量剂量"),
+ "这一课，我们来认识辐射剂量。", "辐射剂量（第1部分）：辐射防护"),
 ("开场", "方块、人体、骰子三个图标排成一行",
  "Three icons in a row: a cube, a human body outline and a dice. No people.",
  "吸收剂量、当量剂量，还有两类效应。", "", ["吸收剂量", "当量剂量", "两类效应"]),

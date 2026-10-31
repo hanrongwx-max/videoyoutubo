@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在楼道的配电箱旁，向镜头招手",
  "The panda mascot stands beside a closed wall-mounted electrical distribution box in a bright building corridor and waves at the camera.",
- "你好！今天聊聊RCCB的额定值。", "漏电保护器的灵敏度档位"),
+ "你好！今天聊聊RCCB的额定值。", "RCCB的额定值与剩余电流灵敏度"),
 ("开场", "RCCB模块图标旁，一个刻度盘从小指到大",
  "An icon of a residual current breaker module next to a dial gauge whose needle sweeps from low to high. No people.",
  "同样是RCCB，灵敏度可不一样。"),

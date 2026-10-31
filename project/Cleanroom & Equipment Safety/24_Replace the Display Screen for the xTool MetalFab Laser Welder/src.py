@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在激光焊接机旁，指着机器顶上的显示屏",
  "The panda mascot stands beside a blank gray wheeled handheld laser welding machine and points at the touch screen on its top.",
- "这一课讲激光焊接机怎样更换显示屏。", "激光焊接机更换显示屏"),
+ "这一课讲激光焊接机怎样更换显示屏。", "激光焊机：更换显示屏"),
 ("开场", "四个图标：撬棒、螺丝刀、显示屏、贴膜",
  "Four icons in a row: a pry tool, a screwdriver, a display panel and a screen protector sticker. No people.",
  "揭膜、拆屏、换屏、贴新膜。", "", ["揭膜", "拆屏", "换屏", "贴膜"]),

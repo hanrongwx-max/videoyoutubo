@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在培训室的白板前，向镜头招手",
  "The panda mascot stands in front of a blank whiteboard in a bright training room and waves at the camera.",
- "安全岗位面试，十五道电气题。", "用电安全十五问"),
+ "安全岗位面试，十五道电气题。", "用电安全面试问答（十五问）"),
 ("开场", "熔断器、灭火器、电线、灯泡四个图标排成一行",
  "Four icons in a row: a cartridge fuse, a fire extinguisher, a coiled power cord and a light bulb. No people.",
  "从保护装置、火灾，到照明都有。", "", ["保护", "火灾", "电线", "照明"]),

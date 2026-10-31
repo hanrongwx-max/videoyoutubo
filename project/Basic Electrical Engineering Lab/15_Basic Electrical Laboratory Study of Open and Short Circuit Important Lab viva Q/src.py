@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在考官桌后，举起一张空白题卡",
  "The panda mascot sits behind an examiner's desk holding up a blank question card, waving at the camera.",
- "口试第二关：开路和短路！", "电工实验口试：开路与短路篇"),
+ "口试第二关：开路和短路！", "开路与短路实验口试问答"),
 # 情景
 ("情景", "阿杰和小研在实验室门口复习",
  "The young male student and the female graduate student review notes together at the lab door.",

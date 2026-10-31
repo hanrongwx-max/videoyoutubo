@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着扣好的实验服、戴安全眼镜和手套，站在仪器架前",
  "The panda mascot wears a buttoned lab coat, safety glasses and gloves, standing in front of an instrument rack and talking to the camera.",
- "安全系列第一课：着装和个人防护。", "进实验室，先穿对、戴好"),
+ "安全系列第一课：着装和个人防护。", "实验室安全（一）：着装与个人防护装备"),
 ("开场", "俯瞰一间忙碌的实验室，几个人在各自台前工作",
  "A high-angle view of a busy teaching lab with several people working at different benches.",
  "先看看实验室里的日常。"),

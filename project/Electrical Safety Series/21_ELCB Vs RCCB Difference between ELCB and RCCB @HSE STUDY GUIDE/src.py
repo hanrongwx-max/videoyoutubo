@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在两个外观相似的空白模块中间",
  "The panda mascot stands between two similar blank breaker modules mounted on a rail and waves at the camera.",
- "这一课把ELCB和RCCB比一比。", "两种漏电保护器：十个方面比一比"),
+ "这一课把ELCB和RCCB比一比。", "ELCB与RCCB的区别"),
 ("开场", "左边模块下有电压表图标，右边模块下有电流表图标",
  "Two blank breaker modules, a voltmeter icon under the left one and an ammeter icon under the right one. No people.",
  "ELCB看电压，RCCB看电流。", "", ["ELCB", "RCCB"]),

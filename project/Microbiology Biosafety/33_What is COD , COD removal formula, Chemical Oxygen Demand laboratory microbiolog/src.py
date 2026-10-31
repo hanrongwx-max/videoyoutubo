@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在环境实验室里，身旁一排装着彩色液体的小试管，向镜头招手",
  "The panda mascot stands in an environmental lab next to a rack of small capped tubes with orange to green liquids, waving at the camera.",
- "欢迎来到实验室课堂。", "化学需氧量与测定安全"),
+ "欢迎来到实验室课堂。", "什么是化学需氧量（COD）及去除率公式"),
 ("开场", "欣欣指着一杯浑浊的水",
  "The panda mascot points to a beaker of cloudy water.",
  "今天学一个水质指标：COD。"),

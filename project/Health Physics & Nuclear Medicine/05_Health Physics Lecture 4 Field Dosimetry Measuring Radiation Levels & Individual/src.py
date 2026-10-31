@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣一手拿着便携巡测仪，一手举着一支笔形剂量计，向镜头招手",
  "The panda mascot holds a handheld survey meter in one paw and raises a pen-shaped pocket dosimeter in the other, waving at the camera.",
- "这一课，学怎样在现场测辐射。", "现场剂量测量：测环境，也测自己"),
+ "这一课，学怎样在现场测辐射。", "现场剂量测量：辐射水平与个人剂量跟踪"),
 ("开场", "两个图标并排：一个房间、一个人形，中间一台仪器",
  "Two icons side by side, a room and a human figure, with a handheld meter in between. No people.",
  "既要测环境，也要测自己。", "", ["测环境", "测自己"]),

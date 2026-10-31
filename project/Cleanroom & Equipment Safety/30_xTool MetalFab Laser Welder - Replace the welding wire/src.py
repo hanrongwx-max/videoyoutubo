@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一卷焊丝，站在打开的送丝机旁",
  "The panda mascot holds a wire spool and stands beside an open blank wire feeder box.",
- "这一课讲：怎样换成另一种直径的焊丝。", "激光焊接机更换焊丝"),
+ "这一课讲：怎样换成另一种直径的焊丝。", "激光焊机：更换焊丝"),
 # 情景
 ("情景", "阿杰拿着一卷较粗的新焊丝走到送丝机旁",
  "The young male student walks to the wire feeder holding a new, thicker wire spool.",

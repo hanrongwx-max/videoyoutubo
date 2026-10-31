@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在明亮的实验室里，向镜头招手",
  "The panda mascot stands in a bright busy lab and waves at the camera.",
- "这一课讲：实验室安全，人人有责。", "实验室安全，人人有责"),
+ "这一课讲：实验室安全，人人有责。", "实验室安全：雇主的工作场所安全指南"),
 ("开场", "一边是公司大楼图标，一边是员工图标，中间双向箭头",
  "A company building icon on one side and a group of worker pictograms on the other, joined by a two-way arrow. No people.",
  "雇主有雇主的责任，员工有员工的。", "", ["雇主", "员工"]),

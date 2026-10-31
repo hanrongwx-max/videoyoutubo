@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室门口，向镜头招手",
  "The panda mascot stands at the door of a microbiology lab and waves at the camera.",
- "欢迎来到实验室安全课。", "实验室危害，伤的是谁"),
+ "欢迎来到实验室安全课。", "实验室危害对人员的影响"),
 ("开场", "欣欣指着自己，身旁浮现一个人形轮廓",
  "The panda mascot points to itself; beside it floats a simple person outline with a shield icon.",
  "今天说说危害对每个人的影响。"),

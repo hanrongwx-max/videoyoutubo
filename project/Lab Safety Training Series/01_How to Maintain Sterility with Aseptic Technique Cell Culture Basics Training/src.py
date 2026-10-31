@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台生物安全柜旁，向镜头招手",
  "The panda mascot stands beside a biological safety cabinet with its front glass half open and waves at the camera.",
- "这一课讲细胞培养的无菌操作。", "细胞培养的无菌操作与生物安全"),
+ "这一课讲细胞培养的无菌操作。", "细胞培养基础：用无菌操作保持无菌"),
 ("开场", "细胞培养瓶、喷壶、移液管三个图标，外圈一道防护圈挡住细菌图标",
  "Three icons in a row: a culture flask, a spray bottle and a wrapped pipette, inside a protective ring that keeps tiny germ icons out. No people.",
  "无菌操作，就是不让微生物进来。", "", ["无菌", "防污染"]),

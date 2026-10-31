@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物技术实验室门口，向镜头招手",
  "The panda mascot stands at the door of a bright biotechnology teaching laboratory and waves at the camera.",
- "这一课讲生物技术实验室的安全入门。", "生物技术实验室安全入门"),
+ "这一课讲生物技术实验室的安全入门。", "生物技术实验室的安全"),
 ("开场", "护目镜、手套、生物危害标志、记录本四个图标排成一行",
  "Four icons in a row: safety goggles, a pair of gloves, a biohazard warning sign and a blank notebook. No people.",
  "防护、规程、处置、记录，一样都不少。", "", ["防护", "规程", "处置", "记录"]),

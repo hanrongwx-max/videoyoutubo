@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在笔记本电脑前，屏幕上是空白的电路仿真界面图标",
  "The panda mascot sits at a laptop whose screen shows only a simple circuit icon, waving at the camera.",
- "大家好！今天用电脑做电路实验。", "在线仿真验证基尔霍夫定律"),
+ "大家好！今天用电脑做电路实验。", "用虚拟实验室验证KVL与KCL"),
 ("开场", "电脑、电路图标、电压表电流表图标",
  "Three icons in a row: a laptop, a circuit diagram, and a pair of meters. No people.",
  "在线仿真，验证电压定律和电流定律。", "", ["电压定律", "电流定律"]),

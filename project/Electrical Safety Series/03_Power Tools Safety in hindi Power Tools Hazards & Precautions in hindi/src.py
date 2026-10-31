@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板旁画着电钻和角磨机，向镜头招手",
  "The panda mascot stands in front of a whiteboard with drawings of an electric drill and an angle grinder, waving at the camera.",
- "这一课讲电动工具。", "电动工具的危害与预防"),
+ "这一课讲电动工具。", "电动工具的危害与预防措施"),
 ("开场", "警示三角和盾牌两个图标",
  "Two icons in a row: a yellow warning triangle and a shield with a check mark. No people.",
  "它有哪些危害，又该怎么预防。", "", ["危害", "预防"]),

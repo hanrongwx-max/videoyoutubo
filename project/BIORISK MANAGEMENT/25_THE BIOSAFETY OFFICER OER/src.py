@@ -57,7 +57,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼走廊，身后墙上挂着空白的岗位牌，向镜头招手",
  "The panda mascot stands in a laboratory building corridor beside a blank role plaque on the wall and waves at the camera.",
- "今天认识一个岗位：生物安全员。", "生物安全员是做什么的"),
+ "今天认识一个岗位：生物安全员。", "生物安全员"),
 ("开场", "欣欣手举一个盾牌图标和一个人形图标",
  "The panda mascot holds up a shield icon in one hand and a person outline icon in the other.",
  "他管的事，比你想的多得多。"),

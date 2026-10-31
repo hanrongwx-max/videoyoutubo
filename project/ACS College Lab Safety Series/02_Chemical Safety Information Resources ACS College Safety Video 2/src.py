@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣手捧一份空白的说明书，向镜头招手",
  "The panda mascot holds a thick blank data sheet booklet and waves at the camera.",
- "这一课讲怎么读懂化学品安全信息。", "读懂化学品安全信息"),
+ "这一课讲怎么读懂化学品安全信息。", "化学安全信息资源"),
 ("开场", "试剂瓶、说明书、放大镜三个图标",
  "Three icons in a row: a reagent bottle with a blank label, a blank data sheet, and a magnifying glass. No people.",
  "用之前先查清：它有什么危害？", "", ["看标签", "查SDS", "找危害"]),

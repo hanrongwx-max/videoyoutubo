@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，手里托着一瓶闪亮的白色晶体，向镜头招手",
  "The panda mascot stands at a lab bench holding a small jar of sparkling white crystals and waves at the camera.",
- "这一课讲重结晶和熔点测定。", "重结晶与熔点测定"),
+ "这一课讲重结晶和熔点测定。", "重结晶与熔点分析"),
 ("开场", "溶解、冷却、过滤、测熔点四个图标排成一行",
  "Four icons in a row: a beaker on a hot plate, a beaker with a snowflake, a funnel on a flask and a thin capillary tube in a heating block. No people.",
  "热溶、冷析、抽滤、测熔点。", "", ["热溶", "冷析", "抽滤", "测熔点"]),

@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在工作台旁，台上放着一个装满调料瓶的不锈钢架子，向镜头招手",
  "The panda mascot stands beside a bench with a stainless steel spice rack full of jars and waves at the camera.",
- "这一课：切割加焊接，做一个调料架。", "激光切割加焊接：做一个调料架"),
+ "这一课：切割加焊接，做一个调料架。", "第2课：如何切割并焊接一件实用产品"),
 ("开场", "切割机、焊接头、调料架三个图标用箭头相连",
  "Three icons joined by arrows: an enclosed cutting machine, a handheld welding head and a finished rack. No people.",
  "先切零件，再焊成架子。", "", ["切割", "焊接", "成品"]),

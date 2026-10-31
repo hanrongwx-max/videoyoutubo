@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣穿着白色防护服，戴着护目镜，向镜头挥手",
  "The panda mascot wears a white protective suit and goggles and waves at the camera.",
- "今天讲个人防护。", "最后一道防线：个人防护"),
+ "今天讲个人防护。", "生物风险管理：个人防护装备"),
 ("开场", "欣欣举起一副手套和一个防护口罩",
  "The panda mascot holds up a pair of gloves and a respirator.",
  "穿戴对了，才真的护得住。"),

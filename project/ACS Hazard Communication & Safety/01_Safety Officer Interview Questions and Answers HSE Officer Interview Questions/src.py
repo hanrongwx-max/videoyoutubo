@@ -54,7 +54,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在面试问答台后，身边亮着一个问号灯",
  "The panda mascot stands behind a quiz podium with a glowing question mark lamp beside it and waves at the camera.",
- "欢迎来到安全员面试问答！", "安全知识问答：从基本概念到现场设备"),
+ "欢迎来到安全员面试问答！", "安全员面试问答：从基本概念到吊装与脚手架"),
 ("开场", "一排台阶从低到高，台阶上依次是问号、盾牌、烧瓶、安全帽图标",
  "A row of steps rising from low to high, each with an icon: a question mark, a shield, a flask and a hard hat. No people.",
  "题目由易到难，一题一题来。", "", ["由易到难"]),

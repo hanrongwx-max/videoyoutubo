@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣拿着放大镜站在整洁的实验室里，向镜头招手",
  "The panda mascot holds a magnifying glass in a tidy laboratory and waves at the camera.",
- "这一课讲怎样天天准备好迎接检查。", "天天准备好迎接安全检查"),
+ "这一课讲怎样天天准备好迎接检查。", "第11单元：审核与检查准备"),
 ("开场", "日历、档案夹、检查表、循环箭头四个图标排成一行",
  "Four icons in a row: a calendar, a file folder, a blank checklist and a circular loop arrow. No people.",
  "心态、记录、自查、整改、节奏。", "", ["心态", "记录", "自查", "整改", "节奏"]),

@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣拿着一个大放大镜，对着镜头眨眼",
  "The panda mascot holds a big magnifying glass and winks at the camera.",
- "安全措施做了，到底管不管用？", "生物风险管理，怎么检查好不好"),
+ "安全措施做了，到底管不管用？", "如何审核与评估生物风险管理？"),
 ("开场", "五个空白格子依次亮起，每格一个对勾",
  "Five blank boxes light up one by one, each with a check mark. No people.",
  "今天讲五种检查和评价的办法。"),

@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着护目镜、举着锥形瓶，向镜头招手",
  "The panda mascot wearing safety goggles holds up an Erlenmeyer flask and waves at the camera.",
- "欢迎来到实验室安全第一课。", "实验室安全第一课"),
+ "欢迎来到实验室安全第一课。", "第1单元：实验室安全导论"),
 ("开场", "人、样品、数据、实验室四个图标围成一圈",
  "Four icons arranged in a circle: a person, a sample tube, a data chart and a lab building. No people.",
  "安全护着人，也护着科研本身。"),

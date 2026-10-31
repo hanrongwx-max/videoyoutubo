@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在铁架台和一根玻璃色谱柱旁，向镜头招手",
  "The panda mascot stands beside a ring stand holding a tall glass chromatography column and waves at the camera.",
- "这一课学柱色谱的操作。", "柱色谱的操作与安全"),
+ "这一课学柱色谱的操作。", "柱色谱操作"),
 ("开场", "棉花、砂、硅胶、试管架四个图标排成一行",
  "Four icons in a row: a cotton ball, a pile of sand, a beaker of white slurry, and a rack of test tubes. No people.",
  "装好柱、上好样、收好馏分。", "", ["装柱", "上样", "洗脱", "收集"]),

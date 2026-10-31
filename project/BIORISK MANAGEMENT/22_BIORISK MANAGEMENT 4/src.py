@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一座玻璃温室和一栋设备楼之间",
  "The panda mascot stands between a glass greenhouse and a large plant-equipment building.",
- "这一课，讲转基因封闭温室怎么建。", "封闭温室怎么建"),
+ "这一课，讲转基因封闭温室怎么建。", "封闭温室的设计与建设"),
 ("开场", "一张设施蓝图慢慢展开",
  "A facility blueprint slowly unrolls on a table. No people.",
  "从选址、流程，到布局和设备。"),

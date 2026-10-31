@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在工地空地上，远处是输电铁塔和架空线，向镜头招手",
  "The panda mascot stands on an open work site with transmission towers and overhead power lines in the distance and waves at the camera.",
- "你好！今天聊聊头顶上的高压线。", "离高压线远一点"),
+ "你好！今天聊聊头顶上的高压线。", "与架空输电线路的安全作业距离"),
 ("开场", "铁塔、闪电、距离箭头三个图标",
  "Three icons in a row: a transmission tower, a lightning bolt and a double-headed distance arrow. No people.",
  "它有多危险，要离多远？"),

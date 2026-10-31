@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个黄色问号图标旁，向镜头招手",
  "The panda mascot stands next to a big yellow question mark icon and waves at the camera.",
- "印度国家安全日，十道问答！", "别国的安全日：十道问答"),
+ "印度国家安全日，十道问答！", "某国安全日知识测验"),
 # 情景
 ("情景", "工厂大厅挂着空白横幅，员工们聚在一起",
  "In a factory hall, a blank banner hangs and workers gather.",

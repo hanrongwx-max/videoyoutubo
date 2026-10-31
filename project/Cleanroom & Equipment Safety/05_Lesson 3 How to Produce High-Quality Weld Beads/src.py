@@ -41,7 +41,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在焊接台旁，台上摆着三块焊好的样件，向镜头招手",
  "The panda mascot stands beside a welding bench with three neatly welded metal samples and waves at the camera.",
- "这一课：手持激光焊，怎么焊得好。", "手持激光焊接：焊出好焊缝"),
+ "这一课：手持激光焊，怎么焊得好。", "第3课：如何焊出高质量焊缝"),
 ("开场", "点、线、鱼鳞纹三种焊缝图标",
  "Three icons in a row: a row of dots, a smooth continuous line, and an overlapping fish scale pattern. No people.",
  "点焊、连续焊、脉冲焊，各有用处。", "", ["点焊", "连续焊", "脉冲焊"]),

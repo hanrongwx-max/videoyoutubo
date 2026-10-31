@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼门口，向镜头招手",
  "The panda mascot stands at the entrance of a bright laboratory building and waves at the camera.",
- "这一课，我们一起走进实验室安全。", "走进实验室安全"),
+ "这一课，我们一起走进实验室安全。", "实验室安全基础：实验室安全导论"),
 ("开场", "事故、文化、责任、改进四个图标排成一行",
  "Four icons in a row: a yellow warning triangle, a heart inside a flask, linked hands, and a circular arrow. No people.",
  "认识事故，建立文化，人人负责。", "", ["认识事故", "安全文化", "人人负责", "持续改进"]),

@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在宿舍和家里厨房拼成的背景前，向镜头招手",
  "The panda mascot stands in front of a background combining a dorm room and a home kitchen, waving at the camera.",
- "危险物品，不只在实验室里。", "身边的危险物品，和吃油的微生物"),
+ "危险物品，不只在实验室里。", "日常生活中常见的危险物品"),
 ("开场", "五个家用物品图标排成一排，后面跟着一个微生物图标",
  "Five household item icons in a row, followed by a microbe icon. No people.",
  "先看身边五类，再看吃油的微生物。"),

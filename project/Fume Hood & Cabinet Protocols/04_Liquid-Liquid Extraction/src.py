@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在铁架台旁，旁边的分液漏斗里有上下两层液体，欣欣招手",
  "The panda mascot stands beside a ring stand holding a separatory funnel with two clear liquid layers, and waves at the camera.",
- "这一课学液液萃取。", "液液萃取：用分液漏斗分开溶液"),
+ "这一课学液液萃取。", "液液萃取"),
 ("开场", "分液漏斗、两层液体、放气箭头三个图标",
  "Three icons in a row: a separatory funnel, two stacked liquid layers and a small gas release arrow. No people.",
  "分得清、混得匀、放得及时。", "", ["分层", "混匀", "放气"]),

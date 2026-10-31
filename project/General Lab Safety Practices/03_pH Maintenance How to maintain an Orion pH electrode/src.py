@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，手里拿着一支pH电极",
  "The panda mascot stands beside a lab bench holding a slim pH electrode and waves at the camera.",
- "这一课讲pH电极的日常维护。", "pH电极的日常维护"),
+ "这一课讲pH电极的日常维护。", "pH电极的维护保养"),
 ("开场", "日常维护、快流式电极、可填充电极三个图标",
  "Three icons in a row: a calendar with a check mark, an electrode with a small drip at its tip, and an electrode with a side fill hole and a dropper bottle. No people.",
  "每天要做的事，再加两种电极的换液方法。", "", ["日常维护", "快流式", "普通可填充"]),

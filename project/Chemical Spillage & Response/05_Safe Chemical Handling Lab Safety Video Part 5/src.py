@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，向镜头招手",
  "The panda mascot stands beside a lab bench with a few reagent bottles and waves at the camera.",
- "安全系列第五课：安全操作化学品。", "安全操作化学品"),
+ "安全系列第五课：安全操作化学品。", "实验室安全（五）：化学品的安全操作"),
 # 情景
 ("情景", "阿杰抱着几瓶试剂，急匆匆走向实验台",
  "The young male student hurries toward a lab bench carrying several reagent bottles in his arms.",

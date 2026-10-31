@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在可升降的实验台旁，向镜头招手",
  "The panda mascot stands beside a height-adjustable lab bench and waves at the camera.",
- "这一课讲实验室里的人机工效。", "实验室里的人机工效"),
+ "这一课讲实验室里的人机工效。", "实验室人员人机工效培训"),
 ("开场", "手腕、肩膀、眼睛、腰背四个身体部位图标",
  "Four simple body icons in a row: a wrist, a shoulder, an eye and a lower back. No people.",
  "护好手腕、肩膀、眼睛和腰背。", "", ["手腕", "肩膀", "眼睛", "腰背"]),

@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，台上有电池组、滑线变阻器和电表",
  "The panda mascot stands at a lab bench with a battery pack, a sliding rheostat and a blank-dial meter, waving at the camera.",
- "大家好！今天复习最大功率传输定理。", "最大功率传输：口试问答与电池光伏安全"),
+ "大家好！今天复习最大功率传输定理。", "最大功率传输定理口试问答"),
 ("开场", "电池、变阻器、光伏板三个图标",
  "Three icons in a row: a battery, a sliding rheostat and a solar panel. No people.",
  "定理、效率、公式、内阻和应用。", "", ["定理", "内阻", "应用"]),

@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台激光切割机旁，指着机头上方的波纹管",
  "The panda mascot stands beside a laser cutting machine and points at the folded bellows tube above the cutting head.",
- "今天看一段风琴管着火的现场。", "风琴管着火了怎么办"),
+ "今天看一段风琴管着火的现场。", "激光器风琴罩着火"),
 ("开场", "风琴管、火苗、积灰三个图标排成一行",
  "Three icons in a row: a folded bellows tube, a small flame and a pile of dark soot. No people.",
  "看清它在哪、怎么烧、为什么危险。", "", ["风琴管", "火苗", "积灰"]),

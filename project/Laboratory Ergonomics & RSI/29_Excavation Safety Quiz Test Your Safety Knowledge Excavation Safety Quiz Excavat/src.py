@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴安全帽站在沟槽围挡外，向镜头招手",
  "The panda mascot wearing a safety helmet stands outside a trench fence and waves at the camera.",
- "开挖安全小测验，来试一试！", "开挖安全小测验"),
+ "开挖安全小测验，来试一试！", "开挖安全测验"),
 # 情景
 ("情景", "工地办公室里，阿杰坐在电脑前，屏幕空白",
  "In a site office, the young male student sits at a computer with a blank screen.",

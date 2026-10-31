@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实训车间里一台带轮子的激光焊接机旁，向镜头招手",
  "The panda mascot stands in a university workshop next to a gray wheeled cabinet-type laser welding machine with a handheld welding gun, and waves at the camera.",
- "这一课，看焊机里的电源怎样规范更换。", "激光焊接机开关电源的规范更换"),
+ "这一课，看焊机里的电源怎样规范更换。", "激光焊机：更换开关电源"),
 ("开场", "四个图标：警示卡、断电插头、旧模块、新模块",
  "Four icons in a row: a warning card, an unplugged power plug, an old module and a new module. No people.",
  "看警示、做准备、拆旧件、装新件。", "", ["警示", "准备", "拆旧", "装新"]),

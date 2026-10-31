@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在摆满蓝色零件盒的仓库货架通道里，向镜头招手",
  "The panda mascot stands in a warehouse aisle lined with shelves of blue parts bins and waves at the camera.",
- "欢迎来到设备小课堂，今天有位嘉宾。", "卡套接头与气体管路安全"),
+ "欢迎来到设备小课堂，今天有位嘉宾。", "卡套管接头、阀门与流体系统解析"),
 ("开场", "老周走进画面，和欣欣并肩站在货架前",
  "The older man walks into the frame and stands side by side with the panda mascot in front of the shelves.",
  "老周是一家管件阀门厂的销售负责人。"),

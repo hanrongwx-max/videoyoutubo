@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在贴有电离辐射警告标志的实验室门外，向镜头招手",
  "The panda mascot stands outside a lab door marked with an ionizing radiation warning sign and waves at the camera.",
- "这一课讲放射性应急怎么处理。", "放射性物质洒漏怎么办"),
+ "这一课讲放射性应急怎么处理。", "放射性应急：实验室安全培训"),
 # 情景
 ("情景", "同位素实验室里，一个小瓶倒在台面上，液体洒开",
  "In a radioisotope lab, a small vial lies tipped over on the bench with liquid spreading out. No people.",

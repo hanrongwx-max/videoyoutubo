@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室配电箱旁，向镜头招手，配电箱上有触电警告标志",
  "The panda mascot stands beside a wall electrical panel with an electric shock warning sign and waves at the camera.",
- "电看不见，摸不着，却最容易伤人。", "看不见的危险：微生物实验室安全用电"),
+ "电看不见，摸不着，却最容易伤人。", "微生物实验室安全措施：用电安全"),
 ("开场", "培养箱、水浴锅、离心机、高压灭菌器、生物安全柜排成一排，都连着电源线",
  "A row of lab equipment with blank panels: incubator, water bath, centrifuge, autoclave and biological safety cabinet, each with a power cord. No people.",
  "微生物实验室，处处都在用电。"),

@@ -41,7 +41,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着红色安全帽站在白板前招手",
  "The panda mascot wears a red hard hat, stands in front of a blank whiteboard and waves at the camera.",
- "欢迎回来！今天讲一场真实面试。", "安全知识问答：气体、标识与作业许可"),
+ "欢迎回来！今天讲一场真实面试。", "安全员面试问答：气体、作业许可与受限空间"),
 ("开场", "沙漠边的石化厂剪影，旁边一个飞机图标",
  "A silhouette of a petrochemical plant at the edge of a desert with a small airplane icon above it. No people.",
  "第一次去海湾国家当安全员时被问的题。"),

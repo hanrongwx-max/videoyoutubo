@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台打开盖子的台式离心机旁挥手",
  "The panda mascot stands beside an open benchtop centrifuge on a lab bench and waves at the camera.",
- "这一课讲离心机的清洁维护和转子检查。", "离心机的清洁维护与转子检查"),
+ "这一课讲离心机的清洁维护和转子检查。", "实验室安全的基础：离心机培训与维护"),
 ("开场", "清洁、消毒、润滑、检查、记录五个图标排成一行",
  "Five icons in a row from left to right: a cleaning cloth, a spray bottle, a small grease tube, a magnifying glass and a blank clipboard. No people.",
  "清洁、消毒、润滑、检查，还要记录。", "", ["清洁", "消毒", "润滑", "检查", "记录"]),

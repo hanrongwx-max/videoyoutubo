@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一套带冷阱和真空管的蒸馏装置旁",
  "The panda mascot stands beside a vacuum distillation setup with a cold trap in a mesh guard, thick red vacuum tubing and a round-bottom flask in a heating mantle, and waves at the camera.",
- "这一课学减压蒸馏。", "减压蒸馏"),
+ "这一课学减压蒸馏。", "蒸馏（下）"),
 ("开场", "温度计图标和向下的压力箭头",
  "A thermometer icon beside a downward pressure arrow, the boiling mark sliding lower. No people.",
  "压力降下来，沸点也跟着降。"),

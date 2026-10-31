@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一间整洁的化学实验室门口，向镜头招手",
  "The panda mascot stands at the door of a tidy chemistry teaching lab and waves at the camera.",
- "这一课讲化学实验室的通用安全守则。", "化学实验室通用安全守则"),
+ "这一课讲化学实验室的通用安全守则。", "通用实验室安全：安全须知"),
 ("开场", "管理、防护、操作、应急四个图标排成一行",
  "Four icons in a row: a clipboard, a pair of safety goggles, a flask on a stand, and a first aid box. No people.",
  "从管理、防护、操作讲到应急。", "", ["管理", "防护", "操作", "应急"]),

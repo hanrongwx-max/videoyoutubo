@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在三相实验台前，台上三只灯泡排成一排",
  "The panda mascot stands at a three-phase lab bench with three light bulbs in a row and a large variable autotransformer cabinet, waving at the camera.",
- "今天做三相实验：星形和三角形！", "电工实验：测星形和三角形的线量相量"),
+ "今天做三相实验：星形和三角形！", "星形与三角形连接系统的线量与相量测量"),
 ("开场", "星形和三角形两个图标并排",
  "Two icons side by side: three loads joined in a star shape and three loads joined in a triangle. No people.",
  "同样三只灯，换个接法大不同。", "", ["星形", "三角形"]),

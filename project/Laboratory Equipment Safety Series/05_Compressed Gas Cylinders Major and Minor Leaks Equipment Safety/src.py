@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身旁一排固定好的气瓶，向镜头招手",
  "The panda mascot stands at a lab doorway next to a row of strapped gas cylinders and waves at the camera.",
- "这一课讲气瓶的大泄漏和小泄漏。", "气瓶泄漏：大漏小漏怎么办"),
+ "这一课讲气瓶的大泄漏和小泄漏。", "压缩气瓶：大泄漏与小泄漏"),
 # 情景
 ("情景", "阿杰在气瓶旁皱眉，听到嘶嘶声",
  "The young male student stands near a gas cylinder, frowning and listening to a faint hissing sound.",

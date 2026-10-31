@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在化学教学实验室里向镜头招手",
  "The panda mascot stands in a chemistry teaching lab and waves at the camera.",
- "这一课讲从安全规则到风险管理。", "从安全规则到风险管理"),
+ "这一课讲从安全规则到风险管理。", "从化学安全规则到风险管理"),
 ("开场", "四个图标排成一行：放大镜、天平、向下箭头、急救箱",
  "Four icons in a row: a magnifying glass, a balance scale, a down arrow over a warning triangle, and a first aid kit. No people.",
  "识别、评估、降低、准备，四步走。", "", ["识别危害", "评估风险", "降低风险", "应急准备"]),

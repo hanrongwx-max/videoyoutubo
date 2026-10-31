@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室门口，向镜头招手",
  "The panda mascot stands at the door of a microbiology teaching lab and waves at the camera.",
- "欢迎来到生物安全第一课。", "生物安全第一课：防护与风险评估"),
+ "欢迎来到生物安全第一课。", "什么是生物安全：原则与风险评估步骤"),
 ("开场", "欣欣身旁浮现盾牌和放大镜两个图标",
  "The panda mascot points to two floating icons: a shield and a magnifying glass.",
  "今天讲两件事：防护和风险评估。", "", ["防护", "风险评估"]),

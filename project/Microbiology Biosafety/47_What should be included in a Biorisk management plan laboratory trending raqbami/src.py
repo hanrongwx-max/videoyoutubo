@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，手里举着一本空白封面的厚文件夹，向镜头招手",
  "The panda mascot stands at a laboratory door, holding up a thick binder with a blank cover and waving at the camera.",
- "实验室安全，要有一份总计划。", "一份管用的生物风险管理计划"),
+ "实验室安全，要有一份总计划。", "生物风险管理计划应包括什么？"),
 ("开场", "文件夹打开，内页是九个空白格子",
  "Close-up: the binder opens to a page with nine neat blank boxes. No people.",
  "今天看看，计划里该写些什么。", None, ["生物风险管理计划"]),

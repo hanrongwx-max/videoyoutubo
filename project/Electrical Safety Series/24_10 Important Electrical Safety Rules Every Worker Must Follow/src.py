@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白卷轴，上面有十个小圆点",
  "The panda mascot holds up a blank scroll with ten small numbered dots and waves at the camera.",
- "这一课讲用电安全十条守则。", "用电安全十条守则"),
+ "这一课讲用电安全十条守则。", "每个工人必须遵守的十条用电安全规则"),
 # 情景
 ("情景", "实验室插线板冒出火花，阿杰吓了一跳",
  "A small spark flashes from a power strip on a lab bench; the young male student jumps back in surprise.",

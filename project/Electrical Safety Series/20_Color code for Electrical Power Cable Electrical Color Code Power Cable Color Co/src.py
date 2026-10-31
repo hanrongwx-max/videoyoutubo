@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一束各种颜色的电线",
  "The panda mascot holds up a bundle of insulated wires in many colors and smiles at the camera.",
- "这一课认识电线的颜色。", "电线的颜色：认得清，更要验得准"),
+ "这一课认识电线的颜色。", "电力电缆的颜色代码"),
 ("开场", "相线、零线、地线三个图标",
  "Three icons in a row: a lightning bolt, a returning arrow and a ground symbol. No people.",
  "火线、零线、地线，各有颜色。", "", ["相线", "中性线", "保护导体"]),

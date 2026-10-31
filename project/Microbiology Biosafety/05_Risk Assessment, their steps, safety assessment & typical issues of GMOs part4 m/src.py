@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在温室和实验台之间向镜头招手",
  "The panda mascot stands between a small greenhouse and a lab bench and waves at the camera.",
- "这一课讲转基因生物的安全评价。", "转基因生物：先评估，再放行"),
+ "这一课讲转基因生物的安全评价。", "转基因生物的风险评估：步骤与常见问题"),
 ("开场", "一株植物、一个培养皿和一个对勾盾牌图标",
  "Icons of a potted plant, a petri dish and a shield with a green check mark. No people.",
  "先评估，再放行。"),

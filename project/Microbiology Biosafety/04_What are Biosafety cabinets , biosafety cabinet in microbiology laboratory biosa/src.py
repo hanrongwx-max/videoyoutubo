@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台生物安全柜旁，向镜头招手",
  "The panda mascot stands beside a biological safety cabinet and waves at the camera.",
- "这一课专讲生物安全柜。", "生物安全柜的三个级别"),
+ "这一课专讲生物安全柜。", "什么是生物安全柜？"),
 ("开场", "一、二、三级三台柜子图标排成一行",
  "Three cabinet icons in a row: an open-front cabinet, a cabinet with a front window, and a sealed glove-box style cabinet. No people.",
  "它分一、二、三级，各不相同。", "", ["一级", "二级", "三级"]),

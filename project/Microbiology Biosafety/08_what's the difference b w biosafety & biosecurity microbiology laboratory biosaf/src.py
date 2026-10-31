@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，一手举盾牌一手举锁",
  "The panda mascot stands at a lab door holding a shield icon in one paw and a padlock icon in the other, and waves at the camera.",
- "这一课分清生物安全和生物安保。", "生物安全与生物安保：防意外，也防故意"),
+ "这一课分清生物安全和生物安保。", "生物安全与生物安保的区别"),
 ("开场", "盾牌和锁两个图标并排",
  "A shield icon and a padlock icon side by side. No people.",
  "一个防意外，一个防故意。", "", ["生物安全", "生物安保"]),

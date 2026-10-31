@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张摆满激光零件的桌子旁，向镜头招手",
  "The panda mascot stands beside a table covered with laser machine parts and waves at the camera.",
- "激光设备为什么要例行维护？", "激光设备为什么要例行维护"),
+ "激光设备为什么要例行维护？", "为什么要做激光设备例行维护"),
 ("开场", "欣欣举起一张空白卡片，上面画着一个扳手和数字1",
  "The panda mascot holds up a blank card with a wrench icon and the number one.",
  "这是维护小贴士的第一条。", "", ["小贴士 1"]),

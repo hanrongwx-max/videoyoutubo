@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣托着下巴思考，头顶问号",
  "The panda mascot rubs its chin thoughtfully with question marks floating above its head, then waves at the camera.",
- "看起来安全，真的安全吗？", "安全陷阱十问"),
+ "看起来安全，真的安全吗？", "给安全从业者的刁钻选择题"),
 # 情景
 ("情景", "阿杰自信地举起答题卡",
  "The young male student confidently holds up a blank quiz card.",

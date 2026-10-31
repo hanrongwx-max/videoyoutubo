@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴绿色安全帽，身后四个主题卡片，向镜头招手",
  "The panda mascot wearing a green safety helmet waves at the camera in front of four topic cards.",
- "四个主题二十问，开始！", "四个主题二十问"),
+ "四个主题二十问，开始！", "2025安全测验：职场、高处作业、用电与消防"),
 ("开场", "四个图标：工厂、梯子、闪电、火焰",
  "Four icons: a factory, a ladder, a lightning bolt and a flame. No people.",
  "工作场所、高处、电气、消防。", "", ["工作场所", "高处作业", "电气", "消防"]),

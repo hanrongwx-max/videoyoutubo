@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽站在一架人字梯旁，向镜头招手",
  "The panda mascot wearing a hard hat stands beside a step ladder and waves at the camera.",
- "今天测一测高处作业安全！", "高处作业自测：防坠落十问"),
+ "今天测一测高处作业安全！", "高处作业安全知识自测"),
 # 情景
 ("情景", "老李背着安全带和工具袋，准备上屋面作业",
  "The facility engineer carries a full body harness and a tool bag, getting ready to climb onto a roof.",

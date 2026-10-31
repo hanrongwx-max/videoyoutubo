@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在餐桌旁，桌上有番茄、玉米、牛奶和一件棉T恤",
  "The panda mascot stands beside a table with tomatoes, corn, a glass of milk and a folded cotton T-shirt, waving at the camera.",
- "这一课，看看身边的生物技术。", "身边的生物技术"),
+ "这一课，看看身边的生物技术。", "生物科学的生活方式"),
 ("开场", "粮食、能源、环境、健康四个图标排成一行",
  "Four icons in a row: a wheat ear, a fuel drop with a leaf, a globe with a recycling arrow, and a medical cross. No people.",
  "粮食、能源、环境、健康，都离不开它。", "", ["粮食", "能源", "环境", "健康"]),

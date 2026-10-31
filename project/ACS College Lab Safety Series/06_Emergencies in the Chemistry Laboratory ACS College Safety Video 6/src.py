@@ -47,7 +47,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身后墙上有洗眼器、灭火器标志，向镜头招手",
  "The panda mascot stands at a lab doorway in front of a wall with an eyewash sign and a fire extinguisher sign, waving at the camera.",
- "这一课讲化学实验室的应急处置。", "化学实验室的应急处置"),
+ "这一课讲化学实验室的应急处置。", "化学实验室的紧急情况"),
 ("开场", "碎玻璃、溅到人身上、台面洒漏、火焰四个图标排成一行",
  "Four icons in a row: broken glass, a splash on a person, a puddle on a bench, and a flame. No people.",
  "碎玻璃、溅到身上、洒漏、着火。", "", ["碎玻璃", "溅到身上", "洒漏", "着火"]),

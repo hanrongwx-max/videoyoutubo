@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣捏着一片小小的圆形镜片，对着光看",
  "The panda mascot holds a small round protective lens up to the light and looks through it.",
- "这一课讲焊枪保护镜片的清洁和更换。", "激光焊接机保护镜片的清洁与更换"),
+ "这一课讲焊枪保护镜片的清洁和更换。", "激光焊机：清洁或更换保护镜片"),
 # 情景
 ("情景", "阿杰焊接时火花明显变弱，皱起眉头",
  "The young male student, wearing a face shield, welds but the spark is weak and dim; he frowns.",

@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在铁架台旁，台上夹着滴定管，下面是锥形瓶，向镜头招手",
  "The panda mascot stands beside a ring stand holding a burette above a conical flask on a white base, and waves at the camera.",
- "这一课讲酸碱滴定的规范操作。", "酸碱滴定的规范操作"),
+ "这一课讲酸碱滴定的规范操作。", "滴定"),
 ("开场", "滴定管、指示剂滴瓶、淡粉色锥形瓶三个图标",
  "Three icons in a row: a burette, a small dropper bottle, and a conical flask with very pale pink liquid. No people.",
  "备好管、认准色、慢慢滴。", "", ["准备", "终点", "读数"]),

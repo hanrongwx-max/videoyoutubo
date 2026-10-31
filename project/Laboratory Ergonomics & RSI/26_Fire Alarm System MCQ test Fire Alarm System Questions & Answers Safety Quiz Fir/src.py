@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在红色手动报警按钮旁，向镜头招手",
  "The panda mascot stands next to a red manual fire alarm call point and waves at the camera.",
- "火灾报警系统十问，一起来测！", "火灾报警系统十问"),
+ "火灾报警系统十问，一起来测！", "火灾报警系统测验"),
 ("开场", "一行图标：报警按钮、探测器、喷头、水管接口",
  "A row of icons: a manual call point, a smoke detector, a sprinkler head and a hose inlet. No people.",
  "报警、探测、喷水，都在题里。", "", ["报警", "探测", "喷水"]),

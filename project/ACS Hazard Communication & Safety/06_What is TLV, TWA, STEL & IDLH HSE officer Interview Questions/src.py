@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在问答台后，身边四张空白卡片",
  "The panda mascot stands behind a quiz podium with four blank cards fanned out beside it and waves at the camera.",
- "今天的面试题：四个接触限值。", "安全知识问答：读懂职业接触限值"),
+ "今天的面试题：四个接触限值。", "TLV、TWA、STEL与IDLH是什么"),
 # 情景
 ("情景", "阿杰对着四个英文缩写卡皱眉",
  "The young male student frowns at four blank cards with simple letter-shaped icons on a desk.",

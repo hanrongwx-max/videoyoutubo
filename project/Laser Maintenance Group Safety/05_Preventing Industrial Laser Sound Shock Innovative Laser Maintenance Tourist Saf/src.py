@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在车间门口，双手捂着耳朵又放下",
  "The panda mascot stands at a workshop door, covers its ears, then lowers its paws and smiles.",
- "车间里突然一响，访客会吓一跳。", "别让突然的响声吓到人"),
+ "车间里突然一响，访客会吓一跳。", "预防工业激光的声响惊吓：参观者安全"),
 ("开场", "储罐、安全阀、白雾、气动台面四个图标排成一行",
  "Four icons in a row: a cryogenic tank, a relief valve, a white vapor cloud and a ball transfer table. No people.",
  "今天看看哪些声音会吓到人。", "", ["储罐", "安全阀", "台面"]),

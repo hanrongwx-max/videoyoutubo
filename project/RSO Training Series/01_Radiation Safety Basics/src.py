@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在木框白板前，向镜头招手",
  "The panda mascot stands in front of a blank whiteboard in a wooden frame and waves at the camera.",
- "这一课，我们打好辐射安全的基础。", "辐射安全基础：来源、剂量与生物效应"),
+ "这一课，我们打好辐射安全的基础。", "辐射安全基础"),
 ("开场", "太阳、刻度尺、细胞三个图标排成一行",
  "Three icons in a row: a sun, a blank measuring ruler and a simple cell. No people.",
  "辐射从哪来、怎么量、对人有啥影响。", "", ["来源", "剂量", "生物效应"]),

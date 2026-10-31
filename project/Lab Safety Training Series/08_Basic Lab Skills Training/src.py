@@ -55,7 +55,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，台上摆着移液器、天平、离心机",
  "The panda mascot stands at a lab bench with a pipette rack, a balance and a small centrifuge, and waves at the camera.",
- "这一课，学用九种基础仪器。", "新生入门：九种基础仪器的规范使用"),
+ "这一课，学用九种基础仪器。", "基础实验技能培训"),
 ("开场", "九个仪器图标排成三行",
  "Nine icons in three rows: a pipette, a pipette controller, a balance, a centrifuge, a pH meter, a buffer bottle, a fume hood, a water purifier and a hot plate stirrer. No people.",
  "用得准，更要用得安全。"),

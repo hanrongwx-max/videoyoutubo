@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在试剂柜前，向镜头招手",
  "The panda mascot stands in front of a closed chemical cabinet with hazard pictograms and waves at the camera.",
- "这一课讲：危险物料，心中有数再动手。", "危险物料：心中有数再动手"),
+ "这一课讲：危险物料，心中有数再动手。", "实验室安全培训：从容处理危险物料"),
 ("开场", "说明书和分析表两个图标",
  "Two icons: a blank safety data sheet and a blank analysis table. No people.",
  "看说明书，做危害分析。", "", ["说明书", "危害分析"]),

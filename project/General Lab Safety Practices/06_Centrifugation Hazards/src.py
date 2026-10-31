@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台落地式离心机旁，向镜头招手",
  "The panda mascot stands beside a large floor-standing centrifuge with its lid closed and waves at the camera.",
- "这一课讲离心机的危害和安全使用。", "离心机的危害与安全使用"),
+ "这一课讲离心机的危害和安全使用。", "离心的危害"),
 ("开场", "转子、天平、密封盖、记录本四个图标排成一行",
  "Four icons in a row: a centrifuge rotor, a balance scale, a sealed lid with a lock, and a blank logbook. No people.",
  "选得对、装得稳、封得严、记得全。", "", ["选对", "装稳", "封严", "记全"]),

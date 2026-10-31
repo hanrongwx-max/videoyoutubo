@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在通风橱旁，手里举着一盒空白试纸",
  "The panda mascot stands beside a fume hood holding up a blank box of test strips and waves at the camera.",
- "今天讲怎样用试纸检查过氧化物。", "过氧化物试纸检测"),
+ "今天讲怎样用试纸检查过氧化物。", "用过氧化物试纸检测过氧化物"),
 # 情景
 ("情景", "阿杰端着一瓶有机废液走到通风橱前",
  "The young male student carries a brown bottle of organic waste solution with a blank label to a fume hood.",

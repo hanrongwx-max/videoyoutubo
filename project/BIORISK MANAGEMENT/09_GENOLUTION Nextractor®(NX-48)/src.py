@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台空白外壳的自动核酸提取仪旁，向镜头招手",
  "The panda mascot stands next to an automated nucleic acid extraction instrument with a plain blank casing and waves at the camera.",
- "今天认识一位新帮手：自动核酸提取仪。", "自动核酸提取仪的安全使用"),
+ "今天认识一位新帮手：自动核酸提取仪。", "全自动核酸提取仪"),
 # 情景
 ("情景", "阿杰面前一大排样本管，手里拿着移液器发愁",
  "The young male student sits in front of a long rack of sample tubes holding a pipette, looking overwhelmed.",

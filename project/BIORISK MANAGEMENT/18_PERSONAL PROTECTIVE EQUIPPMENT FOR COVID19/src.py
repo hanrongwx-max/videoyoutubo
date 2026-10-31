@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣捧着一个白色送风头盔，对镜头打招呼",
  "The panda mascot holds a white powered respirator helmet and greets the camera.",
- "今天学用电动送风头罩。", "送风头罩怎么用"),
+ "今天学用电动送风头罩。", "新冠防护用的个人防护装备"),
 ("开场", "欣欣身旁浮现一个病毒图标和一面盾牌",
  "A virus icon and a shield icon appear beside the panda mascot.",
  "做新冠相关工作，常要用到它。"),

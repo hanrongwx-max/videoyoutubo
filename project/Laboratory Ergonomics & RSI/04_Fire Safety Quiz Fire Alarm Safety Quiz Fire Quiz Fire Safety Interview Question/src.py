@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在问答台后，台边挂着灭火器，向镜头招手",
  "The panda mascot stands behind a quiz podium with a red fire extinguisher hanging beside it and waves at the camera.",
- "消防知识竞赛开始啦！", "消防知识竞赛：灭火、报警与喷淋"),
+ "消防知识竞赛开始啦！", "消防安全测验：灭火与火灾报警"),
 ("开场", "两组图标：灭火器、火焰；烟感、喷头",
  "Two groups of icons: a fire extinguisher and a flame on the left, a smoke detector and a sprinkler head on the right. No people.",
  "前十题讲灭火，后十题讲报警和喷淋。", "", ["灭火10题", "报警10题"]),

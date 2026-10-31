@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在通风橱、离心机、灭菌器旁，向镜头招手",
  "The panda mascot stands in a lab next to a fume hood, a centrifuge and an autoclave and waves at the camera.",
- "这一课讲实验室设备的运行安全。", "实验室设备与运行安全"),
+ "这一课讲实验室设备的运行安全。", "第8单元：设备与运行安全"),
 ("开场", "通风橱、离心机、灭菌器、激光、锁五个图标",
  "Five icons in a row: a fume hood, a centrifuge, an autoclave, a laser warning symbol and a padlock with a tag. No people.",
  "通风橱、离心机、压力、激光核磁、维护。", "", ["通风橱", "离心机", "压力设备", "激光核磁", "维护"]),

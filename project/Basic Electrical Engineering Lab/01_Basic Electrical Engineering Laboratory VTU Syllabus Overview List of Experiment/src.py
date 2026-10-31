@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电工实验台前，台上整齐摆着电表和导线，向镜头招手",
  "The panda mascot stands in front of an electrical lab bench with neatly arranged analog meters and coiled wires, waving at the camera.",
- "欢迎来到电工基础实验课！", "电工基础实验：课程导览"),
+ "欢迎来到电工基础实验课！", "电工基础实验：课程大纲与实验清单"),
 ("开场", "电表、导线、调压器、闪电警示标志四个图标排成一行",
  "Four icons in a row: an analog meter with a blank dial, a coil of colored wire, a round variable transformer knob, and an electrical hazard warning sign. No people.",
  "各专业都适用，要做八个以上实验。", "", ["八个实验"]),

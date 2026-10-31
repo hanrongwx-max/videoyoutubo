@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在污水处理池模型旁，身旁浮着一个噬菌体图标",
  "The panda mascot stands beside a model of a wastewater treatment tank, a floating bacteriophage icon with a head and spider-like legs beside it, and waves at the camera.",
- "有一种病毒，专门帮我们杀细菌。", "噬菌体与治污微生物"),
+ "有一种病毒，专门帮我们杀细菌。", "噬菌体在清除生物危害中的作用"),
 ("开场", "欣欣指向三个图标：噬菌体、酸碱试纸、烟囱",
  "The panda mascot points to three floating icons: a bacteriophage, a pH test strip, and a chimney with fumes.",
  "还有微生物能对付酸碱和臭气。", "", ["噬菌体", "酸碱废水", "有毒气体"]),

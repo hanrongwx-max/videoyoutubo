@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室门口，向镜头招手",
  "The panda mascot stands at the door of a microbiology teaching lab and waves at the camera.",
- "欢迎来到实验室安全课。", "实验室里的八类危害"),
+ "欢迎来到实验室安全课。", "什么是实验室危害：危害的类别"),
 ("开场", "欣欣身旁浮现一个分成八格的彩色转盘",
  "The panda mascot points to a floating colorful wheel divided into eight blank segments, each with a simple icon.",
  "今天认一认实验室里的八类危害。"),

@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张空白评估表前，举起放大镜",
  "The panda mascot stands in front of a blank assessment form, holding a magnifying glass.",
- "这一课，学做生物风险评估。", "生物风险评估怎么做"),
+ "这一课，学做生物风险评估。", "生物风险评估"),
 ("开场", "三个圆圈循环里，第一个圆被点亮",
  "Three circles form a loop; the first one lights up. No people.",
  "评估是管理风险的第一步。"),

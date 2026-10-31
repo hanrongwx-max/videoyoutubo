@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一条发光的DNA双螺旋和一面砖墙之间，向镜头招手",
  "The panda mascot stands between a glowing DNA double helix model and a sturdy brick wall, and waves at the camera.",
- "这一课：辐射怎样伤人，屏蔽怎样护人。", "辐射怎样伤人，屏蔽怎样护人"),
+ "这一课：辐射怎样伤人，屏蔽怎样护人。", "辐射生物效应与屏蔽"),
 ("开场", "左边DNA图标，右边盾牌图标，中间一个箭头",
  "A DNA helix icon on the left, a shield icon on the right, and an arrow pointing from the helix to the shield. No people.",
  "先看伤害从哪来，再学怎么挡住它。", "", ["生物效应", "屏蔽防护"]),

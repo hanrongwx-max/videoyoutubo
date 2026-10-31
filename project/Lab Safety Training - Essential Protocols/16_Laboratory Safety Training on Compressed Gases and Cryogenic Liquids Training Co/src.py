@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在几只不同形状的气瓶和一个低温罐旁，向镜头招手",
  "The panda mascot stands beside several gas cylinders of different shapes and a cryogenic container, waving at the camera.",
- "这一课，认识压缩气体和气瓶。", "认识气体和气瓶"),
+ "这一课，认识压缩气体和气瓶。", "实验室安全：压缩气体与低温液体"),
 # 情景
 ("情景", "阿杰站在气瓶库里，看看细高瓶又看看矮胖瓶",
  "The young male student in a cylinder storeroom looks from a tall narrow cylinder to a short fat one.",

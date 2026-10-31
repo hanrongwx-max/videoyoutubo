@@ -47,7 +47,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在摆满玻璃仪器的实验台后，向镜头招手",
  "The panda mascot stands behind a lab bench full of assorted glassware and waves at the camera.",
- "这一课，认识化学实验室的常用仪器。", "认识化学实验室的常用仪器"),
+ "这一课，认识化学实验室的常用仪器。", "常用玻璃仪器与本科化学实验室"),
 ("开场", "烧杯、量筒、圆底烧瓶、冷凝管四个图标排成一行",
  "Four icons in a row: a beaker, a graduated cylinder, a round-bottom flask and a condenser. No people.",
  "认得清、选得对、放得稳、用得好。", "", ["认清", "选对", "放稳", "用好"]),

@@ -58,7 +58,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼屋顶，身后是排风机，向镜头招手",
  "The panda mascot stands on a building rooftop beside large exhaust fans and waves at the camera.",
- "今天四十道题：登高、搭架、动火、办票。", "登高、搭架、动火、办票四十问"),
+ "今天四十道题：登高、搭架、动火、办票。", "安全知识自测：高处作业、脚手架、动火与作业许可"),
 ("开场", "四个图标：梯子、脚手架、火焰、作业票",
  "Four icons in a row: a ladder, a scaffold, a flame and a blank permit form. No people.",
  "四个主题，每个十道。", "", ["高处作业", "脚手架", "动火", "作业许可"]),

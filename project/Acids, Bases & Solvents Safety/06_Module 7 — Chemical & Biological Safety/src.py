@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在试剂柜和生物安全柜之间，向镜头招手",
  "The panda mascot stands between a chemical storage cabinet and a biological safety cabinet and waves at the camera.",
- "这一课讲化学和生物危害的日常操作。", "化学与生物危害的日常操作"),
+ "这一课讲化学和生物危害的日常操作。", "第7单元：化学与生物安全"),
 ("开场", "试剂柜、通风橱、生物安全柜、手套箱、报告单五个图标",
  "Five icons in a row: a chemical cabinet, a fume hood, a biological safety cabinet, a glove box and a blank report form. No people.",
  "储存、台面、生物、高风险、报告。", "", ["储存", "台面操作", "生物安全", "高风险", "报告"]),

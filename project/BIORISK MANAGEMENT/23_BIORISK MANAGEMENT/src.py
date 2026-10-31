@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一间带纱网的隔离温室前",
  "The panda mascot stands in front of a screened isolation greenhouse.",
- "这一课讲：植物为什么要关起来。", "植物为什么要关起来"),
+ "这一课讲：植物为什么要关起来。", "植物为什么需要封闭隔离"),
 ("开场", "一株植物被罩在透明罩里",
  "A potted plant sits under a clear dome cover. No people.",
  "也就是植物封闭。"),

@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着放大镜对准一只锥形瓶，向镜头招手",
  "The panda mascot holds a magnifying glass over an Erlenmeyer flask and waves at the camera.",
- "这一课讲：找出危险，评估风险。", "找出危险，评估风险"),
+ "这一课讲：找出危险，评估风险。", "第3单元：危害识别与风险评估"),
 ("开场", "放大镜、天平、清单三个图标排成一行",
  "Three icons in a row: a magnifying glass, a balance scale weighing risk, and a blank checklist. No people.",
  "从凭感觉，变成有方法。", "", ["找危险", "评风险", "定措施"]),

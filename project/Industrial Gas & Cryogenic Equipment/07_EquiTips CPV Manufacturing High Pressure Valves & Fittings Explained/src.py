@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在仓库货架通道里，手按胸口对镜头打招呼",
  "The panda mascot stands in a warehouse aisle between shelves of parts bins, hand on chest, greeting the camera.",
- "欢迎来到设备小课堂，我是欣欣。", "高压阀门与接头的安全使用"),
+ "欢迎来到设备小课堂，我是欣欣。", "高压阀门与接头解析"),
 ("开场", "一只黄铜高压主阀，黑色十字手柄",
  "A brass high-pressure master valve with a black cross-shaped handle on a plain background. No people.",
  "今天介绍一家高压阀门和接头厂家。"),

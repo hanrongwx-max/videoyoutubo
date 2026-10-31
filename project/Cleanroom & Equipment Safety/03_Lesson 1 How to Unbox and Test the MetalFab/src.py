@@ -48,7 +48,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台手持激光焊机和一台封闭式切割机中间，向镜头招手",
  "The panda mascot stands between a wheeled handheld laser welder and a large enclosed laser cutting machine and waves at the camera.",
- "这一课：焊机和切割机，从开箱到调试。", "激光焊机与切割机：开箱、组装与调试"),
+ "这一课：焊机和切割机，从开箱到调试。", "第1课：激光焊切一体机的开箱与测试"),
 ("开场", "纸箱、木箱、扳手、电脑四个图标",
  "Four icons in a row: a cardboard box, a wooden crate, a wrench and a laptop. No people.",
  "开箱、组装、校准、试切。", "", ["开箱", "组装", "校准", "试切"]),

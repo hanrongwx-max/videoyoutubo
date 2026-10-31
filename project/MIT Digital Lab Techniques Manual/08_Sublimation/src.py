@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在电热板旁，板上是盖着皿盖的培养皿，皿盖上放着一杯冰水，向镜头招手",
  "The panda mascot stands beside a hot plate holding a covered glass dish topped with a beaker of ice water, and waves at the camera.",
- "这一课讲升华纯化。", "升华纯化"),
+ "这一课讲升华纯化。", "升华"),
 ("开场", "固体直接变成气体、再在冷处结晶的示意",
  "A diagram: a solid turning directly into vapor, then forming crystals on a cold surface above. No people.",
  "固体变气体，遇冷再结晶。", "", ["固体", "气体", "晶体"]),

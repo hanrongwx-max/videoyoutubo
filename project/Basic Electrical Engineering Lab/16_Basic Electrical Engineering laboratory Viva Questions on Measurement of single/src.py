@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在考官桌后，桌上摆着四盏小灯和一块功率表",
  "The panda mascot sits behind an examiner's desk with four small lamps and a wattmeter on it, waving at the camera.",
- "口试第三关：单相功率！", "电工实验口试：单相功率篇"),
+ "口试第三关：单相功率！", "单相功率测量实验口试问答"),
 # 情景
 ("情景", "阿杰对着电费单发呆",
  "The young male student stares at a blank electricity bill at home, puzzled.",

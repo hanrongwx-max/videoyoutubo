@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全柜旁，柜内放着一个套袋的废物桶和喷壶",
  "The panda mascot stands beside a biological safety cabinet with a lined waste bin and a spray bottle inside, and waves at the camera.",
- "实验做完了，安全柜里怎么收尾？", "安全柜里的废物收尾"),
+ "实验做完了，安全柜里怎么收尾？", "生物风险管理：安全柜内危险废物的双层装袋"),
 # 情景
 ("情景", "小研做完实验，柜内废物桶快满了",
  "The female graduate student finishes an experiment; the lined waste bin in the cabinet is nearly three quarters full.",

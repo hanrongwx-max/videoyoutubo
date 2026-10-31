@@ -21,7 +21,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一扇带门禁的实验室门前，手里拿着一把钥匙，向镜头招手",
  "The panda mascot stands at a lab door with a card reader, holding a key and waving at the camera.",
- "实验室的东西，也要防丢防盗。", "实验室生物安保：五种威胁怎么防"),
+ "实验室的东西，也要防丢防盗。", "实验室生物安保威胁举例"),
 ("开场", "五个空白格子依次亮起，每格一个盾牌",
  "Five blank boxes light up one by one, each with a shield icon. No people.",
  "今天认识五种生物安保威胁。"),

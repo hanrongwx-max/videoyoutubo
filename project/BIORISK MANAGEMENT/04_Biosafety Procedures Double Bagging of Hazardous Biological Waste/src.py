@@ -23,7 +23,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全柜旁，手里拿着两只叠在一起的空白塑料袋",
  "The panda mascot stands beside a biological safety cabinet holding two stacked blank plastic bags and waves at the camera.",
- "今天学一招：生物废物双层装袋。", "生物废物双层装袋"),
+ "今天学一招：生物废物双层装袋。", "生物安全规程：危险生物废物的双层装袋"),
 # 情景
 ("情景", "阿杰在生物安全柜前做完培养，台面上有用过的吸头和培养皿",
  "The young male student finishes work at a biological safety cabinet; used pipette tips and petri dishes lie on the work surface.",

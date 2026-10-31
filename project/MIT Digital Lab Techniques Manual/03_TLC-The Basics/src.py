@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有带盖玻璃瓶、白色薄板和一盏紫外灯，向镜头招手",
  "The panda mascot stands beside a lab bench with a lidded glass jar, a few white thin plates and a small UV lamp, and waves at the camera.",
- "这一课讲薄层色谱入门。", "薄层色谱入门"),
+ "这一课讲薄层色谱入门。", "薄层色谱：基础"),
 ("开场", "五个步骤图标排成一行",
  "Five icons in a row: a jar with a lid, a plate with a pencil line, a jar with a plate inside, a lamp over a plate, and a ruler. No people.",
  "备缸、点样、展开、显色、计算。", "", ["备缸", "点样", "展开", "显色", "计算"]),

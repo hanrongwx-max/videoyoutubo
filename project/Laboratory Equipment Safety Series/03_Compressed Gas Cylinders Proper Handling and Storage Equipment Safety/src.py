@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排用链条固定的气瓶旁，向镜头招手",
  "The panda mascot stands beside a row of gas cylinders chained to a wall rack and waves at the camera.",
- "今天讲气瓶怎样储存、怎样搬运。", "气瓶的储存与搬运"),
+ "今天讲气瓶怎样储存、怎样搬运。", "压缩气瓶：正确搬运与储存"),
 # 情景
 ("情景", "阿杰第一次走进气瓶间，看着一排气瓶发愣",
  "The young male student walks into a gas cylinder storage room for the first time and stares at the row of cylinders.",

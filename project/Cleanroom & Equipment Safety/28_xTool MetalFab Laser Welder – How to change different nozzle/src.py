@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一把焊枪，旁边摆着两种不同形状的喷嘴",
  "The panda mascot holds a handheld laser welding gun beside two differently shaped brass nozzles on the bench.",
- "这一课讲：焊接嘴怎样换成清洗嘴。", "激光焊接机更换清洗嘴"),
+ "这一课讲：焊接嘴怎样换成清洗嘴。", "激光焊机：如何更换不同喷嘴"),
 ("开场", "四个步骤图标排成一行：电源开关、送丝管、焊接嘴、清洗嘴",
  "Four icons in a row: a power switch turned off, a wire feeding tube, a welding nozzle and a cleaning nozzle. No people.",
  "一共四步，很快就能换好。", "", ["关机", "拆送丝管", "拆焊接嘴", "装清洗嘴"]),

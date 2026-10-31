@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台旁，台上有滴管、漏斗和带抽滤瓶的布氏漏斗，向镜头招手",
  "The panda mascot stands beside a lab bench with a glass dropper on a stand, a glass funnel on a flask, and a white filter funnel on a side-arm flask, and waves at the camera.",
- "这一课讲三种过滤方法。", "三种过滤方法"),
+ "这一课讲三种过滤方法。", "过滤"),
 ("开场", "滴管、玻璃漏斗、布氏漏斗三个图标",
  "Three icons in a row: a glass dropper with cotton, a glass funnel with folded paper, a white filter funnel on a side-arm flask. No people.",
  "微量过滤、重力过滤、减压过滤。", "", ["微量", "重力", "减压"]),

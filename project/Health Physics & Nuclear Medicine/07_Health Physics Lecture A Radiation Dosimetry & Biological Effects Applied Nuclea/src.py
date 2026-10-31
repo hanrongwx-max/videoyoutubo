@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一个发光细胞模型和一支带屏蔽套的注射器图标之间，向镜头招手",
  "The panda mascot stands between a large glowing cell model and a big icon of a syringe inside a shielded sleeve, and waves at the camera.",
- "这一课：辐射为什么伤人，又怎样治病。", "辐射为什么伤人，又怎样治病"),
+ "这一课：辐射为什么伤人，又怎样治病。", "辐射剂量学与生物效应"),
 ("开场", "左边破裂细胞图标，右边带绿勾的靶心图标",
  "A cracked cell icon on the left and a target icon with a green check mark on the right, joined by an arrow. No people.",
  "先看伤害从哪来，再看怎样用好它。", "", ["伤害", "治疗"]),

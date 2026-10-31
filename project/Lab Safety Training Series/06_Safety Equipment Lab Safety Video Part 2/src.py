@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室墙边，身旁是洗眼器、紧急喷淋和灭火器",
  "The panda mascot stands by a lab wall next to an eyewash station, an emergency shower and a red fire extinguisher, waving at the camera.",
- "安全系列第二课：实验室安全设备。", "实验室里的安全设备"),
+ "安全系列第二课：实验室安全设备。", "实验室安全（二）：安全设备"),
 ("开场", "一只玻璃烧杯摔落在地面上碎开的慢镜头",
  "A slow-motion shot of a glass beaker falling onto the lab floor and shattering. No people.",
  "意外，往往就在一瞬间。"),

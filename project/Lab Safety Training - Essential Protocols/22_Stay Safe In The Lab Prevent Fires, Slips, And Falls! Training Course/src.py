@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室里，身后墙上有灭火器，向镜头招手",
  "The panda mascot stands in a lab with a fire extinguisher on the wall behind and waves at the camera.",
- "这一课：防火灾、防滑倒、防劳损。", "防火灾、防滑倒、防劳损"),
+ "这一课：防火灾、防滑倒、防劳损。", "实验室安全：预防火灾、滑倒与跌落"),
 # 情景
 ("情景", "阿杰端着烧杯快步走，地上有一摊水，台上加热套里的烧瓶在加热",
  "The young male student walks fast holding a beaker toward a puddle on the floor, while a flask heats in a heating mantle on the bench.",

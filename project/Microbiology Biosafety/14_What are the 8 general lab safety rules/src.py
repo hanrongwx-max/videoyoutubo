@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，身旁漂浮着八个编号气泡",
  "The panda mascot stands at a lab door with eight numbered bubbles floating beside it.",
- "欢迎来到实验室安全课。", "实验室八条通用安全规则"),
+ "欢迎来到实验室安全课。", "八条通用实验室安全规则是什么？"),
 ("开场", "欣欣竖起手指数数",
  "The panda mascot counts on its fingers with a cheerful expression.",
  "今天记住八条最基本的规则。"),

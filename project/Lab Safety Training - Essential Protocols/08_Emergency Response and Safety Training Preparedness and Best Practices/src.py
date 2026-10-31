@@ -30,7 +30,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在走廊，身旁是应急物资柜",
  "The panda mascot stands in a corridor beside a closed emergency supply cabinet and waves at the camera.",
- "这一课讲应急准备和应急培训。", "应急准备与应急培训"),
+ "这一课讲应急准备和应急培训。", "应急响应与安全培训：准备与最佳做法"),
 ("开场", "文件夹、手形、五个警示图标排成一行",
  "Three icons in a row: a blank binder, an open hand pressing a button, and a cluster of five small warning triangles. No people.",
  "有计划、练过手、认得清风险。", "", ["有计划", "练过手", "认风险"]),

@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴安全帽、护目镜和反光背心，向镜头招手",
  "The panda mascot wearing a safety helmet, goggles and a reflective vest waves at the camera.",
- "安全员十问，测测施工安全基础！", "安全员十问：施工安全基础"),
+ "安全员十问，测测施工安全基础！", "安全员测验：施工安全基础"),
 ("开场", "一行图标：安全帽、护目镜、耳罩、反光背心",
  "A row of icons: a hard hat, goggles, ear muffs and a reflective vest. No people.",
  "十道选择题，每题都有答案和解释。"),

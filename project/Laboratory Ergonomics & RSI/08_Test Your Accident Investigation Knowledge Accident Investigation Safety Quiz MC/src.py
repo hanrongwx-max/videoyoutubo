@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣拿着放大镜和空白记录本，向镜头招手",
  "The panda mascot holds a magnifying glass and a blank notebook and waves at the camera.",
- "今天当一回事故调查员！", "事故调查十问：查事实，改系统"),
+ "今天当一回事故调查员！", "事故调查知识自测"),
 # 情景
 ("情景", "仓库里一个纸箱从货架上掉下，阿杰捂着胳膊",
  "In a storeroom, a cardboard box falls from a shelf and the young male student holds his bruised arm.",

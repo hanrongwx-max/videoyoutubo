@@ -34,7 +34,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室货架前，向镜头招手",
  "The panda mascot stands in front of lab shelves stocked with reagent bottles and waves at the camera.",
- "安全系列第四课：化学品的危害。", "认识化学品的危害：SDS与标签"),
+ "安全系列第四课：化学品的危害。", "实验室安全（四）：化学品危害"),
 # 情景
 ("情景", "阿杰从柜里拿出一瓶陌生试剂，准备直接打开",
  "The young male student takes an unfamiliar reagent bottle from a cabinet and is about to open it at the bench.",

@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽，站在一个大储罐的人孔旁招手",
  "The panda mascot in a hard hat stands beside the manhole of a large storage tank and waves at the camera.",
- "今天的面试题：受限空间！", "安全知识问答：受限空间"),
+ "今天的面试题：受限空间！", "安全员面试问答：受限空间"),
 ("开场", "一张空白题单，十一行依次亮起",
  "A blank question sheet with eleven rows lighting up one by one. No people.",
  "一共十一道题，逐条来讲。", "", ["11道题"]),

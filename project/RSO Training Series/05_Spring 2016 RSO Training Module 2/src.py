@@ -53,7 +53,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在校园社团活动中心门口，向镜头招手",
  "The panda mascot stands at the entrance of a campus student activity center with blank club banners and waves at the camera.",
- "这一课讲学生社团必知的校规。", "学生社团安全守则：欺凌、集体活动、饮酒与出行"),
+ "这一课讲学生社团必知的校规。", "注册学生社团培训第2单元（2016春）"),
 ("开场", "五个图标：举起的手掌、举牌人群、酒杯、汽车、对话气泡",
  "Five icons in a row: a raised open palm, a small crowd holding blank signs, a wine glass, a car, and a speech bubble with a heart. No people.",
  "欺凌、抗议示威、饮酒、出行、反骚扰。", "", ["欺凌", "抗议示威", "饮酒", "出行", "反骚扰"]),

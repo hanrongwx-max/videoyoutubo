@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在检验科样本接收台旁，手里拿着一个空白样本管",
  "The panda mascot stands beside a sample reception counter holding a blank sample tube and waves at the camera.",
- "今天聊聊：临床样本怎么管才安全。", "临床样本的生物风险管理"),
+ "今天聊聊：临床样本怎么管才安全。", "生物风险管理：临床样本"),
 # 情景
 ("情景", "阿杰从送样人手里接过一个保温运输箱",
  "The young male student receives an insulated transport box from the security officer at the laboratory door.",

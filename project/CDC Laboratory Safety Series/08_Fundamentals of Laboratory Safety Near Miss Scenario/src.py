@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门外，门框上一根小飘带",
  "The panda mascot stands outside a laboratory door with a small ribbon tape hanging from the top of the door frame.",
- "这一课是个情景题：飘带向外飘了。", "飘带向外飘了"),
+ "这一课是个情景题：飘带向外飘了。", "实验室安全基础：未遂事件情景"),
 ("开场", "欣欣举起一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "听完故事，请你一起来想答案。"),

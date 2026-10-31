@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在五个主题卡片前，向镜头招手",
  "The panda mascot stands in front of five topic cards and waves at the camera.",
- "五大主题安全竞赛，开始！", "五大主题安全竞赛"),
+ "五大主题安全竞赛，开始！", "安全竞赛：高处作业、消防、起重、开挖与受限空间"),
 ("开场", "五个图标：梯子、火焰、起重机、井口、挖掘机",
  "Five icons: a ladder, a flame, a crane, a manhole and an excavator. No people.",
  "高处、消防、起重、有限空间、开挖。", "", ["高处作业", "消防", "起重", "有限空间", "开挖"]),

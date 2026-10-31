@@ -48,7 +48,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在天平图标前，一端危害一端风险",
  "The panda mascot stands beside a balance scale icon.",
- "这一课，学会辨危害、评风险。", "危害与风险评估"),
+ "这一课，学会辨危害、评风险。", "生物风险评估：危害与风险"),
 ("开场", "欣欣身旁出现放大镜和盾牌",
  "The panda mascot beside a magnifying glass and a shield icon. No people.",
  "先看清，再防住。"),

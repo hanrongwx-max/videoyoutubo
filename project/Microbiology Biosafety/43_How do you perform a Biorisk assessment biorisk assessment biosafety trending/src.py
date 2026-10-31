@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一块空白剪贴板，上面有生物危害标志",
  "The panda mascot holds a blank clipboard with a small biohazard symbol and waves at the camera.",
- "这一课讲：生物风险评估怎么做。", "生物风险评估六步走"),
+ "这一课讲：生物风险评估怎么做。", "如何开展生物风险评估？"),
 # 情景
 ("情景", "阿杰兴冲冲拿着一管样本走向离心机",
  "The young male student eagerly walks toward a centrifuge carrying a closed sample tube.",

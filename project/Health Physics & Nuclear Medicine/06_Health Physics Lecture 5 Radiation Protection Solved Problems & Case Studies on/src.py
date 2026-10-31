@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一块空白习题板前，手里拿着粉笔，向镜头招手",
  "The panda mascot stands in front of a blank exercise board holding a piece of chalk and waves at the camera.",
- "今天不讲新课，我们一起做题。", "辐射防护习题课：八道题里的安全道理"),
+ "今天不讲新课，我们一起做题。", "辐射防护习题与案例：剂量与风险"),
 ("开场", "八张空白题卡排成两行，前五张蓝色，后三张橙色",
  "Eight blank question cards arranged in two rows: five blue cards and three orange cards. No people.",
  "每道题，都藏着一条安全道理。", "", ["计算题", "案例题"]),

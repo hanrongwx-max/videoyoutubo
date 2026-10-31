@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在推车上一只绿色气瓶旁，手拿放大镜，向镜头招手",
  "The panda mascot stands beside a green gas cylinder strapped to a cylinder cart, holding a magnifying glass, and waves at the camera.",
- "这一课教你读懂气瓶上的标记。", "读懂气瓶上的标记"),
+ "这一课教你读懂气瓶上的标记。", "压缩气瓶：读懂气瓶标记"),
 # 情景
 ("情景", "阿杰盯着瓶肩密密麻麻的钢印发愣",
  "The young male student stares at rows of stamped marks on a cylinder shoulder, looking puzzled.",

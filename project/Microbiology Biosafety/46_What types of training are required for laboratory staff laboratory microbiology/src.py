@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在培训教室门口，手里拿着一本空白手册",
  "The panda mascot stands at the door of a small training classroom holding a blank handbook and waves at the camera.",
- "这一课讲：进生物实验室要学什么。", "进生物实验室要学什么"),
+ "这一课讲：进生物实验室要学什么。", "实验室人员需要哪些培训？"),
 # 情景
 ("情景", "阿杰拿着准入考试合格的空白证书，兴奋地走向实验室",
  "The young male student happily walks toward the lab holding a blank certificate card.",

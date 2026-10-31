@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在抢答台后，台上空白卡片朝下扣着",
  "The panda mascot stands behind a quiz podium with a stack of blank cards face down and waves at the camera.",
- "今天的安全抢答，不给选项！", "安全知识抢答：二十道简答题"),
+ "今天的安全抢答，不给选项！", "安全员评估测试问答"),
 ("开场", "图标一排：氧气分子、井口、焊枪、事故表、梯子、护栏",
  "A row of icons: an oxygen molecule, a manhole, a welding torch, a blank chart, a ladder and a guardrail. No people.",
  "缺氧、有限空间、动火、事故、登高。", "", ["缺氧", "有限空间", "动火", "事故", "登高"]),

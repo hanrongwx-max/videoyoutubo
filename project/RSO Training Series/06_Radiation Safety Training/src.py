@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在医院核医学科走廊，门上有电离辐射警告标志，向镜头招手",
  "The panda mascot stands in a hospital corridor next to a door with an ionizing radiation warning sign and waves at the camera.",
- "这一课讲核医学身边的辐射安全。", "核医学身边的辐射安全：病人、溢洒与急救"),
+ "这一课讲核医学身边的辐射安全。", "辐射安全培训"),
 ("开场", "三个图标：注射器、地上一滴液体、急救十字",
  "Three icons in a row: a syringe, a single drop on the floor, and a medical first aid cross. No people.",
  "病人、溢洒、急救，一个个说清楚。", "", ["注射后病人", "溢洒", "急救"]),

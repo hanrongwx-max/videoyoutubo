@@ -66,7 +66,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在带围挡的施工工地前，向镜头招手",
  "The panda mascot stands in front of a fenced construction site and waves at the camera.",
- "安全员面试，六十道基础题！", "安全知识四关挑战"),
+ "安全员面试，六十道基础题！", "基础安全面试问答：施工安全"),
 ("开场", "安全帽、闪电、铁锹、脚手架四个图标排成一行",
  "Four icons in a row: a hard hat, a lightning bolt, a shovel and a scaffold frame. No people.",
  "施工、电气、开挖、脚手架四部分。", "", ["施工", "电气", "开挖", "脚手架"]),

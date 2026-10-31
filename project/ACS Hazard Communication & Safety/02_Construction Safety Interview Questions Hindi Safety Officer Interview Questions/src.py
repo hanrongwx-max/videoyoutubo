@@ -50,7 +50,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着安全帽站在问答台后，向镜头招手",
  "The panda mascot wears a hard hat, stands behind a quiz podium and waves at the camera.",
- "建筑安全员面试问答，开始！", "安全知识问答：施工现场与风险评估"),
+ "建筑安全员面试问答，开始！", "施工安全面试问答"),
 ("开场", "四个图标：问号、脚手架、风险矩阵、铁锹",
  "Four icons in a row: a question mark, a scaffold, a colored grid and a shovel. No people.",
  "先讲基础题，再讲进阶题。", "", ["基础", "进阶"]),

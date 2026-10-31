@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验楼门口，身旁浮着一面带生物危害标志的盾牌",
  "The panda mascot stands at the door of a microbiology lab building, a floating shield with a biohazard symbol beside it, and waves at the camera.",
- "这一课讲：什么是生物风险管理。", "生物风险管理是什么"),
+ "这一课讲：什么是生物风险管理。", "什么是生物风险管理：关键要素与重要性"),
 # 情景
 ("情景", "阿杰在课题组例会上举手，面前是一张空白通知",
  "The young male student raises his hand at a group meeting, a blank notice sheet on the table in front of him.",

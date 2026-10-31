@@ -31,7 +31,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全柜旁，手里拿着一卷纸巾和一个喷壶",
  "The panda mascot stands beside a biological safety cabinet holding a roll of paper towels and a disinfectant squeeze bottle.",
- "这一课讲安全柜里洒了东西怎么办。", "生物安全柜内溢洒的清理"),
+ "这一课讲安全柜里洒了东西怎么办。", "生物安全柜安全操作基础：清理柜内溢洒"),
 ("开场", "四个图标排成一行：纸巾、喷壶、沙漏、废物袋",
  "Four icons in a row: paper towels, a squeeze bottle, an hourglass and a biohazard waste bag. No people.",
  "盖住、消毒、等待、处置。", "", ["盖住", "消毒", "等待", "处置"]),

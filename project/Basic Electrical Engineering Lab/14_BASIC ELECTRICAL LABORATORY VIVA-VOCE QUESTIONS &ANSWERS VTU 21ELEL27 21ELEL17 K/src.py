@@ -37,7 +37,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣坐在考官桌后，桌上放着空白题卡",
  "The panda mascot sits behind an examiner's desk with a stack of blank question cards, waving at the camera.",
- "实验口试来了，一起来练一练！", "电工实验口试：基尔霍夫定律篇"),
+ "实验口试来了，一起来练一练！", "KVL与KCL实验口试问答"),
 # 情景
 ("情景", "阿杰在走廊里紧张地翻实验报告",
  "The young male student nervously flips through a blank lab report in a corridor outside a lab.",

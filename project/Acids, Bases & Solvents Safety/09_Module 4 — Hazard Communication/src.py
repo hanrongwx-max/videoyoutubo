@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一瓶贴有危险象形图的试剂瓶，向镜头招手",
  "The panda mascot holds up a reagent bottle with a blank label and a GHS hazard pictogram and waves at the camera.",
- "这一课讲：读懂化学品的安全语言。", "读懂化学品的安全语言"),
+ "这一课讲：读懂化学品的安全语言。", "第4单元：危害告知"),
 ("开场", "标签、说明书、培训三个图标排成一行",
  "Three icons in a row: a bottle label with a red diamond pictogram, a thick blank safety data sheet booklet, and a training board. No people.",
  "标签是字母，说明书是字典。", "", ["标签", "安全技术说明书", "培训"]),

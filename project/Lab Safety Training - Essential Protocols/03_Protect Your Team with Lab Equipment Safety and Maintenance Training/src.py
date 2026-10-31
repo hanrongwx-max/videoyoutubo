@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台大型分析仪旁",
  "The panda mascot stands beside a large benchtop analyzer with a blank screen and waves at the camera.",
- "这一课讲仪器设备的安全与维护。", "仪器设备的安全与维护"),
+ "这一课讲仪器设备的安全与维护。", "实验室设备安全与维护培训"),
 ("开场", "说明书、扳手、放大镜、暂停手势四个图标",
  "Four icons in a row: a blank manual, a wrench, a magnifying glass and a raised stop hand. No people.",
  "读说明、勤维护、常检查、有异常就停。", "", ["读说明", "勤维护", "常检查", "异常就停"]),

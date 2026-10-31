@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在四级台阶旁，向镜头招手",
  "The panda mascot stands beside a four-step staircase made of colored blocks and waves at the camera.",
- "今天讲实验室的生物安全等级。", "一级到四级：实验室生物安全防护等级"),
+ "今天讲实验室的生物安全等级。", "什么是生物安全等级：一级到四级"),
 ("开场", "四个颜色由浅到深的生物危害标志排成一行",
  "Four biohazard warning signs in a row, colored from pale yellow to deep red. No people.",
  "一共四级，一级比一级严。", "", ["一级", "二级", "三级", "四级"]),

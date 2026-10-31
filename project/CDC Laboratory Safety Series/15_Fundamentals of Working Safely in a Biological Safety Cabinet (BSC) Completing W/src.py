@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在生物安全柜旁，柜内摆着用过的试管架和吸头盒，向镜头招手",
  "The panda mascot stands beside a biological safety cabinet with used tube racks and tip boxes inside and waves at the camera.",
- "实验做完了，安全柜怎么收尾？", "生物安全柜的收尾工作"),
+ "实验做完了，安全柜怎么收尾？", "生物安全柜安全操作基础：完成工作"),
 ("开场", "四个图标排成一行：瓶盖、喷壶、废物袋、关闭的前窗",
  "Four icons in a row: a closed cap, a spray bottle, a tied waste bag, and a closed cabinet sash. No people.",
  "关容器、消毒、处理废物、关机。", "", ["关容器", "消毒", "处理废物", "关机"]),

@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一块空白卡片，卡片上只有回路和节点两个图标",
  "The panda mascot holds up a blank card showing only a loop icon and a junction icon, waving at the camera.",
- "两条定律，一起速记！", "基尔霍夫两定律速记"),
+ "两条定律，一起速记！", "KVL与KCL虚拟实验完整演示"),
 # 情景
 ("情景", "阿杰考前在台灯下翻空白笔记，皱眉",
  "The young male student flips through a blank notebook under a desk lamp before an exam, frowning.",

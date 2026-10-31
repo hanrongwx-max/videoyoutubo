@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室门口，旁边墙上挂着急救箱",
  "The panda mascot stands at a lab doorway next to a wall-mounted first aid kit and waves at the camera.",
- "欢迎来到应急准备这一课。", "微生物实验室的应急准备"),
+ "欢迎来到应急准备这一课。", "微生物实验室安全措施：应急准备"),
 ("开场", "欣欣身旁浮现急救箱、电话、记录本三个图标",
  "The panda mascot points to three floating icons: a first aid kit, a telephone and a notebook.",
  "三件事：急救箱、应急电话、事故报告。", "", ["急救箱", "应急电话", "事故报告"]),

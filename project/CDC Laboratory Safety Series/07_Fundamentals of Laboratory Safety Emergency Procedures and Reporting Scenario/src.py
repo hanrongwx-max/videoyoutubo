@@ -18,7 +18,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一只有小破洞的蓝手套，向镜头歪头",
  "The panda mascot holds up a blue nitrile glove with a tiny hole and tilts its head at the camera.",
- "这一课是个情景题：手套破了怎么办？", "手套破了，要不要说"),
+ "这一课是个情景题：手套破了怎么办？", "实验室安全基础：应急程序与报告情景"),
 ("开场", "欣欣举起一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "听完故事，请你一起来想答案。"),

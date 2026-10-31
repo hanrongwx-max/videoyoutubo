@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排多米诺骨牌旁，向镜头招手",
  "The panda mascot stands beside a row of dominoes and waves at the camera.",
- "一颗螺栓，能引出多大的故障？", "一颗螺栓引发的连锁故障"),
+ "一颗螺栓，能引出多大的故障？", "靠例行维护防止激光设备烧毁"),
 ("开场", "螺栓、镜片、水管、喷嘴四个图标连成一串",
  "Four icons linked in a chain: a bolt, a cracked lens, a melted tube and a nozzle. No people.",
  "今天跟着烧坏的零件，一件件看。"),

@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一栋三层实验楼模型旁，向镜头挥手",
  "The panda mascot stands beside a three-story laboratory building model and waves at the camera.",
- "今天讲工程控制。", "楼和柜子怎么挡住病原体：工程控制"),
+ "今天讲工程控制。", "工程控制"),
 ("开场", "欣欣指着模型上的屋顶风机和楼里的生物安全柜",
  "The panda mascot points at a roof fan on the model and a small biological safety cabinet inside it.",
  "从一栋楼，讲到一台柜子。"),

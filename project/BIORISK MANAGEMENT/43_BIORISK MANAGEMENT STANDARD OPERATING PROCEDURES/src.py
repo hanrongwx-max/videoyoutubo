@@ -40,7 +40,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一张空白检查单，向镜头挥手",
  "The panda mascot holds up a blank checklist and waves at the camera.",
- "今天讲标准操作规程。", "一份好规程是怎么写成的"),
+ "今天讲标准操作规程。", "生物风险管理：标准操作规程"),
 ("开场", "欣欣在检查单上画了一个大对勾",
  "The panda mascot draws a big check mark on the checklist.",
  "看看一份好规程怎么写出来。"),

@@ -38,7 +38,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在两只固定好的气瓶旁，向镜头招手",
  "The panda mascot stands beside two gas cylinders strapped to a lab wall and waves at the camera.",
- "这一课讲气瓶减压器怎么装、怎么拆。", "气瓶减压器的安装与拆卸"),
+ "这一课讲气瓶减压器怎么装、怎么拆。", "压缩气瓶：减压器的安装与拆卸"),
 # 情景
 ("情景", "阿杰拿着一个减压器，对着一只新气瓶比划",
  "The young male student holds a pressure regulator and looks uncertainly at a new gas cylinder against the wall.",

@@ -41,7 +41,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣抱着一本厚厚的空白手册，向镜头挥手",
  "The panda mascot holds a thick blank manual and waves at the camera.",
- "今天讲管理控制。", "写下来，照着做：管理控制"),
+ "今天讲管理控制。", "生物风险管理：管理控制"),
 ("开场", "欣欣翻开手册，里面是空白页和勾选框",
  "The panda mascot opens the manual to show blank pages and checkboxes.",
  "说白了：写下来，照着做。"),

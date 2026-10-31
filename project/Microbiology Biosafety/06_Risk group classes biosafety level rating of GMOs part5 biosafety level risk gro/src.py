@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在四级台阶前向镜头招手",
  "The panda mascot stands in front of a four-step staircase and waves at the camera.",
- "这一课讲转基因生物怎么分级。", "转基因生物：分几类，防几级"),
+ "这一课讲转基因生物怎么分级。", "转基因生物的风险组别与生物安全等级"),
 ("开场", "四个大小不同的盾牌排成一行",
  "Four shields in a row, growing larger from left to right. No people.",
  "风险分几类，防护就配几级。"),

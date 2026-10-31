@@ -35,7 +35,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排颜色不同的废液桶旁，向镜头招手",
  "The panda mascot stands beside a row of waste containers in different colors with blank labels and waves at the camera.",
- "这一课讲实验室废物怎么分类处置。", "实验室废物的分类与处置"),
+ "这一课讲实验室废物怎么分类处置。", "第10单元：废物管理"),
 ("开场", "追踪箭头、分类桶、标签、生物危害、运输车五个图标",
  "Five icons in a row: a tracking arrow, sorting bins, a blank label, a biohazard symbol and a delivery truck. No people.",
  "追踪、分类、暂存、生物废物、转运。", "", ["追踪", "分类", "暂存", "生物废物", "转运"]),

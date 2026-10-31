@@ -56,7 +56,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在校园草坪上，一只卡通蚊子在旁边飞，欣欣摆手",
  "The panda mascot stands on a campus lawn waving away a cartoon mosquito flying nearby.",
- "小小一只蚊子，能传好几种病。", "蚊虫传的病，怎么防"),
+ "小小一只蚊子，能传好几种病。", "媒介传播疾病：疟疾、登革热与基孔肯雅热"),
 ("开场", "欣欣举起蚊子、苍蝇、白蛉三个图标",
  "The panda mascot holds up three icons: a mosquito, a housefly and a tiny sandfly.",
  "今天讲虫媒传染病的防护。"),

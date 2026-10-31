@@ -29,7 +29,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一节大电池模型，向镜头招手",
  "The panda mascot holds up a large cartoon battery model and waves at the camera.",
- "这一课我们动手搭一个原电池。", "动手搭一个原电池"),
+ "这一课我们动手搭一个原电池。", "动手组装原电池（电化学）"),
 ("开场", "两只烧杯、纸条盐桥和电压表组成的装置图标",
  "An icon of two beakers with metal strips, joined by a paper strip and wired to a small meter. No people.",
  "两只烧杯、两块金属，就能发电。"),

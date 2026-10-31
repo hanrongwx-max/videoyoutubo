@@ -28,7 +28,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一扇带观察窗的白色门前，转身面对镜头",
  "The panda mascot stands in front of a white door with a small viewing window and turns to face the camera.",
- "今天讲一堵看不见的墙。", "看不见的墙：气流防护"),
+ "今天讲一堵看不见的墙。", "生物风险管理：生物防护"),
 ("开场", "欣欣挥手，身边飘过几道淡蓝色气流箭头",
  "The panda mascot waves a paw while light blue airflow arrows drift past beside it.",
  "它是用空气砌成的。"),

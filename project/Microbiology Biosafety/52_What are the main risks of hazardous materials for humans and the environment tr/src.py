@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一半是实验室、一半是河流草地的背景前，向镜头招手",
  "The panda mascot stands in front of a background that is half laboratory and half river and meadow, waving at the camera.",
- "危险物品伤的不只是人。", "危险物品伤人也伤环境"),
+ "危险物品伤的不只是人。", "危险物品对人和环境的主要风险"),
 ("开场", "一个天平，一边是人形图标，一边是地球图标",
  "A balance with a human figure icon on one side and a globe icon on the other. No people.",
  "今天看看，它对人和环境的危害。"),

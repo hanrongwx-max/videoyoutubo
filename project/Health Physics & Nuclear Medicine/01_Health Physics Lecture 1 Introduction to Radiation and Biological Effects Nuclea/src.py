@@ -39,7 +39,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一级级发光的台阶前，向镜头招手",
  "The panda mascot stands in front of a glowing staircase of four steps, colored from orange to teal, and waves at the camera.",
- "这一课，我们认识辐射剂量。", "辐射剂量入门：从空气电离到人体风险"),
+ "这一课，我们认识辐射剂量。", "辐射入门与生物效应"),
 ("开场", "四级台阶上依次亮起空气盒、方块、粒子、人体四个图标",
  "Four steps light up one by one with icons on them: a box of air, a solid cube, a group of particles and a simple human body outline. No people.",
  "从空气里的电离，一步步走到人体风险。", "", ["照射量", "吸收剂量", "当量剂量", "有效剂量"]),

@@ -24,7 +24,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在教室讲台旁，身后屏幕只有图标",
  "The panda mascot stands beside a podium in a classroom with a screen showing only icons, and waves at the camera.",
- "欢迎来到生物风险管理课。", "生物风险管理，人人有份"),
+ "欢迎来到生物风险管理课。", "在线公开课：生物风险管理导论"),
 ("开场", "欣欣翻开空白课程手册，五张日历页",
  "The panda mascot opens a blank course booklet showing five calendar page icons.",
  "接下来几周，我们一步步学。"),

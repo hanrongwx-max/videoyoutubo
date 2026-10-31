@@ -33,7 +33,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在焊机和切割机旁，手拿一块无尘布，向镜头招手",
  "The panda mascot stands between a handheld laser welder and an enclosed cutting machine, holding a lint-free cloth, and waves at the camera.",
- "这一课：激光焊机和切割机怎么保养。", "激光焊机与切割机的维护保养"),
+ "这一课：激光焊机和切割机怎么保养。", "第7课：如何延长激光焊切一体机的寿命"),
 ("开场", "镜片、焊丝盘、风扇、扫帚四个图标",
  "Four icons in a row: a round lens, a wire spool, a fan and a small brush. No people.",
  "镜片、焊丝、机内清洁，一样样来。", "", ["镜片", "焊丝", "清洁"]),

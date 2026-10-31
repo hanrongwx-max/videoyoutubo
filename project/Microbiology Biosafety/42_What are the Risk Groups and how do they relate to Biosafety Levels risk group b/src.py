@@ -25,7 +25,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在四把彩色锁和四扇实验室门之间，向镜头招手",
  "The panda mascot stands between four colored locks and four lab doors, and waves at the camera.",
- "这一课讲危害组和防护级别。", "危害组与防护级别：别把顺序记反"),
+ "这一课讲危害组和防护级别。", "风险组是什么？与生物安全等级有何关系"),
 # 情景
 ("情景", "阿杰看着几张空白的菌种资料卡，皱眉",
  "The young male student frowns at several blank strain info cards.",

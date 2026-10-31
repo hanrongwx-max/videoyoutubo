@@ -19,7 +19,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣举着一个小小的铜色导嘴，向镜头招手",
  "The panda mascot holds up a tiny knurled brass wire feeding nozzle and waves at the camera.",
- "这一课讲送丝导嘴怎样更换。", "激光焊接机更换送丝导嘴"),
+ "这一课讲送丝导嘴怎样更换。", "激光焊机：更换送丝嘴"),
 ("开场", "送丝机、送丝管、焊枪连成一线的示意图",
  "Diagram: a wire feeder, a long wire feeding tube and a handheld welding gun joined in a line. No people.",
  "导嘴装在送丝管的末端。"),

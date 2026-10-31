@@ -42,7 +42,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣戴着消防头盔站在问答台后招手",
  "The panda mascot wears a red firefighter helmet, stands behind a quiz podium and waves at the camera.",
- "今天的题目：消防安全面试问答！", "安全知识问答：燃烧、火灾分类与灭火器"),
+ "今天的题目：消防安全面试问答！", "消防安全面试问答"),
 ("开场", "四个图标：火焰、分类卡、灭火器、检查清单",
  "Four icons in a row: a flame, a set of category cards, a fire extinguisher and a checklist. No people.",
  "从火讲起，讲到灭火器检查。"),

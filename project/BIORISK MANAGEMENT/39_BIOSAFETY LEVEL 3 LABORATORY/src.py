@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一扇封闭实验室的门前",
  "The panda mascot stands in front of a sealed laboratory door.",
- "今天带你看，三级室怎么封住病原。", "三级室怎么封"),
+ "今天带你看，三级室怎么封住病原。", "三级生物安全实验室"),
 ("开场", "欣欣指向门上的生物危害标志",
  "The panda mascot points at a biohazard sign on the door.",
  "靠的不是锁，是气流。"),

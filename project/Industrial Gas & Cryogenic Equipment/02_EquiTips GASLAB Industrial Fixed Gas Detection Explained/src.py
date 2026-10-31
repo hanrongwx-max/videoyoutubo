@@ -26,7 +26,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在挂着调压器和细管的白色展示墙前，台面上有白色检测仪和橙色报警灯，向镜头招手",
  "The panda mascot stands in front of a white display wall with gas regulators and thin tubing, a white gas detector and an orange beacon on the counter, and waves at the camera.",
- "今天聊每家气体经销商都该懂的事。", "固定式气体检测报警"),
+ "今天聊每家气体经销商都该懂的事。", "工业固定式气体检测解析"),
 ("开场", "老李走进画面，手里拿着灰色圆形探头",
  "The facility engineer walks into the frame holding a round gray explosion-proof gas sensor head.",
  "嘉宾老李，是检测仪厂家的销售负责人。", "", ["气体安全检测"]),

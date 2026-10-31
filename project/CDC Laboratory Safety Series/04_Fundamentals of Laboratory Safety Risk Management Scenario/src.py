@@ -20,7 +20,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验台前，举着一块空白写字板",
  "The panda mascot stands at a lab bench holding up a blank clipboard with a magnifier icon.",
- "这一课是个情景题：接到新实验怎么办？", "新实验，先评估"),
+ "这一课是个情景题：接到新实验怎么办？", "实验室安全基础：风险管理情景"),
 ("开场", "欣欣举起一个大问号牌",
  "The panda mascot holds up a big question mark sign and tilts its head.",
  "看完故事，请你一起来想答案。"),

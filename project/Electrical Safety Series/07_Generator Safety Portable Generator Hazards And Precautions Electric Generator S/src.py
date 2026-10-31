@@ -41,7 +41,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在施工现场空地上一台小型便携式发电机旁，向镜头招手",
  "The panda mascot stands next to a small portable generator on an open work site yard and waves at the camera.",
- "这一课讲便携式发电机的安全使用。", "便携式发电机安全使用"),
+ "这一课讲便携式发电机的安全使用。", "便携式发电机的危害与预防措施"),
 ("开场", "闪电、一氧化碳云、火焰、耳朵四个图标排成一行",
  "Four icons in a row: a lightning bolt, a grey exhaust cloud, a flame and an ear. No people.",
  "触电、中毒、起火、噪声，一个个说。", "", ["触电", "中毒", "起火", "噪声"]),

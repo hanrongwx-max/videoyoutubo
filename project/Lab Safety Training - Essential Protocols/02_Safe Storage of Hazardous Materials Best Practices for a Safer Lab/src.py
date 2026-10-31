@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一排整齐的试剂柜前",
  "The panda mascot stands in front of a row of tidy chemical storage cabinets and waves at the camera.",
- "这一课讲危险物品怎么安全储存。", "危险化学品的安全储存"),
+ "这一课讲危险物品怎么安全储存。", "危险物料的安全储存：打造更安全的实验室"),
 ("开场", "安全柜、容器、警示标签三个图标",
  "Three icons in a row: a yellow safety cabinet, a metal safety can and a blank label with a red diamond pictogram. No people.",
  "柜子、容器、标签，一样一样讲。", "", ["安全柜", "容器", "标签"]),

@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台落地式离心机旁，向镜头招手",
  "The panda mascot stands beside a floor-standing centrifuge in a lab and waves at the camera.",
- "今天学习怎样安全使用离心机。", "安全使用离心机"),
+ "今天学习怎样安全使用离心机。", "实验室安全：使用离心机"),
 # 情景
 ("情景", "阿杰拿着一支离心管，站在离心机前犹豫",
  "The young male student holds a single centrifuge tube and hesitates in front of an open benchtop centrifuge.",

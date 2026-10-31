@@ -60,7 +60,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在白板前，白板上画着安全帽和问号，向镜头招手",
  "The panda mascot stands in front of a whiteboard with drawings of a hard hat and a question mark, waving at the camera.",
- "安全员面试最常问的四十道题。", "安全知识竞赛四十题"),
+ "安全员面试最常问的四十道题。", "消防与安全面试题：消防、用电、受限空间与防护"),
 ("开场", "火焰、闪电、井口、安全帽四个图标排成一行",
  "Four icons in a row: a flame, a lightning bolt, a manhole opening and a safety helmet. No people.",
  "四组四十题：消防、用电、受限空间、防护。", "", ["消防", "用电", "受限空间", "个人防护"]),

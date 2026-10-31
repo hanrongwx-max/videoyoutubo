@@ -36,7 +36,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台化学通风柜旁，向镜头招手",
  "The panda mascot stands beside a chemical fume hood with its glass sash at working height and waves at the camera.",
- "这一课讲通风柜的良好操作习惯。", "通风柜的良好操作习惯"),
+ "这一课讲通风柜的良好操作习惯。", "化学通风柜安全基础：良好操作规范"),
 ("开场", "四个图标：检测标签、报警灯、前窗、扫帚",
  "Four icons in a row: a blank inspection label, an alarm lamp, a sliding sash, and a cleaning cloth. No people.",
  "看标签、听报警、调前窗、勤清理。", "", ["看标签", "听报警", "调前窗", "勤清理"]),

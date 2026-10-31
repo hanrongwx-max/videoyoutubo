@@ -32,7 +32,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室更衣间，手捧一个白色送风头盔，向镜头招手",
  "The panda mascot stands in a laboratory changing room holding a white powered air hood helmet and waves at the camera.",
- "今天学穿送风式呼吸头罩。", "送风头罩，一步步穿对"),
+ "今天学穿送风式呼吸头罩。", "电动送风过滤式呼吸器"),
 ("开场", "欣欣指着头盔、电池、腰带三样东西",
  "The panda mascot points at a helmet, a battery pack and a belt laid on a bench.",
  "顺序错一步，都可能出危险。"),

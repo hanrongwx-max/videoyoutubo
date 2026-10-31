@@ -27,7 +27,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一台打开侧板的焊机主机旁，向镜头招手",
  "The panda mascot stands beside a handheld laser welder unit with its side panel open and waves at the camera.",
- "这一课：焊机里的安全继电器怎么换。", "激光焊机安全继电器的更换"),
+ "这一课：焊机里的安全继电器怎么换。", "激光焊机：更换安全继电器"),
 ("开场", "黄色继电器模块图标，旁边拆、换、装三个箭头",
  "A yellow relay module icon with three arrows around it for remove, replace and reinstall. No people.",
  "整个过程分拆、换、装三步。", "", ["拆", "换", "装"]),

@@ -51,7 +51,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在实验室走廊，手里举着一块空白记分板，向镜头招手",
  "The panda mascot stands in a laboratory corridor holding a blank scoreboard and waves at the camera.",
- "安全工作做得好不好，怎么评？", "安全做得好不好，怎么评"),
+ "安全工作做得好不好，怎么评？", "生物风险管理：绩效评估"),
 ("开场", "欣欣举起一把直尺和一个对勾图标",
  "The panda mascot holds up a ruler and a check mark icon.",
  "今天讲绩效评估。"),

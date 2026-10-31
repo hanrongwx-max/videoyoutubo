@@ -49,7 +49,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在一张空白评估表前",
  "The panda mascot stands in front of a blank assessment form.",
- "这一课，学会给病原做评估。", "风险评估怎么做"),
+ "这一课，学会给病原做评估。", "生物风险评估"),
 ("开场", "欣欣举起一张问卷和一本资料册",
  "The panda mascot holds up a questionnaire and a data booklet. No people.",
  "一张问卷，一本资料，就够用。"),

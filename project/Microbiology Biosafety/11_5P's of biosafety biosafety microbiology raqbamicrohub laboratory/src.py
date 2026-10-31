@@ -22,7 +22,7 @@ SHOTS = [
 # 开场
 ("开场", "欣欣站在微生物实验室里，向镜头招手",
  "The panda mascot stands in a microbiology lab and waves at the camera.",
- "这一课讲生物安全的五个 P。", "生物安全的五个 P"),
+ "这一课讲生物安全的五个 P。", "生物安全的5P"),
 ("开场", "欣欣伸出五根手指，身旁浮现五个空白图标",
  "The panda mascot holds up five fingers, with five blank icons floating beside it.",
  "五个 P，是风险评估的要点。"),
