@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 440 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 441 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -14,8 +14,8 @@
 | Basic Electrical Engineering Lab | 23 / 23 | 0 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 19 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 13 / 23 |
+| Laser Maintenance Group Safety | 17 / 17 | 0 / 13 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
-| Laser Maintenance Group Safety | 16 / 17 | 0 / 13 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 7 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
@@ -544,6 +544,7 @@
 | Laser Maintenance Group Safety | 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 国内版 | 激光设备旁，选对灭火器（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten | 单一版 | 看懂激光警示：标志、贴纸和链条 | 44 | 3:40 | 12 / 3 | [剧本](<Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten/script.md>) · [审查](<Laser Maintenance Group Safety/15_Obey Laser Warning Signs, Safety Stickers, and Barriers Innovative Laser Mainten/审查报告.md>) |
 | Laser Maintenance Group Safety | 16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L | 单一版 | 出光时，双手放在外面 | 37 | 3:05 | 8 / 3 | [剧本](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L/script.md>) · [审查](<Laser Maintenance Group Safety/16_Dangerous Laser Why fire with 2 hands out -- Laser safety video LMG Innovative L/审查报告.md>) |
+| Laser Maintenance Group Safety | 17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si | 单一版 | 激光器里的高压电 | 42 | 3:30 | 12 / 3 | [剧本](<Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si/script.md>) · [审查](<Laser Maintenance Group Safety/17_LMG Laser Safety Video Laser System Power Can Kill! Under the hood of a Rofin Si/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 02_Titration | 国内版 | 酸碱滴定的规范操作（国内版） | 74 | 6:10 | 24 / 6 | [剧本](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 国内版 | 薄层色谱入门（国内版） | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/审查报告.md>) |
