@@ -17,7 +17,7 @@
 | Laser Maintenance Group Safety | 17 / 17 | 0 / 17 |
 | MIT Digital Lab Techniques Manual | 17 / 17 | 1 / 17 |
 | Lab Safety Training Series | 13 / 13 | 11 / 13 |
-| Acids, Bases & Solvents Safety | 12 / 12 | 11 / 12 |
+| Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 9 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 10 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 10 / 10 |
@@ -94,6 +94,7 @@
 | Acids, Bases & Solvents Safety | 10_Module 3 — Hazard Identification & Risk Assessment | 国内版 | 找出危险，评估风险（国内版） | 82 | 6:50 | 18 / 4 | [剧本](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/10_Module 3 — Hazard Identification & Risk Assessment（国内版）/审查报告.md>) |
 | Acids, Bases & Solvents Safety | 11_Module 2 — The OSHA Laboratory Standard | 原著版 | 实验室安全制度：写在纸上，做在手上 | 68 | 5:40 | 16 / 0 | [剧本](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard/script.md>) |
 | Acids, Bases & Solvents Safety | 11_Module 2 — The OSHA Laboratory Standard | 国内版 | 实验室安全制度：写在纸上，做在手上（国内版） | 70 | 5:50 | 16 / 3 | [剧本](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/11_Module 2 — The OSHA Laboratory Standard（国内版）/审查报告.md>) |
+| Acids, Bases & Solvents Safety | 12_Module 1 — Introduction to Laboratory Safety | 原著版 | 实验室安全第一课 | 62 | 5:10 | 15 / 0 | [剧本](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety/script.md>) |
 | Acids, Bases & Solvents Safety | 12_Module 1 — Introduction to Laboratory Safety | 国内版 | 实验室安全第一课（国内版） | 68 | 5:40 | 15 / 2 | [剧本](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety（国内版）/script.md>) · [审查](<Acids, Bases & Solvents Safety/12_Module 1 — Introduction to Laboratory Safety（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 原著版 | 生物技术实验室安全入门 | 60 | 5:00 | 13 / 0 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory/script.md>) |
 | Animal & Plant Biotech Safety | 01_APB - Safety in the Biotechnology Laboratory | 国内版 | 生物技术实验室安全入门（国内版） | 78 | 6:30 | 13 / 6 | [剧本](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/01_APB - Safety in the Biotechnology Laboratory（国内版）/审查报告.md>) |
