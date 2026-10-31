@@ -1,0 +1,1993 @@
+{
+ "id": "08_Basic Radiation Safety",
+ "edition": "原著版",
+ "series": "RSO Training Series",
+ "title": "辐射安全基础课",
+ "seconds": 730,
+ "source_doc": "course/RSO Training Series/08_Basic Radiation Safety.md",
+ "author_source": "project/RSO Training Series/08_Basic Radiation Safety/src.py",
+ "points": {
+  "K1": "历史的教训",
+  "K2": "电离辐射与非电离辐射",
+  "K3": "电离辐射的用途",
+  "K4": "原子核的写法",
+  "K5": "天然辐射与人工辐射",
+  "K6": "人工照射以医疗为主",
+  "K7": "本底因地而异，职业照射另算",
+  "K8": "医院里的辐射源",
+  "K9": "防护从哪里来、为了什么",
+  "K10": "三种照射情况",
+  "K11": "防护三原则与ALARA",
+  "K12": "时间、距离、屏蔽",
+  "K13": "时间：越短越好",
+  "K14": "距离：平方反比",
+  "K15": "屏蔽：致密材料",
+  "K16": "不同射线，不同屏蔽",
+  "K17": "设备屏蔽与机房屏蔽",
+  "K18": "半值层与十分之一值层",
+  "K19": "活度与半衰期",
+  "K20": "照射量",
+  "K21": "吸收剂量与当量剂量",
+  "K22": "辐射工作人员与公众",
+  "K23": "看不见，靠仪器探测",
+  "K24": "个人剂量监测设备",
+  "K25": "医疗照射也要优化",
+  "K26": "辐射如何损伤细胞",
+  "K27": "风险术语与效应走向",
+  "K28": "确定性效应",
+  "K29": "随机性效应与遗传效应",
+  "K30": "影响效应的因素"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在黑板前，黑板旁有电离辐射警告标志，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of a blank blackboard next to an ionizing radiation warning sign and waves at the camera.",
+   "narration": "这一课，我们把辐射安全的基础讲透。",
+   "overlay": [
+    "辐射安全基础课"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "四个图标排成一行：原子、盾牌、仪表、细胞",
+   "prompt_en": "Four icons in a row: an atom, a shield, a gauge meter and a cell. No people.",
+   "narration": "来源、防护、单位、探测，还有生物效应。",
+   "overlay": [],
+   "labels": [
+    "来源",
+    "防护",
+    "单位与探测",
+    "生物效应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一天进放射性同位素实验室，好奇地四处张望",
+   "prompt_en": "The young male student enters a radioisotope lab for the first time and looks around curiously.",
+   "narration": "阿杰刚进同位素实验室，满脑子问号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰指着墙上的电离辐射警告标志，头顶问号",
+   "prompt_en": "The young male student points at an ionizing radiation warning sign on the wall, with a question mark above his head.",
+   "narration": "辐射看不见摸不着，到底怎么防？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给阿杰一本空白培训手册",
+   "prompt_en": "The female graduate student hands the young male student a blank training booklet.",
+   "narration": "小研说：上岗前，先把基础课学好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣从手册后面探出头，竖起手指",
+   "prompt_en": "The panda mascot pops up from behind the booklet and raises one finger.",
+   "narration": "我们从辐射的历史说起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "历史的教训",
+   "scene": "古代工匠在作坊里烧制黄色玻璃马赛克的卡通画",
+   "prompt_en": "A cartoon of an ancient craftsman workshop making yellow glass mosaic tiles. No people.",
+   "narration": "很早以前，人们就用铀给玻璃上色。",
+   "overlay": [
+    "历史的教训"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "历史的教训",
+   "scene": "旧式车间里一排桌子和夜光表盘、小毛笔图标",
+   "prompt_en": "An old-style workshop with rows of tables, glowing watch dials and small paint brushes. No people.",
+   "narration": "上世纪二十年代，表盘女工涂夜光漆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "历史的教训",
+   "scene": "毛笔靠近嘴巴的图标被红叉划掉",
+   "prompt_en": "An icon of a paint brush tip near a mouth, crossed out with a red X. No people.",
+   "narration": "她们用嘴抿笔尖，把镭吃进了体内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "历史的教训",
+   "scene": "颌骨和血滴图标旁有警示三角",
+   "prompt_en": "Icons of a jaw bone and a blood drop next to a yellow warning triangle. No people.",
+   "narration": "后来出现颌骨坏死、骨病和贫血。",
+   "overlay": [],
+   "labels": [
+    "颌骨坏死",
+    "骨骼病变",
+    "贫血"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "一条从左到右波长逐渐变长的电磁波谱长条",
+   "prompt_en": "A long electromagnetic spectrum band with waves getting longer from left to right, with small icons along it. No people.",
+   "narration": "辐射按能不能电离物质，分成两大类。",
+   "overlay": [
+    "电离辐射与非电离辐射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "波谱左端高亮，标出两个图标",
+   "prompt_en": "The left end of the spectrum band is highlighted with gamma ray and X-ray icons. No people.",
+   "narration": "γ射线、X射线能电离，是电离辐射。",
+   "overlay": [],
+   "labels": [
+    "γ射线",
+    "X射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "波谱右端高亮：太阳、灯泡、微波炉、收音机图标",
+   "prompt_en": "The right end of the spectrum is highlighted with icons of the sun, a light bulb, a microwave oven and a radio. No people.",
+   "narration": "紫外、可见光、微波、无线电，是非电离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "带电小球直接撞击原子；中性小球先撞出带电粒子",
+   "prompt_en": "Two diagrams: charged particles hitting atoms directly, and neutral particles first knocking out charged particles. No people.",
+   "narration": "带电粒子直接电离，光子和中子间接电离。",
+   "overlay": [],
+   "labels": [
+    "直接电离",
+    "间接电离"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "欣欣举起电离辐射警告标志",
+   "prompt_en": "The panda mascot holds up an ionizing radiation warning sign.",
+   "narration": "电离辐射有全世界通用的警告标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射的用途",
+   "scene": "放大镜、病床、工厂三个图标",
+   "prompt_en": "Three icons: a magnifying glass, a hospital bed and a factory. No people.",
+   "narration": "电离辐射用处很多。",
+   "overlay": [
+    "电离辐射的用途"
+   ],
+   "labels": [
+    "科学",
+    "医学",
+    "工业"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射的用途",
+   "scene": "化石年代测定、诊断治疗、医疗器械灭菌图标",
+   "prompt_en": "Icons of a fossil with a clock, a medical scanner and sealed sterile medical packs. No people.",
+   "narration": "测年代、看病治病、给器械灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射的用途",
+   "scene": "烟雾报警器和食品包装图标",
+   "prompt_en": "Icons of a smoke detector on a ceiling and a packaged food tray. No people.",
+   "narration": "烟雾报警器和食品保鲜也会用到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "原子核的写法",
+   "scene": "原子示意：中间原子核有红蓝小球，外面电子绕行",
+   "prompt_en": "A simple atom diagram: a nucleus of red and blue balls with electrons orbiting around it. No people.",
+   "narration": "原子由质子、中子和电子组成。",
+   "overlay": [
+    "原子核的写法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "原子核的写法",
+   "scene": "元素符号左下角和左上角各有一个空白小方框",
+   "prompt_en": "A large blank element symbol card with one small blank box at the lower left and one at the upper left. No people.",
+   "narration": "左下写质子数，左上写质量数。",
+   "overlay": [],
+   "labels": [
+    "Z=质子数",
+    "A=质子数+中子数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "太阳、大地、食物、房屋四个图标围成一圈",
+   "prompt_en": "Icons of the sun, the ground, food and a house arranged in a circle. No people.",
+   "narration": "我们身边一直有天然辐射。",
+   "overlay": [
+    "天然辐射与人工辐射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "空白饼图，大部分是绿色，小部分是黄色",
+   "prompt_en": "A blank pie chart with a large green part and a small yellow part. No people.",
+   "narration": "天然约占85%，人工约占15%。",
+   "overlay": [],
+   "labels": [
+    "天然约85%",
+    "人工约15%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "地面冒出淡淡气体飘进地下室的示意图",
+   "prompt_en": "A diagram of faint gas rising from the ground into a basement room. No people.",
+   "narration": "氡约占天然的一半，是α放射体。",
+   "overlay": [],
+   "labels": [
+    "半衰期3.8天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "宇宙射线从天而降、地面向上发出光点",
+   "prompt_en": "Rays coming down from the sky and glowing dots rising from the ground and building walls. No people.",
+   "narration": "宇宙射线和土壤建材，是外照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "香蕉、土豆等食物图标旁有一个小原子图标",
+   "prompt_en": "Icons of a banana and a potato next to a small atom icon. No people.",
+   "narration": "食物里的钾四十进入体内，是内照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "天然辐射与人工辐射",
+   "scene": "一根总剂量柱子由几段颜色叠成",
+   "prompt_en": "A total dose bar stacked from several colored segments. No people.",
+   "narration": "片中美国全年平均约2.8毫希沃特。",
+   "overlay": [],
+   "labels": [
+    "约2.8 mSv/年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "人工照射以医疗为主",
+   "scene": "空白饼图的人工部分被放大，九成是医院图标",
+   "prompt_en": "The small part of the pie chart is enlarged, and most of it shows a hospital icon. No people.",
+   "narration": "人工照射里，大部分来自医疗。",
+   "overlay": [
+    "人工照射以医疗为主"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "人工照射以医疗为主",
+   "scene": "X线机照射人体轮廓；注射器和药瓶图标",
+   "prompt_en": "Two icons: an X-ray machine shining on a body outline, and a syringe next to a small vial. No people.",
+   "narration": "拍片是外照射，用放射性药物是内照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "人工照射以医疗为主",
+   "scene": "密封小源胶囊图标，旁边绿勾",
+   "prompt_en": "An icon of a tiny sealed source capsule with a green check mark. No people.",
+   "narration": "密封源不散开，内照射风险小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "人工照射以医疗为主",
+   "scene": "研究、工厂、核设施小图标",
+   "prompt_en": "Small icons of a research building, a factory and a power plant. No people.",
+   "narration": "其余来自科研、工业等非医疗活动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底因地而异，职业照射另算",
+   "scene": "地图上两个城市图标，旁边高矮不同的柱子",
+   "prompt_en": "A map with two city icons, each with a bar of a different height beside it. No people.",
+   "narration": "本底高低，随地区和生活方式而不同。",
+   "overlay": [
+    "本底因地而异，职业照射另算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底因地而异，职业照射另算",
+   "scene": "一根本底柱子上叠加一段橙色的职业照射柱子",
+   "prompt_en": "A gray background bar with an orange bar stacked on top of it. No people.",
+   "narration": "辐射工作带来的职业照射，在本底外另算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底因地而异，职业照射另算",
+   "scene": "学员们举手投票，旁边两根叠加柱子",
+   "prompt_en": "Students raise their hands to vote, next to two stacked bars for two countries. No people in focus.",
+   "narration": "例题：两国本底不同，再加上职业照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "医院大楼图标分出三个科室小门",
+   "prompt_en": "A hospital building icon with three small department doors. No people.",
+   "narration": "医院里，辐射源分布在多个科室。",
+   "overlay": [
+    "医院里的辐射源"
+   ],
+   "labels": [
+    "放射科",
+    "核医学科",
+    "放疗科"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "X线机、CT机、移动X线机的卡通图标",
+   "prompt_en": "Cartoon icons of an X-ray machine, a CT scanner and a mobile X-ray unit. No people.",
+   "narration": "放射科的源是X线设备，关机就没射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "注射器、药瓶，病人躺在显像设备上的简笔画",
+   "prompt_en": "A syringe and a vial, next to a simple outline of a patient lying on an imaging scanner bed.",
+   "narration": "核医学把放射性药物注入病人体内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "病人轮廓周围发出光点",
+   "prompt_en": "A simple patient outline with glowing dots radiating around it. No people.",
+   "narration": "这时，病人本身就是辐射源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "直线加速器和后装治疗机的卡通图标",
+   "prompt_en": "Cartoon icons of a large medical linear accelerator and a remote afterloader unit. No people.",
+   "narration": "放疗用加速器和近距离治疗设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "医院里的辐射源",
+   "scene": "血袋放进一台带源的辐照仪图标",
+   "prompt_en": "A blood bag being placed into a shielded irradiator cabinet icon. No people.",
+   "narration": "血库还用含源辐照仪处理血液制品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防护从哪里来、为了什么",
+   "scene": "老式X线机旁冒出多个警示三角",
+   "prompt_en": "An old-fashioned X-ray machine icon with several yellow warning triangles popping up around it. No people.",
+   "narration": "早年放射诊断，发生过很多超照射事故。",
+   "overlay": [
+    "防护从哪里来、为了什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防护从哪里来、为了什么",
+   "scene": "地球图标和一本空白建议书",
+   "prompt_en": "A globe icon next to a blank recommendations book. No people.",
+   "narration": "于是有了国际辐射防护组织和建议。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "防护从哪里来、为了什么",
+   "scene": "两个目标图标：一个盾牌挡住、一个刻度压低",
+   "prompt_en": "Two goal icons: a shield blocking a threshold line, and a dial turned down to low. No people.",
+   "narration": "防护目的：防止确定性效应，限制随机性效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三种照射情况",
+   "scene": "三张卡片：日历、警报灯、房屋",
+   "prompt_en": "Three cards with icons: a calendar, a flashing alarm light and a house. No people.",
+   "narration": "照射情况分三种。",
+   "overlay": [
+    "三种照射情况"
+   ],
+   "labels": [
+    "计划照射",
+    "应急照射",
+    "现存照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三种照射情况",
+   "scene": "日历卡片高亮，旁边是按计划运行的设备",
+   "prompt_en": "The calendar card is highlighted next to a machine running normally. No people.",
+   "narration": "按计划用源、开展工作，是计划照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三种照射情况",
+   "scene": "警报灯卡片高亮，旁边洒落的容器图标",
+   "prompt_en": "The alarm light card is highlighted next to an icon of a tipped-over container. No people.",
+   "narration": "事故等意外，需要马上处置，是应急照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "三种照射情况",
+   "scene": "房屋卡片高亮，地面冒出淡淡气体",
+   "prompt_en": "The house card is highlighted with faint gas rising under it. No people.",
+   "narration": "决定管控前已经存在的，是现存照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "天平一端是爱心、一端是危险标志，爱心更重",
+   "prompt_en": "A balance scale with a heart icon on one side and a warning icon on the other; the heart side is heavier. No people.",
+   "narration": "正当化：任何照射都要利大于弊。",
+   "overlay": [
+    "防护三原则与ALARA"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "刻度旋钮被拧到低档，旁边人数图标减少",
+   "prompt_en": "A dial knob turned down to low, next to a group of person icons getting smaller. No people.",
+   "narration": "最优化：剂量、人数、可能性都尽量低。",
+   "overlay": [],
+   "labels": [
+    "可合理达到",
+    "尽量低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "一条红色限值线，柱子都在线下",
+   "prompt_en": "A red limit line with several bars all below it. No people.",
+   "narration": "剂量限值：个人受照不能超过限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "工作人员和公众两个人形图标，各有一条线",
+   "prompt_en": "Two person pictograms, one with a dosimeter badge and one without, each with its own limit line. No people.",
+   "narration": "限值只管计划照射，工作人员与公众不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "病床图标旁的限值线被虚化",
+   "prompt_en": "A hospital bed icon next to a faded dotted limit line. No people.",
+   "narration": "病人的诊疗照射，不用剂量限值来管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "防护三原则与ALARA",
+   "scene": "欣欣举着写有空白的牌子，牌子上一个向下箭头",
+   "prompt_en": "The panda mascot holds a blank sign with a large downward arrow.",
+   "narration": "尽量低，既是原则，也是法规要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "三个圆形图标：沙漏、拉长的尺子、墙",
+   "prompt_en": "Three round icons: an hourglass, a long ruler and a thick wall. No people.",
+   "narration": "外照射防护，靠三招。",
+   "overlay": [
+    "时间、距离、屏蔽"
+   ],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "三个图标下面分别出现向下、向上、向上的箭头",
+   "prompt_en": "Under the three icons appear arrows: down under the hourglass, up under the ruler, up under the wall. No people.",
+   "narration": "时间短、距离远、屏蔽厚，受照就少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "时间、距离、屏蔽",
+   "scene": "铅砖和石蜡块两个图标",
+   "prompt_en": "Icons of a lead brick and a paraffin wax block side by side. No people.",
+   "narration": "屏蔽用什么材料，要看是哪种射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：越短越好",
+   "scene": "欣欣拿着沙漏站在源容器旁",
+   "prompt_en": "The panda mascot holds an hourglass beside a shielded source container with an ionizing radiation warning sign.",
+   "narration": "剂量和停留时间成正比。",
+   "overlay": [
+    "时间：越短越好"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：越短越好",
+   "scene": "剂量率表盘乘以时钟等于剂量杯",
+   "prompt_en": "An equation of icons: a dose rate gauge times a clock equals a filled cup. No people.",
+   "narration": "剂量等于剂量率乘以时间。",
+   "overlay": [],
+   "labels": [
+    "剂量=剂量率×时间"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：越短越好",
+   "scene": "时钟从一小时变成两小时，杯子从半满变满",
+   "prompt_en": "A clock goes from one hour to two hours while a cup goes from half full to full. No people.",
+   "narration": "待一小时是一份，待两小时就是两份。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：越短越好",
+   "scene": "小研在计算器上算，旁边空白计划表",
+   "prompt_en": "The female graduate student uses a calculator next to a blank work plan sheet.",
+   "narration": "反过来，也能算出最多能待多久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "时间：越短越好",
+   "scene": "阿杰在源附近闲聊的图标被红叉划掉",
+   "prompt_en": "An icon of a person chatting idly next to a source container, crossed out with a red X. No people.",
+   "narration": "做完就走，不在源旁边逗留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "距离：平方反比",
+   "scene": "欣欣坐在火堆远处，热浪变弱",
+   "prompt_en": "The panda mascot sits a few steps away from a campfire, with heat waves getting weaker toward it.",
+   "narration": "离火堆越近越烫，辐射也一样。",
+   "overlay": [
+    "距离：平方反比"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "距离：平方反比",
+   "scene": "点源向外发出锥形光束，穿过一大一大的方格",
+   "prompt_en": "A point source sends a cone of rays through grids that get bigger farther away. No people.",
+   "narration": "射线向外扩散，越远越稀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "距离：平方反比",
+   "scene": "距离一格、两格、三格，强度一、四分之一、九分之一",
+   "prompt_en": "Three distance marks with intensity bars shrinking to one quarter and one ninth. No people.",
+   "narration": "距离加倍，强度只剩四分之一。",
+   "overlay": [],
+   "labels": [
+    "1倍距离：1",
+    "2倍距离：1/4",
+    "3倍距离：1/9"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "距离：平方反比",
+   "scene": "阿杰后退一步，离开工作台上的源",
+   "prompt_en": "The young male student steps back from a source container on a lab bench.",
+   "narration": "多退一步，效果就很明显。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "屏蔽：致密材料",
+   "scene": "铅围裙、铅罐、铅砖三个图标",
+   "prompt_en": "Icons of a lead apron, a lead pot and a stack of lead bricks. No people.",
+   "narration": "屏蔽能大大减少受照。",
+   "overlay": [
+    "屏蔽：致密材料"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "屏蔽：致密材料",
+   "scene": "致密方块挡住大部分光点",
+   "prompt_en": "A dense block stops most glowing dots, only a few pass through. No people.",
+   "narration": "越致密的材料，挡得越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "屏蔽：致密材料",
+   "scene": "设备外壳、源罐、机房厚墙三个图标",
+   "prompt_en": "Icons of a shielded machine housing, a shielded source pot and a thick room wall. No people.",
+   "narration": "设备、容器、机房墙体都带屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "屏蔽：致密材料",
+   "scene": "老周帮小研系好铅围裙",
+   "prompt_en": "The older man helps the female graduate student fasten a lead apron in a lab.",
+   "narration": "有的岗位，还要穿戴个人防护用品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "四种射线从左向右射，依次被纸、塑料、铅、混凝土挡住",
+   "prompt_en": "Four kinds of rays travel from left to right and are stopped in turn by paper, a plastic sheet, a lead plate and a concrete wall. No people.",
+   "narration": "不同射线，穿透力不同。",
+   "overlay": [
+    "不同射线，不同屏蔽"
+   ],
+   "labels": [
+    "α",
+    "β",
+    "γ和X",
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "一张纸挡住α粒子",
+   "prompt_en": "A sheet of paper stops alpha particles. No people.",
+   "narration": "α一张纸就能挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "塑料板挡住β粒子",
+   "prompt_en": "A clear plastic board stops beta particles. No people.",
+   "narration": "β用塑料、有机玻璃来挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "铅板和混凝土墙挡住γ射线",
+   "prompt_en": "A lead plate and a concrete wall reduce gamma rays. No people.",
+   "narration": "γ和X射线，用铅或混凝土。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "石蜡块和混凝土挡住中子",
+   "prompt_en": "Paraffin wax blocks and a concrete wall slow down neutrons. No people.",
+   "narration": "中子要用石蜡、混凝土等含氢多的材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "设备屏蔽与机房屏蔽",
+   "scene": "X线管头外壳剖面，内有屏蔽层",
+   "prompt_en": "A cutaway icon of an X-ray tube housing showing an inner shielding layer. No people.",
+   "narration": "含源设备必须自带合格屏蔽。",
+   "overlay": [
+    "设备屏蔽与机房屏蔽"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "设备屏蔽与机房屏蔽",
+   "scene": "老李用仪表检测新设备外壳",
+   "prompt_en": "The facility engineer checks a new machine housing with a handheld survey meter.",
+   "narration": "新设备到货，要由专业人员验收检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "设备屏蔽与机房屏蔽",
+   "scene": "机房三维图，带迷路和厚墙",
+   "prompt_en": "A 3D cutaway of a treatment room with a maze entrance and thick walls. No people.",
+   "narration": "机房屏蔽，建之前设计，装完后验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "设备屏蔽与机房屏蔽",
+   "scene": "空白审批单和日历图标",
+   "prompt_en": "A blank approval form with a stamp icon and a calendar icon. No people.",
+   "narration": "有的要经审批，还要定期检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "半值层与十分之一值层",
+   "scene": "射线穿过一层材料，强度柱子减半",
+   "prompt_en": "Rays pass through one layer of material and the intensity bar drops to half. No people.",
+   "narration": "让强度减半的厚度，叫半值层。",
+   "overlay": [
+    "半值层与十分之一值层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "半值层与十分之一值层",
+   "scene": "一层、两层、三层，柱子一半、四分之一、八分之一",
+   "prompt_en": "Bars after one, two and three layers drop to one half, one quarter and one eighth. No people.",
+   "narration": "每多一层，再减一半。",
+   "overlay": [],
+   "labels": [
+    "1/2",
+    "1/4",
+    "1/8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "半值层与十分之一值层",
+   "scene": "厚一些的板，柱子降到十分之一",
+   "prompt_en": "A thicker slab cuts the intensity bar down to one tenth. No people.",
+   "narration": "降到十分之一的厚度，叫十分之一值层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "半值层与十分之一值层",
+   "scene": "设计图上厚度箭头被加长",
+   "prompt_en": "A blank wall design drawing where the thickness arrow is extended further. No people.",
+   "narration": "十分之一值层，约等于3.32个半值层。",
+   "overlay": [],
+   "labels": [
+    "约3.32个半值层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "半值层与十分之一值层",
+   "scene": "设计图上厚度箭头被加长",
+   "prompt_en": "A blank wall design drawing where the thickness arrow is extended further. No people.",
+   "narration": "按最大能量计算，至少按平均能量，留余量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "源→空气→物体→人体→器官的箭头链",
+   "prompt_en": "An arrow chain of icons: a source, air, a block, a body outline and organs. No people.",
+   "narration": "辐射的量，从源一路算到人体。",
+   "overlay": [
+    "活度与半衰期"
+   ],
+   "labels": [
+    "活度",
+    "照射量",
+    "吸收剂量",
+    "当量剂量",
+    "有效剂量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "原子一个个闪光衰变，旁边计时器",
+   "prompt_en": "Atoms flash one by one as they decay, next to a stopwatch. No people.",
+   "narration": "活度是每秒衰变的次数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "两个单位徽章图标",
+   "prompt_en": "Two unit badge icons side by side. No people.",
+   "narration": "单位是贝可，旧单位是居里。",
+   "overlay": [],
+   "labels": [
+    "贝可Bq",
+    "居里Ci"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "一堆小球每过一段时间少一半",
+   "prompt_en": "A pile of balls shrinks to half, then to a quarter, as a clock turns. No people.",
+   "narration": "活度减半所需时间，叫半衰期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "一排时钟，从秒针到日历到地球年代",
+   "prompt_en": "A row of clocks from a stopwatch to a calendar to a globe with years. No people.",
+   "narration": "不同核素，半衰期从不到一秒到几十亿年。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "活度与半衰期",
+   "scene": "一条指数下降的曲线",
+   "prompt_en": "A smooth exponentially falling curve on a graph. No people.",
+   "narration": "活度随时间按指数规律衰减。",
+   "overlay": [],
+   "labels": [
+    "A=A₀e^(−λt)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "照射量",
+   "scene": "X线管射向一团空气，空气里出现正负小离子",
+   "prompt_en": "An X-ray tube shines into a block of air, and small plus and minus ions appear in the air. No people.",
+   "narration": "照射量，看X和γ在空气里电离多少。",
+   "overlay": [
+    "照射量"
+   ],
+   "labels": [
+    "C/kg",
+    "旧单位伦琴"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "照射量",
+   "scene": "三个打叉小图标：带电粒子、人体、高能",
+   "prompt_en": "Three crossed-out small icons: a charged particle, a body outline and a lightning bolt. No people.",
+   "narration": "只用于X和γ，只用于空气。",
+   "overlay": [],
+   "labels": [
+    "只限X和γ",
+    "只限空气",
+    "不适用高能"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "照射量",
+   "scene": "管电压旋钮调高，光点变多",
+   "prompt_en": "A voltage knob on a blank X-ray control panel turned up, with more rays coming out. No people.",
+   "narration": "约与管电压平方、毫安秒成正比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "照射量",
+   "scene": "X线管远离测量点，光点变稀",
+   "prompt_en": "An X-ray tube moves farther from a measuring point and the rays get sparse. No people.",
+   "narration": "与距离的平方成反比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "射线照进任意物块，物块发热发光",
+   "prompt_en": "Rays enter different blocks of material, which glow faintly. No people.",
+   "narration": "吸收剂量，适用于任何物质和射线。",
+   "overlay": [
+    "吸收剂量与当量剂量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "一千克方块加一焦耳能量图标",
+   "prompt_en": "A one-kilogram block with an energy icon above it. No people.",
+   "narration": "每千克吸收一焦耳，就是一戈瑞。",
+   "overlay": [],
+   "labels": [
+    "1焦耳/千克=1戈瑞"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "同样能量下，α造成更大损伤",
+   "prompt_en": "Two tissue icons with the same amount of energy; the alpha side shows much bigger damage marks. No people.",
+   "narration": "同样吸收剂量，射线种类不同，伤害不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "吸收剂量乘以权重因子，等于当量剂量",
+   "prompt_en": "An icon equation: absorbed dose times a weighting factor badge equals equivalent dose. No people.",
+   "narration": "乘上辐射权重因子，得到当量剂量。",
+   "overlay": [],
+   "labels": [
+    "单位：希沃特Sv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "光子、电子、质子、α四个图标，下面是高低不同的柱子",
+   "prompt_en": "Icons of a photon, an electron, a proton and an alpha particle with bars of increasing height below. No people.",
+   "narration": "光子电子最小，质子稍大，α最大。",
+   "overlay": [],
+   "labels": [
+    "光子1",
+    "电子1",
+    "质子2",
+    "α20"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 98,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "中子图标旁一条随能量起伏的曲线",
+   "prompt_en": "A neutron icon next to a curve that rises and falls with energy. No people.",
+   "narration": "中子的权重因子，随能量变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 99,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "吸收剂量与当量剂量",
+   "scene": "三个等号连起的单位徽章",
+   "prompt_en": "Three unit badges connected by approximately-equal signs. No people.",
+   "narration": "对γ和β，1伦琴约等于1厘戈瑞1厘希沃特。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 100,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射工作人员与公众",
+   "scene": "带剂量计的人形和普通人形图标",
+   "prompt_en": "A person pictogram wearing a dosimeter badge and a plain person pictogram. No people.",
+   "narration": "可能受到高于本底照射的，是辐射工作人员。",
+   "overlay": [
+    "辐射工作人员与公众"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 101,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射工作人员与公众",
+   "scene": "王老师给学生上培训课",
+   "prompt_en": "The safety administrator teaches students in a training room in front of a blank screen.",
+   "narration": "辐射工作人员必须接受辐射安全培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 102,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射工作人员与公众",
+   "scene": "小研胸前戴着空白剂量计",
+   "prompt_en": "The female graduate student wears a blank personal dosimeter badge on her chest.",
+   "narration": "还要佩戴个人剂量计，监测受照剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 103,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射工作人员与公众",
+   "scene": "其他人员人形图标",
+   "prompt_en": "A group of plain person pictograms in a hallway. No people.",
+   "narration": "其他人都属于公众。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 104,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "辐射工作人员与公众",
+   "scene": "两张数值表并排，各有两行",
+   "prompt_en": "Two blank tables side by side, each with two rows. No people.",
+   "narration": "限值以权威机构规定为准，片中列了两表。",
+   "overlay": [],
+   "labels": [
+    "职业 20mSv/年",
+    "公众 1mSv/年"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 105,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "看不见，靠仪器探测",
+   "scene": "眼睛、鼻子、舌头、耳朵图标都打上问号",
+   "prompt_en": "Icons of an eye, a nose, a tongue and an ear, each with a question mark. No people.",
+   "narration": "辐射无色无味无声，人感觉不到。",
+   "overlay": [
+    "看不见，靠仪器探测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 106,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "看不见，靠仪器探测",
+   "scene": "电离、化学、发热、闪光、加热发光五个小图标",
+   "prompt_en": "Five small icons: ion pairs, a test tube with bubbles, a thermometer, a light flash and a heated crystal glowing. No people.",
+   "narration": "仪器靠电离、闪光等效应发现辐射。",
+   "overlay": [],
+   "labels": [
+    "电离",
+    "化学",
+    "热",
+    "闪烁",
+    "热释光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 107,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "看不见，靠仪器探测",
+   "scene": "电离室、正比计数器、盖革计数器的卡通外形",
+   "prompt_en": "Cartoon icons of three gas-filled detectors of different shapes. No people.",
+   "narration": "常见气体探测器有三类。",
+   "overlay": [],
+   "labels": [
+    "电离室",
+    "正比计数器",
+    "盖革计数器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 108,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "看不见，靠仪器探测",
+   "scene": "闪烁晶体和半导体芯片图标",
+   "prompt_en": "Icons of a scintillation crystal and a semiconductor chip detector. No people.",
+   "narration": "还有闪烁探测器和半导体探测器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 109,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "看不见，靠仪器探测",
+   "scene": "源发出十个光点，探测器接住一个",
+   "prompt_en": "A source sends out ten dots and a detector catches one of them. No people.",
+   "narration": "探测效率，是测到的数除以发出的数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 110,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "个人剂量监测设备",
+   "scene": "指环剂量计、胸卡剂量计、笔式、电子剂量计四个图标",
+   "prompt_en": "Icons of a ring dosimeter, a badge dosimeter, a pen dosimeter and a small electronic dosimeter. No people.",
+   "narration": "个人剂量计，记录一段时间内受的剂量。",
+   "overlay": [
+    "个人剂量监测设备"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 111,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "个人剂量监测设备",
+   "scene": "小研对比几种剂量计，旁边问号",
+   "prompt_en": "The female graduate student compares several blank dosimeters on a table with a question mark above.",
+   "narration": "选哪种，看用途和射线。",
+   "overlay": [],
+   "labels": [
+    "剂量还是污染",
+    "高还是低",
+    "粒子还是光子",
+    "能量和精度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 112,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "个人剂量监测设备",
+   "scene": "手指戴指环剂量计在操作台前工作",
+   "prompt_en": "A gloved hand wearing a ring dosimeter works behind a shield. No people.",
+   "narration": "手部近距离操作，可加戴指环剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 113,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "医疗照射也要优化",
+   "scene": "X线控制台上两个旋钮，像天平两端",
+   "prompt_en": "Two knobs on a blank X-ray control panel shown like the two pans of a balance scale. No people.",
+   "narration": "医疗照射同样要优化。",
+   "overlay": [
+    "医疗照射也要优化"
+   ],
+   "labels": [
+    "管电压kVp",
+    "曝光量mAs"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 114,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "医疗照射也要优化",
+   "scene": "影像太黑、太白、刚好三张空白片",
+   "prompt_en": "Three blank image panels: one too dark, one too white and one just right with a green check. No people.",
+   "narration": "参数要平衡，既清楚，又不多照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 115,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "医疗照射也要优化",
+   "scene": "提高一个旋钮、降低另一个，剂量杯变少",
+   "prompt_en": "One knob turned up and the other turned down, while a dose cup gets smaller. No people.",
+   "narration": "图像够用时，调参数可以降低病人剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 116,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "箭头链：原子→分子→细胞→组织→器官→人体",
+   "prompt_en": "An arrow chain of icons: atom, molecule, cell, tissue, organ, whole body. No people.",
+   "narration": "辐射先电离原子，再一步步影响全身。",
+   "overlay": [
+    "辐射如何损伤细胞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 117,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "射线打到DNA双螺旋上",
+   "prompt_en": "A ray hits a DNA double helix inside a cell nucleus. No people.",
+   "narration": "最关键的目标，是细胞里的DNA。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 118,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "三条箭头：修复（绿勾）、死亡、异常分裂",
+   "prompt_en": "Three arrows from a damaged DNA icon: repaired with a green check, a dead cell, and a cell dividing out of control. No people.",
+   "narration": "损伤后，多数能修复，也可能死亡或癌变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 119,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "四条DNA，损伤从轻到重，最重的标α",
+   "prompt_en": "Four DNA strands with damage from mild to severe; the most severe one has an alpha label. No people.",
+   "narration": "α造成的DNA损伤最严重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 120,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "染色体断裂、成环的示意图",
+   "prompt_en": "A diagram of chromosomes with breaks and ring shapes. No people.",
+   "narration": "染色体也会断裂、错接，形成畸变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 121,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "辐射如何损伤细胞",
+   "scene": "两类畸变：一个细胞消失，一个传给子代细胞",
+   "prompt_en": "Two types of aberrations: one leads to cell death, the other is passed on to daughter cells. No people.",
+   "narration": "有的使细胞死亡，有的能长期保留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 122,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "风险术语与效应走向",
+   "scene": "一张空白术语卡片墙",
+   "prompt_en": "A wall of blank vocabulary cards with small icons. No people.",
+   "narration": "先认识几个风险术语。",
+   "overlay": [
+    "风险术语与效应走向"
+   ],
+   "labels": [
+    "急性",
+    "慢性",
+    "躯体",
+    "遗传",
+    "致畸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 123,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "风险术语与效应走向",
+   "scene": "大杯一次倒完；小杯慢慢滴",
+   "prompt_en": "A big cup poured out at once next to a small cup dripping slowly over a long time. No people.",
+   "narration": "短时间大剂量是急性，长期小剂量是慢性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 124,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "风险术语与效应走向",
+   "scene": "流程图：细胞受损→修复/死亡/变异",
+   "prompt_en": "A flowchart: a damaged cell leads to repair, cell death or a modified cell. No people.",
+   "narration": "细胞大量死亡，导致确定性效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 125,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "风险术语与效应走向",
+   "scene": "变异细胞分向体细胞和生殖细胞两个方向",
+   "prompt_en": "A modified cell branching to a body cell icon and a germ cell icon. No people.",
+   "narration": "细胞变异，可能致癌或遗传，是随机性效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 126,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "S形曲线，低剂量段平坦，过了阈值陡升",
+   "prompt_en": "An S-shaped curve that stays flat at low dose and rises sharply after a threshold mark. No people.",
+   "narration": "确定性效应有阈值，超过才会出现。",
+   "overlay": [
+    "确定性效应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 127,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "剂量越大，伤害图标越重",
+   "prompt_en": "A row of damage icons getting more severe as a dose arrow increases. No people.",
+   "narration": "超过阈值后，剂量越大越严重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 128,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "皮肤发红、脱发、眼睛混浊、血滴图标",
+   "prompt_en": "Icons of reddened skin, hair loss, a cloudy eye lens and a blood drop. No people.",
+   "narration": "皮肤红斑、脱发、白内障、血液异常。",
+   "overlay": [],
+   "labels": [
+    "皮肤红斑",
+    "脱发",
+    "白内障",
+    "血液异常",
+    "生育力下降"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 129,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "眼睛和生育图标旁各有一段阈值范围条",
+   "prompt_en": "An eye icon and a fertility icon, each with a threshold range bar. No people.",
+   "narration": "白内障、永久和暂时不育，各有阈剂量范围。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 130,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "几个人形高矮不同的阈值线",
+   "prompt_en": "Several person pictograms each with a threshold line at a different height. No people.",
+   "narration": "阈值因人而异。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 131,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "确定性效应",
+   "scene": "急救箱和病床图标旁警示三角",
+   "prompt_en": "A first aid kit and a hospital bed icon with a warning triangle. No people.",
+   "narration": "很高剂量会引起急性放射病。",
+   "overlay": [],
+   "labels": [
+    "中枢神经",
+    "胃肠",
+    "造血"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 132,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "随机性效应与遗传效应",
+   "scene": "一排骰子，剂量越大，中奖的骰子越多",
+   "prompt_en": "Rows of dice; as a dose arrow grows, more dice show a red face. No people.",
+   "narration": "随机性效应没有阈值，看的是概率。",
+   "overlay": [
+    "随机性效应与遗传效应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 133,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "随机性效应与遗传效应",
+   "scene": "日历翻过多年，细胞图标变色",
+   "prompt_en": "A calendar flipping through many years next to a cell icon changing color. No people.",
+   "narration": "通常多年后才出现，如癌症和白血病。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 134,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "随机性效应与遗传效应",
+   "scene": "成人图标和孩子图标，中间一条DNA",
+   "prompt_en": "An adult pictogram and a child pictogram connected by a DNA strand. No people.",
+   "narration": "受照者本人的是躯体效应，传给子女是遗传效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 135,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "随机性效应与遗传效应",
+   "scene": "实验小鼠图标旁有问号和箭头指向人",
+   "prompt_en": "A lab mouse icon with an arrow pointing to a person pictogram and a question mark. No people.",
+   "narration": "人类遗传效应，主要从动物数据推断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 136,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "影响效应的因素",
+   "scene": "五张卡片：身体部位、敏感性、射线种类、总剂量、剂量率",
+   "prompt_en": "Five cards with icons: a body part, a cell, a ray type, a cup and a speedometer. No people.",
+   "narration": "效应大小，取决于这些因素。",
+   "overlay": [
+    "影响效应的因素"
+   ],
+   "labels": [
+    "受照部位",
+    "个体敏感性",
+    "射线种类能量",
+    "总剂量",
+    "剂量率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 137,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "影响效应的因素",
+   "scene": "从红到绿的箭头，上端血细胞，下端骨头",
+   "prompt_en": "A vertical arrow from red at the top to green at the bottom, with blood cell icons at the top and bone icons at the bottom. No people.",
+   "narration": "淋巴细胞、精原细胞、造血组织最敏感。",
+   "overlay": [],
+   "labels": [
+    "最敏感",
+    "最不敏感"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 138,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "影响效应的因素",
+   "scene": "神经、肌肉、骨骼图标排在绿色一端",
+   "prompt_en": "Icons of a nerve, a muscle and a bone at the green end of the arrow. No people.",
+   "narration": "神经、肌肉、骨骼相对不敏感。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 139,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "影响效应的因素",
+   "scene": "肠道上皮图标排在红色一端",
+   "prompt_en": "An intestinal lining icon at the red end of the arrow. No people.",
+   "narration": "肠上皮也属于最敏感的一类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 140,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现波谱、原子、医院图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a spectrum band, an atom and a hospital.",
+   "narration": "认识电离辐射的来源和用途。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 141,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天平、旋钮、限值线三个图标",
+   "prompt_en": "Icons of a balance scale, a dial turned down and a limit line. No people.",
+   "narration": "正当化、最优化、剂量限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 142,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "沙漏、尺子、墙三个图标打勾",
+   "prompt_en": "Icons of an hourglass, a ruler and a wall, each with a green check. No people.",
+   "narration": "时间短、距离远、屏蔽对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 143,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "单位徽章和仪表图标",
+   "prompt_en": "Icons of unit badges and a survey meter. No people.",
+   "narration": "分清活度、剂量，靠仪器说话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 144,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "DNA、S形曲线、骰子三个图标",
+   "prompt_en": "Icons of a DNA strand, an S-shaped curve and dice. No people.",
+   "narration": "确定性效应有阈值，随机性效应看概率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 145,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "淋巴细胞和骨头图标两端对比",
+   "prompt_en": "Icons of lymphocytes and a bone at two ends of an arrow. No people.",
+   "narration": "分裂快的细胞最敏感。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 146,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣和阿杰、小研在实验室门口挥手道别",
+   "prompt_en": "The panda mascot, the young male student and the female graduate student wave goodbye at the door of a tidy radioisotope lab.",
+   "narration": "打好基础，辐射工作才安全！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
