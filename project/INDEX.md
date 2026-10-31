@@ -1,12 +1,12 @@
 # 卡通教学视频制作目录
 
-已编写 225 / 441 个视频。
+已编写 226 / 441 个视频。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 |
 |---|---|
-| BIORISK MANAGEMENT | 34 / 47 |
+| BIORISK MANAGEMENT | 35 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 |
 | Lab Safety Training Series | 13 / 13 |
@@ -109,6 +109,7 @@
 | BIORISK MANAGEMENT | 30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse) | 把生物安全管成一个体系 | 118 | 9:50 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)/script.md>) · [审查](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)/审查报告.md>) |
 | BIORISK MANAGEMENT | 31_World Health Organization Risk Groups | 四个风险组怎么分 | 53 | 4:25 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups/script.md>) · [审查](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups/审查报告.md>) |
 | BIORISK MANAGEMENT | 32_MOOC INTRODUCTION TO BIORISK MANAGEMENT | 走进生物风险管理 | 39 | 3:15 | 7 / 4 | [剧本](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT/审查报告.md>) |
+| BIORISK MANAGEMENT | 33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL | 读懂实验室生物安全手册 | 133 | 11:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL/script.md>) · [审查](<BIORISK MANAGEMENT/33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL/审查报告.md>) |
 | BIORISK MANAGEMENT | 34_GENERAL PRINCIPLES BIORISK MANAGEMENT | 风险分组与防护水平 | 70 | 5:50 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/script.md>) · [审查](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT/审查报告.md>) |
 | BIORISK MANAGEMENT | 35_BIORISK ASSESSMENT | 生物风险评估怎么做 | 86 | 7:10 | 23 / 4 | [剧本](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/script.md>) · [审查](<BIORISK MANAGEMENT/35_BIORISK ASSESSMENT/审查报告.md>) |
 | CDC Laboratory Safety Series | 01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety | 走进实验室安全 | 36 | 3:00 | 9 / 4 | [剧本](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/script.md>) · [审查](<CDC Laboratory Safety Series/01_Fundamentals of Laboratory Safety Introduction to Laboratory Safety/审查报告.md>) |
