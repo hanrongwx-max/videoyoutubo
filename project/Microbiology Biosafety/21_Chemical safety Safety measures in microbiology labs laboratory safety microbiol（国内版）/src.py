@@ -1,6 +1,6 @@
 # 21_Chemical safety Safety measures in microbiology labs laboratory safety microbiol 卡通剧本作者源
 # 原片为无讲解的一页文字幻灯片（微生物实验室安全措施之二：化学品安全）：标签与储存、操作、泄漏应对。
-# 保留全部知识点 K1–K6；审查补充 S1–S4（管控类化学品专管；通风柜拉门放低不堆杂物；溅到眼睛马上冲洗；
+# 保留全部知识点 K1–K6；审查补充 S1–S4（管控类化学品专管；倒试剂标签朝手心、瓶塞倒放；溅到眼睛马上冲洗；
 # 泄漏大了撤离报告）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
@@ -14,7 +14,7 @@ META = {
         "K5": "泄漏处理包，随手可取",
         "K6": "泄漏清理，要先培训",
         "S1": "剧毒、易制毒、易制爆：按规定专管",
-        "S2": "通风柜：拉门放低，不堆杂物",
+        "S2": "倒试剂：标签朝手心，瓶塞倒放",
         "S3": "溅到眼睛皮肤：马上冲洗",
         "S4": "泄漏大了：撤离、报告",
     },
@@ -120,18 +120,18 @@ SHOTS = [
  "The safety administrator checks a blank purchase approval form against a blank inventory log.",
  "易制毒、易制爆，购买使用都要登记。"),
 # S2
-("S2", "通风柜拉门放在标记线以下",
- "A chemical fume hood with its sash lowered below a marked line. No people.",
- "用通风柜，拉门放到规定高度以下，", "通风柜：拉门放低，不堆杂物"),
-("S2", "小研的手在柜内较深处操作",
- "The female graduate student works with her hands well inside the chemical fume hood, behind the sash.",
- "操作在柜里面，不贴着门口。"),
-("S2", "柜内堆满瓶瓶罐罐被打叉",
- "A chemical fume hood crammed with bottles and boxes, crossed out in red. No people.",
- "柜里不堆杂物，不当储存柜用。"),
-("S2", "化学通风柜和生物安全柜并排，中间是不等号",
- "A chemical fume hood and a biological safety cabinet side by side with a not-equal sign between them. No people.",
- "通风柜和生物安全柜，不能互相代替。"),
+("S2", "小研在通风柜里倒试剂，瓶上标签朝向手心",
+ "Inside a chemical fume hood, the female graduate student pours a reagent with the bottle's blank label facing her palm.",
+ "倒试剂时，标签朝向手心，", "倒试剂：标签朝手心，瓶塞倒放"),
+("S2", "瓶塞倒放在台面上",
+ "A bottle stopper placed upside down on the bench. No people.",
+ "瓶塞倒放，不沾污台面。"),
+("S2", "多余的试剂倒回原瓶的图标被打叉",
+ "An icon of leftover reagent being poured back into its stock bottle, crossed out in red. No people.",
+ "用多少取多少，剩的不倒回原瓶。"),
+("S2", "小研盖紧瓶盖，用纸巾擦净瓶口流痕",
+ "The female graduate student caps the bottle tightly and wipes a drip off its neck with a paper towel.",
+ "倒完盖紧，擦净瓶外流痕。"),
 # S3
 ("S3", "阿杰护目镜外侧溅上液滴",
  "A splash of liquid hits the outside of the young male student's safety goggles.",
