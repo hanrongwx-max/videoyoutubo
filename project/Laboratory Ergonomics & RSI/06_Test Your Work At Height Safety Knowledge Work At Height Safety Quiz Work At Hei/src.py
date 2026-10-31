@@ -1,0 +1,145 @@
+# 06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei 卡通剧本作者源
+# 原著版：完全照原片（10 道高处作业选择题，读题后口述答案），K1–K11，不加补充知识点、不做更正；
+# 保留原片数值和答案：1.8 米及以上为高处作业、1.8 米起要防坠落系统、有心脏病精神疾病癫痫者禁止登高（答案 B）、
+# 防坠落装备证书有效期 6 个月、无锚点用生命线、“三种防坠落系统”答顶栏中栏挡脚板、首要措施是避免高处作业
+# 频道名和国外机构名不出现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "高处作业自测：防坠落十问",
+    "edition": "原著版",
+    "points": {
+        "K1": "高处作业十题",
+        "K2": "什么是高处作业",
+        "K3": "多高要防坠落",
+        "K4": "哪些人不能登高",
+        "K5": "高处作业的危害",
+        "K6": "全身式安全带",
+        "K7": "装备证书有效期",
+        "K8": "没有锚点用生命线",
+        "K9": "三种防坠落系统",
+        "K10": "首选：不上高处",
+        "K11": "防止东西掉下来",
+    },
+    "avoid": ["HSE Study Guide", "HSC study guide", "HSE STUDY GUIDE", "OSHA"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣戴着安全帽站在一架人字梯旁，向镜头招手",
+ "The panda mascot wearing a hard hat stands beside a step ladder and waves at the camera.",
+ "今天测一测高处作业安全！", "高处作业自测：防坠落十问"),
+# 情景
+("情景", "老李背着安全带和工具袋，准备上屋面作业",
+ "The facility engineer carries a full body harness and a tool bag, getting ready to climb onto a roof.",
+ "老李要上屋面，阿杰想跟着去。"),
+("情景", "老李拦住阿杰，递给他一张空白题卡",
+ "The facility engineer stops the young male student and hands him a blank quiz card.",
+ "老李说：先答十道题，再说上不上。"),
+# K1
+("K1", "十张空白题卡，脚手架和梯子图标",
+ "Ten blank quiz cards with small scaffold and ladder icons. No people.",
+ "十道题，看看你能答对几道。", "高处作业十题", ["10道题"]),
+# K2
+("K2", "三个场景图标：高台、台阶边缘、地面开口",
+ "Three scene icons: a raised platform, the edge of a step down to a lower level and an open hole in a floor. No people.",
+ "第一题：什么叫高处作业？", "什么是高处作业"),
+("K2", "高台上的人和高度刻度尺",
+ "A person icon standing on a raised platform beside a height ruler. No people.",
+ "在1.8米及以上高度作业，算。", "", ["≥1.8米"]),
+("K2", "从一层掉到下一层、从开口掉下去的箭头",
+ "Arrows showing a fall from one level to a lower level and a fall into a floor opening. No people.",
+ "有坠落到低处、掉进开口的风险，也算。"),
+("K2", "三个图标一起打勾",
+ "All three scene icons get green check marks. No people.",
+ "三种都是，答案D。", "", ["D 以上皆是"]),
+# K3
+("K3", "刻度尺旁一条红线，上方有安全带图标",
+ "A height ruler with a red line, and a harness icon above the line. No people.",
+ "第二题：多高起要防坠落？", "多高要防坠落"),
+("K3", "刻度尺上一米八处的红线亮起",
+ "The red line on the height ruler lights up at the lowest marked level. No people.",
+ "1.8、2.8、1.5、4米？答案A，1.8米。", "", ["A 1.8米"]),
+# K4
+("K4", "三个人形：心形图标、脑袋图标、闪电图标",
+ "Three person icons with a heart symbol, a head symbol and a lightning symbol. No people.",
+ "第三题：哪些人不能登高？", "哪些人不能登高"),
+("K4", "健康问题的人形被拦在梯子外",
+ "The person icons with health symbols are stopped at the foot of a ladder by a barrier. No people.",
+ "答案B，心脏病、精神病、癫痫者禁止。", "", ["B 有健康问题者"]),
+# K5
+("K5", "高台、无护栏的边缘、破损的屋面三个图标",
+ "Three icons: a high platform, an unguarded edge and a cracked fragile roof panel. No people.",
+ "第四题：高处作业有哪些危害？", "高处作业的危害", ["高度", "无防护边缘", "易碎屋面"]),
+("K5", "三个图标一起打勾",
+ "All three hazard icons receive green checks. No people.",
+ "高度、无防护边缘、易碎屋面，答案D。", "", ["D 以上皆是"]),
+# K6
+("K6", "安全帽、手套护目镜、全身式安全带、反光背心四个图标",
+ "Four icons: a hard hat, gloves with goggles, a full body harness and a reflective vest. No people.",
+ "第五题：高处作业的专用防护是什么？", "全身式安全带"),
+("K6", "全身式安全带亮起，连着挂钩和锚点",
+ "The full body harness icon lights up, connected by a lanyard to an anchor point. No people.",
+ "答案C，带连接件和锚点的全身式安全带。", "", ["C 全身式安全带"]),
+# K7
+("K7", "安全带上挂着空白证书标签，日历图标",
+ "A full body harness with a blank certificate tag and a calendar icon. No people.",
+ "第六题：防坠落装备证书有效期多久？", "装备证书有效期"),
+("K7", "四个选项：一年、半年、三年、三个月",
+ "Four blank option cards with calendar icons; the half-year card lights up. No people.",
+ "一年、六个月、三年、三个月？", "", ["A 1年", "B 6个月", "C 3年", "D 3个月"]),
+("K7", "半年的选项卡打勾",
+ "The half-year option card gets a green check mark. No people.",
+ "答案B，六个月。", "", ["B 6个月"]),
+# K8
+("K8", "屋面上没有固定锚点，一人手拉系索的图标打叉",
+ "On a roof without anchor points, an icon of one person holding another's lanyard by hand is crossed out with a red X. No people.",
+ "第七题：没有锚点，能让人拉着吗？", "没有锚点用生命线"),
+("K8", "屋面上拉起一条水平生命线，安全带挂在上面",
+ "A horizontal lifeline installed across a roof with a harness lanyard clipped onto it. No people.",
+ "不能。答案B，可以使用生命线。", "", ["B 生命线"]),
+# K9
+("K9", "平台边缘的护栏：顶栏、中栏、挡脚板",
+ "The edge of a platform with a guardrail: a top rail, a mid rail and a toe board. No people.",
+ "第八题：三种防坠落系统是什么？", "三种防坠落系统"),
+("K9", "三部分依次亮起",
+ "The top rail, mid rail and toe board light up one by one. No people.",
+ "答案B，顶栏、中栏和挡脚板。", "", ["顶栏", "中栏", "挡脚板"]),
+# K10
+("K10", "四个选项图标：安全带、生命线、地面工作、护栏",
+ "Four option icons: a harness, a lifeline, a person working on the ground and a guardrail. No people.",
+ "第九题：防坠落的第一步是什么？", "首选：不上高处"),
+("K10", "地面工作的图标亮起打勾",
+ "The icon of working on the ground glows with a green check. No people.",
+ "答案C，尽量用替代方案，避免登高。", "", ["C 避免高处作业"]),
+# K11
+("K11", "扳手从平台边缘滚落的图标",
+ "An icon of a wrench rolling off the edge of a platform. No people.",
+ "第十题：怎样防止东西掉下来？", "防止东西掉下来"),
+("K11", "挡脚板挡住扳手，松散材料被捆好",
+ "A toe board stops the wrench and loose materials are tied down. No people.",
+ "装挡脚板，把松散材料固定好。"),
+("K11", "工具系着防坠绳，放进工具袋",
+ "Tools attached with tethers and placed in a tool bag on a worker's belt. No people.",
+ "工具系绳、用工具袋，答案D全部。", "", ["D 以上皆是"]),
+# 小结
+("小结", "欣欣在白板前",
+ "The panda mascot stands in front of a whiteboard with fall protection icons.",
+ "十题答完，回顾一下。", "小结"),
+("小结", "高度刻度尺和日历图标",
+ "A height ruler with a red line and a calendar icon. No people.",
+ "1.8米起防坠落，证书有效六个月。", "", ["1.8米", "6个月"]),
+("小结", "安全带、生命线、护栏图标",
+ "Icons: a full body harness, a lifeline and a guardrail. No people.",
+ "全身式安全带，没锚点用生命线。"),
+("小结", "地面工作图标和工具袋图标",
+ "Icons: a person working on the ground and a tool bag with tethered tools. No people.",
+ "首先避免登高，再防物体坠落。"),
+("小结", "阿杰答完题，老李点头递给他安全带",
+ "The young male student finishes the quiz; the facility engineer nods and hands him a full body harness.",
+ "阿杰说：十题我都记住了。"),
+# 结尾
+("结尾", "欣欣挥手告别",
+ "The panda mascot waves goodbye beside the step ladder.",
+ "高处作业要小心，下次见！"),
+]

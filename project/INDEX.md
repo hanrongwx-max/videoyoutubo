@@ -8,7 +8,7 @@
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
-| Laboratory Ergonomics & RSI | 36 / 36 | 5 / 34 |
+| Laboratory Ergonomics & RSI | 36 / 36 | 6 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 33 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
@@ -622,6 +622,7 @@
 | Laboratory Ergonomics & RSI | 04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question | 国内版 | 消防知识竞赛：灭火、报警与喷淋（国内版） | 84 | 7:00 | 21 / 6 | [剧本](<Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/04_Fire Safety Quiz Fire Alarm Safety Quiz Fire Quiz Fire Safety Interview Question（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ | 原著版 | 消防基础自测：十道题测测你 | 35 | 2:55 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ/script.md>) |
 | Laboratory Ergonomics & RSI | 05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ | 国内版 | 消防基础自测：十道题测测你（国内版） | 58 | 4:50 | 11 / 6 | [剧本](<Laboratory Ergonomics & RSI/05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/05_Test Your Basic Fire Safety Knowledge Fire Safety Quiz Fire Quiz Fire Safety MCQ（国内版）/审查报告.md>) |
+| Laboratory Ergonomics & RSI | 06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei | 原著版 | 高处作业自测：防坠落十问 | 34 | 2:50 | 11 / 0 | [剧本](<Laboratory Ergonomics & RSI/06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei/script.md>) |
 | Laboratory Ergonomics & RSI | 06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei | 国内版 | 高处作业自测：防坠落十问（国内版） | 61 | 5:05 | 11 / 6 | [剧本](<Laboratory Ergonomics & RSI/06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/06_Test Your Work At Height Safety Knowledge Work At Height Safety Quiz Work At Hei（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire | 国内版 | 灭火器十问：选对、拿稳、用好（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/07_Test Your Fire Extinguisher Safety Knowledge Fire Extinguisher Safety Quiz Fire（国内版）/审查报告.md>) |
 | Laboratory Ergonomics & RSI | 08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC | 国内版 | 事故调查十问：查事实，改系统（国内版） | 55 | 4:35 | 11 / 5 | [剧本](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/script.md>) · [审查](<Laboratory Ergonomics & RSI/08_Test Your Accident Investigation Knowledge Accident Investigation Safety Quiz MC（国内版）/审查报告.md>) |
