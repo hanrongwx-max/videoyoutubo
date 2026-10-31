@@ -1,7 +1,7 @@
 # 14_Electrical Safety Interview Questions & Answers 卡通剧本作者源
 # 原片为“安全岗位面试电气 15 题”白板动画：去掉面试框架，改为阿杰备考实验室准入考试、熊猫欣欣出题的
 # 复习问答；15 题对应 K1–K15 全部保留（行灯电压、围栏高度不写数值，人工呼吸更新为心肺复苏）；
-# 审查补充 S1–S5（熔丝不能乱换、电气火灾选对灭火器、线缆过道要防护、绝缘用品定期检验、应急照明与疏散指示）
+# 审查补充 S1–S5（熔丝不能乱换、电气火灾选对灭火器、照明不够报修加装不私接灯具、绝缘用品定期检验、应急照明与疏散指示）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -24,7 +24,7 @@ META = {
         "K15": "照明不良的四个后果",
         "S1": "熔丝断了不能乱换",
         "S2": "电气火灾选对灭火器",
-        "S3": "线缆过道要防护",
+        "S3": "照明不够：报修加装，不私接灯具",
         "S4": "绝缘用品要定期检验",
         "S5": "应急照明和疏散指示",
     },
@@ -244,15 +244,15 @@ SHOTS = [
  "A growing fire icon, a person pictogram running toward an exit, and a telephone icon. No people.",
  "火大扑不灭，撤离并拨打119。", "", ["119"]),
 # S3
-("S3", "电线穿过地面线槽盖板，平整不凸起",
- "A power cord routed under a flat floor cable cover across a walkway. No people.",
- "电线要过道，用线槽或护线板。", "线缆过道要防护"),
-("S3", "电线被门夹住、压在椅子腿下的图标打红叉",
- "Icons of a cord pinched by a door and a cord under a chair leg, both crossed out with a red X. No people.",
- "不让门夹、椅压、车轧。"),
-("S3", "实验台上的仪器电源线沿台面固定整齐",
- "Instrument power cords neatly fixed along the back edge of a lab bench. No people.",
- "能走台面就不走地面。"),
+("S3", "用裸露电线把台灯直接接到插座上的图标打红叉",
+ "An icon of a desk lamp wired straight into a wall socket with bare wire ends, crossed out with a red X. No people.",
+ "台面太暗，别自己接灯。", "照明不够：报修加装，不私接灯具"),
+("S3", "小研在空白报修单上填写",
+ "The female graduate student fills in a blank repair request form at her desk.",
+ "填报修单，申请加装照明。"),
+("S3", "老李在实验台上方装好固定灯具，台面明亮",
+ "The facility engineer installs a fixed light fitting above a lab bench, and the bench becomes bright.",
+ "合格灯具，由持证电工安装。"),
 # S4
 ("S4", "绝缘手套、绝缘靴、绝缘垫放在柜中，各挂空白标签",
  "Insulating gloves, insulating boots and an insulating mat stored in a cabinet, each with a blank tag. No people.",
@@ -278,7 +278,7 @@ SHOTS = [
  "The panda mascot stands in front of a whiteboard showing a fuse icon and a circuit breaker icon.",
  "熔断器、断路器，护住线路。", "小结"),
 ("小结", "水桶打叉、电线不落地、绝缘靴三个图标",
- "Three icons: a water bucket crossed out, a cord under a floor cover and a pair of insulating boots. No people.",
+ "Three icons: a water bucket crossed out, a power cord lifted off the floor and a pair of insulating boots. No people.",
  "着火不泼水，电线不落地，绝缘防护。"),
 ("小结", "插头放大镜、双方框标志、行灯三个图标",
  "Three icons: a magnifying glass over a plug, a double square symbol and a hand lamp. No people.",
