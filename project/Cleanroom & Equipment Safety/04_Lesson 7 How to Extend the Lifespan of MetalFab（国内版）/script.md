@@ -1,7 +1,7 @@
-# 激光焊机与切割机的维护保养
+# 激光焊机与切割机的维护保养（国内版）
 
 - 剧集：Cleanroom & Equipment Safety；对应原视频：04_Lesson 7 How to Extend the Lifespan of MetalFab（内容分析见 `course/Cleanroom & Equipment Safety/04_Lesson 7 How to Extend the Lifespan of MetalFab.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../04_Lesson 7 How to Extend the Lifespan of MetalFab/`
 - 时长：5 分 55 秒（71 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 65 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、老李（设施工程师）
