@@ -1,0 +1,57 @@
+# 25_xTool MetalFab Laser Welder - Safety Training on Laser Welding 分析底稿
+
+- 剧集：Cleanroom & Equipment Safety；原标题：xTool MetalFab Laser Welder - Safety Training on Laser Welding；链接：https://youtu.be/vnSAT08hUFs
+- 时长 00:05:10，1920×1080，镜头 50 个，转写 59 段
+
+| 镜头 | 时间 | 关键帧 | 该镜头内的语音（转写） |
+|---|---|---|---|
+| 1 | 00:00:00–00:00:14 | shot_001.jpg | Before using X-Tool Metal Fab Laser Welder, please carefully watch this video and read the safety instructions for the product. Strictly follow all the safety instructions and regulations. Safety is our top priority. |
+| 2 | 00:00:14–00:00:18 | shot_002.jpg |  |
+| 3 | 00:00:18–00:00:25 | shot_003.jpg | Always ensure you are wearing the proper protective equipment, such as laser safety goggles that protect your eyes from laser beams at the wavelength of around 1080 nanometers. |
+| 4 | 00:00:25–00:00:40 | shot_004.jpg | Always use the product in a laser-controlled area with laser safety barriers. Ensure that everyone entering the laser-controlled area has been trained in laser safety and warn all the necessary personal protective equipment. |
+| 5 | 00:00:40–00:00:43 | shot_005.jpg | 1. How a laser beam travels |
+| 6 | 00:00:43–00:01:18 | shot_006_1.jpg, shot_006_2.jpg | Now, let's begin with understanding how a laser beam travels. The welding head emits two types of laser beams. One is a visible red beam used for positioning, and the other is an invisible high-power infrared beam used for processing. The infrared laser beam will diverge from the focal point and create a cone of radiation. As the beam moves away from the focal point, its power density decreases. Even though the laser power is weakened as the beam gets farther from the welding head, it can still be high enough to cause harm to skin and eyes. |
+| 7 | 00:01:18–00:01:24 | shot_007.jpg | Keep people away from the laser reflection zone. Never look into the laser outlet. |
+| 8 | 00:01:24–00:01:33 | shot_008.jpg | 2. Important safety measures Everyone inside the laser-controlled area should wear the following protective equipment. |
+| 9 | 00:01:33–00:01:36 | shot_009.jpg |  |
+| 10 | 00:01:36–00:01:44 | shot_010.jpg | Laser safety goggles or face shield certified to protect against laser radiation of around 1080 nanometers with an optical density greater than 6. |
+| 11 | 00:01:44–00:01:47 | shot_011.jpg | Laser and heat-resistant clothing and gloves and a dust mask. |
+| 12 | 00:01:47–00:01:54 | shot_012.jpg | Never look directly into the laser outlet or point the outlet at any body part. |
+| 13 | 00:01:54–00:02:00 | shot_013.jpg | Ensure that a fire extinguisher and other safety equipment are available in the laser processing area. |
+| 14 | 00:02:00–00:02:09 | shot_014.jpg | Do not place flammable or combustible materials in the laser processing area. Never process containers with flammable or combustible materials. |
+| 15 | 00:02:09–00:02:14 | shot_015.jpg | 3. Key components and controls of the welder |
+| 16 | 00:02:14–00:02:18 | shot_016.jpg | Now, let's walk through the key components and controls of the laser welder. |
+| 17 | 00:02:18–00:02:28 | shot_017.jpg | Emergency stop button. In case of any exception, press the button to immediately shut off the machine. |
+| 18 | 00:02:28–00:02:30 | shot_018.jpg | To restart the machine, rotate and pull out the button. |
+| 19 | 00:02:30–00:02:33 | shot_019.jpg |  |
+| 20 | 00:02:33–00:02:48 | shot_020.jpg | USB key, insert the USB key to enable the laser processing function. The USB key can also be used to establish an interlocked entrance. For more details, refer to the tutorials on supportxtool.com. |
+| 21 | 00:02:48–00:02:53 | shot_021.jpg | Shielding gas supply. Laser processing uses shielding gas. |
+| 22 | 00:02:53–00:02:58 | shot_022.jpg | Keep the gas cylinders away from the processing area and out of the path of any laser reflections. |
+| 23 | 00:02:58–00:03:01 | shot_023.jpg |  |
+| 24 | 00:03:01–00:03:07 | shot_024.jpg | Workpiece sensing cable. Connect the workpiece sensing cable to port 4. |
+| 25 | 00:03:07–00:03:11 | shot_025.jpg | Then, clamp its other end to the workpiece or the conductive work table. |
+| 26 | 00:03:11–00:03:16 | shot_026.jpg | Do not clamp it to the welding head. |
+| 27 | 00:03:16–00:03:19 | shot_027.jpg |  |
+| 28 | 00:03:19–00:03:24 | shot_028.jpg | 4. Welding operations. On the touchscreen, activate both the enable lasering and enable wire feeding functions. |
+| 29 | 00:03:24–00:03:28 | shot_029.jpg | Ensure the welding head is in contact with the workpiece. |
+| 30 | 00:03:28–00:03:30 | shot_030.jpg | Press the grip sensing button and the welding head indicator will flash green, |
+| 31 | 00:03:30–00:03:36 | shot_031.jpg | indicating the machine is ready to emit laser. |
+| 32 | 00:03:36–00:03:40 | shot_032.jpg | Press the firing trigger to start laser welding. |
+| 33 | 00:03:40–00:03:50 | shot_033.jpg | During laser welding, do not hold the workpieces in your hand or place your hand under the workpieces, as the heat generated by welding can burn the skin. |
+| 34 | 00:03:50–00:04:02 | shot_034.jpg | Laser beams can reflect from multiple surfaces. Diffuse reflection from rough surfaces can spread over a large area. Always stay alert to the danger of laser radiation during welding. |
+| 35 | 00:04:02–00:04:06 | shot_035.jpg | Only observe the weld pool from behind the welding head. |
+| 36 | 00:04:06–00:04:09 | shot_036.jpg | Do not choose any other position for observation. |
+| 37 | 00:04:09–00:04:15 | shot_037.jpg | If anyone stands in the laser reflection zone, stop laser emission immediately. |
+| 38 | 00:04:15–00:04:18 | shot_038.jpg | If the metal fails to melt completely, the laser beam may diffuse from the welding spot. |
+| 39 | 00:04:18–00:04:20 | shot_039.jpg |  |
+| 40 | 00:04:20–00:04:22 | shot_040.jpg | Stop processing immediately to avoid laser hazards. |
+| 41 | 00:04:22–00:04:27 | shot_041.jpg | Always remain vigilant during laser processing. |
+| 42 | 00:04:27–00:04:32 | shot_042.jpg | If you find any potential risks, stop laser emission immediately. |
+| 43 | 00:04:32–00:04:40 | shot_043.jpg | The smoke generated during welding may contain toxic particles. It is recommended to use an exhaust system to remove the smoke. |
+| 44 | 00:04:40–00:04:44 | shot_044.jpg | Operators must also wear necessary respiratory protective equipment. |
+| 45 | 00:04:44–00:04:47 | shot_045.jpg | 5. Stop processing. |
+| 46 | 00:04:47–00:04:49 | shot_046.jpg |  |
+| 47 | 00:04:49–00:04:53 | shot_047.jpg | To pause the machine, deactivate the enable wire feeding and enable lasering functions. |
+| 48 | 00:04:53–00:04:58 | shot_048.jpg | If you have finished processing, turn off the machine's power and gas supply. |
+| 49 | 00:04:58–00:05:07 | shot_049.jpg | Following these steps and adhering to the safety instructions can help promote a smooth and safe welding experience. Thank you for watching. |
+| 50 | 00:05:07–00:05:10 | shot_050.jpg |  |
