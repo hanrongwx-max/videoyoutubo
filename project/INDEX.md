@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 51 / 59 | 1 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 6 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 7 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 4 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
@@ -18,7 +18,7 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 3 / 9 |
-| RSO Training Series | 9 / 9 | 2 / 9 |
+| RSO Training Series | 9 / 9 | 3 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 6 / 8 |
@@ -98,6 +98,7 @@
 | BIORISK MANAGEMENT | 01_BIORISK MANAGEMENT INTRODUCTORY MODULE | 国内版 | 生物风险管理第一课（国内版） | 89 | 7:25 | 20 / 4 | [剧本](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/01_BIORISK MANAGEMENT INTRODUCTORY MODULE（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 02_What is Biorisk Management | 原著版 | 三步管好生物风险 | 26 | 2:10 | 7 / 0 | [剧本](<BIORISK MANAGEMENT/02_What is Biorisk Management/script.md>) |
 | BIORISK MANAGEMENT | 02_What is Biorisk Management | 国内版 | 三步管好生物风险（国内版） | 38 | 3:10 | 7 / 3 | [剧本](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/02_What is Biorisk Management（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 原著版 | 生物风险管理，人人有份 | 29 | 2:25 | 9 / 0 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management/script.md>) |
 | BIORISK MANAGEMENT | 03_Massive Open Online Course (MOOC) Introduction to Biorisk Management | 国内版 | 生物风险管理，人人有份（国内版） | 41 | 3:25 | 9 / 3 | [剧本](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/03_Massive Open Online Course (MOOC) Introduction to Biorisk Management（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 04_Biosafety Procedures Double Bagging of Hazardous Biological Waste | 国内版 | 生物废物双层装袋（国内版） | 47 | 3:55 | 9 / 4 | [剧本](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/04_Biosafety Procedures Double Bagging of Hazardous Biological Waste（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 国内版 | 在生物安全柜里干活（国内版） | 79 | 6:35 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/审查报告.md>) |
@@ -201,7 +202,7 @@
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 原著版 | 电压等级与爆炸危险区域 | 25 | 2:05 | 4 / 0 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide/script.md>) |
 | Electrical Safety Series | 05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide | 国内版 | 电压等级与爆炸危险区域（国内版） | 41 | 3:25 | 4 / 5 | [剧本](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/script.md>) · [审查](<Electrical Safety Series/05_Electrical Area Classification in Hindi HV MV LV HSE Study Guide（国内版）/审查报告.md>) |
 | Electrical Safety Series | 06_Electrical Safety interview questions & answers in hindi Electrical interview qu | 国内版 | 用电安全知识问答（国内版） | 134 | 11:10 | 27 / 5 | [剧本](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/script.md>) · [审查](<Electrical Safety Series/06_Electrical Safety interview questions & answers in hindi Electrical interview qu（国内版）/审查报告.md>) |
-| Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) |
+| Electrical Safety Series | 19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU | 单一版 | 人体电阻：为什么湿手更危险 | 36 | 3:00 | 6 / 3 | [剧本](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/script.md>) · [审查](<Electrical Safety Series/19_Human Body Earth Resistance What Is The Human Body Earth Resistance HSE STUDY GU/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 原著版 | 看不见的污染：实验室防污染 | 79 | 6:35 | 29 / 0 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]/script.md>) |
 | Fire Safety & Extinguisher Training | 01_Preventing Contamination in the Lab - [Laboratory Safety Training Video] | 国内版 | 看不见的污染：实验室防污染（国内版） | 102 | 8:30 | 29 / 7 | [剧本](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/script.md>) · [审查](<Fire Safety & Extinguisher Training/01_Preventing Contamination in the Lab - [Laboratory Safety Training Video]（国内版）/审查报告.md>) |
 | Fire Safety & Extinguisher Training | 02_Lab Worker Ergonomics Training - [Lab Safety Training] | 原著版 | 实验室里的人机工效 | 85 | 7:05 | 25 / 0 | [剧本](<Fire Safety & Extinguisher Training/02_Lab Worker Ergonomics Training - [Lab Safety Training]/script.md>) |
@@ -409,6 +410,7 @@
 | RSO Training Series | 01_Radiation Safety Basics | 国内版 | 辐射安全基础：来源、剂量与生物效应（国内版） | 86 | 7:10 | 16 / 9 | [剧本](<RSO Training Series/01_Radiation Safety Basics（国内版）/script.md>) · [审查](<RSO Training Series/01_Radiation Safety Basics（国内版）/审查报告.md>) |
 | RSO Training Series | 02_RSO Training | 原著版 | 学生社团年度培训：管理、财务与活动安全 | 93 | 7:45 | 31 / 0 | [剧本](<RSO Training Series/02_RSO Training/script.md>) |
 | RSO Training Series | 02_RSO Training | 国内版 | 学生社团年度培训：管理、财务与活动安全（国内版） | 124 | 10:20 | 31 / 9 | [剧本](<RSO Training Series/02_RSO Training（国内版）/script.md>) · [审查](<RSO Training Series/02_RSO Training（国内版）/审查报告.md>) |
+| RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 原著版 | 放射性废物：从实验台到安全处置 | 45 | 3:45 | 14 / 0 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center/script.md>) |
 | RSO Training Series | 03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center | 国内版 | 放射性废物：从实验台到安全处置（国内版） | 70 | 5:50 | 14 / 8 | [剧本](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/script.md>) · [审查](<RSO Training Series/03_Dr. Bob Emery, Radiation Safety Officer, UT Health Science Center（国内版）/审查报告.md>) |
 | RSO Training Series | 04_Radiation Dose - Part 1 (Radiation Protection) | 国内版 | 辐射剂量（上）：吸收剂量与当量剂量（国内版） | 71 | 5:55 | 13 / 8 | [剧本](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/script.md>) · [审查](<RSO Training Series/04_Radiation Dose - Part 1 (Radiation Protection)（国内版）/审查报告.md>) |
 | RSO Training Series | 05_Spring 2016 RSO Training Module 2 | 国内版 | 学生社团安全守则：欺凌、集体活动、饮酒与出行（国内版） | 131 | 10:55 | 32 / 8 | [剧本](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/script.md>) · [审查](<RSO Training Series/05_Spring 2016 RSO Training Module 2（国内版）/审查报告.md>) |
