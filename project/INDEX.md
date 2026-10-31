@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 20 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 21 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -356,6 +356,7 @@
 | Cleanroom & Equipment Safety | 19_Replace the Rocker Switch for xTool MetalFab Laser Welder | 国内版 | 带把手机型电源开关的规范更换（国内版） | 38 | 3:10 | 16 / 4 | [剧本](<Cleanroom & Equipment Safety/19_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/19_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 20_xTool MetalFab Laser Welder 800W - Unboxing and First Use | 原著版 | 手持激光焊接机开箱、安装与首次使用 | 81 | 6:45 | 32 / 0 | [剧本](<Cleanroom & Equipment Safety/20_xTool MetalFab Laser Welder 800W - Unboxing and First Use/script.md>) |
 | Cleanroom & Equipment Safety | 20_xTool MetalFab Laser Welder 800W - Unboxing and First Use | 国内版 | 手持激光焊接机开箱、安装与首次使用（国内版） | 93 | 7:45 | 32 / 6 | [剧本](<Cleanroom & Equipment Safety/20_xTool MetalFab Laser Welder 800W - Unboxing and First Use（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/20_xTool MetalFab Laser Welder 800W - Unboxing and First Use（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 21_Replace the Motherboard for the xTool MetalFab Laser Welder | 原著版 | 激光焊接机更换主控板 | 32 | 2:40 | 11 / 0 | [剧本](<Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 21_Replace the Motherboard for the xTool MetalFab Laser Welder | 国内版 | 激光焊接机更换主控板（国内版） | 53 | 4:25 | 11 / 5 | [剧本](<Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/21_Replace the Motherboard for the xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 22_Replace the DC Power Supply for the xTool MetalFab Laser Welder | 国内版 | 激光焊接机更换直流电源（国内版） | 50 | 4:10 | 15 / 5 | [剧本](<Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/22_Replace the DC Power Supply for the xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder | 国内版 | 激光焊接机更换激光电源（国内版） | 52 | 4:20 | 19 / 4 | [剧本](<Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/23_Replace the Laser Power Supply for the xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
