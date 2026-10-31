@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 4 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 18 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 19 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 16 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 9 / 23 |
 | Lab Safety Training Series | 13 / 13 | 6 / 13 |
@@ -114,6 +114,7 @@
 | BIORISK MANAGEMENT | 05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET | 国内版 | 在生物安全柜里干活（国内版） | 79 | 6:35 | 15 / 4 | [剧本](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/05_BIOSAFETY WORKING IN A BIOLOGICAL SAFETY CABINET（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC | 原著版 | 安全柜里的废物收尾 | 31 | 2:35 | 10 / 0 | [剧本](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC/script.md>) |
 | BIORISK MANAGEMENT | 06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC | 国内版 | 安全柜里的废物收尾（国内版） | 52 | 4:20 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/06_BIORISK MANAGEMENT DOUBLE BAGGING OF HAZARDOUS WASTES INSIDE BSC（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 07_BIOSAFETY LABORATORY ENGINEERING | 原著版 | 生物安全实验室的“幕后”设备 | 43 | 3:35 | 12 / 0 | [剧本](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING/script.md>) |
 | BIORISK MANAGEMENT | 07_BIOSAFETY LABORATORY ENGINEERING | 国内版 | 生物安全实验室的“幕后”设备（国内版） | 60 | 5:00 | 12 / 4 | [剧本](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/07_BIOSAFETY LABORATORY ENGINEERING（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 08_BIORISK MANAGEMENT CLINICAL SAMPLES | 国内版 | 临床样本的生物风险管理（国内版） | 105 | 8:45 | 23 / 5 | [剧本](<BIORISK MANAGEMENT/08_BIORISK MANAGEMENT CLINICAL SAMPLES（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/08_BIORISK MANAGEMENT CLINICAL SAMPLES（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 09_GENOLUTION Nextractor®(NX-48) | 国内版 | 自动核酸提取仪的安全使用（国内版） | 72 | 6:00 | 18 / 5 | [剧本](<BIORISK MANAGEMENT/09_GENOLUTION Nextractor®(NX-48)（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/09_GENOLUTION Nextractor®(NX-48)（国内版）/审查报告.md>) |
@@ -452,7 +453,7 @@
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 单一版 | 危险物品怎么分类：九大类与象形图 | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/审查报告.md>) |
 | Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 单一版 | 危险物品伤人也伤环境 | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) · [审查](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/审查报告.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 单一版 | 生物统计：让微生物数据说真话 | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh/审查报告.md>) |
-| Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 单一版 | 吃农药、吸重金属的微生物 | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/script.md>) |
+| Microbiology Biosafety | 55_Which microbes are most effective in degrading pesticides and herbicides microbi | 单一版 | 吃农药、吸重金属的微生物 | 48 | 4:00 | 7 / 4 | [剧本](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/script.md>) · [审查](<Microbiology Biosafety/55_Which microbes are most effective in degrading pesticides and herbicides microbi/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 原著版 | 光的波动：反射、折射、干涉与偏振 | 73 | 6:05 | 22 / 0 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) |
