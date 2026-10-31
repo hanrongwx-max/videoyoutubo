@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 283 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 285 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 47 / 47 | 2 / 42 |
-| Microbiology Biosafety | 45 / 59 | 0 / 25 |
+| Microbiology Biosafety | 47 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 4 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
@@ -321,6 +321,7 @@
 | Microbiology Biosafety | 09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu | 国内版 | 生物恐怖怎么防：识别·预防·报告（国内版） | 44 | 3:40 | 8 / 4 | [剧本](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（国内版）/script.md>) · [审查](<Microbiology Biosafety/09_What is Bioterrorism Example of Bioterrorism microbiology biosafety raqbamicrohu（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe | 单一版 | 层流台 VS 生物安全柜：别选错 | 42 | 3:30 | 13 / 4 | [剧本](<Microbiology Biosafety/10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe/script.md>) · [审查](<Microbiology Biosafety/10_Working Principle of Laminar Air Flow & Biosafety Cabinets, laminar_flow biosafe/审查报告.md>) |
 | Microbiology Biosafety | 11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory | 单一版 | 生物安全的五个 P | 28 | 2:20 | 7 / 3 | [剧本](<Microbiology Biosafety/11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory/script.md>) · [审查](<Microbiology Biosafety/11_5P's of biosafety biosafety microbiology raqbamicrohub laboratory/审查报告.md>) |
+| Microbiology Biosafety | 12_what is biosafety , biosafety microbiology laboratory raqbamicrohub | 单一版 | 什么是生物安全 | 26 | 2:10 | 4 / 3 | [剧本](<Microbiology Biosafety/12_what is biosafety , biosafety microbiology laboratory raqbamicrohub/script.md>) · [审查](<Microbiology Biosafety/12_what is biosafety , biosafety microbiology laboratory raqbamicrohub/审查报告.md>) |
 | Microbiology Biosafety | 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz | 国内版 | 实验室里的八类危害（国内版） | 71 | 5:55 | 14 / 4 | [剧本](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/script.md>) · [审查](<Microbiology Biosafety/13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 国内版 | 实验室八条通用安全规则（国内版） | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
@@ -351,6 +352,7 @@
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
 | Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 单一版 | 生物风险评估六步走 | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) · [审查](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/审查报告.md>) |
 | Microbiology Biosafety | 44_What are the core components of a Biorisk management system biorisk biosafety tr | 单一版 | 生物风险管理体系的六根支柱 | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr/script.md>) · [审查](<Microbiology Biosafety/44_What are the core components of a Biorisk management system biorisk biosafety tr/审查报告.md>) |
+| Microbiology Biosafety | 45_Who is responsible for Biorisk management in a laboratory biorisk management bio | 单一版 | 生物安全，谁来负责 | 37 | 3:05 | 5 / 3 | [剧本](<Microbiology Biosafety/45_Who is responsible for Biorisk management in a laboratory biorisk management bio/script.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 单一版 | 认识危险物品：七大类和它们藏在哪 | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/审查报告.md>) |
 | Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/审查报告.md>) |
