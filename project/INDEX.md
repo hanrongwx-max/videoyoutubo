@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 59 / 59 | 6 / 59 |
-| BIORISK MANAGEMENT | 47 / 47 | 35 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 36 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
 | Electrical Safety Series | 25 / 25 | 6 / 25 |
@@ -178,6 +178,7 @@
 | BIORISK MANAGEMENT | 30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse) | 国内版 | 把生物安全管成一个体系（国内版） | 118 | 9:50 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 31_World Health Organization Risk Groups | 原著版 | 四个风险组怎么分 | 38 | 3:10 | 10 / 0 | [剧本](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups/script.md>) |
 | BIORISK MANAGEMENT | 31_World Health Organization Risk Groups | 国内版 | 四个风险组怎么分（国内版） | 53 | 4:25 | 10 / 4 | [剧本](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/31_World Health Organization Risk Groups（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 32_MOOC INTRODUCTION TO BIORISK MANAGEMENT | 原著版 | 走进生物风险管理 | 26 | 2:10 | 7 / 0 | [剧本](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT/script.md>) |
 | BIORISK MANAGEMENT | 32_MOOC INTRODUCTION TO BIORISK MANAGEMENT | 国内版 | 走进生物风险管理（国内版） | 39 | 3:15 | 7 / 4 | [剧本](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/32_MOOC INTRODUCTION TO BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL | 国内版 | 读懂实验室生物安全手册（国内版） | 133 | 11:05 | 32 / 4 | [剧本](<BIORISK MANAGEMENT/33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/33_WORLD HEALTH ORGANIZATION LABORATORY BIOSAFETY MANUAL（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 34_GENERAL PRINCIPLES BIORISK MANAGEMENT | 国内版 | 风险分组与防护水平（国内版） | 70 | 5:50 | 19 / 4 | [剧本](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/34_GENERAL PRINCIPLES BIORISK MANAGEMENT（国内版）/审查报告.md>) |
