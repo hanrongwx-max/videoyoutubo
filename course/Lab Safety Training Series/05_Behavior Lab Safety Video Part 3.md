@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Chemical Spillage & Response |
+| 剧集 | Lab Safety Training Series（内容与剧集「Chemical Spillage & Response」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Behavior / Lab Safety Video Part 3；https://youtu.be/e7VkIuiT1kU |
 | 时长、分辨率 | 00:01:58（118.5 秒），1920×1080 |
 | 语言 | 英语（与第 1、2 集同一男主持人出镜讲解，穿插情景示范） |

@@ -7,6 +7,7 @@ src.py 首行注释换成本视频名称。复制后重新构建制作包（剧�
 """
 import argparse
 import csv
+import re
 import shutil
 import subprocess
 import sys
@@ -51,8 +52,15 @@ def main():
                     text = sdoc.read_text(encoding="utf-8")
                     head, _, rest = text.partition("\n")
                     head = head.replace(src["视频名称"], r["视频名称"])   # 标题用本视频名称
+                    if r["剧集"] != src["剧集"]:                     # 基本信息表的剧集行改成本剧集
+                        rest = re.sub(r"^\| 剧集 \| .+? \|$", f"| 剧集 | {r['剧集']}（内容与剧集「{src['剧集']}」中的同一视频相同，"
+                                      f"复制自该剧集） |", rest, count=1, flags=re.M)
                     ddoc.write_text(f"{head}\n\n> 本视频与剧集「{src['剧集']}」的 {src['视频名称']} 是同一个视频（{r['链接']}），"
                                     f"内容文档和卡通剧本复制自该剧集，未重复编写。\n{rest}", encoding="utf-8")
+                swork = ROOT / "work" / src["剧集"] / src["视频名称"]       # 分析素材也复制
+                dwork = ROOT / "work" / r["剧集"] / r["视频名称"]
+                if swork.is_dir() and not dwork.exists():
+                    shutil.copytree(swork, dwork)
                 ddir.mkdir(parents=True)
                 for f in sdir.iterdir():
                     if f.name not in KEEP:

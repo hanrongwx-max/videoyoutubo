@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Fire Safety & Extinguisher Training（剧集名沿用附件分组；本片实际为通用实验室安全培训片，与消防无关） |
+| 剧集 | Lab Safety Training Series（内容与剧集「Fire Safety & Extinguisher Training」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Preventing Contamination in the Lab - [Laboratory Safety Training Video]；https://youtu.be/B8dCzvPTfTU |
 | 时长、分辨率 | 00:10:19（619.2 秒），1280×720（画面中央 4:3，两侧黑边；全片叠加红色 “FOR PREVIEW PURPOSES ONLY” 预览水印） |
 | 语言 | 英语（男声画外音，无人出镜讲解） |

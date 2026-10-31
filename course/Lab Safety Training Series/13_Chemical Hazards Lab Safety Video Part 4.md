@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Chemical Spillage & Response |
+| 剧集 | Lab Safety Training Series（内容与剧集「Chemical Spillage & Response」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Chemical Hazards / Lab Safety Video Part 4；https://youtu.be/8queMM7VVfw |
 | 时长、分辨率 | 00:03:54（234.3 秒），1920×1080 |
 | 语言 | 英语（男主讲人出镜讲解，戴护目镜、穿实验服、戴蓝色丁腈手套） |

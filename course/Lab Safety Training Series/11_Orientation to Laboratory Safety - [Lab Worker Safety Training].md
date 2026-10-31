@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Fire Safety & Extinguisher Training |
+| 剧集 | Lab Safety Training Series（内容与剧集「Fire Safety & Extinguisher Training」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Orientation to Laboratory Safety - [Lab Worker Safety Training]；https://youtu.be/acRXhnCi3dc |
 | 时长、分辨率 | 00:11:55（715.0 秒），1280×720 |
 | 语言 | 英语（男声画外音，无人出镜讲解） |

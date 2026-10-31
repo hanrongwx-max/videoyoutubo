@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Chemical Spillage & Response |
+| 剧集 | Lab Safety Training Series（内容与剧集「Chemical Spillage & Response」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Safe Chemical Handling / Lab Safety Video Part 5；https://youtu.be/uiB8qnlZTAM |
 | 时长、分辨率 | 00:03:44（224.7 秒），1920×1080 |
 | 语言 | 英语（男主讲人出镜讲解，戴护目镜、穿实验服、戴蓝色丁腈手套；其余为实拍操作配画外音） |

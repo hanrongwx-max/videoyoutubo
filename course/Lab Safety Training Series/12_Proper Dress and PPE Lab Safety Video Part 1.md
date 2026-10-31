@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Chemical Spillage & Response |
+| 剧集 | Lab Safety Training Series（内容与剧集「Chemical Spillage & Response」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Proper Dress and PPE / Lab Safety Video Part 1；https://youtu.be/GjAD83B4JaY |
 | 时长、分辨率 | 00:03:08（188.9 秒），1920×1080 |
 | 语言 | 英语（男主持人身穿实验服、戴安全眼镜和手套出镜讲解，穿插实拍示范） |

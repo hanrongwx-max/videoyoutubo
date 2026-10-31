@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | Fire Safety & Extinguisher Training（剧集名沿用附件分组；本片实际为实验室人机工效培训片，与消防无关） |
+| 剧集 | Lab Safety Training Series（内容与剧集「Fire Safety & Extinguisher Training」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Lab Worker Ergonomics Training - [Lab Safety Training]；https://youtu.be/6pfBMMnZEX8 |
 | 时长、分辨率 | 00:12:30（749.9 秒），1280×720（画面中央 4:3，两侧黑边；全片叠加红色 “FOR PREVIEW PURPOSES ONLY” 预览水印） |
 | 语言 | 英语（男声画外音，无人出镜讲解） |

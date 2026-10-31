@@ -5,7 +5,7 @@
 ## 基本信息
 | 项目 | 内容 |
 |---|---|
-| 剧集 | General Lab Safety Practices |
+| 剧集 | MIT Digital Lab Techniques Manual（内容与剧集「General Lab Safety Practices」中的同一视频相同，复制自该剧集） |
 | 原标题 / 链接 | Buffers and pH Meter \| MIT Digital Lab Techniques Manual；https://youtu.be/HZFIdpThd-s |
 | 时长、分辨率 | 00:08:56（536.6 秒），320×240 |
 | 语言 | 英语（女声讲解，画外音为主，片头片尾出镜） |
