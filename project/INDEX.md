@@ -23,7 +23,7 @@
 | Fire Safety & Extinguisher Training | 9 / 9 | 6 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 4 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 8 / 9 |
-| MIT Digital Lab Techniques Manual | 9 / 17 | 1 / 2 |
+| MIT Digital Lab Techniques Manual | 9 / 17 | 1 / 9 |
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -542,13 +542,13 @@
 | Laser Maintenance Group Safety | 13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase | 国内版 | 整洁有序也是安全（国内版） | 39 | 3:15 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/13_Clean and Organized is Laser Safety Wise Laser Maintenance Group Innovative Lase（国内版）/审查报告.md>) |
 | Laser Maintenance Group Safety | 14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova | 国内版 | 激光设备旁，选对灭火器（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/script.md>) · [审查](<Laser Maintenance Group Safety/14_CO2 or Class D Fire Extinguishers with Laser Systems Which should you use Innova（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 01_Volumetric Techniques | 国内版 | 容量器具的规范使用（国内版） | 107 | 8:55 | 34 / 7 | [剧本](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/01_Volumetric Techniques（国内版）/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 02_Titration | 单一版 | 酸碱滴定的规范操作 | 74 | 6:10 | 24 / 6 | [剧本](<MIT Digital Lab Techniques Manual/02_Titration/script.md>) · [审查](<MIT Digital Lab Techniques Manual/02_Titration/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 单一版 | 薄层色谱入门 | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 04_TLC-Advanced | 单一版 | 薄层色谱进阶技巧 | 68 | 5:40 | 24 / 5 | [剧本](<MIT Digital Lab Techniques Manual/04_TLC-Advanced/script.md>) · [审查](<MIT Digital Lab Techniques Manual/04_TLC-Advanced/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 05_Reaction Work-Up I | 单一版 | 反应后处理：萃取、洗涤与干燥 | 94 | 7:50 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/script.md>) · [审查](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 单一版 | 旋转蒸发仪的正确使用 | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 07_Filtration | 单一版 | 三种过滤方法 | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration/script.md>) · [审查](<MIT Digital Lab Techniques Manual/07_Filtration/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 08_Sublimation | 单一版 | 升华纯化 | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation/script.md>) |
+| MIT Digital Lab Techniques Manual | 02_Titration | 国内版 | 酸碱滴定的规范操作（国内版） | 74 | 6:10 | 24 / 6 | [剧本](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/02_Titration（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 国内版 | 薄层色谱入门（国内版） | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 04_TLC-Advanced | 国内版 | 薄层色谱进阶技巧（国内版） | 68 | 5:40 | 24 / 5 | [剧本](<MIT Digital Lab Techniques Manual/04_TLC-Advanced（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/04_TLC-Advanced（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 05_Reaction Work-Up I | 国内版 | 反应后处理：萃取、洗涤与干燥（国内版） | 94 | 7:50 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 国内版 | 旋转蒸发仪的正确使用（国内版） | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 07_Filtration | 国内版 | 三种过滤方法（国内版） | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 08_Sublimation | 国内版 | 升华纯化（国内版） | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |

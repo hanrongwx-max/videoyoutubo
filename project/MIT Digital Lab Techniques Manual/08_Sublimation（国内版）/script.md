@@ -1,7 +1,7 @@
-# 升华纯化
+# 升华纯化（国内版）
 
 - 剧集：MIT Digital Lab Techniques Manual；对应原视频：08_Sublimation（内容分析见 `course/MIT Digital Lab Techniques Manual/08_Sublimation.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../08_Sublimation/`
 - 时长：4 分 5 秒（49 个镜头 × 5 秒）；熊猫出镜说话 6 镜，画外音 43 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）
