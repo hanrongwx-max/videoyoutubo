@@ -9,7 +9,7 @@
 | Microbiology Biosafety | 59 / 59 | 59 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
-| Cleanroom & Equipment Safety | 33 / 33 | 15 / 33 |
+| Cleanroom & Equipment Safety | 33 / 33 | 16 / 33 |
 | Electrical Safety Series | 25 / 25 | 25 / 25 |
 | Basic Electrical Engineering Lab | 23 / 23 | 23 / 23 |
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
@@ -346,6 +346,7 @@
 | Cleanroom & Equipment Safety | 14_Replace the Rocker Switch for xTool MetalFab Laser Welder | 国内版 | 激光焊接机电源开关的规范更换（国内版） | 44 | 3:40 | 18 / 6 | [剧本](<Cleanroom & Equipment Safety/14_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/14_Replace the Rocker Switch for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 15_Replace the AC Contactor for xTool MetalFab Laser Welder | 原著版 | 激光焊接机交流接触器的规范更换 | 38 | 3:10 | 26 / 0 | [剧本](<Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 15_Replace the AC Contactor for xTool MetalFab Laser Welder | 国内版 | 激光焊接机交流接触器的规范更换（国内版） | 54 | 4:30 | 26 / 6 | [剧本](<Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/15_Replace the AC Contactor for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
+| Cleanroom & Equipment Safety | 16_Replace the Main Control Board for xTool MetalFab Laser Welder | 原著版 | 激光焊接机主控板的规范更换 | 30 | 2:30 | 19 / 0 | [剧本](<Cleanroom & Equipment Safety/16_Replace the Main Control Board for xTool MetalFab Laser Welder/script.md>) |
 | Cleanroom & Equipment Safety | 16_Replace the Main Control Board for xTool MetalFab Laser Welder | 国内版 | 激光焊接机主控板的规范更换（国内版） | 45 | 3:45 | 19 / 5 | [剧本](<Cleanroom & Equipment Safety/16_Replace the Main Control Board for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/16_Replace the Main Control Board for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder | 国内版 | 激光焊接机焊枪通讯线的规范更换（国内版） | 60 | 5:00 | 27 / 6 | [剧本](<Cleanroom & Equipment Safety/17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/17_Replace the Welding Torch Communication Cable for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
 | Cleanroom & Equipment Safety | 18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder | 国内版 | 带把手机型气动组件的规范更换（国内版） | 46 | 3:50 | 23 / 5 | [剧本](<Cleanroom & Equipment Safety/18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（国内版）/script.md>) · [审查](<Cleanroom & Equipment Safety/18_Replace the Pneumatic Assembly for xTool MetalFab Laser Welder（国内版）/审查报告.md>) |
