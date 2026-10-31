@@ -1,13 +1,13 @@
 # 卡通教学视频制作目录
 
-已编写 273 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 274 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | BIORISK MANAGEMENT | 45 / 47 | 0 / 42 |
-| Microbiology Biosafety | 37 / 59 | 0 / 25 |
+| Microbiology Biosafety | 38 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 0 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 0 / 23 |
 | Lab Safety Training Series | 13 / 13 | 0 / 13 |
@@ -19,7 +19,7 @@
 | Health Physics & Nuclear Medicine | 9 / 9 | 0 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 0 / 9 |
 | RSO Training Series | 9 / 9 | 0 / 9 |
-| General Lab Safety Practices | 8 / 8 | 1 / 8 |
+| General Lab Safety Practices | 8 / 8 | 2 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 2 / 8 |
 | Photonics & Laser Safety Series | 8 / 8 | 1 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 1 / 7 |
@@ -184,6 +184,7 @@
 | Fume Hood & Cabinet Protocols | 12_Laboratory Synthesis of Aspirin | 国内版 | 阿司匹林合成实验与安全（国内版） | 104 | 8:40 | 24 / 9 | [剧本](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/script.md>) · [审查](<Fume Hood & Cabinet Protocols/12_Laboratory Synthesis of Aspirin（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 原著版 | 无菌操作与平板划线 | 106 | 8:50 | 31 / 0 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate/script.md>) |
 | General Lab Safety Practices | 01_Aseptic Technique & Streak Plate | 国内版 | 无菌操作与平板划线（国内版） | 131 | 10:55 | 31 / 6 | [剧本](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/script.md>) · [审查](<General Lab Safety Practices/01_Aseptic Technique & Streak Plate（国内版）/审查报告.md>) |
+| General Lab Safety Practices | 02_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter/script.md>) |
 | General Lab Safety Practices | 02_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/script.md>) · [审查](<General Lab Safety Practices/02_Buffers and pH Meter（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 03_pH Maintenance How to maintain an Orion pH electrode | 国内版 | pH电极的日常维护（国内版） | 80 | 6:40 | 11 / 6 | [剧本](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/script.md>) · [审查](<General Lab Safety Practices/03_pH Maintenance How to maintain an Orion pH electrode（国内版）/审查报告.md>) |
 | General Lab Safety Practices | 04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance | 国内版 | 离心机的清洁维护与转子检查（国内版） | 86 | 7:10 | 15 / 7 | [剧本](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/script.md>) · [审查](<General Lab Safety Practices/04_The Basis for Your Lab Safety - Centrifuge Training and Maintenance（国内版）/审查报告.md>) |
@@ -279,6 +280,7 @@
 | Microbiology Biosafety | 14_What are the 8 general lab safety rules | 国内版 | 实验室八条通用安全规则（国内版） | 51 | 4:15 | 9 / 3 | [剧本](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/script.md>) · [审查](<Microbiology Biosafety/14_What are the 8 general lab safety rules（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub | 单一版 | 生物安保的六个关键方面 | 46 | 3:50 | 8 / 3 | [剧本](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub/script.md>) · [审查](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub/审查报告.md>) |
+| Microbiology Biosafety | 17_Safety measures of microbiology lab General safety PPE GLP proper training labor | 单一版 | 微生物实验室的通用安全措施 | 43 | 3:35 | 8 / 3 | [剧本](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor/script.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 国内版 | 实验报告怎么写：从记录到安全（国内版） | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 国内版 | 认识安全技术说明书（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical | 国内版 | 安全技术说明书有什么用（国内版） | 47 | 3:55 | 8 / 3 | [剧本](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/script.md>) · [审查](<Microbiology Biosafety/20_Purpose of safety data sheet MSDS laboratory microbiology safety chemical（国内版）/审查报告.md>) |
@@ -298,10 +300,10 @@
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/审查报告.md>) |
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
-| Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 单一版 | 生物风险评估六步走 | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) |
+| Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 单一版 | 生物风险评估六步走 | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) · [审查](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/审查报告.md>) |
 | Microbiology Biosafety | 47_What should be included in a Biorisk management plan laboratory trending raqbami | 国内版 | 一份管用的生物风险管理计划（国内版） | 62 | 5:10 | 11 / 3 | [剧本](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/script.md>) · [审查](<Microbiology Biosafety/47_What should be included in a Biorisk management plan laboratory trending raqbami（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 48_What are the Hazardous Materials hazardous material trending laboratory raqbamic | 单一版 | 认识危险物品：七大类和它们藏在哪 | 69 | 5:45 | 14 / 3 | [剧本](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/script.md>) · [审查](<Microbiology Biosafety/48_What are the Hazardous Materials hazardous material trending laboratory raqbamic/审查报告.md>) |
-| Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) |
+| Microbiology Biosafety | 49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato | 单一版 | 实验室生物安保：五种威胁怎么防 | 44 | 3:40 | 6 / 3 | [剧本](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/script.md>) · [审查](<Microbiology Biosafety/49_What are examples of biosecurity threats in a lab biosecurity biosafety laborato/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 原著版 | 光是什么：光的本质与基本性质 | 80 | 6:40 | 21 / 0 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 国内版 | 光是什么：光的本质与基本性质（国内版） | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light（国内版）/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 国内版 | 光的波动：反射、折射、干涉与偏振（国内版） | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light（国内版）/审查报告.md>) |
