@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 427 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 428 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -26,11 +26,11 @@
 | RSO Training Series | 9 / 9 | 6 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
+| MIT Digital Lab Techniques Manual | 8 / 17 | 1 / 2 |
 | Photonics & Laser Safety Series | 8 / 8 | 8 / 8 |
 | ACS College Lab Safety Series | 7 / 7 | 7 / 7 |
 | Chemical Spillage & Response | 7 / 7 | 7 / 7 |
 | Laboratory Equipment Safety Series | 7 / 7 | 7 / 7 |
-| MIT Digital Lab Techniques Manual | 7 / 17 | 1 / 2 |
 
 ## 已编写视频
 
@@ -546,7 +546,8 @@
 | MIT Digital Lab Techniques Manual | 03_TLC-The Basics | 单一版 | 薄层色谱入门 | 91 | 7:35 | 34 / 4 | [剧本](<MIT Digital Lab Techniques Manual/03_TLC-The Basics/script.md>) · [审查](<MIT Digital Lab Techniques Manual/03_TLC-The Basics/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 04_TLC-Advanced | 单一版 | 薄层色谱进阶技巧 | 68 | 5:40 | 24 / 5 | [剧本](<MIT Digital Lab Techniques Manual/04_TLC-Advanced/script.md>) · [审查](<MIT Digital Lab Techniques Manual/04_TLC-Advanced/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 05_Reaction Work-Up I | 单一版 | 反应后处理：萃取、洗涤与干燥 | 94 | 7:50 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/script.md>) · [审查](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/审查报告.md>) |
-| MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 单一版 | 旋转蒸发仪的正确使用 | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/script.md>) |
+| MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 单一版 | 旋转蒸发仪的正确使用 | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 07_Filtration | 单一版 | 三种过滤方法 | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 原著版 | 缓冲液配制与pH计使用 | 90 | 7:30 | 15 / 0 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 国内版 | 缓冲液配制与pH计使用（国内版） | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 原著版 | 生物安全第一课：防护与风险评估 | 42 | 3:30 | 13 / 0 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) |
