@@ -28,7 +28,8 @@ def git(*args, check=True):
 
 
 def paths_for(series, video):
-    ps = [ROOT / "work" / series / video, ROOT / "course" / series / f"{video}.md", ROOT / "project" / series / video]
+    ps = [ROOT / "work" / series / video, ROOT / "course" / series / f"{video}.md", ROOT / "project" / series / video,
+          ROOT / "project" / series / f"{video}（国内版）"]
     return [str(p.relative_to(ROOT)) for p in ps if p.exists()]
 
 

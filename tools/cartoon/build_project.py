@@ -14,6 +14,11 @@
 prompts.json（每镜完整的 H3 提示词，含 H3 配音版和 TTS 配音版）、workflow.md、comfyui/（工作流模板）；
 以及 project/INDEX.md（全部已编写视频的目录）。
 
+两个版本：原视频内容与国内法规有区别时，同一视频出两版——
+    project/<剧集>/<视频名称>/            原著版：META["edition"] = "原著版"，只有原片知识点 K*，内容与原片一致
+    project/<剧集>/<视频名称>（国内版）/  国内版：按国内法规和高校安全教育要求改编（含补充知识点 S* 和 审查报告.md）
+与国内要求没有区别的视频只有一版，放在 project/<剧集>/<视频名称>/。
+
 用法：python3 tools/cartoon/build_project.py [--only 视频目录 ...]   校验不通过时列出问题并以非零状态退出
 """
 import argparse
@@ -37,6 +42,14 @@ SHOT_S = 5
 MAX_LINE = 20          # 每镜旁白不超过 20 字（不含标点）
 SPECIAL = {"开场", "情景", "小结", "结尾"}
 MAX_LABELS, MAX_LABEL_CHARS = 5, 8
+DOMESTIC = "（国内版）"     # 国内版目录名后缀
+
+
+def edition_of(d, meta):
+    """返回 (原视频名称, 版本)；版本为 原著版 / 国内版 / 单一版。"""
+    if d.name.endswith(DOMESTIC):
+        return d.name[:-len(DOMESTIC)], "国内版"
+    return d.name, "原著版" if meta.get("edition") == "原著版" else "单一版"
 MIN_SECONDS, MAX_SECONDS = 120, 900
 ROLES = {"panda mascot": "欣欣（熊猫主持）", "female graduate student": "小研（研究生，兼实验室安全员）",
          "older man": "老周（实验室负责人）", "young male student": "阿杰（本科生）",
@@ -61,9 +74,11 @@ def load_src(d):
     return mod.META, mod.SHOTS
 
 
-def build(meta, raw):
+def build(meta, raw, edition="单一版"):
     problems, shots = [], []
     points = meta["points"]
+    if edition == "原著版" and any(not k.startswith("K") for k in points):
+        problems.append("原著版只保留原片知识点 K*，不加补充知识点")
     avoid = AVOID + meta.get("avoid", [])
     for i, item in enumerate(raw, 1):
         if len(item) not in (4, 5, 6):
@@ -104,9 +119,14 @@ def build(meta, raw):
 
 def write_package(d, meta, shots):
     rel = d.relative_to(ROOT).as_posix()
-    series, video = d.parent.name, d.name
-    title = meta["title"]
-    spec = {"id": video, "series": series, "title": title, "seconds": len(shots) * SHOT_S,
+    series = d.parent.name
+    video, edition = edition_of(d, meta)
+    title = meta["title"] + (DOMESTIC if edition == "国内版" else "")
+    other = {"原著版": f"国内版见 `../{video}{DOMESTIC}/`", "国内版": f"原著版见 `../{video}/`"}.get(edition)
+    basis = {"原著版": "原视频知识点（K），内容与原片一致，未按国内法规改编（含原片的做法和数值）",
+             "国内版": "原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`",
+             "单一版": "原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`"}[edition]
+    spec = {"id": video, "edition": edition, "series": series, "title": title, "seconds": len(shots) * SHOT_S,
             "source_doc": f"course/{series}/{video}.md", "author_source": f"{rel}/src.py",
             "points": meta["points"], "shots": shots}
     (d / "shots.json").write_text(json.dumps(spec, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -153,8 +173,9 @@ def write_package(d, meta, shots):
     (d / "script.md").write_text(f"""# {title}
 
 - 剧集：{series}；对应原视频：{video}（内容分析见 `course/{series}/{video}.md`）
+- 版本：{edition}{'；' + other if other else ''}
 - 时长：{m} 分 {s_} 秒（{len(shots)} 个镜头 × {SHOT_S} 秒）；熊猫出镜说话 {speak} 镜，画外音 {len(shots) - speak} 镜
-- 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
+- 依据：{basis}
 - 角色：{'、'.join(used)}
 
 ## 知识点覆盖
@@ -202,21 +223,30 @@ def write_index():
         m, sec = divmod(s["seconds"], 60)
         rel = f.parent.relative_to(PROJECT).as_posix()
         k = sum(1 for p in s["points"] if p.startswith("K"))
-        rows.append(f"| {s['series']} | {s['id']} | {s['title']} | {len(s['shots'])} | {m}:{sec:02d} | "
-                    f"{k} / {len(s['points']) - k} | [剧本](<{rel}/script.md>) · [审查](<{rel}/审查报告.md>) |")
+        ed = s.get("edition", "单一版")
+        review = f" · [审查](<{rel}/审查报告.md>)" if (f.parent / "审查报告.md").exists() else ""
+        rows.append(f"| {s['series']} | {s['id']} | {ed} | {s['title']} | {len(s['shots'])} | {m}:{sec:02d} | "
+                    f"{k} / {len(s['points']) - k} | [剧本](<{rel}/script.md>){review} |")
     import csv
     total = defaultdict(int)
     with open(ROOT / "tools" / "assets.tsv", encoding="utf-8") as f:
         for r in csv.DictReader(f, delimiter="\t"):
             total[r["剧集"]] += 1
-    done = defaultdict(int)
+    videos, orig, need = defaultdict(set), defaultdict(int), defaultdict(int)
     for f in PROJECT.glob("*/*/shots.json"):
-        done[f.parent.parent.name] += 1
-    prog = "\n".join(f"| {s} | {done[s]} / {n} |" for s, n in sorted(total.items(), key=lambda x: (-done[x[0]], x[0])))
+        s = json.loads(f.read_text(encoding="utf-8"))
+        ed = s.get("edition", "单一版")
+        videos[s["series"]].add(s["id"])
+        orig[s["series"]] += ed == "原著版"
+        need[s["series"]] += ed == "国内版"
+    done = {k: len(v) for k, v in videos.items()}
+    prog = "\n".join(f"| {s} | {done.get(s, 0)} / {n} | {orig[s]} / {need[s]} |"
+                     for s, n in sorted(total.items(), key=lambda x: (-done.get(x[0], 0), x[0])))
     (PROJECT / "INDEX.md").write_text(
-        "# 卡通教学视频制作目录\n\n已编写 " + str(len(rows)) + f" / {sum(total.values())} 个视频。\n\n"
-        "## 各剧集进度\n\n| 剧集 | 已编写 / 附件视频 |\n|---|---|\n" + prog + "\n\n## 已编写视频\n\n知识点：原片 / 补充。\n\n"
-        "| 剧集 | 原视频 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|---|\n"
+        "# 卡通教学视频制作目录\n\n已编写 " + str(sum(done.values())) + f" / {sum(total.values())} 个视频。"
+        "与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。\n\n"
+        "## 各剧集进度\n\n| 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |\n|---|---|---|\n" + prog + "\n\n## 已编写视频\n\n知识点：原片 / 补充。\n\n"
+        "| 剧集 | 原视频 | 版本 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|---|---|\n"
         + "\n".join(rows) + "\n", encoding="utf-8")
 
 
@@ -231,7 +261,7 @@ def main():
         if only and d.resolve() not in only:
             continue
         meta, raw = load_src(d)
-        shots, problems = build(meta, raw)
+        shots, problems = build(meta, raw, edition_of(d, meta)[1])
         write_package(d, meta, shots)
         m, s = divmod(len(shots) * SHOT_S, 60)
         print(f"[{d.parent.name}/{d.name}] {meta['title']}：{len(shots)} 镜，{m} 分 {s} 秒" + ("，问题：" if problems else ""))
