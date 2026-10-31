@@ -15,7 +15,7 @@
 | CDC Laboratory Safety Series | 23 / 23 | 23 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 23 / 23 |
 | Laser Maintenance Group Safety | 17 / 17 | 17 / 17 |
-| MIT Digital Lab Techniques Manual | 17 / 17 | 6 / 17 |
+| MIT Digital Lab Techniques Manual | 17 / 17 | 7 / 17 |
 | Lab Safety Training Series | 13 / 13 | 13 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 12 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 12 / 12 |
@@ -742,6 +742,7 @@
 | MIT Digital Lab Techniques Manual | 04_TLC-Advanced | 国内版 | 薄层色谱进阶技巧（国内版） | 68 | 5:40 | 24 / 5 | [剧本](<MIT Digital Lab Techniques Manual/04_TLC-Advanced（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/04_TLC-Advanced（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 05_Reaction Work-Up I | 原著版 | 反应后处理：萃取、洗涤与干燥 | 83 | 6:55 | 35 / 0 | [剧本](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I/script.md>) |
 | MIT Digital Lab Techniques Manual | 05_Reaction Work-Up I | 国内版 | 反应后处理：萃取、洗涤与干燥（国内版） | 94 | 7:50 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/05_Reaction Work-Up I（国内版）/审查报告.md>) |
+| MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 原著版 | 旋转蒸发仪的正确使用 | 58 | 4:50 | 25 / 0 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II/script.md>) |
 | MIT Digital Lab Techniques Manual | 06_Reaction Work-Up II | 国内版 | 旋转蒸发仪的正确使用（国内版） | 69 | 5:45 | 25 / 4 | [剧本](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/06_Reaction Work-Up II（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 07_Filtration | 国内版 | 三种过滤方法（国内版） | 74 | 6:10 | 35 / 4 | [剧本](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/07_Filtration（国内版）/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 08_Sublimation | 国内版 | 升华纯化（国内版） | 49 | 4:05 | 23 / 4 | [剧本](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/script.md>) · [审查](<MIT Digital Lab Techniques Manual/08_Sublimation（国内版）/审查报告.md>) |
