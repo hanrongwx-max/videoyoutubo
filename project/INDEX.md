@@ -10,11 +10,11 @@
 | BIORISK MANAGEMENT | 47 / 47 | 7 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 8 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 4 / 23 |
-| Lab Safety Training Series | 13 / 13 | 1 / 13 |
+| Lab Safety Training Series | 13 / 13 | 2 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 2 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 3 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 3 / 10 |
-| Animal & Plant Biotech Safety | 10 / 10 | 5 / 10 |
+| Animal & Plant Biotech Safety | 10 / 10 | 6 / 10 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 3 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 2 / 9 |
 | Industrial Gas & Cryogenic Equipment | 9 / 9 | 3 / 9 |
@@ -89,6 +89,7 @@
 | Animal & Plant Biotech Safety | 04_APB - Peer Reviews | 国内版 | 同伴互评：帮同学把论文改得更好（国内版） | 66 | 5:30 | 15 / 5 | [剧本](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/04_APB - Peer Reviews（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 原著版 | 植物克隆：组织培养入门 | 48 | 4:00 | 12 / 0 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning/script.md>) |
 | Animal & Plant Biotech Safety | 05_APB - Plant Cloning | 国内版 | 植物克隆：组织培养入门（国内版） | 65 | 5:25 | 12 / 5 | [剧本](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/05_APB - Plant Cloning（国内版）/审查报告.md>) |
+| Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 原著版 | 植物组织培养的无菌技术 | 65 | 5:25 | 18 / 0 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning/script.md>) |
 | Animal & Plant Biotech Safety | 06_APB - Sterile Technique for Plant Cloning | 国内版 | 植物组织培养的无菌技术（国内版） | 93 | 7:45 | 18 / 7 | [剧本](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/06_APB - Sterile Technique for Plant Cloning（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 07_APB - Culturing Carrots | 国内版 | 胡萝卜组织培养（国内版） | 74 | 6:10 | 11 / 6 | [剧本](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/07_APB - Culturing Carrots（国内版）/审查报告.md>) |
 | Animal & Plant Biotech Safety | 08_APB - A Bioscience Way of Life | 国内版 | 身边的生物技术（国内版） | 73 | 6:05 | 12 / 6 | [剧本](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/script.md>) · [审查](<Animal & Plant Biotech Safety/08_APB - A Bioscience Way of Life（国内版）/审查报告.md>) |
@@ -298,6 +299,7 @@
 | Lab Safety Training - Essential Protocols | 23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai | 国内版 | 化学品溢洒与接触的应急处置（国内版） | 49 | 4:05 | 15 / 4 | [剧本](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/23_Chemical Spills & Exposures Mastering Laboratory Safety Emergency Protocols Trai（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 原著版 | 细胞培养的无菌操作与生物安全 | 74 | 6:10 | 23 / 0 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training/script.md>) |
 | Lab Safety Training Series | 01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training | 国内版 | 细胞培养的无菌操作与生物安全（国内版） | 98 | 8:10 | 23 / 7 | [剧本](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（国内版）/script.md>) · [审查](<Lab Safety Training Series/01_How to Maintain Sterility with Aseptic Technique Cell Culture Basics Training（国内版）/审查报告.md>) |
+| Lab Safety Training Series | 02_„General Laboratory Safety - Safety instructions | 原著版 | 化学实验室通用安全守则 | 168 | 14:00 | 35 / 0 | [剧本](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions/script.md>) |
 | Lab Safety Training Series | 02_„General Laboratory Safety - Safety instructions | 国内版 | 化学实验室通用安全守则（国内版） | 175 | 14:35 | 35 / 7 | [剧本](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions（国内版）/script.md>) · [审查](<Lab Safety Training Series/02_„General Laboratory Safety - Safety instructions（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 03_Safety in laboratory | 国内版 | 实验室里的五类危险源与个人防护（国内版） | 118 | 9:50 | 28 / 7 | [剧本](<Lab Safety Training Series/03_Safety in laboratory（国内版）/script.md>) · [审查](<Lab Safety Training Series/03_Safety in laboratory（国内版）/审查报告.md>) |
 | Lab Safety Training Series | 04_Lab Worker Ergonomics Training - [Lab Safety Training] | 国内版 | 实验室里的人机工效（国内版） | 102 | 8:30 | 25 / 5 | [剧本](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/script.md>) · [审查](<Lab Safety Training Series/04_Lab Worker Ergonomics Training - [Lab Safety Training]（国内版）/审查报告.md>) |
