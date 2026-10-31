@@ -1,6 +1,6 @@
 # 13_What are lab hazards categories of lab hazards laboratory hazards laboratory haz 卡通剧本作者源
 # 原片为无讲解的文字幻灯片：实验室危害定义、八类危害（化学、生物、物理、设备、电气、辐射、噪声、人机工效）、控制措施、环境预告。
-# 保留全部知识点 K1–K14；审查补充 S1–S4（气瓶与压力设备；插线板不串接；紫外灯开时人离开；长时间移液定时休息）
+# 保留全部知识点 K1–K14；审查补充 S1–S4（气瓶与压力设备；延长线临时用不当固定线路；紫外灯开时人离开；长时间移液定时休息）
 # 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
 
 META = {
@@ -21,7 +21,7 @@ META = {
         "K13": "定期检查和维护",
         "K14": "危害也关系到环境",
         "S1": "气瓶固定，压力设备定期检验",
-        "S2": "插线板不串接，不超负荷",
+        "S2": "延长线临时用，不当固定线路",
         "S3": "紫外灯开着，人要离开",
         "S4": "长时间移液，定时歇一歇",
     },
@@ -43,8 +43,8 @@ SHOTS = [
 ("情景", "阿杰挠头，头顶冒出问号",
  "The young male student scratches his head with a question mark above him.",
  "他问：这里看着挺安全，危险在哪？"),
-("情景", "小研笑着指向实验台、气瓶和插线板",
- "The female graduate student smiles and points to a reagent shelf, a gas cylinder and a power strip under a bench.",
+("情景", "小研笑着指向实验台、气瓶和延长线",
+ "The female graduate student smiles and points to a reagent shelf, a gas cylinder and an extension cord running along a bench.",
  "小研说：危险就藏在这些东西里。"),
 ("情景", "欣欣举起放大镜",
  "The panda mascot holds up a large magnifying glass.",
@@ -219,15 +219,15 @@ SHOTS = [
  "The young male student stands back from an autoclave while the female graduate student signals that only trained staff operate it by following the procedure.",
  "经培训、按规程操作，不擅自动。"),
 # S2
-("S2", "插线板接插线板，插满插头，打叉",
- "Power strips plugged into each other in a chain, overloaded with plugs, crossed out with a red X. No people.",
- "原片提到延长线，记住两条。", "插线板不串接，不超负荷"),
-("S2", "大功率设备直接插在墙上的固定插座",
- "A large incubator plugged directly into a wall outlet. No people.",
- "插线板不串接，大功率设备单独接。"),
-("S2", "插线板泡在水边、压在重物下的图标打叉",
- "Icons of a power strip next to a puddle and a power strip under a heavy box, each crossed out with a red X. No people.",
- "远离水，不压线，不藏在角落。"),
+("S2", "一根长延长线从门外拉进来，常年给培养箱供电，打叉",
+ "A long extension cord runs in from the corridor and permanently powers an incubator, crossed out with a red X. No people.",
+ "原片提到延长线，用法要对。", "延长线临时用，不当固定线路"),
+("S2", "老李在培养箱旁的墙上装好固定插座",
+ "The facility engineer installs a fixed wall outlet next to the incubator.",
+ "长期用电的设备，请电工装固定插座。"),
+("S2", "小研用完延长线，拔下盘好放回柜里",
+ "The female graduate student unplugs an extension cord after use, coils it neatly and puts it back in a cabinet.",
+ "临时用完，拔下收好。"),
 # S3
 ("S3", "生物安全柜里紫外灯亮着，柜前没人",
  "A biological safety cabinet with its ultraviolet lamp glowing violet and no one in front of it. No people.",
@@ -259,7 +259,7 @@ SHOTS = [
  "Four icons: a blank manual, a podium, a lab coat with gloves, and a checklist with a wrench. No people.",
  "规程、培训、防护、检查，一个不少。"),
 ("小结", "阿杰拿着空白检查表，在实验室里逐项打勾",
- "The young male student walks through the lab with a blank checklist, ticking items next to the gas cylinder and power strip.",
+ "The young male student walks through the lab with a blank checklist, ticking items next to the gas cylinder and extension cord.",
  "阿杰说：原来危险都能认出来！"),
 # 结尾
 ("结尾", "欣欣和阿杰、小研在实验室里挥手",
