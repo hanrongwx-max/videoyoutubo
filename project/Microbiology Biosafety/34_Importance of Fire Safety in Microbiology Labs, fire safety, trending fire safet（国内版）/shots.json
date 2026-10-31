@@ -18,8 +18,8 @@
   "K9": "第六，保护环境",
   "K10": "消防的几个环节",
   "S1": "易燃品少量存放，远离热源",
-  "S2": "发现火情：喊、按、打、报",
-  "S3": "小火会扑救，大火快撤离",
+  "S2": "酒精消毒后，等干了再点火",
+  "S3": "防火门常闭，不用东西顶住",
   "S4": "安全出口和通道，保持畅通",
   "S5": "生物实验室起火：告知生物危害"
  },
@@ -542,9 +542,11 @@
    "section_title": "消防的几个环节",
    "scene": "报警按钮和手机图标",
    "prompt_en": "A manual fire alarm button and a mobile phone icon with a blank screen. No people.",
-   "narration": "要会报警，",
+   "narration": "要会报警，火警打119，",
    "overlay": [],
-   "labels": [],
+   "labels": [
+    "119"
+   ],
    "mode": "voiceover"
   },
   {
@@ -625,12 +627,12 @@
    "shot": 47,
    "seconds": 5,
    "section": "S2",
-   "section_title": "发现火情：喊、按、打、报",
-   "scene": "阿杰发现垃圾桶冒烟",
-   "prompt_en": "The young male student notices smoke rising from a waste bin in the lab.",
-   "narration": "发现着火，第一时间报警。",
+   "section_title": "酒精消毒后，等干了再点火",
+   "scene": "小研往台面喷酒精消毒，熄灭的酒精灯放在一旁",
+   "prompt_en": "The female graduate student sprays alcohol disinfectant on the bench; an unlit spirit lamp stands to one side.",
+   "narration": "喷完酒精消毒台面，先别点火。",
    "overlay": [
-    "发现火情：喊、按、打、报"
+    "酒精消毒后，等干了再点火"
    ],
    "labels": [],
    "mode": "voiceover"
@@ -639,10 +641,10 @@
    "shot": 48,
    "seconds": 5,
    "section": "S2",
-   "section_title": "发现火情：喊、按、打、报",
-   "scene": "阿杰大声提醒同伴，按下墙上报警按钮",
-   "prompt_en": "The young male student calls out to colleagues and presses a manual fire alarm button on the wall.",
-   "narration": "大声呼喊，按下火灾报警按钮。",
+   "section_title": "酒精消毒后，等干了再点火",
+   "scene": "双手搓着酒精消毒液伸向火焰的图标被打叉",
+   "prompt_en": "An icon of hands wet with alcohol hand rub reaching toward a flame, crossed out with a red X. No people.",
+   "narration": "手上酒精没干，别靠近火焰。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -651,42 +653,36 @@
    "shot": 49,
    "seconds": 5,
    "section": "S2",
-   "section_title": "发现火情：喊、按、打、报",
-   "scene": "手机屏幕空白，旁边写着火警号码",
-   "prompt_en": "A hand holding a mobile phone with a blank screen, a fire icon beside it. No people.",
-   "narration": "拨打119，说清地点和着火物。",
+   "section_title": "酒精消毒后，等干了再点火",
+   "scene": "小研摸了摸干透的台面，再点燃酒精灯",
+   "prompt_en": "The female graduate student checks that the bench surface is completely dry, then lights the spirit lamp.",
+   "narration": "等酒精挥发干了，再点灯。",
    "overlay": [],
-   "labels": [
-    "119"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 50,
    "seconds": 5,
    "section": "S2",
-   "section_title": "发现火情：喊、按、打、报",
-   "scene": "三层箭头：实验室负责人、学院、保卫处",
-   "prompt_en": "Three stacked arrows pointing up: a lab supervisor icon, a department icon, and a security office icon. No people.",
-   "narration": "同时报告负责人、学院和保卫处。",
+   "section_title": "酒精消毒后，等干了再点火",
+   "scene": "向燃着的酒精灯里添酒精的图标被打叉",
+   "prompt_en": "An icon of alcohol being poured into a burning spirit lamp, crossed out with a red X. No people.",
+   "narration": "给酒精灯添酒精，先熄灭、等冷却。",
    "overlay": [],
-   "labels": [
-    "负责人",
-    "学院",
-    "保卫处"
-   ],
+   "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 51,
    "seconds": 5,
    "section": "S3",
-   "section_title": "小火会扑救，大火快撤离",
-   "scene": "垃圾桶里的小火苗",
-   "prompt_en": "A small flame just starting in a waste bin. No people.",
-   "narration": "刚起的小火，会用就扑。",
+   "section_title": "防火门常闭，不用东西顶住",
+   "scene": "楼道里的防火门关着，门上有空白标识",
+   "prompt_en": "A closed fire door in a corridor with a blank sign on it. No people.",
+   "narration": "楼道里的防火门，平时要关着。",
    "overlay": [
-    "小火会扑救，大火快撤离"
+    "防火门常闭，不用东西顶住"
    ],
    "labels": [],
    "mode": "voiceover"
@@ -695,10 +691,10 @@
    "shot": 52,
    "seconds": 5,
    "section": "S3",
-   "section_title": "小火会扑救，大火快撤离",
-   "scene": "小研站在出口一侧，手持灭火器对准火焰根部",
-   "prompt_en": "The female graduate student stands with her back to the exit door and aims a fire extinguisher at the base of a small flame.",
-   "narration": "背对出口，对准火焰根部。",
+   "section_title": "防火门常闭，不用东西顶住",
+   "scene": "防火门被纸箱顶住敞开，被打叉",
+   "prompt_en": "A fire door propped wide open with a cardboard box, crossed out with a red X. No people.",
+   "narration": "不能用纸箱、楔子把它顶开。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -707,10 +703,10 @@
    "shot": 53,
    "seconds": 5,
    "section": "S3",
-   "section_title": "小火会扑救，大火快撤离",
-   "scene": "火势蔓延到天花板的图标，箭头指向出口",
-   "prompt_en": "An icon of flames reaching the ceiling, with a big arrow pointing to an emergency exit sign. No people.",
-   "narration": "火大了、烟浓了，不要硬扑。",
+   "section_title": "防火门常闭，不用东西顶住",
+   "scene": "浓烟被关着的防火门挡在一侧，人形图标在另一侧安全通过",
+   "prompt_en": "Thick smoke is held back on one side of a closed fire door while person icons walk safely on the other side. No people.",
+   "narration": "关着的门，能把烟火挡在外面。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -719,10 +715,10 @@
    "shot": 54,
    "seconds": 5,
    "section": "S3",
-   "section_title": "小火会扑救，大火快撤离",
-   "scene": "人员沿楼梯撤离，电梯图标被打叉",
-   "prompt_en": "Person icons walk down a stairway following exit arrows; an elevator icon is crossed out with a red X. No people.",
-   "narration": "立即撤离，走楼梯，不乘电梯。",
+   "section_title": "防火门常闭，不用东西顶住",
+   "scene": "阿杰指着防火门上方坏掉的闭门器，向王老师报告",
+   "prompt_en": "The young male student points at a broken door closer above a fire door while telling the safety administrator.",
+   "narration": "门关不上了，及时报修。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -884,9 +880,9 @@
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "小火灭火器、大火出口箭头",
-   "prompt_en": "A small flame with a fire extinguisher, and a big flame with an exit arrow. No people.",
-   "narration": "小火会扑，大火快撤。",
+   "scene": "干透的台面上点着酒精灯，旁边是关着的防火门",
+   "prompt_en": "A spirit lamp burning on a dry bench, next to a closed fire door. No people.",
+   "narration": "消毒等干再点火，防火门要常闭。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
