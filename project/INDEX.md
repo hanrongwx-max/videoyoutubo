@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 295 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 296 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
@@ -8,17 +8,17 @@
 |---|---|---|
 | Microbiology Biosafety | 52 / 59 | 3 / 48 |
 | BIORISK MANAGEMENT | 47 / 47 | 13 / 47 |
-| CDC Laboratory Safety Series | 23 / 23 | 12 / 23 |
+| CDC Laboratory Safety Series | 23 / 23 | 13 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 7 / 23 |
 | Lab Safety Training Series | 13 / 13 | 4 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 4 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 5 / 12 |
 | ACS Hazard Communication & Safety | 10 / 10 | 4 / 10 |
 | Animal & Plant Biotech Safety | 10 / 10 | 8 / 10 |
-| Electrical Safety Series | 9 / 25 | 6 / 6 |
+| Electrical Safety Series | 10 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 3 / 9 |
-| Industrial Gas & Cryogenic Equipment | 9 / 9 | 4 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 | 5 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -191,6 +191,7 @@
 | CDC Laboratory Safety Series | 17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected | 国内版 | 通风柜的气流会被什么影响（国内版） | 49 | 4:05 | 16 / 2 | [剧本](<CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/17_Fundamentals of Chemical Fume Hood Safety How Airflow is Affected（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 18_Fundamentals of Chemical Fume Hood Safety Good Work Practices | 原著版 | 通风柜的良好操作习惯 | 47 | 3:55 | 19 / 0 | [剧本](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices/script.md>) |
 | CDC Laboratory Safety Series | 18_Fundamentals of Chemical Fume Hood Safety Good Work Practices | 国内版 | 通风柜的良好操作习惯（国内版） | 58 | 4:50 | 19 / 3 | [剧本](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/18_Fundamentals of Chemical Fume Hood Safety Good Work Practices（国内版）/审查报告.md>) |
+| CDC Laboratory Safety Series | 19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction | 原著版 | 甲醛和戊二醛的安全使用 | 31 | 2:35 | 10 / 0 | [剧本](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction/script.md>) |
 | CDC Laboratory Safety Series | 19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction | 国内版 | 甲醛和戊二醛的安全使用（国内版） | 48 | 4:00 | 10 / 5 | [剧本](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/19_Fundamentals of Working Safely with Formaldehyde and Glutaraldehyde Introduction（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat | 国内版 | 给气瓶装上减压器（国内版） | 39 | 3:15 | 11 / 4 | [剧本](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/20_Fundamentals of Handling Compressed Gas Cylinders Safely – Attaching the Regulat（国内版）/审查报告.md>) |
 | CDC Laboratory Safety Series | 21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre | 国内版 | 开瓶阀与调压力（国内版） | 36 | 3:00 | 10 / 4 | [剧本](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/script.md>) · [审查](<CDC Laboratory Safety Series/21_Fundamentals of Handling Compressed Gas Cylinders Safely – Setting Regulator Pre（国内版）/审查报告.md>) |
@@ -290,6 +291,7 @@
 | Industrial Gas & Cryogenic Equipment | 03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained | 国内版 | 液氮杜瓦罐的安全使用（国内版） | 44 | 3:40 | 6 / 7 | [剧本](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/03_EquiTips IC Biomedical Lab Dewars & Liquid Nitrogen Storage Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 原著版 | 低温截止阀的安全操作 | 25 | 2:05 | 7 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 国内版 | 低温截止阀的安全操作（国内版） | 40 | 3:20 | 7 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 原著版 | 空温式汽化器与储罐站安全 | 24 | 2:00 | 5 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 国内版 | 空温式汽化器与储罐站安全（国内版） | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 国内版 | 减压阀与背压阀的安全使用（国内版） | 41 | 3:25 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 国内版 | 高压阀门与接头的安全使用（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/审查报告.md>) |
