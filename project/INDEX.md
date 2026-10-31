@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 51 / 59 |
+| Microbiology Biosafety | 59 / 59 | 52 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -726,6 +726,7 @@
 | Microbiology Biosafety | 50_How is Biorisk management audited or evaluated biorisk management biosafety tren | 国内版 | 生物风险管理，怎么检查好不好（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/script.md>) · [审查](<Microbiology Biosafety/50_How is Biorisk management audited or evaluated biorisk management biosafety tren（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 原著版 | 危险物品怎么分类：九大类与象形图 | 28 | 2:20 | 13 / 0 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf/script.md>) |
 | Microbiology Biosafety | 51_What are hazardous materials & how are they classified trending hazardous biosaf | 国内版 | 危险物品怎么分类：九大类与象形图（国内版） | 53 | 4:25 | 13 / 3 | [剧本](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf（国内版）/script.md>) · [审查](<Microbiology Biosafety/51_What are hazardous materials & how are they classified trending hazardous biosaf（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 原著版 | 危险物品伤人也伤环境 | 32 | 2:40 | 15 / 0 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr/script.md>) |
 | Microbiology Biosafety | 52_What are the main risks of hazardous materials for humans and the environment tr | 国内版 | 危险物品伤人也伤环境（国内版） | 51 | 4:15 | 15 / 3 | [剧本](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr（国内版）/script.md>) · [审查](<Microbiology Biosafety/52_What are the main risks of hazardous materials for humans and the environment tr（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 53_What are common examples of hazardous materials in daily life trending question | 国内版 | 身边的危险物品，和吃油的微生物（国内版） | 48 | 4:00 | 10 / 4 | [剧本](<Microbiology Biosafety/53_What are common examples of hazardous materials in daily life trending question（国内版）/script.md>) · [审查](<Microbiology Biosafety/53_What are common examples of hazardous materials in daily life trending question（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh | 国内版 | 生物统计：让微生物数据说真话（国内版） | 50 | 4:10 | 5 / 4 | [剧本](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/script.md>) · [审查](<Microbiology Biosafety/54_Why is Biostatistics Important in Microbiology trending microbiology raqbamicroh（国内版）/审查报告.md>) |
