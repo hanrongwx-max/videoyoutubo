@@ -156,8 +156,8 @@ SHOTS = [
 ("K13", "病毒载体和基因编辑图标，金字塔箭头上移",
  "An icon of a viral vector carrying a gene segment next to a pyramid with an upward arrow. No people.",
  "用病毒载体做基因编辑，", "基因改造操作，可能要升级"),
-("K13", "空白审批表盖上印章",
- "A blank approval form receiving a stamp. No people.",
+("K13", "评估卡被移到更高一级的台阶上",
+ "An assessment card moves up to a higher step on the four-step staircase. No people.",
  "可能就要提高防护级别。", "", ["提高级别"]),
 # K14
 ("K14", "老李拿着空白平面图核对实验室",
