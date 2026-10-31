@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 25 / 59 |
+| Microbiology Biosafety | 59 / 59 | 26 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -672,6 +672,7 @@
 | Microbiology Biosafety | 23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology | 国内版 | 化学品的说明书：SDS 是什么（上）（国内版） | 123 | 10:15 | 35 / 6 | [剧本](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/23_What is SDS SDS purpose SDS section part1 laboratorytechniques sds microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf | 原著版 | 看不见的危险：微生物实验室安全用电 | 32 | 2:40 | 7 / 0 | [剧本](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf/script.md>) |
 | Microbiology Biosafety | 24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf | 国内版 | 看不见的危险：微生物实验室安全用电（国内版） | 60 | 5:00 | 7 / 6 | [剧本](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf（国内版）/script.md>) · [审查](<Microbiology Biosafety/24_Electrical Safety Safety measures in microbiology labs laboratory electrical saf（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 原著版 | 读懂安全技术说明书（下）：第8到15部分 | 80 | 6:40 | 28 / 0 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology/script.md>) |
 | Microbiology Biosafety | 25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology | 国内版 | 读懂安全技术说明书（下）：第8到15部分（国内版） | 100 | 8:20 | 28 / 4 | [剧本](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/25_Breakdown of SDS MSDS section safety data sheets part2 laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology | 国内版 | 微生物实验室的生物安全措施（国内版） | 43 | 3:35 | 6 / 2 | [剧本](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/26_Biosafety Safety measures in microbiology labs biosafety laboratory microbiology（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi | 国内版 | 微生物实验室的应急准备（国内版） | 45 | 3:45 | 7 / 3 | [剧本](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/script.md>) · [审查](<Microbiology Biosafety/27_Emergency Preparedness, Safety measures in microbiology labs, laboratory microbi（国内版）/审查报告.md>) |
