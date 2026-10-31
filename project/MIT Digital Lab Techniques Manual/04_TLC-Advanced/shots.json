@@ -1,0 +1,945 @@
+{
+ "id": "04_TLC-Advanced",
+ "edition": "单一版",
+ "series": "MIT Digital Lab Techniques Manual",
+ "title": "薄层色谱进阶技巧",
+ "seconds": 340,
+ "source_doc": "course/MIT Digital Lab Techniques Manual/04_TLC-Advanced.md",
+ "author_source": "project/MIT Digital Lab Techniques Manual/04_TLC-Advanced/src.py",
+ "points": {
+  "K1": "三项进阶技巧",
+  "K2": "基础篇回顾",
+  "K3": "本课内容",
+  "K4": "塑料背衬板的优点",
+  "K5": "玻璃板更耐热、分得更好",
+  "K6": "大玻璃板要自己切",
+  "K7": "玻璃刀划痕再掰断",
+  "K8": "先切成长条",
+  "K9": "吸附面朝下，先标线",
+  "K10": "一次划透，借台边掰",
+  "K11": "切成小板备用",
+  "K12": "自拉点样管更细更省",
+  "K13": "火焰中加热中部",
+  "K14": "移出火焰再拉伸",
+  "K15": "掰断得两支点样管",
+  "K16": "滴管拉制要跟有经验的人学",
+  "K17": "显色工作台",
+  "K18": "先展开并挥干溶剂",
+  "K19": "浸染、沥干、擦背面",
+  "K20": "加热显色，别烤黑",
+  "K21": "常用显色剂",
+  "K22": "染色是破坏性的：先看紫外",
+  "K23": "多试几种显色剂",
+  "K24": "演示不能代替讲义",
+  "S1": "切玻璃防割伤、防碎屑",
+  "S2": "本生灯等明火的安全使用",
+  "S3": "热玻璃防烫伤",
+  "S4": "显色剂的腐蚀与氧化危害",
+  "S5": "热风枪的安全使用"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台旁，台上有一块大玻璃板、一盏燃气灯和几瓶显色剂，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a lab bench with a large glass plate, an unlit gas burner and a few reagent jars with blank labels, and waves at the camera.",
+   "narration": "这一课讲薄层色谱的进阶技巧。",
+   "overlay": [
+    "薄层色谱进阶技巧"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "玻璃刀、细毛细管、显色瓶三个图标",
+   "prompt_en": "Three icons in a row: a glass cutter, a thin glass capillary, and a reagent jar with a plate dipping in. No people.",
+   "narration": "切板、拉管、染色，三样本领。",
+   "overlay": [],
+   "labels": [
+    "切玻璃板",
+    "拉点样管",
+    "显色剂染色"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰穿着T恤、没戴护目镜，正要徒手掰一块大玻璃板",
+   "prompt_en": "The young male student in a plain T-shirt, without goggles or a lab coat, is about to snap a large glass plate with bare hands.",
+   "narration": "阿杰进了课题组，急着自己切板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "玻璃碎屑飞溅、手指割伤的图标被红叉划掉",
+   "prompt_en": "An icon of glass chips flying and a cut finger, crossed out with a red X. No people.",
+   "narration": "没防护，碎玻璃可不长眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给阿杰实验服、护目镜和防割手套",
+   "prompt_en": "The female graduate student hands the young male student a lab coat, safety goggles and cut-resistant gloves.",
+   "narration": "小研说：先穿戴好，再学手艺。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前点头",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and nods.",
+   "narration": "进阶技巧，安全也要进阶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三项进阶技巧",
+   "scene": "欣欣站在研究实验室的台面旁，举起一块玻璃薄层板",
+   "prompt_en": "The panda mascot stands at a research lab bench and holds up a glass-backed thin plate.",
+   "narration": "在研究实验室，这些技巧很常用。",
+   "overlay": [
+    "三项进阶技巧"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三项进阶技巧",
+   "scene": "紫外灯和显色板两个图标",
+   "prompt_en": "Icons of a UV lamp and a stained plate with dark spots. No people.",
+   "narration": "除了紫外灯，还要会用显色剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "基础篇回顾",
+   "scene": "五个基础步骤图标依次亮起",
+   "prompt_en": "Five basic step icons light up one by one: a jar, a pencil line, a plate in a jar, a lamp, a ruler. No people.",
+   "narration": "基础篇学了展开、点样、显色和计算。",
+   "overlay": [
+    "基础篇回顾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "本课内容",
+   "scene": "三张卡片：大板切小板、毛细管变细、板子浸入瓶中",
+   "prompt_en": "Three cards: a big plate divided into small ones, a capillary narrowing in the middle, a plate dipping into a jar. No people.",
+   "narration": "这次学切板、拉管和染色。",
+   "overlay": [
+    "本课内容"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "塑料背衬板的优点",
+   "scene": "一叠塑料背衬板和一把剪刀",
+   "prompt_en": "A stack of plastic-backed thin plates and a pair of scissors. No people.",
+   "narration": "塑料板便宜，大多已经切好。",
+   "overlay": [
+    "塑料背衬板的优点"
+   ],
+   "labels": [
+    "便宜",
+    "多已切好"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "塑料背衬板的优点",
+   "scene": "剪刀剪开塑料板",
+   "prompt_en": "Scissors cut a plastic-backed plate into a smaller piece. No people.",
+   "narration": "没切好，用剪刀剪就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "玻璃板更耐热、分得更好",
+   "scene": "玻璃板在热源上方不变形，塑料板卷曲",
+   "prompt_en": "A glass-backed plate stays flat above a heat icon while a plastic plate curls up. No people.",
+   "narration": "玻璃板更耐热，染色加热不怕。",
+   "overlay": [
+    "玻璃板更耐热、分得更好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "玻璃板更耐热、分得更好",
+   "scene": "玻璃板上的斑点更清晰",
+   "prompt_en": "A glass plate with sharp, well-separated spots, with a green check. No people.",
+   "narration": "分离效果也常常更好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "大玻璃板要自己切",
+   "scene": "一块大方形玻璃板，边上标尺寸",
+   "prompt_en": "A large square glass plate with a measuring arrow along one edge. No people.",
+   "narration": "玻璃板通常买来是大方板。",
+   "overlay": [
+    "大玻璃板要自己切"
+   ],
+   "labels": [
+    "约20×20厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "大玻璃板要自己切",
+   "scene": "大板分成许多小格",
+   "prompt_en": "The large plate is divided by lines into many small rectangles. No people.",
+   "narration": "一块大板，能切出几十块小板。",
+   "overlay": [],
+   "labels": [
+    "40～60块",
+    "长约5厘米",
+    "宽1～2厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃刀划痕再掰断",
+   "scene": "一把玻璃刀特写",
+   "prompt_en": "Close-up of a glass cutter with an orange handle and a small cutting wheel. No people.",
+   "narration": "切玻璃是门手艺，要多练。",
+   "overlay": [
+    "玻璃刀划痕再掰断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃刀划痕再掰断",
+   "scene": "玻璃刀在玻璃上划出一道细痕",
+   "prompt_en": "The glass cutter scores a thin straight line on the glass. No people.",
+   "narration": "先用玻璃刀划痕，再沿线掰断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先切成长条",
+   "scene": "大板上画出三条等距线",
+   "prompt_en": "Three evenly spaced lines drawn across the large plate. No people.",
+   "narration": "先切三刀，分成四根长条。",
+   "overlay": [
+    "先切成长条"
+   ],
+   "labels": [
+    "间隔约5厘米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "吸附面朝下，先标线",
+   "scene": "小研戴护目镜和防割手套，把大板涂层面朝下放在干净台面上",
+   "prompt_en": "The female graduate student, wearing goggles, a lab coat and cut-resistant gloves, lays the large plate coated side down on a clean dry bench.",
+   "narration": "涂层面朝下，放在干净干燥的台面。",
+   "overlay": [
+    "吸附面朝下，先标线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "吸附面朝下，先标线",
+   "scene": "直尺和铅笔在板背面标线",
+   "prompt_en": "A ruler and a pencil mark cutting lines on the back of the plate. No people.",
+   "narration": "用铅笔和直尺标好切线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次划透，借台边掰",
+   "scene": "玻璃刀沿直尺一次划过",
+   "prompt_en": "The glass cutter is drawn along the ruler in one firm sweep. No people.",
+   "narration": "用力一次划过。",
+   "overlay": [
+    "一次划透，借台边掰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次划透，借台边掰",
+   "scene": "来回反复划的图标被打叉",
+   "prompt_en": "An icon of a cutter scoring the same line back and forth many times, crossed out with a red X. No people.",
+   "narration": "反复划，反而掰不直。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "一次划透，借台边掰",
+   "scene": "小研把划痕对准台边，向下轻压掰断",
+   "prompt_en": "The female graduate student lines up the score with the bench edge and presses down to snap the glass cleanly.",
+   "narration": "划痕对准台边，一压就断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "切成小板备用",
+   "scene": "长条再切成一块块小板，整齐码放",
+   "prompt_en": "A long strip is cut into small plates that are stacked neatly in a box. No people.",
+   "narration": "长条再切成小板，备足库存。",
+   "overlay": [
+    "切成小板备用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "自拉点样管更细更省",
+   "scene": "粗细两支毛细管和它们点出的斑点",
+   "prompt_en": "A thick capillary and a thin capillary, each above the spot it makes: a big spot and a tiny spot. No people.",
+   "narration": "自拉的点样管更细，斑点更小。",
+   "overlay": [
+    "自拉点样管更细更省"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "自拉点样管更细更省",
+   "scene": "一块板上整齐排着很多小斑点",
+   "prompt_en": "One plate with many small spots in a neat row, and a coin icon. No people.",
+   "narration": "分得更清，一块板点得更多，更省。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "火焰中加热中部",
+   "scene": "小研在通风柜里，把毛细管中部放在燃气灯蓝色火焰上",
+   "prompt_en": "The female graduate student, wearing goggles and a lab coat, holds the middle of a glass capillary in the blue flame of a gas burner inside a fume hood.",
+   "narration": "毛细管中部放进蓝色火焰。",
+   "overlay": [
+    "火焰中加热中部"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "火焰中加热中部",
+   "scene": "毛细管中部发红变软的示意",
+   "prompt_en": "A diagram of the middle of the capillary glowing and softening. No people.",
+   "narration": "加热到中间开始变软。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "移出火焰再拉伸",
+   "scene": "毛细管移出火焰，两手向外拉，中间变细",
+   "prompt_en": "The capillary is taken out of the flame and pulled apart gently, the middle stretching thin. No people.",
+   "narration": "移出火焰，向两端拉。",
+   "overlay": [
+    "移出火焰再拉伸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "移出火焰再拉伸",
+   "scene": "太冷拉不动和软塌下垂两个图标被打叉",
+   "prompt_en": "Two icons crossed out with red X marks: a stiff capillary that will not stretch, and a sagging droopy one. No people.",
+   "narration": "太冷拉不动，烧太久就软塌了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "掰断得两支点样管",
+   "scene": "细处掰断，得到两支细尖点样管",
+   "prompt_en": "The thin middle is snapped, giving two fine-tipped spotters. No people.",
+   "narration": "从中间掰断，得到两支点样管。",
+   "overlay": [
+    "掰断得两支点样管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滴管拉制要跟有经验的人学",
+   "scene": "一支滴管变成一排细点样管的示意",
+   "prompt_en": "A diagram of one glass dropper turning into a row of many thin spotters. No people.",
+   "narration": "用滴管也能拉出几十支。",
+   "overlay": [
+    "滴管拉制要跟有经验的人学"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滴管拉制要跟有经验的人学",
+   "scene": "老周在旁边指导小研",
+   "prompt_en": "The older man stands beside the female graduate student and guides her at the fume hood.",
+   "narration": "这种方法有风险，要跟有经验的人学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "显色工作台",
+   "scene": "铺锡箔的台面上有紫外灯、几瓶显色剂、纸巾和热风枪",
+   "prompt_en": "A foil-covered bench with a UV lamp, several reagent jars with blank labels, paper towels and a heat gun on a stand. No people.",
+   "narration": "显色台：紫外灯、显色剂、纸巾。",
+   "overlay": [
+    "显色工作台"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "显色工作台",
+   "scene": "热风枪和电热板两个图标",
+   "prompt_en": "Icons of a heat gun and a hot plate. No people.",
+   "narration": "再加一个热风枪或电热板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "先展开并挥干溶剂",
+   "scene": "展开后的板放在纸巾上，溶剂蒸气图标飘散",
+   "prompt_en": "A developed plate rests on a paper towel while faint solvent vapor icons drift away. No people.",
+   "narration": "先照常点样展开，让溶剂挥发干。",
+   "overlay": [
+    "先展开并挥干溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "浸染、沥干、擦背面",
+   "scene": "小研在通风柜里用镊子把板浸入显色剂瓶",
+   "prompt_en": "The female graduate student, wearing goggles and gloves, dips the plate into a reagent jar with tweezers inside a fume hood.",
+   "narration": "把板浸入显色剂。",
+   "overlay": [
+    "浸染、沥干、擦背面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "浸染、沥干、擦背面",
+   "scene": "板提起，液滴流回瓶中；背面在纸巾上擦干",
+   "prompt_en": "The plate is lifted so drops run back into the jar, then its back is wiped on a paper towel. No people.",
+   "narration": "余液流回瓶中，背面在纸巾上擦干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "加热显色，别烤黑",
+   "scene": "板上还看不到斑点，问号图标",
+   "prompt_en": "A plate with no visible spots yet, with a question mark. No people.",
+   "narration": "还没斑点？别着急，要加热。",
+   "overlay": [
+    "加热显色，别烤黑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "加热显色，别烤黑",
+   "scene": "镊子夹板在热风枪出风口上方，斑点渐渐出现",
+   "prompt_en": "Tweezers hold the plate just above the nozzle of a heat gun; dark spots slowly appear. No people.",
+   "narration": "板放在热风口上方，看着斑点出现。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "加热显色，别烤黑",
+   "scene": "整块板烤成黑色，被打叉",
+   "prompt_en": "A plate burnt completely dark, crossed out with a red X. No people.",
+   "narration": "加热太久，整块板会发黑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "常用显色剂",
+   "scene": "三块染色板，颜色各不相同",
+   "prompt_en": "Three stained plates with different background colors and spots. No people.",
+   "narration": "常用显色剂有好几种。",
+   "overlay": [
+    "常用显色剂"
+   ],
+   "labels": [
+    "磷钼酸",
+    "铈钼酸盐",
+    "高锰酸钾"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "染色是破坏性的：先看紫外",
+   "scene": "斑点被显色剂永久改变的图标",
+   "prompt_en": "An icon of a spot changing permanently after staining, with a one-way arrow. No people.",
+   "narration": "染色会和化合物不可逆地反应。",
+   "overlay": [
+    "染色是破坏性的：先看紫外"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "染色是破坏性的：先看紫外",
+   "scene": "先紫外灯、后显色瓶的顺序箭头",
+   "prompt_en": "An arrow showing the order: first a UV lamp icon, then a reagent jar icon. No people.",
+   "narration": "所以染色前，一定先看紫外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "多试几种显色剂",
+   "scene": "同一化合物在三种显色剂里，只有一种显色",
+   "prompt_en": "The same spot on three plates with different stains; only one plate shows the spot, with a green check. No people.",
+   "narration": "不是每种化合物都能被每种剂显色。",
+   "overlay": [
+    "多试几种显色剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "多试几种显色剂",
+   "scene": "小研在本子上记下哪种显色剂有效",
+   "prompt_en": "The female graduate student notes which stain worked in a blank notebook.",
+   "narration": "多试几种，找到合适的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "演示不能代替讲义",
+   "scene": "欣欣手捧空白讲义",
+   "prompt_en": "The panda mascot holds a thick blank lab manual.",
+   "narration": "演示只是预习，讲义一定要读。",
+   "overlay": [
+    "演示不能代替讲义"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "切玻璃防割伤、防碎屑",
+   "scene": "小研戴护目镜和防割手套握玻璃刀",
+   "prompt_en": "The female graduate student wears safety goggles, a lab coat and cut-resistant gloves while holding a glass cutter.",
+   "narration": "切玻璃：护目镜、防割手套、实验服。",
+   "overlay": [
+    "切玻璃防割伤、防碎屑"
+   ],
+   "labels": [
+    "护目镜",
+    "防割手套"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "切玻璃防割伤、防碎屑",
+   "scene": "用小刷子和簸箕清理玻璃碎屑",
+   "prompt_en": "A small brush and dustpan sweep tiny glass chips off the bench. No people.",
+   "narration": "碎屑用刷子扫，别用手抹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "切玻璃防割伤、防碎屑",
+   "scene": "玻璃板锋利的边缘被放大镜圈出",
+   "prompt_en": "A magnifying glass highlights the sharp cut edge of a small glass plate. No people.",
+   "narration": "切口锋利，拿板捏两侧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "本生灯等明火的安全使用",
+   "scene": "燃气灯的胶管被放大镜检查",
+   "prompt_en": "A magnifying glass checks the rubber gas hose of a gas burner for cracks. No people.",
+   "narration": "用燃气灯，先查胶管有无老化。",
+   "overlay": [
+    "本生灯等明火的安全使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "本生灯等明火的安全使用",
+   "scene": "火焰旁的溶剂瓶被打叉",
+   "prompt_en": "A solvent bottle with a flammable pictogram next to an open flame, crossed out with a red X. No people.",
+   "narration": "周围不能有易燃溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "本生灯等明火的安全使用",
+   "scene": "小研守在火焰旁，用完关闭气阀",
+   "prompt_en": "The female graduate student stays beside the flame, then turns off the gas valve when finished.",
+   "narration": "人不离开，用完关火关气阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "热玻璃防烫伤",
+   "scene": "刚拉好的玻璃看起来正常，旁边温度计图标显示很烫",
+   "prompt_en": "A freshly pulled glass capillary that looks normal, next to a hot thermometer icon. No people.",
+   "narration": "刚加热的玻璃，看着不烫其实很烫。",
+   "overlay": [
+    "热玻璃防烫伤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "热玻璃防烫伤",
+   "scene": "热玻璃放在耐热垫上冷却",
+   "prompt_en": "Hot glass pieces are laid on a heat-resistant mat to cool. No people.",
+   "narration": "放在耐热垫上冷却，别直接拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "热玻璃防烫伤",
+   "scene": "手放在流动冷水下冲洗",
+   "prompt_en": "A hand is held under cool running water at a lab sink. No people.",
+   "narration": "烫到了，马上用流动冷水冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "显色剂的腐蚀与氧化危害",
+   "scene": "显色剂瓶上的腐蚀和氧化性象形图",
+   "prompt_en": "A reagent jar with corrosive and oxidizer hazard pictograms on its blank label. No people.",
+   "narration": "显色剂多有腐蚀性，有的是氧化剂。",
+   "overlay": [
+    "显色剂的腐蚀与氧化危害"
+   ],
+   "labels": [
+    "腐蚀",
+    "氧化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "显色剂的腐蚀与氧化危害",
+   "scene": "小研在通风柜里浸染，浸完立即盖上瓶盖",
+   "prompt_en": "The female graduate student dips a plate inside a fume hood and screws the jar lid back on right away.",
+   "narration": "在通风柜里浸染，用完盖好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "显色剂的腐蚀与氧化危害",
+   "scene": "氧化剂和有机溶剂瓶分开放的图标",
+   "prompt_en": "Icons of an oxidizer jar and an organic solvent bottle placed apart on separate shelves. No people.",
+   "narration": "氧化剂和易燃溶剂分开放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "热风枪的安全使用",
+   "scene": "热风枪出风口对着人的图标被打叉",
+   "prompt_en": "An icon of a heat gun nozzle pointed at a person, crossed out with a red X. No people.",
+   "narration": "热风枪出风口很烫，不对着人。",
+   "overlay": [
+    "热风枪的安全使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "热风枪的安全使用",
+   "scene": "热风枪靠近溶剂瓶的图标被打叉",
+   "prompt_en": "An icon of a heat gun blowing toward solvent bottles, crossed out with a red X. No people.",
+   "narration": "也别对着溶剂和显色剂瓶吹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "热风枪的安全使用",
+   "scene": "热风枪放回支架冷却，拔掉插头",
+   "prompt_en": "The heat gun is placed back on its stand to cool and is unplugged. No people.",
+   "narration": "用完放回支架冷却，断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现玻璃板和玻璃刀图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a glass plate and a glass cutter.",
+   "narration": "涂层朝下，一次划透，台边掰断。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "火焰和细毛细管图标",
+   "prompt_en": "Icons of a blue flame and a thin pulled capillary. No people.",
+   "narration": "火中软化，移出拉伸，中间掰断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "紫外灯在前、显色瓶在后的图标",
+   "prompt_en": "Icons of a UV lamp followed by a reagent jar and a heat gun. No people.",
+   "narration": "先看紫外，再浸染加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防割手套、火焰打叉、热风枪支架图标",
+   "prompt_en": "Icons of cut-resistant gloves, a crossed-out flame near solvent, and a heat gun resting on its stand. No people.",
+   "narration": "防割、防火、防烫，样样到位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一块显色清晰的玻璃板，挥手道别",
+   "prompt_en": "The panda mascot holds up a glass plate with clear stained spots and waves goodbye at the camera.",
+   "narration": "手艺练熟，安全记牢，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
