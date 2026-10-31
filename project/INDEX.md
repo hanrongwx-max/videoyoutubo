@@ -1,15 +1,15 @@
 # 卡通教学视频制作目录
 
-已编写 282 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
+已编写 283 / 441 个视频。与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。
 
 ## 各剧集进度
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| BIORISK MANAGEMENT | 47 / 47 | 0 / 42 |
-| Microbiology Biosafety | 44 / 59 | 0 / 25 |
+| BIORISK MANAGEMENT | 47 / 47 | 1 / 42 |
+| Microbiology Biosafety | 45 / 59 | 0 / 25 |
 | CDC Laboratory Safety Series | 23 / 23 | 4 / 23 |
-| Lab Safety Training - Essential Protocols | 23 / 23 | 1 / 23 |
+| Lab Safety Training - Essential Protocols | 23 / 23 | 2 / 23 |
 | Lab Safety Training Series | 13 / 13 | 1 / 13 |
 | Acids, Bases & Solvents Safety | 12 / 12 | 1 / 12 |
 | Fume Hood & Cabinet Protocols | 12 / 12 | 1 / 12 |
@@ -252,6 +252,7 @@
 | Lab Safety Training - Essential Protocols | 10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training | 国内版 | 从设计开始防电气危害（国内版） | 54 | 4:30 | 22 / 4 | [剧本](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/10_Laboratory Safety Designing Safe Labs and Preventing Electrical Hazards Training（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 11_Laboratory Safety Training Handling Hazardous Materials with Confidence | 国内版 | 危险物料：心中有数再动手（国内版） | 31 | 2:35 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/11_Laboratory Safety Training Handling Hazardous Materials with Confidence（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course | 国内版 | 电气危害：认得清，躲得开（国内版） | 33 | 2:45 | 9 / 4 | [剧本](<Lab Safety Training - Essential Protocols/12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/12_Laboratory Safety Comprehensive Electrical Hazard Awareness Training Course（国内版）/审查报告.md>) |
+| Lab Safety Training - Essential Protocols | 13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course | 原著版 | 低温液体：冷得伤人 | 49 | 4:05 | 21 / 0 | [剧本](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course/script.md>) |
 | Lab Safety Training - Essential Protocols | 13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course | 国内版 | 低温液体：冷得伤人（国内版） | 47 | 3:55 | 21 / 4 | [剧本](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/13_Laboratory Safety Safe Handling and Risks of Cryogenic Liquids Training Course（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C | 国内版 | 用电风险，先评估再动手（国内版） | 33 | 2:45 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/14_Laboratory Safety Comprehensive Risk Assessment and Hazard Mitigation Training C（国内版）/审查报告.md>) |
 | Lab Safety Training - Essential Protocols | 15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course | 国内版 | 认识压缩气体的危害（国内版） | 56 | 4:40 | 12 / 4 | [剧本](<Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（国内版）/script.md>) · [审查](<Lab Safety Training - Essential Protocols/15_Laboratory Safety Managing Compressed Gas and Cryogenic Hazards Training Course（国内版）/审查报告.md>) |
@@ -341,6 +342,7 @@
 | Microbiology Biosafety | 36_Which organisms are handled at each biosafety level Biosafety biosafety levels l | 单一版 | 哪一级实验室，操作哪类微生物 | 67 | 5:35 | 15 / 4 | [剧本](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/script.md>) · [审查](<Microbiology Biosafety/36_Which organisms are handled at each biosafety level Biosafety biosafety levels l/审查报告.md>) |
 | Microbiology Biosafety | 38_Who sets the biosafety level standards Biosafety levels microbiology trending | 国内版 | 谁来定规矩：生物安全等级的标准与审批（国内版） | 72 | 6:00 | 17 / 3 | [剧本](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/script.md>) · [审查](<Microbiology Biosafety/38_Who sets the biosafety level standards Biosafety levels microbiology trending（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 39_What type of training is required for working in each BSL Biosafety levels biosa | 单一版 | 一级到四级：各级实验室要学什么 | 67 | 5:35 | 21 / 3 | [剧本](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/script.md>) · [审查](<Microbiology Biosafety/39_What type of training is required for working in each BSL Biosafety levels biosa/审查报告.md>) |
+| Microbiology Biosafety | 40_How do you determine the biosafety level for a new microorganism or experiment b | 单一版 | 怎么定级别：新微生物和新实验的风险评估 | 70 | 5:50 | 18 / 3 | [剧本](<Microbiology Biosafety/40_How do you determine the biosafety level for a new microorganism or experiment b/script.md>) |
 | Microbiology Biosafety | 41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora | 国内版 | 生物风险管理是什么（国内版） | 60 | 5:00 | 18 / 3 | [剧本](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/script.md>) · [审查](<Microbiology Biosafety/41_What is Biorisk Management Key component Importance Biosafety Biosecurity labora（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b | 单一版 | 危害组与防护级别：别把顺序记反 | 49 | 4:05 | 10 / 4 | [剧本](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/script.md>) · [审查](<Microbiology Biosafety/42_What are the Risk Groups and how do they relate to Biosafety Levels risk group b/审查报告.md>) |
 | Microbiology Biosafety | 43_How do you perform a Biorisk assessment biorisk assessment biosafety trending | 单一版 | 生物风险评估六步走 | 43 | 3:35 | 7 / 3 | [剧本](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/script.md>) · [审查](<Microbiology Biosafety/43_How do you perform a Biorisk assessment biorisk assessment biosafety trending/审查报告.md>) |
