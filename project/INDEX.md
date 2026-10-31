@@ -1,6 +1,6 @@
 # 卡通教学视频制作目录
 
-已编写 227 / 441 个视频。
+已编写 228 / 441 个视频。
 
 ## 各剧集进度
 
@@ -26,11 +26,11 @@
 | Laboratory Equipment Safety Series | 7 / 7 |
 | Electrical Safety Series | 6 / 25 |
 | MIT Digital Lab Techniques Manual | 1 / 17 |
+| Microbiology Biosafety | 1 / 59 |
 | Basic Electrical Engineering Lab | 0 / 23 |
 | Cleanroom & Equipment Safety | 0 / 33 |
 | Laboratory Ergonomics & RSI | 0 / 36 |
 | Laser Maintenance Group Safety | 0 / 17 |
-| Microbiology Biosafety | 0 / 59 |
 
 ## 已编写视频
 
@@ -248,6 +248,7 @@
 | Laser Equipment & Safety Training | 07_Laser Cutter 7 Wrap Up | 激光切割机：考核、授权与预约 | 52 | 4:20 | 13 / 3 | [剧本](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/script.md>) · [审查](<Laser Equipment & Safety Training/07_Laser Cutter 7 Wrap Up/审查报告.md>) |
 | Laser Equipment & Safety Training | 08_Laser Cutter 6.5 Updates | 激光切割机：规程更新须知 | 35 | 2:55 | 6 / 4 | [剧本](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/script.md>) · [审查](<Laser Equipment & Safety Training/08_Laser Cutter 6.5 Updates/审查报告.md>) |
 | MIT Digital Lab Techniques Manual | 14_Buffers and pH Meter | 缓冲液配制与pH计使用 | 114 | 9:30 | 15 / 7 | [剧本](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/script.md>) · [审查](<MIT Digital Lab Techniques Manual/14_Buffers and pH Meter/审查报告.md>) |
+| Microbiology Biosafety | 01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic | 生物安全第一课：防护与风险评估 | 56 | 4:40 | 13 / 3 | [剧本](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/script.md>) · [审查](<Microbiology Biosafety/01_What is BIOSAFETY Principles of Biosafety Risk Assessment Steps, ARHMicroHub mic/审查报告.md>) |
 | Photonics & Laser Safety Series | 01_1. Nature and Basic Properties of Light | 光是什么：光的本质与基本性质 | 95 | 7:55 | 21 / 5 | [剧本](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/01_1. Nature and Basic Properties of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 02_2. Wave Behavior of Light | 光的波动：反射、折射、干涉与偏振 | 95 | 7:55 | 22 / 5 | [剧本](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/script.md>) · [审查](<Photonics & Laser Safety Series/02_2. Wave Behavior of Light/审查报告.md>) |
 | Photonics & Laser Safety Series | 03_3. Particle Properties of Light | 光的粒子性：光子、光谱与热辐射 | 109 | 9:05 | 20 / 4 | [剧本](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/script.md>) · [审查](<Photonics & Laser Safety Series/03_3. Particle Properties of Light/审查报告.md>) |
