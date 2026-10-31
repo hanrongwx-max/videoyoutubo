@@ -7,7 +7,7 @@
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
 | Microbiology Biosafety | 54 / 59 | 4 / 48 |
-| BIORISK MANAGEMENT | 47 / 47 | 17 / 47 |
+| BIORISK MANAGEMENT | 47 / 47 | 18 / 47 |
 | CDC Laboratory Safety Series | 23 / 23 | 15 / 23 |
 | Lab Safety Training - Essential Protocols | 23 / 23 | 9 / 23 |
 | Lab Safety Training Series | 13 / 13 | 5 / 13 |
@@ -18,7 +18,7 @@
 | Electrical Safety Series | 10 / 25 | 6 / 6 |
 | Fire Safety & Extinguisher Training | 9 / 9 | 4 / 9 |
 | Health Physics & Nuclear Medicine | 9 / 9 | 3 / 9 |
-| Industrial Gas & Cryogenic Equipment | 9 / 9 | 5 / 9 |
+| Industrial Gas & Cryogenic Equipment | 9 / 9 | 6 / 9 |
 | RSO Training Series | 9 / 9 | 4 / 9 |
 | General Lab Safety Practices | 8 / 8 | 8 / 8 |
 | Laser Equipment & Safety Training | 8 / 8 | 8 / 8 |
@@ -143,6 +143,7 @@
 | BIORISK MANAGEMENT | 26_BIOLOGICAL SAFETY CABINET OPERATION | 国内版 | 生物安全柜，这样操作（国内版） | 72 | 6:00 | 16 / 4 | [剧本](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/26_BIOLOGICAL SAFETY CABINET OPERATION（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 原著版 | 医院送来的样本 | 55 | 4:35 | 18 / 0 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES/script.md>) |
 | BIORISK MANAGEMENT | 27_BIORISK MANAGEMENT HOSPITAL SAMPLES | 国内版 | 医院送来的样本（国内版） | 70 | 5:50 | 18 / 4 | [剧本](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/27_BIORISK MANAGEMENT HOSPITAL SAMPLES（国内版）/审查报告.md>) |
+| BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 原著版 | 安全柜里的双层装袋 | 31 | 2:35 | 8 / 0 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL/script.md>) |
 | BIORISK MANAGEMENT | 28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL | 国内版 | 安全柜里的双层装袋（国内版） | 50 | 4:10 | 8 / 4 | [剧本](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/28_BIOLOGICAL SAFETY CABINETS WASTE DISPOSAL（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT | 国内版 | 生物风险管理学习路线（国内版） | 49 | 4:05 | 10 / 3 | [剧本](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/29_MOOC4DEV INTRODUCTION TO BIORISK MANAGEMENT（国内版）/审查报告.md>) |
 | BIORISK MANAGEMENT | 30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse) | 国内版 | 把生物安全管成一个体系（国内版） | 118 | 9:50 | 30 / 3 | [剧本](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（国内版）/script.md>) · [审查](<BIORISK MANAGEMENT/30_BIORISK MANAGEMENT SYSTEM FULL LECTURE (CC-BY)(Free for Reuse)（国内版）/审查报告.md>) |
@@ -303,6 +304,7 @@
 | Industrial Gas & Cryogenic Equipment | 04_EquiTips RegO SK Series Cryogenic Globe Valves Explained | 国内版 | 低温截止阀的安全操作（国内版） | 40 | 3:20 | 7 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/04_EquiTips RegO SK Series Cryogenic Globe Valves Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 原著版 | 空温式汽化器与储罐站安全 | 24 | 2:00 | 5 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 05_EquiTips FIBA FinnCo Ambient Vaporizers Explained | 国内版 | 空温式汽化器与储罐站安全（国内版） | 38 | 3:10 | 5 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/05_EquiTips FIBA FinnCo Ambient Vaporizers Explained（国内版）/审查报告.md>) |
+| Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 原著版 | 减压阀与背压阀的安全使用 | 25 | 2:05 | 6 / 0 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained/script.md>) |
 | Industrial Gas & Cryogenic Equipment | 06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained | 国内版 | 减压阀与背压阀的安全使用（国内版） | 41 | 3:25 | 6 / 6 | [剧本](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/06_EquiTips Emerson Cash Valve Pressure Regulators & Back Pressure Valves Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained | 国内版 | 高压阀门与接头的安全使用（国内版） | 40 | 3:20 | 8 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/07_EquiTips CPV Manufacturing High Pressure Valves & Fittings Explained（国内版）/审查报告.md>) |
 | Industrial Gas & Cryogenic Equipment | 08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications | 国内版 | 二氧化碳与干冰的安全使用（国内版） | 38 | 3:10 | 7 / 5 | [剧本](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/script.md>) · [审查](<Industrial Gas & Cryogenic Equipment/08_EquiTips CO₂ Understanding Carbon Dioxide and Its Applications（国内版）/审查报告.md>) |

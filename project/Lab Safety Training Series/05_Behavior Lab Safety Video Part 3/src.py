@@ -1,0 +1,173 @@
+# 05_Behavior Lab Safety Video Part 3 卡通剧本作者源（原著版）
+# 与剧集「Chemical Spillage & Response」的 03_Behavior Lab Safety Video Part 3 是同一视频（同一链接），原著版剧本与之相同
+# 原片为实验室安全系列第 3 集（行为规范）：完全照原片，知识点 K1–K17，不本土化、不补充
+# 保留原片做法：溢洒查 SDS 后清理并放警示牌、用乙醇或异丙醇擦台面、报告主管；原片的反面示范镜头照原样呈现
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "实验室里的行为规范",
+    "edition": "原著版",
+    "points": {
+        "K1": "尊重实验室，尊重同伴",
+        "K2": "按书面规程一步步做",
+        "K3": "不吃不喝，不化妆",
+        "K4": "入口和沾染的风险",
+        "K5": "不单独做实验",
+        "K6": "杂乱就是危险",
+        "K7": "地面不留杂物",
+        "K8": "试剂瓶不放地上",
+        "K9": "溢洒：先查SDS，再清理",
+        "K10": "台面整洁，只放需要的",
+        "K11": "东西别放台边",
+        "K12": "不徒手捡碎玻璃",
+        "K13": "碎玻璃进专用容器",
+        "K14": "洗净晾干玻璃器皿",
+        "K15": "试剂归位，擦净台面",
+        "K16": "发现隐患立即报告",
+        "K17": "从自己的行为做起",
+    },
+    "avoid": ["BioNetwork", "Bio Network", "NC Community Colleges", "North Carolina", "Learning Solutions",
+              "LSTeam", "Fisherbrand", "Fisher", "Ohaus", "Mettler", "Denver Instrument", "Accumet",
+              "Marie Knight", "Tristan Schober"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在实验台前，向镜头挥手",
+ "The panda mascot stands in front of a lab bench and waves at the camera.",
+ "安全系列第三课：实验室里的行为。", "实验室里的行为规范"),
+("开场", "俯瞰一间忙碌的实验室",
+ "A high-angle view of a busy teaching lab with people working at several benches.",
+ "看看大家在实验室里该怎么做。"),
+# 情景
+("情景", "阿杰走进实验室，台面上瓶瓶罐罐堆得满满",
+ "The young male student walks into the lab toward a bench crowded with bottles and equipment.",
+ "阿杰今天要在这张台子上做实验。"),
+("情景", "小研走过来，示意他先听欣欣讲规矩",
+ "The female graduate student walks over and gestures for him to listen first.",
+ "小研说：动手前，先把规矩弄清楚。"),
+# K1
+("K1", "欣欣在实验室里出镜，双手比出一个大圆",
+ "The panda mascot talks to the camera in the lab and spreads both arms in a big circle gesture.",
+ "尊重实验室，也尊重你的同事。", "尊重实验室，尊重同伴"),
+("K1", "小研、阿杰和老周在实验台旁友好交谈",
+ "The female graduate student, the young male student and the older man talk together at a lab bench.",
+ "你的行为，决定实验室对大家是否安全。"),
+# K2
+("K2", "小研在一排天平旁操作酸度计",
+ "The female graduate student operates a pH meter next to a row of balances with blank name plates.",
+ "首先，要按书面的标准操作规程。", "按书面规程一步步做"),
+("K2", "小研一边看空白规程文件一边操作",
+ "The female graduate student holds a blank standard operating procedure document and follows it while working.",
+ "一步一步照着做。"),
+# K3
+("K3", "小研戴手套操作小型离心机",
+ "The female graduate student, wearing gloves, operates a small benchtop centrifuge.",
+ "在实验室里，绝不吃东西、喝水，", "不吃不喝，不化妆"),
+("K3", "小研戴着手套涂唇膏",
+ "The female graduate student, still wearing lab gloves, applies lipstick beside a stirrer.",
+ "不嚼口香糖，也不化妆。"),
+# K4
+("K4", "阿杰戴着手套和护目镜举起水杯喝水",
+ "The young male student, wearing gloves and goggles, raises a drinking cup to his mouth.",
+ "这样可能沾污皮肤，吃进有毒化学品。", "入口和沾染的风险"),
+("K4", "欣欣在实验室里出镜，摇头",
+ "The panda mascot talks to the camera in the lab and shakes its head.",
+ "还可能污染实验，毁掉结果。"),
+# K5
+("K5", "小研独自在天平罩旁操作，实验室里没有别人",
+ "The female graduate student works alone at a balance enclosure in an otherwise empty lab.",
+ "绝不单独工作。", "不单独做实验"),
+("K5", "老周走进来，两人同在实验室，彼此能看见",
+ "The older man walks in, and the two of them work within sight of each other.",
+ "至少还有一人在场，紧急时互相帮忙。"),
+# K6
+("K6", "欣欣在实验室里出镜，指向身后",
+ "The panda mascot talks to the camera and points behind itself to the lab.",
+ "良好内务，也能预防事故。", "杂乱就是危险"),
+("K6", "乱糟糟的实验室图标上方亮起警示三角",
+ "An icon of a messy lab room with clutter everywhere and a yellow warning triangle above it. No people.",
+ "杂乱的实验室，就是危险的实验室。"),
+# K7
+("K7", "地上一团纸，穿工作鞋的脚走过",
+ "A crumpled paper towel on the lab floor as a foot in a work shoe walks past. No faces.",
+ "清掉地上会让人滑倒绊倒的杂物。", "地面不留杂物"),
+# K8
+("K8", "小研从地上提起一桶试剂放回台面",
+ "The female graduate student lifts a reagent jug from the floor and puts it back on the bench.",
+ "绝不把化学品瓶放在地上，", "试剂瓶不放地上"),
+("K8", "地上放着两瓶有色溶液，阿杰蹲下拿取",
+ "Two bottles of colored solution sit on the floor, and the young male student crouches to pick them up.",
+ "哪怕只是临时放一下，也不行。"),
+# K9
+("K9", "小研翻开一份空白的安全技术说明书",
+ "The female graduate student opens a blank safety data sheet next to a small spill on the floor.",
+ "万一洒了，先查安全技术说明书。", "溢洒：先查SDS，再清理"),
+("K9", "拖把和水桶，旁边立着黄色小心地滑警示牌",
+ "A mop and bucket beside a yellow wet floor caution sign on the lab floor. No people.",
+ "一般洒漏立即清理，放好防滑警示牌。", "", ["小心地滑"]),
+# K10
+("K10", "阿杰用喷壶清洁台面，小研整理仪器台",
+ "The young male student cleans a bench with a spray bottle while the female graduate student tidies an instrument bench.",
+ "台面保持整洁有序，只放需要的。", "台面整洁，只放需要的"),
+("K10", "不用的瓶子被收回柜子里",
+ "Unused bottles are put back into a closed cabinet. No people.",
+ "用不着的东西，都收起来。"),
+# K11
+("K11", "戴手套的手把台边的烧杯往里推",
+ "A gloved hand pushes a beaker back from the edge toward the middle of the bench. No faces.",
+ "东西别放台边，一碰就掉。", "东西别放台边"),
+# K12
+("K12", "玻璃器皿摔在地上碎开的慢镜头",
+ "A slow-motion shot of a glass flask falling to the lab floor and shattering. No people.",
+ "碎玻璃，绝不能徒手捡。", "不徒手捡碎玻璃"),
+("K12", "玻璃划破手指，化学品随伤口进入的示意",
+ "A simple diagram of a glass shard cutting a finger with chemical drops entering the cut. No people.",
+ "割伤刺伤会把化学品直接带进血液。"),
+("K12", "小研戴手套蹲下，用刷子和簸箕扫碎玻璃",
+ "The female graduate student, wearing gloves, crouches and sweeps broken glass into a dustpan with a brush.",
+ "用刷子和簸箕来收拾。"),
+# K13
+("K13", "碎玻璃倒进一个空白标签的碎玻璃收集箱",
+ "Broken glass is poured from a dustpan into a sturdy cardboard broken glass box with a blank label. No people.",
+ "碎玻璃放进指定的收集容器。", "碎玻璃进专用容器"),
+# K14
+("K14", "小研在水槽边清洗玻璃器皿，放上晾干架",
+ "The female graduate student washes glassware at a lab sink and places it on a drying rack.",
+ "实验结束，把玻璃器皿洗净晾干。", "洗净晾干玻璃器皿"),
+# K15
+("K15", "手把试剂瓶放回柜中",
+ "A hand puts reagent bottles back into a storage cabinet. No faces.",
+ "试剂放回储存区。", "试剂归位，擦净台面"),
+("K15", "小研用喷壶和纸擦拭台面，旁边立着气瓶",
+ "The female graduate student wipes the bench with a spray bottle and paper towels, a gas cylinder standing nearby.",
+ "再用乙醇或异丙醇擦净台面。"),
+# K16
+("K16", "阿杰发现电线破损，转身去找老周",
+ "The young male student notices a frayed power cord on the bench and turns to find the older man.",
+ "发生违规，或看到任何不安全情况，", "发现隐患立即报告"),
+("K16", "阿杰向老周报告，老周点头记录",
+ "The young male student reports to the older man, who nods and writes in a blank notebook.",
+ "立即报告你的主管。"),
+# K17
+("K17", "欣欣竖起大拇指，身后实验室整洁有序",
+ "The panda mascot gives a thumbs up in front of a clean, orderly lab.",
+ "规范好自己的行为。", "从自己的行为做起"),
+("K17", "欣欣指向一排化学品危险象形图",
+ "The panda mascot points at a row of chemical hazard pictograms on a blank board.",
+ "下一课，讲实验室常见的化学品危害。"),
+# 小结
+("小结", "规程、禁止饮食、两人同在三个图标",
+ "Icons of a procedure binder, a no eating and drinking sign and two people side by side. No people.",
+ "按规程做，不饮食化妆，不单独做。", "小结"),
+("小结", "整洁台面、地面无杂物、试剂不落地图标",
+ "Icons of a tidy bench, a clean floor and a reagent bottle on a shelf instead of the floor. No people.",
+ "台面整洁，地面干净，试剂不落地。"),
+("小结", "簸箕扫玻璃、喷壶擦台面、报告图标",
+ "Icons of a dustpan with broken glass, a spray bottle wiping a bench and a person reporting. No people.",
+ "碎玻璃不徒手，收尾擦台，隐患上报。"),
+# 结尾
+("结尾", "欣欣在整洁的实验室门口挥手道别",
+ "The panda mascot waves goodbye at the door of a clean, orderly lab.",
+ "好习惯保安全，下次见！"),
+]
