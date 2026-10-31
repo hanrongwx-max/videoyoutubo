@@ -1,7 +1,7 @@
-# 最大功率传输：口试问答与电池光伏安全
+# 最大功率传输：口试问答与电池光伏安全（国内版）
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical（内容分析见 `course/Basic Electrical Engineering Lab/20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../20_Maximum Power Transfer Theorem Viva Voce Questions and Answers Basic Electrical/`
 - 时长：3 分 35 秒（43 个镜头 × 5 秒）；熊猫出镜说话 2 镜，画外音 41 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）

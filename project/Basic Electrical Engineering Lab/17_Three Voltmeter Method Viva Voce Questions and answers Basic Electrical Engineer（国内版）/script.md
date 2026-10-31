@@ -1,7 +1,7 @@
-# 三电压表法：口试问答与用电安全
+# 三电压表法：口试问答与用电安全（国内版）
 
 - 剧集：Basic Electrical Engineering Lab；对应原视频：17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer（内容分析见 `course/Basic Electrical Engineering Lab/17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer.md`）
-- 版本：单一版
+- 版本：国内版；原著版见 `../17_Three Voltmeter Method Viva Voce Questions and answers Basic Electrical Engineer/`
 - 时长：5 分 40 秒（68 个镜头 × 5 秒）；熊猫出镜说话 4 镜，画外音 64 镜
 - 依据：原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`
 - 角色：欣欣（熊猫主持）、小研（研究生，兼实验室安全员）、老周（实验室负责人）、阿杰（本科生）、王老师（学院实验室安全管理员）、老李（设施工程师）
