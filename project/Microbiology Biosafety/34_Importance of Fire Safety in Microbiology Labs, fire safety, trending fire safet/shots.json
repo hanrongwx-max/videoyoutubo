@@ -3,7 +3,7 @@
  "edition": "原著版",
  "series": "Microbiology Biosafety",
  "title": "微生物实验室的消防安全",
- "seconds": 240,
+ "seconds": 230,
  "source_doc": "course/Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet.md",
  "author_source": "project/Microbiology Biosafety/34_Importance of Fire Safety in Microbiology Labs, fire safety, trending fire safet/src.py",
  "points": {
@@ -13,7 +13,7 @@
   "K4": "第一，保护人员",
   "K5": "第二，保全科研成果",
   "K6": "第三，减少财产损失",
-  "K7": "第四，依法落实消防责任",
+  "K7": "第四，遵守消防法规",
   "K8": "第五，尽快恢复工作",
   "K9": "第六，保护环境",
   "K10": "消防的几个环节"
@@ -224,15 +224,16 @@
    "seconds": 5,
    "section": "K3",
    "section_title": "火灾分种类，灭火器要对号",
-   "scene": "木头、液体、气瓶、金属、插头、炒锅六个图标",
-   "prompt_en": "Six icons in a row: burning wood, a burning liquid, a gas cylinder, a metal block, an electric plug, and a frying pan. No people.",
-   "narration": "国内把火灾分成六类。",
+   "scene": "五只灭火器分别标着A、B、C、D、K",
+   "prompt_en": "Five red fire extinguishers stand in a row, each with a blank label, arrows pointing to six colored fire icons. No people.",
+   "narration": "灭火器分A、B、C、D、K几类。",
    "overlay": [],
    "labels": [
-    "固体、液体",
-    "气体、金属",
-    "带电物体",
-    "烹饪油脂"
+    "A",
+    "B",
+    "C",
+    "D",
+    "K"
    ],
    "mode": "voiceover"
   },
@@ -241,11 +242,14 @@
    "seconds": 5,
    "section": "K3",
    "section_title": "火灾分种类，灭火器要对号",
-   "scene": "小研凑近看灭火器上的空白标签",
-   "prompt_en": "The female graduate student leans in to read the blank label on a fire extinguisher.",
-   "narration": "先看清灭火器适用哪类火。",
+   "scene": "木头纸张、易燃液体和气体三个图标",
+   "prompt_en": "Icons of burning wood and paper, a burning liquid and a burning gas cylinder. No people.",
+   "narration": "A类是木材纸张，B类是易燃液气，",
    "overlay": [],
-   "labels": [],
+   "labels": [
+    "A 固体可燃物",
+    "B 易燃液体气体"
+   ],
    "mode": "voiceover"
   },
   {
@@ -253,11 +257,15 @@
    "seconds": 5,
    "section": "K3",
    "section_title": "火灾分种类，灭火器要对号",
-   "scene": "水桶泼向冒火插座的图标被打叉",
-   "prompt_en": "An icon of water being thrown onto a burning electrical socket, crossed out with a red X. No people.",
-   "narration": "电器着火，先断电，不能用水泼。",
+   "scene": "插头、金属块、炒锅三个图标",
+   "prompt_en": "Icons of a sparking electrical plug, a burning metal block and a burning cooking pan. No people.",
+   "narration": "C类电气，D类金属，K类油脂。",
    "overlay": [],
-   "labels": [],
+   "labels": [
+    "C 电气设备",
+    "D 可燃金属",
+    "K 烹饪油脂"
+   ],
    "mode": "voiceover"
   },
   {
@@ -265,9 +273,9 @@
    "seconds": 5,
    "section": "K3",
    "section_title": "火灾分种类，灭火器要对号",
-   "scene": "燃烧的金属块旁一个问号和专用标志",
-   "prompt_en": "A burning metal block icon next to a question mark and a special-purpose extinguisher icon. No people.",
-   "narration": "金属着火要用专用灭火剂。",
+   "scene": "小研凑近看灭火器上的空白标签",
+   "prompt_en": "The female graduate student leans in to read the blank label on a fire extinguisher.",
+   "narration": "先看清灭火器适用哪类火。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
@@ -313,18 +321,6 @@
   {
    "shot": 23,
    "seconds": 5,
-   "section": "K4",
-   "section_title": "第一，保护人员",
-   "scene": "浓烟中的人形图标捂住口鼻、弯腰前进",
-   "prompt_en": "A person icon covering nose and mouth, bending low and moving under a layer of smoke. No people.",
-   "narration": "烟气往往比火更致命。",
-   "overlay": [],
-   "labels": [],
-   "mode": "voiceover"
-  },
-  {
-   "shot": 24,
-   "seconds": 5,
    "section": "K5",
    "section_title": "第二，保全科研成果",
    "scene": "欣欣举起数字二的牌子",
@@ -337,7 +333,7 @@
    "mode": "speaker"
   },
   {
-   "shot": 25,
+   "shot": 24,
    "seconds": 5,
    "section": "K5",
    "section_title": "第二，保全科研成果",
@@ -349,7 +345,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 26,
+   "shot": 25,
    "seconds": 5,
    "section": "K5",
    "section_title": "第二，保全科研成果",
@@ -361,7 +357,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 27,
+   "shot": 26,
    "seconds": 5,
    "section": "K6",
    "section_title": "第三，减少财产损失",
@@ -375,7 +371,7 @@
    "mode": "speaker"
   },
   {
-   "shot": 28,
+   "shot": 27,
    "seconds": 5,
    "section": "K6",
    "section_title": "第三，减少财产损失",
@@ -387,7 +383,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 29,
+   "shot": 28,
    "seconds": 5,
    "section": "K6",
    "section_title": "第三，减少财产损失",
@@ -399,45 +395,45 @@
    "mode": "voiceover"
   },
   {
-   "shot": 30,
+   "shot": 29,
    "seconds": 5,
    "section": "K7",
-   "section_title": "第四，依法落实消防责任",
+   "section_title": "第四，遵守消防法规",
    "scene": "欣欣举起数字四的牌子",
    "prompt_en": "The panda mascot holds up a card with a large number four.",
-   "narration": "第四，依法落实消防责任。",
+   "narration": "第四，遵守消防法规。",
    "overlay": [
-    "第四，依法落实消防责任"
+    "第四，遵守消防法规"
    ],
    "labels": [],
    "mode": "speaker"
   },
   {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第四，遵守消防法规",
+   "scene": "一本空白法规书和天平图标",
+   "prompt_en": "A blank rule book with a balance-scale icon. No people.",
+   "narration": "按消防法规和规范去做，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
    "shot": 31,
    "seconds": 5,
    "section": "K7",
-   "section_title": "第四，依法落实消防责任",
-   "scene": "一本空白法规书和学校印章图标",
-   "prompt_en": "A blank law book next to a school seal icon and a blank checklist. No people.",
-   "narration": "消防法和学校制度都有明确要求。",
+   "section_title": "第四，遵守消防法规",
+   "scene": "王老师拿着空白检查表检查灭火器",
+   "prompt_en": "The safety administrator checks a fire extinguisher against a blank checklist.",
+   "narration": "实验室合规，也免受处罚。",
    "overlay": [],
    "labels": [],
    "mode": "voiceover"
   },
   {
    "shot": 32,
-   "seconds": 5,
-   "section": "K7",
-   "section_title": "第四，依法落实消防责任",
-   "scene": "王老师拿着空白检查表检查灭火器",
-   "prompt_en": "The safety administrator inspects a fire extinguisher while holding a blank checklist.",
-   "narration": "单位和个人都有消防责任。",
-   "overlay": [],
-   "labels": [],
-   "mode": "voiceover"
-  },
-  {
-   "shot": 33,
    "seconds": 5,
    "section": "K8",
    "section_title": "第五，尽快恢复工作",
@@ -451,7 +447,7 @@
    "mode": "speaker"
   },
   {
-   "shot": 34,
+   "shot": 33,
    "seconds": 5,
    "section": "K8",
    "section_title": "第五，尽快恢复工作",
@@ -463,7 +459,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 35,
+   "shot": 34,
    "seconds": 5,
    "section": "K8",
    "section_title": "第五，尽快恢复工作",
@@ -475,7 +471,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 36,
+   "shot": 35,
    "seconds": 5,
    "section": "K9",
    "section_title": "第六，保护环境",
@@ -489,7 +485,7 @@
    "mode": "speaker"
   },
   {
-   "shot": 37,
+   "shot": 36,
    "seconds": 5,
    "section": "K9",
    "section_title": "第六，保护环境",
@@ -501,7 +497,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 38,
+   "shot": 37,
    "seconds": 5,
    "section": "K9",
    "section_title": "第六，保护环境",
@@ -513,7 +509,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 39,
+   "shot": 38,
    "seconds": 5,
    "section": "K10",
    "section_title": "消防的几个环节",
@@ -531,19 +527,21 @@
    "mode": "voiceover"
   },
   {
-   "shot": 40,
+   "shot": 39,
    "seconds": 5,
    "section": "K10",
    "section_title": "消防的几个环节",
-   "scene": "报警按钮和手机图标",
-   "prompt_en": "A manual fire alarm button and a mobile phone icon with a blank screen. No people.",
-   "narration": "要会报警，",
+   "scene": "一部手机，旁边写着报警号码",
+   "prompt_en": "A smartphone with a blank screen next to a red fire alarm bell icon. No people.",
+   "narration": "要会报警，拨打911，",
    "overlay": [],
-   "labels": [],
+   "labels": [
+    "911"
+   ],
    "mode": "voiceover"
   },
   {
-   "shot": 41,
+   "shot": 40,
    "seconds": 5,
    "section": "K10",
    "section_title": "消防的几个环节",
@@ -555,7 +553,7 @@
    "mode": "voiceover"
   },
   {
-   "shot": 42,
+   "shot": 41,
    "seconds": 5,
    "section": "K10",
    "section_title": "消防的几个环节",
@@ -567,13 +565,13 @@
    "mode": "voiceover"
   },
   {
-   "shot": 43,
+   "shot": 42,
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "欣欣身旁出现三个图标：易燃瓶、报警按钮、出口",
-   "prompt_en": "The panda mascot stands beside three icons: a flammable bottle, a fire alarm button and an emergency exit sign.",
-   "narration": "消防安全，防在前面。",
+   "scene": "欣欣身旁出现三个图标：易燃瓶、纸箱、酒精灯",
+   "prompt_en": "The panda mascot stands beside three icons: a flammable liquid bottle, a cardboard box and an alcohol burner.",
+   "narration": "易燃品、可燃物、热源，要管好。",
    "overlay": [
     "小结"
    ],
@@ -581,15 +579,37 @@
    "mode": "speaker"
   },
   {
+   "shot": 43,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "五只灭火器标着A到K",
+   "prompt_en": "Five red fire extinguishers in a row with blank labels. No people.",
+   "narration": "灭火器按火的类别对号用。",
+   "overlay": [],
+   "labels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "K"
+   ],
+   "mode": "voiceover"
+  },
+  {
    "shot": 44,
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "易燃品柜、远离热源的图标",
-   "prompt_en": "Icons of a flammable storage cabinet and a bottle kept away from a flame. No people.",
-   "narration": "易燃品少放，远离热源。",
+   "scene": "六个盾牌图标排成一排",
+   "prompt_en": "Six shield icons in a row, each with a small symbol: a person, a notebook, a building, a rule book, a calendar and a tree. No people.",
+   "narration": "护人、护科研、护财产，",
    "overlay": [],
-   "labels": [],
+   "labels": [
+    "人员",
+    "科研",
+    "财产"
+   ],
    "mode": "voiceover"
   },
   {
@@ -597,41 +617,19 @@
    "seconds": 5,
    "section": "小结",
    "section_title": "小结",
-   "scene": "报警按钮和手机图标",
-   "prompt_en": "A fire alarm button and a mobile phone icon. No people.",
-   "narration": "着火先报警，拨打119。",
+   "scene": "六个盾牌后三个高亮",
+   "prompt_en": "The last three of the six shields light up. No people.",
+   "narration": "守法规、快复工、护环境。",
    "overlay": [],
    "labels": [
-    "119"
+    "法规",
+    "复工",
+    "环境"
    ],
    "mode": "voiceover"
   },
   {
    "shot": 46,
-   "seconds": 5,
-   "section": "小结",
-   "section_title": "小结",
-   "scene": "小火灭火器、大火出口箭头",
-   "prompt_en": "A small flame with a fire extinguisher, and a big flame with an exit arrow. No people.",
-   "narration": "小火会扑，大火快撤。",
-   "overlay": [],
-   "labels": [],
-   "mode": "voiceover"
-  },
-  {
-   "shot": 47,
-   "seconds": 5,
-   "section": "小结",
-   "section_title": "小结",
-   "scene": "六个盾牌图标排成一排",
-   "prompt_en": "Six small shield icons in a row: a person, a notebook, a building, a law book, a calendar and a tree. No people.",
-   "narration": "护人、护科研、护财产，也护环境。",
-   "overlay": [],
-   "labels": [],
-   "mode": "voiceover"
-  },
-  {
-   "shot": 48,
    "seconds": 5,
    "section": "结尾",
    "section_title": "结尾",
