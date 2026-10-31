@@ -1,0 +1,1223 @@
+{
+ "id": "05_5. Introduction to Optical Components",
+ "edition": "原著版",
+ "series": "Photonics & Laser Safety Series",
+ "title": "认识光学元件：材料、镀膜与滤光片",
+ "seconds": 455,
+ "source_doc": "course/Photonics & Laser Safety Series/05_5. Introduction to Optical Components.md",
+ "author_source": "project/Photonics & Laser Safety Series/05_5. Introduction to Optical Components/src.py",
+ "points": {
+  "K1": "从理论走向实验台",
+  "K2": "怕热怕冷，也怕温度骤变",
+  "K3": "玻璃和金属镜座热胀不一致",
+  "K4": "金属导热快、膨胀大",
+  "K5": "受力不均会变形",
+  "K6": "化学品会伤元件",
+  "K7": "选元件要综合考虑",
+  "K8": "元件贵在哪里",
+  "K9": "影响价格的七个因素",
+  "K10": "常见光学元件与镀膜",
+  "K11": "镀膜的两种工艺",
+  "K12": "边镀边量膜厚",
+  "K13": "增透膜：让反射光抵消",
+  "K14": "高反膜：让反射光加强",
+  "K15": "金属膜：宽带反射要防腐",
+  "K16": "滤光片家族",
+  "K17": "宽带滤光片",
+  "K18": "截止滤光片：挡掉有害波长",
+  "K19": "中性密度滤光片：整体减光",
+  "K20": "窄带、辐射度与光度滤光片",
+  "K21": "防护眼镜也是滤光片",
+  "K22": "小结与下一讲"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在光学平台旁，台上摆着透镜、反射镜和彩色滤光片",
+   "prompt_en": "The panda mascot stands beside an optical table with lenses, mirrors and colorful round filters on posts, and waves at the camera.",
+   "narration": "这一课，认识光学元件。",
+   "overlay": [
+    "认识光学元件：材料、镀膜与滤光片"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "材料、价格、镀膜、滤光片四个图标排成一行",
+   "prompt_en": "Four icons in a row: a glass block with a thermometer, a coin stack, a lens with a thin colored layer, and a round colored filter. No people.",
+   "narration": "材料、价格、镀膜、滤光片，一个个看。",
+   "overlay": [],
+   "labels": [
+    "材料",
+    "价格",
+    "镀膜",
+    "滤光片"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周递给阿杰一张空白采购单，桌上摆满各种镜片",
+   "prompt_en": "The older man hands the young male student a blank purchase list; the bench is covered with lenses, mirrors and colored filters.",
+   "narration": "老周让阿杰给新光路挑元件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着两片看似一样的镜片比较，一脸困惑",
+   "prompt_en": "The young male student compares two lenses that look the same and frowns in confusion.",
+   "narration": "长得差不多，价格却差了好几倍？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着拿起一片镀膜反射镜",
+   "prompt_en": "The female graduate student smiles and picks up a coated mirror that shimmers with color.",
+   "narration": "小研说：材料、镀膜，都有门道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣在空白白板前竖起手指",
+   "prompt_en": "The panda mascot stands in front of a blank whiteboard and raises one finger.",
+   "narration": "每片镜子、每片滤光片，都有讲究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从理论走向实验台",
+   "scene": "欣欣从一本空白书本走向光学平台",
+   "prompt_en": "The panda mascot walks from a big open blank book toward an optical table with lenses and mirrors.",
+   "narration": "前几课讲光的性质，这课走到实验台。",
+   "overlay": [
+    "从理论走向实验台"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从理论走向实验台",
+   "scene": "透镜、棱镜、反射镜图标，旁边浮现温度计、锤子、试剂瓶图标",
+   "prompt_en": "Icons of a lens, a prism and a mirror, with a thermometer, a small hammer and a reagent bottle icon floating next to them. No people.",
+   "narration": "元件除了光学性质，还有热、力、化学性质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从理论走向实验台",
+   "scene": "可见光、紫外、红外三段彩带，各配一种材料块",
+   "prompt_en": "Three colored bands labeled only by color, violet, rainbow and dark red, each with a different transparent block below it. No people.",
+   "narration": "不同波段，要选不同的材料。",
+   "overlay": [],
+   "labels": [
+    "紫外",
+    "可见",
+    "红外"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怕热怕冷，也怕温度骤变",
+   "scene": "一块玻璃窗口，一边是火焰图标，一边是雪花图标",
+   "prompt_en": "A clear glass optical window with a flame icon on the left and a snowflake icon on the right. No people.",
+   "narration": "太热、太冷，玻璃都会发生变化。",
+   "overlay": [
+    "怕热怕冷，也怕温度骤变"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怕热怕冷，也怕温度骤变",
+   "scene": "温度计指针急速上下摆动，玻璃上出现波纹",
+   "prompt_en": "A thermometer icon with a needle swinging quickly up and down beside a glass window showing wavy distortion lines. No people.",
+   "narration": "温度骤变，影响更大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怕热怕冷，也怕温度骤变",
+   "scene": "两块玻璃，一块恢复原状打勾，一块留下永久变形",
+   "prompt_en": "Two glass windows side by side: one returns to flat shape with a green check, the other stays warped with an orange mark. No people.",
+   "narration": "变化可能是暂时的，也可能是永久的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怕热怕冷，也怕温度骤变",
+   "scene": "小研在材料卡片间挑选，选中稳定的那块",
+   "prompt_en": "The female graduate student compares several blank material cards on a desk and picks the one with a steady thermometer icon.",
+   "narration": "选材，就选温度变化影响最小的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "玻璃和金属镜座热胀不一致",
+   "scene": "一片透镜装在金属镜架的圆环里",
+   "prompt_en": "A glass lens held inside a round metal lens mount on a post, close-up. No people.",
+   "narration": "玻璃元件，常装在金属镜座里。",
+   "overlay": [
+    "玻璃和金属镜座热胀不一致"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "玻璃和金属镜座热胀不一致",
+   "scene": "受热时金属环膨胀得快，玻璃膨胀得慢，箭头大小不同",
+   "prompt_en": "Cutaway icon of a metal ring and a glass disc being heated, the metal ring with big outward arrows and the glass with small arrows. No people.",
+   "narration": "受热时，金属和玻璃胀得不一样多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "玻璃和金属镜座热胀不一致",
+   "scene": "接合处出现红色应力线，玻璃边缘一道裂纹",
+   "prompt_en": "Close-up icon of the joint between a metal ring and glass with red stress lines and a small crack at the glass edge. No people.",
+   "narration": "接合处就有应力，严重时元件会裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "玻璃和金属镜座热胀不一致",
+   "scene": "透镜中心红、边缘蓝的温度图，光线穿过后弯曲",
+   "prompt_en": "A lens icon with a heat map, red in the center and blue at the edges, and light rays bending unevenly after passing through. No people.",
+   "narration": "热从边缘散走，中心热、边缘冷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "玻璃和金属镜座热胀不一致",
+   "scene": "光斑从清晰圆点变得模糊变形",
+   "prompt_en": "A sharp round light spot on a blank screen turning into a blurry distorted blob, shown as before and after. No people.",
+   "narration": "这样，光学性能也会跟着变差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "金属导热快、膨胀大",
+   "scene": "金属块像高速公路一样把热量快速导走，玻璃块像小路",
+   "prompt_en": "A metal block with wide fast heat arrows flowing through it like a highway, next to a glass block with a thin slow arrow like a narrow path. No people.",
+   "narration": "金属像高速路，导热快；玻璃像小路。",
+   "overlay": [
+    "金属导热快、膨胀大"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "金属导热快、膨胀大",
+   "scene": "受热后金属块明显变长，玻璃块几乎不变",
+   "prompt_en": "Two bars being heated: a metal bar grows noticeably longer while a glass bar barely changes. No people.",
+   "narration": "受热后，金属膨胀也比玻璃大得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "金属导热快、膨胀大",
+   "scene": "熔点和热膨胀两个图标并排",
+   "prompt_en": "Two icons side by side: a melting ice cube on a thermometer and a bar with outward arrows. No people.",
+   "narration": "熔点和热膨胀，是选材的重要参数。",
+   "overlay": [],
+   "labels": [
+    "熔点",
+    "热膨胀"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "受力不均会变形",
+   "scene": "一块窗口两侧压力箭头一大一小，窗口微微鼓起",
+   "prompt_en": "A round optical window with big pressure arrows on one side and small arrows on the other, bulging slightly. No people.",
+   "narration": "受力不均，元件内部和表面会变形。",
+   "overlay": [
+    "受力不均会变形"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "受力不均会变形",
+   "scene": "一薄一厚两块窗口，口径相同，薄的弯曲",
+   "prompt_en": "Two round windows of the same diameter, one thin and bent under arrows, one thick and flat with a green check. No people.",
+   "narration": "口径越大、压差越大，窗口要越厚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "受力不均会变形",
+   "scene": "材料极限的弹簧图标，拉到红线处",
+   "prompt_en": "A spring icon stretched up to a red limit line beside a glass window. No people.",
+   "narration": "还要看材料能承受多大的力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学品会伤元件",
+   "scene": "试剂瓶滴下液滴，塑料镜片表面变毛糙",
+   "prompt_en": "A closed solvent bottle icon with one drop falling on a plastic lens, the lens surface turning cloudy and rough. No people.",
+   "narration": "有的溶剂，会把塑料镜片腐蚀坏。",
+   "overlay": [
+    "化学品会伤元件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学品会伤元件",
+   "scene": "盐晶窗口在水汽中像方糖一样慢慢溶化",
+   "prompt_en": "A clear salt crystal window slowly dissolving like a sugar cube in a cloud of water vapor. No people.",
+   "narration": "盐晶窗口怕潮，遇水汽会溶掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学品会伤元件",
+   "scene": "小研把盐晶窗口放进带干燥剂的密封盒",
+   "prompt_en": "The female graduate student wearing gloves places a crystal window into a sealed box with desiccant packets.",
+   "narration": "这类元件要防潮保存。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "化学品会伤元件",
+   "scene": "小研对照空白清单查看试剂和元件是否相容",
+   "prompt_en": "The female graduate student checks a blank compatibility list with a reagent bottle icon and a lens icon side by side.",
+   "narration": "用化学品前，先查它对元件的影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选元件要综合考虑",
+   "scene": "老周把搭建光路的任务卡交给阿杰",
+   "prompt_en": "The older man hands the young male student a blank task card in front of an empty optical table.",
+   "narration": "搭光路、选元件，常是技术员的活。",
+   "overlay": [
+    "选元件要综合考虑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选元件要综合考虑",
+   "scene": "光学、热、化学、价格四个图标围成一圈",
+   "prompt_en": "Four icons arranged in a circle: a lens, a thermometer, a reagent bottle and a coin stack, with a check in the middle. No people.",
+   "narration": "光学、热、化学性质和价格，一起考虑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "选元件要综合考虑",
+   "scene": "预算钱包和一篮子元件放在天平两端",
+   "prompt_en": "A balance scale with a wallet on one side and a basket of optical parts on the other. No people.",
+   "narration": "预算有限，质量和价格要权衡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "元件贵在哪里",
+   "scene": "玻璃块经过研磨、抛光、检测三个工位",
+   "prompt_en": "A glass block moving through three stations shown as icons: grinding wheel, polishing pad and a magnifying glass. No people.",
+   "narration": "玻璃和石英要研磨、抛光、检测，较贵。",
+   "overlay": [
+    "元件贵在哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "元件贵在哪里",
+   "scene": "模具一压就出一片塑料镜片",
+   "prompt_en": "A simple mold press icon popping out a plastic lens in one step. No people.",
+   "narration": "塑料镜片能模压成型，便宜得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "元件贵在哪里",
+   "scene": "大晶体在设备里慢慢长大，旁边是时钟和金币",
+   "prompt_en": "A large crystal slowly growing inside a machine, with a clock icon and a coin stack beside it. No people.",
+   "narration": "晶体要用昂贵设备慢慢生长，也贵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "元件贵在哪里",
+   "scene": "镜片加上一层彩色膜，价格标签上升",
+   "prompt_en": "A lens receiving a thin colored coating layer while a blank price tag with an up arrow rises above it. No people.",
+   "narration": "再镀一层膜，价格还要往上走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "影响价格的七个因素",
+   "scene": "七个图标排成两行：尺寸、材料、曲率、精度、波长、镀膜、像差",
+   "prompt_en": "Seven icons in two rows: a ruler, a material block, a curved lens, a target, a rainbow wave, a coated layer and a blurry dot turning sharp. No people.",
+   "narration": "尺寸、材料、曲率，都影响价格。",
+   "overlay": [
+    "影响价格的七个因素"
+   ],
+   "labels": [
+    "尺寸",
+    "材料",
+    "曲率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "影响价格的七个因素",
+   "scene": "平面片和曲面透镜对比，曲面加难度标记",
+   "prompt_en": "A flat glass plate next to a curved lens, the curved lens marked with extra stars for difficulty. No people.",
+   "narration": "平面好做，曲面难做；精度越高越贵。",
+   "overlay": [],
+   "labels": [
+    "面形精度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "影响价格的七个因素",
+   "scene": "彩虹波长带、镀膜层、清晰化的光斑三个图标",
+   "prompt_en": "Three icons: a rainbow wavelength band, a coated layer and a blurry light spot turning sharp. No people.",
+   "narration": "透什么波长、镀什么膜、校不校像差。",
+   "overlay": [],
+   "labels": [
+    "波长",
+    "镀膜",
+    "像差校正"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "影响价格的七个因素",
+   "scene": "小研在空白采购单上逐项打勾",
+   "prompt_en": "The female graduate student ticks items on a blank purchase form at a desk next to a lens box.",
+   "narration": "懂得这些，才能买得合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "常见光学元件与镀膜",
+   "scene": "反射镜、滤光片、透镜、棱镜整齐摆在托盘上",
+   "prompt_en": "A tray with a front surface mirror, round colored filters, lenses and a prism neatly arranged, close-up. No people.",
+   "narration": "反射镜、滤光片、透镜、棱镜最常见。",
+   "overlay": [
+    "常见光学元件与镀膜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "常见光学元件与镀膜",
+   "scene": "元件表面一层彩色薄膜被放大",
+   "prompt_en": "A magnified cross-section of a lens surface showing a very thin colored layer on top. No people.",
+   "narration": "很多元件表面，都镀着一层薄膜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "常见光学元件与镀膜",
+   "scene": "薄膜像一道阀门，调节光的透过和反射",
+   "prompt_en": "A thin film drawn as a small valve on a glass surface, controlling arrows of light that pass through or bounce back. No people.",
+   "narration": "膜的厚度和成分，决定透多少、反多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "镀膜的两种工艺",
+   "scene": "真空镀膜机外形，舱门紧闭",
+   "prompt_en": "A closed stainless steel vacuum coating chamber with a small round viewing window, in a clean room. No people.",
+   "narration": "镀膜在真空镀膜机里完成。",
+   "overlay": [
+    "镀膜的两种工艺"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "镀膜的两种工艺",
+   "scene": "示意图：下方膜料化成蒸气，飘上去附着在镜片上",
+   "prompt_en": "A simple diagram inside a dome: material at the bottom turns into vapor dots that rise and stick to lenses at the top. No people.",
+   "narration": "一种是蒸发：把膜料变成蒸气，落到镜片上。",
+   "overlay": [],
+   "labels": [
+    "蒸发"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "镀膜的两种工艺",
+   "scene": "示意图：彩色粒子撞击靶材，溅出的微粒落到冷却的镜片上",
+   "prompt_en": "A simple diagram: glowing particles strike a target plate, knocking off tiny bits that fly to a cooled lens. No people.",
+   "narration": "一种是溅射：粒子撞靶，溅出微粒成膜。",
+   "overlay": [],
+   "labels": [
+    "溅射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "镀膜的两种工艺",
+   "scene": "沙漏和停止按钮图标",
+   "prompt_en": "An hourglass icon next to a stop button icon above a growing thin layer. No people.",
+   "narration": "两种方法，都要边镀边控厚度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "边镀边量膜厚",
+   "scene": "像秤一样的晶片，沾上膜料后指针变化",
+   "prompt_en": "A small quartz disc on a scale-like gauge, the needle moving as tiny dots land on it. No people.",
+   "narration": "一种用石英晶片称重，膜越厚越重。",
+   "overlay": [
+    "边镀边量膜厚"
+   ],
+   "labels": [
+    "石英晶振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "边镀边量膜厚",
+   "scene": "晶片上层数越来越多，指针反应越来越迟钝",
+   "prompt_en": "The quartz disc covered with more and more layers, the gauge needle becoming sluggish with a question mark. No people.",
+   "narration": "层数多了，这个办法就不太灵了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "边镀边量膜厚",
+   "scene": "一束光穿过正在镀膜的镜片，旁边的亮度表随之变化",
+   "prompt_en": "A light beam passing through a lens being coated, with a brightness meter beside it changing level. No people.",
+   "narration": "另一种看透射或反射光的变化来判断。",
+   "overlay": [],
+   "labels": [
+    "干涉监控"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "增透膜：让反射光抵消",
+   "scene": "两副眼镜对比：一副镜片反光刺眼，一副通透",
+   "prompt_en": "Two pairs of glasses side by side: one with strong glare reflections on the lenses, one clear without glare. No people.",
+   "narration": "眼镜片反光少，靠的是增透膜。",
+   "overlay": [
+    "增透膜：让反射光抵消"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "增透膜：让反射光抵消",
+   "scene": "光照到膜上，上表面和下表面各反射一束",
+   "prompt_en": "A light ray hits a thin layer on glass; one reflection comes off the top surface and a second off the bottom surface. No people.",
+   "narration": "膜的上下两面，各反射回一束光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "增透膜：让反射光抵消",
+   "scene": "两束反射波一高一低，叠加后变平",
+   "prompt_en": "Two wave lines, one crest aligned with the other's trough, merging into a flat line. No people.",
+   "narration": "膜厚合适，两束反射光正好相互抵消。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "增透膜：让反射光抵消",
+   "scene": "跷跷板两端一上一下、中间不动的比喻",
+   "prompt_en": "Two cartoon waves drawn as seesaw ends moving in opposite directions so the middle stays still. No people.",
+   "narration": "就像一推一拉，力气刚好抵消。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "增透膜：让反射光抵消",
+   "scene": "一层膜只对一种颜色最灵，多层膜覆盖更多颜色",
+   "prompt_en": "A single-layer coating icon matching one color of light, next to a multi-layer stack matching several colors. No people.",
+   "narration": "单层只对一个波长最好，多层更有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高反膜：让反射光加强",
+   "scene": "阳光照到镀膜窗户上，大部分被弹回去",
+   "prompt_en": "Sunlight hitting a coated building window, most of the light bouncing back outward, a cool room behind. No people.",
+   "narration": "高反膜正相反，要把光尽量反回去。",
+   "overlay": [
+    "高反膜：让反射光加强"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高反膜：让反射光加强",
+   "scene": "两束反射波峰对峰，叠加后更高",
+   "prompt_en": "Two wave lines with crests aligned, adding up into one taller wave. No people.",
+   "narration": "两束反射光步调一致，相互加强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高反膜：让反射光加强",
+   "scene": "膜层一层层叠加，反射率条越来越满",
+   "prompt_en": "Coating layers stacking up one by one while a reflectance bar fills almost to the top. No people.",
+   "narration": "层数越多，反射率越接近百分之百。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高反膜：让反射光加强",
+   "scene": "激光管两端各有一面镜子，光在中间来回",
+   "prompt_en": "A simple laser tube icon with a mirror at each end and a light ray bouncing back and forth between them, enclosed. No people.",
+   "narration": "激光器两端的反射镜，就靠多层高反膜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "高反膜：让反射光加强",
+   "scene": "只有一种颜色、一个角度的光被反射，其他穿过",
+   "prompt_en": "A mirror reflecting only one color arriving at one angle, while other colors pass straight through. No people.",
+   "narration": "它只对窄波段、特定角度有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "金属膜：宽带反射要防腐",
+   "scene": "金属镜面反射一整道彩虹光",
+   "prompt_en": "A shiny metal-coated mirror reflecting a whole rainbow of colors. No people.",
+   "narration": "金属膜能在很宽的波段里高反射。",
+   "overlay": [
+    "金属膜：宽带反射要防腐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "金属膜：宽带反射要防腐",
+   "scene": "铝和金两面镜子，金镜在紫光处变暗",
+   "prompt_en": "Two mirrors, a silver-colored one reflecting all colors and a gold one reflecting red well but dim on violet. No people.",
+   "narration": "铝膜各波段都不错，金膜擅长红外。",
+   "overlay": [],
+   "labels": [
+    "铝",
+    "金"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "金属膜：宽带反射要防腐",
+   "scene": "金属膜上出现锈斑，加一层透明保护层后锈斑消失",
+   "prompt_en": "A metal mirror surface with rust spots, then covered with a clear protective layer and the spots gone. No people.",
+   "narration": "金属易腐蚀，要再镀一层保护膜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "金属膜：宽带反射要防腐",
+   "scene": "戴手套的手只捏镜子边缘",
+   "prompt_en": "A gloved hand holding a coated mirror only by its edges over a clean cloth.",
+   "narration": "所以镜面不要用手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤光片家族",
+   "scene": "八片不同颜色和灰度的滤光片排成扇形",
+   "prompt_en": "Eight round filters of different colors and grey shades arranged in a fan on a table. No people.",
+   "narration": "滤光片按波长或强度，挡掉一部分光。",
+   "overlay": [
+    "滤光片家族"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤光片家族",
+   "scene": "滤光片分成几组的图示",
+   "prompt_en": "Filters sorted into labeled-by-icon groups: color, grey, single line, eye shape. No people.",
+   "narration": "宽带、窄带、中性密度、偏振等，各有用途。",
+   "overlay": [],
+   "labels": [
+    "宽带",
+    "窄带",
+    "中性密度",
+    "光度",
+    "偏振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "宽带滤光片",
+   "scene": "一片蓝色滤光片，只放一段颜色通过",
+   "prompt_en": "A blue round filter letting a band of blue-green colors through while blocking red and violet. No people.",
+   "narration": "宽带滤光片，放过一段波长。",
+   "overlay": [
+    "宽带滤光片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "宽带滤光片",
+   "scene": "钟形曲线，半山腰处画一条横线",
+   "prompt_en": "A bell-shaped curve with a horizontal dashed line drawn halfway up and two marks where it crosses. No people.",
+   "narration": "峰值一半高处的两端，就是通带宽度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "截止滤光片：挡掉有害波长",
+   "scene": "一道门只让一侧颜色通过，另一侧被挡住",
+   "prompt_en": "A gate icon letting red light pass while blocking blue and violet light. No people.",
+   "narration": "截止滤光片，一边放行，一边截断。",
+   "overlay": [
+    "截止滤光片：挡掉有害波长"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "截止滤光片：挡掉有害波长",
+   "scene": "激光器输出绿光，还夹带看不见的红外光",
+   "prompt_en": "A closed laser box emitting a green beam with a faint dashed invisible beam drawn alongside it. No people.",
+   "narration": "有的激光器出绿光，还带着看不见的红外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "截止滤光片：挡掉有害波长",
+   "scene": "滤光片挡住虚线红外，只留绿光进入光路",
+   "prompt_en": "A filter in the beam path blocking the dashed invisible beam while the green beam continues into a beam dump. No people.",
+   "narration": "用截止滤光片，把这段红外挡掉。",
+   "overlay": [],
+   "labels": [
+    "约1060纳米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "截止滤光片：挡掉有害波长",
+   "scene": "欣欣点头，旁边是眼睛和仪器两个打勾图标",
+   "prompt_en": "The panda mascot nods next to two icons with green check marks: an eye and a measuring instrument.",
+   "narration": "这样，就不会伤到眼睛和系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性密度滤光片：整体减光",
+   "scene": "灰色滤光片像墨镜一样让各种颜色同样变暗",
+   "prompt_en": "A grey round filter dimming all colors of a rainbow equally like sunglasses. No people.",
+   "narration": "中性密度滤光片，各种颜色一起减光。",
+   "overlay": [
+    "中性密度滤光片：整体减光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性密度滤光片：整体减光",
+   "scene": "强光被灰片减弱后进入探测器，探测器安然无恙",
+   "prompt_en": "A strong light beam passing through a grey filter and entering a detector which shows a green check. No people.",
+   "narration": "常用来保护怕强光的探测器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性密度滤光片：整体减光",
+   "scene": "灰片一片比一片深，透过的光越来越少",
+   "prompt_en": "A row of grey filters getting darker one by one, with fewer light arrows coming out behind each. No people.",
+   "narration": "光密度越大，透过的光越少。",
+   "overlay": [],
+   "labels": [
+    "光密度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性密度滤光片：整体减光",
+   "scene": "很亮的一束光，只剩一丝透过",
+   "prompt_en": "A bright beam hitting a dark grey filter with only a thin faint ray coming out. No people.",
+   "narration": "光密度为二，只透过约百分之一。",
+   "overlay": [],
+   "labels": [
+    "光密度2",
+    "约1%透过"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "窄带、辐射度与光度滤光片",
+   "scene": "一根极窄的尖峰，只有一种颜色通过",
+   "prompt_en": "A single very narrow spike letting only one green color through a filter. No people.",
+   "narration": "窄带滤光片，几乎只放一个波长。",
+   "overlay": [
+    "窄带、辐射度与光度滤光片"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "窄带、辐射度与光度滤光片",
+   "scene": "探测器前加滤光片后，对各颜色反应一样高",
+   "prompt_en": "A detector with uneven bars for different colors, then with a filter in front the bars become equal height. No people.",
+   "narration": "辐射度滤光片，让探测器对各色一视同仁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "窄带、辐射度与光度滤光片",
+   "scene": "眼睛图标和绿色峰值曲线重合",
+   "prompt_en": "An eye icon next to a bell curve peaking at green, with a detector curve matching it. No people.",
+   "narration": "光度滤光片，模仿人眼对颜色的感受。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "欣欣戴上一副标签空白的激光防护眼镜",
+   "prompt_en": "The panda mascot puts on laser safety goggles with a blank label on the frame.",
+   "narration": "激光防护眼镜，其实就是一种滤光片。",
+   "overlay": [
+    "防护眼镜也是滤光片"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "眼睛剖面图，一束光被聚焦到眼底一个亮点",
+   "prompt_en": "A simple eye cross-section icon with a light beam focused to a tiny bright point at the back of the eye, with a yellow warning triangle. No people.",
+   "narration": "眼睛会把光聚成一点，最容易受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "眼底亮点变成伤疤图标，旁边是不可逆的箭头",
+   "prompt_en": "The bright spot at the back of the eye turns into a dark damage mark, with a one-way arrow icon. No people.",
+   "narration": "伤到视网膜，可能无法恢复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "眼镜挡住一种颜色的光，放过其他颜色",
+   "prompt_en": "Goggles blocking one color of light while letting other colors pass so the wearer can still see. No people.",
+   "narration": "它挡住特定波长，放过其余的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "小研对照激光器和眼镜，确认波长一致",
+   "prompt_en": "The female graduate student compares a closed laser box and goggles, each with a matching blank wavelength icon.",
+   "narration": "所以，必须按激光的波长来选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "防护眼镜也是滤光片",
+   "scene": "一副眼镜挡住紫色和蓝色光，放过其余彩色光",
+   "prompt_en": "A pair of safety glasses stops violet and blue rays while the other colors of light pass through. No people.",
+   "narration": "比如这副，挡紫外和蓝光，透可见光。",
+   "overlay": [],
+   "labels": [
+    "挡紫外和蓝光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "小结与下一讲",
+   "scene": "欣欣站在光学平台前，元件一一亮起",
+   "prompt_en": "The panda mascot stands in front of an optical table as lenses, mirrors and filters light up one by one.",
+   "narration": "这课把光的知识，落到了元件上。",
+   "overlay": [
+    "小结与下一讲"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "小结与下一讲",
+   "scene": "一组镜架和立杆，带问号",
+   "prompt_en": "A set of empty lens mounts and posts on an optical table with a small question mark above. No people.",
+   "narration": "下一课，讲怎样安装和固定元件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣身旁浮现温度计、试剂瓶、金币图标",
+   "prompt_en": "The panda mascot stands beside floating icons of a thermometer, a reagent bottle and a coin stack.",
+   "narration": "选元件：看热、看化学、看价格。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "增透、高反、金属三种镀膜图标",
+   "prompt_en": "Three icons: a glare-free lens, a mirror bouncing light back, and a shiny metal mirror with a clear protective layer. No people.",
+   "narration": "增透抵消反射，高反加强反射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "宽带、截止、中性密度滤光片图标",
+   "prompt_en": "Three filter icons: a colored band filter, a gate-like cutoff filter and a grey filter. No people.",
+   "narration": "滤光片按波长或强度挡光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防护眼镜图标挡住一种颜色",
+   "prompt_en": "An icon of laser safety goggles blocking one color of light. No people.",
+   "narration": "防护眼镜是滤光片，按波长选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣戴着防护眼镜在光学平台旁挥手道别",
+   "prompt_en": "The panda mascot wearing laser safety goggles waves goodbye beside a tidy optical table with the laser enclosure closed.",
+   "narration": "下一课讲光学镜架，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
