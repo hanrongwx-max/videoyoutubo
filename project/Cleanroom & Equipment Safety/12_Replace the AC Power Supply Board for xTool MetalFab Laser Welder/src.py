@@ -1,0 +1,210 @@
+# 12_Replace the AC Power Supply Board for xTool MetalFab Laser Welder 卡通剧本作者源
+# 原片为激光焊接设备厂家的售后维修教程（无旁白，只有字幕）：更换焊机的交流电源板。
+# 保留全部操作知识点 K1–K19，设备统称“手持式激光焊接机”；
+# 审查补充 S1–S6（认识“当心触电”标志、端子压接检查、黄绿线只作保护接地、专用插座不用插线板、漏电保护器定期试验、电气火灾先断电不用水）
+# 镜头：(知识点, 中文画面, 英文画面, 旁白[, 顶部文字[, [图示文字...]]])；每镜 5 秒，旁白不超过 20 字
+
+META = {
+    "title": "激光焊接机交流电源板的规范更换",
+    "points": {
+        "K1": "只限专业人员，先断电",
+        "K2": "高压和强激光的伤害",
+        "K3": "断电后仍有残余高压",
+        "K4": "全程戴绝缘手套",
+        "K5": "准备工具和备件",
+        "K6": "断开所有连接",
+        "K7": "锁住四个脚轮",
+        "K8": "静置放电和冷却",
+        "K9": "打开左侧门板",
+        "K10": "拆送丝安装板螺钉",
+        "K11": "拆下接地线",
+        "K12": "放平安装板",
+        "K13": "拆下电源板上的导线",
+        "K14": "拔下直流电源线",
+        "K15": "拆四角螺钉，取下旧板",
+        "K16": "新板四颗螺钉固定",
+        "K17": "对照参考图接回导线",
+        "K18": "插回直流电源线",
+        "K19": "装回面板和接地线",
+        "S1": "认识“当心触电”标志",
+        "S2": "端子接线要检查",
+        "S3": "黄绿线只作保护接地",
+        "S4": "专用插座，不用插线板",
+        "S5": "漏电保护器定期试验",
+        "S6": "电气起火：先断电，不用水",
+    },
+    "avoid": ["xTool", "X-Tool", "XTool", "X Tool", "MetalFab", "Metal Fab", "Schneider", "TeSys", "VIIP"],
+}
+
+SHOTS = [
+# 开场
+("开场", "欣欣站在激光焊接机旁，身后墙上是一个插座和配电箱，向镜头招手",
+ "The panda mascot stands beside a gray wheeled laser welding machine, with a wall socket and a small distribution box behind it, and waves at the camera.",
+ "这一课，看焊机的交流电源板怎样更换。", "激光焊接机交流电源板的规范更换"),
+("开场", "电网输电线、插头、电路板、焊机四个图标用箭头连起",
+ "Four icons joined by arrows: a power line tower, a plug, a circuit board and a laser welding machine. No people.",
+ "市电进机器，第一站就是这块板。", "", ["市电", "插头", "电源板", "焊机"]),
+# 情景
+("情景", "阿杰把焊机插头插在一个已经插满电器的多孔插线板上",
+ "The young male student plugs the laser welding machine into a crowded power strip already full of other plugs.",
+ "阿杰把焊机插在一个插满的插线板上。"),
+("情景", "插线板冒出一缕烟，焊机屏幕黑了",
+ "A thin wisp of smoke rises from the overloaded power strip and the machine's screen goes dark.",
+ "一开焊，插线板冒烟，焊机也不亮了。"),
+("情景", "小研立刻拉下墙上的开关，老李赶来检查",
+ "The female graduate student quickly switches off the wall breaker, and the facility engineer arrives to inspect.",
+ "小研先断电，老李检查后要换电源板。"),
+# S6
+("S6", "欣欣举起手掌，旁边配电箱开关被拉下",
+ "The panda mascot raises a paw beside a distribution box whose breaker has been switched off.",
+ "电器冒烟起火，第一步是断电。", "电气起火：先断电，不用水"),
+("S6", "二氧化碳灭火器和干粉灭火器打勾，水桶泼向电器打叉",
+ "Two icons with green check marks: a carbon dioxide fire extinguisher and a dry powder extinguisher; a bucket of water thrown at an electrical device is crossed out with a red X. No people.",
+ "用适用的灭火器，不能泼水。"),
+("S6", "小研打电话，旁边报告图标和数字119",
+ "The female graduate student makes a phone call beside a report icon and the number 119.",
+ "火控制不住打119，并报告负责人。", "", ["119"]),
+# S4
+("S4", "焊机插在墙上的专用插座，旁边空白标签",
+ "The laser welding machine plugged alone into a dedicated wall socket with a blank label beside it. No people.",
+ "大功率焊机，要接容量够的专用插座。", "专用插座，不用插线板"),
+("S4", "多孔插线板串着插线板的图标被打叉",
+ "An icon of power strips plugged into each other in a chain, crossed out with a red X. No people.",
+ "不用插线板，更不能串接、私拉电线。"),
+# K1
+("K1", "欣欣举着黄黑边框警示卡，卡面只有闪电和人形打叉图标",
+ "The panda mascot holds up a warning card with a yellow and black striped border, showing a lightning bolt icon and a crossed-out person icon.",
+ "换电源板只限专业人员动手。", "只限专业人员，先断电"),
+("K1", "老李把焊机电源开关拨到关",
+ "The facility engineer switches the main power switch of the laser welding machine to off.",
+ "先关机、断电。"),
+# K2
+("K2", "机箱剖面示意：一边闪电图标，一边激光束图标",
+ "A simple cutaway diagram of a machine cabinet with a lightning bolt icon on one side and a red laser beam icon on the other side. No people.",
+ "机内高压和强激光，会触电、烧伤。", "高压和强激光的伤害", ["高电压", "强激光"]),
+# K3
+("K3", "拔掉插头的焊机内部，一个模块上闪电图标，旁边沙漏",
+ "Inside an unplugged machine cabinet, one module shows a glowing lightning bolt icon, with an hourglass beside it. No people.",
+ "断电后仍有残余高压，要等待。", "断电后仍有残余高压"),
+# K4
+("K4", "老李戴上厚绝缘手套",
+ "The facility engineer pulls on thick insulated gloves.",
+ "全程戴好绝缘手套。", "全程戴绝缘手套"),
+# K5
+("K5", "工作台上摆着大小两把十字螺丝刀和一块新的黑色电源板",
+ "On a workbench lie two cross-head screwdrivers of different sizes and a new blank black power supply circuit board. No people.",
+ "备好大小两把十字刀和新电源板。", "准备工具和备件", ["大十字刀", "小十字刀", "新电源板"]),
+# K6
+("K6", "焊机背面接口全部空着，电源线放在一边",
+ "The back of the laser welding machine with all sockets empty; the unplugged power cable lies coiled on the floor. No people.",
+ "确认所有连接都已断开。", "断开所有连接"),
+# K7
+("K7", "老李踩下脚轮刹车",
+ "The facility engineer presses down the brake on a caster wheel with his foot.",
+ "四个脚轮全部锁住。", "锁住四个脚轮"),
+# K8
+("K8", "焊机静静放着，墙上时钟指针转动",
+ "The closed laser welding machine stands still while a wall clock shows time passing. No people.",
+ "按说明书规定静置，放电、冷却。", "静置放电和冷却"),
+# K9
+("K9", "老李打开焊机左侧门板",
+ "The facility engineer opens the hinged left side door of the laser welding machine.",
+ "打开左侧门板。", "打开左侧门板"),
+# K10
+("K10", "老李用十字刀拆送丝安装板周边螺钉，零件盒里螺钉渐多",
+ "The facility engineer removes the screws around the wire feeder mounting plate; a parts tray beside him fills with screws.",
+ "拆下安装板周边十四颗螺钉。", "拆送丝安装板螺钉"),
+# K11
+("K11", "老李用小十字刀拆黄绿色接地线的螺钉",
+ "The facility engineer uses a small cross-head screwdriver to remove the screw of the yellow-green earth wire.",
+ "再拆下接地线的螺钉。", "拆下接地线"),
+# K12
+("K12", "安装板放平，露出机内电气区",
+ "The mounting plate is laid outward, revealing neat wiring and blank modules inside the cabinet.",
+ "放平安装板，露出电气区。", "放平安装板"),
+# S1
+("S1", "机内一块黑色电路板，上面印着黄色三角闪电标志，旁边一个白色滤波器盒",
+ "Inside the cabinet, a black circuit board printed with a yellow triangle lightning warning symbol, next to a small white filter box. No people.",
+ "这就是交流电源板，接的是市电。", "认识“当心触电”标志"),
+("S1", "欣欣指着放大的当心触电警告标志",
+ "The panda mascot points at a large electric shock warning sign.",
+ "看到这个标志，就是当心触电。"),
+("S1", "欣欣摇手，手指靠近标志区域的图标被打叉",
+ "The panda mascot waves a paw; an icon of a finger reaching toward the marked area is crossed out with a red X.",
+ "没确认无电，标志附近一律不碰。"),
+# K13
+("K13", "小研给电源板接线拍照，老李逐个拧下端子螺丝",
+ "The female graduate student photographs the board wiring while the facility engineer unscrews the terminals one by one.",
+ "拍照留底后，拆下板上各根导线。", "拆下电源板上的导线"),
+# K14
+("K14", "老李拔下电源板上的直流电源线插头",
+ "The facility engineer unplugs the DC power cable connector from the board.",
+ "拔下直流电源线。", "拔下直流电源线"),
+# K15
+("K15", "老李拆下电路板四个角的螺钉",
+ "The facility engineer removes the four corner screws of the circuit board.",
+ "拆下四个角的螺钉。", "拆四角螺钉，取下旧板"),
+("K15", "旧电源板被取出",
+ "The old power supply board is lifted out of the cabinet.",
+ "取下旧电源板。"),
+# K16
+("K16", "新电源板放进原位，四颗螺钉拧紧",
+ "The new power supply board is placed in position and its four corner screws are tightened.",
+ "新板放回原位，四颗螺钉固定。", "新板四颗螺钉固定"),
+# K17
+("K17", "画面一角是接线参考图，老李逐根把导线接回端子",
+ "A small reference wiring picture in the corner while the facility engineer reconnects each wire to the board terminals.",
+ "对照参考图，一根一根接回导线。", "对照参考图接回导线"),
+("K17", "参考图和实物端子用虚线一一对应",
+ "Split view: a blank reference wiring picture and the real terminals, with matching dotted lines between them. No people.",
+ "位置、颜色都要和参考图一致。"),
+# S2
+("S2", "环形端子拧紧在螺钉下，铜丝全部包在端子里",
+ "Close view of a ring terminal tightened under a screw, with all copper strands neatly inside the terminal. No people.",
+ "端子要拧紧，铜丝不能露在外面。", "端子接线要检查"),
+("S2", "端子压着绝缘皮、铜丝外露分叉两个图标被打叉",
+ "Two icons: a terminal clamped on insulation and a terminal with frayed copper strands sticking out, both crossed out with a red X. No people.",
+ "压住绝缘皮、铜丝分叉，都会发热。"),
+("S2", "老李逐根轻拉导线",
+ "The facility engineer gently tugs each wire at the terminals.",
+ "接完逐根轻拉，确认不松。"),
+# S3
+("S3", "一根黄绿双色线特写，旁边接地符号",
+ "Close view of a yellow-green striped wire next to an earth symbol. No people.",
+ "黄绿双色线，是保护接地线。", "黄绿线只作保护接地"),
+("S3", "黄绿线接到别的端子的图标被打叉",
+ "An icon of a yellow-green wire connected to a wrong terminal, crossed out with a red X. No people.",
+ "只能接在接地端，不能挪作他用。"),
+# K18
+("K18", "直流电源线插回电源板",
+ "The DC power cable connector is plugged back into the new board.",
+ "插回直流电源线。", "插回直流电源线"),
+# K19
+("K19", "老李抬回安装板，插回送丝电机线",
+ "The facility engineer lifts the mounting plate back and plugs the wire feeder motor cable into the main board.",
+ "抬回安装板，接回送丝电机线。", "装回面板和接地线"),
+("K19", "接地线螺钉拧紧，周边螺钉装回，关上门板",
+ "The earth wire screw is tightened, the screws around the plate are refitted and the side door is closed.",
+ "装回接地线和螺钉，关好门板。"),
+# S5
+("S5", "墙上插座回路的漏电保护器，手指按下试验按钮，开关跳开",
+ "A finger presses the test button on a residual current circuit breaker for the socket circuit, and the breaker trips off.",
+ "插座回路要有漏电保护器。", "漏电保护器定期试验"),
+("S5", "日历图标和试验按钮图标并排",
+ "A calendar icon next to a test button icon. No people.",
+ "按规定定期按试验键，能跳才算好。"),
+("S5", "漏电保护器不跳闸，旁边空白停用牌",
+ "A breaker that does not trip when tested, with a blank out-of-service tag hanging on it. No people.",
+ "按了不跳，停用并报修。"),
+# 小结
+("小结", "欣欣站在焊机旁，身后浮现四个图标",
+ "The panda mascot stands beside the laser welding machine with four icons behind: an electric shock warning sign, a ring terminal, a yellow-green wire and a test button.",
+ "认得触电标志，端子接牢，接地不挪。", "小结", ["触电标志", "端子接牢", "黄绿接地", "漏保试验"]),
+("小结", "欣欣伸出手指数着",
+ "The panda mascot counts on its fingers.",
+ "专用插座，漏保常试，起火先断电。"),
+# 结尾
+("结尾", "欣欣、老李、小研和阿杰在焊机前挥手，焊机插在专用插座上",
+ "The panda mascot, the facility engineer, the female graduate student and the young male student wave goodbye beside the machine plugged into its dedicated socket.",
+ "电从哪里来，安全就从哪里管。下次见！"),
+]
