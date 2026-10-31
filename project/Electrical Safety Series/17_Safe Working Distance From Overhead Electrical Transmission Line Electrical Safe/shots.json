@@ -1,0 +1,492 @@
+{
+ "id": "17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe",
+ "edition": "单一版",
+ "series": "Electrical Safety Series",
+ "title": "离高压线远一点",
+ "seconds": 180,
+ "source_doc": "course/Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe.md",
+ "author_source": "project/Electrical Safety Series/17_Safe Working Distance From Overhead Electrical Transmission Line Electrical Safe/src.py",
+ "points": {
+  "K1": "高压线分等级：高压",
+  "K2": "超高压",
+  "K3": "特高压",
+  "K4": "必须保持安全距离",
+  "K5": "电压越高，离得越远",
+  "K6": "吊臂碰线最危险",
+  "S1": "不碰也会放电",
+  "S2": "长杆、梯子、风筝无人机",
+  "S3": "电线断落，别靠近",
+  "S4": "不攀爬电杆铁塔",
+  "S5": "机械靠近线路先报批"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在校园草坪上，远处是输电铁塔和架空线，向镜头招手",
+   "prompt_en": "The panda mascot stands on a campus lawn with transmission towers and overhead power lines in the distance and waves at the camera.",
+   "narration": "你好！今天聊聊头顶上的高压线。",
+   "overlay": [
+    "离高压线远一点"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "铁塔、闪电、距离箭头三个图标",
+   "prompt_en": "Three icons in a row: a transmission tower, a lightning bolt and a double-headed distance arrow. No people.",
+   "narration": "它有多危险，要离多远？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰扛着一根长长的铝合金采样杆走在路边，上方有电线",
+   "prompt_en": "The young male student carries a long aluminum sampling pole on his shoulder along a roadside, with power lines overhead.",
+   "narration": "阿杰扛着长采样杆去野外实习。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "杆子一头慢慢翘起，接近头顶电线",
+   "prompt_en": "The end of the long pole tilts upward and gets close to the overhead power line.",
+   "narration": "杆子一翘，离电线越来越近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研大喊着跑来，阿杰赶紧放平杆子",
+   "prompt_en": "The female graduate student shouts and runs over, and the young male student quickly lowers the pole flat.",
+   "narration": "小研一声喊，阿杰赶紧放平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣出现，指着上方的电线",
+   "prompt_en": "The panda mascot appears and points up at the overhead lines.",
+   "narration": "欣欣说：高压线，离远一点！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "高压线分等级：高压",
+   "scene": "欣欣站在三座不同高度的铁塔图标前",
+   "prompt_en": "The panda mascot stands in front of three transmission tower icons of increasing height.",
+   "narration": "输电线路按电压分等级。",
+   "overlay": [
+    "高压线分等级：高压"
+   ],
+   "labels": [
+    "高压"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "高压线分等级：高压",
+   "scene": "较矮的铁塔图标亮起",
+   "prompt_en": "The shortest transmission tower icon lights up. No people.",
+   "narration": "第一级叫高压线路，电压已经很高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "超高压",
+   "scene": "中等高度的铁塔图标亮起，闪电变大",
+   "prompt_en": "The middle transmission tower icon lights up and its lightning bolt grows bigger. No people.",
+   "narration": "更高一级，叫超高压线路。",
+   "overlay": [
+    "超高压"
+   ],
+   "labels": [
+    "超高压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "特高压",
+   "scene": "最高的铁塔图标亮起，闪电最大",
+   "prompt_en": "The tallest transmission tower icon lights up with the biggest lightning bolt. No people.",
+   "narration": "再往上，是特高压线路。",
+   "overlay": [
+    "特高压"
+   ],
+   "labels": [
+    "特高压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "特高压",
+   "scene": "空白标准手册图标",
+   "prompt_en": "A closed standards handbook with a blank cover. No people.",
+   "narration": "怎么分级，以国家现行标准为准。",
+   "overlay": [],
+   "labels": [
+    "以现行标准为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "必须保持安全距离",
+   "scene": "架空线下画出一圈半透明的禁入区",
+   "prompt_en": "A translucent keep-out zone drawn around an overhead power line. No people.",
+   "narration": "架空线周围，有一圈不能进的范围。",
+   "overlay": [
+    "必须保持安全距离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "必须保持安全距离",
+   "scene": "人形图标停在禁入区边界外",
+   "prompt_en": "A person pictogram stops outside the boundary of the keep-out zone. No people.",
+   "narration": "人和工具，都要留在圈外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压越高，离得越远",
+   "scene": "三条线路图标，禁入区一圈比一圈大",
+   "prompt_en": "Three power line icons whose keep-out zones grow larger with each one. No people.",
+   "narration": "电压越高，要离得越远。",
+   "overlay": [
+    "电压越高，离得越远"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压越高，离得越远",
+   "scene": "老李拿着空白规程手册对照",
+   "prompt_en": "The facility engineer checks a blank safety regulation handbook.",
+   "narration": "具体距离，按现行规程执行。",
+   "overlay": [],
+   "labels": [
+    "以现行规程为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压越高，离得越远",
+   "scene": "距离表格图标，格子全部空白",
+   "prompt_en": "An icon of a table with blank cells next to a transmission tower. No people.",
+   "narration": "不同电压，距离各不相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "起重机吊臂伸向架空线的图标打红叉",
+   "prompt_en": "An icon of a crane boom reaching toward an overhead power line, crossed out with a red X. No people.",
+   "narration": "最常见的事故：吊臂碰到电线。",
+   "overlay": [
+    "吊臂碰线最危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "电流沿吊臂传到车身，地面出现一圈圈波纹",
+   "prompt_en": "Current runs down the crane boom into the vehicle body, and ripples spread on the ground around it. No people.",
+   "narration": "电会沿着机械传下来，",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吊臂碰线最危险",
+   "scene": "周围站着的人形图标都被闪电波及",
+   "prompt_en": "Person pictograms standing around the crane are reached by lightning symbols. No people.",
+   "narration": "旁边站着的人也会受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不碰也会放电",
+   "scene": "长杆尚未碰到电线，中间跳出一道电弧",
+   "prompt_en": "A long pole has not yet touched the power line, but an electric arc jumps across the gap. No people.",
+   "narration": "高压线不用碰到，靠近也会放电。",
+   "overlay": [
+    "不碰也会放电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "不碰也会放电",
+   "scene": "欣欣摇手示意别靠近",
+   "prompt_en": "The panda mascot waves her paw in warning.",
+   "narration": "所以不能凑近“试试看”。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "长杆、梯子、风筝无人机",
+   "scene": "长梯、钓鱼竿、采样杆三个图标靠近电线，打红叉",
+   "prompt_en": "Icons of a long ladder, a fishing rod and a sampling pole near an overhead line, crossed out with a red X. No people.",
+   "narration": "长梯、钓竿、采样杆，远离电线。",
+   "overlay": [
+    "长杆、梯子、风筝无人机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "长杆、梯子、风筝无人机",
+   "scene": "两个学生把长梯放平抬着走",
+   "prompt_en": "Two students carry a long ladder horizontally, low and level.",
+   "narration": "搬长东西，放平了走，先抬头看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "长杆、梯子、风筝无人机",
+   "scene": "风筝和无人机靠近电线的图标打红叉",
+   "prompt_en": "Icons of a kite and a small drone near power lines, crossed out with a red X. No people.",
+   "narration": "放风筝、飞无人机，选空旷处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "电线断落，别靠近",
+   "scene": "一根电线断落在地面上，冒着火花",
+   "prompt_en": "A broken power line lies on the ground giving off sparks. No people.",
+   "narration": "看到电线断落在地，千万别靠近。",
+   "overlay": [
+    "电线断落，别靠近"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "电线断落，别靠近",
+   "scene": "人形图标双脚并拢小步离开",
+   "prompt_en": "A person pictogram moves away from the fallen line with feet together in small steps. No people.",
+   "narration": "已在附近，双脚并拢小步离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "电线断落，别靠近",
+   "scene": "小研远远地打电话，旁边有保卫处图标",
+   "prompt_en": "Standing far away, the female graduate student makes a phone call, with a campus security office icon beside her.",
+   "narration": "设专人看守，报告保卫处和供电部门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "不攀爬电杆铁塔",
+   "scene": "攀爬电杆、铁塔、变压器台的图标打红叉",
+   "prompt_en": "Icons of a person climbing a utility pole, a transmission tower and a transformer platform, crossed out with a red X. No people.",
+   "narration": "电杆、铁塔、变压器，不攀爬。",
+   "overlay": [
+    "不攀爬电杆铁塔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "不攀爬电杆铁塔",
+   "scene": "铁塔底部挂着当心触电和禁止攀登标志",
+   "prompt_en": "Electric shock warning and no climbing signs fixed at the base of a transmission tower. No people.",
+   "narration": "看到警示标志，绕开走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "机械靠近线路先报批",
+   "scene": "校园施工的吊车停在电线附近，老李拦下",
+   "prompt_en": "On campus, the facility engineer stops a crane that has parked near overhead lines.",
+   "narration": "车辆机械要靠近线路作业，",
+   "overlay": [
+    "机械靠近线路先报批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "机械靠近线路先报批",
+   "scene": "老李和保卫处值班员审阅空白申请表",
+   "prompt_en": "The facility engineer and the security officer review a blank application form.",
+   "narration": "先报批，由供电部门停电或防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "机械靠近线路先报批",
+   "scene": "专人在地面监护，手举停止手势",
+   "prompt_en": "A spotter on the ground raises a hand in a stop signal while a crane works far from the power line.",
+   "narration": "作业时还要专人监护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "欣欣站在铁塔图标前",
+   "prompt_en": "The panda mascot stands in front of a transmission tower icon.",
+   "narration": "高压线分等级，电压越高越危险。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "禁入区和距离箭头图标",
+   "prompt_en": "A keep-out zone icon with a distance arrow around a power line. No people.",
+   "narration": "人、工具、机械，都要离得够远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "长杆放平、断线绕行、禁止攀登三个图标",
+   "prompt_en": "Three icons: a pole carried flat, a person avoiding a fallen line and a no climbing sign. No people.",
+   "narration": "长物放平，断线远离，不攀爬。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣、小研和放平长杆的阿杰一起挥手",
+   "prompt_en": "The panda mascot waves goodbye with the female graduate student and the young male student, who holds the pole flat.",
+   "narration": "抬头看一眼，安全多一分，下次见！",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
