@@ -6,7 +6,7 @@
 
 | 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |
 |---|---|---|
-| Microbiology Biosafety | 59 / 59 | 17 / 59 |
+| Microbiology Biosafety | 59 / 59 | 18 / 59 |
 | BIORISK MANAGEMENT | 47 / 47 | 47 / 47 |
 | Laboratory Ergonomics & RSI | 36 / 36 | 0 / 34 |
 | Cleanroom & Equipment Safety | 33 / 33 | 0 / 33 |
@@ -656,6 +656,7 @@
 | Microbiology Biosafety | 15_What is biosecurity biosecurity biosafety laboratory | 国内版 | 什么是生物安保（国内版） | 42 | 3:30 | 5 / 3 | [剧本](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/script.md>) · [审查](<Microbiology Biosafety/15_What is biosecurity biosecurity biosafety laboratory（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub | 原著版 | 生物安保的六个关键方面 | 36 | 3:00 | 8 / 0 | [剧本](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub/script.md>) |
 | Microbiology Biosafety | 16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub | 国内版 | 生物安保的六个关键方面（国内版） | 46 | 3:50 | 8 / 3 | [剧本](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（国内版）/script.md>) · [审查](<Microbiology Biosafety/16_Key aspects of biosecurity, biosecurity microbiology laboratory raqbamicrohub（国内版）/审查报告.md>) |
+| Microbiology Biosafety | 17_Safety measures of microbiology lab General safety PPE GLP proper training labor | 原著版 | 微生物实验室的通用安全措施 | 33 | 2:45 | 8 / 0 | [剧本](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor/script.md>) |
 | Microbiology Biosafety | 17_Safety measures of microbiology lab General safety PPE GLP proper training labor | 国内版 | 微生物实验室的通用安全措施（国内版） | 43 | 3:35 | 8 / 3 | [剧本](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor（国内版）/script.md>) · [审查](<Microbiology Biosafety/17_Safety measures of microbiology lab General safety PPE GLP proper training labor（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 18_What is a laboratory report laboratory report microbiology lecture | 国内版 | 实验报告怎么写：从记录到安全（国内版） | 66 | 5:30 | 13 / 4 | [剧本](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/script.md>) · [审查](<Microbiology Biosafety/18_What is a laboratory report laboratory report microbiology lecture（国内版）/审查报告.md>) |
 | Microbiology Biosafety | 19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology | 国内版 | 认识安全技术说明书（国内版） | 41 | 3:25 | 7 / 3 | [剧本](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/script.md>) · [审查](<Microbiology Biosafety/19_Material Safety Data Sheet (MSDS) chemical safety laboratory microbiology（国内版）/审查报告.md>) |
