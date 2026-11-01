@@ -1,0 +1,1004 @@
+{
+ "id": "019_SOP与方案变更审查",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "SOP与方案变更审查",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/019_SOP与方案变更审查.md",
+ "author_source": "project/高校实验室安全/019_SOP与方案变更审查/src.py",
+ "points": {
+  "K1": "什么是标准操作规程",
+  "K2": "目标：谁来做结果都一样",
+  "K3": "规程要写哪些安全内容",
+  "K4": "动笔前：谁写、给谁看、为什么",
+  "K5": "政策、计划和程序",
+  "K6": "规程的四个部分",
+  "K7": "规程的格式",
+  "K8": "好规程看得懂、做得到",
+  "K9": "试用与观察验证",
+  "K10": "对照要求，批准后生效",
+  "K11": "按书面规程一步步做",
+  "K12": "规程不合适，反馈不私改",
+  "K13": "规程是活文件",
+  "K14": "规程更新要告知到人",
+  "K15": "新实验和高危实验先评估审批",
+  "K16": "禁止未经批准的实验",
+  "K17": "情景：接到一项新操作",
+  "K18": "新操作五步走",
+  "K19": "条件变了就重新评估",
+  "K20": "安全改动也是变更",
+  "K21": "放大不是简单乘倍数",
+  "K22": "改动布局先评估审批"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一本分步骤的规程手册，向镜头招手",
+   "prompt_en": "The panda mascot holds up a blank step-by-step procedure booklet and waves at the camera.",
+   "narration": "这一课讲SOP与方案变更审查。",
+   "overlay": [
+    "SOP与方案变更审查"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "规程手册和审批章两个图标",
+   "prompt_en": "Two icons: a procedure booklet and an approval stamp. No people.",
+   "narration": "规程怎么写、怎么用，变了怎么办？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着上周的记录，准备把实验做大、换个试剂",
+   "prompt_en": "The young male student holds last week's lab notebook, planning a bigger batch with a different reagent.",
+   "narration": "阿杰想把实验放大，再换个试剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挥手：照上次做就行",
+   "prompt_en": "The young male student waves a hand casually, confident.",
+   "narration": "他说：照上次的做法就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，拿出规程和审批单",
+   "prompt_en": "The female graduate student shakes her head and shows a blank procedure sheet and approval form.",
+   "narration": "小研说：条件变了，要先评估审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是标准操作规程",
+   "scene": "一份带编号步骤的书面规程",
+   "prompt_en": "A blank written procedure with numbered step icons. No people.",
+   "narration": "标准操作规程，是书面的操作步骤。",
+   "overlay": [
+    "什么是标准操作规程"
+   ],
+   "labels": [
+    "SOP"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是标准操作规程",
+   "scene": "几台不同仪器各配一份规程",
+   "prompt_en": "Several different instruments, each with its own blank procedure sheet. No people.",
+   "narration": "写明危险工作怎样安全地做，一事一规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是标准操作规程",
+   "scene": "倒金字塔管理控制层亮起",
+   "prompt_en": "The administrative control layer of an inverted pyramid glows with a clipboard icon. No people.",
+   "narration": "规程属于管理控制，照着做，不凭感觉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "目标：谁来做结果都一样",
+   "scene": "老周、小研、阿杰照同一份规程做，结果一致",
+   "prompt_en": "The older man, the female graduate student and the young male student follow the same procedure and get the same result.",
+   "narration": "目标：不同的人照着做，结果都一样。",
+   "overlay": [
+    "目标：谁来做结果都一样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "目标：谁来做结果都一样",
+   "scene": "三个人结果各不相同，问号",
+   "prompt_en": "Three results that all differ, with a question mark. No people.",
+   "narration": "各做各的、结果不同，说明规程要改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "目标：谁来做结果都一样",
+   "scene": "一份规程对应一个结果的图示",
+   "prompt_en": "One procedure sheet linked by an arrow to one result icon. No people.",
+   "narration": "一份规程，只管一个结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "规程要写哪些安全内容",
+   "scene": "特殊设备和危化品柜旁各一份规程",
+   "prompt_en": "A special instrument and a hazardous chemical cabinet, each with a blank procedure sheet. No people.",
+   "narration": "特殊设备和危险化学品，要有操作规程。",
+   "overlay": [
+    "规程要写哪些安全内容"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "规程要写哪些安全内容",
+   "scene": "规程上一排图标：范围、危害、防护、故障、急救、废物、维护",
+   "prompt_en": "A procedure sheet with a row of icons: scope, hazard, goggles, a broken gear, a first aid kit, a waste container and a wrench. No people.",
+   "narration": "写明范围、危害、防护和故障处理。",
+   "overlay": [],
+   "labels": [
+    "危害",
+    "防护",
+    "故障",
+    "急救",
+    "废物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "规程要写哪些安全内容",
+   "scene": "【实拍】仪器旁张贴的操作规程和责任人信息牌（本校现场，空白或打码，无品牌）",
+   "prompt_en": "A procedure sheet and a responsible-person card posted on the wall beside an instrument.",
+   "narration": "还有急救、处置和维护，挂在仪器旁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "动笔前：谁写、给谁看、为什么",
+   "scene": "管理人员、一线人员和负责人围桌商量",
+   "prompt_en": "The safety administrator, the female graduate student and the older man discuss around a table.",
+   "narration": "动笔前先问：谁来写？一起商量。",
+   "overlay": [
+    "动笔前：谁写、给谁看、为什么"
+   ],
+   "labels": [
+    "谁写",
+    "给谁看",
+    "为什么"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "动笔前：谁写、给谁看、为什么",
+   "scene": "使用者在草稿上提意见",
+   "prompt_en": "The young male student adds comments to a blank draft procedure.",
+   "narration": "给使用者看，就请使用者参与。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "动笔前：谁写、给谁看、为什么",
+   "scene": "废物产生、分类、标识、运走的流程图",
+   "prompt_en": "A flow chart: waste generated, sorted into three bins, labeled, then carried away. No people.",
+   "narration": "先把全过程想清楚，再下笔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "政策、计划和程序",
+   "scene": "三层图：指南针、清单、一张步骤卡",
+   "prompt_en": "Three stacked icons: a compass, a checklist and a single step card. No people.",
+   "narration": "政策定方向，计划排事，程序写做法。",
+   "overlay": [
+    "政策、计划和程序"
+   ],
+   "labels": [
+    "政策",
+    "计划",
+    "程序"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "政策、计划和程序",
+   "scene": "一个计划拆成多份规程卡片",
+   "prompt_en": "One plan card splits into several procedure cards: collect, sort, transport, decontaminate, label. No people.",
+   "narration": "一个计划，拆成多份规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "规程的四个部分",
+   "scene": "规程分成四块：条件、背景、行动、文件",
+   "prompt_en": "A procedure sheet divided into four blank blocks. No people.",
+   "narration": "一份规程有四个部分。",
+   "overlay": [
+    "规程的四个部分"
+   ],
+   "labels": [
+    "条件",
+    "背景",
+    "行动",
+    "文件"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "规程的四个部分",
+   "scene": "条件块：人、时钟、问号、地点图标",
+   "prompt_en": "The first block shows a person, a clock, a question mark and a location pin. No people.",
+   "narration": "条件：谁用、何时、为何、在哪儿用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "规程的四个部分",
+   "scene": "行动块：一步一勾的检查单",
+   "prompt_en": "The action block becomes a checklist with boxes being ticked one by one. No people.",
+   "narration": "行动：每一步写清，一步一勾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "规程的四个部分",
+   "scene": "文件块：附录里的法规书本图标",
+   "prompt_en": "The documents block shows law book icons in an appendix. No people.",
+   "narration": "文件：附录列出相关法规和指南。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "规程的格式",
+   "scene": "规程封面：受控标记和修订号的空白方框",
+   "prompt_en": "A procedure cover with a blank controlled-document stamp box and a revision number box. No people.",
+   "narration": "封面写明受控文件和修订号。",
+   "overlay": [
+    "规程的格式"
+   ],
+   "labels": [
+    "受控",
+    "修订号"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "规程的格式",
+   "scene": "某一步旁边有警告三角标志",
+   "prompt_en": "One step in the procedure has a warning triangle beside it. No people.",
+   "narration": "有健康风险的步骤，要写警示。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "规程的格式",
+   "scene": "各版本规程归档进文件柜",
+   "prompt_en": "Several versions of the procedure are filed into a cabinet. No people.",
+   "narration": "写好联系人，各版本归档备查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "好规程看得懂、做得到",
+   "scene": "五步循环图：分析、设计、编写、实施、评估",
+   "prompt_en": "A five-step cycle diagram with arrows forming a loop. No people.",
+   "narration": "写规程五步：分析、设计、编写、实施、评估。",
+   "overlay": [
+    "好规程看得懂、做得到"
+   ],
+   "labels": [
+    "分析",
+    "设计",
+    "编写",
+    "实施",
+    "评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "好规程看得懂、做得到",
+   "scene": "循环箭头回到起点",
+   "prompt_en": "The cycle arrow returns to the start and loops again. No people.",
+   "narration": "评估完再回头改，循环往复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "好规程看得懂、做得到",
+   "scene": "阿杰看懂规程，点头动手",
+   "prompt_en": "The young male student reads the procedure, nods, and starts working confidently.",
+   "narration": "好规程看得懂、做得到、查得清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "试用与观察验证",
+   "scene": "小研在实验台试用新规程，旁边四个问号",
+   "prompt_en": "The female graduate student tries a new procedure at the bench, with four question marks beside her.",
+   "narration": "新规程先试用：看得懂吗？做得到吗？",
+   "overlay": [
+    "试用与观察验证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "试用与观察验证",
+   "scene": "两人结果对比，旁边记录本",
+   "prompt_en": "Two results compared side by side with a notebook recording problems. No people.",
+   "narration": "结果对吗？不同人结果一样吗？记下问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "试用与观察验证",
+   "scene": "观察表只有“是”和“否”两个框",
+   "prompt_en": "An observation sheet with only yes and no check boxes. No people.",
+   "narration": "验证用观察题，只答是或否。",
+   "overlay": [],
+   "labels": [
+    "是",
+    "否"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "对照要求，批准后生效",
+   "scene": "规程草稿旁放着国家标准书本和校规本",
+   "prompt_en": "A draft procedure next to national standard books and a university rule book. No people.",
+   "narration": "编规程，要对照国家和学校的要求。",
+   "overlay": [
+    "对照要求，批准后生效"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "对照要求，批准后生效",
+   "scene": "负责人签字批准，审批记录归档",
+   "prompt_en": "The older man signs to approve the procedure, and the approval record is filed.",
+   "narration": "批准后才生效，批准过程留记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "按书面规程一步步做",
+   "scene": "阿杰按规程一步一步打勾操作",
+   "prompt_en": "The young male student follows the procedure step by step, ticking each box.",
+   "narration": "严格按书面规程，一步一步做。",
+   "overlay": [
+    "按书面规程一步步做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "按书面规程一步步做",
+   "scene": "跳步的箭头被打叉",
+   "prompt_en": "An arrow skipping over a step is crossed out with a red X. No people.",
+   "narration": "不跳步，不凭感觉改步骤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "规程不合适，反馈不私改",
+   "scene": "有人在规程上涂改，被打叉",
+   "prompt_en": "A pen scribbling changes on a procedure sheet, crossed out with a red X. No people.",
+   "narration": "觉得某步不合适，不能自己涂改。",
+   "overlay": [
+    "规程不合适，反馈不私改"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "规程不合适，反馈不私改",
+   "scene": "阿杰把问题反馈给王老师",
+   "prompt_en": "The young male student reports a problem with the procedure to the safety administrator.",
+   "narration": "把问题反馈上去，批准新版再照做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "规程是活文件",
+   "scene": "规程上一个循环的日历图标",
+   "prompt_en": "A procedure sheet with a recurring calendar icon. No people.",
+   "narration": "规程是活的，要定期审查。",
+   "overlay": [
+    "规程是活文件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "规程是活文件",
+   "scene": "险情、事故、新设备、新规定四个图标指向规程",
+   "prompt_en": "Four icons, a near-miss, an accident, a new instrument and a new rule book, point to the procedure. No people.",
+   "narration": "出了险情事故、有新危害新规定，就要改。",
+   "overlay": [],
+   "labels": [
+    "险情",
+    "新设备",
+    "新规定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "规程是活文件",
+   "scene": "旧版规程被撤下，墙上只留新版",
+   "prompt_en": "An old version of the procedure is taken down, leaving only the new version on the wall. No people.",
+   "narration": "旧版撤下，现场只留最新版。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "规程更新要告知到人",
+   "scene": "王老师给大家讲解新版规程",
+   "prompt_en": "The safety administrator explains the new procedure version to the team.",
+   "narration": "规程更新，要通知到每位使用者。",
+   "overlay": [
+    "规程更新要告知到人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "规程更新要告知到人",
+   "scene": "每人在培训记录上签字",
+   "prompt_en": "Each team member signs a blank training record.",
+   "narration": "先培训，签字确认，再执行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "新实验和高危实验先评估审批",
+   "scene": "阿杰写好新实验的步骤和评估表",
+   "prompt_en": "The young male student writes new experiment steps and a blank risk assessment form.",
+   "narration": "做新实验，先写书面风险评估。",
+   "overlay": [
+    "新实验和高危实验先评估审批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "新实验和高危实验先评估审批",
+   "scene": "电、热、急救三个问号",
+   "prompt_en": "Three question marks over an electricity icon, a heat icon and a first aid kit. No people.",
+   "narration": "哪里有电？哪里会烫？出事怎么办？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "新实验和高危实验先评估审批",
+   "scene": "导师审核签字",
+   "prompt_en": "The older man reviews and signs the form.",
+   "narration": "导师和负责人审核批准，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "新实验和高危实验先评估审批",
+   "scene": "审批单从实验室传到学院、再到学校",
+   "prompt_en": "An approval form passes from a lab icon to a school office icon to a university office icon. No people.",
+   "narration": "高风险实验，按本校规定逐级报备。",
+   "overlay": [],
+   "labels": [
+    "实验室",
+    "学院",
+    "学校"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "禁止未经批准的实验",
+   "scene": "一个人偷偷做实验的图标被打叉",
+   "prompt_en": "An icon of someone secretly doing an unapproved experiment, crossed out with a red X. No people.",
+   "narration": "未经批准的实验，绝对不允许。",
+   "overlay": [
+    "禁止未经批准的实验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "禁止未经批准的实验",
+   "scene": "出事时周围的人不知所措",
+   "prompt_en": "People in a lab look confused at an unknown setup, not knowing what to do. No faces.",
+   "narration": "出了事，没人知道怎么处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "禁止未经批准的实验",
+   "scene": "论文选题本和实验台之间一道审批门",
+   "prompt_en": "A thesis topic notebook and a lab bench separated by an approval gate. No people.",
+   "narration": "能写的题目，不等于能自己做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "情景：接到一项新操作",
+   "scene": "老周把一张新任务卡交给小研",
+   "prompt_en": "The older man hands a new task card to the female graduate student.",
+   "narration": "老周交给小研一项从没做过的新操作。",
+   "overlay": [
+    "情景：接到一项新操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "情景：接到一项新操作",
+   "scene": "小研翻现有评估表，新步骤那栏空白",
+   "prompt_en": "The female graduate student flips through the existing assessment form; the row for the new step is empty.",
+   "narration": "现有评估和规程，没写到新步骤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "情景：接到一项新操作",
+   "scene": "阿杰说先做再说，被打叉；溅洒、气溶胶、锐器问号",
+   "prompt_en": "The young male student says let's just do it, crossed out; question marks over splash, aerosol and sharps icons.",
+   "narration": "会不会有新风险？不能先做了再说。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "新操作五步走",
+   "scene": "小研停下，向老周报告",
+   "prompt_en": "The female graduate student stops and reports her concern to the older man.",
+   "narration": "一，先停下，报告实验室负责人。",
+   "overlay": [
+    "新操作五步走"
+   ],
+   "labels": [
+    "停",
+    "评",
+    "改",
+    "训",
+    "复"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "新操作五步走",
+   "scene": "二人一起评估、修订规程，老周签字",
+   "prompt_en": "They assess the new step together, revise the procedure, and the older man signs it.",
+   "narration": "二评估，三修订规程，审核签字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "新操作五步走",
+   "scene": "王老师培训，老周在旁指导小研第一次操作",
+   "prompt_en": "The safety administrator trains her, and the older man supervises her first attempt.",
+   "narration": "四，培训到位，首次在指导下做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "新操作五步走",
+   "scene": "做完复查，日历上标出定期复审",
+   "prompt_en": "After the work, a review checklist and a calendar mark for periodic review. No people.",
+   "narration": "五，做完复查，定期复审。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "条件变了就重新评估",
+   "scene": "规模、试剂、设备、人员、场所五个图标",
+   "prompt_en": "Five icons: a scale-up arrow, a reagent bottle, an instrument, a person and a room. No people.",
+   "narration": "规模、试剂、设备、人员、场所变了。",
+   "overlay": [
+    "条件变了就重新评估"
+   ],
+   "labels": [
+    "规模",
+    "试剂",
+    "设备",
+    "人员",
+    "场所"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "条件变了就重新评估",
+   "scene": "温度计和气瓶图标也在变",
+   "prompt_en": "A thermometer and a gas cylinder icon also change. No people.",
+   "narration": "换温度、换气体，都算变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "条件变了就重新评估",
+   "scene": "评估表重新填写，负责人确认",
+   "prompt_en": "The assessment form is filled in again and the older man confirms it.",
+   "narration": "变了就重新评估，负责人同意再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "条件变了就重新评估",
+   "scene": "更新后的评估讲给每个人",
+   "prompt_en": "The updated assessment is explained to every team member.",
+   "narration": "更新后重新审核，讲给每个人听。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "安全改动也是变更",
+   "scene": "换了一种手套，样品旁出现问号",
+   "prompt_en": "A different type of glove next to a sample with a question mark. No people.",
+   "narration": "换了手套，可能影响实验结果。",
+   "overlay": [
+    "安全改动也是变更"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "安全改动也是变更",
+   "scene": "换了设备，评估表和记录本",
+   "prompt_en": "A new instrument next to a blank assessment form and a notebook. No people.",
+   "narration": "再小的安全改动，也要评估和记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "放大不是简单乘倍数",
+   "scene": "小烧瓶变大反应釜，热量、压力、气溶胶图标变大",
+   "prompt_en": "A small flask grows into a large reactor, while heat, pressure and aerosol icons grow bigger. No people.",
+   "narration": "放大不是乘倍数，热量压力都变了。",
+   "overlay": [
+    "放大不是简单乘倍数"
+   ],
+   "labels": [
+    "热量",
+    "压力",
+    "气溶胶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "放大不是简单乘倍数",
+   "scene": "只看毒性、漏掉爆炸的评估表，爆炸图标",
+   "prompt_en": "An assessment form that checks only toxicity, with an explosion icon breaking through. No people.",
+   "narration": "原片案例：放大上百倍，漏评爆炸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "放大不是简单乘倍数",
+   "scene": "放大前重新评估、审批",
+   "prompt_en": "A scale-up plan with a new assessment form and an approval stamp. No people.",
+   "narration": "放大前，重新评估、经过审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "改动布局先评估审批",
+   "scene": "老李想在实验室加隔断，旁边审批单",
+   "prompt_en": "The facility engineer plans to add a partition in the lab, next to a blank approval form.",
+   "narration": "改布局、加隔断，先评估审批。",
+   "overlay": [
+    "改动布局先评估审批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "改动布局先评估审批",
+   "scene": "改完后检测仪器检测，合格打勾",
+   "prompt_en": "After the change, a testing device checks the room and shows a green check. No people.",
+   "narration": "改完重新检测，合格再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "规程循环：写、批、训、做、改",
+   "prompt_en": "A loop of icons: write, approve, train, follow, revise. No people.",
+   "narration": "规程写清楚、批准、培训、照做、常更新。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "新实验、高危实验旁的审批章",
+   "prompt_en": "An approval stamp next to a new experiment icon and a high-risk experiment icon. No people.",
+   "narration": "新实验、高危实验，先评估审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "变化图标指向重新评估",
+   "prompt_en": "A change icon points to a fresh assessment form. No people.",
+   "narration": "条件一变，重新评估再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣穿好实验服、束起头发，挥手",
+   "prompt_en": "The panda mascot wearing a lab coat, with closed-toe shoes, waves goodbye.",
+   "narration": "下一课，讲着装要求与个人卫生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
