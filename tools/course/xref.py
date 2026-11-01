@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """列出《高校实验室安全》各课说明书和剧本中的跨课引用（“第 NNN 课”），附被引用课的课名和上下文，便于人工核对。
 
-用法：python3 tools/course/xref.py [--bad]     --bad 只列出引用了不存在课号的地方
+用法：python3 tools/course/xref.py [--bad] [课号 ...]   --bad 只列出引用了不存在课号的地方；给课号时只看这些课里的引用
 输出：每行 “引用课 → 被引用课号 被引用课名 ｜ 上下文”；课号不存在的标“！不存在”。
 """
 import csv
@@ -16,6 +16,7 @@ REF = re.compile(r"第\s*0*(\d{1,3})\s*[、，,和至–-]?\s*(?:0*(\d{1,3})\s*)
 
 def main():
     only_bad = "--bad" in sys.argv
+    want = {a.zfill(3) for a in sys.argv[1:] if a.isdigit()}
     syl = {r["lesson_id"]: r["课名"] for r in
            csv.DictReader(open(ROOT / "curriculum" / "syllabus.tsv", encoding="utf-8"), delimiter="\t")}
     files = sorted((ROOT / "course" / COURSE).glob("[0-9][0-9][0-9]_*.md")) + \
@@ -24,6 +25,8 @@ def main():
     for f in files:
         src = f.parent.name[:3] if f.name == "src.py" else f.name[:3]
         kind = "剧本" if f.name == "src.py" else "说明书"
+        if want and src not in want:
+            continue
         for ln in f.read_text(encoding="utf-8").splitlines():
             for m in REF.finditer(ln):
                 for g in m.groups():
