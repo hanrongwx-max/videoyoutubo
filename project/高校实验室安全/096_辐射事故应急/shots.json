@@ -1,0 +1,966 @@
+{
+ "id": "096_辐射事故应急",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射事故应急",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/096_辐射事故应急.md",
+ "author_source": "project/高校实验室安全/096_辐射事故应急/src.py",
+ "points": {
+  "K1": "少见但严重：按程序办，不走捷径",
+  "K2": "应急预案、物资与演练",
+  "S1": "辐射事故的分级",
+  "K3": "发现异常先做四件事",
+  "K4": "报告：逐级上报，不瞒报",
+  "K5": "放射源丢失被盗：立即报告",
+  "K6": "遗失源的处置顺序",
+  "K7": "卡源或源破损：撤离、隔离、报告",
+  "K8": "不明金属物：不捡不碰",
+  "K9": "疑似超剂量照射",
+  "K10": "洒漏：一滴也算，先隔离",
+  "K11": "控制住再去污，测过才解除",
+  "K12": "在场人员：冷静、不伸手、等放行",
+  "K13": "人员沾污与疑似摄入",
+  "K14": "写清事件经过",
+  "K15": "事后调查与整改"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个贴着辐射标志的应急箱",
+   "prompt_en": "The panda mascot holds up an emergency kit with a radiation warning label.",
+   "narration": "这一课讲辐射事故应急。",
+   "overlay": [
+    "辐射事故应急"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研分装时药瓶滑落，药液洒在托盘外",
+   "prompt_en": "The female graduate student drops a small vial while dispensing and liquid splashes outside the tray.",
+   "narration": "小研分装时，药液洒到了台面上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着纸巾冲过来想擦",
+   "prompt_en": "The young male student rushes over with a paper towel to wipe it up.",
+   "narration": "阿杰拿着纸巾冲过来想帮忙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研抬手示意他停下，指向门外",
+   "prompt_en": "The female graduate student raises a hand to stop him and points to the door.",
+   "narration": "小研说：别过来，先隔离，再报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "少见但严重：按程序办，不走捷径",
+   "scene": "辐射事件图标很少，但旁边警示很大",
+   "prompt_en": "Diagram: a rare radiation incident icon with a large warning mark beside it. No text.",
+   "narration": "辐射事故少见，后果同样严重。",
+   "overlay": [
+    "少见但严重：按程序办，不走捷径"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "少见但严重：按程序办，不走捷径",
+   "scene": "捷径小路打叉，按步骤的大路打钩",
+   "prompt_en": "Diagram: a shortcut path crossed out and a step by step path checked. No text.",
+   "narration": "不走捷径，每一步按预案和规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "少见但严重：按程序办，不走捷径",
+   "scene": "处置时也守时间距离屏蔽，剂量越低越好",
+   "prompt_en": "Diagram: a responder using time, distance and shielding icons, a small dose bar. No text.",
+   "narration": "处置时也要合理可行尽量少受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "应急预案、物资与演练",
+   "scene": "学校和实验室各有一份应急预案",
+   "prompt_en": "Diagram: a university emergency plan and a lab emergency plan side by side. No text.",
+   "narration": "学校和实验室都要有辐射应急预案。",
+   "overlay": [
+    "应急预案、物资与演练"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "应急预案、物资与演练",
+   "scene": "【实拍】辐射应急物资箱打开的特写：手套、鞋套、吸水纸、塑料袋、警示带、标签（不含放射源）",
+   "prompt_en": "Close-up: an open radiation spill kit with gloves, shoe covers, absorbent paper, bags, warning tape and labels.",
+   "narration": "应急物资齐全，放在固定位置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "应急预案、物资与演练",
+   "scene": "门边贴着应急电话和流程图",
+   "prompt_en": "Diagram: an emergency phone list and a flow chart posted by the door, blank. No text.",
+   "narration": "应急电话和流程贴在显眼处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "应急预案、物资与演练",
+   "scene": "全组参加演练",
+   "prompt_en": "Diagram: a research group running an emergency drill together. No text.",
+   "narration": "定期演练，人人知道怎么做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "辐射事故的分级",
+   "scene": "四级台阶：特别重大、重大、较大、一般",
+   "prompt_en": "Diagram: four steps of severity, from the highest to the lowest. No text.",
+   "narration": "辐射事故分为四个等级。",
+   "overlay": [
+    "辐射事故的分级"
+   ],
+   "labels": [
+    "特别重大",
+    "重大",
+    "较大",
+    "一般"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "辐射事故的分级",
+   "scene": "源类别、人员受照、污染范围三个图标",
+   "prompt_en": "Diagram: three icons, the source class, people exposed and the area contaminated. No text.",
+   "narration": "按源的类别、受照和影响范围定级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "辐射事故的分级",
+   "scene": "小源丢失或超限值照射也算事故",
+   "prompt_en": "Diagram: a small lost source and a dose bar above the yearly limit, both with an incident mark. No text.",
+   "narration": "小源丢失或超限值照射，也是事故。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "辐射事故的分级",
+   "scene": "王老师对照条例文件",
+   "prompt_en": "The safety administrator checks the incident against a regulation document.",
+   "narration": "具体分级以现行条例为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "发现异常先做四件事",
+   "scene": "四个图标：停止、救人、报告、守住现场",
+   "prompt_en": "Diagram: four step icons, stop work, help the injured, report and guard the scene. No text.",
+   "narration": "发现异常：停、救、报、守。",
+   "overlay": [
+    "发现异常先做四件事"
+   ],
+   "labels": [
+    "停止",
+    "救人",
+    "报告",
+    "守现场"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "发现异常先做四件事",
+   "scene": "关机、源放回、人后退",
+   "prompt_en": "Diagram: a device switched off, people stepping back from the area. No text.",
+   "narration": "立即停止操作，人员后退。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "发现异常先做四件事",
+   "scene": "有人受伤，先救人，拨打120",
+   "prompt_en": "Diagram: an injured person being helped and a phone showing 120. No text.",
+   "narration": "有人受伤，救命第一，拨打120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "发现异常先做四件事",
+   "scene": "因辐射犹豫不救打叉",
+   "prompt_en": "Diagram: a person hesitating to help because of radiation, crossed out. No text.",
+   "narration": "绝不能因为辐射耽误抢救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "发现异常先做四件事",
+   "scene": "隔离、控制、去污三步",
+   "prompt_en": "Diagram: three steps, isolate, control, decontaminate. No text.",
+   "narration": "原则：隔离、控制，再去污。",
+   "overlay": [],
+   "labels": [
+    "隔离",
+    "控制",
+    "去污"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告：逐级上报，不瞒报",
+   "scene": "报告链：实验室负责人、学院、学校辐射安全管理部门和保卫处",
+   "prompt_en": "Diagram: a reporting chain from the lab head to the school and the university radiation office and security office. No text.",
+   "narration": "报负责人、学院和学校主管部门。",
+   "overlay": [
+    "报告：逐级上报，不瞒报"
+   ],
+   "labels": [
+    "负责人",
+    "学院",
+    "学校",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告：逐级上报，不瞒报",
+   "scene": "学校再报生态环境、公安、卫生部门",
+   "prompt_en": "Diagram: the university reporting to environmental, police and health authorities. No text.",
+   "narration": "学校按规定报生态环境、公安、卫生。",
+   "overlay": [],
+   "labels": [
+    "生态环境",
+    "公安",
+    "卫生健康"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告：逐级上报，不瞒报",
+   "scene": "夜里打学校值班电话",
+   "prompt_en": "Diagram: a night scene with a phone call to the campus duty line. No text.",
+   "narration": "夜里找不到人，打学校值班电话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "报告：逐级上报，不瞒报",
+   "scene": "隐瞒、拖延、私自处理三个图标打叉",
+   "prompt_en": "Diagram: hiding, delaying and handling it alone, three icons crossed out. No text.",
+   "narration": "不隐瞒、不拖延、不私自处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "放射源丢失被盗：立即报告",
+   "scene": "源柜里空了一格",
+   "prompt_en": "Diagram: an empty slot in a source cabinet. No text.",
+   "narration": "发现源不见了，一分钟也别拖。",
+   "overlay": [
+    "放射源丢失被盗：立即报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "放射源丢失被盗：立即报告",
+   "scene": "保卫处值班员接电话",
+   "prompt_en": "The security officer answers an urgent phone call.",
+   "narration": "报负责人、学院和保卫处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "放射源丢失被盗：立即报告",
+   "scene": "自己偷偷找、改账打叉",
+   "prompt_en": "Diagram: secretly searching and changing the ledger, both crossed out. No text.",
+   "narration": "不要自己偷偷找，不改台账。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "遗失源的处置顺序",
+   "scene": "走廊上遗落的源，路人匆匆走过",
+   "prompt_en": "Diagram: a lost source in a corridor, people walking past quickly at a distance. No text.",
+   "narration": "源遗落在走廊，路过的人也可能受照。",
+   "overlay": [
+    "遗失源的处置顺序"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "遗失源的处置顺序",
+   "scene": "专业人员用长柄工具把源收回屏蔽容器",
+   "prompt_en": "Diagram: trained staff recovering the source into a shielded container with long tools. No text.",
+   "narration": "第一，由专业人员收回屏蔽。",
+   "overlay": [],
+   "labels": [
+    "收回",
+    "清场",
+    "通知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "遗失源的处置顺序",
+   "scene": "清场，拉警戒",
+   "prompt_en": "Diagram: the corridor cleared and barrier tape put up. No text.",
+   "narration": "第二，清场，不让更多人靠近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "遗失源的处置顺序",
+   "scene": "通知负责人和管理部门",
+   "prompt_en": "Diagram: a call to the lab head and the radiation office. No text.",
+   "narration": "第三，立刻通知负责人和管理部门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "遗失源的处置顺序",
+   "scene": "登记所有可能受照的人",
+   "prompt_en": "Diagram: a list of everyone who may have been near the source. No text.",
+   "narration": "可能受照的人都要登记、评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "卡源或源破损：撤离、隔离、报告",
+   "scene": "探伤机的源卡在导管里收不回",
+   "prompt_en": "Diagram: a source stuck in the guide tube of an inspection camera. No text.",
+   "narration": "源卡住收不回，就是卡源。",
+   "overlay": [
+    "卡源或源破损：撤离、隔离、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "卡源或源破损：撤离、隔离、报告",
+   "scene": "人员撤到警戒线外",
+   "prompt_en": "Diagram: workers moving back beyond the barrier line. No text.",
+   "narration": "人员撤离，扩大警戒，不要乱碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "卡源或源破损：撤离、隔离、报告",
+   "scene": "源壳疑似破损，放回容器隔离",
+   "prompt_en": "Diagram: a sealed source suspected to be damaged, isolated in a container. No text.",
+   "narration": "怀疑源破损泄漏，先隔离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "卡源或源破损：撤离、隔离、报告",
+   "scene": "等专业人员处置，打电话报告",
+   "prompt_en": "Diagram: waiting at a safe distance for specialists while reporting by phone. No text.",
+   "narration": "立即报告，等专业人员处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不明金属物：不捡不碰",
+   "scene": "地上一个不明金属小件",
+   "prompt_en": "Diagram: a small unknown metal object lying on the ground. No text.",
+   "narration": "看到不明金属件，不捡、不碰。",
+   "overlay": [
+    "不明金属物：不捡不碰"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不明金属物：不捡不碰",
+   "scene": "带辐射标志的物品，伸手的图标打叉",
+   "prompt_en": "Diagram: a hand reaching for an object with a radiation label, crossed out. No text.",
+   "narration": "带辐射标志的，更不能拿走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不明金属物：不捡不碰",
+   "scene": "退远一点，守住现场，报告",
+   "prompt_en": "Diagram: a person stepping back, guarding the spot and calling. No text.",
+   "narration": "退远一点，守住现场，立即报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "疑似超剂量照射",
+   "scene": "设备没关、联锁失效、标志不全三个图标",
+   "prompt_en": "Diagram: three causes, a device left on, a failed interlock and a missing sign. No text.",
+   "narration": "超量照射常因没关机、联锁失效。",
+   "overlay": [
+    "疑似超剂量照射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "疑似超剂量照射",
+   "scene": "先离开现场，防止继续受照",
+   "prompt_en": "The young male student leaves the room quickly.",
+   "narration": "怀疑受照，先离开，防止继续受照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "疑似超剂量照射",
+   "scene": "剂量计马上送检",
+   "prompt_en": "Diagram: a dosimeter sent off for urgent reading. No text.",
+   "narration": "剂量计马上送检，估算剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "疑似超剂量照射",
+   "scene": "剂量异常、剂量计丢失都报告",
+   "prompt_en": "Diagram: a high dose report and a lost dosimeter, both reported. No text.",
+   "narration": "剂量异常、剂量计丢失，都要报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "疑似超剂量照射",
+   "scene": "没症状也就医检查",
+   "prompt_en": "Diagram: a person without symptoms still going to a doctor. No text.",
+   "narration": "没症状也别侥幸，按安排检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "洒漏：一滴也算，先隔离",
+   "scene": "地上一两滴药液也是溢洒",
+   "prompt_en": "Diagram: just one or two drops on the floor, marked as a spill. No text.",
+   "narration": "哪怕一两滴，也算溢洒。",
+   "overlay": [
+    "洒漏：一滴也算，先隔离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "洒漏：一滴也算，先隔离",
+   "scene": "告诉旁人，人员离开污染区",
+   "prompt_en": "Diagram: a person warning others and everyone stepping out of the spill area. No text.",
+   "narration": "告诉旁人，离开污染区域。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "洒漏：一滴也算，先隔离",
+   "scene": "【实拍】用警示带和标志围出溢洒区域（有色清水模拟，不用放射性物质）",
+   "prompt_en": "Close-up: warning tape and a radiation sign set around a small simulated spill on a floor.",
+   "narration": "拉警示带，设屏障，别让人踩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "洒漏：一滴也算，先隔离",
+   "scene": "用屏蔽挡住，穿戴手套鞋套，戴剂量计",
+   "prompt_en": "Diagram: a shield placed in front, a responder with gloves, shoe covers and a dosimeter. No text.",
+   "narration": "穿戴齐全，戴剂量计，用屏蔽挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "洒漏：一滴也算，先隔离",
+   "scene": "徒手擦、冲下水道打叉",
+   "prompt_en": "Diagram: wiping by bare hand and washing into a drain, both crossed out. No text.",
+   "narration": "不能徒手擦，不能冲进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "控制住再去污，测过才解除",
+   "scene": "【实拍】戴手套用吸水纸从外向内吸附溢洒（有色清水模拟）",
+   "prompt_en": "Close-up: gloved hands placing absorbent paper on a simulated spill, working from the outside inward.",
+   "narration": "吸水纸从外向内吸附。",
+   "overlay": [
+    "控制住再去污，测过才解除"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "控制住再去污，测过才解除",
+   "scene": "用过的材料放进放射性废物袋",
+   "prompt_en": "Diagram: used paper and gloves going into a radioactive waste bag. No text.",
+   "narration": "用过的材料，放进放射性废物袋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "控制住再去污，测过才解除",
+   "scene": "去污剂清洁表面，小心脱下污染防护",
+   "prompt_en": "Diagram: cleaning the surface with a decontamination agent, then removing contaminated gear carefully. No text.",
+   "narration": "再去污，小心脱下污染防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "控制住再去污，测过才解除",
+   "scene": "仪器逐处检测，确认后解除隔离",
+   "prompt_en": "Diagram: a meter checking spot by spot, then the barrier removed. No text.",
+   "narration": "逐处检测，确认达标才解除隔离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "在场人员：冷静、不伸手、等放行",
+   "scene": "在场的人保持冷静，听技师指挥",
+   "prompt_en": "Diagram: people in the room staying calm while a technologist gives directions. No text.",
+   "narration": "在场的人保持冷静，听指挥。",
+   "overlay": [
+    "在场人员：冷静、不伸手、等放行"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "在场人员：冷静、不伸手、等放行",
+   "scene": "想帮忙伸手打叉",
+   "prompt_en": "Diagram: a helpful hand reaching for the spill, crossed out. No text.",
+   "narration": "再想帮忙，也别伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "在场人员：冷静、不伸手、等放行",
+   "scene": "碰过的手别摸门把手和电脑",
+   "prompt_en": "Diagram: a gloved hand kept away from a door handle and a keyboard. No text.",
+   "narration": "接触过的手，别摸门把手、电脑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "在场人员：冷静、不伸手、等放行",
+   "scene": "技师逐个检测，合格放行",
+   "prompt_en": "Diagram: a technologist checking each person with a meter before letting them leave. No text.",
+   "narration": "逐个检测，没问题才放行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "在场人员：冷静、不伸手、等放行",
+   "scene": "房间关门挂牌，清干净再开放",
+   "prompt_en": "Diagram: a room closed with a sign until it is cleaned and checked. No text.",
+   "narration": "污染的房间先关闭，清干净再开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "人员沾污与疑似摄入",
+   "scene": "脱下污染的外衣装袋",
+   "prompt_en": "Diagram: a contaminated lab coat removed and placed into a bag. No text.",
+   "narration": "皮肤衣物沾污：先脱去，装袋。",
+   "overlay": [
+    "人员沾污与疑似摄入"
+   ],
+   "labels": [
+    "脱",
+    "冲",
+    "测",
+    "报"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "人员沾污与疑似摄入",
+   "scene": "【实拍】用温水和肥皂流水轻轻冲洗手背（清水示范）",
+   "prompt_en": "Close-up: hands gently washed with lukewarm water and soap under running water.",
+   "narration": "温水肥皂轻轻冲，不用力刷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "人员沾污与疑似摄入",
+   "scene": "冲洗后复测，报告负责人",
+   "prompt_en": "Diagram: hands checked with a meter after washing, then a report. No text.",
+   "narration": "冲洗后复测，并报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "人员沾污与疑似摄入",
+   "scene": "怀疑吸入，停手报告，配合内照射监测",
+   "prompt_en": "Diagram: a person suspecting intake stopping work, reporting and going for a body count. No text.",
+   "narration": "疑似摄入，停手报告，配合监测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "人员沾污与疑似摄入",
+   "scene": "自己乱吃药打叉",
+   "prompt_en": "Diagram: taking pills on one's own, crossed out, a doctor icon beside. No text.",
+   "narration": "不要自己乱服药，听医生安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "写清事件经过",
+   "scene": "在场的人各自写下经过",
+   "prompt_en": "Diagram: each person present writing an account on a blank form. No text.",
+   "narration": "在场的每个人，都写下经过。",
+   "overlay": [
+    "写清事件经过"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "写清事件经过",
+   "scene": "设备参数、距离、时间、所见四个图标",
+   "prompt_en": "Diagram: four icons, device settings, distance, time and what was seen. No text.",
+   "narration": "参数、距离、时间和看到的情况。",
+   "overlay": [],
+   "labels": [
+    "参数",
+    "距离",
+    "时间",
+    "所见"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "事后调查与整改",
+   "scene": "放大镜查流程哪一环断了",
+   "prompt_en": "Diagram: a magnifier finding the broken link in a process chain. No text.",
+   "narration": "事后调查：哪一环出了问题？",
+   "overlay": [
+    "事后调查与整改"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "事后调查与整改",
+   "scene": "修订规程，补上漏洞",
+   "prompt_en": "Diagram: a procedure revised with a patch over the gap. No text.",
+   "narration": "修订规程，补上漏洞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "事后调查与整改",
+   "scene": "全组听教训分享",
+   "prompt_en": "Diagram: a group meeting sharing the lessons learned. No text.",
+   "narration": "把教训讲给每个人，防止再发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "停、救、报、守四个图标",
+   "prompt_en": "Diagram: four icons, stop, rescue, report and guard. No text.",
+   "narration": "先控源、隔离、救人，再报告。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "丢源、卡源、超照、洒漏四个图标",
+   "prompt_en": "Diagram: four icons, lost source, stuck source, overexposure and spill. No text.",
+   "narration": "丢源卡源不乱碰，洒漏先围再去污。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "如实报告和调查整改",
+   "prompt_en": "Diagram: an honest report and a revised procedure. No text.",
+   "narration": "不瞒报、不私自处理，查因整改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着一个插座和闪电图标挥手",
+   "prompt_en": "The panda mascot points at a wall socket with a lightning icon and waves goodbye.",
+   "narration": "下一课进入电气安全：电流对人体的伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
