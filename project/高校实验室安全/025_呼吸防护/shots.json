@@ -1,0 +1,871 @@
+{
+ "id": "025_呼吸防护",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "呼吸防护",
+ "seconds": 330,
+ "source_doc": "course/高校实验室安全/025_呼吸防护.md",
+ "author_source": "project/高校实验室安全/025_呼吸防护/src.py",
+ "points": {
+  "K1": "空气被污染，就要护呼吸",
+  "K2": "先靠通风柜，口罩不能代替",
+  "K3": "按危害选：防颗粒物还是防毒",
+  "K4": "过滤式与供气式：缺氧用供气式",
+  "K5": "空气呼吸器：会用才用，留足余量",
+  "K6": "呼吸防护要成体系，先培训",
+  "K7": "适合性检验：上岗前测，面部变化重测",
+  "K8": "每次佩戴，检查密合",
+  "K9": "自愿戴口罩，也要管理",
+  "K10": "动力送风呼吸器怎样工作",
+  "K11": "送风呼吸器用前检查",
+  "K12": "用后去污、充电、登记",
+  "K13": "送风异常，按程序退出",
+  "S1": "滤材按时换，面罩清洁存放"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣手里拿着一个半面罩呼吸器，向镜头招手",
+   "prompt_en": "The panda mascot holds a half-face respirator and waves at the camera.",
+   "narration": "这一课讲呼吸防护。",
+   "overlay": [
+    "呼吸防护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在台面上称量粉末，粉尘飘起",
+   "prompt_en": "The young male student weighs a fine powder on an open bench and dust drifts up.",
+   "narration": "阿杰在台面上称粉末，粉尘飘起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰戴上一个普通薄口罩，觉得够了",
+   "prompt_en": "He puts on a thin ordinary face mask and gives a thumbs up.",
+   "narration": "他戴了个普通口罩：这下没事了吧？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，指向通风柜",
+   "prompt_en": "The female graduate student shakes her head and points to a fume hood.",
+   "narration": "小研说：口罩可不是随便戴的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "空气被污染，就要护呼吸",
+   "scene": "空气中飘着粉尘颗粒、蒸气云和气溶胶小点",
+   "prompt_en": "Dust particles, a vapor cloud and tiny aerosol dots float in the air of a lab. No people.",
+   "narration": "粉尘、气体、蒸气、病原，都可能飘在空气里。",
+   "overlay": [
+    "空气被污染，就要护呼吸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "空气被污染，就要护呼吸",
+   "scene": "细小粉尘顺着气管进入肺部的示意",
+   "prompt_en": "A diagram of fine dust traveling down the airway deep into the lungs. No people.",
+   "narration": "细粉尘能深入肺部，进入血液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "空气被污染，就要护呼吸",
+   "scene": "空气被污染时，呼吸防护图标亮起",
+   "prompt_en": "When the air becomes contaminated, a respirator icon lights up. No people.",
+   "narration": "空气被污染时，就需要呼吸防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先靠通风柜，口罩不能代替",
+   "scene": "控制层级金字塔，个人防护在最底层",
+   "prompt_en": "A hierarchy of controls pyramid with personal protective equipment at the bottom. No text.",
+   "narration": "呼吸防护用品，是最后一道防线。",
+   "overlay": [
+    "先靠通风柜，口罩不能代替"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先靠通风柜，口罩不能代替",
+   "scene": "挥发性试剂放进通风柜操作，打勾",
+   "prompt_en": "A volatile reagent is handled inside a fume hood, with a green check. No faces.",
+   "narration": "有挥发性试剂，首先放进通风柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先靠通风柜，口罩不能代替",
+   "scene": "普通口罩前的蒸气直接穿过，打叉",
+   "prompt_en": "Vapor passes straight through an ordinary face mask, crossed out with a red X. No people.",
+   "narration": "普通口罩，挡不住化学蒸气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先靠通风柜，口罩不能代替",
+   "scene": "戴口罩在台面上做实验，被打叉",
+   "prompt_en": "A person wearing a mask works at an open bench instead of the fume hood, crossed out. No faces.",
+   "narration": "能用通风柜的，口罩不能代替它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "防颗粒物口罩和带滤毒罐的面罩并排",
+   "prompt_en": "A particulate filtering mask and a half-face respirator with gas cartridges side by side. No people.",
+   "narration": "呼吸器分防颗粒物和防毒两类滤材。",
+   "overlay": [
+    "按危害选：防颗粒物还是防毒"
+   ],
+   "labels": [
+    "防颗粒物",
+    "防毒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "粉尘、烟尘被防颗粒物滤材拦住",
+   "prompt_en": "Dust and welding fume particles are caught by a particulate filter. No people.",
+   "narration": "粉尘、烟尘、颗粒，用防颗粒物的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "蒸气被滤毒罐吸附，颗粒滤材挡不住蒸气",
+   "prompt_en": "Vapor is captured by a gas cartridge while passing through a particle filter. No people.",
+   "narration": "化学蒸气，要用对应的滤毒罐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "滤毒罐按颜色图标对应不同气体类别",
+   "prompt_en": "Gas cartridges with different color bands matched to different gas icons. No text.",
+   "narration": "滤毒罐要对上具体的气体种类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "焊接烟尘飘向普通口罩，打叉；合格防颗粒物呼吸器打勾",
+   "prompt_en": "Welding fume reaches an ordinary mask with a red X; a certified particulate respirator gets a green check. No people.",
+   "narration": "焊接烟尘，普通口罩挡不住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按危害选：防颗粒物还是防毒",
+   "scene": "口罩靠边缘紧贴面部密封，油雾和液体图标打问号",
+   "prompt_en": "A diagram of a respirator sealing around the face edge, with oil mist and liquid icons marked with question marks. No people.",
+   "narration": "看清适用范围，有的不防油、不防液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "过滤式：周围空气经滤材吸入；供气式：气瓶送来空气",
+   "prompt_en": "Two diagrams: air-purifying respirator filtering room air, and supplied-air respirator fed from a separate air source. No people.",
+   "narration": "呼吸器分两大类：过滤式和供气式。",
+   "overlay": [
+    "过滤式与供气式：缺氧用供气式"
+   ],
+   "labels": [
+    "过滤式",
+    "供气式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "缺氧环境和高浓度毒气中，过滤式被打叉",
+   "prompt_en": "In an oxygen-deficient room and a very high toxic gas cloud, the air-purifying respirator is crossed out. No people.",
+   "narration": "缺氧或浓度极高，过滤式不管用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "消防救援人员背着自给式空气呼吸器",
+   "prompt_en": "A rescue worker carries a self-contained breathing apparatus on the back.",
+   "narration": "自给式空气呼吸器，自己背气瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "自给式呼吸器旁的培训合格图标",
+   "prompt_en": "A self-contained breathing apparatus next to a training certificate icon. No text, no people.",
+   "narration": "只用于极端情况，没培训不要戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "潜水呼吸器和空气呼吸器之间画不等号",
+   "prompt_en": "A not-equal sign between a scuba breathing set and a self-contained breathing apparatus. No people.",
+   "narration": "潜水呼吸器用于水下，不能混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "过滤式与供气式：缺氧用供气式",
+   "scene": "王老师把缺氧作业图标指向供气式",
+   "prompt_en": "The safety administrator points from an oxygen-deficiency icon to a supplied-air respirator.",
+   "narration": "缺氧场所，按规定用供气式。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "空气呼吸器：会用才用，留足余量",
+   "scene": "【实拍】空气呼吸器用前检查：看压力表、试报警哨、查面罩和背带（中景，用训练器材）",
+   "prompt_en": "A person checks a self-contained breathing apparatus: reads the pressure gauge, tests the whistle, inspects the mask and straps.",
+   "narration": "用前查压力、报警哨、面罩和背带。",
+   "overlay": [
+    "空气呼吸器：会用才用，留足余量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "空气呼吸器：会用才用，留足余量",
+   "scene": "气瓶耗气示意：干活越累，指针下降越快",
+   "prompt_en": "A cylinder gauge needle drops faster as the wearer works harder. No people.",
+   "narration": "干活越累，耗气越快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "空气呼吸器：会用才用，留足余量",
+   "scene": "报警响起，人员沿出口撤离",
+   "prompt_en": "An alarm icon sounds and a person in breathing apparatus walks out toward an exit.",
+   "narration": "留足撤离余量，报警一响就撤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "风险评估、医学评估、适合性检验、培训四个环节连成一圈",
+   "prompt_en": "A cycle of four icons: risk assessment, medical check, fit test and training. No text, no people.",
+   "narration": "呼吸防护不是发个口罩就完事。",
+   "overlay": [
+    "呼吸防护要成体系，先培训"
+   ],
+   "labels": [
+    "评估",
+    "体检",
+    "检验",
+    "培训"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "阿杰向老周询问要不要戴呼吸器",
+   "prompt_en": "The young male student asks the older man whether he needs a respirator.",
+   "narration": "要不要戴，先问实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "医生为学生做医学评估",
+   "prompt_en": "A doctor examines a student before respirator use. No faces.",
+   "narration": "使用前，先由医生评估能不能戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "王老师讲解选型和佩戴",
+   "prompt_en": "The safety administrator teaches students how to choose and wear a respirator.",
+   "narration": "先培训，学会选型和佩戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "戴呼吸器干活，人出汗；时钟旁是轮换休息图标",
+   "prompt_en": "A person sweats while working in a respirator; a clock icon next to a rest break icon.",
+   "narration": "戴着更累，控制时间，轮换休息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "呼吸防护要成体系，先培训",
+   "scene": "重型面罩旁的过热温度计图标",
+   "prompt_en": "A heavy full-face respirator next to a hot thermometer icon. No people.",
+   "narration": "重型面罩负担大，可能引起过热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "适合性检验：上岗前测，面部变化重测",
+   "scene": "不同脸型配不同尺寸的面罩",
+   "prompt_en": "Different face outlines matched with different respirator sizes. No people.",
+   "narration": "每个人脸型不同，面罩要合适。",
+   "overlay": [
+    "适合性检验：上岗前测，面部变化重测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "适合性检验：上岗前测，面部变化重测",
+   "scene": "适合性检验：头罩里喷有味雾，测试者闻不到",
+   "prompt_en": "A fit test: a person wearing a respirator sits under a test hood while a mist is sprayed in. No faces.",
+   "narration": "往头罩喷有味雾，闻不到才合格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "适合性检验：上岗前测，面部变化重测",
+   "scene": "日历上首次使用前和定期复检两个标记",
+   "prompt_en": "A calendar marks a first fit test before use and regular retests later. No text.",
+   "narration": "首次使用前做，之后定期复检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "适合性检验：上岗前测，面部变化重测",
+   "scene": "蓄须、胖瘦变化的脸部轮廓，面罩边缘漏气",
+   "prompt_en": "Face outlines with a beard and weight change; air leaks around the respirator edge. No people.",
+   "narration": "蓄须、胖瘦变化，必须重新检验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "每次佩戴，检查密合",
+   "scene": "面罩边缘漏气的示意，打叉",
+   "prompt_en": "Air leaking around the edge of a respirator, crossed out with a red X. No people.",
+   "narration": "戴不严，等于没戴。",
+   "overlay": [
+    "每次佩戴，检查密合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "每次佩戴，检查密合",
+   "scene": "【实拍】戴好防颗粒物口罩，双手按压鼻夹贴合鼻梁（正面中景，上半张脸不入镜）",
+   "prompt_en": "A person puts on a particulate respirator and presses the nose clip to fit the bridge of the nose.",
+   "narration": "戴好口罩，按压鼻夹贴合鼻梁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "每次佩戴，检查密合",
+   "scene": "【实拍】双手捂住口罩，用力呼气、吸气，检查边缘是否漏气（正面中景，上半张脸不入镜）",
+   "prompt_en": "A person covers the respirator with both hands, breathes out and in sharply to check for edge leaks.",
+   "narration": "双手捂住，用力呼气吸气查漏气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "每次佩戴，检查密合",
+   "scene": "边缘漏气，重新调整鼻夹和头带再检查",
+   "prompt_en": "A leak is found; the nose clip and head straps are adjusted and checked again. No faces.",
+   "narration": "漏气就调整，查好了再进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "自愿戴口罩，也要管理",
+   "scene": "阿杰拿着防尘口罩想自己戴，王老师递给他使用须知",
+   "prompt_en": "The young male student holds a dust mask; the safety administrator hands him a blank instruction sheet.",
+   "narration": "自愿戴口罩，也要先讲清须知。",
+   "overlay": [
+    "自愿戴口罩，也要管理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "自愿戴口罩，也要管理",
+   "scene": "口罩挡住视线、脏口罩挂在脖子上，打叉",
+   "prompt_en": "A mask blocking vision and a dirty mask hanging from the neck, both crossed out. No faces.",
+   "narration": "别让口罩妨碍操作或变成污染源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "动力送风头罩：头盔、披肩、滤器、腰带电池一整套",
+   "prompt_en": "A powered air-purifying respirator set: helmet with filter, hood shroud, belt and battery. No people.",
+   "narration": "这是动力送风过滤式呼吸器。",
+   "overlay": [
+    "动力送风呼吸器怎样工作"
+   ],
+   "labels": [
+    "头盔",
+    "滤器",
+    "披肩",
+    "电池"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "空气从侧面吸入，经滤器过滤，风机吹向脸部",
+   "prompt_en": "Arrows show air drawn in from the side, through a filter, and blown by a fan toward the face. No people.",
+   "narration": "侧面进风，过滤后吹向脸部。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "头罩内正压，气流从下摆流出形成气幕",
+   "prompt_en": "Positive pressure inside the hood; air flows out from the lower edge like an air curtain. No people.",
+   "narration": "罩内正压，向外的气流挡住脏空气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "风机由腰带上的电池供电",
+   "prompt_en": "The fan is powered by a battery pack on a belt. No people.",
+   "narration": "风机靠电池带动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "有胡子、戴眼镜的人戴宽松头罩，打勾",
+   "prompt_en": "A loose-fitting hood is worn by a person with a beard and glasses, with a green check. No faces.",
+   "narration": "宽松头罩不贴脸，有胡子也能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "动力送风呼吸器怎样工作",
+   "scene": "培训合格证图标和风险评估表",
+   "prompt_en": "A training certificate icon and a blank risk assessment form. No text, no people.",
+   "narration": "用哪种，按风险评估，培训合格才用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "送风呼吸器用前检查",
+   "scene": "电池充满后挂牢在腰带上",
+   "prompt_en": "A fully charged battery is clipped firmly onto a belt. No faces.",
+   "narration": "实验前充满电池，牢牢挂在腰带上。",
+   "overlay": [
+    "送风呼吸器用前检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "送风呼吸器用前检查",
+   "scene": "【实拍】送风呼吸器用前检查：核对滤器、检查连接管和头罩、测送风量（中景，用训练器材）",
+   "prompt_en": "A person checks a powered air-purifying respirator: inspects the filter, the hose and hood, then tests the airflow.",
+   "narration": "查滤器、管路头罩，再测风量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "送风呼吸器用前检查",
+   "scene": "开机看指示灯全亮，时钟显示续航",
+   "prompt_en": "The unit is switched on and all indicator lights glow; a clock icon shows battery time. No text.",
+   "narration": "开机看灯，续航不够就别进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "送风呼吸器用前检查",
+   "scene": "一项不合格，挂上停用牌送修",
+   "prompt_en": "A failed unit gets an out-of-service tag and is sent for repair. No people.",
+   "narration": "有一项不合格，就停用报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用后去污、充电、登记",
+   "scene": "用后擦拭头盔表面去污",
+   "prompt_en": "The helmet surface is wiped down with disinfectant after use. No faces.",
+   "narration": "用完给头盔表面去污。",
+   "overlay": [
+    "用后去污、充电、登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用后去污、充电、登记",
+   "scene": "滤器和风机不进水，不泡不冲，接口盖好",
+   "prompt_en": "Filter and fan kept dry during wiping; soaking and rinsing crossed out; ports capped. No people.",
+   "narration": "滤器风机别进水，不泡不冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用后去污、充电、登记",
+   "scene": "沾上溢洒的披肩换新的",
+   "prompt_en": "A hood shroud stained by a spill is replaced with a new one. No people.",
+   "narration": "披肩沾了溢洒，就换新的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用后去污、充电、登记",
+   "scene": "电池插上充电器",
+   "prompt_en": "The battery is placed on a charger. No people.",
+   "narration": "用完马上充电，下次才放心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用后去污、充电、登记",
+   "scene": "在使用登记本上签字",
+   "prompt_en": "A person signs a blank usage log next to the equipment. No faces.",
+   "narration": "每次使用，签好记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "送风异常，按程序退出",
+   "scene": "头罩报警、风变小，操作者停手盖好样品",
+   "prompt_en": "An alarm light flashes on the hood and the airflow weakens; the worker stops and covers the samples. No faces.",
+   "narration": "报警或风变小，先停手盖好样品。",
+   "overlay": [
+    "送风异常，按程序退出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "送风异常，按程序退出",
+   "scene": "在污染区摘头罩打叉，走到指定区域再摘",
+   "prompt_en": "Removing the hood inside the work area is crossed out; the worker exits to a designated area first. No faces.",
+   "narration": "别在污染区摘，按程序退出再摘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "送风异常，按程序退出",
+   "scene": "两人约定手势：好、停、出去",
+   "prompt_en": "Two people in hoods agree on hand signals for okay, stop and exit.",
+   "narration": "风声大听不清，事先约好手势。",
+   "overlay": [],
+   "labels": [
+    "好",
+    "停",
+    "出去"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "滤材按时换，面罩清洁存放",
+   "scene": "滤材盒上的有效期和更换记录图标",
+   "prompt_en": "A filter cartridge with an expiry icon next to a replacement log. No text.",
+   "narration": "滤材按说明和规定按时更换。",
+   "overlay": [
+    "滤材按时换，面罩清洁存放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "滤材按时换，面罩清洁存放",
+   "scene": "闻到异味、呼吸阻力变大，立即离开换滤材",
+   "prompt_en": "A person notices an odor and harder breathing, leaves the area and changes the filter. No faces.",
+   "narration": "闻到异味、呼吸变费劲，马上撤换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "滤材按时换，面罩清洁存放",
+   "scene": "面罩清洁后装进密封袋，放在干净柜里",
+   "prompt_en": "A cleaned respirator is sealed in a bag and stored in a clean cabinet. No people.",
+   "narration": "面罩清洁晾干，密封存放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "通风柜、选对滤材、密合检查依次打勾",
+   "prompt_en": "A fume hood, the right filter and a seal check icon get green checks one by one. No people.",
+   "narration": "先通风，再选对、戴严呼吸器。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "培训、适合性检验、维护登记依次打勾",
+   "prompt_en": "Training, fit test and maintenance log icons get green checks one by one. No people.",
+   "narration": "先培训检验，用后维护登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着墙上的一排安全标志，挥手",
+   "prompt_en": "The panda mascot points at a row of safety signs on the wall and waves goodbye.",
+   "narration": "下一课，讲安全标志与安全色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
