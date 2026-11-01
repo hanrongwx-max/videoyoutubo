@@ -1,0 +1,1088 @@
+{
+ "id": "094_放射源与射线装置",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "放射源与射线装置",
+ "seconds": 415,
+ "source_doc": "course/高校实验室安全/094_放射源与射线装置.md",
+ "author_source": "project/高校实验室安全/094_放射源与射线装置/src.py",
+ "points": {
+  "K1": "两类辐射源：放射源与射线装置",
+  "S1": "放射源与射线装置的分类",
+  "K2": "射线探伤：不破坏就能看内部",
+  "K3": "电离辐射警告标志与出入管理",
+  "K4": "门机联锁、指示灯和急停不能旁路",
+  "K5": "屏蔽不擅改，剂量靠实测",
+  "K6": "作业前核查：证、人、仪器、场所",
+  "K7": "警戒区：按实测划边界",
+  "K8": "放射源保管：专库、双人双锁",
+  "K9": "领用归还：当场归位，交接签字",
+  "K10": "校内转移：屏蔽容器，专人护送",
+  "K11": "密封源定期做泄漏检查",
+  "K12": "含源仪器也是放射源",
+  "K13": "新建改建：先验收，再使用"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个密封源铅罐和一台X射线衍射仪中间",
+   "prompt_en": "The panda mascot stands between a small lead source container and an X-ray diffraction cabinet.",
+   "narration": "这一课讲放射源与射线装置。",
+   "overlay": [
+    "放射源与射线装置"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "衍射仪门上的工作指示灯亮着，阿杰伸手要拉门取样品",
+   "prompt_en": "The young male student reaches for the door of an X-ray cabinet while a red work lamp above it is lit.",
+   "narration": "仪器还亮着灯，阿杰想开门拿样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "桌上留着一个小铅罐，阿杰想把它塞进抽屉",
+   "prompt_en": "The young male student is about to put a small lead source container into his desk drawer.",
+   "narration": "桌上的检查源，他想塞进抽屉过夜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拦住他，开门和抽屉两个图标打叉",
+   "prompt_en": "The safety administrator stops him; an opening door icon and a drawer icon are both crossed out.",
+   "narration": "王老师说：两件事都不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "左边密封源罐不停发出射线，右边射线装置插头拔下后不再发射",
+   "prompt_en": "Diagram: left, a sealed source capsule always giving off rays; right, an X-ray tube that stops when unplugged. No text.",
+   "narration": "辐射源有两类：放射源和射线装置。",
+   "overlay": [
+    "两类辐射源：放射源与射线装置"
+   ],
+   "labels": [
+    "放射源",
+    "射线装置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "金属小胶囊里封着放射性物质",
+   "prompt_en": "Diagram: radioactive material sealed inside a small metal capsule. No text.",
+   "narration": "密封源把放射性物质封在包壳里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "密封源一直在衰变，钟表在走，射线不停",
+   "prompt_en": "Diagram: a sealed source with a clock, rays coming out all the time. No text.",
+   "narration": "它时时刻刻都在发出射线，关不掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "高压让电子撞向靶，产生X射线，经过滤和准直射出",
+   "prompt_en": "Diagram: high voltage drives electrons into a target, X-rays pass through a filter and a collimator. No text.",
+   "narration": "射线装置靠高压让电子打靶出射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "电源开关关掉，射线消失",
+   "prompt_en": "Diagram: a power switch turned off and the X-ray beam disappearing. No text.",
+   "narration": "断电就不再产生射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "两类辐射源：放射源与射线装置",
+   "scene": "源丢了危险仍在；装置的风险在开机时",
+   "prompt_en": "Diagram: a lost source icon still giving off rays, and a running device icon with a warning. No text.",
+   "narration": "所以管源重在防丢，管装置重在开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "放射源与射线装置的分类",
+   "scene": "五个放射源图标从高到低排成一列",
+   "prompt_en": "Diagram: five source icons in a row from the highest hazard to the lowest. No text.",
+   "narration": "放射源按危害从高到低分五类。",
+   "overlay": [
+    "放射源与射线装置的分类"
+   ],
+   "labels": [
+    "I类",
+    "II类",
+    "III类",
+    "IV类",
+    "V类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "放射源与射线装置的分类",
+   "scene": "射线装置分三档，加速器、探伤机、衍射仪图标",
+   "prompt_en": "Diagram: three hazard levels of radiation devices, an accelerator, an industrial X-ray unit and a lab diffraction unit. No text.",
+   "narration": "射线装置分为一、二、三类。",
+   "overlay": [],
+   "labels": [
+    "I类",
+    "II类",
+    "III类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "放射源与射线装置的分类",
+   "scene": "类别和许可、场所、管理要求连线",
+   "prompt_en": "Diagram: the class icon linked to a license, a room and management rules. No text.",
+   "narration": "类别越高，管理要求越严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "放射源与射线装置的分类",
+   "scene": "王老师翻看分类文件和许可证",
+   "prompt_en": "The safety administrator checks a classification document against the license.",
+   "narration": "具体类别以现行分类和许可证为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "射线探伤：不破坏就能看内部",
+   "scene": "射线穿过焊缝，后面底片上显出裂纹和气孔",
+   "prompt_en": "Diagram: rays passing through a weld onto a film behind it, showing a crack and small holes. No text.",
+   "narration": "射线探伤，不切开就能看内部缺陷。",
+   "overlay": [
+    "射线探伤：不破坏就能看内部"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "射线探伤：不破坏就能看内部",
+   "scene": "γ源探伤机和X射线探伤机两个图标",
+   "prompt_en": "Diagram: two icons, a gamma source camera and an X-ray inspection unit. No text.",
+   "narration": "可用γ放射源，也可用X射线机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "射线探伤：不破坏就能看内部",
+   "scene": "高校里的衍射仪、CT、辐照仪一排图标",
+   "prompt_en": "Diagram: a row of campus devices, a diffraction unit, a small CT scanner and an irradiator. No text.",
+   "narration": "学校里的射线装置，原理相通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "射线探伤：不破坏就能看内部",
+   "scene": "探伤源强度大的警示",
+   "prompt_en": "Diagram: a strong gamma camera icon with a bold warning mark. No text.",
+   "narration": "探伤源很强，管理格外严格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "【实拍】辐射工作场所门口的当心电离辐射警告标志特写（拍本校现场，设备不开机、不用放射源）",
+   "prompt_en": "Close-up: an ionizing radiation warning sign on a lab door.",
+   "narration": "认准当心电离辐射警告标志。",
+   "overlay": [
+    "电离辐射警告标志与出入管理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "三角形警告标志和三叶形标志并排",
+   "prompt_en": "Diagram: a triangular ionizing radiation warning sign beside the trefoil radiation symbol. No text.",
+   "narration": "国内用国家标准规定的辐射标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "国外教材上的另一种颜色标识被推开",
+   "prompt_en": "Diagram: a differently colored foreign style sign pushed aside, the national sign in front. No text.",
+   "narration": "国外教材的颜色规定，不要照搬。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "源罐、设备、门口、废物桶都贴着标志",
+   "prompt_en": "Diagram: radiation warning signs on a source container, a device, a door and a waste bin. No text.",
+   "narration": "源、设备、场所、废物都要有标志。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "控制区和监督区两圈，无关人员停在外面",
+   "prompt_en": "Diagram: an inner controlled area and an outer supervised area, outsiders stopped at the edge. No text.",
+   "narration": "控制区严格限制，监督区也要管理。",
+   "overlay": [],
+   "labels": [
+    "控制区",
+    "监督区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "刷卡门禁，登记进出",
+   "prompt_en": "Diagram: a card reader at the door and an entry log. No text.",
+   "narration": "经培训授权的人才能进，出入登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电离辐射警告标志与出入管理",
+   "scene": "小研离开前用仪器测手和衣服",
+   "prompt_en": "The female graduate student checks her hands and lab coat with a survey meter before leaving.",
+   "narration": "离开前，检查手和衣物有无污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "门打开，射线自动停止的示意图",
+   "prompt_en": "Diagram: a shielded door opening and the X-ray beam switching off automatically. No text.",
+   "narration": "门一开，射线自动停，这叫门机联锁。",
+   "overlay": [
+    "门机联锁、指示灯和急停不能旁路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "门上方红灯亮着，阿杰停步",
+   "prompt_en": "The young male student stops in front of a door with a lit red work lamp above it.",
+   "narration": "工作指示灯亮，就不要开门靠近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "【实拍】控制台上的急停按钮外观特写（设备断电，不出束）",
+   "prompt_en": "Close-up: a red emergency stop button on a control panel.",
+   "narration": "认准急停按钮，异常立即按下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "【实拍】防护门上的门机联锁开关位置特写（设备断电，不出束）",
+   "prompt_en": "Close-up: the interlock switch on the frame of a shielded door.",
+   "narration": "联锁开关装在门上，不能乱动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "短接线、胶带贴住、拆掉开关三个图标打叉",
+   "prompt_en": "Diagram: three crossed out icons, a bypass wire, tape over a switch and a removed switch. No text.",
+   "narration": "严禁短接、贴住或拆掉联锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "开机前清单：联锁、指示灯、急停都打钩",
+   "prompt_en": "Diagram: a pre-start checklist with interlock, lamp and stop button icons each checked. No text.",
+   "narration": "开机前，检查联锁、灯和急停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "联锁失灵，设备挂停用牌，打电话报修",
+   "prompt_en": "Diagram: a faulty interlock, an out of service tag on the device and a phone call for repair. No text.",
+   "narration": "失灵就停用挂牌，报修后再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "门机联锁、指示灯和急停不能旁路",
+   "scene": "关机灯灭后，阿杰才开门",
+   "prompt_en": "The young male student opens the cabinet door only after the lamp has gone off.",
+   "narration": "关机灯灭，才能开门取样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "屏蔽不擅改，剂量靠实测",
+   "scene": "屏蔽墙、铅门都有验收章",
+   "prompt_en": "Diagram: a shielding wall and a lead door, each with an approval stamp. No text.",
+   "narration": "屏蔽墙和铅门，都经过设计验收。",
+   "overlay": [
+    "屏蔽不擅改，剂量靠实测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "屏蔽不擅改，剂量靠实测",
+   "scene": "有人想挪开铅屏，打叉",
+   "prompt_en": "Diagram: a person trying to move a lead shield panel, crossed out. No text.",
+   "narration": "不得擅自拆移、改动屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "屏蔽不擅改，剂量靠实测",
+   "scene": "计算纸和巡测仪，巡测仪打钩",
+   "prompt_en": "Diagram: a calculation sheet next to a survey meter, the meter with a check mark. No text.",
+   "narration": "算出来只是估计，要用仪器实测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "屏蔽不擅改，剂量靠实测",
+   "scene": "老周拿巡测仪沿门缝和墙外测量",
+   "prompt_en": "The older man surveys along the door gap and outside the wall with a survey meter.",
+   "narration": "开机后测门缝、墙外和操作位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "屏蔽不擅改，剂量靠实测",
+   "scene": "读数异常，停机，报告负责人",
+   "prompt_en": "Diagram: an unusual reading, the device switched off, and a report to the lab head. No text.",
+   "narration": "读数异常，停止工作，报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "开工前检查单：许可证、风险评估、作业许可",
+   "prompt_en": "Diagram: a pre-work checklist with a license, a risk assessment and a work permit, all blank. No text.",
+   "narration": "开工前，先查许可和风险评估。",
+   "overlay": [
+    "作业前核查：证、人、仪器、场所"
+   ],
+   "labels": [
+    "许可证",
+    "风险评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "人员合格证和体检表",
+   "prompt_en": "Diagram: a worker training certificate and a health check form. No text.",
+   "narration": "人员要培训合格、体检合格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "巡测仪贴着校准合格标签",
+   "prompt_en": "Diagram: a survey meter with a valid calibration tag. No text.",
+   "narration": "巡测仪和剂量计要在校准期内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "衰变表上查出今天源的强度",
+   "prompt_en": "Diagram: a decay chart used to find today's source strength. No text.",
+   "narration": "查衰变表，掌握源现在有多强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "运输车辆和源容器检查打钩",
+   "prompt_en": "Diagram: a transport van and a source container, each checked. No text.",
+   "narration": "外出作业，运输容器和车辆要合格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "作业前核查：证、人、仪器、场所",
+   "scene": "缺一项，开工按钮打叉",
+   "prompt_en": "Diagram: a checklist with one missing item and a start button crossed out. No text.",
+   "narration": "缺一项，就不能开工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "警戒区：按实测划边界",
+   "scene": "现场探伤，用巡测仪一圈圈测，围出边界",
+   "prompt_en": "Diagram: field inspection work, a survey meter used in circles to mark a boundary. No text.",
+   "narration": "现场作业，按实测剂量率划警戒区。",
+   "overlay": [
+    "警戒区：按实测划边界"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "警戒区：按实测划边界",
+   "scene": "外圈边界更大，公众站在外面",
+   "prompt_en": "Diagram: an outer boundary for the public set wider than the inner worker zone. No text.",
+   "narration": "公众的要求比工作人员更严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "警戒区：按实测划边界",
+   "scene": "警戒线、警告标志、警示灯围好",
+   "prompt_en": "Diagram: barrier tape, warning signs and flashing lamps around the work area. No text.",
+   "narration": "拉警戒线，挂标志，亮警示灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "警戒区：按实测划边界",
+   "scene": "保卫处值班员在边界看守，有人想进被拦",
+   "prompt_en": "The security officer guards the boundary and stops a passer-by.",
+   "narration": "专人看守，不让无关人员进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "警戒区：按实测划边界",
+   "scene": "作业结束，测量确认源已收回，再撤警戒",
+   "prompt_en": "Diagram: after work, a meter confirms the source is back in its container, then the tape is removed. No text.",
+   "narration": "确认源已收回，才能撤警戒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "放射源保管：专库、双人双锁",
+   "scene": "专用源库：防火、防水、防盗、防丢失、防破坏、防泄漏六个图标",
+   "prompt_en": "Diagram: a dedicated source store with six protection icons, fire, water, theft, loss, damage and leakage. No text.",
+   "narration": "放射源存放在专用源库或保险柜。",
+   "overlay": [
+    "放射源保管：专库、双人双锁"
+   ],
+   "labels": [
+    "防火",
+    "防水",
+    "防盗",
+    "防丢失",
+    "防泄漏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "放射源保管：专库、双人双锁",
+   "scene": "两把钥匙，两个人同时到场才能打开",
+   "prompt_en": "Diagram: two keys held by two people, the cabinet opens only when both are present. No text.",
+   "narration": "双人双锁，一个人打不开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "放射源保管：专库、双人双锁",
+   "scene": "源库门口有监控摄像头和报警器",
+   "prompt_en": "Diagram: a camera and an alarm at the source store door. No text.",
+   "narration": "源库按要求设监控和报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "放射源保管：专库、双人双锁",
+   "scene": "台账和实物一一核对",
+   "prompt_en": "Diagram: each source in the store matched to a ledger line, with check marks. No text.",
+   "narration": "定期清点，账物相符。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "放射源保管：专库、双人双锁",
+   "scene": "源不见了，立即打电话报告",
+   "prompt_en": "Diagram: an empty slot where a source should be and a person making an urgent phone call. No text.",
+   "narration": "发现丢失被盗，立即报告，不得隐瞒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "领用登记本上签名、时间、用途",
+   "prompt_en": "Diagram: a sign-out log with a signature, a time and a purpose, all blank. No text.",
+   "narration": "领用要登记：谁、何时、用在哪。",
+   "overlay": [
+    "领用归还：当场归位，交接签字"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "用长柄镊子取源，不用手拿",
+   "prompt_en": "The female graduate student handles a source holder with long tongs.",
+   "narration": "用工具取放，不徒手拿源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "用完当场放回源罐，签字归还",
+   "prompt_en": "The female graduate student puts the source back in its container and signs the return log.",
+   "narration": "用完当场放回，签字归还。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "桌上和抽屉里过夜的源打叉",
+   "prompt_en": "Diagram: a source left on a bench overnight and one in a drawer, both crossed out. No text.",
+   "narration": "不放桌上、抽屉里过夜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "离开前用巡测仪扫台面",
+   "prompt_en": "The female graduate student sweeps the bench with a survey meter before leaving.",
+   "narration": "离开前，用仪器把台面扫一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "领用归还：当场归位，交接签字",
+   "scene": "交接班两人对着台账一一核对签字",
+   "prompt_en": "Diagram: two people at a shift handover checking the ledger item by item and signing. No text.",
+   "narration": "交接时账物一一对上，双方签字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校内转移：屏蔽容器，专人护送",
+   "scene": "【实拍】空的屏蔽转运容器外观特写，贴有电离辐射标志（不装放射源）",
+   "prompt_en": "Close-up: an empty shielded transport container with a radiation warning label.",
+   "narration": "校内转移，装进屏蔽容器。",
+   "overlay": [
+    "校内转移：屏蔽容器，专人护送"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校内转移：屏蔽容器，专人护送",
+   "scene": "容器上贴标签，登记去向",
+   "prompt_en": "Diagram: a container with a blank label and a log entry for its destination. No text.",
+   "narration": "贴好标志，登记去向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校内转移：屏蔽容器，专人护送",
+   "scene": "专人推车护送，路线避开人多处",
+   "prompt_en": "Diagram: a designated person pushing a cart along a route away from crowds. No text.",
+   "narration": "专人护送，走规定路线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校内转移：屏蔽容器，专人护送",
+   "scene": "源放进背包和口袋打叉",
+   "prompt_en": "Diagram: a source going into a backpack and a pocket, both crossed out. No text.",
+   "narration": "绝不能放包里、口袋里带走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "校内转移：屏蔽容器，专人护送",
+   "scene": "出校运输交有资质的单位",
+   "prompt_en": "Diagram: an off campus shipment handed to a licensed transport company. No text.",
+   "narration": "出校运输，按运输规程办理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "密封源定期做泄漏检查",
+   "scene": "密封包壳破损的示意，有放射性物质漏出",
+   "prompt_en": "Diagram: a sealed capsule with a crack and a little radioactive material leaking out. No text.",
+   "narration": "包壳一旦破损，就会造成污染。",
+   "overlay": [
+    "密封源定期做泄漏检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "密封源定期做泄漏检查",
+   "scene": "日历上按期做泄漏检查",
+   "prompt_en": "Diagram: a calendar with leak test dates marked regularly. No text.",
+   "narration": "密封源要按规定定期做泄漏检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "密封源定期做泄漏检查",
+   "scene": "用擦拭纸擦容器表面，装袋送测",
+   "prompt_en": "Diagram: a wipe sample taken from the outside of a source holder, bagged and sent for counting. No text.",
+   "narration": "取擦拭样品，送去测量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "密封源定期做泄漏检查",
+   "scene": "发现破损：停用、隔离、报告三个图标",
+   "prompt_en": "Diagram: three steps for a damaged source, stop use, isolate, report. No text.",
+   "narration": "发现破损，停用隔离，立即报告。",
+   "overlay": [],
+   "labels": [
+    "停用",
+    "隔离",
+    "报告"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "含源仪器也是放射源",
+   "scene": "天花板上的离子感烟探测器内部有一个小源图标",
+   "prompt_en": "Diagram: an ionization smoke detector on the ceiling with a tiny source icon inside. No text.",
+   "narration": "离子感烟探测器里，有微量放射源。",
+   "overlay": [
+    "含源仪器也是放射源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "含源仪器也是放射源",
+   "scene": "气相色谱检测器、料位计、密度计带源图标",
+   "prompt_en": "Diagram: a gas chromatograph detector, a level gauge and a density gauge, each with a small source icon. No text.",
+   "narration": "有些检测器和仪表里也装着源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "含源仪器也是放射源",
+   "scene": "拆开探测器、扔进垃圾桶打叉",
+   "prompt_en": "Diagram: taking a detector apart and throwing it into a trash bin, both crossed out. No text.",
+   "narration": "不拆、不丢进普通垃圾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "含源仪器也是放射源",
+   "scene": "报废的含源仪器交回学校管理部门",
+   "prompt_en": "Diagram: a retired device with a source handed back to the university radiation office. No text.",
+   "narration": "报废时交回，按规定送贮或返回厂家。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "新建改建：先验收，再使用",
+   "scene": "新实验室图纸上标出屏蔽和防护设施",
+   "prompt_en": "Diagram: a floor plan for a new lab with shielding and safety features marked. No text.",
+   "narration": "新建改建辐射场所，先做环评。",
+   "overlay": [
+    "新建改建：先验收，再使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "新建改建：先验收，再使用",
+   "scene": "设计、施工、使用三个图标同步",
+   "prompt_en": "Diagram: three icons, design, construction and operation, moving together. No text.",
+   "narration": "防护设施同时设计、施工、投用。",
+   "overlay": [],
+   "labels": [
+    "同时设计",
+    "同时施工",
+    "同时投用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "新建改建：先验收，再使用",
+   "scene": "老李和检测人员验收，测量后盖章",
+   "prompt_en": "The facility engineer and an inspector survey the new room and stamp an approval.",
+   "narration": "检测验收合格，才能投入使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "新建改建：先验收，再使用",
+   "scene": "没验收就开机打叉",
+   "prompt_en": "Diagram: starting a device in a room without approval, crossed out. No text.",
+   "narration": "未经验收，不得投入使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "新建改建：先验收，再使用",
+   "scene": "搬设备进新房间前先申报",
+   "prompt_en": "Diagram: moving a device to a new room, a request form approved first. No text.",
+   "narration": "换房间、加设备，先申报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "源罐防丢、装置开机两个图标",
+   "prompt_en": "Diagram: a source container with a lock and a running device with a warning lamp. No text.",
+   "narration": "放射源重在防丢，装置重在开机。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标志、联锁、警戒线、巡测仪四个图标",
+   "prompt_en": "Diagram: four icons, a warning sign, an interlock, barrier tape and a survey meter. No text.",
+   "narration": "认标志，守联锁，划警戒，靠实测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双人双锁、登记、屏蔽容器三个图标",
+   "prompt_en": "Diagram: two keys, a log book and a shielded container. No text.",
+   "narration": "双人双锁，用后归位，转移有容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "泄漏检查、含源仪器、验收章三个图标",
+   "prompt_en": "Diagram: a wipe sample, a smoke detector and an approval stamp. No text.",
+   "narration": "定期查泄漏，含源仪器不乱丢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一个空白的药瓶铅罐挥手",
+   "prompt_en": "The panda mascot holds up a small lead vial shield and waves goodbye.",
+   "narration": "下一课：核医学与放射性药物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
