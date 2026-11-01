@@ -43,6 +43,7 @@ MAX_LINE = 20          # 每镜旁白不超过 20 字（不含标点）
 SPECIAL = {"开场", "情景", "小结", "结尾"}
 MAX_LABELS, MAX_LABEL_CHARS = 5, 8
 DOMESTIC = "（国内版）"     # 国内版目录名后缀
+LIVE = "【实拍】"           # 中文画面以此开头的镜头建议用真实操作视频（见 docs/实拍素材评估与拍摄规范.md）
 COURSE = "高校实验室安全"   # 由全部原视频知识点合并整理的新课程：project/高校实验室安全/<课号_课名>/
 
 
@@ -194,6 +195,18 @@ def write_package(d, meta, shots):
 {rows}
 """, encoding="utf-8")
 
+    live = [s for s in shots if s["scene"].startswith(LIVE)]
+    note = d / "实拍清单.md"
+    if live:   # 剧本中标【实拍】的镜头：给拍摄组的清单（没有实拍素材时仍按英文提示词生成卡通片段）
+        note.write_text(f"# {title} 实拍清单\n\n拍摄规范见 `docs/实拍素材评估与拍摄规范.md`；"
+                        f"拍好的 5 秒片段放到 `{rel}/footage/shot_NNN.mp4`，再运行 `python3 tools/cartoon/live.py \"{rel}\"`。\n\n"
+                        "| 镜号 | 时间 | 知识点 | 拍摄内容 | 旁白（TTS 配音） |\n|---|---|---|---|---|\n"
+                        + "\n".join(f"| {s['shot']} | {srt_time((s['shot'] - 1) * SHOT_S)[3:8]} | {s['section_title']} | "
+                                     f"{s['scene'][len(LIVE):].strip()} | {s['narration']} |" for s in live) + "\n",
+                        encoding="utf-8")
+    elif note.exists():
+        note.unlink()
+
     (d / "workflow.md").write_text(f"""# {title} 制作工作流
 
 制作方法与 ppplus107 一致：ComfyUI + MiniMax H3，扁平 2D 卡通（熊猫欣欣主持），每镜 5 秒，1280×704、24fps。
@@ -217,6 +230,8 @@ def write_package(d, meta, shots):
    每镜生成后检查：配音与旁白一致、结尾不截断、画面无伪字；不合格换种子重做（`--redo 镜号`）。
 2. 拼接：`python3 tools/cartoon/assemble.py "{rel}"`，按分镜顺序合并，烧录底部字幕、顶部文字和图示文字，
    输出 `{rel}/{video}_cn_cartoon.mp4`。
+   有 `实拍清单.md` 时：把拍好的片段放到 `{rel}/footage/shot_NNN.mp4`，先运行
+   `python3 tools/cartoon/live.py "{rel}"`（统一规格并合入 TTS 配音，写入 clips/），generate.py 会跳过这些镜头。
 3. 人工审核：对照 `script.md`、`审查报告.md` 和原视频内容文档核对；学校适用条款由本校实验室安全管理部门确认。
 """, encoding="utf-8")
 

@@ -21,4 +21,6 @@
    每镜生成后检查：配音与旁白一致、结尾不截断、画面无伪字；不合格换种子重做（`--redo 镜号`）。
 2. 拼接：`python3 tools/cartoon/assemble.py "project/Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）"`，按分镜顺序合并，烧录底部字幕、顶部文字和图示文字，
    输出 `project/Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]_cn_cartoon.mp4`。
+   有 `实拍清单.md` 时：把拍好的片段放到 `project/Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）/footage/shot_NNN.mp4`，先运行
+   `python3 tools/cartoon/live.py "project/Fire Safety & Extinguisher Training/07_Safety Showers and Eye Washes in the Laboratory - [Employee Training]（国内版）"`（统一规格并合入 TTS 配音，写入 clips/），generate.py 会跳过这些镜头。
 3. 人工审核：对照 `script.md`、`审查报告.md` 和原视频内容文档核对；学校适用条款由本校实验室安全管理部门确认。
