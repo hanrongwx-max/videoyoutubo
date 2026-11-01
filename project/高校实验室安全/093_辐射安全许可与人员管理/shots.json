@@ -1,0 +1,947 @@
+{
+ "id": "093_辐射安全许可与人员管理",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射安全许可与人员管理",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/093_辐射安全许可与人员管理.md",
+ "author_source": "project/高校实验室安全/093_辐射安全许可与人员管理/src.py",
+ "points": {
+  "K1": "依法管理：辐射安全法规体系",
+  "K2": "辐射安全许可证",
+  "K3": "持证使用，建好台账",
+  "K4": "学校辐射安全管理机构与负责人",
+  "K5": "辐射工作人员与公众",
+  "K6": "先培训考核，再上岗",
+  "K7": "定期复训，结合岗位讨论",
+  "K8": "本实验室辐射安全操作规程",
+  "K9": "个人剂量监测与职业健康检查",
+  "K10": "准入：未经许可不进入",
+  "K11": "人员的权利",
+  "S1": "违规的法律责任"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一张空白许可证和一张培训合格单",
+   "prompt_en": "The panda mascot holds up a blank license certificate and a blank training certificate.",
+   "narration": "这一课讲辐射安全许可与人员管理。",
+   "overlay": [
+    "辐射安全许可与人员管理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一份课题计划，想借隔壁课题组的小放射源",
+   "prompt_en": "The young male student holds a project plan and asks a neighbor group to lend him a small sealed source.",
+   "narration": "阿杰想借隔壁组的放射源用两天。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他还没参加过辐射安全培训，空白证书上有问号",
+   "prompt_en": "Diagram: the young male student beside a blank training certificate with a question mark. No text.",
+   "narration": "他还没参加过辐射安全培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师抬手拦住，借源和未培训两个图标打叉",
+   "prompt_en": "The safety administrator raises a hand; a lending source icon and an untrained person icon are both crossed out.",
+   "narration": "王老师说：借源不行，没培训也不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "依法管理：辐射安全法规体系",
+   "scene": "一部法律书在顶层，下面是条例和部门规章，再下面是国家标准",
+   "prompt_en": "Diagram: a pyramid of books, one law book on top, regulations and department rules below, national standards at the base. No text.",
+   "narration": "辐射安全有一整套法律法规。",
+   "overlay": [
+    "依法管理：辐射安全法规体系"
+   ],
+   "labels": [
+    "法律",
+    "条例",
+    "规章",
+    "标准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "依法管理：辐射安全法规体系",
+   "scene": "法律书和盾牌，环境与人",
+   "prompt_en": "Diagram: a law book with a shield protecting people and the environment. No text.",
+   "narration": "放射性污染防治法，是最上位的法律。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "依法管理：辐射安全法规体系",
+   "scene": "条例书上放射源和射线装置图标",
+   "prompt_en": "Diagram: a regulation book with a sealed source icon and an X-ray device icon. No text.",
+   "narration": "安全和防护条例，管源和射线装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "依法管理：辐射安全法规体系",
+   "scene": "国家标准书打钩，旁边学校制度手册",
+   "prompt_en": "Diagram: a national standard book with a check mark beside a university rule book. No text.",
+   "narration": "防护要求以国家标准和学校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "依法管理：辐射安全法规体系",
+   "scene": "国外资料书被推到一边",
+   "prompt_en": "Diagram: a foreign reference book pushed aside, the national rule books in front. No text.",
+   "narration": "国外制度只作参考，不能照搬。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "生态环境部门发出一张许可证",
+   "prompt_en": "Diagram: an environmental authority office handing out a blank license certificate. No text.",
+   "narration": "用源用装置，先取得辐射安全许可证。",
+   "overlay": [
+    "辐射安全许可证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "许可证上画着几种活动的图标框",
+   "prompt_en": "Diagram: a blank license with boxes for kinds of sources, devices and work areas. No text.",
+   "narration": "许可证写明能用哪些源、哪些装置。",
+   "overlay": [],
+   "labels": [
+    "种类",
+    "范围"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "超出框外的活动打叉",
+   "prompt_en": "Diagram: an activity icon outside the licensed boxes, crossed out. No text.",
+   "narration": "超出许可范围，不得开展。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "新增核素或装置要先申请变更",
+   "prompt_en": "Diagram: a new source icon waiting at a door while a change request form is approved. No text.",
+   "narration": "新增种类或场所，先办许可变更。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "日历和许可证，到期前办理延续",
+   "prompt_en": "Diagram: a calendar and the license, renewal done before the expiry date. No text.",
+   "narration": "许可证有有效期，到期前要延续。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "辐射安全许可证",
+   "scene": "用放射性药物的实验室也要许可",
+   "prompt_en": "Diagram: a lab using a radioactive tracer vial, with a license on the wall. No text.",
+   "narration": "用放射性药物和示踪剂，同样要许可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "源和装置一一对应登记本",
+   "prompt_en": "Diagram: each source container and device linked by lines to its own line in a ledger. No text.",
+   "narration": "源和装置一一登记，建好台账。",
+   "overlay": [
+    "持证使用，建好台账"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "购买、转让、借用三个图标都打叉，旁边审批印章",
+   "prompt_en": "Diagram: icons for buying privately, transferring and lending, each crossed out, with an approval stamp beside them. No text.",
+   "narration": "不得私自购买、转让、转借。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "专人拿着钥匙管理源库，进出登记",
+   "prompt_en": "Diagram: one designated keeper holding the key to a source store, with an in and out log. No text.",
+   "narration": "放射源专人管理，出入登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "定期清点，账物相符打钩",
+   "prompt_en": "Diagram: a periodic count where each item matches the ledger, with a check mark. No text.",
+   "narration": "定期清点，做到账物相符。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "年度评估报告交给主管部门",
+   "prompt_en": "Diagram: a yearly assessment report being submitted to an authority office. No text.",
+   "narration": "每年评估辐射安全状况，按时上报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "持证使用，建好台账",
+   "scene": "购买、转移审批文件夹",
+   "prompt_en": "Diagram: a folder of approval documents for purchase and transfer. No text.",
+   "narration": "购买、转移按规定审批或备案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "学校、学院、实验室三层结构，顶层有辐射安全管理机构",
+   "prompt_en": "Diagram: three levels, university, school and lab, with a radiation safety office at the top level. No text.",
+   "narration": "学校设辐射安全管理机构，分级负责。",
+   "overlay": [
+    "学校辐射安全管理机构与负责人"
+   ],
+   "labels": [
+    "学校",
+    "学院",
+    "实验室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "王老师胸前别着辐射安全负责人徽章",
+   "prompt_en": "The safety administrator wears a radiation safety badge and holds a checklist.",
+   "narration": "辐射安全负责人和专职人员管日常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "负责人的工作：制度、培训、监测、检查四个图标",
+   "prompt_en": "Diagram: four duty icons, rules, training, monitoring and inspection. No text.",
+   "narration": "定制度、管培训、抓监测、查隐患。",
+   "overlay": [],
+   "labels": [
+    "制度",
+    "培训",
+    "监测",
+    "检查"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "老周站在实验室门口，胸前有责任人标识",
+   "prompt_en": "The older man stands at the lab door with a responsibility tag.",
+   "narration": "实验室负责人，是第一责任人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "阿杰带着问题去找导师和王老师",
+   "prompt_en": "The young male student brings a question to his supervisor and the safety administrator.",
+   "narration": "有疑问，问导师和辐射安全管理人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "学校辐射安全管理机构与负责人",
+   "scene": "学校的制度文件和场所评估资料夹",
+   "prompt_en": "Diagram: university radiation rule files and site assessment folders on a shelf. No text.",
+   "narration": "学校的制度和场所评估资料，可以查阅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员与公众",
+   "scene": "剂量柱：本底之上多出一截",
+   "prompt_en": "Diagram: a dose bar with an extra section above the natural background level. No text.",
+   "narration": "可能受到高于本底照射的，是辐射工作人员。",
+   "overlay": [
+    "辐射工作人员与公众"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员与公众",
+   "scene": "辐射工作人员戴剂量计，手持培训证书",
+   "prompt_en": "Diagram: a radiation worker wearing a dosimeter badge and holding a training certificate. No text.",
+   "narration": "必须接受培训，佩戴个人剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员与公众",
+   "scene": "其他人在外面，表盘更小",
+   "prompt_en": "Diagram: other people outside the work area, each with a much smaller limit gauge. No text.",
+   "narration": "其他人都是公众，限值更严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "辐射工作人员与公众",
+   "scene": "用源做实验的研究生贴上工作人员标签",
+   "prompt_en": "Diagram: a graduate student using a source, tagged as a radiation worker. No text.",
+   "narration": "用源做实验的学生，也是辐射工作人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "培训课堂，然后考核试卷，最后上岗",
+   "prompt_en": "Diagram: a training class, then an exam paper, then a worker starting at the bench, connected by arrows. No text.",
+   "narration": "先培训，考核合格再上岗。",
+   "overlay": [
+    "先培训考核，再上岗"
+   ],
+   "labels": [
+    "培训",
+    "考核",
+    "上岗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "电脑上的在线学习和考试",
+   "prompt_en": "Diagram: a computer screen with an online course and an exam icon, the screen blank. No text.",
+   "narration": "按国家规定参加辐射安全培训考核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "学院和实验室再做岗位培训",
+   "prompt_en": "Diagram: a school level session and then a lab level hands on briefing. No text.",
+   "narration": "学院和实验室，还要做岗位培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "老周审核后在准入表上签字",
+   "prompt_en": "The older man reviews and signs an access approval form.",
+   "narration": "实验室负责人审核后，再给准入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "专用柜和手套箱上挂着授权标签",
+   "prompt_en": "Diagram: a dedicated hood and a glove box with authorization tags. No text.",
+   "narration": "专用柜和设备，授权后才能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "没受过训练的人面对洒漏，后退报告",
+   "prompt_en": "Diagram: an untrained person seeing a spill, stepping back and calling for help. No text.",
+   "narration": "没受过训练，不要自行处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先培训考核，再上岗",
+   "scene": "合格单上的日历，到期前复训",
+   "prompt_en": "Diagram: a training certificate with a calendar, refreshing before it expires. No text.",
+   "narration": "合格有效期届满前，要重新考核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "定期复训，结合岗位讨论",
+   "scene": "日历上每年一次的培训图标",
+   "prompt_en": "Diagram: a calendar with a training icon marked once every year. No text.",
+   "narration": "培训不是一次就够，要定期复训。",
+   "overlay": [
+    "定期复训，结合岗位讨论"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "定期复训，结合岗位讨论",
+   "scene": "课题组围坐讨论自己的岗位",
+   "prompt_en": "Diagram: a research group sitting around a table discussing their own work tasks. No text.",
+   "narration": "学完结合自己的岗位一起讨论。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "定期复训，结合岗位讨论",
+   "scene": "换新核素、新设备，先补训",
+   "prompt_en": "Diagram: a new source icon and a new device icon, each with a small training icon before use. No text.",
+   "narration": "换新核素、新设备，先补训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "定期复训，结合岗位讨论",
+   "scene": "培训记录归档",
+   "prompt_en": "Diagram: training records filed into a binder. No text.",
+   "narration": "培训和考核，都要记录存档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本实验室辐射安全操作规程",
+   "scene": "本实验室规程手册翻开",
+   "prompt_en": "Diagram: an open lab procedure manual with blank pages. No text.",
+   "narration": "做法要写进本实验室的规程。",
+   "overlay": [
+    "本实验室辐射安全操作规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本实验室辐射安全操作规程",
+   "scene": "规程里五个图标：步骤、培训、防护、工程控制、应急",
+   "prompt_en": "Diagram: five icons in the manual, steps, training, protection, engineering controls and emergency. No text.",
+   "narration": "步骤、培训、防护、工程控制都写清。",
+   "overlay": [],
+   "labels": [
+    "步骤",
+    "培训",
+    "防护",
+    "工程控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本实验室辐射安全操作规程",
+   "scene": "怀疑超量时的流程图",
+   "prompt_en": "Diagram: a flow chart for what to do when an overexposure is suspected. No text.",
+   "narration": "怀疑超剂量怎么办，也要写清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本实验室辐射安全操作规程",
+   "scene": "规程挂在工作场所墙上",
+   "prompt_en": "Diagram: the procedure posted on the wall of the work area. No text.",
+   "narration": "规程放在现场，人人看得到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "本实验室辐射安全操作规程",
+   "scene": "规程更新，旧版打叉",
+   "prompt_en": "Diagram: a new version of the procedure replacing an old crossed out one. No text.",
+   "narration": "条件变化，规程及时修订。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "日历上剂量计按期送检",
+   "prompt_en": "Diagram: a calendar with dosimeters sent off regularly. No text.",
+   "narration": "工作时戴剂量计，按周期送检。",
+   "overlay": [
+    "个人剂量监测与职业健康检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "每个人一份剂量档案",
+   "prompt_en": "Diagram: a personal dose record folder for each worker. No text.",
+   "narration": "每个人都有个人剂量档案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "读数异常，放大镜查原因",
+   "prompt_en": "Diagram: an unusual reading on a report and a magnifier looking for the cause. No text.",
+   "narration": "读数异常，要查明原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "时间线：上岗前、在岗期间、离岗时三次体检",
+   "prompt_en": "Diagram: a timeline with three health check icons, before starting, during the job and when leaving. No text.",
+   "narration": "上岗前、在岗期间、离岗时都要体检。",
+   "overlay": [],
+   "labels": [
+    "上岗前",
+    "在岗期间",
+    "离岗时"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "医生在有资质的机构体检",
+   "prompt_en": "Diagram: a doctor at a licensed occupational health clinic examining a worker. No text.",
+   "narration": "到有资质的机构做职业健康检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "体检不合格的人调离岗位",
+   "prompt_en": "Diagram: a worker with an unsuitable result being moved to a different job. No text.",
+   "narration": "不适合的，不安排或调离辐射工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "个人剂量监测与职业健康检查",
+   "scene": "档案柜上锁，长期保存",
+   "prompt_en": "Diagram: a locked cabinet holding dose and health records for the long term. No text.",
+   "narration": "体检和剂量记录，长期保存。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "准入：未经许可不进入",
+   "scene": "【实拍】辐射工作场所入口的准入告示和电离辐射警告标志特写（不开启射线装置、不用放射源）",
+   "prompt_en": "Close-up: an entrance door with an ionizing radiation warning sign and an authorized personnel notice.",
+   "narration": "辐射工作场所，不能随便进。",
+   "overlay": [
+    "准入：未经许可不进入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "准入：未经许可不进入",
+   "scene": "【实拍】入口上方工作状态指示灯的外观特写（设备不出束）",
+   "prompt_en": "Close-up: a work status indicator lamp above a radiation room door.",
+   "narration": "认准警示标志和工作指示灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "准入：未经许可不进入",
+   "scene": "没培训的人在控制区门口被拦，开机按钮打叉",
+   "prompt_en": "Diagram: an untrained person stopped at a controlled area door, and a start button crossed out. No text.",
+   "narration": "没培训没授权，不进控制区、不开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "准入：未经许可不进入",
+   "scene": "铀样品不能带进普通微生物实验室",
+   "prompt_en": "Diagram: a uranium sample container stopped at the door of an ordinary microbiology lab. No text.",
+   "narration": "放射性样品，只在许可场所使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "准入：未经许可不进入",
+   "scene": "访客跟着王老师，有人陪同",
+   "prompt_en": "Diagram: visitors following the safety administrator through the area. No text.",
+   "narration": "来访参观，有人陪同，听从安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "人员的权利",
+   "scene": "阿杰拿着岗位风险告知单",
+   "prompt_en": "The young male student reads a blank job risk notice.",
+   "narration": "你有权了解岗位上的辐射风险。",
+   "overlay": [
+    "人员的权利"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "人员的权利",
+   "scene": "阿杰查看自己的剂量和体检结果",
+   "prompt_en": "The young male student looks at his own dose report and health check result, both blank.",
+   "narration": "有权知道自己的剂量和体检结果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "人员的权利",
+   "scene": "发现屏蔽破损，阿杰向王老师提出整改",
+   "prompt_en": "Diagram: the young male student pointing out a damaged shield and reporting it to the safety administrator. No text.",
+   "narration": "发现隐患，可以提出整改要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "人员的权利",
+   "scene": "条件不安全，阿杰停在门外",
+   "prompt_en": "Diagram: the young male student pausing outside a door with a warning icon, refusing to enter. No text.",
+   "narration": "条件不安全，可以先不进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "人员的权利",
+   "scene": "报告隐患的人身边有保护盾牌",
+   "prompt_en": "Diagram: a person who reported a hazard standing under a protective shield. No text.",
+   "narration": "报告隐患，不会因此受追究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "违规的法律责任",
+   "scene": "无证、超范围、丢源不报三个图标打叉",
+   "prompt_en": "Diagram: three crossed out icons, no license, beyond scope, and an unreported lost source. No text.",
+   "narration": "无证、超范围、丢源不报，都是违法。",
+   "overlay": [
+    "违规的法律责任"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "违规的法律责任",
+   "scene": "警告单、罚款、许可证被收回",
+   "prompt_en": "Diagram: a warning notice, a fine and a license being taken back. No text.",
+   "narration": "单位会被处罚，许可可能被吊销。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "违规的法律责任",
+   "scene": "造成污染的情节严重，法槌",
+   "prompt_en": "Diagram: a serious pollution case leading to a court gavel. No text.",
+   "narration": "造成严重后果，要追究法律责任。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "违规的法律责任",
+   "scene": "个人违反规程，校内处理通知",
+   "prompt_en": "Diagram: an individual breaking the rules receiving a university disciplinary notice. No text.",
+   "narration": "个人违规，学校也会严肃处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "许可证、台账和制度三件",
+   "prompt_en": "Diagram: a license, a ledger and a rule book side by side. No text.",
+   "narration": "持证使用、建台账、守规程。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "培训、剂量计、体检三个图标",
+   "prompt_en": "Diagram: three icons, a training class, a dosimeter badge and a health check. No text.",
+   "narration": "人员先培训考核，监测体检建档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "门口准入标志和举手提问的学生",
+   "prompt_en": "Diagram: an authorized entry sign at a door and a student raising a hand to ask. No text.",
+   "narration": "未经授权不进入；有权知情和提出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着一个密封源罐和一台射线装置挥手",
+   "prompt_en": "The panda mascot points at a sealed source container and an X-ray cabinet and waves goodbye.",
+   "narration": "下一课：放射源与射线装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
