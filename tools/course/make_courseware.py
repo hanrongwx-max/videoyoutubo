@@ -308,7 +308,7 @@ def chapter_md(chapter, lessons):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--only", nargs="*", help="只生成这些课号的课件（章合订和说明书仍按全部已写课程生成）")
+    ap.add_argument("--only", nargs="*", help="只生成这些课号的课件，并只重建它们所在章的合订课件和章说明书")
     ap.add_argument("--no-docx", action="store_true")
     args = ap.parse_args()
     syl = list(csv.DictReader(open(SYLLABUS, encoding="utf-8"), delimiter="\t"))
@@ -321,6 +321,8 @@ def main():
             chapters.setdefault(r["章"], []).append((r, parse(files[r["lesson_id"]])))
     n = 0
     for chapter, items in chapters.items():
+        if args.only and not any(les["id"] in args.only for _, les in items):
+            continue   # 只重建包含指定课的章，避免无谓地改写其他章的合订文件
         for r, les in items:
             if args.only and les["id"] not in args.only:
                 continue
