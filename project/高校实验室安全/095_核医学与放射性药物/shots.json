@@ -1,0 +1,1090 @@
+{
+ "id": "095_核医学与放射性药物",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "核医学与放射性药物",
+ "seconds": 420,
+ "source_doc": "course/高校实验室安全/095_核医学与放射性药物.md",
+ "author_source": "project/高校实验室安全/095_核医学与放射性药物/src.py",
+ "points": {
+  "K1": "X射线影像：组织拦得不一样",
+  "K2": "核医学：把“光源”放进身体",
+  "K3": "探测器：一圈圈接收γ光子",
+  "K4": "放射性药物：核素加载体",
+  "K5": "诊断核素：半衰期要短",
+  "K6": "只要能量适中的γ光子",
+  "K7": "聚得准，排得快",
+  "K8": "核素选择与医疗照射的最优化",
+  "K9": "核医学场所：分区与单向流动",
+  "K10": "采购、运输与验收入账",
+  "K11": "发生器的安全使用与归还",
+  "K12": "放射性药物分装的防护",
+  "K13": "给药前核对：人、药、活度",
+  "K14": "注射后的人就是辐射源",
+  "K15": "注射后的防护与告知",
+  "K16": "接触注射后的病人：标准防护"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个小铅罐，旁边是一台环形扫描仪",
+   "prompt_en": "The panda mascot holds a small lead vial shield next to a ring shaped scanner.",
+   "narration": "这一课讲核医学与放射性药物。",
+   "overlay": [
+    "核医学与放射性药物"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "医生按着老周的肚子，眉头紧锁",
+   "prompt_en": "A doctor presses on the older man's belly, looking puzzled.",
+   "narration": "老周肚子不舒服，医生想看看里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抱着一个刚到的药物包装盒，准备直接拆开",
+   "prompt_en": "The young male student holds a just delivered radioactive package and is about to tear it open.",
+   "narration": "阿杰的课题要用放射性药物，到货就想拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住阿杰，指着一张核对单",
+   "prompt_en": "The female graduate student stops him and points at a blank checklist.",
+   "narration": "小研说：先弄懂原理，再按规矩来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "X射线影像：组织拦得不一样",
+   "scene": "光子穿过一层层物质，每层被拦下一部分",
+   "prompt_en": "Diagram: photons passing through layers, a share stopped at each layer, fewer coming out. No text.",
+   "narration": "X射线穿过物质，一层层被拦下。",
+   "overlay": [
+    "X射线影像：组织拦得不一样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "X射线影像：组织拦得不一样",
+   "scene": "骨头拦得多显白，软组织显暗的X光片",
+   "prompt_en": "Diagram: an X-ray image, bones appearing white and soft tissue darker. No text.",
+   "narration": "骨头拦得多显白，软组织显暗。",
+   "overlay": [],
+   "labels": [
+    "骨头",
+    "软组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "X射线影像：组织拦得不一样",
+   "scene": "全身一样时，底片一片均匀",
+   "prompt_en": "Diagram: a uniform block giving a flat, featureless image. No text.",
+   "narration": "没有差别，就没有图像。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "X射线影像：组织拦得不一样",
+   "scene": "软组织病变看不清，开刀图标打叉",
+   "prompt_en": "Diagram: a faint soft tissue problem on an image, and a surgery icon crossed out. No text.",
+   "narration": "软组织有时看不清，开刀又伤身。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "身体里亮起光点，向外发出γ光子，体外探测器接收",
+   "prompt_en": "Diagram: a glowing spot inside the body sending gamma photons outward to a detector outside. No text.",
+   "narration": "核医学：把“光源”放进身体。",
+   "overlay": [
+    "核医学：把“光源”放进身体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "点状源放在体外，光线散乱不均匀，打叉",
+   "prompt_en": "Diagram: a point gamma source outside the body giving uneven spreading rays, crossed out. No text.",
+   "narration": "γ源放在体外照，效果不好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "药物经静脉注射，随血液流遍全身",
+   "prompt_en": "Diagram: a tracer injected into a vein and carried around the body by the blood. No text.",
+   "narration": "药物多经静脉注射，随血液循环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "病变部位光点越聚越多",
+   "prompt_en": "Diagram: bright spots gathering in one diseased area over time. No text.",
+   "narration": "病灶吸收多，那里就发光多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "看器官在工作的动画：心脏、肾脏闪烁",
+   "prompt_en": "Diagram: a heart and kidneys glowing to show how they are working. No text.",
+   "narration": "它擅长看器官“干活”的状态。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "核医学：把“光源”放进身体",
+   "scene": "显像相机只接收，自己不发射线",
+   "prompt_en": "Diagram: an imaging camera that only receives photons, with no rays coming from it. No text.",
+   "narration": "显像相机只接收，自己不放射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "探测器：一圈圈接收γ光子",
+   "scene": "光子向四面八方飞，一个探头只接住一点",
+   "prompt_en": "Diagram: photons flying in all directions, a single detector catching only a few. No text.",
+   "narration": "γ光子向四周飞，一个探头接不全。",
+   "overlay": [
+    "探测器：一圈圈接收γ光子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "探测器：一圈圈接收γ光子",
+   "scene": "身体外围一圈探测器，环可以移动",
+   "prompt_en": "Diagram: a ring of detectors around the body that can move along it. No text.",
+   "narration": "身体外围一圈探测器，就能接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "探测器：一圈圈接收γ光子",
+   "scene": "病人躺着随床移进圆筒，或探头转动拍摄",
+   "prompt_en": "Diagram: a patient on a bed moving into a ring scanner, and a rotating camera head beside it. No text.",
+   "narration": "病人随床进圆筒，或探头转着拍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "探测器：一圈圈接收γ光子",
+   "scene": "时钟和发光逐渐变暗，趁亮采集",
+   "prompt_en": "Diagram: a clock beside a glowing source that slowly dims, images taken while it is bright. No text.",
+   "narration": "趁“光源”还亮，抓紧采集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "放射性药物：核素加载体",
+   "scene": "一颗药丸分成两半：发光的核素和送货的载体",
+   "prompt_en": "Diagram: a capsule split into two parts, a glowing radionuclide and a delivery carrier. No text.",
+   "narration": "放射性药物由核素加载体组成。",
+   "overlay": [
+    "放射性药物：核素加载体"
+   ],
+   "labels": [
+    "核素",
+    "载体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "放射性药物：核素加载体",
+   "scene": "载体像快递员，把核素送到目标器官",
+   "prompt_en": "Diagram: a carrier shown as a courier delivering the radionuclide to a target organ. No text.",
+   "narration": "载体像快递员，送到目标器官。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "放射性药物：核素加载体",
+   "scene": "火箭和卫星：卫星太重飞不起来",
+   "prompt_en": "Diagram: a rocket carrying a small satellite; a too heavy satellite keeps it on the ground. No text.",
+   "narration": "标记要牢，还不能改变药物行为。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "放射性药物：核素加载体",
+   "scene": "放射性药物按药品严格管理",
+   "prompt_en": "Diagram: a vial with a radiation label and a medicine control file beside it. No text.",
+   "narration": "放射性药品，国家专门管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诊断核素：半衰期要短",
+   "scene": "衰变曲线几小时内快速下降",
+   "prompt_en": "Diagram: a decay curve dropping quickly within a few hours. No text.",
+   "narration": "诊断核素，半衰期要短。",
+   "overlay": [
+    "诊断核素：半衰期要短"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诊断核素：半衰期要短",
+   "scene": "制备、运输、注射的时间轴与半衰期相当",
+   "prompt_en": "Diagram: a timeline from preparation to transport to injection, about as long as the half-life. No text.",
+   "narration": "半衰期几小时，和准备时间相当。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诊断核素：半衰期要短",
+   "scene": "太长剂量留得久，太短要多备活度，两头打叉",
+   "prompt_en": "Diagram: a too long half-life and a too short one, both crossed out, a middle one checked. No text.",
+   "narration": "太长留得久，太短要多备活度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诊断核素：半衰期要短",
+   "scene": "病人做一次，工作人员天天接触",
+   "prompt_en": "Diagram: one patient once, but a worker handling doses every day, with a growing dose bar. No text.",
+   "narration": "工作人员天天接触，剂量会累积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "只要能量适中的γ光子",
+   "scene": "γ光子穿出身体，α、β留在体内打叉",
+   "prompt_en": "Diagram: gamma photons leaving the body, alpha and beta particles staying inside, crossed out. No text.",
+   "narration": "成像只要穿得出身体的γ光子。",
+   "overlay": [
+    "只要能量适中的γ光子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "只要能量适中的γ光子",
+   "scene": "能量太低穿不出，太高挡不住，中间刚好",
+   "prompt_en": "Diagram: a low energy photon stuck inside, a high energy one escaping the collimator, a middle one just right. No text.",
+   "narration": "能量要适中，好穿出，好探测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "只要能量适中的γ光子",
+   "scene": "能谱上一个尖峰，散射的被筛掉",
+   "prompt_en": "Diagram: an energy spectrum with one sharp peak and scattered photons filtered out. No text.",
+   "narration": "单一能量，便于筛掉散射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "聚得准，排得快",
+   "scene": "药物快速聚到目标组织",
+   "prompt_en": "Diagram: a tracer gathering quickly and strongly in its target tissue. No text.",
+   "narration": "好药物聚得快、聚得多。",
+   "overlay": [
+    "聚得准，排得快"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "聚得准，排得快",
+   "scene": "碘聚到小小的甲状腺，颜色很深",
+   "prompt_en": "Diagram: iodine collecting in the small thyroid gland, shown in a deep color. No text.",
+   "narration": "碘会大量聚到甲状腺。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "聚得准，排得快",
+   "scene": "小器官集中受照，治疗原理",
+   "prompt_en": "Diagram: a small organ receiving a concentrated dose, used to treat thyroid disease. No text.",
+   "narration": "器官小，剂量集中，这是碘治疗原理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "聚得准，排得快",
+   "scene": "一边衰变，一边经尿液排出",
+   "prompt_en": "Diagram: activity decaying while also leaving the body in urine. No text.",
+   "narration": "一边衰变，一边排出，越快越好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "聚得准，排得快",
+   "scene": "毒性低、稳定、易获得三个图标",
+   "prompt_en": "Diagram: three icons, low toxicity, stability and easy supply. No text.",
+   "narration": "还要毒性低、稳定、好获得。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "核素选择与医疗照射的最优化",
+   "scene": "天平：获益大于风险",
+   "prompt_en": "Diagram: a balance with benefit outweighing risk. No text.",
+   "narration": "用放射性药物，要获益大于风险。",
+   "overlay": [
+    "核素选择与医疗照射的最优化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "核素选择与医疗照射的最优化",
+   "scene": "活度够用就好，多加的部分打叉",
+   "prompt_en": "Diagram: just enough activity checked, extra activity crossed out. No text.",
+   "narration": "活度够用就好，不盲目加量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "核素选择与医疗照射的最优化",
+   "scene": "儿童和小体重者按规范减量",
+   "prompt_en": "Diagram: a smaller dose for a child according to a guideline. No text.",
+   "narration": "儿童和小体重者，按规范减量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "核素选择与医疗照射的最优化",
+   "scene": "调参数，图像够清楚又少照",
+   "prompt_en": "Diagram: adjusting scan settings to get a clear enough image with a lower dose. No text.",
+   "narration": "图像够用，就调参数少照一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "核素选择与医疗照射的最优化",
+   "scene": "新课题选核素，先经安全审核",
+   "prompt_en": "Diagram: a new project plan with a radionuclide choice going through a safety review. No text.",
+   "narration": "能不用核素就不用，新课题先审核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核医学场所：分区与单向流动",
+   "scene": "核医学场所平面图：控制区、监督区",
+   "prompt_en": "Diagram: a nuclear medicine floor plan with a controlled area and a supervised area. No text.",
+   "narration": "核医学场所要分区管理。",
+   "overlay": [
+    "核医学场所：分区与单向流动"
+   ],
+   "labels": [
+    "控制区",
+    "监督区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核医学场所：分区与单向流动",
+   "scene": "工作人员和患者走两条通道",
+   "prompt_en": "Diagram: separate routes for staff and for patients. No text.",
+   "narration": "工作人员和患者，走各自的通道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核医学场所：分区与单向流动",
+   "scene": "药物和废物单向流动，回头箭头打叉",
+   "prompt_en": "Diagram: drugs and waste moving one way through the area, a backward arrow crossed out. No text.",
+   "narration": "药物和废物单向走，不走回头路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核医学场所：分区与单向流动",
+   "scene": "负压分装柜、排风和衰变池图标",
+   "prompt_en": "Diagram: a negative pressure dispensing hood, an exhaust duct and a decay tank. No text.",
+   "narration": "通风、屏蔽、衰变池，按标准设置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "核医学场所：分区与单向流动",
+   "scene": "离开控制区测手和鞋",
+   "prompt_en": "The female graduate student checks her hands and shoes with a contamination meter at the exit.",
+   "narration": "离开控制区，先测手和鞋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "从有资质的单位订货",
+   "prompt_en": "Diagram: an order placed only with a licensed supplier. No text.",
+   "narration": "放射性药物从有资质的单位购买。",
+   "overlay": [
+    "采购、运输与验收入账"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "有资质的单位运输，当面交接签字",
+   "prompt_en": "Diagram: a licensed courier handing over a package and both sides signing. No text.",
+   "narration": "按规定运输，到货当面交接签字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "核对核素、活度、数量与单据",
+   "prompt_en": "Diagram: checking the radionuclide, activity and quantity against the delivery note. No text.",
+   "narration": "核对核素、活度、数量和单据。",
+   "overlay": [],
+   "labels": [
+    "核素",
+    "活度",
+    "数量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "测包装外表面有无破损和污染",
+   "prompt_en": "The female graduate student surveys the outside of the package for damage and contamination.",
+   "narration": "测包装外表面，有无破损污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "入专用柜加锁，登记台账",
+   "prompt_en": "Diagram: the package placed in a locked dedicated cabinet and entered into a ledger. No text.",
+   "narration": "入专用柜加锁，登记入账。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "采购、运输与验收入账",
+   "scene": "赶时间也不跳过核对",
+   "prompt_en": "Diagram: a running clock, but the checklist still completed. No text.",
+   "narration": "再赶时间，也不能跳过核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发生器的安全使用与归还",
+   "scene": "母体核素在柱里，洗出短寿命子体",
+   "prompt_en": "Diagram: a long lived parent held in a shielded column, a short lived daughter washed out. No text.",
+   "narration": "发生器用长寿命母体“挤”出子体。",
+   "overlay": [
+    "发生器的安全使用与归还"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发生器的安全使用与归还",
+   "scene": "到货查外壳，登记入账",
+   "prompt_en": "Diagram: checking the generator housing on arrival and logging it. No text.",
+   "narration": "到货查外壳完好，登记入账。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发生器的安全使用与归还",
+   "scene": "在屏蔽区内淋洗，每次药液贴标签",
+   "prompt_en": "Diagram: elution inside a shielded area, each vial labeled and recorded. No text.",
+   "narration": "在屏蔽区内淋洗，每次标签记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发生器的安全使用与归还",
+   "scene": "拆发生器、扔垃圾桶打叉，退回供应单位",
+   "prompt_en": "Diagram: taking a generator apart and binning it are crossed out; it is returned to the supplier. No text.",
+   "narration": "不得拆解，用完按约定退回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "专用分装柜里操作，铅玻璃挡在前面",
+   "prompt_en": "The female graduate student works in a dedicated dispensing hood behind a lead glass screen.",
+   "narration": "在专用分装柜里分装。",
+   "overlay": [
+    "放射性药物分装的防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "【实拍】药瓶铅罐和注射器屏蔽套的外观特写（空容器，不装药）",
+   "prompt_en": "Close-up: an empty lead vial shield and a tungsten syringe shield on a tray.",
+   "narration": "药瓶放铅罐，注射器套屏蔽套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "托盘吸水纸，长柄钳夹取",
+   "prompt_en": "Diagram: a tray lined with absorbent paper, a vial picked up with long tongs. No text.",
+   "narration": "托盘铺吸水纸，用工具夹取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "徒手拿瓶、嘴吸、吃喝、化妆打叉",
+   "prompt_en": "Diagram: bare hand vial handling, mouth pipetting, eating and applying makeup, all crossed out. No text.",
+   "narration": "不徒手拿瓶，不嘴吸，不吃喝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "挥发性碘在通风柜里操作",
+   "prompt_en": "Diagram: volatile iodine handled only inside a working fume hood. No text.",
+   "narration": "挥发性的放射性碘，在通风柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "放射性药物分装的防护",
+   "scene": "做完测台面和手套，再脱手套洗手",
+   "prompt_en": "Diagram: surveying the bench and gloves, then removing gloves and washing hands. No text.",
+   "narration": "做完测台面和手套，再脱手套洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "【实拍】活度计外观和放样位置特写（不放放射性药物）",
+   "prompt_en": "Close-up: a dose calibrator chamber with its sample holder, empty.",
+   "narration": "用活度计实测，和处方一致。",
+   "overlay": [
+    "给药前核对：人、药、活度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "标签写清核素、活度、时间、对象",
+   "prompt_en": "Diagram: a syringe label with fields for radionuclide, activity, time and recipient, all blank. No text.",
+   "narration": "标签写清核素、活度、时间和对象。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "两人核对人、药、量",
+   "prompt_en": "Diagram: two staff members checking the person, the drug and the dose together. No text.",
+   "narration": "两人核对：人、药、量都对上。",
+   "overlay": [],
+   "labels": [
+    "人",
+    "药",
+    "量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "两个外形一样的注射器，容易拿错",
+   "prompt_en": "Diagram: two identical looking syringes with a warning mark. No text.",
+   "narration": "外形一样的容器，最容易拿错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "给药前核对：人、药、活度",
+   "scene": "给错立即报告，不隐瞒",
+   "prompt_en": "Diagram: a person reporting an error by phone, a hiding icon crossed out. No text.",
+   "narration": "给错药、给错量，立即报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "注射后的人就是辐射源",
+   "scene": "医院里X线机、放疗、辐照仪图标，X线机关机没射线，注射后的病人身上发光",
+   "prompt_en": "Diagram: hospital radiation sources, an X-ray room, radiotherapy and a blood irradiator; the switched off X-ray unit has no rays, an injected patient glows softly. No text.",
+   "narration": "X线机关机就没射线，病人不一样。",
+   "overlay": [
+    "注射后的人就是辐射源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "注射后的人就是辐射源",
+   "scene": "注射后的病人走过走廊、病房、检验科",
+   "prompt_en": "Diagram: an injected patient walking past a corridor, a ward and a lab. No text.",
+   "narration": "注射后的病人，本身就是辐射源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "注射后的人就是辐射源",
+   "scene": "注射后的实验动物笼子贴着辐射标志",
+   "prompt_en": "Diagram: a cage of injected lab mice with a radiation warning label. No text.",
+   "narration": "注射后的实验动物，也是辐射源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "注射后的人就是辐射源",
+   "scene": "相关人员一起接受安全告知",
+   "prompt_en": "Diagram: nurses, porters and cleaners attending a short safety briefing. No text.",
+   "narration": "可能接触的人，都要接受安全告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "患者在专用候诊区等候",
+   "prompt_en": "The older man waits in a separate waiting area after his injection.",
+   "narration": "注射后在专用候诊区等候。",
+   "overlay": [
+    "注射后的防护与告知"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "专用卫生间，便后多冲水",
+   "prompt_en": "Diagram: a dedicated toilet, flushed more than once. No text.",
+   "narration": "用专用卫生间，便后多冲水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "多喝水、勤排尿",
+   "prompt_en": "Diagram: drinking water and going to the toilet often. No text.",
+   "narration": "多喝水、勤排尿，排得更快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "老周先和孙子视频，暂不抱",
+   "prompt_en": "The older man video calls his grandson instead of hugging him for now.",
+   "narration": "短期少接触孕妇和儿童，遵医嘱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "书面告知单，怀孕哺乳先告诉医生",
+   "prompt_en": "Diagram: a written instruction sheet and a pregnant woman telling the doctor before the exam. No text.",
+   "narration": "怀孕或哺乳，检查前先告诉医生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "注射后的防护与告知",
+   "scene": "陪护人员少，孕妇儿童不陪护",
+   "prompt_en": "Diagram: one adult companion, with a pregnant woman and a child kept away. No text.",
+   "narration": "陪护自愿知情、人少，孕妇儿童不陪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "接触注射后的病人：标准防护",
+   "scene": "医护人员给注射后病人急救，穿戴常规防护",
+   "prompt_en": "Diagram: staff giving first aid to an injected patient, wearing gloves and gowns as usual. No text.",
+   "narration": "急救别犹豫，按常规穿戴防护。",
+   "overlay": [
+    "接触注射后的病人：标准防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "接触注射后的病人：标准防护",
+   "scene": "血和尿有一点放射性，病原体图标更大",
+   "prompt_en": "Diagram: blood and urine with a tiny radiation mark, and a larger germ icon beside them. No text.",
+   "narration": "血尿放射性很小，病原体更要防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "接触注射后的病人：标准防护",
+   "scene": "抽血化验尽量在检查前，留置针由技师处理",
+   "prompt_en": "Diagram: a blood sample taken before the scan, and an IV line handled by a technologist. No text.",
+   "narration": "抽血尽量在检查前，按科室安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "接触注射后的病人：标准防护",
+   "scene": "病人担心，护士耐心解释",
+   "prompt_en": "Diagram: a worried patient and a nurse calmly explaining. No text.",
+   "narration": "检查常用，受照很低，体内逐渐减少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "接触注射后的病人：标准防护",
+   "scene": "污染的废物放进标志桶",
+   "prompt_en": "Diagram: contaminated waste placed into a bin with a radiation label. No text.",
+   "narration": "沾染的废物，按规定专门处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "X射线外照和体内光源两图",
+   "prompt_en": "Diagram: an outside X-ray image and an inside glowing tracer image side by side. No text.",
+   "narration": "X射线外照，核医学从里往外看。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "核素加载体，短半衰期，适中γ",
+   "prompt_en": "Diagram: a radionuclide plus a carrier, a short half-life curve and a gamma photon. No text.",
+   "narration": "好药物：短寿命、适中γ、聚准排快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "验收、分装、核对三个图标",
+   "prompt_en": "Diagram: three icons, receiving check, shielded dispensing and double checking. No text.",
+   "narration": "验收入账，屏蔽分装，双人核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着空白应急预案夹挥手",
+   "prompt_en": "The panda mascot holds up a blank emergency plan folder and waves goodbye.",
+   "narration": "下一课：辐射事故应急。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
