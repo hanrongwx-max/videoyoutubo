@@ -1,0 +1,983 @@
+{
+ "id": "090_外照射防护",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "外照射防护",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/090_外照射防护.md",
+ "author_source": "project/高校实验室安全/090_外照射防护/src.py",
+ "points": {
+  "K1": "外照射防护三要素：时间、距离、屏蔽",
+  "K2": "时间：剂量与时间成正比",
+  "K3": "缩短时间：先演练，先实测",
+  "K4": "距离：平方反比定律",
+  "K5": "平方反比的验证与适用范围",
+  "K6": "时间和距离要一起算",
+  "K7": "拉开距离：长柄工具，不徒手拿源",
+  "K8": "屏蔽：越厚越致密，挡得越多",
+  "K9": "按射线种类选屏蔽",
+  "K10": "β屏蔽：先轻后重",
+  "K11": "γ屏蔽：铅还是混凝土",
+  "K12": "半值层与十值层",
+  "K13": "需要几个半值层",
+  "K14": "散射：实际比估算高，以实测为准",
+  "K15": "机房屏蔽：设计、验收、不拆改",
+  "K16": "准直器与铅衣",
+  "K17": "眼睛和双手的局部防护"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣面前的桌上摆着时钟、卷尺和铅砖",
+   "prompt_en": "The panda mascot stands behind a table with a clock, a tape measure and a lead brick.",
+   "narration": "这一课讲外照射防护。",
+   "overlay": [
+    "外照射防护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰伸手就要去拿台面上的小源容器",
+   "prompt_en": "The young male student reaches toward a small source container on a bench with his bare hand.",
+   "narration": "阿杰要取源，伸手就想拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指着时钟、尺子和挡板",
+   "prompt_en": "The female graduate student stops him and points to a clock, a ruler and a shield panel.",
+   "narration": "小研拦住他：先想时间、距离、屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "外照射防护三要素：时间、距离、屏蔽",
+   "scene": "三件法宝：时钟、尺子、盾牌",
+   "prompt_en": "Diagram: three glowing treasure icons, a clock, a ruler and a shield. No text.",
+   "narration": "外照射防护，靠时间、距离、屏蔽。",
+   "overlay": [
+    "外照射防护三要素：时间、距离、屏蔽"
+   ],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "外照射防护三要素：时间、距离、屏蔽",
+   "scene": "时钟变短、距离拉长、墙变厚，剂量柱缩小",
+   "prompt_en": "Diagram: a person near a source with a shorter clock, a longer distance arrow and a thicker wall, the dose bar shrinking. No text.",
+   "narration": "时间短、距离远、屏蔽厚，受照就少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "外照射防护三要素：时间、距离、屏蔽",
+   "scene": "三件法宝旁再加一副手套和干净托盘",
+   "prompt_en": "Diagram: a fourth icon of a glove and a clean tray added beside the clock, ruler and shield. No text.",
+   "narration": "开放源还要加一招：污染控制。",
+   "overlay": [],
+   "labels": [
+    "污染控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "外照射防护三要素：时间、距离、屏蔽",
+   "scene": "工作人员先看源的标签，再挑屏蔽",
+   "prompt_en": "Diagram: a worker reading a source container label before choosing a shield. No text.",
+   "narration": "放屏蔽前，先弄清是什么源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间：剂量与时间成正比",
+   "scene": "剂量率表乘时钟，杯子接满",
+   "prompt_en": "Diagram: a dose rate meter multiplied by a clock fills a cup. No text.",
+   "narration": "剂量等于剂量率乘时间。",
+   "overlay": [
+    "时间：剂量与时间成正比"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间：剂量与时间成正比",
+   "scene": "待一小时一块积木，两小时两块",
+   "prompt_en": "Diagram: one hour gives one block, two hours give two blocks. No text.",
+   "narration": "待一小时一份，两小时就是两份。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间：剂量与时间成正比",
+   "scene": "每天一小滴，日历翻过，罐子渐满",
+   "prompt_en": "Diagram: tiny daily drops adding up in a jar as calendar pages turn. No text.",
+   "narration": "单次察觉不到，剂量会累加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "时间：剂量与时间成正比",
+   "scene": "做完就离开，躺椅被打叉",
+   "prompt_en": "Diagram: a worker leaving the source area right after finishing, a lounge chair beside the source crossed out. No text.",
+   "narration": "做完就走，不在源旁边逗留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "缩短时间：先演练，先实测",
+   "scene": "【实拍】用空容器和模拟源演练取放步骤（不用真实放射源）",
+   "prompt_en": "Close-up: gloved hands rehearsing a transfer with an empty source container, dummy tongs and a tray.",
+   "narration": "先不带源，把步骤练熟。",
+   "overlay": [
+    "缩短时间：先演练，先实测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "缩短时间：先演练，先实测",
+   "scene": "射线装置不出束时先演练，再短时间出束",
+   "prompt_en": "Diagram: an X-ray device with the beam off during rehearsal, then a short beam-on icon. No text.",
+   "narration": "射线装置：先空练，避免重拍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "缩短时间：先演练，先实测",
+   "scene": "功率旋钮调到够用，不调到最大",
+   "prompt_en": "Diagram: a power knob set to just enough, not to maximum, with a short timer. No text.",
+   "narration": "功率够用就行，管好出束时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "缩短时间：先演练，先实测",
+   "scene": "先用仪器测剂量率，再定停留时间",
+   "prompt_en": "Diagram: a meter measuring the dose rate first, then a planner setting a time limit on a clock. No text.",
+   "narration": "先实测剂量率，再定能待多久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "距离：平方反比定律",
+   "scene": "火堆旁：近的人很烫，远的人舒服",
+   "prompt_en": "Diagram: a campfire, one person close and sweating, another person farther away and comfortable. No text.",
+   "narration": "离火堆越近越烫，辐射也一样。",
+   "overlay": [
+    "距离：平方反比定律"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "距离：平方反比定律",
+   "scene": "洒水器的水滴越远越稀",
+   "prompt_en": "Diagram: a garden sprinkler, water drops sparse farther away. No text.",
+   "narration": "射线向外散开，越远越稀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "距离：平方反比定律",
+   "scene": "点源射线：1米处一个方块，2米处四个方块",
+   "prompt_en": "Diagram: rays from a point source covering one square at one distance and four squares at double distance. No text.",
+   "narration": "距离加倍，剂量率降到四分之一。",
+   "overlay": [],
+   "labels": [
+    "距离×2",
+    "剂量率÷4"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "距离：平方反比定律",
+   "scene": "距离三倍，剂量柱降到九分之一",
+   "prompt_en": "Diagram: the distance tripled and the dose bar down to one ninth. No text.",
+   "narration": "距离三倍，降到九分之一。",
+   "overlay": [],
+   "labels": [
+    "距离×3",
+    "剂量率÷9"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "距离：平方反比定律",
+   "scene": "人后退几步，剂量柱大降，旁边一枚硬币",
+   "prompt_en": "Diagram: a person taking a few steps back, a big drop in the dose bar, with a coin icon. No text.",
+   "narration": "多退几步，是最省钱的防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "平方反比的验证与适用范围",
+   "scene": "探测器放在尺子上，两个距离各测一次",
+   "prompt_en": "Diagram: a detector on a long ruler measuring counts at two distances from a point source. No text.",
+   "narration": "在两个距离各测一次，就能验证。",
+   "overlay": [
+    "平方反比的验证与适用范围"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "平方反比的验证与适用范围",
+   "scene": "两个读数之比与距离平方比较，打钩",
+   "prompt_en": "Diagram: two readings compared with the square of the distance ratio, a check mark. No text.",
+   "narration": "读数之比符合距离平方，就对上了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "平方反比的验证与适用范围",
+   "scene": "大面积平板源和反射射线的墙，问号",
+   "prompt_en": "Diagram: a large flat source and a wall reflecting rays, with a question mark. No text.",
+   "narration": "对不上，可能有散射或不是点源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "时间和距离要一起算",
+   "scene": "一人站远待得久，一人站近待得短",
+   "prompt_en": "Diagram: one person far from a source for a long time and one person close for a short time, two dose bars. No text.",
+   "narration": "一人站远久一点，一人站近快一点。",
+   "overlay": [
+    "时间和距离要一起算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "时间和距离要一起算",
+   "scene": "站近的人剂量柱更高",
+   "prompt_en": "Diagram: the close person's dose bar is taller than the far person's. No text.",
+   "narration": "离得近的人，反而受照更多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "时间和距离要一起算",
+   "scene": "时钟和尺子用加号连在一起",
+   "prompt_en": "Diagram: a clock and a ruler joined by a plus sign over a dose bar. No text.",
+   "narration": "时间和距离，要一起考虑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拉开距离：长柄工具，不徒手拿源",
+   "scene": "【实拍】用长柄镊子夹取模拟源放入屏蔽容器（不用真实放射源）",
+   "prompt_en": "Close-up: gloved hands using long tongs to place a dummy source into a shielded container.",
+   "narration": "取放源，用长柄镊子或工具。",
+   "overlay": [
+    "拉开距离：长柄工具，不徒手拿源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拉开距离：长柄工具，不徒手拿源",
+   "scene": "一只光手伸向源，被打叉",
+   "prompt_en": "Diagram: a bare hand reaching for a source, crossed out. No text.",
+   "narration": "不能徒手拿，手越近受照越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拉开距离：长柄工具，不徒手拿源",
+   "scene": "源用完马上放回屏蔽容器，盖子合上",
+   "prompt_en": "Diagram: a source going back into its shielded container right after use, the lid closing. No text.",
+   "narration": "用完立刻放回屏蔽容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拉开距离：长柄工具，不徒手拿源",
+   "scene": "射束对着空墙，不对着门后有人的方向",
+   "prompt_en": "Diagram: a beam pointing at an empty wall, not toward a door with people behind it. No text.",
+   "narration": "射束别朝着可能有人的方向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "屏蔽：越厚越致密，挡得越多",
+   "scene": "源和人之间一块材料，穿过的射线变少",
+   "prompt_en": "Diagram: a source with a material block between it and a person, fewer rays passing through. No text.",
+   "narration": "源和人之间的材料，都会吸收射线。",
+   "overlay": [
+    "屏蔽：越厚越致密，挡得越多"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "屏蔽：越厚越致密，挡得越多",
+   "scene": "薄而轻的板和厚而致密的板，后者挡住更多",
+   "prompt_en": "Diagram: a thin light board and a thick dense block, the dense block stopping more rays. No text.",
+   "narration": "越厚、越致密，挡得越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "屏蔽：越厚越致密，挡得越多",
+   "scene": "源放在架子上的屏蔽罐里，邻座安全",
+   "prompt_en": "Diagram: a source stored in a shielded pot on a shelf, the neighbouring desk safe. No text.",
+   "narration": "实验室的源，必须放在屏蔽里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "屏蔽：越厚越致密，挡得越多",
+   "scene": "设备外壳、容器、机房墙都画着屏蔽层",
+   "prompt_en": "Diagram: an equipment housing, a container and a room wall, each drawn with a shield layer. No text.",
+   "narration": "设备、容器、机房墙体都有屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "按射线种类选屏蔽",
+   "scene": "α被纸挡、β被塑料板挡、γ和X被铅和混凝土减弱、中子被水箱减速",
+   "prompt_en": "Diagram: alpha stopped by paper, beta by a plastic sheet, gamma and X-rays reduced by lead and concrete, neutrons slowed by a water tank. No text.",
+   "narration": "射线不同，屏蔽材料也不同。",
+   "overlay": [
+    "按射线种类选屏蔽"
+   ],
+   "labels": [
+    "α 纸",
+    "β 有机玻璃",
+    "γ/X 铅",
+    "中子 含氢"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "按射线种类选屏蔽",
+   "scene": "γ和X射线遇到铅墙和混凝土墙",
+   "prompt_en": "Diagram: gamma rays and X-rays meeting a lead wall and a concrete wall. No text.",
+   "narration": "γ和X射线，用铅或混凝土。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "按射线种类选屏蔽",
+   "scene": "中子先被石蜡、水减速，外面再加一层",
+   "prompt_en": "Diagram: neutrons slowed by a hydrogen rich block like paraffin and water, then an outer heavy layer. No text.",
+   "narration": "中子先用含氢材料减速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "按射线种类选屏蔽",
+   "scene": "屏蔽墙上禁止拆改标记，旁边工程师",
+   "prompt_en": "Diagram: a shield wall with a do-not-dismantle mark and the facility engineer beside it. No text.",
+   "narration": "屏蔽由专业人员设计，不能擅自拆改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "β屏蔽：先轻后重",
+   "scene": "β粒子在材料里一步步减速，停在最大射程线",
+   "prompt_en": "Diagram: beta particles slowing down step by step in a material and stopping at a maximum range line. No text.",
+   "narration": "β有最大射程，够厚就全挡住。",
+   "overlay": [
+    "β屏蔽：先轻后重"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "β屏蔽：先轻后重",
+   "scene": "电子撞上铅像急刹车，迸出X射线火花",
+   "prompt_en": "Diagram: an electron hitting lead and braking hard like a car, releasing X-ray sparks. No text.",
+   "narration": "直接用铅包β源，会激出X射线。",
+   "overlay": [],
+   "labels": [
+    "轫致辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "β屏蔽：先轻后重",
+   "scene": "双层屏蔽：内层有机玻璃，外层薄铅",
+   "prompt_en": "Diagram: a two layer shield, an inner clear plastic layer and an outer thin lead layer. No text.",
+   "narration": "先轻后重：内层有机玻璃，外层薄铅。",
+   "overlay": [],
+   "labels": [
+    "有机玻璃",
+    "薄铅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "β屏蔽：先轻后重",
+   "scene": "【实拍】有机玻璃屏蔽挡板后用镊子操作模拟样品瓶（不用真实放射源）",
+   "prompt_en": "Close-up: a worker behind a clear acrylic shield panel handling a dummy vial with tongs.",
+   "narration": "操作β源，站在有机玻璃屏蔽后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "β屏蔽：先轻后重",
+   "scene": "污染仪探头扫过手套和台面",
+   "prompt_en": "Diagram: a contamination meter probe passing over gloved hands and a bench. No text.",
+   "narration": "做完检查手套和台面有无污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "γ屏蔽：铅还是混凝土",
+   "scene": "一块薄铅板和一堵厚得多的混凝土墙，效果相同",
+   "prompt_en": "Diagram: a thin lead slab and a much thicker concrete wall giving the same protection. No text.",
+   "narration": "挡同样的γ，混凝土要厚得多。",
+   "overlay": [
+    "γ屏蔽：铅还是混凝土"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "γ屏蔽：铅还是混凝土",
+   "scene": "桌上小巧的铅块，撑起楼房的混凝土墙",
+   "prompt_en": "Diagram: a compact lead block on a bench, and a concrete wall holding up a building. No text.",
+   "narration": "铅省空间，混凝土便宜还能承重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "γ屏蔽：铅还是混凝土",
+   "scene": "天平上：成本、空间、重量、结构",
+   "prompt_en": "Diagram: a balance with cost, space, weight and structure icons. No text.",
+   "narration": "成本、空间、重量、结构综合权衡。",
+   "overlay": [],
+   "labels": [
+    "成本",
+    "空间",
+    "重量",
+    "结构"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "半值层与十值层",
+   "scene": "一层材料把强度柱切成一半",
+   "prompt_en": "Diagram: a ray intensity bar cut in half by one layer of material. No text.",
+   "narration": "强度减半的厚度，叫半值层。",
+   "overlay": [
+    "半值层与十值层"
+   ],
+   "labels": [
+    "半值层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "半值层与十值层",
+   "scene": "层层叠加，强度柱一半、四分之一、八分之一",
+   "prompt_en": "Diagram: layers stacked, the intensity bar halving at each layer, half, quarter, eighth. No text.",
+   "narration": "每多一层，再减一半。",
+   "overlay": [],
+   "labels": [
+    "1/2",
+    "1/4",
+    "1/8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "半值层与十值层",
+   "scene": "一块更厚的层把强度柱降到十分之一",
+   "prompt_en": "Diagram: a thicker layer cutting the intensity bar to one tenth. No text.",
+   "narration": "减到十分之一的厚度，叫十值层。",
+   "overlay": [],
+   "labels": [
+    "十值层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "半值层与十值层",
+   "scene": "七个薄层后，剩下很小一截",
+   "prompt_en": "Diagram: seven thin layers leaving a tiny bar under one percent. No text.",
+   "narration": "七个半值层，剩下不到百分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "需要几个半值层",
+   "scene": "实测剂量率柱和目标柱，中间一个除号",
+   "prompt_en": "Diagram: a measured dose rate bar and a lower target bar, a division sign showing how many times to reduce. No text.",
+   "narration": "先算要减弱多少倍。",
+   "overlay": [
+    "需要几个半值层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "需要几个半值层",
+   "scene": "一张纸一次次对折变小",
+   "prompt_en": "Diagram: a sheet of paper folded in half again and again until it is small. No text.",
+   "narration": "再数要对折几次，才够低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "需要几个半值层",
+   "scene": "带小数的层数往上取整",
+   "prompt_en": "Diagram: a layer count with a fraction rounded up to the next whole step. No text.",
+   "narration": "有小数，往多里取整。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "需要几个半值层",
+   "scene": "层数乘层厚等于一堵墙，旁边最高能量射线图标",
+   "prompt_en": "Diagram: layer count times layer thickness equals a wall, beside the highest energy ray icon. No text.",
+   "narration": "层数乘层厚；按最高能量算，宁厚勿薄。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "散射：实际比估算高，以实测为准",
+   "scene": "理想图：一束细线直直穿过屏蔽",
+   "prompt_en": "Diagram: an ideal picture of a narrow beam passing straight through a shield. No text.",
+   "narration": "理想情况，是一束细线穿过屏蔽。",
+   "overlay": [
+    "散射：实际比估算高，以实测为准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "散射：实际比估算高，以实测为准",
+   "scene": "宽束在屏蔽里散射，后面多出射线",
+   "prompt_en": "Diagram: a broad beam scattering inside the shield, extra rays coming out behind it. No text.",
+   "narration": "实际宽束有散射，剂量比估算高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "散射：实际比估算高，以实测为准",
+   "scene": "计算值和手册值对比，再用仪器确认",
+   "prompt_en": "Diagram: a computed value card and a handbook value card compared, then a meter confirming behind the shield. No text.",
+   "narration": "算的只是估计，最终以实测为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机房屏蔽：设计、验收、不拆改",
+   "scene": "X射线机房隔壁是办公室，三个图标：开机量、人待多久、墙",
+   "prompt_en": "Diagram: an X-ray room next to an office, with icons of machine workload, people staying time and wall thickness. No text.",
+   "narration": "机房屏蔽要算：用多少、谁待多久。",
+   "overlay": [
+    "机房屏蔽：设计、验收、不拆改"
+   ],
+   "labels": [
+    "工作量",
+    "居留",
+    "墙体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机房屏蔽：设计、验收、不拆改",
+   "scene": "太薄的墙打警示，换成厚墙",
+   "prompt_en": "Diagram: a wall that is too thin with a warning mark, then a thicker wall. No text.",
+   "narration": "算下来，原来的墙可能远远不够。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机房屏蔽：设计、验收、不拆改",
+   "scene": "设计图审批盖章，建成后仪器检测打钩",
+   "prompt_en": "Diagram: a shielding design drawing approved with a stamp, then a meter testing after construction, check mark. No text.",
+   "narration": "建前设计审批，建成后检测验收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机房屏蔽：设计、验收、不拆改",
+   "scene": "电钻对着屏蔽墙，被打叉",
+   "prompt_en": "Diagram: a renovation drill near a shield wall, crossed out. No text.",
+   "narration": "装修改造，不能破坏屏蔽墙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "准直器与铅衣",
+   "scene": "准直器把射束收窄到一小块目标",
+   "prompt_en": "Diagram: a collimator narrowing a beam onto a small target area. No text.",
+   "narration": "用准直器，把射束限在需要的地方。",
+   "overlay": [
+    "准直器与铅衣"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "准直器与铅衣",
+   "scene": "穿铅衣的人挡住散射线，强γ射线却穿过铅衣，打叉",
+   "prompt_en": "Diagram: a person in a lead apron blocking scattered rays, while strong gamma rays pass through the apron, marked with a cross. No text.",
+   "narration": "铅衣只能减弱散射线，挡不住强γ。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "准直器与铅衣",
+   "scene": "【实拍】铅围裙挂在专用衣架上，双手检查有无折痕裂缝",
+   "prompt_en": "Close-up: a lead apron hanging on a dedicated rack, hands checking it for creases and cracks.",
+   "narration": "铅衣挂起存放，不折叠，定期检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "准直器与铅衣",
+   "scene": "药瓶被打叉，旁边时钟、尺子、盾牌",
+   "prompt_en": "Diagram: a pill bottle crossed out next to clock, ruler and shield icons. No text.",
+   "narration": "没有吃了就能防辐射的药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "靠近源的工作人员戴着防护眼镜",
+   "prompt_en": "Diagram: a worker near a shielded source wearing lead glasses. No text.",
+   "narration": "晶状体敏感，近距离戴防护眼镜。",
+   "overlay": [
+    "眼睛和双手的局部防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "戴手套的手指上有指环剂量计",
+   "prompt_en": "Diagram: a ring dosimeter on a gloved finger. No text.",
+   "narration": "手离源最近，按要求戴指环剂量计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "眼睛和双手的局部防护",
+   "scene": "手套、长柄工具，光手打叉",
+   "prompt_en": "Diagram: gloves and long tongs with a check mark, a bare hand with a cross. No text.",
+   "narration": "戴手套、用工具，不直接用手拿源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "时钟",
+   "prompt_en": "Diagram: a clock beside a dose rate meter. No text.",
+   "narration": "时间短：剂量率乘时间。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "尺子和四分之一",
+   "prompt_en": "Diagram: a ruler with double distance and a quarter dose bar. No text.",
+   "narration": "距离远：距离加倍剩四分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双层β屏蔽和铅墙",
+   "prompt_en": "Diagram: a two layer beta shield and a lead wall side by side. No text.",
+   "narration": "屏蔽对：β先轻后重，γ用铅混凝土。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "计算卡和仪器",
+   "prompt_en": "Diagram: a calculation card and a survey meter with a check mark. No text.",
+   "narration": "算的是估计，实测为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着托盘、吸水纸和废物桶挥手",
+   "prompt_en": "The panda mascot points at a tray, absorbent paper and a waste bin and waves goodbye.",
+   "narration": "下一课：非密封源操作与放射性废物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
