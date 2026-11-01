@@ -1,0 +1,926 @@
+{
+ "id": "076_消毒与灭菌",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "消毒与灭菌",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/076_消毒与灭菌.md",
+ "author_source": "project/高校实验室安全/076_消毒与灭菌/src.py",
+ "points": {
+  "K1": "消毒、去污、灭菌不是一回事",
+  "K2": "杀灭微生物的方法：热、化学、辐射",
+  "K3": "灭菌手段本身有危害，必须照规程",
+  "K4": "消毒剂要对得上微生物",
+  "K5": "保持湿润，等够作用时间",
+  "K6": "台面设备：开工前、收工后、洒了马上消毒",
+  "K7": "配制消毒液：防护、标签、按期更换",
+  "K8": "消毒剂不乱混，乙醇远离火源",
+  "K9": "紫外消毒只是辅助",
+  "K10": "湿热灭菌：靠饱和蒸汽穿透",
+  "K11": "灭菌效果要监测和验证",
+  "K12": "熏蒸与气体灭菌：专人操作，通风合格再进"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣一手拿喷壶，一手指向高压灭菌器",
+   "prompt_en": "The panda mascot holds a spray bottle in one hand and points to an autoclave with the other.",
+   "narration": "这一课讲消毒与灭菌。",
+   "overlay": [
+    "消毒与灭菌"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对台面喷一下马上擦干",
+   "prompt_en": "The young male student sprays the bench once and immediately wipes it dry.",
+   "narration": "阿杰喷一下消毒液，马上就擦干了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着消毒过的培养瓶说可以当无菌用",
+   "prompt_en": "The young male student holds a disinfected flask, looking pleased, as if it were sterile.",
+   "narration": "他还以为，消过毒就等于无菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，举起两张不同图标的卡片",
+   "prompt_en": "The female graduate student shakes her head and holds up two cards with different icons.",
+   "narration": "小研说：消毒和灭菌，差别大着呢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "消毒、去污、灭菌不是一回事",
+   "scene": "一群细菌图标：消毒后剩下少数，灭菌后全部消失",
+   "prompt_en": "Diagram: a crowd of microbe icons; after disinfection only a few remain, after sterilization none remain. No text.",
+   "narration": "消毒是把微生物减少到安全水平。",
+   "overlay": [
+    "消毒、去污、灭菌不是一回事"
+   ],
+   "labels": [
+    "消毒",
+    "灭菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "消毒、去污、灭菌不是一回事",
+   "scene": "芽孢图标也被消灭，打勾",
+   "prompt_en": "Diagram: even tough spore icons are destroyed in the sterilization panel; check mark. No text.",
+   "narration": "灭菌是全部杀灭，连芽孢也不放过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "消毒、去污、灭菌不是一回事",
+   "scene": "被污染的台面、器具变成可安全接触",
+   "prompt_en": "Diagram: a contaminated bench and tools turning into items that are safe to handle. No text.",
+   "narration": "去污是让东西能安全拿取或处置。",
+   "overlay": [],
+   "labels": [
+    "去污"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "消毒、去污、灭菌不是一回事",
+   "scene": "器皿依次经过清洗、消毒、灭菌三站",
+   "prompt_en": "Diagram: glassware moves through three stations: washing, disinfecting, autoclaving. No text.",
+   "narration": "器皿先洗净，再消毒，需要时再灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "消毒、去污、灭菌不是一回事",
+   "scene": "消毒过的瓶子当无菌瓶用，打叉",
+   "prompt_en": "Diagram: a merely disinfected flask placed on a sterile shelf; crossed out. No text.",
+   "narration": "按用途选方法，别拿消毒当灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "杀灭微生物的方法：热、化学、辐射",
+   "scene": "热、化学品、射线三个图标围着微生物",
+   "prompt_en": "Diagram: heat, chemical and radiation icons surrounding microbe icons. No text.",
+   "narration": "热、化学品、辐射，都能杀灭微生物。",
+   "overlay": [
+    "杀灭微生物的方法：热、化学、辐射"
+   ],
+   "labels": [
+    "热",
+    "化学",
+    "辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "杀灭微生物的方法：热、化学、辐射",
+   "scene": "耐热器皿进灭菌器，台面用消毒剂擦",
+   "prompt_en": "Diagram: heat-resistant glassware goes into an autoclave, while a bench is wiped with disinfectant. No text.",
+   "narration": "耐热的用湿热灭菌，台面用消毒剂擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "杀灭微生物的方法：热、化学、辐射",
+   "scene": "紫外灯照表面、房间整体熏蒸两个图标",
+   "prompt_en": "Diagram: an ultraviolet lamp over a surface and a sealed room being fumigated. No text.",
+   "narration": "紫外照表面，整个房间用熏蒸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "杀灭微生物的方法：热、化学、辐射",
+   "scene": "王老师指向规程书里的方法表",
+   "prompt_en": "The safety administrator points to a method table in a procedure book.",
+   "narration": "用哪种方法，按风险评估和规程定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "灭菌手段本身有危害，必须照规程",
+   "scene": "热、化学品、射线图标同时指向微生物和人",
+   "prompt_en": "Diagram: heat, chemical and radiation icons point both at microbes and at a person. No text.",
+   "narration": "能杀菌的东西，同样能伤人。",
+   "overlay": [
+    "灭菌手段本身有危害，必须照规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "灭菌手段本身有危害，必须照规程",
+   "scene": "烫伤、中毒、伤眼三个警示图标",
+   "prompt_en": "Diagram: warning icons for burns, poisoning and eye injury. No text.",
+   "narration": "高温烫伤、药剂中毒、紫外伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "灭菌手段本身有危害，必须照规程",
+   "scene": "化学灭菌剂流进下水道，河流变色，打叉",
+   "prompt_en": "Diagram: chemical sterilant poured into a drain and a river turning dark; crossed out. No text.",
+   "narration": "用错管错，还会污染环境。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "灭菌手段本身有危害，必须照规程",
+   "scene": "规程书一边是盾牌护人，一边是打勾的干净器皿",
+   "prompt_en": "Diagram: a procedure book with a shield protecting a person on one side and clean glassware with a check mark on the other. No text.",
+   "narration": "规程两个目的：护人，也保效果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "灭菌手段本身有危害，必须照规程",
+   "scene": "阿杰没培训想上手，被拦下",
+   "prompt_en": "The young male student reaches for a machine without training and the older man stops him.",
+   "narration": "没学过规程，不上手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "不同微生物抵抗力阶梯，芽孢在最高层",
+   "prompt_en": "Diagram: a resistance ladder of microbe types with spores at the top step. No text.",
+   "narration": "微生物不同，抵抗力差得远。",
+   "overlay": [
+    "消毒剂要对得上微生物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "乙醇瓶对芽孢无效，打问号",
+   "prompt_en": "Diagram: an ethanol bottle facing a spore icon with a question mark. No text.",
+   "narration": "乙醇对芽孢就不管用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "台面上血迹类污物先被清除，再喷消毒剂",
+   "prompt_en": "Diagram: visible organic soil removed from a bench first, then disinfectant applied. No text.",
+   "narration": "有机物会降低效果，先清掉污物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "含氯消毒剂擦金属台后，再用清水擦",
+   "prompt_en": "Diagram: chlorine disinfectant wiped on a steel surface, followed by a clean water wipe. No text.",
+   "narration": "含氯的腐蚀金属，作用后清水擦净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "有人拿便宜的新消毒剂，王老师先查有效性",
+   "prompt_en": "The young male student shows a cheaper new disinfectant; the safety administrator checks a data sheet first.",
+   "narration": "想换消毒剂，先确认对这类因子有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "消毒剂要对得上微生物",
+   "scene": "规程书写明消毒剂和作用时间",
+   "prompt_en": "Diagram: a procedure book page with icons for a disinfectant bottle and a timer. No text.",
+   "narration": "规程里写明用哪种、作用多久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保持湿润，等够作用时间",
+   "scene": "喷一下立刻擦干，打叉",
+   "prompt_en": "Diagram: a bench sprayed once and wiped dry at once; crossed out. No text.",
+   "narration": "喷一下就擦，等于没消毒。",
+   "overlay": [
+    "保持湿润，等够作用时间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保持湿润，等够作用时间",
+   "scene": "【实拍】湿巾擦台面，表面保持一层水膜（清水演示）",
+   "prompt_en": "A gloved hand wipes a bench with a wet towel, leaving the surface evenly wet.",
+   "narration": "表面要保持湿润。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保持湿润，等够作用时间",
+   "scene": "计时器转动，台面一直湿着",
+   "prompt_en": "Diagram: a timer counting while the bench stays wet. No text.",
+   "narration": "等够作用时间，再擦去残留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保持湿润，等够作用时间",
+   "scene": "产品说明和规程两本书",
+   "prompt_en": "Diagram: a product leaflet and a procedure book side by side. No text.",
+   "narration": "浓度和时间，以规程和说明为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "台面设备：开工前、收工后、洒了马上消毒",
+   "scene": "无菌培养皿旁边洒了液体，污染扩散",
+   "prompt_en": "Diagram: a spill next to sterile dishes, contamination spreading across the bench. No text.",
+   "narration": "一洒一漏，台面和材料就不再干净。",
+   "overlay": [
+    "台面设备：开工前、收工后、洒了马上消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "台面设备：开工前、收工后、洒了马上消毒",
+   "scene": "开工前、收工后两个时钟图标指向台面消毒",
+   "prompt_en": "Diagram: a morning clock and an evening clock both pointing to bench disinfection. No text.",
+   "narration": "开工前、收工后，台面都要消毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "台面设备：开工前、收工后、洒了马上消毒",
+   "scene": "【实拍】用浸湿的纸巾擦拭移液器、离心机外壳（清水演示）",
+   "prompt_en": "A gloved hand wipes a pipette and the outside of a small centrifuge with a damp towel.",
+   "narration": "用过的仪器设备，也一样要擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "台面设备：开工前、收工后、洒了马上消毒",
+   "scene": "洒了立刻按规程处理",
+   "prompt_en": "Diagram: a small spill immediately covered and treated following a procedure book. No text.",
+   "narration": "洒了，就按规程马上处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "台面设备：开工前、收工后、洒了马上消毒",
+   "scene": "用过的物品收进专用袋",
+   "prompt_en": "Diagram: used items placed into a biohazard bag on the bench. No text.",
+   "narration": "用过的东西收进专用袋，别乱放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "配制消毒液：防护、标签、按期更换",
+   "scene": "【实拍】戴手套和护目镜，按说明量取、稀释（清水演示）",
+   "prompt_en": "Hands in gloves, with goggles on, measure and dilute a liquid into a bottle following a leaflet.",
+   "narration": "配消毒液，戴好手套和护目镜。",
+   "overlay": [
+    "配制消毒液：防护、标签、按期更换"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "配制消毒液：防护、标签、按期更换",
+   "scene": "【实拍】在瓶身贴标签，写名称和配制日期（信息后期加）",
+   "prompt_en": "A gloved hand sticks a blank label on a bottle and writes on it with a marker.",
+   "narration": "贴标签，写明名称和配制日期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "配制消毒液：防护、标签、按期更换",
+   "scene": "日历上过期的瓶子被换成新瓶",
+   "prompt_en": "Diagram: an expired bottle beside a calendar is replaced with a fresh one. No text.",
+   "narration": "过了有效期，就换新的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "配制消毒液：防护、标签、按期更换",
+   "scene": "现配现用的图标",
+   "prompt_en": "Diagram: a freshly mixed bottle with a check mark and an old cloudy bottle crossed out. No text.",
+   "narration": "需要现配的，就现配现用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "配制消毒液：防护、标签、按期更换",
+   "scene": "无标签的瓶子打叉",
+   "prompt_en": "Diagram: an unlabeled bottle of liquid on a shelf; crossed out. No text.",
+   "narration": "没标签的瓶子，不知道是什么，别用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "消毒剂不乱混，乙醇远离火源",
+   "scene": "含氯消毒剂和酸性清洁剂一倒，冒出有害气体，打叉",
+   "prompt_en": "Diagram: a chlorine disinfectant and an acidic cleaner poured together releasing a gas cloud; crossed out. No text.",
+   "narration": "含氯的不能和酸性、含氨清洁剂混。",
+   "overlay": [
+    "消毒剂不乱混，乙醇远离火源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "消毒剂不乱混，乙醇远离火源",
+   "scene": "阿杰拿不准，查说明书、问王老师",
+   "prompt_en": "The young male student reads a leaflet and asks the safety administrator a question.",
+   "narration": "能不能混，查说明书、问老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "消毒剂不乱混，乙醇远离火源",
+   "scene": "乙醇喷壶旁的酒精灯火焰，打叉",
+   "prompt_en": "Diagram: an ethanol spray bottle next to a burner flame; crossed out. No text.",
+   "narration": "乙醇易燃，远离明火、热源和火花。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "消毒剂不乱混，乙醇远离火源",
+   "scene": "消毒剂放进化学品柜",
+   "prompt_en": "Diagram: disinfectant bottles stored in a labeled chemical cabinet with icons only. No text.",
+   "narration": "消毒剂也是化学品，按化学品管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "紫外灯照台面，物品背后留下阴影",
+   "prompt_en": "Diagram: an ultraviolet lamp shines on a bench, leaving shadows behind objects. No text.",
+   "narration": "紫外只照得到的表面才有效。",
+   "overlay": [
+    "紫外消毒只是辅助"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "阴影、角落、灰尘处微生物仍在",
+   "prompt_en": "Diagram: microbes surviving in shadows, corners and under dust. No text.",
+   "narration": "阴影、角落、灰尘下面，它管不着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "紫外灯代替擦拭，打叉",
+   "prompt_en": "Diagram: an ultraviolet lamp used instead of wiping; crossed out. No text.",
+   "narration": "紫外不能代替消毒剂擦拭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "灯管变暗，老李检测并更换",
+   "prompt_en": "The facility engineer measures a dim ultraviolet tube and replaces it.",
+   "narration": "灯管会老化，要定期检测更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "紫外灯亮着，人离开房间",
+   "prompt_en": "Diagram: an ultraviolet lamp on while everyone leaves the room and the door closes. No text.",
+   "narration": "开灯时人要离开，不能直视。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "仪器腔内紫外灯亮着，手要开门，打叉",
+   "prompt_en": "Diagram: an instrument chamber with its ultraviolet lamp on and a hand opening its door; crossed out. No text.",
+   "narration": "仪器里的紫外亮着，别开门看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "紫外消毒只是辅助",
+   "scene": "规程书：开不开、开多久",
+   "prompt_en": "Diagram: a procedure book page with a lamp icon and a timer icon. No text.",
+   "narration": "开不开、开多久，按本实验室规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "灭菌器内蒸汽包围物品",
+   "prompt_en": "Diagram: a cutaway autoclave chamber filled with steam surrounding the load. No text.",
+   "narration": "高压蒸汽灭菌，最常用也最可靠。",
+   "overlay": [
+    "湿热灭菌：靠饱和蒸汽穿透"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "压力升高、温度计升高的示意",
+   "prompt_en": "Diagram: a pressure gauge rising together with a thermometer rising. No text.",
+   "narration": "加压让蒸汽温度升高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "蒸汽钻进物品中心",
+   "prompt_en": "Diagram: steam arrows penetrating to the center of a wrapped load. No text.",
+   "narration": "蒸汽要钻进物品中心，才灭得透。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "残留冷空气在袋子中心形成冷点",
+   "prompt_en": "Diagram: trapped cold air forming a cold spot in the middle of a bag. No text.",
+   "narration": "冷空气排不净，就会留下冷点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "【实拍】空瓶拧松瓶盖、松散装入灭菌筐（空瓶演示）",
+   "prompt_en": "Gloved hands loosen bottle caps and place empty bottles loosely in an autoclave basket with gaps.",
+   "narration": "装载要松散，瓶盖拧松。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "塞得满满、袋口扎死，打叉",
+   "prompt_en": "Diagram: an overpacked autoclave basket with tightly sealed bags; crossed out. No text.",
+   "narration": "装得太满太乱，灭菌就不彻底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "湿热灭菌：靠饱和蒸汽穿透",
+   "scene": "设备规程书和验证报告",
+   "prompt_en": "Diagram: an equipment procedure book next to a validation report with a check mark. No text.",
+   "narration": "参数按设备规程和验证结果来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "温度、压力、时间记录曲线",
+   "prompt_en": "Diagram: a chart of temperature, pressure and time recorded for each cycle. No text.",
+   "narration": "每一锅都看温度、压力、时间记录。",
+   "overlay": [
+    "灭菌效果要监测和验证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "【实拍】在包裹上贴灭菌指示胶带，比较灭菌前后颜色（未用过和已灭菌胶带各一段）",
+   "prompt_en": "Gloved hands stick indicator tape on a wrapped package, then compare an unused strip with a processed one.",
+   "narration": "化学指示物变色，说明经过了灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "胶带变色但中心细菌图标仍在，打问号",
+   "prompt_en": "Diagram: indicator tape changed color while a microbe icon still sits in the package center; question mark. No text.",
+   "narration": "但变色不等于灭透了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "生物指示物放进负载中心，灭菌后培养",
+   "prompt_en": "Diagram: a small biological indicator vial placed in the center of the load, then incubated after the cycle. No text.",
+   "narration": "生物指示物定期验证，看能否杀灭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "新装、维修后、换装载方式三个图标指向验证",
+   "prompt_en": "Diagram: icons for a new autoclave, a repaired one and a new load pattern all pointing to validation. No text.",
+   "narration": "新装、维修后、换装法，都要验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "灭菌效果要监测和验证",
+   "scene": "不合格：停用、报告、重新灭菌，记录归档",
+   "prompt_en": "Diagram: a failed result leads to stopping use, reporting, re-sterilizing and filing the record. No text.",
+   "narration": "不合格就停用报告，记录存档。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "整个房间和柜子被封闭熏蒸",
+   "prompt_en": "Diagram: a sealed room and a cabinet being fumigated with vapor. No text.",
+   "narration": "整间实验室或柜子去污，用熏蒸。",
+   "overlay": [
+    "熏蒸与气体灭菌：专人操作，通风合格再进"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "熏蒸药剂对人有害的警示",
+   "prompt_en": "Diagram: a fumigant cloud with a toxic warning icon near a person. No text.",
+   "narration": "熏蒸药剂对人也有害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "老李清场、封门、挂警示牌",
+   "prompt_en": "The facility engineer clears the room, seals the door and hangs a warning sign.",
+   "narration": "专人操作，先清场，门口挂牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "通风后检测，打勾才开门",
+   "prompt_en": "Diagram: ventilation running, a detector showing a check mark, then the door opens. No text.",
+   "narration": "通风、检测合格后，才能进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "气体灭菌柜，易燃有毒图标，门不提前开",
+   "prompt_en": "Diagram: a gas sterilizer with flammable and toxic icons; a hand opening it early is crossed out. No text.",
+   "narration": "气体灭菌有毒易燃，不提前开门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "熏蒸与气体灭菌：专人操作，通风合格再进",
+   "scene": "灭完的器材在通风处散气后再用",
+   "prompt_en": "Diagram: sterilized items resting in a ventilated area before use. No text.",
+   "narration": "按规程散气后，器材才能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "消毒、去污、灭菌三图标",
+   "prompt_en": "Diagram: three icons for disinfection, decontamination and sterilization. No text.",
+   "narration": "消毒不等于灭菌，按用途选方法。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "选对消毒剂、保持湿润、计时",
+   "prompt_en": "Diagram: the right disinfectant, a wet surface and a timer. No text.",
+   "narration": "选对消毒剂，湿润够时间，不乱混。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "紫外辅助、灭菌器、指示物、熏蒸警示牌",
+   "prompt_en": "Diagram: an ultraviolet lamp, an autoclave, an indicator vial and a fumigation warning sign. No text.",
+   "narration": "紫外只辅助，灭菌要验证，熏蒸专人做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拎着贴生物危害标志的废物袋挥手",
+   "prompt_en": "The panda mascot holds a bag marked with a biohazard warning sign and waves goodbye.",
+   "narration": "下一课：感染性废物处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
