@@ -1,0 +1,780 @@
+{
+ "id": "060_如何确定实验活动的防护等级",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "如何确定实验活动的防护等级",
+ "seconds": 295,
+ "source_doc": "course/高校实验室安全/060_如何确定实验活动的防护等级.md",
+ "author_source": "project/高校实验室安全/060_如何确定实验活动的防护等级/src.py",
+ "points": {
+  "K1": "定级是一套结构化风险评估",
+  "K2": "第一步：认清它是什么",
+  "K3": "第二步：会不会致病、有多重",
+  "K4": "第三步：怎么传播",
+  "K5": "第四步：有没有药和疫苗",
+  "K6": "第五步：实验怎么做",
+  "K7": "第六步：设施和人员跟得上吗",
+  "K8": "第七步：查规范、问委员会，级别不自定",
+  "K9": "取最高的那个风险因素",
+  "K10": "风险组不等于实验室级别，不得随意降级",
+  "K11": "未知病原、细胞系和环境样本从严定级",
+  "K12": "评估成文，情况一变重新评估"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣拿着一张空白评估表",
+   "prompt_en": "The panda mascot holds a blank assessment form and greets the camera.",
+   "narration": "这一课讲如何确定实验活动的防护等级。",
+   "overlay": [
+    "如何确定实验活动的防护等级"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一瓶从外面采回的污水样本，兴冲冲走进教学实验室",
+   "prompt_en": "The young male student walks into a teaching lab carrying a sealed bottle of wastewater sample.",
+   "narration": "阿杰采回一瓶污水，想马上培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他打开普通台面就要开始，旁边没有安全柜",
+   "prompt_en": "He is about to start on an open bench with no safety cabinet nearby.",
+   "narration": "就在普通台面上，说做就做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，递来一张空白评估表",
+   "prompt_en": "The female graduate student stops him and hands him a blank assessment form.",
+   "narration": "小研说：先定级，再开工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定级是一套结构化风险评估",
+   "scene": "一个问号微生物，旁边不是放大镜，而是一张多步骤的评估流程图",
+   "prompt_en": "Diagram: a question-mark microbe next to a multi-step assessment flow chart. No text.",
+   "narration": "定级不是查一下就行，是一套评估。",
+   "overlay": [
+    "定级是一套结构化风险评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定级是一套结构化风险评估",
+   "scene": "四个图标：病原、操作、人员、环境",
+   "prompt_en": "Diagram: four icons, a germ, a pipette, a person and a tree. No text.",
+   "narration": "评估四件事：病原、操作、人、环境。",
+   "overlay": [],
+   "labels": [
+    "病原",
+    "操作",
+    "人员",
+    "环境"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定级是一套结构化风险评估",
+   "scene": "天平一边是病原和操作，一边是实验室防护",
+   "prompt_en": "Diagram: a balance with a germ and a pipette on one side and lab protection on the other. No text.",
+   "narration": "防护水平，要匹配病原和具体操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定级是一套结构化风险评估",
+   "scene": "两把方向相反的尺子提醒",
+   "prompt_en": "Diagram: two rulers pointing in opposite directions as a reminder. No text.",
+   "narration": "别忘了：国内病原第一类最危险。",
+   "overlay": [],
+   "labels": [
+    "病原：一类最高",
+    "实验室：四级最高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定级是一套结构化风险评估",
+   "scene": "评估表箭头指向防护装备",
+   "prompt_en": "Diagram: an arrow from the assessment form to protective equipment. No text.",
+   "narration": "先定级，再配装备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "第一步：认清它是什么",
+   "scene": "流程图第一格亮起：放大镜下的微生物",
+   "prompt_en": "Diagram: the first box of the flow chart lights up, a microbe under a magnifier. No text.",
+   "narration": "第一步：认清是什么种、什么株。",
+   "overlay": [
+    "第一步：认清它是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "第一步：认清它是什么",
+   "scene": "微生物旁出现变异分支和一段改造过的基因片段图标",
+   "prompt_en": "Diagram: a variant branch and a modified gene segment icon appear beside the microbe. No text.",
+   "narration": "有没有已知变异，有没有经过改造。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "第一步：认清它是什么",
+   "scene": "老周把微生物图标和国内目录对照",
+   "prompt_en": "The older man compares the microbe icon with the national catalog.",
+   "narration": "再和国内目录对照，以目录为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "第二步：会不会致病、有多重",
+   "scene": "第二格：健康小人和生病小人",
+   "prompt_en": "Diagram: the second box, a healthy person and a sick person. No text.",
+   "narration": "第二步：会不会让人或动物生病？",
+   "overlay": [
+    "第二步：会不会致病、有多重"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "第二步：会不会致病、有多重",
+   "scene": "严重程度刻度和少量颗粒就能感染的图标",
+   "prompt_en": "Diagram: a severity gauge and an icon showing that a few particles can cause infection. No text.",
+   "narration": "病有多重？多少量就能感染？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "第二步：会不会致病、有多重",
+   "scene": "致病性刻度越高，对应的台阶越高",
+   "prompt_en": "Diagram: the higher the disease gauge, the higher the matching step. No text.",
+   "narration": "致病性越强，级别往往越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第三步：怎么传播",
+   "scene": "第三格：箭头从一个人传到另一个人",
+   "prompt_en": "Diagram: the third box, arrows passing from one person to another. No text.",
+   "narration": "第三步：它怎么传播？",
+   "overlay": [
+    "第三步：怎么传播"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第三步：怎么传播",
+   "scene": "空气、手接触、口、针头四个传播途径图标",
+   "prompt_en": "Diagram: four route icons, air, hand contact, mouth and a needle. No text.",
+   "narration": "吸入、接触、食入，还是锐器？",
+   "overlay": [],
+   "labels": [
+    "吸入",
+    "接触",
+    "食入",
+    "锐器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第三步：怎么传播",
+   "scene": "随空气飘散的病原图标，箭头指向更高台阶",
+   "prompt_en": "Diagram: airborne germ icons with an arrow pointing to a higher step. No text.",
+   "narration": "能经空气传播的，级别往往更高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第三步：怎么传播",
+   "scene": "小研翻开目录核对，不凭印象",
+   "prompt_en": "The female graduate student checks the catalog instead of guessing.",
+   "narration": "具体几级，查目录，不靠印象。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第四步：有没有药和疫苗",
+   "scene": "第四格：药瓶和疫苗图标",
+   "prompt_en": "Diagram: the fourth box, a medicine bottle and a vaccine icon. No text.",
+   "narration": "第四步：有没有有效的药和疫苗？",
+   "overlay": [
+    "第四步：有没有药和疫苗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第四步：有没有药和疫苗",
+   "scene": "暴露后急救和就医流程图标",
+   "prompt_en": "Diagram: icons for first aid and medical follow-up after an exposure. No text.",
+   "narration": "万一暴露，能不能及时处置？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第四步：有没有药和疫苗",
+   "scene": "空药瓶打叉，台阶往上提一级",
+   "prompt_en": "Diagram: an empty medicine bottle crossed out; the step moves up one level. No text.",
+   "narration": "没有治疗手段的，级别相应往上提。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第五步：实验怎么做",
+   "scene": "第五格：移液器、离心机、动物笼图标",
+   "prompt_en": "Diagram: the fifth box, a pipette, a centrifuge and an animal cage. No text.",
+   "narration": "第五步：实验是怎么做的？",
+   "overlay": [
+    "第五步：实验怎么做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第五步：实验怎么做",
+   "scene": "气溶胶、针头、大烧瓶、动物、基因片段五个图标",
+   "prompt_en": "Diagram: five icons, a mist cloud, a needle, a large flask, a mouse and a gene segment. No text.",
+   "narration": "气溶胶、锐器、浓度体积、动物、重组？",
+   "overlay": [],
+   "labels": [
+    "气溶胶",
+    "锐器",
+    "高浓度大体积",
+    "动物",
+    "重组"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第五步：实验怎么做",
+   "scene": "同一病原图标分出两条路：培养和检测，通向不同台阶",
+   "prompt_en": "Diagram: one germ icon splits into two paths, culture and testing, leading to different steps. No text.",
+   "narration": "同一种菌，培养和检测要求不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第五步：实验怎么做",
+   "scene": "培养活病毒的图标旁盖着须批准的印章",
+   "prompt_en": "Diagram: a live virus culture icon with an approval-required stamp beside it. No text.",
+   "narration": "培养活病毒风险高，须经批准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第五步：实验怎么做",
+   "scene": "基因改造图标前面有审批关卡和伦理审查桌",
+   "prompt_en": "Diagram: a gene modification icon stopped at an approval gate and an ethics review table. No text.",
+   "narration": "涉及基因改造，可能升级，先审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第六步：设施和人员跟得上吗",
+   "scene": "第六格：实验室和人员图标",
+   "prompt_en": "Diagram: the sixth box, a lab room and a team of people. No text.",
+   "narration": "第六步：设施和人员跟得上吗？",
+   "overlay": [
+    "第六步：设施和人员跟得上吗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第六步：设施和人员跟得上吗",
+   "scene": "清单：实验室级别、培训证书、防护装备逐项打勾",
+   "prompt_en": "Diagram: a checklist for lab level, training certificate and protective gear, ticked one by one. No text.",
+   "narration": "条件够不够？培训过吗？防护齐吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第六步：设施和人员跟得上吗",
+   "scene": "防护条件刻度低于风险刻度，红灯亮",
+   "prompt_en": "Diagram: the protection gauge is lower than the risk gauge and a red light comes on. No text.",
+   "narration": "防护条件，要和风险等级匹配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第六步：设施和人员跟得上吗",
+   "scene": "阿杰想硬上，被打叉",
+   "prompt_en": "Diagram: the young male student pushing ahead anyway, crossed out. No text.",
+   "narration": "条件不够，就别硬上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "第六步：设施和人员跟得上吗",
+   "scene": "样本按规定交给有资质的机构",
+   "prompt_en": "Diagram: a sealed sample handed over to a qualified institution according to the rules. No text.",
+   "narration": "依法移交有资质的机构处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第七步：查规范、问委员会，级别不自定",
+   "scene": "第七格：法规书、标准册、目录",
+   "prompt_en": "Diagram: the seventh box, a law book, standard booklets and a catalog. No text.",
+   "narration": "第七步：查法规、标准和目录。",
+   "overlay": [
+    "第七步：查规范、问委员会，级别不自定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第七步：查规范、问委员会，级别不自定",
+   "scene": "国外手册放在下面，国内规定放在上面",
+   "prompt_en": "Diagram: a foreign handbook placed under the national rules. No text.",
+   "narration": "国外手册只作参考，以国内为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第七步：查规范、问委员会，级别不自定",
+   "scene": "阿杰把评估表交给老周，老周再提交生物安全委员会",
+   "prompt_en": "The young male student gives the form to the older man, and the older man passes it to the biosafety committee.",
+   "narration": "咨询负责人和生物安全委员会。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第七步：查规范、问委员会，级别不自定",
+   "scene": "委员会盖章确定级别",
+   "prompt_en": "Diagram: the committee stamps the form to set the level. No text.",
+   "narration": "级别由委员会评定审批，不是自己定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第七步：查规范、问委员会，级别不自定",
+   "scene": "学生自己在表上写级别，被打叉",
+   "prompt_en": "Diagram: a student writing the level on the form himself, crossed out. No text.",
+   "narration": "学生不得自行定级、擅自开展。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "取最高的那个风险因素",
+   "scene": "七个步骤各给一个刻度，最高的那个被圈出来",
+   "prompt_en": "Diagram: each of seven steps gets a gauge reading; the highest one is circled. No text.",
+   "narration": "最终级别，取最高的那个风险因素。",
+   "overlay": [
+    "取最高的那个风险因素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "取最高的那个风险因素",
+   "scene": "一个菌株图标：本身低风险，改造后重新打分",
+   "prompt_en": "Diagram: a strain icon starts with a low score, then gets rescored after modification. No text.",
+   "narration": "例子：本体风险低，改造后要重新看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "取最高的那个风险因素",
+   "scene": "操作一栏出现气溶胶图标，分数升高，综合取最高",
+   "prompt_en": "Diagram: an aerosol icon appears in the procedure column, the score rises and the highest is taken. No text.",
+   "narration": "操作有气溶胶，综合起来取最高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "取最高的那个风险因素",
+   "scene": "拟定级别交给委员会审批",
+   "prompt_en": "Diagram: the proposed level is sent to the committee for approval. No text.",
+   "narration": "拟定的级别，仍要报委员会审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "风险组不等于实验室级别，不得随意降级",
+   "scene": "风险组数字和实验室级别之间画个不等号",
+   "prompt_en": "Diagram: a not-equal sign between a risk group number and a lab level. No text.",
+   "narration": "风险组，不直接等于实验室级别。",
+   "overlay": [
+    "风险组不等于实验室级别，不得随意降级"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "风险组不等于实验室级别，不得随意降级",
+   "scene": "逐案评估的放大镜，和目录里的级别规定并排",
+   "prompt_en": "Diagram: a case-by-case magnifier beside the catalog's level rule. No text.",
+   "narration": "逐案评估，但要按目录规定来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "风险组不等于实验室级别，不得随意降级",
+   "scene": "实验从高台阶往低台阶挪，被拦住",
+   "prompt_en": "Diagram: an experiment moving from a higher step down to a lower one is stopped. No text.",
+   "narration": "想在低一级实验室做？不能自己定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "风险组不等于实验室级别，不得随意降级",
+   "scene": "降级申请经过评估、委员会、依法审批三道关",
+   "prompt_en": "Diagram: a downgrade request passing three gates, assessment, committee and legal approval. No text.",
+   "narration": "要评估、委员会审核，高致病性依法审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "风险组不等于实验室级别，不得随意降级",
+   "scene": "国内法规图标盖住“随意降级”的箭头",
+   "prompt_en": "Diagram: a national rule icon blocks a casual downgrade arrow. No text.",
+   "narration": "在国内，不能随意降级操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "未知病原、细胞系和环境样本从严定级",
+   "scene": "问号病原图标，旁边防护台阶高一档",
+   "prompt_en": "Diagram: a question-mark germ icon with the protection step raised one level. No text.",
+   "narration": "病原没确认，评估从严，宁可高一档。",
+   "overlay": [
+    "未知病原、细胞系和环境样本从严定级"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "未知病原、细胞系和环境样本从严定级",
+   "scene": "细胞培养瓶、临床样本管、无标签样本三个图标",
+   "prompt_en": "Diagram: three icons, a cell culture flask, a clinical sample tube and an unlabeled sample. No text.",
+   "narration": "细胞系、临床样本、来源不明样本，也要定级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "未知病原、细胞系和环境样本从严定级",
+   "scene": "噬菌体图标连着它的宿主菌",
+   "prompt_en": "Diagram: a bacteriophage icon linked to its host bacterium. No text.",
+   "narration": "噬菌体实验，按宿主菌和样品定级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "未知病原、细胞系和环境样本从严定级",
+   "scene": "污泥和污水瓶里各种菌图标混在一起",
+   "prompt_en": "Diagram: many mixed microbe icons inside sludge and wastewater bottles. No text.",
+   "narration": "污泥污水里，什么菌都可能有。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "未知病原、细胞系和环境样本从严定级",
+   "scene": "富集培养后杂菌一起变多，箭头指向二级实验室",
+   "prompt_en": "Diagram: after enrichment, unwanted microbes multiply too; an arrow points to a level-two lab. No text.",
+   "narration": "富集会放大杂菌，评估后一般二级操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评估成文，情况一变重新评估",
+   "scene": "评估表写好、签字、归档进文件柜",
+   "prompt_en": "Diagram: an assessment form is completed, signed and filed in a cabinet. No readable text.",
+   "narration": "评估要成文，经审核，留档可追溯。",
+   "overlay": [
+    "评估成文，情况一变重新评估"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评估成文，情况一变重新评估",
+   "scene": "实验方案上出现修改标记，评估表重新打开",
+   "prompt_en": "Diagram: a change mark appears on the experiment plan and the assessment form is reopened. No text.",
+   "narration": "实验内容或条件一变，重新评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评估成文，情况一变重新评估",
+   "scene": "采取措施后残余风险刻度仍偏红，箭头指向委员会",
+   "prompt_en": "Diagram: after controls, the residual risk gauge is still reddish; an arrow points to the committee. No text.",
+   "narration": "残余风险偏高，报委员会，不擅自开工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "评估成文，情况一变重新评估",
+   "scene": "阿杰在老周指导下补完评估，样本暂时封存",
+   "prompt_en": "The young male student completes the assessment with the older man's guidance while the sample stays sealed.",
+   "narration": "阿杰的污水样本，评估批准后再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "七个步骤的流程图",
+   "prompt_en": "Diagram: the seven-step flow chart. No text.",
+   "narration": "认清病原，看致病、传播、防治和操作。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "设施人员清单、委员会、最高刻度三个图标",
+   "prompt_en": "Three icons: a facility and staff checklist, a committee table and the highest gauge circled. No text.",
+   "narration": "看条件，问委员会，取最高风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不明样本高一档、降级打叉、文件柜三个图标",
+   "prompt_en": "Three icons: an unknown sample with a raised step, a crossed-out downgrade arrow and a file cabinet. No text.",
+   "narration": "不明从严，不随意降级，评估成文。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在两扇不同级别的实验室门前挥手",
+   "prompt_en": "The panda mascot stands in front of two lab doors of different levels and waves goodbye.",
+   "narration": "下一课：各级实验室的防护要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
