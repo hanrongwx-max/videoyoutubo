@@ -1,0 +1,946 @@
+{
+ "id": "058_病原微生物分类",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "病原微生物分类",
+ "seconds": 350,
+ "source_doc": "course/高校实验室安全/058_病原微生物分类.md",
+ "author_source": "project/高校实验室安全/058_病原微生物分类/src.py",
+ "points": {
+  "K1": "什么是生物因子",
+  "K2": "细菌、病毒、真菌各有特点",
+  "K3": "朊病毒、感染性核酸、寄生虫与毒素",
+  "K4": "分组看两头：个体风险与群体风险",
+  "K5": "国际风险组第1、2组",
+  "K6": "国际风险组第3、4组",
+  "K7": "国内分四类：第一类最危险，与国际相反",
+  "K8": "实验室级别国内外同向，别对号入座",
+  "K9": "第一、二类是高致病性，须经批准",
+  "K10": "查《人间传染的病原微生物目录》，用现行版",
+  "K11": "目录里查不到：评估后报委员会定",
+  "K12": "动物病原和转基因生物另有分级",
+  "K13": "评估还要看地区因素",
+  "K14": "病原资料单：病原的“说明书”",
+  "K15": "资料单的九个部分"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在四个颜色不同的分类盒子旁",
+   "prompt_en": "The panda mascot stands beside four sorting boxes of different colors and greets the camera.",
+   "narration": "这一课讲病原微生物分类。",
+   "overlay": [
+    "病原微生物分类"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰翻着一本外文教材，书上画着四级台阶，最高一级标红",
+   "prompt_en": "The young male student reads a foreign textbook showing four steps with the top step marked red. No readable text.",
+   "narration": "阿杰看外文教材：4组最危险。",
+   "overlay": [],
+   "labels": [
+    "4组最危险？"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他又翻开一本国内目录，最上面一格标红，一脸困惑",
+   "prompt_en": "He opens a national catalog where the first row is marked red, and looks confused. No readable text.",
+   "narration": "国内目录却说：第一类最危险？",
+   "overlay": [],
+   "labels": [
+    "第一类最危险？"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着拿来两把方向相反的尺子",
+   "prompt_en": "The female graduate student smiles and brings two rulers pointing in opposite directions.",
+   "narration": "小研说：两套编号，方向正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是生物因子",
+   "scene": "细菌、病毒、真菌三个卡通图标",
+   "prompt_en": "Diagram: three cartoon icons, a rod-shaped bacterium, a round virus and a branching fungus. No text.",
+   "narration": "细菌、病毒、真菌，都可能是生物因子。",
+   "overlay": [
+    "什么是生物因子"
+   ],
+   "labels": [
+    "细菌",
+    "病毒",
+    "真菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是生物因子",
+   "scene": "朊病毒小颗粒和毒素瓶图标加入队列",
+   "prompt_en": "Diagram: a tiny misfolded protein particle icon and a toxin vial icon join the row. No text.",
+   "narration": "还有朊病毒这样的致病颗粒和毒素。",
+   "overlay": [],
+   "labels": [
+    "朊病毒",
+    "毒素"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是生物因子",
+   "scene": "从过敏的小人到生病卧床的小人，严重程度箭头",
+   "prompt_en": "Diagram: a severity arrow from a sneezing person icon to a bedridden person icon. No text.",
+   "narration": "轻则过敏，重则患病，甚至死亡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "土壤和水滴里藏着细菌图标",
+   "prompt_en": "Diagram: bacterium icons hiding in soil and in a water drop. No text.",
+   "narration": "细菌：不少来自土壤和水。",
+   "overlay": [
+    "细菌、病毒、真菌各有特点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "细菌缩成一个坚硬的小芽孢，外面盾牌",
+   "prompt_en": "Diagram: a bacterium shrinks into a hard tiny spore with a shield around it. No text.",
+   "narration": "有的能形成芽孢，耐受力很强，要防气溶胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "一个没有外壁的软细菌，抗生素药片从旁边绕过",
+   "prompt_en": "Diagram: a soft bacterium without a cell wall; antibiotic pill icons pass around it. No text.",
+   "narration": "支原体没有细胞壁，部分抗生素对它无效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "病毒图标旁，空药瓶上画问号",
+   "prompt_en": "Diagram: a virus icon beside an empty medicine bottle with a question mark. No text.",
+   "narration": "病毒：有的可能致命，很多没有特效药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "霉菌孢子随空气飘散",
+   "prompt_en": "Diagram: mold spores drifting through the air. No text.",
+   "narration": "霉菌等真菌，孢子随空气扩散，有的产毒素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "细菌、病毒、真菌各有特点",
+   "scene": "免疫力低的小人周围，普通真菌图标变红",
+   "prompt_en": "Diagram: around a person with a weakened immune shield, ordinary fungus icons turn red. No text.",
+   "narration": "免疫力低时，常见真菌也可能致病。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "朊病毒、感染性核酸、寄生虫与毒素",
+   "scene": "朊病毒颗粒图标和大脑图标",
+   "prompt_en": "Diagram: a misfolded protein particle icon next to a brain icon. No text.",
+   "narration": "朊病毒少见，引起慢性神经退行性病。",
+   "overlay": [
+    "朊病毒、感染性核酸、寄生虫与毒素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "朊病毒、感染性核酸、寄生虫与毒素",
+   "scene": "一段核酸链条旁边画着警示三角",
+   "prompt_en": "Diagram: a strand of nucleic acid with a warning triangle beside it. No text.",
+   "narration": "有些病毒的核酸，本身就有感染性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "朊病毒、感染性核酸、寄生虫与毒素",
+   "scene": "寄生虫、水螺、蜱虫、跳蚤图标",
+   "prompt_en": "Diagram: icons of a blood parasite, a water snail, a tick and a flea. No text.",
+   "narration": "寄生虫、螺、蜱和蚤，也能带病。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "朊病毒、感染性核酸、寄生虫与毒素",
+   "scene": "毒素瓶图标，旁边有危险警示符号",
+   "prompt_en": "Diagram: a toxin vial icon with a hazard warning symbol beside it. No text.",
+   "narration": "毒素不是活体，同样有害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分组看两头：个体风险与群体风险",
+   "scene": "天平两端：一个人和一群人",
+   "prompt_en": "Diagram: a balance with one person on one side and a crowd on the other. No text.",
+   "narration": "风险高低怎么分？看两头。",
+   "overlay": [
+    "分组看两头：个体风险与群体风险"
+   ],
+   "labels": [
+    "个体风险",
+    "群体风险"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分组看两头：个体风险与群体风险",
+   "scene": "单个小人：病情轻重刻度和药瓶疫苗图标",
+   "prompt_en": "Diagram: a single person with a severity gauge, a medicine bottle and a vaccine icon. No text.",
+   "narration": "个体：病有多重，能不能防治。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分组看两头：个体风险与群体风险",
+   "scene": "一个小人向周围人群传出波纹",
+   "prompt_en": "Diagram: ripples spreading from one person to the people around. No text.",
+   "narration": "群体：会不会在人群里传开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "从绿到红的四级台阶，数字1到4",
+   "prompt_en": "Diagram: four steps colored from green to red, numbered 1 to 4. No other text.",
+   "narration": "国际风险组：1组最低，4组最高。",
+   "overlay": [
+    "国际风险组第1、2组"
+   ],
+   "labels": [
+    "1组最低",
+    "4组最高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "绿色台阶：健康小人和一个微生物图标相安无事",
+   "prompt_en": "Diagram: on the green step, a healthy person icon and a microbe icon side by side, both fine. No text.",
+   "narration": "第1组：一般不让健康人生病。",
+   "overlay": [],
+   "labels": [
+    "个体低",
+    "群体低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "小研在第1组台阶上照样戴手套、规范操作",
+   "prompt_en": "Diagram: on the green step, the female graduate student still wears gloves and works carefully.",
+   "narration": "风险最低，也要规范操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "黄色台阶：小人有点发烧",
+   "prompt_en": "Diagram: on the yellow step, a person icon with a mild fever. No text.",
+   "narration": "第2组：能致病，但危害有限。",
+   "overlay": [],
+   "labels": [
+    "个体中",
+    "群体低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "黄色台阶旁边：药瓶、疫苗和一圈很小的传播范围",
+   "prompt_en": "Diagram: beside the yellow step, a medicine bottle, a vaccine and a very small spread circle. No text.",
+   "narration": "有防治办法，扩散风险低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "国际风险组第1、2组",
+   "scene": "实验室暴露图标后面跟着一个感叹号",
+   "prompt_en": "Diagram: a lab exposure icon followed by an exclamation mark. No text.",
+   "narration": "但实验室暴露，也可能严重感染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "国际风险组第3、4组",
+   "scene": "橙色台阶：卧床的小人，周围人群没有被波及",
+   "prompt_en": "Diagram: on the orange step, a bedridden person; the people around are not affected. No text.",
+   "narration": "第3组：常致重病，但一般不人传人。",
+   "overlay": [
+    "国际风险组第3、4组"
+   ],
+   "labels": [
+    "个体高",
+    "群体低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "国际风险组第3、4组",
+   "scene": "橙色台阶旁：药瓶和疫苗图标打勾",
+   "prompt_en": "Diagram: beside the orange step, medicine and vaccine icons with check marks. No text.",
+   "narration": "一般有有效的治疗和预防手段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "国际风险组第3、4组",
+   "scene": "红色台阶：病重小人向人群传出大波纹",
+   "prompt_en": "Diagram: on the red step, a very sick person sends large ripples through a crowd. No text.",
+   "narration": "第4组：病重，又容易传播。",
+   "overlay": [],
+   "labels": [
+    "个体高",
+    "群体高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "国际风险组第3、4组",
+   "scene": "空药瓶和空疫苗瓶打叉，箭头指向最高级别设施",
+   "prompt_en": "Diagram: empty medicine and vaccine vials crossed out, an arrow pointing to a top-level containment facility. No text.",
+   "narration": "往往缺药缺苗，只在最高级别设施操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "四个分类盒子从上到下排列，最上面的标红",
+   "prompt_en": "Diagram: four sorting boxes stacked top to bottom, the top one red. No text.",
+   "narration": "国内按危害程度，把病原分为四类。",
+   "overlay": [
+    "国内分四类：第一类最危险，与国际相反"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "最上面的红盒子放大",
+   "prompt_en": "Diagram: the top red box enlarges with a strong warning icon. No text.",
+   "narration": "第一类危害最大。",
+   "overlay": [],
+   "labels": [
+    "第一类：最大"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "最下面的绿盒子：健康小人",
+   "prompt_en": "Diagram: the bottom green box with a healthy person icon. No text.",
+   "narration": "第四类，通常不会引起疾病。",
+   "overlay": [],
+   "labels": [
+    "第四类：最小"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "两把尺子并排，红色端一左一右",
+   "prompt_en": "Diagram: two rulers side by side with their red ends on opposite sides. No text.",
+   "narration": "数字方向和国际风险组正好相反。",
+   "overlay": [],
+   "labels": [
+    "国内：一类最高",
+    "国际：4组最高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "国际4组和国内一类之间画虚线，旁边计算器打叉",
+   "prompt_en": "Diagram: a dotted line between the international group four and the national class one; a calculator crossed out. No text.",
+   "narration": "大致对应，但不能自己换算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "国内分四类：第一类最危险，与国际相反",
+   "scene": "小研在资料上注明编号体系，混写的一份被打叉",
+   "prompt_en": "The female graduate student notes which numbering system she uses on a form; a mixed-up form is crossed out. No readable text.",
+   "narration": "写资料，注明是哪套编号，别混写。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室级别国内外同向，别对号入座",
+   "scene": "一到四级的实验室楼层，四楼标红",
+   "prompt_en": "Diagram: a lab building with four floors, the fourth floor red. No text.",
+   "narration": "实验室防护级别，国内外同向，四级最高。",
+   "overlay": [
+    "实验室级别国内外同向，别对号入座"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室级别国内外同向，别对号入座",
+   "scene": "第一类病原图标想进一级实验室，被打叉",
+   "prompt_en": "Diagram: a class-one germ icon trying to enter a level-one lab, crossed out. No text.",
+   "narration": "所以，第一类病原绝不在一级实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室级别国内外同向，别对号入座",
+   "scene": "目录和评估表两个图标，箭头指向实验室门",
+   "prompt_en": "Diagram: a catalog icon and an assessment form icon, with arrows to a lab door. No text.",
+   "narration": "做哪一级，查目录再评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第一、二类是高致病性，须经批准",
+   "scene": "第一类、第二类两个盒子被一个大括号括在一起",
+   "prompt_en": "Diagram: the first two red and orange boxes grouped by a large bracket. No text.",
+   "narration": "第一类、第二类，合称高致病性病原。",
+   "overlay": [
+    "第一、二类是高致病性，须经批准"
+   ],
+   "labels": [
+    "高致病性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第一、二类是高致病性，须经批准",
+   "scene": "实验申请书盖上批准印章，箭头指向高级别实验室",
+   "prompt_en": "Diagram: an application form gets an approval stamp, with an arrow to a higher-level lab. No text.",
+   "narration": "相关实验，在相应级别实验室并经批准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第一、二类是高致病性，须经批准",
+   "scene": "阿杰想开这类实验，被王老师拦下摇头",
+   "prompt_en": "The young male student wants to start such an experiment; the safety administrator stops him and shakes her head.",
+   "narration": "学生不得擅自开展这类实验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "查《人间传染的病原微生物目录》，用现行版",
+   "scene": "老周把厚厚的国内目录放在国外资料上面",
+   "prompt_en": "The older man places a thick national catalog on top of foreign reference sheets.",
+   "narration": "查分类，以国内目录为准。",
+   "overlay": [
+    "查《人间传染的病原微生物目录》，用现行版"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "查《人间传染的病原微生物目录》，用现行版",
+   "scene": "【实拍】翻开纸质病原微生物目录，手指沿表格横向查到实验室级别栏（不特写具体病原名称）",
+   "prompt_en": "A finger runs across a printed catalog table to the laboratory level column. No readable text.",
+   "narration": "目录里写着类别和所需实验室级别。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "查《人间传染的病原微生物目录》，用现行版",
+   "scene": "同一病原图标，连着培养、样本检测、灭活材料三条线，各通向不同级别",
+   "prompt_en": "Diagram: one germ icon linked by three lines, culture, sample testing and inactivated material, each leading to a different lab level. No text.",
+   "narration": "同一病原，不同实验活动，要求不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "查《人间传染的病原微生物目录》，用现行版",
+   "scene": "新旧两版目录，旧版被打叉",
+   "prompt_en": "Diagram: an old and a new edition of the catalog; the old one is crossed out. No text.",
+   "narration": "目录会修订，用现行最新版本。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "查《人间传染的病原微生物目录》，用现行版",
+   "scene": "手机屏幕上流传的旧表格被打叉",
+   "prompt_en": "Diagram: an old table circulating on a phone screen, crossed out. No text.",
+   "narration": "网上旧表、国外名单，只作参考。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "目录里查不到：评估后报委员会定",
+   "scene": "阿杰在目录里找不到一个微生物，画个问号",
+   "prompt_en": "The young male student cannot find a microbe in the catalog; a question mark appears.",
+   "narration": "目录里查不到？先做风险评估。",
+   "overlay": [
+    "目录里查不到：评估后报委员会定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "目录里查不到：评估后报委员会定",
+   "scene": "评估表交给一张会议桌，委员们点头盖章",
+   "prompt_en": "Diagram: an assessment form handed to a committee table; members nod and stamp it. No text.",
+   "narration": "报生物安全委员会定，批准后按级别做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "动物病原和转基因生物另有分级",
+   "scene": "动物病原图标旁另有一本名录",
+   "prompt_en": "Diagram: an animal germ icon beside a separate catalog book. No text.",
+   "narration": "动物病原，国内另有分类名录。",
+   "overlay": [
+    "动物病原和转基因生物另有分级"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "动物病原和转基因生物另有分级",
+   "scene": "两本目录并排，小研逐一核对",
+   "prompt_en": "The female graduate student checks two catalogs side by side.",
+   "narration": "涉及动物，两个名录都要查清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "动物病原和转基因生物另有分级",
+   "scene": "转基因植物图标旁边的台阶从一级到四级",
+   "prompt_en": "Diagram: a transgenic plant icon beside steps numbered one to four, with the highest step red. No other text.",
+   "narration": "转基因另有安全等级，填表写清哪套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评估还要看地区因素",
+   "scene": "地图上两个地区，同一病原图标一边绿一边红",
+   "prompt_en": "Diagram: two regions on a map; the same germ icon is green in one and red in the other. No text.",
+   "narration": "同一种病原，在不同地区风险不同。",
+   "overlay": [
+    "评估还要看地区因素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评估还要看地区因素",
+   "scene": "病原图标旁出现一个变异的小分支",
+   "prompt_en": "Diagram: a germ icon with a small variant branch appearing. No text.",
+   "narration": "一看致病性，包括本地的变异株。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评估还要看地区因素",
+   "scene": "宿主、媒介、人群密度和气候四个图标",
+   "prompt_en": "Diagram: four icons, a host animal, an insect carrier, a crowd and a weather symbol. No text.",
+   "narration": "二看传播、宿主、媒介、人口和气候。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "评估还要看地区因素",
+   "scene": "本地药店和疫苗接种点图标打勾",
+   "prompt_en": "Diagram: a local pharmacy icon and a vaccination point icon with check marks. No text.",
+   "narration": "三四看本地能否获得预防和治疗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "病原资料单：病原的“说明书”",
+   "scene": "化学品说明书和病原资料单并排",
+   "prompt_en": "Diagram: a chemical data sheet and a pathogen data sheet side by side, both blank. No text.",
+   "narration": "病原也有资料单，就像化学品说明书。",
+   "overlay": [
+    "病原资料单：病原的“说明书”"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "病原资料单：病原的“说明书”",
+   "scene": "电脑屏幕上的资料单不断刷新",
+   "prompt_en": "Diagram: a pathogen data sheet on a computer screen being refreshed. No readable text.",
+   "narration": "网上公开，不断更新，可作参考。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "病原资料单：病原的“说明书”",
+   "scene": "手机能查资料单，但带进高等级实验室被打叉",
+   "prompt_en": "Diagram: a phone showing a data sheet; carrying the phone into a high-level lab is crossed out. No text.",
+   "narration": "有手机版，但手机别带进高等级实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "病原资料单：病原的“说明书”",
+   "scene": "资料单上风险组、传播途径、处置三个图标",
+   "prompt_en": "Diagram: a data sheet with three icons for risk group, transmission route and handling. No text.",
+   "narration": "风险组、传播途径、处置，都能查到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "资料单展开成九格，前两格亮起",
+   "prompt_en": "Diagram: a data sheet unfolds into nine panels; the first two light up. No text.",
+   "narration": "资料单九部分：是谁，有多凶。",
+   "overlay": [
+    "资料单的九个部分"
+   ],
+   "labels": [
+    "名称分类",
+    "致病性",
+    "宿主范围",
+    "感染剂量",
+    "潜伏期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "第三格：宿主、媒介、人兽共患图标",
+   "prompt_en": "Diagram: the third panel with icons of a reservoir host, a carrier insect and a human-animal link. No text.",
+   "narration": "怎么传：宿主、媒介、人兽共患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "第四格：消毒剂瓶、计时器、高温图标",
+   "prompt_en": "Diagram: the fourth panel with a disinfectant bottle, a timer and a heat icon. No text.",
+   "narration": "能否杀灭：耐不耐药，消毒要等够时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "第五格：急救、疫苗、上报电话图标",
+   "prompt_en": "Diagram: the fifth panel with first aid, vaccine and reporting phone icons. No text.",
+   "narration": "急救医疗：疫苗、用药，法定传染病要上报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "第六、七格：实验室感染图标和防护级别图标",
+   "prompt_en": "Diagram: the sixth and seventh panels with a lab infection icon and a protection level icon. No text.",
+   "narration": "实验室危害，再定级别、配防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "资料单的九个部分",
+   "scene": "第八、九格：溢洒包、上锁冰箱、文件更新日期图标",
+   "prompt_en": "Diagram: the eighth and ninth panels with a spill kit, a locked freezer and a document update icon. No text.",
+   "narration": "溢洒储存，还有法规和更新信息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "生物因子图标、两把相反的尺子三个图标",
+   "prompt_en": "Three icons: a group of microbe icons, two opposite rulers and a four-floor lab building. No text.",
+   "narration": "国内第一类最危险，与国际4组相反。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "高致病性括号、审批印章、目录三个图标",
+   "prompt_en": "Three icons: a bracket over two boxes, an approval stamp and a catalog book. No text.",
+   "narration": "一、二类高致病，须批准；查现行目录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "地区地图、资料单、委员会三个图标",
+   "prompt_en": "Three icons: a regional map, a data sheet and a committee table. No text.",
+   "narration": "看地区因素，资料单作参考。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一到四层的实验室楼模型旁挥手",
+   "prompt_en": "The panda mascot stands beside a four-floor lab building model and waves goodbye.",
+   "narration": "下一课：生物安全实验室分级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
