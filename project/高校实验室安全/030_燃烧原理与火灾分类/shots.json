@@ -1,0 +1,738 @@
+{
+ "id": "030_燃烧原理与火灾分类",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "燃烧原理与火灾分类",
+ "seconds": 270,
+ "source_doc": "course/高校实验室安全/030_燃烧原理与火灾分类.md",
+ "author_source": "project/高校实验室安全/030_燃烧原理与火灾分类/src.py",
+ "points": {
+  "K1": "燃烧是放热发光的化学反应",
+  "K2": "燃烧三角：可燃物、助燃物、点火源",
+  "K3": "燃烧四面体：加上链式反应",
+  "K4": "热传递三种方式：传导、对流、辐射",
+  "K5": "灭火就是拿掉一个要素",
+  "K6": "冷却法和隔离法",
+  "K7": "窒息法和化学抑制法",
+  "K8": "火灾按燃烧物分六类",
+  "K9": "A类：固体物质火灾",
+  "K10": "B类：液体和可熔化固体火灾",
+  "K11": "C类气体、D类金属火灾",
+  "K12": "E类带电、F类烹饪油脂火灾",
+  "K13": "轰燃：火突然布满房间",
+  "S1": "初起火灾好扑救，扑不灭就撤离报警"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在由三个图标组成的燃烧三角旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a fire triangle made of three icons, waving at the camera.",
+   "narration": "这一课讲燃烧原理与火灾分类。",
+   "overlay": [
+    "燃烧原理与火灾分类"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着酒精灯火焰发呆",
+   "prompt_en": "The young male student stares at the flame of an alcohol lamp on the bench.",
+   "narration": "阿杰盯着酒精灯想：火是怎么烧起来的？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研盖上灯帽，火焰熄灭",
+   "prompt_en": "The female graduate student puts the cap on the alcohol lamp and the flame goes out.",
+   "narration": "小研盖上灯帽，火就灭了。为什么？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "燃烧是放热发光的化学反应",
+   "scene": "可燃物、氧气和热相遇，放出光和热的示意",
+   "prompt_en": "A fuel icon, an oxygen icon and a heat icon meet and release light and heat. No text, no people.",
+   "narration": "燃烧是剧烈的化学反应。",
+   "overlay": [
+    "燃烧是放热发光的化学反应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "燃烧是放热发光的化学反应",
+   "scene": "火焰放出光和热，周围温度升高",
+   "prompt_en": "A flame gives off bright light and heat waves around it. No people.",
+   "narration": "可燃物和氧反应，放出热和光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "三角形三条边：可燃物、助燃物、点火源",
+   "prompt_en": "A triangle whose three sides show a fuel icon, an oxygen icon and a spark icon. No text.",
+   "narration": "燃烧要三样：可燃物、助燃物、点火源。",
+   "overlay": [
+    "燃烧三角：可燃物、助燃物、点火源"
+   ],
+   "labels": [
+    "可燃物",
+    "助燃物",
+    "点火源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "实验室里的溶剂瓶、纸张，作为可燃物",
+   "prompt_en": "Solvent bottles, paper and a cardboard box glow as fuel icons in a lab. No people.",
+   "narration": "可燃物：溶剂、纸张、塑料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "空气中的氧气分子，以及氧化剂瓶",
+   "prompt_en": "Oxygen molecules float in the air next to an oxidizer bottle with a flame-over-circle icon. No text.",
+   "narration": "助燃物最常见的是空气中的氧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "氧化剂瓶倒在纸上，纸自己烧得更旺",
+   "prompt_en": "An oxidizer bottle spills onto paper and the paper burns more fiercely. No people.",
+   "narration": "氧化剂也能助燃，不能和可燃物混放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "明火、电火花、热板，作为点火源",
+   "prompt_en": "Three ignition source icons: an open flame, an electrical spark and a hot plate. No text.",
+   "narration": "点火源：明火、电火花、热表面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "三样分开放，什么也不发生",
+   "prompt_en": "Fuel, oxygen and a spark icon kept apart, nothing happens. No people.",
+   "narration": "三样凑齐才着火，缺一不燃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "燃烧三角：可燃物、助燃物、点火源",
+   "scene": "溶剂瓶远离加热板，打勾",
+   "prompt_en": "A solvent bottle moved away from a hot plate gets a green check. No people.",
+   "narration": "所以溶剂要远离热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "燃烧四面体：加上链式反应",
+   "scene": "三角形变成四面体，第四面是链式反应",
+   "prompt_en": "The triangle unfolds into a tetrahedron; the fourth face shows a chain reaction icon. No text.",
+   "narration": "再加上链式反应，就是燃烧四面体。",
+   "overlay": [
+    "燃烧四面体：加上链式反应"
+   ],
+   "labels": [
+    "可燃物",
+    "助燃物",
+    "点火源",
+    "链式反应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "燃烧四面体：加上链式反应",
+   "scene": "自由基接力传递的动画示意",
+   "prompt_en": "Small glowing particles pass energy along in a chain, keeping the flame going. No text.",
+   "narration": "反应一环扣一环，火才能持续。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "燃烧四面体：加上链式反应",
+   "scene": "拿掉四面体任一面，火焰熄灭",
+   "prompt_en": "One face is removed from the tetrahedron and the flame goes out. No text.",
+   "narration": "四个要素缺一个，火就烧不起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热传递三种方式：传导、对流、辐射",
+   "scene": "热沿着金属棒从一端传到另一端",
+   "prompt_en": "Heat travels along a metal rod from the flame end to the far end, shown by color change. No people.",
+   "narration": "热的传递有三种方式：一是传导。",
+   "overlay": [
+    "热传递三种方式：传导、对流、辐射"
+   ],
+   "labels": [
+    "传导",
+    "对流",
+    "辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热传递三种方式：传导、对流、辐射",
+   "scene": "热烟气上升，沿天花板扩散",
+   "prompt_en": "Hot smoke rises and spreads along the ceiling with curved arrows. No people.",
+   "narration": "二是对流，热烟气上升扩散。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热传递三种方式：传导、对流、辐射",
+   "scene": "火焰向四周发出热射线，烤热旁边的纸箱",
+   "prompt_en": "A fire radiates heat rays that warm a nearby cardboard box. No people.",
+   "narration": "三是辐射，隔着空气也能烤着东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热传递三种方式：传导、对流、辐射",
+   "scene": "三种方式让火从一处蔓延到别处",
+   "prompt_en": "Fire spreads from one bench to the next by conduction, convection and radiation arrows. No people.",
+   "narration": "火就是这样蔓延开的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "热传递三种方式：传导、对流、辐射",
+   "scene": "可燃物与加热设备之间留出距离，打勾",
+   "prompt_en": "A clear gap is kept between a heating device and nearby combustibles, with a green check. No people.",
+   "narration": "可燃物要远离热源，别被烤着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "灭火就是拿掉一个要素",
+   "scene": "燃烧四面体旁边四只手分别拿走一个要素",
+   "prompt_en": "Four hands each remove one element from the fire tetrahedron. No faces, no text.",
+   "narration": "灭火，就是拿掉一个要素。",
+   "overlay": [
+    "灭火就是拿掉一个要素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "灭火就是拿掉一个要素",
+   "scene": "四个灭火方法图标：冷却、隔离、窒息、抑制",
+   "prompt_en": "Four icons: a water drop, a closed valve, a lid, and a powder cloud. No text.",
+   "narration": "冷却、隔离、窒息、化学抑制。",
+   "overlay": [],
+   "labels": [
+    "冷却",
+    "隔离",
+    "窒息",
+    "化学抑制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冷却法和隔离法",
+   "scene": "水浇在燃烧的木头上，温度计下降",
+   "prompt_en": "Water is poured on burning wood and a thermometer icon drops. No people.",
+   "narration": "冷却法：用水等带走热量。",
+   "overlay": [
+    "冷却法和隔离法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冷却法和隔离法",
+   "scene": "关闭燃气阀门，火焰变小熄灭",
+   "prompt_en": "A hand turns off a gas valve and the flame shrinks and goes out. No faces.",
+   "narration": "隔离法：关阀门，断掉燃料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冷却法和隔离法",
+   "scene": "把旁边的溶剂瓶移开",
+   "prompt_en": "Nearby solvent bottles are moved away from a small fire. No faces.",
+   "narration": "移开旁边的可燃物，也是隔离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "窒息法和化学抑制法",
+   "scene": "灭火毯盖住台面小火",
+   "prompt_en": "A fire blanket is laid over a small fire in a tray on the bench. No faces.",
+   "narration": "窒息法：盖住它，隔绝空气。",
+   "overlay": [
+    "窒息法和化学抑制法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "窒息法和化学抑制法",
+   "scene": "盖上酒精灯帽，火焰熄灭",
+   "prompt_en": "A cap is placed over an alcohol lamp flame and it goes out. No faces.",
+   "narration": "盖灯帽、二氧化碳，都是窒息。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "窒息法和化学抑制法",
+   "scene": "干粉灭火剂打断链式反应的示意",
+   "prompt_en": "Dry powder particles break the chain reaction links in a flame diagram. No text.",
+   "narration": "化学抑制：干粉等打断链式反应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "火灾按燃烧物分六类",
+   "scene": "六个格子：A、B、C、D、E、F，各配图标",
+   "prompt_en": "Six boxes with icons: wood, liquid drop, gas cylinder, metal block, plug, frying pan. No text.",
+   "narration": "火灾分六类：A固体、B液体、C气体。",
+   "overlay": [
+    "火灾按燃烧物分六类"
+   ],
+   "labels": [
+    "A类 固体",
+    "B类 液体",
+    "C类 气体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "火灾按燃烧物分六类",
+   "scene": "六个格子中 D、E、F 三格亮起",
+   "prompt_en": "The metal block, plug and frying pan boxes of the six-box chart light up. No text.",
+   "narration": "D金属、E带电、F烹饪油脂。",
+   "overlay": [],
+   "labels": [
+    "D类 金属",
+    "E类 带电",
+    "F类 油脂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "火灾按燃烧物分六类",
+   "scene": "国标封面图标，旁边有不同的外国分类打叉",
+   "prompt_en": "A national standard book icon gets a check; a different foreign chart is crossed out. No text.",
+   "narration": "按国家标准分类，与国外不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "火灾按燃烧物分六类",
+   "scene": "【实拍】本校灭火器铭牌特写，镜头停在适用火灾类别标识上（近景，遮挡品牌）",
+   "prompt_en": "Close-up of a fire extinguisher label area with fire class icons. No text.",
+   "narration": "看清灭火器标签，适用哪类火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "A类：固体物质火灾",
+   "scene": "木材、纸张、棉布燃烧，留下灼热余烬",
+   "prompt_en": "Wood, paper and cotton cloth burn and leave glowing embers. No people.",
+   "narration": "A类：固体物质火灾。",
+   "overlay": [
+    "A类：固体物质火灾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "A类：固体物质火灾",
+   "scene": "实验室角落堆着纸箱和废纸",
+   "prompt_en": "Cardboard boxes and waste paper piled in a lab corner. No people.",
+   "narration": "纸箱、擦拭纸，都是A类可燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "A类：固体物质火灾",
+   "scene": "纸箱被清出实验室，打勾",
+   "prompt_en": "Cardboard boxes are carried out of the lab, getting a green check. No faces.",
+   "narration": "包装纸箱，及时清出实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "B类：液体和可熔化固体火灾",
+   "scene": "溶剂瓶倾倒，液面着火",
+   "prompt_en": "A tipped solvent bottle spills and the liquid surface catches fire. No people.",
+   "narration": "B类：液体或可熔化固体火灾。",
+   "overlay": [
+    "B类：液体和可熔化固体火灾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "B类：液体和可熔化固体火灾",
+   "scene": "汽油、乙醇、石蜡三个图标",
+   "prompt_en": "Icons of a fuel can, an ethanol bottle and a paraffin wax block. No text.",
+   "narration": "汽油、乙醇、溶剂，还有石蜡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "C类气体、D类金属火灾",
+   "scene": "气瓶阀口喷出火焰",
+   "prompt_en": "A flame jets from a gas cylinder valve. No people.",
+   "narration": "C类：气体火灾，如甲烷、氢气。",
+   "overlay": [
+    "C类气体、D类金属火灾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "C类气体、D类金属火灾",
+   "scene": "金属钠块燃烧，旁边泼水打叉",
+   "prompt_en": "A piece of sodium metal burns; pouring water on it is crossed out with a red X. No people.",
+   "narration": "D类：钾、钠、镁等金属火灾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "C类气体、D类金属火灾",
+   "scene": "干砂覆盖燃烧的金属",
+   "prompt_en": "Dry sand is poured over burning metal. No faces.",
+   "narration": "金属火不能用水，用干砂或专用灭火剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "E类带电、F类烹饪油脂火灾",
+   "scene": "插着电源的设备冒火",
+   "prompt_en": "A plugged-in lab instrument with a small fire at its power cord. No people.",
+   "narration": "E类：带电设备火灾。",
+   "overlay": [
+    "E类带电、F类烹饪油脂火灾"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "E类带电、F类烹饪油脂火灾",
+   "scene": "先拉闸断电，火灾类别随之改变",
+   "prompt_en": "A hand switches off the main power; the plug icon changes to the burning material icon. No faces.",
+   "narration": "断电以后，按燃烧物本身处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "E类带电、F类烹饪油脂火灾",
+   "scene": "带电设备上泼水打叉，水流导电的示意",
+   "prompt_en": "Throwing water on a burning powered device is crossed out; an electric arc travels along the water. No people.",
+   "narration": "带电时不能用水和泡沫扑救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "E类带电、F类烹饪油脂火灾",
+   "scene": "炒锅里的食用油着火",
+   "prompt_en": "Cooking oil in a frying pan catches fire. No people.",
+   "narration": "F类：烹饪器具内的油脂火灾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "轰燃：火突然布满房间",
+   "scene": "房间里热烟层在天花板下越积越厚",
+   "prompt_en": "A thick layer of hot smoke builds up under the ceiling of a room. No people.",
+   "narration": "火越烧越大，热烟积在屋顶。",
+   "overlay": [
+    "轰燃：火突然布满房间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "轰燃：火突然布满房间",
+   "scene": "整个房间的可燃物突然同时起火",
+   "prompt_en": "All combustible items in the room suddenly ignite at once in a flash. No people.",
+   "narration": "可燃物一齐起火，这就是轰燃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "轰燃：火突然布满房间",
+   "scene": "浓烟中人形图标被熏倒的示意，烟雾打叉",
+   "prompt_en": "A figure icon is overcome in thick smoke, with a warning mark on the smoke. No faces.",
+   "narration": "浓烟有毒，比火更快伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "轰燃：火突然布满房间",
+   "scene": "人在轰燃前从门口撤离",
+   "prompt_en": "The young male student leaves through the door before the room flashes over.",
+   "narration": "轰燃后很难逃生，必须提前撤离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "初起火灾好扑救，扑不灭就撤离报警",
+   "scene": "火灾发展曲线：初起、发展、猛烈、衰减",
+   "prompt_en": "A fire growth curve rising through four stages with icons. No text.",
+   "narration": "火灾初起时，最容易扑灭。",
+   "overlay": [
+    "初起火灾好扑救，扑不灭就撤离报警"
+   ],
+   "labels": [
+    "初起",
+    "发展",
+    "猛烈",
+    "衰减"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "初起火灾好扑救，扑不灭就撤离报警",
+   "scene": "小火用灭火器扑救；火势变大，撤离并拨打119",
+   "prompt_en": "A small fire is put out with an extinguisher; a bigger fire makes people evacuate and call. No text.",
+   "narration": "扑不灭就撤，拨打119。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "初起火灾好扑救，扑不灭就撤离报警",
+   "scene": "保卫处值班员接到报告",
+   "prompt_en": "The security officer receives a phone report at the campus security desk.",
+   "narration": "同时报告老师和学校保卫处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "燃烧四面体和四种灭火方法依次打勾",
+   "prompt_en": "The fire tetrahedron and four extinguishing method icons get green checks. No text.",
+   "narration": "四要素缺一不燃，灭火就拿掉一个。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "A到F六类图标依次打勾",
+   "prompt_en": "Six fire class icons from wood to frying pan get green checks one by one. No text.",
+   "narration": "火灾六类，按国标认清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在实验台旁关掉加热板，向镜头挥手",
+   "prompt_en": "The panda mascot switches off a hot plate beside a tidy bench and waves goodbye.",
+   "narration": "下一课，讲实验室火灾的预防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
