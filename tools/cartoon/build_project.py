@@ -43,10 +43,13 @@ MAX_LINE = 20          # 每镜旁白不超过 20 字（不含标点）
 SPECIAL = {"开场", "情景", "小结", "结尾"}
 MAX_LABELS, MAX_LABEL_CHARS = 5, 8
 DOMESTIC = "（国内版）"     # 国内版目录名后缀
+COURSE = "高校实验室安全"   # 由全部原视频知识点合并整理的新课程：project/高校实验室安全/<课号_课名>/
 
 
 def edition_of(d, meta):
     """返回 (原视频名称, 版本)；版本为 原著版 / 国内版 / 单一版。"""
+    if d.parent.name == COURSE:
+        return d.name, "课程"
     if d.name.endswith(DOMESTIC):
         return d.name[:-len(DOMESTIC)], "国内版"
     return d.name, "原著版" if meta.get("edition") == "原著版" else "单一版"
@@ -125,7 +128,9 @@ def write_package(d, meta, shots):
     other = {"原著版": f"国内版见 `../{video}{DOMESTIC}/`", "国内版": f"原著版见 `../{video}/`"}.get(edition)
     basis = {"原著版": "原视频知识点（K），内容与原片一致，未按国内法规改编（含原片的做法和数值）",
              "国内版": "原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`",
-             "单一版": "原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`"}[edition]
+             "单一版": "原视频知识点（K）+ 审查补充知识点（S），按国内法规和高校实验室安全教育要求改编；审查记录见 `审查报告.md`",
+             "课程": "新课程《高校实验室安全》：由全部原视频的知识点合并整理（K），按国内法规和高校实验室安全教学要求编写，"
+                     "必要时补充知识点（S）；知识点来源见 `来源.tsv`，教案见 `course/高校实验室安全/`"}[edition]
     spec = {"id": video, "edition": edition, "series": series, "title": title, "seconds": len(shots) * SHOT_S,
             "source_doc": f"course/{series}/{video}.md", "author_source": f"{rel}/src.py",
             "points": meta["points"], "shots": shots}
@@ -220,9 +225,15 @@ MISMATCH = "内容不符说明.md"
 
 
 def write_index():
-    rows = []
+    rows, crows = [], []
     for f in sorted(PROJECT.glob("*/*/shots.json")):
         s = json.loads(f.read_text(encoding="utf-8"))
+        if s["series"] == COURSE:
+            m, sec = divmod(s["seconds"], 60)
+            rel = f.parent.relative_to(PROJECT).as_posix()
+            crows.append(f"| {s['id']} | {s['title']} | {len(s['shots'])} | {m}:{sec:02d} | {len(s['points'])} | "
+                         f"[剧本](<{rel}/script.md>) |")
+            continue
         m, sec = divmod(s["seconds"], 60)
         rel = f.parent.relative_to(PROJECT).as_posix()
         k = sum(1 for p in s["points"] if p.startswith("K"))
@@ -238,6 +249,8 @@ def write_index():
     videos, orig, need = defaultdict(set), defaultdict(int), defaultdict(int)
     for f in PROJECT.glob("*/*/shots.json"):
         s = json.loads(f.read_text(encoding="utf-8"))
+        if s["series"] == COURSE:
+            continue
         ed = s.get("edition", "单一版")
         videos[s["series"]].add(s["id"])
         orig[s["series"]] += ed == "原著版"
@@ -258,7 +271,10 @@ def write_index():
         "与国内法规有区别的视频出两版：原著版（与原片一致）和国内版（按国内要求改编，目录名带“（国内版）”）。剧集名与实际内容不符的剧集标“⚠ 内容全部不符/部分不符”，详见该剧集目录下的 `" + MISMATCH + "`。\n\n"
         "## 各剧集进度\n\n| 剧集 | 已编写 / 附件视频 | 原著版 / 需原著版 |\n|---|---|---|\n" + prog + "\n\n## 已编写视频\n\n知识点：原片 / 补充。\n\n"
         "| 剧集 | 原视频 | 版本 | 卡通片名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|---|---|\n"
-        + "\n".join(rows) + "\n", encoding="utf-8")
+        + "\n".join(rows) + "\n" + (
+            f"\n## 新课程《{COURSE}》\n\n由全部原视频知识点合并整理的课程（大纲见 `curriculum/课程大纲.md`），已编写 {len(crows)} 节。\n\n"
+            "| 课 | 课名 | 镜头 | 时长 | 知识点 | 文件 |\n|---|---|---|---|---|---|\n" + "\n".join(crows) + "\n" if crows else ""),
+        encoding="utf-8")
 
 
 def main():
