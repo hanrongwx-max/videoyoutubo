@@ -261,7 +261,7 @@ def add_lesson(prs, les, chapter):
             badge(s, x + Inches(0.4), Inches(2.0), Inches(0.5), "✕", RED, size=16)
             tb(s, x + Inches(1.05), Inches(2.05), ew - Inches(1.4), Inches(0.4), "常见错误", 16, RED, True)
             bullets(s, x + Inches(0.4), Inches(2.75), ew - Inches(0.8), Inches(3.6), p["mistakes"], 15, INK)
-        notes = (p["detail"].strip() + ("\n\n来源：" + p["source"] if p["source"] else "")).strip()
+        notes = p["detail"].strip()   # 来源（原视频名称）不进课件，见 来源.tsv
         if notes:
             s.notes_slide.notes_text_frame.text = strip_md(notes)
     # 课后练习：每页两题，答案在备注

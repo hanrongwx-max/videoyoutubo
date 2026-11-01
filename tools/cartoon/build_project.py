@@ -207,6 +207,13 @@ def write_package(d, meta, shots):
     elif note.exists():
         note.unlink()
 
+    if edition == "课程":
+        review_row = ("| `来源.tsv` | 本课每个知识点合并了哪些原知识点（★ 为采用的最佳讲解来源） |\n"
+                      f"| `course/{COURSE}/{video}.md` | 知识点详细内容说明书（课件由它生成） |")
+        check_docs = f"`来源.tsv` 和说明书 `course/{COURSE}/{video}.md` "
+    else:
+        review_row = "| `审查报告.md` | 法规与高校安全教育要求审查、完整性检查、补充知识点、版权处理 |"
+        check_docs = "`审查报告.md` 和原视频内容文档"
     (d / "workflow.md").write_text(f"""# {title} 制作工作流
 
 制作方法与 ppplus107 一致：ComfyUI + MiniMax H3，扁平 2D 卡通（熊猫欣欣主持），每镜 5 秒，1280×704、24fps。
@@ -219,7 +226,7 @@ def write_package(d, meta, shots):
 | `subtitles.srt` / `overlay.srt` | 底部字幕（旁白）/ 顶部文字（片名、知识点名） |
 | `comfyui/{WORKFLOW}` | ComfyUI API 工作流（`{{{{PROMPT}}}}` `{{{{SEED}}}}` `{{{{LENGTH}}}}` `{{{{FPS}}}}` 占位） |
 | `source_map.json` | 知识点 → 镜头 |
-| `审查报告.md` | 法规与高校安全教育要求审查、完整性检查、补充知识点、版权处理 |
+{review_row}
 
 ## 步骤
 
@@ -232,7 +239,7 @@ def write_package(d, meta, shots):
    输出 `{rel}/{video}_cn_cartoon.mp4`。
    有 `实拍清单.md` 时：把拍好的片段放到 `{rel}/footage/shot_NNN.mp4`，先运行
    `python3 tools/cartoon/live.py "{rel}"`（统一规格并合入 TTS 配音，写入 clips/），generate.py 会跳过这些镜头。
-3. 人工审核：对照 `script.md`、`审查报告.md` 和原视频内容文档核对；学校适用条款由本校实验室安全管理部门确认。
+3. 人工审核：对照 `script.md`、{check_docs}核对；学校适用条款由本校实验室安全管理部门确认。
 """, encoding="utf-8")
 
 
