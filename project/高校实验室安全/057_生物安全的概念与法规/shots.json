@@ -1,0 +1,982 @@
+{
+ "id": "057_生物安全的概念与法规",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "生物安全的概念与法规",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/057_生物安全的概念与法规.md",
+ "author_source": "project/高校实验室安全/057_生物安全的概念与法规/src.py",
+ "points": {
+  "K1": "生物实验室多了看不见的生物危害",
+  "K2": "生物因子失控，会威胁公共卫生",
+  "K3": "什么是生物安全：安全操作、封闭控制",
+  "K4": "目的：护人员、护环境、护公众",
+  "K5": "生物危害、生物安全与生物安保",
+  "K6": "两大原则：风险评估与防护",
+  "K7": "防护三要素：操作、设备、设施",
+  "K8": "5P：评估风险的五个要素",
+  "K9": "国内生物安全法规与标准",
+  "K10": "国际手册只作参考，以国内法规为准",
+  "K11": "合规：外部合规与内部合规",
+  "K12": "依法备案审批，违规要担责",
+  "K13": "持续学习、保持警觉、防患未然"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在贴着生物危害标志的实验室门口",
+   "prompt_en": "The panda mascot stands at a lab door marked with a biohazard warning sign and greets the camera.",
+   "narration": "这一课讲生物安全的概念与法规。",
+   "overlay": [
+    "生物安全的概念与法规"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一次来到微生物实验室门口，满脸轻松",
+   "prompt_en": "The young male student arrives at a microbiology lab door for the first time, looking relaxed.",
+   "narration": "阿杰第一次进微生物实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰耸耸肩，头顶冒出放大镜里空无一物的气泡",
+   "prompt_en": "He shrugs; a thought bubble shows a magnifying glass with nothing visible in it. No text.",
+   "narration": "他想：细菌看不见，能有啥危险？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着一本空白封面的法规手册走过来",
+   "prompt_en": "The female graduate student walks over holding a rulebook with a blank cover.",
+   "narration": "小研说：生物实验，规矩多着呢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物实验室多了看不见的生物危害",
+   "scene": "实验台上摆着培养皿、细胞培养瓶和样本管",
+   "prompt_en": "Closed culture dishes, cell culture flasks and sealed sample tubes on a lab bench. No text.",
+   "narration": "生物实验，要和细胞、微生物打交道。",
+   "overlay": [
+    "生物实验室多了看不见的生物危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物实验室多了看不见的生物危害",
+   "scene": "放大镜下才显出的微小病原图标，旁边一个健康小人变成生病小人",
+   "prompt_en": "Diagram: tiny germ icons visible only under a magnifier; a healthy person icon turns into a sick one. No text.",
+   "narration": "病原体肉眼看不见，却能让人生病。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物实验室多了看不见的生物危害",
+   "scene": "样本管、针头、移液器三个图标",
+   "prompt_en": "Diagram: three icons, a blood sample tube, a needle and a pipette releasing a faint mist. No text.",
+   "narration": "样本、针头、移液，风险就在手边。",
+   "overlay": [],
+   "labels": [
+    "样本",
+    "锐器",
+    "气溶胶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物实验室多了看不见的生物危害",
+   "scene": "微生物、试剂瓶、仪器三个图标并排",
+   "prompt_en": "Diagram: three icons side by side, microbes, a disinfectant bottle and a lab instrument. No text.",
+   "narration": "还有试剂和仪器，措施一样不能少。",
+   "overlay": [],
+   "labels": [
+    "微生物",
+    "化学品",
+    "设备"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物实验室多了看不见的生物危害",
+   "scene": "【实拍】本校生物实验室门口的生物危害标志和门口信息牌（拍现场或印刷样张）",
+   "prompt_en": "A biohazard warning sign and a blank information board on a biology lab door. No readable text.",
+   "narration": "门口的生物危害标志，就是提醒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "城市地图上，小红点从一处向四周扩散",
+   "prompt_en": "Diagram: on a city map, small red dots spread outward from one spot. No text.",
+   "narration": "生物因子一旦失控，会威胁公众健康。",
+   "overlay": [
+    "生物因子失控，会威胁公共卫生"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "扩散的红点覆盖整座城市，医院图标亮起",
+   "prompt_en": "Diagram: the red dots cover the whole city and hospital icons light up. No text.",
+   "narration": "一旦传开，可能引起流行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "老周在白板前指着几个空白词卡",
+   "prompt_en": "The older man points at several blank word cards on a whiteboard.",
+   "narration": "先认几个词：指示病例、医院内感染。",
+   "overlay": [],
+   "labels": [
+    "指示病例",
+    "医院内感染"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "老周继续指着另外两张词卡",
+   "prompt_en": "The older man points at two more blank word cards.",
+   "narration": "还有经皮刺伤、流行病学。",
+   "overlay": [],
+   "labels": [
+    "经皮刺伤",
+    "流行病学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "盾牌护着试管，后面是诊断试剂和药瓶图标",
+   "prompt_en": "Diagram: a shield protecting a test tube, with diagnostic kit and medicine icons behind it. No text.",
+   "narration": "管好风险，研究才能走得远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "生物因子失控，会威胁公共卫生",
+   "scene": "地球周围一圈实验室图标手拉手",
+   "prompt_en": "Diagram: a ring of lab icons holding hands around a globe. No text.",
+   "narration": "生物安全，是每个实验室共同的责任。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是生物安全：安全操作、封闭控制",
+   "scene": "戴手套的手稳稳地操作密封的样本管",
+   "prompt_en": "Gloved hands carefully handle a sealed sample tube. No text.",
+   "narration": "生物安全，就是安全地操作感染性材料。",
+   "overlay": [
+    "什么是生物安全：安全操作、封闭控制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是生物安全：安全操作、封闭控制",
+   "scene": "微生物图标被关在一个透明盒子里",
+   "prompt_en": "Diagram: microbe icons enclosed inside a transparent box. No text.",
+   "narration": "并把它们牢牢控制、封闭在里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是生物安全：安全操作、封闭控制",
+   "scene": "实验室外围画出一圈边界线，病原图标留在线内",
+   "prompt_en": "Diagram: a boundary line drawn around a lab; germ icons stay inside the line. No text.",
+   "narration": "给生物因子划好边界，不让它逸出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么是生物安全：安全操作、封闭控制",
+   "scene": "微生物实验室里，生物安全图标放在最中间",
+   "prompt_en": "Diagram: in a microbiology lab, a biosafety icon sits at the center of several safety icons. No text.",
+   "narration": "微生物实验室，最核心的就是生物安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "目的：护人员、护环境、护公众",
+   "scene": "盾牌护着穿实验服的小研",
+   "prompt_en": "Diagram: a shield protecting the female graduate student in her lab coat. No text.",
+   "narration": "首先，保护做实验的人。",
+   "overlay": [
+    "目的：护人员、护环境、护公众"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "目的：护人员、护环境、护公众",
+   "scene": "三层同心圆：人员、环境、公众",
+   "prompt_en": "Diagram: three concentric circles, a person, the environment and the community. No text.",
+   "narration": "也保护环境和社区公众。",
+   "overlay": [],
+   "labels": [
+    "人员",
+    "环境",
+    "公众"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "目的：护人员、护环境、护公众",
+   "scene": "实验人员手套上的病原图标，被打叉",
+   "prompt_en": "Diagram: a germ icon on a researcher's glove, crossed out. No text.",
+   "narration": "目标一：防止实验室获得性感染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "目的：护人员、护环境、护公众",
+   "scene": "病原图标从门缝溜出去，被打叉",
+   "prompt_en": "Diagram: germ icons slipping out under a lab door, crossed out. No text.",
+   "narration": "目标二：防止病原意外释放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "生物危害、生物安全与生物安保",
+   "scene": "一个带病原图标的警示三角",
+   "prompt_en": "Diagram: a warning triangle containing a germ icon. No text.",
+   "narration": "生物危害：可能伤人的生物因子。",
+   "overlay": [
+    "生物危害、生物安全与生物安保"
+   ],
+   "labels": [
+    "生物危害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "生物危害、生物安全与生物安保",
+   "scene": "设施故障灯闪烁，病原图标无意中漏出",
+   "prompt_en": "Diagram: a facility fault light blinks and germ icons leak out by accident. No text.",
+   "narration": "生物安全，防的是无意的暴露和释放。",
+   "overlay": [],
+   "labels": [
+    "生物安全"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "生物危害、生物安全与生物安保",
+   "scene": "上锁的样本冰箱，旁边小偷图标被打叉",
+   "prompt_en": "Diagram: a locked sample freezer, with a thief icon beside it crossed out. No text.",
+   "narration": "生物安保，防丢失、被盗、被滥用。",
+   "overlay": [],
+   "labels": [
+    "生物安保"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "生物危害、生物安全与生物安保",
+   "scene": "三个齿轮互相咬合转动",
+   "prompt_en": "Diagram: three interlocking gears turning together. No text.",
+   "narration": "三者互相咬合，一个也不能少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "两大原则：风险评估与防护",
+   "scene": "两根柱子撑起一块盾牌",
+   "prompt_en": "Diagram: two pillars holding up a shield. No text.",
+   "narration": "生物安全有两大原则。",
+   "overlay": [
+    "两大原则：风险评估与防护"
+   ],
+   "labels": [
+    "风险评估",
+    "防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "两大原则：风险评估与防护",
+   "scene": "王老师拿着空白评估表逐项打勾",
+   "prompt_en": "The safety administrator ticks items on a blank assessment form. No readable text.",
+   "narration": "先评估：风险有多大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "两大原则：风险评估与防护",
+   "scene": "评估表箭头指向安全柜、防护服和规程图标",
+   "prompt_en": "Diagram: an arrow from the assessment form to icons of a safety cabinet, a gown and a procedure sheet. No text.",
+   "narration": "再按评估结果，配上相应的防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防护三要素：操作、设备、设施",
+   "scene": "规程本、安全柜、实验室建筑三个图标",
+   "prompt_en": "Diagram: three icons, a procedure book, a biosafety cabinet and a lab building. No text.",
+   "narration": "防护靠三样：操作、设备、设施。",
+   "overlay": [
+    "防护三要素：操作、设备、设施"
+   ],
+   "labels": [
+    "规范操作",
+    "安全设备",
+    "专门设施"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防护三要素：操作、设备、设施",
+   "scene": "【实拍】生物安全柜的外观：前窗、操作口和台面（遮挡品牌）",
+   "prompt_en": "A biosafety cabinet seen from the front, showing the sash, the work opening and the work surface. No readable text.",
+   "narration": "比如生物安全柜，就是安全设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防护三要素：操作、设备、设施",
+   "scene": "三块拼图拼成盾牌，抽掉一块露出缺口",
+   "prompt_en": "Diagram: three puzzle pieces form a shield; removing one leaves a gap. No text.",
+   "narration": "三者配套，少一样，防护就有漏洞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防护三要素：操作、设备、设施",
+   "scene": "人和环境图标外面各罩一层防护",
+   "prompt_en": "Diagram: a person icon and an environment icon each covered by a protective layer. No text.",
+   "narration": "目的是减少暴露，人和环境都护住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防护三要素：操作、设备、设施",
+   "scene": "危害图标先被擦除，擦不掉的被缩小",
+   "prompt_en": "Diagram: a hazard icon is erased first; one that cannot be erased is shrunk smaller. No text.",
+   "narration": "能消除就消除，不能就尽量减少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "五个圆圈排成一排，每个里面一个图标",
+   "prompt_en": "Diagram: five circles in a row, each with an icon, a germ, a person, a building, a gown and a procedure sheet. No text.",
+   "narration": "5P，是评估风险的五个要素。",
+   "overlay": [
+    "5P：评估风险的五个要素"
+   ],
+   "labels": [
+    "病原",
+    "人员",
+    "场所",
+    "防护",
+    "规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "第一个圆圈放大：病原图标和一本空白目录",
+   "prompt_en": "Diagram: the first circle enlarges, a germ icon beside a blank catalog book. No text.",
+   "narration": "病原：先查目录，弄清对手是谁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "两把方向相反的尺子：国内一类在最危险端，国际四组在最危险端",
+   "prompt_en": "Diagram: two scales pointing in opposite directions, each with its most dangerous end marked red. No text.",
+   "narration": "国内第一类最危险，和国际风险组相反。",
+   "overlay": [],
+   "labels": [
+    "国内：一类最高",
+    "国际：4组最高"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "第二个圆圈：阿杰拿着培训合格证，旁边健康图标",
+   "prompt_en": "Diagram: the second circle, the young male student holding a blank training certificate beside a health icon. No text.",
+   "narration": "人员：培训合格、身体适合，才上岗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "第三个圆圈：实验室图标和病原图标放在天平两端平衡",
+   "prompt_en": "Diagram: the third circle, a lab icon and a germ icon balanced on a scale. No text.",
+   "narration": "场所：实验室级别，要配得上危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "第四个圆圈：手套、隔离衣、护目镜",
+   "prompt_en": "Diagram: the fourth circle, gloves, a gown and goggles. No text.",
+   "narration": "防护：按评估结果，选对防护装备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "第五个圆圈：小研照着规程一步步做",
+   "prompt_en": "Diagram: the fifth circle, the female graduate student following a step-by-step procedure sheet. No readable text.",
+   "narration": "规程：写清楚，照着做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "五个圆圈用线连在一起，中间出现风险刻度",
+   "prompt_en": "Diagram: the five circles linked by lines, with a risk gauge in the middle. No text.",
+   "narration": "五个P一起看，风险才定得准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "木桶的一块短板被补长",
+   "prompt_en": "Diagram: the short stave of a wooden barrel is lengthened. No text.",
+   "narration": "哪个P薄弱，就先补哪个。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "5P：评估风险的五个要素",
+   "scene": "五个圆圈外面又加一个大圆，里面是一群人举手",
+   "prompt_en": "Diagram: a sixth large circle around the five, containing a group of people raising hands. No text.",
+   "narration": "再加一个P：安全文化，人人尽责。",
+   "overlay": [],
+   "labels": [
+    "安全文化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "小研翻开一本空白封面的法规汇编",
+   "prompt_en": "The female graduate student opens a rule compilation with a blank cover. No readable text.",
+   "narration": "生物实验，首先要守国家法规。",
+   "overlay": [
+    "国内生物安全法规与标准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "法律、条例、标准三层台阶图",
+   "prompt_en": "Diagram: three steps labeled only with icons, a law book, a regulation book and a standard booklet. No text.",
+   "narration": "生物安全法，是这一领域的基本法律。",
+   "overlay": [],
+   "labels": [
+    "生物安全法",
+    "管理条例",
+    "国家标准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "两个分类图标：病原四类、实验室四级",
+   "prompt_en": "Diagram: two icons, a germ sorted into four boxes and a lab building with four floors. No text.",
+   "narration": "条例规定了病原分类和实验室分级。",
+   "overlay": [],
+   "labels": [
+    "病原分四类",
+    "实验室分四级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "两本空白封面的标准册并排",
+   "prompt_en": "Diagram: two standard booklets with blank covers side by side. No text.",
+   "narration": "技术要求看国标和行业准则。",
+   "overlay": [],
+   "labels": [
+    "GB 19489",
+    "WS 233"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "老周指着一本空白目录",
+   "prompt_en": "The older man points at a thick blank catalog book.",
+   "narration": "病原怎么分类，查国家发布的目录。",
+   "overlay": [],
+   "labels": [
+    "病原微生物目录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "王老师给学生发防护用品，旁边体检图标",
+   "prompt_en": "The safety administrator hands out protective gear to students, beside a health check icon.",
+   "narration": "单位要提供防护、培训和健康监护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "国内生物安全法规与标准",
+   "scene": "评估表箭头指向对应级别的实验室门",
+   "prompt_en": "Diagram: an arrow from an assessment form to the door of a lab of matching level. No text.",
+   "narration": "实验前先评估，在相应级别实验室做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国际手册只作参考，以国内法规为准",
+   "scene": "地球仪旁放着一本厚厚的空白手册",
+   "prompt_en": "A globe beside a thick handbook with a blank cover. No text.",
+   "narration": "国际上的生物安全手册，是参照起点。",
+   "overlay": [
+    "国际手册只作参考，以国内法规为准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国际手册只作参考，以国内法规为准",
+   "scene": "手册翻开，第一部分画着基本原则图标",
+   "prompt_en": "Diagram: the handbook opens to its first part, showing a basic principles icon. No text.",
+   "narration": "它从生物安全的一般原则讲起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国际手册只作参考，以国内法规为准",
+   "scene": "王老师把国内法规册放在最上面，国际手册垫在下面",
+   "prompt_en": "The safety administrator puts the national rule book on top and the international handbook underneath.",
+   "narration": "国内法规优先，国外的只作背景。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国际手册只作参考，以国内法规为准",
+   "scene": "小研在编写一本空白的本实验室手册",
+   "prompt_en": "The female graduate student drafts a blank lab safety manual for her own lab.",
+   "narration": "各实验室，要编本实验室的安全手册。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "合规：外部合规与内部合规",
+   "scene": "国家法律书图标和一个打勾",
+   "prompt_en": "Diagram: a national law book icon with a check mark. No text.",
+   "narration": "守国家法规，是外部合规。",
+   "overlay": [
+    "合规：外部合规与内部合规"
+   ],
+   "labels": [
+    "外部合规"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "合规：外部合规与内部合规",
+   "scene": "学校制度手册图标和一个打勾",
+   "prompt_en": "Diagram: a university rules handbook icon with a check mark. No text.",
+   "narration": "守单位方针和制度，是内部合规。",
+   "overlay": [],
+   "labels": [
+    "内部合规"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "合规：外部合规与内部合规",
+   "scene": "国家、地方、学校三张清单逐项打勾",
+   "prompt_en": "Diagram: three checklists for national, local and university requirements, ticked item by item. No text.",
+   "narration": "国家、地方、学校的要求，逐项找全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "合规：外部合规与内部合规",
+   "scene": "王老师翻看制度文件，比对清单",
+   "prompt_en": "The safety administrator flips through rule documents and compares them with a checklist. No readable text.",
+   "narration": "对照制度，看看合规做到哪一步。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "依法备案审批，违规要担责",
+   "scene": "一级、二级实验室图标，箭头指向登记文件夹",
+   "prompt_en": "Diagram: two lower-level lab icons with an arrow to a registration folder. No text.",
+   "narration": "一级、二级实验室，按规定备案。",
+   "overlay": [
+    "依法备案审批，违规要担责"
+   ],
+   "labels": [
+    "一级二级：备案"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "依法备案审批，违规要担责",
+   "scene": "三级、四级实验室图标，箭头指向认可印章和批准印章",
+   "prompt_en": "Diagram: two higher-level lab icons with arrows to an accreditation seal and an approval seal. No text.",
+   "narration": "三级、四级，要经国家认可和批准。",
+   "overlay": [],
+   "labels": [
+    "三级四级：认可"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "依法备案审批，违规要担责",
+   "scene": "高危实验图标前有一道关卡，盖章后才放行",
+   "prompt_en": "Diagram: a high-risk experiment icon stopped at a checkpoint, allowed through only after a stamp. No text.",
+   "narration": "高致病性病原的实验，先审批再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "依法备案审批，违规要担责",
+   "scene": "学生越级进门、把样本管塞进书包，都被打叉",
+   "prompt_en": "Diagram: a student entering a higher-level lab and slipping a sample tube into a backpack, both crossed out. No text.",
+   "narration": "越级操作、私带样本，都是违规。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "依法备案审批，违规要担责",
+   "scene": "法槌图标落下",
+   "prompt_en": "Diagram: a gavel icon coming down. No text.",
+   "narration": "违反生物安全法规，要担法律责任。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "持续学习、保持警觉、防患未然",
+   "scene": "小研在看新发布的规定和课程",
+   "prompt_en": "The female graduate student reads newly issued rules and takes an online course on a blank screen.",
+   "narration": "持续学习新知识、新规定。",
+   "overlay": [
+    "持续学习、保持警觉、防患未然"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "持续学习、保持警觉、防患未然",
+   "scene": "阿杰发现安全柜报警灯亮，马上报告老周",
+   "prompt_en": "The young male student notices a warning light on a cabinet and immediately tells the older man.",
+   "narration": "对异常保持警觉，及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "持续学习、保持警觉、防患未然",
+   "scene": "实验室外一道盾牌挡住病原图标",
+   "prompt_en": "Diagram: a shield outside the lab blocks germ icons. No text.",
+   "narration": "防患于未然，人人做到生物安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "看不见的病原、三层同心圆、齿轮三个图标",
+   "prompt_en": "Three icons: an invisible germ under a magnifier, three concentric circles and interlocking gears. No text.",
+   "narration": "生物安全，护人员、环境和公众。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "评估表、防护三要素、5P圆圈三个图标",
+   "prompt_en": "Three icons: an assessment form, a three-piece shield and five linked circles. No text.",
+   "narration": "先评估再防护，5P一起看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "法规书、备案文件夹、法槌三个图标",
+   "prompt_en": "Three icons: a law book, a registration folder and a gavel. No text.",
+   "narration": "以国内法规为准，依法审批，不越级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在四个分类盒子旁挥手",
+   "prompt_en": "The panda mascot stands beside four sorting boxes and waves goodbye.",
+   "narration": "下一课：病原微生物分类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
