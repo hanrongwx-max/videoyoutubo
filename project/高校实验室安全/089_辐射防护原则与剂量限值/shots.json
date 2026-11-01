@@ -1,0 +1,835 @@
+{
+ "id": "089_辐射防护原则与剂量限值",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射防护原则与剂量限值",
+ "seconds": 305,
+ "source_doc": "course/高校实验室安全/089_辐射防护原则与剂量限值.md",
+ "author_source": "project/高校实验室安全/089_辐射防护原则与剂量限值/src.py",
+ "points": {
+  "K1": "防护为了什么：防止确定性，限制随机性",
+  "K2": "三种照射情况",
+  "K3": "辐射防护三原则",
+  "K4": "正当性：利大于弊",
+  "K5": "最优化：合理可行尽量低",
+  "K6": "剂量限值管谁、管什么",
+  "K7": "职业照射的剂量限值",
+  "K8": "学生与公众的剂量限值",
+  "K9": "限值是底线，不是额度",
+  "K10": "局部受照单独核对，超限要报告",
+  "K11": "剂量约束与参考水平",
+  "K12": "怀孕：及时告知，调整工作",
+  "K13": "照射评估与偏高整改",
+  "K14": "控制区与监督区"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣一手举盾牌，一手举天平",
+   "prompt_en": "The panda mascot holds a shield in one paw and a balance scale in the other.",
+   "narration": "这一课讲辐射防护原则与剂量限值。",
+   "overlay": [
+    "辐射防护原则与剂量限值"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着剂量报告，指针离红线很远，他咧嘴笑",
+   "prompt_en": "Diagram: the young male student looking at a blank dose report with a gauge needle far below a red line, grinning. No text.",
+   "narration": "阿杰想：离限值还远，多照点没事？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师摇头，指着红线",
+   "prompt_en": "The safety administrator shakes his head and points at a red line on a whiteboard.",
+   "narration": "王老师说：限值可不是额度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "防护为了什么：防止确定性，限制随机性",
+   "scene": "老式X射线室旁的警示标记，箭头指向一本防护规则书",
+   "prompt_en": "Diagram: an old style X-ray room with a warning mark, then an arrow to a thick book of protection rules. No text.",
+   "narration": "早年超照射事故多，才有了防护规则。",
+   "overlay": [
+    "防护为了什么：防止确定性，限制随机性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "防护为了什么：防止确定性，限制随机性",
+   "scene": "一座绝不能漫过的堤坝，一个被缩小的抽奖箱",
+   "prompt_en": "Diagram: a dam that must never be overtopped, and a lottery drum being shrunk. No text.",
+   "narration": "目的：杜绝确定性，限制随机性。",
+   "overlay": [],
+   "labels": [
+    "防止确定性",
+    "限制随机性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "防护为了什么：防止确定性，限制随机性",
+   "scene": "工作剂量柱远低于阈值线，红线守着抽奖箱",
+   "prompt_en": "Diagram: a work dose bar far below a threshold line, and a red limit line guarding a small lottery drum. No text.",
+   "narration": "远低于阈值；限值主要管随机风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三种照射情况",
+   "scene": "三个画框：计划日程、警报器、放着岩石的老房子",
+   "prompt_en": "Diagram: three panels, a planned work calendar, an emergency siren, and an old house with natural rocks. No text.",
+   "narration": "照射情况分三种。",
+   "overlay": [
+    "三种照射情况"
+   ],
+   "labels": [
+    "计划照射",
+    "应急照射",
+    "现存照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三种照射情况",
+   "scene": "研究人员照日程表使用屏蔽好的源",
+   "prompt_en": "Diagram: a researcher following a planned schedule while using a shielded source. No text.",
+   "narration": "按计划用源开展工作，是计划照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三种照射情况",
+   "scene": "事故警报和地下室里的天然氡",
+   "prompt_en": "Diagram: a siren for an accident, and a basement with natural radon gas marked by a pin. No text.",
+   "narration": "事故是应急照射，已有的氡是现存照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "辐射防护三原则",
+   "scene": "三根柱子撑起保护屋顶",
+   "prompt_en": "Diagram: three pillars holding up a protective roof. No text.",
+   "narration": "辐射防护有三条原则。",
+   "overlay": [
+    "辐射防护三原则"
+   ],
+   "labels": [
+    "正当性",
+    "最优化",
+    "剂量限值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "辐射防护三原则",
+   "scene": "天平：利的一边更重",
+   "prompt_en": "Diagram: a balance with the benefit side heavier than the harm side. No text.",
+   "narration": "先问值不值，叫正当性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "辐射防护三原则",
+   "scene": "剂量柱一级一级往下降",
+   "prompt_en": "Diagram: a dose bar going down step by step. No text.",
+   "narration": "能低一点再低一点，叫最优化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "辐射防护三原则",
+   "scene": "个人剂量柱停在红线下面",
+   "prompt_en": "Diagram: a personal dose bar stopping well below a red line. No text.",
+   "narration": "个人剂量，不超过剂量限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "辐射防护三原则",
+   "scene": "病人在检查床上，医生旁边，红线变淡",
+   "prompt_en": "Diagram: a patient on an imaging table beside a doctor, the red limit line faded out. No text.",
+   "narration": "限值管工作照射，不管病人诊疗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "正当性：利大于弊",
+   "scene": "研究人员在天平上比较放射性方法和非放射性方法",
+   "prompt_en": "Diagram: a researcher weighing a radioactive method against a non radioactive alternative on a balance. No text.",
+   "narration": "能用非放射性方法，就不用源。",
+   "overlay": [
+    "正当性：利大于弊"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "正当性：利大于弊",
+   "scene": "病人和医生交谈，天平偏向收益",
+   "prompt_en": "Diagram: a patient talking with a doctor, a balance tipping toward benefit. No text.",
+   "narration": "医疗检查也有剂量，要有正当理由。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "正当性：利大于弊",
+   "scene": "不盲目要求加做检查；需要时放心检查",
+   "prompt_en": "Diagram: a person declining an unneeded extra scan, then calmly receiving a needed scan. No text.",
+   "narration": "不盲目多做检查，需要时听医生的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "最优化：合理可行尽量低",
+   "scene": "剂量柱在红线下，箭头再往下推",
+   "prompt_en": "Diagram: a dose bar below a red line, and an arrow pushing it even lower. No text.",
+   "narration": "低于限值，还要合理可行尽量低。",
+   "overlay": [
+    "最优化：合理可行尽量低"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "最优化：合理可行尽量低",
+   "scene": "天平一边是成本硬币，一边是降低的剂量，找到合理点",
+   "prompt_en": "Diagram: a balance with cost coins on one side and dose reduction on the other, finding a sensible point. No text.",
+   "narration": "同时考虑经济和社会因素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "最优化：合理可行尽量低",
+   "scene": "时钟、距离箭头、屏蔽墙三个图标",
+   "prompt_en": "Diagram: three icons, a clock, a distance arrow and a shield wall. No text.",
+   "narration": "时间、距离、屏蔽，是三把钥匙。",
+   "overlay": [],
+   "labels": [
+    "时间",
+    "距离",
+    "屏蔽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "最优化：合理可行尽量低",
+   "scene": "懂行的人、负责的导师、制度手册",
+   "prompt_en": "Diagram: a trained worker, a responsible supervisor and a rule book standing together. No text.",
+   "narration": "靠懂行的人、负责的导师和好制度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "剂量限值管谁、管什么",
+   "scene": "收益与风险的天平定出一条红线",
+   "prompt_en": "Diagram: a balance of benefits and risks setting a red limit line. No text.",
+   "narration": "限值是收益和风险的平衡。",
+   "overlay": [
+    "剂量限值管谁、管什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "剂量限值管谁、管什么",
+   "scene": "两群人：戴剂量计的工作人员和普通公众，各有一条线",
+   "prompt_en": "Diagram: two groups, workers wearing dosimeter badges and members of the public, each group with its own limit line. No text.",
+   "narration": "限值分职业人员和公众两类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "剂量限值管谁、管什么",
+   "scene": "剂量柱里，本底和医疗那段被放到一边，只算工作那段",
+   "prompt_en": "Diagram: a dose bar where the natural background part and the medical part are set aside, only the work part counted. No text.",
+   "narration": "限值管的是本底和医疗之外的剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "剂量限值管谁、管什么",
+   "scene": "人体轮廓上：全身、眼睛、皮肤、手足各挂一个表",
+   "prompt_en": "Diagram: a body outline with separate gauges on the whole body, the eye lens, the skin and the hands and feet. No text.",
+   "narration": "全身、晶状体、皮肤、手足各有上限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "剂量限值管谁、管什么",
+   "scene": "一本国际建议书和一本国家标准，箭头指向国家标准",
+   "prompt_en": "Diagram: an international advice book and a national standard book, an arrow pointing to the national standard. No text.",
+   "narration": "国外数值不能套用，以国标为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "职业照射的剂量限值",
+   "scene": "五年日历上的平均柱",
+   "prompt_en": "Diagram: a five year calendar with an average dose bar. No text.",
+   "narration": "职业人员：五年平均每年20毫希。",
+   "overlay": [
+    "职业照射的剂量限值"
+   ],
+   "labels": [
+    "年均20 mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "职业照射的剂量限值",
+   "scene": "单独一年的剂量柱被盖子封顶",
+   "prompt_en": "Diagram: a single year dose bar capped by a lid. No text.",
+   "narration": "任何一年，不超过50毫希。",
+   "overlay": [],
+   "labels": [
+    "单年50 mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "职业照射的剂量限值",
+   "scene": "眼睛表和手、皮肤表",
+   "prompt_en": "Diagram: an eye icon and a hand and skin icon, each with its own gauge. No text.",
+   "narration": "晶状体150、手足皮肤500毫希。",
+   "overlay": [],
+   "labels": [
+    "晶状体150",
+    "手足皮肤500"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "职业照射的剂量限值",
+   "scene": "眼睛表上向下的箭头，旁边白内障图标",
+   "prompt_en": "Diagram: the eye gauge with a downward arrow and a clouded lens icon. No text.",
+   "narration": "国际上晶状体限值已下调，要多护眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "职业照射的剂量限值",
+   "scene": "国家标准书上打钩",
+   "prompt_en": "Diagram: a national standard book with a check mark. No text.",
+   "narration": "数值以GB 18871现行文本为准。",
+   "overlay": [],
+   "labels": [
+    "GB 18871"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "学生与公众的剂量限值",
+   "scene": "研究生戴剂量计用源，贴着工作人员的标签",
+   "prompt_en": "Diagram: a graduate student using a shielded source while wearing a dosimeter badge, tagged as a worker. No text.",
+   "narration": "用源做实验的研究生，属于职业人员。",
+   "overlay": [
+    "学生与公众的剂量限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "学生与公众的剂量限值",
+   "scene": "十六到十八岁的实习学生，表盘更小",
+   "prompt_en": "Diagram: a teenage trainee student with a smaller limit gauge. No text.",
+   "narration": "16到18岁学生用源，年限值6毫希。",
+   "overlay": [],
+   "labels": [
+    "有效剂量6 mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "学生与公众的剂量限值",
+   "scene": "实验楼外的路人，表盘最低",
+   "prompt_en": "Diagram: members of the public walking past a lab building, each with a very low limit gauge. No text.",
+   "narration": "公众最严：每年1毫希。",
+   "overlay": [],
+   "labels": [
+    "公众 1 mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "学生与公众的剂量限值",
+   "scene": "未满十六岁的孩子在门口被禁止进入",
+   "prompt_en": "Diagram: a child stopped at a lab door by a no-entry icon. No text.",
+   "narration": "未满16岁，不得接受职业照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值是底线，不是额度",
+   "scene": "红色围栏，人站得离栏杆很远",
+   "prompt_en": "Diagram: a red fence line with a person standing far inside it, not walking up to it. No text.",
+   "narration": "限值是底线，不是可以用完的额度。",
+   "overlay": [
+    "限值是底线，不是额度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值是底线，不是额度",
+   "scene": "表盘上没有绿色安全区，只有一条红线",
+   "prompt_en": "Diagram: a gauge with no green safe zone, only one red line. No text.",
+   "narration": "没有安全剂量，只有不得超过的限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "限值是底线，不是额度",
+   "scene": "几位技师的实际剂量柱都远低于红线",
+   "prompt_en": "Diagram: several technicians with actual dose bars far below the red line. No text.",
+   "narration": "实际受照，通常远低于限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "局部受照单独核对，超限要报告",
+   "scene": "全身表是绿的，手部表却是红的",
+   "prompt_en": "Diagram: a whole body gauge in green but a hand gauge in red. No text.",
+   "narration": "全身没超，局部却可能超了。",
+   "overlay": [
+    "局部受照单独核对，超限要报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "局部受照单独核对，超限要报告",
+   "scene": "手指上戴着指环剂量计，旁边单独的手部表",
+   "prompt_en": "Diagram: a ring dosimeter on a finger beside a separate hand gauge. No text.",
+   "narration": "手和皮肤，要单独核对局部限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "局部受照单独核对，超限要报告",
+   "scene": "有人向王老师报告，放大镜查原因",
+   "prompt_en": "Diagram: a worker reporting to the safety administrator, a magnifier looking at the cause. No text.",
+   "narration": "超了要报告，查明原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "局部受照单独核对，超限要报告",
+   "scene": "工作前先看源的标签和射线类型",
+   "prompt_en": "Diagram: a worker checking a source container label and a ray type icon before starting. No text.",
+   "narration": "用源前，先弄清是什么源和射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "剂量约束与参考水平",
+   "scene": "三条高度不同的线：红色上限、某个源的橙色线、应急旗帜线",
+   "prompt_en": "Diagram: three lines, a red top limit line, a lower orange line for one source, and a separate line with an emergency flag. No text.",
+   "narration": "防护有三道线。",
+   "overlay": [
+    "剂量约束与参考水平"
+   ],
+   "labels": [
+    "剂量限值",
+    "剂量约束",
+    "参考水平"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "剂量约束与参考水平",
+   "scene": "一个源有自己更低的线",
+   "prompt_en": "Diagram: one source with its own lower orange line under the red line. No text.",
+   "narration": "剂量约束：针对某个源，定得更低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "剂量约束与参考水平",
+   "scene": "旗帜线上方出现行动箭头",
+   "prompt_en": "Diagram: an emergency flag line with an action arrow appearing above it. No text.",
+   "narration": "参考水平：应急时超过就要行动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "怀孕：及时告知，调整工作",
+   "scene": "胚胎图标，敏感度表满格",
+   "prompt_en": "Diagram: an embryo icon with a sensitivity gauge at maximum. No text.",
+   "narration": "胎儿最敏感，孕期防护更严。",
+   "overlay": [
+    "怀孕：及时告知，调整工作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "怀孕：及时告知，调整工作",
+   "scene": "女工作人员私下告诉王老师，旁边一把锁表示保密",
+   "prompt_en": "Diagram: a female worker privately telling the safety administrator, a padlock icon for privacy. No text.",
+   "narration": "怀孕或备孕，尽早告知导师和学院。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "怀孕：及时告知，调整工作",
+   "scene": "胚胎在盾牌下，表盘和公众一样小",
+   "prompt_en": "Diagram: an embryo under a shield with the same small gauge as a member of the public. No text.",
+   "narration": "胚胎要得到和公众相同的保护。",
+   "overlay": [],
+   "labels": [
+    "同公众水平"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "怀孕：及时告知，调整工作",
+   "scene": "先把工作人员调到别的工位，再有人来加固屏蔽",
+   "prompt_en": "Diagram: first a worker moved to another desk, then builders adding shielding to a wall later. No text.",
+   "narration": "先调岗离开，加固屏蔽随后跟上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "怀孕：及时告知，调整工作",
+   "scene": "做X射线检查前，女士先告诉医生",
+   "prompt_en": "Diagram: a woman telling a doctor before an X-ray exam. No text.",
+   "narration": "做X射线检查前，先告诉医生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "照射评估与偏高整改",
+   "scene": "项目开始前的检查单，之后定期复核的日历",
+   "prompt_en": "Diagram: a checklist before a project starts, then a calendar for periodic review. No text.",
+   "narration": "开展前先评估，之后定期复核。",
+   "overlay": [
+    "照射评估与偏高整改"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "照射评估与偏高整改",
+   "scene": "剂量计测外照射，器官模型算内照射",
+   "prompt_en": "Diagram: a dosimeter badge for external dose and an organ model for internal dose. No text.",
+   "narration": "外照射靠剂量计，内照射靠模型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "照射评估与偏高整改",
+   "scene": "扳手修设备、屏蔽墙、排班表三个图标",
+   "prompt_en": "Diagram: three icons, a wrench on a device, a shield wall and a staff schedule chart. No text.",
+   "narration": "偏高就从设备、防护、排班三方面改。",
+   "overlay": [],
+   "labels": [
+    "改设备",
+    "加防护",
+    "调排班"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "控制区与监督区",
+   "scene": "【实拍】控制区入口门上的电离辐射警告标志和门禁特写（不开启射线装置、不用放射源）",
+   "prompt_en": "Close-up: a controlled area entrance door with an ionizing radiation warning sign and an access card reader.",
+   "narration": "控制区：专门防护，严格控制进出。",
+   "overlay": [
+    "控制区与监督区"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "控制区与监督区",
+   "scene": "平面图：里圈控制区，外圈监督区",
+   "prompt_en": "Diagram: a floor plan with an inner controlled zone and an outer supervised zone ring. No text.",
+   "narration": "外圈是监督区，要定期监测评价。",
+   "overlay": [],
+   "labels": [
+    "控制区",
+    "监督区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "控制区与监督区",
+   "scene": "【实拍】监督区边界标识和走廊告示牌特写",
+   "prompt_en": "Close-up: a supervised area boundary sign and a notice board beside a lab corridor.",
+   "narration": "监督区边界，也要设置标识。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "控制区与监督区",
+   "scene": "没培训的人在控制区门口被拦下，打叉",
+   "prompt_en": "Diagram: an untrained person stopped at the controlled zone door, marked with a cross. No text.",
+   "narration": "未经培训授权，不得进入控制区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三根柱子",
+   "prompt_en": "Diagram: three pillars holding up a protective roof. No text.",
+   "narration": "三原则：正当性、最优化、剂量限值。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "工作人员和公众两块表盘",
+   "prompt_en": "Diagram: a worker gauge and a public gauge side by side. No text.",
+   "narration": "职业年均20、单年50毫希；公众1毫希。",
+   "overlay": [],
+   "labels": [
+    "职业 20/50",
+    "公众 1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "红线下很远的剂量柱和胚胎盾牌",
+   "prompt_en": "Diagram: a dose bar far below a red line and an embryo under a shield. No text.",
+   "narration": "限值是底线，越低越好；怀孕及时告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着时钟、尺子和铅砖挥手",
+   "prompt_en": "The panda mascot points at a clock, a ruler and a lead brick and waves goodbye.",
+   "narration": "下一课：外照射防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
