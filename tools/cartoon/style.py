@@ -56,8 +56,22 @@ TAIL_DOOR = ("any door plate, room sign or nameplate on or above a door is a bla
 
 
 
+def cn_num(n):
+    """1–999 的中文读法（73 → 七十三，105 → 一百零五）。"""
+    d = "零一二三四五六七八九"
+    h, t, u = n // 100, n // 10 % 10, n % 10
+    s = (d[h] + "百") if h else ""
+    if t:
+        s += ("" if (t == 1 and not h) else d[t]) + "十"
+    elif h and u:
+        s += "零"
+    return s + (d[u] if u else "") or "零"
+
+
 def spoken(text):
-    """电话号码等三位以上数字按位读（119 → 幺幺九），避免配音读成“一百一十九”；字幕仍显示阿拉伯数字。"""
+    """电话号码等三位以上数字按位读（119 → 幺幺九），避免配音读成“一百一十九”；字幕仍显示阿拉伯数字。
+    课号、章号按数值读：“第073课” → “第七十三课”，“第15章” → “第十五章”。"""
+    text = re.sub(r"第\s*0*(\d{1,3})\s*([课章])", lambda m: f"第{cn_num(int(m.group(1)))}{m.group(2)}", text)
     return re.sub(r"\d{3,}", lambda m: "".join("零幺二三四五六七八九"[int(d)] for d in m.group()), text)
 
 
