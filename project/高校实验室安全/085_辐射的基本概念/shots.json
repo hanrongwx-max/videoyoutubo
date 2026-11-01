@@ -1,0 +1,875 @@
+{
+ "id": "085_辐射的基本概念",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射的基本概念",
+ "seconds": 325,
+ "source_doc": "course/高校实验室安全/085_辐射的基本概念.md",
+ "author_source": "project/高校实验室安全/085_辐射的基本概念/src.py",
+ "points": {
+  "K1": "辐射有利有弊，先学防护",
+  "K2": "健康物理：测量辐射，保护人",
+  "K3": "历史的教训：放射性物质进入体内",
+  "K4": "电离辐射与非电离辐射",
+  "K5": "原子、同位素与放射性",
+  "K6": "天然与人工辐射源",
+  "K7": "本底辐射：处处都有，因地而异",
+  "K8": "辐射在科研和医学中的用途",
+  "K9": "放射治疗：多打病灶，少伤好细胞",
+  "S1": "依法管理：先培训，再上岗"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一扇贴着电离辐射标志的实验室门前",
+   "prompt_en": "The panda mascot stands in front of a lab door with an ionizing radiation warning sign.",
+   "narration": "第七章辐射安全，第一课：辐射的基本概念。",
+   "overlay": [
+    "辐射的基本概念"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰路过贴着电离辐射标志的门，吓得后退",
+   "prompt_en": "Diagram: the young male student walking past a lab door with an ionizing radiation warning sign, stepping back nervously. No text.",
+   "narration": "阿杰看到这个标志，吓得绕道走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着课题计划书，上面画着标记分子的图标",
+   "prompt_en": "Diagram: the female graduate student holding a blank research plan with a labeled molecule icon. No text.",
+   "narration": "小研的课题，要用放射性标记做实验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周把两人叫到白板前",
+   "prompt_en": "The older man calls both students to a whiteboard with a calm smile.",
+   "narration": "老周说：别怕，也别大意，先弄懂它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射有利有弊，先学防护",
+   "scene": "一把双刃剑，一边是医院和发电站，一边打叉的危害图标",
+   "prompt_en": "Diagram: a double-edged sword, one side with a hospital and a power plant icon, the other side with a crossed-out harm icon. No text.",
+   "narration": "辐射像一把双刃剑。",
+   "overlay": [
+    "辐射有利有弊，先学防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射有利有弊，先学防护",
+   "scene": "医院影像检查和放疗设备图标",
+   "prompt_en": "Diagram: a hospital imaging scanner and a treatment machine icon with a check mark. No text.",
+   "narration": "用好了，能看病、治病、发电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射有利有弊，先学防护",
+   "scene": "能量很高的射线图标和控制阀",
+   "prompt_en": "Diagram: a high-energy ray icon passing through a control gate with a lock. No text.",
+   "narration": "它能量高，必须严格控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射有利有弊，先学防护",
+   "scene": "欣欣一手拿盾牌，一手竖大拇指",
+   "prompt_en": "The panda mascot holds a small shield in one hand and gives a thumbs-up with the other.",
+   "narration": "不必害怕，但要尊重，照射尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "辐射有利有弊，先学防护",
+   "scene": "先学防护，再用辐射的步骤图",
+   "prompt_en": "Diagram: a two-step path, first a shield icon, then a lab work icon. No text.",
+   "narration": "想用好辐射，先学会保护自己。",
+   "overlay": [],
+   "labels": [
+    "先学防护",
+    "再做实验"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "健康物理：测量辐射，保护人",
+   "scene": "原子图标和人体图标握手",
+   "prompt_en": "Diagram: an atom icon and a human body icon shaking hands. No text.",
+   "narration": "健康物理，让物理和生物握手。",
+   "overlay": [
+    "健康物理：测量辐射，保护人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "健康物理：测量辐射，保护人",
+   "scene": "测量仪器对着射线，旁边一个守护的人",
+   "prompt_en": "Diagram: a radiation meter pointed at ray lines, next to a person under a protective umbrella. No text.",
+   "narration": "测量、计算辐射，保护人的健康。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "健康物理：测量辐射，保护人",
+   "scene": "一盘菜放在秤上称重",
+   "prompt_en": "Diagram: a plate of food placed on a kitchen scale with a blank dial. No text.",
+   "narration": "吃了多少要称重，受照多少也要量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "健康物理：测量辐射，保护人",
+   "scene": "先学剂量概念，再学用仪器测量",
+   "prompt_en": "Diagram: a two-step path, first a concept book icon, then a handheld meter icon. No text.",
+   "narration": "先懂剂量和单位，再学仪器测量。",
+   "overlay": [],
+   "labels": [
+    "剂量",
+    "单位",
+    "测量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "历史的教训：放射性物质进入体内",
+   "scene": "老式彩色玻璃器皿",
+   "prompt_en": "Diagram: old-fashioned colored glassware on a shelf with a faint glow. No text.",
+   "narration": "很早以前，有人用铀给玻璃上色。",
+   "overlay": [
+    "历史的教训：放射性物质进入体内"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "历史的教训：放射性物质进入体内",
+   "scene": "上世纪二十年代的工厂里，女工在给表盘涂夜光漆",
+   "prompt_en": "Diagram: a 1920s workshop where women paint glowing numbers on watch dials with fine brushes. No text.",
+   "narration": "上世纪二十年代，女工给表盘涂夜光漆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "历史的教训：放射性物质进入体内",
+   "scene": "用嘴抿笔尖，打叉",
+   "prompt_en": "Diagram: a worker shaping a paint brush tip with her lips; crossed out. No text.",
+   "narration": "她们用嘴抿笔尖，把镭吃进了体内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "历史的教训：放射性物质进入体内",
+   "scene": "骨骼图标上的警示标记",
+   "prompt_en": "Diagram: a jaw and skeleton icon with red warning marks and a sad face. No text.",
+   "narration": "后来出现颌骨坏死、骨病和贫血。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "历史的教训：放射性物质进入体内",
+   "scene": "禁止饮食和嘴接触的图标",
+   "prompt_en": "Diagram: icons of no eating, no drinking and no mouth contact in a lab, each with a check mark. No text.",
+   "narration": "教训：放射性物质，绝不能进口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "一条电磁波谱，从无线电到伽马射线",
+   "prompt_en": "Diagram: an electromagnetic spectrum band from long radio waves to short gamma rays, with a dividing line. No text.",
+   "narration": "辐射按能不能电离，分成两大类。",
+   "overlay": [
+    "电离辐射与非电离辐射"
+   ],
+   "labels": [
+    "非电离",
+    "电离"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "射线打出原子中的电子",
+   "prompt_en": "Diagram: a ray hitting an atom and knocking out an electron, leaving a charged ion. No text.",
+   "narration": "能打出原子里电子的，叫电离辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "阿尔法、贝塔、伽马、X射线、中子图标",
+   "prompt_en": "Diagram: five icons for alpha particles, beta particles, gamma rays, X-rays and neutrons. No text.",
+   "narration": "α、β、γ、X射线和中子，都会电离。",
+   "overlay": [],
+   "labels": [
+    "α",
+    "β",
+    "γ",
+    "X射线",
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "带电粒子直接撞，光子和中子先撞出带电粒子",
+   "prompt_en": "Diagram: a charged particle directly ionizing atoms, and a photon and a neutron first creating a charged particle that then ionizes. No text.",
+   "narration": "带电粒子直接电离，光子中子间接电离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "紫外灯、灯泡、微波炉、手机信号塔图标",
+   "prompt_en": "Diagram: icons of an ultraviolet lamp, a light bulb, a microwave oven and a radio tower. No text.",
+   "narration": "紫外、可见光、微波、无线电，是非电离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "紫外护目镜、激光防护眼镜图标",
+   "prompt_en": "Diagram: ultraviolet safety goggles and laser safety glasses icons with a separate rule book. No text.",
+   "narration": "非电离也会伤人，按各自规定防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电离辐射与非电离辐射",
+   "scene": "【实拍】实验室门上的电离辐射警告标志（本校现场或印刷样张，近景）",
+   "prompt_en": "Close-up: an ionizing radiation warning sign mounted on a lab door.",
+   "narration": "电离辐射有专门的警告标志。",
+   "overlay": [],
+   "labels": [
+    "当心电离辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "原子、同位素与放射性",
+   "scene": "原子模型：中心的质子中子，外圈电子",
+   "prompt_en": "Diagram: an atom model with protons and neutrons in the nucleus and electrons orbiting. No text.",
+   "narration": "原子由质子、中子和电子组成。",
+   "overlay": [
+    "原子、同位素与放射性"
+   ],
+   "labels": [
+    "质子",
+    "中子",
+    "电子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "原子、同位素与放射性",
+   "scene": "核素符号：左上质量数、左下质子数",
+   "prompt_en": "Diagram: a large element symbol with a small number at upper left and a small number at lower left, highlighted. No text.",
+   "narration": "左上写质量数，左下写质子数。",
+   "overlay": [],
+   "labels": [
+    "质量数",
+    "质子数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "原子、同位素与放射性",
+   "scene": "两个原子核，质子一样多，中子数不同",
+   "prompt_en": "Diagram: two nuclei with the same number of protons but a different number of neutrons. No text.",
+   "narration": "质子数相同、中子数不同，是同位素。",
+   "overlay": [],
+   "labels": [
+    "碳-12",
+    "碳-14"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "原子、同位素与放射性",
+   "scene": "不稳定的原子核放出射线",
+   "prompt_en": "Diagram: an unstable wobbling nucleus emitting rays and turning into a new nucleus. No text.",
+   "narration": "不稳定的核会衰变，放出射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "原子、同位素与放射性",
+   "scene": "带放射性标志的同位素瓶放进上锁的柜子",
+   "prompt_en": "Diagram: a small vial with a radioactive symbol placed into a locked storage cabinet with a logbook. No text.",
+   "narration": "放射性同位素，要按规定管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "天平：天然一侧重，人工一侧轻",
+   "prompt_en": "Diagram: a balance scale with a large natural sources pile on one side and a smaller artificial sources pile on the other. No text.",
+   "narration": "我们受的照射，天然来源占大头。",
+   "overlay": [
+    "天然与人工辐射源"
+   ],
+   "labels": [
+    "天然",
+    "人工"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "地面冒出的氡气被人吸入",
+   "prompt_en": "Diagram: invisible gas rising from the ground and rocks into a room and being breathed in. No text.",
+   "narration": "天然来源里，地下冒出的氡最多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "宇宙射线从天而降，土壤和建材放出射线",
+   "prompt_en": "Diagram: cosmic rays coming down from the sky and rays coming from soil and building walls toward a person. No text.",
+   "narration": "宇宙射线和土壤建材，从外面照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "香蕉等食物进入身体",
+   "prompt_en": "Diagram: a banana and other foods going into a body outline with a small glow inside. No text.",
+   "narration": "食物中的钾-40进入体内，是内照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "人工来源：医院、科研、工业、核电图标",
+   "prompt_en": "Diagram: icons of a hospital, a research lab, a factory and a nuclear power plant. No text.",
+   "narration": "人工来源，大部分来自医疗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "拍片是外照射，用放射性药物是内照射",
+   "prompt_en": "Diagram: an X-ray imaging machine outside the body, and a radioactive medicine inside the body. No text.",
+   "narration": "拍片是外照射，放射性药物是内照射。",
+   "overlay": [],
+   "labels": [
+    "外照射",
+    "内照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "天然与人工辐射源",
+   "scene": "核电站正常运行，贡献很小",
+   "prompt_en": "Diagram: a nuclear power plant running normally with a very small contribution bar. No text.",
+   "narration": "核电正常运行，贡献很小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "仪器开着，没有放源，计数在涨",
+   "prompt_en": "Diagram: a counter on a lab bench with no source nearby, its blank display rising. No text.",
+   "narration": "没放源，仪器读数也在涨。",
+   "overlay": [
+    "本底辐射：处处都有，因地而异"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "水泥墙、天空、地面、空气四个来源汇成一个总量",
+   "prompt_en": "Diagram: arrows from a concrete wall, the sky, the ground and the air merging into one total. No text.",
+   "narration": "这是本底辐射，没有完全没辐射的地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "地图上不同地区颜色深浅不同",
+   "prompt_en": "Diagram: a map with regions shaded light and dark for different background levels. No text.",
+   "narration": "本底随地点不同，可以差好几倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "高原和飞机上宇宙射线更多",
+   "prompt_en": "Diagram: a mountain plateau and an airplane in the sky with more cosmic ray lines. No text.",
+   "narration": "海拔越高、常坐飞机，受照越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "本底和工作照射两个分开的账本",
+   "prompt_en": "Diagram: two separate ledgers, one for natural background and one for work exposure. No text.",
+   "narration": "辐射工作的职业照射，要另外计算。",
+   "overlay": [],
+   "labels": [
+    "本底",
+    "职业照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本底辐射：处处都有，因地而异",
+   "scene": "本底管不了，工作照射用盾牌控制",
+   "prompt_en": "Diagram: natural background shown as a cloud, and work exposure reduced by a shield and a dial. No text.",
+   "narration": "本底管不了，工作照射能控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "射线检查零件和人体",
+   "prompt_en": "Diagram: ray lines inspecting a metal pipe weld and a human body outline. No text.",
+   "narration": "电离辐射能看透人体，也能检查零件。",
+   "overlay": [
+    "辐射在科研和医学中的用途"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "考古测年、医疗器械灭菌、烟雾报警器、食品保鲜",
+   "prompt_en": "Diagram: four icons: an ancient bone for dating, packaged medical instruments, a smoke detector and preserved fruit. No text.",
+   "narration": "测年代、器械灭菌、烟感、食品保鲜。",
+   "overlay": [],
+   "labels": [
+    "测年",
+    "灭菌",
+    "烟感",
+    "保鲜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "分子上挂一个发光的小标签",
+   "prompt_en": "Diagram: a molecule with a small glowing tag attached, moving through a cell. No text.",
+   "narration": "给分子挂上放射性标记，就能追踪它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "标记分子在身体里的路线图",
+   "prompt_en": "Diagram: a body outline with a glowing path showing where a tagged molecule goes. No text.",
+   "narration": "看清它在生命体内怎么走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "心脏、大脑、胰腺图标",
+   "prompt_en": "Diagram: heart, brain and pancreas icons with research charts. No text.",
+   "narration": "心血管病、神经疾病、糖尿病都靠它研究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "辐射在科研和医学中的用途",
+   "scene": "从实验台到病床的箭头",
+   "prompt_en": "Diagram: an arrow from a lab bench to a hospital bed with a recovering patient. No text.",
+   "narration": "实验室里的发现，最终用来治病救人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "射线打断癌细胞里的链条",
+   "prompt_en": "Diagram: a ray breaking chain links inside a tumor cell. No text.",
+   "narration": "辐射能打断癌细胞的化学键。",
+   "overlay": [
+    "放射治疗：多打病灶，少伤好细胞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "癌细胞不断分裂，射线让它停下或死亡",
+   "prompt_en": "Diagram: a tumor cell dividing again and again, then a ray stopping the division or making the cell die. No text.",
+   "narration": "让它停止分裂，或者直接杀死。",
+   "overlay": [],
+   "labels": [
+    "止增殖",
+    "杀死"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "癌细胞和健康细胞挨在一起，射线只对准坏细胞",
+   "prompt_en": "Diagram: tumor cells next to healthy cells, with a narrow beam aimed only at the tumor cells. No text.",
+   "narration": "要多打病灶，少伤好细胞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "药物像钥匙送核素到病灶这把锁",
+   "prompt_en": "Diagram: a key-shaped medicine carrying a glowing dot to a lock-shaped tumor. No text.",
+   "narration": "靠药物把核素送到病灶，像钥匙配锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "α射程很短，β射程较长",
+   "prompt_en": "Diagram: two arrows from a source, a very short one and a longer one, with a ruler. No text.",
+   "narration": "α射程极短，β射程较长。",
+   "overlay": [],
+   "labels": [
+    "α 很短",
+    "β 较长"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "放射治疗：多打病灶，少伤好细胞",
+   "scene": "医生和物理师一起评估",
+   "prompt_en": "Diagram: a doctor and a medical physicist reviewing a treatment plan together. No text.",
+   "narration": "用哪种射线，由医生和物理师评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法管理：先培训，再上岗",
+   "scene": "法律书和条例书",
+   "prompt_en": "Diagram: a law book and a regulation book with a radiation symbol on the covers. No text.",
+   "narration": "辐射工作，有法律和条例管着。",
+   "overlay": [
+    "依法管理：先培训，再上岗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法管理：先培训，再上岗",
+   "scene": "学校、学院、实验室三级的辐射安全管理",
+   "prompt_en": "Diagram: three linked levels of management, university, school and lab, with a radiation icon. No text.",
+   "narration": "学校有专门的辐射安全管理机构。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法管理：先培训，再上岗",
+   "scene": "小研在电脑前参加辐射安全培训考试",
+   "prompt_en": "Diagram: the female graduate student taking an online training test on a blank computer screen. No text.",
+   "narration": "接触放射性前，先培训、考核合格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法管理：先培训，再上岗",
+   "scene": "【实拍】个人剂量计佩戴在胸前工作服上（本校剂量计样品，近景）",
+   "prompt_en": "Close-up: a personal dosimeter badge clipped to the chest of a lab coat.",
+   "narration": "按规定佩戴个人剂量计，定期检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "依法管理：先培训，再上岗",
+   "scene": "没培训就进实验室，打叉",
+   "prompt_en": "Diagram: the young male student walking into a radiation lab without training; crossed out. No text.",
+   "narration": "没培训，不能进辐射工作场所。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双刃剑、健康物理、历史教训图标",
+   "prompt_en": "Diagram: icons of a double-edged sword, a meter with a shield and a crossed-out brush at the lips. No text.",
+   "narration": "辐射有利有弊，测量防护，绝不进口。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电离与非电离、同位素图标",
+   "prompt_en": "Diagram: icons of a ray knocking out an electron and two nuclei with different neutrons. No text.",
+   "narration": "能电离的叫电离辐射；同位素中子数不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "天然本底、人工来源、科研医学用途",
+   "prompt_en": "Diagram: icons of natural background from ground and sky, a hospital and a tagged molecule. No text.",
+   "narration": "本底处处有，职业照射要控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "培训考核和剂量计图标",
+   "prompt_en": "Diagram: icons of a training certificate and a dosimeter badge. No text.",
+   "narration": "先培训考核，再进辐射工作场所。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着阿尔法、贝塔、伽马三个图标挥手",
+   "prompt_en": "The panda mascot holds up three icons for alpha, beta and gamma rays and waves goodbye.",
+   "narration": "下一课：射线的性质与衰变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
