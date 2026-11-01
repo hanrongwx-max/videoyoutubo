@@ -1,0 +1,997 @@
+{
+ "id": "038_化学品与危险物品分类",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "化学品与危险物品分类",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/038_化学品与危险物品分类.md",
+ "author_source": "project/高校实验室安全/038_化学品与危险物品分类/src.py",
+ "points": {
+  "K1": "危险物品：伤人、毁物、污染环境",
+  "K2": "固液气都有，多种方式伤人",
+  "K3": "遇高温、高压或混合更危险",
+  "K4": "全球统一分类，我国按GB 30000",
+  "S1": "三大类危害：理化、健康、环境",
+  "K5": "常见危险物品分七组",
+  "K6": "易燃和可燃物",
+  "K7": "腐蚀性物质",
+  "K8": "有毒物质",
+  "K9": "反应性和爆炸性物质",
+  "K10": "放射性物质",
+  "K11": "生物危害",
+  "K12": "压缩气体",
+  "K13": "运输分九类：看GB 6944",
+  "K14": "第1至3类：爆炸品、气体、易燃液体",
+  "K15": "第4至6类：易燃固体、氧化性、毒性",
+  "K16": "第7至9类：放射性、腐蚀性、杂项",
+  "K17": "菱形类别标志，一眼认危险",
+  "K18": "实验室、医院、工厂里的危险物品",
+  "K19": "家里宿舍也有，看背面警示",
+  "K20": "清洁剂不能混用",
+  "K21": "燃料、电池、杀虫剂和药品",
+  "K22": "对人：烧伤、中毒、伤呼吸道",
+  "K23": "对人：长期危害、感染、致命",
+  "K24": "对环境：污染水土、蓄积、破坏生态"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一排贴着菱形标志的箱子前，向镜头招手",
+   "prompt_en": "The panda mascot stands in front of boxes with blank diamond-shaped hazard labels and waves at the camera.",
+   "narration": "这一课讲化学品与危险物品分类。",
+   "overlay": [
+    "化学品与危险物品分类"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一天进实验室，看着满柜试剂和各种标志发愣",
+   "prompt_en": "The young male student, on his first lab day, stares at a full chemical cabinet and many different hazard signs, confused.",
+   "narration": "阿杰看着满柜试剂和标志，头都大了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿出一张分类图，笑着向阿杰招手",
+   "prompt_en": "The female graduate student holds up a blank classification chart and smiles at him.",
+   "narration": "小研：先分清类别，就知道怎么防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "危险物品：伤人、毁物、污染环境",
+   "scene": "危险物品三个后果图标：受伤的人、损坏的房屋、污染的河流",
+   "prompt_en": "Three icons: an injured person, a damaged building, a polluted river. No text.",
+   "narration": "危险物品会伤人、毁物、污染环境。",
+   "overlay": [
+    "危险物品：伤人、毁物、污染环境"
+   ],
+   "labels": [
+    "伤人",
+    "毁物",
+    "污染环境"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "危险物品：伤人、毁物、污染环境",
+   "scene": "化学瓶、细菌、辐射三个原因图标",
+   "prompt_en": "Three cause icons: a chemical flask, a bacterium, a radiation trefoil. No text.",
+   "narration": "原因在于化学、生物或物理性质。",
+   "overlay": [],
+   "labels": [
+    "化学",
+    "生物",
+    "物理"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固液气都有，多种方式伤人",
+   "scene": "固体、液体、气体三个容器",
+   "prompt_en": "Three containers: a jar of powder, a bottle of liquid, a gas cylinder. No text.",
+   "narration": "危险物品有固体、液体，也有气体。",
+   "overlay": [
+    "固液气都有，多种方式伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固液气都有，多种方式伤人",
+   "scene": "五个图标：洒出、吸入、误食、接触、乱倒",
+   "prompt_en": "Five icons: a spill, breathing in vapor, swallowing, skin contact, careless dumping. No text.",
+   "narration": "洒出、吸入、误食、接触、乱处理。",
+   "overlay": [],
+   "labels": [
+    "洒出",
+    "吸入",
+    "误食",
+    "接触",
+    "乱处理"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固液气都有，多种方式伤人",
+   "scene": "小研戴好防护，五个图标逐个被盾牌挡住",
+   "prompt_en": "The female graduate student in goggles, lab coat and gloves; the five icons are blocked one by one by shields.",
+   "narration": "每一种方式，都要提前防住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "遇高温、高压或混合更危险",
+   "scene": "试剂瓶旁出现高温、高压、混合三个图标",
+   "prompt_en": "A reagent bottle with three icons appearing beside it: a heat flame, a pressure gauge, two bottles pouring together. No text.",
+   "narration": "很多化学品本身就有潜在危险。",
+   "overlay": [
+    "遇高温、高压或混合更危险"
+   ],
+   "labels": [
+    "高温",
+    "高压",
+    "混合"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "遇高温、高压或混合更危险",
+   "scene": "两瓶不同试剂倒在一起冒烟，打叉",
+   "prompt_en": "Two different bottles poured into one beaker that starts fuming, crossed out with a red X. No faces.",
+   "narration": "遇高温、高压或互相混合，更危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "全球统一分类，我国按GB 30000",
+   "scene": "地球周围一圈相同样式的标签和说明书",
+   "prompt_en": "A globe surrounded by identical-looking hazard labels and safety data booklets. No text.",
+   "narration": "国际上分类和标签统一，各国基本一致。",
+   "overlay": [
+    "全球统一分类，我国按GB 30000"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "全球统一分类，我国按GB 30000",
+   "scene": "一摞国家标准文本，封面空白",
+   "prompt_en": "A stack of national standard booklets with blank covers on a desk. No text.",
+   "narration": "我国按GB 30000系列来分类。",
+   "overlay": [],
+   "labels": [
+    "GB 30000"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "三大类危害：理化、健康、环境",
+   "scene": "三栏图：火焰瓶、人体轮廓、鱼和树",
+   "prompt_en": "A three-column chart: a flaming bottle, a human silhouette, a fish and a tree. No text.",
+   "narration": "危害分三大类：理化、健康、环境。",
+   "overlay": [
+    "三大类危害：理化、健康、环境"
+   ],
+   "labels": [
+    "理化危险",
+    "健康危害",
+    "环境危害"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "三大类危害：理化、健康、环境",
+   "scene": "理化危险图标：爆炸、火焰、气瓶、圆圈上火焰、腐蚀金属",
+   "prompt_en": "Icons of explosion, flame, gas cylinder, flame over circle, and corroded metal. No text.",
+   "narration": "理化危险：爆炸、易燃、氧化、加压等。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "三大类危害：理化、健康、环境",
+   "scene": "健康危害图标：人体胸前星爆、骷髅、手被腐蚀",
+   "prompt_en": "Icons of a human silhouette with a starburst on the chest, a skull, and a hand being corroded. No text.",
+   "narration": "健康危害：急性毒性、腐蚀、致癌等。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "三大类危害：理化、健康、环境",
+   "scene": "环境危害图标：枯树和死鱼",
+   "prompt_en": "An icon of a dead tree and a dead fish by the water. No text.",
+   "narration": "环境危害：伤害水生生物和臭氧层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "常见危险物品分七组",
+   "scene": "七个分组格子，每格一个图标",
+   "prompt_en": "Seven boxes in a grid, each with one icon: flame, corrosion, skull, explosion, radiation, biohazard, gas cylinder. No text.",
+   "narration": "按危险性质，常见危险物品分七组。",
+   "overlay": [
+    "常见危险物品分七组"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "易燃和可燃物",
+   "scene": "乙醇、丙酮瓶旁有火焰图标，远处是明火",
+   "prompt_en": "Bottles of solvent with a flame icon; a lit burner far away is separated by a barrier. No text.",
+   "narration": "易燃可燃物，容易着火甚至爆炸。",
+   "overlay": [
+    "易燃和可燃物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "易燃和可燃物",
+   "scene": "汽油桶、液化气罐、溶剂瓶远离火源",
+   "prompt_en": "A fuel can, a gas canister and solvent bottles kept away from a heater and open flame. No faces.",
+   "narration": "比如汽油、乙醇、丙烷、丙酮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "腐蚀性物质",
+   "scene": "酸碱瓶旁边，金属片被腐蚀",
+   "prompt_en": "Acid and alkali bottles with a corrosion icon; a metal plate beside them is pitted. No text.",
+   "narration": "腐蚀性物质伤皮肤眼睛，还腐蚀金属。",
+   "overlay": [
+    "腐蚀性物质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "腐蚀性物质",
+   "scene": "小研戴护目镜和手套取用酸瓶",
+   "prompt_en": "The female graduate student in goggles and gloves carefully lifts a bottle of acid.",
+   "narration": "比如盐酸、硫酸、氢氧化钠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "有毒物质",
+   "scene": "骷髅图标，三个箭头指向鼻子、嘴、皮肤",
+   "prompt_en": "A skull icon with three arrows pointing to a nose, a mouth and skin. No text.",
+   "narration": "有毒物质：吸入、误食、经皮都会中毒。",
+   "overlay": [
+    "有毒物质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "有毒物质",
+   "scene": "实验室里吃零食打叉，小研在洗手",
+   "prompt_en": "Eating snacks in the lab is crossed out; the female graduate student washes her hands at a sink.",
+   "narration": "实验室不吃不喝，用完洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反应性和爆炸性物质",
+   "scene": "一个瓶子周围画着空气、水滴，瓶子剧烈冒泡",
+   "prompt_en": "A bottle surrounded by air and water drop icons bubbles violently. No text.",
+   "narration": "反应性物质不稳定，遇水遇空气会剧烈反应。",
+   "overlay": [
+    "反应性和爆炸性物质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反应性和爆炸性物质",
+   "scene": "带锁的柜子和登记本",
+   "prompt_en": "A locked cabinet and a blank sign-out book. No text.",
+   "narration": "这类物品多数受管控，登记领用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "放射性物质",
+   "scene": "电离辐射标志，射线击中细胞",
+   "prompt_en": "An ionizing radiation warning sign; wavy rays hit a cell and its DNA strand. No text.",
+   "narration": "放射性物质的射线能损伤细胞和DNA。",
+   "overlay": [
+    "放射性物质"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "放射性物质",
+   "scene": "阿杰在电离辐射标志门前停步",
+   "prompt_en": "The young male student stops in front of a door with an ionizing radiation warning sign.",
+   "narration": "看到这个标志，未经许可不进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "生物危害",
+   "scene": "生物危害标志，细菌病毒真菌卡通图标",
+   "prompt_en": "A biohazard warning sign with cartoon icons of bacteria, viruses and fungi. No text.",
+   "narration": "生物危害：细菌、病毒、真菌和毒素。",
+   "overlay": [
+    "生物危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "生物危害",
+   "scene": "四级台阶图标，第一级最高",
+   "prompt_en": "A four-step bar icon with the top step highlighted in red. No text.",
+   "narration": "我国病原分四类，第一类最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "生物危害",
+   "scene": "小研在生物安全柜里操作",
+   "prompt_en": "The female graduate student works inside a biological safety cabinet with gloves and lab coat.",
+   "narration": "按评估定级别，在安全柜里操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "压缩气体",
+   "scene": "气瓶用链条固定在墙上，压力图标",
+   "prompt_en": "Gas cylinders chained upright to the wall, with a pressure icon. No text.",
+   "narration": "压缩气体高压储存，可能爆裂。",
+   "overlay": [
+    "压缩气体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "压缩气体",
+   "scene": "老李关好气瓶阀门",
+   "prompt_en": "The facility engineer closes a cylinder valve after use.",
+   "narration": "泄漏会窒息或中毒，用完关阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "运输分九类：看GB 6944",
+   "scene": "货车装着贴菱形标志的货箱",
+   "prompt_en": "A delivery truck loaded with boxes carrying blank diamond hazard labels. No text.",
+   "narration": "为了运输安全，危险货物分九类。",
+   "overlay": [
+    "运输分九类：看GB 6944"
+   ],
+   "labels": [
+    "九类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "运输分九类：看GB 6944",
+   "scene": "国家标准文本和一本品名表",
+   "prompt_en": "A national standard booklet and a thick list book side by side. No text.",
+   "narration": "国内看GB 6944，具体查品名表。",
+   "overlay": [],
+   "labels": [
+    "GB 6944",
+    "品名表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第1至3类：爆炸品、气体、易燃液体",
+   "scene": "九格图，前三格亮起：爆炸、气瓶、火焰",
+   "prompt_en": "A nine-square grid; the first three light up with explosion, gas cylinder and flame icons. No text.",
+   "narration": "第1类爆炸品，实验室严格管控。",
+   "overlay": [
+    "第1至3类：爆炸品、气体、易燃液体"
+   ],
+   "labels": [
+    "爆炸品",
+    "气体",
+    "易燃液体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第1至3类：爆炸品、气体、易燃液体",
+   "scene": "三种气瓶：火焰、不燃、骷髅图标",
+   "prompt_en": "Three gas cylinders with a flame icon, a plain icon, and a skull icon. No text.",
+   "narration": "第2类气体，有易燃、不燃、有毒的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第1至3类：爆炸品、气体、易燃液体",
+   "scene": "溶剂瓶放进防火柜",
+   "prompt_en": "Solvent bottles are placed into a yellow flammable storage cabinet. No faces.",
+   "narration": "第3类易燃液体最常见，放防火柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第4至6类：易燃固体、氧化性、毒性",
+   "scene": "九格图中间三格亮起",
+   "prompt_en": "The nine-square grid; squares four to six light up with flame on solid, flame over circle, and skull icons. No text.",
+   "narration": "第4类易燃固体，含自燃和遇水放气的。",
+   "overlay": [
+    "第4至6类：易燃固体、氧化性、毒性"
+   ],
+   "labels": [
+    "易燃固体",
+    "氧化性",
+    "毒性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第4至6类：易燃固体、氧化性、毒性",
+   "scene": "氧化剂瓶和纸箱被隔板分开",
+   "prompt_en": "An oxidizer bottle is separated from cardboard and wood by a divider. No text.",
+   "narration": "第5类氧化性物质会助燃，与可燃物分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第4至6类：易燃固体、氧化性、毒性",
+   "scene": "骷髅和生物危害两个菱形",
+   "prompt_en": "Two diamond labels, one with a skull and one with a biohazard symbol. No text.",
+   "narration": "第6类毒性物质和感染性物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第4至6类：易燃固体、氧化性、毒性",
+   "scene": "样本运输箱，三层包装示意",
+   "prompt_en": "A specimen transport box showing three nested layers of packaging. No text.",
+   "narration": "菌毒种和样本运输，另有规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7至9类：放射性、腐蚀性、杂项",
+   "scene": "九格图后三格亮起",
+   "prompt_en": "The nine-square grid; the last three light up with radiation trefoil, corrosion and striped icons. No text.",
+   "narration": "第7类放射性，持证单位才能用和运。",
+   "overlay": [
+    "第7至9类：放射性、腐蚀性、杂项"
+   ],
+   "labels": [
+    "放射性",
+    "腐蚀性",
+    "杂项"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7至9类：放射性、腐蚀性、杂项",
+   "scene": "强酸强碱瓶，腐蚀菱形标志",
+   "prompt_en": "Strong acid and strong alkali bottles beside a corrosion diamond label. No text.",
+   "narration": "第8类腐蚀性物质，强酸强碱都在这。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7至9类：放射性、腐蚀性、杂项",
+   "scene": "锂电池、干冰箱、鱼和树图标",
+   "prompt_en": "A lithium battery, a box of dry ice and an icon of a fish and a tree. No text.",
+   "narration": "第9类杂项：锂电池、干冰、危害环境物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7至9类：放射性、腐蚀性、杂项",
+   "scene": "杂项标志旁的问号被打叉",
+   "prompt_en": "A question mark next to the striped miscellaneous diamond is crossed out. No text.",
+   "narration": "杂项，不等于不危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "菱形类别标志，一眼认危险",
+   "scene": "【实拍】危险化学品到货外包装上的菱形运输类别标志特写（本校验收现场或空包装箱，遮挡品牌和单据）",
+   "prompt_en": "Packages carry diamond-shaped transport hazard labels in different colors, blank inside except icons. No text.",
+   "narration": "运输货包贴菱形类别标志。",
+   "overlay": [
+    "菱形类别标志，一眼认危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "菱形类别标志，一眼认危险",
+   "scene": "阿杰看到标志，立刻戴上手套",
+   "prompt_en": "The young male student sees a corrosion diamond on a box and puts on gloves before touching it.",
+   "narration": "先认标志，就知道该怎么防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验室、医院、工厂里的危险物品",
+   "scene": "实验室：酸瓶、溶剂瓶、培养皿",
+   "prompt_en": "A lab bench with an acid bottle, a solvent bottle and culture dishes; the female graduate student returns them to the shelf.",
+   "narration": "实验室里有酸、有机溶剂、病原微生物。",
+   "overlay": [
+    "实验室、医院、工厂里的危险物品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验室、医院、工厂里的危险物品",
+   "scene": "医院：药品、样本管、消毒剂，黄色医疗废物桶",
+   "prompt_en": "A hospital room with medicine bottles, specimen tubes, disinfectant and a yellow medical waste bin. No text.",
+   "narration": "医院有药品、感染性样本、消毒剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验室、医院、工厂里的危险物品",
+   "scene": "工厂里的大储罐和燃料桶",
+   "prompt_en": "A factory with large storage tanks and fuel drums. No text, no logos.",
+   "narration": "工厂里工业化学品和燃料用量更大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "实验室、医院、工厂里的危险物品",
+   "scene": "用完的试剂放回原位",
+   "prompt_en": "The female graduate student puts used reagents back in their places on the shelf.",
+   "narration": "用完归位，不随手乱放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "家里宿舍也有，看背面警示",
+   "scene": "宿舍里，阿杰拿起一瓶清洁剂翻到背面",
+   "prompt_en": "In a dorm room, the young male student picks up a cleaning bottle and turns it to the back label with warning icons.",
+   "narration": "家里和宿舍也藏着危险物品。",
+   "overlay": [
+    "家里宿舍也有，看背面警示"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "家里宿舍也有，看背面警示",
+   "scene": "清洁剂、油漆、电池、杀虫剂放在高柜里",
+   "prompt_en": "Cleaners, paint, batteries and insecticide are stored on a high shelf out of a child's reach. No text.",
+   "narration": "清洁剂、油漆、电池放在孩子够不着处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "清洁剂不能混用",
+   "scene": "漂白剂和另一瓶清洁剂倒在一起冒气，打叉",
+   "prompt_en": "A bleach bottle and another cleaner poured into one bucket give off gas, crossed out with a red X. No faces.",
+   "narration": "不同清洁剂混用，会产生有毒气体。",
+   "overlay": [
+    "清洁剂不能混用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "清洁剂不能混用",
+   "scene": "阿杰戴手套单独用一种，开着窗",
+   "prompt_en": "The young male student wears gloves, uses only one cleaner, with the window open.",
+   "narration": "单独用，戴手套，开窗通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "燃料、电池、杀虫剂和药品",
+   "scene": "汽油桶和液化气罐远离炉火",
+   "prompt_en": "A fuel can and a gas canister kept far from a stove flame. No text.",
+   "narration": "汽油、液化气易燃易爆，远离火源。",
+   "overlay": [
+    "燃料、电池、杀虫剂和药品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "燃料、电池、杀虫剂和药品",
+   "scene": "锂电池鼓包冒烟，铅酸电池漏液",
+   "prompt_en": "A swollen lithium battery giving off smoke and a lead-acid battery leaking fluid, both with warning icons. No text.",
+   "narration": "铅酸电池有腐蚀液，锂电池会起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "燃料、电池、杀虫剂和药品",
+   "scene": "喷完杀虫剂后人离开，窗户打开",
+   "prompt_en": "After spraying insecticide, a person leaves the room and the window is open; food is covered. No faces.",
+   "narration": "杀虫剂喷完先离开，通风再进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "燃料、电池、杀虫剂和药品",
+   "scene": "药盒和说明书，乱吃抗生素打叉",
+   "prompt_en": "A medicine box with a blank leaflet; taking random antibiotics and sharing pills is crossed out. No text.",
+   "narration": "药也是化学品，按说明用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "对人：烧伤、中毒、伤呼吸道",
+   "scene": "手部被火和腐蚀灼伤的图标，旁边水龙头冲洗",
+   "prompt_en": "Icons of a hand burned by fire and by a corrosive, next to a running faucet. No faces.",
+   "narration": "对人，首先是烧伤，立即冲洗。",
+   "overlay": [
+    "对人：烧伤、中毒、伤呼吸道"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "对人：烧伤、中毒、伤呼吸道",
+   "scene": "毒物经鼻、口、皮肤进入身体的箭头",
+   "prompt_en": "Arrows show a toxic substance entering the body through the nose, mouth and skin. No text.",
+   "narration": "毒物经呼吸、嘴巴和皮肤进入身体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "对人：烧伤、中毒、伤呼吸道",
+   "scene": "肺部受损图标，挥发物在通风柜里操作",
+   "prompt_en": "An icon of irritated lungs; vapors are handled inside a fume hood. No faces.",
+   "narration": "伤呼吸道和肺，挥发物进通风柜做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "对人：长期危害、感染、致命",
+   "scene": "日历翻过多年，人体出现阴影",
+   "prompt_en": "Calendar pages flip over many years while a shadow appears on a human silhouette. No text.",
+   "narration": "致癌等长期危害，可能多年后才显现。",
+   "overlay": [
+    "对人：长期危害、感染、致命"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "对人：长期危害、感染、致命",
+   "scene": "病原微生物图标和生物安全柜",
+   "prompt_en": "A pathogen icon next to a biological safety cabinet. No text.",
+   "narration": "病原和样本会感染，按生物安全要求做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "对人：长期危害、感染、致命",
+   "scene": "心跳线图标变弱，防护装备一一亮起",
+   "prompt_en": "A heartbeat line weakens; then goggles, gloves and lab coat icons light up one by one. No text.",
+   "narration": "最严重时会危及生命，防护不能省。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "对环境：污染水土、蓄积、破坏生态",
+   "scene": "废液流进水沟和土壤，打叉",
+   "prompt_en": "Waste liquid flows into a drain and seeps into the soil, crossed out with a red X. No faces.",
+   "narration": "污染水体，渗进土壤也很难清除。",
+   "overlay": [
+    "对环境：污染水土、蓄积、破坏生态"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "对环境：污染水土、蓄积、破坏生态",
+   "scene": "废液倒进专用收集桶",
+   "prompt_en": "Waste liquid is poured into a dedicated labeled waste container. No faces, no text.",
+   "narration": "废液进专用桶，不进下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "对环境：污染水土、蓄积、破坏生态",
+   "scene": "食物链：小鱼、大鱼、人，毒素点越来越多",
+   "prompt_en": "A food chain: small fish, bigger fish, then a person, with toxin dots increasing at each step. No text.",
+   "narration": "毒素在体内蓄积，沿食物链回到人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "对环境：污染水土、蓄积、破坏生态",
+   "scene": "河边的鸟和鱼减少，树木枯萎",
+   "prompt_en": "A riverside scene where birds and fish disappear and trees wilt. No text.",
+   "narration": "生态被破坏，物种减少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三大类危害和七组图标依次打勾",
+   "prompt_en": "The three hazard columns and seven group icons get green checks. No text.",
+   "narration": "理化、健康、环境三大类危害。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "九格运输类别图和菱形标志",
+   "prompt_en": "The nine-square transport class grid beside diamond labels gets a check. No text.",
+   "narration": "运输分九类，先认标志再防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举起一个贴着标签的试剂瓶，向镜头挥手",
+   "prompt_en": "The panda mascot holds up a reagent bottle with a hazard label and waves goodbye.",
+   "narration": "下一课，讲化学品标签与危害告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
