@@ -1,0 +1,1012 @@
+{
+ "id": "088_辐射的生物效应",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射的生物效应",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/088_辐射的生物效应.md",
+ "author_source": "project/高校实验室安全/088_辐射的生物效应/src.py",
+ "points": {
+  "K1": "电离辐射打断分子化学键",
+  "K2": "直接作用与间接作用",
+  "K3": "DNA损伤：双链断裂最难修",
+  "K4": "修不好的三种结局",
+  "K5": "细胞存活曲线：一次击中与两次叠加",
+  "K6": "影响敏感性的因素：氧效应等",
+  "K7": "分裂越快，越怕辐射",
+  "K8": "两类效应：确定性与随机性",
+  "K9": "确定性效应：过阈值才出现",
+  "K10": "器官各有门槛：晶状体、皮肤、性腺",
+  "K11": "急性放射病",
+  "K12": "随机性效应：看概率，潜伏期长",
+  "K13": "线性无阈：防护上的谨慎假设",
+  "K14": "遗传效应与生育",
+  "K15": "胚胎和胎儿最敏感",
+  "K16": "氡：天然照射里的头号风险",
+  "K17": "守规程，风险就很低"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个细胞模型，细胞核里有DNA双螺旋",
+   "prompt_en": "The panda mascot holds up a large cell model with a DNA double helix inside the nucleus.",
+   "narration": "这一课讲辐射的生物效应。",
+   "overlay": [
+    "辐射的生物效应"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰站在辐射实验室门口犹豫，头上冒问号",
+   "prompt_en": "The young male student hesitates at a lab door with a radiation warning sign, question marks above his head.",
+   "narration": "阿杰担心：照一下会不会得病？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拿出细胞挂图",
+   "prompt_en": "The safety administrator unrolls a large cell poster on a stand.",
+   "narration": "王老师说：先弄懂辐射怎样伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射打断分子化学键",
+   "scene": "台灯照着分子，分子只轻轻晃动",
+   "prompt_en": "Diagram: a desk lamp shining on a molecule that only wiggles gently. No text.",
+   "narration": "可见光能量小，打不出电子。",
+   "overlay": [
+    "电离辐射打断分子化学键"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射打断分子化学键",
+   "scene": "射线把原子里的电子打出去，化学键断开",
+   "prompt_en": "Diagram: a ray knocking an electron out of an atom, and the chemical bond beside it snapping. No text.",
+   "narration": "电离辐射能打出电子、打断化学键。",
+   "overlay": [],
+   "labels": [
+    "电离",
+    "断键"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射打断分子化学键",
+   "scene": "细胞里各种分子，长链分子断一个键，细胞齿轮卡住",
+   "prompt_en": "Diagram: a human cell with membrane, nucleus and many molecules, one long chain molecule with a single broken bond and a cell gear stopping. No text.",
+   "narration": "大分子断一个键，细胞就受影响。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射打断分子化学键",
+   "scene": "三张问题卡：哪种辐射、哪个器官、多少剂量",
+   "prompt_en": "Diagram: three question cards with icons of a ray, an organ and a dose meter. No text.",
+   "narration": "哪种辐射、伤哪里、多少剂量？",
+   "overlay": [],
+   "labels": [
+    "哪种辐射",
+    "哪个器官",
+    "多少剂量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "射线直接击中DNA",
+   "prompt_en": "Diagram: a ray hitting a DNA strand directly and breaking it. No text.",
+   "narration": "射线直接打断DNA，叫直接作用。",
+   "overlay": [
+    "直接作用与间接作用"
+   ],
+   "labels": [
+    "直接作用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "细胞里大多是水，水分子被打碎成自由基，自由基游向DNA",
+   "prompt_en": "Diagram: a cell filled mostly with water molecules, one water molecule split by a ray into reactive sparks that drift to DNA and bite it. No text.",
+   "narration": "水被打碎成自由基，再去攻击DNA。",
+   "overlay": [],
+   "labels": [
+    "间接作用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接作用与间接作用",
+   "scene": "X、γ走间接作用的宽路，α走直接作用的路",
+   "prompt_en": "Diagram: X-ray and gamma icons on a wide indirect path, an alpha icon on a narrow direct path. No text.",
+   "narration": "X、γ照射，以间接作用为主。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "DNA损伤：双链断裂最难修",
+   "scene": "DNA像梯子，只断一侧扶手，工具箱照另一侧修好",
+   "prompt_en": "Diagram: DNA drawn as a ladder with one side rail broken, a repair kit fixing it using the other rail. No text.",
+   "narration": "只断一条链，照着另一条就能补好。",
+   "overlay": [
+    "DNA损伤：双链断裂最难修"
+   ],
+   "labels": [
+    "单链断裂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "DNA损伤：双链断裂最难修",
+   "scene": "梯子两侧扶手在同一处断开",
+   "prompt_en": "Diagram: the DNA ladder with both rails broken at the same place, a warning mark beside it. No text.",
+   "narration": "两条链一起断，难修，最危险。",
+   "overlay": [],
+   "labels": [
+    "双链断裂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "DNA损伤：双链断裂最难修",
+   "scene": "密集粒子径迹在一小段DNA上打出多处断口",
+   "prompt_en": "Diagram: a dense particle track hitting a short DNA segment many times, clustered breaks and a damaged base. No text.",
+   "narration": "高传能线密度辐射，伤口扎堆难修。",
+   "overlay": [],
+   "labels": [
+    "成簇损伤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "DNA损伤：双链断裂最难修",
+   "scene": "染色体断裂后错接",
+   "prompt_en": "Diagram: a chromosome broken and rejoined to the wrong partner. No text.",
+   "narration": "染色体也会断裂、错接，形成畸变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "修不好的三种结局",
+   "scene": "修复工具箱把DNA修好，打钩",
+   "prompt_en": "Diagram: a repair toolbox fixing DNA with a check mark. No text.",
+   "narration": "大多数损伤，细胞自己能修好。",
+   "overlay": [
+    "修不好的三种结局"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "修不好的三种结局",
+   "scene": "三条岔路：细胞死亡、肿瘤、家谱",
+   "prompt_en": "Diagram: a fork with three paths, a dead cell, a body with a tumor icon, and a family tree. No text.",
+   "narration": "修不好：细胞死亡、癌变或遗传。",
+   "overlay": [],
+   "labels": [
+    "细胞死亡",
+    "癌症等",
+    "遗传"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "修不好的三种结局",
+   "scene": "四个图标：剂量大、反复、面积大、敏感部位",
+   "prompt_en": "Diagram: four icons, a big dose bar, repeated arrows, a large body area and a sensitive organ. No text.",
+   "narration": "剂量大、反复、面积大，损伤才明显。",
+   "overlay": [],
+   "labels": [
+    "剂量大",
+    "反复",
+    "面积大",
+    "部位敏感"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "修不好的三种结局",
+   "scene": "受过外照射的人和朋友握手，身上不发光",
+   "prompt_en": "Diagram: a person after external exposure shaking hands safely with a friend, no glow on either. No text.",
+   "narration": "只受外照射，人不会带放射性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细胞存活曲线：一次击中与两次叠加",
+   "scene": "细胞存活曲线：剂量越大，存活越少",
+   "prompt_en": "Diagram: a curve on a chart, surviving cells dropping as dose increases. No text.",
+   "narration": "剂量越大，存活的细胞越少。",
+   "overlay": [
+    "细胞存活曲线：一次击中与两次叠加"
+   ],
+   "labels": [
+    "线性二次模型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细胞存活曲线：一次击中与两次叠加",
+   "scene": "一条射线一次击中靶心，低剂量箭头",
+   "prompt_en": "Diagram: a single ray hitting a cell target once and the cell stops, with a small dose arrow. No text.",
+   "narration": "一次击中就致命，低剂量时为主。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细胞存活曲线：一次击中与两次叠加",
+   "scene": "两处小伤叠成大伤，高剂量箭头",
+   "prompt_en": "Diagram: two small hits on a cell combining into one big damage, with a big dose arrow. No text.",
+   "narration": "两处小伤叠成大伤，高剂量时为主。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "细胞存活曲线：一次击中与两次叠加",
+   "scene": "皮肤肠道旁边快钟，脊髓和肺旁边慢日历",
+   "prompt_en": "Diagram: a fast clock beside skin and gut icons, a slow calendar beside spinal cord and lung icons. No text.",
+   "narration": "皮肤肠道反应快，脊髓和肺反应慢。",
+   "overlay": [],
+   "labels": [
+    "早反应",
+    "晚反应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "影响敏感性的因素：氧效应等",
+   "scene": "有氧和缺氧两个细胞同时受照",
+   "prompt_en": "Diagram: two cells, one rich in oxygen bubbles and one without, a ray hitting both. No text.",
+   "narration": "有氧的细胞，对射线更敏感。",
+   "overlay": [
+    "影响敏感性的因素：氧效应等"
+   ],
+   "labels": [
+    "氧效应"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "影响敏感性的因素：氧效应等",
+   "scene": "氧像胶水把断口粘死，不能再接回",
+   "prompt_en": "Diagram: an oxygen bubble gluing a broken DNA end so it cannot rejoin. No text.",
+   "narration": "氧把损伤定型，就修不回去了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "影响敏感性的因素：氧效应等",
+   "scene": "缺氧的肿瘤中心需要更高的剂量柱",
+   "prompt_en": "Diagram: a tumor with a hypoxic core needing a much taller dose bar. No text.",
+   "narration": "缺氧的肿瘤中心，更耐受放疗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "影响敏感性的因素：氧效应等",
+   "scene": "年龄、修复、化学物质三个图标围着细胞",
+   "prompt_en": "Diagram: icons of a baby, a repair toolbox and a chemical bottle around a cell. No text.",
+   "narration": "年龄、修复和某些化学物也有影响。",
+   "overlay": [],
+   "labels": [
+    "年龄",
+    "修复",
+    "化学物质"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分裂越快，越怕辐射",
+   "scene": "快速分裂的细胞被射线打中，慢分裂的没事",
+   "prompt_en": "Diagram: rapidly dividing cells hit by rays, slowly dividing cells unaffected. No text.",
+   "narration": "细胞分裂越快，越怕辐射。",
+   "overlay": [
+    "分裂越快，越怕辐射"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分裂越快，越怕辐射",
+   "scene": "敏感度架子上层：淋巴结、骨髓、性腺",
+   "prompt_en": "Diagram: a sensitivity shelf with lymph node, bone marrow and gonad icons on the top shelf. No text.",
+   "narration": "淋巴、造血、生殖细胞最敏感。",
+   "overlay": [],
+   "labels": [
+    "淋巴",
+    "造血",
+    "生殖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分裂越快，越怕辐射",
+   "scene": "架子下层：神经、肌肉、骨骼",
+   "prompt_en": "Diagram: nerve, muscle and bone icons on the bottom shelf. No text.",
+   "narration": "神经、肌肉、骨骼相对不敏感。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分裂越快，越怕辐射",
+   "scene": "体内放射性小点聚到一个器官",
+   "prompt_en": "Diagram: radioactive dots gathering in one organ inside a body outline. No text.",
+   "narration": "进入体内的核素，会聚到某些器官。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两类效应：确定性与随机性",
+   "scene": "两个盒子：堤坝和抽奖箱",
+   "prompt_en": "Diagram: two boxes, one holding a water dam and one holding a lottery drum. No text.",
+   "narration": "辐射健康效应，分成两类。",
+   "overlay": [
+    "两类效应：确定性与随机性"
+   ],
+   "labels": [
+    "确定性",
+    "随机性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两类效应：确定性与随机性",
+   "scene": "组织里大量细胞死亡，器官受损",
+   "prompt_en": "Diagram: many dead cells in a tissue leading to a damaged organ. No text.",
+   "narration": "大量细胞死亡，引起确定性效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "两类效应：确定性与随机性",
+   "scene": "一个变异细胞增殖成一小团",
+   "prompt_en": "Diagram: one mutated cell multiplying into a small cluster. No text.",
+   "narration": "单个细胞变异，引起随机性效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "水位涨过堤坝顶才溢出",
+   "prompt_en": "Diagram: water rising behind a dam and spilling over only above the top. No text.",
+   "narration": "确定性效应像水漫堤坝，过阈值才有。",
+   "overlay": [
+    "确定性效应：过阈值才出现"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "阈值线之后，严重程度柱陡升",
+   "prompt_en": "Diagram: a severity bar rising steeply after a threshold line. No text.",
+   "narration": "过了阈值，剂量越大越严重。",
+   "overlay": [],
+   "labels": [
+    "阈值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "S形曲线：受影响人数比例随剂量升高",
+   "prompt_en": "Diagram: an S shaped curve of the share of people affected versus dose, reaching the top. No text.",
+   "narration": "剂量高到一定程度，人人都会出现。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "确定性效应：过阈值才出现",
+   "scene": "几个人阈值线高低不同，旁边禁止赌博图标",
+   "prompt_en": "Diagram: several people with threshold lines at different heights and a no-gambling icon. No text.",
+   "narration": "阈值因人而异，不能拿来冒险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "器官各有门槛：晶状体、皮肤、性腺",
+   "scene": "眼睛晶状体变浑浊",
+   "prompt_en": "Diagram: an eye with a clouding lens. No text.",
+   "narration": "晶状体受照多了，会得白内障。",
+   "overlay": [
+    "器官各有门槛：晶状体、皮肤、性腺"
+   ],
+   "labels": [
+    "眼晶状体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "器官各有门槛：晶状体、皮肤、性腺",
+   "scene": "皮肤发红、脱皮、破溃，头发变稀",
+   "prompt_en": "Diagram: a skin patch turning red, then peeling, then a wound, and thinning hair. No text.",
+   "narration": "皮肤先发红，重了脱皮、溃破。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "器官各有门槛：晶状体、皮肤、性腺",
+   "scene": "性腺里的生殖干细胞被高亮",
+   "prompt_en": "Diagram: gonad icons with sensitive stem cells highlighted. No text.",
+   "narration": "性腺里的生殖干细胞，最怕辐射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "器官各有门槛：晶状体、皮肤、性腺",
+   "scene": "探伤警戒绳，有人跨过被打叉",
+   "prompt_en": "Diagram: an industrial radiography area with a warning rope, a person stepping over the rope marked with a cross. No text.",
+   "narration": "误入探伤区，可能被大剂量灼伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "急性放射病",
+   "scene": "全身在短时间里受到巨大剂量",
+   "prompt_en": "Diagram: a whole body under a huge burst in a short time, with a warning mark. No text.",
+   "narration": "全身短时大剂量，会得急性放射病。",
+   "overlay": [
+    "急性放射病"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "急性放射病",
+   "scene": "四段时间线：恶心、平静、病床、岔路",
+   "prompt_en": "Diagram: a four step timeline with nausea, a calm period, a sick bed and a crossroads. No text.",
+   "narration": "先恶心呕吐，再有个假装好转期。",
+   "overlay": [],
+   "labels": [
+    "初期",
+    "假愈期",
+    "极期",
+    "恢复期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "急性放射病",
+   "scene": "骨髓图标变暗，感染和出血图标",
+   "prompt_en": "Diagram: a bone marrow icon fading, with infection and bleeding icons. No text.",
+   "narration": "几周后骨髓衰竭、感染、出血。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "急性放射病",
+   "scene": "三级台阶：骨髓、肠道、脑",
+   "prompt_en": "Diagram: three rising steps with bone marrow, intestine and brain icons, the top step with a warning mark. No text.",
+   "narration": "剂量由低到高：骨髓型、肠型、脑型。",
+   "overlay": [],
+   "labels": [
+    "骨髓型",
+    "肠型",
+    "脑型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应：看概率，潜伏期长",
+   "scene": "抽奖箱：剂量越大，放进的奖券越多",
+   "prompt_en": "Diagram: a lottery drum with more tickets added as the dose bar grows. No text.",
+   "narration": "随机性效应像抽奖，剂量大中签多。",
+   "overlay": [
+    "随机性效应：看概率，潜伏期长"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应：看概率，潜伏期长",
+   "scene": "两个中签的人结果一样",
+   "prompt_en": "Diagram: two winners holding different numbers of tickets but receiving the same result icon. No text.",
+   "narration": "一旦发生，严重程度与剂量无关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应：看概率，潜伏期长",
+   "scene": "长日历尽头是血细胞和甲状腺图标",
+   "prompt_en": "Diagram: a long calendar ending with blood cell and thyroid icons. No text.",
+   "narration": "癌症常潜伏多年才出现。",
+   "overlay": [],
+   "labels": [
+    "白血病",
+    "甲状腺癌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "随机性效应：看概率，潜伏期长",
+   "scene": "小硬币一枚枚攒进罐子",
+   "prompt_en": "Diagram: small coins piling up in a jar over a calendar. No text.",
+   "narration": "小剂量会累积，别当没剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：防护上的谨慎假设",
+   "scene": "三条剂量—反应线：有阈、直线、弯线",
+   "prompt_en": "Diagram: a chart with three dose response lines, one starting after a threshold, one straight line from zero, one curved. No text.",
+   "narration": "剂量和效应，常用几种模型描述。",
+   "overlay": [
+    "线性无阈：防护上的谨慎假设"
+   ],
+   "labels": [
+    "有阈",
+    "线性无阈",
+    "非线性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：防护上的谨慎假设",
+   "scene": "直线从零出发，小剂量也有小柱子",
+   "prompt_en": "Diagram: a straight line rising from zero, a tiny dose still showing a tiny risk bar under a magnifier. No text.",
+   "narration": "防护上假定：风险与剂量成正比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "线性无阈：防护上的谨慎假设",
+   "scene": "剂量柱向下的箭头和保护伞",
+   "prompt_en": "Diagram: a downward arrow on a dose bar under a protective umbrella. No text.",
+   "narration": "再小也不当零，能少则少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "遗传效应与生育",
+   "scene": "家谱图，一个小小的提醒标记",
+   "prompt_en": "Diagram: a family tree with one tiny caution icon. No text.",
+   "narration": "遗传效应按无阈处理，但很少见。",
+   "overlay": [
+    "遗传效应与生育"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "遗传效应与生育",
+   "scene": "小鼠图标箭头指向人类家庭",
+   "prompt_en": "Diagram: a mouse icon with a chart arrow pointing to a human family icon. No text.",
+   "narration": "人类遗传风险，主要从动物数据推断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "遗传效应与生育",
+   "scene": "小研向王老师提问，王老师耐心回答",
+   "prompt_en": "The female graduate student asks the safety administrator a question, and he answers kindly.",
+   "narration": "小研问：会影响以后生孩子吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "遗传效应与生育",
+   "scene": "卵细胞图标旁边日历，剂量柱很低",
+   "prompt_en": "Diagram: an egg cell icon beside a calendar and a very low dose bar. No text.",
+   "narration": "卵细胞不会更新，照射要尽量低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "胚胎和胎儿最敏感",
+   "scene": "孕期时间线，最初几周高亮",
+   "prompt_en": "Diagram: an embryo icon with a sensitivity gauge at maximum and a pregnancy timeline with the first weeks highlighted. No text.",
+   "narration": "胚胎最敏感，尤其孕早期最初几周。",
+   "overlay": [
+    "胚胎和胎儿最敏感"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "胚胎和胎儿最敏感",
+   "scene": "正在形成器官的胚胎，提醒标记",
+   "prompt_en": "Diagram: an embryo forming organs with a caution mark. No text.",
+   "narration": "器官形成期受照，可能导致畸形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "胚胎和胎儿最敏感",
+   "scene": "胎儿图标旁边小幅上升的风险柱",
+   "prompt_en": "Diagram: a fetus icon with a small rising risk bar for blood cancer. No text.",
+   "narration": "宫内受照，白血病风险略有上升。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "胚胎和胎儿最敏感",
+   "scene": "女工作人员向王老师报告，日历和盾牌",
+   "prompt_en": "Diagram: a female worker talking to the safety administrator, with a calendar and a shield icon. No text.",
+   "narration": "知道怀孕，要及时告知导师和学院。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "氡：天然照射里的头号风险",
+   "scene": "地下实验室，架子上放着矿石样品，地面有淡淡气流",
+   "prompt_en": "Diagram: a basement lab with rock samples on a shelf and a faint gas swirling near the floor. No text.",
+   "narration": "地下实验室，氡容易积聚。",
+   "overlay": [
+    "氡：天然照射里的头号风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "氡：天然照射里的头号风险",
+   "scene": "氡子体附在尘埃上被吸进肺，α径迹打在支气管壁",
+   "prompt_en": "Diagram: tiny decay products sticking to dust particles drawn into the lungs, short alpha tracks hitting the airway lining. No text.",
+   "narration": "子体吸进肺，α粒子伤支气管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "氡：天然照射里的头号风险",
+   "scene": "香烟图标让风险柱成倍升高",
+   "prompt_en": "Diagram: a cigarette icon multiplying a lung risk bar. No text.",
+   "narration": "氡是肺癌诱因之一，吸烟成倍放大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "氡：天然照射里的头号风险",
+   "scene": "排风扇、封堵的地面裂缝、地板下抽气管",
+   "prompt_en": "Diagram: an exhaust fan, sealed floor cracks and a sub-floor suction pipe. No text.",
+   "narration": "加强通风、封堵裂缝、地下抽气。",
+   "overlay": [],
+   "labels": [
+    "通风",
+    "封堵",
+    "抽气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "氡：天然照射里的头号风险",
+   "scene": "【实拍】地下实验室墙角放置的氡检测仪和排风开关特写（无放射源，遮挡品牌型号）",
+   "prompt_en": "Close-up: a radon monitor placed in a basement lab corner and a hand switching on an exhaust fan.",
+   "narration": "持续监测，达标前不长期驻留。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "守规程，风险就很低",
+   "scene": "几种常见职业的风险柱，辐射工作者那根很矮",
+   "prompt_en": "Diagram: risk bars of several common jobs, the radiation worker bar small. No text.",
+   "narration": "按规程工作，辐射风险并不高。",
+   "overlay": [
+    "守规程，风险就很低"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "守规程，风险就很低",
+   "scene": "无证操作的人和擅闯的人，都被打叉",
+   "prompt_en": "Diagram: an untrained person operating a device and another person crossing a warning rope, both crossed out. No text.",
+   "narration": "无证操作、擅自闯入，才真危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "守规程，风险就很低",
+   "scene": "阿杰别好个人剂量计，放心走进实验室",
+   "prompt_en": "The young male student clips on a dosimeter badge and walks into the lab with confidence.",
+   "narration": "懂防护、守规程，才最安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "射线、断键、DNA梯子",
+   "prompt_en": "Diagram: a ray, a broken bond and a DNA ladder with a direct and an indirect arrow. No text.",
+   "narration": "电离断键，直接间接伤DNA。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "堤坝和抽奖箱并排",
+   "prompt_en": "Diagram: a water dam and a lottery drum side by side. No text.",
+   "narration": "确定性有阈值，随机性看概率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "胚胎、眼睛、骨髓三个图标",
+   "prompt_en": "Diagram: embryo, eye lens and bone marrow icons under a protective shield. No text.",
+   "narration": "胚胎、晶状体、造血组织最需保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "从零出发的直线和向下的箭头",
+   "prompt_en": "Diagram: a straight line from zero and a downward arrow on a dose bar. No text.",
+   "narration": "防护按线性无阈，能少则少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着盾牌和天平挥手",
+   "prompt_en": "The panda mascot holds a shield and a balance scale and waves goodbye.",
+   "narration": "下一课：辐射防护原则与剂量限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
