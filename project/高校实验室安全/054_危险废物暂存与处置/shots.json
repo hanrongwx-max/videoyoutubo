@@ -1,0 +1,795 @@
+{
+ "id": "054_危险废物暂存与处置",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "危险废物暂存与处置",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/054_危险废物暂存与处置.md",
+ "author_source": "project/高校实验室安全/054_危险废物暂存与处置/src.py",
+ "points": {
+  "K1": "从产生到处置，全程追踪",
+  "K2": "怎样判定危险废物",
+  "K3": "产生多少，登记统计",
+  "K4": "暂存点设在产生点旁，存量有上限",
+  "S1": "实验室暂存点的日常管理",
+  "K5": "装满及时转运，不在实验室堆积",
+  "S2": "含汞含铬、管控类和不明废物单独处理",
+  "K6": "爆炸性残留物不回收，先问负责人",
+  "S3": "按学校安排交接，登记签字",
+  "K7": "转移联单，跟踪到闭环",
+  "K8": "交有资质单位，产生者责任不转移",
+  "K9": "从源头到终点都经得起查"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在危险废物暂存点旁，身后桶整齐摆放在托盘里",
+   "prompt_en": "The panda mascot stands next to a tidy hazardous waste storage point with containers in spill trays and greets the camera.",
+   "narration": "这一课讲危险废物暂存与处置。",
+   "overlay": [
+    "危险废物暂存与处置"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "实验室角落堆着好几个装满的废液桶，有的没盖",
+   "prompt_en": "In a lab corner several full waste containers are piled up, some without caps.",
+   "narration": "阿杰的实验室角落，堆满了废液桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰挠头：这些桶放了好几个月，不知道交给谁",
+   "prompt_en": "The young male student scratches his head looking at the pile of containers.",
+   "narration": "放了好几个月，不知道该交给谁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师走进来，拿着检查表摇头",
+   "prompt_en": "The safety administrator walks in holding a blank checklist and shakes her head.",
+   "narration": "王老师说：废物收好，还得送走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从产生到处置，全程追踪",
+   "scene": "一个废液桶沿着路线图移动：实验室、暂存点、学校贮存库、处置单位",
+   "prompt_en": "Diagram: a waste container moves along a route from a lab to a storage point, a campus storage facility and a treatment plant. No text.",
+   "narration": "危险废物从产生到处置，全程追踪。",
+   "overlay": [
+    "从产生到处置，全程追踪"
+   ],
+   "labels": [
+    "实验室",
+    "暂存点",
+    "学校贮存",
+    "处置单位"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从产生到处置，全程追踪",
+   "scene": "每个桶旁都有一张记录卡",
+   "prompt_en": "Each waste container has a record card attached beside it. No readable text.",
+   "narration": "每一桶，都要有记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "从产生到处置，全程追踪",
+   "scene": "记录链条一环扣一环，中间断开处打叉",
+   "prompt_en": "Diagram: a chain of record cards linked together; a broken link is crossed out. No text.",
+   "narration": "哪一环断了，都说不清去向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怎样判定危险废物",
+   "scene": "一本名录图标和一个放大镜",
+   "prompt_en": "Diagram: a directory book icon with a magnifying glass. No text.",
+   "narration": "一看是否列在危险废物名录里。",
+   "overlay": [
+    "怎样判定危险废物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怎样判定危险废物",
+   "scene": "易燃、腐蚀、反应、毒性、感染五个特性图标",
+   "prompt_en": "Five hazard property icons: flammable, corrosive, reactive, toxic, infectious. No text.",
+   "narration": "二看有没有危险特性。",
+   "overlay": [],
+   "labels": [
+    "易燃",
+    "腐蚀",
+    "反应",
+    "毒性",
+    "感染"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怎样判定危险废物",
+   "scene": "拿不准的桶贴上危废标签，小研去请教王老师",
+   "prompt_en": "An uncertain container is tagged as hazardous waste; the female graduate student consults the safety administrator.",
+   "narration": "拿不准，就按危险废物管，并请教。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怎样判定危险废物",
+   "scene": "法律书和名录图标并排，箭头指向学校",
+   "prompt_en": "Diagram: a law book and a directory icon side by side, an arrow pointing to a university building. No text.",
+   "narration": "依据固废法和国家危险废物名录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "怎样判定危险废物",
+   "scene": "生物危害和电离辐射两个标志，各自指向专门的收集桶",
+   "prompt_en": "A biohazard warning sign and an ionizing radiation sign, each pointing to its own dedicated waste bin. No text.",
+   "narration": "感染性废物见077课，放射性见091课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "产生多少，登记统计",
+   "scene": "小研在台账本上登记本月废物的种类和数量",
+   "prompt_en": "The female graduate student records the kind and amount of waste in a blank ledger. No readable text.",
+   "narration": "产生了什么、多少，登记台账。",
+   "overlay": [
+    "产生多少，登记统计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "产生多少，登记统计",
+   "scene": "柱状图按月变化，最高的一根闪烁",
+   "prompt_en": "Diagram: a monthly bar chart with the tallest bar blinking. No text.",
+   "narration": "按月统计，产生越多，管得越严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "产生多少，登记统计",
+   "scene": "台账汇总到学院和学校的图标",
+   "prompt_en": "Diagram: ledger pages flowing up to a college icon and then a university icon. No text.",
+   "narration": "学校据此申报和安排处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂存点设在产生点旁，存量有上限",
+   "scene": "废液桶放在实验台旁的暂存区，阿杰看着",
+   "prompt_en": "A waste container sits in a marked accumulation area next to the bench; the young male student keeps an eye on it.",
+   "narration": "废液先放在产生点旁的暂存区。",
+   "overlay": [
+    "暂存点设在产生点旁，存量有上限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂存点设在产生点旁，存量有上限",
+   "scene": "暂存区由使用的人直接看管，钥匙图标",
+   "prompt_en": "Diagram: the person who uses the area is shown with a key icon beside the storage area. No text.",
+   "narration": "由产生废物的人直接看管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂存点设在产生点旁，存量有上限",
+   "scene": "桶的数量达到上限线，再加一个打叉",
+   "prompt_en": "Diagram: containers reach a limit line; adding one more is crossed out. No text.",
+   "narration": "暂存的量有上限，不能越堆越多。",
+   "overlay": [],
+   "labels": [
+    "以本校规定为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂存点设在产生点旁，存量有上限",
+   "scene": "小号和大号废液桶，按产生量选择",
+   "prompt_en": "A small and a large waste container; the right size is chosen for the amount produced. No text.",
+   "narration": "按上限和产生量，选合适大小的桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "【实拍】本校实验室危险废物暂存点全景：标志、托盘、分区摆放（遮挡品牌）",
+   "prompt_en": "Overview of a lab hazardous waste storage point with a warning sign, spill trays and separated zones. No readable text.",
+   "narration": "暂存点位置固定，设好危废标志。",
+   "overlay": [
+    "实验室暂存点的日常管理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "每个桶上都贴着危险废物标签",
+   "prompt_en": "Every container at the storage point carries a hazardous waste label. No readable text.",
+   "narration": "每个桶，都贴好危险废物标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "酸碱、有机、氧化剂废液分区放，中间隔开",
+   "prompt_en": "Diagram: acid, organic and oxidizer waste containers stored in separate zones with dividers. No text.",
+   "narration": "不相容的废物，分区隔开放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "托盘接住渗漏，地面防渗",
+   "prompt_en": "Diagram: a spill tray catches a drip; the floor beneath is sealed. No text.",
+   "narration": "放托盘、防渗漏，液体不外流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "暂存点远离热源、电源和通道，旁边有灭火器",
+   "prompt_en": "The storage point is away from heat, power outlets and walkways, with a fire extinguisher nearby. No text.",
+   "narration": "远离火源热源，不堵通道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "通风良好，桶盖都盖紧",
+   "prompt_en": "Diagram: good ventilation airflow over the storage point; all caps are closed. No text.",
+   "narration": "保持通风，桶盖盖紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "实验室暂存点的日常管理",
+   "scene": "【实拍】在暂存点登记表上签字、检查桶的完好（空白登记表）",
+   "prompt_en": "A person checks the containers for damage and signs a blank log sheet at the storage point. No readable text.",
+   "narration": "定期检查，出入都登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装满及时转运，不在实验室堆积",
+   "scene": "桶装满封好，小研打电话联系学校收运",
+   "prompt_en": "A full container is sealed; the female graduate student phones the campus waste collection office.",
+   "narration": "装满了，及时联系学校收运。",
+   "overlay": [
+    "装满及时转运，不在实验室堆积"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装满及时转运，不在实验室堆积",
+   "scene": "日历上圈出收运日期",
+   "prompt_en": "A calendar with a collection date circled. No readable text.",
+   "narration": "在规定时间内转走。",
+   "overlay": [],
+   "labels": [
+    "以本校规定为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装满及时转运，不在实验室堆积",
+   "scene": "转运前拧紧桶盖，擦净桶外壁",
+   "prompt_en": "Before transfer, the cap is tightened and the outside of the container is wiped clean. No text.",
+   "narration": "转运前，盖紧盖子，擦净外壁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "装满及时转运，不在实验室堆积",
+   "scene": "装满的桶在实验室堆了好几个月，打叉",
+   "prompt_en": "Full containers left piled in the lab for months, with cobwebs, crossed out. No text.",
+   "narration": "一直堆在实验室，就是违规。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "含汞、含铬废液各装一个小桶，单独放",
+   "prompt_en": "Two small separate containers for mercury-bearing and chromium-bearing waste set apart from others. No text.",
+   "narration": "含汞含铬等特殊废液，单独收存。",
+   "overlay": [
+    "含汞含铬、管控类和不明废物单独处理"
+   ],
+   "labels": [
+    "含汞",
+    "含铬"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "在实验室自行沉淀、还原处理废液，打叉",
+   "prompt_en": "Diagram: someone trying to treat waste chemically on the bench is crossed out. No text.",
+   "narration": "不在实验室自行处理，交学校。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "破碎的温度计和汞珠图标，箭头指向第56课",
+   "prompt_en": "Diagram: a broken thermometer with tiny mercury beads, and an arrow pointing onward. No text.",
+   "narration": "洒落的汞怎么处理，见056课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "剧毒等管控类化学品的废弃物放进上锁柜，双人图标",
+   "prompt_en": "Waste from controlled chemicals is placed in a locked cabinet with a two-person icon. No text.",
+   "narration": "管控类化学品的废弃物，按管控要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "王老师在登记本上记录，旁边是第45课图标",
+   "prompt_en": "The safety administrator records in a blank ledger. No readable text.",
+   "narration": "报告登记后再处置，见045课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "含汞含铬、管控类和不明废物单独处理",
+   "scene": "标签脱落的不明试剂单独放，挂待鉴别牌",
+   "prompt_en": "An unidentified bottle without a label set apart with a pending tag. No text.",
+   "narration": "成分不明的，单独放，报告鉴别。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸性残留物不回收，先问负责人",
+   "scene": "装有残留物的容器旁画着爆炸警告图标",
+   "prompt_en": "A container with residue beside an explosive hazard icon. No text.",
+   "narration": "爆炸性残留物，风险特别大。",
+   "overlay": [
+    "爆炸性残留物不回收，先问负责人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸性残留物不回收，先问负责人",
+   "scene": "冲水和回收箱两个图标都打叉",
+   "prompt_en": "Two icons crossed out: rinsing down a drain and a recycling bin. No text.",
+   "narration": "不冲下水道，不送去回收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸性残留物不回收，先问负责人",
+   "scene": "阿杰去问老周怎么处置",
+   "prompt_en": "The young male student asks the older man how to deal with it.",
+   "narration": "怎么处置，先问实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "按学校安排交接，登记签字",
+   "scene": "学院统一收运日，各实验室推车送桶到指定地点",
+   "prompt_en": "On collection day, people from several labs bring waste containers on carts to a designated point.",
+   "narration": "按学校通知的时间地点送交。",
+   "overlay": [
+    "按学校安排交接，登记签字"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "按学校安排交接，登记签字",
+   "scene": "【实拍】交接时核对桶的标签、盖子和包装完好（清水桶演示）",
+   "prompt_en": "At handover, a person checks the container label, cap and packaging integrity. No readable text.",
+   "narration": "核对标签，包装完好不渗漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "按学校安排交接，登记签字",
+   "scene": "双方在交接单上签字",
+   "prompt_en": "Two people sign a blank handover form. No readable text.",
+   "narration": "交接登记，双方签字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "按学校安排交接，登记签字",
+   "scene": "把废液桶交给路边陌生收购人，打叉",
+   "prompt_en": "Handing a waste container to an unknown buyer on the street, crossed out. No text.",
+   "narration": "不私自交给无资质的单位或个人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "转移联单，跟踪到闭环",
+   "scene": "一张空白联单在实验室、运输车、处置厂三个图标间传递",
+   "prompt_en": "Diagram: a blank transfer form passes between a lab, a transport truck and a treatment plant. No readable text.",
+   "narration": "运走危险废物，要有转移联单。",
+   "overlay": [
+    "转移联单，跟踪到闭环"
+   ],
+   "labels": [
+    "产生",
+    "运输",
+    "处置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "转移联单，跟踪到闭环",
+   "scene": "电脑屏幕上的联单流程图（空白）",
+   "prompt_en": "A computer screen showing a blank transfer form workflow. No readable text.",
+   "narration": "谁产生、谁运输、谁处置，一清二楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "转移联单，跟踪到闭环",
+   "scene": "联单从处置厂签回学校，画成一个闭合圆圈",
+   "prompt_en": "Diagram: the form returns signed from the treatment plant, closing a circle. No text.",
+   "narration": "处置单位签回来，才算闭环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "转移联单，跟踪到闭环",
+   "scene": "联单没按时回来，王老师打电话追查",
+   "prompt_en": "The safety administrator makes a phone call to follow up a missing return form.",
+   "narration": "没按时回来，就要去追查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "转移联单，跟踪到闭环",
+   "scene": "联单和台账放进档案柜",
+   "prompt_en": "Transfer forms and ledgers are filed into a records cabinet. No readable text.",
+   "narration": "联单和台账，按规定保存备查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "交有资质单位，产生者责任不转移",
+   "scene": "带资质证书图标的处置单位车辆来学校收运",
+   "prompt_en": "A licensed waste treatment company truck with a certificate icon arrives at the campus. No readable text.",
+   "narration": "学校统一交给有资质的单位。",
+   "overlay": [
+    "交有资质单位，产生者责任不转移"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "交有资质单位，产生者责任不转移",
+   "scene": "王老师核对处置单位的许可证书",
+   "prompt_en": "The safety administrator checks the license certificate of the waste treatment company. No readable text.",
+   "narration": "学校核实处置单位的经营许可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "交有资质单位，产生者责任不转移",
+   "scene": "废物交出去了，责任图标仍留在学校",
+   "prompt_en": "Diagram: the waste moves to the truck but a responsibility icon stays with the university. No text.",
+   "narration": "交出去了，责任并没有交出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "交有资质单位，产生者责任不转移",
+   "scene": "对方处置不当，法槌落在学校图标上",
+   "prompt_en": "Diagram: improper handling by the receiver, and a gavel falls on the university icon. No text.",
+   "narration": "对方处置不当，产生单位也担责。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "交有资质单位，产生者责任不转移",
+   "scene": "危废、生活垃圾、下水道三条路，只有交学校打勾",
+   "prompt_en": "Three paths: trash bin and drain crossed out; handing over to the school checked. No text.",
+   "narration": "不倒下水道，不混进生活垃圾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从源头到终点都经得起查",
+   "scene": "王老师带检查组到暂存点检查",
+   "prompt_en": "The safety administrator leads an inspection team to the waste storage point.",
+   "narration": "暂存不超量，分类不出错。",
+   "overlay": [
+    "从源头到终点都经得起查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从源头到终点都经得起查",
+   "scene": "台账、标签、联单三个图标全部打勾",
+   "prompt_en": "Three icons all checked: a ledger, a label and a transfer form. No text.",
+   "narration": "台账、标签、联单都对得上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "从源头到终点都经得起查",
+   "scene": "阿杰说“我不知道”，被打叉",
+   "prompt_en": "The young male student shrugs with a speech bubble icon, crossed out. No text.",
+   "narration": "不知道规定，不能成为借口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "名录放大镜、台账、暂存点三个图标",
+   "prompt_en": "Three icons: a directory with a magnifier, a ledger and a storage point. No text.",
+   "narration": "判定、登记，暂存不超量。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "分区托盘、特殊废液、按时收运三个图标",
+   "prompt_en": "Three icons: zoned spill trays, a special waste container and a collection calendar. No text.",
+   "narration": "分区存放，特殊废物单独，按时送。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "交接签字、联单闭环、资质单位三个图标",
+   "prompt_en": "Three icons: a signed handover, a closed form circle and a licensed company. No text.",
+   "narration": "交接签字，联单闭环，交有资质单位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在阳光下的绿色植物旁挥手，关掉一盏灯",
+   "prompt_en": "The panda mascot stands beside green plants in sunlight, switches off a lamp and waves goodbye.",
+   "narration": "下一课：绿色实验室与节能环保。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
