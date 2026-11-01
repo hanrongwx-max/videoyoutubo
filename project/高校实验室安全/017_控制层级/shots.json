@@ -1,0 +1,922 @@
+{
+ "id": "017_控制层级",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "控制层级",
+ "seconds": 340,
+ "source_doc": "course/高校实验室安全/017_控制层级.md",
+ "author_source": "project/高校实验室安全/017_控制层级/src.py",
+ "points": {
+  "K1": "降低风险：熟悉的规则从哪里来",
+  "K2": "控制层级的五层",
+  "K3": "层级是顺序，不是菜单",
+  "K4": "层级越高越可靠",
+  "K5": "消除：让危害不存在",
+  "K6": "替代：换成更安全的",
+  "K7": "工程控制：把人和危害隔开",
+  "K8": "工程控制要用对",
+  "K9": "管理控制：改变做事方式",
+  "K10": "培训、标识和操作规程",
+  "K11": "管理措施靠执行和监督",
+  "K12": "个人防护是最后一道防线",
+  "K13": "靠防护挡住，说明前面失守",
+  "K14": "多层防护，层层兜底",
+  "K15": "学生在实验室能做的三层",
+  "S1": "发现措施缺失，及时报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个五层倒金字塔图，向镜头招手",
+   "prompt_en": "The panda mascot holds up an inverted pyramid diagram with five blank layers and waves at the camera.",
+   "narration": "这一课讲控制层级。",
+   "overlay": [
+    "控制层级"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "倒金字塔五层依次亮起，每层一个图标",
+   "prompt_en": "An inverted pyramid lights up layer by layer, each layer with one simple icon: a cross, a swap arrow, a shield wall, a clipboard and a glove. No people.",
+   "narration": "风险评估完了，怎么把风险降下来？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起一副手套，准备做一个有挥发性试剂的实验",
+   "prompt_en": "The young male student picks up a pair of gloves, about to start an experiment with a volatile reagent at an open bench.",
+   "narration": "阿杰说：戴上手套就行了吧？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周摆手拦住他",
+   "prompt_en": "The older man raises a hand to stop the young male student.",
+   "narration": "老周说：安全不是从手套开始的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周指着倒金字塔的最底层",
+   "prompt_en": "The older man points to the narrow bottom layer of an inverted pyramid chart.",
+   "narration": "手套在最底层，是最后一招。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰吃惊地张大嘴",
+   "prompt_en": "The young male student looks surprised, mouth open.",
+   "narration": "阿杰吃惊：手套效果最差？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险：熟悉的规则从哪里来",
+   "scene": "四步流程图，第三步“降低风险”亮起",
+   "prompt_en": "A four-step flow chart with the third step highlighted. No people.",
+   "narration": "降低风险，是风险管理的第三步。",
+   "overlay": [
+    "降低风险：熟悉的规则从哪里来"
+   ],
+   "labels": [
+    "识别",
+    "评估",
+    "降低风险",
+    "应急"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险：熟悉的规则从哪里来",
+   "scene": "通风柜、护目镜、手套和实验服四个图标",
+   "prompt_en": "Four icons: a fume hood, safety goggles, gloves and a lab coat. No people.",
+   "narration": "进通风柜、戴护目镜，都为降风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险：熟悉的规则从哪里来",
+   "scene": "三个图标：一个叉、一个下降箭头、一把锁",
+   "prompt_en": "Three icons: a hazard crossed out, a downward arrow, and a padlock. No people.",
+   "narration": "安全管理就是消除、减少、控制危害。",
+   "overlay": [],
+   "labels": [
+    "消除",
+    "减少",
+    "控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "控制层级的五层",
+   "scene": "倒金字塔，最宽的顶层亮起",
+   "prompt_en": "An inverted pyramid with its widest top layer glowing. No people.",
+   "narration": "控制措施分五层，最宽的顶层是消除。",
+   "overlay": [
+    "控制层级的五层"
+   ],
+   "labels": [
+    "消除"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "控制层级的五层",
+   "scene": "第二、三层亮起：交换箭头和隔离墙",
+   "prompt_en": "The second and third layers light up: a swap arrow and a protective wall icon. No people.",
+   "narration": "往下是替代，再往下是工程控制。",
+   "overlay": [],
+   "labels": [
+    "替代",
+    "工程控制"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "控制层级的五层",
+   "scene": "第四、五层亮起：写字板和手套",
+   "prompt_en": "The fourth and fifth layers light up: a clipboard and a glove icon. No people.",
+   "narration": "然后是管理控制，最底层是个人防护。",
+   "overlay": [],
+   "labels": [
+    "管理控制",
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "控制层级的五层",
+   "scene": "一个从上往下的大箭头，旁边对勾",
+   "prompt_en": "A large arrow running from the top layer down to the bottom, with a green check at the top. No people.",
+   "narration": "越往上越有效，优先从上往下选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "控制层级的五层",
+   "scene": "大部分风险在上层被挡住的示意",
+   "prompt_en": "Many red dots representing risks are stopped at the upper wide layers, only a few reach the bottom. No people.",
+   "narration": "大部分风险，应在上层解决。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "层级是顺序，不是菜单",
+   "scene": "一张菜单被打叉，旁边是带编号的台阶",
+   "prompt_en": "A restaurant-style menu card crossed out, next to numbered steps going down. No people.",
+   "narration": "控制层级不是菜单，不能随便挑。",
+   "overlay": [
+    "层级是顺序，不是菜单"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "层级是顺序，不是菜单",
+   "scene": "一大箱手套堆满，通风柜旁问号",
+   "prompt_en": "A huge pile of glove boxes fills a corner while a fume hood stands unused with a question mark. No people.",
+   "narration": "很多实验室做反了：大批买手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "层级是顺序，不是菜单",
+   "scene": "“戴上手套就行”的对话气泡被打叉",
+   "prompt_en": "A speech bubble with a glove icon is crossed out with a red X. No people.",
+   "narration": "上层措施却舍不得投入，这是错的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "层级越高越可靠",
+   "scene": "上层盾牌稳固，下层一个打哈欠的人形图标",
+   "prompt_en": "A solid shield at the top layer, and a yawning person pictogram at the bottom layer. No people.",
+   "narration": "各层最大的差别，是可靠性。",
+   "overlay": [
+    "层级越高越可靠"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "层级越高越可靠",
+   "scene": "人手一滑，上层的隔离罩仍挡住",
+   "prompt_en": "A hand slips near an enclosure, but the enclosure still blocks the splash. No faces.",
+   "narration": "层级越高，人犯了错也不怕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "层级越高越可靠",
+   "scene": "疲劳、着急、分心三个图标指向底层",
+   "prompt_en": "Three icons, a tired face, a clock and a phone, point at the bottom layer. No people.",
+   "narration": "越往下，一累一急一分心就失效。",
+   "overlay": [],
+   "labels": [
+    "累",
+    "急",
+    "分心"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "层级越高越可靠",
+   "scene": "骰子图标和手套，被打叉",
+   "prompt_en": "A dice icon next to a glove, crossed out with a red X. No people.",
+   "narration": "只靠防护，等于赌人从不出错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "消除：让危害不存在",
+   "scene": "一个危害图标被整个擦掉",
+   "prompt_en": "A hazard warning icon is erased completely from a blank board. No people.",
+   "narration": "最有力的是消除：危害没了就伤不了人。",
+   "overlay": [
+    "消除：让危害不存在"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "消除：让危害不存在",
+   "scene": "老李把高处的坏风扇拆下来，在地面上修",
+   "prompt_en": "The facility engineer takes a broken ceiling fan down and repairs it on a workbench at floor level.",
+   "narration": "风扇拆到地面修，就没有坠落风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "消除：让危害不存在",
+   "scene": "地面上的杂物被收进柜子，通道变整洁",
+   "prompt_en": "Clutter on the floor is put away into a cabinet, leaving a clear walkway. No people.",
+   "narration": "东西收好，就不会掉落和绊倒人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "消除：让危害不存在",
+   "scene": "改用新的分析方法，旧试剂瓶被打叉",
+   "prompt_en": "A new analysis method card replaces an old one, and a suspected carcinogen bottle is crossed out. No people.",
+   "narration": "改了方法，就去掉了疑似致癌物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "替代：换成更安全的",
+   "scene": "高毒试剂瓶换成低毒试剂瓶，交换箭头",
+   "prompt_en": "A high-toxicity reagent bottle is swapped for a low-toxicity one, with a swap arrow. No people.",
+   "narration": "去不掉，就换成更安全的低毒试剂。",
+   "overlay": [
+    "替代：换成更安全的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "替代：换成更安全的",
+   "scene": "肥皂水代替腐蚀性清洗剂",
+   "prompt_en": "A bottle of soapy water replaces a bottle with a corrosive pictogram for cleaning. No people.",
+   "narration": "用肥皂水，代替腐蚀性清洗剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "替代：换成更安全的",
+   "scene": "受限空间里换成安全电压灯具",
+   "prompt_en": "In a confined space, an ordinary lamp is swapped for a low-voltage safety lamp. No people.",
+   "narration": "可能有可燃气体，换用安全电压灯具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "替代：换成更安全的",
+   "scene": "换溶剂后，废液桶变少，绿叶图标",
+   "prompt_en": "After a solvent swap, a row of waste containers shrinks to one, with a green leaf icon. No people.",
+   "narration": "换了溶剂，废物也少了，安全又绿色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "工程控制：把人和危害隔开",
+   "scene": "一道墙把人形图标和危害图标隔开",
+   "prompt_en": "A wall separates a person pictogram from a hazard icon. No people.",
+   "narration": "换不了，就用设施把人和危害隔开。",
+   "overlay": [
+    "工程控制：把人和危害隔开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "工程控制：把人和危害隔开",
+   "scene": "通风柜把蒸气从源头抽走",
+   "prompt_en": "A fume hood draws vapor away at the source. No people.",
+   "narration": "通风柜在源头抽走蒸气，减少吸入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "工程控制：把人和危害隔开",
+   "scene": "手套箱和生物安全柜",
+   "prompt_en": "A glove box and a biological safety cabinet side by side. No people.",
+   "narration": "手套箱、生物安全柜，也是工程控制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "工程控制：把人和危害隔开",
+   "scene": "转动部件装上防护罩，旁边急停按钮",
+   "prompt_en": "A rotating machine part covered by a guard, with a red emergency stop button beside it. No people.",
+   "narration": "防护罩、急停装置，靠设备不靠记性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "工程控制要用对",
+   "scene": "防溅挡板挡住飞溅",
+   "prompt_en": "A transparent splash shield on a bench blocks flying droplets. No people.",
+   "narration": "防溅挡板，挡住意外飞溅。",
+   "overlay": [
+    "工程控制要用对"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "工程控制要用对",
+   "scene": "【实拍】通风柜视窗拉到标示高度以下，双手在柜内深处操作（固定机位，柜门标线特写，用清水模拟）",
+   "prompt_en": "A fume hood sash is lowered below the marked height line, and gloved hands work deep inside the hood.",
+   "narration": "视窗放低，在柜内深处操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "工程控制要用对",
+   "scene": "柜门大开、杂物堆满的通风柜被打叉",
+   "prompt_en": "A fume hood with its sash fully open and cluttered with bottles, crossed out with a red X. No people.",
+   "narration": "用错了，只会带来虚假的安全感。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "工程控制要用对",
+   "scene": "五层倒金字塔，第三层亮起，前两层打勾",
+   "prompt_en": "The inverted pyramid with the third layer glowing and the top two layers marked with green checks. No people.",
+   "narration": "工程控制可靠，但排第三，不是最有效。",
+   "overlay": [],
+   "labels": [
+    "第三层"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "管理控制：改变做事方式",
+   "scene": "一个表盘：少接触、短接触、低浓度",
+   "prompt_en": "Three icons: a small drop, a short timer and a diluted beaker. No people.",
+   "narration": "管理控制，改变的是做事的方式。",
+   "overlay": [
+    "管理控制：改变做事方式"
+   ],
+   "labels": [
+    "少接触",
+    "短接触",
+    "低浓度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "管理控制：改变做事方式",
+   "scene": "老周在审批单上签字，旁边放大的反应瓶",
+   "prompt_en": "The older man signs a blank approval form beside an icon of a larger reaction flask.",
+   "narration": "扩大反应规模，要先审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "管理控制：改变做事方式",
+   "scene": "小研和阿杰结伴做实验，时钟显示白天",
+   "prompt_en": "The female graduate student and the young male student work together at a bench, a wall clock shows daytime.",
+   "narration": "危险实验结伴做，安排在有人的时段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "管理控制：改变做事方式",
+   "scene": "阿杰举手示意停下",
+   "prompt_en": "The young male student raises a hand to signal stop.",
+   "narration": "发现不对，人人都可以叫停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "培训、标识和操作规程",
+   "scene": "王老师给学生培训",
+   "prompt_en": "The safety administrator gives a training session to students.",
+   "narration": "管理措施一是培训：懂危害，会操作。",
+   "overlay": [
+    "培训、标识和操作规程"
+   ],
+   "labels": [
+    "培训"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "培训、标识和操作规程",
+   "scene": "门口贴着警示标志",
+   "prompt_en": "A warning sign and a mandatory goggles sign on a lab door. No people.",
+   "narration": "二是标识：提醒危险，提示怎么做。",
+   "overlay": [],
+   "labels": [
+    "标识"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "培训、标识和操作规程",
+   "scene": "一份分步骤的规程，步骤图标依次亮起",
+   "prompt_en": "A blank step-by-step procedure sheet with numbered step icons lighting up in order. No people.",
+   "narration": "三是操作规程，一步一步写清楚。",
+   "overlay": [],
+   "labels": [
+    "操作规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "培训、标识和操作规程",
+   "scene": "老周和阿杰按同一份规程做，结果一致",
+   "prompt_en": "The older man and the young male student follow the same procedure sheet with the same safe result.",
+   "narration": "谁来做，都一样安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理措施靠执行和监督",
+   "scene": "写好的规定被锁进抽屉、落灰，打叉",
+   "prompt_en": "A rule sheet is locked in a drawer gathering dust, crossed out with a red X. No people.",
+   "narration": "规定写了不执行，等于没有。",
+   "overlay": [
+    "管理措施靠执行和监督"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理措施靠执行和监督",
+   "scene": "清晨阿杰打哈欠，王老师在旁提醒",
+   "prompt_en": "Early in the morning the young male student yawns at the bench while the safety administrator reminds him.",
+   "narration": "人会疲劳犯迷糊，要靠监督和自觉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "管理措施靠执行和监督",
+   "scene": "高危操作图标旁一盏警示灯",
+   "prompt_en": "A high-risk operation icon next to a flashing warning lamp. No people.",
+   "narration": "高危操作，这一层要时刻警惕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护是最后一道防线",
+   "scene": "倒金字塔最底层的手套和护目镜亮起",
+   "prompt_en": "The bottom layer of the inverted pyramid lights up with gloves and goggles icons. No people.",
+   "narration": "个人防护，是最后一道防线。",
+   "overlay": [
+    "个人防护是最后一道防线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护是最后一道防线",
+   "scene": "护目镜挡在眼前，危害仍在",
+   "prompt_en": "Safety goggles sit between an eye icon and a hazard icon; the hazard is still there. No people.",
+   "narration": "它不消除危害，只是隔开一层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护是最后一道防线",
+   "scene": "通风柜报警灯亮，只剩护目镜和手套挡着",
+   "prompt_en": "A fume hood alarm light is on, and only goggles and gloves remain between the person pictogram and the vapor. No people.",
+   "narration": "通风柜一失灵，只剩它挡在前面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "个人防护是最后一道防线",
+   "scene": "【实拍】戴好护目镜，戴手套并把袖口压在手套下（手部和面部下半部特写，人物不露脸）",
+   "prompt_en": "Close-up: a person puts on safety goggles, then gloves pulled over the lab coat cuffs.",
+   "narration": "选对、穿好，关键时刻才保得住你。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "靠防护挡住，说明前面失守",
+   "scene": "手套上沾了一滴液体，前面几层都有裂缝",
+   "prompt_en": "A drop of liquid lands on a glove, while the upper layers of the pyramid show cracks. No people.",
+   "narration": "真靠防护挡住了，说明前面失守了。",
+   "overlay": [
+    "靠防护挡住，说明前面失守"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "靠防护挡住，说明前面失守",
+   "scene": "阿杰向老周报告，老周记录",
+   "prompt_en": "The young male student reports to the older man, who writes it down on a blank form.",
+   "narration": "这已是险情，要报告、查原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "靠防护挡住，说明前面失守",
+   "scene": "倒金字塔上层被补上",
+   "prompt_en": "The cracks in the upper layers of the pyramid are repaired one by one. No people.",
+   "narration": "把前面的漏洞补上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "多层防护，层层兜底",
+   "scene": "几片有孔的奶酪片叠在一起，孔不重合",
+   "prompt_en": "Several slices with holes stacked in a row, the holes not lining up, stopping an arrow. No people.",
+   "narration": "每层防护都有漏洞。",
+   "overlay": [
+    "多层防护，层层兜底"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "多层防护，层层兜底",
+   "scene": "箭头穿过第一片，被第二片挡住",
+   "prompt_en": "An arrow passes through the first slice but is stopped by the second slice. No people.",
+   "narration": "一层失手，下一层还能接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "多层防护，层层兜底",
+   "scene": "三道防线：通风柜、规程、护目镜同时亮起",
+   "prompt_en": "Three lines of defense light up at once: a fume hood, a procedure sheet and safety goggles. No people.",
+   "narration": "高危操作，几层措施一起上。",
+   "overlay": [],
+   "labels": [
+    "工程",
+    "管理",
+    "防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "多层防护，层层兜底",
+   "scene": "只有一道防线被击穿，打叉",
+   "prompt_en": "A single thin barrier is pierced by an arrow, crossed out with a red X. No people.",
+   "narration": "别让小失误，击穿唯一的防线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生在实验室能做的三层",
+   "scene": "老周在办公室设计实验，倒金字塔上两层亮起",
+   "prompt_en": "The older man designs an experiment at a desk, while the top two layers of the pyramid glow.",
+   "narration": "消除和替代，多在设计实验时完成。",
+   "overlay": [
+    "学生在实验室能做的三层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生在实验室能做的三层",
+   "scene": "阿杰在实验台前，下三层亮起",
+   "prompt_en": "The young male student stands at a bench, while the bottom three layers of the pyramid glow.",
+   "narration": "在实验台前，你能做的是下面三层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生在实验室能做的三层",
+   "scene": "暴露可能性指针下降",
+   "prompt_en": "A likelihood dial for exposure drops from high to low. No people.",
+   "narration": "降低暴露的可能，就是降低风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "发现措施缺失，及时报告",
+   "scene": "通风柜报警灯亮，阿杰停下手里的操作",
+   "prompt_en": "A fume hood alarm light flashes and the young male student stops his work.",
+   "narration": "通风柜报警、防护罩缺了，先停下。",
+   "overlay": [
+    "发现措施缺失，及时报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "发现措施缺失，及时报告",
+   "scene": "报告链：实验室负责人、学院、实验室管理处",
+   "prompt_en": "A reporting chain of three icons: a lab supervisor, a school office building and a university office. No people.",
+   "narration": "报告实验室负责人，报修。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "管理部门"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "发现措施缺失，及时报告",
+   "scene": "擅自拆改设施的扳手图标被打叉",
+   "prompt_en": "A wrench icon tampering with a guard is crossed out with a red X. No people.",
+   "narration": "不擅自拆改，修好再做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "倒金字塔五层依次打勾",
+   "prompt_en": "The five layers of the inverted pyramid get green checks one by one from the top. No people.",
+   "narration": "消除、替代、工程、管理、防护。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "多道防线一起亮起，手套在最后",
+   "prompt_en": "Several lines of defense glow together, with gloves at the very end. No people.",
+   "narration": "从上往下选，组合用，防护是最后一道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着一个小烧杯和一个大烧杯挥手",
+   "prompt_en": "The panda mascot holds a small beaker and a large beaker side by side and waves goodbye.",
+   "narration": "下一课，讲化学实验风险最小化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
