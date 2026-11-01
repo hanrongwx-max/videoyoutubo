@@ -1,0 +1,941 @@
+{
+ "id": "042_毒性、暴露途径与接触限值",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "毒性、暴露途径与接触限值",
+ "seconds": 350,
+ "source_doc": "course/高校实验室安全/042_毒性、暴露途径与接触限值.md",
+ "author_source": "project/高校实验室安全/042_毒性、暴露途径与接触限值/src.py",
+ "points": {
+  "K1": "先想清楚：化学品怎么进入人体",
+  "K2": "吸入：最常见，闻到就已吸入",
+  "K3": "皮肤和眼睛：眼睛单列一条",
+  "K4": "注入和食入：碎玻璃与入口",
+  "K5": "例：农药能吸入，也能透皮",
+  "K6": "未知物一律按有毒对待",
+  "K7": "急性与慢性：伤害会累积",
+  "S1": "剂量决定毒性：剂量—反应",
+  "S2": "致癌、致畸、致突变与特殊人群",
+  "K8": "症状可能迟发，就医说明接触史",
+  "K9": "接触限值：空气中有害物的浓度界线",
+  "K10": "国内三类限值，以GBZ 2.1为准",
+  "K11": "时间加权平均：整天平均不能超",
+  "K12": "短时间接触：尖峰也不能超",
+  "K13": "最高容许浓度：任何时候不能超",
+  "K14": "立即威胁生命或健康的浓度",
+  "K15": "四个概念像四级台阶",
+  "K16": "限值不是安全线，越低越好",
+  "K17": "行动水平：该监测、该体检了",
+  "K18": "怀疑超标，请专业人员检测",
+  "K19": "检测结果要告知大家"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在人体轮廓图前，箭头从四面指向人体",
+   "prompt_en": "The panda mascot stands beside a large body outline with arrows pointing in from four sides.",
+   "narration": "这一课讲毒性、暴露途径和接触限值。",
+   "overlay": [
+    "毒性、暴露途径与接触限值"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰打开一瓶溶剂，皱眉说：味道还行，没事",
+   "prompt_en": "The young male student opens a solvent bottle at an open bench and shrugs at the smell.",
+   "narration": "阿杰：有点味儿，应该没事吧？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研把瓶子移进通风柜，摇头",
+   "prompt_en": "The female graduate student moves the bottle into a fume hood and shakes her head.",
+   "narration": "小研：闻到了，就已经吸进去了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先想清楚：化学品怎么进入人体",
+   "scene": "人体轮廓，四个箭头：鼻子、皮肤眼睛、针尖、嘴",
+   "prompt_en": "A body outline with four arrows: nose, skin and eye, a needle tip, mouth. No text.",
+   "narration": "第一步：想清楚它怎么进入人体。",
+   "overlay": [
+    "先想清楚：化学品怎么进入人体"
+   ],
+   "labels": [
+    "吸入",
+    "皮肤眼睛",
+    "注入",
+    "食入"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先想清楚：化学品怎么进入人体",
+   "scene": "四个箭头依次亮起",
+   "prompt_en": "The four arrows light up one after another. No text.",
+   "narration": "吸入、皮肤眼睛、注入、食入四条路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先想清楚：化学品怎么进入人体",
+   "scene": "一把伞挡住四个箭头",
+   "prompt_en": "An umbrella shield blocks all four arrows from reaching the body. No text.",
+   "narration": "总原则：别让化学品碰到你。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "吸入：最常见，闻到就已吸入",
+   "scene": "气体、蒸气、烟雾三种小云朵飘向鼻子",
+   "prompt_en": "Three small clouds, gas, vapor and fume, drift toward a nose. No text.",
+   "narration": "吸入，是最常见的途径。",
+   "overlay": [
+    "吸入：最常见，闻到就已吸入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "吸入：最常见，闻到就已吸入",
+   "scene": "鼻子闻到气味，肺部亮起",
+   "prompt_en": "A nose sniffs an odor and the lungs light up red. No text.",
+   "narration": "闻到气味，说明已经吸进去了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "吸入：最常见，闻到就已吸入",
+   "scene": "看不见的分子飘在空中，人毫无察觉",
+   "prompt_en": "Invisible faint molecules float in the air around an unaware worker icon. No text.",
+   "narration": "有的不碰也伤人，无味也有害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "吸入：最常见，闻到就已吸入",
+   "scene": "封闭车库里汽车发动，血液图标变暗",
+   "prompt_en": "A car running inside a closed garage; a blood drop icon turns dark. No text.",
+   "narration": "比如一氧化碳，无色无味夺走氧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "皮肤和眼睛：眼睛单列一条",
+   "scene": "液滴溅到手背和眼睛",
+   "prompt_en": "Droplets splash toward a hand and an eye. No text.",
+   "narration": "第二常见：皮肤和眼睛接触。",
+   "overlay": [
+    "皮肤和眼睛：眼睛单列一条"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "皮肤和眼睛：眼睛单列一条",
+   "scene": "眼睛特写，旁边护目镜",
+   "prompt_en": "Close-up icon of a delicate eye with safety goggles beside it. No text.",
+   "narration": "眼睛极其娇嫩，要单独当一条。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "注入和食入：碎玻璃与入口",
+   "scene": "沾液体的碎玻璃划破手指，打叉",
+   "prompt_en": "A broken glass shard wet with liquid cuts a fingertip icon, crossed out. No text.",
+   "narration": "被沾化学品的碎玻璃割伤，就是注入。",
+   "overlay": [
+    "注入和食入：碎玻璃与入口"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "注入和食入：碎玻璃与入口",
+   "scene": "实验台上吃东西、尝试剂两个图标打叉",
+   "prompt_en": "Icons of eating at a lab bench and tasting a chemical, both crossed out. No text.",
+   "narration": "严禁品尝化学品，严禁饮食。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "注入和食入：碎玻璃与入口",
+   "scene": "手套摸手机、样品被污染",
+   "prompt_en": "A gloved hand touches a phone; a sample tube nearby gets contaminated spots. No text.",
+   "narration": "沾染还会进嘴，也会毁掉样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "例：农药能吸入，也能透皮",
+   "scene": "小研在通风柜里配含农药的培养基",
+   "prompt_en": "The female graduate student prepares a culture medium inside a fume hood, wearing gloves and goggles.",
+   "narration": "农药本身有毒，配制在通风柜里做。",
+   "overlay": [
+    "例：农药能吸入，也能透皮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "例：农药能吸入，也能透皮",
+   "scene": "药液渗过皮肤的剖面图",
+   "prompt_en": "A cross-section of skin with liquid droplets passing through into the body. No text.",
+   "narration": "它能吸进去，也能透过皮肤吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "例：农药能吸入，也能透皮",
+   "scene": "沾到皮肤，立即用大量清水冲洗",
+   "prompt_en": "A forearm rinsed under a running tap. No text.",
+   "narration": "沾到皮肤，马上用大量清水冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "例：农药能吸入，也能透皮",
+   "scene": "领用登记本，用多少领多少",
+   "prompt_en": "A sign-out book and a small measured amount of chemical. No readable text.",
+   "narration": "剧毒品种按规定领用，用多少领多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "未知物一律按有毒对待",
+   "scene": "一瓶无标签的未知样品，问号",
+   "prompt_en": "An unlabeled sample vial with a big question mark. No text.",
+   "narration": "未知样品，一律当有毒对待。",
+   "overlay": [
+    "未知物一律按有毒对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "未知物一律按有毒对待",
+   "scene": "闻、尝、手碰三个图标打叉",
+   "prompt_en": "Three icons, sniffing, tasting, bare hand touching, each crossed out. No text.",
+   "narration": "不闻、不尝、不用手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "未知物一律按有毒对待",
+   "scene": "阿杰戴好手套护目镜，只取一点，向老周请教",
+   "prompt_en": "The young male student in gloves and goggles takes a tiny amount and asks the older man.",
+   "narration": "按最危险防护，问清再处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "急性与慢性：伤害会累积",
+   "scene": "闪电图标和沙漏图标并排",
+   "prompt_en": "A lightning bolt icon beside an hourglass icon. No text.",
+   "narration": "毒性分急性和慢性。",
+   "overlay": [
+    "急性与慢性：伤害会累积"
+   ],
+   "labels": [
+    "急性",
+    "慢性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "急性与慢性：伤害会累积",
+   "scene": "强酸灼伤皮肤图标，伤口难愈合",
+   "prompt_en": "A skin burn icon from a corrosive drop, slow to heal. No text.",
+   "narration": "急性：腐蚀灼伤，难以恢复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "急性与慢性：伤害会累积",
+   "scene": "一个个小水滴积满杯子",
+   "prompt_en": "Small drops fill a cup until it overflows, a calendar flipping beside it. No text.",
+   "narration": "一次没事，不等于没事。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "急性与慢性：伤害会累积",
+   "scene": "肺、神经、肿瘤三个图标",
+   "prompt_en": "Three icons: lungs, a nerve, a tumor cell. No text.",
+   "narration": "长期接触，癌症、呼吸、神经病变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "急性与慢性：伤害会累积",
+   "scene": "小研每次都戴好防护",
+   "prompt_en": "The female graduate student puts on gloves and goggles again for a routine task.",
+   "narration": "少接触，就少受伤、少留后患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量决定毒性：剂量—反应",
+   "scene": "天平一端是剂量，另一端是伤害，越加越重",
+   "prompt_en": "A balance scale: as more dose weights are added on one side, the harm side drops lower. No text.",
+   "narration": "剂量越大，伤害越重。",
+   "overlay": [
+    "剂量决定毒性：剂量—反应"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量决定毒性：剂量—反应",
+   "scene": "一条曲线随剂量上升",
+   "prompt_en": "A simple curve rising as dose increases, no numbers. No text.",
+   "narration": "这叫剂量—反应关系。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "剂量决定毒性：剂量—反应",
+   "scene": "毒性强的小瓶旁只需一滴就亮红",
+   "prompt_en": "A small bottle where just one drop turns the warning light red. No text.",
+   "narration": "毒性强的，很小剂量就能伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "致癌、致畸、致突变与特殊人群",
+   "scene": "三个图标：肿瘤细胞、DNA、胎儿轮廓",
+   "prompt_en": "Three icons: a tumor cell, a DNA strand, a baby silhouette. No text.",
+   "narration": "致癌、致突变、生殖毒性要格外防。",
+   "overlay": [
+    "致癌、致畸、致突变与特殊人群"
+   ],
+   "labels": [
+    "致癌",
+    "致突变",
+    "生殖毒性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "致癌、致畸、致突变与特殊人群",
+   "scene": "标签上健康危害象形图亮起",
+   "prompt_en": "A bottle label with the health hazard silhouette pictogram glowing. No text.",
+   "narration": "看标签和说明书上的健康危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "致癌、致畸、致突变与特殊人群",
+   "scene": "孕期研究生向王老师报告，调整工作",
+   "prompt_en": "A female student talks with the safety administrator, who adjusts her task assignment on a chart.",
+   "narration": "孕期哺乳期，主动报告调整工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "致癌、致畸、致突变与特殊人群",
+   "scene": "过敏体质的人身边加一层防护",
+   "prompt_en": "One person among several gets an extra protective shield around them. No text.",
+   "narration": "敏感、过敏的人，需要额外保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "症状可能迟发，就医说明接触史",
+   "scene": "沙漏后出现症状图标",
+   "prompt_en": "An hourglass runs out, then symptom icons appear: cough, rash, headache. No text.",
+   "narration": "有些中毒，症状会迟发。",
+   "overlay": [
+    "症状可能迟发，就医说明接触史"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "症状可能迟发，就医说明接触史",
+   "scene": "阿杰带着说明书就医，向医生说明",
+   "prompt_en": "The young male student shows a data booklet to a doctor.",
+   "narration": "就医时说清接触过什么。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "症状可能迟发，就医说明接触史",
+   "scene": "老周记录事件",
+   "prompt_en": "The older man writes an incident record in a notebook.",
+   "narration": "同时报告负责人，如实记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接触限值：空气中有害物的浓度界线",
+   "scene": "空气中分子和一条水平界线",
+   "prompt_en": "Airborne molecules below a horizontal limit line. No text.",
+   "narration": "接触限值，说的是空气中的浓度。",
+   "overlay": [
+    "接触限值：空气中有害物的浓度界线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接触限值：空气中有害物的浓度界线",
+   "scene": "多数人在线下工作很多年，状态良好",
+   "prompt_en": "Many worker icons under the line over many calendar years, all healthy. No text.",
+   "narration": "在此之下，多数人长期接触不受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接触限值：空气中有害物的浓度界线",
+   "scene": "几种物质各有高低不同的线",
+   "prompt_en": "Several substances, each with its own limit line at a different height. No text.",
+   "narration": "每种物质限值不同，没有统一数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接触限值：空气中有害物的浓度界线",
+   "scene": "实验室门口也画着同样的线",
+   "prompt_en": "The same limit line drawn across a university lab doorway. No text.",
+   "narration": "实验室不是例外，同样要遵守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国内三类限值，以GBZ 2.1为准",
+   "scene": "国家职业卫生标准书本，三个分类卡片",
+   "prompt_en": "A national occupational health standard booklet with three category cards. No text.",
+   "narration": "国内限值查GBZ 2.1。",
+   "overlay": [
+    "国内三类限值，以GBZ 2.1为准"
+   ],
+   "labels": [
+    "时间加权平均",
+    "短时间接触",
+    "最高容许"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "国内三类限值，以GBZ 2.1为准",
+   "scene": "外国缩写卡片变灰，国标书本亮起",
+   "prompt_en": "Foreign-style abbreviation cards fade to gray while the national standard booklet glows. No text.",
+   "narration": "国外缩写只作了解，以国标为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "时间加权平均：整天平均不能超",
+   "scene": "一天的浓度曲线高高低低，一条平均线",
+   "prompt_en": "A day-long concentration line going up and down, with a flat average line through it. No text.",
+   "narration": "时间加权平均：一天浓度平均一下。",
+   "overlay": [
+    "时间加权平均：整天平均不能超"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "时间加权平均：整天平均不能超",
+   "scene": "平均线低于限值线，打勾",
+   "prompt_en": "The average line stays below the limit line; a green check. No text.",
+   "narration": "按工作日平均，平均值不能超。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "时间加权平均：整天平均不能超",
+   "scene": "数值框是空的，旁边书本",
+   "prompt_en": "An empty number box next to a standard booklet with a magnifier. No text.",
+   "narration": "具体数值查国标，不靠背。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "短时间接触：尖峰也不能超",
+   "scene": "开瓶倒试剂时，曲线短暂冒尖",
+   "prompt_en": "When a bottle is opened and poured, the concentration line spikes briefly. No text.",
+   "narration": "倒试剂、开瓶时，浓度会冒尖。",
+   "overlay": [
+    "短时间接触：尖峰也不能超"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "短时间接触：尖峰也不能超",
+   "scene": "尖峰顶上一条短时上限线，越过打叉",
+   "prompt_en": "A short-term ceiling line above the spike; the part crossing it gets a red X. No text.",
+   "narration": "短时间里的浓度，也有上限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "短时间接触：尖峰也不能超",
+   "scene": "平均打勾，尖峰打叉",
+   "prompt_en": "Average line with a check, a spike above the short-term line with a cross. No text.",
+   "narration": "平均没超，尖峰超了也不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "最高容许浓度：任何时候不能超",
+   "scene": "一条红色天花板线，曲线始终在下",
+   "prompt_en": "A red ceiling line; the concentration line never touches it. No text.",
+   "narration": "最高容许浓度，任何时候不能超。",
+   "overlay": [
+    "最高容许浓度：任何时候不能超"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "最高容许浓度：任何时候不能超",
+   "scene": "曲线碰到天花板，警报闪烁",
+   "prompt_en": "The line touches the red ceiling and an alarm light flashes. No text.",
+   "narration": "一碰就是超标，立即停下处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "立即威胁生命或健康的浓度",
+   "scene": "红色区域里一个骷髅警示",
+   "prompt_en": "A red zone with a skull warning icon. No text.",
+   "narration": "还有一种浓度，一接触就危及生命。",
+   "overlay": [
+    "立即威胁生命或健康的浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "立即威胁生命或健康的浓度",
+   "scene": "门口拦着，人不能进入",
+   "prompt_en": "A doorway blocked by a barrier; a worker stops outside. No text.",
+   "narration": "不能在里面作业，也不能贸然冲进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "立即威胁生命或健康的浓度",
+   "scene": "检测仪和呼吸器图标，保卫处值班员接电话",
+   "prompt_en": "A gas detector icon and a breathing apparatus icon; the security officer answers a phone.",
+   "narration": "未经检测和防护绝不进入，撤离报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "四个概念像四级台阶",
+   "scene": "四级台阶，从低到高",
+   "prompt_en": "Four steps rising from low to high, each a different color. No text.",
+   "narration": "这几个概念，像四级台阶。",
+   "overlay": [
+    "四个概念像四级台阶"
+   ],
+   "labels": [
+    "限值",
+    "平均",
+    "短时",
+    "立即危险"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "四个概念像四级台阶",
+   "scene": "前两级标日历，后两级标闪电",
+   "prompt_en": "The first two steps have calendar icons; the top two have lightning icons. No text.",
+   "narration": "前看长期平均，后看尖峰和立即危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "限值不是安全线，越低越好",
+   "scene": "限值线下方仍有小警示",
+   "prompt_en": "A small warning icon still sits below the limit line. No text.",
+   "narration": "低于限值，不等于绝对安全。",
+   "overlay": [
+    "限值不是安全线，越低越好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "限值不是安全线，越低越好",
+   "scene": "少用、替换、通风柜三个图标",
+   "prompt_en": "Three icons: a smaller bottle, a swap arrow, a fume hood. No text.",
+   "narration": "能少用就少用，能换就换，进通风柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "限值不是安全线，越低越好",
+   "scene": "接触曲线压到很低，打勾",
+   "prompt_en": "The exposure line pushed far down near zero, with a check. No text.",
+   "narration": "接触越低越好，不是贴线就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "行动水平：该监测、该体检了",
+   "scene": "限值线下方一条虚线，到达后亮灯",
+   "prompt_en": "A dashed line below the limit line; when reached, a lamp lights up. No text.",
+   "narration": "达到行动水平，就要启动监测。",
+   "overlay": [
+    "行动水平：该监测、该体检了"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "行动水平：该监测、该体检了",
+   "scene": "监测仪和体检图标",
+   "prompt_en": "Icons of an air monitor and a health check-up. No text.",
+   "narration": "监测、体检，确保不超国家限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "怀疑超标，请专业人员检测",
+   "scene": "大量溶剂在用，阿杰头疼，问号",
+   "prompt_en": "Many solvent bottles in use; the young male student holds his head, a question mark above.",
+   "narration": "大量用挥发溶剂，怀疑超标怎么办？",
+   "overlay": [
+    "怀疑超标，请专业人员检测"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "怀疑超标，请专业人员检测",
+   "scene": "【实拍】专业人员在实验室用便携式检测仪器采样（本校职业卫生检测，遮挡品牌型号）",
+   "prompt_en": "A technician holds a portable air sampling device near a lab bench. No readable display.",
+   "narration": "请专业人员检测空气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "怀疑超标，请专业人员检测",
+   "scene": "测量值带误差范围，留出余量",
+   "prompt_en": "A measurement bar with an error range, kept well below the limit line. No text.",
+   "narration": "测量有误差，判断时要留余量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "怀疑超标，请专业人员检测",
+   "scene": "改进通风后，日历上标出复测",
+   "prompt_en": "After improving ventilation, a calendar marks a retest date. No text.",
+   "narration": "偏高就改进，并定期复测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "检测结果要告知大家",
+   "scene": "检测报告锁在柜里，打叉",
+   "prompt_en": "A report locked inside a cabinet, crossed out. No text.",
+   "narration": "检测结果不能锁在柜子里。",
+   "overlay": [
+    "检测结果要告知大家"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "检测结果要告知大家",
+   "scene": "王老师在白板前向大家通报结果",
+   "prompt_en": "The safety administrator shares results on a whiteboard with students.",
+   "narration": "要及时告知实验室每个人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四条途径、急慢性、限值台阶三个图标打勾",
+   "prompt_en": "Icons of four routes, an hourglass and four steps, each with a green check. No text.",
+   "narration": "挡住四条路，记住限值不是安全线。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "通风柜、防护、检测三个图标",
+   "prompt_en": "Three icons: fume hood, goggles and gloves, air monitor. No text.",
+   "narration": "少接触，勤防护，怀疑就检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在整齐分区的试剂柜前挥手",
+   "prompt_en": "The panda mascot stands in front of a neatly sectioned chemical cabinet and waves goodbye.",
+   "narration": "下一课：化学品储存原则与相容性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
