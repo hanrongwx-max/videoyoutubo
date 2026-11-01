@@ -1,0 +1,1018 @@
+{
+ "id": "066_生物安全绩效评估与审核",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "生物安全绩效评估与审核",
+ "seconds": 390,
+ "source_doc": "course/高校实验室安全/066_生物安全绩效评估与审核.md",
+ "author_source": "project/高校实验室安全/066_生物安全绩效评估与审核/src.py",
+ "points": {
+  "K1": "什么是绩效评估：记录、测量、评价",
+  "K2": "绩效：计划与实际之差",
+  "K3": "减缓之后再评估，一圈圈循环",
+  "K4": "从方针到目标：看得见、量得出",
+  "K5": "指标：用数字说话",
+  "K6": "先行指标与滞后指标",
+  "K7": "好指标的特征，审慎使用",
+  "K8": "先想清楚，再测量",
+  "K9": "收集和分析数据",
+  "K10": "案例：一次感染引出的绩效分析",
+  "K11": "内部审核：对照规程逐项查",
+  "K12": "外部审核与监督检查",
+  "K13": "管理评审：体系合适、充分、有效吗",
+  "K14": "纠正措施与持续改进",
+  "K15": "被检查时：照常规范，出错先停"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个仪表盘旁，指针在中间",
+   "prompt_en": "The panda mascot stands beside a large gauge with the needle in the middle and greets the camera.",
+   "narration": "这一课讲生物安全绩效评估与审核。",
+   "overlay": [
+    "生物安全绩效评估与审核"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "实验室门口贴出一张空白通知",
+   "prompt_en": "A blank notice is pinned on the lab door.",
+   "narration": "学院通知：下周做生物安全内部审核。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对小研眨眼，摆摆手",
+   "prompt_en": "The young male student winks at the female graduate student and waves his hand casually.",
+   "narration": "阿杰说：那天认真点，平时随便就行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，翻开计划文件夹",
+   "prompt_en": "The female graduate student shakes her head and opens the plan binder.",
+   "narration": "小研说：审核看的，恰恰是平时。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是绩效评估：记录、测量、评价",
+   "scene": "记录本、尺子、天平三个图标",
+   "prompt_en": "Diagram: icons of a logbook, a ruler and a balance scale. No text.",
+   "narration": "绩效评估：记录、测量、评价做过的事。",
+   "overlay": [
+    "什么是绩效评估：记录、测量、评价"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是绩效评估：记录、测量、评价",
+   "scene": "风险箭头往下降",
+   "prompt_en": "Diagram: a risk arrow moving downward. No text.",
+   "narration": "目的，是把生物风险降下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是绩效评估：记录、测量、评价",
+   "scene": "人、物、设施、病原四个图标都被放大镜扫过",
+   "prompt_en": "Diagram: a magnifier sweeps over icons of people, materials, facilities and germs. No text.",
+   "narration": "不只看病原，人、物、设施都要看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是绩效评估：记录、测量、评价",
+   "scene": "翻查记录：防护失效、事故、未遂、日常检查",
+   "prompt_en": "Diagram: flipping through records of containment failures, accidents, near misses and routine checks. No text.",
+   "narration": "回头查记录，未遂和日常检查也算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是绩效评估：记录、测量、评价",
+   "scene": "达标打勾、未达标问号",
+   "prompt_en": "Diagram: met items with check marks and unmet items with question marks. No text.",
+   "narration": "看哪里达标，哪里没达标，问为什么。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "绩效：计划与实际之差",
+   "scene": "小研跑步，手表计时",
+   "prompt_en": "The female graduate student jogs on a track, checking her stopwatch.",
+   "narration": "打个比方：计划十五分钟跑完一公里。",
+   "overlay": [
+    "绩效：计划与实际之差"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "绩效：计划与实际之差",
+   "scene": "实际用了二十分钟，天气、体能、跑鞋图标",
+   "prompt_en": "Diagram: the actual time is longer; icons of weather, fitness and shoes are checked. No numbers.",
+   "narration": "实际二十分钟，找出拖后腿的原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "绩效：计划与实际之差",
+   "scene": "计划柱和实际柱之间的差距被标出",
+   "prompt_en": "Diagram: a gap highlighted between a plan bar and an actual bar. No text.",
+   "narration": "计划和实际的差距，就是绩效。",
+   "overlay": [],
+   "labels": [
+    "计划",
+    "实际"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "绩效：计划与实际之差",
+   "scene": "年度对比表：事件、事故、溢洒三行",
+   "prompt_en": "Diagram: a yearly comparison table with rows for incidents, accidents and spills, using icons. No numbers.",
+   "narration": "年初定目标，年底对比差在哪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "绩效：计划与实际之差",
+   "scene": "目标零溢洒，实际一次，指向修订规程和培训",
+   "prompt_en": "Diagram: a zero-spill goal versus one actual spill, pointing to revising procedures and more training. No text.",
+   "narration": "差了就改规程、加培训，每起都调查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "减缓之后再评估，一圈圈循环",
+   "scene": "加了控制措施后，问号悬在上方",
+   "prompt_en": "Diagram: new controls are in place, with a question mark floating above them. No text.",
+   "narration": "控制加了，就一定有效吗？",
+   "overlay": [
+    "减缓之后再评估，一圈圈循环"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "减缓之后再评估，一圈圈循环",
+   "scene": "减缓之后再做一次评估，风险条变短",
+   "prompt_en": "Diagram: a second assessment after mitigation shows a shorter risk bar. No text.",
+   "narration": "减缓之后再评估，确认真的降了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "减缓之后再评估，一圈圈循环",
+   "scene": "五步圆圈：收集信息、评价风险、定策略、落实、复查",
+   "prompt_en": "Diagram: a five-step circle of gathering facts, rating risk, choosing a strategy, putting controls in place and reviewing. No text.",
+   "narration": "收集、评价、定策略、落实、复查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "减缓之后再评估，一圈圈循环",
+   "scene": "检查表：推荐了什么、落实了吗、为什么没有、有记录吗",
+   "prompt_en": "Diagram: a review checklist with icons for recommended, done, reason and record. No text.",
+   "narration": "推荐的措施落实了吗？没有，为什么？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "减缓之后再评估，一圈圈循环",
+   "scene": "数据图表递给老周，老周点头",
+   "prompt_en": "The safety administrator shows a chart to the older man; he nods in agreement.",
+   "narration": "数据，也是说服领导投入的依据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "方针文件发出光芒，像一面旗帜",
+   "prompt_en": "Diagram: a policy document shining like a flag. No text.",
+   "narration": "方针表明决心和方向，不讲具体做法。",
+   "overlay": [
+    "从方针到目标：看得见、量得出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "方针分解成职责、目标、步骤三条线",
+   "prompt_en": "Diagram: the policy splits into three lines for duties, goals and steps. No text.",
+   "narration": "要再分解成职责、目标和步骤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "目标卡：实验结束，零感染",
+   "prompt_en": "Diagram: a goal card showing a healthy worker and a zero symbol at the end of a project. No text.",
+   "narration": "目标看得见、量得出，比如零感染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "规程本上带时钟的步骤",
+   "prompt_en": "Diagram: a procedure book with timed steps and a clock icon. No text.",
+   "narration": "具体目标是限时步骤，像操作规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "五个打勾格：具体、可测、能实现、合理、有时限",
+   "prompt_en": "Diagram: five checkboxes for specific, measurable, achievable, reasonable and time-bound. No text.",
+   "narration": "具体、可测、能实现、合理、有时限。",
+   "overlay": [],
+   "labels": [
+    "具体",
+    "可测",
+    "可实现",
+    "合理",
+    "有时限"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "从方针到目标：看得见、量得出",
+   "scene": "做不到的目标被审核员圈出",
+   "prompt_en": "Diagram: an unrealistic goal circled by an auditor. No text.",
+   "narration": "定做不到的目标，审核会指出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指标：用数字说话",
+   "scene": "尺子量出多少次、多少量",
+   "prompt_en": "Diagram: a ruler measuring how many times and how much. No numbers.",
+   "narration": "指标要用数字说话。",
+   "overlay": [
+    "指标：用数字说话"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指标：用数字说话",
+   "scene": "同一把尺子定期量，曲线偏离时亮灯",
+   "prompt_en": "Diagram: the same ruler used regularly; a warning light turns on when the trend line drifts. No text.",
+   "narration": "一直用同一把尺子，偏离就提前报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指标：用数字说话",
+   "scene": "事件、险兆、培训完成率三个仪表",
+   "prompt_en": "Diagram: three gauges for incidents, near misses and completed training. No numbers.",
+   "narration": "看事件、看险兆，看该学的是否学完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指标：用数字说话",
+   "scene": "演练记录、防护用品、检查频次图标",
+   "prompt_en": "Diagram: icons for drill records, protective gear supply and inspection frequency. No text.",
+   "narration": "演练做没做？记录就是证据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "指标：用数字说话",
+   "scene": "要量什么就选什么，覆盖各层级",
+   "prompt_en": "Diagram: chosen measures match the goal and cover lab, school and university levels. No text.",
+   "narration": "要量什么就选什么，不图省事。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先行指标与滞后指标",
+   "scene": "仪表左右两半：先行和滞后",
+   "prompt_en": "Diagram: a gauge split into two halves, one for leading and one for lagging measures. No text.",
+   "narration": "指标分两类：先行和滞后。",
+   "overlay": [
+    "先行指标与滞后指标"
+   ],
+   "labels": [
+    "先行指标",
+    "滞后指标"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先行指标与滞后指标",
+   "scene": "过程、文化、行为、屏障四个图标指向前方",
+   "prompt_en": "Diagram: icons for process, culture, behavior and barriers pointing forward. No text.",
+   "narration": "先行指标看过程、文化、行为和屏障。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先行指标与滞后指标",
+   "scene": "事件、事故、险兆、整改四个图标在后视镜里",
+   "prompt_en": "Diagram: icons for incidents, accidents, near misses and corrective actions seen in a rear-view mirror. No text.",
+   "narration": "滞后指标看事件事故，事后才看到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先行指标与滞后指标",
+   "scene": "只在出事后开会分析，钟表已过点，打叉",
+   "prompt_en": "Diagram: a meeting held only after an accident, with a clock already past the hour, marked with a red cross. No text.",
+   "narration": "只做事后分析，太晚了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "先行指标与滞后指标",
+   "scene": "王老师观察日常操作，听同行分享经验",
+   "prompt_en": "The safety administrator observes daily work and listens to colleagues sharing lessons.",
+   "narration": "多看日常行为，多听同行教训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "好指标的特征，审慎使用",
+   "scene": "大家围桌商量定指标",
+   "prompt_en": "Lab members sit around a table agreeing on measures together.",
+   "narration": "好指标，大家一起商量出来。",
+   "overlay": [
+    "好指标的特征，审慎使用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "好指标的特征，审慎使用",
+   "scene": "相关、客观、及时、成本合理四个打勾",
+   "prompt_en": "Diagram: four check marks for relevant, objective, timely and affordable. No text.",
+   "narration": "相关、客观、及时，成本合理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "好指标的特征，审慎使用",
+   "scene": "清楚易懂的图表展示给大家",
+   "prompt_en": "Diagram: a clear and simple chart shown to the group. No text.",
+   "narration": "委员会事先定标准，数据要让人看懂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "好指标的特征，审慎使用",
+   "scene": "别处拿来的尺子不合用，换一把",
+   "prompt_en": "Diagram: a borrowed ruler does not fit the task and is swapped for a better one. No text.",
+   "narration": "定期检查指标，照搬别处未必合用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先想清楚，再测量",
+   "scene": "测量、看懂、控制、改进四级台阶",
+   "prompt_en": "Diagram: four steps for measure, understand, control and improve. No text.",
+   "narration": "量出来才看得懂，才控制得住。",
+   "overlay": [
+    "先想清楚，再测量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先想清楚，再测量",
+   "scene": "输入、步骤、输出流程，每步记录",
+   "prompt_en": "Diagram: an input, process steps and output flow, with a record at each step. No text.",
+   "narration": "流程分输入、步骤、输出，每步记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先想清楚，再测量",
+   "scene": "四个问号：做得到吗、对不对、达标吗、量对了吗",
+   "prompt_en": "Diagram: four question marks about feasibility, correctness, results and the right measure. No text.",
+   "narration": "评估前先问四个问题。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先想清楚，再测量",
+   "scene": "问卷和现场跟看两个图标",
+   "prompt_en": "Diagram: icons of a questionnaire and an observer watching at the bench. No text.",
+   "narration": "可以发问卷，也可以现场跟看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先想清楚，再测量",
+   "scene": "事件报告、本底血清留存、现场观察三个图标",
+   "prompt_en": "Diagram: icons for incident reports, stored baseline blood samples and on-site observation. No text.",
+   "narration": "看事件规律、健康监测和现场操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "收集和分析数据",
+   "scene": "数据收集、分析、结论三个漏斗",
+   "prompt_en": "Diagram: three funnels for collecting data, analyzing it and drawing conclusions. No text.",
+   "narration": "定好要什么数据，收集，再分析。",
+   "overlay": [
+    "收集和分析数据"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "收集和分析数据",
+   "scene": "盯得太紧，阿杰紧张手抖，打叉",
+   "prompt_en": "Diagram: an observer standing too close makes a nervous worker's hands shake, marked with a red cross. No text.",
+   "narration": "盯得太紧，人一紧张反而出错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "收集和分析数据",
+   "scene": "日历和计时器：分析指定专人和期限",
+   "prompt_en": "Diagram: a calendar and timer beside one assigned analyst. No text.",
+   "narration": "分析要指定专人，给定期限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "收集和分析数据",
+   "scene": "监控摄像头和告知牌",
+   "prompt_en": "Diagram: a camera with a notice board placed beside it. No text.",
+   "narration": "装监控要事先告知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "收集和分析数据",
+   "scene": "录像文件上锁，只用于安全管理",
+   "prompt_en": "Diagram: video files locked away and used only for safety management. No text.",
+   "narration": "录像只用于安全管理，不外传。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "案例：一次感染引出的绩效分析",
+   "scene": "检测实验室：上岗体检、防护规程、结束复查三步",
+   "prompt_en": "Diagram: a testing lab with three steps, a health check before work, protective procedures and a follow-up check. No text.",
+   "narration": "某检测实验室，要降低人员感染风险。",
+   "overlay": [
+    "案例：一次感染引出的绩效分析"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "案例：一次感染引出的绩效分析",
+   "scene": "五个人图标，其中一个变红",
+   "prompt_en": "Diagram: five person icons, one of which turns red. No text.",
+   "narration": "结果，五人中有一人检测阳性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "案例：一次感染引出的绩效分析",
+   "scene": "放大镜检查规程和操作链条",
+   "prompt_en": "Diagram: a magnifier examines the procedure and each step of the work chain. No text.",
+   "narration": "规程合适吗？哪里出了漏洞？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "案例：一次感染引出的绩效分析",
+   "scene": "事故分析会，提出纠正措施",
+   "prompt_en": "Diagram: an incident analysis meeting leading to corrective actions. No text.",
+   "narration": "做事故分析，采取纠正措施。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "王老师拿着检查表走到实验台旁",
+   "prompt_en": "The safety administrator walks to a lab bench holding a checklist.",
+   "narration": "审核，就是看写的和做的是否一致。",
+   "overlay": [
+    "内部审核：对照规程逐项查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "【实拍】本校实验室生物安全检查表（空白样张）逐项打勾的手部特写",
+   "prompt_en": "Close-up of a hand ticking items on a blank inspection checklist with a pen. No readable text.",
+   "narration": "内部审核，对照规程逐项查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "到实验台旁看哪步繁琐、哪步有险",
+   "prompt_en": "Diagram: an auditor watches each step at the bench, marking awkward and risky steps. No text.",
+   "narration": "到台旁看，哪步繁琐，哪步有险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "学校、学院、实验室三级检查",
+   "prompt_en": "Diagram: three levels of checks by the university, the school and the lab. No text.",
+   "narration": "学院、学校也会定期组织检查。",
+   "overlay": [],
+   "labels": [
+    "学校",
+    "学院",
+    "实验室"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "查到的问题如实写在记录上",
+   "prompt_en": "The safety administrator writes findings honestly on a blank record.",
+   "narration": "查到什么，如实记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "内部审核：对照规程逐项查",
+   "scene": "不符合项和改进点两个标签",
+   "prompt_en": "Diagram: two tags, one for nonconformities and one for improvement ideas. No text.",
+   "narration": "找出不符合项，也找改进点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外部审核与监督检查",
+   "scene": "审核看规程、检查看设施、检测看设备",
+   "prompt_en": "Diagram: three icons, auditing procedures, inspecting facilities and testing equipment. No text.",
+   "narration": "审核看规程，检查看设施，检测看设备。",
+   "overlay": [
+    "外部审核与监督检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外部审核与监督检查",
+   "scene": "主管部门检查组上门，老周陪同",
+   "prompt_en": "An inspection team from the authorities arrives; the older man accompanies them.",
+   "narration": "主管部门依法检查，负责人陪同配合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外部审核与监督检查",
+   "scene": "外部审核员拿着记录核对",
+   "prompt_en": "Diagram: an external auditor checking records against requirements. No text.",
+   "narration": "外部审核更客观，认可时要看记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外部审核与监督检查",
+   "scene": "高级别实验室的认可证书图标",
+   "prompt_en": "Diagram: an accreditation certificate icon beside a higher-level lab. No text.",
+   "narration": "高级别实验室还要通过国家认可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "管理评审：体系合适、充分、有效吗",
+   "scene": "老周主持会议，桌上一摞材料",
+   "prompt_en": "The older man chairs a review meeting with a stack of reports on the table.",
+   "narration": "负责人按计划，定期做管理评审。",
+   "overlay": [
+    "管理评审：体系合适、充分、有效吗"
+   ],
+   "labels": [
+    "合适",
+    "充分",
+    "有效"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "管理评审：体系合适、充分、有效吗",
+   "scene": "审核结果、纠正措施、事件调查、上次跟进等材料",
+   "prompt_en": "Diagram: inputs of audit results, corrective actions, incident investigations and follow-ups from the last review. No text.",
+   "narration": "看审核结果、事件调查和上次跟进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "管理评审：体系合适、充分、有效吗",
+   "scene": "制度、程序、目标被修改",
+   "prompt_en": "Diagram: rules, procedures and goals being revised with a pen. No text.",
+   "narration": "该改的制度、程序和目标，就改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "管理评审：体系合适、充分、有效吗",
+   "scene": "每一步都有记录，评审有依据",
+   "prompt_en": "Diagram: a record attached to each step, supporting the review. No text.",
+   "narration": "每一步有记录，评审才有依据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "纠正措施与持续改进",
+   "scene": "整改单：谁来改、怎么改、何时完成",
+   "prompt_en": "Diagram: a corrective action form with icons for the person, the method and the deadline. No text.",
+   "narration": "纠正措施：谁改，怎么改，何时改完。",
+   "overlay": [
+    "纠正措施与持续改进"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "纠正措施与持续改进",
+   "scene": "整改前后对比照片，复查打勾",
+   "prompt_en": "Diagram: before and after photos of a fix, with a follow-up check mark. No text.",
+   "narration": "改完拍照留证，复查后关闭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "纠正措施与持续改进",
+   "scene": "教训写进规程，圆环再转一圈",
+   "prompt_en": "Diagram: a lesson learned written into the procedure and the cycle turning again. No text.",
+   "narration": "把教训写进规程，一圈圈改进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "纠正措施与持续改进",
+   "scene": "专人管文件，旁边一本个人安全笔记",
+   "prompt_en": "Diagram: one person in charge of the files, and a personal safety notebook beside the official procedure. No text.",
+   "narration": "专人管文件，笔记代替不了规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "被检查时：照常规范，出错先停",
+   "scene": "审核那天，阿杰照平常一样规范操作",
+   "prompt_en": "On audit day, the young male student works carefully just as he does every day.",
+   "narration": "被检查时，照平常一样规范做。",
+   "overlay": [
+    "被检查时：照常规范，出错先停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "被检查时：照常规范，出错先停",
+   "scene": "阿杰一紧张手滑，立刻停下",
+   "prompt_en": "The young male student slips slightly from nerves and stops immediately.",
+   "narration": "一紧张出错，先停下，别硬撑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "被检查时：照常规范，出错先停",
+   "scene": "阿杰如实说明，按规程处理",
+   "prompt_en": "The young male student explains honestly and follows the procedure to handle it.",
+   "narration": "如实说明，按规程处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "计划与实际的差距条",
+   "prompt_en": "Diagram: a gap bar between plan and actual. No text.",
+   "narration": "绩效是计划与实际之差。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "先行、滞后两个仪表和数据图",
+   "prompt_en": "Diagram: leading and lagging gauges with a data chart. No text.",
+   "narration": "目标量得出，先行滞后指标一起看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "内审、外部检查、管理评审、整改四个图标成环",
+   "prompt_en": "Diagram: internal audit, external inspection, management review and corrective action icons in a ring. No text.",
+   "narration": "内审外查、管理评审，整改闭环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一个风险矩阵格子图旁挥手",
+   "prompt_en": "The panda mascot stands beside a colored risk grid and waves goodbye.",
+   "narration": "下一课：生物风险评估的步骤与风险矩阵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
