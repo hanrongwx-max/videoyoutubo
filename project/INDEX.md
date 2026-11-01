@@ -920,3 +920,11 @@
 | RSO Training Series | 08_Basic Radiation Safety | 国内版 | 辐射安全基础课（国内版） | 167 | 13:55 | 30 / 8 | [剧本](<RSO Training Series/08_Basic Radiation Safety（国内版）/script.md>) · [审查](<RSO Training Series/08_Basic Radiation Safety（国内版）/审查报告.md>) |
 | RSO Training Series | 09_Properties of Ionizing Radiation Alpha Beta Gamma | 原著版 | 电离辐射的性质：α、β、γ | 56 | 4:40 | 17 / 0 | [剧本](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma/script.md>) |
 | RSO Training Series | 09_Properties of Ionizing Radiation Alpha Beta Gamma | 国内版 | α、β、γ：三种射线的性质（国内版） | 74 | 6:10 | 17 / 6 | [剧本](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/script.md>) · [审查](<RSO Training Series/09_Properties of Ionizing Radiation Alpha Beta Gamma（国内版）/审查报告.md>) |
+
+## 新课程《高校实验室安全》
+
+由全部原视频知识点合并整理的课程（大纲见 `curriculum/课程大纲.md`），已编写 1 节。
+
+| 课 | 课名 | 镜头 | 时长 | 知识点 | 文件 |
+|---|---|---|---|---|---|
+| 001_课程导学：从规则到风险管理 | 课程导学：从规则到风险管理 | 48 | 4:00 | 8 | [剧本](<高校实验室安全/001_课程导学：从规则到风险管理/script.md>) |
