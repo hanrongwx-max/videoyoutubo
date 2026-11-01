@@ -1,0 +1,942 @@
+{
+ "id": "011_人因与事故致因",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "人因与事故致因",
+ "seconds": 345,
+ "source_doc": "course/高校实验室安全/011_人因与事故致因.md",
+ "author_source": "project/高校实验室安全/011_人因与事故致因/src.py",
+ "points": {
+  "K1": "人都会犯错，越忙越要守规矩",
+  "K2": "赶时间是事故的前兆",
+  "K3": "一时冲动也会伤人",
+  "K4": "专注：别一边看手机一边操作",
+  "K5": "关注人的因素：疲劳和马虎",
+  "K6": "小心认知陷阱",
+  "K7": "不安全行为",
+  "K8": "不安全状态",
+  "K9": "事故从哪里来",
+  "K10": "差错是系统问题的症状",
+  "K11": "瑞士奶酪模型：漏洞对齐就出事",
+  "S1": "事故金字塔：险情是事故的预告",
+  "K12": "事故的代价像冰山",
+  "K13": "无心之失与有意违规",
+  "K14": "公正文化：三类行为，三种应对",
+  "K15": "按人的特点设计：防错设计",
+  "K16": "事故预防的五个E"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一块被打翻了一角的多米诺骨牌阵旁，向镜头招手",
+   "prompt_en": "The panda mascot stands beside a row of dominoes with the first few toppled and waves at the camera.",
+   "narration": "这一课讲人因与事故致因。",
+   "overlay": [
+    "人因与事故致因"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "三个图标：人脑、漏洞重叠的奶酪片、冰山",
+   "prompt_en": "Three icons in a row: a human brain, stacked cheese slices with holes, and an iceberg. No people.",
+   "narration": "人为什么会犯错，事故怎么发生。",
+   "overlay": [],
+   "labels": [
+    "人为什么错",
+    "事故怎么来",
+    "怎么预防"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰手忙脚乱，桌上三个计时器同时响，他抓起一瓶试剂",
+   "prompt_en": "The young male student is flustered as three timers ring at once on his bench; he grabs a reagent bottle in a hurry.",
+   "narration": "阿杰今天忙得团团转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他拿错了瓶子，正要倒进烧杯，小研伸手拦住",
+   "prompt_en": "He picked the wrong bottle and is about to pour it into a beaker when the female graduate student stops his hand.",
+   "narration": "差一点，就倒错了试剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣对镜头歪头思考",
+   "prompt_en": "The panda mascot tilts its head thoughtfully at the camera.",
+   "narration": "只怪阿杰粗心吗？没那么简单。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "人都会犯错，越忙越要守规矩",
+   "scene": "实验室里人人忙碌，安全图标被挤到角落",
+   "prompt_en": "Everyone is busy in the lab; a small safety icon is pushed into a corner. No faces in detail.",
+   "narration": "一忙起来，最容易忘的就是安全。",
+   "overlay": [
+    "人都会犯错，越忙越要守规矩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "人都会犯错，越忙越要守规矩",
+   "scene": "博士帽和老资历徽章旁也有差错图标",
+   "prompt_en": "A doctoral cap and a senior badge, each with a small error icon beside it. No people.",
+   "narration": "学历再高、资历再老，人都会犯错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "人都会犯错，越忙越要守规矩",
+   "scene": "抄近路跳过防护步骤的箭头被打叉，绕回正路",
+   "prompt_en": "A shortcut arrow skipping a protection step is crossed out, and the path returns to the proper route. No people.",
+   "narration": "越忙越想抄近路，越要按规矩来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "赶时间是事故的前兆",
+   "scene": "时钟指针飞转，阿杰额头冒汗",
+   "prompt_en": "Clock hands spin fast while the young male student sweats.",
+   "narration": "图省事，往往是因为赶时间。",
+   "overlay": [
+    "赶时间是事故的前兆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "赶时间是事故的前兆",
+   "scene": "实验计划表上留出空白的余量时段",
+   "prompt_en": "A blank experiment schedule with buffer time blocks left empty between tasks. No people.",
+   "narration": "实验计划留余量，不靠抢时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "赶时间是事故的前兆",
+   "scene": "阿杰停下来深呼吸，再继续",
+   "prompt_en": "The young male student pauses, takes a deep breath, then continues calmly.",
+   "narration": "一着急，就先停一停，安全步骤不省。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一时冲动也会伤人",
+   "scene": "阿杰的样品被洗掉，他气得握拳",
+   "prompt_en": "The young male student finds his samples washed away and clenches his fist in anger.",
+   "narration": "阿杰气坏了。",
+   "overlay": [
+    "一时冲动也会伤人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一时冲动也会伤人",
+   "scene": "一拳捶向纸巾盒，手被划破的图标",
+   "prompt_en": "A pictogram of a fist hitting a tissue box dispenser and a small cut on the hand. No people.",
+   "narration": "一拳捶下去，手被划破了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一时冲动也会伤人",
+   "scene": "阿杰走到走廊冷静，深呼吸",
+   "prompt_en": "The young male student steps into the corridor to calm down and breathes deeply.",
+   "narration": "生气时先离开冷静，别拿东西撒气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "专注：别一边看手机一边操作",
+   "scene": "开车时边吃边聊、调收音机的图标，只有目视前方打勾",
+   "prompt_en": "Driving icons: eating, chatting and tuning the radio are crossed out; eyes on the road gets a green check. No people.",
+   "narration": "开车时，只有盯着路面才不算分心。",
+   "overlay": [
+    "专注：别一边看手机一边操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "专注：别一边看手机一边操作",
+   "scene": "边看手机边移液的图标被打叉",
+   "prompt_en": "A pictogram of a person pipetting while looking at a phone, crossed out with a red X. No people.",
+   "narration": "做实验也一样，别边看手机边操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "专注：别一边看手机一边操作",
+   "scene": "推着试剂车走楼道，手机收在口袋里",
+   "prompt_en": "The young male student pushes a chemical cart down a corridor with his phone in his pocket.",
+   "narration": "推试剂车、走楼道，也别看手机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关注人的因素：疲劳和马虎",
+   "scene": "疲劳的电池、走神的气泡、马虎的问号三个图标",
+   "prompt_en": "Three icons: a low battery, a wandering thought bubble, and a careless question mark. No people.",
+   "narration": "人会累，会走神，会马虎。",
+   "overlay": [
+    "关注人的因素：疲劳和马虎"
+   ],
+   "labels": [
+    "疲劳",
+    "走神",
+    "马虎"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关注人的因素：疲劳和马虎",
+   "scene": "不同的小人图标，各有不同的状态",
+   "prompt_en": "Several different person pictograms, each with a different mood or energy icon. No people.",
+   "narration": "每个人都不一样，状态也会变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关注人的因素：疲劳和马虎",
+   "scene": "王老师和学生交谈，引导大家",
+   "prompt_en": "The safety administrator talks with students, guiding them kindly.",
+   "narration": "管理者要会影响人的行为和观念。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "小心认知陷阱",
+   "scene": "老周看着一瓶熟悉的试剂，旁边已用多年的日历",
+   "prompt_en": "The older man looks at a familiar reagent bottle beside a calendar showing many years.",
+   "narration": "认知陷阱，连老手也会中招。",
+   "overlay": [
+    "小心认知陷阱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "小心认知陷阱",
+   "scene": "多年没出事的勾勾，旁边危险图标被缩小",
+   "prompt_en": "A long row of checkmarks for years without incidents, while a hazard icon beside them shrinks. No people.",
+   "narration": "多年没出事，就低估了危险。",
+   "overlay": [],
+   "labels": [
+    "熟悉偏差"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "小心认知陷阱",
+   "scene": "一份空白安全说明书，只看第一行就合上",
+   "prompt_en": "A blank safety data sheet is closed after reading only the first line, while later sections stay unread. No people.",
+   "narration": "只看第一眼，不往下读，也是陷阱。",
+   "overlay": [],
+   "labels": [
+    "锚定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "小心认知陷阱",
+   "scene": "表面打勾的清单下方藏着一个警示三角",
+   "prompt_en": "A checklist with all boxes ticked on the surface, with a hidden warning triangle beneath it. No people.",
+   "narration": "表面条件满足，不等于真的安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不安全行为",
+   "scene": "嬉闹、不戴护目镜两个图标被打叉",
+   "prompt_en": "Two crossed-out pictograms: horseplay in the lab, and working without goggles. No people.",
+   "narration": "人做出的危险动作，叫不安全行为。",
+   "overlay": [
+    "不安全行为"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不安全行为",
+   "scene": "明知规程却图省事，跳过一步的图标被打叉",
+   "prompt_en": "A pictogram of a person knowingly skipping a written step to save time, crossed out with a red X. No people.",
+   "narration": "明知规程却图省事，也是不安全行为。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不安全行为",
+   "scene": "饼图里人的行为占一大块，管理和设备各一块",
+   "prompt_en": "A pie chart where human behavior is the largest slice, with management and equipment slices too. No people.",
+   "narration": "多数事故与人有关，也要查管理和设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不安全状态",
+   "scene": "纸箱堵着通道，旁边高温热板无人看",
+   "prompt_en": "Boxes block an aisle and a hot plate sits unattended nearby. No people.",
+   "narration": "环境里让人受伤的隐患，叫不安全状态。",
+   "overlay": [
+    "不安全状态"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不安全状态",
+   "scene": "乱拉的延长线、没标签的瓶子、堵住的门口三个图标",
+   "prompt_en": "Three icons: a tangled extension cord, an unlabeled bottle, and a blocked doorway. No people.",
+   "narration": "乱拉线、堵门口、没标签，都是。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不安全状态",
+   "scene": "敞开的地沟盖板被围挡，旁边警示标志",
+   "prompt_en": "An open floor trench cover is fenced off with a warning sign beside it. No people.",
+   "narration": "敞开的盖板，先围挡、再报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不安全状态",
+   "scene": "阿杰把纸箱搬离通道，再给王老师打电话",
+   "prompt_en": "The young male student moves the boxes out of the aisle, then calls the safety administrator.",
+   "narration": "能纠正马上纠正，纠正不了就报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "事故从哪里来",
+   "scene": "两条岔路：一条明知危险还走，一条蒙着眼走",
+   "prompt_en": "Two paths: one with a person walking past a warning sign knowingly, the other with a blindfolded person. No people.",
+   "narration": "出事往往两种：明知故犯，或不知危险。",
+   "overlay": [
+    "事故从哪里来"
+   ],
+   "labels": [
+    "明知故犯",
+    "不知危险"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "事故从哪里来",
+   "scene": "规程册里每一条都连着一个过去的事故图标",
+   "prompt_en": "A procedure binder where each line links back to a past accident icon. No people.",
+   "narration": "规程写下的，都是用教训换来的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "事故从哪里来",
+   "scene": "不守规范的场景亮起红灯",
+   "prompt_en": "A red warning light glows over a scene of procedures being ignored. No people.",
+   "narration": "事故最常发生在不守规范的时候。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "差错是系统问题的症状",
+   "scene": "地面上的一朵小花是差错，地下是庞大的根系",
+   "prompt_en": "A small weed above the ground labeled as an error, with a large root system underground. No people.",
+   "narration": "人犯错，往往是系统出了问题。",
+   "overlay": [
+    "差错是系统问题的症状"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "差错是系统问题的症状",
+   "scene": "根系分成三支：管理、个人、环境条件",
+   "prompt_en": "The roots split into three branches with icons: management, the individual, and environment conditions. No people.",
+   "narration": "差错是症状，根子在下面。",
+   "overlay": [],
+   "labels": [
+    "管理",
+    "个人",
+    "环境条件"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "差错是系统问题的症状",
+   "scene": "老周管制度、阿杰守规、老李修设施",
+   "prompt_en": "The older man reviews rules, the young male student follows the procedure, and the facility engineer repairs equipment.",
+   "narration": "管理、个人、设施，三方都有责任。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "瑞士奶酪模型：漏洞对齐就出事",
+   "scene": "几片带洞的奶酪片排成一排",
+   "prompt_en": "Several cheese slices with holes stand in a row like defense layers. No people.",
+   "narration": "每道防线都有漏洞，像一片片奶酪。",
+   "overlay": [
+    "瑞士奶酪模型：漏洞对齐就出事"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "瑞士奶酪模型：漏洞对齐就出事",
+   "scene": "一支箭头穿过对齐的洞，撞上事故图标",
+   "prompt_en": "An arrow passes through aligned holes in all slices and hits an accident icon. No people.",
+   "narration": "漏洞刚好对齐，事故就发生了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "瑞士奶酪模型：漏洞对齐就出事",
+   "scene": "最后一片奶酪上的洞标为一线失误",
+   "prompt_en": "The last cheese slice's hole is highlighted as a frontline mistake. No people.",
+   "narration": "一线的失误，是看得见的漏洞。",
+   "overlay": [],
+   "labels": [
+    "一线失误"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "瑞士奶酪模型：漏洞对齐就出事",
+   "scene": "前面几片的暗洞：时钟、缺培训、坏设备",
+   "prompt_en": "Hidden holes in the earlier slices show a clock, a missing training icon, and a broken equipment icon. No people.",
+   "narration": "赶进度、缺培训、设备坏，是暗洞。",
+   "overlay": [],
+   "labels": [
+    "赶进度",
+    "缺培训",
+    "设备坏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "瑞士奶酪模型：漏洞对齐就出事",
+   "scene": "补上一个洞，箭头被挡住",
+   "prompt_en": "One hole is patched and the arrow is stopped by the slice. No people.",
+   "narration": "堵上任何一个洞，事故就能挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故金字塔：险情是事故的预告",
+   "scene": "金字塔：顶端一个重伤，中间多个轻伤，底部大量险情",
+   "prompt_en": "A pyramid: one serious injury icon at the top, several minor injury icons in the middle, and many near-miss icons at the base. No people.",
+   "narration": "一次重伤背后，有很多轻伤和险情。",
+   "overlay": [
+    "事故金字塔：险情是事故的预告"
+   ],
+   "labels": [
+    "重伤",
+    "轻伤",
+    "险情"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故金字塔：险情是事故的预告",
+   "scene": "金字塔最底部是大量不安全行为和状态",
+   "prompt_en": "Below the pyramid base lie many unsafe act and unsafe condition icons. No people.",
+   "narration": "最底下，是大量不安全行为和状态。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "事故金字塔：险情是事故的预告",
+   "scene": "阿杰把一次险情记下来，交给王老师",
+   "prompt_en": "The young male student writes down a near miss and hands it to the safety administrator.",
+   "narration": "报告险情，在塔底就把事故拦住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "事故的代价像冰山",
+   "scene": "冰山：水面上的一角是医药费",
+   "prompt_en": "An iceberg with a small tip above water showing a medical bill icon. No people.",
+   "narration": "事故的代价像冰山，医药费只是一角。",
+   "overlay": [
+    "事故的代价像冰山"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "事故的代价像冰山",
+   "scene": "水下是停课、设备损坏、数据丢失、多年心血",
+   "prompt_en": "Below the water: icons of a cancelled class, broken equipment, lost data, and years of work. No people.",
+   "narration": "受伤、损坏、停课，可能毁掉多年积累。",
+   "overlay": [],
+   "labels": [
+    "停课",
+    "设备损坏",
+    "数据丢失"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "事故的代价像冰山",
+   "scene": "书本和盾牌，把事故图标挡在外面",
+   "prompt_en": "A book and a shield keep an accident icon away. No people.",
+   "narration": "多数事故能预防，懂安全就能少出事。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "无心之失与有意违规",
+   "scene": "两个岔开的箭头：无心之失与有意违规",
+   "prompt_en": "Two diverging arrows: one labeled with an oops icon, one with a deliberate shortcut icon. No people.",
+   "narration": "差错分两类，对策不一样。",
+   "overlay": [
+    "无心之失与有意违规"
+   ],
+   "labels": [
+    "无心之失",
+    "有意违规"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "无心之失与有意违规",
+   "scene": "拿错瓶、漏一步的图标，旁边检查表和好设计",
+   "prompt_en": "Icons of picking the wrong bottle and missing a step, next to a checklist and a well designed rack. No people.",
+   "narration": "拿错瓶、漏一步，靠检查表和设计防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "无心之失与有意违规",
+   "scene": "故意走捷径的图标，检查表管不住",
+   "prompt_en": "A pictogram of a deliberate shortcut walking past a checklist. No people.",
+   "narration": "故意走捷径，检查表管不住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "无心之失与有意违规",
+   "scene": "培训、清楚的规程、团队文化三个图标",
+   "prompt_en": "Three icons: a training session, a clear procedure sheet, and a team culture circle. No people.",
+   "narration": "要靠培训、清楚的规程和文化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "公正文化：三类行为，三种应对",
+   "scene": "三个门牌：无心差错、没意识到风险、明知危险硬干",
+   "prompt_en": "Three signboards with icons: an honest slip, an unaware person, and a reckless person. No people.",
+   "narration": "行为分三类，处理各不同。",
+   "overlay": [
+    "公正文化：三类行为，三种应对"
+   ],
+   "labels": [
+    "无心差错",
+    "没意识到",
+    "明知硬干"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "公正文化：三类行为，三种应对",
+   "scene": "抄错数的阿杰，老周改流程而不是批评",
+   "prompt_en": "The young male student copied a wrong number; the older man revises the procedure form instead of scolding him.",
+   "narration": "无心差错：不责备，改进流程系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "公正文化：三类行为，三种应对",
+   "scene": "小研辅导阿杰，把安全做法放到更顺手的位置",
+   "prompt_en": "The female graduate student coaches the young male student and moves the safety gear to a handier spot.",
+   "narration": "没意识到风险：辅导他，让安全更方便。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "公正文化：三类行为，三种应对",
+   "scene": "明知危险还硬干的图标被打叉，旁边问责图标",
+   "prompt_en": "A pictogram of someone knowingly doing a dangerous shortcut, crossed out, with an accountability gavel icon. No people.",
+   "narration": "明知危险还硬干，要严肃问责。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "公正文化：三类行为，三种应对",
+   "scene": "险情报告箱里的报告越来越多",
+   "prompt_en": "A near-miss report box filling up with more and more blank reports. No people.",
+   "narration": "诚实的失误不责备，险情报告才会多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按人的特点设计：防错设计",
+   "scene": "人和墙的对比：别跟人性较劲",
+   "prompt_en": "A pictogram of a person pushing against a wall, crossed out, next to a smooth path designed around them. No people.",
+   "narration": "别跟人性较劲，按人的特点设计。",
+   "overlay": [
+    "按人的特点设计：防错设计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按人的特点设计：防错设计",
+   "scene": "【实拍】废液桶口的颜色和形状各不相同，漏斗只能插进对应的桶（清水模拟，无品牌，无人）",
+   "prompt_en": "Waste containers with different colored and shaped openings; a funnel only fits the matching container. No people.",
+   "narration": "颜色加形状，漏斗只插得进对的桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按人的特点设计：防错设计",
+   "scene": "醒目标签、分开存放、开关防误触罩三个图标",
+   "prompt_en": "Three icons: a bold label, separated storage shelves, and a switch with a protective flip cover. No people.",
+   "narration": "标签醒目、分开存放，开关加防护罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "按人的特点设计：防错设计",
+   "scene": "流程中加入核对的勾选点，干扰和催促图标变小",
+   "prompt_en": "A workflow with a double-check point added, while distraction and rush icons shrink. No people.",
+   "narration": "流程加核对，少干扰，少赶工压力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "事故预防的五个E",
+   "scene": "五个E图标排成一排",
+   "prompt_en": "Five icons in a row: a book, a thumbs up, a gear, a rule book, and a magnifying glass. No people.",
+   "narration": "预防事故，有五个E。",
+   "overlay": [
+    "事故预防的五个E"
+   ],
+   "labels": [
+    "教育",
+    "激励",
+    "工程",
+    "执行",
+    "评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "事故预防的五个E",
+   "scene": "王老师讲课、老周表扬阿杰",
+   "prompt_en": "The safety administrator teaches a class, and the older man praises the young male student.",
+   "narration": "教育靠培训，激励靠表扬和奖励。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "事故预防的五个E",
+   "scene": "通风柜和防护罩安装好，规章制度严格执行",
+   "prompt_en": "A fume hood and a machine guard are installed, and a rule book is enforced at the lab door.",
+   "narration": "工程上防护，制度上严格执行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "事故预防的五个E",
+   "scene": "放大镜检查效果，循环箭头",
+   "prompt_en": "A magnifying glass reviews results, with a continuous improvement loop arrow. No people.",
+   "narration": "最后评估效果，持续改进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "人脑和忙碌时钟",
+   "prompt_en": "A human brain icon next to a rushing clock.",
+   "narration": "人都会犯错，忙、累、急最危险。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "奶酪片和金字塔",
+   "prompt_en": "Cheese slices and a pyramid of near misses.",
+   "narration": "差错是系统的症状，险情要报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三类行为和防错设计",
+   "prompt_en": "Three behavior signboards and an error-proof funnel.",
+   "narration": "三类行为三种应对，用设计防错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣在骨牌阵旁挥手",
+   "prompt_en": "The panda mascot waves goodbye beside the row of dominoes.",
+   "narration": "下一课，讲实验室危害的类型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
