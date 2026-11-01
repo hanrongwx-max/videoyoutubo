@@ -1,0 +1,1059 @@
+{
+ "id": "087_辐射剂量与单位",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "辐射剂量与单位",
+ "seconds": 395,
+ "source_doc": "course/高校实验室安全/087_辐射剂量与单位.md",
+ "author_source": "project/高校实验室安全/087_辐射剂量与单位/src.py",
+ "points": {
+  "K1": "什么是剂量：受照多少的量度",
+  "K2": "剂量量层层递进",
+  "K3": "照射量：X、γ在空气里的电离",
+  "K4": "剂量率：看活度，也看距离",
+  "K5": "累积剂量：剂量率乘时间",
+  "K6": "吸收剂量与戈瑞",
+  "K7": "剂量按质量算，不按体积算",
+  "K8": "怕的不是发热，而是细胞损伤",
+  "K9": "同样1戈瑞，伤害不一样",
+  "K10": "辐射权重因子与当量剂量",
+  "K11": "有效剂量：全身风险一个数",
+  "K12": "外照射与内照射剂量",
+  "K13": "待积剂量与剂量系数",
+  "K14": "单位速查：新旧单位对照"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一把写着空白刻度的尺子",
+   "prompt_en": "The panda mascot holds up a large ruler with blank marks.",
+   "narration": "这一课讲辐射剂量与单位。",
+   "overlay": [
+    "辐射剂量与单位"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着个人剂量报告单发愣",
+   "prompt_en": "Diagram: the young male student staring at a blank personal dose report with question marks. No text.",
+   "narration": "阿杰拿到剂量报告，看不懂单位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研翻着一本旧外文教材，单位五花八门",
+   "prompt_en": "Diagram: the female graduate student flipping an old foreign textbook with many different unit badges. No text.",
+   "narration": "小研的旧教材，单位五花八门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师在白板前画出四级台阶",
+   "prompt_en": "The safety administrator draws four stair steps on a whiteboard.",
+   "narration": "王老师说：一级一级来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是剂量：受照多少的量度",
+   "scene": "一个人站在射线旁边，旁边一把尺子",
+   "prompt_en": "Diagram: a person standing near ray lines with a measuring ruler beside them. No text.",
+   "narration": "人受了多少照射，用剂量来衡量。",
+   "overlay": [
+    "什么是剂量：受照多少的量度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是剂量：受照多少的量度",
+   "scene": "测仪器是为了认识源，更为了保护人",
+   "prompt_en": "Diagram: a detector pointing at a source, then an arrow to a person under a protective umbrella. No text.",
+   "narration": "测辐射，最终是为了保护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是剂量：受照多少的量度",
+   "scene": "剂量学：测量、计算、评估三个图标",
+   "prompt_en": "Diagram: three icons, a meter for measuring, a calculator for computing and a clipboard for assessing. No text.",
+   "narration": "剂量学：测量、计算、评估剂量。",
+   "overlay": [],
+   "labels": [
+    "测量",
+    "计算",
+    "评估"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是剂量：受照多少的量度",
+   "scene": "既保护工作人员，也为放疗做计划",
+   "prompt_en": "Diagram: a worker with a dosimeter badge and a treatment planning screen side by side. No text.",
+   "narration": "既保护工作人员，也为治疗做计划。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量量层层递进",
+   "scene": "四级台阶",
+   "prompt_en": "Diagram: four stair steps rising from left to right, each step a different color. No text.",
+   "narration": "剂量量像台阶，一级建在一级上。",
+   "overlay": [
+    "剂量量层层递进"
+   ],
+   "labels": [
+    "照射量",
+    "吸收剂量",
+    "当量剂量",
+    "有效剂量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量量层层递进",
+   "scene": "射线穿过物质，电离或激发原子",
+   "prompt_en": "Diagram: a ray passing through matter, knocking electrons out and exciting atoms. No text.",
+   "narration": "射线穿过物质，会电离或激发原子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量量层层递进",
+   "scene": "要么数电荷，要么算能量",
+   "prompt_en": "Diagram: two paths, one counting charges and one measuring deposited energy. No text.",
+   "narration": "剂量单位，要么数电离，要么算能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "剂量量层层递进",
+   "scene": "后两个台阶都用同一个单位徽章",
+   "prompt_en": "Diagram: the top two stair steps sharing the same unit badge, with a caution mark. No text.",
+   "narration": "后两级都叫希沃特，含义却不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "照射量：X、γ在空气里的电离",
+   "scene": "X射线和γ射线在空气里打出离子",
+   "prompt_en": "Diagram: X-ray and gamma ray lines passing through a box of air, creating plus and minus ions. No text.",
+   "narration": "照射量：X、γ在空气里电离多少。",
+   "overlay": [
+    "照射量：X、γ在空气里的电离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "照射量：X、γ在空气里的电离",
+   "scene": "只收集一种符号的电荷，除以空气质量",
+   "prompt_en": "Diagram: only minus charges collected on a plate, divided by the mass of the air box. No text.",
+   "narration": "数一种符号的电荷，除以空气质量。",
+   "overlay": [],
+   "labels": [
+    "库仑/千克"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "照射量：X、γ在空气里的电离",
+   "scene": "旧单位伦琴",
+   "prompt_en": "Diagram: an old book with a unit badge and an arrow to a modern unit badge. No text.",
+   "narration": "旧单位伦琴，国外资料还常见。",
+   "overlay": [],
+   "labels": [
+    "伦琴 R",
+    "旧单位"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "照射量：X、γ在空气里的电离",
+   "scene": "打出一对离子要花固定的能量",
+   "prompt_en": "Diagram: one ion pair with a small fixed energy coin beside it. No text.",
+   "narration": "打出一对离子，要花固定的能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "照射量：X、γ在空气里的电离",
+   "scene": "照射量只管X、γ和空气，对人体打叉",
+   "prompt_en": "Diagram: an air box with a check mark, and a human body, neutrons, alpha and beta icons with crossed-out marks. No text.",
+   "narration": "它只管X、γ和空气，人体要用新的量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "点源向四面八方发出射线",
+   "prompt_en": "Diagram: a point source in the center with ray lines spreading in all directions. No text.",
+   "narration": "点源的射线，向四面八方散开。",
+   "overlay": [
+    "剂量率：看活度，也看距离"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "源越强、γ能量越高，剂量率越高",
+   "prompt_en": "Diagram: a bigger source and higher energy rays making a dose rate bar taller. No text.",
+   "narration": "源越强、γ能量越高，剂量率越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "每种核素有自己的常数，像身份证",
+   "prompt_en": "Diagram: several nuclide icons, each holding a blank identity card. No text.",
+   "narration": "每种核素，有自己的剂量率常数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "距离加倍，面积变成四倍",
+   "prompt_en": "Diagram: rays spreading onto a small square at one distance and a square four times larger at double distance. No text.",
+   "narration": "距离加倍，射线摊在四倍的面积上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "剂量率降到四分之一",
+   "prompt_en": "Diagram: a dose rate bar dropping to one quarter when the distance doubles. No text.",
+   "narration": "剂量率就降到四分之一。",
+   "overlay": [],
+   "labels": [
+    "距离×2",
+    "剂量率÷4"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "剂量率：看活度，也看距离",
+   "scene": "【实拍】剂量率仪显示屏读数和单位特写（本底环境，不用放射源）",
+   "prompt_en": "Close-up: a handheld dose rate meter display showing a reading with a unit, held on a lab bench.",
+   "narration": "剂量率单位常用微希沃特每小时。",
+   "overlay": [],
+   "labels": [
+    "μSv/h"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "累积剂量：剂量率乘时间",
+   "scene": "杯子在水龙头下越接越满",
+   "prompt_en": "Diagram: a cup filling under a tap, the water level rising with a clock. No text.",
+   "narration": "累积剂量，等于剂量率乘时间。",
+   "overlay": [
+    "累积剂量：剂量率乘时间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "累积剂量：剂量率乘时间",
+   "scene": "站得越久，杯子装得越满",
+   "prompt_en": "Diagram: a person standing near a source with a cup filling as a clock ticks. No text.",
+   "narration": "站得越久，受照越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "累积剂量：剂量率乘时间",
+   "scene": "照射量换算成组织剂量",
+   "prompt_en": "Diagram: an air box arrow converting to a soft tissue block, with a nearly equal sign. No text.",
+   "narration": "照射量换成软组织剂量，系数接近一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "累积剂量：剂量率乘时间",
+   "scene": "先估算再测量",
+   "prompt_en": "Diagram: a person estimating with a calculator, then checking with a meter. No text.",
+   "narration": "测量之前，可以先估一估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "累积剂量：剂量率乘时间",
+   "scene": "单位核对两遍打钩",
+   "prompt_en": "Diagram: a calculation sheet checked twice with two check marks. No text.",
+   "narration": "换算单位，一定要核对两遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "一千克物质吸收一焦耳能量",
+   "prompt_en": "Diagram: a one kilogram block absorbing a small energy bolt. No text.",
+   "narration": "吸收剂量：每千克物质吸收的能量。",
+   "overlay": [
+    "吸收剂量与戈瑞"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "每千克一焦耳就是一戈瑞",
+   "prompt_en": "Diagram: a block with an energy bolt and an equal sign to a unit badge. No text.",
+   "narration": "每千克吸收一焦耳，就是一戈瑞。",
+   "overlay": [],
+   "labels": [
+    "1 Gy = 1 J/kg"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "任何辐射、任何物质都适用",
+   "prompt_en": "Diagram: alpha, beta, gamma and neutron icons hitting water, bone and metal blocks, all with check marks. No text.",
+   "narration": "它适用于任何辐射、任何物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "旧单位拉德",
+   "prompt_en": "Diagram: an old unit badge with a conversion arrow to a modern badge. No text.",
+   "narration": "旧单位拉德，一戈瑞等于一百拉德。",
+   "overlay": [],
+   "labels": [
+    "戈瑞 Gy",
+    "旧 rad"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "说不清照得多快、是哪种射线",
+   "prompt_en": "Diagram: a dose block with two question marks, one over a clock and one over a ray type icon. No text.",
+   "narration": "可它说不清照得多快、哪种射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吸收剂量与戈瑞",
+   "scene": "生物效应要另外考虑",
+   "prompt_en": "Diagram: a cell icon with a magnifier next to the dose block. No text.",
+   "narration": "这两点，偏偏对生物效应很重要。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "剂量按质量算，不按体积算",
+   "scene": "一千克空气、水、玻璃，大小差很多",
+   "prompt_en": "Diagram: one kilogram of air in a huge bag, a medium water jug and a small glass block on a scale. No text.",
+   "narration": "同样一千克，空气、水、玻璃大小差很多。",
+   "overlay": [
+    "剂量按质量算，不按体积算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "剂量按质量算，不按体积算",
+   "scene": "质量一样、能量一样，剂量就一样",
+   "prompt_en": "Diagram: the three objects each receiving the same energy bolt with equal signs. No text.",
+   "narration": "质量一样、能量一样，剂量就一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "剂量按质量算，不按体积算",
+   "scene": "同样体积，质量不同，剂量差很远",
+   "prompt_en": "Diagram: three equal-size cubes of air, water and glass receiving the same energy, with very different dose bars. No text.",
+   "narration": "体积一样，质量不同，剂量就差很远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "怕的不是发热，而是细胞损伤",
+   "scene": "一杯水吸收很大剂量，温度计几乎不动",
+   "prompt_en": "Diagram: a cup of water under heavy rays with a thermometer that barely moves. No text.",
+   "narration": "很大的剂量，水温才升一点点。",
+   "overlay": [
+    "怕的不是发热，而是细胞损伤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "怕的不是发热，而是细胞损伤",
+   "scene": "细胞和DNA链被打断",
+   "prompt_en": "Diagram: a cell nucleus with a DNA strand being broken by a ray. No text.",
+   "narration": "对人体，怕的是细胞和基因损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "怕的不是发热，而是细胞损伤",
+   "scene": "电离把复杂分子打散",
+   "prompt_en": "Diagram: a complex molecule broken into pieces by ionization sparks. No text.",
+   "narration": "电离是头号敌人，会打散复杂分子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "怕的不是发热，而是细胞损伤",
+   "scene": "患癌和遗传风险图标",
+   "prompt_en": "Diagram: icons for increased cancer risk and hereditary effects with a probability arrow. No text.",
+   "narration": "可能增加患癌等风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "同样一戈瑞，α和γ两个人对比",
+   "prompt_en": "Diagram: two equal dose badges, one from alpha and one from gamma, with a question mark between them. No text.",
+   "narration": "同样一戈瑞，α和γ伤害一样吗？",
+   "overlay": [
+    "同样1戈瑞，伤害不一样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "γ像毛毛雨，能量洒得稀疏",
+   "prompt_en": "Diagram: gamma rays like light drizzle, sparse dots of energy along a long track. No text.",
+   "narration": "γ像毛毛雨，损伤稀疏，细胞多能修好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "α像保龄球，砸得密集",
+   "prompt_en": "Diagram: an alpha particle like a bowling ball, a short dense track of damage. No text.",
+   "narration": "α像保龄球，砸得密，很难修好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "单位路程沉积的能量",
+   "prompt_en": "Diagram: a track with a ruler showing energy deposited per unit length, dense versus sparse. No text.",
+   "narration": "单位路程沉积的能量，叫传能线密度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "达到同样效果所需剂量之比",
+   "prompt_en": "Diagram: two dose bars of different height producing the same cell effect, with a ratio sign. No text.",
+   "narration": "同样效果所需剂量之比，叫相对生物效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "同样1戈瑞，伤害不一样",
+   "scene": "相对生物效应随条件变化",
+   "prompt_en": "Diagram: a relative effect value moving on a dial with icons of dose rate, cell type and endpoint. No text.",
+   "narration": "它随许多条件变化，不是固定值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "不同货币按汇率换算",
+   "prompt_en": "Diagram: coins of different currencies converted through an exchange board. No text.",
+   "narration": "辐射权重因子，像货币的汇率。",
+   "overlay": [
+    "辐射权重因子与当量剂量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "光子电子1，α 20，中子随能量",
+   "prompt_en": "Diagram: a grade chart with photons and electrons at the bottom, neutrons in the middle with a curve, alpha at the top. No text.",
+   "narration": "光子电子算一倍，α算二十倍。",
+   "overlay": [],
+   "labels": [
+    "光子、电子 1",
+    "α 20",
+    "中子 随能量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "器官吸收剂量乘权重，得到当量剂量",
+   "prompt_en": "Diagram: an organ dose block multiplied by a weighting factor tag equals a new dose badge. No text.",
+   "narration": "器官吸收剂量乘权重，得当量剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "几种射线分别算再相加",
+   "prompt_en": "Diagram: three ray types each converted separately and then added together. No text.",
+   "narration": "几种射线一起照，分别算再相加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "单位希沃特，一希沃特α和γ相当",
+   "prompt_en": "Diagram: two equal unit badges, one from alpha and one from gamma, with an equal sign. No text.",
+   "narration": "单位希沃特，同样希沃特效果相当。",
+   "overlay": [],
+   "labels": [
+    "希沃特 Sv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "辐射权重因子与当量剂量",
+   "scene": "权重因子固定保守",
+   "prompt_en": "Diagram: a fixed safety padlock on a weighting factor chart. No text.",
+   "narration": "权重因子是防护用的，固定、保守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "同样剂量照到不同器官，风险不同",
+   "prompt_en": "Diagram: a body outline with equal dose arrows on several organs and different risk bars. No text.",
+   "narration": "同样剂量照到不同器官，风险不同。",
+   "overlay": [
+    "有效剂量：全身风险一个数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "器官分高中低三档",
+   "prompt_en": "Diagram: organ icons sorted into high, medium and low sensitivity shelves. No text.",
+   "narration": "细胞分裂快的器官，往往更敏感。",
+   "overlay": [],
+   "labels": [
+    "高",
+    "中",
+    "低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "像按学分算总评",
+   "prompt_en": "Diagram: a report card where each subject score is multiplied by credits and summed into one total. No text.",
+   "narration": "有效剂量，像按学分算总评。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "各器官当量剂量加权相加，权重总和为一",
+   "prompt_en": "Diagram: organ dose badges multiplied by weights and summed, the weights adding up to one. No text.",
+   "narration": "各器官按权重相加，权重总和为一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "有效剂量用于防护和限值管理",
+   "prompt_en": "Diagram: a single total dose badge linked to a protection plan and a limit gauge. No text.",
+   "narration": "它用于防护优化和剂量限值管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "有效剂量：全身风险一个数",
+   "scene": "仪器读实用量，再估有效剂量",
+   "prompt_en": "Diagram: a dosimeter reading a value, then an arrow to a calculated total dose badge. No text.",
+   "narration": "有效剂量要算，仪器读数用来估算它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量",
+   "scene": "源在体外，剂量计测量",
+   "prompt_en": "Diagram: a source outside the body and a person wearing a dosimeter badge. No text.",
+   "narration": "外照射：源在体外，用剂量计来测。",
+   "overlay": [
+    "外照射与内照射剂量"
+   ],
+   "labels": [
+    "外照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量",
+   "scene": "站的位置和方向不同，剂量不同",
+   "prompt_en": "Diagram: the same source with people standing at the front, side and back, receiving different dose bars. No text.",
+   "narration": "站的位置、方向不同，剂量也不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量",
+   "scene": "放射性物质在体内器官间搬家",
+   "prompt_en": "Diagram: glowing dots moving between organs inside a body outline. No text.",
+   "narration": "内照射：放射性物质留在体内。",
+   "overlay": [],
+   "labels": [
+    "内照射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量",
+   "scene": "尿样、体外测量和模型",
+   "prompt_en": "Diagram: a urine sample tube, a body counter chair and a computer model. No text.",
+   "narration": "靠样品、体外测量和模型来算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "外照射与内照射剂量",
+   "scene": "体内一直照，直到排出或衰变完",
+   "prompt_en": "Diagram: a glowing dot inside the body with a calendar, fading only by excretion or decay. No text.",
+   "narration": "它会一直照，直到排出或衰变完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "摄入后几十年的剂量合成一个数",
+   "prompt_en": "Diagram: many yearly dose bars over decades stacked into one bar. No text.",
+   "narration": "今后多年的剂量，一次记在摄入当年。",
+   "overlay": [
+    "待积剂量与剂量系数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "成人50年，儿童70年",
+   "prompt_en": "Diagram: two timelines, an adult and a child, the child timeline longer. No text.",
+   "narration": "成人算五十年，儿童算到七十岁。",
+   "overlay": [],
+   "labels": [
+    "成人 50年",
+    "儿童 到70岁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "摄入量乘剂量系数",
+   "prompt_en": "Diagram: an intake amount multiplied by a coefficient from a reference table equals a dose. No text.",
+   "narration": "摄入量乘剂量系数，就是待积剂量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "钻进骨头的α核素",
+   "prompt_en": "Diagram: an alpha emitting dot lodged in a bone with a long calendar and a warning mark. No text.",
+   "narration": "钻进骨头的α核素，最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "待积剂量与剂量系数",
+   "scene": "查系数单位差一级，结果错千倍",
+   "prompt_en": "Diagram: a reference table with a unit prefix highlighted and a thousand-times warning mark. No text.",
+   "narration": "查系数时，单位前缀差一级错千倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "单位速查：新旧单位对照",
+   "scene": "新旧单位对照表",
+   "prompt_en": "Diagram: a two-column chart of modern units and old units with arrows. No text.",
+   "narration": "最后，记牢新旧单位。",
+   "overlay": [
+    "单位速查：新旧单位对照"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "单位速查：新旧单位对照",
+   "scene": "活度贝可，居里是旧单位，不是剂量",
+   "prompt_en": "Diagram: a source activity badge separated from a person dose badge by a wall. No text.",
+   "narration": "居里是活度的旧单位，不是剂量。",
+   "overlay": [],
+   "labels": [
+    "活度 Bq",
+    "旧 Ci"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "单位速查：新旧单位对照",
+   "scene": "吸收剂量戈瑞，当量和有效剂量希沃特",
+   "prompt_en": "Diagram: one badge for absorbed dose and one badge for human dose, side by side. No text.",
+   "narration": "人受了多少照射，用希沃特。",
+   "overlay": [],
+   "labels": [
+    "吸收 Gy",
+    "当量/有效 Sv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "单位速查：新旧单位对照",
+   "scene": "旧单位雷姆",
+   "prompt_en": "Diagram: an old unit badge converting to a modern badge with a factor arrow. No text.",
+   "narration": "一希沃特，等于一百雷姆。",
+   "overlay": [],
+   "labels": [
+    "希沃特 Sv",
+    "旧 rem"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "单位速查：新旧单位对照",
+   "scene": "【实拍】个人剂量报告单样张特写（姓名信息遮挡）",
+   "prompt_en": "Close-up: a printed personal dose report sample on a desk, a finger pointing to the unit column, names covered.",
+   "narration": "报告和台账，一律用法定单位。",
+   "overlay": [],
+   "labels": [
+    "mSv"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四级台阶",
+   "prompt_en": "Diagram: four stair steps with small icons of air, a block, a ray type and organs. No text.",
+   "narration": "照射量、吸收、当量、有效，层层递进。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "戈瑞和希沃特两个徽章",
+   "prompt_en": "Diagram: two unit badges with a weighting factor arrow between them. No text.",
+   "narration": "吸收剂量用戈瑞，乘权重得希沃特。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "剂量率、时间、距离",
+   "prompt_en": "Diagram: icons of a dose rate meter, a clock and a doubling distance arrow. No text.",
+   "narration": "累积剂量等于剂量率乘时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "体内的发光点和日历",
+   "prompt_en": "Diagram: a glowing dot inside a body with a long calendar. No text.",
+   "narration": "内照射看待积剂量，单位核对两遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着细胞和DNA图标挥手",
+   "prompt_en": "The panda mascot points at a cell and DNA icon and waves goodbye.",
+   "narration": "下一课：辐射的生物效应。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
