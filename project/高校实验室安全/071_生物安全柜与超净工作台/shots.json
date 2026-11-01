@@ -1,0 +1,947 @@
+{
+ "id": "071_生物安全柜与超净工作台",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "生物安全柜与超净工作台",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/071_生物安全柜与超净工作台.md",
+ "author_source": "project/高校实验室安全/071_生物安全柜与超净工作台/src.py",
+ "points": {
+  "K1": "生物安全柜：护人、护环境、护样品",
+  "K2": "气流原理：前窗吸入、下降气流、过滤排出",
+  "K3": "高效过滤器：截颗粒，不挡气体",
+  "K4": "分三级，按风险评估选",
+  "K5": "Ⅰ级柜：护人和环境，不护样品",
+  "K6": "Ⅱ级柜：最常用，分不同类型",
+  "K7": "Ⅲ级柜：完全密闭，手套操作",
+  "K8": "排风连接由工程人员按柜型定",
+  "K9": "生物安全柜不是化学通风柜",
+  "K10": "化学通风柜：护人，排到室外",
+  "K11": "超净工作台：单向气流，护样品",
+  "K12": "超净台不护人：禁病原、禁有毒挥发物",
+  "K13": "洁净还是围护：两者的根本区别",
+  "K14": "三句话记区别，按评估选用"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三台长得相似的柜子前",
+   "prompt_en": "The panda mascot stands in front of three similar-looking lab cabinets and greets the camera.",
+   "narration": "这一课讲生物安全柜和超净工作台。",
+   "overlay": [
+    "生物安全柜与超净工作台"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰端着细菌培养皿，走向一台超净台",
+   "prompt_en": "The young male student carries culture dishes toward a clean bench with air blowing outward.",
+   "narration": "阿杰端着细菌平板，要去超净台操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指指旁边的生物安全柜",
+   "prompt_en": "The female graduate student stops him and points to a biosafety cabinet nearby.",
+   "narration": "小研说：等等，那台风是往你脸上吹的！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰看着三台柜子发愣",
+   "prompt_en": "The young male student looks puzzled at three cabinets standing side by side.",
+   "narration": "三台柜子都有玻璃窗、都有风，有啥不同？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物安全柜：护人、护环境、护样品",
+   "scene": "生物安全柜像一道屏障，把危险挡在柜内",
+   "prompt_en": "Diagram: a biosafety cabinet as a barrier holding hazard icons inside. No text.",
+   "narration": "生物安全柜，是关键的工程控制。",
+   "overlay": [
+    "生物安全柜：护人、护环境、护样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物安全柜：护人、护环境、护样品",
+   "scene": "操作产生气溶胶和飞溅，被柜子挡住",
+   "prompt_en": "Diagram: tiny droplets from pipetting are caught inside the cabinet instead of reaching the worker. No text.",
+   "narration": "挡住操作时产生的气溶胶和飞溅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物安全柜：护人、护环境、护样品",
+   "scene": "三个盾牌：人、环境、样品",
+   "prompt_en": "Diagram: three shields for the worker, the room environment and the sample. No text.",
+   "narration": "保护操作者、环境，也保护样品。",
+   "overlay": [],
+   "labels": [
+    "护人",
+    "护环境",
+    "护样品"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物安全柜：护人、护环境、护样品",
+   "scene": "临床标本、体液管、细菌平板放进柜里",
+   "prompt_en": "Diagram: clinical specimen tubes, body fluid tubes and culture plates placed inside a safety cabinet. No text.",
+   "narration": "感染性材料、临床标本，都在柜里操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物安全柜：护人、护环境、护样品",
+   "scene": "【实拍】一台Ⅱ级生物安全柜正面全景，依次指出前窗、前格栅、工作台面、显示面板（无品牌标识，柜内空置）",
+   "prompt_en": "A real class two biosafety cabinet seen from the front, with the sash, front grille, work surface and control panel. No logos.",
+   "narration": "认一认：前窗、前格栅、台面、面板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "发烟笔放出白烟，烟跟着气流走",
+   "prompt_en": "Diagram: white smoke from a smoke pen is drawn into the front opening and down into the front grille. No text.",
+   "narration": "用烟雾看：空气从前窗吸入，钻进前格栅。",
+   "overlay": [
+    "气流原理：前窗吸入、下降气流、过滤排出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "吸入气流和下降气流形成一道气幕",
+   "prompt_en": "Diagram: inflow and downflow meet at the front opening forming an air curtain. No text.",
+   "narration": "吸入气流形成气幕，隔开柜内柜外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "柜顶过滤器吹出洁净气流，从上往下",
+   "prompt_en": "Diagram: a filter at the top of the cabinet sends clean air straight down over the work surface. No text.",
+   "narration": "柜顶过滤后的洁净风，从上往下吹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "下降气流落到台面，一半向前一半向后",
+   "prompt_en": "Diagram: downflow reaches the work surface and splits, half to the front grille, half to the rear grille. No text.",
+   "narration": "落到台面，一半往前，一半往后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "排风先经过滤器再排出",
+   "prompt_en": "Diagram: exhaust air passes through a filter before leaving the cabinet. No text.",
+   "narration": "排出的空气，也先经过高效过滤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "气流原理：前窗吸入、下降气流、过滤排出",
+   "scene": "定向气流、高效过滤、围护结构三块拼图",
+   "prompt_en": "Diagram: three puzzle pieces for directional airflow, high-efficiency filters and the enclosure. No text.",
+   "narration": "靠定向气流、高效过滤和围护结构。",
+   "overlay": [],
+   "labels": [
+    "定向气流",
+    "高效过滤",
+    "围护结构"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高效过滤器：截颗粒，不挡气体",
+   "scene": "过滤器截住细小颗粒和微生物",
+   "prompt_en": "Diagram: a pleated filter trapping tiny particles and microbe icons. No text.",
+   "narration": "高效过滤器，能截住极细的颗粒。",
+   "overlay": [
+    "高效过滤器：截颗粒，不挡气体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高效过滤器：截颗粒，不挡气体",
+   "scene": "纤维层层交错，气流放慢，颗粒被拦",
+   "prompt_en": "Diagram: layers of crossing fibers slow the air and catch smaller particles. No text.",
+   "narration": "多层纤维加慢速，更小的也被拦住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高效过滤器：截颗粒，不挡气体",
+   "scene": "气体分子穿过过滤器",
+   "prompt_en": "Diagram: gas molecule icons passing straight through the filter. No text.",
+   "narration": "但它挡不住有害气体和蒸气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "高效过滤器：截颗粒，不挡气体",
+   "scene": "颗粒和气体都有时，问号指向老师",
+   "prompt_en": "Diagram: both particles and gas icons with a question mark pointing to a teacher. No text.",
+   "narration": "颗粒气体都有，先问清该用哪种柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分三级，按风险评估选",
+   "scene": "三台柜子，从开放到全封闭",
+   "prompt_en": "Diagram: three cabinets in a row, from open front to fully sealed. No text.",
+   "narration": "生物安全柜按防护水平分三级。",
+   "overlay": [
+    "分三级，按风险评估选"
+   ],
+   "labels": [
+    "Ⅰ级",
+    "Ⅱ级",
+    "Ⅲ级"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分三级，按风险评估选",
+   "scene": "风险越高，密闭程度越高的阶梯",
+   "prompt_en": "Diagram: a staircase where higher risk leads to a more enclosed cabinet. No text.",
+   "narration": "风险越高，柜子越密闭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分三级，按风险评估选",
+   "scene": "风险评估报告指向一台柜子",
+   "prompt_en": "Diagram: a risk assessment report with an arrow pointing to one cabinet type. No text.",
+   "narration": "用哪种，由风险评估定，拿不准先问。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分三级，按风险评估选",
+   "scene": "国内第一类在顶端，提醒别弄反",
+   "prompt_en": "Diagram: a ladder with the most dangerous class at the top end and a warning icon. No text.",
+   "narration": "国内病原第一类最危险，高致病须对应级别。",
+   "overlay": [],
+   "labels": [
+    "第一类最危险",
+    "第四类最低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "Ⅰ级柜：护人和环境，不护样品",
+   "scene": "Ⅰ级柜：前面敞开，空气向里吸",
+   "prompt_en": "Diagram: a class one cabinet with an open front, room air flowing inward. No text.",
+   "narration": "Ⅰ级柜前面敞开，空气向里吸。",
+   "overlay": [
+    "Ⅰ级柜：护人和环境，不护样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "Ⅰ级柜：护人和环境，不护样品",
+   "scene": "空气经过滤器从顶部排出",
+   "prompt_en": "Diagram: the air leaves the top of the class one cabinet through a filter. No text.",
+   "narration": "经过过滤后再排出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "Ⅰ级柜：护人和环境，不护样品",
+   "scene": "人和环境盾牌亮，样品盾牌暗",
+   "prompt_en": "Diagram: worker and environment shields light up, the sample shield stays dark. No text.",
+   "narration": "护人、护环境，但不护样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "Ⅰ级柜：护人和环境，不护样品",
+   "scene": "室内空气直接扫过样品",
+   "prompt_en": "Diagram: unfiltered room air sweeps over an open culture dish. No text.",
+   "narration": "室内空气直接流过样品，可能污染。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "Ⅰ级柜：护人和环境，不护样品",
+   "scene": "Ⅰ级柜用于风险较低的工作",
+   "prompt_en": "Diagram: a class one cabinet with a low-to-moderate risk gauge. No text.",
+   "narration": "一般用于低到中度风险的工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "Ⅱ级柜，三个盾牌全亮",
+   "prompt_en": "Diagram: a class two cabinet with worker, environment and sample shields all lit. No text.",
+   "narration": "Ⅱ级柜最常用，三方面都护。",
+   "overlay": [
+    "Ⅱ级柜：最常用，分不同类型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "下降气流、吸入气流、排风过滤一起工作",
+   "prompt_en": "Diagram: downflow, inflow and filtered exhaust working together in a class two cabinet. No text.",
+   "narration": "洁净下降风护样品，吸入风护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "部分排出、部分循环的气流示意",
+   "prompt_en": "Diagram: part of the filtered air recirculates in the cabinet, part is exhausted. No text.",
+   "narration": "一部分空气循环，一部分过滤排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "几种Ⅱ级柜，排风去向不同",
+   "prompt_en": "Diagram: several class two cabinet types, some returning air to the room, some ducted outside. No text.",
+   "narration": "Ⅱ级柜又分几种类型，排风去向不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "Ⅱ级柜配评估报告和国家目录",
+   "prompt_en": "Diagram: a class two cabinet beside a national catalog book and an assessment report. No text.",
+   "narration": "用于中到较高风险，查目录、看评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "Ⅱ级柜：最常用，分不同类型",
+   "scene": "【实拍】Ⅱ级生物安全柜上的检测合格标签特写（标签信息后期打码）",
+   "prompt_en": "A close view of an inspection label on the side of a biosafety cabinet. No readable text.",
+   "narration": "检测合格、标签在有效期内才能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "Ⅲ级柜：完全密闭，手套操作",
+   "scene": "Ⅲ级柜：全密闭的箱体",
+   "prompt_en": "Diagram: a class three cabinet as a fully sealed box. No text.",
+   "narration": "Ⅲ级柜防护最高，柜内外完全隔离。",
+   "overlay": [
+    "Ⅲ级柜：完全密闭，手套操作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "Ⅲ级柜：完全密闭，手套操作",
+   "scene": "手伸进手套口操作",
+   "prompt_en": "Diagram: hands working through sealed glove ports of the cabinet. No text.",
+   "narration": "操作时，手伸进固定的手套口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "Ⅲ级柜：完全密闭，手套操作",
+   "scene": "物品经传递窗进出，两道门不同时开",
+   "prompt_en": "Diagram: items pass through a pass box with two doors that never open at the same time. No text.",
+   "narration": "物品走传递窗，两道门不同时开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "Ⅲ级柜：完全密闭，手套操作",
+   "scene": "废物封装处理后才出柜",
+   "prompt_en": "Diagram: waste is sealed and treated inside before leaving the cabinet. No text.",
+   "narration": "材料和废物，封装处理后才能出柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "Ⅲ级柜：完全密闭，手套操作",
+   "scene": "Ⅲ级柜用于最危险的病原",
+   "prompt_en": "Diagram: a class three cabinet inside a high-level containment lab. No text.",
+   "narration": "用于最危险的病原，在高等级实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "排风连接由工程人员按柜型定",
+   "scene": "排风管直接接入大楼风管",
+   "prompt_en": "Diagram: a cabinet exhaust duct connected directly to the building exhaust duct. No text.",
+   "narration": "有的柜子排风管直接接入大楼风管。",
+   "overlay": [
+    "排风连接由工程人员按柜型定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "排风连接由工程人员按柜型定",
+   "scene": "柜顶罩着集气罩，留有缝隙",
+   "prompt_en": "Diagram: a canopy hood above the cabinet exhaust with a small gap for air balance. No text.",
+   "narration": "有的上方罩集气罩，便于风量平衡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "排风连接由工程人员按柜型定",
+   "scene": "风阀自动调节，老李检查连接",
+   "prompt_en": "The facility engineer checks an automatic damper and the duct connection above a cabinet.",
+   "narration": "怎么连接，由工程人员按柜型定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "生物安全柜不是化学通风柜",
+   "scene": "生物安全柜和通风柜并排，中间画不等号",
+   "prompt_en": "Diagram: a biosafety cabinet and a chemical fume hood side by side with a not-equal sign. No text.",
+   "narration": "生物安全柜，不是化学通风柜。",
+   "overlay": [
+    "生物安全柜不是化学通风柜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "生物安全柜不是化学通风柜",
+   "scene": "Ⅱ级柜部分空气回到室内",
+   "prompt_en": "Diagram: filtered air from a class two cabinet returning to the room, carrying a gas icon. No text.",
+   "narration": "常见的柜子，有部分空气回到室内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "生物安全柜不是化学通风柜",
+   "scene": "化学蒸气穿过过滤器飘向人",
+   "prompt_en": "Diagram: chemical vapor passes through the filter and drifts toward the worker; crossed out. No text.",
+   "narration": "滤网挡不住有毒蒸气，会吹回室内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "生物安全柜不是化学通风柜",
+   "scene": "化学品进通风柜，生物样品进安全柜",
+   "prompt_en": "Diagram: a chemical bottle goes to the fume hood, a culture dish goes to the safety cabinet. No text.",
+   "narration": "化学品进通风柜，生物样品进安全柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "生物安全柜不是化学通风柜",
+   "scene": "要用挥发性化学品，先问老师",
+   "prompt_en": "The young male student holds a solvent bottle and asks the female graduate student before using the cabinet.",
+   "narration": "要用挥发性化学品，先问清能不能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "化学通风柜：护人，排到室外",
+   "scene": "通风柜护住人的口鼻",
+   "prompt_en": "Diagram: a chemical fume hood protecting a worker from breathing vapors, gases and dust. No text.",
+   "narration": "化学通风柜，保护人不吸入有害物。",
+   "overlay": [
+    "化学通风柜：护人，排到室外"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "化学通风柜：护人，排到室外",
+   "scene": "空气被吸入，经管道排到室外",
+   "prompt_en": "Diagram: room air is drawn into the hood and sent through a duct to the outside. No text.",
+   "narration": "吸进来，经管道排到室外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "化学通风柜：护人，排到室外",
+   "scene": "化学反应、蒸发溶剂图标",
+   "prompt_en": "Diagram: icons for chemical reactions and solvent evaporation inside a fume hood. No text.",
+   "narration": "化学反应、蒸发溶剂用它，不护样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "超净工作台：单向气流，护样品",
+   "scene": "超净台给样品一个洁净空间",
+   "prompt_en": "Diagram: a clean bench providing a clean space for sterile materials. No text.",
+   "narration": "超净工作台，给样品一个洁净空间。",
+   "overlay": [
+    "超净工作台：单向气流，护样品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "超净工作台：单向气流，护样品",
+   "scene": "风机推动空气穿过高效过滤器",
+   "prompt_en": "Diagram: a fan pushes room air through a high-efficiency filter, trapping dust and microbes. No text.",
+   "narration": "风机把空气推过高效过滤器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "超净工作台：单向气流，护样品",
+   "scene": "平行单向的气流，几乎没有乱流",
+   "prompt_en": "Diagram: smooth parallel air streams in one direction with almost no turbulence. No text.",
+   "narration": "气流平行、单向，很稳，几乎没乱流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "超净工作台：单向气流，护样品",
+   "scene": "洁净风把污染物吹离样品",
+   "prompt_en": "Diagram: clean air sweeps dust away from an open dish toward the front. No text.",
+   "narration": "洁净风把污染物吹离样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "超净工作台：单向气流，护样品",
+   "scene": "细胞培养、无菌器材、植物组培图标",
+   "prompt_en": "Diagram: icons for cell culture preparation, sterile tools and plant tissue culture. No text.",
+   "narration": "适合无菌操作，如培养基、无菌器材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "超净台不护人：禁病原、禁有毒挥发物",
+   "scene": "超净台的风直吹操作者脸部",
+   "prompt_en": "Diagram: air from a clean bench blows straight toward the face of the worker. No text.",
+   "narration": "注意：超净台的风是吹向人的。",
+   "overlay": [
+    "超净台不护人：禁病原、禁有毒挥发物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "超净台不护人：禁病原、禁有毒挥发物",
+   "scene": "护样品盾牌亮，护人盾牌暗",
+   "prompt_en": "Diagram: the sample shield lights up, the worker shield stays dark. No text.",
+   "narration": "它只护样品，不护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "超净台不护人：禁病原、禁有毒挥发物",
+   "scene": "细菌平板放进超净台，被打叉",
+   "prompt_en": "Diagram: a culture plate of bacteria placed in a clean bench, crossed out. No text.",
+   "narration": "病原和感染性材料，绝不能进超净台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "超净台不护人：禁病原、禁有毒挥发物",
+   "scene": "挥发性溶剂和有毒粉末在超净台打叉",
+   "prompt_en": "Diagram: a solvent bottle and toxic powder in a clean bench blowing toward the face, crossed out. No text.",
+   "narration": "挥发性和有毒物，也会吹到你脸上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "超净台不护人：禁病原、禁有毒挥发物",
+   "scene": "阿杰把细菌平板改放进生物安全柜",
+   "prompt_en": "The young male student moves his culture plates into the biosafety cabinet.",
+   "narration": "阿杰的细菌实验，就该在安全柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "洁净还是围护：两者的根本区别",
+   "scene": "洁净和围护两个图标对比",
+   "prompt_en": "Diagram: a sparkle icon for cleanliness and a lock icon for containment side by side. No text.",
+   "narration": "根本区别：洁净还是围护。",
+   "overlay": [
+    "洁净还是围护：两者的根本区别"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "洁净还是围护：两者的根本区别",
+   "scene": "超净台风平行吹出，安全柜风往里吸",
+   "prompt_en": "Diagram: air blowing out across a clean bench versus air pulled inward at a safety cabinet. No text.",
+   "narration": "超净台风往外吹，安全柜风往里吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "洁净还是围护：两者的根本区别",
+   "scene": "超净台没有围护，安全柜有前窗和排风",
+   "prompt_en": "Diagram: an open clean bench compared with a safety cabinet with a sash and exhaust. No text.",
+   "narration": "安全柜有前窗、屏障和过滤排风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "洁净还是围护：两者的根本区别",
+   "scene": "制药、电子、培养与感染性实验两组图标",
+   "prompt_en": "Diagram: icons for pharmacy, electronics and culture on one side, infectious work on the other. No text.",
+   "narration": "超净台用于洁净操作，安全柜管感染性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "三句话记区别，按评估选用",
+   "scene": "【实拍】实验室里超净工作台和生物安全柜并排的全景（无品牌标识，柜内空置）",
+   "prompt_en": "A real clean bench and a biosafety cabinet standing side by side in a lab. No logos.",
+   "narration": "三种柜子长得像，保护对象完全不同。",
+   "overlay": [
+    "三句话记区别，按评估选用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "三句话记区别，按评估选用",
+   "scene": "通风柜：护人",
+   "prompt_en": "Diagram: a fume hood with a worker shield lit. No text.",
+   "narration": "通风柜：护人，防有害化学品。",
+   "overlay": [],
+   "labels": [
+    "通风柜",
+    "护人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "三句话记区别，按评估选用",
+   "scene": "超净台：护样品",
+   "prompt_en": "Diagram: a clean bench with a sample shield lit. No text.",
+   "narration": "超净台：护样品，不护人。",
+   "overlay": [],
+   "labels": [
+    "超净台",
+    "护样品"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "三句话记区别，按评估选用",
+   "scene": "生物安全柜：三盾全亮",
+   "prompt_en": "Diagram: a biosafety cabinet with all three shields lit. No text.",
+   "narration": "生物安全柜：人、样品、环境都护。",
+   "overlay": [],
+   "labels": [
+    "生物安全柜",
+    "都护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三级柜子和气流箭头",
+   "prompt_en": "Diagram: three cabinet classes with airflow arrows. No text.",
+   "narration": "安全柜分三级，靠气流和过滤防护。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "过滤器挡颗粒，气体穿过",
+   "prompt_en": "Diagram: a filter catching particles while gas passes through. No text.",
+   "narration": "高效过滤不挡气体，安全柜不是通风柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "超净台打叉病原",
+   "prompt_en": "Diagram: a clean bench with a crossed-out microbe icon. No text.",
+   "narration": "超净台只护样品，病原绝不进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在生物安全柜前，准备开机",
+   "prompt_en": "The panda mascot stands at a biosafety cabinet, ready to switch it on, and waves goodbye.",
+   "narration": "下一课：生物安全柜的准备与使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
