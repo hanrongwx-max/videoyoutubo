@@ -1,0 +1,1138 @@
+{
+ "id": "086_射线的性质与衰变",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "射线的性质与衰变",
+ "seconds": 430,
+ "source_doc": "course/高校实验室安全/086_射线的性质与衰变.md",
+ "author_source": "project/高校实验室安全/086_射线的性质与衰变/src.py",
+ "points": {
+  "K1": "电离辐射有哪几种",
+  "K2": "α粒子：电离强，射程短",
+  "K3": "β粒子：走得更远，厚铝板才挡住",
+  "K4": "γ射线：穿透最强，铅也只能减弱",
+  "K5": "电离与穿透，此消彼长",
+  "K6": "射线进入人体：穿透不同，危害不同",
+  "K7": "不同射线，不同屏蔽",
+  "K8": "衰变放出能量，按用途选核素",
+  "K9": "被照过的东西，一般不带放射性",
+  "K10": "活度：每秒衰变多少次",
+  "K11": "物理半衰期：自己衰变一半",
+  "K12": "衰变表：查源现在有多强",
+  "K13": "生物半衰期：身体排出一半",
+  "K14": "有效半衰期：两条路一起走",
+  "K15": "桌上的源与身体里的源"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在纸片、铝板、铅砖三样东西旁边",
+   "prompt_en": "The panda mascot stands beside a sheet of paper, an aluminum plate and a lead brick on a table.",
+   "narration": "这一课讲射线的性质与衰变。",
+   "overlay": [
+    "射线的性质与衰变"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着磷-32标记实验的计划书",
+   "prompt_en": "Diagram: the female graduate student holding a blank plan for a radioactive labeling experiment with a beta icon. No text.",
+   "narration": "小研要做磷-32标记实验，问怎么屏蔽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抱着一块铅砖说：全用铅最保险",
+   "prompt_en": "Diagram: the young male student hugging a lead brick confidently with a question mark above. No text.",
+   "narration": "阿杰说：全用铅，最保险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老周摇头笑着说：先认识射线",
+   "prompt_en": "The older man shakes his head with a smile, pointing at three ray icons on a whiteboard.",
+   "narration": "老周说：不一定，先认识射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射有哪几种",
+   "scene": "两组图标：光子组和粒子组",
+   "prompt_en": "Diagram: two groups of icons, one with wavy photon lines and one with small particle balls. No text.",
+   "narration": "电离辐射分两类。",
+   "overlay": [
+    "电离辐射有哪几种"
+   ],
+   "labels": [
+    "光子",
+    "粒子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射有哪几种",
+   "scene": "X射线和γ射线是高能光子",
+   "prompt_en": "Diagram: two wavy high-energy photon lines labeled with blank tags, one from a tube and one from a nucleus. No text.",
+   "narration": "一类是高能光子：X射线和γ射线。",
+   "overlay": [],
+   "labels": [
+    "X射线",
+    "γ射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电离辐射有哪几种",
+   "scene": "α、β和中子三个粒子",
+   "prompt_en": "Diagram: three particle icons, a heavy ball pair, a small fast dot and a neutral ball. No text.",
+   "narration": "一类是粒子：α、β和中子。",
+   "overlay": [],
+   "labels": [
+    "α",
+    "β",
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "α粒子：电离强，射程短",
+   "scene": "两个质子两个中子组成的α粒子，带正号",
+   "prompt_en": "Diagram: an alpha particle made of two protons and two neutrons with a plus sign. No text.",
+   "narration": "α粒子由两个质子、两个中子组成。",
+   "overlay": [
+    "α粒子：电离强，射程短"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "α粒子：电离强，射程短",
+   "scene": "α粒子沿途打出大量离子",
+   "prompt_en": "Diagram: a short thick track where an alpha particle knocks out many electrons along its path. No text.",
+   "narration": "它带正电，沿途电离本领很强。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "α粒子：电离强，射程短",
+   "scene": "计数器靠近时读数猛增，拉开几厘米就没了",
+   "prompt_en": "Diagram: a counter near a source showing a high bar, then moved a few centimeters away showing almost no bar. No text.",
+   "narration": "拉开几厘米，几乎就测不到了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "α粒子：电离强，射程短",
+   "scene": "中间插一张纸，计数一下子降下来",
+   "prompt_en": "Diagram: a sheet of paper placed between a source and a counter, the counter bar dropping sharply. No text.",
+   "narration": "插一张纸，计数就降下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "α粒子：电离强，射程短",
+   "scene": "一张纸挡住α",
+   "prompt_en": "Diagram: alpha particle arrows stopping at a sheet of paper. No text.",
+   "narration": "一张纸，就能挡住α。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "β粒子：走得更远，厚铝板才挡住",
+   "scene": "原子核放出一个高速电子",
+   "prompt_en": "Diagram: a nucleus shooting out a fast electron with a minus sign. No text.",
+   "narration": "β粒子，是原子核放出的高能电子。",
+   "overlay": [
+    "β粒子：走得更远，厚铝板才挡住"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "β粒子：走得更远，厚铝板才挡住",
+   "scene": "计数器拉开十几厘米，仍有读数",
+   "prompt_en": "Diagram: a counter moved much farther from a source still showing a medium bar. No text.",
+   "narration": "拉开十几厘米，还能测到不少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "β粒子：走得更远，厚铝板才挡住",
+   "scene": "β穿过一张纸",
+   "prompt_en": "Diagram: beta particle arrows passing through a sheet of paper. No text.",
+   "narration": "一张纸，挡不住β。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "β粒子：走得更远，厚铝板才挡住",
+   "scene": "薄铝片挡不住多少",
+   "prompt_en": "Diagram: beta particle arrows mostly passing through a thin aluminum foil. No text.",
+   "narration": "薄铝片，也挡不住多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "β粒子：走得更远，厚铝板才挡住",
+   "scene": "厚一些的铝板挡住β",
+   "prompt_en": "Diagram: beta particle arrows stopping at a thicker aluminum plate. No text.",
+   "narration": "换成厚铝板，才把β挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "γ射线：穿透最强，铅也只能减弱",
+   "scene": "γ射线是电磁波，高能光子",
+   "prompt_en": "Diagram: a long wavy line from a nucleus, part of the electromagnetic wave family. No text.",
+   "narration": "γ射线不是粒子，是高能光子。",
+   "overlay": [
+    "γ射线：穿透最强，铅也只能减弱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "γ射线：穿透最强，铅也只能减弱",
+   "scene": "计数器拉远读数下降但不归零",
+   "prompt_en": "Diagram: a counter moved far away from a source, its bar lower but never reaching zero. No text.",
+   "narration": "拉远了会下降，但降不到零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "γ射线：穿透最强，铅也只能减弱",
+   "scene": "纸和铝板对γ几乎没作用",
+   "prompt_en": "Diagram: gamma ray lines passing straight through paper and an aluminum plate. No text.",
+   "narration": "纸和铝，对γ几乎没作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "γ射线：穿透最强，铅也只能减弱",
+   "scene": "一块铅减弱一点，再加一块还是有",
+   "prompt_en": "Diagram: gamma ray lines getting thinner after one lead brick and still present after a second lead brick. No text.",
+   "narration": "厚铅也只是减弱，挡不完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "γ射线：穿透最强，铅也只能减弱",
+   "scene": "γ穿透最强",
+   "prompt_en": "Diagram: a gamma ray line with the longest arrow among three ray types. No text.",
+   "narration": "γ穿透力最强，要靠厚铅等减弱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电离与穿透，此消彼长",
+   "scene": "天平：电离本领和穿透本领",
+   "prompt_en": "Diagram: a seesaw with an ionizing power icon on one end and a penetrating power icon on the other. No text.",
+   "narration": "比两样：电离本领和穿透本领。",
+   "overlay": [
+    "电离与穿透，此消彼长"
+   ],
+   "labels": [
+    "电离",
+    "穿透"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电离与穿透，此消彼长",
+   "scene": "纸、铝片、铅片三样工具",
+   "prompt_en": "Diagram: a sheet of paper, an aluminum plate and a lead plate lined up as test tools. No text.",
+   "narration": "工具很简单：纸、铝片、铅片。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电离与穿透，此消彼长",
+   "scene": "三条线：纸挡α、铝挡β、铅减弱γ",
+   "prompt_en": "Diagram: three ray arrows, the first stopped by paper, the second by aluminum, the third weakened by lead. No text.",
+   "narration": "纸挡α，铝挡β，铅减弱γ。",
+   "overlay": [],
+   "labels": [
+    "α",
+    "β",
+    "γ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电离与穿透，此消彼长",
+   "scene": "α电离最强穿透最弱，γ相反",
+   "prompt_en": "Diagram: a bar chart showing alpha with the highest ionizing bar and lowest penetrating bar, and gamma the opposite. No text.",
+   "narration": "α电离最强、穿透最弱，γ正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电离与穿透，此消彼长",
+   "scene": "磁场中α、β偏向相反，γ直走",
+   "prompt_en": "Diagram: three rays entering a magnetic field, two bending in opposite directions and one going straight. No text.",
+   "narration": "磁场里α、β偏向相反，γ不偏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "人体外有一层死皮，α停在表面",
+   "prompt_en": "Diagram: a skin cross-section with alpha arrows stopping at the dead outer layer. No text.",
+   "narration": "α在体外，死皮就能挡住。",
+   "overlay": [
+    "射线进入人体：穿透不同，危害不同"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "α一旦进入体内，打叉的嘴和伤口",
+   "prompt_en": "Diagram: alpha emitting particles inside the body near organs with red warning marks. No text.",
+   "narration": "可一旦吃进、吸进体内，危害很大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "β进入皮下浅层",
+   "prompt_en": "Diagram: a skin cross-section with beta arrows reaching the shallow layer under the skin and the eye lens. No text.",
+   "narration": "β能进皮肤浅层，伤皮肤和眼睛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "γ和X射线穿过全身",
+   "prompt_en": "Diagram: gamma and X-ray lines passing through the whole body outline. No text.",
+   "narration": "γ和X射线穿透全身。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "γ、X射线是外照射的主要危害",
+   "prompt_en": "Diagram: a person near an external source with gamma lines and a warning icon. No text.",
+   "narration": "它们是外照射的主要危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "射线进入人体：穿透不同，危害不同",
+   "scene": "中子钻得深，被氢原子散射",
+   "prompt_en": "Diagram: neutron paths going deep into the body and bouncing off small hydrogen atoms. No text.",
+   "narration": "中子钻得深，危害大，要专门防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "四列：纸、有机玻璃、铅和混凝土、石蜡和水",
+   "prompt_en": "Diagram: four shielding columns: paper, a clear plastic plate, lead with concrete, and paraffin with water tanks. No text.",
+   "narration": "不同射线，用不同的屏蔽材料。",
+   "overlay": [
+    "不同射线，不同屏蔽"
+   ],
+   "labels": [
+    "α",
+    "β",
+    "γ/X",
+    "中子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "α：一张纸",
+   "prompt_en": "Diagram: a sheet of paper blocking alpha arrows. No text.",
+   "narration": "α一张纸就能挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "【实拍】有机玻璃屏蔽挡板和屏蔽盒（不含放射源，近景）",
+   "prompt_en": "Close-up: a clear acrylic bench shield and an acrylic shielding box on a lab bench, empty.",
+   "narration": "β用有机玻璃、塑料来挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "高能β打在铅上产生X射线",
+   "prompt_en": "Diagram: beta arrows hitting a lead plate and producing new X-ray lines behind it, crossed out. No text.",
+   "narration": "高能β直接打铅，会产生X射线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "先有机玻璃，外面再加铅",
+   "prompt_en": "Diagram: a layered shield, a clear plastic layer inside and a lead layer outside, with a check mark. No text.",
+   "narration": "所以先有机玻璃，外面再加铅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "γ和X射线：铅或厚混凝土",
+   "prompt_en": "Diagram: gamma lines weakened by a lead wall and a thick concrete wall. No text.",
+   "narration": "γ和X射线，用铅或厚混凝土。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "【实拍】放射性药物用的空铅罐（不含放射源，近景）",
+   "prompt_en": "Close-up: an empty lead shielding container for radioactive medicine vials, lid beside it.",
+   "narration": "放射性药物，常装在铅罐里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "不同射线，不同屏蔽",
+   "scene": "中子：石蜡、水、聚乙烯等含氢多的材料",
+   "prompt_en": "Diagram: neutron arrows slowed by paraffin blocks, water tanks and polyethylene sheets. No text.",
+   "narration": "中子要用含氢多的材料，如石蜡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "衰变放出能量，按用途选核素",
+   "scene": "不稳定的核衰变后变稳定，放出射线和热",
+   "prompt_en": "Diagram: an unstable wobbling nucleus becoming calm while emitting rays, light and a heat icon. No text.",
+   "narration": "核素衰变，会变得更稳定。",
+   "overlay": [
+    "衰变放出能量，按用途选核素"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "衰变放出能量，按用途选核素",
+   "scene": "不同核素放出不同能量的射线",
+   "prompt_en": "Diagram: three nuclei emitting rays of different lengths and thickness. No text.",
+   "narration": "同时放出射线和热，能量各不相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "衰变放出能量，按用途选核素",
+   "scene": "烟雾报警器里有小小的α源",
+   "prompt_en": "Diagram: a ceiling smoke detector cut open with a tiny source icon inside. No text.",
+   "narration": "按用途选核素，比如烟感用α源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "衰变放出能量，按用途选核素",
+   "scene": "有的同位素稳定，有的放射线伤组织",
+   "prompt_en": "Diagram: one calm isotope with a check mark and one glowing isotope damaging a tissue icon. No text.",
+   "narration": "放射性同位素的射线，会损伤组织。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "衰变放出能量，按用途选核素",
+   "scene": "放射性物质锁进柜子，有人看管",
+   "prompt_en": "Diagram: a container with a radioactive symbol locked in a cabinet, a logbook beside it. No text.",
+   "narration": "放射性物质，要锁好、看好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "被照过的东西，一般不带放射性",
+   "scene": "行李经过X射线安检机",
+   "prompt_en": "Diagram: a suitcase passing through an X-ray inspection machine and coming out unchanged. No text.",
+   "narration": "被X射线照过的东西，一般不带放射性。",
+   "overlay": [
+    "被照过的东西，一般不带放射性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "被照过的东西，一般不带放射性",
+   "scene": "拍过片的病人和照过的零件，打钩",
+   "prompt_en": "Diagram: a patient after an X-ray exam and an inspected metal part, both with check marks. No text.",
+   "narration": "拍过片的人和检测过的零件，可放心接触。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "被照过的东西，一般不带放射性",
+   "scene": "只有中子等强照射才可能活化",
+   "prompt_en": "Diagram: a material in a reactor-like neutron field starting to glow faintly. No text.",
+   "narration": "中子等核反应强照射，才可能活化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "活度：每秒衰变多少次",
+   "scene": "一堆原子核，每秒有几个衰变",
+   "prompt_en": "Diagram: a pile of nuclei with a few of them flashing each second beside a stopwatch. No text.",
+   "narration": "活度，是每秒衰变的次数。",
+   "overlay": [
+    "活度：每秒衰变多少次"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "活度：每秒衰变多少次",
+   "scene": "单位贝可",
+   "prompt_en": "Diagram: a single flash per second with a stopwatch and a unit badge. No text.",
+   "narration": "单位是贝可，每秒衰变一次是1贝可。",
+   "overlay": [],
+   "labels": [
+    "贝可 Bq"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "活度：每秒衰变多少次",
+   "scene": "常用千贝可、兆贝可",
+   "prompt_en": "Diagram: a ladder of unit badges growing from small to large. No text.",
+   "narration": "实验室常用千贝可、兆贝可。",
+   "overlay": [],
+   "labels": [
+    "kBq",
+    "MBq",
+    "GBq"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "活度：每秒衰变多少次",
+   "scene": "旧单位居里",
+   "prompt_en": "Diagram: an old book with a unit badge and a conversion arrow to a modern badge. No text.",
+   "narration": "居里是旧单位，1居里等于370亿贝可。",
+   "overlay": [],
+   "labels": [
+    "居里 Ci",
+    "旧单位"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "活度：每秒衰变多少次",
+   "scene": "从源一路算到人",
+   "prompt_en": "Diagram: an arrow chain from a source to the air to a person. No text.",
+   "narration": "辐射的量，要从源一路算到人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "瓶里的核素自己衰变",
+   "prompt_en": "Diagram: a sealed vial with nuclei flashing and disappearing over time. No text.",
+   "narration": "核素放在瓶里，也会自己衰变。",
+   "overlay": [
+    "物理半衰期：自己衰变一半"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "活度曲线：每过一个半衰期减半",
+   "prompt_en": "Diagram: a decay curve dropping by half at each equal time step. No text.",
+   "narration": "活度减半的时间，叫物理半衰期。",
+   "overlay": [],
+   "labels": [
+    "1",
+    "1/2",
+    "1/4",
+    "1/8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "温度计、压力表对它没影响",
+   "prompt_en": "Diagram: heat, pressure and chemical icons crossed out next to a nucleus. No text.",
+   "narration": "只由原子核决定，谁也改变不了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "十个半衰期后剩约千分之一",
+   "prompt_en": "Diagram: a decay curve after ten steps with a tiny remaining bar. No text.",
+   "narration": "过十个半衰期，约剩千分之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "从秒表到化石的时间轴",
+   "prompt_en": "Diagram: a timeline from a stopwatch to an ancient rock showing very different half-lives. No text.",
+   "narration": "半衰期短到不到一秒，长到几十亿年。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "物理半衰期：自己衰变一半",
+   "scene": "短半衰期废物放着等它衰变",
+   "prompt_en": "Diagram: a shielded waste box with a calendar, waiting for decay. No text.",
+   "narration": "短半衰期废物，可以暂存等衰变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衰变表：查源现在有多强",
+   "scene": "放射源每天都在变弱",
+   "prompt_en": "Diagram: a calendar with a source icon getting smaller each day. No text.",
+   "narration": "放射源的活度，一天天在减少。",
+   "overlay": [
+    "衰变表：查源现在有多强"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衰变表：查源现在有多强",
+   "scene": "一张空白表格，按日期查剩余比例",
+   "prompt_en": "Diagram: a blank table with a date column and a remaining fraction column, a finger pointing to a row. No text.",
+   "narration": "衰变表按日期列出剩余活度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衰变表：查源现在有多强",
+   "scene": "源的标签：出厂活度和日期",
+   "prompt_en": "Diagram: a source container tag with a blank activity field and a blank date field. No text.",
+   "narration": "看出厂活度和日期，查表就知道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衰变表：查源现在有多强",
+   "scene": "算出今天的活度，再定防护",
+   "prompt_en": "Diagram: a person checking the table and then placing a shield accordingly. No text.",
+   "narration": "先查清现在多强，再定防护和用量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "身体像一个浴缸，从排水口往外流",
+   "prompt_en": "Diagram: a body drawn as a bathtub with water flowing out of the drain. No text.",
+   "narration": "身体像个浴缸，会往外排。",
+   "overlay": [
+    "生物半衰期：身体排出一半"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "排掉一半的时间",
+   "prompt_en": "Diagram: a bathtub at half level with a clock. No text.",
+   "narration": "排出一半的时间，叫生物半衰期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "靠排泄代谢，和衰变无关",
+   "prompt_en": "Diagram: kidney and sweat icons with arrows out of the body, a nucleus icon set aside. No text.",
+   "narration": "靠排泄和代谢，和衰变无关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "含氚的水较快排出",
+   "prompt_en": "Diagram: a water drop with a small glow leaving the body quickly with a short calendar. No text.",
+   "narration": "含氚的水，随体液较快排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "碘被甲状腺留住，锶像钙进骨头",
+   "prompt_en": "Diagram: iodine dots gathering in the thyroid and strontium dots settling in bones like calcium. No text.",
+   "narration": "碘留在甲状腺，锶像钙一样进骨头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "生物半衰期：身体排出一半",
+   "scene": "惰性气体很快呼出",
+   "prompt_en": "Diagram: a gas cloud breathed out of the body within a short clock time. No text.",
+   "narration": "惰性气体，几分钟到几小时就出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "浴缸有两个出水口同时放水",
+   "prompt_en": "Diagram: a bathtub with two drains open at the same time. No text.",
+   "narration": "衰变和排出，两个出水口同时放水。",
+   "overlay": [
+    "有效半衰期：两条路一起走"
+   ],
+   "labels": [
+    "衰变",
+    "排出"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "合起来减得更快",
+   "prompt_en": "Diagram: a water level dropping faster with both drains open than with either alone. No text.",
+   "narration": "所以有效半衰期，比两者都短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "谁更短谁说了算",
+   "prompt_en": "Diagram: two drains of different sizes, the bigger one highlighted. No text.",
+   "narration": "谁更短，谁说了算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "碘-131在甲状腺：8天和约80天",
+   "prompt_en": "Diagram: a thyroid icon with two clocks, a short one and a long one. No text.",
+   "narration": "碘-131：物理8天，甲状腺排出约80天。",
+   "overlay": [],
+   "labels": [
+    "物理 8 天",
+    "生物 约80天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "合起来约7天",
+   "prompt_en": "Diagram: a combined clock slightly shorter than the short clock. No text.",
+   "narration": "合起来约7天，物理半衰期说了算。",
+   "overlay": [],
+   "labels": [
+    "有效 约7天"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有效半衰期：两条路一起走",
+   "scene": "不同器官、不同人排出快慢不同",
+   "prompt_en": "Diagram: several organ icons and different people with different drain speeds. No text.",
+   "narration": "随药物、器官和人而不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "桌上的密封源只按物理半衰期衰减",
+   "prompt_en": "Diagram: a sealed source capsule on a bench with a single decay clock. No text.",
+   "narration": "桌上的密封源，只按物理半衰期减。",
+   "overlay": [
+    "桌上的源与身体里的源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "身体是流动的系统，会排出",
+   "prompt_en": "Diagram: a body outline with flows in and out like a river. No text.",
+   "narration": "身体是流动的，会往外排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "长半衰期核素留在体内长期照射",
+   "prompt_en": "Diagram: a long-lived glowing dot remaining in a bone for many calendar years. No text.",
+   "narration": "长寿命核素留在体内，会长期照射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "长寿命密封源做药，打叉",
+   "prompt_en": "Diagram: a sealed source capsule being put into a pill bottle; crossed out. No text.",
+   "narration": "长寿命的密封源，绝不能拿来做药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "桌上的源与身体里的源",
+   "scene": "镭在骨中，只看物理半衰期会算高",
+   "prompt_en": "Diagram: a bone with a radium dot, a slow physical clock and a faster removal clock, with a balance. No text.",
+   "narration": "算体内剂量，要用有效半衰期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "纸、有机玻璃加铅、铅和混凝土、含氢材料",
+   "prompt_en": "Diagram: icons of paper, a clear plastic plus lead layer, lead with concrete, and paraffin. No text.",
+   "narration": "α纸，β有机玻璃加铅，γ铅，中子含氢。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "α进体内危害大",
+   "prompt_en": "Diagram: an alpha icon inside a body outline with a warning mark and a crossed-out mouth. No text.",
+   "narration": "α外照射弱，进了体内危害大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "活度贝可、半衰期曲线、衰变表",
+   "prompt_en": "Diagram: icons of a unit badge, a halving decay curve and a blank table. No text.",
+   "narration": "活度用贝可，半衰期减半，查衰变表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两个出水口的浴缸",
+   "prompt_en": "Diagram: a bathtub with two drains. No text.",
+   "narration": "有效半衰期，比物理、生物的都短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着个人剂量计挥手",
+   "prompt_en": "The panda mascot holds up a personal dosimeter badge and waves goodbye.",
+   "narration": "下一课：辐射剂量与单位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
