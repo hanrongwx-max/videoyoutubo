@@ -1,0 +1,1013 @@
+{
+ "id": "062_生物封闭原理：屏障与定向气流",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "生物封闭原理：屏障与定向气流",
+ "seconds": 390,
+ "source_doc": "course/高校实验室安全/062_生物封闭原理：屏障与定向气流.md",
+ "author_source": "project/高校实验室安全/062_生物封闭原理：屏障与定向气流/src.py",
+ "points": {
+  "K1": "什么是封闭：把病原关在受控空间",
+  "K2": "一级防护：护住做实验的人",
+  "K3": "二级防护：护住外面的环境",
+  "K4": "两道屏障一起守",
+  "K5": "定向气流：从清洁区流向污染区",
+  "K6": "风不能从病原吹向人",
+  "K7": "负压与压力梯度：越往里压力越低",
+  "K8": "气锁与缓冲间：两道门不同时开",
+  "K9": "持续换气，把气溶胶带走",
+  "K10": "高效过滤：截住病原再排出",
+  "K11": "屏障有局限，总有剩余风险",
+  "K12": "飘带外飘：不进入，关门挂牌",
+  "K13": "报告，修好验证再恢复",
+  "K14": "工作中通风报警或停电"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个透明盒子旁，盒子里飘着小菌图标",
+   "prompt_en": "The panda mascot stands beside a clear box with small germ icons floating inside, and greets the camera.",
+   "narration": "这一课讲生物封闭：屏障与定向气流。",
+   "overlay": [
+    "生物封闭原理：屏障与定向气流"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "清晨，阿杰打开实验室门，门上的飘带朝走廊外飘",
+   "prompt_en": "Early morning, the young male student opens a lab door; a small ribbon on the door frame flutters outward into the corridor.",
+   "narration": "清晨开门，飘带却朝走廊外飘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰犹豫，想直接进去干活",
+   "prompt_en": "The young male student hesitates, then starts to step inside with his sample box.",
+   "narration": "阿杰想：先进去干活吧？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研快步过来拦住他",
+   "prompt_en": "The female graduate student hurries over and stops him.",
+   "narration": "小研说：不行！先弄懂封闭原理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是封闭：把病原关在受控空间",
+   "scene": "病原图标被关在受控的方框里，外泄箭头被挡住",
+   "prompt_en": "Diagram: germ icons kept inside a controlled square; outward arrows are blocked. No text.",
+   "narration": "封闭，就是把病原关在受控空间里。",
+   "overlay": [
+    "什么是封闭：把病原关在受控空间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是封闭：把病原关在受控空间",
+   "scene": "病原外泄伤到人员和社区的图标",
+   "prompt_en": "Diagram: an escaping germ reaching workers and a nearby neighborhood, marked with a warning icon. No text.",
+   "narration": "一旦外泄，伤到人员，也伤到公众。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是封闭：把病原关在受控空间",
+   "scene": "高级别实验室整体是一个防护区，研究人员在里面工作",
+   "prompt_en": "Diagram: a higher-level lab drawn as one protected zone with researchers working inside. No text.",
+   "narration": "高级别实验室，本身就是一个防护区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是封闭：把病原关在受控空间",
+   "scene": "防护区门口：批准和培训两道关，学生被挡在外",
+   "prompt_en": "Diagram: at the zone door, two gates for approval and training; a student waits outside. No text.",
+   "narration": "没经批准和培训，学生不能进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是封闭：把病原关在受控空间",
+   "scene": "好设施旁边站着按规程操作的人",
+   "prompt_en": "Diagram: a good facility with a worker following a procedure book beside it. No text.",
+   "narration": "设施再好，也要人按规程用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "一级防护：护住做实验的人",
+   "scene": "内圈：做实验的人被护住",
+   "prompt_en": "Diagram: an inner ring protecting the person doing the experiment. No text.",
+   "narration": "防护分两道，一级防护护住人。",
+   "overlay": [
+    "一级防护：护住做实验的人"
+   ],
+   "labels": [
+    "一级防护：护人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "一级防护：护住做实验的人",
+   "scene": "安全柜、实验服、手套、口罩、眼罩、送风呼吸器图标",
+   "prompt_en": "Diagram: icons of a safety cabinet, lab coat, gloves, mask, goggles and a powered air respirator. No text.",
+   "narration": "靠安全柜和个人防护装备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "一级防护：护住做实验的人",
+   "scene": "穿脱防护的规程本和规范操作图标",
+   "prompt_en": "Diagram: a procedure book for putting on and taking off gear, and a correct-technique icon. No text.",
+   "narration": "也靠规范操作和穿脱规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "一级防护：护住做实验的人",
+   "scene": "生物安全柜在内圈中央放大",
+   "prompt_en": "Diagram: the biosafety cabinet enlarged at the center of the inner ring. No text.",
+   "narration": "生物安全柜，是第一道的主力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "二级防护：护住外面的环境",
+   "scene": "外圈：实验室外面的环境和社区被护住",
+   "prompt_en": "Diagram: an outer ring protecting the environment and community outside the lab. No text.",
+   "narration": "二级防护，护住外面的环境。",
+   "overlay": [
+    "二级防护：护住外面的环境"
+   ],
+   "labels": [
+    "二级防护：护环境"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "二级防护：护住外面的环境",
+   "scene": "墙、门、通风、过滤器四个图标",
+   "prompt_en": "Diagram: icons of walls, doors, ventilation and a filter. No text.",
+   "narration": "靠工程控制：墙、门、通风、过滤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "二级防护：护住外面的环境",
+   "scene": "废水去污、定期维护、运输和废物处置规程图标",
+   "prompt_en": "Diagram: icons of wastewater decontamination, scheduled maintenance, transport and waste procedures. No text.",
+   "narration": "也靠废水去污、维护和废物规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "二级防护：护住外面的环境",
+   "scene": "植物温室：防护挡住花粉和病原外逃",
+   "prompt_en": "Diagram: a greenhouse structure keeping pollen and plant germs from escaping. No text.",
+   "narration": "植物设施，也靠结构挡住花粉病原。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "二级防护：护住外面的环境",
+   "scene": "工程控制价格标签图标",
+   "prompt_en": "Diagram: an engineering control icon with a large price tag. No text.",
+   "narration": "工程控制靠设施，建设维护都不便宜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两道屏障一起守",
+   "scene": "两个盒子，小研和学生往里贴空白便利贴",
+   "prompt_en": "The female graduate student and students stick blank sticky notes into two boxes.",
+   "narration": "做个练习：护人的、护环境的分两盒。",
+   "overlay": [
+    "两道屏障一起守"
+   ],
+   "labels": [
+    "护人",
+    "护环境"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两道屏障一起守",
+   "scene": "手套、安全柜贴进护人盒；过滤器、废水去污贴进护环境盒",
+   "prompt_en": "Diagram: glove and cabinet notes go into one box; filter and wastewater notes go into the other. No text.",
+   "narration": "柜子护人，房子护环境。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两道屏障一起守",
+   "scene": "两个盒子拼成一间实验室",
+   "prompt_en": "Diagram: the two boxes join together to form a lab. No text.",
+   "narration": "两层拼起来，就是一间生物安全实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "两道屏障一起守",
+   "scene": "两道防线缺一道，菌图标从缺口漏出",
+   "prompt_en": "Diagram: with one of two barrier lines missing, germ icons leak through the gap. No text.",
+   "narration": "两道一起用，缺一道风险就漏出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "气流箭头从走廊流向实验室深处",
+   "prompt_en": "Diagram: airflow arrows run from the corridor deep into the lab. No text.",
+   "narration": "封闭的核心，是定向气流。",
+   "overlay": [
+    "定向气流：从清洁区流向污染区"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "清洁区到污染区的单向箭头",
+   "prompt_en": "Diagram: a one-way arrow from a clean zone to a contaminated zone. No text.",
+   "narration": "空气从清洁区，流向污染区。",
+   "overlay": [],
+   "labels": [
+    "清洁区",
+    "污染区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "普通房间开门空气往外，封闭实验室开门空气往里",
+   "prompt_en": "Diagram: an ordinary room pushes air out when opened; a containment lab draws air in. No text.",
+   "narration": "普通房间往外，封闭实验室往里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "室内气溶胶被气流拦在里面",
+   "prompt_en": "Diagram: aerosol droplets inside the lab held back by inward airflow. No text.",
+   "narration": "室内的气溶胶，就跑不出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "从一级到三级的实验室都画着向内的箭头",
+   "prompt_en": "Diagram: several labs of different levels, all with inward airflow arrows. No text.",
+   "narration": "定向气流，是生物实验室的常见配置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "定向气流：从清洁区流向污染区",
+   "scene": "【实拍】本校实验室门口：门框上的气流飘带和压差显示面板（不讲解读数）",
+   "prompt_en": "A lab door with a small airflow ribbon on the frame and a pressure display panel beside it. No readable text.",
+   "narration": "进门前，先看一眼压差表和飘带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "风不能从病原吹向人",
+   "scene": "风从病原吹向人的箭头，打叉",
+   "prompt_en": "Diagram: airflow blowing from a germ toward a person, marked with a red cross. No text.",
+   "narration": "风从病原吹向人，不行。",
+   "overlay": [
+    "风不能从病原吹向人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "风不能从病原吹向人",
+   "scene": "风从人身后来，经过病原，从另一头过滤排出",
+   "prompt_en": "Diagram: air comes from behind the worker, passes the germ and leaves through a filter at the far end. No text.",
+   "narration": "风从人身后来，经过病原再排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "风不能从病原吹向人",
+   "scene": "地上溅洒，人站在清洁一侧处理",
+   "prompt_en": "Diagram: a floor spill handled by a worker standing on the clean, upwind side. No text.",
+   "narration": "地上洒了，从清洁一侧处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "风不能从病原吹向人",
+   "scene": "排风口前堆着箱子、柜前格栅压着本子，打叉",
+   "prompt_en": "Diagram: boxes stacked in front of an exhaust vent and a notebook on the cabinet front grille, both crossed out. No text.",
+   "narration": "排风口和柜前格栅，别遮挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "实验室气压比外面低的示意",
+   "prompt_en": "Diagram: the lab drawn with lower air pressure than the outside, arrows pointing inward. No text.",
+   "narration": "封闭实验室，气压比外面低，叫负压。",
+   "overlay": [
+    "负压与压力梯度：越往里压力越低"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "负压把含菌的雾滴留在里面",
+   "prompt_en": "Diagram: negative pressure keeps germ-laden droplets inside. No text.",
+   "narration": "含病原的气溶胶，就跑不出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "从入口到核心区，压力一级比一级低的台阶图",
+   "prompt_en": "Diagram: pressure steps going down from the entrance to the core room. No text.",
+   "narration": "从入口往里，压力一级比一级低。",
+   "overlay": [],
+   "labels": [
+    "外",
+    "缓冲",
+    "核心"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "面板绿灯亮",
+   "prompt_en": "Diagram: a pressure panel with a green light. No text.",
+   "narration": "面板绿灯，说明压力正常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "涉病原操作只在最里面的负压间",
+   "prompt_en": "Diagram: germ work shown only in the innermost negative-pressure room. No text.",
+   "narration": "涉病原的活，都在负压间里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "负压与压力梯度：越往里压力越低",
+   "scene": "数值问号，指向本校设施说明",
+   "prompt_en": "Diagram: a question mark over a gauge pointing to a facility manual. No text.",
+   "narration": "具体数值，以标准和本校说明为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "一侧外界，一侧防护区，中间一小段气锁",
+   "prompt_en": "Diagram: the outside on one side, the protected zone on the other, and a short airlock in between. No text.",
+   "narration": "两区之间这一小段，叫气锁或缓冲间。",
+   "overlay": [
+    "气锁与缓冲间：两道门不同时开"
+   ],
+   "labels": [
+    "外界",
+    "气锁",
+    "防护区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "气锁里的压力把两侧空气隔开",
+   "prompt_en": "Diagram: pressure inside the airlock keeps the air of the two sides apart. No text.",
+   "narration": "靠压力差，把两边的空气隔开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "商场门口风幕的比喻图",
+   "prompt_en": "Diagram: a comparison with an air curtain at a shopping mall entrance. No text.",
+   "narration": "像商场门口的风幕，真正靠压力差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "两道门，一道开时另一道锁住",
+   "prompt_en": "Diagram: two doors; while one is open the other stays locked. No text.",
+   "narration": "两道门不同时开，进出随手关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "【实拍】缓冲间门旁的互锁指示灯由红变绿（本校设施或培训模型，不拍内部）",
+   "prompt_en": "A door interlock indicator light beside an airlock door turns from red to green. No readable text.",
+   "narration": "指示灯没变绿，就等一等。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "气锁与缓冲间：两道门不同时开",
+   "scene": "门被箱子撑开，打叉",
+   "prompt_en": "Diagram: a lab door propped open with a box, marked with a red cross. No text.",
+   "narration": "门也是屏障，不能撑开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "持续换气，把气溶胶带走",
+   "scene": "移液、离心时冒出小雾滴",
+   "prompt_en": "Diagram: small droplets rise during pipetting and centrifuging. No text.",
+   "narration": "移液、离心，都会产生气溶胶。",
+   "overlay": [
+    "持续换气，把气溶胶带走"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "持续换气，把气溶胶带走",
+   "scene": "漂洗衣服的比喻：清水一遍遍冲走泡沫",
+   "prompt_en": "Diagram: a comparison with rinsing laundry, clean water washing foam away again and again. No text.",
+   "narration": "持续换气，像漂洗衣服一样带走它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "持续换气，把气溶胶带走",
+   "scene": "进风过滤进来，流过操作区，再过滤排出",
+   "prompt_en": "Diagram: air enters through a filter, sweeps the work area and leaves through another filter. No text.",
+   "narration": "进风过滤进来，带走污染再过滤排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "持续换气，把气溶胶带走",
+   "scene": "社区房屋安全的图标",
+   "prompt_en": "Diagram: a safe neighborhood of houses outside the lab. No text.",
+   "narration": "这样，外面的社区就安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "排风管上一个过滤器方块",
+   "prompt_en": "Diagram: a filter block on an exhaust duct. No text.",
+   "narration": "排出去的空气，必须先过高效过滤。",
+   "overlay": [
+    "高效过滤：截住病原再排出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "放大：层层纤维截住颗粒和病原",
+   "prompt_en": "Diagram: magnified layers of fibers catching particles and germs. No text.",
+   "narration": "层层纤维，把颗粒和病原截住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "小颗粒乱飘也撞上纤维被抓住",
+   "prompt_en": "Diagram: tiny particles drift randomly and still stick to the fibers. No text.",
+   "narration": "更小的颗粒乱飘，也会被抓住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "气流被引向天花板过滤口排出",
+   "prompt_en": "Diagram: room air guided up to ceiling filter outlets. No text.",
+   "narration": "气流被导向顶部，过滤后排出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "过滤器四周密封条",
+   "prompt_en": "Diagram: a filter with a sealing gasket around its frame. No text.",
+   "narration": "过滤器靠密封装好，不能漏风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "专业人员袋进袋出更换过滤器",
+   "prompt_en": "Diagram: a trained technician changes a filter using a bag-in bag-out method. No text.",
+   "narration": "更换由专人做，袋进袋出，去污废弃。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "高效过滤：截住病原再排出",
+   "scene": "过滤器老化，日历按期更换",
+   "prompt_en": "Diagram: an aged filter beside a calendar with a replacement mark. No text.",
+   "narration": "用久了会老化，要按期检测更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "屏障有局限，总有剩余风险",
+   "scene": "过滤器上一个小小的缺口问号",
+   "prompt_en": "Diagram: a filter with a tiny question mark at one corner. No text.",
+   "narration": "高效过滤很高效，但不是百分百。",
+   "overlay": [
+    "屏障有局限，总有剩余风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "屏障有局限，总有剩余风险",
+   "scene": "检测仪定期检查过滤器有无泄漏",
+   "prompt_en": "Diagram: a tester checks the filter for leaks on a schedule. No text.",
+   "narration": "要定期检测，确认没有泄漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "屏障有局限，总有剩余风险",
+   "scene": "源头少产生气溶胶，安全柜在前，房间气流兜底",
+   "prompt_en": "Diagram: fewer droplets at the source, the safety cabinet in front and room airflow as the backup. No text.",
+   "narration": "源头少产气溶胶，柜在前，房兜底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "屏障有局限，总有剩余风险",
+   "scene": "多道屏障叠在一起，仍留一个小小的剩余风险点",
+   "prompt_en": "Diagram: several barriers stacked together with a small leftover risk dot. No text.",
+   "narration": "屏障再多，也总有剩余风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "屏障有局限，总有剩余风险",
+   "scene": "设施、气流、安全柜、灭菌器四个图标连成一圈",
+   "prompt_en": "Diagram: icons of the facility, airflow, a safety cabinet and an autoclave linked in a circle. No text.",
+   "narration": "设施、气流、柜子、灭菌器，一起用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "飘带外飘：不进入，关门挂牌",
+   "scene": "回到清晨：飘带向外飘的特写",
+   "prompt_en": "Close-up: the ribbon on the door frame flutters outward toward the corridor.",
+   "narration": "回到清晨：飘带外飘，说明什么？",
+   "overlay": [
+    "飘带外飘：不进入，关门挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "飘带外飘：不进入，关门挂牌",
+   "scene": "箭头从实验室往走廊流",
+   "prompt_en": "Diagram: arrows show air flowing from the lab out into the corridor. No text.",
+   "narration": "空气正往外流，屏障失效了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "飘带外飘：不进入，关门挂牌",
+   "scene": "阿杰退后，不进入，关好门",
+   "prompt_en": "The young male student steps back and closes the lab door without entering.",
+   "narration": "不进入，不做任何实验，关好门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "飘带外飘：不进入，关门挂牌",
+   "scene": "门口挂上停用提示牌（空白）",
+   "prompt_en": "The young male student hangs a blank warning tag on the door handle.",
+   "narration": "门口挂牌，提醒别人也别进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "飘带外飘：不进入，关门挂牌",
+   "scene": "已在里面的人收好材料，撤出关门",
+   "prompt_en": "Diagram: a worker already inside closes containers, leaves and shuts the door. No text.",
+   "narration": "已经在里面，就收好材料，撤出关门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报告，修好验证再恢复",
+   "scene": "阿杰打电话给老周，老李赶来",
+   "prompt_en": "The young male student calls the older man; the facility engineer arrives.",
+   "narration": "马上报告负责人，通知设施人员。",
+   "overlay": [
+    "报告，修好验证再恢复"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报告，修好验证再恢复",
+   "scene": "时间、现象、位置三个图标",
+   "prompt_en": "Diagram: icons for time, what was seen and location. No text.",
+   "narration": "说清发现的时间、现象和位置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报告，修好验证再恢复",
+   "scene": "老李检修后飘带恢复向内，老周点头确认",
+   "prompt_en": "The facility engineer finishes repairs; the ribbon now flutters inward and the older man nods.",
+   "narration": "修好后，先确认气流恢复向内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报告，修好验证再恢复",
+   "scene": "老周签字后，大家恢复实验",
+   "prompt_en": "The older man signs a blank record and work resumes.",
+   "narration": "负责人确认后，才恢复实验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报告，修好验证再恢复",
+   "scene": "以后每次进门，先看飘带",
+   "prompt_en": "The young male student glances at the ribbon before entering.",
+   "narration": "以后每次进门，先看一眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "工作中通风报警或停电",
+   "scene": "做实验时压差报警灯闪、灯光熄灭",
+   "prompt_en": "Diagram: during work a pressure alarm light flashes and the room lights go out. No text.",
+   "narration": "做实验时报警或停电，先停手。",
+   "overlay": [
+    "工作中通风报警或停电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "工作中通风报警或停电",
+   "scene": "盖好容器、封好样本",
+   "prompt_en": "Diagram: containers are capped and samples sealed. No text.",
+   "narration": "把容器盖好封好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "工作中通风报警或停电",
+   "scene": "按程序脱防护，撤出实验室",
+   "prompt_en": "Diagram: workers remove protective gear in order and leave the lab. No text.",
+   "narration": "按程序脱防护，撤出实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "工作中通风报警或停电",
+   "scene": "报告负责人，等恢复再进",
+   "prompt_en": "Diagram: a phone report to the lab head, then a wait icon. No text.",
+   "narration": "按预案报告，恢复后再进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "内圈护人、外圈护环境",
+   "prompt_en": "Diagram: an inner ring protecting the person and an outer ring protecting the environment. No text.",
+   "narration": "一级护人，二级护环境，一起守。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "气流箭头向内、压力台阶、过滤器",
+   "prompt_en": "Diagram: inward arrows, pressure steps and a filter. No text.",
+   "narration": "气流向内，压力梯度，过滤后排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "飘带外飘—关门挂牌—报告—验证四步图标",
+   "prompt_en": "Diagram: four icons, an outward ribbon, a closed tagged door, a phone report and a check mark. No text.",
+   "narration": "气流异常：不进、挂牌、报告、验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一张实验室平面图旁挥手",
+   "prompt_en": "The panda mascot stands beside a lab floor plan and waves goodbye.",
+   "narration": "下一课：三级生物安全实验室的布局与进出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
