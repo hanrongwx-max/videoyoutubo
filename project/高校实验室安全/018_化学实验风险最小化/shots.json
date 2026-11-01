@@ -1,0 +1,802 @@
+{
+ "id": "018_化学实验风险最小化",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "化学实验风险最小化",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/018_化学实验风险最小化.md",
+ "author_source": "project/高校实验室安全/018_化学实验风险最小化/src.py",
+ "points": {
+  "K1": "降低风险从好习惯做起",
+  "K2": "减少暴露的四个问题",
+  "K3": "低危替代",
+  "K4": "替代要按步骤决策",
+  "K5": "缩小规模，用最小量",
+  "K6": "按需领用，减少存量",
+  "K7": "凡事预则立：规划与备齐",
+  "K8": "合理安排实验时间",
+  "K9": "装置先检查，用专用器具",
+  "K10": "装置搭建要规范",
+  "S1": "减量也减少危险废物"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣一手拿小烧杯、一手拿大烧杯，向镜头招手",
+   "prompt_en": "The panda mascot holds a small beaker in one paw and a large beaker in the other, waving at the camera.",
+   "narration": "这一课讲化学实验风险最小化。",
+   "overlay": [
+    "化学实验风险最小化"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "风险指针从高慢慢降到低",
+   "prompt_en": "A risk dial slowly moves from high to low. No people.",
+   "narration": "同一个实验，怎么做风险最小？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰从药品柜里搬出一大瓶溶剂",
+   "prompt_en": "The young male student carries a large solvent bottle out of a storage cabinet.",
+   "narration": "阿杰要做溶解实验，搬来一大瓶溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "台面上东西乱放，夹子没夹，器材不全",
+   "prompt_en": "A cluttered bench with loose clamps and missing equipment. No people.",
+   "narration": "台面杂乱，器材也没备齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指着讲义",
+   "prompt_en": "The female graduate student stops him and points at a blank lab handout.",
+   "narration": "小研说：先想想怎么把风险降到最小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "欣欣竖起大拇指",
+   "prompt_en": "The panda mascot gives a thumbs-up.",
+   "narration": "一起来学几个通用的办法。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险从好习惯做起",
+   "scene": "四步流程图，第三步亮起",
+   "prompt_en": "A four-step flow chart with the third step highlighted. No people.",
+   "narration": "识别、评估之后，第三步是降低风险。",
+   "overlay": [
+    "降低风险从好习惯做起"
+   ],
+   "labels": [
+    "识别",
+    "评估",
+    "降低",
+    "准备"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险从好习惯做起",
+   "scene": "整洁的台面、盖好的瓶盖、戴好的护目镜",
+   "prompt_en": "A tidy bench with capped bottles and a pair of safety goggles ready. No people.",
+   "narration": "好的操作习惯，就能减少接触和受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险从好习惯做起",
+   "scene": "小研提醒阿杰盖好瓶盖",
+   "prompt_en": "The female graduate student reminds the young male student to cap a bottle.",
+   "narration": "同伴之间，互相提醒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "降低风险从好习惯做起",
+   "scene": "损失图标：破碎仪器和钱币，被一个盾牌挡住",
+   "prompt_en": "Icons of broken equipment and coins blocked by a shield. No people.",
+   "narration": "也能减少仪器和财产的损失。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "四个问号依次出现",
+   "prompt_en": "Four question marks appear one by one on a blank board. No people.",
+   "narration": "减少暴露，先问自己四个问题。",
+   "overlay": [
+    "减少暴露的四个问题"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "高危试剂瓶换成低危试剂瓶",
+   "prompt_en": "A high-hazard reagent bottle is swapped for a lower-hazard one. No people.",
+   "narration": "一，能不能换成危害小的化学品？",
+   "overlay": [],
+   "labels": [
+    "换"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "深色溶液变成浅色溶液",
+   "prompt_en": "A dark concentrated solution becomes a pale diluted one. No people.",
+   "narration": "二，能不能用更稀的浓度？",
+   "overlay": [],
+   "labels": [
+    "稀"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "大烧杯换成小烧杯",
+   "prompt_en": "A large beaker is replaced by a small beaker. No people.",
+   "narration": "三，能不能少用一点？",
+   "overlay": [],
+   "labels": [
+    "少"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "温度计读数从高降低，烫伤图标变淡",
+   "prompt_en": "A thermometer icon drops from high to low, and a burn icon fades. No people.",
+   "narration": "四，能不能降低温度，减少烫伤？",
+   "overlay": [],
+   "labels": [
+    "冷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "减少暴露的四个问题",
+   "scene": "四个答案都打勾，暴露指针下降",
+   "prompt_en": "Four green checks, and an exposure dial drops to low. No people.",
+   "narration": "能做到一条，风险就降一级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "低危替代",
+   "scene": "易燃溶剂瓶换成不太易燃的溶剂瓶",
+   "prompt_en": "A bottle with a flame pictogram is swapped for a bottle without it. No people.",
+   "narration": "易燃溶剂，换成不太易燃的。",
+   "overlay": [
+    "低危替代"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "低危替代",
+   "scene": "高毒试剂换成低毒试剂",
+   "prompt_en": "A bottle with a skull pictogram is swapped for a safer bottle. No people.",
+   "narration": "高毒试剂，换成低毒的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "低危替代",
+   "scene": "倒金字塔第二层亮起",
+   "prompt_en": "The second layer of an inverted pyramid glows. No people.",
+   "narration": "替代排在消除之后，效果仅次于消除。",
+   "overlay": [],
+   "labels": [
+    "替代"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "替代要按步骤决策",
+   "scene": "一只手随手换瓶的图标被打叉",
+   "prompt_en": "An icon of a hand casually swapping bottles is crossed out with a red X. No people.",
+   "narration": "替代不是随手一换，要按步骤来。",
+   "overlay": [
+    "替代要按步骤决策"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "替代要按步骤决策",
+   "scene": "天平两边：毒性和危险性对比",
+   "prompt_en": "A balance comparing two bottles by toxicity and flammability icons. No people.",
+   "narration": "先比一比，毒性和危险性。",
+   "overlay": [],
+   "labels": [
+    "毒性",
+    "易燃性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "替代要按步骤决策",
+   "scene": "成本和可行性两个图标",
+   "prompt_en": "Two icons: a coin and a gear with a check mark. No people.",
+   "narration": "再看成本和可行性。",
+   "overlay": [],
+   "labels": [
+    "成本",
+    "可行性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "替代要按步骤决策",
+   "scene": "小试管里先做一次小试验，旁边审批章",
+   "prompt_en": "A small trial in a test tube, next to an approval stamp icon. No people.",
+   "narration": "小试验证，按变更审批再推广。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "替代要按步骤决策",
+   "scene": "旧危害消失，新危害冒出来，打叉",
+   "prompt_en": "One hazard icon disappears while a new hazard icon pops up, crossed out with a red X. No people.",
+   "narration": "别用旧危害，换来一个新危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "缩小规模，用最小量",
+   "scene": "大烧瓶缩小成小烧瓶",
+   "prompt_en": "A large round-bottom flask shrinks into a small one. No people.",
+   "narration": "消除不了，就缩小实验规模。",
+   "overlay": [
+    "缩小规模，用最小量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "缩小规模，用最小量",
+   "scene": "常量仪器旁边一套微型仪器",
+   "prompt_en": "A set of miniature glassware next to a regular-size set. No people.",
+   "narration": "能用微量化实验，就不做常量。",
+   "overlay": [],
+   "labels": [
+    "微量化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "缩小规模，用最小量",
+   "scene": "小烧瓶洒了一点，影响范围很小",
+   "prompt_en": "A small flask spills a little, and only a tiny area is affected. No people.",
+   "narration": "万一出错，影响也小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "缩小规模，用最小量",
+   "scene": "钱币图标变多，绿叶图标",
+   "prompt_en": "A coin icon and a green leaf icon appear next to the small flask. No people.",
+   "narration": "用量少，还更省钱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "缩小规模，用最小量",
+   "scene": "【实拍】用移液器只取够用的少量液体（清水代替，手部特写，戴手套）",
+   "prompt_en": "Close-up: a gloved hand uses a pipette to take only a small amount of liquid into a small vial.",
+   "narration": "做实验，只用够用的最小量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按需领用，减少存量",
+   "scene": "领用登记本，阿杰只领一小瓶",
+   "prompt_en": "The young male student signs a blank logbook and receives only a small bottle.",
+   "narration": "危险化学品，按需领用，用多少领多少。",
+   "overlay": [
+    "按需领用，减少存量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按需领用，减少存量",
+   "scene": "王老师在台账上登记领用",
+   "prompt_en": "The safety administrator records the issued bottle in a blank ledger.",
+   "narration": "领用要登记，台账写清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按需领用，减少存量",
+   "scene": "柜里堆满的试剂瓶被打叉",
+   "prompt_en": "A cabinet overstuffed with reagent bottles, crossed out with a red X. No people.",
+   "narration": "不囤积，存得越多风险越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按需领用，减少存量",
+   "scene": "用剩的试剂退回库房",
+   "prompt_en": "A leftover reagent bottle is returned to a storage room counter. No people.",
+   "narration": "用剩的，按规定退回或处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "凡事预则立：规划与备齐",
+   "scene": "欣欣举起一张计划表",
+   "prompt_en": "The panda mascot holds up a blank planning sheet.",
+   "narration": "凡事预则立，每次实验前都要准备。",
+   "overlay": [
+    "凡事预则立：规划与备齐"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "凡事预则立：规划与备齐",
+   "scene": "阿杰翻看讲义、规程和标签",
+   "prompt_en": "The young male student reads a blank handout, a procedure sheet and a bottle label.",
+   "narration": "动手前，读讲义、规程和标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "凡事预则立：规划与备齐",
+   "scene": "四个图标：危害、防护、急救、处置",
+   "prompt_en": "Four icons: a hazard sign, goggles, a first aid kit and a waste container. No people.",
+   "narration": "想清楚危害、防护、急救和处置。",
+   "overlay": [],
+   "labels": [
+    "危害",
+    "防护",
+    "急救",
+    "处置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "凡事预则立：规划与备齐",
+   "scene": "试剂、器材和说明书整齐摆在台上",
+   "prompt_en": "Reagents, equipment and blank safety data sheets laid out neatly on a bench. No people.",
+   "narration": "材料和安全技术说明书，提前备齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "凡事预则立：规划与备齐",
+   "scene": "手忙脚乱找东西的图标被打叉",
+   "prompt_en": "An icon of someone rushing around looking for things, crossed out with a red X. No people.",
+   "narration": "准备，是安全操作化学品的关键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "一个时钟和实验流程条",
+   "prompt_en": "A wall clock next to a blank timeline bar of experiment steps. No people.",
+   "narration": "时间不够，先排好实验进度。",
+   "overlay": [
+    "合理安排实验时间"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "流程条上标出几个暂停点",
+   "prompt_en": "Several safe pause points marked on the timeline bar. No people.",
+   "narration": "定好能安全中断的节点。",
+   "overlay": [],
+   "labels": [
+    "安全暂停点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "赶时间匆忙操作的图标被打叉",
+   "prompt_en": "An icon of a hurried person with a clock, crossed out with a red X. No people.",
+   "narration": "别为赶时间，跳步或匆忙收尾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "阿杰打哈欠，危险操作图标被暂停",
+   "prompt_en": "The young male student yawns, and a hazardous step icon is paused.",
+   "narration": "太累了，别做危险操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "月亮和过夜运行的装置，旁边审批单",
+   "prompt_en": "A moon icon next to an apparatus running overnight and a blank approval form. No people.",
+   "narration": "过夜实验，按学校规定审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "合理安排实验时间",
+   "scene": "门上挂着信息牌：联系人、电话图标",
+   "prompt_en": "A blank information tag with a person icon and a phone icon hangs on the apparatus. No people.",
+   "narration": "写明联系人，安排好巡查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装置先检查，用专用器具",
+   "scene": "【实拍】逐件拿起玻璃仪器对着光检查有无裂纹（手部特写，戴手套）",
+   "prompt_en": "Close-up: gloved hands hold glassware up to the light, checking for cracks.",
+   "narration": "搭装置前，逐件检查。",
+   "overlay": [
+    "装置先检查，用专用器具"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装置先检查，用专用器具",
+   "scene": "干净的仪器打勾，脏的打叉",
+   "prompt_en": "Clean glassware with a green check, dirty glassware crossed out. No people.",
+   "narration": "要干净，要能正常工作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装置先检查，用专用器具",
+   "scene": "仪器上的检查合格标签和完好的电源线",
+   "prompt_en": "An instrument with a blank inspection tag and an intact power cord. No people.",
+   "narration": "设备开机前，确认状态正常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装置先检查，用专用器具",
+   "scene": "用饮料瓶装试剂的图标被打叉",
+   "prompt_en": "An icon of a drink bottle used to hold a chemical, crossed out with a red X. No people.",
+   "narration": "要专用器具和容器，就用专用的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "装置先检查，用专用器具",
+   "scene": "胶带缠着的凑合装置被打叉",
+   "prompt_en": "A makeshift setup held together with tape, crossed out with a red X. No people.",
+   "narration": "临时凑合的替代品，很危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装置搭建要规范",
+   "scene": "【实拍】用合适的夹具把烧瓶固定在铁架台上，松紧适度（空烧瓶，手部特写）",
+   "prompt_en": "Close-up: hands clamp a flask to a lab stand with a suitable clamp, firm but not overtight.",
+   "narration": "搭装置，用合适的夹具，装稳不别劲。",
+   "overlay": [
+    "装置搭建要规范"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装置搭建要规范",
+   "scene": "装置上有一个通向大气的开口，旁边打勾；全封闭装置打叉",
+   "prompt_en": "Split image: an apparatus with an opening to the air marked with a green check, and a fully sealed apparatus crossed out. No people.",
+   "narration": "要有通气口，加热不能搭封闭体系。",
+   "overlay": [],
+   "labels": [
+    "通气口"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装置搭建要规范",
+   "scene": "刚加热的玻璃仪器旁边一个烫手图标",
+   "prompt_en": "Freshly heated glassware with a hot-hand warning icon. No people.",
+   "narration": "热玻璃看着和冷的一样，会烫伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "装置搭建要规范",
+   "scene": "用镊子和簸箕收碎玻璃，徒手捡打叉",
+   "prompt_en": "Broken glass is picked up with tongs and a dustpan; a bare hand picking it up is crossed out. No people.",
+   "narration": "玻璃碎了，别用手捡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减量也减少危险废物",
+   "scene": "小烧杯旁一个小废液桶，大烧杯旁一排废液桶",
+   "prompt_en": "A small beaker next to one small waste container, and a large beaker next to a row of waste containers. No people.",
+   "narration": "用量少，危险废物也少。",
+   "overlay": [
+    "减量也减少危险废物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减量也减少危险废物",
+   "scene": "废液桶上贴着空白标签，不倒入下水道",
+   "prompt_en": "A waste container with a blank label; an icon of pouring into a sink is crossed out. No people.",
+   "narration": "产生的废液，分类收集，不倒下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "减量也减少危险废物",
+   "scene": "绿色实验室的绿叶图标",
+   "prompt_en": "A green leaf icon over a clean lab bench. No people.",
+   "narration": "减量和替代，也是绿色实验室的要求。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "换、稀、少、冷四个图标",
+   "prompt_en": "Four icons: a swap arrow, a diluted beaker, a small beaker and a cool thermometer. No people.",
+   "narration": "换、稀、少、冷，规模小，按需领。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "计划表、检查过的仪器、夹好的装置",
+   "prompt_en": "A blank plan, inspected glassware and a properly clamped apparatus. No people.",
+   "narration": "先规划、备齐、检查，装置搭规范。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "小研和阿杰互相提醒",
+   "prompt_en": "The female graduate student and the young male student remind each other at the bench.",
+   "narration": "养成好习惯，同伴互相提醒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一本分步骤的规程手册挥手",
+   "prompt_en": "The panda mascot holds up a blank step-by-step procedure booklet and waves goodbye.",
+   "narration": "下一课，讲SOP与方案变更审查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
