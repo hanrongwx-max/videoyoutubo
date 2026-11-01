@@ -1,0 +1,1341 @@
+{
+ "id": "041_读懂SDS十六部分",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "读懂SDS十六部分",
+ "seconds": 485,
+ "source_doc": "course/高校实验室安全/041_读懂SDS十六部分.md",
+ "author_source": "project/高校实验室安全/041_读懂SDS十六部分/src.py",
+ "points": {
+  "K1": "统一格式：十六部分，顺序固定",
+  "K2": "和旧版比：第2、3部分换了位置",
+  "K3": "按需排序：四个问题分组查",
+  "K4": "第1部分：认准是哪种化学品",
+  "K5": "第1部分：推荐用途和供应商",
+  "K6": "第2部分：危险性概述",
+  "K7": "例：氢氧化钠，信号词“危险”",
+  "K8": "第3部分：成分和浓度",
+  "K9": "第4部分：按接触途径急救",
+  "K10": "第4部分：症状和何时就医",
+  "K11": "例：误食碱，不催吐",
+  "K12": "用前先读急救，找到洗眼器",
+  "K13": "第5部分：灭火剂和特别危险",
+  "K14": "第5部分：消防防护，说明书交救援",
+  "K15": "第6部分：泄漏应急处理",
+  "K16": "第7部分：操作处置与储存",
+  "K17": "第8部分：工程控制优先",
+  "K18": "第8部分：职业接触限值",
+  "K19": "第8部分：个体防护要对得上",
+  "K20": "第9部分：理化特性",
+  "K21": "第9部分：闪点看易燃",
+  "K22": "第10部分：稳定性、反应性和禁配物",
+  "K23": "第11部分：毒理学信息",
+  "K24": "“无数据”不等于安全",
+  "K25": "第12部分：生态学信息",
+  "K26": "第13部分：废弃处置",
+  "K27": "第14部分：运输信息",
+  "K28": "第15部分：法规信息",
+  "K29": "第16部分：其他信息和修订日期"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣翻开一本说明书，十六个格子依次亮起",
+   "prompt_en": "The panda mascot opens a safety data booklet; sixteen squares light up one after another.",
+   "narration": "这一课，带你读懂SDS十六部分。",
+   "overlay": [
+    "读懂SDS十六部分"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一瓶氢氧化钠，翻开厚厚的说明书发愣",
+   "prompt_en": "The young male student holds a bottle of white pellets and stares at a thick data booklet, confused.",
+   "narration": "阿杰要用氢氧化钠，说明书好几页。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研笑着凑过来：会查就快了",
+   "prompt_en": "The female graduate student leans in with a smile and points at the booklet's tabs.",
+   "narration": "小研：别慌，会查就快了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "统一格式：十六部分，顺序固定",
+   "scene": "十六格目录，格子大小一样、排列整齐",
+   "prompt_en": "A neat sixteen-square table of contents, all squares the same size in order. No text.",
+   "narration": "说明书一共十六个部分，顺序固定。",
+   "overlay": [
+    "统一格式：十六部分，顺序固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "统一格式：十六部分，顺序固定",
+   "scene": "两本国家标准文本并排，旁边地球图标",
+   "prompt_en": "Two national standard booklets with blank covers side by side, a globe icon beside them. No text.",
+   "narration": "格式按全球统一制度和国家标准。",
+   "overlay": [],
+   "labels": [
+    "GB/T 16483",
+    "GB/T 17519"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "统一格式：十六部分，顺序固定",
+   "scene": "不同厂家的三本说明书，同一格都在同一位置发光",
+   "prompt_en": "Three data booklets from different suppliers; the same square glows at the same place in each. No text.",
+   "narration": "哪家的说明书，查哪项都在同一处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "统一格式：十六部分，顺序固定",
+   "scene": "小标签像字母表，厚说明书像字典",
+   "prompt_en": "A small bottle label shown like an alphabet card next to a thick booklet shown like a dictionary. No text.",
+   "narration": "标签像字母表，说明书就是字典。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "和旧版比：第2、3部分换了位置",
+   "scene": "旧说明书和新说明书并排，第2、3格交换位置",
+   "prompt_en": "An old booklet and a new booklet side by side; squares two and three swap places with arrows. No text.",
+   "narration": "新格式和旧版很像，只换了两部分。",
+   "overlay": [
+    "和旧版比：第2、3部分换了位置"
+   ],
+   "labels": [
+    "旧版",
+    "现行"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "和旧版比：第2、3部分换了位置",
+   "scene": "危险图标挪到成分图标前面",
+   "prompt_en": "A hazard warning icon moves in front of a molecule icon. No text.",
+   "narration": "现在危险性在第2，成分在第3。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "十六格从左到右，先大字图标，后小字数据",
+   "prompt_en": "Sixteen squares from left to right: big simple icons first, small data charts at the end. No text.",
+   "narration": "内容按需要的先后排列。",
+   "overlay": [
+    "按需排序：四个问题分组查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "四个问号分别罩住1到3、4到6、7到10、11到16",
+   "prompt_en": "Four question bubbles cover four groups of squares in the table of contents. No text.",
+   "narration": "说明书回答四个问题。",
+   "overlay": [],
+   "labels": [
+    "是什么",
+    "出事怎么办",
+    "怎样预防",
+    "还要知道啥"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "1到3格高亮：瓶子、警示、分子图标",
+   "prompt_en": "Squares one to three glow with icons of a bottle, a warning diamond and a molecule. No text.",
+   "narration": "1到3：是什么，有什么危害。",
+   "overlay": [],
+   "labels": [
+    "1–3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "4到6格高亮：急救十字、灭火器、泄漏围堵",
+   "prompt_en": "Squares four to six glow with a first aid cross, a fire extinguisher and a spill barrier. No text.",
+   "narration": "4到6：急救、消防、泄漏处理。",
+   "overlay": [],
+   "labels": [
+    "4–6"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "7到10格高亮：储存柜、通风柜和手套、温度计、两瓶冒泡",
+   "prompt_en": "Squares seven to ten glow with a cabinet, a fume hood with gloves, a thermometer, two bubbling bottles. No text.",
+   "narration": "7到10：操作储存、防护、性质反应。",
+   "overlay": [],
+   "labels": [
+    "7–10"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "小研身上的手套护目镜与第8格连线打勾",
+   "prompt_en": "Lines connect the female graduate student's gloves and goggles to square eight, with a check.",
+   "narration": "你戴的防护，要和第8部分对得上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按需排序：四个问题分组查",
+   "scene": "11到16格高亮，阿杰快速翻过",
+   "prompt_en": "Squares eleven to sixteen glow while the young male student flips through them quickly.",
+   "narration": "11到16：写规程常用，也要浏览。",
+   "overlay": [],
+   "labels": [
+    "11–16"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第1部分：认准是哪种化学品",
+   "scene": "【实拍】中文安全技术说明书第1部分特写，与瓶签并排（本校在用试剂，遮挡品牌和供应商）",
+   "prompt_en": "Close-up of section one of a printed safety data sheet held next to a bottle label. No readable text.",
+   "narration": "第1部分：先确认是不是这种化学品。",
+   "overlay": [
+    "第1部分：认准是哪种化学品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第1部分：认准是哪种化学品",
+   "scene": "瓶签名称和说明书名称连线，打勾",
+   "prompt_en": "A line connects the name block on the bottle label to the name block in the booklet, with a check. No text.",
+   "narration": "名称要和瓶上的标签一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第1部分：认准是哪种化学品",
+   "scene": "一串数字牌锁住瓶子，钥匙图标",
+   "prompt_en": "A number tag locks onto the bottle like a key; other bottles have different tags. No readable text.",
+   "narration": "名字常有好几个，CAS号唯一不重。",
+   "overlay": [],
+   "labels": [
+    "CAS号"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "第1部分：认准是哪种化学品",
+   "scene": "浓瓶和稀瓶各配一份说明书，交叉连线打叉",
+   "prompt_en": "A concentrated bottle and a dilute bottle each with its own booklet; crossed links get a red X. No text.",
+   "narration": "浓度也要对上，浓的不能查稀的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第1部分：推荐用途和供应商",
+   "scene": "说明书一格里是试管和用途图标",
+   "prompt_en": "A booklet square shows a test tube and a purpose icon. No text.",
+   "narration": "推荐用途：它本来做什么用。",
+   "overlay": [
+    "第1部分：推荐用途和供应商"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第1部分：推荐用途和供应商",
+   "scene": "阿杰想换个用法，先去问老周",
+   "prompt_en": "The young male student has a new idea for using a reagent and first asks the older man.",
+   "narration": "用途之外的用法，先问清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "第1部分：推荐用途和供应商",
+   "scene": "说明书上电话和地址图标，小研拿起电话",
+   "prompt_en": "A booklet square with phone and address icons; the female graduate student picks up a phone. No text.",
+   "narration": "还有供应商和应急咨询电话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第2部分：危险性概述",
+   "scene": "第2格放大：警示菱形图标",
+   "prompt_en": "Square two enlarges, showing a red diamond warning pictogram. No text.",
+   "narration": "第2部分：先分类，比如腐蚀、易燃。",
+   "overlay": [
+    "第2部分：危险性概述"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第2部分：危险性概述",
+   "scene": "信号词、危险说明、防范说明三个栏目",
+   "prompt_en": "Three blocks in a booklet: a signal word bar, a hazard statement box and a precaution box. No text.",
+   "narration": "信号词、危险说明、防范说明。",
+   "overlay": [],
+   "labels": [
+    "信号词",
+    "危险说明",
+    "防范说明"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第2部分：危险性概述",
+   "scene": "两个信号词卡片，红色的比黄色的大",
+   "prompt_en": "Two signal word cards, a big red one and a smaller yellow one. No text.",
+   "narration": "“危险”比“警告”更严重。",
+   "overlay": [],
+   "labels": [
+    "危险",
+    "警告"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "第2部分：危险性概述",
+   "scene": "【实拍】中文安全技术说明书第2部分与瓶签象形图并排对照（本校在用试剂，遮挡品牌和供应商）",
+   "prompt_en": "Matching pictograms on the booklet and on the bottle label are linked by lines. No text.",
+   "narration": "象形图和标签上的一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "例：氢氧化钠，信号词“危险”",
+   "scene": "氢氧化钠瓶，腐蚀象形图亮起",
+   "prompt_en": "A bottle of white pellets with the corrosion pictogram glowing. No text.",
+   "narration": "氢氧化钠：信号词是“危险”。",
+   "overlay": [
+    "例：氢氧化钠，信号词“危险”"
+   ],
+   "labels": [
+    "危险"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "例：氢氧化钠，信号词“危险”",
+   "scene": "手部和眼睛图标被腐蚀，阿杰徒手伸向瓶子被打叉",
+   "prompt_en": "Icons of a hand and an eye with burn marks; the young male student reaching barehanded is crossed out.",
+   "narration": "会严重灼伤皮肤和眼睛，不能徒手拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第3部分：成分和浓度",
+   "scene": "第3格放大：分子结构图标",
+   "prompt_en": "Square three enlarges, showing a molecule icon. No text.",
+   "narration": "第3部分：成分和组成信息。",
+   "overlay": [
+    "第3部分：成分和浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第3部分：成分和浓度",
+   "scene": "纯物质瓶旁写着化学名和俗名两个空白牌",
+   "prompt_en": "A pure substance bottle with two blank name plates and a registration tag beside it. No text.",
+   "narration": "化学名、俗名，还有登记编号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第3部分：成分和浓度",
+   "scene": "混合物瓶旁，几种成分带浓度条",
+   "prompt_en": "A mixture bottle with several ingredient icons, each with a concentration bar. No text.",
+   "narration": "混合物列各成分浓度，危害一看便知。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "第3部分：成分和浓度",
+   "scene": "固体瓶满格，配成溶液后另贴新标签",
+   "prompt_en": "A solid bottle shows a full bar; after dissolving, the solution bottle gets its own new label. No text.",
+   "narration": "纯固体浓度满格，配成溶液另标。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第4部分：按接触途径急救",
+   "scene": "四个途径图标：鼻子、皮肤、嘴、眼睛",
+   "prompt_en": "Four route icons: nose, skin, mouth, eye, each with an arrow into a body outline. No text.",
+   "narration": "第4部分：按接触途径写急救。",
+   "overlay": [
+    "第4部分：按接触途径急救"
+   ],
+   "labels": [
+    "吸入",
+    "皮肤",
+    "食入",
+    "眼睛"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第4部分：按接触途径急救",
+   "scene": "沾到皮肤：脱污染衣物，用水冲洗",
+   "prompt_en": "A cartoon arm under running water; contaminated sleeve removed. No text.",
+   "narration": "沾到皮肤，脱衣物、冲洗再就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "第4部分：按接触途径急救",
+   "scene": "溅进眼睛：在洗眼器前冲洗",
+   "prompt_en": "The female graduate student rinses her eyes at an eyewash station, holding eyelids open.",
+   "narration": "溅进眼睛，立即大量清水冲洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第4部分：症状和何时就医",
+   "scene": "说明书一格：红肿、灼伤症状图标",
+   "prompt_en": "A booklet square with symptom icons: red skin, burn, cough. No text.",
+   "narration": "还写了可能出现的症状。",
+   "overlay": [
+    "第4部分：症状和何时就医"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第4部分：症状和何时就医",
+   "scene": "阿杰咳嗽，小研对照说明书判断",
+   "prompt_en": "The young male student coughs; the female graduate student checks the booklet's symptom section.",
+   "narration": "知道症状，才能早发现暴露。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "第4部分：症状和何时就医",
+   "scene": "医院图标和电话，老周赶来",
+   "prompt_en": "A hospital icon and a phone with 120; the older man hurries over.",
+   "narration": "需立即就医的，同时报告负责人。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例：误食碱，不催吐",
+   "scene": "误食碱：嘴和呕吐图标打叉，水杯漱口",
+   "prompt_en": "A mouth icon with vomiting crossed out; a cup of water for rinsing the mouth. No text.",
+   "narration": "误食氢氧化钠，不要催吐。",
+   "overlay": [
+    "例：误食碱，不催吐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例：误食碱，不催吐",
+   "scene": "漱口后立即送医",
+   "prompt_en": "A person rinses mouth then is helped toward a hospital icon. No text.",
+   "narration": "漱口，并立即送医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "例：误食碱，不催吐",
+   "scene": "实验台上零食饮料被打叉",
+   "prompt_en": "Snacks and a drink cup on a lab bench crossed out with a red X. No text.",
+   "narration": "最好的预防：实验室不吃不喝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用前先读急救，找到洗眼器",
+   "scene": "阿杰开瓶前先读第4格",
+   "prompt_en": "The young male student reads square four of the booklet before opening the bottle.",
+   "narration": "用之前，就先读第4部分。",
+   "overlay": [
+    "用前先读急救，找到洗眼器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "用前先读急救，找到洗眼器",
+   "scene": "【实拍】本校实验室洗眼器、紧急喷淋和急救箱的位置环视（本校现场）",
+   "prompt_en": "A lab view showing an eyewash station, an emergency shower and a first aid kit on the wall.",
+   "narration": "知道洗眼器、喷淋、急救箱在哪。",
+   "overlay": [],
+   "labels": [
+    "洗眼器",
+    "紧急喷淋",
+    "急救箱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第5部分：灭火剂和特别危险",
+   "scene": "水、泡沫、干粉、二氧化碳四种灭火剂图标",
+   "prompt_en": "Four extinguishing agent icons: water drop, foam, powder, carbon dioxide cylinder. No text.",
+   "narration": "第5部分：写明该用哪种灭火剂。",
+   "overlay": [
+    "第5部分：灭火剂和特别危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第5部分：灭火剂和特别危险",
+   "scene": "遇水反应的瓶子，水滴图标被打叉",
+   "prompt_en": "A bottle that reacts with water; a water drop icon is crossed out. No text.",
+   "narration": "有的遇水反应，用错火上浇油。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "第5部分：灭火剂和特别危险",
+   "scene": "着火的瓶子冒出黑烟，容器鼓起",
+   "prompt_en": "A burning container gives off dark smoke and bulges. No text.",
+   "narration": "特别危险：有毒烟气、容器爆裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第5部分：消防防护，说明书交救援",
+   "scene": "消防员穿戴全套防护和呼吸器图标",
+   "prompt_en": "Icons of a firefighter in full protective gear with breathing apparatus. No text.",
+   "narration": "还写了灭火策略和消防员防护。",
+   "overlay": [
+    "第5部分：消防防护，说明书交救援"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第5部分：消防防护，说明书交救援",
+   "scene": "小研把说明书交给赶到的消防员",
+   "prompt_en": "The female graduate student hands a data booklet to an arriving firefighter at the lab door.",
+   "narration": "火警时，把说明书交给救援人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第5部分：消防防护，说明书交救援",
+   "scene": "氢氧化钠瓶不燃，但遇金属冒气泡",
+   "prompt_en": "A bottle of white pellets with no flame, but bubbles rising where it touches metal. No text.",
+   "narration": "氢氧化钠不燃，遇某些金属放氢气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "第5部分：消防防护，说明书交救援",
+   "scene": "水雾喷向容器外壁降温",
+   "prompt_en": "A water mist cools the outside of a container. No text.",
+   "narration": "火场里，可用水雾冷却容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第6部分：泄漏应急处理",
+   "scene": "先戴防护，无关人员离开",
+   "prompt_en": "The female graduate student puts on gloves and goggles while others leave the area.",
+   "narration": "第6部分：先护自己，无关人员离开。",
+   "overlay": [
+    "第6部分：泄漏应急处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第6部分：泄漏应急处理",
+   "scene": "围堵、吸收、收进废物桶，水槽打叉",
+   "prompt_en": "A spill is ringed by absorbent, scooped into a waste container; a sink is crossed out. No text.",
+   "narration": "围堵、吸收、收集，别冲下水道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "第6部分：泄漏应急处理",
+   "scene": "泄漏应急包打开，旁边说明书",
+   "prompt_en": "An open spill kit beside a data booklet. No text.",
+   "narration": "照说明书做，再用泄漏应急包。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7部分：操作处置与储存",
+   "scene": "在通风柜里称量，避开粉尘",
+   "prompt_en": "The female graduate student weighs powder inside a fume hood, wearing goggles and gloves.",
+   "narration": "第7部分：避免接触，通风处操作。",
+   "overlay": [
+    "第7部分：操作处置与储存"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7部分：操作处置与储存",
+   "scene": "搬运前拧紧瓶盖，双手拿稳",
+   "prompt_en": "Hands tighten a bottle cap and carry the bottle with both hands. No text.",
+   "narration": "搬运前，盖好盖、拿稳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "第7部分：操作处置与储存",
+   "scene": "碱瓶放进阴凉干燥的柜格，远离酸和金属",
+   "prompt_en": "A base bottle goes into a cool dry cabinet section, away from an acid bottle and metal pieces. No text.",
+   "narration": "阴凉干燥，远离酸和金属，用完盖紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "第8部分：工程控制优先",
+   "scene": "第8格放大：通风柜图标",
+   "prompt_en": "Square eight enlarges, showing a fume hood icon. No text.",
+   "narration": "第8部分：接触控制和个体防护。",
+   "overlay": [
+    "第8部分：工程控制优先"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "第8部分：工程控制优先",
+   "scene": "通风柜内操作打勾，敞开台面打叉",
+   "prompt_en": "Working inside a fume hood gets a check; the same work on an open bench gets a red X. No text.",
+   "narration": "先靠通风挡住危害，能进柜就进柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "第8部分：工程控制优先",
+   "scene": "密闭装置图标",
+   "prompt_en": "A closed glass apparatus system icon with no openings. No text.",
+   "narration": "有的物质，要在密闭系统里操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第8部分：职业接触限值",
+   "scene": "空气中气体分子和一条上限线",
+   "prompt_en": "Gas molecules in the air below a horizontal limit line. No text.",
+   "narration": "职业接触限值：空气中最多多少。",
+   "overlay": [
+    "第8部分：职业接触限值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第8部分：职业接触限值",
+   "scene": "国家职业卫生标准书本图标",
+   "prompt_en": "A national occupational health standard booklet with a blank cover. No text.",
+   "narration": "国内限值，以职业卫生标准为准。",
+   "overlay": [],
+   "labels": [
+    "GBZ 2.1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "第8部分：职业接触限值",
+   "scene": "两条限值线，一条很低，标着危险",
+   "prompt_en": "Two limit lines, one much lower than the other, with a warning icon on the low one. No text.",
+   "narration": "限值越低，吸入危害越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "第8部分：个体防护要对得上",
+   "scene": "手套、护目镜、面屏、防护服四件",
+   "prompt_en": "Four protective items: gloves, goggles, face shield, lab coat. No text.",
+   "narration": "个体防护：戴什么、穿什么。",
+   "overlay": [
+    "第8部分：个体防护要对得上"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "第8部分：个体防护要对得上",
+   "scene": "几种手套，其中一种打勾",
+   "prompt_en": "Several glove types side by side; one gets a green check. No text.",
+   "narration": "手套材质要对，说明书会写。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "第8部分：个体防护要对得上",
+   "scene": "呼吸防护面具配上对应的滤毒罐",
+   "prompt_en": "A respirator mask with a matching filter canister clicked in. No text.",
+   "narration": "需要呼吸防护的，要选对滤毒罐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "第8部分：个体防护要对得上",
+   "scene": "【实拍】示范者依次戴好耐化学品手套、护目镜和面屏，在通风柜前准备配液（用清水代替碱液）",
+   "prompt_en": "The female graduate student prepares a base solution wearing chemical gloves, goggles and a face shield.",
+   "narration": "氢氧化钠：耐碱手套、护目镜加面屏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "第9部分：理化特性",
+   "scene": "白色固体图标，旁边鼻子凑近打叉",
+   "prompt_en": "A white solid icon; a nose sniffing close to it is crossed out. No text.",
+   "narration": "第9部分：外观、气味，别凑近闻。",
+   "overlay": [
+    "第9部分：理化特性"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "第9部分：理化特性",
+   "scene": "pH试纸、沸点、熔点三个图标",
+   "prompt_en": "Icons: pH strip, boiling flask, melting ice cube. No text.",
+   "narration": "加热、混合前，看pH、沸点、熔点。",
+   "overlay": [],
+   "labels": [
+    "pH",
+    "沸点",
+    "熔点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "第9部分：理化特性",
+   "scene": "易挥发的瓶口冒出蒸气",
+   "prompt_en": "Vapor rises from an open bottle neck, a dissolving icon beside it. No text.",
+   "narration": "溶解度、蒸气压高，越易挥发。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "第9部分：理化特性",
+   "scene": "标签破损的瓶子，小研上报老周",
+   "prompt_en": "A bottle with a torn label; the female graduate student reports it to the older man.",
+   "narration": "标签坏了可帮助辨认，但要上报。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "第9部分：闪点看易燃",
+   "scene": "温度计和火焰图标",
+   "prompt_en": "A thermometer with a small flame icon. No text.",
+   "narration": "沸点和闪点，用来判断易不易燃。",
+   "overlay": [
+    "第9部分：闪点看易燃"
+   ],
+   "labels": [
+    "闪点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "第9部分：闪点看易燃",
+   "scene": "乙醚瓶口蒸气飘向远处的火源，危险图标",
+   "prompt_en": "Vapor from an ether bottle drifts toward a distant heat source; a warning icon flashes. No text.",
+   "narration": "乙醚闪点很低，室温蒸气就能点着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "第10部分：稳定性、反应性和禁配物",
+   "scene": "受热、受压、撞击三个图标打叉",
+   "prompt_en": "Heat, pressure and impact icons, each crossed out. No text.",
+   "narration": "第10部分：稳不稳，避开哪些条件。",
+   "overlay": [
+    "第10部分：稳定性、反应性和禁配物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "第10部分：稳定性、反应性和禁配物",
+   "scene": "两瓶被隔板分开，碱和酸",
+   "prompt_en": "A base bottle and an acid bottle separated by a divider in a cabinet. No text.",
+   "narration": "禁配物，不能放一起、不能混。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "第10部分：稳定性、反应性和禁配物",
+   "scene": "两种废液倒进同一个废液桶，打叉",
+   "prompt_en": "Two different waste liquids poured into the same waste container, crossed out. No text.",
+   "narration": "很多事故，是把禁配物倒进同一桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "第10部分：稳定性、反应性和禁配物",
+   "scene": "分解后冒出新气体的图标",
+   "prompt_en": "A bottle breaking down and releasing a new gas cloud icon. No text.",
+   "narration": "危险分解、聚合产物，也写在这里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "第11部分：毒理学信息",
+   "scene": "途径箭头指向人体，眼皮肤肺亮起",
+   "prompt_en": "Route arrows into a body; eyes, skin and lungs glow. No text.",
+   "narration": "第11部分：从哪进身体，什么症状。",
+   "overlay": [
+    "第11部分：毒理学信息"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "第11部分：毒理学信息",
+   "scene": "快闪电和慢沙漏两个图标",
+   "prompt_en": "Two icons: a fast lightning bolt and a slow hourglass. No text.",
+   "narration": "急性来得快，慢性慢慢积累。",
+   "overlay": [],
+   "labels": [
+    "急性",
+    "慢性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "第11部分：毒理学信息",
+   "scene": "半数致死量刻度，越往左越危险",
+   "prompt_en": "A scale bar where the left end is red and marked dangerous. No text.",
+   "narration": "半数致死量，数越小毒性越大。",
+   "overlay": [],
+   "labels": [
+    "半数致死量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "第11部分：毒理学信息",
+   "scene": "阿杰闻到溶剂味头晕，被扶到室外",
+   "prompt_en": "The young male student feels dizzy near a solvent and is helped outside by the female graduate student.",
+   "narration": "乙醚这类溶剂，吸入会头晕嗜睡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "“无数据”不等于安全",
+   "scene": "说明书一格空白，闪着问号",
+   "prompt_en": "A blank booklet square with a flashing question mark. No text.",
+   "narration": "看到“无数据”，要格外小心。",
+   "overlay": [
+    "“无数据”不等于安全"
+   ],
+   "labels": [
+    "无数据"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "“无数据”不等于安全",
+   "scene": "成千上万的瓶子，只有少数亮着测试勾",
+   "prompt_en": "Thousands of bottles, only a few with a tested check mark. No text.",
+   "narration": "测过毒性的只是少数，不等于安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "“无数据”不等于安全",
+   "scene": "“不适用”和问号两张卡片",
+   "prompt_en": "Two cards: one with a slash icon, one with a question mark. No text.",
+   "narration": "“不适用”是这项对它没意义。",
+   "overlay": [],
+   "labels": [
+    "不适用",
+    "N/A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "第12部分：生态学信息",
+   "scene": "泄漏流进河里，鱼受伤",
+   "prompt_en": "A spill flows into a stream; a cartoon fish looks sick. No text.",
+   "narration": "第12部分：对水生生物的毒害。",
+   "overlay": [
+    "第12部分：生态学信息"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "第12部分：生态学信息",
+   "scene": "沙漏和土壤图标，碱让水变色",
+   "prompt_en": "An hourglass over soil and water; the water changes color. No text.",
+   "narration": "在环境留多久，碱会伤害鱼类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "第13部分：废弃处置",
+   "scene": "化学品和空容器都进危废收集点",
+   "prompt_en": "A chemical bottle and its empty container both go to a hazardous waste collection point. No text.",
+   "narration": "第13部分：化学品和容器都按规处置。",
+   "overlay": [
+    "第13部分：废弃处置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "第13部分：废弃处置",
+   "scene": "碱液倒水槽打叉，分类收集打勾",
+   "prompt_en": "Pouring base into a sink is crossed out; collecting it in a labeled waste container gets a check. No text.",
+   "narration": "碱液不倒水槽，分类收集交专业处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "第14部分：运输信息",
+   "scene": "四位数字牌和正式名称牌",
+   "prompt_en": "A four-digit number plate and a blank official name plate on a package. No readable digits.",
+   "narration": "第14部分：联合国编号和运输名称。",
+   "overlay": [
+    "第14部分：运输信息"
+   ],
+   "labels": [
+    "UN编号"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "第14部分：运输信息",
+   "scene": "危险类别菱形和三级包装台阶",
+   "prompt_en": "A hazard class diamond and three steps for packing groups, the top step red. No text.",
+   "narration": "危险类别，包装类别一级最危险。",
+   "overlay": [],
+   "labels": [
+    "Ⅰ",
+    "Ⅱ",
+    "Ⅲ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "第14部分：运输信息",
+   "scene": "氢氧化钠溶液包装上腐蚀菱形",
+   "prompt_en": "A package of base solution with a corrosive transport diamond. No text.",
+   "narration": "氢氧化钠溶液，属第8类腐蚀性。",
+   "overlay": [],
+   "labels": [
+    "第8类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "第15部分：法规信息",
+   "scene": "法律书和危化品目录书并排",
+   "prompt_en": "A law book next to a catalog booklet with a check list icon. No text.",
+   "narration": "第15部分：看危化品安全法和目录。",
+   "overlay": [
+    "第15部分：法规信息"
+   ],
+   "labels": [
+    "危化品安全法",
+    "危化品目录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "第15部分：法规信息",
+   "scene": "列入管制名录的瓶子加锁",
+   "prompt_en": "A bottle that appears on a controlled list gets a padlock. No text.",
+   "narration": "列入管制名录的，按专门规定管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "第16部分：其他信息和修订日期",
+   "scene": "日历上编制和修订两个日期圈出",
+   "prompt_en": "Two dates circled on a calendar with a pencil and a revision arrow. No text.",
+   "narration": "第16部分：查编制和修订日期。",
+   "overlay": [
+    "第16部分：其他信息和修订日期"
+   ],
+   "labels": [
+    "编制",
+    "修订"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "十六格分成四组，四个问号依次打勾",
+   "prompt_en": "Sixteen squares in four groups; four question bubbles each get a green check. No text.",
+   "narration": "四组十六部分，按问题去查。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "阿杰对照第4、7、8部分戴好防护，小研点头",
+   "prompt_en": "The young male student checks the booklet, puts on gloves and goggles; the female graduate student nods.",
+   "narration": "急救、储存、防护，用前必读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 97,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着人体轮廓上的箭头，向镜头挥手",
+   "prompt_en": "The panda mascot points at arrows entering a body outline and waves goodbye.",
+   "narration": "下一课：毒性、暴露途径与接触限值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
