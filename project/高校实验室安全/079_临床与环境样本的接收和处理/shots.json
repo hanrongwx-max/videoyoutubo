@@ -1,0 +1,1257 @@
+{
+ "id": "079_临床与环境样本的接收和处理",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "临床与环境样本的接收和处理",
+ "seconds": 480,
+ "source_doc": "course/高校实验室安全/079_临床与环境样本的接收和处理.md",
+ "author_source": "project/高校实验室安全/079_临床与环境样本的接收和处理/src.py",
+ "points": {
+  "K1": "临床样本：来源多，种类多",
+  "K2": "培养物底细清楚，病人样本说不准",
+  "K3": "一律按有传染性对待，再评估定级",
+  "K4": "污水等环境样本也按感染性对待",
+  "K5": "保存液：生物、化学两头防",
+  "K6": "拆包：先防护，查渗漏，外包装消毒",
+  "K7": "核对登记，不合格样本拒收",
+  "K8": "编号代替姓名，信息保密",
+  "K9": "柜内开管：静置、垫纸、慢拧",
+  "K10": "四类检测，各按风险定场所",
+  "K11": "要培养的：最严防护，疑似高致病不擅自做",
+  "K12": "做核酸的：先灭活，确认后出柜",
+  "K13": "核酸提取在柜内，防离心气溶胶",
+  "K14": "卡盒式自动提取：认识仪器",
+  "K15": "装板、选程序，确认到位再启动",
+  "K16": "荧光定量检测与判读",
+  "K17": "核酸检测分区，单向流动",
+  "K18": "阳性结果及时报告",
+  "K19": "剩余样本：存要上锁，毁要登记"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣抱着一个样本转运箱",
+   "prompt_en": "The panda mascot holds a sealed sample transport box with a biohazard warning sign.",
+   "narration": "这一课讲临床与环境样本的接收和处理。",
+   "overlay": [
+    "临床与环境样本的接收和处理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰从送样人手里接过一个转运箱",
+   "prompt_en": "The young male student receives a sealed transport box from a courier at the lab door.",
+   "narration": "医院送来一箱样本，阿杰接了过来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰光着手要在台面上拆箱，打叉",
+   "prompt_en": "Diagram: the young male student, bare-handed, about to open the box on an open bench; crossed out. No text.",
+   "narration": "他光着手，就想在台面上拆箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研抬手拦住",
+   "prompt_en": "The female graduate student raises a hand to stop him and points to a procedure book.",
+   "narration": "小研拦住他：病人样本，按规程来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "临床样本：来源多，种类多",
+   "scene": "医院检验科里一排排样本管",
+   "prompt_en": "Diagram: racks of sample tubes in a hospital clinical lab. No text.",
+   "narration": "临床样本，来自医院的病人。",
+   "overlay": [
+    "临床样本：来源多，种类多"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "临床样本：来源多，种类多",
+   "scene": "血液、血清、拭子、尿液、粪便、组织图标",
+   "prompt_en": "Diagram: icons of a blood tube, a serum tube, a swab in medium, a urine cup, a stool cup and a tissue cassette. No text.",
+   "narration": "血液、血清、拭子、尿液、粪便、组织。",
+   "overlay": [],
+   "labels": [
+    "血液",
+    "血清",
+    "拭子",
+    "体液",
+    "组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "临床样本：来源多，种类多",
+   "scene": "拭子泡在保存液管里",
+   "prompt_en": "Diagram: a swab sitting in a tube of transport medium. No text.",
+   "narration": "送来时，一般泡在保存液里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养物底细清楚，病人样本说不准",
+   "scene": "研究人员送来一管标好的纯培养物",
+   "prompt_en": "Diagram: a researcher hands over a clearly labeled pure culture tube with an information card. No text.",
+   "narration": "研究人员送来的纯培养物，底细清楚。",
+   "overlay": [
+    "培养物底细清楚，病人样本说不准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养物底细清楚，病人样本说不准",
+   "scene": "培养物信息卡上有病原和改造记录图标",
+   "prompt_en": "Diagram: an information card with icons for the agent identity and its modification record, plus a check mark. No text.",
+   "narration": "是什么、改过什么，风险好评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养物底细清楚，病人样本说不准",
+   "scene": "一管病人样本里有几个问号病原图标",
+   "prompt_en": "Diagram: a patient sample tube containing several different microbe icons with question marks. No text.",
+   "narration": "病人样本里，可能不止一种病原。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "每一管样本都贴上生物危害标志",
+   "prompt_en": "Diagram: every tube in a rack marked with a biohazard warning sign. No text.",
+   "narration": "所以每一管，都按有传染性对待。",
+   "overlay": [
+    "一律按有传染性对待，再评估定级"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "查病原目录，再做风险评估，定级别",
+   "prompt_en": "Diagram: a catalog book, then a risk assessment form, then a lab level badge. No text.",
+   "narration": "再查病原目录、做风险评估，定级别。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "国内第一类最危险、国际一组最低的对照",
+   "prompt_en": "Diagram: two opposite arrows comparing two numbering scales for hazard groups. No text.",
+   "narration": "国内第一类最危险，别和国际编号弄反。",
+   "overlay": [],
+   "labels": [
+    "国内一类最高",
+    "国际一组最低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "看似健康的人身上藏着病原图标",
+   "prompt_en": "Diagram: a healthy-looking person icon with a hidden microbe inside. No text.",
+   "narration": "看采样单；没症状也可能带菌，别大意。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "血样管旁有手套、柜子、防扎图标",
+   "prompt_en": "Diagram: a blood tube with icons for gloves, a biosafety cabinet and a needle guard. No text.",
+   "narration": "血样尤其要防溅、防扎。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "一律按有传染性对待，再评估定级",
+   "scene": "已知、未知样本都放进同一个保护圈",
+   "prompt_en": "Diagram: known and unknown sample tubes both inside one protective circle that also covers the team. No text.",
+   "narration": "已知未知一样管，护己也护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "污水等环境样本也按感染性对待",
+   "scene": "污水采样瓶，医院污水排口图标",
+   "prompt_en": "Diagram: a wastewater sampling bottle beside a hospital drain icon with microbe icons. No text.",
+   "narration": "污水，尤其医院污水，可能含病原。",
+   "overlay": [
+    "污水等环境样本也按感染性对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "污水等环境样本也按感染性对待",
+   "scene": "戴手套取样，样本瓶拧紧",
+   "prompt_en": "Diagram: a gloved hand tightening the cap of a water sample bottle. No text.",
+   "narration": "戴手套取样，瓶盖拧紧，做完洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "污水等环境样本也按感染性对待",
+   "scene": "在开放台面上直接倾倒污水，打叉",
+   "prompt_en": "Diagram: wastewater poured openly on a bench with splashes; crossed out. No text.",
+   "narration": "不在开放台面上直接倾倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "污水等环境样本也按感染性对待",
+   "scene": "评估后一般在二级实验室操作",
+   "prompt_en": "Diagram: a risk form pointing to a level two biosafety lab door. No text.",
+   "narration": "评估后，一般在二级实验室操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保存液：生物、化学两头防",
+   "scene": "样本管泡在化学保存液里，旁边一份安全技术说明书",
+   "prompt_en": "Diagram: a sample tube in chemical preservative next to a blank safety data sheet. No text.",
+   "narration": "有的样本泡在化学保存液里。",
+   "overlay": [
+    "保存液：生物、化学两头防"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "保存液：生物、化学两头防",
+   "scene": "翻看安全技术说明书的危害一栏",
+   "prompt_en": "Diagram: a finger pointing to the hazard section of a blank safety data sheet with a chemical hazard pictogram. No text.",
+   "narration": "查安全技术说明书，生物化学两头防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "【实拍】拆包前穿好隔离衣、戴手套和护目镜",
+   "prompt_en": "The young male student puts on a gown, goggles and gloves before opening a sample box.",
+   "narration": "拆包前，先穿好防护。",
+   "overlay": [
+    "拆包：先防护，查渗漏，外包装消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "指定台面上铺好吸水垫，备好消毒剂",
+   "prompt_en": "Diagram: an absorbent pad laid on a designated bench with a disinfectant bottle and a biohazard bag nearby. No text.",
+   "narration": "在指定台面拆，备好吸水垫和消毒剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "检查箱子有无渗漏破损",
+   "prompt_en": "Diagram: a person inspecting the corners of a transport box for leaks and damage. No text.",
+   "narration": "开箱前，先看有没有渗漏、破损。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "箱子渗漏：封好，报告，不硬拆",
+   "prompt_en": "Diagram: a leaking box sealed into a bag, with a phone call to the lab head; a hand tearing it open is crossed out. No text.",
+   "narration": "漏了别硬拆，封好并报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "【实拍】用消毒剂擦拭外包装（清水演示）",
+   "prompt_en": "Gloved hands wipe the outer surface of a sealed sample bag with a disinfectant-soaked towel.",
+   "narration": "外包装先消毒，等够作用时间再开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拆包：先防护，查渗漏，外包装消毒",
+   "scene": "内层袋拿进生物安全柜里再开",
+   "prompt_en": "Diagram: the inner sealed bag carried into a biosafety cabinet before opening. No text.",
+   "narration": "内层袋，拿到安全柜里再开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "核对登记，不合格样本拒收",
+   "scene": "【实拍】对照申请单逐管核对样本标签（空管演示）",
+   "prompt_en": "Gloved hands hold a labeled empty tube next to a blank request form, checking them one by one.",
+   "narration": "逐管核对样本、申请单和送样清单。",
+   "overlay": [
+    "核对登记，不合格样本拒收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "核对登记，不合格样本拒收",
+   "scene": "电脑登记一份，纸本登记一份",
+   "prompt_en": "Diagram: a sample entered on a computer and written in a paper logbook. No text.",
+   "narration": "样本一到就登记，电脑纸本各一份。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "核对登记，不合格样本拒收",
+   "scene": "无标签、对不上、容器破损三个图标打叉",
+   "prompt_en": "Diagram: an unlabeled tube, a mismatched form and a cracked container, each with a cross. No text.",
+   "narration": "没标签、对不上、破损的，拒收。",
+   "overlay": [],
+   "labels": [
+    "无标签",
+    "不相符",
+    "破损"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "核对登记，不合格样本拒收",
+   "scene": "不合格样本单独隔离，登记并联系送检方",
+   "prompt_en": "Diagram: a rejected tube set aside in a separate bin, logged, with a phone call to the sender. No text.",
+   "narration": "单独隔离、登记，联系送检方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "核对登记，不合格样本拒收",
+   "scene": "凭猜测继续检测，打叉",
+   "prompt_en": "Diagram: a person guessing about an unclear tube and testing it anyway; crossed out. No text.",
+   "narration": "别自己猜着做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "编号代替姓名，信息保密",
+   "scene": "样本管上只有编号，没有姓名",
+   "prompt_en": "Diagram: sample tubes labeled with code icons instead of names. No text.",
+   "narration": "每份样本编一个号，代替病人姓名。",
+   "overlay": [
+    "编号代替姓名，信息保密"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "编号代替姓名，信息保密",
+   "scene": "编号对照表锁进柜子，专人保管",
+   "prompt_en": "Diagram: a code key sheet locked in a cabinet, with one key holder. No text.",
+   "narration": "对照表锁好，专人保管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "编号代替姓名，信息保密",
+   "scene": "电子数据存在加锁的服务器",
+   "prompt_en": "Diagram: electronic records stored on a server with a padlock icon. No text.",
+   "narration": "电子数据，放在安全的服务器上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "编号代替姓名，信息保密",
+   "scene": "给样本管拍照外传，打叉",
+   "prompt_en": "Diagram: a phone photographing a patient sample tube and sharing it; crossed out. No text.",
+   "narration": "病人信息不外传，不拍照。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "编号代替姓名，信息保密",
+   "scene": "研究使用要伦理审查等合规手续图标",
+   "prompt_en": "Diagram: a research use arrow passing through an ethics review stamp and a compliance check. No text.",
+   "narration": "用于研究，按规定办好审查手续。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "柜内开管：静置、垫纸、慢拧",
+   "scene": "病人样本在开放台面上开管，打叉",
+   "prompt_en": "Diagram: a patient sample tube opened on an open bench; crossed out. No text.",
+   "narration": "病人样本，不能在台面上开管。",
+   "overlay": [
+    "柜内开管：静置、垫纸、慢拧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "柜内开管：静置、垫纸、慢拧",
+   "scene": "在生物安全柜里开管，穿好防护",
+   "prompt_en": "The female graduate student in gown and gloves opens a tube inside a biosafety cabinet.",
+   "narration": "一律在安全柜里开，穿好防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "柜内开管：静置、垫纸、慢拧",
+   "scene": "样本管在架子上静置",
+   "prompt_en": "Diagram: tubes resting upright in a rack inside the cabinet beside a short timer. No text.",
+   "narration": "开盖前，先让管子静置一会儿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "柜内开管：静置、垫纸、慢拧",
+   "scene": "【实拍】用沾消毒液的纸巾包住管盖慢慢拧开（空管清水）",
+   "prompt_en": "Inside a biosafety cabinet, gloved hands wrap a damp towel around a tube cap and twist it open slowly.",
+   "narration": "纸巾沾消毒液包住管盖，慢慢拧开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "柜内开管：静置、垫纸、慢拧",
+   "scene": "甩管、猛拔管盖，飞出雾滴，打叉",
+   "prompt_en": "Diagram: a tube being flicked and a cap yanked off, releasing droplets; crossed out. No text.",
+   "narration": "甩管、硬拔，都会溅出气溶胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "四类检测，各按风险定场所",
+   "scene": "分离培养、血清学、核酸、显微镜四个图标",
+   "prompt_en": "Diagram: four icons for culture, a serology test, nucleic acid testing and a microscope. No text.",
+   "narration": "临床样本的检测，主要有四类。",
+   "overlay": [
+    "四类检测，各按风险定场所"
+   ],
+   "labels": [
+    "分离培养",
+    "血清学",
+    "核酸检测",
+    "显微镜检"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "四类检测，各按风险定场所",
+   "scene": "血清学要离心分血清，离心机加密封杯",
+   "prompt_en": "Diagram: a centrifuge with sealed buckets separating serum from blood tubes. No text.",
+   "narration": "离心用密封杯，停稳静置到柜里开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "四类检测，各按风险定场所",
+   "scene": "按病原目录在相应级别实验室做",
+   "prompt_en": "Diagram: a catalog book pointing to level two and level three lab doors. No text.",
+   "narration": "按目录，在相应级别实验室做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "四类检测，各按风险定场所",
+   "scene": "高级别实验室门口，学生被挡在外面",
+   "prompt_en": "Diagram: a high-level lab door with an approval stamp; a student icon waits outside. No text.",
+   "narration": "高风险的须经批准，学生不能碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "要培养的：最严防护，疑似高致病不擅自做",
+   "scene": "样本分两条路：培养和做核酸",
+   "prompt_en": "Diagram: a sample tube at a fork with two paths, one to a culture icon and one to a nucleic acid icon. No text.",
+   "narration": "样本进实验室，分两条路。",
+   "overlay": [
+    "要培养的：最严防护，疑似高致病不擅自做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "要培养的：最严防护，疑似高致病不擅自做",
+   "scene": "培养的病原图标越变越多",
+   "prompt_en": "Diagram: microbe icons multiplying along the culture path. No text.",
+   "narration": "要培养的，病原会越养越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "要培养的：最严防护，疑似高致病不擅自做",
+   "scene": "按活培养物评估，盾牌加厚",
+   "prompt_en": "Diagram: the culture path assessed as live culture with a thicker shield. No text.",
+   "narration": "按活培养物评估，防护做到最严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "要培养的：最严防护，疑似高致病不擅自做",
+   "scene": "芽孢和气溶胶图标，控制措施要对",
+   "prompt_en": "Diagram: a spore icon and an airborne droplet icon, each matched with a fitting control icon. No text.",
+   "narration": "会形成芽孢、经空气传的，措施要选对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "要培养的：最严防护，疑似高致病不擅自做",
+   "scene": "疑似高致病样本：停手，报告",
+   "prompt_en": "Diagram: a tube with a red alert icon; a culture step is crossed out and a phone call to the lab head is made. No text.",
+   "narration": "疑似高致病的，不擅自培养，立即报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "做核酸的一路，先经过灭活关口",
+   "prompt_en": "Diagram: the nucleic acid path passing through an inactivation gate first. No text.",
+   "narration": "做核酸的，先灭活，让病原失去感染力。",
+   "overlay": [
+    "做核酸的：先灭活，确认后出柜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "规程书和试剂说明书",
+   "prompt_en": "Diagram: a procedure book and a reagent insert leaflet side by side with a check mark. No text.",
+   "narration": "怎么灭活，按规程和试剂说明书。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "既灭活又保住检测成分的天平",
+   "prompt_en": "Diagram: a balance with an inactivation icon on one side and a preserved target icon on the other. No text.",
+   "narration": "既要灭活，又要保住检测成分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "灭活方法经过验证打勾",
+   "prompt_en": "Diagram: an inactivation method card with a validation check mark. No text.",
+   "narration": "灭活方法，要经过验证确认有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "【实拍】灭活后管子贴标识，擦拭外壁后移出柜（空管演示）",
+   "prompt_en": "Gloved hands stick a marker label on a closed tube, wipe its outside, then pass it out of a biosafety cabinet.",
+   "narration": "贴标识、外壁消毒，确认后才出柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "做核酸的：先灭活，确认后出柜",
+   "scene": "处理方案写清每一步",
+   "prompt_en": "Diagram: a written sample handling plan with each step and its risk rated. No text.",
+   "narration": "每一步写进方案，步骤风险也要评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "核酸提取在柜内，防离心气溶胶",
+   "scene": "灭活后在柜内提取核酸",
+   "prompt_en": "Diagram: nucleic acid extraction tubes inside a biosafety cabinet after inactivation. No text.",
+   "narration": "灭活后提取核酸，也在柜里做。",
+   "overlay": [
+    "核酸提取在柜内，防离心气溶胶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "核酸提取在柜内，防离心气溶胶",
+   "scene": "离心步骤冒出雾滴图标",
+   "prompt_en": "Diagram: a small centrifuge step with an aerosol cloud icon. No text.",
+   "narration": "提取也要离心，会产生气溶胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "核酸提取在柜内，防离心气溶胶",
+   "scene": "自动化提取仪替代手工",
+   "prompt_en": "Diagram: an automated extraction instrument replacing manual tube handling, with fewer aerosol icons. No text.",
+   "narration": "用自动化提取仪，能减少气溶胶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "核酸提取在柜内，防离心气溶胶",
+   "scene": "提取出的核酸风险小，但工作仍按规程",
+   "prompt_en": "Diagram: an extracted nucleic acid tube with a low-risk icon beside a procedure book. No text.",
+   "narration": "提出的核酸本身风险很小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "核酸提取在柜内，防离心气溶胶",
+   "scene": "RNA 管放到冰盒上",
+   "prompt_en": "Diagram: an extracted nucleic acid tube placed on an ice box right away. No text.",
+   "narration": "RNA不稳定，尽快处理，提完上冰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "一台自动提取仪，卡盒放在机器里",
+   "prompt_en": "Diagram: a generic automated nucleic acid extraction instrument with a pre-filled cartridge inside. No text.",
+   "narration": "卡盒式提取仪，全程在机器里完成。",
+   "overlay": [
+    "卡盒式自动提取：认识仪器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "预封装卡盒：样本孔、试剂孔、收集排",
+   "prompt_en": "Diagram: a pre-filled cartridge plate showing sample wells, sealed reagent wells and a final collection row. No text.",
+   "narration": "卡盒有样本孔、试剂孔和收集孔。",
+   "overlay": [],
+   "labels": [
+    "样本孔",
+    "试剂孔",
+    "收集孔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "磁力板把磁珠吸到底部",
+   "prompt_en": "Diagram: a magnetic plate pulling small beads to the bottom of wells. No text.",
+   "narration": "磁力板把磁珠吸到底，便于吸出液体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "前门打开：上面磁棒，下面加热块",
+   "prompt_en": "Diagram: the instrument front door open, a row of magnetic rods above and heating blocks below. No text.",
+   "narration": "里面上有磁棒，下有加热块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "校准板由专业人员操作",
+   "prompt_en": "Diagram: a calibration plate handled by a service engineer; a student touching it is crossed out. No text.",
+   "narration": "校准交给专业人员，别自己动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡盒式自动提取：认识仪器",
+   "scene": "演示在室外，实际使用在实验室",
+   "prompt_en": "Diagram: a demo table outside with a cross, and the same instrument inside a biosafety lab with a check. No text.",
+   "narration": "学会步骤，到相应实验室实际操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "【实拍】把专用条装进卡槽并锁紧（训练用空耗材）",
+   "prompt_en": "Gloved hands slide disposable strips into the slots of an extraction instrument and lock each one.",
+   "narration": "专用条装进卡槽，每条都锁紧。",
+   "overlay": [
+    "装板、选程序，确认到位再启动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "在柜内加样，试剂孔用时再撕膜",
+   "prompt_en": "Diagram: inside a biosafety cabinet, a pipette adds sample to wells, then the foil on reagent wells is peeled. No text.",
+   "narration": "柜里加样，试剂孔用时再撕膜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "整块板推进仪器",
+   "prompt_en": "Diagram: the loaded plate pushed into the instrument. No text.",
+   "narration": "加好样，整块板推进仪器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "选程序出现绿色对勾，再选试剂盒",
+   "prompt_en": "Diagram: a screen where a program icon gets a green check, then a matching reagent kit icon is selected. No text.",
+   "narration": "屏幕选提取，程序见对勾再选试剂盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "装几块就开几块加热块，灰色为关",
+   "prompt_en": "Diagram: two heating block icons lit and the rest grey, matching two loaded plates. No text.",
+   "narration": "装几块卡盒，就开几块加热块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "卡盒放歪撞到磁棒，打叉；旁边警示标签",
+   "prompt_en": "Diagram: a tilted cartridge hitting the rods with spilled liquid; crossed out, beside a warning label icon. No text.",
+   "narration": "启动前确认放平到位，放歪会洒样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "装板、选程序，确认到位再启动",
+   "scene": "裂解、捕获、洗脱三步自动进行",
+   "prompt_en": "Diagram: three automatic stages shown as arrows: lysis, bead capture and elution. No text.",
+   "narration": "自动裂解、磁珠捕获、洗脱。",
+   "overlay": [],
+   "labels": [
+    "裂解",
+    "捕获",
+    "洗脱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "荧光定量检测与判读",
+   "scene": "提取物放进荧光定量仪",
+   "prompt_en": "Diagram: a reaction plate loaded into a real-time PCR instrument. No text.",
+   "narration": "最后上荧光定量仪检测。",
+   "overlay": [
+    "荧光定量检测与判读"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "荧光定量检测与判读",
+   "scene": "RNA 先变成 cDNA，再边扩增边读荧光",
+   "prompt_en": "Diagram: an RNA strand converted into a DNA copy, then a rising fluorescence curve. No text.",
+   "narration": "RNA先逆转录，再边扩增边读荧光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "荧光定量检测与判读",
+   "scene": "引物对准几段靶基因",
+   "prompt_en": "Diagram: short primer icons pointing at several highlighted segments of a genome line. No text.",
+   "narration": "引物对准几段关键基因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "荧光定量检测与判读",
+   "scene": "几条曲线高低不同",
+   "prompt_en": "Diagram: several amplification curves rising at different points. No text.",
+   "narration": "各基因拷贝数不同，判读要考虑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "核酸检测实验室平面图，分成几个区",
+   "prompt_en": "Diagram: a floor plan of a molecular testing lab divided into several zones. No text.",
+   "narration": "核酸检测实验室，分成几个区。",
+   "overlay": [
+    "核酸检测分区，单向流动"
+   ],
+   "labels": [
+    "试剂准备",
+    "样本制备",
+    "扩增",
+    "分析"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "人和物品沿箭头单向走",
+   "prompt_en": "Diagram: people and items moving along one-way arrows through the zones. No text.",
+   "narration": "人和物品单向走，不走回头路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "各区工作服颜色不同，不混用",
+   "prompt_en": "Diagram: coats of different colors hanging in each zone; carrying one into another zone is crossed out. No text.",
+   "narration": "各区工作服和用品，不混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "核酸检测分区，单向流动",
+   "scene": "既保护结果，也保护人员",
+   "prompt_en": "Diagram: a shield over both a result sheet and a lab worker. No text.",
+   "narration": "既防污染结果，也保护人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "阳性结果及时报告",
+   "scene": "屏幕上出现阳性曲线",
+   "prompt_en": "Diagram: a screen showing a positive amplification curve with an alert icon. No text.",
+   "narration": "出现阳性结果，怎么办？",
+   "overlay": [
+    "阳性结果及时报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "阳性结果及时报告",
+   "scene": "按规定逐级报告",
+   "prompt_en": "Diagram: a report going from the lab head to the school office and the designated authority. No text.",
+   "narration": "按国家规定和本校程序，及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "阳性结果及时报告",
+   "scene": "阳性样本单独存放，按要求移交",
+   "prompt_en": "Diagram: positive sample tubes in a separate locked box, then handed over with a transfer record. No text.",
+   "narration": "阳性样本单独保存，按要求移交。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "阳性结果及时报告",
+   "scene": "结果私下外传，打叉",
+   "prompt_en": "Diagram: a person sharing a result on a phone chat; crossed out. No text.",
+   "narration": "结果不私下外传。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "剩余样本：存要上锁，毁要登记",
+   "scene": "样本存进上锁的冰箱",
+   "prompt_en": "Diagram: sample boxes placed into a freezer with a padlock. No text.",
+   "narration": "要留存的样本，按条件存放，冰箱上锁。",
+   "overlay": [
+    "剩余样本：存要上锁，毁要登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "剩余样本：存要上锁，毁要登记",
+   "scene": "库存表：每一管都能追溯",
+   "prompt_en": "Diagram: an inventory sheet linking each tube position to its record. No text.",
+   "narration": "库存清楚，每一管都能追溯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "剩余样本：存要上锁，毁要登记",
+   "scene": "不留的按感染性废物灭菌处置",
+   "prompt_en": "Diagram: leftover tubes going into a biohazard bag and then an autoclave. No text.",
+   "narration": "不留的按感染性废物处置，不进普通垃圾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "剩余样本：存要上锁，毁要登记",
+   "scene": "数量和去向登记，账物相符",
+   "prompt_en": "Diagram: a logbook with counts and destinations matching the boxes, with a check mark. No text.",
+   "narration": "数量去向都登记，账物相符。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防护、查漏、外包装消毒、核对登记",
+   "prompt_en": "Diagram: icons for protective gear, a leak check, wiping the package and a logbook. No text.",
+   "narration": "先防护，查渗漏，外包装消毒，核对登记。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "柜内开管，先灭活再提取",
+   "prompt_en": "Diagram: a tube opened in a cabinet, then an inactivation gate, then extraction. No text.",
+   "narration": "柜内开管，先灭活再提取，确认后出柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "分区检测，阳性报告，存毁登记",
+   "prompt_en": "Diagram: zoned lab arrows, a report icon and a locked freezer with a logbook. No text.",
+   "narration": "分区检测，阳性报告，存毁都登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣把三层包装的样本盒递出",
+   "prompt_en": "The panda mascot hands over a sealed sample package and waves goodbye.",
+   "narration": "下一课：菌毒种与样本的包装运输。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
