@@ -1,0 +1,892 @@
+{
+ "id": "115_激光实验室的控制措施",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光实验室的控制措施",
+ "seconds": 335,
+ "source_doc": "course/高校实验室安全/115_激光实验室的控制措施.md",
+ "author_source": "project/高校实验室安全/115_激光实验室的控制措施/src.py",
+ "points": {
+  "K1": "三类控制措施：工程、管理、个人防护",
+  "K2": "工程控制：用硬件挡住危险",
+  "K3": "防护外壳和联锁：不拆不短接",
+  "K4": "钥匙开关与门禁联锁",
+  "K5": "激光受控区",
+  "K6": "门口的当心激光标志和警示灯",
+  "K7": "设备警告标签：揭开就可能有激光",
+  "K8": "标签不遮挡，坏了要报修",
+  "K9": "机器背面：链条拦住的维修区",
+  "K10": "光路高度避开眼睛",
+  "K11": "每条光束都要有终点",
+  "K12": "准直调光先用低功率",
+  "K13": "激光安全负责人与管理控制"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在激光实验室门口，门上方警示灯亮着",
+   "prompt_en": "The panda mascot stands beside a laboratory door with a laser warning sign and a glowing red lamp above it, smiling at the camera.",
+   "narration": "这一课讲激光实验室的控制措施。",
+   "overlay": [
+    "激光实验室的控制措施"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抱着资料走到门口，门上方红灯亮着",
+   "prompt_en": "The young male student walks up to the laboratory door carrying papers, the red lamp above the door glowing.",
+   "narration": "阿杰来找小研，门口的红灯亮着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他伸手要推门，王老师在走廊叫住他",
+   "prompt_en": "He reaches for the door handle while the safety administrator calls to him from the corridor.",
+   "narration": "他刚要推门，王老师叫住了他。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师指着红灯和标志，阿杰改用手机给小研发消息",
+   "prompt_en": "The safety administrator points at the red lamp and the laser warning sign, and the young male student sends a message on his phone instead.",
+   "narration": "灯亮说明在出光，先联系里面的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三类控制措施：工程、管理、个人防护",
+   "scene": "三根柱子撑起屋顶，柱顶分别是外壳、文件夹、护目镜图标",
+   "prompt_en": "Diagram: three pillars holding up a roof, topped with icons of a machine enclosure, a clipboard and safety goggles. No text.",
+   "narration": "激光控制措施分三类，像三根柱子。",
+   "overlay": [
+    "三类控制措施：工程、管理、个人防护"
+   ],
+   "labels": [
+    "工程控制",
+    "管理控制",
+    "个人防护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三类控制措施：工程、管理、个人防护",
+   "scene": "激光器铭牌上的类别标签，箭头指向三根柱子",
+   "prompt_en": "Diagram: a blank class label on a laser nameplate with an arrow pointing to the three pillars. No text.",
+   "narration": "先看标签上的类别，据此定措施。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三类控制措施：工程、管理、个人防护",
+   "scene": "3B和4类旁边，三根柱子都又粗又牢",
+   "prompt_en": "Diagram: two blank class tags beside three thick, firmly built pillars. No text.",
+   "narration": "3B、4类激光，三根柱子都要立牢。",
+   "overlay": [],
+   "labels": [
+    "3B类",
+    "4类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三类控制措施：工程、管理、个人防护",
+   "scene": "事故图标大多指向缺了一根柱子的屋顶",
+   "prompt_en": "Diagram: accident icons mostly pointing at a roof that is missing one pillar and leaning over. No text.",
+   "narration": "多数事故，是控制措施没落实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三类控制措施：工程、管理、个人防护",
+   "scene": "三个图标排序：外壳第一，护目镜最后",
+   "prompt_en": "Diagram: a ranked row of three icons, the machine enclosure first, the clipboard second and goggles last. No text.",
+   "narration": "先工程，再管理，防护是最后一道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "激光器装在封闭外壳里",
+   "prompt_en": "Diagram: a laser fully closed inside a protective housing on an optical table. No text.",
+   "narration": "工程控制，是用硬件把危险挡住。",
+   "overlay": [
+    "工程控制：用硬件挡住危险"
+   ],
+   "labels": [
+    "防护外壳"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "光闸翻下，截断光束",
+   "prompt_en": "Diagram: a beam shutter flipping down and blocking a laser beam. No text.",
+   "narration": "光闸能随时截断光束。",
+   "overlay": [],
+   "labels": [
+    "光闸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "光束穿过衰减器后变淡",
+   "prompt_en": "Diagram: a beam passing through an attenuator and coming out much fainter. No text.",
+   "narration": "衰减器把功率降下来。",
+   "overlay": [],
+   "labels": [
+    "衰减器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "工程控制：用硬件挡住危险",
+   "scene": "隔壁房间的人看着屏幕远程操作",
+   "prompt_en": "Diagram: an operator in a separate room watching the laser setup on a monitor and using a remote control box. No text.",
+   "narration": "还可以远程操作、远程监控。",
+   "overlay": [],
+   "labels": [
+    "远程监控"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "工程训练中心里关着机盖的激光切割机和观察窗",
+   "prompt_en": "A closed laser cutting machine in an engineering training workshop, its lid down and its tinted viewing window clean.",
+   "narration": "外壳和观察窗，把激光关在机器里。",
+   "overlay": [
+    "防护外壳和联锁：不拆不短接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "机盖一抬，联锁断开，光束立刻消失",
+   "prompt_en": "Diagram: a machine lid being lifted, an interlock switch opening and the beam stopping at once. No text.",
+   "narration": "机盖一开，联锁就让激光停下。",
+   "overlay": [],
+   "labels": [
+    "联锁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "联锁开关被胶带和导线短接，打叉",
+   "prompt_en": "Diagram: an interlock switch taped over and bypassed with a wire, crossed out. No text.",
+   "narration": "不准拆联锁，不准短接、绕过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "侧边送料槽开着，手伸到槽口打叉",
+   "prompt_en": "Diagram: a side pass-through slot opened on a laser cutter, a hand reaching near the slot crossed out. No text.",
+   "narration": "侧槽打开，槽口附近不站人、不伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "观察窗有裂纹，挂空白停用牌，旁边电话报修",
+   "prompt_en": "Diagram: a cracked viewing window on a laser cutter with a blank out of service tag and a phone beside it. No text.",
+   "narration": "观察窗破了或联锁失灵，立即停用报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护外壳和联锁：不拆不短接",
+   "scene": "隔着观察窗拍照打勾，掀盖拍照打叉",
+   "prompt_en": "Diagram: a phone taking a photo through the closed viewing window with a tick, and a phone held at an open lid crossed out. No text.",
+   "narration": "想拍照，也只隔着观察窗拍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "钥匙开关与门禁联锁",
+   "scene": "【实拍】激光器控制面板上的钥匙开关，手插入钥匙的特写（不出光，遮挡品牌型号）",
+   "prompt_en": "Close-up: a key switch on a laser control panel, a hand inserting the key.",
+   "narration": "插上专用钥匙，才能开启激光。",
+   "overlay": [
+    "钥匙开关与门禁联锁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "钥匙开关与门禁联锁",
+   "scene": "钥匙开关连到门禁，门一开光就停",
+   "prompt_en": "Diagram: a key switch wired to a door interlock, the door opening and the laser stopping. No text.",
+   "narration": "钥匙可接门禁联锁，开门就停光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "钥匙开关与门禁联锁",
+   "scene": "老周拔下钥匙锁进钥匙盒，在空白登记本上签字",
+   "prompt_en": "The older man removes the laser key, locks it in a small key box and signs a blank logbook.",
+   "narration": "钥匙专人保管，用完拔下收好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "地面划出受控区，四周围着激光防护屏障",
+   "prompt_en": "Diagram: a laser controlled area marked out on the lab floor, surrounded by laser protective screens. No text.",
+   "narration": "3B、4类激光，在受控区里使用。",
+   "overlay": [
+    "激光受控区"
+   ],
+   "labels": [
+    "激光受控区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "手持焊接工位四周拉起防护帘，杂散光被挡在里面",
+   "prompt_en": "Diagram: a handheld laser welding bay surrounded by protective curtains, the stray light kept inside. No text.",
+   "narration": "四周设防护屏障，光出不去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "受控区的门关着，无关人员被挡在门外",
+   "prompt_en": "Diagram: a closed door to the controlled area, an unauthorised person stopped outside with a cross. No text.",
+   "narration": "门要关好，无关人员不得进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "区里每个人都戴着同款防护眼镜，胸前有培训徽章",
+   "prompt_en": "Diagram: everyone inside the controlled area wearing matching laser safety goggles and a training badge. No text.",
+   "narration": "进去的人都要培训过、戴好眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "区里的反光金属物被收走",
+   "prompt_en": "Diagram: shiny metal objects being cleared away from the controlled area into a drawer. No text.",
+   "narration": "区里清走不必要的反光物品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "激光受控区",
+   "scene": "老周陪着戴好防护眼镜的阿杰走进受控区",
+   "prompt_en": "The older man leads the young male student, who wears laser safety goggles, into the controlled area.",
+   "narration": "外来人员经同意、有人陪同才进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "门口的当心激光标志和警示灯",
+   "scene": "【实拍】本校激光实验室门口的当心激光标志和出光警示灯（不拍室内光束）",
+   "prompt_en": "Close-up: a laser warning sign and a red lamp beside a laser laboratory door.",
+   "narration": "门口贴当心激光警告标志。",
+   "overlay": [
+    "门口的当心激光标志和警示灯"
+   ],
+   "labels": [
+    "当心激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "门口的当心激光标志和警示灯",
+   "scene": "标志下方的空白说明牌，配波长和类别小图标",
+   "prompt_en": "Diagram: a laser warning sign with a blank information plate beneath it carrying a wavelength icon and a class icon. No text.",
+   "narration": "旁边注明激光类别和波长。",
+   "overlay": [],
+   "labels": [
+    "类别",
+    "波长"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "门口的当心激光标志和警示灯",
+   "scene": "门上方红灯亮起，走近的人打叉",
+   "prompt_en": "Diagram: the lamp above the door turning red, a person reaching for the door crossed out. No text.",
+   "narration": "灯亮就是在出光，未经允许不得进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "门口的当心激光标志和警示灯",
+   "scene": "窗户贴着遮光膜，光束被挡在窗内",
+   "prompt_en": "Diagram: laboratory windows covered with light blocking film, a stray beam stopped at the window. No text.",
+   "narration": "门窗遮挡，光不能射出实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "门口的当心激光标志和警示灯",
+   "scene": "维修的机器四周围起临时围栏，挂上警告标志",
+   "prompt_en": "Diagram: a temporary barrier with a laser warning sign set up around a machine under service. No text.",
+   "narration": "维修时，也要围出临时控制区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设备警告标签：揭开就可能有激光",
+   "scene": "大型切割机剖面：光从柜里经反射镜转到切割头",
+   "prompt_en": "Diagram: inside a large cutting machine, a beam travels from a cabinet through turning mirrors to the cutting head. No text.",
+   "narration": "激光在柜里产生，靠反射镜送到切割头。",
+   "overlay": [
+    "设备警告标签：揭开就可能有激光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设备警告标签：揭开就可能有激光",
+   "scene": "【实拍】激光设备光路护罩上的黄色激光警告标签特写（设备停机）",
+   "prompt_en": "Close-up: a yellow laser warning label on the cover of a machine beam path.",
+   "narration": "光路护罩上，贴着黄色警告标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设备警告标签：揭开就可能有激光",
+   "scene": "护罩上的标签，后面用虚线画出隐藏的光束",
+   "prompt_en": "Diagram: a warning label on a cover, with a hidden beam drawn behind it in dotted lines. No text.",
+   "narration": "每张标签都在说：揭开可能有激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设备警告标签：揭开就可能有激光",
+   "scene": "激光器模块的护罩，扳手去拆打叉",
+   "prompt_en": "Diagram: a sealed laser module cover with a warning label, a spanner opening it crossed out. No text.",
+   "narration": "激光器模块，维修时也不要打开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设备警告标签：揭开就可能有激光",
+   "scene": "机身的警告标签和类别标签，箭头指向说明书",
+   "prompt_en": "Diagram: a warning label and a class label on a machine body, an arrow pointing to the user manual. No text.",
+   "narration": "看标签认类别，按说明书使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标签不遮挡，坏了要报修",
+   "scene": "贴膜和贴纸盖住机身警告标签，打叉",
+   "prompt_en": "Diagram: a protective film and stickers covering a warning label on a machine, crossed out. No text.",
+   "narration": "贴膜贴纸，不能盖住警告标签。",
+   "overlay": [
+    "标签不遮挡，坏了要报修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标签不遮挡，坏了要报修",
+   "scene": "褪色起翘的标签被换成新的",
+   "prompt_en": "Diagram: a faded peeling warning label being replaced with a fresh one. No text.",
+   "narration": "褪色、脱落、看不清，都要更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "标签不遮挡，坏了要报修",
+   "scene": "阿杰指着破损标签向小研报告",
+   "prompt_en": "The young male student points out a damaged label to the female graduate student instead of peeling it off himself.",
+   "narration": "发现了就报告，不要自己撕贴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "机器背面：链条拦住的维修区",
+   "scene": "大型切割机正面的安全地垫，一脚踩上机器停",
+   "prompt_en": "Diagram: a pressure safety mat in front of a large laser cutting machine, a foot stepping on it and the machine stopping. No text.",
+   "narration": "大型切割机正面，有一踩就停的地垫。",
+   "overlay": [
+    "机器背面：链条拦住的维修区"
+   ],
+   "labels": [
+    "安全地垫"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "机器背面：链条拦住的维修区",
+   "scene": "机器背面没有地垫，入口挂着一条链条",
+   "prompt_en": "Diagram: the back of the machine with no safety mat, a chain barrier hung across the entrance. No text.",
+   "narration": "背面没有地垫，用链条拦住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "机器背面：链条拦住的维修区",
+   "scene": "链条后面机器照常运动，横梁会撞人",
+   "prompt_en": "Diagram: a chain barrier while the machine gantry keeps moving behind it, a person kept clear of the moving parts. No text.",
+   "narration": "链条只能提醒，不会让机器停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "机器背面：链条拦住的维修区",
+   "scene": "机器断电后，老李在背面校准反射镜",
+   "prompt_en": "The facility engineer works behind the powered down machine, adjusting the beam path mirrors.",
+   "narration": "背面是维修人员校准光路的地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "机器背面：链条拦住的维修区",
+   "scene": "阿杰走到链条前，退了回来",
+   "prompt_en": "The young male student stops at the chain barrier and steps back.",
+   "narration": "链条挂着，就是不得进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "光路高度避开眼睛",
+   "scene": "光学平台上光束高度低于坐姿和站姿的眼睛",
+   "prompt_en": "Diagram: a beam path on an optical table set below the eye level of both a seated and a standing person. No text.",
+   "narration": "光路要低于坐着和站着的眼睛。",
+   "overlay": [
+    "光路高度避开眼睛"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "光路高度避开眼睛",
+   "scene": "弯腰把眼睛降到光束平面，打叉",
+   "prompt_en": "Diagram: a person bending so that the eyes drop to the beam plane, crossed out. No text.",
+   "narration": "不要弯腰，把眼睛降到光束平面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "光路高度避开眼睛",
+   "scene": "工具掉在地上：先关光闸，再弯腰捡",
+   "prompt_en": "Diagram: a dropped tool on the floor, a hand closing the beam shutter first and then picking the tool up. No text.",
+   "narration": "东西掉了，先关光闸再弯腰捡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "光路高度避开眼睛",
+   "scene": "光束水平走，向上的一段罩上挡板",
+   "prompt_en": "Diagram: beams running level across the table, one upward beam section enclosed by a shield. No text.",
+   "narration": "光束水平走，向上的光加挡板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "每条光束都要有终点",
+   "scene": "每路光束末端都有一个黑色终止器",
+   "prompt_en": "Diagram: every beam on an optical table ending in a black beam dump. No text.",
+   "narration": "每条光束，都要有自己的终点。",
+   "overlay": [
+    "每条光束都要有终点"
+   ],
+   "labels": [
+    "光束终止器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "每条光束都要有终点",
+   "scene": "【实拍】光学平台上的光束终止器和平台四周挡板（激光关闭）",
+   "prompt_en": "Close-up: a black beam dump and surrounding side panels on an optical table.",
+   "narration": "终止器接住光，挡板围住平台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "每条光束都要有终点",
+   "scene": "光栅分出几束光，每束都被挡块接住",
+   "prompt_en": "Diagram: a grating splitting a beam into several beams, every one caught by a beam block. No text.",
+   "narration": "分出的多束光、反射光，也全部接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "每条光束都要有终点",
+   "scene": "光束射向通道和纸箱，打叉",
+   "prompt_en": "Diagram: a beam heading toward a walkway and a cardboard box, crossed out. No text.",
+   "narration": "光束不射向通道和可燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "每条光束都要有终点",
+   "scene": "暂停时关光闸；动过镜片后拿观察卡沿光路查",
+   "prompt_en": "Diagram: a closed shutter, then a person tracing the beam path with a viewing card after moving a mirror. No text.",
+   "narration": "暂停就关闸，动过元件查杂散光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "准直调光先用低功率",
+   "scene": "事故原因列表，调光路排第一",
+   "prompt_en": "Diagram: an alignment icon at the top of a list of accident causes. No text.",
+   "narration": "对光调试，是最容易出事的环节。",
+   "overlay": [
+    "准直调光先用低功率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "准直调光先用低功率",
+   "scene": "低功率可见指示光沿着镜片一路对准",
+   "prompt_en": "Diagram: a low power visible guide beam traced along the mirrors to align the path. No text.",
+   "narration": "先用低功率可见光，把光路对准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "准直调光先用低功率",
+   "scene": "两步图：关指示光，再开主激光，操作者戴眼镜",
+   "prompt_en": "Diagram: two steps, the guide beam switched off and then the main laser switched on, the operator wearing goggles. No text.",
+   "narration": "对准后关指示光，再开主激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激光安全负责人与管理控制",
+   "scene": "王老师拿着空白规程夹和培训记录",
+   "prompt_en": "The safety administrator holds a blank procedure folder and a blank training record sheet.",
+   "narration": "管理控制，是用制度管住流程。",
+   "overlay": [
+    "激光安全负责人与管理控制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激光安全负责人与管理控制",
+   "scene": "培训、登记、实验记录三个图标",
+   "prompt_en": "Diagram: three icons, a training session, a sign in logbook and an experiment record notebook. No text.",
+   "narration": "上岗前培训，进出登记，实验记录。",
+   "overlay": [],
+   "labels": [
+    "培训",
+    "登记",
+    "记录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激光安全负责人与管理控制",
+   "scene": "老周作为激光安全负责人检查光路，举手叫停",
+   "prompt_en": "The older man, acting as the laser safety officer, inspects a beam setup and raises his hand to stop the work.",
+   "narration": "激光安全负责人，有权检查和叫停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激光安全负责人与管理控制",
+   "scene": "受训的人操作，旁边有人监督",
+   "prompt_en": "Diagram: a trained operator at a laser with a supervisor standing beside. No text.",
+   "narration": "懂行的人操作，或在旁监督。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激光安全负责人与管理控制",
+   "scene": "电话和报告单，箭头指向学院",
+   "prompt_en": "Diagram: a phone and a report form with an arrow up to a college building. No text.",
+   "narration": "出了事，立即报告实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三根柱子",
+   "prompt_en": "Diagram: three pillars topped with an enclosure, a clipboard and goggles. No text.",
+   "narration": "工程、管理、防护，三类措施都落实。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "联锁、钥匙、红灯三个图标",
+   "prompt_en": "Diagram: three icons, an interlock switch, a key switch and a red lamp above a door. No text.",
+   "narration": "联锁不短接，钥匙收好，灯亮不进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "水平光束低于眼睛，末端有终止器",
+   "prompt_en": "Diagram: a level beam below eye height ending in a beam dump. No text.",
+   "narration": "光路避开眼睛，每束光都有终点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在关着机盖的激光切割机旁挥手",
+   "prompt_en": "The panda mascot stands beside a closed laser cutting machine and waves goodbye.",
+   "narration": "下一课：激光加工设备安全操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
