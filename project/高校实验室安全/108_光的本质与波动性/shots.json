@@ -1,0 +1,982 @@
+{
+ "id": "108_光的本质与波动性",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "光的本质与波动性",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/108_光的本质与波动性.md",
+ "author_source": "project/高校实验室安全/108_光的本质与波动性/src.py",
+ "points": {
+  "K1": "光就在身边：光子学是用光的技术",
+  "K2": "光是电磁能，有波粒二象性",
+  "K3": "波的基本量：振幅、波长、周期、频率",
+  "K4": "光速恒定：波长越短频率越高",
+  "K5": "光是横波：电场磁场垂直振动",
+  "K6": "电磁波谱：人眼只见400到700纳米",
+  "K7": "折射率：光进介质变慢，频率不变",
+  "K8": "相位与相干：激光步调一致",
+  "K9": "反射定律：反射角等于入射角",
+  "K10": "折射定律：换介质光会拐弯",
+  "K11": "干涉：峰峰加强，峰谷抵消",
+  "K12": "衍射：光绕过边缘分成多束",
+  "K13": "偏振：电场振动的方向",
+  "S1": "学光学基础，是为了看懂光的危险"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个三棱镜，白光分成彩虹",
+   "prompt_en": "The panda mascot holds up a glass prism and white light splits into a rainbow on the wall behind it.",
+   "narration": "这一课讲光的本质与波动性。",
+   "overlay": [
+    "光的本质与波动性"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰第一天进光学实验室，好奇地看平台上的反射镜",
+   "prompt_en": "The young male student enters an optics lab for the first time and looks curiously at mirrors on the optical table.",
+   "narration": "阿杰第一天进光学实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰弯腰把眼睛凑到和镜子同一高度",
+   "prompt_en": "The young male student bends down so his eyes are level with the mirrors on the table.",
+   "narration": "他弯腰凑近，想看清光怎么走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指着平台上的光路高度线",
+   "prompt_en": "The female graduate student stops him and points to the beam height level above the table surface.",
+   "narration": "小研拦住他：先学懂光再说。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光就在身边：光子学是用光的技术",
+   "scene": "超市扫码、光盘、打印机、相机四个图标",
+   "prompt_en": "Diagram: four icons, a barcode scanner, an optical disc, a printer and a camera, each with a light ray. No text.",
+   "narration": "扫码、打印、拍照，都靠光。",
+   "overlay": [
+    "光就在身边：光子学是用光的技术"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光就在身边：光子学是用光的技术",
+   "scene": "光纤把信号送向城市，医院成像和眼科治疗图标",
+   "prompt_en": "Diagram: optical fibres carrying light signals to a city, plus a medical imaging scanner and an eye treatment icon. No text.",
+   "narration": "光纤通信、医疗成像也离不开光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光就在身边：光子学是用光的技术",
+   "scene": "产生、操控、传输、探测、利用五个箭头连成一串",
+   "prompt_en": "Diagram: a chain of five arrows, a light source, a lens, a fibre, a detector and a power icon. No text.",
+   "narration": "产生、操控、传输、探测光，就是光子学。",
+   "overlay": [],
+   "labels": [
+    "产生",
+    "操控",
+    "传输",
+    "探测",
+    "利用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光就在身边：光子学是用光的技术",
+   "scene": "日常小激光与实验室大功率激光器对比，后者旁有激光警告标志",
+   "prompt_en": "Diagram: a small barcode scanner on the left and a large lab laser with a laser warning sign on the right. No text.",
+   "narration": "实验室激光比日常的强得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光是电磁能，有波粒二象性",
+   "scene": "光被画成既像波浪又像一颗颗小球的两副面孔",
+   "prompt_en": "Diagram: a light beam drawn half as a smooth wave and half as a stream of small dots. No text.",
+   "narration": "光是电磁能，有两副面孔。",
+   "overlay": [
+    "光是电磁能，有波粒二象性"
+   ],
+   "labels": [
+    "像波",
+    "像粒子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光是电磁能，有波粒二象性",
+   "scene": "光穿过小孔散开、遇镜面反射、进水拐弯",
+   "prompt_en": "Diagram: light spreading out after a small hole, bouncing off a mirror and bending into water. No text.",
+   "narration": "传播、反射、折射时，光像波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光是电磁能，有波粒二象性",
+   "scene": "材料吸收一份份能量小包，灯丝放出一份份能量小包",
+   "prompt_en": "Diagram: a material absorbing small energy packets and a glowing source releasing small energy packets. No text.",
+   "narration": "被吸收和发光时，光像粒子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光是电磁能，有波粒二象性",
+   "scene": "光把能量从光源送到远处的物体上，物体变热",
+   "prompt_en": "Diagram: light carrying energy from a source to a distant object, the object warming up with heat lines. No text.",
+   "narration": "光在传播中传递能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光是电磁能，有波粒二象性",
+   "scene": "相位、相干、偏振、能量等词卡片排成一排（空白卡片，图示文字叠加）",
+   "prompt_en": "Diagram: a row of blank word cards with small icons of a wave, a ring and an arrow. No text.",
+   "narration": "描述光，要先学会几个基本词。",
+   "overlay": [],
+   "labels": [
+    "波长",
+    "频率",
+    "相位",
+    "偏振",
+    "能量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "海浪一排排，停着的小船一上一下",
+   "prompt_en": "Diagram: rows of ocean waves and a small anchored boat bobbing up and down. No text.",
+   "narration": "空间上重复、时间上也重复，就是波。",
+   "overlay": [
+    "波的基本量：振幅、波长、周期、频率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "水波、声波、光波三个图标",
+   "prompt_en": "Diagram: three icons, a water wave, a sound wave from a speaker, and a light wave of electric and magnetic fields. No text.",
+   "narration": "水振动是水波，电磁场振动是光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "波形图：中线、离中线的距离、最大距离",
+   "prompt_en": "Diagram: a sine wave with a centre line, a vertical arrow from the line to the curve, and the tallest arrow at the crest. No text.",
+   "narration": "离中线最远的距离，叫振幅。",
+   "overlay": [],
+   "labels": [
+    "振幅"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "相邻两个波峰之间的水平箭头",
+   "prompt_en": "Diagram: a horizontal arrow between two neighbouring crests of a sine wave. No text.",
+   "narration": "相邻两个波峰的距离，叫波长。",
+   "overlay": [],
+   "labels": [
+    "波长",
+    "纳米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "秒表：重复一次的时间；一秒内数波峰个数",
+   "prompt_en": "Diagram: a stopwatch timing one full wave cycle, and a counter counting crests passing in one second. No text.",
+   "narration": "重复一次叫周期，每秒几次叫频率。",
+   "overlay": [],
+   "labels": [
+    "周期",
+    "频率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "波的基本量：振幅、波长、周期、频率",
+   "scene": "单位阶梯：千兆吉太往上，毫微纳皮往下",
+   "prompt_en": "Diagram: a staircase of unit prefixes going up and down from a central step. No text.",
+   "narration": "光的量很极端，常用纳米、太赫。",
+   "overlay": [],
+   "labels": [
+    "纳秒",
+    "纳米",
+    "太赫"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光速恒定：波长越短频率越高",
+   "scene": "一束光一秒钟绕地球好几圈",
+   "prompt_en": "Diagram: a light ray circling the Earth several times within one stopwatch second. No text.",
+   "narration": "真空中光速恒定，每秒约30万公里。",
+   "overlay": [
+    "光速恒定：波长越短频率越高"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光速恒定：波长越短频率越高",
+   "scene": "小人迈步：步长乘每秒步数等于速度",
+   "prompt_en": "Diagram: a walking figure, step length times steps per second equals walking speed. No text.",
+   "narration": "步长乘步频是速度，波也一样。",
+   "overlay": [],
+   "labels": [
+    "波长×频率=光速"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光速恒定：波长越短频率越高",
+   "scene": "长波稀疏、短波密集，两条波并排",
+   "prompt_en": "Diagram: a long sparse wave above a short dense wave, both moving at the same speed. No text.",
+   "narration": "光速一定，波长越短，频率越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光速恒定：波长越短频率越高",
+   "scene": "光沿直线射到墙上，光路被尺子画成一条直线",
+   "prompt_en": "Diagram: a light ray travelling in a perfectly straight line from a source to a wall. No text.",
+   "narration": "在均匀介质里，光沿直线传播。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "光速恒定：波长越短频率越高",
+   "scene": "一束光瞬间到达房间另一头的人眼，人来不及躲",
+   "prompt_en": "Diagram: a light ray reaching an eye across a room instantly, a stopwatch showing zero. No text.",
+   "narration": "光一出来就到，人根本躲不开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光是横波：电场磁场垂直振动",
+   "scene": "电场波竖直振动，磁场波水平振动，箭头指向前方",
+   "prompt_en": "Diagram: a vertical electric field wave and a horizontal magnetic field wave, an arrow showing the travel direction. No text.",
+   "narration": "光波里振动的是电场和磁场。",
+   "overlay": [
+    "光是横波：电场磁场垂直振动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光是横波：电场磁场垂直振动",
+   "scene": "三根互相垂直的箭头",
+   "prompt_en": "Diagram: three mutually perpendicular arrows for electric field, magnetic field and travel direction. No text.",
+   "narration": "电场、磁场、前进方向两两垂直。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光是横波：电场磁场垂直振动",
+   "scene": "绳子上下抖动、波向前跑",
+   "prompt_en": "Diagram: a rope shaken up and down while the wave runs forward along it. No text.",
+   "narration": "振动方向垂直前进方向，叫横波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "光是横波：电场磁场垂直振动",
+   "scene": "无线电波、光波、X射线结构相同，只是疏密不同",
+   "prompt_en": "Diagram: radio waves, light waves and X-rays drawn with the same shape but different spacing. No text.",
+   "narration": "所有电磁波结构一样，只差波长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电磁波谱：人眼只见400到700纳米",
+   "scene": "长长的琴键：一端无线电、微波，中间红外可见紫外，另一端X射线伽马射线",
+   "prompt_en": "Diagram: a very long piano keyboard coloured from radio and microwave keys through infrared, visible and ultraviolet to X-ray and gamma ray keys. No text.",
+   "narration": "电磁波谱，像一架很长的钢琴。",
+   "overlay": [
+    "电磁波谱：人眼只见400到700纳米"
+   ],
+   "labels": [
+    "无线电",
+    "红外",
+    "可见光",
+    "紫外",
+    "X射线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电磁波谱：人眼只见400到700纳米",
+   "scene": "红外、可见、紫外三段被框起来",
+   "prompt_en": "Diagram: the infrared, visible and ultraviolet section of the spectrum highlighted with a frame. No text.",
+   "narration": "红外、可见、紫外，是光学波段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电磁波谱：人眼只见400到700纳米",
+   "scene": "从紫到红的彩带，两端标出数值",
+   "prompt_en": "Diagram: a colour band from violet to red with markers at both ends. No text.",
+   "narration": "人眼只能看见约400到700纳米。",
+   "overlay": [],
+   "labels": [
+    "约400纳米",
+    "约700纳米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电磁波谱：人眼只见400到700纳米",
+   "scene": "彩带两侧的红外和紫外画成灰色虚线，眼睛图标打问号",
+   "prompt_en": "Diagram: grey dashed regions on both sides of the visible band, and an eye icon with a question mark. No text.",
+   "narration": "红外和紫外，眼睛看不见。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电磁波谱：人眼只见400到700纳米",
+   "scene": "看不见的红外光束射进眼睛，眼睛没有眨，打叉",
+   "prompt_en": "Diagram: an invisible infrared beam drawn as a dashed line entering an open eye that does not blink, crossed out. No text.",
+   "narration": "看不见就不眨眼，更容易受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "折射率：光进介质变慢，频率不变",
+   "scene": "光从空气跑进玻璃，像人从路面跑进沙地",
+   "prompt_en": "Diagram: light passing from air into glass, beside a runner moving from pavement into sand and slowing down. No text.",
+   "narration": "光进水和玻璃，速度会变慢。",
+   "overlay": [
+    "折射率：光进介质变慢，频率不变"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "折射率：光进介质变慢，频率不变",
+   "scene": "慢了几倍，就是折射率；真空为1",
+   "prompt_en": "Diagram: two speed arrows, a long one in vacuum and a shorter one in glass, with a ratio sign. No text.",
+   "narration": "慢了几倍，就用折射率衡量。",
+   "overlay": [],
+   "labels": [
+    "真空=1",
+    "空气≈1",
+    "水≈1.33",
+    "玻璃≈1.5"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "折射率：光进介质变慢，频率不变",
+   "scene": "钻石、半导体晶体的折射率更高",
+   "prompt_en": "Diagram: a diamond and a semiconductor crystal with much shorter speed arrows inside. No text.",
+   "narration": "钻石和半导体材料，折射率更高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "折射率：光进介质变慢，频率不变",
+   "scene": "波进入玻璃后变密，但节拍器节奏不变",
+   "prompt_en": "Diagram: a wave becoming more compressed inside glass while a metronome beside it keeps the same rhythm. No text.",
+   "narration": "换介质，频率不变，波长变短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "摩天轮转圈，座舱位置对应波上的一点",
+   "prompt_en": "Diagram: a Ferris wheel turning, each cabin position matching a point on a sine wave. No text.",
+   "narration": "波走到哪一步，叫相位。",
+   "overlay": [
+    "相位与相干：激光步调一致"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "两条一样的波错开一段",
+   "prompt_en": "Diagram: two identical waves shifted slightly relative to each other, the offset marked by a bracket. No text.",
+   "narration": "两列波错开的一段，叫相位差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "一队士兵步伐整齐；几条波完全重合",
+   "prompt_en": "Diagram: a squad of marchers in perfect step beside several waves lined up exactly. No text.",
+   "narration": "波长相同、步调一致，叫相干光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "激光器射出一束细而整齐的光",
+   "prompt_en": "Diagram: a laser emitting a narrow, neat and orderly beam that stays thin over a long distance. No text.",
+   "narration": "激光是相干光，走远了仍很集中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "灯泡、太阳、弧光灯发出杂乱的波",
+   "prompt_en": "Diagram: a light bulb, the sun and an arc lamp each emitting jumbled waves of mixed lengths. No text.",
+   "narration": "灯泡、阳光是非相干光，各走各的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "相位与相干：激光步调一致",
+   "scene": "太阳和弧光灯旁边一只眼睛，打警示符号",
+   "prompt_en": "Diagram: the sun and a bright arc lamp next to an eye with a warning symbol. No text.",
+   "narration": "非相干强光一样能伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "光射到镜面弹回，碰撞点立一条垂直虚线",
+   "prompt_en": "Diagram: a light ray hitting a mirror and bouncing back, a dashed line perpendicular to the mirror at the hit point. No text.",
+   "narration": "光碰到界面弹回，垂直线叫法线。",
+   "overlay": [
+    "反射定律：反射角等于入射角"
+   ],
+   "labels": [
+    "法线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "台球撞边对称弹开，两个角相等",
+   "prompt_en": "Diagram: a billiard ball bouncing off a cushion at equal angles, beside a light ray doing the same on a mirror. No text.",
+   "narration": "反射角等于入射角，就像台球撞边。",
+   "overlay": [],
+   "labels": [
+    "入射角",
+    "反射角"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "入射光、反射光和法线画在同一张纸面上",
+   "prompt_en": "Diagram: the incoming ray, the reflected ray and the normal line all lying on one flat sheet. No text.",
+   "narration": "三条线在同一个平面内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "镜子稍转一点，反射光扫过很大一片",
+   "prompt_en": "Diagram: a mirror turned slightly and the reflected beam sweeping across a wide area of the room. No text.",
+   "narration": "镜子稍一转，反射光就扫到别处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "反射定律：反射角等于入射角",
+   "scene": "扳手、手表、戒指把光束反射向人脸，打叉",
+   "prompt_en": "Diagram: a shiny wrench, a wristwatch and a ring reflecting a beam towards a face, crossed out. No text.",
+   "narration": "工具首饰的反光，也可能射进眼睛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射定律：换介质光会拐弯",
+   "scene": "水杯里的筷子像折断了",
+   "prompt_en": "Diagram: a chopstick in a glass of water looking bent at the water surface. No text.",
+   "narration": "水里筷子像折断，就是折射。",
+   "overlay": [
+    "折射定律：换介质光会拐弯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射定律：换介质光会拐弯",
+   "scene": "光到界面，一部分反射，一部分拐弯进入",
+   "prompt_en": "Diagram: a light ray at a water surface, part reflected upward and part bending into the water. No text.",
+   "narration": "在界面上，一部分反射一部分折射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射定律：换介质光会拐弯",
+   "scene": "角度从法线量起，两边材料和角度有固定关系",
+   "prompt_en": "Diagram: incoming and bent rays with angles measured from the normal line, two materials labelled by colour. No text.",
+   "narration": "角度和材料有固定关系，能算去向。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射定律：换介质光会拐弯",
+   "scene": "两边折射率差得越多，光拐得越厉害",
+   "prompt_en": "Diagram: two interfaces side by side, a small bend for similar materials and a large bend for very different materials. No text.",
+   "narration": "两边折射率差越大，拐得越厉害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "折射定律：换介质光会拐弯",
+   "scene": "透镜把光汇聚成一个很亮的点",
+   "prompt_en": "Diagram: a lens bending parallel rays to meet at one very bright focal point. No text.",
+   "narration": "透镜靠折射聚光，焦点能量很集中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "干涉：峰峰加强，峰谷抵消",
+   "scene": "两列波相遇，峰碰峰变高，峰碰谷抵消",
+   "prompt_en": "Diagram: two waves meeting, crest on crest making a taller wave, crest on trough cancelling to flat. No text.",
+   "narration": "两列相干波相遇会叠加。",
+   "overlay": [
+    "干涉：峰峰加强，峰谷抵消"
+   ],
+   "labels": [
+    "加强",
+    "抵消"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "干涉：峰峰加强，峰谷抵消",
+   "scene": "双缝挡板后，屏上出现明暗相间的条纹",
+   "prompt_en": "Diagram: a barrier with two narrow slits and a screen behind showing alternating bright and dark stripes that fade smoothly from dark to bright. No text.",
+   "narration": "双缝后面，出现明暗相间的条纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衍射：光绕过边缘分成多束",
+   "scene": "光穿过很小的孔，在屏上形成一圈圈亮环",
+   "prompt_en": "Diagram: light passing through a tiny pinhole and forming concentric bright rings on a screen. No text.",
+   "narration": "光过小孔，会散成一圈圈亮环。",
+   "overlay": [
+    "衍射：光绕过边缘分成多束"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衍射：光绕过边缘分成多束",
+   "scene": "缝口画成小光源，波前一圈圈扩散，绕进影子里",
+   "prompt_en": "Diagram: a slit opening drawn as a tiny source, wavefronts spreading out in arcs and bending into the shadow area. No text.",
+   "narration": "孔和波长相近时，光绕进影子里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衍射：光绕过边缘分成多束",
+   "scene": "蓝光亮点挨得近，红光亮点隔得远",
+   "prompt_en": "Diagram: two dot patterns on a screen, blue dots close together and red dots spread far apart. No text.",
+   "narration": "波长越长、屏越远，亮点越分散。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衍射：光绕过边缘分成多束",
+   "scene": "【实拍】台灯白光照向衍射光栅片，墙上出现彩色光带（固定机位，不用激光）",
+   "prompt_en": "Close-up: a hand holding a thin diffraction grating slide in front of a white desk lamp, a rainbow pattern appearing on a white card.",
+   "narration": "白光过光栅，按颜色分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "衍射：光绕过边缘分成多束",
+   "scene": "一束激光过光栅分成好几束射向四周，用挡板挡住",
+   "prompt_en": "Diagram: one beam passing a grating and splitting into several beams spreading out, all stopped by black beam blocks. No text.",
+   "narration": "激光过光栅分成多束，都要挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "电场箭头竖直振动；另一束光的箭头乱指",
+   "prompt_en": "Diagram: one wave with its electric field arrow swinging only vertically, another with arrows pointing in random directions. No text.",
+   "narration": "电场朝哪个方向振，就是偏振。",
+   "overlay": [
+    "偏振：电场振动的方向"
+   ],
+   "labels": [
+    "线偏振",
+    "非偏振"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "箭头沿螺旋转动，分左旋右旋",
+   "prompt_en": "Diagram: arrows rotating along a helix, one turning left and one turning right. No text.",
+   "narration": "还有圆偏振和椭圆偏振。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "偏振片像一道竖缝栅栏，只放竖直振动的光",
+   "prompt_en": "Diagram: a polarizer drawn as a fence of vertical slots letting only vertically vibrating waves pass. No text.",
+   "narration": "偏振片只放过一个方向的光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "【实拍】两片偏振片叠在白色屏幕前，转动上面一片，透过的光由亮变暗",
+   "prompt_en": "Close-up: two polarizer sheets held in front of a white screen, the top one rotated slowly so the overlap turns from bright to dark.",
+   "narration": "转动偏振片，亮暗跟着变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "偏光太阳镜和激光束，中间打叉",
+   "prompt_en": "Diagram: polarized sunglasses beside a laser beam, the sunglasses crossed out as protection. No text.",
+   "narration": "偏光太阳镜挡不住激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "偏振：电场振动的方向",
+   "scene": "激光防护眼镜，镜腿上标有波长和光密度图标",
+   "prompt_en": "Diagram: a pair of laser safety goggles with a wavelength icon and an optical density icon on the frame. No text.",
+   "narration": "防激光要用对应波长的防护镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "学光学基础，是为了看懂光的危险",
+   "scene": "反射、不可见、聚焦、多束四个危险图标",
+   "prompt_en": "Diagram: four hazard icons, a reflected beam, an invisible beam, a focused hot spot and a beam splitting into several. No text.",
+   "narration": "反射、看不见、聚焦，都是光的危险。",
+   "overlay": [
+    "学光学基础，是为了看懂光的危险"
+   ],
+   "labels": [
+    "反射",
+    "不可见",
+    "聚焦",
+    "多束"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "学光学基础，是为了看懂光的危险",
+   "scene": "王老师给阿杰做安全培训，阿杰在准入表上签字",
+   "prompt_en": "The safety administrator gives the young male student a safety briefing and he signs a blank access form.",
+   "narration": "进激光光学实验室，先培训准入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "学光学基础，是为了看懂光的危险",
+   "scene": "实验室门口的激光警告标志",
+   "prompt_en": "Diagram: a laser warning sign on the door of an optics lab. No text.",
+   "narration": "认清警告标志，听从负责人安排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "波形图和彩带图标",
+   "prompt_en": "Diagram: a sine wave icon next to a visible spectrum colour band icon. No text.",
+   "narration": "光是电磁波，人眼只见一小段。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "镜面反射、透镜聚焦、光栅分束三个图标",
+   "prompt_en": "Diagram: three icons, a mirror reflecting, a lens focusing and a grating splitting a beam. No text.",
+   "narration": "反射、折射、衍射，决定光往哪走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣捧着一颗发光的小光子球挥手",
+   "prompt_en": "The panda mascot holds a small glowing ball of light in its paws and waves goodbye.",
+   "narration": "下一课：光子、光谱与光和材料的作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
