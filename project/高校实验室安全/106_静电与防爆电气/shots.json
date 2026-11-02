@@ -1,0 +1,632 @@
+{
+ "id": "106_静电与防爆电气",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "静电与防爆电气",
+ "seconds": 240,
+ "source_doc": "course/高校实验室安全/106_静电与防爆电气.md",
+ "author_source": "project/高校实验室安全/106_静电与防爆电气/src.py",
+ "points": {
+  "K1": "静电：电荷积聚，走路也会带电",
+  "K2": "静电放电能点燃蒸气粉尘，损坏元件",
+  "K3": "转移易燃溶剂：接地跨接，慢慢倒",
+  "S1": "防静电的通用措施",
+  "K4": "碰电路板先防静电",
+  "K5": "电压等级和防爆分区是两回事",
+  "K6": "爆炸危险区域按危险程度分区",
+  "K7": "实验室易燃场所用防爆电器"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣摸门把手，指尖冒出一个小火花，吓一跳",
+   "prompt_en": "The panda mascot touches a metal door handle and a tiny spark jumps from its paw, making it flinch.",
+   "narration": "这一课讲静电与防爆电气。",
+   "overlay": [
+    "静电与防爆电气"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰穿着化纤外套，从大桶往小瓶倒溶剂",
+   "prompt_en": "The young male student in a synthetic fleece jacket pours solvent from a large drum into a small bottle.",
+   "narration": "阿杰穿着化纤外套倒溶剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "溶剂哗哗冲下，瓶口有一个小火花图标",
+   "prompt_en": "Diagram: solvent splashing fast into the bottle, a small spark icon at the bottle mouth. No text.",
+   "narration": "倒得又快又急，静电在积聚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研叫停他，指向墙边的接地夹",
+   "prompt_en": "The female graduate student stops him and points to an earthing clamp on the wall.",
+   "narration": "小研喊停：先接地，再慢慢倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "静电：电荷积聚，走路也会带电",
+   "scene": "物体表面聚满正负电荷符号",
+   "prompt_en": "Diagram: the surface of an object covered with plus and minus charge symbols. No text.",
+   "narration": "电荷积聚在物体表面，就是静电。",
+   "overlay": [
+    "静电：电荷积聚，走路也会带电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "静电：电荷积聚，走路也会带电",
+   "scene": "人走过地毯，身上的电荷越来越多",
+   "prompt_en": "Diagram: a person walking across a carpet, charge symbols building up on the body. No text.",
+   "narration": "走过地毯，身上就会带静电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "静电：电荷积聚，走路也会带电",
+   "scene": "摩擦、倾倒、过滤、流动四个图标",
+   "prompt_en": "Diagram: four icons, rubbing, pouring, filtering and liquid flowing through a pipe, each producing charges. No text.",
+   "narration": "摩擦、倾倒、流动，都会起电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "静电：电荷积聚，走路也会带电",
+   "scene": "干燥天气里，静电更容易积聚",
+   "prompt_en": "Diagram: a dry air icon with more charge symbols piling up. No text.",
+   "narration": "天气越干燥，静电越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "静电放电能点燃蒸气粉尘，损坏元件",
+   "scene": "手指靠近金属，电荷放出一个小火花",
+   "prompt_en": "Diagram: a finger approaching metal and a small spark jumping across the gap. No text.",
+   "narration": "电荷放出来，就是一个小火花。",
+   "overlay": [
+    "静电放电能点燃蒸气粉尘，损坏元件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "静电放电能点燃蒸气粉尘，损坏元件",
+   "scene": "火花碰到溶剂蒸气云，变成火焰图标",
+   "prompt_en": "Diagram: a spark meeting a cloud of solvent vapour and turning into a flame icon, crossed out. No text.",
+   "narration": "能点燃易燃蒸气和气体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "静电放电能点燃蒸气粉尘，损坏元件",
+   "scene": "火花碰到悬浮粉尘云，爆炸图标",
+   "prompt_en": "Diagram: a spark meeting a cloud of fine dust in the air, an explosion icon, crossed out. No text.",
+   "narration": "也能点燃可燃粉尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "静电放电能点燃蒸气粉尘，损坏元件",
+   "scene": "电路板上的芯片被火花击出一个黑点",
+   "prompt_en": "Diagram: a spark hitting a chip on a circuit board and leaving a dark burn spot. No text.",
+   "narration": "还会击坏精密电子元件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "易燃溶剂旁，一点火花就危险",
+   "prompt_en": "Diagram: a flammable liquid container with vapour above it and a small spark, crossed out. No text.",
+   "narration": "易燃溶剂旁，一点静电火花就危险。",
+   "overlay": [
+    "转移易燃溶剂：接地跨接，慢慢倒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "大桶接地，大桶和小桶之间夹跨接线",
+   "prompt_en": "Diagram: a metal drum connected to an earth point, and a bonding wire clamped between the drum and the receiving can. No text.",
+   "narration": "容器接地，两只容器跨接相连。",
+   "overlay": [],
+   "labels": [
+    "接地",
+    "跨接"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "【实拍】把接地跨接线的夹子夹到两只空金属容器的裸金属处（容器为空或只盛清水）",
+   "prompt_en": "Close-up: hands clipping a bonding wire clamp onto bare metal on two empty metal containers, another lead to an earth point.",
+   "narration": "夹子夹在裸金属上，接触要牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "液流贴着瓶壁缓缓流下；高处冲下打叉",
+   "prompt_en": "Diagram: liquid running slowly down the inside wall of a container with a tick, and liquid splashing from height crossed out. No text.",
+   "narration": "慢慢倒，贴壁流，不高处冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "棉质实验服打钩，化纤衣物打叉",
+   "prompt_en": "Diagram: a cotton lab coat with a tick and a synthetic fleece jacket crossed out. No text.",
+   "narration": "穿棉质实验服，少穿化纤衣物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "转移易燃溶剂：接地跨接，慢慢倒",
+   "scene": "在通风柜内转移，远离点火源",
+   "prompt_en": "Diagram: solvent being transferred inside a fume hood, ignition sources kept away. No text.",
+   "narration": "在通风处操作，远离点火源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "接地、增湿、防静电用品三个图标",
+   "prompt_en": "Diagram: three icons, an earth symbol, a humidifier and antistatic shoes. No text.",
+   "narration": "防静电，主要靠这几招。",
+   "overlay": [
+    "防静电的通用措施"
+   ],
+   "labels": [
+    "接地",
+    "增湿",
+    "防静电用品"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "金属管道、容器、设备都连到接地线",
+   "prompt_en": "Diagram: metal pipes, containers and equipment all connected to a common earth bar. No text.",
+   "narration": "金属设备和容器，可靠接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "湿度计指针升到适中范围",
+   "prompt_en": "Diagram: a hygrometer needle rising into a moderate range, fewer charge symbols. No text.",
+   "narration": "保持适当湿度，静电少积聚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "进入易燃场所前，手摸人体静电释放器",
+   "prompt_en": "The young male student touches a static discharge post with his bare hand before entering a flammable storage room.",
+   "narration": "进易燃场所前，先释放身上静电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "防静电鞋和防静电工作服",
+   "prompt_en": "Diagram: antistatic shoes and an antistatic work suit. No text.",
+   "narration": "需要时，穿防静电服和鞋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防静电的通用措施",
+   "scene": "塑料桶装易燃溶剂，打叉",
+   "prompt_en": "Diagram: a plain plastic bucket filled with flammable solvent, crossed out. No text.",
+   "narration": "易燃液体，用合格容器装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碰电路板先防静电",
+   "scene": "电路板上芯片旁有静电敏感符号",
+   "prompt_en": "Diagram: a circuit board with an electrostatic sensitive device symbol next to a chip. No text.",
+   "narration": "电路板的元件，怕静电。",
+   "overlay": [
+    "碰电路板先防静电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碰电路板先防静电",
+   "scene": "【实拍】手腕戴上防静电腕带，夹子夹到防静电台垫的接地端子（设备已断电）",
+   "prompt_en": "Close-up: a wrist strap being put on and its clip attached to the earth terminal of an antistatic bench mat, the device switched off.",
+   "narration": "要碰电路板，先戴防静电腕带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碰电路板先防静电",
+   "scene": "拆下的电路板放进防静电袋",
+   "prompt_en": "Diagram: a removed circuit board being placed on and into an antistatic bag. No text.",
+   "narration": "拆下的板件，放在防静电袋上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碰电路板先防静电",
+   "scene": "手指直接摸芯片引脚，打叉",
+   "prompt_en": "Diagram: bare fingers touching the pins of a chip, crossed out. No text.",
+   "narration": "拿板子拿边缘，不摸引脚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "碰电路板先防静电",
+   "scene": "先断电再打开设备，交合格人员维修",
+   "prompt_en": "Diagram: a device unplugged first, then opened by the facility engineer. No text.",
+   "narration": "维修先断电，交合格人员做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压等级和防爆分区是两回事",
+   "scene": "左边电压阶梯，右边易燃气体云，中间等号打叉",
+   "prompt_en": "Diagram: a voltage staircase on the left, a flammable gas cloud on the right, an equals sign between them crossed out. No text.",
+   "narration": "电压等级和防爆分区，是两回事。",
+   "overlay": [
+    "电压等级和防爆分区是两回事"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压等级和防爆分区是两回事",
+   "scene": "电压阶梯：看电压高低",
+   "prompt_en": "Diagram: a voltage staircase with a meter icon. No text.",
+   "narration": "电压等级，看的是电压高低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压等级和防爆分区是两回事",
+   "scene": "易燃气体云和粉尘云：看易燃易爆物",
+   "prompt_en": "Diagram: a flammable gas cloud and a dust cloud with a magnifying glass. No text.",
+   "narration": "防爆分区，看有没有易燃易爆物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "电压等级和防爆分区是两回事",
+   "scene": "两份不同的标准书图标，分开放",
+   "prompt_en": "Diagram: two different standards book icons placed apart. No text.",
+   "narration": "两者没有对应关系，别混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸危险区域按危险程度分区",
+   "scene": "易燃气体可能出现的时间长短，三个色块",
+   "prompt_en": "Diagram: three coloured zones around a solvent tank, from always present to rarely present. No text.",
+   "narration": "爆炸危险区域，按危险程度分区。",
+   "overlay": [
+    "爆炸危险区域按危险程度分区"
+   ],
+   "labels": [
+    "0区",
+    "1区",
+    "2区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸危险区域按危险程度分区",
+   "scene": "0区、1区、2区由内向外",
+   "prompt_en": "Diagram: nested zones around an open solvent vessel, innermost always, middle sometimes, outer rarely. No text.",
+   "narration": "易燃气体环境，分0区、1区、2区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸危险区域按危险程度分区",
+   "scene": "粉尘环境另一组分区图标",
+   "prompt_en": "Diagram: a dust handling machine with its own set of nested zones. No text.",
+   "narration": "可燃粉尘环境，另有分区。",
+   "overlay": [],
+   "labels": [
+    "20区",
+    "21区",
+    "22区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸危险区域按危险程度分区",
+   "scene": "一本标准书和防爆标志",
+   "prompt_en": "Diagram: a standards book icon next to an explosion proof equipment marking. No text.",
+   "narration": "怎么划分，以现行国家标准为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "爆炸危险区域按危险程度分区",
+   "scene": "危险区域内，配上相应的防爆灯和防爆开关",
+   "prompt_en": "Diagram: explosion proof lamps and switches installed inside a hazardous zone. No text.",
+   "narration": "危险区域里，用相应的防爆电器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "实验室里的溶剂库、气瓶间图标",
+   "prompt_en": "Diagram: a solvent store room and a gas cylinder room in a lab building. No text.",
+   "narration": "实验室也有易燃易爆场所。",
+   "overlay": [
+    "实验室易燃场所用防爆电器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "把普通电暖器、插线板带进溶剂库，打叉",
+   "prompt_en": "Diagram: an ordinary heater and a power strip being carried into a solvent store, crossed out. No text.",
+   "narration": "非防爆电器，不带进这些地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "【实拍】防爆冰箱门上的防爆标志和铭牌特写（遮挡品牌和型号）",
+   "prompt_en": "Close-up: the explosion proof marking and rating plate on the door of a flammable storage refrigerator.",
+   "narration": "易燃试剂要冷藏，用防爆冰箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "普通家用冰箱里放乙醚瓶，打叉",
+   "prompt_en": "Diagram: a bottle of volatile solvent inside an ordinary household fridge with a spark from the light switch, crossed out. No text.",
+   "narration": "普通冰箱有火花，不放易燃品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "通风柜里用溶剂，加热器电源插在柜外",
+   "prompt_en": "Diagram: solvent used inside a fume hood while the heater power plug is placed outside the hood. No text.",
+   "narration": "通风柜里用溶剂，电源放柜外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "通风良好，蒸气被抽走不积聚",
+   "prompt_en": "Diagram: vapour being drawn away by ventilation so it does not build up. No text.",
+   "narration": "保持通风，不让易燃气体积聚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验室易燃场所用防爆电器",
+   "scene": "防爆电器由专业人员选型安装，不私自改装",
+   "prompt_en": "Diagram: the facility engineer installing an explosion proof fitting, a student modification crossed out. No text.",
+   "narration": "防爆电器专业选装，不私改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接地夹、腕带、湿度计三个图标",
+   "prompt_en": "Diagram: three icons, an earthing clamp, an antistatic wrist strap and a hygrometer. No text.",
+   "narration": "接地跨接、慢倒、戴腕带防静电。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "防爆标志和溶剂库",
+   "prompt_en": "Diagram: an explosion proof marking next to a solvent store room. No text.",
+   "narration": "易燃场所，用防爆电器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣把灭火器抱在身边挥手",
+   "prompt_en": "The panda mascot stands beside a carbon dioxide fire extinguisher and waves goodbye.",
+   "narration": "下一课：电气火灾的预防与扑救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
