@@ -1,0 +1,961 @@
+{
+ "id": "098_触电的原因与预防",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "触电的原因与预防",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/098_触电的原因与预防.md",
+ "author_source": "project/高校实验室安全/098_触电的原因与预防/src.py",
+ "points": {
+  "K1": "电有用也危险，危害可以预防",
+  "K2": "直接接触与间接接触",
+  "S1": "单相、两相与跨步电压触电",
+  "K3": "事故源于不安全状态和行为",
+  "K4": "隐患一：线路乱接、裸露与绝缘破损",
+  "K5": "隐患二：未接地、过载、坏工具与架空线",
+  "K6": "潮湿让危害加倍：水和电不碰面",
+  "K7": "遮护带电部件，配电箱门关好",
+  "K8": "防触电的几道防线",
+  "K9": "检修先断电，上锁挂牌",
+  "K10": "坏了不用，不自己修",
+  "K11": "好习惯：单手操作、按要求穿戴",
+  "K12": "先培训：会识别、会避开",
+  "K13": "认清总闸和急停，起火也先断电",
+  "K14": "有人触电：先断电，不徒手拉",
+  "K15": "断不了电：用干燥绝缘物挑开",
+  "K16": "脱离电源后：急救、就医、报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个外皮破损的插线板，摇摇头",
+   "prompt_en": "The panda mascot holds up a power strip with a damaged cord and shakes its head.",
+   "narration": "这一课讲触电的原因与预防。",
+   "overlay": [
+    "触电的原因与预防"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰摸了一下仪器金属外壳，猛地缩回手",
+   "prompt_en": "The young male student touches the metal case of an instrument and snaps his hand back, startled.",
+   "narration": "阿杰摸仪器外壳，手一阵发麻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起螺丝刀，想打开机壳看看",
+   "prompt_en": "The young male student picks up a screwdriver, about to open the instrument case.",
+   "narration": "他拿起螺丝刀，想打开自己修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研按住他的手，指向墙上的电源开关和停用牌",
+   "prompt_en": "The female graduate student stops his hand and points to the power switch and a blank out of service tag.",
+   "narration": "小研说：停！先断电，挂牌报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电有用也危险，危害可以预防",
+   "scene": "电让实验室运转，旁边触电、烧伤、起火三个图标",
+   "prompt_en": "Diagram: a busy lab powered by electricity, with shock, burn and fire icons beside it. No text.",
+   "narration": "电离不开，不守规则就出事。",
+   "overlay": [
+    "电有用也危险，危害可以预防"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电有用也危险，危害可以预防",
+   "scene": "人员、设备、科研三个图标被盾牌护住",
+   "prompt_en": "Diagram: a shield covering three icons, a person, an instrument and a research notebook. No text.",
+   "narration": "用电安全，护人、护设备、护科研。",
+   "overlay": [],
+   "labels": [
+    "人员",
+    "设备",
+    "科研"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电有用也危险，危害可以预防",
+   "scene": "危害清单逐项打钩",
+   "prompt_en": "Diagram: a hazard checklist being ticked off item by item. No text.",
+   "narration": "电气危害听着吓人，都能预防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接接触与间接接触",
+   "scene": "手碰到裸露的带电导线",
+   "prompt_en": "Diagram: a hand touching a bare live wire. No text.",
+   "narration": "直接接触：碰到本来就带电的部分。",
+   "overlay": [
+    "直接接触与间接接触"
+   ],
+   "labels": [
+    "直接接触"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接接触与间接接触",
+   "scene": "仪器内部绝缘损坏，外壳带电，人摸外壳",
+   "prompt_en": "Diagram: a broken insulation inside an instrument making its metal case live, a hand touching the case. No text.",
+   "narration": "间接接触：漏电让外壳带了电。",
+   "overlay": [],
+   "labels": [
+    "间接接触"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接接触与间接接触",
+   "scene": "外壳与接地符号之间断开，打叉",
+   "prompt_en": "Diagram: a missing link between a metal case and an earth symbol, crossed out. No text.",
+   "narration": "外壳没接地，漏电就等着人碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "直接接触与间接接触",
+   "scene": "带电导线、故障设备、裸露部件三个图标",
+   "prompt_en": "Diagram: three icons, a live wire, a faulty instrument and an exposed terminal. No text.",
+   "narration": "带电导线、故障设备、裸露部件都伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "单相、两相与跨步电压触电",
+   "scene": "人站在地上，一只手碰到一根相线",
+   "prompt_en": "Diagram: a figure standing on the ground touching one line conductor with one hand. No text.",
+   "narration": "站在地上碰一根相线，是单相触电。",
+   "overlay": [
+    "单相、两相与跨步电压触电"
+   ],
+   "labels": [
+    "单相触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "单相、两相与跨步电压触电",
+   "scene": "人两只手各碰一根相线",
+   "prompt_en": "Diagram: a figure touching two different line conductors, one with each hand. No text.",
+   "narration": "同时碰两根相线，是两相触电。",
+   "overlay": [],
+   "labels": [
+    "两相触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "单相、两相与跨步电压触电",
+   "scene": "断落地面的电线周围一圈圈同心圆，人停在远处",
+   "prompt_en": "Diagram: a fallen wire on the ground with rings spreading around it, a person stopping far away. No text.",
+   "narration": "断线落地有跨步电压，别走近。",
+   "overlay": [],
+   "labels": [
+    "跨步电压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "事故源于不安全状态和行为",
+   "scene": "两个图标：坏设备和违规操作的手",
+   "prompt_en": "Diagram: two icons, a broken device and a hand doing something against the rules. No text.",
+   "narration": "事故源于不安全状态和不安全行为。",
+   "overlay": [
+    "事故源于不安全状态和行为"
+   ],
+   "labels": [
+    "不安全状态",
+    "不安全行为"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "事故源于不安全状态和行为",
+   "scene": "破线、裸露、过载、潮湿四个图标",
+   "prompt_en": "Diagram: four icons, a frayed cord, an exposed terminal, an overloaded socket and a puddle. No text.",
+   "narration": "破线、裸露、过载、潮湿，是状态。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "事故源于不安全状态和行为",
+   "scene": "不懂、不按规程、乱修三个图标",
+   "prompt_en": "Diagram: three icons, a confused face, a skipped procedure and a hand opening a device. No text.",
+   "narration": "不懂、不按规程、乱修，是人为失误。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "事故源于不安全状态和行为",
+   "scene": "湿地上用破插线板，风险图标翻倍",
+   "prompt_en": "Diagram: a damaged extension cord on a wet floor, a risk icon doubling. No text.",
+   "narration": "两样叠在一起，风险成倍增加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "隐患一：线路乱接、裸露与绝缘破损",
+   "scene": "墙边乱拉乱接的电线",
+   "prompt_en": "Diagram: messy wires strung along a lab wall and joined with tape. No text.",
+   "narration": "线路乱拉乱接，是隐患。",
+   "overlay": [
+    "隐患一：线路乱接、裸露与绝缘破损"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "隐患一：线路乱接、裸露与绝缘破损",
+   "scene": "接线端子裸露在外，手指靠近",
+   "prompt_en": "Diagram: exposed live terminals with a finger getting close, a warning mark. No text.",
+   "narration": "带电部件外露，伸手就会碰到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "隐患一：线路乱接、裸露与绝缘破损",
+   "scene": "电线外皮开裂，露出铜线",
+   "prompt_en": "Diagram: a cord with cracked insulation showing copper strands. No text.",
+   "narration": "外皮破损老化，同样危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "隐患一：线路乱接、裸露与绝缘破损",
+   "scene": "小研用前检查插座和电线，坏的打叉",
+   "prompt_en": "The female graduate student inspects a socket and a cord before use, a cracked one crossed out.",
+   "narration": "用前看一眼，坏了就不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "隐患二：未接地、过载、坏工具与架空线",
+   "scene": "仪器外壳缺接地线，打叉",
+   "prompt_en": "Diagram: an instrument case with its earth wire missing, crossed out. No text.",
+   "narration": "设备没接地，外壳可能带电。",
+   "overlay": [
+    "隐患二：未接地、过载、坏工具与架空线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "隐患二：未接地、过载、坏工具与架空线",
+   "scene": "一个插座插满插头，发红发热",
+   "prompt_en": "Diagram: one socket packed with plugs, glowing red with heat. No text.",
+   "narration": "一路接太多负载，会过载发热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "隐患二：未接地、过载、坏工具与架空线",
+   "scene": "损坏的电动工具和不合适的手套，打叉",
+   "prompt_en": "Diagram: a damaged power tool and the wrong type of glove, both crossed out. No text.",
+   "narration": "坏工具、用错防护，也会触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "隐患二：未接地、过载、坏工具与架空线",
+   "scene": "电线被拉扯、打结、被重物压住，三个打叉",
+   "prompt_en": "Diagram: a cord being yanked, tied in a knot and crushed under a heavy box, three crosses. No text.",
+   "narration": "电线不拉扯、不打结、不重压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "隐患二：未接地、过载、坏工具与架空线",
+   "scene": "户外架空电线下，人放平长梯远离",
+   "prompt_en": "Diagram: overhead power lines outdoors, a person carrying a long ladder flat and keeping far away. No text.",
+   "narration": "架空电线附近，别举长杆长梯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "潮湿让危害加倍：水和电不碰面",
+   "scene": "水滴和闪电图标，危害箭头翻倍",
+   "prompt_en": "Diagram: a water drop and a lightning icon, a hazard arrow doubling in size. No text.",
+   "narration": "一旦潮湿，所有危害都加重。",
+   "overlay": [
+    "潮湿让危害加倍：水和电不碰面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "潮湿让危害加倍：水和电不碰面",
+   "scene": "阿杰用纸巾擦干手，再去按开关",
+   "prompt_en": "The young male student dries his hands with a paper towel before pressing a switch.",
+   "narration": "湿手不碰开关插头，先擦干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "潮湿让危害加倍：水和电不碰面",
+   "scene": "地面积水，先断电，再拖干",
+   "prompt_en": "Diagram: a puddle under a bench, power switched off first, then the floor mopped dry. No text.",
+   "narration": "地上有水，先断电清理再用电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "潮湿让危害加倍：水和电不碰面",
+   "scene": "电线沿线槽从高处走，插头远离水槽",
+   "prompt_en": "Diagram: cables run high in a cable tray, a plug kept away from a sink. No text.",
+   "narration": "插头别沾水，电线别拖过湿地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "遮护带电部件，配电箱门关好",
+   "scene": "带电部件装上透明防护罩",
+   "prompt_en": "Diagram: a clear protective cover fitted over live parts. No text.",
+   "narration": "带电部件，要加罩、加遮挡。",
+   "overlay": [
+    "遮护带电部件，配电箱门关好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "遮护带电部件，配电箱门关好",
+   "scene": "接线盒盖板掉了，旁边一个报修图标",
+   "prompt_en": "Diagram: a junction box with its cover missing and a repair request icon. No text.",
+   "narration": "接线盒盖板掉了，马上报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "遮护带电部件，配电箱门关好",
+   "scene": "配电箱门关好，箱前通道空着",
+   "prompt_en": "Diagram: a closed distribution board with a clear space in front of it. No text.",
+   "narration": "配电箱门关好，箱前不堆杂物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "遮护带电部件，配电箱门关好",
+   "scene": "学生伸手打开配电箱，打叉",
+   "prompt_en": "Diagram: a student hand opening a distribution board, crossed out. No text.",
+   "narration": "学生不开配电箱，不碰里面部件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "防触电的几道防线",
+   "scene": "三层防线图",
+   "prompt_en": "Diagram: three layers of defense drawn as nested shields. No text.",
+   "narration": "防触电，有三道防线。",
+   "overlay": [
+    "防触电的几道防线"
+   ],
+   "labels": [
+    "绝缘遮护",
+    "接地漏保",
+    "守规程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "防触电的几道防线",
+   "scene": "绝缘外皮和防护罩挡住带电部分",
+   "prompt_en": "Diagram: insulation and a guard keeping fingers away from live parts. No text.",
+   "narration": "第一道：绝缘和护罩，碰不到电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "防触电的几道防线",
+   "scene": "接地符号、漏电保护器、熔断器三个图标",
+   "prompt_en": "Diagram: three icons, an earth symbol, a residual current device and a fuse. No text.",
+   "narration": "第二道：接地、漏保和过流保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "防触电的几道防线",
+   "scene": "老周开工前查看接地和漏电保护",
+   "prompt_en": "The older man checks the earth connection and the residual current device before work starts.",
+   "narration": "第三道：守规程，开工前查一查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "防触电的几道防线",
+   "scene": "三极插头的接地极被掰掉，打叉",
+   "prompt_en": "Diagram: a three pin plug with its earth pin broken off, crossed out. No text.",
+   "narration": "三极插头的接地极，不能掰掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "检修先断电，上锁挂牌",
+   "scene": "老李拉下开关，挂上锁和空白标牌",
+   "prompt_en": "The facility engineer switches off a breaker and attaches a padlock and a blank tag.",
+   "narration": "检修前断电，上锁挂牌。",
+   "overlay": [
+    "检修先断电，上锁挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "检修先断电，上锁挂牌",
+   "scene": "有人想合闸，被锁挡住",
+   "prompt_en": "Diagram: a hand trying to switch the breaker back on, blocked by the lock. No text.",
+   "narration": "防止有人误送电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "检修先断电，上锁挂牌",
+   "scene": "电工用验电器确认无电",
+   "prompt_en": "Diagram: an electrician confirming the circuit is dead with a voltage tester. No text.",
+   "narration": "停电验电由电工做，见第105课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "坏了不用，不自己修",
+   "scene": "机壳发麻，断电并挂上停用牌",
+   "prompt_en": "Diagram: an instrument with a tingling hand icon, unplugged and tagged out of service. No text.",
+   "narration": "机壳发麻可能漏电，立即停用。",
+   "overlay": [
+    "坏了不用，不自己修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "坏了不用，不自己修",
+   "scene": "坏插座、坏开关、裸线、损坏仪器四个打叉",
+   "prompt_en": "Diagram: a broken socket, a broken switch, a bare wire and a damaged instrument, all crossed out. No text.",
+   "narration": "坏插座、坏设备、裸线，坚决不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "坏了不用，不自己修",
+   "scene": "阿杰向老周报告，老李来维修",
+   "prompt_en": "The young male student reports to the older man, and the facility engineer arrives to repair.",
+   "narration": "报告负责人，交持证电工修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "好习惯：单手操作、按要求穿戴",
+   "scene": "通电调节旋钮时，一只手操作，另一只手放在身后",
+   "prompt_en": "Diagram: one hand adjusting a knob on a powered instrument, the other hand kept behind the back. No text.",
+   "narration": "通电调节读数，尽量单手操作。",
+   "overlay": [
+    "好习惯：单手操作、按要求穿戴"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "好习惯：单手操作、按要求穿戴",
+   "scene": "两只手各碰一处导体，打叉；身体不靠金属台架",
+   "prompt_en": "Diagram: two hands touching two conductors at once, crossed out, and a body kept off a metal bench frame. No text.",
+   "narration": "按要求穿戴，别两手碰两处导体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "好习惯：单手操作、按要求穿戴",
+   "scene": "电池两极被金属片短接冒烟，打叉",
+   "prompt_en": "Diagram: a battery shorted by a metal strip and smoking, crossed out. No text.",
+   "narration": "低压电池也别短接，会发热起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先培训：会识别、会避开",
+   "scene": "王老师给学生上用电安全课",
+   "prompt_en": "The safety administrator gives an electrical safety class to students.",
+   "narration": "用电知识，要经过培训才算会。",
+   "overlay": [
+    "先培训：会识别、会避开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先培训：会识别、会避开",
+   "scene": "五个图标：触电、电击、电弧、爆炸、火灾",
+   "prompt_en": "Diagram: five hazard icons, a shock, a body jolt, an arc flash, an explosion and a fire. No text.",
+   "narration": "会识别危害，还要主动避开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "先培训：会识别、会避开",
+   "scene": "懂危害、会防护、知道应急三个图标",
+   "prompt_en": "Diagram: three icons, a brain, a shield and an emergency phone. No text.",
+   "narration": "懂危害、会防护、知道怎么应急。",
+   "overlay": [],
+   "labels": [
+    "懂危害",
+    "会防护",
+    "会应急"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "认清总闸和急停，起火也先断电",
+   "scene": "【实拍】实验室墙上关闭的配电箱和红色急停按钮的位置（箱门关闭，不开箱，遮挡品牌）",
+   "prompt_en": "Diagram: a closed distribution board on a lab wall and a red emergency stop button nearby. No text.",
+   "narration": "进实验室，先认清总闸和急停。",
+   "overlay": [
+    "认清总闸和急停，起火也先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "认清总闸和急停，起火也先断电",
+   "scene": "出现险情，小研按下急停",
+   "prompt_en": "The female graduate student presses the red emergency stop button.",
+   "narration": "出了险情，能第一时间断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "认清总闸和急停，起火也先断电",
+   "scene": "电气设备冒烟，先断电，泼水打叉",
+   "prompt_en": "Diagram: a smoking electrical device, the power cut first, throwing water crossed out. No text.",
+   "narration": "电气起火也先断电，不能用水浇。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "认清总闸和急停，起火也先断电",
+   "scene": "火势变大，人员撤离，电话显示119",
+   "prompt_en": "Diagram: people leaving as the fire grows, a phone showing 119. No text.",
+   "narration": "控制不住就撤离，拨打119。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有人触电：先断电，不徒手拉",
+   "scene": "有人握着导线抽搐，旁人伸手去拉，打叉",
+   "prompt_en": "Diagram: a person stuck to a live cable, a bystander reaching out a bare hand, crossed out. No text.",
+   "narration": "有人触电，千万别徒手去拉。",
+   "overlay": [
+    "有人触电：先断电，不徒手拉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有人触电：先断电，不徒手拉",
+   "scene": "伸手的人也被电流连上",
+   "prompt_en": "Diagram: current flowing on into the bystander who touched the victim. No text.",
+   "narration": "他还连着电，你一碰也会触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有人触电：先断电，不徒手拉",
+   "scene": "小研冲到墙边拉下开关",
+   "prompt_en": "The female graduate student rushes to the wall and switches off the power.",
+   "narration": "第一件事：立即拉闸断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有人触电：先断电，不徒手拉",
+   "scene": "【实拍】从已断电的插座上拔插头：手握插头本体拔出，不拉电线（示范动作）",
+   "prompt_en": "Close-up: a hand gripping the plug body and pulling it straight out of a socket, not the cord.",
+   "narration": "或拔下插头，手握插头别拉线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "有人触电：先断电，不徒手拉",
+   "scene": "断电后小研大声呼救，阿杰拨打120",
+   "prompt_en": "The female graduate student shouts for help while the young male student calls 120.",
+   "narration": "断电后大声呼救，拨打120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "断不了电：用干燥绝缘物挑开",
+   "scene": "开关在远处够不到，小研环顾四周",
+   "prompt_en": "Diagram: a switch too far away to reach, the rescuer looking around quickly. No text.",
+   "narration": "一时断不了电，别慌。",
+   "overlay": [
+    "断不了电：用干燥绝缘物挑开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "断不了电：用干燥绝缘物挑开",
+   "scene": "【实拍】用干燥木棍挑开不通电的模拟导线（道具，不接电源）",
+   "prompt_en": "Close-up: a dry wooden stick lifting a training cable away from a dummy hand.",
+   "narration": "用干燥木棍、塑料杆挑开电线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "断不了电：用干燥绝缘物挑开",
+   "scene": "施救者站在干木板上，单手操作",
+   "prompt_en": "Diagram: a rescuer standing on a dry wooden board, using one hand only. No text.",
+   "narration": "站在干燥绝缘物上，单手操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "断不了电：用干燥绝缘物挑开",
+   "scene": "金属杆和湿木棍打叉",
+   "prompt_en": "Diagram: a metal pole and a wet stick, both crossed out. No text.",
+   "narration": "金属的、潮湿的东西，不能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "脱离电源后：急救、就医、报告",
+   "scene": "施救者拍肩呼叫，观察胸口起伏",
+   "prompt_en": "Diagram: a rescuer tapping the shoulders of a person on the floor and watching the chest. No text.",
+   "narration": "脱离电源后，看意识和呼吸。",
+   "overlay": [
+    "脱离电源后：急救、就医、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "脱离电源后：急救、就医、报告",
+   "scene": "受过培训的人做胸外按压，旁边放着除颤器",
+   "prompt_en": "Diagram: a trained rescuer giving chest compressions, a defibrillator beside them. No text.",
+   "narration": "没呼吸心跳，立即心肺复苏、用AED。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "脱离电源后：急救、就医、报告",
+   "scene": "看着没事的人也去医院检查",
+   "prompt_en": "Diagram: a person who looks fine still going to a hospital for a check. No text.",
+   "narration": "看着没事，也要去医院检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "脱离电源后：急救、就医、报告",
+   "scene": "报告链：实验室负责人、学院、保卫处",
+   "prompt_en": "Diagram: a reporting chain from the lab head to the school and the security office. No text.",
+   "narration": "报告负责人、学院和保卫处。",
+   "overlay": [],
+   "labels": [
+    "负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "四个原因图标：带电体、漏电外壳、水滴、失误",
+   "prompt_en": "Diagram: four cause icons, a live wire, a live metal case, a water drop and a mistake mark. No text.",
+   "narration": "原因：碰带电体、漏电外壳、潮湿和失误。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三道防线和拉闸图标",
+   "prompt_en": "Diagram: three nested shields and a hand switching off a breaker. No text.",
+   "narration": "预防靠防线和习惯，触电先断电再救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着一个接地符号和避雷针挥手",
+   "prompt_en": "The panda mascot points at an earth symbol and a lightning rod and waves goodbye.",
+   "narration": "下一课：接地、接零与防雷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
