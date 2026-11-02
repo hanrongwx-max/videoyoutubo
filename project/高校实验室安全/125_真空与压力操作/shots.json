@@ -1,0 +1,816 @@
+{
+ "id": "125_真空与压力操作",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "真空与压力操作",
+ "seconds": 310,
+ "source_doc": "course/高校实验室安全/125_真空与压力操作.md",
+ "author_source": "project/高校实验室安全/125_真空与压力操作/src.py",
+ "points": {
+  "S1": "内外压差：玻璃会内爆或爆裂",
+  "K1": "减压前查裂纹，用耐压器皿加防护",
+  "S2": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+  "K2": "真空泵尾气进通风柜，冷阱挡溶剂",
+  "S3": "密闭体系不加热，留泄压通道",
+  "K3": "压力反应用合格高压釜，泄压后再开",
+  "K4": "产气的反应和培养防憋压"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在真空泵和防护屏旁",
+   "prompt_en": "The panda mascot stands beside a small vacuum pump and a clear safety shield on a lab bench, smiling at the camera.",
+   "narration": "这一课：真空与压力操作。",
+   "overlay": [
+    "真空与压力操作"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着抽真空的烧瓶和高压釜",
+   "prompt_en": "The panda mascot points at a round bottom flask connected to a vacuum line and a small steel pressure reactor.",
+   "narration": "压差看不见，玻璃却扛不住。",
+   "overlay": [],
+   "labels": [
+    "真空",
+    "加压"
+   ],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起一个薄壁平底锥形瓶准备抽真空",
+   "prompt_en": "The young male student picks up a thin walled flat bottomed conical flask and reaches for a vacuum hose.",
+   "narration": "阿杰随手拿了个平底瓶要抽真空。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "瓶底有一道星状细裂纹",
+   "prompt_en": "Close-up diagram: a small star shaped crack on the bottom of a glass flask, a magnifier over it. No text.",
+   "narration": "瓶底还有一道细裂纹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他，指着防护屏",
+   "prompt_en": "The female graduate student stops him and points at the cracked flask and a safety shield.",
+   "narration": "小研：这样抽，瓶子会内爆！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "内外压差：玻璃会内爆或爆裂",
+   "scene": "大气压从四面压向抽空的烧瓶",
+   "prompt_en": "Diagram: many arrows pressing inward on an evacuated round flask from all sides, empty space inside. No text.",
+   "narration": "抽真空时，大气从外面压瓶子。",
+   "overlay": [
+    "内外压差：玻璃会内爆或爆裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "内外压差：玻璃会内爆或爆裂",
+   "scene": "烧瓶向内塌缩，碎片四溅",
+   "prompt_en": "Diagram: a glass flask collapsing inward and then glass fragments flying outward in all directions, warning triangle. No text.",
+   "narration": "瓶子一破，碎片反而向外飞溅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "内外压差：玻璃会内爆或爆裂",
+   "scene": "加压容器内部压力向外推",
+   "prompt_en": "Diagram: arrows pushing outward from inside a sealed glass vessel, the vessel bursting. No text.",
+   "narration": "加压时正好相反，从里往外崩。",
+   "overlay": [],
+   "labels": [
+    "内爆",
+    "爆裂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "内外压差：玻璃会内爆或爆裂",
+   "scene": "玻璃碎片和溶剂一起喷出",
+   "prompt_en": "Diagram: glass fragments flying together with a splash of solvent toward a face outline, crossed out. No text.",
+   "narration": "碎玻璃夹着溶剂，伤眼伤脸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "内外压差：玻璃会内爆或爆裂",
+   "scene": "裂纹、划痕、薄壁、平底几个弱点图标",
+   "prompt_en": "Diagram: four icons of weak glassware, a crack, a scratch, a thin wall and a flat bottom, each with a warning triangle. No text.",
+   "narration": "裂纹和薄弱处，最先破。",
+   "overlay": [],
+   "labels": [
+    "裂纹",
+    "划痕",
+    "薄壁",
+    "平底"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "【实拍】对着光转动圆底烧瓶检查裂纹（空瓶）",
+   "prompt_en": "Close-up: gloved hands slowly rotating an empty round bottom flask against a light to look for cracks.",
+   "narration": "减压前，先对着光查裂纹。",
+   "overlay": [
+    "减压前查裂纹，用耐压器皿加防护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "星状裂纹、划痕、缺口的烧瓶打叉",
+   "prompt_en": "Diagram: three flasks with a star crack, a deep scratch and a chipped neck, all crossed out. No text.",
+   "narration": "有裂纹、划痕、缺口的，不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "圆底烧瓶和厚壁抽滤瓶打勾，薄壁平底瓶打叉",
+   "prompt_en": "Diagram: a round bottom flask and a thick walled filter flask with ticks, a thin flat bottomed conical flask and a beaker crossed out. No text.",
+   "narration": "只用圆底瓶等耐真空器皿。",
+   "overlay": [],
+   "labels": [
+    "圆底瓶",
+    "抽滤瓶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "干燥器、杜瓦瓶也是真空器皿",
+   "prompt_en": "Diagram: a glass vacuum desiccator and a glass dewar flask with arrows showing vacuum inside. No text.",
+   "narration": "真空干燥器、杜瓦瓶也会内爆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "【实拍】给真空干燥器外缠透明胶带或套防护网（不抽真空）",
+   "prompt_en": "Close-up: hands wrapping clear tape around a glass vacuum desiccator, then fitting a plastic mesh cage over it.",
+   "narration": "大的玻璃真空容器缠胶带或套网。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "抽真空的装置前立起防护屏",
+   "prompt_en": "Diagram: a vacuum glass apparatus in a fume hood with a clear safety shield standing in front of it. No text.",
+   "narration": "必要时加防护屏，或放通风柜里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "通风柜视窗拉低挡在面前",
+   "prompt_en": "Diagram: a fume hood sash pulled down in front of a vacuum apparatus, a person standing behind it. No text.",
+   "narration": "视窗拉低，挡住可能的碎片。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "戴护目镜，必要时加面屏",
+   "prompt_en": "The female graduate student wearing safety goggles and a face shield adjusts a vacuum apparatus behind a shield.",
+   "narration": "戴护目镜，必要时再加面屏。",
+   "overlay": [],
+   "labels": [
+    "护目镜",
+    "面屏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "慢慢打开真空阀，不猛抽",
+   "prompt_en": "Diagram: a hand slowly turning a vacuum valve with a gentle curved arrow, a fast jerk crossed out. No text.",
+   "narration": "抽气、放气都要慢，别猛开猛关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "减压前查裂纹，用耐压器皿加防护",
+   "scene": "抽真空的瓶子不磕碰、不局部加热",
+   "prompt_en": "Diagram: an evacuated flask being knocked by a tool and heated by a flame at one spot, both crossed out. No text.",
+   "narration": "抽着真空，别磕碰别局部猛烧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "泵和体系之间串一个安全瓶",
+   "prompt_en": "Diagram: a vacuum pump, a safety trap bottle in the middle and the apparatus, connected in a line with arrows. No text.",
+   "narration": "泵和体系之间，接上安全瓶。",
+   "overlay": [
+    "真空泵操作：安全瓶防倒吸，先放气后停泵"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "【实拍】厚壁真空管连接安全瓶，检查管子无老化（不开泵）",
+   "prompt_en": "Close-up: hands connecting thick walled vacuum tubing to a safety trap bottle and bending the tubing to check for cracks.",
+   "narration": "用厚壁真空管，老化开裂就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "先通大气放气，再关泵",
+   "prompt_en": "Diagram: two steps with arrows, first a hand opening the vent valve to let air in, then a hand switching off the pump. No text.",
+   "narration": "结束时先放气，再关泵。",
+   "overlay": [],
+   "labels": [
+    "先放气",
+    "再关泵"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "先关泵导致液体倒吸进体系，打叉",
+   "prompt_en": "Diagram: water or pump oil flowing backward from the pump into the apparatus after the pump is stopped first, crossed out. No text.",
+   "narration": "顺序反了，水或泵油会倒吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "【实拍】查看油泵油位窗（泵不运行）",
+   "prompt_en": "Close-up: a finger pointing at the oil level window on the side of a stopped rotary vacuum pump.",
+   "narration": "用前看泵油油位和颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "泵油发黑浑浊，按规程换油",
+   "prompt_en": "Diagram: dark cloudy pump oil next to clean oil, a maintenance wrench and a calendar icon. No text.",
+   "narration": "油脏了按规程更换，记录在案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "真空泵操作：安全瓶防倒吸，先放气后停泵",
+   "scene": "泵放在通风稳固处，皮带有护罩",
+   "prompt_en": "Diagram: a vacuum pump on a stable low shelf with space around it and a guard covering its drive belt. No text.",
+   "narration": "泵放稳通风，皮带要有护罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "泵的排气口冒出溶剂蒸气",
+   "prompt_en": "Diagram: solvent vapour coming out of the exhaust port of a vacuum pump into the room, warning triangle. No text.",
+   "narration": "抽出来的溶剂，会从泵口排出。",
+   "overlay": [
+    "真空泵尾气进通风柜，冷阱挡溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "排气管接进通风柜",
+   "prompt_en": "Diagram: a hose running from the pump exhaust port into a fume hood, airflow arrows going up the duct. No text.",
+   "narration": "泵的尾气，用管子引进通风柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "体系和泵之间装冷阱",
+   "prompt_en": "Diagram: a cold trap placed between the apparatus and the vacuum pump, vapour turning into droplets inside the trap. No text.",
+   "narration": "泵前装冷阱，把溶剂冻住挡下。",
+   "overlay": [],
+   "labels": [
+    "冷阱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "冷阱保护泵也保护人",
+   "prompt_en": "Diagram: a clean pump with a tick and a person breathing clean air, both protected by the cold trap. No text.",
+   "narration": "保护泵油，也少让人吸蒸气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "【实拍】冷阱杜瓦的摆放和固定（空杜瓦，不加冷剂）",
+   "prompt_en": "Close-up: hands placing an empty dewar around a glass cold trap and fixing it on a stable stand.",
+   "narration": "冷阱杜瓦放稳，戴防冻手套操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "液氮冷阱先抽真空再放冷剂",
+   "prompt_en": "Diagram: two steps, first the system is evacuated, then the cold dewar is raised around the trap, a snowflake icon. No text.",
+   "narration": "液氮冷阱先抽真空，再套冷剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "冷阱里的溶剂和接收瓶溶剂倒进废液桶",
+   "prompt_en": "Diagram: liquid from a cold trap and a receiving flask poured into a labelled waste solvent container. No text.",
+   "narration": "冷阱和接收瓶的溶剂，按废液收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "真空泵尾气进通风柜，冷阱挡溶剂",
+   "scene": "废泵油装桶按危险废物交",
+   "prompt_en": "Diagram: used pump oil drained into a closed container placed at a hazardous waste collection point. No text.",
+   "narration": "换下的废泵油，按危险废物交。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "密闭的烧瓶在加热板上，压力上升",
+   "prompt_en": "Diagram: a fully closed flask on a hot plate with a rising pressure arrow inside, warning triangle. No text.",
+   "narration": "密闭体系一加热，压力就往上冲。",
+   "overlay": [
+    "密闭体系不加热，留泄压通道"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "密闭加热的瓶子炸开，打叉",
+   "prompt_en": "Diagram: a closed flask bursting on a hot plate, crossed out. No text.",
+   "narration": "普通玻璃装置，绝不密闭加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "回流装置顶端通大气",
+   "prompt_en": "Diagram: a reflux setup with a condenser whose top is open to the air through a drying tube, an airflow arrow. No text.",
+   "narration": "回流、加热，要有通大气的出口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "惰性气体保护接鼓泡器泄压",
+   "prompt_en": "Diagram: an inert gas line connected to a flask with an oil bubbler outlet releasing small bubbles. No text.",
+   "narration": "通惰性气体，也要接鼓泡器泄压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "出口被堵、阀门全关，打叉",
+   "prompt_en": "Diagram: a blocked outlet tube and all valves closed on a heated apparatus, crossed out. No text.",
+   "narration": "出口别堵死，阀门别全关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "密闭体系不加热，留泄压通道",
+   "scene": "加压设备的安全阀和爆破片",
+   "prompt_en": "Diagram: a pressure vessel with a safety valve and a rupture disc marked by arrows. No text.",
+   "narration": "加压设备靠安全阀、爆破片泄压。",
+   "overlay": [],
+   "labels": [
+    "安全阀",
+    "爆破片"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "带压反应只在合格高压釜里做",
+   "prompt_en": "Diagram: a steel pressure reactor with a tick, and a sealed glass bottle used for a pressure reaction crossed out. No text.",
+   "narration": "带压反应，只用合格的高压釜。",
+   "overlay": [
+    "压力反应用合格高压釜，泄压后再开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "【实拍】冷态高压釜的铭牌位置、压力表和安全阀（不加压，遮挡品牌）",
+   "prompt_en": "Close-up: the blank nameplate, the pressure gauge and the safety valve on top of a cold, unpressurised steel reactor.",
+   "narration": "看铭牌：额定压力和温度别超。",
+   "overlay": [],
+   "labels": [
+    "额定压力",
+    "额定温度"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "压力表、安全阀在检定有效期内",
+   "prompt_en": "Diagram: a pressure gauge and a safety valve each with a blank valid label and a calendar icon. No text.",
+   "narration": "压力表、安全阀定期检定，完好有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "装料不超量，密封面清洁",
+   "prompt_en": "Diagram: a reactor vessel filled only partly with a level line, a clean sealing surface with a tick. No text.",
+   "narration": "装料不超量，密封面擦干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "螺栓对角均匀拧紧",
+   "prompt_en": "Diagram: a reactor lid with bolts numbered by position and arrows showing diagonal tightening order, numbers only as dots. No text.",
+   "narration": "螺栓对角均匀拧紧，按规程试漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "高压釜放在防护屏后或专用房间",
+   "prompt_en": "Diagram: a pressure reactor behind a protective barrier in a dedicated room, a person watching from outside. No text.",
+   "narration": "放在防护屏后或专用区域运行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "门口挂标识：运行中、压力、负责人",
+   "prompt_en": "Diagram: a blank sign hanging on the reactor area with a pressure icon and a person icon. No text.",
+   "narration": "挂标识：在做什么、谁负责。",
+   "overlay": [],
+   "labels": [
+    "运行中",
+    "负责人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "运行中有人看守，超温超压立即停止加热",
+   "prompt_en": "Diagram: a person watching the gauges of a running reactor, an alarm bell, and a hand switching off the heater. No text.",
+   "narration": "有人值守，超温超压立即停热撤离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "降温、压力归零、放空后再开盖",
+   "prompt_en": "Diagram: three steps, a thermometer going down, a pressure gauge at zero and a vent valve opened, then the lid lifted. No text.",
+   "narration": "降温泄压归零，再开盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "带压拆螺栓打叉",
+   "prompt_en": "Diagram: a hand loosening reactor bolts while the gauge still shows pressure, crossed out. No text.",
+   "narration": "带压拆螺栓，绝对禁止。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "压力反应用合格高压釜，泄压后再开",
+   "scene": "属于特种设备的登记检验",
+   "prompt_en": "Diagram: a large reactor matched to a special equipment catalogue with a registration certificate. No text.",
+   "narration": "属于压力容器的，依法登记检验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "厌氧培养罐和发酵瓶不断产气",
+   "prompt_en": "Diagram: an anaerobic culture jar and a fermentation bottle with gas bubbles rising and pressure arrows inside. No text.",
+   "narration": "厌氧培养、发酵和某些反应会产气。",
+   "overlay": [
+    "产气的反应和培养防憋压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "密闭太死，盖子崩开",
+   "prompt_en": "Diagram: a tightly sealed culture vessel whose lid blows off from built up gas, crossed out. No text.",
+   "narration": "封得太死会憋压，崩开伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "气体可能有毒或易燃",
+   "prompt_en": "Diagram: a gas cloud from a culture vessel with toxic and flammable warning signs. No text.",
+   "narration": "产的气可能有毒，也可能易燃。",
+   "overlay": [],
+   "labels": [
+    "有毒",
+    "易燃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "用带排气口的容器，按规程排气",
+   "prompt_en": "Diagram: a culture vessel with a vent filter cap and a gas release valve, gas going into a fume hood. No text.",
+   "narration": "用带排气的容器，按规程排气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "在通风柜里慢慢开启，开口不对人",
+   "prompt_en": "Diagram: a person slowly opening a gas producing vessel inside a fume hood with the opening pointed away from the face. No text.",
+   "narration": "在通风处慢慢开启，开口不对人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "产气的反应和培养防憋压",
+   "scene": "装置漏气、破裂：停止、撤离、报告",
+   "prompt_en": "Diagram: a cracked vessel releasing gas, a person stepping back and calling the lab supervisor. No text.",
+   "narration": "破裂漏气：停止、撤离、报告负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "查裂纹、圆底瓶、防护屏",
+   "prompt_en": "Diagram: three icons, a magnifier over a flask, a round bottom flask and a safety shield. No text.",
+   "narration": "真空：查裂纹，用耐压器皿，加防护。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "安全瓶、先放气、冷阱、尾气入柜",
+   "prompt_en": "Diagram: four icons, a safety trap bottle, an open vent valve, a cold trap and a fume hood. No text.",
+   "narration": "安全瓶、先放气、冷阱、尾气入柜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不密闭加热、高压釜、泄压归零",
+   "prompt_en": "Diagram: three icons, a crossed out closed flask on a hot plate, a pressure reactor and a gauge at zero. No text.",
+   "narration": "不密闭加热，压力归零再开盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在带护罩的机器旁挥手",
+   "prompt_en": "The panda mascot stands beside a machine with a closed transparent guard over its moving parts and waves goodbye.",
+   "narration": "下一课：机械防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
