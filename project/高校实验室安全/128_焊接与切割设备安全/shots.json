@@ -1,0 +1,917 @@
+{
+ "id": "128_焊接与切割设备安全",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "焊接与切割设备安全",
+ "seconds": 345,
+ "source_doc": "course/高校实验室安全/128_焊接与切割设备安全.md",
+ "author_source": "project/高校实验室安全/128_焊接与切割设备安全/src.py",
+ "points": {
+  "K1": "焊接切割的危害：弧光、火花、烟尘、触电",
+  "S1": "焊工持证上岗，动火先审批、有人监护",
+  "K2": "新到、调来的焊机，逐项检查合格才用",
+  "K3": "电源开关、外壳绝缘、调节刻度要完好",
+  "K4": "工业插头、电工接线、漏电保护、外壳接地",
+  "K5": "焊接电缆、接头、焊钳和接地夹完好",
+  "K6": "回线就近接在工件上，不借管道",
+  "K7": "暂停离开先断电，焊钳不乱放",
+  "K8": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+  "K9": "焊接烟尘：先排风，再戴防尘口罩",
+  "K10": "全套焊接防护用品，一样不少",
+  "K11": "气焊气割：装回火防止器",
+  "K12": "气瓶用前检查，检漏不用明火"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在焊接防护帘旁，焊机已关机",
+   "prompt_en": "The panda mascot stands beside a closed orange welding curtain next to a switched off welding machine, smiling at the camera.",
+   "narration": "这一课：焊接与切割设备安全。",
+   "overlay": [
+    "焊接与切割设备安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举起焊接面罩",
+   "prompt_en": "The panda mascot holds up a welding helmet with a dark lens.",
+   "narration": "强光、火花、烟尘和电，一样都不能大意。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰推来一台焊机，电缆破皮",
+   "prompt_en": "The young male student wheels in a welding machine whose cable has a damaged section, a cardboard box nearby.",
+   "narration": "阿杰想自己焊个铁架子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他把接地夹夹在水管上，没戴面罩",
+   "prompt_en": "Diagram: a ground clamp attached to a water pipe far from the workpiece and a person without a helmet, question marks. No text.",
+   "narration": "接地夹夹在水管上，面罩也没戴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拦住他",
+   "prompt_en": "The safety administrator stops him and holds up a blank certificate card.",
+   "narration": "王老师：你有焊工证吗？先停下！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "焊接切割的危害：弧光、火花、烟尘、触电",
+   "scene": "弧光照向眼睛和皮肤",
+   "prompt_en": "Diagram: bright light rays from a welding point reaching an eye outline and bare skin, warning triangle. No text.",
+   "narration": "弧光很强，伤眼睛，也灼伤皮肤。",
+   "overlay": [
+    "焊接切割的危害：弧光、火花、烟尘、触电"
+   ],
+   "labels": [
+    "弧光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "焊接切割的危害：弧光、火花、烟尘、触电",
+   "scene": "火花飞溅引燃纸箱",
+   "prompt_en": "Diagram: sparks flying from a welding point onto a cardboard box that starts to smoke, warning triangle. No text.",
+   "narration": "火花飞溅，会引燃周围物品。",
+   "overlay": [],
+   "labels": [
+    "火花"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "焊接切割的危害：弧光、火花、烟尘、触电",
+   "scene": "烟尘被吸入肺部",
+   "prompt_en": "Diagram: a fume cloud rising from a weld and entering the lungs of a person outline, warning triangle. No text.",
+   "narration": "烟尘有毒，吸进去伤肺。",
+   "overlay": [],
+   "labels": [
+    "烟尘"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "焊接切割的危害：弧光、火花、烟尘、触电",
+   "scene": "焊钳、电缆漏电触电",
+   "prompt_en": "Diagram: a damaged welding cable and an electrode holder with a lightning bolt toward a hand. No text.",
+   "narration": "焊机带电，还有触电危险。",
+   "overlay": [],
+   "labels": [
+    "触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "焊接切割的危害：弧光、火花、烟尘、触电",
+   "scene": "热工件烫伤，气焊还有回火爆炸",
+   "prompt_en": "Diagram: a glowing hot workpiece and a gas torch with a flame travelling back along the hose, warning triangles. No text.",
+   "narration": "热工件烫手，气焊还怕回火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "焊工持证上岗，动火先审批、有人监护",
+   "scene": "焊工证和培训考核",
+   "prompt_en": "Diagram: a blank special operation certificate card beside a welding helmet and a training test sheet with a tick. No text.",
+   "narration": "焊接与热切割是特种作业，持证上岗。",
+   "overlay": [
+    "焊工持证上岗，动火先审批、有人监护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "焊工持证上岗，动火先审批、有人监护",
+   "scene": "学生无证焊接打叉",
+   "prompt_en": "Diagram: a student without a certificate holding an electrode holder, crossed out. No text.",
+   "narration": "没有证，学生不能自己焊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "焊工持证上岗，动火先审批、有人监护",
+   "scene": "动火审批单签字",
+   "prompt_en": "Diagram: a blank hot work permit form with signature lines and a clipboard. No text.",
+   "narration": "实验楼里焊割，先办动火审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "焊工持证上岗，动火先审批、有人监护",
+   "scene": "清走可燃物，配灭火器，监护人在场",
+   "prompt_en": "Diagram: a cleared work area, a fire extinguisher ready and a fire watch person standing nearby. No text.",
+   "narration": "清走可燃物，配灭火器，有人监护。",
+   "overlay": [],
+   "labels": [
+    "灭火器",
+    "监护人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "焊工持证上岗，动火先审批、有人监护",
+   "scene": "完工后留守检查火星",
+   "prompt_en": "Diagram: a fire watch person checking corners and gaps with a flashlight after welding, a clock icon. No text.",
+   "narration": "焊完留守检查，确认没有火星。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "新到、调来的焊机，逐项检查合格才用",
+   "scene": "新到的焊机和调来的旧焊机",
+   "prompt_en": "Diagram: a new welding machine in a box and an older machine on a cart arriving at a workshop. No text.",
+   "narration": "新到的、调来的焊机，先检查。",
+   "overlay": [
+    "新到、调来的焊机，逐项检查合格才用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "新到、调来的焊机，逐项检查合格才用",
+   "scene": "检查清单逐项打勾",
+   "prompt_en": "Diagram: a welding machine inspection checklist with blank rows being ticked one by one. No text.",
+   "narration": "照清单逐项核对，一个不漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "新到、调来的焊机，逐项检查合格才用",
+   "scene": "焊机有遮棚，小车车轮完好",
+   "prompt_en": "Diagram: a welding machine under a protective cover on a cart with sound wheels, a broken wheel crossed out. No text.",
+   "narration": "焊机有遮棚，小车轮子要完好。",
+   "overlay": [],
+   "labels": [
+    "遮棚",
+    "车轮"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "新到、调来的焊机，逐项检查合格才用",
+   "scene": "全部合格贴标签投入使用",
+   "prompt_en": "Diagram: a welding machine receiving a blank inspection label with a tick, a failed machine tagged out of service. No text.",
+   "narration": "全部合格才用，不合格挂牌停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源开关、外壳绝缘、调节刻度要完好",
+   "scene": "焊机上的电源开关",
+   "prompt_en": "Diagram: a welding machine with its power switch highlighted by an arrow. No text.",
+   "narration": "要有电源开关，出事能马上断电。",
+   "overlay": [
+    "电源开关、外壳绝缘、调节刻度要完好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源开关、外壳绝缘、调节刻度要完好",
+   "scene": "开关松脱、外壳破裂打叉",
+   "prompt_en": "Diagram: a loose broken switch and a cracked machine housing, both crossed out. No text.",
+   "narration": "开关完好灵活，外壳不能破裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源开关、外壳绝缘、调节刻度要完好",
+   "scene": "盖板装齐，带电部件不外露",
+   "prompt_en": "Diagram: a welding machine with all side panels fitted, a machine with a missing panel showing internal parts crossed out. No text.",
+   "narration": "盖板装齐，带电部件绝不外露。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电源开关、外壳绝缘、调节刻度要完好",
+   "scene": "调节器刻度清楚",
+   "prompt_en": "Diagram: a current adjustment knob with a clear dial without numbers, a worn unreadable dial crossed out. No text.",
+   "narration": "调节器要有清楚的刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "工业插头、电工接线、漏电保护、外壳接地",
+   "scene": "焊机用工业插头插座",
+   "prompt_en": "Diagram: an industrial plug and socket connected to a welding machine, bare wires pushed into a socket crossed out. No text.",
+   "narration": "电源用工业插头插座，不用裸线头。",
+   "overlay": [
+    "工业插头、电工接线、漏电保护、外壳接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "工业插头、电工接线、漏电保护、外壳接地",
+   "scene": "持证电工接线",
+   "prompt_en": "Diagram: an electrician with a blank certificate badge connecting the welding machine power supply. No text.",
+   "narration": "电源接线由持证电工来做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "工业插头、电工接线、漏电保护、外壳接地",
+   "scene": "电源装漏电保护器",
+   "prompt_en": "Diagram: a residual current device in the supply line of the welding machine with a test button. No text.",
+   "narration": "电源装漏电保护，一漏电就断开。",
+   "overlay": [],
+   "labels": [
+    "漏电保护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "工业插头、电工接线、漏电保护、外壳接地",
+   "scene": "焊机外壳接地",
+   "prompt_en": "Diagram: the metal housing of a welding machine connected to a protective earth symbol. No text.",
+   "narration": "焊机外壳，按规定可靠接地。",
+   "overlay": [],
+   "labels": [
+    "外壳接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "工业插头、电工接线、漏电保护、外壳接地",
+   "scene": "潮湿处焊接打叉",
+   "prompt_en": "Diagram: a person welding while standing in water on a wet floor, crossed out. No text.",
+   "narration": "地面潮湿积水，不焊接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "【实拍】从头到尾捋查焊接电缆绝缘（焊机断电）",
+   "prompt_en": "Close-up: gloved hands running along a welding cable from the machine end, checking the insulation for cuts.",
+   "narration": "焊接电缆从头到尾捋一遍。",
+   "overlay": [
+    "焊接电缆、接头、焊钳和接地夹完好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "露铜的电缆打叉",
+   "prompt_en": "Diagram: a welding cable with damaged insulation and bare copper showing, crossed out. No text.",
+   "narration": "绝缘破损、露铜的，必须换掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "【实拍】电缆端头的接线鼻压接拧紧（断电）",
+   "prompt_en": "Close-up: a crimped cable lug bolted tightly to the output terminal of a switched off welding machine.",
+   "narration": "接焊机要用接线鼻，压牢拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "铜丝直接缠绕，发热打火，打叉",
+   "prompt_en": "Diagram: bare copper strands twisted around a terminal, glowing hot with small sparks, crossed out. No text.",
+   "narration": "铜丝直接缠上，会发热打火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "焊钳和接地夹完好",
+   "prompt_en": "Diagram: an intact electrode holder and ground clamp with ticks, a cracked holder and a bent clamp crossed out. No text.",
+   "narration": "焊钳外壳缺损、夹口变形，要换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "焊接电缆、接头、焊钳和接地夹完好",
+   "scene": "电缆架离地面，不与电源线缠绕",
+   "prompt_en": "Diagram: a welding cable hung on hooks above the floor, separate from a power cord, a cable in water under a cart wheel crossed out. No text.",
+   "narration": "电缆架离地面，不泡水、不交叠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "回线就近接在工件上，不借管道",
+   "scene": "【实拍】接地夹就近夹牢在工件上（断电）",
+   "prompt_en": "Close-up: a hand fixing a ground clamp firmly onto the metal workpiece right next to the weld area.",
+   "narration": "回线接在离工件最近的地方。",
+   "overlay": [
+    "回线就近接在工件上，不借管道"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "回线就近接在工件上，不借管道",
+   "scene": "接地夹夹在远处水管上，电流乱走",
+   "prompt_en": "Diagram: a ground clamp on a distant water pipe with current arrows wandering through pipes and building steel, crossed out. No text.",
+   "narration": "夹在远处，电流会乱走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "回线就近接在工件上，不借管道",
+   "scene": "管道、钢结构发热打火",
+   "prompt_en": "Diagram: a pipe joint glowing and sparking far from the weld, a fire icon. No text.",
+   "narration": "会意外打火、发热，甚至起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "回线就近接在工件上，不借管道",
+   "scene": "不借管道、钢结构当回线",
+   "prompt_en": "Diagram: pipes and steel beams with a no symbol over a ground clamp. No text.",
+   "narration": "不借管道、钢结构当回线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "暂停离开先断电，焊钳不乱放",
+   "scene": "暂停离开先关焊机",
+   "prompt_en": "Diagram: a hand switching off the welding machine before the person walks away. No text.",
+   "narration": "暂停、离开、挪焊机，先断电。",
+   "overlay": [
+    "暂停离开先断电，焊钳不乱放"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "暂停离开先断电，焊钳不乱放",
+   "scene": "焊钳放在绝缘处",
+   "prompt_en": "Diagram: an electrode holder resting on an insulated hook, a holder lying on the workpiece crossed out. No text.",
+   "narration": "焊钳不放在工件上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "暂停离开先断电，焊钳不乱放",
+   "scene": "焊钳夹在腋下、电缆搭在肩上，打叉",
+   "prompt_en": "Diagram: a person with an electrode holder under the arm and a welding cable over the shoulder, crossed out. No text.",
+   "narration": "不夹在腋下，电缆不搭身上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "弧光含强紫外线",
+   "prompt_en": "Diagram: welding light split into visible light and ultraviolet rays reaching the eye and skin. No text.",
+   "narration": "弧光有强紫外线，伤眼又晒伤皮肤。",
+   "overlay": [
+    "弧光伤眼伤皮肤：面罩、屏挡、旁人别看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "焊工戴焊接面罩",
+   "prompt_en": "The facility engineer lowers a welding helmet with a dark filter lens over his face, the machine switched off.",
+   "narration": "焊工戴好焊接面罩和手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "面罩里再戴护目镜",
+   "prompt_en": "Diagram: safety glasses worn under a welding helmet, a double layer icon. No text.",
+   "narration": "面罩里再戴护目镜，双重防护。",
+   "overlay": [],
+   "labels": [
+    "面罩",
+    "护目镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "【实拍】焊接区四周拉上防护帘、立起遮光屏（不焊接）",
+   "prompt_en": "Close-up: hands pulling an orange welding curtain closed around a welding bay and placing a screen beside it.",
+   "narration": "焊接区设遮光屏，挡住弧光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "旁边的助手也戴面罩",
+   "prompt_en": "Diagram: a welder and an assistant both wearing welding face protection. No text.",
+   "narration": "旁边的助手，也要防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "弧光伤眼伤皮肤：面罩、屏挡、旁人别看",
+   "scene": "路人绕开，不直视弧光",
+   "prompt_en": "Diagram: a passer by turning their head away and walking around the screened welding area. No text.",
+   "narration": "路过别直视，绕开焊接区。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "焊接烟尘：先排风，再戴防尘口罩",
+   "scene": "局部排风罩抽走烟尘",
+   "prompt_en": "Diagram: a local exhaust arm positioned close to the weld drawing the fume cloud away. No text.",
+   "narration": "焊接时开排风，把烟尘抽走。",
+   "overlay": [
+    "焊接烟尘：先排风，再戴防尘口罩"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "焊接烟尘：先排风，再戴防尘口罩",
+   "scene": "排风口靠近焊点，头不在烟柱里",
+   "prompt_en": "Diagram: a welder keeping his head out of the rising fume plume, the exhaust hood near the weld. No text.",
+   "narration": "排风口贴近焊点，头避开烟柱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "焊接烟尘：先排风，再戴防尘口罩",
+   "scene": "戴防尘口罩",
+   "prompt_en": "Diagram: a particle respirator worn under a welding helmet. No text.",
+   "narration": "保持通风，再戴好防尘口罩。",
+   "overlay": [],
+   "labels": [
+    "防尘口罩"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "焊接烟尘：先排风，再戴防尘口罩",
+   "scene": "镀锌件、涂层件烟尘更毒",
+   "prompt_en": "Diagram: a coated metal part and a galvanized part with a heavier fume cloud and a warning sign. No text.",
+   "narration": "有涂层、镀层的工件，烟更毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "焊接烟尘：先排风，再戴防尘口罩",
+   "scene": "职业健康告知和体检",
+   "prompt_en": "Diagram: a hazard notice board with a blank sheet and a health check clipboard with a stethoscope. No text.",
+   "narration": "长期焊接，告知防护、按规定体检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "全套焊接防护用品，一样不少",
+   "scene": "【实拍】依次穿戴阻燃工作服、焊接手套、袖套、围裙、护腿（冷态示范）",
+   "prompt_en": "Close-up: a person putting on a flame resistant jacket, leather welding gloves, sleeves, an apron and leg guards.",
+   "narration": "全套防护：阻燃服、手套、袖套。",
+   "overlay": [
+    "全套焊接防护用品，一样不少"
+   ],
+   "labels": [
+    "阻燃服",
+    "焊接手套",
+    "袖套"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "全套焊接防护用品，一样不少",
+   "scene": "围裙、护腿、绝缘鞋",
+   "prompt_en": "Diagram: a leather apron, leg guards and insulated safety shoes with ticks. No text.",
+   "narration": "围裙、护腿、绝缘鞋，一样不少。",
+   "overlay": [],
+   "labels": [
+    "围裙",
+    "护腿",
+    "绝缘鞋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "全套焊接防护用品，一样不少",
+   "scene": "领口袖口扣紧，口袋不敞开",
+   "prompt_en": "Diagram: a welding jacket with the collar and cuffs buttoned and pocket flaps closed, sparks bouncing off. No text.",
+   "narration": "领口袖口扣紧，防火花钻进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "全套焊接防护用品，一样不少",
+   "scene": "化纤衣服、带油污的衣服打叉",
+   "prompt_en": "Diagram: a synthetic jacket and an oil stained shirt, both crossed out next to sparks. No text.",
+   "narration": "不穿化纤和油污的衣服。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "全套焊接防护用品，一样不少",
+   "scene": "防护用品破损就换",
+   "prompt_en": "Diagram: a burnt hole in a glove and a cracked helmet lens, both going into a replacement box. No text.",
+   "narration": "手套破了、镜片裂了，立即更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "气焊气割：装回火防止器",
+   "scene": "火焰沿软管倒窜向气瓶",
+   "prompt_en": "Diagram: a flame travelling back from a gas torch along the hose toward a gas cylinder, warning triangle. No text.",
+   "narration": "火焰往气源倒窜，叫回火。",
+   "overlay": [
+    "气焊气割：装回火防止器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "气焊气割：装回火防止器",
+   "scene": "回火烧进软管和气瓶",
+   "prompt_en": "Diagram: a burst hose and a cylinder valve on fire, crossed out. No text.",
+   "narration": "烧进软管和气瓶，后果严重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "气焊气割：装回火防止器",
+   "scene": "【实拍】焊炬软管和减压阀上的回火防止器位置（关气）",
+   "prompt_en": "Close-up: a finger pointing at flashback arrestors fitted at the regulator outlets and the torch end of the hoses, gas turned off.",
+   "narration": "气路上要装回火防止器。",
+   "overlay": [],
+   "labels": [
+    "回火防止器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "气焊气割：装回火防止器",
+   "scene": "软管完好，颜色区分",
+   "prompt_en": "Diagram: two gas hoses of different colours in good condition, a cracked hose crossed out. No text.",
+   "narration": "软管完好，不老化、不混用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气瓶用前检查，检漏不用明火",
+   "scene": "瓶帽、阀门扳手齐全",
+   "prompt_en": "Diagram: a gas cylinder with its cap and a valve key, both with ticks. No text.",
+   "narration": "用前查瓶帽和阀门扳手。",
+   "overlay": [
+    "气瓶用前检查，检漏不用明火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气瓶用前检查，检漏不用明火",
+   "scene": "肥皂水涂接头，冒泡就是漏",
+   "prompt_en": "Diagram: a brush applying soap solution to a hose joint, bubbles forming at the leak. No text.",
+   "narration": "用肥皂水查漏，冒泡就是漏气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气瓶用前检查，检漏不用明火",
+   "scene": "用打火机试漏，打叉",
+   "prompt_en": "Diagram: a lighter flame held near a gas joint, crossed out. No text.",
+   "narration": "千万不能用明火去试漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "气瓶用前检查，检漏不用明火",
+   "scene": "气瓶固定、远离火花",
+   "prompt_en": "Diagram: two gas cylinders chained upright on a cart, kept apart and away from the spark area. No text.",
+   "narration": "气瓶固定，远离火花和热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "焊工证、动火审批、逐项检查",
+   "prompt_en": "Diagram: three icons, a certificate card, a hot work permit and an inspection checklist. No text.",
+   "narration": "持证、审批、检查合格才焊。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "漏电保护、回线就近、断电",
+   "prompt_en": "Diagram: three icons, a residual current device, a ground clamp on a workpiece and a power switch off. No text.",
+   "narration": "漏保接地，回线就近，暂停断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "面罩、排风、全套防护、回火防止器",
+   "prompt_en": "Diagram: four icons, a welding helmet, an exhaust arm, a welding glove and a flashback arrestor. No text.",
+   "narration": "面罩屏挡，排风防尘，防回火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一排固定好的气瓶旁挥手",
+   "prompt_en": "The panda mascot stands beside a row of gas cylinders chained upright to a wall and waves goodbye.",
+   "narration": "下一课：第11章，压缩气体的危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
