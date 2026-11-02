@@ -1,0 +1,910 @@
+{
+ "id": "099_接地、接零与防雷",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "接地、接零与防雷",
+ "seconds": 340,
+ "source_doc": "course/高校实验室安全/099_接地、接零与防雷.md",
+ "author_source": "project/高校实验室安全/099_接地、接零与防雷/src.py",
+ "points": {
+  "K1": "接地：把不该有的电引入大地",
+  "K2": "保护接地与系统接地",
+  "S1": "保护接零：外壳接PE线",
+  "S2": "低压配电系统的接地形式",
+  "K3": "接地的五个作用",
+  "K4": "有接地和没接地：电流走哪里",
+  "K5": "金属外壳设备要接地",
+  "K6": "接地不能省、不能凑合",
+  "K7": "等电位联结",
+  "K8": "接地装置：接地极",
+  "K9": "接地检查：外观、环境与连接",
+  "K10": "接地电阻的测量与记录",
+  "K11": "发现问题：报告、整改、复查",
+  "K12": "建筑防雷与定期检测",
+  "K13": "雷雨天气的用电"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一座小楼模型旁，楼顶有避雷针",
+   "prompt_en": "The panda mascot stands beside a small building model with a lightning rod on its roof.",
+   "narration": "这一课讲接地、接零与防雷。",
+   "overlay": [
+    "接地、接零与防雷"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰盯着仪器屏幕上乱跳的信号曲线",
+   "prompt_en": "The young male student frowns at a noisy, jumping signal curve on an instrument screen.",
+   "narration": "阿杰的仪器信号总有干扰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着仪器的接地线，想夹到水管上",
+   "prompt_en": "The young male student holds the earth wire of the instrument, about to clip it onto a water pipe.",
+   "narration": "他想拆下地线，夹到水管上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头制止，王老师走过来",
+   "prompt_en": "The female graduate student shakes her head and stops him as the safety administrator walks over.",
+   "narration": "小研说：地线是保命线，不能乱动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "接地：把不该有的电引入大地",
+   "scene": "一根粗短的导线把仪器外壳连到大地",
+   "prompt_en": "Diagram: a thick short wire connecting an instrument case to the ground. No text.",
+   "narration": "接地，用电阻很小的导线连大地。",
+   "overlay": [
+    "接地：把不该有的电引入大地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "接地：把不该有的电引入大地",
+   "scene": "漏电箭头沿导线流入地下",
+   "prompt_en": "Diagram: leakage current arrows flowing down the wire into the earth. No text.",
+   "narration": "把不该有的电，引进大地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "接地：把不该有的电引入大地",
+   "scene": "接地符号和一面盾牌",
+   "prompt_en": "Diagram: an earth symbol next to a shield. No text.",
+   "narration": "接地是防触电的重要保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "保护接地与系统接地",
+   "scene": "设备金属外壳连到接地极",
+   "prompt_en": "Diagram: the metal case of a device connected to an earth electrode. No text.",
+   "narration": "设备外壳接地，叫保护接地。",
+   "overlay": [
+    "保护接地与系统接地"
+   ],
+   "labels": [
+    "保护接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "保护接地与系统接地",
+   "scene": "变压器中性点连到大地",
+   "prompt_en": "Diagram: the neutral point of a transformer connected to the earth. No text.",
+   "narration": "电源中性点接地，叫系统接地。",
+   "overlay": [],
+   "labels": [
+    "系统接地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "保护接地与系统接地",
+   "scene": "两者并排：一个配盾牌，一个配平稳的波形",
+   "prompt_en": "Diagram: the two side by side, one with a shield, one with a steady wave. No text.",
+   "narration": "一个防触电，一个让系统稳定可靠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "保护接地与系统接地",
+   "scene": "王老师指着国家标准文件",
+   "prompt_en": "The safety administrator points at a national standard document.",
+   "narration": "叫法各国不同，按国家标准执行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "保护接零：外壳接PE线",
+   "scene": "插座后面三根线：相线、中性线、保护线",
+   "prompt_en": "Diagram: three conductors behind a wall socket, drawn as three plain lines. No text.",
+   "narration": "插座里有相线、中性线和保护线。",
+   "overlay": [
+    "保护接零：外壳接PE线"
+   ],
+   "labels": [
+    "L 相线",
+    "N 中性线",
+    "PE 保护线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "保护接零：外壳接PE线",
+   "scene": "中性线上有工作电流的箭头",
+   "prompt_en": "Diagram: current arrows flowing along the neutral conductor during normal use. No text.",
+   "narration": "中性线平时走工作电流。",
+   "overlay": [],
+   "labels": [
+    "N"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "保护接零：外壳接PE线",
+   "scene": "保护线没有电流，一端连着仪器外壳",
+   "prompt_en": "Diagram: the protective conductor with no current, one end connected to an instrument case. No text.",
+   "narration": "保护线平时无电流，专连外壳。",
+   "overlay": [],
+   "labels": [
+    "PE"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "保护接零：外壳接PE线",
+   "scene": "外壳漏电，大电流沿保护线回去，断路器跳闸",
+   "prompt_en": "Diagram: a fault on the case sending a large current back along the protective conductor, a breaker tripping. No text.",
+   "narration": "外壳一漏电，保护开关就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "保护接零：外壳接PE线",
+   "scene": "中性线和保护线接混、互换，打叉",
+   "prompt_en": "Diagram: the neutral and protective conductors swapped and joined together, crossed out. No text.",
+   "narration": "N和PE不能混用，不能接错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低压配电系统的接地形式",
+   "scene": "两根线从变压器到楼内全程分开",
+   "prompt_en": "Diagram: two separate conductors running all the way from a transformer into a building. No text.",
+   "narration": "N和PE全程分开，是TN-S系统。",
+   "overlay": [
+    "低压配电系统的接地形式"
+   ],
+   "labels": [
+    "TN-S"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低压配电系统的接地形式",
+   "scene": "进楼前一根线，进楼后分成两根",
+   "prompt_en": "Diagram: one combined conductor outside the building splitting into two at the entrance. No text.",
+   "narration": "进楼前合一、进楼后分开，是TN-C-S。",
+   "overlay": [],
+   "labels": [
+    "TN-C-S"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低压配电系统的接地形式",
+   "scene": "设备外壳单独接地，旁边一个漏电保护器",
+   "prompt_en": "Diagram: a device case with its own separate earth electrode and a residual current device beside it. No text.",
+   "narration": "外壳单独接地的TT系统，要装漏保。",
+   "overlay": [],
+   "labels": [
+    "TT"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "低压配电系统的接地形式",
+   "scene": "老李看着图纸，一半接地一半接零的接法打叉",
+   "prompt_en": "The facility engineer studies a drawing, a mixed wiring scheme crossed out beside him.",
+   "narration": "接法由设计和电工定，不能混接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "接地的五个作用",
+   "scene": "五个作用图标",
+   "prompt_en": "Diagram: five icons, a leakage arrow into the ground, a person, a tall building, a large current arrow and a steady signal. No text.",
+   "narration": "接地有五个作用。",
+   "overlay": [
+    "接地的五个作用"
+   ],
+   "labels": [
+    "导走漏电",
+    "保护人身",
+    "建筑防雷",
+    "泄放大电流",
+    "设备稳定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "接地的五个作用",
+   "scene": "漏电流沿另一条路进入大地",
+   "prompt_en": "Diagram: leakage current taking a separate path into the ground. No text.",
+   "narration": "一是给漏电流另开一条入地的路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "接地的五个作用",
+   "scene": "一个人安全地站在仪器旁",
+   "prompt_en": "Diagram: a person standing safely beside an instrument with a check mark. No text.",
+   "narration": "二是减少触电，保护人身。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "接地的五个作用",
+   "scene": "高楼避雷针和短路电流都流入大地",
+   "prompt_en": "Diagram: a tall building lightning rod and a short circuit current, both flowing into the earth. No text.",
+   "narration": "三和四：雷电流、短路电流安全泄放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "接地的五个作用",
+   "scene": "精密仪器的信号曲线变平稳",
+   "prompt_en": "Diagram: the signal curve of a precision instrument becoming smooth and steady. No text.",
+   "narration": "五是让精密电子设备工作更稳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "有接地和没接地：电流走哪里",
+   "scene": "没接地的仪器外壳漏电，人一碰，电流从人身上走",
+   "prompt_en": "Diagram: an unearthed instrument case with a fault, current flowing through the person touching it. No text.",
+   "narration": "没接地，漏电从人身上走。",
+   "overlay": [
+    "有接地和没接地：电流走哪里"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "有接地和没接地：电流走哪里",
+   "scene": "接了地的仪器，电流沿接地线入地，人旁边打钩",
+   "prompt_en": "Diagram: an earthed instrument, the fault current going down the earth wire, a check mark by the person. No text.",
+   "narration": "有接地，电流沿接地线走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "有接地和没接地：电流走哪里",
+   "scene": "断路器跳闸，切断故障",
+   "prompt_en": "Diagram: a circuit breaker tripping and cutting off the fault. No text.",
+   "narration": "大电流还能让保护开关跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "有接地和没接地：电流走哪里",
+   "scene": "接地线中间断开，打问号",
+   "prompt_en": "Diagram: an earth wire broken in the middle with a question mark. No text.",
+   "narration": "前提是接地完好，断了就没用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "有接地和没接地：电流走哪里",
+   "scene": "接地符号加漏电保护器，双重保护",
+   "prompt_en": "Diagram: an earth symbol plus a residual current device, a double shield. No text.",
+   "narration": "接地加漏保，漏电立刻断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "金属外壳设备要接地",
+   "scene": "仪器和灯具的金属外壳都连着保护线",
+   "prompt_en": "Diagram: the metal cases of an instrument and a lamp both connected to the protective conductor. No text.",
+   "narration": "金属外壳的仪器灯具，都要接地。",
+   "overlay": [
+    "金属外壳设备要接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "金属外壳设备要接地",
+   "scene": "【实拍】三极插头接地极和三孔插座特写（插头不接电源）",
+   "prompt_en": "Close-up: a three pin plug with its earth pin, beside a matching three hole socket.",
+   "narration": "用三极插头，插合格的三孔插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "金属外壳设备要接地",
+   "scene": "掰掉接地极、换成两孔插头，打叉",
+   "prompt_en": "Diagram: an earth pin bent off and a plug swapped for a two pin one, both crossed out. No text.",
+   "narration": "不掰接地极，不改成两孔用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "金属外壳设备要接地",
+   "scene": "仪器背面的专用接地端子连着接地线",
+   "prompt_en": "Diagram: a dedicated earth terminal on the back of an instrument with its earth lead attached. No text.",
+   "narration": "有专用接地线的，不得私拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "金属外壳设备要接地",
+   "scene": "临时配电箱、电焊机、发电机、电动工具四个图标",
+   "prompt_en": "Diagram: four icons, a temporary distribution box, a welding machine, a generator and a power tool. No text.",
+   "narration": "临时配电箱、电焊机，更要盯接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "接地不能省、不能凑合",
+   "scene": "接地线夹在水管和燃气管上，打叉",
+   "prompt_en": "Diagram: an earth lead clipped to a water pipe and a gas pipe, both crossed out. No text.",
+   "narration": "接地不能夹在水管、燃气管上。",
+   "overlay": [
+    "接地不能省、不能凑合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "接地不能省、不能凑合",
+   "scene": "为了消除干扰拆下接地线，打叉",
+   "prompt_en": "Diagram: an earth wire removed to stop signal noise, crossed out. No text.",
+   "narration": "不能为了消除干扰拆掉接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "接地不能省、不能凑合",
+   "scene": "老李检查自制装置的金属框架接地",
+   "prompt_en": "The facility engineer checks the earth connection on the metal frame of a home built rig.",
+   "narration": "自制装置的金属框架，也要接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "接地不能省、不能凑合",
+   "scene": "仪器搬到新位置，先请电工确认插座接地",
+   "prompt_en": "Diagram: an instrument moved to a new bench, an electrician checking the socket earth first. No text.",
+   "narration": "仪器新装、移位，先确认接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "接地不能省、不能凑合",
+   "scene": "维修后装回接地线，用表测导通",
+   "prompt_en": "Diagram: after repair the earth lead is refitted and checked for continuity with a meter. No text.",
+   "narration": "维修后装回地线，测一测导通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "等电位联结",
+   "scene": "几个金属部件用导线连在一起",
+   "prompt_en": "Diagram: several metal parts, a bench frame, a pipe and an equipment case, bonded together with wires. No text.",
+   "narration": "等电位联结：金属部件连在一起。",
+   "overlay": [
+    "等电位联结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "等电位联结",
+   "scene": "人同时碰两处金属，中间没有电压差",
+   "prompt_en": "Diagram: a person touching two bonded metal parts at once, no voltage difference between them. No text.",
+   "narration": "电位一致，人碰两处也没电压差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "等电位联结",
+   "scene": "老李按图纸安装联结线，旁边拆线打叉",
+   "prompt_en": "The facility engineer installs bonding leads from a drawing, a hand removing one crossed out.",
+   "narration": "联结线由电工按设计安装，别拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "接地装置：接地极",
+   "scene": "管式、板式、棒式三种接地极埋在地下",
+   "prompt_en": "Diagram: three earth electrodes in the soil, a pipe, a plate and a rod. No text.",
+   "narration": "接地极有管式、板式、棒式。",
+   "overlay": [
+    "接地装置：接地极"
+   ],
+   "labels": [
+    "管式",
+    "板式",
+    "棒式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "接地装置：接地极",
+   "scene": "镀锌钢材和防锈图标",
+   "prompt_en": "Diagram: a galvanized steel bar with an anti rust icon. No text.",
+   "narration": "常用镀锌钢等耐腐蚀材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "接地装置：接地极",
+   "scene": "专业人员看着土壤和设计图",
+   "prompt_en": "Diagram: a qualified engineer looking at a soil sample and a design drawing. No text.",
+   "narration": "用哪种，由专业人员按标准定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接地检查：外观、环境与连接",
+   "scene": "【实拍】断电设备上的接地端子和接地标识特写",
+   "prompt_en": "Close-up: an earth terminal and an earth symbol label on a switched off piece of equipment.",
+   "narration": "先看：位置清楚，有标识，有保护。",
+   "overlay": [
+    "接地检查：外观、环境与连接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接地检查：外观、环境与连接",
+   "scene": "检查井盖板完好，周围没有积水和开挖",
+   "prompt_en": "Diagram: an intact inspection cover in the ground with no water or digging around it. No text.",
+   "narration": "盖板完好，周边无积水、无开挖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接地检查：外观、环境与连接",
+   "scene": "接线端子拧紧，没有锈蚀",
+   "prompt_en": "Diagram: a tightened earth terminal with no corrosion, a check mark. No text.",
+   "narration": "连接要紧固，没有严重锈蚀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接地检查：外观、环境与连接",
+   "scene": "接地线从电源端一路连到配电箱，没有断点",
+   "prompt_en": "Diagram: an earth conductor running unbroken from the supply to a distribution board. No text.",
+   "narration": "接地线连续不断，规格要写明。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接地电阻的测量与记录",
+   "scene": "看着外观的眼睛，旁边问号",
+   "prompt_en": "Diagram: an eye looking at an earth connection with a question mark. No text.",
+   "narration": "光看外观，判断不了接地好坏。",
+   "overlay": [
+    "接地电阻的测量与记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接地电阻的测量与记录",
+   "scene": "老李用接地电阻测试仪测量",
+   "prompt_en": "The facility engineer measures earth resistance with a calibrated earth tester.",
+   "narration": "由电工用校准过的仪器测电阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接地电阻的测量与记录",
+   "scene": "测量结果写进台账，对照设计要求",
+   "prompt_en": "Diagram: a reading entered in a blank logbook and compared with a design sheet. No text.",
+   "narration": "结果记入台账，对照标准和设计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "接地电阻的测量与记录",
+   "scene": "插座接地孔检测，发烫发黑的插座挂停用牌",
+   "prompt_en": "Diagram: a socket earth being tested, and a scorched socket tagged out of use. No text.",
+   "narration": "插座接地也要定期检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发现问题：报告、整改、复查",
+   "scene": "检查表上记下松动和锈蚀",
+   "prompt_en": "Diagram: a loose and rusty joint noted on a blank checklist. No text.",
+   "narration": "发现松动锈蚀，记下来不忽视。",
+   "overlay": [
+    "发现问题：报告、整改、复查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发现问题：报告、整改、复查",
+   "scene": "检查人员打电话通知电工，不自己动手",
+   "prompt_en": "Diagram: an inspector calling an electrician instead of fixing it himself. No text.",
+   "narration": "检查人员不动手，交电工整改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发现问题：报告、整改、复查",
+   "scene": "修好后复查打钩，形成闭环",
+   "prompt_en": "Diagram: a recheck with a check mark closing a loop arrow. No text.",
+   "narration": "整改后复查，形成闭环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "建筑防雷与定期检测",
+   "scene": "建筑楼顶接闪带、外墙引下线、地下接地装置",
+   "prompt_en": "Diagram: a building with a roof air terminal, a down conductor on the wall and an earth electrode below. No text.",
+   "narration": "建筑防雷：接闪、引下、接地。",
+   "overlay": [
+    "建筑防雷与定期检测"
+   ],
+   "labels": [
+    "接闪器",
+    "引下线",
+    "接地装置"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "建筑防雷与定期检测",
+   "scene": "【实拍】外墙防雷引下线和检测断接卡（晴天在地面拍摄）",
+   "prompt_en": "Close-up: a lightning down conductor on an outside wall and its test joint near the ground.",
+   "narration": "雷电流沿引下线泄入大地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "建筑防雷与定期检测",
+   "scene": "检测人员定期检测，出具报告",
+   "prompt_en": "Diagram: inspectors testing a building lightning protection system and issuing a blank report. No text.",
+   "narration": "防雷装置按规定定期检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "建筑防雷与定期检测",
+   "scene": "引下线锈断，旁边报告图标",
+   "prompt_en": "Diagram: a rusted and broken down conductor with a report icon. No text.",
+   "narration": "引下线锈断、松脱，及时报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "雷雨天气的用电",
+   "scene": "窗外乌云闪电，小研关闭精密仪器",
+   "prompt_en": "The female graduate student switches off a precision instrument as dark clouds and lightning appear outside.",
+   "narration": "雷雨前，按规定关机断电。",
+   "overlay": [
+    "雷雨天气的用电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "雷雨天气的用电",
+   "scene": "拔下不用的插头",
+   "prompt_en": "Diagram: unused plugs pulled out of sockets. No text.",
+   "narration": "不用的插头拔下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "雷雨天气的用电",
+   "scene": "楼顶和户外用电作业，打叉",
+   "prompt_en": "Diagram: electrical work on a rooftop and outdoors during a storm, crossed out. No text.",
+   "narration": "雷雨时，别在户外楼顶用电作业。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "雷雨天气的用电",
+   "scene": "人远离外墙引下线和楼顶金属栏杆",
+   "prompt_en": "Diagram: a person keeping away from a down conductor and a metal rooftop railing in a storm. No text.",
+   "narration": "别靠近引下线和楼顶金属栏杆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "外壳接保护线，N和PE分开",
+   "prompt_en": "Diagram: an instrument case on the protective conductor, the neutral and protective conductors kept separate. No text.",
+   "narration": "外壳接地接零，N和PE不混用。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接地检测、防雷检测和雷雨断电三个图标",
+   "prompt_en": "Diagram: three icons, an earth test, a lightning protection check and a plug pulled out in a storm. No text.",
+   "narration": "接地要检测，防雷定期查，雷雨断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着一个带试验按钮的漏电保护器挥手",
+   "prompt_en": "The panda mascot holds a residual current device with a test button and waves goodbye.",
+   "narration": "下一课：漏电保护与过流保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
