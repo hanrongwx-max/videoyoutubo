@@ -1,0 +1,990 @@
+{
+ "id": "140_受限空间作业",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "受限空间作业",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/140_受限空间作业.md",
+ "author_source": "project/高校实验室安全/140_受限空间作业/src.py",
+ "points": {
+  "K1": "什么是受限空间",
+  "K2": "校园里的受限空间",
+  "K3": "看不见的危害",
+  "K4": "缺氧与富氧",
+  "K5": "先审批，培训授权",
+  "K6": "隔离到位，条件齐了才进",
+  "K7": "先通风、再检测、后作业",
+  "K8": "机械通风，严禁纯氧",
+  "K9": "三样都测，先测氧",
+  "K10": "持续检测，报警就撤",
+  "K11": "照明、用电与轮换",
+  "K12": "监护人：守在外面",
+  "K13": "装备、预案与演练",
+  "K14": "不盲目施救",
+  "K15": "学生不擅自进入"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个打开的井口围栏外",
+   "prompt_en": "The panda mascot stands outside a fenced open manhole on a campus road, looking at the camera.",
+   "narration": "第12章第三课：受限空间作业。",
+   "overlay": [
+    "受限空间作业"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着井口，竖起手指",
+   "prompt_en": "The panda mascot points at the dark manhole opening and raises one finger in warning.",
+   "narration": "看着普通的井口，可能一口气就倒下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰的手机从栏杆缝掉进路边污水井",
+   "prompt_en": "The young male student drops his phone through a gap into an open roadside sewer manhole on campus.",
+   "narration": "阿杰的手机，掉进了路边的井里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰蹲在井边，想往下爬",
+   "prompt_en": "The young male student kneels at the manhole edge and puts one foot on the ladder going down.",
+   "narration": "井不深，他想下去捡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研一把拉住他",
+   "prompt_en": "The female graduate student grabs his arm and pulls him back from the manhole.",
+   "narration": "小研：别下去！里面可能缺氧！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "两人站在井口外，井里黑漆漆",
+   "prompt_en": "Both students stand back from the dark manhole, a faint invisible gas icon rising from it.",
+   "narration": "危险看不见，也闻不出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是受限空间",
+   "scene": "井、罐、管道剖面，出入口都很窄",
+   "prompt_en": "Diagram: cutaways of a manhole, a tank and a pipe, each with a narrow opening. No text.",
+   "narration": "进出口受限，部分或全部封闭。",
+   "overlay": [
+    "什么是受限空间"
+   ],
+   "labels": [
+    "进出受限"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是受限空间",
+   "scene": "人只在检修时进去，平时不待人",
+   "prompt_en": "Diagram: a worker entering a tank only for inspection, a bed and a desk icon crossed out inside. No text.",
+   "narration": "不是给人长期待的地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是受限空间",
+   "scene": "空气流动差的箭头",
+   "prompt_en": "Diagram: a closed space with weak, stagnant air arrows inside. No text.",
+   "narration": "通风不良，有害气体容易积聚。",
+   "overlay": [],
+   "labels": [
+    "通风不良"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "什么是受限空间",
+   "scene": "开阔的广场打叉不算",
+   "prompt_en": "Diagram: left, a closed tank with a warning icon; right, an open plaza with free flowing air arrows and a green tick. No text.",
+   "narration": "国内也叫有限空间，开阔场地不算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "校园里的受限空间",
+   "scene": "污水井、化粪池、水池、管道井",
+   "prompt_en": "Diagram: campus icons, a sewer manhole, a septic tank, a water tank and a pipe shaft. No text.",
+   "narration": "校园里：污水井、化粪池、水池、管井。",
+   "overlay": [
+    "校园里的受限空间"
+   ],
+   "labels": [
+    "污水井",
+    "化粪池",
+    "水池",
+    "管道井"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "校园里的受限空间",
+   "scene": "储罐、锅炉、深坑、通风管道",
+   "prompt_en": "Diagram: icons of a storage tank, a boiler, a deep pit and a large ventilation duct. No text.",
+   "narration": "储罐、锅炉、深坑、大风管也算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "校园里的受限空间",
+   "scene": "空的化学品罐剖面，残留在挥发",
+   "prompt_en": "Diagram: a cutaway of an empty chemical tank with residue evaporating inside. No text.",
+   "narration": "空罐也算，残留物会挥发。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "校园里的受限空间",
+   "scene": "【实拍】校园污水井盖上锁，旁边立着警示标志（中景）",
+   "prompt_en": "Medium shot: a locked manhole cover on a campus road with a confined space warning sign standing beside it.",
+   "narration": "摸清位置，设警示标志，井盖锁好。",
+   "overlay": [],
+   "labels": [
+    "警示标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "缺氧、有毒、可燃三个气体图标",
+   "prompt_en": "Diagram: three invisible gas icons, low oxygen, toxic gas and flammable gas, inside a tank. No text.",
+   "narration": "主要危害：缺氧、中毒、燃爆。",
+   "overlay": [
+    "看不见的危害"
+   ],
+   "labels": [
+    "缺氧",
+    "中毒",
+    "燃爆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "工人刚吸两口气就倒下的示意",
+   "prompt_en": "Diagram: a worker silhouette collapsing after two breath icons inside a tank, red warning. No text.",
+   "narration": "缺氧和毒气，几口就能放倒人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "可燃气遇火花爆燃",
+   "prompt_en": "Diagram: flammable gas in a pit meeting a small spark and flashing into flame. No text.",
+   "narration": "可燃气体一遇火，就会着火爆炸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "湿滑、照明差、温度极端",
+   "prompt_en": "Diagram: icons of a slippery floor, a dim bulb and a thermometer at both extremes. No text.",
+   "narration": "湿滑、照明差、闷热或极冷。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "被水或物料淹没的剖面",
+   "prompt_en": "Diagram: a cutaway of a pit filling quickly with water and loose material. No text.",
+   "narration": "还可能被水或物料淹没。",
+   "overlay": [],
+   "labels": [
+    "淹没"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看不见的危害",
+   "scene": "里面焊接、化学清洗、打磨，警告加倍",
+   "prompt_en": "Diagram: welding, chemical cleaning and grinding icons inside a tank, warning icons doubling. No text.",
+   "narration": "在里面焊、洗、磨，危害更多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "缺氧与富氧",
+   "scene": "空气成分饼图，氧气约五分之一",
+   "prompt_en": "Diagram: a pie chart of air, one fifth oxygen and most of the rest nitrogen. No text.",
+   "narration": "空气里的氧气，约占百分之二十一。",
+   "overlay": [
+    "缺氧与富氧"
+   ],
+   "labels": [
+    "氧气",
+    "氮气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "缺氧与富氧",
+   "scene": "氧气条降低，人头晕倒下",
+   "prompt_en": "Diagram: an oxygen level bar dropping low, a person getting dizzy and fainting. No text.",
+   "narration": "氧气低了叫缺氧，人会头晕、窒息。",
+   "overlay": [],
+   "labels": [
+    "缺氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "缺氧与富氧",
+   "scene": "氧气条升高，火焰更旺",
+   "prompt_en": "Diagram: an oxygen level bar rising high, a small flame growing much bigger. No text.",
+   "narration": "氧气多了叫富氧，东西更易着火。",
+   "overlay": [],
+   "labels": [
+    "富氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "缺氧与富氧",
+   "scene": "液氮房间的氧含量报警器",
+   "prompt_en": "Diagram: an oxygen alarm on the wall of a liquid nitrogen room, a cylinder of oxygen kept away from oil. No text.",
+   "narration": "实验室用液氮，也要看氧含量报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "缺氧与富氧",
+   "scene": "标准书，合格范围按国家标准",
+   "prompt_en": "Diagram: a closed national standard book beside an oxygen bar with a green middle zone. No text.",
+   "narration": "合格范围，按国家标准执行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先审批，培训授权",
+   "scene": "作业审批表盖章",
+   "prompt_en": "Diagram: a blank confined space entry permit receiving a stamp. No text.",
+   "narration": "进有限空间作业，一律先审批。",
+   "overlay": [
+    "先审批，培训授权"
+   ],
+   "labels": [
+    "先审批"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先审批，培训授权",
+   "scene": "有危险气体才审批打叉",
+   "prompt_en": "Diagram: a gas cloud icon with a permit only beside it, crossed out. No text.",
+   "narration": "不是测出毒气才审批，而是一律审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先审批，培训授权",
+   "scene": "负责人、安全员、监护人到场",
+   "prompt_en": "Diagram: a manager, a safety officer and an attendant standing together at a manhole with the permit. No text.",
+   "narration": "负责人、安全员、监护人都要到位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "先审批，培训授权",
+   "scene": "工人出示培训和授权卡",
+   "prompt_en": "Diagram: a worker showing a blank training certificate and an authorization card. No text.",
+   "narration": "进去的人，受过培训、获得授权。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "隔离到位，条件齐了才进",
+   "scene": "关阀上锁、断电挂牌",
+   "prompt_en": "Diagram: pipes into a tank closed with locked valves, the power switched off with a tag. No text.",
+   "narration": "先隔离：关阀加盲板，断电上锁。",
+   "overlay": [
+    "隔离到位，条件齐了才进"
+   ],
+   "labels": [
+    "隔离"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "隔离到位，条件齐了才进",
+   "scene": "井口围挡、警示",
+   "prompt_en": "Diagram: barriers and warning signs set up around an open manhole. No text.",
+   "narration": "井口围挡警示，防止路人掉落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "隔离到位，条件齐了才进",
+   "scene": "清单：通风、检测、照明、监护、救援",
+   "prompt_en": "Diagram: a checklist with five icons, a fan, a gas detector, a lamp, an attendant and a rescue tripod, all ticked. No text.",
+   "narration": "通风、检测、照明、监护、救援都齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "隔离到位，条件齐了才进",
+   "scene": "全部打勾，才签发进入",
+   "prompt_en": "Diagram: all boxes ticked, then a pen signing the entry permit. No text.",
+   "narration": "条件都齐了，才签发进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先通风、再检测、后作业",
+   "scene": "三个步骤箭头：风扇→检测仪→工人",
+   "prompt_en": "Diagram: three steps in a row with arrows, a fan, a gas detector, then a worker entering. No text.",
+   "narration": "顺序不能乱：先通风、再检测、后作业。",
+   "overlay": [
+    "先通风、再检测、后作业"
+   ],
+   "labels": [
+    "先通风",
+    "再检测",
+    "后作业"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先通风、再检测、后作业",
+   "scene": "顺序颠倒的打叉",
+   "prompt_en": "Diagram: a worker entering first and the detector coming later, crossed out. No text.",
+   "narration": "先进去再测，就晚了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先通风、再检测、后作业",
+   "scene": "中断后再进，又从通风检测开始",
+   "prompt_en": "Diagram: a clock showing a break, then the three steps restarting from the fan. No text.",
+   "narration": "中断后再进，要重新通风检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "机械通风，严禁纯氧",
+   "scene": "送风机送新风，排风扇往外抽",
+   "prompt_en": "Diagram: a blower pushing fresh air into a tank through a duct and an exhaust fan pulling air out. No text.",
+   "narration": "用送风机送新风，排风扇往外抽。",
+   "overlay": [
+    "机械通风，严禁纯氧"
+   ],
+   "labels": [
+    "送风",
+    "排风"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "机械通风，严禁纯氧",
+   "scene": "进入前和作业中都开着风机",
+   "prompt_en": "Diagram: the blower running before entry and still running while a worker is inside. No text.",
+   "narration": "进入前和作业中，都要机械通风。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "机械通风，严禁纯氧",
+   "scene": "氧气瓶接风管打叉",
+   "prompt_en": "Diagram: an oxygen cylinder connected to a ventilation duct, crossed out with a fire icon. No text.",
+   "narration": "严禁用纯氧通风，会引发火灾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "机械通风，严禁纯氧",
+   "scene": "蒸气云：加热打叉，排风扇打勾",
+   "prompt_en": "Diagram: a vapor cloud in a tank, a heater crossed out and an exhaust fan with a tick. No text.",
+   "narration": "里面的蒸气云，用排风抽走，绝不加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三样都测，先测氧",
+   "scene": "专人拿检测仪在井口",
+   "prompt_en": "A trained technician holds a portable gas detector at the edge of a manhole before entry.",
+   "narration": "开工前，由有资格的人检测。",
+   "overlay": [
+    "三样都测，先测氧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三样都测，先测氧",
+   "scene": "氧、可燃、有毒三个图标",
+   "prompt_en": "Diagram: three icons, an oxygen molecule, a flame and a toxic skull cloud, all with ticks. No text.",
+   "narration": "氧含量、可燃气、有毒气，三样都测。",
+   "overlay": [],
+   "labels": [
+    "氧含量",
+    "可燃气",
+    "有毒气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三样都测，先测氧",
+   "scene": "先测氧气，再测其他",
+   "prompt_en": "Diagram: a numbered order, oxygen first, then flammable gas, then toxic gas. No text.",
+   "narration": "先测氧，氧不够其他读数也不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三样都测，先测氧",
+   "scene": "【实拍】在井口外用检测仪的采样管伸入井内泵吸检测（手部特写）",
+   "prompt_en": "Close-up: hands lowering the sampling tube of a portable gas detector into a manhole from outside.",
+   "narration": "在外面用采样管测，人不下去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "持续检测，报警就撤",
+   "scene": "井里上中下三个测点",
+   "prompt_en": "Diagram: a cutaway of a deep pit with three sampling points at the top, middle and bottom. No text.",
+   "narration": "上中下都要测，气体会分层。",
+   "overlay": [
+    "持续检测，报警就撤"
+   ],
+   "labels": [
+    "上",
+    "中",
+    "下"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "持续检测，报警就撤",
+   "scene": "工人胸前挂着检测仪作业",
+   "prompt_en": "Diagram: a worker inside a tank with a gas detector clipped to his chest. No text.",
+   "narration": "作业中持续检测，随身带检测仪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "持续检测，报警就撤",
+   "scene": "开着风机也照样检测",
+   "prompt_en": "Diagram: a running blower and a gas detector side by side, both with ticks. No text.",
+   "narration": "开着通风，也不能省掉检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "持续检测，报警就撤",
+   "scene": "检测仪报警，工人立即往外撤",
+   "prompt_en": "Diagram: a gas detector flashing red and a worker climbing out of a manhole quickly. No text.",
+   "narration": "一报警，立刻撤出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "照明、用电与轮换",
+   "scene": "安全电压的照明灯",
+   "prompt_en": "Diagram: a low voltage work lamp inside a tank with a safety voltage icon. No text.",
+   "narration": "照明和手持工具，用安全特低电压。",
+   "overlay": [
+    "照明、用电与轮换"
+   ],
+   "labels": [
+    "安全电压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "照明、用电与轮换",
+   "scene": "防爆灯、通道畅通",
+   "prompt_en": "Diagram: an explosion proof lamp and a clear entry ladder with nothing blocking it. No text.",
+   "narration": "有可燃气的地方用防爆灯，通道畅通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "照明、用电与轮换",
+   "scene": "工人轮换进出、补水",
+   "prompt_en": "Diagram: two workers swapping places at the opening, one drinking water and stretching. No text.",
+   "narration": "又闷又热，控制时间，轮换进出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "监护人：守在外面",
+   "scene": "监护人守在井口，看着井下",
+   "prompt_en": "A safety attendant in a reflective vest stands at the manhole edge watching the worker below.",
+   "narration": "监护人守在外面，寸步不离。",
+   "overlay": [
+    "监护人：守在外面"
+   ],
+   "labels": [
+    "监护人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "监护人：守在外面",
+   "scene": "进出登记表",
+   "prompt_en": "Diagram: a blank entry and exit log board at the manhole with names as blank lines and a clock. No text.",
+   "narration": "登记每个人的进出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "监护人：守在外面",
+   "scene": "监护人用对讲机和井下保持联络",
+   "prompt_en": "Diagram: the attendant talking on a radio with the worker below, sound wave icons. No text.",
+   "narration": "和里面的人，时刻保持联络。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "监护人：守在外面",
+   "scene": "拦住无关人员",
+   "prompt_en": "Diagram: the attendant stopping a passer by at the barrier with a raised hand. No text.",
+   "narration": "不让无关的人进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "监护人：守在外面",
+   "scene": "发现异常，呼叫撤离和救援",
+   "prompt_en": "Diagram: the attendant calling on a phone with an alarm icon while the worker is pulled out. No text.",
+   "narration": "懂危害、会应急，有异常就呼救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装备、预案与演练",
+   "scene": "隔绝式空气呼吸器与过滤式口罩对比",
+   "prompt_en": "Diagram: a self contained breathing apparatus with a tick, a filter mask crossed out next to a low oxygen icon. No text.",
+   "narration": "缺氧时，过滤式口罩不能补氧。",
+   "overlay": [
+    "装备、预案与演练"
+   ],
+   "labels": [
+    "隔绝式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装备、预案与演练",
+   "scene": "浓度不明的问号，用隔绝式",
+   "prompt_en": "Diagram: a question mark gas cloud and a self contained breathing apparatus beside it. No text.",
+   "narration": "立即危及生命或浓度不明，用隔绝式。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装备、预案与演练",
+   "scene": "三脚架、安全带、救援绳、报警哨",
+   "prompt_en": "Diagram: a rescue tripod over a manhole, a full body harness, a lifeline and a whistle. No text.",
+   "narration": "安全带、救援绳、三脚架提前备好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装备、预案与演练",
+   "scene": "救援预案人人熟悉",
+   "prompt_en": "Diagram: a team gathered around a blank rescue plan on a board. No text.",
+   "narration": "人人熟悉应急救援预案。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "装备、预案与演练",
+   "scene": "定期救援演练",
+   "prompt_en": "Diagram: a team practicing a rescue with a dummy at a training manhole, a calendar with repeating marks. No text.",
+   "narration": "定期演练，出事才不慌乱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不盲目施救",
+   "scene": "一个人倒下，接连下去的人也倒下",
+   "prompt_en": "Diagram: a chain of three worker silhouettes collapsing one after another inside a pit, red cross. No text.",
+   "narration": "盲目下去救人，往往一倒一串。",
+   "overlay": [
+    "不盲目施救"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不盲目施救",
+   "scene": "监护人不下井",
+   "prompt_en": "Diagram: the attendant at the manhole edge with a stop hand, a ladder going down crossed out. No text.",
+   "narration": "监护人不能下去救人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不盲目施救",
+   "scene": "在井外用救援绳往上拉",
+   "prompt_en": "Diagram: the attendant turning a winch on the rescue tripod, lifting a worker by a lifeline. No text.",
+   "narration": "系好的救援绳，在井外往上拉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不盲目施救",
+   "scene": "拨打119、120，报告保卫处",
+   "prompt_en": "Diagram: a phone icon with the numbers 119 and 120, and an arrow to the campus security office. No text.",
+   "narration": "打119、120，报告保卫处。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不盲目施救",
+   "scene": "佩戴呼吸器的专业救援人员下井",
+   "prompt_en": "Diagram: professional rescuers wearing breathing apparatus entering the manhole with a lifeline. No text.",
+   "narration": "只有配齐装备的专业人员才能进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生不擅自进入",
+   "scene": "学生站在井边被拦住",
+   "prompt_en": "Diagram: a student at a manhole edge with a stop hand in front of him. No text.",
+   "narration": "学生和实验室人员，不得擅自进入。",
+   "overlay": [
+    "学生不擅自进入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生不擅自进入",
+   "scene": "阿杰打电话给后勤",
+   "prompt_en": "The young male student calls the campus logistics office on another phone beside the closed manhole.",
+   "narration": "东西掉了，找后勤，交给专业队伍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "学生不擅自进入",
+   "scene": "施工单位资质证书和学校审批章",
+   "prompt_en": "Diagram: a contractor's blank qualification certificate and a school approval stamp. No text.",
+   "narration": "作业单位有资质，学校审批监管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "井口和三步箭头",
+   "prompt_en": "Diagram: two icons, a manhole and three arrows for ventilation, testing and work. No text.",
+   "narration": "先审批，先通风、再检测、后作业。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检测仪和监护人",
+   "prompt_en": "Diagram: two icons, a gas detector with an alarm and an attendant at the opening. No text.",
+   "narration": "持续检测，报警就撤，监护人守外面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "救援绳和电话",
+   "prompt_en": "Diagram: two icons, a rescue tripod with a lifeline and a phone. No text.",
+   "narration": "出了事，不盲目施救，在外呼救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣系着全身式安全带挥手",
+   "prompt_en": "The panda mascot wearing a full body safety harness waves goodbye beside a guardrail.",
+   "narration": "下一课：高处作业与坠落防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
