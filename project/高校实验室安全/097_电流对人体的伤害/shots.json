@@ -1,0 +1,980 @@
+{
+ "id": "097_电流对人体的伤害",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "电流对人体的伤害",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/097_电流对人体的伤害.md",
+ "author_source": "project/高校实验室安全/097_电流对人体的伤害/src.py",
+ "points": {
+  "K1": "电能致命：先懂电才能防",
+  "K2": "电在闭合回路里流动",
+  "K3": "电压、电流、电阻与功率",
+  "K4": "导体与绝缘体",
+  "K5": "直流与交流",
+  "K6": "用电的几类危害",
+  "K7": "什么是电击",
+  "K8": "触电轻重看哪些因素",
+  "K9": "低电压不等于低危险",
+  "K10": "经过心脏的路径最危险",
+  "K11": "电流对肌肉和心脏的作用",
+  "K12": "人体电阻不是固定值",
+  "K13": "电弧与电伤",
+  "K14": "预防为先：不拿身体试电",
+  "S1": "触电后要就医并报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个电源插头，旁边有触电警告标志",
+   "prompt_en": "The panda mascot holds up a power plug next to an electric shock warning sign.",
+   "narration": "这一课讲电流对人体的伤害。",
+   "overlay": [
+    "电流对人体的伤害"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰刚洗完手，湿手伸向插座上的插头",
+   "prompt_en": "The young male student, hands still wet after washing, reaches for a plug in a wall socket.",
+   "narration": "阿杰洗完手，湿着手就去拔插头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研一把拦住他，指着他湿漉漉的手",
+   "prompt_en": "The female graduate student stops him and points at his dripping wet hands.",
+   "narration": "小研拦住他：湿手碰电，很危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰耸耸肩，一脸不在乎",
+   "prompt_en": "The young male student shrugs with a careless smile.",
+   "narration": "阿杰说：才220伏，能有多危险？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命：先懂电才能防",
+   "scene": "闪电图标连着一颗心，心被打叉",
+   "prompt_en": "Diagram: a lightning bolt icon linked to a heart icon, the heart crossed out. No text.",
+   "narration": "电用好是帮手，用不好会要命。",
+   "overlay": [
+    "电能致命：先懂电才能防"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命：先懂电才能防",
+   "scene": "触电、起火、仪器损坏三个图标",
+   "prompt_en": "Diagram: three icons, an electric shock, a fire and a broken instrument. No text.",
+   "narration": "会触电、会起火，还会毁掉实验。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命：先懂电才能防",
+   "scene": "生物安全柜断电，气流箭头消失",
+   "prompt_en": "Diagram: a biosafety cabinet losing power, its airflow arrows fading away. No text.",
+   "narration": "安全柜一断电，防护也跟着失效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "电能致命：先懂电才能防",
+   "scene": "欣欣指着四个图标：原理、危害、原因、预防",
+   "prompt_en": "The panda mascot points at four icons, a circuit, a danger mark, a question mark and a shield.",
+   "narration": "先懂电，知道危险，才能防住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电在闭合回路里流动",
+   "scene": "电源、导线、灯泡连成一圈",
+   "prompt_en": "Diagram: a power source, wires and a light bulb joined in a closed loop. No text.",
+   "narration": "电源、导线、用电器，连成电路。",
+   "overlay": [
+    "电在闭合回路里流动"
+   ],
+   "labels": [
+    "电源",
+    "导线",
+    "用电器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电在闭合回路里流动",
+   "scene": "导线里的小圆点沿一个方向移动",
+   "prompt_en": "Diagram: small dots moving in one direction along a wire. No text.",
+   "narration": "电流是电荷的定向移动，单位安培。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电在闭合回路里流动",
+   "scene": "开关断开，灯泡熄灭",
+   "prompt_en": "Diagram: a switch opened in the loop and the bulb going dark. No text.",
+   "narration": "回路闭合才有电流，断开就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "电在闭合回路里流动",
+   "scene": "人一手碰到带电导线，脚踩地面，箭头从手经身体到地",
+   "prompt_en": "Diagram: a simple figure touching a live wire with one hand, standing on the ground, an arrow running through the body into the ground. No text.",
+   "narration": "人一旦成了回路一段，就危险了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电压、电流、电阻与功率",
+   "scene": "水塔的水压推着水管里的水流",
+   "prompt_en": "Diagram: a water tower pushing water through a pipe, a simple analogy. No text.",
+   "narration": "电压像水压，推着电流流动。",
+   "overlay": [
+    "电压、电流、电阻与功率"
+   ],
+   "labels": [
+    "电压",
+    "电流",
+    "电阻",
+    "功率"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电压、电流、电阻与功率",
+   "scene": "电压越高，闪电图标越大，旁边一个盾牌",
+   "prompt_en": "Diagram: lightning icons growing larger as a voltage bar rises, a shield beside them. No text.",
+   "narration": "电压越高越危险，防护要跟上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电压、电流、电阻与功率",
+   "scene": "细窄的管道挡住水流",
+   "prompt_en": "Diagram: a narrow section of pipe slowing the water flow. No text.",
+   "narration": "电阻是材料对电流的阻碍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电压、电流、电阻与功率",
+   "scene": "插头接触不良处发红发热",
+   "prompt_en": "Diagram: a loose plug contact glowing red with heat. No text.",
+   "narration": "接触不良电阻大，局部会发热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电压、电流、电阻与功率",
+   "scene": "功率表指针升高，旁边热浪图标",
+   "prompt_en": "Diagram: a power meter needle rising with heat wave icons beside it. No text.",
+   "narration": "功率越大，发热越多，风险越高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导体与绝缘体",
+   "scene": "金属导线、人体、一滩水三个图标亮起",
+   "prompt_en": "Diagram: three glowing icons, a metal wire, a human figure and a puddle of water. No text.",
+   "narration": "金属、人体、水，都容易导电。",
+   "overlay": [
+    "导体与绝缘体"
+   ],
+   "labels": [
+    "金属",
+    "人体",
+    "水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导体与绝缘体",
+   "scene": "玻璃、陶瓷、塑料、干木头四个图标",
+   "prompt_en": "Diagram: four icons, glass, ceramic, plastic and dry wood. No text.",
+   "narration": "玻璃陶瓷塑料干木头，是绝缘体。",
+   "overlay": [],
+   "labels": [
+    "玻璃",
+    "陶瓷",
+    "塑料",
+    "干木头"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导体与绝缘体",
+   "scene": "电线的塑料外皮把电挡在里面；受潮的木头滴着水打问号",
+   "prompt_en": "Diagram: a plastic wire sheath keeping the current inside, and a wet piece of wood with a question mark. No text.",
+   "narration": "绝缘把电挡住，受潮就靠不住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "导体与绝缘体",
+   "scene": "仪器金属外壳用一根线连到接地符号",
+   "prompt_en": "Diagram: a metal instrument case connected by a wire to an earth symbol. No text.",
+   "narration": "外壳接地也是保护，见第099课。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "直流与交流",
+   "scene": "电分两支：静电和电流；电流再分直流和交流",
+   "prompt_en": "Diagram: a tree with two branches, static charge and current, the current branch splitting into two. No text.",
+   "narration": "电有静电和电流，电流分直交流。",
+   "overlay": [
+    "直流与交流"
+   ],
+   "labels": [
+    "静电",
+    "直流",
+    "交流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "直流与交流",
+   "scene": "直流：箭头始终一个方向，旁边电池和直流电源",
+   "prompt_en": "Diagram: an arrow always pointing one way, a battery and a bench power supply beside it. No text.",
+   "narration": "直流方向不变，比如电池。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "直流与交流",
+   "scene": "交流：波浪线上下来回",
+   "prompt_en": "Diagram: a wave line going up and down, the current changing direction. No text.",
+   "narration": "交流电方向来回变化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "直流与交流",
+   "scene": "【实拍】断电仪器背面铭牌上额定电压和频率的特写（遮挡品牌型号）",
+   "prompt_en": "Close-up: the rating plate on the back of an unplugged instrument, blank labels only.",
+   "narration": "我国市电220伏和380伏，50赫兹。",
+   "overlay": [],
+   "labels": [
+    "220 V",
+    "380 V",
+    "50 Hz"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "直流与交流",
+   "scene": "交流和直流两个图标都带警示标志",
+   "prompt_en": "Diagram: an alternating wave icon and a straight arrow icon, both with a warning mark. No text.",
+   "narration": "交流直流都能伤人，高压更危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "用电的几类危害",
+   "scene": "五个图标：电击、电伤、火灾、爆炸、坠落",
+   "prompt_en": "Diagram: five icons, an electric shock, a skin burn, a fire, an explosion and a fall. No text.",
+   "narration": "用电危害：电击、电伤、火灾、爆炸。",
+   "overlay": [
+    "用电的几类危害"
+   ],
+   "labels": [
+    "电击",
+    "电伤",
+    "火灾",
+    "爆炸",
+    "坠落"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "用电的几类危害",
+   "scene": "电流穿过身体内部，神经和心脏亮起",
+   "prompt_en": "Diagram: current passing inside a body outline, the nerves and heart lighting up. No text.",
+   "narration": "电击伤在体内，伤神经和心脏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "用电的几类危害",
+   "scene": "手部皮肤烧伤和电弧闪光",
+   "prompt_en": "Diagram: a burn mark on a hand and an arc flash beside it. No text.",
+   "narration": "电伤伤在体表，比如电弧烧伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "用电的几类危害",
+   "scene": "梯子上的人被电一下，摔了下来",
+   "prompt_en": "Diagram: a person on a ladder jolted by a shock and falling. No text.",
+   "narration": "被电一下摔下来，是间接伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "用电的几类危害",
+   "scene": "电火花溅到易燃溶剂瓶旁，冒出火苗",
+   "prompt_en": "Diagram: an electric spark near a flammable solvent bottle, a flame starting. No text.",
+   "narration": "电火花遇易燃物，会起火爆炸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "什么是电击",
+   "scene": "手碰到带电体，电流从手进入身体",
+   "prompt_en": "Diagram: a hand touching a live part, current entering the body. No text.",
+   "narration": "碰到带电体，电流就进入身体。",
+   "overlay": [
+    "什么是电击"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "什么是电击",
+   "scene": "人体被画成电路中的一段",
+   "prompt_en": "Diagram: a body outline drawn as one segment of an electric circuit. No text.",
+   "narration": "人成了电路一部分，就是电击。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "什么是电击",
+   "scene": "一边手麻，一边倒地，两个图标",
+   "prompt_en": "Diagram: two icons, a tingling hand and a person collapsed on the floor. No text.",
+   "narration": "轻的麻一下，重的会要命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "什么是电击",
+   "scene": "流过身体的电流箭头被放大",
+   "prompt_en": "Diagram: a magnified arrow of current flowing through the body. No text.",
+   "narration": "伤人的，是流过身体的电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "触电轻重看哪些因素",
+   "scene": "五个因素图标：电流大小、路径、时间、频率、身体状况",
+   "prompt_en": "Diagram: five factor icons, a current meter, a path through the body, a clock, a wave and a person. No text.",
+   "narration": "触电轻重，先看电流有多大。",
+   "overlay": [
+    "触电轻重看哪些因素"
+   ],
+   "labels": [
+    "电流大小",
+    "路径",
+    "时间",
+    "频率",
+    "身体状况"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "触电轻重看哪些因素",
+   "scene": "计时器指针转动，伤害条变长",
+   "prompt_en": "Diagram: a timer hand turning while a harm bar grows longer. No text.",
+   "narration": "通电时间越长，伤得越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "触电轻重看哪些因素",
+   "scene": "交流和直流两种波形并排",
+   "prompt_en": "Diagram: an alternating wave and a straight line side by side. No text.",
+   "narration": "电流种类和频率，也影响伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "触电轻重看哪些因素",
+   "scene": "电压升高，流过人体的电流箭头变粗",
+   "prompt_en": "Diagram: as voltage rises, the current arrow through a body gets thicker. No text.",
+   "narration": "电压越高，流过人体电流越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "触电轻重看哪些因素",
+   "scene": "湿手、疲惫、心脏病三个图标",
+   "prompt_en": "Diagram: three icons, wet hands, a tired person and a heart condition. No text.",
+   "narration": "皮肤潮湿、身体不好，后果更重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "低电压不等于低危险",
+   "scene": "普通墙壁插座旁一个触电警告标志",
+   "prompt_en": "Diagram: an ordinary wall socket with an electric shock warning sign beside it. No text.",
+   "narration": "低电压，不等于低危险。",
+   "overlay": [
+    "低电压不等于低危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "低电压不等于低危险",
+   "scene": "实验室插座连着仪器，旁边心形警示",
+   "prompt_en": "Diagram: a lab socket powering an instrument, a heart warning icon beside it. No text.",
+   "narration": "日常220伏市电，同样能致命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "低电压不等于低危险",
+   "scene": "伸手进打开的仪器机箱，打叉",
+   "prompt_en": "Diagram: a hand reaching into an open instrument cabinet, crossed out. No text.",
+   "narration": "致命电流其实很小，别伸手进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "低电压不等于低危险",
+   "scene": "王老师拿着特低电压的标准文件，旁边水滴图标",
+   "prompt_en": "The safety administrator holds a standard document, a water drop icon beside her.",
+   "narration": "特低电压也要按规定用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "经过心脏的路径最危险",
+   "scene": "人体图上电流从一只手穿过胸口到另一只手",
+   "prompt_en": "Diagram: a body outline with current going from one hand across the chest to the other hand. No text.",
+   "narration": "电流经过心脏，最危险。",
+   "overlay": [
+    "经过心脏的路径最危险"
+   ],
+   "labels": [
+    "手到手"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "经过心脏的路径最危险",
+   "scene": "手到脚、头到脚两条路径都经过心脏",
+   "prompt_en": "Diagram: two paths through a body outline, hand to foot and head to foot, both crossing the heart. No text.",
+   "narration": "手到脚、头到脚，也经过心脏。",
+   "overlay": [],
+   "labels": [
+    "手到脚",
+    "头到脚"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "经过心脏的路径最危险",
+   "scene": "脚到脚的路径不经过心脏，但腿上也有伤痕",
+   "prompt_en": "Diagram: a path from one foot to the other, missing the heart, with injury marks on the legs. No text.",
+   "narration": "不经过心脏轻一些，也会受伤。",
+   "overlay": [],
+   "labels": [
+    "脚到脚"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "经过心脏的路径最危险",
+   "scene": "一手扶金属架、一手摸电器，打叉",
+   "prompt_en": "Diagram: one hand on a metal rack and the other on an appliance, crossed out. No text.",
+   "narration": "别一手扶金属架，一手摸电器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流对肌肉和心脏的作用",
+   "scene": "刻度条从小到大：感知、摆脱不了、心室纤颤",
+   "prompt_en": "Diagram: a rising scale bar with three zones, from light to dark. No text.",
+   "narration": "电流从小到大，伤害逐级加重。",
+   "overlay": [
+    "电流对肌肉和心脏的作用"
+   ],
+   "labels": [
+    "感知",
+    "摆脱不了",
+    "心室纤颤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流对肌肉和心脏的作用",
+   "scene": "手被导线吸住，手指松不开",
+   "prompt_en": "Diagram: a hand clenched around a wire, fingers unable to open. No text.",
+   "narration": "电流稍大，肌肉抽紧，松不开手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流对肌肉和心脏的作用",
+   "scene": "心电图线乱颤，心脏不再泵血",
+   "prompt_en": "Diagram: a heart rhythm line turning chaotic, the heart no longer pumping. No text.",
+   "narration": "再大，心脏乱颤，泵不出血。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流对肌肉和心脏的作用",
+   "scene": "计时器和除颤器图标",
+   "prompt_en": "Diagram: a timer and a defibrillator icon. No text.",
+   "narration": "心脏骤停几分钟致命，要尽快除颤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电流对肌肉和心脏的作用",
+   "scene": "王老师指着国家标准文件",
+   "prompt_en": "The safety administrator points at a national standard document.",
+   "narration": "具体阈值，以现行国家标准为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "人体电阻不是固定值",
+   "scene": "皮肤像一层挡板挡在电流前面",
+   "prompt_en": "Diagram: the skin drawn as a barrier layer in front of the current. No text.",
+   "narration": "人体也有电阻，皮肤挡在外层。",
+   "overlay": [
+    "人体电阻不是固定值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "人体电阻不是固定值",
+   "scene": "干手和湿手对比，电阻条一高一低",
+   "prompt_en": "Diagram: a dry hand and a wet hand side by side, a high bar and a low bar. No text.",
+   "narration": "皮肤干燥电阻高，一沾水就降低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "人体电阻不是固定值",
+   "scene": "出汗、破皮、大面积接触三个图标",
+   "prompt_en": "Diagram: three icons, sweat, broken skin and a large contact area. No text.",
+   "narration": "出汗、破皮、接触面大，都会变小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "人体电阻不是固定值",
+   "scene": "电阻条变短，电流箭头变粗",
+   "prompt_en": "Diagram: a resistance bar shrinking while the current arrow grows thicker. No text.",
+   "narration": "电阻越小，流过人体电流越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "人体电阻不是固定值",
+   "scene": "拿计算器算多少伏才安全，打叉",
+   "prompt_en": "Diagram: a calculator working out a safe voltage, crossed out. No text.",
+   "narration": "别拿一个数去算多少伏才安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电弧与电伤",
+   "scene": "带电拆线，两个触点间拉出一道电弧",
+   "prompt_en": "Diagram: two contacts pulled apart while live, an electric arc between them. No text.",
+   "narration": "带电拆线，触点间会拉出电弧。",
+   "overlay": [
+    "电弧与电伤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电弧与电伤",
+   "scene": "电弧高温，手臂皮肤被灼伤",
+   "prompt_en": "Diagram: an intense hot arc and a burn on a forearm. No text.",
+   "narration": "电弧温度极高，会严重灼伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电弧与电伤",
+   "scene": "强光射向眼睛，熔化金属飞溅",
+   "prompt_en": "Diagram: a bright flash toward the eyes and molten metal droplets flying. No text.",
+   "narration": "强光伤眼，熔化的金属会飞溅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "电弧与电伤",
+   "scene": "老李先断开电源挂牌，再动接线",
+   "prompt_en": "The facility engineer switches off the power and hangs a tag before touching the wiring.",
+   "narration": "接线必须断电，由持证电工来做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预防为先：不拿身体试电",
+   "scene": "身体里一条曲折的箭头，旁边问号",
+   "prompt_en": "Diagram: a winding arrow inside a body outline with a question mark. No text.",
+   "narration": "电在体内怎么走，难以预料。",
+   "overlay": [
+    "预防为先：不拿身体试电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预防为先：不拿身体试电",
+   "scene": "四个图标：断电、绝缘、接地、漏电保护",
+   "prompt_en": "Diagram: four icons, a switch off, an insulating glove, an earth symbol and a residual current device. No text.",
+   "narration": "防触电靠断电、绝缘、接地、漏保。",
+   "overlay": [],
+   "labels": [
+    "断电",
+    "绝缘",
+    "接地",
+    "漏电保护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "预防为先：不拿身体试电",
+   "scene": "用手指试有没有电，打叉",
+   "prompt_en": "Diagram: a finger touching a wire to check for power, crossed out. No text.",
+   "narration": "绝不能拿身体去试有没有电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触电后要就医并报告",
+   "scene": "阿杰甩着手说没事",
+   "prompt_en": "The young male student shakes his hand and says he is fine.",
+   "narration": "被电一下觉得没事，也别大意。",
+   "overlay": [
+    "触电后要就医并报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触电后要就医并报告",
+   "scene": "医生给他做心电图检查",
+   "prompt_en": "Diagram: a doctor checking a heart rhythm on a monitor for a patient. No text.",
+   "narration": "内伤和心律问题可能迟发，要就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "触电后要就医并报告",
+   "scene": "小研和阿杰向老周报告",
+   "prompt_en": "The female graduate student and the young male student report to the older man.",
+   "narration": "并报告负责人，查明原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "低电压、市电插座和警示标志",
+   "prompt_en": "Diagram: a wall socket with a warning sign and a small voltage bar. No text.",
+   "narration": "伤人的是电流，低电压也不安全。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "心脏路径、计时器、湿手三个图标",
+   "prompt_en": "Diagram: three icons, a path through the heart, a timer and wet hands. No text.",
+   "narration": "过心脏、时间长、皮肤湿，最危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电弧和用手试电都打叉",
+   "prompt_en": "Diagram: an arc flash and a finger testing a wire, both crossed out. No text.",
+   "narration": "防电击防电弧，不拿身体试电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着一个破损的插线板挥手",
+   "prompt_en": "The panda mascot holds a damaged power strip and waves goodbye.",
+   "narration": "下一课：触电的原因与预防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
