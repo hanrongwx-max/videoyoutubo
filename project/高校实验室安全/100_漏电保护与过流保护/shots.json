@@ -1,0 +1,973 @@
+{
+ "id": "100_漏电保护与过流保护",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "漏电保护与过流保护",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/100_漏电保护与过流保护.md",
+ "author_source": "project/高校实验室安全/100_漏电保护与过流保护/src.py",
+ "points": {
+  "K1": "三种保护器件，各管一摊",
+  "K2": "熔断器：电流超标就熔断",
+  "K3": "断路器：过载短路自动跳闸",
+  "K4": "规格要匹配，不用铜丝代替保险丝",
+  "K5": "漏电保护器的名称",
+  "K6": "原理：流出流回比一比",
+  "K7": "漏电改走人体，它抢先断电",
+  "K8": "老式电压型已淘汰",
+  "K9": "漏电保护器不是万能的",
+  "K10": "灵敏度分档：防触电选高灵敏度",
+  "K11": "哪些地方必须有漏电保护",
+  "K12": "插座式、移动式和插头式",
+  "K13": "定期按试验按钮，做好记录",
+  "K14": "跳闸先查原因，不强合不短接",
+  "K15": "合格产品，持证电工安装管理"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一个关着门的配电箱旁，手里拿着一个小保险管",
+   "prompt_en": "The panda mascot stands next to a closed distribution board, holding a small fuse.",
+   "narration": "这一课讲漏电保护与过流保护。",
+   "overlay": [
+    "漏电保护与过流保护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "实验台电源突然断了，阿杰的仪器屏幕变黑",
+   "prompt_en": "The power on a lab bench suddenly cuts out and the young male student's instrument screen goes dark.",
+   "narration": "阿杰的实验台突然断电了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰伸手连续推电源面板上跳下的开关",
+   "prompt_en": "The young male student reaches for a tripped switch on the bench power panel and pushes it up again and again.",
+   "narration": "他一次次把跳下的开关推上去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研按住他的手，指着刚插上的一台旧加热器",
+   "prompt_en": "The female graduate student stops his hand and points at an old heater he has just plugged in.",
+   "narration": "小研说：先别合，它跳闸有原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三种保护器件，各管一摊",
+   "scene": "三个图标并排：保险管、空气开关、带试验按钮的漏电保护器",
+   "prompt_en": "Diagram: three icons side by side, a fuse, a miniature circuit breaker and a residual current device with a test button. No text.",
+   "narration": "线路里有三种保护器件。",
+   "overlay": [
+    "三种保护器件，各管一摊"
+   ],
+   "labels": [
+    "熔断器",
+    "断路器",
+    "漏电保护器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三种保护器件，各管一摊",
+   "scene": "电线发红的图标指向熔断器和断路器",
+   "prompt_en": "Diagram: a glowing overheated wire icon pointing to a fuse and a circuit breaker. No text.",
+   "narration": "熔断器和断路器，管电流过大。",
+   "overlay": [],
+   "labels": [
+    "过载",
+    "短路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三种保护器件，各管一摊",
+   "scene": "人手触电的图标指向漏电保护器",
+   "prompt_en": "Diagram: a hand getting a shock, an arrow pointing to a residual current device. No text.",
+   "narration": "漏电保护器，管漏电和触电。",
+   "overlay": [],
+   "labels": [
+    "漏电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "三种保护器件，各管一摊",
+   "scene": "三个器件合成一面盾牌，挡住火焰和闪电",
+   "prompt_en": "Diagram: the three devices merging into one shield that blocks a flame and a lightning bolt. No text.",
+   "narration": "各管一摊，配合起来才安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔断器：电流超标就熔断",
+   "scene": "插座插满插头，电线变红发热",
+   "prompt_en": "Diagram: a socket packed with plugs, its cord turning red with heat. No text.",
+   "narration": "用电太多，电流超标，线会发热。",
+   "overlay": [
+    "熔断器：电流超标就熔断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔断器：电流超标就熔断",
+   "scene": "熔断器里的细熔丝熔断，电路断开",
+   "prompt_en": "Diagram: the thin wire inside a fuse melting apart and the circuit opening. No text.",
+   "narration": "熔断器的熔丝先熔断，切断电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔断器：电流超标就熔断",
+   "scene": "熔断器为导线挡住了火焰",
+   "prompt_en": "Diagram: a fuse standing in front of a cable like a guard, a flame kept away. No text.",
+   "narration": "牺牲自己，保护线路不起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔断器：电流超标就熔断",
+   "scene": "熔断的保险管和一个同规格的新保险管",
+   "prompt_en": "Diagram: a blown fuse next to a new fuse of the same rating, a wrench icon for the electrician. No text.",
+   "narration": "熔断后查明原因，换同规格的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断路器：过载短路自动跳闸",
+   "scene": "空气开关手柄自动弹下",
+   "prompt_en": "Diagram: the handle of a miniature circuit breaker snapping down by itself. No text.",
+   "narration": "断路器能接通、断开电路。",
+   "overlay": [
+    "断路器：过载短路自动跳闸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断路器：过载短路自动跳闸",
+   "scene": "电流长时间偏大，断路器延时跳开",
+   "prompt_en": "Diagram: a current meter staying a little too high for a while, then the breaker tripping. No text.",
+   "narration": "过载一段时间，它会自动跳闸。",
+   "overlay": [],
+   "labels": [
+    "过载"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断路器：过载短路自动跳闸",
+   "scene": "两根线碰在一起冒火花，断路器瞬间跳开",
+   "prompt_en": "Diagram: two wires touching with a spark, the breaker tripping instantly. No text.",
+   "narration": "短路电流猛增，它瞬间跳闸。",
+   "overlay": [],
+   "labels": [
+    "短路"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断路器：过载短路自动跳闸",
+   "scene": "断路器跳开后排除故障，手柄重新推上",
+   "prompt_en": "Diagram: after the fault is cleared, the breaker handle is pushed back up. No text.",
+   "narration": "排除故障后可以复位，再次使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "规格要匹配，不用铜丝代替保险丝",
+   "scene": "粗细不同的导线配上大小不同的断路器",
+   "prompt_en": "Diagram: thin and thick cables each matched with a breaker of the right size. No text.",
+   "narration": "保护器件规格，要和线路匹配。",
+   "overlay": [
+    "规格要匹配，不用铜丝代替保险丝"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "规格要匹配，不用铜丝代替保险丝",
+   "scene": "细导线配了一个大号断路器，导线发红，打叉",
+   "prompt_en": "Diagram: a thin cable paired with an oversized breaker, the cable glowing red, crossed out. No text.",
+   "narration": "规格过大，线烧了它也不跳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "规格要匹配，不用铜丝代替保险丝",
+   "scene": "用铜丝缠在保险座上，打叉",
+   "prompt_en": "Diagram: copper wire wound across a fuse holder in place of a fuse, crossed out. No text.",
+   "narration": "绝不能拿铜丝代替保险丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "规格要匹配，不用铜丝代替保险丝",
+   "scene": "老李核对配电箱内器件规格",
+   "prompt_en": "The facility engineer checks the ratings of the protective devices in a distribution board.",
+   "narration": "选型更换，由持证电工来做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "漏电保护器的名称",
+   "scene": "欣欣举着一个带试验按钮的漏电保护器",
+   "prompt_en": "The panda mascot holds up a residual current device with a test button.",
+   "narration": "它就是漏电保护器。",
+   "overlay": [
+    "漏电保护器的名称"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "漏电保护器的名称",
+   "scene": "保护器旁边出现长名称的标签图标",
+   "prompt_en": "Diagram: a residual current device with a long blank label beside it. No text.",
+   "narration": "国内统称剩余电流动作保护器。",
+   "overlay": [],
+   "labels": [
+    "剩余电流",
+    "动作保护器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "漏电保护器的名称",
+   "scene": "多个不同名称标签合并成一个",
+   "prompt_en": "Diagram: several blank name tags merging into one tag on the same device. No text.",
+   "narration": "名字有好几个，说的是同一类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "原理：流出流回比一比",
+   "scene": "相线和中性线一起穿过环形互感器",
+   "prompt_en": "Diagram: a line conductor and a neutral conductor passing together through a ring shaped sensor. No text.",
+   "narration": "相线和零线一起穿过一个线圈。",
+   "overlay": [
+    "原理：流出流回比一比"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "原理：流出流回比一比",
+   "scene": "去的箭头和回的箭头一样粗，天平平衡",
+   "prompt_en": "Diagram: an outgoing current arrow and a returning arrow of equal size, a balance scale level. No text.",
+   "narration": "正常时，流出多少就流回多少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "原理：流出流回比一比",
+   "scene": "两边抵消为零，开关不动",
+   "prompt_en": "Diagram: the two currents cancelling to zero inside the ring, the switch staying closed. No text.",
+   "narration": "两者抵消为零，它不动作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "原理：流出流回比一比",
+   "scene": "回流箭头变细，一小股电流流进大地",
+   "prompt_en": "Diagram: the returning arrow becoming thinner as a small stream of current leaks into the ground. No text.",
+   "narration": "有电流漏到地里，就出现差值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "原理：流出流回比一比",
+   "scene": "线圈测到差值，脱扣器推开开关",
+   "prompt_en": "Diagram: the ring sensor detecting the difference and a trip coil pushing the switch open. No text.",
+   "narration": "测到差值，立即跳闸断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电改走人体，它抢先断电",
+   "scene": "工具外壳接地线断了",
+   "prompt_en": "Diagram: a power tool with its earth wire broken. No text.",
+   "narration": "外壳的接地线断了，叫接地故障。",
+   "overlay": [
+    "漏电改走人体，它抢先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电改走人体，它抢先断电",
+   "scene": "电流从工具外壳经人手流到地面",
+   "prompt_en": "Diagram: current flowing from a tool case through a hand and body down to the ground. No text.",
+   "narration": "电流另找出路，经人体入地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电改走人体，它抢先断电",
+   "scene": "漏电保护器眨眼间跳闸，电流箭头消失",
+   "prompt_en": "Diagram: a residual current device tripping in a blink, the current arrow vanishing. No text.",
+   "narration": "它动作极快，一瞬间就断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电改走人体，它抢先断电",
+   "scene": "坏工具一插上，保护器就跳闸",
+   "prompt_en": "Diagram: a faulty tool plugged in, the protective device tripping at once. No text.",
+   "narration": "坏设备一插上，它就跳闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏电改走人体，它抢先断电",
+   "scene": "盾牌罩住人，旁边一个时钟指针几乎没动",
+   "prompt_en": "Diagram: a shield over a person, a clock hand barely moving beside it. No text.",
+   "narration": "跳得快，伤害来不及发生。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "老式保护器的感测线连在设备外壳接地线上",
+   "prompt_en": "Diagram: an old style device with its sensing lead tied to the earth wire of an instrument case. No text.",
+   "narration": "老式的看接地线上的电压。",
+   "overlay": [
+    "老式电压型已淘汰"
+   ],
+   "labels": [
+    "电压型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "接地线断开，老式保护器不动，打叉",
+   "prompt_en": "Diagram: the earth wire broken, the old style device staying still, crossed out. No text.",
+   "narration": "接地线一坏，它就失灵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "漏电从别的路径入地，老式保护器没反应",
+   "prompt_en": "Diagram: leakage current going to ground by another path, the old style device not reacting. No text.",
+   "narration": "漏电不走它的地线，它也不跳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "新式电流型保护器对各路漏电都亮灯",
+   "prompt_en": "Diagram: a modern current sensing device lighting up for leakage on any path. No text.",
+   "narration": "电流型不管从哪漏，都能发现。",
+   "overlay": [],
+   "labels": [
+    "电流型"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "老式保护器装进回收箱，换上新式的",
+   "prompt_en": "Diagram: an old style device placed in a recycling box and replaced by a modern one. No text.",
+   "narration": "老式的已淘汰，现在用电流型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "老式电压型已淘汰",
+   "scene": "小研发现老旧开关，记在本子上报告老周",
+   "prompt_en": "The female graduate student notes an outdated protective switch and reports it to the older man.",
+   "narration": "见到老旧保护装置，报告更新。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护器不是万能的",
+   "scene": "人两只手各碰一根相线，保护器不动，打叉",
+   "prompt_en": "Diagram: a person touching two line conductors at once, the residual current device not tripping, crossed out. No text.",
+   "narration": "人同时碰两根线，它可能不跳。",
+   "overlay": [
+    "漏电保护器不是万能的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护器不是万能的",
+   "scene": "检修前仍然拉闸断电",
+   "prompt_en": "Diagram: an electrician still switching off the power before repair work. No text.",
+   "narration": "所以检修照样要断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护器不是万能的",
+   "scene": "插座过载发热，漏电保护器没反应",
+   "prompt_en": "Diagram: an overloaded socket heating up while a residual current device stays still. No text.",
+   "narration": "只管漏电的，不管过载短路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "漏电保护器不是万能的",
+   "scene": "接地、绝缘、漏电保护三个图标并列",
+   "prompt_en": "Diagram: three icons side by side, an earth symbol, insulation and a residual current device. No text.",
+   "narration": "它代替不了接地和绝缘。",
+   "overlay": [],
+   "labels": [
+    "接地",
+    "绝缘",
+    "漏电保护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "灵敏度分档：防触电选高灵敏度",
+   "scene": "一排刻度从很灵敏到不太灵敏",
+   "prompt_en": "Diagram: a row of dial marks from very sensitive to less sensitive. No text.",
+   "narration": "灵敏度有好几档。",
+   "overlay": [
+    "灵敏度分档：防触电选高灵敏度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "灵敏度分档：防触电选高灵敏度",
+   "scene": "人形图标配最灵敏的一档",
+   "prompt_en": "Diagram: a person icon matched with the most sensitive dial mark. No text.",
+   "narration": "防人身触电，一般选30毫安。",
+   "overlay": [],
+   "labels": [
+    "30毫安"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "灵敏度分档：防触电选高灵敏度",
+   "scene": "大档位配火焰图标，人形图标打叉",
+   "prompt_en": "Diagram: a large dial mark matched with a flame icon, the person icon beside it crossed out. No text.",
+   "narration": "大档位防电气火灾，不防触电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "灵敏度分档：防触电选高灵敏度",
+   "scene": "铭牌上两个空白数值框，一大一小",
+   "prompt_en": "Diagram: a device nameplate with two blank value boxes, one large and one small. No text.",
+   "narration": "铭牌上分清工作电流和动作电流。",
+   "overlay": [],
+   "labels": [
+    "额定电流",
+    "动作电流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "灵敏度分档：防触电选高灵敏度",
+   "scene": "嫌它爱跳，换成不灵敏的，打叉",
+   "prompt_en": "Diagram: a hand swapping a sensitive device for a less sensitive one, crossed out. No text.",
+   "narration": "嫌它爱跳就换低灵敏度，不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "哪些地方必须有漏电保护",
+   "scene": "水池旁的插座带漏电保护",
+   "prompt_en": "Diagram: a socket beside a lab sink fitted with residual current protection. No text.",
+   "narration": "水池水浴旁的插座，必须有漏保。",
+   "overlay": [
+    "哪些地方必须有漏电保护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "哪些地方必须有漏电保护",
+   "scene": "插座回路、手持电动工具、用水设备三个图标",
+   "prompt_en": "Diagram: three icons, a socket circuit, a handheld power tool and a water bath. No text.",
+   "narration": "插座回路、手持工具、用水设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "哪些地方必须有漏电保护",
+   "scene": "移动发电机接电动工具，中间加漏电保护",
+   "prompt_en": "Diagram: a portable generator feeding a power tool through a residual current device. No text.",
+   "narration": "发电机供电，也要漏电保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "哪些地方必须有漏电保护",
+   "scene": "一根线绕开保护器单独接出，打叉",
+   "prompt_en": "Diagram: one circuit wired around the protective device, crossed out. No text.",
+   "narration": "每一路都要经过，不能绕开接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插座式、移动式和插头式",
+   "scene": "三种漏电保护形式的图标",
+   "prompt_en": "Diagram: three icons showing residual current protection built into a socket, a portable unit and a plug. No text.",
+   "narration": "漏电保护有好几种形式。",
+   "overlay": [
+    "插座式、移动式和插头式"
+   ],
+   "labels": [
+    "插座式",
+    "移动式",
+    "插头式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插座式、移动式和插头式",
+   "scene": "墙上带试验键的插座，后面连着几个插座",
+   "prompt_en": "Diagram: a wall socket with a test button protecting several sockets downstream. No text.",
+   "narration": "装在插座里，护住后面几个插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插座式、移动式和插头式",
+   "scene": "【实拍】移动式和插头式漏电保护器外观特写，镜头扫过试验键和复位键（不通电，遮挡品牌）",
+   "prompt_en": "Close-up: a portable residual current adapter and a plug with built-in protection, showing the test and reset buttons.",
+   "narration": "移动式、插头式，带试验和复位键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插座式、移动式和插头式",
+   "scene": "供电线断了一根，插头式保护器自动断开",
+   "prompt_en": "Diagram: one supply wire breaking and the plug type device switching off by itself. No text.",
+   "narration": "供电线断了一根，它也会断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "插座式、移动式和插头式",
+   "scene": "户外临时用电，插线板前加一道移动式漏保",
+   "prompt_en": "Diagram: outdoor temporary power with a portable residual current unit added before the extension cord. No text.",
+   "narration": "临时户外用电，先报批再加漏保。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "定期按试验按钮，做好记录",
+   "scene": "【实拍】实验台电源面板上，手指按下漏电保护器的试验按钮，开关跳下（台面无负载）",
+   "prompt_en": "Close-up: a finger pressing the test button on a residual current device in a bench power panel, the switch dropping.",
+   "narration": "按一下试验按钮，能跳才算灵。",
+   "overlay": [
+    "定期按试验按钮，做好记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "定期按试验按钮，做好记录",
+   "scene": "试验后手柄推回接通位置",
+   "prompt_en": "Diagram: after the test, the handle being pushed back to the on position. No text.",
+   "narration": "试完复位，恢复供电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "定期按试验按钮，做好记录",
+   "scene": "日历上每月一个圈",
+   "prompt_en": "Diagram: a calendar with one circle marked each month. No text.",
+   "narration": "一般每月试一次，以本校规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "定期按试验按钮，做好记录",
+   "scene": "保护器贴编号，小研在台账上签字",
+   "prompt_en": "The female graduate student signs a blank logbook next to a numbered residual current device.",
+   "narration": "每个都编号，结果记台账签字。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "定期按试验按钮，做好记录",
+   "scene": "按下试验键不跳，挂停用牌报修",
+   "prompt_en": "Diagram: the test button pressed but nothing trips, an out of service tag and a repair icon. No text.",
+   "narration": "按了不跳，立即停用报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "跳闸先查原因，不强合不短接",
+   "scene": "跳闸后手又要去推开关，打叉",
+   "prompt_en": "Diagram: a hand about to push a tripped switch straight back up, crossed out. No text.",
+   "narration": "跳闸了，别急着合上。",
+   "overlay": [
+    "跳闸先查原因，不强合不短接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "跳闸先查原因，不强合不短接",
+   "scene": "拔下刚插上的设备，再合闸，正常",
+   "prompt_en": "Diagram: the most recently plugged in device unplugged, then the switch reset and staying on. No text.",
+   "narration": "先拔掉刚接上的设备，找出漏电的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "跳闸先查原因，不强合不短接",
+   "scene": "用导线把保护器短接、拆掉换普通开关，两个打叉",
+   "prompt_en": "Diagram: a wire bridging across the protective device and a swap to a plain switch, both crossed out. No text.",
+   "narration": "不能短接、拆除，或换普通开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "跳闸先查原因，不强合不短接",
+   "scene": "阿杰向老周报告，老李来检查",
+   "prompt_en": "The young male student reports to the older man, and the facility engineer arrives to check.",
+   "narration": "反复跳查不清，报告请电工处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "合格产品，持证电工安装管理",
+   "scene": "【实拍】漏电保护器铭牌和试验按钮特写（装在关闭的配电箱透明窗内或实验台面板上，遮挡品牌）",
+   "prompt_en": "Close-up: the nameplate and test button of a residual current device behind a clear panel window.",
+   "narration": "认准合格产品，有3C标志。",
+   "overlay": [
+    "合格产品，持证电工安装管理"
+   ],
+   "labels": [
+    "3C标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "合格产品，持证电工安装管理",
+   "scene": "来路不明的便宜保护器，打叉",
+   "prompt_en": "Diagram: a cheap unmarked protective device of unknown origin, crossed out. No text.",
+   "narration": "来路不明的便宜货，不能用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "合格产品，持证电工安装管理",
+   "scene": "老李安装保护器，学生站在一旁",
+   "prompt_en": "The facility engineer installs a protective device while students watch from a distance.",
+   "narration": "安装更换，交给持证电工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "合格产品，持证电工安装管理",
+   "scene": "配电箱门关着，学生伸手打开，打叉",
+   "prompt_en": "Diagram: a closed distribution board, a student hand reaching to open it, crossed out. No text.",
+   "narration": "学生不得自行拆装配电箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "熔断器、断路器、漏电保护器三个图标各自配过流和漏电图标",
+   "prompt_en": "Diagram: a fuse and a breaker paired with an overheated wire, a residual current device paired with a shocked hand. No text.",
+   "narration": "过流靠熔断器断路器，漏电靠漏保。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "试验按钮、查原因、不短接三个图标",
+   "prompt_en": "Diagram: three icons, a test button, a magnifying glass and a crossed out bypass wire. No text.",
+   "narration": "定期试跳，跳闸查原因，绝不短接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一个完好的插线板挥手",
+   "prompt_en": "The panda mascot holds up an intact power strip and waves goodbye.",
+   "narration": "下一课：插座、线缆与临时用电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
