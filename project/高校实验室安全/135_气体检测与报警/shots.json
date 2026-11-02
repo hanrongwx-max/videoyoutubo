@@ -1,0 +1,826 @@
+{
+ "id": "135_气体检测与报警",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "气体检测与报警",
+ "seconds": 310,
+ "source_doc": "course/高校实验室安全/135_气体检测与报警.md",
+ "author_source": "project/高校实验室安全/135_气体检测与报警/src.py",
+ "points": {
+  "K1": "为什么要检测：气体察觉不到",
+  "K2": "固定式检测报警：监测、声光、联动排风",
+  "K3": "按所用气体选探测器、装对位置",
+  "K4": "窒息性气体房间装氧含量报警",
+  "K5": "可燃气体看爆炸下限，远未到就报警",
+  "S1": "便携式检测仪：开机自检，随身佩戴",
+  "K6": "定期校准维护，不遮挡不断电",
+  "K7": "报警响了：停下、撤离、报告",
+  "K8": "看风向标，往上风方向撤"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着便携式气体检测仪，墙上有声光报警器",
+   "prompt_en": "The panda mascot holds up a portable gas detector in front of a wall mounted beacon and siren, smiling at the camera.",
+   "narration": "这一课：气体检测与报警。",
+   "overlay": [
+    "气体检测与报警"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣捂鼻子摇头，指向检测仪",
+   "prompt_en": "The panda mascot covers its nose, shakes its head and points at the gas detector.",
+   "narration": "气体安不安全，鼻子说了不算。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在气瓶间，墙上报警器闪红灯",
+   "prompt_en": "In a gas cylinder room a wall beacon flashes red and a siren sounds while the young male student looks around.",
+   "narration": "阿杰在气瓶间，报警器突然响了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰嫌吵，伸手去关报警器",
+   "prompt_en": "The young male student reaches up to switch off the alarm, annoyed by the noise.",
+   "narration": "他嫌吵，想把报警器关掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他又凑到气瓶边去闻",
+   "prompt_en": "The young male student leans close to the cylinders sniffing the air.",
+   "narration": "又凑到气瓶边，闻闻哪儿漏了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师在门口挥手让他出来",
+   "prompt_en": "The safety administrator waves urgently from the doorway for him to come out.",
+   "narration": "王老师：别闻别找，马上出来！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要检测：气体察觉不到",
+   "scene": "有毒、可燃、缺氧三个图标",
+   "prompt_en": "Diagram: three icons, a skull, a flame and a person short of oxygen. No text.",
+   "narration": "气体危害三类：有毒、可燃、缺氧。",
+   "overlay": [
+    "为什么要检测：气体察觉不到"
+   ],
+   "labels": [
+    "有毒",
+    "可燃",
+    "缺氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要检测：气体察觉不到",
+   "scene": "无色无味的气体，鼻子图标打叉",
+   "prompt_en": "Diagram: a colourless gas spreading in a room, a nose icon crossed out. No text.",
+   "narration": "很多气体无色无味，漏了也察觉不到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要检测：气体察觉不到",
+   "scene": "检测仪读数取代鼻子",
+   "prompt_en": "Diagram: a nose icon crossed out next to a gas detector with a blank display and a tick. No text.",
+   "narration": "浓度高不高，要靠检测仪说话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要检测：气体察觉不到",
+   "scene": "伤人，也损坏设备",
+   "prompt_en": "Diagram: an injured person icon and a damaged instrument icon beside a gas cloud. No text.",
+   "narration": "泄漏伤人，也会损坏设施设备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "为什么要检测：气体察觉不到",
+   "scene": "源头控制在前，报警在最后",
+   "prompt_en": "Diagram: a row of barriers, a chained cylinder, a checked pipe, and last an alarm bell. No text.",
+   "narration": "报警是最后一道防线，源头更重要。",
+   "overlay": [],
+   "labels": [
+    "源头控制",
+    "检测报警"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "固定式探头装在墙上，时钟图标",
+   "prompt_en": "Diagram: a fixed gas sensor head on a lab wall with a round the clock icon. No text.",
+   "narration": "固定式探测器，二十四小时监测。",
+   "overlay": [
+    "固定式检测报警：监测、声光、联动排风"
+   ],
+   "labels": [
+    "固定式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "浓度条在危险线之前触发报警",
+   "prompt_en": "Diagram: a rising bar reaching an alarm line well below a danger line, a bell icon. No text.",
+   "narration": "还没到危险浓度，就先报警。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "【实拍】实验室门口的气体报警控制器和声光报警器",
+   "prompt_en": "Close-up: a gas alarm control panel and a beacon with a siren mounted beside a lab door.",
+   "narration": "报警时又响又闪，提醒所有人。",
+   "overlay": [],
+   "labels": [
+    "声光报警"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "报警联动排风机启动",
+   "prompt_en": "Diagram: an alarm signal line linking to an exhaust fan that switches on and pulls gas out. No text.",
+   "narration": "还能联动排风，把气体排出去。",
+   "overlay": [],
+   "labels": [
+    "联动排风"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "信号传到值班室",
+   "prompt_en": "Diagram: an alarm signal travelling to a duty room where the security officer sees a flashing panel. No text.",
+   "narration": "信号传到值班室和应急人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "固定式检测报警：监测、声光、联动排风",
+   "scene": "探测、报警、排风组成一个系统",
+   "prompt_en": "Diagram: three linked boxes, a sensor, an alarm and a fan, in a loop. No text.",
+   "narration": "探测、报警、排风，是一个系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "可燃、有毒、氧含量三种探头",
+   "prompt_en": "Diagram: three sensor heads each with its own icon, a flame, a skull and an oxygen symbol. No text.",
+   "narration": "探测器各测各的气体，不能通用。",
+   "overlay": [
+    "按所用气体选探测器、装对位置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "房间用什么气，装什么探头",
+   "prompt_en": "Diagram: a hydrogen cylinder matched with a flammable gas sensor, a mismatched sensor crossed out. No text.",
+   "narration": "房间用什么气，就装测什么的探头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "轻气体探头装高处，重气体装低处",
+   "prompt_en": "Diagram: a light gas rising to a sensor near the ceiling, a heavy gas sinking to a sensor near the floor. No text.",
+   "narration": "轻气体往上，重气体往下，探头装对。",
+   "overlay": [],
+   "labels": [
+    "轻气装高",
+    "重气装低"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "实验室、冷库、气瓶间",
+   "prompt_en": "Diagram: three rooms, a lab, a cold room and a cylinder room, each with a sensor icon. No text.",
+   "narration": "实验室、冷库、气瓶间都可能要装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "按标准设置，安装经过验收",
+   "prompt_en": "Diagram: the facility engineer installing a sensor with a rule book icon and an acceptance tick. No text.",
+   "narration": "按国家标准和校规设置，专业人员装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "选合格产品，证明齐全",
+   "prompt_en": "Diagram: a gas detector box with a blank certificate and a tick, an unmarked box crossed out. No text.",
+   "narration": "选质量可靠、证明齐全的合格产品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "按所用气体选探测器、装对位置",
+   "scene": "气体换了，探头跟着改",
+   "prompt_en": "Diagram: a new gas cylinder arriving and the facility engineer checking the sensor type. No text.",
+   "narration": "换用新的气体，先查探头配不配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "窒息性气体房间装氧含量报警",
+   "scene": "液氮、干冰、氮气瓶的房间",
+   "prompt_en": "Diagram: a room with a liquid nitrogen dewar, a dry ice box and nitrogen cylinders. No text.",
+   "narration": "液氮、干冰、惰性气体，会挤走氧气。",
+   "overlay": [
+    "窒息性气体房间装氧含量报警"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "窒息性气体房间装氧含量报警",
+   "scene": "【实拍】液氮间门口的氧含量报警器显示屏",
+   "prompt_en": "Close-up: an oxygen level monitor display mounted at the entrance of a liquid nitrogen room.",
+   "narration": "这类房间装氧含量报警器。",
+   "overlay": [],
+   "labels": [
+    "氧含量报警"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "窒息性气体房间装氧含量报警",
+   "scene": "氧含量低时报警，高时也报警",
+   "prompt_en": "Diagram: an oxygen gauge with a low alarm zone and a high alarm zone, normal air in the middle. No text.",
+   "narration": "氧少了要报警，富氧也危险。",
+   "overlay": [],
+   "labels": [
+    "缺氧",
+    "富氧"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "窒息性气体房间装氧含量报警",
+   "scene": "报警值按国家标准和本校设定",
+   "prompt_en": "Diagram: an oxygen monitor with a blank setting screen and a rule book icon. No text.",
+   "narration": "报警值按国家标准和本校规定设定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "窒息性气体房间装氧含量报警",
+   "scene": "报警时先离开，别进去找原因",
+   "prompt_en": "Diagram: a person stepping back out of a door under a flashing oxygen alarm, entering crossed out. No text.",
+   "narration": "一报警，先离开，别进去找原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可燃气体看爆炸下限，远未到就报警",
+   "scene": "浓度轴上的爆炸下限线",
+   "prompt_en": "Diagram: a concentration bar for a flammable gas with a lower explosive limit line marked by a flame. No text.",
+   "narration": "爆炸下限：可燃气能被点燃的最低浓度。",
+   "overlay": [
+    "可燃气体看爆炸下限，远未到就报警"
+   ],
+   "labels": [
+    "爆炸下限"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可燃气体看爆炸下限，远未到就报警",
+   "scene": "低于下限太稀点不着",
+   "prompt_en": "Diagram: a thin gas mixture below the line with a spark that does not ignite. No text.",
+   "narration": "低于下限太稀，点不着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可燃气体看爆炸下限，远未到就报警",
+   "scene": "报警点设在远低于下限处",
+   "prompt_en": "Diagram: an alarm bell mark placed far below the lower explosive limit line. No text.",
+   "narration": "报警点设得远低于下限。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可燃气体看爆炸下限，远未到就报警",
+   "scene": "可燃气体检测仪读数上升",
+   "prompt_en": "Diagram: a flammable gas detector with a blank display and a bar gauge rising from zero. No text.",
+   "narration": "检测仪显示的是离下限还有多远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "可燃气体看爆炸下限，远未到就报警",
+   "scene": "读数上升就停止作业撤离",
+   "prompt_en": "Diagram: a rising detector bar and a person stopping work and leaving. No text.",
+   "narration": "远没到下限就要报警撤离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "便携式检测仪：单一气体和复合气体",
+   "prompt_en": "Diagram: two portable gas detectors, a small single gas unit and a larger multi gas unit. No text.",
+   "narration": "便携式检测仪，可以随身带。",
+   "overlay": [
+    "便携式检测仪：开机自检，随身佩戴"
+   ],
+   "labels": [
+    "单一气体",
+    "复合气体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "【实拍】在室外清洁空气中开机，等待自检完成",
+   "prompt_en": "Close-up: a hand switching on a portable gas detector outdoors and the display running its self check.",
+   "narration": "在清洁空气中开机，等自检完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "【实拍】按键查看声、光、振动报警是否正常",
+   "prompt_en": "Close-up: a thumb pressing a button on a portable gas detector, its lights flashing and the unit vibrating.",
+   "narration": "确认声、光、振动报警都正常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "按说明书用标准气做功能测试",
+   "prompt_en": "Diagram: the facility engineer applying a test gas cap to a portable detector, an instruction leaflet beside it. No text.",
+   "narration": "按说明书和校规，定期做功能测试。",
+   "overlay": [],
+   "labels": [
+    "功能测试"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "【实拍】检测仪夹在衣领附近的呼吸带",
+   "prompt_en": "Close-up: a portable gas detector clipped to a lab coat collar near the face.",
+   "narration": "佩戴在衣领附近，靠近口鼻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "便携式检测仪：开机自检，随身佩戴",
+   "scene": "进入前先在门口检测",
+   "prompt_en": "Diagram: a person holding a portable detector at a doorway before entering a gas room. No text.",
+   "narration": "进入可疑场所前，先在门口测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "定期校准维护，不遮挡不断电",
+   "scene": "按说明书定期校准",
+   "prompt_en": "Diagram: the facility engineer calibrating a fixed gas sensor with a calibration kit and a calendar. No text.",
+   "narration": "探测器按说明书定期校准。",
+   "overlay": [
+    "定期校准维护，不遮挡不断电"
+   ],
+   "labels": [
+    "定期校准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "定期校准维护，不遮挡不断电",
+   "scene": "探头被遮挡、断电打叉",
+   "prompt_en": "Diagram: a sensor covered with a plastic bag and a power plug pulled out, both crossed out. No text.",
+   "narration": "不能遮挡、断电，不随意拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "定期校准维护，不遮挡不断电",
+   "scene": "过期失效的传感器更换",
+   "prompt_en": "Diagram: an old sensor with an expired calendar icon being replaced with a new one. No text.",
+   "narration": "传感器有寿命，过期失效要更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "定期校准维护，不遮挡不断电",
+   "scene": "强制检定的按期送检",
+   "prompt_en": "Diagram: a detector going to a verification lab and coming back with a blank sticker. No text.",
+   "narration": "需要检定的，按期送检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "定期校准维护，不遮挡不断电",
+   "scene": "校准检查登记记录",
+   "prompt_en": "Diagram: a blank logbook with tick boxes beside a gas detector. No text.",
+   "narration": "校准和检查，都要做好记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "报警响，立即停止操作",
+   "prompt_en": "The female graduate student stops her experiment as a wall beacon flashes.",
+   "narration": "报警一响，立即停下手里的操作。",
+   "overlay": [
+    "报警响了：停下、撤离、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "闻、找漏点打叉",
+   "prompt_en": "Diagram: a person sniffing and searching around cylinders under a flashing alarm, crossed out. No text.",
+   "narration": "不闻、不找，不进去查看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "返回关阀打叉",
+   "prompt_en": "Diagram: a person running back to close a cylinder valve under an alarm, crossed out. No text.",
+   "narration": "不冒险返回关阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "可燃气体报警，开关电器打叉",
+   "prompt_en": "Diagram: a flammable gas alarm with a light switch and a flame, both crossed out. No text.",
+   "narration": "可燃气体报警，不开关电器、不动火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "关门隔离，门口提醒别人",
+   "prompt_en": "The female graduate student closes the lab door and holds up a hand to stop others entering.",
+   "narration": "撤出后关门隔离，提醒别人别进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "嫌吵关掉报警器打叉",
+   "prompt_en": "Diagram: a hand switching off a sounding alarm, crossed out. No text.",
+   "narration": "不能嫌吵就关掉，先查原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "报告负责人和保卫处",
+   "prompt_en": "Diagram: an arrow chain from a phone to the lab supervisor and the security office. No text.",
+   "narration": "报告负责人和保卫处，等专业处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "有人倒下：拨119、120，不冲进去",
+   "prompt_en": "Diagram: a person collapsed inside a gas room, a rescuer at the door dialling, rushing in crossed out. No text.",
+   "narration": "有人倒下，拨119、120，不冲进去。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "报警响了：停下、撤离、报告",
+   "scene": "专业人员检测确认后恢复",
+   "prompt_en": "The facility engineer with a portable detector checks the room before giving a thumbs up.",
+   "narration": "专业人员检测确认后，才能回去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看风向标，往上风方向撤",
+   "scene": "楼顶的风向袋",
+   "prompt_en": "Diagram: a wind sock on a pole above a building, blowing to one side. No text.",
+   "narration": "风向袋告诉你，气体往哪儿飘。",
+   "overlay": [
+    "看风向标，往上风方向撤"
+   ],
+   "labels": [
+    "风向袋"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看风向标，往上风方向撤",
+   "scene": "往上风或侧风方向撤",
+   "prompt_en": "Diagram: a gas cloud drifting downwind and people walking upwind and crosswind away from it. No text.",
+   "narration": "往上风或侧风方向撤。",
+   "overlay": [],
+   "labels": [
+    "上风",
+    "侧风"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看风向标，往上风方向撤",
+   "scene": "顺风跑、躲低处打叉",
+   "prompt_en": "Diagram: a person running downwind with the cloud and another hiding in a ditch, both crossed out. No text.",
+   "narration": "别顺着风跑，也别往低处躲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看风向标，往上风方向撤",
+   "scene": "到集合点清点人数，报告",
+   "prompt_en": "The safety administrator counts students at an assembly point and phones the security office.",
+   "narration": "到集合点清点人数，马上报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "按气体选探头、装对位置",
+   "prompt_en": "Diagram: three sensor icons placed high and low in a room. No text.",
+   "narration": "按气体选探头，装对位置。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "定期校准、开机自检",
+   "prompt_en": "Diagram: two icons, a calibration kit and a portable detector with a tick. No text.",
+   "narration": "定期校准，便携仪开机先自检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "报警：不闻不找，上风撤离，报告",
+   "prompt_en": "Diagram: three icons, a nose crossed out, a wind sock with people walking upwind and a phone. No text.",
+   "narration": "一报警，不闻不找，上风撤离报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣抱着一只冒白雾的液氮杜瓦挥手",
+   "prompt_en": "The panda mascot stands beside a small liquid nitrogen dewar with white vapour and waves goodbye.",
+   "narration": "下一课：低温液体与干冰的危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
