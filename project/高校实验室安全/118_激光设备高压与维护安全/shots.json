@@ -1,0 +1,943 @@
+{
+ "id": "118_激光设备高压与维护安全",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光设备高压与维护安全",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/118_激光设备高压与维护安全.md",
+ "author_source": "project/高校实验室安全/118_激光设备高压与维护安全/src.py",
+ "points": {
+  "K1": "机内有高压电和强激光",
+  "K2": "当心触电标志与开盖联锁",
+  "K3": "只有授权专业人员才能开柜维修",
+  "K4": "断电后仍有残余高压：等待放电、验电",
+  "K5": "维修全程戴绝缘手套",
+  "K6": "维护前停机断电、挂牌、冷却",
+  "K7": "开盖调试：联锁和安全回路不短接",
+  "K8": "定期维护：按厂家周期和运行小时",
+  "K9": "光路易损件：镜片、喷嘴和风琴管",
+  "K10": "小零件松脱，引出一串故障",
+  "K11": "修前记录故障，修后检查验收",
+  "K12": "钥匙和管理员密码专人管，改动要登记"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台外壳关好的激光焊接机旁",
+   "prompt_en": "The panda mascot stands beside a closed handheld laser welding machine cabinet in a workshop, smiling at the camera.",
+   "narration": "这一课讲激光设备的高压与维护安全。",
+   "overlay": [
+    "激光设备高压与维护安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "焊机显示屏不亮，阿杰拿起螺丝刀想拆外壳",
+   "prompt_en": "The young male student frowns at a laser welding machine with a dark display screen and picks up a screwdriver toward the cabinet screws.",
+   "narration": "焊机屏幕不亮，阿杰想拆开看看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李快步过来伸手拦住",
+   "prompt_en": "The facility engineer hurries over and raises his hand to stop the young male student, the cabinet still closed.",
+   "narration": "老李拦住他：机柜里有高压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拔下插头，在设备上挂空白报修牌",
+   "prompt_en": "The facility engineer pulls out the power plug and hangs a blank repair tag on the closed machine.",
+   "narration": "停机断电挂牌，交给授权人员修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "机内有高压电和强激光",
+   "scene": "设备外壳透视图：电源模块闪电符号、激光器光束符号",
+   "prompt_en": "Diagram: a cutaway outline of a closed laser machine, a power module marked with a lightning bolt and a laser source marked with a beam icon. No text.",
+   "narration": "激光设备里，有高压电也有强激光。",
+   "overlay": [
+    "机内有高压电和强激光"
+   ],
+   "labels": [
+    "高压电",
+    "强激光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "机内有高压电和强激光",
+   "scene": "触电和烧伤两个图标",
+   "prompt_en": "Diagram: two icons, a hand receiving an electric shock and a burned hand, beside a closed laser machine. No text.",
+   "narration": "处理不当，会触电、烧伤，甚至致命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "机内有高压电和强激光",
+   "scene": "激光电源的电极接头旁画着很大的闪电符号",
+   "prompt_en": "Diagram: the electrode connectors of a laser power unit drawn inside a closed housing with a very large lightning bolt beside them. No text.",
+   "narration": "有的激光电源，电压可达上万伏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "机内有高压电和强激光",
+   "scene": "光束之外四个危害图标",
+   "prompt_en": "Diagram: a laser beam in the centre surrounded by four icons, a flame, a bursting capacitor, a lightning bolt and a chemical bottle. No text.",
+   "narration": "光束之外，还有火灾、爆炸、触电和化学危害。",
+   "overlay": [],
+   "labels": [
+    "火灾",
+    "爆炸",
+    "触电",
+    "化学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "机内有高压电和强激光",
+   "scene": "储能电容组和闪光灯冒出裂纹",
+   "prompt_en": "Diagram: a bank of storage capacitors and a flash lamp with crack lines, a warning burst around them. No text.",
+   "narration": "储能电容和闪光灯，故障时可能爆裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "当心触电标志与开盖联锁",
+   "scene": "【实拍】激光设备外壳上的当心触电警告标志特写（设备断电，遮挡品牌型号）",
+   "prompt_en": "Close-up: a high voltage warning sign on the closed metal housing of a laser machine.",
+   "narration": "外壳上的当心触电标志，就是警告。",
+   "overlay": [
+    "当心触电标志与开盖联锁"
+   ],
+   "labels": [
+    "当心触电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "当心触电标志与开盖联锁",
+   "scene": "联锁示意：顶盖一开，开关断开，高压切断",
+   "prompt_en": "Diagram: the top cover of a laser unit lifting, an interlock switch opening and the high voltage circuit line breaking. No text.",
+   "narration": "开盖联锁：盖一打开，高压就切断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "当心触电标志与开盖联锁",
+   "scene": "高压断开后，风扇仍画着带电符号",
+   "prompt_en": "Diagram: after the high voltage line is broken, a cooling fan inside the unit still marked with a small lightning bolt. No text.",
+   "narration": "可风扇等部件，仍然带电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "当心触电标志与开盖联锁",
+   "scene": "透明护罩挡住开口，门上有联锁开关",
+   "prompt_en": "Diagram: a clear plastic guard covering an opening and an interlock switch on the door, two shields drawn. No text.",
+   "narration": "透明护罩加门联锁，两道保护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "当心触电标志与开盖联锁",
+   "scene": "手越过开口线，电火花跳向手，打叉",
+   "prompt_en": "Diagram: a hand crossing the line of an opening while a spark jumps through humid air toward it, crossed out. No text.",
+   "narration": "手不越开口，潮湿时高压能隔空放电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "只有授权专业人员才能开柜维修",
+   "scene": "说明书上画着维修工具和人形图标",
+   "prompt_en": "Diagram: an open equipment manual with a wrench icon and a qualified technician icon. No text.",
+   "narration": "说明书写明：维修只限专业人员。",
+   "overlay": [
+    "只有授权专业人员才能开柜维修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "只有授权专业人员才能开柜维修",
+   "scene": "学生拿螺丝刀拆机柜，打叉",
+   "prompt_en": "Diagram: a student using a screwdriver on a laser machine cabinet, crossed out. No text.",
+   "narration": "学生和非专业人员，严禁擅自拆机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "只有授权专业人员才能开柜维修",
+   "scene": "报修流程：学生、实验室负责人、厂家或授权维修人员",
+   "prompt_en": "Diagram: a repair flow with three steps, a student reporting, a lab supervisor and a qualified service technician. No text.",
+   "narration": "内部故障先报修，由厂家或授权人员修。",
+   "overlay": [],
+   "labels": [
+    "报修",
+    "实验室负责人",
+    "授权维修"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "只有授权专业人员才能开柜维修",
+   "scene": "老李对照维修方案逐项确认",
+   "prompt_en": "The facility engineer checks a blank step by step repair plan beside a switched off laser machine.",
+   "narration": "动手维修的人，必须清楚每一步。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "只有授权专业人员才能开柜维修",
+   "scene": "屏幕上的开盖演示，旁边模仿的人打叉",
+   "prompt_en": "Diagram: a training video of an opened cabinet on a screen, a person copying it crossed out. No text.",
+   "narration": "看开盖演示，只学原理，不模仿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断电后仍有残余高压：等待放电、验电",
+   "scene": "拔下插头，电源里的电容仍发着光",
+   "prompt_en": "Diagram: a plug pulled out of the socket while the capacitors inside the power unit still glow with stored charge. No text.",
+   "narration": "拔了电，电容里还存着高压。",
+   "overlay": [
+    "断电后仍有残余高压：等待放电、验电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断电后仍有残余高压：等待放电、验电",
+   "scene": "时钟和说明书图标",
+   "prompt_en": "Diagram: a clock icon next to an open manual, the charge in a capacitor slowly fading. No text.",
+   "narration": "按说明书规定的时间，等待放电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断电后仍有残余高压：等待放电、验电",
+   "scene": "老李用测试仪表测量端子，表盘空白",
+   "prompt_en": "Diagram: the facility engineer in insulated gloves touching meter probes to power terminals, the meter display blank. No text.",
+   "narration": "再由授权人员验电，确认无电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断电后仍有残余高压：等待放电、验电",
+   "scene": "手指去碰端子试电，打叉",
+   "prompt_en": "Diagram: a bare finger reaching to touch a terminal to feel for electricity, crossed out. No text.",
+   "narration": "不凭感觉，绝不用手去试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "断电后仍有残余高压：等待放电、验电",
+   "scene": "拆下的旧电源端子朝内放在箱子里",
+   "prompt_en": "Diagram: a removed old power supply placed in a box with its terminals facing inward and a lightning icon on it. No text.",
+   "narration": "拆下的旧电源，也当带电件对待。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "维修全程戴绝缘手套",
+   "scene": "老李戴上绝缘手套",
+   "prompt_en": "The facility engineer pulls on a pair of thick rubber insulating gloves before repair work on a switched off machine.",
+   "narration": "维修全过程，戴好绝缘手套。",
+   "overlay": [
+    "维修全程戴绝缘手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "维修全程戴绝缘手套",
+   "scene": "【实拍】检查绝缘手套：看等级标识和试验日期，从袖口卷起查漏气",
+   "prompt_en": "Close-up: hands checking a rubber insulating glove, reading its rating mark and test date, then rolling the cuff to trap air and look for leaks.",
+   "narration": "用前查等级和试验日期，卷起查漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "维修全程戴绝缘手套",
+   "scene": "摘下手套徒手拆线，打叉",
+   "prompt_en": "Diagram: gloves taken off and bare hands pulling a wire inside a machine, crossed out. No text.",
+   "narration": "不能图方便，摘了手套徒手拆线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "维修全程戴绝缘手套",
+   "scene": "普通线手套和绝缘手套对比，线手套打叉",
+   "prompt_en": "Diagram: a cotton work glove crossed out beside a thick rubber insulating glove with a tick. No text.",
+   "narration": "普通线手套，不是绝缘手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "维修全程戴绝缘手套",
+   "scene": "戴手套和护目镜拿烧黑的零件",
+   "prompt_en": "Diagram: hands in gloves holding a burned blackened part, the person wearing safety goggles. No text.",
+   "narration": "拿烧坏的零件，戴手套和护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "关机、拔钥匙、断开总电源三个图标",
+   "prompt_en": "Diagram: three steps, a power button switched off, a key pulled out and a main breaker switched down. No text.",
+   "narration": "维护前，关机、拔钥匙、断电源。",
+   "overlay": [
+    "维护前停机断电、挂牌、冷却"
+   ],
+   "labels": [
+    "关机",
+    "拔钥匙",
+    "断电源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "【实拍】在已断开的电源开关上加锁并挂空白维修牌（设备断电）",
+   "prompt_en": "Close-up: a hand fitting a safety padlock and a blank maintenance tag onto a switched off isolating switch.",
+   "narration": "上锁挂牌，防止别人误开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "镜片和喷嘴冒热气，旁边是等待的时钟",
+   "prompt_en": "Diagram: a lens holder and a nozzle with heat waves rising, a clock beside them. No text.",
+   "narration": "高温部件先冷却，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "维修区用围挡围起，旁人站在线外",
+   "prompt_en": "Diagram: a repair area around a laser machine fenced off with a barrier, other people standing outside the line. No text.",
+   "narration": "维修区围起来，无关人员不靠近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "开着机打开镜片仓，打叉",
+   "prompt_en": "Diagram: a lens compartment on a welding head being opened while the power lamp is on, crossed out. No text.",
+   "narration": "镜片仓在光路上，开着机绝不拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "维护前停机断电、挂牌、冷却",
+   "scene": "冷却水管漏水流向电线，先断电",
+   "prompt_en": "Diagram: a cooling water hose leaking toward electric wires, a hand switching off the main breaker first. No text.",
+   "narration": "冷却水漏到电线旁，先断电再处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "开盖调试：联锁和安全回路不短接",
+   "scene": "开盖通电调试，只有老李一人在受控区内",
+   "prompt_en": "Diagram: a technician working on a powered unit inside a fenced controlled area, everyone else outside. No text.",
+   "narration": "开盖通电调试，只由专业人员按规程做。",
+   "overlay": [
+    "开盖调试：联锁和安全回路不短接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "开盖调试：联锁和安全回路不短接",
+   "scene": "导线短接联锁开关，打叉",
+   "prompt_en": "Diagram: a jumper wire bridging an interlock switch, crossed out. No text.",
+   "narration": "安全回路和联锁，绝不能短接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "开盖调试：联锁和安全回路不短接",
+   "scene": "原厂备件打勾，不同型号零件打叉",
+   "prompt_en": "Diagram: an original spare part with a tick beside a different looking part crossed out. No text.",
+   "narration": "换件用原厂备件，不乱换型号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "开盖调试：联锁和安全回路不短接",
+   "scene": "出光调试：关好盖，门口挂牌，人员戴防护眼镜",
+   "prompt_en": "Diagram: alignment work with the cover closed, a laser warning sign at the door and people wearing laser safety goggles. No text.",
+   "narration": "要出光调试，清场挂牌、戴对眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "开盖调试：联锁和安全回路不短接",
+   "scene": "电脑给设备刷固件，打叉",
+   "prompt_en": "Diagram: a laptop connected to a machine with a firmware upload bar, crossed out, an alarm bell icon fading. No text.",
+   "narration": "固件参数不乱改，否则联锁报警会失灵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "定期维护：按厂家周期和运行小时",
+   "scene": "说明书上的维护周期表",
+   "prompt_en": "Diagram: an open manual showing a maintenance schedule chart with blank cells. No text.",
+   "narration": "维护多久一次，先看厂家要求。",
+   "overlay": [
+    "定期维护：按厂家周期和运行小时"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "定期维护：按厂家周期和运行小时",
+   "scene": "运行小时计：一班和两班的进度条",
+   "prompt_en": "Diagram: an hour meter with two progress bars, one shift and two shifts, the second filling twice as fast. No text.",
+   "narration": "周期按运行小时算，开得多修得勤。",
+   "overlay": [],
+   "labels": [
+    "一班",
+    "两班"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "定期维护：按厂家周期和运行小时",
+   "scene": "排满的日程表，维护卡被一再往后推",
+   "prompt_en": "Diagram: a crowded schedule where a maintenance card keeps getting pushed later, small hazard icons piling up. No text.",
+   "narration": "太忙不想停，隐患越攒越多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "定期维护：按厂家周期和运行小时",
+   "scene": "设备突然停机，等人、维修、调机三个时钟",
+   "prompt_en": "Diagram: a broken down machine with three clocks, waiting for a technician, repairing and readjusting. No text.",
+   "narration": "突然坏了，等修调机，停得更久。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "定期维护：按厂家周期和运行小时",
+   "scene": "维护计划写进设备台账",
+   "prompt_en": "Diagram: a maintenance plan sheet being filed into an equipment ledger book. No text.",
+   "narration": "维护写进计划，记进设备台账。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光路易损件：镜片、喷嘴和风琴管",
+   "scene": "切割头拆下的镜片、喷嘴和水管",
+   "prompt_en": "Diagram: parts taken from a cutting head laid out on a cloth, a lens, a nozzle and a cooling hose, with heat and smoke icons. No text.",
+   "narration": "镜片、喷嘴、水管，天天受热受烟。",
+   "overlay": [
+    "光路易损件：镜片、喷嘴和风琴管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光路易损件：镜片、喷嘴和风琴管",
+   "scene": "切割头上方伸缩的风琴管，里面是光路",
+   "prompt_en": "Diagram: a folding bellows cover above a cutting head stretching and shrinking, a beam path inside it and dust kept out. No text.",
+   "narration": "风琴管护着光路，挡住粉尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光路易损件：镜片、喷嘴和风琴管",
+   "scene": "风琴管上有破洞，挂停用牌；刷子清积灰",
+   "prompt_en": "Diagram: a bellows cover with a torn hole and a blank out of service tag, and a brush cleaning dust off it. No text.",
+   "narration": "风琴管破了就停用，积灰定期清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光路易损件：镜片、喷嘴和风琴管",
+   "scene": "碎镜片装进密封袋，徒手捡打叉",
+   "prompt_en": "Diagram: broken lens pieces placed into a sealed bag with tweezers, a bare hand picking them up crossed out. No text.",
+   "narration": "碎镜片别徒手碰，装袋交专人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光路易损件：镜片、喷嘴和风琴管",
+   "scene": "小瓶酒精远离火源",
+   "prompt_en": "Diagram: a small bottle of alcohol and a lens tissue kept far from a flame icon. No text.",
+   "narration": "擦镜片的酒精，少量取用远离火源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "一排倒下的多米诺骨牌",
+   "prompt_en": "Diagram: a row of dominoes falling one after another, each domino showing a small machine part icon. No text.",
+   "narration": "设备故障，常像推倒的多米诺。",
+   "overlay": [
+    "小零件松脱，引出一串故障"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "护罩螺栓松了，护罩掉到输出镜前",
+   "prompt_en": "Diagram: loose bolts on a small guard inside a laser, the guard dropping in front of an orange output mirror. No text.",
+   "narration": "护罩螺栓松了，掉到输出镜前。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "碎屑溅回，镜片出现裂纹",
+   "prompt_en": "Diagram: debris spattering back onto the mirror surface and a crack line spreading across it. No text.",
+   "narration": "碎屑溅回，镜片开裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "镜片碎裂向内塌，风机和电源冒烟",
+   "prompt_en": "Diagram: a cracked mirror collapsing inward into a low pressure chamber, a fan and a power unit smoking. No text.",
+   "narration": "镜片还是密封边界，一碎可能毁掉激光器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "跑偏的光熔穿水管，水喷到电气接头",
+   "prompt_en": "Diagram: a misaligned beam melting a hole in a cooling water hose and water spraying onto an electrical connector. No text.",
+   "narration": "跑偏的光熔穿水管，水喷到电器上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "光打在喷嘴内壁，喷嘴孔被焊死",
+   "prompt_en": "Diagram: a beam hitting the inside wall of a nozzle and the nozzle hole sealed shut by molten metal. No text.",
+   "narration": "光打偏了，喷嘴孔也被焊死。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "按下停机键，只坏了几个小零件",
+   "prompt_en": "Diagram: a hand pressing the stop button early, only three small damaged parts on the table. No text.",
+   "narration": "及时停机，只坏了几个小零件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "小零件松脱，引出一串故障",
+   "scene": "日历翻过几个月，维护时打开一眼看到松脱",
+   "prompt_en": "Diagram: calendar pages flipping over several months, then a technician opening the housing during routine maintenance and spotting the loose guard. No text.",
+   "narration": "松了几个月没人发现，按时维护就能看到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "记录本上画着故障、报警和时钟图标",
+   "prompt_en": "Diagram: a blank fault log with icons for a fault, an alarm bell and a clock. No text.",
+   "narration": "先记下故障现象、报警和时间。",
+   "overlay": [
+    "修前记录故障，修后检查验收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "按说明书逐项排查，乱换电路板打叉",
+   "prompt_en": "Diagram: a checklist followed step by step, and a hand randomly swapping circuit boards crossed out. No text.",
+   "narration": "按说明书排查，不凭猜测乱换件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "老李用合适的工具把护罩装回拧紧",
+   "prompt_en": "The facility engineer uses a proper tool to refit and tighten a guard inside a switched off machine.",
+   "narration": "拆下的护罩，用合适工具装回拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "对照清单逐项检查，授权人员试机",
+   "prompt_en": "Diagram: a technician ticking a checklist for each fastener, then a trial run with the cover closed. No text.",
+   "narration": "修完对照清单检查，授权人员试机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "维修记录写好，验收合格后摘下维修牌",
+   "prompt_en": "Diagram: a repair record being filled in, then a blank maintenance tag removed after acceptance. No text.",
+   "narration": "写好维修记录，验收合格再摘牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "修前记录故障，修后检查验收",
+   "scene": "活没干完：写清进度，螺钉零件装盒标好",
+   "prompt_en": "Diagram: an unfinished repair left with a handover note, screws and parts in a labelled box, the machine still locked out. No text.",
+   "narration": "没修完就交接，写清进度，零件装盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "钥匙和管理员密码专人管，改动要登记",
+   "scene": "王老师把钥匙和密封的密码信封锁进柜子",
+   "prompt_en": "The safety administrator locks a machine key and a sealed envelope into a small key cabinet.",
+   "narration": "钥匙和管理员密码，由负责人保管。",
+   "overlay": [
+    "钥匙和管理员密码专人管，改动要登记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "钥匙和管理员密码专人管，改动要登记",
+   "scene": "空白密码框旁画着更换箭头，贴在机器上的便签打叉",
+   "prompt_en": "Diagram: an empty password box with a change arrow, and a sticky note stuck on the machine crossed out. No text.",
+   "narration": "出厂默认密码要改，新密码不外传。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "钥匙和管理员密码专人管，改动要登记",
+   "scene": "参数登记表：原值、新值、日期、操作人",
+   "prompt_en": "Diagram: a parameter change log with four blank columns before a settings screen. No text.",
+   "narration": "改参数前记原值，改后登记新值。",
+   "overlay": [],
+   "labels": [
+    "原值",
+    "新值",
+    "日期",
+    "操作人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "钥匙和管理员密码专人管，改动要登记",
+   "scene": "屏幕上的红色提示框，手指停住",
+   "prompt_en": "Diagram: a red alert box on a settings screen and a finger pausing above it. No text.",
+   "narration": "屏幕上的红色提示，看清再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "高压闪电、电容、绝缘手套三个图标",
+   "prompt_en": "Diagram: three icons, a lightning bolt, a capacitor and a rubber insulating glove. No text.",
+   "narration": "机内高压，断电后还有残余电荷。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "授权人员、上锁挂牌、联锁三个图标",
+   "prompt_en": "Diagram: three icons, a qualified technician, a padlock with a tag and an interlock switch. No text.",
+   "narration": "授权人员维修，上锁挂牌，不短接联锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "维护周期表和维修记录本",
+   "prompt_en": "Diagram: a maintenance schedule and a repair record book side by side. No text.",
+   "narration": "按时维护，修前修后都要记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在灭火器和急停按钮旁挥手",
+   "prompt_en": "The panda mascot stands beside a wall mounted fire extinguisher and a red emergency stop button, waving goodbye.",
+   "narration": "下一课：激光设备火灾与急停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
