@@ -1,0 +1,791 @@
+{
+ "id": "122_离心机的维护与转子退役",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "离心机的维护与转子退役",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/122_离心机的维护与转子退役.md",
+ "author_source": "project/高校实验室安全/122_离心机的维护与转子退役/src.py",
+ "points": {
+  "K1": "定期维护是安全的基础",
+  "K2": "转子为什么会失效：腐蚀和疲劳",
+  "K3": "先断电停稳，取下转子放软垫",
+  "K4": "中性清洗剂温和清洁，擦净盐垢",
+  "K5": "清水冲洗不浸泡，必要时再消毒",
+  "K6": "洗净晾干，再薄涂润滑脂",
+  "K7": "检查裂纹和腐蚀，有损伤立即停用",
+  "K8": "拿不准请专业检测，记录并贴标识",
+  "K9": "转子寿命：使用日志、降速、按时退役",
+  "K10": "损坏停用挂牌，报修不私修"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣拿着软刷站在离心机和转子旁",
+   "prompt_en": "The panda mascot holds a soft brush beside a benchtop centrifuge and a rotor resting on a mat, smiling at the camera.",
+   "narration": "这一课：离心机的维护与转子退役。",
+   "overlay": [
+    "离心机的维护与转子退役"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣轻拍转子",
+   "prompt_en": "The panda mascot gently pats a clean rotor like an old friend.",
+   "narration": "转子转得快，更要勤保养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰打开离心机，腔体里有干了的盐渍",
+   "prompt_en": "The young male student opens a centrifuge and finds dried white salt stains inside the chamber and on the rotor.",
+   "narration": "阿杰发现，转子上有一圈白色盐渍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰想用钢丝球刷，被老李拦住",
+   "prompt_en": "The young male student reaches for a steel wool pad, and the facility engineer stops him with a raised hand.",
+   "narration": "他想拿钢丝球刷，老李赶紧拦住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拿出维护规程卡",
+   "prompt_en": "The facility engineer holds up a blank maintenance procedure card and a soft brush.",
+   "narration": "老李：维护有规程，一步都不能乱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定期维护是安全的基础",
+   "scene": "高速转子和扳手、清洁布图标",
+   "prompt_en": "Diagram: a high speed rotor with a wrench and a cleaning cloth icon beside it. No text.",
+   "narration": "转速越高，越要状态良好。",
+   "overlay": [
+    "定期维护是安全的基础"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定期维护是安全的基础",
+   "scene": "日历上定期打勾，坏了才修打叉",
+   "prompt_en": "Diagram: a calendar with regular ticks for maintenance, and a broken machine waiting for repair crossed out. No text.",
+   "narration": "定期维护，不能坏了才管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定期维护是安全的基础",
+   "scene": "维护规程贴在离心机旁",
+   "prompt_en": "Diagram: a blank maintenance procedure sheet posted on the wall beside a centrifuge, an open manual below it. No text.",
+   "narration": "方法以说明书为准，规程贴在旁边。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定期维护是安全的基础",
+   "scene": "王老师给学生讲维护，考核打勾",
+   "prompt_en": "The safety administrator trains students on centrifuge maintenance, and a tick appears on a blank assessment form.",
+   "narration": "使用和维护的人，都要先培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "定期维护是安全的基础",
+   "scene": "使用、维护、记录三个图标",
+   "prompt_en": "Diagram: three icons, a hand using a centrifuge, a brush and a logbook. No text.",
+   "narration": "小心使用、认真维护、如实记录。",
+   "overlay": [],
+   "labels": [
+    "使用",
+    "维护",
+    "记录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转子为什么会失效：腐蚀和疲劳",
+   "scene": "转子剖面，受力最大处出现腐蚀斑",
+   "prompt_en": "Diagram: a cross section of a rotor with force arrows and tiny corrosion spots at the most stressed area. No text.",
+   "narration": "转子很结实，但怕腐蚀和金属疲劳。",
+   "overlay": [
+    "转子为什么会失效：腐蚀和疲劳"
+   ],
+   "labels": [
+    "腐蚀",
+    "金属疲劳"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转子为什么会失效：腐蚀和疲劳",
+   "scene": "盐和化学品残留让小斑点慢慢变大",
+   "prompt_en": "Diagram: salt crystals on a rotor surface and a tiny pit growing larger step by step. No text.",
+   "narration": "盐和化学品残留，会加速腐蚀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转子为什么会失效：腐蚀和疲劳",
+   "scene": "铝转子表面腐蚀更快",
+   "prompt_en": "Diagram: a light grey metal rotor with more corrosion spots than a darker metal rotor beside it. No text.",
+   "narration": "铝转子更容易被腐蚀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转子为什么会失效：腐蚀和疲劳",
+   "scene": "运行次数增加，疲劳裂纹延伸",
+   "prompt_en": "Diagram: a run counter going up and a hairline crack slowly extending in a rotor. No text.",
+   "narration": "用得越久，疲劳越重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "转子为什么会失效：腐蚀和疲劳",
+   "scene": "受损转子高速旋转，危险标志",
+   "prompt_en": "Diagram: a damaged rotor spinning at high speed with a warning triangle above it. No text.",
+   "narration": "受损转子高速转，就是隐患。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先断电停稳，取下转子放软垫",
+   "scene": "关机、拔插头",
+   "prompt_en": "Diagram: a hand switching off a centrifuge and pulling out the power plug. No text.",
+   "narration": "维护前先关机，拔下电源插头。",
+   "overlay": [
+    "先断电停稳，取下转子放软垫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先断电停稳，取下转子放软垫",
+   "scene": "确认转子停稳再开盖",
+   "prompt_en": "Diagram: a speed display at zero and a lid opening only after the rotor has stopped. No text.",
+   "narration": "确认转子完全停稳，再开盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先断电停稳，取下转子放软垫",
+   "scene": "小研穿实验服，戴护目镜和手套",
+   "prompt_en": "The female graduate student puts on a lab coat, safety goggles and gloves before servicing the centrifuge.",
+   "narration": "穿实验服，戴护目镜和手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先断电停稳，取下转子放软垫",
+   "scene": "【实拍】用专用扳手松开转子，双手取下（已断电）",
+   "prompt_en": "Close-up: a special wrench loosening the rotor nut, then two hands lifting the rotor straight up.",
+   "narration": "用专用扳手松开，双手取下转子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先断电停稳，取下转子放软垫",
+   "scene": "转子放在软垫上，磕碰打叉",
+   "prompt_en": "Diagram: a rotor placed on a soft rubber mat with a tick, and a rotor knocked against a hard bench edge crossed out. No text.",
+   "narration": "转子放在平稳的软垫上，别磕碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "中性清洗剂和软布，强酸强碱、钢丝球打叉",
+   "prompt_en": "Diagram: a mild neutral detergent bottle and a soft cloth with a tick, a strong acid bottle, a strong alkali bottle and steel wool crossed out. No text.",
+   "narration": "用中性清洗剂，不用强酸强碱、钢丝球。",
+   "overlay": [
+    "中性清洗剂温和清洁，擦净盐垢"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "擦机壳外面和转子腔",
+   "prompt_en": "Diagram: a damp wrung out cloth wiping the outside of a centrifuge and the inside of the chamber. No text.",
+   "narration": "机壳、转子腔和附件都擦干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "布拧干，液体流进电机打叉",
+   "prompt_en": "Diagram: a cloth being wrung out, and liquid dripping into the motor area crossed out. No text.",
+   "narration": "布要拧干，别让液体流进电机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "擦掉盐垢和化学品残留，不留死角",
+   "prompt_en": "Diagram: a cloth wiping away white salt crust from the edge of the chamber and corners. No text.",
+   "narration": "盐垢和化学品残留，彻底擦掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "溅洒后立刻清洗",
+   "prompt_en": "Diagram: a spill in the rotor with a clock showing right away and a cleaning cloth. No text.",
+   "narration": "有溅洒或用过盐溶液，立即清洗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "【实拍】用非金属头试管刷逐个刷转子孔（空转子）",
+   "prompt_en": "Close-up: a bristle brush with a plastic tip cleaning the holes of a rotor one by one down to the bottom.",
+   "narration": "转子孔用非金属头刷子，刷到底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "中性清洗剂温和清洁，擦净盐垢",
+   "scene": "金属头刷子划伤孔壁，打叉",
+   "prompt_en": "Diagram: a brush with a sharp metal wire tip scratching the inside of a rotor hole, crossed out. No text.",
+   "narration": "金属头会划伤孔壁，不要用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "清水冲洗转子",
+   "prompt_en": "Diagram: clean water rinsing a rotor held over a sink. No text.",
+   "narration": "刷完用清水冲洗干净。",
+   "overlay": [
+    "清水冲洗不浸泡，必要时再消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "转子整个泡在水桶里，打叉",
+   "prompt_en": "Diagram: a whole rotor submerged in a bucket of water, crossed out. No text.",
+   "narration": "不要把转子整个泡进水里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "【实拍】转子倒扣在软垫上沥干（空转子）",
+   "prompt_en": "Close-up: a rotor turned upside down on a soft mat so the water drains out of its holes.",
+   "narration": "冲完倒扣沥干，让孔里的水流出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "先水洗，后消毒，箭头顺序",
+   "prompt_en": "Diagram: two steps with an arrow, water rinsing first, then a disinfectant wipe. No text.",
+   "narration": "需要时再消毒：先水洗，后消毒。",
+   "overlay": [],
+   "labels": [
+    "先水洗",
+    "后消毒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "醇类消毒液远离火源，通风晾干",
+   "prompt_en": "Diagram: an alcohol disinfectant bottle away from a flame symbol, a rotor air drying near an open window. No text.",
+   "narration": "醇类消毒液易燃，远离火源，晾干再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "清水冲洗不浸泡，必要时再消毒",
+   "scene": "消毒剂与转子材料是否相容，查说明书",
+   "prompt_en": "Diagram: a disinfectant bottle and a rotor with a manual between them, a corroded metal icon crossed out. No text.",
+   "narration": "消毒剂要和转子材料相容，查说明书。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "洗净晾干，再薄涂润滑脂",
+   "scene": "洗净、消毒、晾干三步打勾",
+   "prompt_en": "Diagram: three ticked steps, a clean rotor, a disinfected rotor and an air dried rotor, then a grease jar. No text.",
+   "narration": "洗净、消毒、晾干后，再润滑。",
+   "overlay": [
+    "洗净晾干，再薄涂润滑脂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "洗净晾干，再薄涂润滑脂",
+   "scene": "【实拍】指尖取少量专用润滑脂涂在螺纹和密封圈上",
+   "prompt_en": "Close-up: a gloved fingertip with a tiny dab of grease spreading it thinly on rotor lid threads and a rubber seal ring.",
+   "narration": "一点点专用润滑脂，涂螺纹和密封圈。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "洗净晾干，再薄涂润滑脂",
+   "scene": "吊篮槽和枢轴上点涂",
+   "prompt_en": "Diagram: grease points on the bucket slots and pivot pins of a swing out rotor. No text.",
+   "narration": "吊篮槽和枢轴，也要照顾到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "洗净晾干，再薄涂润滑脂",
+   "scene": "厚厚一层油粘满灰尘，打叉",
+   "prompt_en": "Diagram: a thick blob of grease covered with dust on a rotor thread, crossed out. No text.",
+   "narration": "薄薄一层就够，多了反而粘灰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "【实拍】手电照查转子孔底和边缘（空转子）",
+   "prompt_en": "Close-up: a small flashlight shining into rotor holes while gloved fingers turn the rotor slowly.",
+   "narration": "每次都查转子，孔底和边缘都要看。",
+   "overlay": [
+    "检查裂纹和腐蚀，有损伤立即停用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "细裂纹、点蚀、白色粉末、变色四个图标",
+   "prompt_en": "Diagram: four close-up icons on a rotor surface, a hairline crack, small pits, white powder and discoloration. No text.",
+   "narration": "裂纹、点蚀、白粉、变色，都是警报。",
+   "overlay": [],
+   "labels": [
+    "裂纹",
+    "点蚀",
+    "白色粉末",
+    "变色"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "表面粗糙，放大镜检查",
+   "prompt_en": "Diagram: a magnifier over a rough patch on the rotor surface. No text.",
+   "narration": "表面发糙，也不能放过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "发现损伤，转子停用",
+   "prompt_en": "Diagram: a damaged rotor set aside with a stop symbol and a blank tag. No text.",
+   "narration": "发现任何损伤，立即停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "坏转子继续装机，打叉",
+   "prompt_en": "Diagram: a hand putting a cracked rotor back into a centrifuge, crossed out. No text.",
+   "narration": "损伤转子不能再用，要更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "检查裂纹和腐蚀，有损伤立即停用",
+   "scene": "密封圈有裂纹，换新的",
+   "prompt_en": "Diagram: a cracked rubber seal ring replaced with a new one. No text.",
+   "narration": "密封圈有裂纹缺口，及时更换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "拿不准请专业检测，记录并贴标识",
+   "scene": "看不准，交给老李",
+   "prompt_en": "The young male student hands a rotor to the facility engineer with a puzzled look.",
+   "narration": "看不准，别凭感觉，交给专业人员。",
+   "overlay": [
+    "拿不准请专业检测，记录并贴标识"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "拿不准请专业检测，记录并贴标识",
+   "scene": "技术人员用内窥镜查孔内",
+   "prompt_en": "Diagram: a trained technician using a slim inspection camera to look inside a rotor hole, the image shown on a blank screen. No text.",
+   "narration": "专业检测，看清孔内看不到的地方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "拿不准请专业检测，记录并贴标识",
+   "scene": "检测结果写进记录，转子贴标识",
+   "prompt_en": "Diagram: an inspection result written into a record book and a small blank inspection sticker placed on the rotor. No text.",
+   "narration": "结果写进记录，检测过的贴上标识。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "拿不准请专业检测，记录并贴标识",
+   "scene": "联系设备管理部门或厂家授权维修",
+   "prompt_en": "Diagram: a phone call to an equipment office and an authorised service technician arriving with a toolbox. No text.",
+   "narration": "联系设备管理部门或授权维修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "转子像沙漏，终有退役一天",
+   "prompt_en": "Diagram: a rotor next to an hourglass with sand running out. No text.",
+   "narration": "每个转子都有寿命，终有退役一天。",
+   "overlay": [
+    "转子寿命：使用日志、降速、按时退役"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "转子使用日志：日期、转子、转速、次数",
+   "prompt_en": "Diagram: a rotor logbook with four blank columns and a pen. No text.",
+   "narration": "每次使用都登记，写进转子日志。",
+   "overlay": [],
+   "labels": [
+    "日期",
+    "转子",
+    "转速",
+    "次数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "超速转子老化，最高转速刻度下调",
+   "prompt_en": "Diagram: an aging ultracentrifuge rotor and its maximum speed mark moved down on a gauge. No text.",
+   "narration": "老化的超速转子，最高转速要降级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "到期转子放进退役箱",
+   "prompt_en": "Diagram: an expired rotor placed into a retired equipment box with a blank label. No text.",
+   "narration": "到期降速或退役，以说明书为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "没有日志的转子像定时炸弹，打叉",
+   "prompt_en": "Diagram: a rotor without a logbook drawn with a ticking clock, crossed out. No text.",
+   "narration": "没记录的超速转子，就是定时炸弹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "转子寿命：使用日志、降速、按时退役",
+   "scene": "维护记录：日期、做了什么、谁做的",
+   "prompt_en": "Diagram: a maintenance record with three blank columns and a signature line. No text.",
+   "narration": "维护也登记：日期、内容、谁做的。",
+   "overlay": [],
+   "labels": [
+    "日期",
+    "内容",
+    "签名"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "损坏停用挂牌，报修不私修",
+   "scene": "离心机挂空白停用牌",
+   "prompt_en": "Diagram: a blank out of service tag hung on a centrifuge and its rotor set aside. No text.",
+   "narration": "设备或转子有问题，马上停用挂牌。",
+   "overlay": [
+    "损坏停用挂牌，报修不私修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "损坏停用挂牌，报修不私修",
+   "scene": "报告实验室负责人，走报修流程",
+   "prompt_en": "Diagram: a report form going to the lab supervisor and then to the repair service. No text.",
+   "narration": "报告负责人，走报修流程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "损坏停用挂牌，报修不私修",
+   "scene": "学生拆离心机，打叉",
+   "prompt_en": "Diagram: a student opening a centrifuge housing with a screwdriver, crossed out. No text.",
+   "narration": "不自行拆修，由专业人员维修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "断电、清洁、冲洗、润滑四个图标",
+   "prompt_en": "Diagram: four icons, a pulled plug, a soft brush, a water rinse and a grease dab. No text.",
+   "narration": "断电取下，温和清洁，沥干再润滑。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检查、专业检测两个图标",
+   "prompt_en": "Diagram: two icons, a flashlight checking a rotor and an inspection sticker. No text.",
+   "narration": "每次检查，拿不准就请专业检测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "日志、降速、退役、停用牌",
+   "prompt_en": "Diagram: four icons, a rotor logbook, a lowered speed gauge, a retired box and an out of service tag. No text.",
+   "narration": "记日志，按时降速退役，坏了停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在高压灭菌器旁挥手",
+   "prompt_en": "The panda mascot stands beside a closed laboratory autoclave and waves goodbye.",
+   "narration": "下一课：高压灭菌器与压力容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
