@@ -1,0 +1,873 @@
+{
+ "id": "101_插座、线缆与临时用电",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "插座、线缆与临时用电",
+ "seconds": 335,
+ "source_doc": "course/高校实验室安全/101_插座、线缆与临时用电.md",
+ "author_source": "project/高校实验室安全/101_插座、线缆与临时用电/src.py",
+ "points": {
+  "K1": "插座插线板不超负荷",
+  "K2": "大功率设备用专用插座",
+  "K3": "不串接插线板，不私拉乱接",
+  "K4": "插线板临时用，放干燥处不落地",
+  "K5": "选用合格产品，认准3C标志",
+  "K6": "电线插头用前查，坏了不凑合",
+  "K7": "电线不压不夹不拖地，远离热源",
+  "K8": "插拔插头：先关开关，握住插头",
+  "K9": "插座接线与导体颜色标识",
+  "K10": "临时用电与发电机：先报备，电工接线",
+  "K11": "发电机：线缆够用、不过载、有漏保、接地",
+  "K12": "发电机：防潮、防一氧化碳、冷机加油",
+  "K13": "宿舍与办公区用电"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣拎着一串插线板，皱起眉头",
+   "prompt_en": "The panda mascot holds up a chain of power strips plugged into each other and frowns.",
+   "narration": "这一课讲插座、线缆与临时用电。",
+   "overlay": [
+    "插座、线缆与临时用电"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把仪器搬到实验室角落，附近没有插座",
+   "prompt_en": "The young male student moves an instrument to a corner of the lab where there is no socket nearby.",
+   "narration": "阿杰把仪器搬到没插座的角落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他把两个插线板串起来，电线横穿过道",
+   "prompt_en": "He connects two power strips end to end and runs the cord across the walkway.",
+   "narration": "两个插线板一串，电线拖过地面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研差点被电线绊倒，摇头指向墙上的插座",
+   "prompt_en": "The female graduate student nearly trips over the cord, shakes her head and points to a wall socket.",
+   "narration": "小研差点绊倒：这样用电不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "插座插线板不超负荷",
+   "scene": "插座和插线板旁各有一个空白额定值标牌",
+   "prompt_en": "Diagram: a socket and a power strip, each with a blank rating plate. No text.",
+   "narration": "插座、插线板都有额定功率。",
+   "overlay": [
+    "插座插线板不超负荷"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "插座插线板不超负荷",
+   "scene": "一个插线板插满大功率电器，导线发红冒烟",
+   "prompt_en": "Diagram: a power strip crowded with high power appliances, its cord glowing red and smoking. No text.",
+   "narration": "插得太多，电线发热，会起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "插座插线板不超负荷",
+   "scene": "功率除以电压等于电流的图示",
+   "prompt_en": "Diagram: a power icon divided by a voltage icon giving a current icon. No text.",
+   "narration": "功率除以220伏，估算电流。",
+   "overlay": [],
+   "labels": [
+    "功率÷电压",
+    "＝电流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "插座插线板不超负荷",
+   "scene": "电流不超过插线板额定值，打钩",
+   "prompt_en": "Diagram: an estimated current bar staying below the rating mark of a power strip, a tick. No text.",
+   "narration": "加起来不超过额定值才行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "插座插线板不超负荷",
+   "scene": "导线、断路器按电流配套",
+   "prompt_en": "Diagram: a cable and a breaker matched to the current they carry. No text.",
+   "narration": "导线和保护器件，按电流选配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "大功率设备用专用插座",
+   "scene": "烘箱、马弗炉、电热板三个图标",
+   "prompt_en": "Diagram: three icons, a drying oven, a muffle furnace and a hot plate. No text.",
+   "narration": "烘箱、马弗炉，都是大功率。",
+   "overlay": [
+    "大功率设备用专用插座"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "大功率设备用专用插座",
+   "scene": "烘箱插在墙上专用插座，打钩；插在插线板上，打叉",
+   "prompt_en": "Diagram: an oven plugged into its own wall socket with a tick, and plugged into a power strip with a cross. No text.",
+   "narration": "用专用插座，不接插线板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "大功率设备用专用插座",
+   "scene": "一个插座只插一台大功率电器",
+   "prompt_en": "Diagram: one socket with only one high power appliance plugged in. No text.",
+   "narration": "一个插座，只插一台大功率电器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "大功率设备用专用插座",
+   "scene": "老周填报修单，老李来加装插座",
+   "prompt_en": "The older man fills in a blank request form and the facility engineer comes to install a new socket.",
+   "narration": "插座不够，报修加装，请人评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "不串接插线板，不私拉乱接",
+   "scene": "插线板一个接一个串起来，打叉",
+   "prompt_en": "Diagram: power strips plugged into each other in a chain, crossed out. No text.",
+   "narration": "插线板不能一个接一个串着用。",
+   "overlay": [
+    "不串接插线板，不私拉乱接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "不串接插线板，不私拉乱接",
+   "scene": "墙上乱拉的电线、胶布缠的接头，打叉",
+   "prompt_en": "Diagram: wires strung messily along a wall with taped joints, crossed out. No text.",
+   "narration": "不私拉电线，不乱接插座。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "不串接插线板，不私拉乱接",
+   "scene": "阿杰想自己接一盏台灯到线路上，打叉",
+   "prompt_en": "Diagram: a student hand wiring an extra lamp into a cable, crossed out. No text.",
+   "narration": "照明不够也别私接，报修加装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "不串接插线板，不私拉乱接",
+   "scene": "水槽边串接的插线板，打叉",
+   "prompt_en": "Diagram: chained power strips next to a sink, crossed out. No text.",
+   "narration": "水槽边串插排，触电又起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "不串接插线板，不私拉乱接",
+   "scene": "持证电工改动线路",
+   "prompt_en": "The facility engineer modifies a circuit while students stand back.",
+   "narration": "线路改动，找持证电工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "插线板临时用，放干燥处不落地",
+   "scene": "长期使用的设备接墙上固定插座，插线板收起",
+   "prompt_en": "Diagram: a long term instrument connected to a fixed wall socket while a power strip is put away. No text.",
+   "narration": "插线板只临时用，不代替布线。",
+   "overlay": [
+    "插线板临时用，放干燥处不落地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "插线板临时用，放干燥处不落地",
+   "scene": "插线板固定在台面下方干燥处",
+   "prompt_en": "Diagram: a power strip mounted under a bench in a dry spot. No text.",
+   "narration": "插线板放干燥处，别放地上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "插线板临时用，放干燥处不落地",
+   "scene": "插线板泡在积水旁、被杂物盖住，两个打叉",
+   "prompt_en": "Diagram: a power strip next to a puddle and another buried under clutter, both crossed out. No text.",
+   "narration": "远离水，别被杂物盖住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "插线板临时用，放干燥处不落地",
+   "scene": "潮湿温室里，防水插座装在高处",
+   "prompt_en": "Diagram: a waterproof socket mounted high on the wall of a humid greenhouse. No text.",
+   "narration": "潮湿场所，用防水插座和漏保。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "插线板临时用，放干燥处不落地",
+   "scene": "用完拔下插线板，收进抽屉",
+   "prompt_en": "Diagram: a power strip unplugged after use and put into a drawer. No text.",
+   "narration": "临时用完，拔下收好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "选用合格产品，认准3C标志",
+   "scene": "【实拍】插线板背面铭牌和认证标志特写（遮挡品牌和型号）",
+   "prompt_en": "Close-up: the back of a power strip showing a blank rating label and a certification mark.",
+   "narration": "开关插座插线板，认准3C标志。",
+   "overlay": [
+    "选用合格产品，认准3C标志"
+   ],
+   "labels": [
+    "3C标志"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "选用合格产品，认准3C标志",
+   "scene": "劣质插线板外壳发黑冒烟，打叉",
+   "prompt_en": "Diagram: a cheap power strip with a blackened, smoking case, crossed out. No text.",
+   "narration": "劣质插线板，容易发热起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "选用合格产品，认准3C标志",
+   "scene": "老周把新的合格插线板发给学生",
+   "prompt_en": "The older man hands out new certified power strips to students.",
+   "narration": "学校统一采购合格产品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "【实拍】双手顺着电源线检查外皮，再看插头金属片和根部（未插电）",
+   "prompt_en": "Close-up: hands running along a power cord checking the insulation, then inspecting the plug pins and strain relief.",
+   "narration": "用前先查电线和插头。",
+   "overlay": [
+    "电线插头用前查，坏了不凑合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "破皮、露铜、插头松、烧焦四个图标",
+   "prompt_en": "Diagram: four icons, cracked insulation, bare copper, a loose plug and a scorch mark. No text.",
+   "narration": "破皮、露铜、松动、焦味，都别用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "胶布缠破线，打叉",
+   "prompt_en": "Diagram: tape wrapped around a damaged cord, crossed out. No text.",
+   "narration": "不缠胶布凑合，戴手套也不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "坏线挂停用牌，换上新线",
+   "prompt_en": "Diagram: a damaged cord tagged out of service and replaced with a new one. No text.",
+   "narration": "停用挂牌，换合格新线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "裸线头直接插进插座，打叉",
+   "prompt_en": "Diagram: bare wire ends pushed straight into a socket, crossed out. No text.",
+   "narration": "设备都要装插头，裸线头不能插。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "电线插头用前查，坏了不凑合",
+   "scene": "从别处调来的电缆，电工先测绝缘",
+   "prompt_en": "Diagram: a borrowed cable reel being tested by an electrician before use. No text.",
+   "narration": "调来的电缆，电工先测绝缘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电线不压不夹不拖地，远离热源",
+   "scene": "电源线被椅子压住、被门夹住，两个打叉",
+   "prompt_en": "Diagram: a power cord crushed under a chair leg and pinched in a door, both crossed out. No text.",
+   "narration": "电线不压、不夹、不穿门缝。",
+   "overlay": [
+    "电线不压不夹不拖地，远离热源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电线不压不夹不拖地，远离热源",
+   "scene": "电线横穿走道，人被绊倒",
+   "prompt_en": "Diagram: a cord across a walkway and a person tripping over it. No text.",
+   "narration": "电线落地，会绊人、被踩坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电线不压不夹不拖地，远离热源",
+   "scene": "电线走线槽，过道上加护线板",
+   "prompt_en": "Diagram: cables run in a cable tray, with a cable protector ramp where they cross a walkway. No text.",
+   "narration": "走线槽，过道加护线板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电线不压不夹不拖地，远离热源",
+   "scene": "电线贴着电热板，外皮熔化，打叉",
+   "prompt_en": "Diagram: a cord touching a hot plate, its insulation melting, crossed out. No text.",
+   "narration": "电线绕开电热板，别被烫坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电线不压不夹不拖地，远离热源",
+   "scene": "卷线盘没展开就通电发热，旁边展开的打钩",
+   "prompt_en": "Diagram: a coiled cable reel heating up when used wound up, crossed out, and a fully unrolled reel with a tick. No text.",
+   "narration": "卷线盘用前全部展开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "插拔插头：先关开关，握住插头",
+   "scene": "手先按下设备开关",
+   "prompt_en": "Diagram: a hand switching off an instrument before unplugging. No text.",
+   "narration": "拔插头前，先关开关。",
+   "overlay": [
+    "插拔插头：先关开关，握住插头"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "插拔插头：先关开关，握住插头",
+   "scene": "【实拍】擦干的手捏住插头本体，从已断电的插座上直拔出来（示范动作）",
+   "prompt_en": "Close-up: a dry hand gripping the plug body and pulling it straight out of a switched off socket.",
+   "narration": "擦干手，捏住插头往外拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "插拔插头：先关开关，握住插头",
+   "scene": "手拽着电线把插头扯出，打叉",
+   "prompt_en": "Diagram: a hand yanking the cord to pull out a plug, crossed out. No text.",
+   "narration": "别拽电线，会拉断拉松。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "插拔插头：先关开关，握住插头",
+   "scene": "插头插到底；插头松动发烫，挂报修牌",
+   "prompt_en": "Diagram: a plug pushed fully home, and a loose hot plug tagged for repair. No text.",
+   "narration": "插头插到底，松了烫了就报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "插拔插头：先关开关，握住插头",
+   "scene": "直流电源接头先断负载再插拔，旁边一个小电弧打叉",
+   "prompt_en": "Diagram: a DC connector being unplugged only after the load is switched off, a small arc icon crossed out. No text.",
+   "narration": "直流接头，断开负载再插拔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "三根导线图标：相线、中性线、保护导体",
+   "prompt_en": "Diagram: three conductor icons, a line conductor, a neutral conductor and a protective earth conductor. No text.",
+   "narration": "导线分相线、零线和保护线。",
+   "overlay": [
+    "插座接线与导体颜色标识"
+   ],
+   "labels": [
+    "相线",
+    "中性线",
+    "保护导体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "面对三孔插座：左零、右火、上接地",
+   "prompt_en": "Diagram: a three hole socket seen from the front, arrows marking left, right and top holes. No text.",
+   "narration": "面对插座：左零右火上接地。",
+   "overlay": [],
+   "labels": [
+    "左零",
+    "右火",
+    "上地"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "黄绿双色线接在接地端子上",
+   "prompt_en": "Diagram: a yellow and green striped wire connected to an earth terminal. No text.",
+   "narration": "黄绿双色线，只作保护接地。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "黄绿线被接到相线端子，打叉",
+   "prompt_en": "Diagram: a yellow and green wire connected to a live terminal, crossed out. No text.",
+   "narration": "黄绿线不能挪作他用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "颜色图标旁边是验电器，电工先验电",
+   "prompt_en": "Diagram: colored wire icons next to a voltage tester, an electrician testing before touching. No text.",
+   "narration": "颜色不能代替验电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "插座接线与导体颜色标识",
+   "scene": "进口旧仪器电源线交给老李处理",
+   "prompt_en": "The young male student hands an old imported instrument cord to the facility engineer.",
+   "narration": "换插头、改接线，交持证电工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "临时用电与发电机：先报备，电工接线",
+   "scene": "便携式发电机图标，内有发动机",
+   "prompt_en": "Diagram: a portable generator with an engine inside it. No text.",
+   "narration": "便携式发电机，靠发动机发电。",
+   "overlay": [
+    "临时用电与发电机：先报备，电工接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "临时用电与发电机：先报备，电工接线",
+   "scene": "触电、废气、起火、噪声四个危险图标",
+   "prompt_en": "Diagram: four hazard icons around a generator, a shock, exhaust fumes, fire and noise. No text.",
+   "narration": "它有触电、废气、火灾、噪声危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "临时用电与发电机：先报备，电工接线",
+   "scene": "王老师审批临时用电申请",
+   "prompt_en": "The safety administrator reviews and signs a blank temporary power request.",
+   "narration": "临时用电和发电机，先报备审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "临时用电与发电机：先报备，电工接线",
+   "scene": "发电机直接接进楼里线路，打叉",
+   "prompt_en": "Diagram: a generator wired straight into a building circuit, crossed out. No text.",
+   "narration": "不能直接接进楼里的线路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "临时用电与发电机：先报备，电工接线",
+   "scene": "电器直接插在发电机插座上，专人在旁照看",
+   "prompt_en": "Diagram: an appliance plugged directly into the generator outlet, an attendant standing by. No text.",
+   "narration": "电器直插发电机，专人照看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发电机：线缆够用、不过载、有漏保、接地",
+   "scene": "电工检查发电机配的延长线，坏线打叉",
+   "prompt_en": "Diagram: an electrician checking the extension cord for a generator, a damaged one crossed out. No text.",
+   "narration": "用带接地的合格三芯线，坏线不用。",
+   "overlay": [
+    "发电机：线缆够用、不过载、有漏保、接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发电机：线缆够用、不过载、有漏保、接地",
+   "scene": "发电机插满电器，机身发红，打叉",
+   "prompt_en": "Diagram: a generator overloaded with appliances, glowing hot, crossed out. No text.",
+   "narration": "线和机器额定值要够，别过载。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "发电机：线缆够用、不过载、有漏保、接地",
+   "scene": "发电机输出端接漏电保护器，再接地线",
+   "prompt_en": "Diagram: a residual current device on the generator output and an earth connection. No text.",
+   "narration": "输出加漏保，接地良好接头紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "发电机：防潮、防一氧化碳、冷机加油",
+   "scene": "雨中露天发电机打叉；四面通风的遮篷下打钩",
+   "prompt_en": "Diagram: a generator in the rain crossed out, and one under an open sided canopy with a tick. No text.",
+   "narration": "防雨防潮，湿手湿身不碰。",
+   "overlay": [
+    "发电机：防潮、防一氧化碳、冷机加油"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "发电机：防潮、防一氧化碳、冷机加油",
+   "scene": "泡过水的设备晾干，检查合格才用",
+   "prompt_en": "Diagram: a flooded device drying out, then passing an inspection. No text.",
+   "narration": "泡过水的设备，干燥检查后再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "发电机：防潮、防一氧化碳、冷机加油",
+   "scene": "室内和门窗边的发电机，废气飘进屋里，打叉",
+   "prompt_en": "Diagram: a generator indoors and one beside a window, exhaust drifting inside, both crossed out. No text.",
+   "narration": "不在室内用，远离门窗风口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "发电机：防潮、防一氧化碳、冷机加油",
+   "scene": "发电机停机冷却后再加油",
+   "prompt_en": "Diagram: a generator switched off and cooling, then being refuelled slowly. No text.",
+   "narration": "停机冷却再加油，运转中不加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "宿舍与办公区用电",
+   "scene": "宿舍里电热锅、电热毯等违规电器，打叉",
+   "prompt_en": "Diagram: banned appliances in a dormitory such as a hot pot cooker and an electric blanket, crossed out. No text.",
+   "narration": "宿舍不用违规大功率电器。",
+   "overlay": [
+    "宿舍与办公区用电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "宿舍与办公区用电",
+   "scene": "插线板放在床上被子里，打叉",
+   "prompt_en": "Diagram: a power strip lying on a bed under a quilt, crossed out. No text.",
+   "narration": "插线板不放床上，充电不过夜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "宿舍与办公区用电",
+   "scene": "离开宿舍，阿杰拔掉插头",
+   "prompt_en": "The young male student unplugs his devices before leaving his dorm room.",
+   "narration": "离开宿舍和办公室，拔掉插头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "宿舍与办公区用电",
+   "scene": "宿舍墙上的用电规定图标",
+   "prompt_en": "Diagram: a dormitory wall with a blank rules poster and an electric plug icon. No text.",
+   "narration": "遵守学校宿舍用电规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不超载、不串接、不私接三个打叉图标",
+   "prompt_en": "Diagram: three crossed out icons, an overloaded strip, chained strips and messy wiring. No text.",
+   "narration": "不超载、不串接、不私拉乱接。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检查电线、握插头、报备发电机三个图标",
+   "prompt_en": "Diagram: three icons, a cord inspection, a hand gripping a plug and a signed generator request. No text.",
+   "narration": "用前检查，正确插拔，临时用电先报备。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一台仪器旁挥手",
+   "prompt_en": "The panda mascot stands beside a lab instrument and waves goodbye.",
+   "narration": "下一课：实验仪器的用电安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
