@@ -1,0 +1,793 @@
+{
+ "id": "126_机械防护",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "机械防护",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/126_机械防护.md",
+ "author_source": "project/高校实验室安全/126_机械防护/src.py",
+ "points": {
+  "K1": "运动部件伤人：卷入、挤压、剪切、飞出",
+  "K2": "防护装置是物理屏障，警示带代替不了",
+  "K3": "防护装置的类型：固定式、联锁式、可调式",
+  "K4": "防护装置要牢、要全、不添新危害",
+  "K5": "防护缺失是事故主因：不拆除、常检查",
+  "K6": "谁能拆、何时拆：培训授权，先上锁挂牌",
+  "K7": "防卷入：束发扎袖，不戴手套碰旋转件",
+  "K8": "急停会用，断电后等完全停稳",
+  "K9": "设备运动区域不进入"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台装有透明护罩的台钻旁",
+   "prompt_en": "The panda mascot stands beside a bench drill with a clear transparent guard around the chuck, smiling at the camera.",
+   "narration": "这一课：机械防护。",
+   "overlay": [
+    "机械防护"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着皮带护罩和转轴护罩",
+   "prompt_en": "The panda mascot points at a closed belt guard on a motor and a cover over a rotating shaft.",
+   "narration": "转动的部件，都要罩起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿螺丝刀准备拆真空泵的皮带护罩",
+   "prompt_en": "The young male student, his long hair loose and wearing work gloves, holds a screwdriver near the belt guard of a vacuum pump.",
+   "narration": "阿杰嫌护罩碍事，想拆了看皮带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他的长发和手套离皮带很近",
+   "prompt_en": "Diagram: long loose hair and a gloved hand very close to a moving belt and pulley, a warning triangle. No text.",
+   "narration": "头发散着，还戴着手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拦住他，指着护罩",
+   "prompt_en": "The facility engineer stops him and points at the belt guard and the switch.",
+   "narration": "老李：护罩不能拆，卷进去就晚了！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "皮带和皮带轮之间把手卷进去",
+   "prompt_en": "Diagram: a hand being pulled into the nip point between a belt and a pulley, red arrows, warning triangle. No text.",
+   "narration": "第一种，卷入：衣角头发被卷进去。",
+   "overlay": [
+    "运动部件伤人：卷入、挤压、剪切、飞出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "两个部件合拢把手指挤住",
+   "prompt_en": "Diagram: two machine parts closing together on a finger, red arrows, warning triangle. No text.",
+   "narration": "第二种，挤压：手夹在两件之间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "刀刃类部件剪切手指",
+   "prompt_en": "Diagram: a moving blade passing a fixed edge with a finger near the cutting point, warning triangle. No text.",
+   "narration": "第三种，剪切：运动边缘像剪刀。",
+   "overlay": [],
+   "labels": [
+    "卷入",
+    "挤压",
+    "剪切"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "碎屑和工件从机器飞出伤眼",
+   "prompt_en": "Diagram: chips and a small part flying out from a rotating machine toward an eye outline, warning triangle. No text.",
+   "narration": "还有飞出的碎屑、工件，伤眼伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "实验室里的运动部件：离心机、泵皮带、摇床、搅拌器",
+   "prompt_en": "Diagram: four lab machines, a centrifuge, a pump belt, an orbital shaker and an overhead stirrer, with rotation arrows. No text.",
+   "narration": "实验室里，离心机、泵、摇床都有。",
+   "overlay": [],
+   "labels": [
+    "离心机",
+    "泵皮带",
+    "摇床",
+    "搅拌器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "运动部件伤人：卷入、挤压、剪切、飞出",
+   "scene": "开机前先看清机器的危险点",
+   "prompt_en": "Diagram: a person looking at a machine with red circles marking its nip point, pinch point and shear point. No text.",
+   "narration": "上机前，先看清危险点在哪儿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "防护装置是物理屏障，警示带代替不了",
+   "scene": "护罩挡在手和皮带之间",
+   "prompt_en": "Diagram: a solid guard standing between a hand and a moving belt, the hand stopped by the guard. No text.",
+   "narration": "防护装置，是人和危险之间的屏障。",
+   "overlay": [
+    "防护装置是物理屏障，警示带代替不了"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "防护装置是物理屏障，警示带代替不了",
+   "scene": "目的是保护人，不是保护机器",
+   "prompt_en": "Diagram: a guard with a shield icon protecting a person, a crossed out icon of the guard protecting only the machine. No text.",
+   "narration": "它是为了保护人，不只是护机器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "防护装置是物理屏障，警示带代替不了",
+   "scene": "制度和规定写在纸上，挡不住手",
+   "prompt_en": "Diagram: a rule sheet floating in the air next to a moving gear, a hand passing through, crossed out. No text.",
+   "narration": "规定写在纸上，挡不住伸进去的手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "防护装置是物理屏障，警示带代替不了",
+   "scene": "警示带围着机器，手从下面伸进去",
+   "prompt_en": "Diagram: a hazard tape barrier around a machine, a hand reaching under the tape to the moving parts, crossed out. No text.",
+   "narration": "警示带只是提醒，不是防护装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "防护装置是物理屏障，警示带代替不了",
+   "scene": "实实在在的护罩打勾",
+   "prompt_en": "Diagram: a solid metal guard fully enclosing a gear set with a tick. No text.",
+   "narration": "实实在在的屏障，才算防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护装置的类型：固定式、联锁式、可调式",
+   "scene": "【实拍】开机前看固定式防护罩，螺钉齐全，需用工具才能拆（设备断电）",
+   "prompt_en": "Close-up: a finger pointing at the screws holding a fixed metal guard over a belt drive on a switched off machine.",
+   "narration": "固定式：用工具才能拆下。",
+   "overlay": [
+    "防护装置的类型：固定式、联锁式、可调式"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护装置的类型：固定式、联锁式、可调式",
+   "scene": "联锁门一开，机器停转",
+   "prompt_en": "Diagram: a machine with an interlocked guard door; the door opens and the rotation arrow stops with a pause icon. No text.",
+   "narration": "联锁式：门一打开，机器就停。",
+   "overlay": [],
+   "labels": [
+    "固定式",
+    "联锁式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护装置的类型：固定式、联锁式、可调式",
+   "scene": "可调式护罩按工件高度调节",
+   "prompt_en": "Diagram: an adjustable guard on a bench drill being lowered by hand to just above the workpiece. No text.",
+   "narration": "可调式：按工件位置手动调好。",
+   "overlay": [],
+   "labels": [
+    "可调式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护装置的类型：固定式、联锁式、可调式",
+   "scene": "自调式护罩随工件移动",
+   "prompt_en": "Diagram: a self adjusting guard on a saw lifting as the workpiece passes and closing after it. No text.",
+   "narration": "还有随工件自动开合的护罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "防护装置的类型：固定式、联锁式、可调式",
+   "scene": "国家标准书本",
+   "prompt_en": "Diagram: a national standard book with a guard icon on the cover next to several guard types. No text.",
+   "narration": "防护装置的要求，见机械安全国家标准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "防护装置要牢、要全、不添新危害",
+   "scene": "坚固的护罩牢牢固定在机架上",
+   "prompt_en": "Diagram: a strong guard bolted firmly to a machine frame with a tick. No text.",
+   "narration": "防护要结实，牢牢固定在机器上。",
+   "overlay": [
+    "防护装置要牢、要全、不添新危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "防护装置要牢、要全、不添新危害",
+   "scene": "护罩把运动部件完全罩住",
+   "prompt_en": "Diagram: a guard covering a belt and both pulleys completely with no gaps, a tick. No text.",
+   "narration": "要把运动部件全罩住。",
+   "overlay": [],
+   "labels": [
+    "结实",
+    "牢固",
+    "全罩住"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "防护装置要牢、要全、不添新危害",
+   "scene": "松垮、留大口子、一碰就碎的护罩打叉",
+   "prompt_en": "Diagram: three crossed out guards, one hanging loose, one with a large gap and one made of cracked brittle material. No text.",
+   "narration": "松垮、留大口子、一碰就碎，等于没有。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "防护装置要牢、要全、不添新危害",
+   "scene": "护罩边缘锋利或夹手，打叉",
+   "prompt_en": "Diagram: a guard with a sharp edge and a pinch point at its hinge, crossed out. No text.",
+   "narration": "护罩本身不能带来新的危害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "防护装置要牢、要全、不添新危害",
+   "scene": "透过透明护罩观察，加油不用拆",
+   "prompt_en": "Diagram: a person looking through a clear guard window and oiling through a small port without removing the guard. No text.",
+   "narration": "好的设计：看得见，加油不用拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "护罩缺失的机器发生事故",
+   "prompt_en": "Diagram: a machine with its guard missing on the floor beside it, an injury warning triangle. No text.",
+   "narration": "机械事故的主因：防护缺失或损坏。",
+   "overlay": [
+    "防护缺失是事故主因：不拆除、常检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "拆下的护罩放在一边，打叉",
+   "prompt_en": "Diagram: a removed guard leaning against a wall while the machine runs, crossed out. No text.",
+   "narration": "防护装置不得擅自拆除、停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "维修后护罩装回原位",
+   "prompt_en": "Diagram: the facility engineer refitting a belt guard and tightening its screws after maintenance. No text.",
+   "narration": "检修拆下的罩子，必须装回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "检查清单：护罩、联锁、急停",
+   "prompt_en": "Diagram: an inspection checklist with three blank rows next to a guard, an interlock and an emergency stop icon. No text.",
+   "narration": "定期检查维护，否则防护会失效。",
+   "overlay": [],
+   "labels": [
+    "护罩",
+    "联锁",
+    "急停"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "联锁开关被胶带短接，打叉",
+   "prompt_en": "Diagram: an interlock switch taped over to bypass it, crossed out. No text.",
+   "narration": "短接联锁、绕过防护，严禁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "摇床上的瓶子用夹具夹紧",
+   "prompt_en": "Diagram: flasks clamped firmly on an orbital shaker platform, a loose flask crossed out. No text.",
+   "narration": "摇床上的容器要夹紧，防止甩出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "防护缺失是事故主因：不拆除、常检查",
+   "scene": "发现护罩损坏，挂牌报修",
+   "prompt_en": "Diagram: a damaged guard with a blank out of service tag and a phone call to the lab supervisor. No text.",
+   "narration": "防护坏了，停用挂牌报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "培训课：护罩怎么用、为什么用",
+   "prompt_en": "The safety administrator trains students in front of a machine with its guard, pointing at the guard.",
+   "narration": "防护装置怎么用、为什么用，要培训。",
+   "overlay": [
+    "谁能拆、何时拆：培训授权，先上锁挂牌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "只有授权人员拆护罩",
+   "prompt_en": "Diagram: a person with a blank authorization badge removing a guard, a student without a badge crossed out. No text.",
+   "narration": "什么时候能拆、谁能拆，有规定。",
+   "overlay": [],
+   "labels": [
+    "何时拆",
+    "谁能拆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "拆罩前断电上锁挂牌",
+   "prompt_en": "Diagram: a hand putting a padlock and a blank tag on a machine isolation switch before removing the guard. No text.",
+   "narration": "拆罩检修清卡料，先断电上锁挂牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "运行中伸手清卡料，打叉",
+   "prompt_en": "Diagram: a hand reaching into a running machine to clear a jam, crossed out. No text.",
+   "narration": "机器运转时，绝不伸手清卡料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "拆装方法和授权写进操作规程",
+   "prompt_en": "Diagram: a blank procedure document with a guard icon and a signature line pinned beside a machine. No text.",
+   "narration": "拆装方法和授权，写进操作规程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "谁能拆、何时拆：培训授权，先上锁挂牌",
+   "scene": "装回护罩、检查后才恢复运行",
+   "prompt_en": "Diagram: a guard refitted, a tick on a checklist, then the padlock removed and the machine restarted. No text.",
+   "narration": "装回护罩、确认无误，才恢复运行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防卷入：束发扎袖，不戴手套碰旋转件",
+   "scene": "长发被旋转的钻头卷住，打叉",
+   "prompt_en": "Diagram: long loose hair being pulled toward a spinning drill chuck, crossed out. No text.",
+   "narration": "长发、宽袖、围巾，最容易被卷入。",
+   "overlay": [
+    "防卷入：束发扎袖，不戴手套碰旋转件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防卷入：束发扎袖，不戴手套碰旋转件",
+   "scene": "【实拍】束起长发、扣紧袖口、摘下首饰和挂绳",
+   "prompt_en": "Close-up: a student tying up long hair, buttoning the cuffs, then removing a bracelet and a lanyard.",
+   "narration": "头发束起，袖口扎紧，摘下首饰挂绳。",
+   "overlay": [],
+   "labels": [
+    "束发",
+    "扎袖",
+    "摘首饰"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防卷入：束发扎袖，不戴手套碰旋转件",
+   "scene": "戴手套碰旋转钻头，手套被卷，打叉",
+   "prompt_en": "Diagram: a gloved hand near a spinning drill bit, the glove being caught and twisted, crossed out. No text.",
+   "narration": "操作钻床等旋转设备，不戴手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防卷入：束发扎袖，不戴手套碰旋转件",
+   "scene": "送丝轮转动时手指远离",
+   "prompt_en": "Diagram: a wire feeder with turning drive rollers and a hand kept away, then the side door closed. No text.",
+   "narration": "送丝轮在转，手指远离，送完关门。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "防卷入：束发扎袖，不戴手套碰旋转件",
+   "scene": "运行时站在侧面，手不伸向转轴",
+   "prompt_en": "Diagram: a person standing to the side of a running motor shaft with hands at their sides. No text.",
+   "narration": "运行时站侧面，手不伸向转动处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "【实拍】开机前找到急停按钮并示范按下、旋转复位（设备断电）",
+   "prompt_en": "Close-up: a hand pressing a red mushroom emergency stop button on a switched off machine, then twisting it to reset.",
+   "narration": "开机前，先找到急停按钮。",
+   "overlay": [
+    "急停会用，断电后等完全停稳"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "出现危险，拍下急停",
+   "prompt_en": "Diagram: a hand slapping a red emergency stop button while a machine shows danger, the rotation stopping. No text.",
+   "narration": "一有危险，立即拍下急停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "急停按钮前堆满纸箱，打叉",
+   "prompt_en": "Diagram: boxes piled in front of an emergency stop button, crossed out. No text.",
+   "narration": "急停前不堆杂物，伸手就能够到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "查清原因后再复位开机",
+   "prompt_en": "Diagram: a magnifier over a machine, then a hand resetting the emergency stop after a tick. No text.",
+   "narration": "查清原因、排除故障，再复位开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "断电后转子仍在惯性转动",
+   "prompt_en": "Diagram: a motor switched off with its rotor still spinning, curved motion lines and a clock icon. No text.",
+   "narration": "断电后，转子还会靠惯性转一会儿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "用手按停转轴，打叉",
+   "prompt_en": "Diagram: a hand trying to stop a spinning shaft, crossed out. No text.",
+   "narration": "别用手或工具去按停转轴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "急停会用，断电后等完全停稳",
+   "scene": "等完全停稳再动手",
+   "prompt_en": "Diagram: a stopped motor with a tick and a hand approaching only after the motion lines disappear. No text.",
+   "narration": "等它完全停稳，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设备运动区域不进入",
+   "scene": "龙门架在导轨上来回移动",
+   "prompt_en": "Diagram: a large machine with a gantry sliding back and forth on rails, motion arrows. No text.",
+   "narration": "大型设备的龙门架会来回移动。",
+   "overlay": [
+    "设备运动区域不进入"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设备运动区域不进入",
+   "scene": "人进入运动区被龙门架和管线撞挤，打叉",
+   "prompt_en": "Diagram: a person stepping into the travel area of a gantry and being caught by moving cables and bellows, crossed out. No text.",
+   "narration": "人走进去，会被撞到、卷住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设备运动区域不进入",
+   "scene": "检修通道挂着链条，禁止进入标志",
+   "prompt_en": "Diagram: a chain hanging across a service access with a no entry sign. No text.",
+   "narration": "链条挂着，就是不得进入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设备运动区域不进入",
+   "scene": "参观人员沿通道走，听从指引",
+   "prompt_en": "Diagram: visitors walking along a marked aisle beside a large machine, following a guide, staying outside the travel area. No text.",
+   "narration": "参观时沿通道走，听从带队指引。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "设备运动区域不进入",
+   "scene": "检修需要进入时先停机上锁",
+   "prompt_en": "Diagram: the facility engineer locking out a machine before stepping into the gantry area. No text.",
+   "narration": "确需进入检修，先停机上锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "卷入、挤压、剪切、飞出四个图标",
+   "prompt_en": "Diagram: four icons, a nip point, a pinch point, a shear point and flying chips. No text.",
+   "narration": "运动部件会卷、挤、剪、飞。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "护罩、联锁、警示带打叉",
+   "prompt_en": "Diagram: three icons, a solid guard with a tick, an interlock with a tick and a hazard tape crossed out. No text.",
+   "narration": "靠牢靠的防护，不靠警示带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不拆罩、束发不戴手套、急停",
+   "prompt_en": "Diagram: three icons, a guard in place, tied hair with a crossed out glove and an emergency stop button. No text.",
+   "narration": "不拆罩，束发不戴手套，会用急停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在工具墙前挥手",
+   "prompt_en": "The panda mascot stands in front of a wall of unplugged hand power tools and a bench grinder with guards and waves goodbye.",
+   "narration": "下一课：手持电动工具与砂轮机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
