@@ -1,0 +1,823 @@
+{
+ "id": "124_加热设备安全",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "加热设备安全",
+ "seconds": 315,
+ "source_doc": "course/高校实验室安全/124_加热设备安全.md",
+ "author_source": "project/高校实验室安全/124_加热设备安全/src.py",
+ "points": {
+  "K1": "加热不离人，不过夜无人加热",
+  "K2": "易燃溶剂不用明火，热源旁不放易燃物",
+  "K3": "电热板和加热套：查电线、离热面",
+  "K4": "加热液体防暴沸，不加热密闭容器",
+  "K5": "水浴油浴：控温看守，防过热",
+  "K6": "烘箱：易燃物和湿溶剂样品不进",
+  "K7": "马弗炉等高温炉：有人值守，防烫防火",
+  "K8": "实验室微波炉：只做实验，不放金属和密闭容器",
+  "K9": "燃气灯和热风枪：查管、不对人",
+  "K10": "热物看不出来：用对钳子和隔热手套",
+  "K11": "关了也烫：降温再开，热物放耐热面",
+  "S1": "当心高温表面：标识和提示"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在电热板、烘箱、水浴锅前",
+   "prompt_en": "The panda mascot stands in front of a hot plate, a drying oven and a water bath on a lab bench, smiling at the camera.",
+   "narration": "这一课：加热设备安全。",
+   "overlay": [
+    "加热设备安全"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指着冒着热气的设备",
+   "prompt_en": "The panda mascot points at faint heat waves rising from the equipment.",
+   "narration": "看不见的热，最容易伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰开着电热板去吃饭",
+   "prompt_en": "The young male student leaves a beaker heating on a hot plate and walks out of the lab toward the canteen.",
+   "narration": "阿杰开着电热板，跑去吃饭了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "旁边纸巾被烤焦冒烟",
+   "prompt_en": "Diagram: a paper towel next to the unattended hot plate starting to scorch and smoke. No text.",
+   "narration": "旁边的纸巾被烤得冒烟。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研关掉电源，移走纸巾",
+   "prompt_en": "The female graduate student switches off the hot plate and moves the paper towel away.",
+   "narration": "小研赶紧断电：加热不能离人！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "加热中人守在旁边，像做饭",
+   "prompt_en": "Diagram: a person standing beside a heating flask, next to a small icon of someone watching a cooking pot. No text.",
+   "narration": "加热跟做饭一样，不能离人。",
+   "overlay": [
+    "加热不离人，不过夜无人加热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "要离开，先关加热",
+   "prompt_en": "Diagram: a hand turning a hot plate knob to off before the person leaves the bench. No text.",
+   "narration": "要离开，先关热源，或请人看护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "离开前断电、断气、关水",
+   "prompt_en": "Diagram: three icons, a power switch off, a gas valve closed and a water tap closed. No text.",
+   "narration": "离开前，断电、断气、关水。",
+   "overlay": [],
+   "labels": [
+    "断电",
+    "断气",
+    "关水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "热板空烧过热起火，打叉",
+   "prompt_en": "Diagram: an empty hot plate left on overnight under a moon, glowing red and catching fire, crossed out. No text.",
+   "narration": "热板不长时间开着，更不要过夜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "过夜运行：审批单、标识牌、联系人",
+   "prompt_en": "Diagram: an approval form, a blank sign hung on the equipment and a contact card with a phone icon. No text.",
+   "narration": "必须过夜的，先审批、挂牌写联系人。",
+   "overlay": [],
+   "labels": [
+    "审批",
+    "挂牌",
+    "联系人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "加热不离人，不过夜无人加热",
+   "scene": "保卫处值班员巡查看到联系牌",
+   "prompt_en": "The security officer on a night patrol shines a torch on the sign and contact card beside running equipment.",
+   "narration": "巡查发现问题，能马上找到人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "易燃溶剂不用明火，热源旁不放易燃物",
+   "scene": "易燃溶剂瓶靠近明火，打叉",
+   "prompt_en": "Diagram: an open flammable solvent bottle next to an open flame, crossed out. No text.",
+   "narration": "有易燃溶剂，不用明火加热。",
+   "overlay": [
+    "易燃溶剂不用明火，热源旁不放易燃物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "易燃溶剂不用明火，热源旁不放易燃物",
+   "scene": "在通风柜里用加热套或水浴加热",
+   "prompt_en": "Diagram: a flask heated in a heating mantle and another in a water bath inside a fume hood. No text.",
+   "narration": "用加热套或水浴，在通风柜里做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "易燃溶剂不用明火，热源旁不放易燃物",
+   "scene": "不需要煮沸就别超过沸点",
+   "prompt_en": "Diagram: a temperature gauge on a heated beaker staying below the boiling mark. No text.",
+   "narration": "不是要煮沸，就别加热过沸点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "易燃溶剂不用明火，热源旁不放易燃物",
+   "scene": "热源周围的纸张、溶剂瓶移开",
+   "prompt_en": "Diagram: paper, a cardboard box and a solvent bottle being moved away from a hot plate. No text.",
+   "narration": "热源周围，不放纸张和易燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电热板和加热套：查电线、离热面",
+   "scene": "【实拍】检查电热板电线和插头（断电、冷态）",
+   "prompt_en": "Close-up: hands checking the power cord and plug of a cold unplugged hot plate for wear.",
+   "narration": "用前查电线：线皮磨损、接头松，不用。",
+   "overlay": [
+    "电热板和加热套：查电线、离热面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电热板和加热套：查电线、离热面",
+   "scene": "电线搭在热面上，打叉",
+   "prompt_en": "Diagram: a power cord lying across a hot plate surface, crossed out. No text.",
+   "narration": "电线别碰加热面，远离冷凝水管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电热板和加热套：查电线、离热面",
+   "scene": "电热板放在干燥处",
+   "prompt_en": "Diagram: a hot plate on a dry bench, a puddle of water next to another hot plate crossed out. No text.",
+   "narration": "电热板放在干燥处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电热板和加热套：查电线、离热面",
+   "scene": "调压器先归零，再插电开机",
+   "prompt_en": "Diagram: a voltage regulator dial turned to zero before plugging in a heating mantle. No text.",
+   "narration": "调压器先归零，再插电开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "电热板和加热套：查电线、离热面",
+   "scene": "加热套里洒了液体，立即断电",
+   "prompt_en": "Diagram: liquid spilled into a heating mantle and a hand pulling the plug at once. No text.",
+   "narration": "加热套里洒了液体，立即断电处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加热液体防暴沸，不加热密闭容器",
+   "scene": "液体暴沸冲出瓶口",
+   "prompt_en": "Diagram: liquid in a flask suddenly bumping and splashing out of the neck. No text.",
+   "narration": "加热液体，小心暴沸喷溅。",
+   "overlay": [
+    "加热液体防暴沸，不加热密闭容器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加热液体防暴沸，不加热密闭容器",
+   "scene": "【实拍】在冷液体中加入沸石，或放入搅拌子（冷态）",
+   "prompt_en": "Close-up: a few boiling chips dropped into a flask of cold liquid, then a magnetic stir bar placed in another flask.",
+   "narration": "用搅拌或沸石防暴沸，沸石加进冷液体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加热液体防暴沸，不加热密闭容器",
+   "scene": "热液里补加沸石，打叉",
+   "prompt_en": "Diagram: boiling chips being added to a hot liquid, crossed out, with a cooling arrow first. No text.",
+   "narration": "热了才想起？先冷一冷再加；重加换新的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加热液体防暴沸，不加热密闭容器",
+   "scene": "搅拌子大小合适，转速慢慢调高",
+   "prompt_en": "Diagram: a stir bar sized to the flask and a speed knob turned up step by step. No text.",
+   "narration": "搅拌子大小合适，转速先慢后快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "加热液体防暴沸，不加热密闭容器",
+   "scene": "加热密闭容器爆裂，打叉",
+   "prompt_en": "Diagram: a sealed bottle on a hot plate bursting, crossed out. No text.",
+   "narration": "不要加热密闭的容器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "水浴油浴：控温看守，防过热",
+   "scene": "【实拍】检查水浴锅水位（断电、冷态）",
+   "prompt_en": "Close-up: a hand checking the water level line inside a cold water bath before switching it on.",
+   "narration": "水浴先看水位，不能干烧。",
+   "overlay": [
+    "水浴油浴：控温看守，防过热"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "水浴油浴：控温看守，防过热",
+   "scene": "油浴冒烟起火，打叉",
+   "prompt_en": "Diagram: an oil bath overheating with smoke and a small flame, crossed out. No text.",
+   "narration": "油加热过头，会冒烟起火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "水浴油浴：控温看守，防过热",
+   "scene": "温控器和超温保护，旁边有人",
+   "prompt_en": "Diagram: an oil bath with a temperature controller, an over temperature cut off icon and a person watching. No text.",
+   "narration": "控好温度，有超温保护，有人看守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "水浴油浴：控温看守，防过热",
+   "scene": "水滴进热油飞溅，打叉",
+   "prompt_en": "Diagram: a drop of water falling into hot oil and splattering, crossed out. No text.",
+   "narration": "热油里不能进水，会飞溅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "水浴油浴：控温看守，防过热",
+   "scene": "用完关电源，凉了再收",
+   "prompt_en": "Diagram: a switched off oil bath cooling down with a clock icon before being put away. No text.",
+   "narration": "用完关电源，凉了再收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "烘箱：易燃物和湿溶剂样品不进",
+   "scene": "烘箱温度低于样品熔点",
+   "prompt_en": "Diagram: a drying oven with a temperature gauge set below the melting mark of a sample. No text.",
+   "narration": "烘箱温度要低于样品熔点。",
+   "overlay": [
+    "烘箱：易燃物和湿溶剂样品不进"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "烘箱：易燃物和湿溶剂样品不进",
+   "scene": "沾溶剂的湿晶体先晾干再进烘箱",
+   "prompt_en": "Diagram: wet crystals on filter paper drying in air first, and a wet sample going straight into an oven crossed out. No text.",
+   "narration": "沾着易燃溶剂的湿样，先晾干再烘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "烘箱：易燃物和湿溶剂样品不进",
+   "scene": "易燃物、塑料进普通烘箱，打叉",
+   "prompt_en": "Diagram: a flammable solvent bottle and a plastic container being put into an ordinary oven, crossed out. No text.",
+   "narration": "易燃物、不耐热塑料，不进普通烘箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "烘箱：易燃物和湿溶剂样品不进",
+   "scene": "防爆烘箱图标，需评估批准",
+   "prompt_en": "Diagram: an explosion proof oven with an approval form beside it. No text.",
+   "narration": "确需烘含易燃物的，用防爆设备并批准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "烘箱：易燃物和湿溶剂样品不进",
+   "scene": "烘箱旁不堆可燃物，降温后再取",
+   "prompt_en": "Diagram: clear space around a drying oven and a clock icon before opening the door. No text.",
+   "narration": "烘箱旁不堆可燃物，降温后再取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "马弗炉等高温炉：有人值守，防烫防火",
+   "scene": "马弗炉运行，人在旁边值守",
+   "prompt_en": "Diagram: a muffle furnace glowing inside while a person stays nearby watching. No text.",
+   "narration": "高温炉运行，要有人值守。",
+   "overlay": [
+    "马弗炉等高温炉：有人值守，防烫防火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "马弗炉等高温炉：有人值守，防烫防火",
+   "scene": "炉子周围清空，无纸箱杂物",
+   "prompt_en": "Diagram: a muffle furnace with clear space around it, a cardboard box and paper crossed out. No text.",
+   "narration": "炉子周围，不放易燃物和杂物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "马弗炉等高温炉：有人值守，防烫防火",
+   "scene": "降温后用长柄钳取样，放耐火板",
+   "prompt_en": "Diagram: long tongs taking a crucible from a cooled furnace and placing it on a fireproof board. No text.",
+   "narration": "降温后再开炉，热样品放耐火板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "马弗炉等高温炉：有人值守，防烫防火",
+   "scene": "无人运行和过夜按规定审批",
+   "prompt_en": "Diagram: an overnight furnace run with an approval form and a contact card. No text.",
+   "narration": "无人或过夜运行，按规定审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室微波炉：只做实验，不放金属和密闭容器",
+   "scene": "微波炉产生电磁波图示",
+   "prompt_en": "Diagram: a microwave oven with invisible electromagnetic waves drawn inside the closed door. No text.",
+   "narration": "微波是一种电磁波。",
+   "overlay": [
+    "实验室微波炉：只做实验，不放金属和密闭容器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室微波炉：只做实验，不放金属和密闭容器",
+   "scene": "实验室微波炉热饭，打叉",
+   "prompt_en": "Diagram: a lunch box being put into a lab microwave oven, crossed out. No text.",
+   "narration": "实验室微波炉只做实验，绝不热饭菜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室微波炉：只做实验，不放金属和密闭容器",
+   "scene": "金属和密闭容器放进微波炉，打叉",
+   "prompt_en": "Diagram: a metal spoon, foil and a tightly sealed jar going into a microwave oven, crossed out. No text.",
+   "narration": "不放金属，不加热密闭容器。",
+   "overlay": [],
+   "labels": [
+    "金属",
+    "密闭容器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "实验室微波炉：只做实验，不放金属和密闭容器",
+   "scene": "门封破损，停用",
+   "prompt_en": "Diagram: a microwave oven with a damaged door seal and a blank out of service tag. No text.",
+   "narration": "门封坏了，停止使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "燃气灯和热风枪：查管、不对人",
+   "scene": "检查燃气胶管有无老化",
+   "prompt_en": "Diagram: hands bending a gas hose on a gas burner to check for cracks. No text.",
+   "narration": "用燃气灯，先查胶管有无老化。",
+   "overlay": [
+    "燃气灯和热风枪：查管、不对人"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "燃气灯和热风枪：查管、不对人",
+   "scene": "燃气灯周围没有溶剂瓶",
+   "prompt_en": "Diagram: a gas burner flame with no solvent bottles nearby and a solvent bottle crossed out at the edge. No text.",
+   "narration": "周围不能有易燃溶剂，人不离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "燃气灯和热风枪：查管、不对人",
+   "scene": "用完关火关气阀",
+   "prompt_en": "Diagram: a hand closing the burner and then the gas valve on the bench. No text.",
+   "narration": "用完关火，关气阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "燃气灯和热风枪：查管、不对人",
+   "scene": "热风枪对着人、对着溶剂瓶，打叉",
+   "prompt_en": "Diagram: a heat gun pointed at a person and at a solvent bottle, both crossed out. No text.",
+   "narration": "热风枪不对着人，不对着溶剂瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "燃气灯和热风枪：查管、不对人",
+   "scene": "热风枪放回支架冷却，断电",
+   "prompt_en": "Diagram: a heat gun resting in its stand to cool and its plug pulled out. No text.",
+   "narration": "用完放回支架冷却，断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "热物看不出来：用对钳子和隔热手套",
+   "scene": "热玻璃和冷玻璃看起来一样",
+   "prompt_en": "Diagram: two identical looking beakers, one secretly hot with faint heat waves, a question mark above. No text.",
+   "narration": "热玻璃和冷玻璃，看起来一模一样。",
+   "overlay": [
+    "热物看不出来：用对钳子和隔热手套"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "热物看不出来：用对钳子和隔热手套",
+   "scene": "徒手抓热铁圈，打叉",
+   "prompt_en": "Diagram: a bare hand grabbing a just heated iron ring, crossed out. No text.",
+   "narration": "刚加热的铁圈，也别直接用手拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "热物看不出来：用对钳子和隔热手套",
+   "scene": "【实拍】烧杯钳夹烧杯、坩埚钳夹坩埚（冷态示范）",
+   "prompt_en": "Close-up: beaker tongs gripping a beaker, then crucible tongs gripping a small crucible.",
+   "narration": "烧杯用烧杯钳，坩埚用坩埚钳，不混用。",
+   "overlay": [],
+   "labels": [
+    "烧杯钳",
+    "坩埚钳"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "热物看不出来：用对钳子和隔热手套",
+   "scene": "一次性手套不隔热，戴隔热手套",
+   "prompt_en": "Diagram: a thin disposable glove crossed out next to a thick heat resistant glove with a tick. No text.",
+   "narration": "一次性手套不隔热，要戴隔热手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "热物看不出来：用对钳子和隔热手套",
+   "scene": "灭菌器等高温设备也会烫伤",
+   "prompt_en": "Diagram: hot items coming out of an autoclave and an oven, a heat resistant glove reaching for them. No text.",
+   "narration": "取热的东西，一定戴耐热手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "关了也烫：降温再开，热物放耐热面",
+   "scene": "关掉的电热板仍发红热",
+   "prompt_en": "Diagram: a switched off hot plate still radiating heat waves, a hand reaching toward it crossed out. No text.",
+   "narration": "热板关了，表面还烫，别伸手摸。",
+   "overlay": [
+    "关了也烫：降温再开，热物放耐热面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "关了也烫：降温再开，热物放耐热面",
+   "scene": "先降温再打开加热仪器的盖子",
+   "prompt_en": "Diagram: a heating instrument with a cooling arrow and a clock, then its lid opening. No text.",
+   "narration": "加热仪器先降温，再打开盖子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "关了也烫：降温再开，热物放耐热面",
+   "scene": "【实拍】把烧杯放在耐热垫上（冷态示范）",
+   "prompt_en": "Close-up: a hand placing a beaker onto a heat resistant mat on the bench.",
+   "narration": "热器皿放耐热垫，不放纸上、塑料上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "关了也烫：降温再开，热物放耐热面",
+   "scene": "烫伤手放在流动冷水下",
+   "prompt_en": "Diagram: a burned hand held under cool running water from a tap. No text.",
+   "narration": "烫到了，马上用流动冷水冲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "当心高温表面：标识和提示",
+   "scene": "设备上的当心高温表面标志",
+   "prompt_en": "Diagram: a hot surface warning sign on a muffle furnace and on a hot plate. No text.",
+   "narration": "高温设备贴上当心高温标志。",
+   "overlay": [
+    "当心高温表面：标识和提示"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "当心高温表面：标识和提示",
+   "scene": "冷却区放提示牌",
+   "prompt_en": "Diagram: a cooling area on the bench with hot items and a small blank caution card beside them. No text.",
+   "narration": "冷却中的热物，放提示，告诉别人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "人在旁边、关热源、审批单",
+   "prompt_en": "Diagram: three icons, a person beside a heater, a switched off knob and an approval form. No text.",
+   "narration": "加热不离人，离开就关，过夜审批。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "沸石、无明火、空烘箱",
+   "prompt_en": "Diagram: three icons, boiling chips, a crossed out flame near solvent and an oven without flammables. No text.",
+   "narration": "防暴沸，易燃物远离热源和烘箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "钳子、隔热手套、耐热垫",
+   "prompt_en": "Diagram: three icons, tongs, heat resistant gloves and a heat resistant mat. No text.",
+   "narration": "用钳子和隔热手套，热物放耐热面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在真空泵和防护屏旁挥手",
+   "prompt_en": "The panda mascot stands beside a vacuum pump and a clear safety shield and waves goodbye.",
+   "narration": "下一课：真空与压力操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
