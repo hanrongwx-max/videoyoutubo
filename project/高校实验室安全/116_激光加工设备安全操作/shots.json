@@ -1,0 +1,960 @@
+{
+ "id": "116_激光加工设备安全操作",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光加工设备安全操作",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/116_激光加工设备安全操作.md",
+ "author_source": "project/高校实验室安全/116_激光加工设备安全操作/src.py",
+ "points": {
+  "K1": "激光加工设备的五类危险",
+  "K2": "先培训考核授权，再上机",
+  "K3": "资格考核：测验、手册和上机作品",
+  "K4": "预约签到，到场接受检查",
+  "K5": "读懂安全须知，严格遵守",
+  "K6": "开机前点检与穿戴",
+  "K7": "出光口不对人，焊枪用完挂好",
+  "K8": "不手持工件，用夹具固定",
+  "K9": "只从焊枪后方观察",
+  "K10": "反射区不站人，有人进入立即停光",
+  "K11": "运行全程一臂之内看守",
+  "K12": "易燃材料防起火",
+  "K13": "报警和异常立即停",
+  "K14": "卡丝、焊枪故障：先停光再处理",
+  "K15": "手伸进机内前停光，取件防割防烫",
+  "K16": "不靠机器，不爬工作台"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在工程训练中心的激光切割机旁",
+   "prompt_en": "The panda mascot stands beside a closed desktop laser cutter in an engineering training workshop, smiling at the camera.",
+   "narration": "这一课讲激光加工设备的安全操作。",
+   "overlay": [
+    "激光加工设备安全操作"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰按下启动键，转身去窗边看手机",
+   "prompt_en": "The young male student presses the start button on a laser cutter, then turns away to look at his phone by the window.",
+   "narration": "阿杰开机切木板，转身去看手机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "机盖里冒出一小簇火苗",
+   "prompt_en": "Diagram: a small flame flickering up inside the closed lid of the laser cutter. No text.",
+   "narration": "机器里冒出了火苗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研冲过去按下停止键，机盖保持关闭",
+   "prompt_en": "The female graduate student rushes over and presses the stop button, keeping the lid closed.",
+   "narration": "小研赶紧按停：运行时人不能走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "激光加工设备的五类危险",
+   "scene": "激光切割机周围五个危险图标",
+   "prompt_en": "Diagram: a laser cutting machine surrounded by five hazard icons, a beam, a flame, smoke, a gas cylinder and a lightning bolt. No text.",
+   "narration": "激光加工设备，至少有五类危险。",
+   "overlay": [
+    "激光加工设备的五类危险"
+   ],
+   "labels": [
+    "激光",
+    "火灾",
+    "烟尘",
+    "高压气体",
+    "高压电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "激光加工设备的五类危险",
+   "scene": "光束伤眼和皮肤，火花溅到纸上起火",
+   "prompt_en": "Diagram: a beam reaching an eye and a hand, and sparks landing on paper that catches fire. No text.",
+   "narration": "激光伤眼伤皮肤，火花高温会引火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "激光加工设备的五类危险",
+   "scene": "烟尘进肺，旁边是气瓶和高压电符号",
+   "prompt_en": "Diagram: smoke drawn into a pair of lungs, beside a gas cylinder and a high voltage symbol. No text.",
+   "narration": "烟尘伤肺，还有高压气体和高压电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "激光加工设备的五类危险",
+   "scene": "运动的横梁夹住手，打叉",
+   "prompt_en": "Diagram: a moving gantry of a cutting machine pinching a hand, crossed out. No text.",
+   "narration": "运动的横梁，还会夹手撞人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先培训考核授权，再上机",
+   "scene": "王老师在工程训练中心给学生上准入培训",
+   "prompt_en": "The safety administrator gives an induction training session to students in an engineering training workshop.",
+   "narration": "上机前，先参加准入培训。",
+   "overlay": [
+    "先培训考核授权，再上机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先培训考核授权，再上机",
+   "scene": "考核合格，阿杰拿到空白授权卡",
+   "prompt_en": "Diagram: a passed test paper with a tick and a blank authorisation card handed to a student. No text.",
+   "narration": "考核通过、获得授权，才能使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先培训考核授权，再上机",
+   "scene": "空白预约表和登记本",
+   "prompt_en": "Diagram: a blank booking calendar and a sign in logbook beside a laser machine. No text.",
+   "narration": "每次使用，按规定预约登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先培训考核授权，再上机",
+   "scene": "第一次上手，王老师站在旁边指导",
+   "prompt_en": "The young male student uses a laser cutter for the first time while the safety administrator stands beside him guiding.",
+   "narration": "第一次上手，要有老师在旁指导。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先培训考核授权，再上机",
+   "scene": "陌生设备前的手打叉",
+   "prompt_en": "Diagram: a hand reaching toward an unfamiliar laser machine, crossed out. No text.",
+   "narration": "没授权、不熟悉的设备，不碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "资格考核：测验、手册和上机作品",
+   "scene": "电脑上的安全测验，没过就复习再考",
+   "prompt_en": "Diagram: a safety quiz on a computer screen with a retry arrow pointing back to a study book. No text.",
+   "narration": "先完成安全测验，没过就复习再考。",
+   "overlay": [
+    "资格考核：测验、手册和上机作品"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "资格考核：测验、手册和上机作品",
+   "scene": "翻开空白的培训手册",
+   "prompt_en": "Diagram: an open training handbook with blank pages and a bookmark. No text.",
+   "narration": "培训手册随时可查，忘了就翻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "资格考核：测验、手册和上机作品",
+   "scene": "阿杰独立完成一把刻度尺作品",
+   "prompt_en": "The young male student holds up a small engraved wooden ruler he made by himself, the safety administrator nodding.",
+   "narration": "再独立完成一件上机考核作品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "资格考核：测验、手册和上机作品",
+   "scene": "授权名单上加了一个勾",
+   "prompt_en": "Diagram: a blank authorised user list with a new tick added and a small badge icon. No text.",
+   "narration": "通过了，才有这台设备的使用资格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "预约签到，到场接受检查",
+   "scene": "预约日历上先约考核，再约日常使用",
+   "prompt_en": "Diagram: a booking calendar with a first slot for the assessment and later slots for normal use. No text.",
+   "narration": "先考核，有资格才能预约日常使用。",
+   "overlay": [
+    "预约签到，到场接受检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "预约签到，到场接受检查",
+   "scene": "预约表上两个勾选框：承诺书、培训",
+   "prompt_en": "Diagram: a booking form with two check boxes, one beside a signed pledge icon and one beside a training icon. No text.",
+   "narration": "预约时确认签了承诺书、受过培训。",
+   "overlay": [],
+   "labels": [
+    "安全承诺书",
+    "培训"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "预约签到，到场接受检查",
+   "scene": "服务台签到，小研查看材料和手续",
+   "prompt_en": "The young male student signs in at a service desk while the female graduate student checks his material and paperwork.",
+   "narration": "到场先签到，管理人员查材料和手续。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读懂安全须知，严格遵守",
+   "scene": "阿杰认真读安全须知",
+   "prompt_en": "The young male student carefully reads a blank safety instruction sheet beside the laser machine.",
+   "narration": "用设备前，先读懂安全须知。",
+   "overlay": [
+    "读懂安全须知，严格遵守"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读懂安全须知，严格遵守",
+   "scene": "阿杰举手提问，小研解答",
+   "prompt_en": "The young male student raises his hand with a question and the female graduate student explains.",
+   "narration": "不懂就问，确认后再开工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读懂安全须知，严格遵守",
+   "scene": "规矩清单旁边，安全装置罩着防尘罩",
+   "prompt_en": "Diagram: a checklist with ticks beside safety devices that stay unused under a dust cover. No text.",
+   "narration": "守好规矩，安全装置最好永远用不上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "空白点检卡和笔",
+   "prompt_en": "Diagram: a blank pre-start checklist card and a pen clipped to the laser machine. No text.",
+   "narration": "每次开机前，按点检卡看一遍。",
+   "overlay": [
+    "开机前点检与穿戴"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "【实拍】按点检卡逐项检查急停按钮、机盖和排烟净化器开关（设备不出光，遮挡品牌）",
+   "prompt_en": "Close-up: a hand ticking a checklist while checking the emergency stop button, the lid and the fume extractor switch of a laser machine.",
+   "narration": "急停、钥匙、线缆、外壳、气源都看。",
+   "overlay": [],
+   "labels": [
+    "急停",
+    "钥匙",
+    "线缆",
+    "外壳",
+    "气源"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "打开排烟净化器，扫净机内碎屑",
+   "prompt_en": "Diagram: a fume extractor switched on and scrap pieces swept out of the machine bed. No text.",
+   "narration": "排烟净化先打开，机内碎屑清干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "【实拍】操作者站在工位，伸手指认急停按钮（设备待机）",
+   "prompt_en": "Close-up: an operator standing at the machine and reaching a hand to the emergency stop button.",
+   "narration": "认清急停在哪，伸手就能按到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "发送前确认：设备选对、盖子关好、材料放平",
+   "prompt_en": "Diagram: three checks before sending a job, the right machine selected, the lid closed and the sheet lying flat. No text.",
+   "narration": "发送前确认选对设备，盖关好、料放平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "点检卡上一项打叉，阿杰去找老师",
+   "prompt_en": "Diagram: one item on the checklist crossed, and a student walking to a teacher instead of switching on. No text.",
+   "narration": "有一项不对，先不开机，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "手持焊接前穿防护服、围裙、手套，戴防护眼镜",
+   "prompt_en": "The young male student puts on a protective jacket, an apron, gloves and laser safety goggles before handheld welding.",
+   "narration": "手持焊接，穿戴齐全，皮肤不外露。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "开机前点检与穿戴",
+   "scene": "焊接工位上方的排风罩在工作",
+   "prompt_en": "Diagram: an exhaust hood working above a welding station, air flowing out of the room. No text.",
+   "narration": "工作间要保持通风良好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出光口不对人，焊枪用完挂好",
+   "scene": "焊枪出光口对着人体，打叉",
+   "prompt_en": "Diagram: a handheld laser welding torch nozzle pointing at a person's body, crossed out. No text.",
+   "narration": "出光口不对着身体任何部位。",
+   "overlay": [
+    "出光口不对人，焊枪用完挂好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出光口不对人，焊枪用完挂好",
+   "scene": "试机时枪口朝向工件，旁人在围挡外",
+   "prompt_en": "Diagram: a welding torch pointing down at a workpiece during a test, other people standing outside a screen. No text.",
+   "narration": "有没有出光，枪口都朝向工件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出光口不对人，焊枪用完挂好",
+   "scene": "送丝时枪口朝下，人从侧面看，不正对焊嘴",
+   "prompt_en": "Diagram: a torch pointing down at the bench while wire feeds out, the operator watching from the side, a face in front of the nozzle crossed out. No text.",
+   "narration": "送丝时，脸别正对焊嘴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "出光口不对人，焊枪用完挂好",
+   "scene": "【实拍】焊接结束，把焊枪挂回挂架（设备不出光）",
+   "prompt_en": "Close-up: a hand hanging a handheld welding torch back on its holder.",
+   "narration": "焊枪用完挂回挂架，不放地上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不手持工件，用夹具固定",
+   "scene": "一只手扶着工件焊接，打叉",
+   "prompt_en": "Diagram: one hand holding a metal workpiece while the other welds it, crossed out. No text.",
+   "narration": "不要用手拿着工件焊。",
+   "overlay": [
+    "不手持工件，用夹具固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不手持工件，用夹具固定",
+   "scene": "【实拍】用夹钳把工件固定在焊接台上（设备不出光）",
+   "prompt_en": "Close-up: hands in gloves fixing a metal workpiece to a welding table with clamps.",
+   "narration": "用夹具固定，双手离开光路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不手持工件，用夹具固定",
+   "scene": "手放在工件下面，热量传过来，打叉",
+   "prompt_en": "Diagram: a hand placed under a workpiece with heat waves passing through, crossed out. No text.",
+   "narration": "手不放工件下面，热量会烫伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不手持工件，用夹具固定",
+   "scene": "手压着靠尺切割打叉，夹钳固定靠尺打勾",
+   "prompt_en": "Diagram: a hand pressing a straight edge while cutting crossed out, and clamps holding the straight edge with a tick. No text.",
+   "narration": "切割时，靠尺也用夹钳固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "不手持工件，用夹具固定",
+   "scene": "停机后戴护目镜敲打零件",
+   "prompt_en": "Diagram: a person in safety goggles tapping a part loose with a hammer after the machine has stopped. No text.",
+   "narration": "敲打零件要停机，戴好护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "只从焊枪后方观察",
+   "scene": "操作者站在焊枪后方看熔池",
+   "prompt_en": "Diagram: an operator standing behind the welding torch and watching the weld pool from behind. No text.",
+   "narration": "观察熔池，只站在焊枪后方。",
+   "overlay": [
+    "只从焊枪后方观察"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "只从焊枪后方观察",
+   "scene": "侧身低头凑到焊点旁看，打叉",
+   "prompt_en": "Diagram: a person leaning sideways and ducking low beside the weld spot to look, crossed out. No text.",
+   "narration": "不侧着、不低头凑到旁边看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "反射区不站人，有人进入立即停光",
+   "scene": "工件周围画出反射区，区内无人",
+   "prompt_en": "Diagram: a shaded reflection zone drawn around a workpiece, nobody inside it. No text.",
+   "narration": "工件周围是反射区，里面不站人。",
+   "overlay": [
+    "反射区不站人，有人进入立即停光"
+   ],
+   "labels": [
+    "反射区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "反射区不站人，有人进入立即停光",
+   "scene": "光路方向上的纸箱和抹布被移走",
+   "prompt_en": "Diagram: a cardboard box and oily rags being moved away from the beam direction. No text.",
+   "narration": "激光路径上，不放易燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "反射区不站人，有人进入立即停光",
+   "scene": "有人走进反射区，操作者松开扳机",
+   "prompt_en": "Diagram: a person stepping into the reflection zone and the operator releasing the trigger at once. No text.",
+   "narration": "有人走进反射区，马上停光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "运行全程一臂之内看守",
+   "scene": "阿杰站在切割机旁，眼睛看着机内",
+   "prompt_en": "The young male student stands right beside a running laser cutter, watching the work through the viewing window.",
+   "narration": "运行全程，人不离机。",
+   "overlay": [
+    "运行全程一臂之内看守"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "运行全程一臂之内看守",
+   "scene": "切割、雕刻、测试方格三个图标都连着守候的人",
+   "prompt_en": "Diagram: three icons, cutting, engraving and a small test grid, each linked to a person standing by. No text.",
+   "narration": "切割、雕刻、测试，都要守着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "运行全程一臂之内看守",
+   "scene": "人和机器之间画出一臂距离",
+   "prompt_en": "Diagram: an arm's length marked between the operator and the machine, the inside of the machine in clear view. No text.",
+   "narration": "站在一臂之内，看得见机内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "运行全程一臂之内看守",
+   "scene": "玩手机、戴耳机、走开三个图标打叉",
+   "prompt_en": "Diagram: three icons, a phone, headphones and a person walking away, all crossed out. No text.",
+   "narration": "不玩手机、不戴耳机、不走开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "运行全程一臂之内看守",
+   "scene": "阿杰在旁边准备下一个设计，不时抬头看机器",
+   "prompt_en": "The young male student sketches his next design beside the machine, glancing up at it every few seconds.",
+   "narration": "准备下一件可以，眼睛常回到机器上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "易燃材料防起火",
+   "scene": "纸、薄木板、亚克力三个图标冒小火苗",
+   "prompt_en": "Diagram: three icons, paper, thin plywood and a clear plastic sheet, each with a small flame. No text.",
+   "narration": "纸、薄木板、亚克力，容易着火。",
+   "overlay": [
+    "易燃材料防起火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "易燃材料防起火",
+   "scene": "灭火器挂在切割机旁边",
+   "prompt_en": "Diagram: a fire extinguisher mounted on the wall right next to the laser cutter. No text.",
+   "narration": "灭火器就在旁边，要会用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "易燃材料防起火",
+   "scene": "机内起小火，按下停止键，盖子保持关闭",
+   "prompt_en": "Diagram: a small flame inside the machine, a hand pressing the stop button while the lid stays closed. No text.",
+   "narration": "起火先按停，盖子保持关闭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "易燃材料防起火",
+   "scene": "火势变大，人撤离，手机拨119",
+   "prompt_en": "Diagram: a growing fire, people leaving the room and a phone dialling 119. No text.",
+   "narration": "控制不住，撤离并拨打119。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "屏幕弹出气压不足提示，手指点继续打叉",
+   "prompt_en": "Diagram: a low air pressure alert on a control screen, a finger tapping the continue button crossed out. No text.",
+   "narration": "报警提示，不能点继续了事。",
+   "overlay": [
+    "报警和异常立即停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "没有推荐参数的材料组合，打叉",
+   "prompt_en": "Diagram: a settings screen with an empty recommended setting slot and a crossed out cut button. No text.",
+   "narration": "没有推荐参数，别硬切。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "切不动：加功率、降速度打叉，按停机键",
+   "prompt_en": "Diagram: a cut that does not go through, a power dial turned up and a speed dial turned down both crossed out, a hand pressing stop. No text.",
+   "narration": "切不动了，不加功率，停下来看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "焊缝没熔透，光从焊点散射出来",
+   "prompt_en": "Diagram: an unfused weld spot with stray light scattering out of it, a stop hand symbol. No text.",
+   "narration": "没熔透，光会散射出来，立即停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "声音、火花、气味突变，停止按钮",
+   "prompt_en": "Diagram: sudden changes in sound, sparks and smell around a machine, a hand pressing the stop button. No text.",
+   "narration": "情况突然变了，就停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "报警和异常立即停",
+   "scene": "阿杰向小研报告，两人查原因",
+   "prompt_en": "The young male student reports the alarm to the female graduate student and they check the machine together.",
+   "narration": "查明原因、处理好，再继续加工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡丝、焊枪故障：先停光再处理",
+   "scene": "焊丝粘在焊嘴，手松开扳机、关掉出光开关",
+   "prompt_en": "Diagram: a welding wire stuck at the nozzle, a hand releasing the trigger and switching off the emission enable switch. No text.",
+   "narration": "卡丝粘丝，先松扳机、关出光。",
+   "overlay": [
+    "卡丝、焊枪故障：先停光再处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡丝、焊枪故障：先停光再处理",
+   "scene": "确认不出光后剪丝；出光时手在焊嘴前打叉",
+   "prompt_en": "Diagram: cutting the wire after the emission lamp is off, and a hand in front of the nozzle while emitting crossed out. No text.",
+   "narration": "确认不出光，再剪丝清焊嘴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "卡丝、焊枪故障：先停光再处理",
+   "scene": "拍打焊枪打叉，拔下电源插头，挂空白报修牌",
+   "prompt_en": "Diagram: a hand slapping a welding torch crossed out, then a power plug pulled out and a blank repair tag hung up. No text.",
+   "narration": "按键失灵，停机断电报修，别拍焊枪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手伸进机内前停光，取件防割防烫",
+   "scene": "手伸进机内前：出光灯灭、横梁停稳",
+   "prompt_en": "Diagram: before a hand reaches into the machine, the emission lamp is off and the gantry has come to a full stop. No text.",
+   "narration": "伸手进机内前，确认停光、横梁停稳。",
+   "overlay": [
+    "手伸进机内前停光，取件防割防烫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手伸进机内前停光，取件防割防烫",
+   "scene": "刚切好的零件冒着热气、边缘锋利",
+   "prompt_en": "Diagram: freshly cut metal parts with heat waves rising and sharp edges glinting. No text.",
+   "narration": "刚切好的零件，又烫又锋利。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "手伸进机内前停光，取件防割防烫",
+   "scene": "等冷却后戴防割手套取件",
+   "prompt_en": "Diagram: a gloved hand in cut resistant gloves lifting a cooled part out of the machine bed. No text.",
+   "narration": "等冷却，戴防割手套再取件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不靠机器，不爬工作台",
+   "scene": "切割台格栅条又尖又利，人靠着机器打叉",
+   "prompt_en": "Diagram: the sharp slats of a cutting table grid, a person leaning on the machine with a hand on the slats crossed out. No text.",
+   "narration": "格栅又尖又利，别靠机器，别搭手。",
+   "overlay": [
+    "不靠机器，不爬工作台"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不靠机器，不爬工作台",
+   "scene": "人爬上切割台，打叉",
+   "prompt_en": "Diagram: a person climbing onto a large cutting table, crossed out. No text.",
+   "narration": "绝不能爬上切割台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "不靠机器，不爬工作台",
+   "scene": "老李站在台外用长柄工具取件清渣",
+   "prompt_en": "The facility engineer stands outside the cutting table and uses a long handled tool to pull out parts and slag.",
+   "narration": "取件清渣，在台外用工具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "授权卡、点检卡、急停按钮三个图标",
+   "prompt_en": "Diagram: three icons, an authorisation card, a checklist and an emergency stop button. No text.",
+   "narration": "授权上机，开机点检，认清急停。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "枪口朝下、夹具、后方观察三个图标",
+   "prompt_en": "Diagram: three icons, a torch pointing down, a clamp and an eye behind the torch. No text.",
+   "narration": "枪口不对人，夹具固定，后方观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "一臂之内的人和停止按钮",
+   "prompt_en": "Diagram: a person within arm's length of a machine and a hand on the stop button. No text.",
+   "narration": "全程看守，有异常立即停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣捧着一块写着空白标签的木板和一片透明塑料板挥手",
+   "prompt_en": "The panda mascot holds a plain wooden board and a clear plastic sheet and waves goodbye.",
+   "narration": "下一课：激光加工材料与烟尘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
