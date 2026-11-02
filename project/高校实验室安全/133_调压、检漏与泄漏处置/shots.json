@@ -1,0 +1,966 @@
+{
+ "id": "133_调压、检漏与泄漏处置",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "调压、检漏与泄漏处置",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/133_调压、检漏与泄漏处置.md",
+ "author_source": "project/高校实验室安全/133_调压、检漏与泄漏处置/src.py",
+ "points": {
+  "K1": "开阀前：看环境，阀前不堆物",
+  "K2": "开瓶阀：站侧面，用手慢慢开",
+  "K3": "看进口压力表，偏低要报告",
+  "K4": "调压：慢转手轮，出口阀只管流量",
+  "K5": "检漏：带压检漏，严禁明火",
+  "K6": "检漏液逐个涂接头，冒泡就是漏",
+  "K7": "漏了：先泄压再紧固，还漏就报告",
+  "K8": "用毕先关瓶阀，瓶内留余压",
+  "K9": "泄漏的危害：扩散加气体本身危害",
+  "K10": "大小泄漏怎么判断",
+  "K11": "小泄漏：通知、防护、通风放空",
+  "K12": "可燃气体泄漏：关阀通风，杜绝火源",
+  "K13": "有毒和高压泄漏：先撤离，不冒险",
+  "K14": "大泄漏：撤离、报警、报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一只固定好的气瓶旁，手拿检漏液洗瓶",
+   "prompt_en": "The panda mascot stands beside a chained gas cylinder holding a squeeze bottle of leak test solution, smiling at the camera.",
+   "narration": "这一课：调压、检漏与泄漏处置。",
+   "overlay": [
+    "调压、检漏与泄漏处置"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰正对着瓶阀，一下把瓶阀拧开",
+   "prompt_en": "The young male student stands right in front of a cylinder valve and twists it open in one quick turn.",
+   "narration": "阿杰正对瓶阀，一下拧到底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "接头嘶嘶作响，他拿打火机凑过去",
+   "prompt_en": "A fitting hisses and the young male student holds up a lighter towards it, a warning triangle flashing.",
+   "narration": "接头嘶嘶响，他想拿火试试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研一把拦住，递上检漏液",
+   "prompt_en": "The female graduate student stops his hand and hands him a squeeze bottle of leak test solution.",
+   "narration": "小研：快停！检漏只能用检漏液！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "开阀前：看环境，阀前不堆物",
+   "scene": "可燃气瓶周围没有明火和热源",
+   "prompt_en": "Diagram: a flammable gas cylinder in a clear area, a flame and a hot plate nearby crossed out. No text.",
+   "narration": "可燃气体，周围不能有明火热源。",
+   "overlay": [
+    "开阀前：看环境，阀前不堆物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "开阀前：看环境，阀前不堆物",
+   "scene": "有毒气体在气瓶柜里使用",
+   "prompt_en": "Diagram: a toxic gas cylinder inside a ventilated gas cabinet with an exhaust arrow. No text.",
+   "narration": "有毒气体，在气瓶柜或通风处用。",
+   "overlay": [],
+   "labels": [
+    "气瓶柜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "开阀前：看环境，阀前不堆物",
+   "scene": "瓶阀前空出通道，伸手可关",
+   "prompt_en": "Diagram: a clear path to a cylinder valve, boxes stacked in front of another cylinder crossed out. No text.",
+   "narration": "阀前不堆东西，随时伸手能关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "开阀前：看环境，阀前不堆物",
+   "scene": "下游管路和仪器先接好",
+   "prompt_en": "Diagram: a gas line connected from the regulator to an instrument, each joint ticked before the valve opens. No text.",
+   "narration": "下游管路和仪器，要先接好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开瓶阀：站侧面，用手慢慢开",
+   "scene": "确认调压手轮已松到底",
+   "prompt_en": "Diagram: a regulator adjusting knob turned fully counterclockwise with a tick. No text.",
+   "narration": "开瓶阀前，调压手轮先松到底。",
+   "overlay": [
+    "开瓶阀：站侧面，用手慢慢开"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开瓶阀：站侧面，用手慢慢开",
+   "scene": "人站侧面，出口不对人",
+   "prompt_en": "Diagram: a person standing beside a cylinder with the valve outlet and regulator facing away, a person in front crossed out. No text.",
+   "narration": "人站侧面，出口和表都别对着人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开瓶阀：站侧面，用手慢慢开",
+   "scene": "手不放在阀门正上方",
+   "prompt_en": "Diagram: a hand holding the side of a valve handwheel, a hand over the top of the valve crossed out. No text.",
+   "narration": "手也别放在阀门正上方。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开瓶阀：站侧面，用手慢慢开",
+   "scene": "【实拍】侧身站立，用手慢慢逆时针打开瓶阀（惰性气体，系统正常）",
+   "prompt_en": "Close-up: a gloved hand slowly turning a cylinder valve handwheel counterclockwise, the person standing to the side.",
+   "narration": "用手慢慢开，让减压阀慢慢升压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "开瓶阀：站侧面，用手慢慢开",
+   "scene": "加力杆和锤子开阀打叉",
+   "prompt_en": "Diagram: a cheater bar and a hammer on a cylinder valve, both crossed out. No text.",
+   "narration": "只用手开，不加力不敲，专用扳手除外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看进口压力表，偏低要报告",
+   "scene": "进口压力表指针高亮",
+   "prompt_en": "Diagram: a regulator inlet gauge highlighted, the needle within a green band, no numbers. No text.",
+   "narration": "开阀后看进口表，读数应在预期内。",
+   "overlay": [
+    "看进口压力表，偏低要报告"
+   ],
+   "labels": [
+    "进口压力表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看进口压力表，偏低要报告",
+   "scene": "读数偏低：快用空或瓶阀漏",
+   "prompt_en": "Diagram: a gauge needle reading low, two icons, an almost empty cylinder and a leaking valve. No text.",
+   "narration": "偏低？可能快空了，也可能在漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "看进口压力表，偏低要报告",
+   "scene": "小研打电话报告负责人",
+   "prompt_en": "The female graduate student points at a low gauge and phones the lab supervisor.",
+   "narration": "先别急着用，告诉实验室负责人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "调压：慢转手轮，出口阀只管流量",
+   "scene": "【实拍】一边慢慢顺时针转调压手轮，一边看出口压力表（惰性气体）",
+   "prompt_en": "Close-up: a hand slowly turning a regulator adjusting knob clockwise while the outlet gauge needle rises gently.",
+   "narration": "慢转调压手轮，看表调到规定压力。",
+   "overlay": [
+    "调压：慢转手轮，出口阀只管流量"
+   ],
+   "labels": [
+    "出口压力表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "调压：慢转手轮，出口阀只管流量",
+   "scene": "表的满刻度不等于安全压力",
+   "prompt_en": "Diagram: a gauge with the needle at full scale crossed out, a lower working mark with a tick. No text.",
+   "narration": "表的满刻度，不是安全工作压力。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "调压：慢转手轮，出口阀只管流量",
+   "scene": "再慢慢打开出口阀供气",
+   "prompt_en": "Diagram: a hand slowly opening the small outlet valve, gas flowing gently to the instrument. No text.",
+   "narration": "再慢慢打开出口阀，向系统供气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "调压：慢转手轮，出口阀只管流量",
+   "scene": "出口阀管流量，调压手轮管压力",
+   "prompt_en": "Diagram: two icons, the outlet valve with a flow arrow and the adjusting knob with a gauge. No text.",
+   "narration": "出口阀只管流量，压力靠手轮调。",
+   "overlay": [],
+   "labels": [
+    "出口阀 流量",
+    "手轮 压力"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "调压：慢转手轮，出口阀只管流量",
+   "scene": "通气后压力略降，复核微调",
+   "prompt_en": "Diagram: the outlet gauge needle dropping slightly when gas flows, then a hand making a small adjustment. No text.",
+   "narration": "通气后压力略降，复核再微调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "检漏：带压检漏，严禁明火",
+   "scene": "系统带压，准备检漏",
+   "prompt_en": "Diagram: a pressurised gas system with joints highlighted and a magnifier, before the instrument is used. No text.",
+   "narration": "用气之前，先在带压状态下检漏。",
+   "overlay": [
+    "检漏：带压检漏，严禁明火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "检漏：带压检漏，严禁明火",
+   "scene": "气泡法和电子检漏仪",
+   "prompt_en": "Diagram: two icons, a squeeze bottle making bubbles and a handheld electronic leak detector. No text.",
+   "narration": "可用检漏液，也可用电子检漏仪。",
+   "overlay": [],
+   "labels": [
+    "检漏液",
+    "检漏仪"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "检漏：带压检漏，严禁明火",
+   "scene": "用明火检漏打叉",
+   "prompt_en": "Diagram: a lighter flame held near a gas joint, crossed out in red. No text.",
+   "narration": "无论什么情况，严禁明火检漏！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "检漏：带压检漏，严禁明火",
+   "scene": "氧气系统用无油检漏液",
+   "prompt_en": "Diagram: an oxygen regulator with a bottle of oil free leak test solution and a tick, an oily soap crossed out. No text.",
+   "narration": "方法要和气体相容，氧气用无油的。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "检漏：带压检漏，严禁明火",
+   "scene": "关断气源后看压力表是否下降",
+   "prompt_en": "Diagram: a closed system with a gauge watched over a clock, the needle holding steady. No text.",
+   "narration": "也可按规程做保压检查，看表降不降。",
+   "overlay": [],
+   "labels": [
+    "保压检查"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "【实拍】把检漏液从洗瓶挤到瓶阀与减压阀的连接处（惰性气体，系统正常）",
+   "prompt_en": "Close-up: a squeeze bottle applying leak test solution onto the joint between a cylinder valve and a regulator.",
+   "narration": "检漏液装洗瓶，挤在每个接头上。",
+   "overlay": [
+    "检漏液逐个涂接头，冒泡就是漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "出口阀和管路接头也涂到",
+   "prompt_en": "Diagram: a regulator outlet valve and tubing joints each marked with a drop icon, one after another. No text.",
+   "narration": "出口阀、管路接头，一个不漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "【实拍】接头处检漏液不冒泡（系统正常）",
+   "prompt_en": "Close-up: a fitting covered with leak test solution and no bubbles forming.",
+   "narration": "不冒泡才合格，确认无漏再用气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "持续冒泡的接头打叉",
+   "prompt_en": "Diagram: a fitting with a growing cluster of bubbles, marked with a red warning. No text.",
+   "narration": "气泡不断冒出来，就是漏气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "【实拍】检漏后用纸巾擦干接头",
+   "prompt_en": "Close-up: a hand wiping a fitting dry with a paper towel after the leak test.",
+   "narration": "检漏后擦干，免得腐蚀接头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "检漏液逐个涂接头，冒泡就是漏",
+   "scene": "检漏记录表定期登记",
+   "prompt_en": "Diagram: a blank checklist with ticks, a calendar and a cylinder icon. No text.",
+   "narration": "定期检漏，每次登记留存。",
+   "overlay": [],
+   "labels": [
+    "检漏记录"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏了：先泄压再紧固，还漏就报告",
+   "scene": "带压拧接头打叉",
+   "prompt_en": "Diagram: a wrench on a bubbling fitting while the gauge shows pressure, crossed out. No text.",
+   "narration": "发现漏气，不要带压去拧。",
+   "overlay": [
+    "漏了：先泄压再紧固，还漏就报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏了：先泄压再紧固，还漏就报告",
+   "scene": "关瓶阀，泄压，紧固，再加压复查",
+   "prompt_en": "Diagram: four step icons, a closed cylinder valve, a gauge at zero, a wrench tightening, a bubble check. No text.",
+   "narration": "关瓶阀、泄压、紧固，再检一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "漏了：先泄压再紧固，还漏就报告",
+   "scene": "还漏：挂牌停用，报告负责人",
+   "prompt_en": "Diagram: a regulator with an out of service tag, a person phoning the supervisor. No text.",
+   "narration": "还漏就挂牌停用，报告更换。",
+   "overlay": [],
+   "labels": [
+    "停用"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用毕先关瓶阀，瓶内留余压",
+   "scene": "用完先关瓶阀",
+   "prompt_en": "Diagram: step one icon, a hand closing the cylinder valve clockwise. No text.",
+   "narration": "用完，先关气瓶上的瓶阀。",
+   "overlay": [
+    "用毕先关瓶阀，瓶内留余压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用毕先关瓶阀，瓶内留余压",
+   "scene": "【实拍】关瓶阀后放掉余气，两表回零（惰性气体）",
+   "prompt_en": "Close-up: both regulator gauge needles falling back to zero after the cylinder valve is closed.",
+   "narration": "再放掉余气，表针回零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用毕先关瓶阀，瓶内留余压",
+   "scene": "松开调压手轮，关出口阀",
+   "prompt_en": "Diagram: a hand loosening the adjusting knob, then closing the outlet valve. No text.",
+   "narration": "松开手轮，关好出口阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用毕先关瓶阀，瓶内留余压",
+   "scene": "只关出口阀打叉",
+   "prompt_en": "Diagram: only the regulator outlet valve closed while the cylinder valve stays open, crossed out. No text.",
+   "narration": "只关减压阀，不算关好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "用毕先关瓶阀，瓶内留余压",
+   "scene": "瓶内留有余压，防止倒灌",
+   "prompt_en": "Diagram: a cylinder with a small remaining pressure band, air and moisture blocked from flowing back in. No text.",
+   "narration": "气不用尽，留余压，防止倒灌。",
+   "overlay": [],
+   "labels": [
+    "留余压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "泄漏的危害：扩散加气体本身危害",
+   "scene": "氢气从阀门喷出，扩散很远",
+   "prompt_en": "Diagram: gas jetting from a cylinder valve and spreading far across a room as a faint cloud. No text.",
+   "narration": "高压推着气体，跑得又快又远。",
+   "overlay": [
+    "泄漏的危害：扩散加气体本身危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "泄漏的危害：扩散加气体本身危害",
+   "scene": "可燃、有毒、窒息、助燃四个图标",
+   "prompt_en": "Diagram: four icons, a flame, a skull, a person short of oxygen and an oxygen symbol with a flame. No text.",
+   "narration": "再加上气体本身的危害，遇火就出事。",
+   "overlay": [],
+   "labels": [
+    "可燃",
+    "有毒",
+    "窒息",
+    "助燃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "泄漏的危害：扩散加气体本身危害",
+   "scene": "锈蚀、损坏的气瓶挂牌停用",
+   "prompt_en": "Diagram: a rusty dented cylinder with an out of service tag, the supplier truck icon. No text.",
+   "narration": "锈蚀损坏的气瓶，漏之前就停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "大小泄漏怎么判断",
+   "scene": "小泄漏：量少、慢、可控、惰性",
+   "prompt_en": "Diagram: a small slow leak from an inert gas cylinder, icons for small amount, slow and under control. No text.",
+   "narration": "小泄漏：量少、慢、能控制、低危害。",
+   "overlay": [
+    "大小泄漏怎么判断"
+   ],
+   "labels": [
+    "小泄漏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "大小泄漏怎么判断",
+   "scene": "大泄漏：量大、失控、危害大",
+   "prompt_en": "Diagram: a large uncontrolled gas release with a warning triangle. No text.",
+   "narration": "大泄漏：量大、控制不住、危害重。",
+   "overlay": [],
+   "labels": [
+    "大泄漏"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "大小泄漏怎么判断",
+   "scene": "有毒气体漏一点也算大泄漏",
+   "prompt_en": "Diagram: a tiny leak from a toxic gas cylinder with a skull icon, put into the large leak box. No text.",
+   "narration": "有毒气体，漏一点也算大泄漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "大小泄漏怎么判断",
+   "scene": "拿不准，按大泄漏处理",
+   "prompt_en": "Diagram: a question mark over a leaking cylinder, an arrow pointing to the evacuation sign. No text.",
+   "narration": "拿不准，就按大泄漏处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "提醒周围的人，穿戴防护",
+   "prompt_en": "The female graduate student tells nearby students about a small leak while putting on safety goggles and gloves.",
+   "narration": "小泄漏：先告诉周围的人，穿好防护。",
+   "overlay": [
+    "小泄漏：通知、防护、通风放空"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "紧固接头仍漏，才是气瓶本身漏",
+   "prompt_en": "Diagram: a joint tightened but the leak continuing at the cylinder valve body, a magnifier. No text.",
+   "narration": "查清是接口漏，还是瓶本身漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "受训人员把小泄漏气瓶移到通风处",
+   "prompt_en": "The facility engineer moves a small leaking inert gas cylinder on a trolley to a ventilated hood area.",
+   "narration": "受训人员确认安全，移到通风处放空。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "移走旁边的可燃物",
+   "prompt_en": "Diagram: paper and solvent bottles being moved away from a leaking cylinder. No text.",
+   "narration": "可燃、助燃气体，移走旁边可燃物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "门口贴警示，人在外面等",
+   "prompt_en": "Diagram: a closed lab door with a blank warning sign, people waiting outside. No text.",
+   "narration": "撤出区域，门口警示，外面等放完。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "小泄漏：通知、防护、通风放空",
+   "scene": "漏气瓶退回供应单位",
+   "prompt_en": "Diagram: a tagged leaking cylinder going back to the supplier, a hand opening a valve body crossed out. No text.",
+   "narration": "退回供应单位，绝不自己拆修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "可燃气体泄漏：关阀通风，杜绝火源",
+   "scene": "闻到异味、听到嘶嘶声",
+   "prompt_en": "Diagram: a nose icon and an ear icon with a hissing line near a gas valve. No text.",
+   "narration": "闻到异味、听到嘶声，可能漏了。",
+   "overlay": [
+    "可燃气体泄漏：关阀通风，杜绝火源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "可燃气体泄漏：关阀通风，杜绝火源",
+   "scene": "能安全靠近，就关阀",
+   "prompt_en": "Diagram: a hand closing the cylinder valve, a tick, only when the area is safe. No text.",
+   "narration": "能安全靠近，就先关阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "可燃气体泄漏：关阀通风，杜绝火源",
+   "scene": "开窗通风",
+   "prompt_en": "Diagram: a window being opened and air flowing out of the lab. No text.",
+   "narration": "开窗通风，让气散出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "可燃气体泄漏：关阀通风，杜绝火源",
+   "scene": "开关电器、点火、打电话都打叉",
+   "prompt_en": "Diagram: a light switch, a lighter and a mobile phone, all crossed out. No text.",
+   "narration": "不开关电器，不点火，不在现场打电话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "可燃气体泄漏：关阀通风，杜绝火源",
+   "scene": "到安全处再拨119",
+   "prompt_en": "The young male student outside the building dials a phone, an emergency icon. No text.",
+   "narration": "撤到安全处，再打电话报警。",
+   "overlay": [],
+   "labels": [
+    "119"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒和高压泄漏：先撤离，不冒险",
+   "scene": "闻到刺激性气味，立即撤离",
+   "prompt_en": "The female graduate student covers her nose and leads others out of the lab door.",
+   "narration": "有毒气体泄漏，立即撤离。",
+   "overlay": [
+    "有毒和高压泄漏：先撤离，不冒险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒和高压泄漏：先撤离，不冒险",
+   "scene": "返回关阀、救人打叉",
+   "prompt_en": "Diagram: a person running back into a gas cloud towards a valve, crossed out. No text.",
+   "narration": "不要冒险返回关阀，也不贸然救人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒和高压泄漏：先撤离，不冒险",
+   "scene": "高压气流用手去堵打叉",
+   "prompt_en": "Diagram: a hand covering a jet of high pressure gas, crossed out. No text.",
+   "narration": "高压泄漏又猛又响，不用手去堵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒和高压泄漏：先撤离，不冒险",
+   "scene": "老李在远端关闭气源",
+   "prompt_en": "The facility engineer closes a remote shut off valve in the corridor.",
+   "narration": "能安全操作时，在远端关气源。",
+   "overlay": [],
+   "labels": [
+    "远端关断"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒和高压泄漏：先撤离，不冒险",
+   "scene": "氧气泄漏处禁火，衣服沾氧远离火",
+   "prompt_en": "Diagram: an oxygen leak area with a no flame symbol and a person in clothing moving away from a flame. No text.",
+   "narration": "氧气泄漏，严禁火源，衣服沾氧远离火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "大泄漏：撤离、报警、报告",
+   "scene": "撤离随手关门，按下报警按钮",
+   "prompt_en": "The young male student closes the lab door behind him and presses a building alarm button.",
+   "narration": "大泄漏：撤离，关门，按下报警按钮。",
+   "overlay": [
+    "大泄漏：撤离、报警、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "大泄漏：撤离、报警、报告",
+   "scene": "沿两条路线向上风方向撤到集合点",
+   "prompt_en": "Diagram: a floor plan with two exit routes and a wind sock showing people moving upwind to an assembly point. No text.",
+   "narration": "看风向，往上风处撤到集合点。",
+   "overlay": [],
+   "labels": [
+    "上风方向",
+    "集合点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "大泄漏：撤离、报警、报告",
+   "scene": "拨打119和120",
+   "prompt_en": "The young male student dials an emergency number on a phone at the assembly point.",
+   "narration": "着火拨119，有人受伤拨120。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "大泄漏：撤离、报警、报告",
+   "scene": "报告负责人、学院和保卫处",
+   "prompt_en": "Diagram: an arrow chain from a student to the lab supervisor, the school office and the security office. No text.",
+   "narration": "同时报告负责人、学院和保卫处。",
+   "overlay": [],
+   "labels": [
+    "负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "大泄漏：撤离、报警、报告",
+   "scene": "向救援人员说明情况",
+   "prompt_en": "The female graduate student briefs the security officer, pointing at the building.",
+   "narration": "说清什么气、在哪、里面有没有人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "站侧面慢开阀、慢调压图标",
+   "prompt_en": "Diagram: two icons, a person to the side of a valve and a slowly turned knob. No text.",
+   "narration": "站侧面慢开阀，边看表边调压。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "检漏液检漏、明火打叉",
+   "prompt_en": "Diagram: two icons, a squeeze bottle with bubbles and a flame crossed out. No text.",
+   "narration": "检漏液检漏，严禁明火，漏了先泄压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "关阀通风、撤离、报告图标",
+   "prompt_en": "Diagram: four icons, a closed valve, an open window, an exit sign and a phone. No text.",
+   "narration": "泄漏：能关就关，通风，撤离，报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一氧化碳报警器挥手",
+   "prompt_en": "The panda mascot holds a small carbon monoxide alarm and waves goodbye.",
+   "narration": "下一课：一氧化碳、硫化氢与窒息性气体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
