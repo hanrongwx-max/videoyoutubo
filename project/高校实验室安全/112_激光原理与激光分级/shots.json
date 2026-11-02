@@ -1,0 +1,802 @@
+{
+ "id": "112_激光原理与激光分级",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光原理与激光分级",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/112_激光原理与激光分级.md",
+ "author_source": "project/高校实验室安全/112_激光原理与激光分级/src.py",
+ "points": {
+  "K1": "功率越高，越要讲激光安全",
+  "K2": "激光怎样产生：激励、受激辐射与谐振腔",
+  "S1": "激光的特点与常见激光器",
+  "K3": "激光安全标准：国内看国家标准",
+  "K4": "按危害分级：先看标签上的级别",
+  "K5": "1类与1M类：正常使用无危害",
+  "K6": "2类与2M类：别盯着看",
+  "K7": "3R类：别直视，别用望远镜看",
+  "K8": "3B类：直射和镜面反射都伤眼",
+  "K9": "4类：漫反射也伤人，还能引燃"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一张标着不同级别的阶梯图",
+   "prompt_en": "The panda mascot holds up a staircase chart with seven steps of rising colour from green to red.",
+   "narration": "这一课讲激光原理和激光分级。",
+   "overlay": [
+    "激光原理与激光分级"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一支小激光笔，走向光学平台上的大激光器",
+   "prompt_en": "The young male student holds a small laser pointer and walks towards a large laser unit on an optical table.",
+   "narration": "阿杰想：激光不都跟激光笔一样？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着激光器机身上的标签",
+   "prompt_en": "The female graduate student points at the product label on the side of the laser unit.",
+   "narration": "小研说：先看标签，这台是3B类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰愣住，把激光笔放回口袋",
+   "prompt_en": "The young male student looks surprised and puts the laser pointer back in his pocket.",
+   "narration": "级别不同，危险和要求差得远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲激光安全",
+   "scene": "台阶从小激光笔走到大功率激光器",
+   "prompt_en": "Diagram: steps leading from a tiny laser pointer up to a large high power laser unit. No text.",
+   "narration": "学得越深，用的激光功率越高。",
+   "overlay": [
+    "功率越高，越要讲激光安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲激光安全",
+   "scene": "激光束射向眼睛，打警示符号",
+   "prompt_en": "Diagram: a laser beam heading towards an eye, with a warning symbol. No text.",
+   "narration": "激光最先伤的，往往是眼睛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "功率越高，越要讲激光安全",
+   "scene": "分级、限值、控制、标志、事故、规则六个图标",
+   "prompt_en": "Diagram: six icons in a row, a staircase, a gauge, a lock, a warning sign, a broken eye and a rule book. No text.",
+   "narration": "从分级学起，再学伤害和防护。",
+   "overlay": [],
+   "labels": [
+    "分级",
+    "限值",
+    "控制",
+    "标志",
+    "规则"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "原子被灌进能量，电子跳到高能级",
+   "prompt_en": "Diagram: energy being pumped into atoms, their electrons jumping up to a higher level. No text.",
+   "narration": "激光器先给工作物质泵入能量。",
+   "overlay": [
+    "激光怎样产生：激励、受激辐射与谐振腔"
+   ],
+   "labels": [
+    "激励"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "气体激光管通电，管内亮起淡紫色辉光",
+   "prompt_en": "Diagram: a long gas laser tube switched on, a soft violet glow filling the tube. No text.",
+   "narration": "气体激光开机，管里亮紫色辉光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "两端电极放电，新鲜气体沿箭头流过",
+   "prompt_en": "Diagram: electrodes discharging inside the tube while fresh gas flows through along arrows. No text.",
+   "narration": "电极放电，新鲜气体不断流过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "一个光子经过激发的原子，变成两个一模一样的光子",
+   "prompt_en": "Diagram: one photon passing an excited atom and becoming two identical photons moving in step. No text.",
+   "narration": "一个光子，引出一模一样的光子。",
+   "overlay": [],
+   "labels": [
+    "受激辐射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "两面镜子之间光来回反射，越来越强",
+   "prompt_en": "Diagram: light bouncing back and forth between two mirrors, growing stronger each pass. No text.",
+   "narration": "两面镜子来回反射，光越放越强。",
+   "overlay": [],
+   "labels": [
+    "谐振腔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "一端是半透镜，细光束从这里射出",
+   "prompt_en": "Diagram: one end mirror partly transparent, a narrow beam leaving through it. No text.",
+   "narration": "从半透镜射出来，就是激光束。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "激光怎样产生：激励、受激辐射与谐振腔",
+   "scene": "电源箱上画闪电符号，打开外壳打叉",
+   "prompt_en": "Diagram: a power supply box with a lightning symbol, a hand opening its cover crossed out. No text.",
+   "narration": "放电要用高压，不能随便开壳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "一条很窄的单色谱线",
+   "prompt_en": "Diagram: a single narrow coloured line on a dark spectrum strip. No text.",
+   "narration": "激光颜色很纯，几乎只有一个波长。",
+   "overlay": [
+    "激光的特点与常见激光器"
+   ],
+   "labels": [
+    "单色"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "一排波峰对齐的波",
+   "prompt_en": "Diagram: a row of light waves with their crests perfectly lined up. No text.",
+   "narration": "光波步调一致，是相干光。",
+   "overlay": [],
+   "labels": [
+    "相干"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "手电光越走越散，激光束到远处还很细",
+   "prompt_en": "Diagram: a torch beam spreading wide while a laser beam stays narrow far across a long hall. No text.",
+   "narration": "光束很细，传到远处还很集中。",
+   "overlay": [],
+   "labels": [
+    "方向性"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "激光进入瞳孔，在眼底聚成极小亮点",
+   "prompt_en": "Diagram: a laser beam entering the pupil and focusing to a tiny bright spot at the back of the eye. No text.",
+   "narration": "进眼后聚成极小一点，所以伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "五种激光器图标",
+   "prompt_en": "Diagram: five laser icons, a gas tube, a crystal rod, a small chip, a coiled fibre and a liquid cell. No text.",
+   "narration": "按工作物质，有气体、固体、半导体等。",
+   "overlay": [],
+   "labels": [
+    "气体",
+    "固体",
+    "半导体",
+    "光纤",
+    "染料"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "激光的特点与常见激光器",
+   "scene": "连续光束和一串脉冲，旁边一束看不见的虚线光",
+   "prompt_en": "Diagram: a continuous beam and a train of short pulses, beside a dotted invisible beam. No text.",
+   "narration": "有连续和脉冲，很多波长看不见。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "激光安全标准：国内看国家标准",
+   "scene": "一本厚厚的标准手册放在桌上",
+   "prompt_en": "Diagram: a thick standards book lying on a desk with a laser icon on its cover. No text.",
+   "narration": "激光安全标准，规定怎样安全用激光。",
+   "overlay": [
+    "激光安全标准：国内看国家标准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "激光安全标准：国内看国家标准",
+   "scene": "几本手册按年份排开，最新一本发亮",
+   "prompt_en": "Diagram: several editions of a standards book lined up, the newest one glowing. No text.",
+   "narration": "标准不断修订，用现行版本。",
+   "overlay": [],
+   "labels": [
+    "GB/T 7247.1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "激光安全标准：国内看国家标准",
+   "scene": "王老师认真翻阅标准并做笔记",
+   "prompt_en": "The safety administrator reads a standards book carefully and takes notes.",
+   "narration": "激光安全负责人，要把标准吃透。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "激光安全标准：国内看国家标准",
+   "scene": "外文资料上的另一套台阶图，旁边国标手册打勾",
+   "prompt_en": "Diagram: a foreign style staircase chart with a question mark beside a national standard booklet with a tick. No text.",
+   "narration": "国外资料分级名称不同，以国标为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "七级台阶，前四级颜色较浅",
+   "prompt_en": "Diagram: a seven step staircase, the first four steps in light colours. No text.",
+   "narration": "国标把激光产品分成七级。",
+   "overlay": [
+    "按危害分级：先看标签上的级别"
+   ],
+   "labels": [
+    "1类",
+    "1M类",
+    "2类",
+    "2M类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "台阶后三级颜色越来越深",
+   "prompt_en": "Diagram: the last three steps of the staircase in deepening orange and red. No text.",
+   "narration": "级别越高，危险越大，管得越严。",
+   "overlay": [],
+   "labels": [
+    "3R类",
+    "3B类",
+    "4类"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "波长、功率、时间三个图标汇入一个台阶",
+   "prompt_en": "Diagram: three icons, a wavelength wave, a power meter and a clock, feeding into one step. No text.",
+   "narration": "分级综合看波长、功率和时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "厂家在激光器上贴标签",
+   "prompt_en": "Diagram: a factory worker sticking a blank label onto the side of a laser unit. No text.",
+   "narration": "级别由厂家确定，标在机身上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "【实拍】激光产品说明标签和激光警告标记特写（遮挡品牌型号）",
+   "prompt_en": "Close-up: a laser warning label and a blank explanatory label on the side of a laser unit.",
+   "narration": "用前先看清，这台激光是几级。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "激光笔和大激光器并排，中间不等号",
+   "prompt_en": "Diagram: a laser pointer and a large laboratory laser side by side with a not equal sign between them. No text.",
+   "narration": "激光笔和实验室激光器不是一回事。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "【实拍】实验室门口的激光警告标志和激光工作指示灯（不开激光）",
+   "prompt_en": "Close-up: a laser warning sign on a laboratory door with a red indicator lamp above it.",
+   "narration": "门口贴激光警告标志，开机亮灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "按危害分级：先看标签上的级别",
+   "scene": "标签被撕掉打叉，阿杰拍照报告王老师",
+   "prompt_en": "Diagram: a torn label crossed out, then the young male student reporting it to the safety administrator. No text.",
+   "narration": "标签不准撕，看不清要报告补贴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "1类与1M类：正常使用无危害",
+   "scene": "光路全封闭的小设备，绿色对勾",
+   "prompt_en": "Diagram: a small instrument with its beam fully enclosed inside, a green tick beside it. No text.",
+   "narration": "1类：正常使用不会伤人。",
+   "overlay": [
+    "1类与1M类：正常使用无危害"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "1类与1M类：正常使用无危害",
+   "scene": "大功率激光装在封闭外壳里，外壳带门锁",
+   "prompt_en": "Diagram: a high power laser sealed inside a closed cabinet with a locked door. No text.",
+   "narration": "大激光装进封闭外壳，也能算1类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "1类与1M类：正常使用无危害",
+   "scene": "外壳盖板被打开，里面的强光露出来",
+   "prompt_en": "Diagram: the cabinet cover opened and the strong beam inside exposed, with warning symbols. No text.",
+   "narration": "可一打开外壳，危险就回来了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "1类与1M类：正常使用无危害",
+   "scene": "人用望远镜看一束发散的光，打警示",
+   "prompt_en": "Diagram: a person looking at a wide spreading beam through binoculars, with a warning symbol. No text.",
+   "narration": "带M的，用望远镜看就可能危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "2类与2M类：别盯着看",
+   "scene": "低功率可见光激光照在屏上",
+   "prompt_en": "Diagram: a low power visible laser making a small dot on a screen. No text.",
+   "narration": "2类是低功率的可见光激光。",
+   "overlay": [
+    "2类与2M类：别盯着看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "2类与2M类：别盯着看",
+   "scene": "光一晃到眼睛，眼皮马上闭上",
+   "prompt_en": "Diagram: a beam flashing across an eye and the eyelid closing at once. No text.",
+   "narration": "偶尔一晃，眼睛会本能地躲开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "2类与2M类：别盯着看",
+   "scene": "眼睛长时间盯着光点，打叉",
+   "prompt_en": "Diagram: an eye staring at the laser dot for a long time, crossed out. No text.",
+   "narration": "长时间盯着看，照样会伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "2类与2M类：别盯着看",
+   "scene": "功率和时钟两个图标相乘",
+   "prompt_en": "Diagram: a power meter icon multiplied by a clock icon equals a damage icon. No text.",
+   "narration": "危害既看功率，也看照射时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "2类与2M类：别盯着看",
+   "scene": "人用放大镜和望远镜看可见光束，打警示",
+   "prompt_en": "Diagram: a person looking at a visible beam through a magnifier and binoculars, with a warning symbol. No text.",
+   "narration": "2M用光学仪器看，也可能伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3R类：别直视，别用望远镜看",
+   "scene": "光束直射入眼，旁边小警示",
+   "prompt_en": "Diagram: a beam heading straight into an eye with a small warning symbol. No text.",
+   "narration": "3R类：直视光束有一定风险。",
+   "overlay": [
+    "3R类：别直视，别用望远镜看"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3R类：别直视，别用望远镜看",
+   "scene": "望远镜把光会聚进眼睛，打叉",
+   "prompt_en": "Diagram: binoculars gathering a beam into an eye, crossed out. No text.",
+   "narration": "用望远镜聚光入眼，就危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3R类：别直视，别用望远镜看",
+   "scene": "激光笔和光学平台上的指示光源",
+   "prompt_en": "Diagram: a laser pointer and a small alignment laser module on an optical table. No text.",
+   "narration": "很多激光笔和指示光属于这一类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "3R类：别直视，别用望远镜看",
+   "scene": "激光笔对着人、汽车、飞机，全部打叉",
+   "prompt_en": "Diagram: a laser pointer aimed at a person, a car and an aeroplane, all crossed out. No text.",
+   "narration": "激光笔不准照人眼、车辆和飞机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "3B类：直射和镜面反射都伤眼",
+   "scene": "光束直射眼睛，大警示",
+   "prompt_en": "Diagram: a beam heading straight into an eye with a large warning symbol. No text.",
+   "narration": "3B类：直视光束就会伤眼。",
+   "overlay": [
+    "3B类：直射和镜面反射都伤眼"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "3B类：直射和镜面反射都伤眼",
+   "scene": "光束打到镜面反射进眼睛",
+   "prompt_en": "Diagram: a beam bouncing off a shiny mirror surface into an eye. No text.",
+   "narration": "镜面反射的光，和直射一样危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "3B类：直射和镜面反射都伤眼",
+   "scene": "功率高的光束照到手背上，皮肤发红",
+   "prompt_en": "Diagram: a strong beam striking the back of a hand, the skin turning red. No text.",
+   "narration": "功率高的，还会灼伤皮肤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "3B类：直射和镜面反射都伤眼",
+   "scene": "光束打到白色粗糙屏上，散射光较弱，旁边小警示",
+   "prompt_en": "Diagram: a beam hitting a white matte card, the scattered light weak, with a small caution symbol. No text.",
+   "narration": "漫反射一般不伤眼，也别凑近看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "3B类：直射和镜面反射都伤眼",
+   "scene": "小研戴上激光防护眼镜再开机",
+   "prompt_en": "The female graduate student puts on laser safety goggles before switching on the laser.",
+   "narration": "用3B和4类，按规定戴防护眼镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "最高一级台阶上画火焰和眼睛",
+   "prompt_en": "Diagram: the top red step of the staircase marked with a flame icon and an eye icon. No text.",
+   "narration": "4类是最高一级。",
+   "overlay": [
+    "4类：漫反射也伤人，还能引燃"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "光束打在粗糙表面，向四面散开，射到眼睛",
+   "prompt_en": "Diagram: a beam hitting a rough matte surface and scattering in all directions, some reaching an eye. No text.",
+   "narration": "连粗糙表面的漫反射都能伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "光束点燃纸张冒烟",
+   "prompt_en": "Diagram: a beam setting a sheet of paper on fire with smoke rising. No text.",
+   "narration": "4类激光还能引燃东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "眼睛和手臂都被保护起来",
+   "prompt_en": "Diagram: an eye behind goggles and an arm covered by a sleeve and glove, both with ticks. No text.",
+   "narration": "眼睛和皮肤都要防护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "光束一直伸向远处，远处的人也有警示",
+   "prompt_en": "Diagram: a beam reaching far down a long hall, a person at the far end still marked with a warning. No text.",
+   "narration": "离得很远，直射光也可能伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "4类：漫反射也伤人，还能引燃",
+   "scene": "激光切割机旁贴激光警告标志",
+   "prompt_en": "Diagram: an industrial laser cutting machine with a laser warning sign on its side. No text.",
+   "narration": "切割用的激光，就属于最高的4类。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "受激辐射和两面镜子图标",
+   "prompt_en": "Diagram: two icons, identical photons multiplying and a pair of mirrors. No text.",
+   "narration": "受激辐射加谐振腔，产生激光。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "七级台阶，前段绿后段红",
+   "prompt_en": "Diagram: the seven step staircase, green at the bottom and red at the top. No text.",
+   "narration": "1到4类越来越危险，先看标签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "3B、4类台阶旁画防护眼镜和锁",
+   "prompt_en": "Diagram: the top two steps with goggles and a padlock icon beside them. No text.",
+   "narration": "3B和4类，必须严格管控。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着一个大眼睛模型挥手",
+   "prompt_en": "The panda mascot points at a large eye model and waves goodbye.",
+   "narration": "下一课：激光对眼睛和皮肤的伤害。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
