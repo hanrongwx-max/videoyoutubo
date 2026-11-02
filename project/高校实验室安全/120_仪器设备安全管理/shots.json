@@ -1,0 +1,770 @@
+{
+ "id": "120_仪器设备安全管理",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "仪器设备安全管理",
+ "seconds": 285,
+ "source_doc": "course/高校实验室安全/120_仪器设备安全管理.md",
+ "author_source": "project/高校实验室安全/120_仪器设备安全管理/src.py",
+ "points": {
+  "K1": "设备里关着危险能量",
+  "K2": "全生命周期管理：从验收建档到报废",
+  "K3": "先读说明书和操作规程",
+  "K4": "培训考核，授权上机",
+  "K5": "预约用本人账号，按规定选时段",
+  "K6": "使用登记、清洁交接，运行有人看",
+  "K7": "放稳擦净，定期维护和检查",
+  "K8": "认准检定校准标识，合格才用",
+  "K9": "异响异味报警，立即停机",
+  "K10": "故障挂牌停用，报修不私修",
+  "K11": "大型仪器的特殊警示：核磁强磁场",
+  "K12": "别让设备给你假安全感",
+  "S1": "特种设备：登记、检验、持证"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在仪器设备间门口，身后是一排仪器",
+   "prompt_en": "The panda mascot stands at the door of a shared instrument room with rows of lab instruments behind it, smiling at the camera.",
+   "narration": "第十章开讲：机械与设备安全。",
+   "overlay": [
+    "仪器设备安全管理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣指向空白的设备清单",
+   "prompt_en": "The panda mascot points to a blank equipment list board on the wall.",
+   "narration": "第一课，先把仪器设备管起来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰来到共用仪器前，登记本上一位没写",
+   "prompt_en": "The young male student arrives at a shared benchtop instrument and finds the usage logbook beside it left blank by the previous user.",
+   "narration": "阿杰来用共用仪器，上一位没登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "仪器冒出一缕烟，阿杰皱眉闻到焦味",
+   "prompt_en": "Diagram: a thin wisp of smoke rising from the back of the instrument and a student wrinkling his nose. No text.",
+   "narration": "开机就闻到焦糊味，机器上却没挂牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师赶来关机拔插头",
+   "prompt_en": "The safety administrator hurries in, switches off the instrument and pulls out the plug.",
+   "narration": "王老师：设备也要有人管、按规矩用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "设备里关着危险能量",
+   "scene": "仪器外壳里画着旋转、高温、电、化学四个图标",
+   "prompt_en": "Diagram: a closed instrument housing with four icons inside, a spinning rotor, a heat wave, a lightning bolt and a chemical flask. No text.",
+   "narration": "设备里关着转动、高温、电和化学能。",
+   "overlay": [
+    "设备里关着危险能量"
+   ],
+   "labels": [
+    "转动",
+    "高温",
+    "电",
+    "化学"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "设备里关着危险能量",
+   "scene": "外壳裂开，能量冲出来，打叉",
+   "prompt_en": "Diagram: a cracked housing with energy bursting out toward a person, crossed out. No text.",
+   "narration": "防护一失效，这些能量就会伤人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "设备里关着危险能量",
+   "scene": "阿杰对着仪器认真点头",
+   "prompt_en": "The young male student looks at the instrument seriously and nods with respect.",
+   "narration": "对设备，要心存敬畏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "生命周期环：采购、验收、使用、维护、报废",
+   "prompt_en": "Diagram: a circular life cycle with five icons, a purchase order, an inspection tick, an operator, a wrench and a recycling bin. No text.",
+   "narration": "设备从买进到报废，每一步都要管。",
+   "overlay": [
+    "全生命周期管理：从验收建档到报废"
+   ],
+   "labels": [
+    "采购",
+    "验收",
+    "使用",
+    "维护",
+    "报废"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "采购单上的合格标志，安装后检测验收",
+   "prompt_en": "Diagram: a purchase form with a quality mark icon, then a technician testing a newly installed instrument and ticking an acceptance sheet. No text.",
+   "narration": "选合格产品，安装检测验收后再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "老李对照装箱单清点到货",
+   "prompt_en": "The facility engineer checks a delivered instrument against a blank packing list, ticking items one by one.",
+   "narration": "到货对照装箱单，一样一样点清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "资产登记、设备档案、说明书放在设备旁",
+   "prompt_en": "Diagram: an asset register, an equipment file folder and a manual placed in a holder beside the instrument. No text.",
+   "narration": "登记资产，建档案，说明书放旁边。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "改装设备要走审批流程",
+   "prompt_en": "Diagram: a modified instrument part with an approval form and a signature before the change. No text.",
+   "narration": "换零件、改设备，要走变更审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "全生命周期管理：从验收建档到报废",
+   "scene": "报废前清洁去污，贴空白标签",
+   "prompt_en": "Diagram: an old instrument being wiped and decontaminated, then a blank disposal label attached before removal. No text.",
+   "narration": "报废前先清洁去污，按规定处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先读说明书和操作规程",
+   "scene": "小研翻开新仪器的说明书",
+   "prompt_en": "The female graduate student opens the manual of a new instrument and reads it carefully at the bench.",
+   "narration": "用新设备前，先读说明书。",
+   "overlay": [
+    "先读说明书和操作规程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先读说明书和操作规程",
+   "scene": "说明书上适用范围、限制条件、警示三个图标",
+   "prompt_en": "Diagram: three icons on a manual page, a range scale, a limit stop symbol and a warning triangle. No text.",
+   "narration": "看清适用范围、限制条件和警示。",
+   "overlay": [],
+   "labels": [
+    "适用范围",
+    "限制条件",
+    "警示"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先读说明书和操作规程",
+   "scene": "仪器旁墙上挂着空白操作规程卡",
+   "prompt_en": "Diagram: a blank operating procedure card mounted on the wall beside the instrument. No text.",
+   "narration": "按操作规程一步步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "培训考核，授权上机",
+   "scene": "王老师给新人讲开关机和日常维护",
+   "prompt_en": "The safety administrator trains two new students on how to switch an instrument on and off and do daily care.",
+   "narration": "新设备、新人员，先培训。",
+   "overlay": [
+    "培训考核，授权上机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "培训考核，授权上机",
+   "scene": "考核通过，空白授权名单上打勾",
+   "prompt_en": "Diagram: a passed practical test with a tick, then a new tick on a blank authorised user list. No text.",
+   "narration": "考核通过，获得授权才能独立使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "培训考核，授权上机",
+   "scene": "学会一台不等于会用另一台",
+   "prompt_en": "Diagram: a student authorised for one instrument walking toward a different instrument, a training icon in between. No text.",
+   "narration": "想用别的设备，再参加它的培训。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "培训考核，授权上机",
+   "scene": "光小心不够，没授权打叉",
+   "prompt_en": "Diagram: a careful looking person reaching for a power tool without an authorisation card, crossed out. No text.",
+   "narration": "光小心不够，要培训授权。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "预约用本人账号，按规定选时段",
+   "scene": "电脑上的设备预约页面，绿色空闲格",
+   "prompt_en": "Diagram: an equipment booking page on a computer screen with blank green free slots and grey booked slots. No text.",
+   "narration": "在本校平台上预约设备。",
+   "overlay": [
+    "预约用本人账号，按规定选时段"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "预约用本人账号，按规定选时段",
+   "scene": "时段长度、每天时长、提前天数三个图标",
+   "prompt_en": "Diagram: three icons, a slot length clock, a daily limit bar and a calendar with days ahead. No text.",
+   "narration": "时段长短、提前几天，按本校规定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "预约用本人账号，按规定选时段",
+   "scene": "本人账号登录，借用别人账号打叉",
+   "prompt_en": "Diagram: a student logging in with his own account, and a borrowed account card from a classmate crossed out. No text.",
+   "narration": "用本人账号预约，不借别人账号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "使用登记、清洁交接，运行有人看",
+   "scene": "阿杰在使用登记本上填写",
+   "prompt_en": "The young male student fills in a usage logbook beside the instrument before starting.",
+   "narration": "用前登记，看上一位有没有异常。",
+   "overlay": [
+    "使用登记、清洁交接，运行有人看"
+   ],
+   "labels": [
+    "时间",
+    "样品",
+    "状态"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "使用登记、清洁交接，运行有人看",
+   "scene": "用后清空、擦拭消毒，器材清点归位",
+   "prompt_en": "Diagram: an instrument emptied and wiped clean after use, tools counted and returned to their places. No text.",
+   "narration": "用后清空清洁，器材清点归位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "使用登记、清洁交接，运行有人看",
+   "scene": "耗材领用登记表：日期、数量、领用人",
+   "prompt_en": "Diagram: a consumables issue log with three blank columns and a box of spare nozzles. No text.",
+   "narration": "耗材领用，也要登记。",
+   "overlay": [],
+   "labels": [
+    "日期",
+    "数量",
+    "领用人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "使用登记、清洁交接，运行有人看",
+   "scene": "运行中人在旁边，过夜运行有审批单",
+   "prompt_en": "Diagram: a person staying beside a running instrument, and an overnight run with an approval form and a contact card. No text.",
+   "narration": "运行中别走开，过夜运行要经批准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放稳擦净，定期维护和检查",
+   "scene": "仪器放平放稳，四周留散热空间",
+   "prompt_en": "Diagram: an instrument placed level and steady on a bench with clear space around it for ventilation. No text.",
+   "narration": "设备放稳，周围留出散热空间。",
+   "overlay": [
+    "放稳擦净，定期维护和检查"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放稳擦净，定期维护和检查",
+   "scene": "按清单逐项检查",
+   "prompt_en": "Diagram: a technician going through a blank inspection checklist item by item in front of an instrument. No text.",
+   "narration": "定期检查，按清单一项项过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "放稳擦净，定期维护和检查",
+   "scene": "老李按维护计划保养，记入台账",
+   "prompt_en": "The facility engineer services an instrument according to a maintenance plan and records it in a ledger.",
+   "narration": "维护按计划，检修交给专业人员。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认准检定校准标识，合格才用",
+   "scene": "【实拍】仪器上的计量检定/校准合格标识特写（遮挡品牌型号）",
+   "prompt_en": "Close-up: a calibration status label on the side of a lab instrument and a fingertip pointing to its due date area.",
+   "narration": "看清检定校准标识，在有效期内。",
+   "overlay": [
+    "认准检定校准标识，合格才用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认准检定校准标识，合格才用",
+   "scene": "标识过期，仪器停用送检",
+   "prompt_en": "Diagram: an expired calibration label, the instrument tagged out of use and sent for testing. No text.",
+   "narration": "过期或没有标识，停用送检。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认准检定校准标识，合格才用",
+   "scene": "校准关系数据，也关系安全",
+   "prompt_en": "Diagram: a balance scale with a data chart on one side and a safety shield on the other, level. No text.",
+   "narration": "重视数据准确，更要重视安全。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "异响异味报警，立即停机",
+   "scene": "异响、异味、冒烟、报警四个图标",
+   "prompt_en": "Diagram: four icons around an instrument, a sound wave, a nose, smoke and an alarm bell. No text.",
+   "narration": "异响、异味、冒烟、报警，立即停机。",
+   "overlay": [
+    "异响异味报警，立即停机"
+   ],
+   "labels": [
+    "异响",
+    "异味",
+    "冒烟",
+    "报警"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "异响异味报警，立即停机",
+   "scene": "密封圈破损，人停下手",
+   "prompt_en": "Diagram: a damaged rubber seal ring on an instrument lid, the operator stopping work at once. No text.",
+   "narration": "密封圈、垫片坏了，停工报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "异响异味报警，立即停机",
+   "scene": "电机嗡嗡响不转、外壳发烫",
+   "prompt_en": "Diagram: a motor humming but not turning, the casing hot with heat waves, a hand switching off the power. No text.",
+   "narration": "嗡嗡响不转、发烫，马上断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "异响异味报警，立即停机",
+   "scene": "屏幕花屏黑屏，停止手势",
+   "prompt_en": "Diagram: a control screen flickering with distorted bars, a stop hand symbol. No text.",
+   "narration": "屏幕花屏、黑屏，也要停用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "异响异味报警，立即停机",
+   "scene": "运行中报错，先暂停等停稳，手伸进打叉",
+   "prompt_en": "Diagram: an automatic instrument showing an error, a finger pressing pause and waiting, a hand reaching into moving parts crossed out. No text.",
+   "narration": "报错先暂停，停稳前不伸手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "故障挂牌停用，报修不私修",
+   "scene": "拔插头，挂空白停用牌",
+   "prompt_en": "Diagram: a power plug pulled out and a blank out of service tag hung on the instrument. No text.",
+   "narration": "故障先断电，挂上停用标识。",
+   "overlay": [
+    "故障挂牌停用，报修不私修"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "故障挂牌停用，报修不私修",
+   "scene": "【实拍】把填好的故障停用牌挂在已断电的仪器上",
+   "prompt_en": "Close-up: a hand hanging a filled in out of service tag on the front of a switched off lab instrument.",
+   "narration": "停用牌提醒别人，别留给下一组。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "故障挂牌停用，报修不私修",
+   "scene": "使用记录登记故障，报告负责人",
+   "prompt_en": "Diagram: a fault written in the usage record and a phone call to the lab supervisor. No text.",
+   "narration": "登记故障，报告负责人报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "故障挂牌停用，报修不私修",
+   "scene": "学生拿螺丝刀拆仪器，打叉",
+   "prompt_en": "Diagram: a student opening an instrument housing with a screwdriver, crossed out. No text.",
+   "narration": "不私自拆修，等修好验收再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "大型仪器的特殊警示：核磁强磁场",
+   "scene": "核磁共振仪和磁力线示意",
+   "prompt_en": "Diagram: a large superconducting magnet instrument with invisible magnetic field lines spreading around it. No text.",
+   "narration": "核磁的磁体一直有磁，不能关。",
+   "overlay": [
+    "大型仪器的特殊警示：核磁强磁场"
+   ],
+   "labels": [
+    "强磁场"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "大型仪器的特殊警示：核磁强磁场",
+   "scene": "【实拍】核磁共振室地面警戒线和门口当心磁场标志（不进入警戒线）",
+   "prompt_en": "Close-up: a marked boundary line on the floor around a magnet room and a magnetic field warning sign at the door.",
+   "narration": "地上的警戒线，就是安全边界。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "大型仪器的特殊警示：核磁强磁场",
+   "scene": "扳手越线被吸飞，打叉",
+   "prompt_en": "Diagram: an iron wrench crossing the floor line and flying toward the magnet, crossed out. No text.",
+   "narration": "铁制工具越线，会被吸成飞弹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "大型仪器的特殊警示：核磁强磁场",
+   "scene": "进门前放下钥匙、手机、磁卡，起搏器人员禁入",
+   "prompt_en": "Diagram: keys, a phone and a magnetic card left in a tray at the door, and a heart pacemaker icon with a no entry symbol. No text.",
+   "narration": "先放下铁磁物品，植入起搏器者不进。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "别让设备给你假安全感",
+   "scene": "仪器外壳像盾牌，人站在后面松懈",
+   "prompt_en": "Diagram: an instrument drawn like a shield and a relaxed person leaning on it, a question mark above. No text.",
+   "narration": "好设备，不等于不会出事。",
+   "overlay": [
+    "别让设备给你假安全感"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "别让设备给你假安全感",
+   "scene": "检查标签有效、离心机配平两个图标",
+   "prompt_en": "Diagram: two icons, a label with a valid date and a balanced centrifuge rotor. No text.",
+   "narration": "看看标签有效吗？离心机配平了吗？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "别让设备给你假安全感",
+   "scene": "阿杰擦拭仪器，仪器伸出保护手臂",
+   "prompt_en": "The young male student wipes an instrument carefully, and the instrument is drawn with a small protective glow around him.",
+   "narration": "爱护设备，设备也会保护你。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "特种设备：登记、检验、持证",
+   "scene": "压力容器、气瓶、起重机三个图标",
+   "prompt_en": "Diagram: three icons, a pressure vessel, a gas cylinder and a small crane. No text.",
+   "narration": "压力容器、气瓶等，属于特种设备。",
+   "overlay": [
+    "特种设备：登记、检验、持证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "特种设备：登记、检验、持证",
+   "scene": "使用登记证、定期检验合格标志",
+   "prompt_en": "Diagram: a blank registration certificate and an inspection label on a pressure vessel, a calendar icon. No text.",
+   "narration": "依法登记，按期检验，合格才用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "特种设备：登记、检验、持证",
+   "scene": "持证人员操作，无证打叉",
+   "prompt_en": "Diagram: a certified operator with a blank certificate card using a pressure vessel, and a person without a card crossed out. No text.",
+   "narration": "按规定需要持证的，持证操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "生命周期环、授权卡、登记本",
+   "prompt_en": "Diagram: three icons, a life cycle ring, an authorisation card and a usage logbook. No text.",
+   "narration": "全程建档，授权上机，用前用后登记。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "校准标识、维护扳手、停用牌",
+   "prompt_en": "Diagram: three icons, a calibration label, a maintenance wrench and an out of service tag. No text.",
+   "narration": "标识有效，按时维护，故障挂牌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "核磁警戒线和特种设备检验标志",
+   "prompt_en": "Diagram: a magnet room floor line and an inspection label on a pressure vessel. No text.",
+   "narration": "特殊设备特殊警示，特种设备依法管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一台盖好的离心机旁挥手",
+   "prompt_en": "The panda mascot stands beside a closed benchtop centrifuge and waves goodbye.",
+   "narration": "下一课：离心机的安全使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
