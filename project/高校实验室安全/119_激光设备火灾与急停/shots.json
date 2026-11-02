@@ -1,0 +1,793 @@
+{
+ "id": "119_激光设备火灾与急停",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光设备火灾与急停",
+ "seconds": 300,
+ "source_doc": "course/高校实验室安全/119_激光设备火灾与急停.md",
+ "author_source": "project/高校实验室安全/119_激光设备火灾与急停/src.py",
+ "points": {
+  "K1": "风琴管阴燃：火从光路里烧起来",
+  "K2": "清走可燃物，加工区配灭火器",
+  "K3": "什么样的火要警惕",
+  "K4": "暂停键：停出光、停运动",
+  "K5": "急停：驱动和高压全断",
+  "K6": "拿不准，就拉总电源",
+  "K7": "安全地垫：一踩全停",
+  "K8": "停机后报告，确认再复位",
+  "K9": "冒烟起火：停光、关盖、报告",
+  "K10": "自动灭火装置报警：别开盖",
+  "K11": "精密激光设备：二氧化碳优于干粉",
+  "K12": "金属着火：D 类灭火器或干砂",
+  "K13": "手动出光：双手都在外面",
+  "K14": "手指不垫在喷嘴下"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在激光切割机旁，指着红色急停按钮",
+   "prompt_en": "The panda mascot stands beside a closed laser cutter and points to a red emergency stop button, smiling at the camera.",
+   "narration": "这一课讲激光设备的火灾与急停。",
+   "overlay": [
+    "激光设备火灾与急停"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "切割机内火苗变大，阿杰伸手要掀盖子",
+   "prompt_en": "Diagram: a growing flame inside a closed laser cutter and a student's hand reaching for the lid. No text.",
+   "narration": "机器里火苗变大，阿杰想掀盖看看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研按下急停，按住盖子",
+   "prompt_en": "The female graduate student presses the red emergency stop button and keeps the lid of the laser cutter closed.",
+   "narration": "小研按下急停：先停机，别开盖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师赶来，手边是二氧化碳灭火器",
+   "prompt_en": "The safety administrator hurries over with a carbon dioxide fire extinguisher in hand, standing on the exit side.",
+   "narration": "王老师赶来：用对灭火器才行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管阴燃：火从光路里烧起来",
+   "scene": "切割头上方的风琴管被烧穿一个黑洞",
+   "prompt_en": "Diagram: a folding bellows cover above a cutting head with a blackened burned hole and a glowing red spot inside. No text.",
+   "narration": "风琴管护着光路，也会被烧穿。",
+   "overlay": [
+    "风琴管阴燃：火从光路里烧起来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管阴燃：火从光路里烧起来",
+   "scene": "光束偏移打到护套上",
+   "prompt_en": "Diagram: a misaligned beam hitting the inside of the bellows cover, a dirty lens and dust nearby. No text.",
+   "narration": "光路偏了、镜片脏了，光就打到护套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管阴燃：火从光路里烧起来",
+   "scene": "火点下面是气管和电缆，机架上满是黑灰",
+   "prompt_en": "Diagram: the burning spot sits right above gas hoses and cables, and the machine frame is covered in black dust. No text.",
+   "narration": "下面是气管电缆，积灰正好是燃料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "风琴管阴燃：火从光路里烧起来",
+   "scene": "镜头拉远，红点还在阴燃",
+   "prompt_en": "Diagram: a zoomed out view of the machine with a small red glowing spot still smouldering, a clock beside it. No text.",
+   "narration": "阴燃不会自己灭，越拖越危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "清走可燃物，加工区配灭火器",
+   "scene": "保护膜、纸箱、碎屑被清走",
+   "prompt_en": "Diagram: protective film, cardboard boxes and scrap pieces being cleared away from a laser work area. No text.",
+   "narration": "保护膜、纸箱、碎屑，及时清走。",
+   "overlay": [
+    "清走可燃物，加工区配灭火器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "清走可燃物，加工区配灭火器",
+   "scene": "擦过酒精的工件晾干，酒精瓶盖好远离焊点",
+   "prompt_en": "Diagram: a workpiece wiped with alcohol drying first, the capped alcohol bottle placed far from the weld spot. No text.",
+   "narration": "酒精擦过等干再切，瓶子盖好放远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "清走可燃物，加工区配灭火器",
+   "scene": "加工区墙上挂着灭火器和灭火毯",
+   "prompt_en": "Diagram: a fire extinguisher and a fire blanket mounted on the wall right next to a laser work area, a fire extinguisher sign above. No text.",
+   "narration": "加工区配好灭火器和灭火毯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么样的火要警惕",
+   "scene": "加工点闪一下的小火苗随光头移走",
+   "prompt_en": "Diagram: a tiny flash of flame at the cutting point that moves along with the laser head and disappears. No text.",
+   "narration": "加工点闪一下小火苗，随光移走。",
+   "overlay": [
+    "什么样的火要警惕"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "什么样的火要警惕",
+   "scene": "光头已经移走，原处火苗越烧越大",
+   "prompt_en": "Diagram: the laser head has moved on but the flame at the old spot keeps growing bigger, a warning burst around it. No text.",
+   "narration": "光已移走，原处还在烧，就要警惕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂停键：停出光、停运动",
+   "scene": "机器顶部的启动键和暂停键",
+   "prompt_en": "Diagram: a start button and a pause button on top of a desktop laser cutter, the pause button highlighted. No text.",
+   "narration": "暂停键随时能按，按了没有坏处。",
+   "overlay": [
+    "暂停键：停出光、停运动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂停键：停出光、停运动",
+   "scene": "按下暂停，光束和横梁停住",
+   "prompt_en": "Diagram: a finger pressing the pause button, the beam switching off and the moving gantry stopping. No text.",
+   "narration": "暂停或进给保持，只停出光和运动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "暂停键：停出光、停运动",
+   "scene": "暂停后电源和高压指示灯仍亮",
+   "prompt_en": "Diagram: after pausing, the power and high voltage indicator lamps on the cabinet are still lit. No text.",
+   "narration": "电源和高压，其实还开着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "急停：驱动和高压全断",
+   "scene": "【实拍】按下红色急停按钮（设备待机不出光，遮挡品牌）",
+   "prompt_en": "Close-up: a hand pressing down a red mushroom emergency stop button on a laser machine control panel.",
+   "narration": "情况严重，立即按急停。",
+   "overlay": [
+    "急停：驱动和高压全断"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "急停：驱动和高压全断",
+   "scene": "急停后驱动和高压线路全部断开",
+   "prompt_en": "Diagram: after the emergency stop, the drive and high voltage lines in the machine all break apart. No text.",
+   "narration": "急停一按，驱动、高压全部断开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "急停：驱动和高压全断",
+   "scene": "机头卡住、异响、大量浓烟三个图标",
+   "prompt_en": "Diagram: three icons, a stuck laser head, a cracking sound and thick black smoke. No text.",
+   "narration": "机头卡死、异响、浓烟，直接急停。",
+   "overlay": [],
+   "labels": [
+    "机头卡住",
+    "异响",
+    "大量浓烟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "急停：驱动和高压全断",
+   "scene": "正常关机：先停光挂枪，再关开关",
+   "prompt_en": "Diagram: normal shutdown order, release the trigger, hang the torch, then switch off, and a hand slapping the switch mid weld crossed out. No text.",
+   "narration": "正常关机先停光挂枪，再关开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拿不准，就拉总电源",
+   "scene": "【实拍】操作者指认墙上的总电源开关（不操作）",
+   "prompt_en": "Close-up: an operator pointing to the main isolating switch box on the wall beside a laser machine.",
+   "narration": "进实验室，先认急停和总电源。",
+   "overlay": [
+    "拿不准，就拉总电源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拿不准，就拉总电源",
+   "scene": "总电源开关前堆着箱子，打叉",
+   "prompt_en": "Diagram: boxes piled in front of a main power switch box, crossed out. No text.",
+   "narration": "开关前不堆东西，伸手就能够到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拿不准，就拉总电源",
+   "scene": "总开关拉下，激光器和冷水机一起断电",
+   "prompt_en": "Diagram: the main switch pulled down and the laser source, the chiller and the extractor all losing power together. No text.",
+   "narration": "总开关一拉，所有设备一起断电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拿不准，就拉总电源",
+   "scene": "阿杰犹豫，问号变成拉闸的手",
+   "prompt_en": "Diagram: a question mark above a hesitant student turning into a hand pulling the main switch down. No text.",
+   "narration": "还在犹豫，就别想了，直接拉闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "机器前的安全地垫，一只脚踩上去机器停",
+   "prompt_en": "Diagram: a pressure sensitive safety mat in front of a large laser machine, a foot stepping on it and the machine stopping. No text.",
+   "narration": "机前安全地垫，一踩整台机器停。",
+   "overlay": [
+    "安全地垫：一踩全停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "人们凑到机器前面看，地垫护住",
+   "prompt_en": "Diagram: visitors leaning toward the front of the machine while the safety mat under their feet stops the machine. No text.",
+   "narration": "人想凑近看，地垫保护人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "定期测试地垫和急停，记录本上打勾",
+   "prompt_en": "Diagram: a technician testing the safety mat and the emergency stop, then ticking a test log. No text.",
+   "narration": "地垫、急停定期测试，试一次记一次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "安全地垫：一踩全停",
+   "scene": "地垫上压重物、急停被胶带缠住，打叉",
+   "prompt_en": "Diagram: a heavy box placed on the safety mat to bypass it and an emergency stop taped over, both crossed out. No text.",
+   "narration": "不准屏蔽、绕过停机装置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "停机后报告，确认再复位",
+   "scene": "阿杰按下急停后打电话报告老师",
+   "prompt_en": "The young male student, after pressing the emergency stop, phones the safety administrator to report.",
+   "narration": "按了急停、拉了总闸，马上报告。",
+   "overlay": [
+    "停机后报告，确认再复位"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "停机后报告，确认再复位",
+   "scene": "老李查明原因后，旋转拔出急停按钮",
+   "prompt_en": "Diagram: the facility engineer checks the cause, then twists and pulls the emergency stop button out to reset it. No text.",
+   "narration": "查明原因、负责人确认，旋出复位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "停机后报告，确认再复位",
+   "scene": "学生自己随手复位开机，打叉",
+   "prompt_en": "Diagram: a student resetting the emergency stop and restarting the machine on his own, crossed out. No text.",
+   "narration": "不要自己随手复位开机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "冒烟起火：停光、关盖、报告",
+   "scene": "按下暂停或急停，机盖保持关闭",
+   "prompt_en": "Diagram: a hand pressing the stop button while the lid of the laser cutter stays closed over a small flame. No text.",
+   "narration": "起火先停光，机盖保持关闭。",
+   "overlay": [
+    "冒烟起火：停光、关盖、报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "冒烟起火：停光、关盖、报告",
+   "scene": "掀盖扇风让火变旺，打叉",
+   "prompt_en": "Diagram: a person lifting the lid and fanning the flame which grows bigger, crossed out. No text.",
+   "narration": "开盖扇风，火会更旺。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "冒烟起火：停光、关盖、报告",
+   "scene": "拿手机拍视频，打叉",
+   "prompt_en": "Diagram: a person filming a smoking machine with a phone instead of stopping it, crossed out. No text.",
+   "narration": "先处置，不要先拍视频。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "冒烟起火：停光、关盖、报告",
+   "scene": "火势变大，人撤离，手机拨119和120",
+   "prompt_en": "Diagram: a growing fire, people leaving through the exit and a phone showing 119 and 120. No text.",
+   "narration": "控制不住撤离拨119，有人受伤拨120。",
+   "overlay": [],
+   "labels": [
+    "119",
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "冒烟起火：停光、关盖、报告",
+   "scene": "报告链：实验室负责人、学院、保卫处",
+   "prompt_en": "Diagram: a reporting chain with three steps, a lab supervisor, a college office and a campus security office. No text.",
+   "narration": "起火受伤都要逐级报告。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人",
+    "学院",
+    "保卫处"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "自动灭火装置报警：别开盖",
+   "scene": "机器旁的小盒子：自动灭火装置在监测",
+   "prompt_en": "Diagram: a small box mounted beside the laser cutter with a sensor icon watching for smoke and flame. No text.",
+   "narration": "有的设备装了自动灭火装置。",
+   "overlay": [
+    "自动灭火装置报警：别开盖"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "自动灭火装置报警：别开盖",
+   "scene": "报警：切断激光电源，向机内喷二氧化碳",
+   "prompt_en": "Diagram: an alarm bell ringing, the laser power line cut and carbon dioxide gas spraying inside the closed machine. No text.",
+   "narration": "报警时，断激光电源、喷二氧化碳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "自动灭火装置报警：别开盖",
+   "scene": "警报响，阿杰站住向老师招手，不冲去开盖",
+   "prompt_en": "The young male student hears an alarm, stays calm and waves to the safety administrator instead of rushing to open the lid.",
+   "narration": "警报响了不开盖，让老师知道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "自动灭火装置报警：别开盖",
+   "scene": "老师指挥用灭火毯和灭火器",
+   "prompt_en": "The safety administrator directs the next step, a fire blanket and a fire extinguisher ready beside the machine.",
+   "narration": "气体没灭，再听老师指挥灭火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "精密激光设备：二氧化碳优于干粉",
+   "scene": "【实拍】二氧化碳灭火器铭牌特写，手指指向适用火灾类别图标",
+   "prompt_en": "Close-up: a finger pointing to the fire class icons on the label of a carbon dioxide fire extinguisher.",
+   "narration": "灭火器按铭牌上的火灾类别选。",
+   "overlay": [
+    "精密激光设备：二氧化碳优于干粉"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "精密激光设备：二氧化碳优于干粉",
+   "scene": "干粉喷进电子元件，残留吸潮腐蚀",
+   "prompt_en": "Diagram: dry powder covering electronic boards inside a machine, then moisture drops and rust spots spreading. No text.",
+   "narration": "干粉残留吸潮，会腐蚀精密元件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "精密激光设备：二氧化碳优于干粉",
+   "scene": "二氧化碳挤走氧气，散去不留残渣",
+   "prompt_en": "Diagram: carbon dioxide pushing oxygen away from a flame, then the gas drifting off and leaving the boards clean. No text.",
+   "narration": "二氧化碳灭火后散掉，不留残渣。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "精密激光设备：二氧化碳优于干粉",
+   "scene": "带电设备旁的二氧化碳灭火器打勾，水桶打叉",
+   "prompt_en": "Diagram: a carbon dioxide extinguisher with a tick beside a powered laser machine, a water bucket crossed out. No text.",
+   "narration": "带电激光设备，优先二氧化碳，不用水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "精密激光设备：二氧化碳优于干粉",
+   "scene": "只有干粉灭火器时也拿起来用",
+   "prompt_en": "Diagram: only a dry powder extinguisher on the wall, a hand taking it to fight a small fire, a person icon with a shield. No text.",
+   "narration": "手边只有干粉也能用，人身安全第一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "金属着火：D 类灭火器或干砂",
+   "scene": "钛、镁金属屑燃烧发出白光",
+   "prompt_en": "Diagram: titanium and magnesium chips burning with a bright white glow on a cutting table. No text.",
+   "narration": "钛、镁等金属也会燃烧，很难扑灭。",
+   "overlay": [
+    "金属着火：D 类灭火器或干砂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "金属着火：D 类灭火器或干砂",
+   "scene": "水、二氧化碳、普通干粉三个图标打叉",
+   "prompt_en": "Diagram: three icons, water, a carbon dioxide extinguisher and an ordinary dry powder extinguisher, all crossed out over a metal fire. No text.",
+   "narration": "金属火不用水，不用二氧化碳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "金属着火：D 类灭火器或干砂",
+   "scene": "D类灭火器和干砂桶覆盖金属火",
+   "prompt_en": "Diagram: a special metal fire extinguisher and a bucket of dry sand used to cover burning metal chips. No text.",
+   "narration": "用D类灭火器或干砂覆盖。",
+   "overlay": [],
+   "labels": [
+    "D类",
+    "干砂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "手动出光：双手都在外面",
+   "scene": "切割时安安静静，喷嘴下金属瞬间汽化",
+   "prompt_en": "Diagram: a quiet laser cutting head, and a zoomed view under the nozzle where metal vaporises violently. No text.",
+   "narration": "切割很安静，喷嘴下金属瞬间汽化。",
+   "overlay": [
+    "手动出光：双手都在外面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "手动出光：双手都在外面",
+   "scene": "对中出光时，两手按在机外两个按钮上",
+   "prompt_en": "Diagram: an operator firing a single alignment pulse with both hands pressing two buttons outside the machine. No text.",
+   "narration": "手动出光，双手都按在外面按钮上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "手动出光：双手都在外面",
+   "scene": "一只手按钮、一只手伸进机内，打叉",
+   "prompt_en": "Diagram: one hand on the fire button and the other hand inside the machine near the nozzle, crossed out. No text.",
+   "narration": "绝不能一手按钮，一手在里面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "手动出光：双手都在外面",
+   "scene": "厚透明塑料块被细光斑打穿",
+   "prompt_en": "Diagram: a thick clear plastic block with a thin hole burned straight through from top to bottom by a single pulse. No text.",
+   "narration": "细细光斑，一下就打穿厚塑料块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "手动出光：双手都在外面",
+   "scene": "出光前环顾一圈喊一声；按钮被绑住打叉",
+   "prompt_en": "Diagram: an operator looking around and calling out before firing, and a two hand button taped down to one hand use crossed out. No text.",
+   "narration": "出光前看一圈，双手按钮不能绑住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "手指不垫在喷嘴下",
+   "scene": "手指垫在喷嘴下量高度，打叉",
+   "prompt_en": "Diagram: a finger placed under the cutting nozzle to measure its height, crossed out. No text.",
+   "narration": "不要用手指垫在喷嘴下量高度。",
+   "overlay": [
+    "手指不垫在喷嘴下"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "手指不垫在喷嘴下",
+   "scene": "手指一滑，光穿过去，疼痛符号",
+   "prompt_en": "Diagram: the finger slipping and a beam path passing through the spot, a pain burst icon. No text.",
+   "narration": "手指一滑，光就穿过去，非常疼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "手指不垫在喷嘴下",
+   "scene": "用塞尺工具量喷嘴高度",
+   "prompt_en": "Diagram: a feeler gauge tool used to measure the nozzle height with the machine stopped. No text.",
+   "narration": "量高度用工具，手指别伸进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "清可燃物、看火情、配灭火器三个图标",
+   "prompt_en": "Diagram: three icons, a broom clearing scraps, an eye watching a flame and a fire extinguisher. No text.",
+   "narration": "清走可燃物，盯住火情，配好灭火器。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "暂停、急停、总电源开关三个图标",
+   "prompt_en": "Diagram: three icons, a pause button, a red emergency stop button and a main power switch. No text.",
+   "narration": "暂停、急停、总电源，拿不准就拉闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "二氧化碳灭火器、D类灭火器、双手按钮",
+   "prompt_en": "Diagram: three icons, a carbon dioxide extinguisher, a metal fire extinguisher and two hands on two buttons. No text.",
+   "narration": "按铭牌选灭火器，出光双手在外。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在仪器设备间，手里拿着空白的设备台账",
+   "prompt_en": "The panda mascot stands in a lab equipment room holding a blank equipment ledger and waves goodbye.",
+   "narration": "下一课：仪器设备安全管理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
