@@ -1,0 +1,942 @@
+{
+ "id": "109_光子、光谱与光和材料的作用",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "光子、光谱与光和材料的作用",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/109_光子、光谱与光和材料的作用.md",
+ "author_source": "project/高校实验室安全/109_光子、光谱与光和材料的作用/src.py",
+ "points": {
+  "K1": "光也是一串光子",
+  "K2": "光子能量：波长越短能量越大",
+  "K3": "原子能级：能量对上才吸收",
+  "K4": "电子落下就发光：各种光源",
+  "K5": "三种光谱：光谱是物质的指纹",
+  "K6": "热辐射：越热越亮，峰值越短",
+  "K7": "波粒二象性：既是波也是粒子",
+  "K8": "折射率随颜色变：色散",
+  "K9": "光进材料：反射、吸收、散射、透射",
+  "K10": "每个表面都反射，多次反射出多束",
+  "K11": "辐照度：功率除以面积，光斑越小越强",
+  "S1": "光谱灯与暗室实验的安全"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣手里捧着一串发光的小光球，像一串珠子",
+   "prompt_en": "The panda mascot holds a string of small glowing light beads like a necklace and smiles at the camera.",
+   "narration": "这一课讲光子、光谱和光与材料。",
+   "overlay": [
+    "光子、光谱与光和材料的作用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一块蓝色滤光片对着灯看",
+   "prompt_en": "The young male student holds a blue filter glass up to a lamp and looks through it.",
+   "narration": "阿杰好奇：滤光片为什么只透蓝光？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起一副普通墨镜，想当激光防护镜用",
+   "prompt_en": "The young male student picks up ordinary dark sunglasses as if to use them near a laser.",
+   "narration": "他还想拿墨镜去挡激光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研摇头，把激光防护眼镜递给他",
+   "prompt_en": "The female graduate student shakes her head and hands him a pair of laser safety goggles.",
+   "narration": "小研说：先弄懂光和材料怎么作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串光子",
+   "scene": "一束光拆成一颗颗小光团",
+   "prompt_en": "Diagram: a light beam breaking up into a stream of small glowing wave packets. No text.",
+   "narration": "光也可以看成一串光子。",
+   "overlay": [
+    "光也是一串光子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串光子",
+   "scene": "反射折射旁画波浪图标，吸收发光旁画小光团图标",
+   "prompt_en": "Diagram: a mirror and a lens next to a wave icon, and a glowing atom next to a packet icon. No text.",
+   "narration": "反射折射看波，吸收发光看光子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串光子",
+   "scene": "原子、光谱、热辐射、穿过材料四个图标",
+   "prompt_en": "Diagram: four icons, an atom, a rainbow spectrum, a glowing hot iron and a beam passing through a glass block. No text.",
+   "narration": "原子、光谱、热辐射、穿过材料。",
+   "overlay": [],
+   "labels": [
+    "原子",
+    "光谱",
+    "热辐射",
+    "材料"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串光子",
+   "scene": "光子画成一小团波，不是钢珠",
+   "prompt_en": "Diagram: a photon drawn as a tiny bundle of waves, next to a steel ball crossed out. No text.",
+   "narration": "光子是最小的一份光，像一小团波。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "光也是一串光子",
+   "scene": "红绿紫三颗光子旁各有频率、波长、能量三个小图标",
+   "prompt_en": "Diagram: red, green and violet photons, each with three small icons for frequency, wavelength and energy. No text.",
+   "narration": "颜色不同，光子也不一样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光子能量：波长越短能量越大",
+   "scene": "红、绿、紫三颗光子，个头越来越大",
+   "prompt_en": "Diagram: three photons, red, green and violet, each one glowing brighter and larger than the last. No text.",
+   "narration": "频率越高，每个光子能量越大。",
+   "overlay": [
+    "光子能量：波长越短能量越大"
+   ],
+   "labels": [
+    "E=hν"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光子能量：波长越短能量越大",
+   "scene": "能量等于常数乘频率，天平两边",
+   "prompt_en": "Diagram: a balance with an energy block on one side and a constant times a frequency wave on the other. No text.",
+   "narration": "光子能量等于普朗克常数乘频率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光子能量：波长越短能量越大",
+   "scene": "波长箭头越短，能量柱越高",
+   "prompt_en": "Diagram: a chart where shorter wavelength arrows match taller energy bars. No text.",
+   "narration": "波长越短，单个光子越有劲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光子能量：波长越短能量越大",
+   "scene": "红光温和，紫外光子像小锤子",
+   "prompt_en": "Diagram: a gentle red photon beside an ultraviolet photon drawn like a small hammer. No text.",
+   "narration": "红光温和，紫外光子能量高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "光子能量：波长越短能量越大",
+   "scene": "紫外光照向眼睛和皮肤，打警示符号",
+   "prompt_en": "Diagram: ultraviolet light shining towards an eye and a forearm, with warning symbols. No text.",
+   "narration": "紫外伤眼伤皮肤，看不见也要防。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "放大镜钻进材料，看见原子核和绕核电子",
+   "prompt_en": "Diagram: a magnifying glass zooming into a material to show an atom with a nucleus and orbiting electrons. No text.",
+   "narration": "看吸收，要钻进原子里看。",
+   "overlay": [
+    "原子能级：能量对上才吸收"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "电子一层层住在壳层上，每层有座位上限",
+   "prompt_en": "Diagram: electrons filling concentric shells around a nucleus, inner shells full, each shell with limited seats. No text.",
+   "narration": "电子分层住，从里往外坐满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "能量台阶：离核越远台阶越高",
+   "prompt_en": "Diagram: an energy staircase where higher steps are farther from the nucleus. No text.",
+   "narration": "离核越远，能量越高。",
+   "overlay": [],
+   "labels": [
+    "基态",
+    "激发态"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "电子吸收一个光子跳上台阶",
+   "prompt_en": "Diagram: an electron absorbing a photon and jumping up one step on the energy staircase. No text.",
+   "narration": "吸收一份能量跳上去，叫激发。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "光子能量刚好等于台阶差才被吃掉，对不上的直接穿过",
+   "prompt_en": "Diagram: a photon that matches the step gap is absorbed, while a mismatched photon passes straight through. No text.",
+   "narration": "能量刚好对上，才会被吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "能级图上台阶间距被箭头量出，旁边一颗对应大小的光子",
+   "prompt_en": "Diagram: an energy level diagram with the gap between two levels measured by an arrow, a matching photon beside it. No text.",
+   "narration": "能级图上的间距，就是光子能量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "原子能级：能量对上才吸收",
+   "scene": "材料只吸走某几种颜色的光",
+   "prompt_en": "Diagram: white light entering a material and only certain colours missing on the other side. No text.",
+   "narration": "所以材料只吸收特定颜色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子落下就发光：各种光源",
+   "scene": "电子从高台阶落下，放出一个光子",
+   "prompt_en": "Diagram: an electron dropping down a step and releasing a glowing photon. No text.",
+   "narration": "电子落下来，就放出一个光子。",
+   "overlay": [
+    "电子落下就发光：各种光源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子落下就发光：各种光源",
+   "scene": "太阳、恒星、闪电三个天然光源",
+   "prompt_en": "Diagram: three natural light sources, the sun, stars and lightning. No text.",
+   "narration": "太阳、闪电是天然光源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子落下就发光：各种光源",
+   "scene": "灯泡、电热器、激光器、X光管等人造光源",
+   "prompt_en": "Diagram: man-made sources, a light bulb, an electric heater, a laser and an X-ray tube. No text.",
+   "narration": "灯、加热器、激光器是人造光源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "电子落下就发光：各种光源",
+   "scene": "一块铁的温度计慢慢升高，先冒出看不见的红外波纹",
+   "prompt_en": "Diagram: an iron block with a rising thermometer, invisible infrared ripples coming off it before it glows. No text.",
+   "narration": "任何物体都在辐射，热了才看得见。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "白光经棱镜散开成连续彩带",
+   "prompt_en": "Diagram: white light spreading through a prism into a continuous rainbow band. No text.",
+   "narration": "白光散开，是连续光谱。",
+   "overlay": [
+    "三种光谱：光谱是物质的指纹"
+   ],
+   "labels": [
+    "连续谱",
+    "亮线谱",
+    "暗线谱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "热气体发光，只有几条亮线",
+   "prompt_en": "Diagram: a glowing gas tube whose light forms only a few bright coloured lines on a dark background. No text.",
+   "narration": "热气体发光，只有几条亮线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "白光穿过冷气体，彩带上缺几条暗线",
+   "prompt_en": "Diagram: white light passing through a cool gas cloud, the rainbow band showing a few dark gaps. No text.",
+   "narration": "白光穿过冷气体，彩带缺几条。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "亮线谱和暗线谱上下对齐，位置一样",
+   "prompt_en": "Diagram: a bright line spectrum placed above a dark line spectrum of the same gas, the lines matching exactly. No text.",
+   "narration": "同一种气体，亮线暗线位置相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "谱线像条形码，和样品库比对",
+   "prompt_en": "Diagram: spectral lines shaped like a barcode being matched against a library of patterns. No text.",
+   "narration": "谱线是物质指纹，能认出物质。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "常发生的跳跃谱线粗亮，少发生的细弱",
+   "prompt_en": "Diagram: a thick bright spectral line for a frequent jump and a faint thin line for a rare jump. No text.",
+   "narration": "跳得多，谱线就强；跳得少，就弱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "三种光谱：光谱是物质的指纹",
+   "scene": "【实拍】用手持分光镜对着白色荧光灯观察（不看太阳和激光）",
+   "prompt_en": "Close-up: a hand holding a small handheld spectroscope pointed at a white ceiling fluorescent lamp.",
+   "narration": "用分光镜看灯光，能看到谱线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "热辐射：越热越亮，峰值越短",
+   "scene": "炉子里的铁块越烧越热，颜色从红到白",
+   "prompt_en": "Diagram: a metal bar heated in a furnace changing colour from dull red to orange, yellow and white. No text.",
+   "narration": "金属越烧越热，红橙黄白。",
+   "overlay": [
+    "热辐射：越热越亮，峰值越短"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "热辐射：越热越亮，峰值越短",
+   "scene": "三条辐射曲线，温度越高越高越尖，峰往短波移",
+   "prompt_en": "Diagram: three radiation curves, the hotter ones taller and sharper with their peaks shifting to shorter wavelength. No text.",
+   "narration": "越热，辐射越多，峰值波长越短。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "热辐射：越热越亮，峰值越短",
+   "scene": "温度上升箭头和峰值波长下降箭头",
+   "prompt_en": "Diagram: an up arrow for temperature and a down arrow for peak wavelength, linked by a balance. No text.",
+   "narration": "温度乘峰值波长，大致不变。",
+   "overlay": [],
+   "labels": [
+    "温度用开尔文"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "热辐射：越热越亮，峰值越短",
+   "scene": "灯丝、弧光灯、太阳、蓝色恒星依次排开",
+   "prompt_en": "Diagram: a lamp filament, an arc lamp, the sun and a blue star lined up from cooler to hotter. No text.",
+   "narration": "灯丝、弧光、太阳，一个比一个热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "热辐射：越热越亮，峰值越短",
+   "scene": "没发红的热板冒出看不见的红外波纹，手靠近打叉",
+   "prompt_en": "Diagram: a hotplate that is not glowing but gives off invisible infrared ripples, a hand reaching towards it crossed out. No text.",
+   "narration": "没发红也可能很烫，在放红外线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "波粒二象性：既是波也是粒子",
+   "scene": "左边吸收发光热辐射图标，右边反射折射图标",
+   "prompt_en": "Diagram: absorption, emission and a glowing iron on the left, reflection and refraction on the right. No text.",
+   "narration": "吸收、发射、热辐射，靠粒子性。",
+   "overlay": [
+    "波粒二象性：既是波也是粒子"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "波粒二象性：既是波也是粒子",
+   "scene": "光一半画成波一半画成光子，拼成一体",
+   "prompt_en": "Diagram: one beam of light drawn half as a wave and half as photons, joined together. No text.",
+   "narration": "反射折射靠波动性，光是两者合一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "波粒二象性：既是波也是粒子",
+   "scene": "小研在光学平台上做实验，头顶浮现波和光子两个图标",
+   "prompt_en": "The female graduate student works at an optical table with a wave icon and a photon icon floating above her head.",
+   "narration": "做光学实验，两种性质都要用到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "折射率随颜色变：色散",
+   "scene": "光进入玻璃变慢，速度箭头变短",
+   "prompt_en": "Diagram: a light ray entering a glass block, its speed arrow becoming shorter. No text.",
+   "narration": "光进玻璃会变慢，折射率大于1。",
+   "overlay": [
+    "折射率随颜色变：色散"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "折射率随颜色变：色散",
+   "scene": "紫光和红光在玻璃里拐弯不同",
+   "prompt_en": "Diagram: violet light bending more than red light when entering a glass block. No text.",
+   "narration": "紫光折射率大，红光折射率小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "折射率随颜色变：色散",
+   "scene": "玻璃、塑料、石英三条折射率曲线",
+   "prompt_en": "Diagram: three gently falling curves for glass, plastic and quartz, refractive index against wavelength. No text.",
+   "narration": "不同材料，各有各的曲线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "折射率随颜色变：色散",
+   "scene": "棱镜把白光分成彩虹",
+   "prompt_en": "Diagram: a prism splitting white light into a rainbow fan. No text.",
+   "narration": "差别虽小，棱镜就能分开白光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "光射进玻璃块，前后表面各反射一点",
+   "prompt_en": "Diagram: a beam entering a glass block, small reflections at the front and back surfaces. No text.",
+   "narration": "光进材料，表面先反射一部分。",
+   "overlay": [
+    "光进材料：反射、吸收、散射、透射"
+   ],
+   "labels": [
+    "反射",
+    "吸收",
+    "散射",
+    "透射"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "材料内部，一部分被吸收，一部分向四周散射",
+   "prompt_en": "Diagram: inside the glass block, part of the beam absorbed as heat and part scattered in all directions. No text.",
+   "narration": "里面一部分吸收，一部分散射。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "剩下的光束变细射出",
+   "prompt_en": "Diagram: the beam leaving the far side of the block noticeably thinner, showing less energy. No text.",
+   "narration": "剩下的才透射出去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "材料越厚、越吸光，光越弱",
+   "prompt_en": "Diagram: three blocks of increasing thickness and darkness, the outgoing beam fading each time. No text.",
+   "narration": "越厚、越吸光，透过越少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "透过的光缺了几段颜色，就是吸收带",
+   "prompt_en": "Diagram: a transmission spectrum with several missing colour bands. No text.",
+   "narration": "被吸走的颜色范围，叫吸收带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "吸收的光变成热，滤光片发烫",
+   "prompt_en": "Diagram: a filter absorbing a strong beam and glowing warm with heat lines. No text.",
+   "narration": "吸收的光变成热，元件会发烫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "【实拍】激光防护眼镜镜片对着白光灯，透过的颜色特写（遮挡品牌）",
+   "prompt_en": "Close-up: a laser safety goggle lens held up to a white lamp, showing the tinted light that passes through.",
+   "narration": "防护眼镜就是对特定波长强吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "光进材料：反射、吸收、散射、透射",
+   "scene": "墨镜对红外激光几乎透明，打叉",
+   "prompt_en": "Diagram: ordinary sunglasses letting an infrared beam pass straight through, crossed out. No text.",
+   "narration": "墨镜挡不住激光，要按波长选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "每个表面都反射，多次反射出多束",
+   "scene": "空气到玻璃，一小部分光反射回来",
+   "prompt_en": "Diagram: light hitting an air to glass surface, a small part reflected back. No text.",
+   "narration": "折射率不同的界面，都会反射。",
+   "overlay": [
+    "每个表面都反射，多次反射出多束"
+   ],
+   "labels": [
+    "约4%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "每个表面都反射，多次反射出多束",
+   "scene": "窗口片前后两面，光在里面来回弹，漏出好几束",
+   "prompt_en": "Diagram: a window plate with two surfaces, light bouncing inside and leaking out as several weaker beams. No text.",
+   "narration": "两个面来回弹，漏出好几束光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "每个表面都反射，多次反射出多束",
+   "scene": "多束反射光加起来比一个面更多",
+   "prompt_en": "Diagram: several reflected beams added together into a larger total. No text.",
+   "narration": "总反射，要把多次反射算上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "每个表面都反射，多次反射出多束",
+   "scene": "透镜旁射出几束偏离方向的杂散光",
+   "prompt_en": "Diagram: a lens on an optical table sending a few faint stray beams off in odd directions. No text.",
+   "narration": "强激光的一点反射，也可能伤眼。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "每个表面都反射，多次反射出多束",
+   "scene": "用挡板挡住杂散反射光",
+   "prompt_en": "Diagram: black beam blocks placed to stop the stray reflections. No text.",
+   "narration": "杂散反射光，也要找到并挡住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "两个功率一样的光斑，一个大一个小",
+   "prompt_en": "Diagram: two spots of the same power, one large and dim, one small and intense. No text.",
+   "narration": "同样功率，光斑大小不一样。",
+   "overlay": [
+    "辐照度：功率除以面积，光斑越小越强"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "功率除以面积等于辐照度",
+   "prompt_en": "Diagram: a power icon divided by an area square equals an intensity meter. No text.",
+   "narration": "功率除以面积，就是辐照度。",
+   "overlay": [],
+   "labels": [
+    "功率÷面积"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "细光束把纸烧出小洞，粗光束只照亮",
+   "prompt_en": "Diagram: a thin intense beam burning a small hole in paper while a wide beam only lights it up. No text.",
+   "narration": "细光束更集中，作用强得多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "透镜把宽光束聚成一个极小的亮点",
+   "prompt_en": "Diagram: a lens squeezing a wide beam into a tiny, very bright focal spot. No text.",
+   "narration": "透镜聚焦后，辐照度成倍增大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "光进瞳孔被晶状体聚到视网膜上一个小点",
+   "prompt_en": "Diagram: light entering the pupil and being focused by the eye lens to a tiny bright spot on the retina. No text.",
+   "narration": "眼睛会把光再聚到视网膜一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "辐照度：功率除以面积，光斑越小越强",
+   "scene": "只看功率数字打叉，看功率和光斑一起打钩",
+   "prompt_en": "Diagram: a power number alone crossed out, power together with spot size ticked. No text.",
+   "narration": "看危害，不能只看功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "光谱灯接在高压电源上，灯罩冒热气",
+   "prompt_en": "Diagram: a spectral lamp connected to a high voltage power supply, heat lines rising from its housing. No text.",
+   "narration": "光谱灯要高压电，灯罩很烫。",
+   "overlay": [
+    "光谱灯与暗室实验的安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "关电源、等冷却后再换灯管",
+   "prompt_en": "Diagram: a hand switching off the supply, a thermometer cooling down, then the lamp tube being changed. No text.",
+   "narration": "先断电冷却，再换灯管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "放电灯和紫外灯旁戴防护眼镜，不直视",
+   "prompt_en": "Diagram: a person wearing protective glasses near a discharge lamp, looking at the screen instead of the lamp. No text.",
+   "narration": "不直视放电灯，按要求戴防护镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "暗室里通道清空，开着微弱的安全照明",
+   "prompt_en": "Diagram: a darkened optics lab with a clear walkway and dim safety lights along the floor. No text.",
+   "narration": "暗室实验，通道清空，留安全照明。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "暗室里两人一起做实验，一人独自操作打叉",
+   "prompt_en": "Diagram: two people working together in a darkened lab with a tick, one person working alone crossed out. No text.",
+   "narration": "暗室实验不独自一人做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "光谱灯与暗室实验的安全",
+   "scene": "眼睛被强光照到后，阿杰报告老周并就医",
+   "prompt_en": "The young male student covers one eye and reports to the older man, who points towards the clinic.",
+   "narration": "眼睛被强光照到，立即报告就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "光子、能级台阶、谱线三个图标",
+   "prompt_en": "Diagram: three icons, a photon, an energy staircase and spectral lines. No text.",
+   "narration": "波长越短光子越强，能量对上才吸收。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "表面反射、吸收发热、小光斑三个图标",
+   "prompt_en": "Diagram: three icons, a surface reflection, a warm absorbing filter and a tiny intense spot. No text.",
+   "narration": "表面会反射，吸收会发热，光斑小更危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在光学平台旁，手扶一个镜架挥手",
+   "prompt_en": "The panda mascot stands beside an optical table, one paw resting on a mirror mount, waving goodbye.",
+   "narration": "下一课：光学元件与光学平台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
