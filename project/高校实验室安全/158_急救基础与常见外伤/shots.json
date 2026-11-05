@@ -1,0 +1,919 @@
+{
+ "id": "158_急救基础与常见外伤",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "急救基础与常见外伤",
+ "seconds": 350,
+ "source_doc": "course/高校实验室安全/158_急救基础与常见外伤.md",
+ "author_source": "project/高校实验室安全/158_急救基础与常见外伤/src.py",
+ "points": {
+  "K1": "先看现场安全，再施救",
+  "S1": "边呼救，边看伤情",
+  "K2": "急救箱备齐、好拿",
+  "K3": "人人会用急救箱",
+  "K4": "割伤刺伤：冲洗按压包扎",
+  "S2": "出血多：用力按压快呼救",
+  "K5": "烧烫伤：流动冷水冲",
+  "K6": "冻伤：慢慢复温不揉搓",
+  "K7": "吸入误食：离开现场不催吐",
+  "K8": "休克：平躺保暖叫120",
+  "K9": "摔倒了，先别急着起",
+  "S3": "骨折固定，脊柱伤不搬动",
+  "K10": "昏迷有呼吸：侧卧防窒息",
+  "K11": "伤再小，也要报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣抱着一个急救箱",
+   "prompt_en": "The panda mascot holds a first aid kit with a white cross in its arms, looking at the camera.",
+   "narration": "第14章第四课：急救基础与常见外伤。",
+   "overlay": [
+    "急救基础与常见外伤"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣竖起手指，身旁是时钟和心形",
+   "prompt_en": "The panda mascot raises a finger, a clock and a heart icon floating beside it.",
+   "narration": "正确的现场处理，能为救治赢得时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰清洗烧杯，杯子碎了划破手指",
+   "prompt_en": "In a university lab, the young male student washes a beaker at a sink, it breaks and cuts his finger, a little blood.",
+   "narration": "阿杰洗烧杯时，杯子碎了，划破了手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰想用嘴吸伤口，又想找纸随便一包",
+   "prompt_en": "The young male student lifts his bleeding finger toward his mouth, then grabs a paper towel, looking unsure.",
+   "narration": "他想吸一吸，再用纸巾随便一包。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住，拿来急救箱",
+   "prompt_en": "The female graduate student stops him and brings over a first aid kit from the wall.",
+   "narration": "小研拦住他，拿来了急救箱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研戴上手套，准备处理",
+   "prompt_en": "The female graduate student puts on disposable gloves and opens the kit beside him.",
+   "narration": "先戴手套，再按步骤处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看现场安全，再施救",
+   "scene": "倒地的人旁边有冒烟和漏气",
+   "prompt_en": "Diagram: a person lying on the floor near a smoking bench and a leaking gas cylinder, a warning mark. No text.",
+   "narration": "看到有人受伤，先看现场安不安全。",
+   "overlay": [
+    "先看现场安全，再施救"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看现场安全，再施救",
+   "scene": "冲进有毒区域救人，打叉",
+   "prompt_en": "Diagram: a helper rushing into a gas cloud without a respirator to drag someone out, crossed out. No text.",
+   "narration": "绝不冲进有毒、缺氧的区域。",
+   "overlay": [],
+   "labels": [
+    "见第134课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看现场安全，再施救",
+   "scene": "先停机断电，再靠近",
+   "prompt_en": "Diagram: a hand pressing an emergency stop on a machine and switching off power before approaching an injured person. No text.",
+   "narration": "机器伤人，先停机断电再靠近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "先看现场安全，再施救",
+   "scene": "施救者戴手套",
+   "prompt_en": "Diagram: a helper putting on disposable gloves before touching a bleeding wound. No text.",
+   "narration": "处理伤口，先戴一次性手套。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "边呼救，边看伤情",
+   "scene": "轻拍肩膀大声呼唤",
+   "prompt_en": "Diagram: a helper kneeling beside a lying person, tapping the shoulders and calling loudly. No text.",
+   "narration": "轻拍呼唤，看他有没有反应。",
+   "overlay": [
+    "边呼救，边看伤情"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "边呼救，边看伤情",
+   "scene": "大声喊人帮忙",
+   "prompt_en": "Diagram: the helper shouting for help with sound waves, two people running over. No text.",
+   "narration": "大声喊人帮忙，不要一个人忙。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "边呼救，边看伤情",
+   "scene": "一人拨打120，一人取急救箱",
+   "prompt_en": "Diagram: one helper calling on a phone with an ambulance icon while another fetches a first aid kit. No text.",
+   "narration": "让人拨打120，取来急救箱。",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "边呼救，边看伤情",
+   "scene": "没有反应、没有正常呼吸，开始心肺复苏",
+   "prompt_en": "Diagram: an unresponsive person with no breathing icon and an arrow to chest compression hands. No text.",
+   "narration": "没反应、没正常呼吸，马上心肺复苏。",
+   "overlay": [],
+   "labels": [
+    "见第159课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "急救箱备齐、好拿",
+   "scene": "墙上醒目处的急救箱和急救点标志",
+   "prompt_en": "Diagram: a first aid kit mounted on a lab wall at eye level under a first aid sign, nothing in front of it. No text.",
+   "narration": "急救箱放在显眼、伸手可及的地方。",
+   "overlay": [
+    "急救箱备齐、好拿"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "急救箱备齐、好拿",
+   "scene": "【实拍】打开急救箱，逐样展示物品",
+   "prompt_en": "Close-up: hands open a first aid kit and show sterile gauze pads, bandages, adhesive plasters, tape, gloves, scissors and tweezers.",
+   "narration": "纱布、绷带、创可贴、胶带、手套……",
+   "overlay": [],
+   "labels": [
+    "见第155课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "急救箱备齐、好拿",
+   "scene": "三角巾、冰袋、洗眼液",
+   "prompt_en": "Diagram: a triangular bandage, an instant cold pack and a bottle of sterile eye rinse solution laid out. No text.",
+   "narration": "还有三角巾、冷敷袋、冲洗用水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "急救箱备齐、好拿",
+   "scene": "急救箱上锁、前面堆物，打叉",
+   "prompt_en": "Diagram: a locked first aid kit behind piled boxes, crossed out. No text.",
+   "narration": "前面别堆东西，也别上锁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "急救箱备齐、好拿",
+   "scene": "专人检查，用了就补，过期就换",
+   "prompt_en": "The female graduate student checks the kit against a blank checklist and replaces an expired item.",
+   "narration": "专人管理，用了就补，过期就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "人人会用急救箱",
+   "scene": "每个人指向急救箱",
+   "prompt_en": "Diagram: several students in a lab all pointing toward the same first aid kit on the wall. No text.",
+   "narration": "每个人都要知道急救箱在哪。",
+   "overlay": [
+    "人人会用急救箱"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "人人会用急救箱",
+   "scene": "参加急救培训，练习包扎",
+   "prompt_en": "Students practice bandaging each other's arms in a first aid training class led by the safety administrator.",
+   "narration": "参加急救培训，学会清洗和包扎。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "人人会用急救箱",
+   "scene": "箱里没有口服药，打叉",
+   "prompt_en": "Diagram: a pill bottle being taken by a student from a first aid kit, crossed out. No text.",
+   "narration": "不擅自给伤者用药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "人人会用急救箱",
+   "scene": "伤重别硬撑，拨打120",
+   "prompt_en": "Diagram: a pale injured person sitting down while a helper calls on a phone with an ambulance icon. No text.",
+   "narration": "伤得重，别硬撑，马上拨打120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "用嘴吸伤口、用手捡碎玻璃，打叉",
+   "prompt_en": "Diagram: a person sucking a cut finger and another picking up glass shards by hand, both crossed out. No text.",
+   "narration": "别用嘴吸伤口，别用手捡碎玻璃。",
+   "overlay": [
+    "割伤刺伤：冲洗按压包扎"
+   ],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "流动清水冲洗伤口",
+   "prompt_en": "Diagram: a cut finger held under running tap water at a sink. No text.",
+   "narration": "先用流动清水冲洗伤口。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "【实拍】用干净纱布直接按压伤口（培训人员手部）",
+   "prompt_en": "Close-up: gloved hands press a clean sterile gauze pad firmly on a partner's finger in a training session.",
+   "narration": "用干净纱布按压，止血。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "止住后贴创可贴或包扎",
+   "prompt_en": "Diagram: a cut finger covered with a sterile dressing and wrapped with a small bandage. No text.",
+   "narration": "血止住后，消毒包扎。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "玻璃碴在伤口里、伤口深，去医院",
+   "prompt_en": "Diagram: a deep cut with a small glass shard inside, an arrow to a hospital icon. No text.",
+   "narration": "伤口深、有玻璃碴、沾化学品，要就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "割伤刺伤：冲洗按压包扎",
+   "scene": "被用过的针头扎到",
+   "prompt_en": "Diagram: a used needle pricking a finger, a biohazard warning sign beside it, an arrow to a report form. No text.",
+   "narration": "被污染的针头扎到，按暴露处置。",
+   "overlay": [],
+   "labels": [
+    "见第078课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "出血多：用力按压快呼救",
+   "scene": "血流不止，用力按压",
+   "prompt_en": "Diagram: a helper pressing hard with both hands on a thick gauze pad over a bleeding forearm. No text.",
+   "narration": "出血多，用纱布直接用力按压。",
+   "overlay": [
+    "出血多：用力按压快呼救"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "出血多：用力按压快呼救",
+   "scene": "【实拍】绷带加压包扎（在训练伙伴前臂上）",
+   "prompt_en": "Close-up: gloved hands wrap an elastic bandage firmly over a gauze pad on a training partner's forearm.",
+   "narration": "渗透了别揭开，再加纱布继续压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "出血多：用力按压快呼救",
+   "scene": "扎进去的异物不拔，周围固定",
+   "prompt_en": "Diagram: an object stuck in a forearm with gauze rolls placed around it, a hand pulling it out crossed out. No text.",
+   "narration": "扎进身体的东西别拔，周围垫好固定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "出血多：用力按压快呼救",
+   "scene": "一边按压，一边拨打120",
+   "prompt_en": "Diagram: one helper keeps pressing on the wound while another calls on a phone with an ambulance icon. No text.",
+   "narration": "一边按压，一边拨打120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "手被热板烫到，马上到水龙头下冲",
+   "prompt_en": "Diagram: a hand burned on a hot plate moved quickly under cool running tap water. No text.",
+   "narration": "烫伤了，立即用流动冷水冲。",
+   "overlay": [
+    "烧烫伤：流动冷水冲"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "持续冲，水流和时钟",
+   "prompt_en": "Diagram: cool water running over a burned hand with a clock icon showing time passing. No text.",
+   "narration": "持续冷却足够时间，降温止痛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "趁肿起来前摘下戒指手表",
+   "prompt_en": "Diagram: a ring and a watch removed gently from a burned hand before swelling. No text.",
+   "narration": "趁没肿，摘下戒指、手表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "涂牙膏、酱油、油，挑破水泡，打叉",
+   "prompt_en": "Diagram: toothpaste, soy sauce, cooking oil and a needle near a blister, all crossed out. No text.",
+   "narration": "别涂牙膏酱油，别挑破水泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "盖上干净纱布",
+   "prompt_en": "Diagram: a cooled burn loosely covered with a clean sterile gauze pad. No text.",
+   "narration": "冷却后，用干净纱布轻轻盖上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "烧烫伤：流动冷水冲",
+   "scene": "面积大、脸部、激光灼伤，就医",
+   "prompt_en": "Diagram: a large burn on an arm, a burn on a face and a laser warning sign, each with an arrow to an ambulance. No text.",
+   "narration": "面积大、在脸部或激光灼伤，就医。",
+   "overlay": [],
+   "labels": [
+    "见第160课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冻伤：慢慢复温不揉搓",
+   "scene": "液氮溅到手上，皮肤发白",
+   "prompt_en": "Diagram: liquid nitrogen splashing on a hand, the skin patch turning pale white with a snowflake icon. No text.",
+   "narration": "低温液体冻伤，皮肤会发白发硬。",
+   "overlay": [
+    "冻伤：慢慢复温不揉搓"
+   ],
+   "labels": [
+    "见第136课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冻伤：慢慢复温不揉搓",
+   "scene": "常温水慢慢冲，不用热水",
+   "prompt_en": "Diagram: a frostbitten hand under lukewarm running water, a hot water tap and a hair dryer crossed out. No text.",
+   "narration": "用常温水慢慢复温，不用热水烤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冻伤：慢慢复温不揉搓",
+   "scene": "揉搓冻伤处，打叉",
+   "prompt_en": "Diagram: hands rubbing a frostbitten patch of skin, crossed out. No text.",
+   "narration": "不要揉搓，以免加重损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "冻伤：慢慢复温不揉搓",
+   "scene": "松开紧身物，就医",
+   "prompt_en": "Diagram: a glove and a tight cuff loosened from a frostbitten hand, an arrow to a hospital icon. No text.",
+   "narration": "松开手套袖口，冻伤要就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "吸入误食：离开现场不催吐",
+   "scene": "吸入蒸气头晕，移到新鲜空气处",
+   "prompt_en": "Diagram: a dizzy person helped out of a fume-filled room to an open window with fresh air. No text.",
+   "narration": "吸入蒸气，先离开到空气新鲜处。",
+   "overlay": [
+    "吸入误食：离开现场不催吐"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "吸入误食：离开现场不催吐",
+   "scene": "保暖、安静，等待救援",
+   "prompt_en": "Diagram: a person resting quietly with a blanket over the shoulders, a helper beside him on the phone. No text.",
+   "narration": "保暖、安静休息，呼叫120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "吸入误食：离开现场不催吐",
+   "scene": "误食化学品，自行催吐，打叉",
+   "prompt_en": "Diagram: a person putting fingers in the throat to vomit after swallowing a chemical, crossed out. No text.",
+   "narration": "误食了，不要自行催吐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "吸入误食：离开现场不催吐",
+   "scene": "带上说明书立即就医",
+   "prompt_en": "Diagram: a helper holding a safety data sheet and a bottle label, an arrow to an ambulance. No text.",
+   "narration": "带上说明书或标签，立即就医。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "吸入误食：离开现场不催吐",
+   "scene": "昏迷者嘴里灌水，打叉",
+   "prompt_en": "Diagram: someone pouring water into the mouth of an unconscious person, crossed out. No text.",
+   "narration": "神志不清的人，不喂水不喂东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "休克：平躺保暖叫120",
+   "scene": "休克的人脸色苍白、出冷汗",
+   "prompt_en": "Diagram: a pale sweating person with a weak pulse icon and a dim oxygen icon. No text.",
+   "narration": "休克时，身体供血供氧不足。",
+   "overlay": [
+    "休克：平躺保暖叫120"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "休克：平躺保暖叫120",
+   "scene": "脸色苍白、出冷汗、脉快、烦躁",
+   "prompt_en": "Diagram: icons of a pale face, cold sweat drops, a fast heartbeat and a confused face. No text.",
+   "narration": "脸色苍白、冷汗、脉快，要警惕。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "休克：平躺保暖叫120",
+   "scene": "平躺，盖上衣物保暖",
+   "prompt_en": "Diagram: a person lying flat on the floor covered with a coat, a helper beside him. No text.",
+   "narration": "让他平躺，盖衣物保暖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "休克：平躺保暖叫120",
+   "scene": "拨打120，守在身边",
+   "prompt_en": "Diagram: a helper calling on a phone with an ambulance icon while watching the lying person. No text.",
+   "narration": "立即拨打120，守在身边观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "摔倒了，先别急着起",
+   "scene": "滑倒的小研坐在地上",
+   "prompt_en": "The female graduate student sits on the floor after slipping on a wet patch, holding her ankle.",
+   "narration": "摔倒了，别马上跳起来。",
+   "overlay": [
+    "摔倒了，先别急着起"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "摔倒了，先别急着起",
+   "scene": "停一下，看看哪里疼",
+   "prompt_en": "Diagram: a person sitting still on the floor checking the ankle, wrist and head with question marks. No text.",
+   "narration": "先停一下，看看哪里受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "摔倒了，先别急着起",
+   "scene": "头晕或疼得厉害，喊人",
+   "prompt_en": "Diagram: the person on the floor with a dizzy icon calling out for help. No text.",
+   "narration": "疼得厉害或头晕，马上求助。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "骨折固定，脊柱伤不搬动",
+   "scene": "疑似骨折，用夹板固定",
+   "prompt_en": "Diagram: a forearm supported by a splint and a triangular bandage sling. No text.",
+   "narration": "疑似骨折，别复位，就地固定。",
+   "overlay": [
+    "骨折固定，脊柱伤不搬动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "骨折固定，脊柱伤不搬动",
+   "scene": "固定伤处上下两个关节",
+   "prompt_en": "Diagram: a splint along a lower leg tied above the knee and below the ankle, two check marks. No text.",
+   "narration": "固定要超过伤处上下两个关节。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "骨折固定，脊柱伤不搬动",
+   "scene": "从高处摔下，颈背疼，不搬动",
+   "prompt_en": "Diagram: a person lying after a fall from a ladder, hands holding the head steady, a moving arrow crossed out. No text.",
+   "narration": "高处坠落、颈背疼，不要随意搬动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "骨折固定，脊柱伤不搬动",
+   "scene": "除非现场危险，等专业人员",
+   "prompt_en": "Diagram: an ambulance crew arriving with a stretcher and a neck collar. No text.",
+   "narration": "除非现场危险，等专业人员来搬运。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "昏迷有呼吸：侧卧防窒息",
+   "scene": "昏迷但有呼吸，仰面躺着",
+   "prompt_en": "Diagram: an unconscious person lying on the back still breathing, a risk mark near the throat. No text.",
+   "narration": "昏迷但有呼吸，仰躺容易堵住气道。",
+   "overlay": [
+    "昏迷有呼吸：侧卧防窒息"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "昏迷有呼吸：侧卧防窒息",
+   "scene": "【实拍】把训练伙伴翻成侧卧位",
+   "prompt_en": "Close-up: a trainer rolls a training partner onto the side into the recovery position, the top knee bent and the head tilted.",
+   "narration": "翻成侧卧，防止呕吐物堵住气道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "昏迷有呼吸：侧卧防窒息",
+   "scene": "醉酒者不能一个人待着",
+   "prompt_en": "Diagram: a drunk person lying on the side with a friend sitting beside him, an empty room crossed out. No text.",
+   "narration": "喝醉的人，也侧躺，有人陪着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "昏迷有呼吸：侧卧防窒息",
+   "scene": "叫不醒、呼吸异常，拨打120",
+   "prompt_en": "Diagram: a person not waking with an irregular breath icon, a helper calling on a phone with an ambulance icon. No text.",
+   "narration": "叫不醒、呼吸异常，马上拨打120。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "伤再小，也要报告",
+   "scene": "割伤、烫伤、碎玻璃，都报告",
+   "prompt_en": "Diagram: a small cut, a small burn and broken glass, each with an arrow to a supervisor icon. No text.",
+   "narration": "割伤烫伤，再小的伤也要报告。",
+   "overlay": [
+    "伤再小，也要报告"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "伤再小，也要报告",
+   "scene": "阿杰包好手指，告诉老周",
+   "prompt_en": "The young male student with a bandaged finger tells the older man what happened, the older man nodding.",
+   "narration": "告诉负责人，如实记录经过。",
+   "overlay": [],
+   "labels": [
+    "见第157课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "伤再小，也要报告",
+   "scene": "找出原因，整改",
+   "prompt_en": "Diagram: a cracked beaker removed from a drying rack and a check mark on an inspection list. No text.",
+   "narration": "查明原因，整改到位，防再受伤。",
+   "overlay": [],
+   "labels": [
+    "见第161课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "盾牌和电话",
+   "prompt_en": "Diagram: a shield icon and a phone with an ambulance icon. No text.",
+   "narration": "先保安全，再呼救，再处理。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "按压、冷水、侧卧三个图标",
+   "prompt_en": "Diagram: three icons, hands pressing gauze, a hand under running water and a person in the recovery position. No text.",
+   "narration": "出血按压，烫伤冷水冲，昏迷侧卧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "急救箱和报告单",
+   "prompt_en": "Diagram: a well stocked first aid kit next to a report form with a check mark. No text.",
+   "narration": "急救箱备齐会用，伤再小也报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣双手交叠放在训练模型胸前",
+   "prompt_en": "The panda mascot places its paws on the chest of a training manikin and waves goodbye.",
+   "narration": "下一课：心肺复苏与AED。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
