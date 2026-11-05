@@ -1,0 +1,1189 @@
+{
+ "id": "182_生物修复与生物技术应用",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "生物修复与生物技术应用",
+ "seconds": 430,
+ "source_doc": "course/高校实验室安全/182_生物修复与生物技术应用.md",
+ "author_source": "project/高校实验室安全/182_生物修复与生物技术应用/src.py",
+ "points": {
+  "K1": "生物技术在身边",
+  "K2": "粮食与农业",
+  "K3": "能源与工业发酵",
+  "K4": "健康与生物制药",
+  "K5": "什么是生物修复",
+  "K6": "吃油的微生物",
+  "K7": "微生物降解农药",
+  "K8": "白腐真菌的酶",
+  "K9": "重金属：还原与吸附",
+  "K10": "炸药与放射性污染",
+  "K11": "噬菌体清除致病菌",
+  "K12": "酸碱废水与有毒气体",
+  "K13": "工程菌的三个方向",
+  "K14": "微生物燃料电池",
+  "K15": "混合菌群接力降解",
+  "S1": "环境菌按未知菌对待",
+  "S2": "环境释放须审批",
+  "S3": "化学危害与危废",
+  "K16": "走向生产层层验证",
+  "K17": "良好生产规范",
+  "K18": "监管部门把关",
+  "K19": "课程项目"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣捧着一盘干净的土壤和一株小苗",
+   "prompt_en": "The panda mascot holds a small tray of clean soil with a green seedling, tiny friendly microbe icons floating around it, looking at the camera.",
+   "narration": "第15章第二十课：生物修复与生物技术应用。",
+   "overlay": [
+    "生物修复与生物技术应用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一瓶菌液，想倒到楼下的油污地面上",
+   "prompt_en": "The young male student carries a flask of cloudy culture toward an oily patch on the ground outside the lab building, a red warning icon.",
+   "narration": "阿杰想把吃油菌倒到楼下油污上试试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拦住，指向实验室和灭菌袋",
+   "prompt_en": "The safety administrator stops him at the door and points back to the lab bench and a sealed autoclave bag.",
+   "narration": "王老师：实验菌株，不能私自放到环境里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着一张空白流程图",
+   "prompt_en": "The female graduate student in a lab coat holds a blank flow chart sheet, nodding. The sheet is blank.",
+   "narration": "小研：原理要懂，审批和规程更要守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物技术在身边",
+   "scene": "一张清单：起床后做过的事",
+   "prompt_en": "Diagram: a blank checklist next to icons of a toothbrush, breakfast, clothes and a bus. No text.",
+   "narration": "先想想：今天起床后，你都做了什么？",
+   "overlay": [
+    "生物技术在身边"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "生物技术在身边",
+   "scene": "番茄、大豆、玉米、牛奶、棉花、燃料、胰岛素",
+   "prompt_en": "Diagram: icons of a tomato, soybeans, corn, a milk carton, cotton, a fuel can and an insulin vial in a circle. No text.",
+   "narration": "吃的穿的用的，很多都和生物技术有关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "粮食与农业",
+   "scene": "世界地图上食物供应不均",
+   "prompt_en": "Diagram: a world map with uneven colored patches of food supply, a plate icon empty in some regions. No text.",
+   "narration": "全球食物分配不均，营养不良很普遍。",
+   "overlay": [
+    "粮食与农业"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "粮食与农业",
+   "scene": "抗虫、营养强化、增产、节水节肥",
+   "prompt_en": "Diagram: a crop plant with four icons around it, a shield against a pest, a vitamin, a rising yield bar and a water drop. No text.",
+   "narration": "抗虫、营养强化、增产，还省水省肥。",
+   "overlay": [],
+   "labels": [
+    "抗虫",
+    "营养强化",
+    "增产"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "粮食与农业",
+   "scene": "有益微生物改良土壤、促生长、防病虫",
+   "prompt_en": "Diagram: friendly microbe icons around plant roots in soil, the plant growing taller, a pest icon pushed away. No text.",
+   "narration": "有益微生物能改良土壤、防病虫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "粮食与农业",
+   "scene": "转基因食品：安全评价和标识管理",
+   "prompt_en": "Diagram: a food package with a blank label and an evaluation checklist with a stamp beside it. No text.",
+   "narration": "转基因食品，国家实行安全评价和标识。",
+   "overlay": [],
+   "labels": [
+    "见第081课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "能源与工业发酵",
+   "scene": "乙醇、沼气、生物柴油",
+   "prompt_en": "Diagram: a fermentation tank producing three fuel icons, an alcohol flask, a gas bubble and a diesel drop. No text.",
+   "narration": "石油会用完，生物技术能产乙醇和沼气。",
+   "overlay": [
+    "能源与工业发酵"
+   ],
+   "labels": [
+    "乙醇",
+    "沼气",
+    "生物柴油"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "能源与工业发酵",
+   "scene": "生产菌种送到工厂产酶",
+   "prompt_en": "Diagram: a small sealed culture tube going to a large factory fermenter that outputs enzyme bottles. No text.",
+   "narration": "工业上，生产菌种用来生产酶和燃料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "能源与工业发酵",
+   "scene": "面包、酸奶靠发酵",
+   "prompt_en": "Diagram: bread and a cup of yogurt with yeast, lactic acid bacteria and mold icons beside them. No text.",
+   "narration": "面包酸奶靠酵母、乳酸菌和霉菌发酵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "健康与生物制药",
+   "scene": "诊断更快、用药因人而异",
+   "prompt_en": "Diagram: a fast diagnostic test strip, a personalized medicine pill matched to a person icon, a target arrow. No text.",
+   "narration": "诊断更快更准，用药可以因人而异。",
+   "overlay": [
+    "健康与生物制药"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "健康与生物制药",
+   "scene": "改造的细菌生产胰岛素",
+   "prompt_en": "Diagram: an engineered bacterium in a fermenter producing insulin vials. No text.",
+   "narration": "改造生物来产药，叫生物制药，如胰岛素。",
+   "overlay": [],
+   "labels": [
+    "生物制药"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "健康与生物制药",
+   "scene": "写下你对未来与伦理的想法",
+   "prompt_en": "The female graduate student writes in a notebook at a desk, a balance scale icon and a question mark above her.",
+   "narration": "伦理和需求，会怎样影响生物技术未来？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是生物修复",
+   "scene": "微生物把污染物变成无害物质",
+   "prompt_en": "Diagram: microbes eating a dark pollutant blob and releasing clean water drops and harmless bubbles. No text.",
+   "narration": "生物修复：请微生物把污染变无害。",
+   "overlay": [
+    "什么是生物修复"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是生物修复",
+   "scene": "油污、化学品泄漏、重金属",
+   "prompt_en": "Diagram: three polluted scenes, an oily beach, a spilled chemical drum and a metal contaminated pond, microbe icons in each. No text.",
+   "narration": "能处理油污、化学品泄漏和重金属。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是生物修复",
+   "scene": "污水处理厂的曝气池",
+   "prompt_en": "Diagram: a wastewater treatment plant with an aeration tank full of microbe icons. No text.",
+   "narration": "污水处理厂，也靠微生物干活。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是生物修复",
+   "scene": "含酶洗涤剂",
+   "prompt_en": "Diagram: a laundry detergent box with an enzyme icon breaking a stain apart. No text.",
+   "narration": "含酶洗涤剂，也是小小的生物技术。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吃油的微生物",
+   "scene": "油滴周围的细菌",
+   "prompt_en": "Diagram: rod shaped bacteria gathering around a floating oil droplet on water. No text.",
+   "narration": "有些细菌专吃石油烃，如假单胞菌。",
+   "overlay": [
+    "吃油的微生物"
+   ],
+   "labels": [
+    "假单胞菌",
+    "食烷菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吃油的微生物",
+   "scene": "烃类既是食物又是能量",
+   "prompt_en": "Diagram: a hydrocarbon chain going into a bacterium, an energy bolt and a growing cell icon coming out. No text.",
+   "narration": "它们把烃类当碳源和能源，用来生长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吃油的微生物",
+   "scene": "氧化成脂肪酸，最终二氧化碳和水",
+   "prompt_en": "Diagram: a long chain molecule broken step by step into a short fatty acid, then into carbon dioxide and water drops. No text.",
+   "narration": "先氧化成脂肪酸，最终变成二氧化碳和水。",
+   "overlay": [],
+   "labels": [
+    "脂肪酸",
+    "CO₂+H₂O"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "吃油的微生物",
+   "scene": "烃类生物降解治理油污",
+   "prompt_en": "Diagram: an oil slick shrinking on the sea as microbe icons spread, a check mark. No text.",
+   "narration": "这叫烃类生物降解，是治理油污的办法。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "微生物降解农药",
+   "scene": "细菌分解土里的有机磷农药",
+   "prompt_en": "Diagram: soil with pesticide droplet icons slowly removed by bacteria. No text.",
+   "narration": "恶臭假单胞菌能分解有机磷农药残留。",
+   "overlay": [
+    "微生物降解农药"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "微生物降解农药",
+   "scene": "芽孢杆菌分解除草剂",
+   "prompt_en": "Diagram: a herbicide molecule icon broken apart by rod shaped bacteria with spore dots. No text.",
+   "narration": "芽孢杆菌等能分解阿特拉津类除草剂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "微生物降解农药",
+   "scene": "降解菌来自环境，先评估",
+   "prompt_en": "Diagram: a soil sample jar going to a magnifier and a risk checklist before culture. No text.",
+   "narration": "降解菌多从环境分离，培养前先评估。",
+   "overlay": [],
+   "labels": [
+    "见S1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "白腐真菌的酶",
+   "scene": "白腐真菌长在朽木上",
+   "prompt_en": "Diagram: white fungal threads on a rotting log, enzyme scissors cutting a tough lignin mesh. No text.",
+   "narration": "白腐真菌分泌酶，拆开坚硬的木质素。",
+   "overlay": [
+    "白腐真菌的酶"
+   ],
+   "labels": [
+    "漆酶",
+    "过氧化物酶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "白腐真菌的酶",
+   "scene": "同一套酶拆含氯农药",
+   "prompt_en": "Diagram: the same enzyme scissors cutting a chlorinated pesticide molecule. No text.",
+   "narration": "这套酶不挑食，能拆难降解的含氯农药。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "白腐真菌的酶",
+   "scene": "染料废水褪色",
+   "prompt_en": "Diagram: a beaker of deep blue dye water turning pale as fungal threads grow. No text.",
+   "narration": "还能拆持久性污染物，让染料废水褪色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "重金属：还原与吸附",
+   "scene": "金属不能被消灭",
+   "prompt_en": "Diagram: a heavy metal atom icon that stays the same while its form changes, an arrow from dissolved to solid. No text.",
+   "narration": "重金属不会消失，微生物改它形态或固定。",
+   "overlay": [
+    "重金属：还原与吸附"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "重金属：还原与吸附",
+   "scene": "六价铬还原成三价铬",
+   "prompt_en": "Diagram: bacteria passing electrons to a toxic metal icon, which turns into a less toxic form. No text.",
+   "narration": "地杆菌、希瓦氏菌把六价铬还原成三价铬。",
+   "overlay": [],
+   "labels": [
+    "六价铬",
+    "三价铬"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "重金属：还原与吸附",
+   "scene": "细胞壁像海绵吸附铅镉",
+   "prompt_en": "Diagram: a bacterium with a sponge like cell wall catching metal ions on its surface. No text.",
+   "narration": "耐金属的细菌，把铅镉吸附在细胞壁上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "重金属：还原与吸附",
+   "scene": "汞转化后仍有毒",
+   "prompt_en": "Diagram: a mercury droplet icon changing into another form with a warning triangle still attached. No text.",
+   "narration": "有些细菌能转化汞，但产物仍然有毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "炸药与放射性污染",
+   "scene": "炸药污染的土壤由微生物慢慢清理",
+   "prompt_en": "Diagram: a fenced off contaminated soil area with microbe icons slowly cleaning it. No text.",
+   "narration": "被炸药污染的土壤，可借微生物清理。",
+   "overlay": [
+    "炸药与放射性污染"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "炸药与放射性污染",
+   "scene": "梭菌在缺氧下还原硝基",
+   "prompt_en": "Diagram: an oxygen free zone with bacteria changing parts of a molecule icon from one group to another. No text.",
+   "narration": "梭菌在缺氧环境，把TNT的硝基还原。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "炸药与放射性污染",
+   "scene": "RDX分解成更简单的物质",
+   "prompt_en": "Diagram: a ring molecule icon broken into small simple pieces by two kinds of bacteria. No text.",
+   "narration": "假单胞菌、红球菌能分解RDX。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "炸药与放射性污染",
+   "scene": "可溶的铀变成不溶，不随水跑",
+   "prompt_en": "Diagram: dissolved metal dots flowing in groundwater, then bacteria turning them into solid grains that stay in place. No text.",
+   "narration": "地杆菌把可溶的铀还原成不溶的，不扩散。",
+   "overlay": [],
+   "labels": [
+    "六价铀",
+    "四价铀"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "炸药与放射性污染",
+   "scene": "炸药和放射性物质学生不得接触",
+   "prompt_en": "Diagram: an explosive symbol and a radiation trefoil behind a locked gate, a student icon crossed out. No text.",
+   "narration": "炸药和放射性物质受严管，学生不得接触。",
+   "overlay": [],
+   "labels": [
+    "见第045课",
+    "见第093课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "噬菌体清除致病菌",
+   "scene": "噬菌体感染细菌后把它撑破",
+   "prompt_en": "Diagram: a lunar lander shaped virus attaching to a bacterium, copies inside, then the cell bursting. No text.",
+   "narration": "噬菌体是专感染细菌的病毒。",
+   "overlay": [
+    "噬菌体清除致病菌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "噬菌体清除致病菌",
+   "scene": "只认特定细菌，有益菌不伤",
+   "prompt_en": "Diagram: viruses attaching only to red bacteria while green friendly bacteria stay untouched. No text.",
+   "narration": "它只认特定细菌，有益微生物不受伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "噬菌体清除致病菌",
+   "scene": "污水和医院环境里清除致病菌",
+   "prompt_en": "Diagram: a sewage pipe and a hospital building icon, viruses targeting red bacteria in both. No text.",
+   "narration": "可用于污水和医院环境，精准清除致病菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "酸碱废水与有毒气体",
+   "scene": "强酸强碱废水，微生物间接帮忙",
+   "prompt_en": "Diagram: two industrial wastewater tanks, one acidic and one alkaline, microbes helping from the side. No text.",
+   "narration": "酸碱很强的废水，微生物只能间接帮忙。",
+   "overlay": [
+    "酸碱废水与有毒气体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "酸碱废水与有毒气体",
+   "scene": "嗜酸菌在酸性废物中生长",
+   "prompt_en": "Diagram: bacteria thriving in a low pH tank with a sulfur cycle arrow icon. No text.",
+   "narration": "嗜酸菌能在酸性废物里生长，参与硫转化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "酸碱废水与有毒气体",
+   "scene": "嗜碱菌产有机酸降pH",
+   "prompt_en": "Diagram: bacteria in an alkaline tank releasing small acid drops, a pH meter needle moving toward neutral. No text.",
+   "narration": "嗜碱菌产有机酸，把碱性废水pH降下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "酸碱废水与有毒气体",
+   "scene": "有毒气体穿过生物滤池",
+   "prompt_en": "Diagram: polluted gas flowing up through a packed filter bed coated with microbes, clean air out the top. No text.",
+   "narration": "生物滤池里，微生物把有毒气体当食物。",
+   "overlay": [],
+   "labels": [
+    "生物滤池"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "酸碱废水与有毒气体",
+   "scene": "氨变亚硝酸盐，硫化氢变硫酸盐",
+   "prompt_en": "Diagram: two conversion arrows, an ammonia icon to a nitrite icon and a rotten egg gas icon to a sulfate icon, a microbe on each. No text.",
+   "narration": "氨氧化成亚硝酸盐，硫化氢氧化成硫酸盐。",
+   "overlay": [],
+   "labels": [
+    "亚硝化单胞菌",
+    "硫杆菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "工程菌的三个方向",
+   "scene": "改造基因对付危险废物",
+   "prompt_en": "Diagram: a bacterium with a highlighted gene region pointing to a hazardous waste drum, three arrows for three directions. No text.",
+   "narration": "工程菌：改造基因，专门对付危险废物。",
+   "overlay": [
+    "工程菌的三个方向"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "工程菌的三个方向",
+   "scene": "多产降解酶",
+   "prompt_en": "Diagram: a bacterium releasing many enzyme scissors that break pollutants faster. No text.",
+   "narration": "一是多产降解酶，分解得更快。",
+   "overlay": [],
+   "labels": [
+    "多产酶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "工程菌的三个方向",
+   "scene": "耐得住高浓度毒物",
+   "prompt_en": "Diagram: a bacterium with a shield surviving in a dark toxic pool. No text.",
+   "narration": "二是耐得住毒，高浓度也能干活。",
+   "overlay": [],
+   "labels": [
+    "耐毒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "工程菌的三个方向",
+   "scene": "遇砷发光的生物传感器",
+   "prompt_en": "Diagram: a tube of water with bacteria glowing green when a toxic element icon is present, a dark tube without it. No text.",
+   "narration": "三是当传感器：如水里有砷就发荧光。",
+   "overlay": [],
+   "labels": [
+    "生物传感器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "工程菌的三个方向",
+   "scene": "工程菌留在实验室",
+   "prompt_en": "Diagram: a glowing bacterium icon inside a closed lab boundary with an approval stamp at the door. No text.",
+   "narration": "工程菌是转基因生物，只在批准范围用。",
+   "overlay": [],
+   "labels": [
+    "见第081课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "微生物燃料电池",
+   "scene": "燃料电池里的细菌分解废物",
+   "prompt_en": "Diagram: a two chamber cell with bacteria on an electrode eating waste particles. No text.",
+   "narration": "微生物燃料电池：电活性细菌分解废物。",
+   "overlay": [
+    "微生物燃料电池"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "微生物燃料电池",
+   "scene": "电子流向电极，小灯泡亮",
+   "prompt_en": "Diagram: electrons flowing from the bacteria along a wire to light a small bulb. No text.",
+   "narration": "电子流向电极，解了毒，还发了电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "混合菌群接力降解",
+   "scene": "单菌本事有限，混合菌群互补",
+   "prompt_en": "Diagram: one lonely bacterium with a small toolbox next to a team of different microbes with combined tools. No text.",
+   "narration": "单一菌株本事有限，混合菌群代谢互补。",
+   "overlay": [
+    "混合菌群接力降解"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "混合菌群接力降解",
+   "scene": "一种先拆，其他接力",
+   "prompt_en": "Diagram: a relay race of microbes passing smaller and smaller molecule pieces until a harmless drop remains. No text.",
+   "narration": "一种菌先拆大分子，其他菌接力收尾。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "混合菌群接力降解",
+   "scene": "海上油污：好氧厌氧配合",
+   "prompt_en": "Diagram: a sea cross section with oxygen loving microbes near the surface and oxygen free microbes in the sediment, both working on oil. No text.",
+   "narration": "清理海上油污，要好氧菌厌氧菌配合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "环境菌按未知菌对待",
+   "scene": "从土壤、污水、油污中分离菌",
+   "prompt_en": "Diagram: sample jars of soil, sewage and oily sand with unknown microbe icons and a question mark. No text.",
+   "narration": "环境分离菌来源不明，鉴定前按未知菌。",
+   "overlay": [
+    "环境菌按未知菌对待"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "环境菌按未知菌对待",
+   "scene": "风险评估确定防护级别",
+   "prompt_en": "Diagram: a risk matrix and a lab level badge chosen with a pen, a biosafety cabinet icon. No text.",
+   "narration": "先做风险评估，再确定防护级别。",
+   "overlay": [],
+   "labels": [
+    "见第067课",
+    "见第079课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "环境菌按未知菌对待",
+   "scene": "【实拍】给培养管贴标签",
+   "prompt_en": "Close-up of gloved hands sticking a blank label on a closed culture tube and placing it in a rack.",
+   "narration": "培养物标清来源、代次和日期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "环境菌按未知菌对待",
+   "scene": "厌氧培养产气，通风处开启",
+   "prompt_en": "Diagram: a sealed anaerobic bottle with gas bubbles and a pressure icon, opened slowly inside a fume hood. No text.",
+   "narration": "厌氧培养会产气，在通风处缓慢开启。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "环境释放须审批",
+   "scene": "投到土壤水体就是环境释放",
+   "prompt_en": "Diagram: a flask of culture with an arrow to soil and a river, a red stop sign on the arrow. No text.",
+   "narration": "菌剂投到土壤水体，就是向环境释放。",
+   "overlay": [
+    "环境释放须审批"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "环境释放须审批",
+   "scene": "转基因微生物先安全评价、审批",
+   "prompt_en": "Diagram: an application file passing a biosafety committee table and a government review stamp. No text.",
+   "narration": "转基因微生物，先安全评价、依法审批。",
+   "overlay": [],
+   "labels": [
+    "生物安全法",
+    "转基因条例"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "环境释放须审批",
+   "scene": "未经批准不带出、不投放",
+   "prompt_en": "Diagram: a backpack with a culture flask crossed out at the lab door, a drain with a flask crossed out. No text.",
+   "narration": "未经批准，不带出、不投放、不排放。",
+   "overlay": [],
+   "labels": [
+    "见第082课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "环境释放须审批",
+   "scene": "实验结束灭活处置",
+   "prompt_en": "Diagram: used flasks and plates going into an autoclave, then a waste log with a check mark. No text.",
+   "narration": "实验结束，培养物灭活后再处置。",
+   "overlay": [],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学危害与危废",
+   "scene": "农药、重金属、砷、油和溶剂",
+   "prompt_en": "Diagram: icons of a pesticide bottle, a heavy metal salt jar, a toxic skull bottle and a flammable solvent can on a shelf. No text.",
+   "narration": "农药、重金属、砷、油和溶剂，本身就危险。",
+   "overlay": [
+    "化学危害与危废"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学危害与危废",
+   "scene": "通风柜内少量操作，戴手套护目镜",
+   "prompt_en": "The female graduate student in goggles and gloves measures a small amount of liquid inside a fume hood.",
+   "narration": "通风柜内少量操作，戴手套和护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学危害与危废",
+   "scene": "【实拍】把清水倒入贴标签的废液桶",
+   "prompt_en": "Close-up of gloved hands pouring clear water through a funnel into a labeled waste container, then closing the cap.",
+   "narration": "含重金属、农药的废液单独收集。",
+   "overlay": [],
+   "labels": [
+    "见第054课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "化学危害与危废",
+   "scene": "不倒下水道，汞洒落不扫不吸",
+   "prompt_en": "Diagram: a sink drain crossed out, a broom and a vacuum cleaner crossed out next to small mercury beads. No text.",
+   "narration": "不倒下水道；汞洒落不扫不吸，先报告。",
+   "overlay": [],
+   "labels": [
+    "见第056课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "走向生产层层验证",
+   "scene": "新发现走向生产要很多年",
+   "prompt_en": "Diagram: a long winding road from a lab flask to a factory, many checkpoints and a calendar along the way. No text.",
+   "narration": "新成果变产品，要大量时间、检测和试验。",
+   "overlay": [
+    "走向生产层层验证"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "走向生产层层验证",
+   "scene": "四个环节：生产、风险、监管、测试",
+   "prompt_en": "Diagram: four connected boxes with a factory icon, a risk scale, a stamp and a repeated test icon. No text.",
+   "narration": "生产、风险分析、监管、测试，一环不少。",
+   "overlay": [],
+   "labels": [
+    "生产",
+    "风险分析",
+    "监管",
+    "测试"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "走向生产层层验证",
+   "scene": "反复测试，找副作用",
+   "prompt_en": "Diagram: many test tubes with the same result marked, a magnifier finding a small side effect icon. No text.",
+   "narration": "反复测试，结果要可重复，找出副作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "走向生产层层验证",
+   "scene": "放大前重新评估",
+   "prompt_en": "Diagram: a small flask growing into a large fermenter, a risk checklist stamped again in between. No text.",
+   "narration": "从小试到中试放大，要重新评估审批。",
+   "overlay": [],
+   "labels": [
+    "见第019课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "走向生产层层验证",
+   "scene": "田间试验分阶段审批",
+   "prompt_en": "Diagram: a fenced isolated test field with stage markers, each stage gate with an approval stamp. No text.",
+   "narration": "上田间要分阶段报告审批，不能自行种植。",
+   "overlay": [],
+   "labels": [
+    "见第082课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "良好生产规范",
+   "scene": "良好生产规范管质量和安全",
+   "prompt_en": "Diagram: a clean production line with a quality shield and a safety helmet icon. No text.",
+   "narration": "良好生产规范，管的是质量和安全。",
+   "overlay": [
+    "良好生产规范"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "良好生产规范",
+   "scene": "记录、培训、监测、规程、维护",
+   "prompt_en": "Diagram: five icons in a row, a logbook, a training board, a gauge, a procedure binder and a wrench. No text.",
+   "narration": "记录、培训、监测、规程、维护，样样有。",
+   "overlay": [],
+   "labels": [
+    "记录",
+    "培训",
+    "监测",
+    "规程",
+    "维护"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "良好生产规范",
+   "scene": "原料合格，每批一致",
+   "prompt_en": "Diagram: a checked raw material bag and identical product batches lined up. No text.",
+   "narration": "原料要合格，每一批质量都要一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "监管部门把关",
+   "scene": "监管部门全程把关",
+   "prompt_en": "Diagram: a product moving along a path with three guard posts, each with a stamp. No text.",
+   "narration": "新技术进入市场，监管部门全程把关。",
+   "overlay": [
+    "监管部门把关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "监管部门把关",
+   "scene": "食品药品、农业、环境各管一方",
+   "prompt_en": "Diagram: three gate icons, a food and medicine icon, a crop icon and a tree icon, each checking a document. No text.",
+   "narration": "食品药品、农业、环境，各管一方面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "课程项目",
+   "scene": "测试吃油微生物在不同条件下的效果",
+   "prompt_en": "The young male student and the female graduate student set up small closed flasks with oil drops on a bench, wearing goggles and gloves.",
+   "narration": "项目一：测试吃油微生物在不同条件下的效果。",
+   "overlay": [
+    "课程项目"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "课程项目",
+   "scene": "用教师发放的菌剂，结束灭活",
+   "prompt_en": "Diagram: a teacher hand giving a labeled culture vial, a closed lab boundary, an autoclave icon at the end. No text.",
+   "narration": "用老师发放的菌剂，做完全部灭活。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "课程项目",
+   "scene": "画出从实验室到市场的路线图",
+   "prompt_en": "The female graduate student draws a road map from a flask to a store on a big blank sheet, with checkpoint icons.",
+   "narration": "项目二：画出从实验室到市场的路线图。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "生物技术：粮食、能源、环境、健康",
+   "prompt_en": "Diagram: four icons, a grain ear, a fuel drop, a tree and a heart, all checked. No text.",
+   "narration": "生物技术用于粮食、能源、环境和健康。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "微生物、真菌、噬菌体、混合菌群",
+   "prompt_en": "Diagram: a bacterium, a fungus, a phage and a microbe team cleaning a polluted area. No text.",
+   "narration": "修复靠降解、转化、固定，金属不会消失。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "按未知菌评估，环境释放须审批",
+   "prompt_en": "Diagram: a risk checklist, an approval stamp and a door with a culture flask crossed out. No text.",
+   "narration": "环境菌先评估，不审批不释放，废物灭活。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣翻开一本实验记录本",
+   "prompt_en": "The panda mascot opens a bound lab notebook with blank numbered pages and holds a pen, waving goodbye.",
+   "narration": "下一课：实验设计、记录与数据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
