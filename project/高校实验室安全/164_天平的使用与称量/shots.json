@@ -1,0 +1,870 @@
+{
+ "id": "164_天平的使用与称量",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "天平的使用与称量",
+ "seconds": 330,
+ "source_doc": "course/高校实验室安全/164_天平的使用与称量.md",
+ "author_source": "project/高校实验室安全/164_天平的使用与称量/src.py",
+ "points": {
+  "K1": "质量与常用天平",
+  "K2": "按称量选天平",
+  "K3": "开机预热，调平清扫",
+  "K4": "药品不碰秤盘，选小容器",
+  "K5": "关门去皮，取下加样",
+  "K6": "读稳定值，差减计算",
+  "K7": "称得准的环境与习惯",
+  "K8": "冷热与吸湿的样品",
+  "K9": "回不到零与漂移",
+  "K10": "称液体：量体积或称量瓶",
+  "K11": "标准砝码检验天平",
+  "K12": "撒了立即清理",
+  "K13": "有毒粉末防扬尘",
+  "K14": "用完比来时更整洁"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在带防风罩的分析天平旁",
+   "prompt_en": "The panda mascot stands beside an analytical balance with a glass draft shield, looking at the camera.",
+   "narration": "第15章第二课：天平的使用与称量。",
+   "overlay": [
+    "天平的使用与称量"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一张称量纸",
+   "prompt_en": "The panda mascot holds up a square sheet of weighing paper and a small spatula.",
+   "narration": "天平用得最多，方法对才称得准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰抱着试剂瓶往秤盘上的纸上倒药品",
+   "prompt_en": "The young male student tilts a reagent bottle and pours powder onto weighing paper sitting on the balance pan, powder spilling on the pan.",
+   "narration": "阿杰抱着试剂瓶，直接往秤上倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "粉末撒在天平里，读数乱跳",
+   "prompt_en": "Close view: powder scattered on the balance pan and floor of the draft shield, the side door open, a blank display flickering.",
+   "narration": "药品撒进天平，读数还一直在跳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研关上侧门，摇摇头",
+   "prompt_en": "The female graduate student closes the side door of the balance and shakes her head kindly, holding a clean spatula.",
+   "narration": "小研说：称量有一套规矩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "质量与常用天平",
+   "scene": "天平是实验室用得最多的仪器",
+   "prompt_en": "Diagram: a balance in the center surrounded by icons of a flask, a notebook and a powder bottle. No text.",
+   "narration": "天平是化学实验室用得最多的仪器。",
+   "overlay": [
+    "质量与常用天平"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "质量与常用天平",
+   "scene": "质量与重量：在地球和月球上",
+   "prompt_en": "Diagram: the same block on Earth and on the Moon, the block size unchanged while a spring scale reading changes. No text.",
+   "narration": "质量在哪儿都一样，重量随重力变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "质量与常用天平",
+   "scene": "四类天平从粗到精",
+   "prompt_en": "Diagram: four balances in a row from a triple-beam balance to a top-loading balance, an analytical balance and a microbalance, with growing magnifier icons. No text.",
+   "narration": "三梁、顶载、分析、微量，越来越精。",
+   "overlay": [],
+   "labels": [
+    "三梁",
+    "顶载",
+    "分析",
+    "微量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "质量与常用天平",
+   "scene": "越精密越怕干扰",
+   "prompt_en": "Diagram: a microbalance surrounded by small wind, vibration and temperature icons, and a price tag icon. No text.",
+   "narration": "越精密越怕干扰，也越贵。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按称量选天平",
+   "scene": "重物放上分析天平，打叉",
+   "prompt_en": "Diagram: a heavy bottle placed on a small analytical balance pan with a crack icon, crossed out. No text.",
+   "narration": "重的东西上分析天平，会压坏它。",
+   "overlay": [
+    "按称量选天平"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按称量选天平",
+   "scene": "少量样品放粗天平，打叉",
+   "prompt_en": "Diagram: a tiny pinch of powder on a coarse top-loading balance with a question mark, crossed out. No text.",
+   "narration": "称少量的，粗天平又不够准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按称量选天平",
+   "scene": "粗称用顶载，精称用分析天平",
+   "prompt_en": "Diagram: an arrow from a large beaker to a top-loading balance and from a small vial to an analytical balance, both checked. No text.",
+   "narration": "粗称用顶载天平，精确称量用分析天平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按称量选天平",
+   "scene": "精度够用就好",
+   "prompt_en": "Diagram: a balance chosen to match the needed precision, a check mark. No text.",
+   "narration": "选天平，精度够用就好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "开机预热，调平清扫",
+   "scene": "【实拍】看天平的水平泡，旋转调平脚",
+   "prompt_en": "Close-up: a finger points at the level bubble on an analytical balance, then hands turn a leveling foot until the bubble is centered.",
+   "narration": "先看水平泡，气泡居中才算调平。",
+   "overlay": [
+    "开机预热，调平清扫"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "开机预热，调平清扫",
+   "scene": "开机预热",
+   "prompt_en": "Diagram: a balance switched on with a clock icon beside it. No text.",
+   "narration": "开机后按说明书预热，再开始称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "开机预热，调平清扫",
+   "scene": "检查秤盘有无灰尘残留",
+   "prompt_en": "Diagram: a magnifier over a balance pan showing dust and powder grains. No text.",
+   "narration": "看看秤盘和天平里干不干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "开机预热，调平清扫",
+   "scene": "软毛刷扫净",
+   "prompt_en": "Diagram: a soft brush sweeping powder off the balance pan into a small tray. No text.",
+   "narration": "有灰有残留，用软毛刷扫干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "药品不碰秤盘，选小容器",
+   "scene": "药品直接放秤盘，打叉",
+   "prompt_en": "Diagram: powder poured directly onto a bare balance pan, crossed out. No text.",
+   "narration": "药品绝不能直接碰秤盘。",
+   "overlay": [
+    "药品不碰秤盘，选小容器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "药品不碰秤盘，选小容器",
+   "scene": "称量纸、称量舟、反应瓶",
+   "prompt_en": "Diagram: weighing paper, a small weighing boat and a small reaction flask side by side on a bench. No text.",
+   "narration": "用称量纸、称量舟，或直接称进反应瓶。",
+   "overlay": [],
+   "labels": [
+    "称量纸",
+    "称量舟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "药品不碰秤盘，选小容器",
+   "scene": "容器越大越重，误差越大",
+   "prompt_en": "Diagram: a large heavy dish beside a small light boat, a tiny pinch of powder sticking to the large dish surface. No text.",
+   "narration": "选最小的容器，粘住带不走的少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "药品不碰秤盘，选小容器",
+   "scene": "【实拍】称量纸沿对角线折一道",
+   "prompt_en": "Close-up: hands fold a square of weighing paper along one diagonal and open it slightly to form a channel.",
+   "narration": "称量纸先沿对角线折一道，好倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "药品不碰秤盘，选小容器",
+   "scene": "超过最大称量，打叉",
+   "prompt_en": "Diagram: a balance with an overload warning icon and a heavy object on it, crossed out. No text.",
+   "narration": "看清最大称量，不能超载。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "【实拍】放上称量纸，关门，按去皮键",
+   "prompt_en": "Close-up: weighing paper placed in the center of the pan, the side door slid closed, a finger pressing the tare key, the display showing zero digits.",
+   "narration": "放上容器，关门，去皮归零。",
+   "overlay": [
+    "关门去皮，取下加样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "试剂瓶和记录本带到天平旁",
+   "prompt_en": "Diagram: a student carrying a reaction flask and a notebook to the balance table. No text.",
+   "narration": "把反应瓶和记录本带到天平旁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "【实拍】把称量纸取出，在天平外用药匙少量加样",
+   "prompt_en": "Close-up: the weighing paper lifted out of the balance, a clean spatula adding small amounts of white salt onto it outside the balance.",
+   "narration": "取出容器，在外面用药匙少量多次加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "抱瓶直接倒、在秤盘上舀，打叉",
+   "prompt_en": "Diagram: a bottle tipped over a balance and a spatula scooping inside the draft shield, both crossed out. No text.",
+   "narration": "别在秤盘上直接倒、直接舀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "放回关门再读",
+   "prompt_en": "Diagram: the paper returned to the balance pan center, the door closed, an eye icon on the blank display. No text.",
+   "narration": "放回去关门读数，少了再取出来加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "关门去皮，取下加样",
+   "scene": "多取的放进废物容器，倒回原瓶打叉",
+   "prompt_en": "Diagram: extra powder going into a labeled waste container with a check mark, powder going back into the stock bottle crossed out. No text.",
+   "narration": "多了放进废物容器，绝不倒回原瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读稳定值，差减计算",
+   "scene": "【实拍】关门等读数不跳再记录",
+   "prompt_en": "Close-up: the balance door closed, a hand waiting with a pen over a notebook while the display digits settle.",
+   "narration": "关门等几秒，读数稳了再记录。",
+   "overlay": [
+    "读稳定值，差减计算"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读稳定值，差减计算",
+   "scene": "取下重称，三次平均",
+   "prompt_en": "Diagram: the same object weighed three times with three reading icons merging into one average. No text.",
+   "narration": "称物体可取下重称，三次取平均。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读稳定值，差减计算",
+   "scene": "倒入反应瓶后再称空纸",
+   "prompt_en": "Diagram: powder poured from folded paper into a flask, then the empty paper weighed again, a minus sign between two readings. No text.",
+   "narration": "倒进反应瓶，再称空纸，差值是用量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "读稳定值，差减计算",
+   "scene": "称好立即加入，托纸穿过人群打叉",
+   "prompt_en": "Diagram: weighed powder added to the flask right at the balance with a check mark, a student carrying weighing paper through a crowded lab crossed out. No text.",
+   "narration": "称好就地加进瓶里，别托着纸乱走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "侧门开着，风吹动秤盘",
+   "prompt_en": "Diagram: an open balance side door with air flow arrows pushing on the pan, crossed out. No text.",
+   "narration": "侧门一直关着，风会吹动秤盘。",
+   "overlay": [
+    "称得准的环境与习惯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "倚靠天平台，打叉",
+   "prompt_en": "Diagram: a student leaning on the balance table with an arm on it, vibration lines, crossed out. No text.",
+   "narration": "别倚靠天平台，也别把手搭上去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "戴手套拿容器",
+   "prompt_en": "Diagram: a gloved hand holding a vial, a bare fingerprint on another vial with a plus sign. No text.",
+   "narration": "戴手套拿容器，手上油脂会增重。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "外壁擦干，放在秤盘中央",
+   "prompt_en": "Diagram: a vial wiped dry with a tissue, then placed in the exact center of the pan. No text.",
+   "narration": "容器外壁擦干，放在秤盘正中。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "对着样品哈气，打叉",
+   "prompt_en": "Diagram: breath vapor drifting onto an open sample on the pan, crossed out, a wet sample icon with a drying arrow. No text.",
+   "narration": "样品要干，别对着它呼气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "称得准的环境与习惯",
+   "scene": "恒温、少用塑料、防静电",
+   "prompt_en": "Diagram: a thermometer icon steady, a plastic container with static spark icons crossed out, a glass container checked. No text.",
+   "narration": "室温恒定，少用塑料容器防静电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "冷热与吸湿的样品",
+   "scene": "热的坩埚放进干燥器冷却",
+   "prompt_en": "Diagram: tongs placing a hot crucible into a desiccator to cool. No text.",
+   "narration": "热的东西放进干燥器冷却，防吸湿。",
+   "overlay": [
+    "冷热与吸湿的样品"
+   ],
+   "labels": [
+    "见第163课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "冷热与吸湿的样品",
+   "scene": "热物体在秤盘上搅起气流",
+   "prompt_en": "Diagram: a warm object on the pan with rising air currents and an unstable reading icon, crossed out. No text.",
+   "narration": "冷热物体搅动气流，回到室温再称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "冷热与吸湿的样品",
+   "scene": "取出后间隔相同时间再称",
+   "prompt_en": "Diagram: a dried sample taken from a desiccator, a clock showing the same interval before each weighing. No text.",
+   "narration": "超干的东西会吸湿，每次隔相同时间称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回不到零与漂移",
+   "scene": "取下物品读数应回零",
+   "prompt_en": "Diagram: an empty balance pan with a display returning to zero, a check mark. No text.",
+   "narration": "取下物品，读数应该回到零。",
+   "overlay": [
+    "回不到零与漂移"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回不到零与漂移",
+   "scene": "回不到零，重新去皮重称",
+   "prompt_en": "Diagram: an empty pan with a display not at zero, an arrow to tare and weigh again. No text.",
+   "narration": "回不到零，零点偏了，要重称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回不到零与漂移",
+   "scene": "空载读数也在变：漂移",
+   "prompt_en": "Diagram: an empty balance with a wavy line graph rising slowly, a warning mark. No text.",
+   "narration": "空载读数也在慢慢变，就是漂移。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回不到零与漂移",
+   "scene": "排查四个原因",
+   "prompt_en": "Diagram: four icons: an open door, an evaporating sample, a warm sample and a static spark. No text.",
+   "narration": "门没关？蒸发吸湿？没到室温？静电？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "称液体：量体积或称量瓶",
+   "scene": "量体积，用密度换算质量",
+   "prompt_en": "Diagram: a pipette measuring a liquid volume, an arrow with a density icon to a mass icon. No text.",
+   "narration": "称液体，多是量体积再用密度换算。",
+   "overlay": [
+    "称液体：量体积或称量瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "称液体：量体积或称量瓶",
+   "scene": "粘稠液体直接称",
+   "prompt_en": "Diagram: a thick viscous liquid dripping slowly into a vial on a balance. No text.",
+   "narration": "粘稠的量不准，就直接称。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "称液体：量体积或称量瓶",
+   "scene": "【实拍】易挥发液体用带盖称量瓶",
+   "prompt_en": "Close-up: a gloved hand places a small glass weighing bottle with its ground glass lid closed onto the balance pan.",
+   "narration": "易挥发的液体，用带盖称量瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标准砝码检验天平",
+   "scene": "天平会变得不准",
+   "prompt_en": "Diagram: a balance with a question mark over its display. No text.",
+   "narration": "天平用久了，也会变得不准。",
+   "overlay": [
+    "标准砝码检验天平"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标准砝码检验天平",
+   "scene": "【实拍】用镊子夹标准砝码放上秤盘",
+   "prompt_en": "Close-up: tweezers lift a small metal calibration weight from its case and place it in the center of the pan.",
+   "narration": "用镊子夹标准砝码，不用手拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "标准砝码检验天平",
+   "scene": "量程两头各称一次，偏差报告",
+   "prompt_en": "Diagram: a small weight and a large weight each on the balance, a deviation icon with an arrow to a teacher icon. No text.",
+   "narration": "量程两头各称一次，偏差大就报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "撒了立即清理",
+   "scene": "撒在天平里，先弄清是什么",
+   "prompt_en": "Diagram: spilled powder in the balance with a magnifier over a bottle label. No text.",
+   "narration": "撒了要马上清，先弄清撒的是什么。",
+   "overlay": [
+    "撒了立即清理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "撒了立即清理",
+   "scene": "用嘴吹，打叉",
+   "prompt_en": "Diagram: a person blowing powder off a balance pan with a dust cloud, crossed out. No text.",
+   "narration": "千万别用嘴吹，会吸进去、扬一屋子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "撒了立即清理",
+   "scene": "【实拍】先取出样品，再用软毛刷扫净秤盘",
+   "prompt_en": "Close-up: the sample container taken out first, then a soft brush sweeping white salt grains off the pan into a small tray.",
+   "narration": "先取出样品，再用软刷扫净天平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "撒了立即清理",
+   "scene": "湿纸巾擦净，按化学废物收集",
+   "prompt_en": "Diagram: a damp wipe cleaning the bench, the wipe placed into a labeled chemical waste container. No text.",
+   "narration": "湿纸巾擦净，清理物按化学废物收集。",
+   "overlay": [],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒粉末防扬尘",
+   "scene": "称有毒粉末用称量罩或通风柜",
+   "prompt_en": "Diagram: a balance inside a ventilated weighing enclosure, a student wearing goggles, gloves and a lab coat. No text.",
+   "narration": "称有毒粉末，在称量罩或通风柜里。",
+   "overlay": [
+    "有毒粉末防扬尘"
+   ],
+   "labels": [
+    "见第052课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒粉末防扬尘",
+   "scene": "有毒粉末干扫，打叉",
+   "prompt_en": "Diagram: a dry brush sweeping toxic powder with a dust cloud rising, crossed out. No text.",
+   "narration": "撒了有毒粉末，别用刷子干扫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒粉末防扬尘",
+   "scene": "湿巾轻擦，按危险废物收集",
+   "prompt_en": "Diagram: a damp wipe gently laid over powder, then placed into a hazardous waste bag. No text.",
+   "narration": "湿巾轻轻擦，按危险废物收集。",
+   "overlay": [],
+   "labels": [
+    "见第056课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "有毒粉末防扬尘",
+   "scene": "查SDS，报告老师",
+   "prompt_en": "Diagram: a safety data sheet with an arrow to a teacher icon, a lock icon for controlled chemicals. No text.",
+   "narration": "先查说明书，有毒的报告老师。",
+   "overlay": [],
+   "labels": [
+    "见第041课",
+    "见第045课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "用完比来时更整洁",
+   "scene": "扫净固体，擦干液体",
+   "prompt_en": "Diagram: a soft brush and a dry wipe cleaning the balance and bench after use. No text.",
+   "narration": "用完扫净固体，擦干液体。",
+   "overlay": [
+    "用完比来时更整洁"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "用完比来时更整洁",
+   "scene": "关门防灰，带走自己的东西",
+   "prompt_en": "Diagram: balance doors closed, a student taking away his flask, spatula and notebook. No text.",
+   "narration": "关好门防灰，带走自己的东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "用完比来时更整洁",
+   "scene": "天平比来时更整洁",
+   "prompt_en": "Diagram: a spotless balance table with a check mark and a smiling clean balance icon. No text.",
+   "narration": "让天平比你来时更整洁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "重的粗天平、轻的分析天平",
+   "prompt_en": "Diagram: a heavy beaker to a top-loading balance, a small vial to an analytical balance. No text.",
+   "narration": "按量选天平，调平、预热、去皮。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "取下加样、关门读数",
+   "prompt_en": "Diagram: a spatula adding powder outside the balance, a closed door and a steady reading icon. No text.",
+   "narration": "药品不碰秤盘，取下加样关门读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不倒回、撒了就清",
+   "prompt_en": "Diagram: a waste container with a check mark, a stock bottle crossed out, a brush cleaning the pan. No text.",
+   "narration": "多了不倒回，撒了就清，用完整洁。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着移液管和容量瓶",
+   "prompt_en": "The panda mascot holds up a volumetric pipette and a volumetric flask and waves goodbye.",
+   "narration": "下一课：容量仪器与移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
