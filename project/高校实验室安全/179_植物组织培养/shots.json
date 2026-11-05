@@ -1,0 +1,987 @@
+{
+ "id": "179_植物组织培养",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "植物组织培养",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/179_植物组织培养.md",
+ "author_source": "project/高校实验室安全/179_植物组织培养/src.py",
+ "points": {
+  "K1": "组织培养是什么",
+  "K2": "培养基里有什么",
+  "S1": "配培养基与灭菌",
+  "K3": "选哪个部位做外植体",
+  "S2": "外植体表面消毒",
+  "S3": "刀具与器械安全",
+  "K4": "愈伤组织与分化",
+  "K5": "诱导、生根、成苗",
+  "K6": "胡萝卜组培的流程",
+  "K7": "分株与移栽",
+  "K8": "培养条件与记录",
+  "K9": "定期检查污染",
+  "S4": "污染物与材料处置",
+  "K10": "组培的优点和缺点"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一瓶长着绿色小苗的组培瓶",
+   "prompt_en": "The panda mascot holds up a small glass culture jar with a tiny green plantlet growing on clear gel medium, looking at the camera.",
+   "narration": "第15章第十七课：植物组织培养。",
+   "overlay": [
+    "植物组织培养"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一根胡萝卜，准备直接切了放进培养瓶",
+   "prompt_en": "The young male student holds a whole carrot and a kitchen knife over an open culture jar on an ordinary bench, a red warning icon.",
+   "narration": "阿杰拿起胡萝卜，就想切块放进瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "一周后瓶里长满了绒毛状霉菌",
+   "prompt_en": "Diagram: a culture jar full of fuzzy white mold covering a carrot piece, a sad face icon. No text.",
+   "narration": "一周后，瓶里长满了霉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研：先消毒、无菌接种，刀也要拿稳",
+   "prompt_en": "The female graduate student in a lab coat and gloves points to a clean bench with sterile tools and a covered dish of carrot discs.",
+   "narration": "小研：消毒、无菌接种，一步不能少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师递给他一份组培实验方案",
+   "prompt_en": "The safety administrator hands the young male student a plant tissue culture protocol sheet and points to a clean bench. The sheet is blank.",
+   "narration": "王老师：先读方案，再上超净台。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "组织培养是什么",
+   "scene": "导入新基因，还要长成新植株",
+   "prompt_en": "Diagram: a single plant cell with a new gene icon growing step by step into a whole small plant. No text.",
+   "narration": "细胞有了新基因，还得长成新植株。",
+   "overlay": [
+    "组织培养是什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "组织培养是什么",
+   "scene": "组织培养：试管里离体培养",
+   "prompt_en": "Diagram: a small piece of plant tissue on gel medium inside a test tube, growing shoots, a whole plant icon beside it. No text.",
+   "narration": "组织培养也叫微繁殖，在试管里离体培养。",
+   "overlay": [],
+   "labels": [
+    "离体培养",
+    "微繁殖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "组织培养是什么",
+   "scene": "一个细胞能再生整株植物",
+   "prompt_en": "Diagram: one plant cell with an arrow to a full plant, a totipotency star icon. No text.",
+   "narration": "理论上，一个细胞就能长成整株植物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "组织培养是什么",
+   "scene": "组培用于快繁、育种和转基因再生",
+   "prompt_en": "Diagram: three icons, rows of identical seedlings, a breeding cross icon and a gene icon leading to a regenerated plant. No text.",
+   "narration": "快速繁殖、育种、转基因再生都靠它。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "组织培养是什么",
+   "scene": "胡萝卜直根，培育克隆苗",
+   "prompt_en": "Diagram: a carrot taproot with stored energy icons, several identical small carrot plantlets next to it. No text.",
+   "narration": "用胡萝卜直根，能培育一模一样的克隆苗。",
+   "overlay": [],
+   "labels": [
+    "直根",
+    "克隆"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养基里有什么",
+   "scene": "组织太小，营养全靠培养基",
+   "prompt_en": "Diagram: a tiny tissue piece on a large medium plate, arrows of nutrients flowing from the medium into the tissue. No text.",
+   "narration": "组织很小，生长所需全靠培养基。",
+   "overlay": [
+    "培养基里有什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养基里有什么",
+   "scene": "蔗糖、维生素、激素、琼脂",
+   "prompt_en": "Diagram: four ingredient icons, a sugar cube, a vitamin capsule, a hormone droplet and a gel block, around a medium jar. No text.",
+   "narration": "蔗糖供碳源，维生素护苗，琼脂凝固。",
+   "overlay": [],
+   "labels": [
+    "蔗糖",
+    "维生素",
+    "激素",
+    "琼脂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养基里有什么",
+   "scene": "激素促进分裂和生长",
+   "prompt_en": "Diagram: a hormone droplet making plant cells divide and enlarge, arrows showing growth. No text.",
+   "narration": "激素促进细胞分裂、增大和分化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "培养基里有什么",
+   "scene": "按方案配制，瓶上写清内容日期",
+   "prompt_en": "Diagram: a medium bottle with a blank label and a pen, a protocol sheet beside it with a check mark. No text.",
+   "narration": "按实验方案配制，瓶上标清名称日期。",
+   "overlay": [],
+   "labels": [
+    "名称",
+    "配制人",
+    "日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "配培养基与灭菌",
+   "scene": "称量激素和试剂，先查SDS",
+   "prompt_en": "The female graduate student in goggles and gloves weighs a small amount of powder on a balance, a safety data sheet document beside her.",
+   "narration": "称激素和试剂，先查SDS，戴好防护。",
+   "overlay": [
+    "配培养基与灭菌"
+   ],
+   "labels": [
+    "见第040课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "配培养基与灭菌",
+   "scene": "用酸碱调pH，防溅",
+   "prompt_en": "Close-up of gloved hands adding drops from a dropper bottle into a medium beaker on a stirrer, goggles on, a pH meter probe in the beaker.",
+   "narration": "用酸碱调pH，戴护目镜防溅。",
+   "overlay": [],
+   "labels": [
+    "见第048课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "配培养基与灭菌",
+   "scene": "培养基和器械高压灭菌",
+   "prompt_en": "Diagram: medium jars and wrapped tools loaded into an autoclave, a pressure gauge icon and a check mark. No text.",
+   "narration": "培养基、器械高压灭菌，按规程操作。",
+   "overlay": [],
+   "labels": [
+    "见第123课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "配培养基与灭菌",
+   "scene": "取出防烫，热琼脂别溅手",
+   "prompt_en": "Diagram: heat resistant gloves taking hot medium bottles out of an autoclave after pressure returns to zero, a burn icon crossed out. No text.",
+   "narration": "压力归零再开门，戴隔热手套防烫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "配培养基与灭菌",
+   "scene": "灭菌后在超净台内分装",
+   "prompt_en": "Diagram: sterilized medium poured into culture jars inside a clean bench, lids closed, jars stored on a clean shelf. No text.",
+   "narration": "灭菌后在超净台内分装，盖好存放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "选哪个部位做外植体",
+   "scene": "活组织哪个部位都能用",
+   "prompt_en": "Diagram: a plant with highlighted parts, shoot tip, young leaf, root tip, flower bud, seed and fruit. No text.",
+   "narration": "只要是活组织，哪个部位都能用。",
+   "overlay": [
+    "选哪个部位做外植体"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "选哪个部位做外植体",
+   "scene": "茎尖、分生组织、嫩叶成功率高",
+   "prompt_en": "Diagram: the shoot tip, meristem and young leaf marked with stars, other parts marked plain. No text.",
+   "narration": "茎尖、分生组织、嫩叶，成功率最高。",
+   "overlay": [],
+   "labels": [
+    "茎尖",
+    "分生组织",
+    "嫩叶"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "选哪个部位做外植体",
+   "scene": "从性状优良的母株取材",
+   "prompt_en": "Diagram: a healthy strong mother plant with a check mark next to a weak sickly plant crossed out. No text.",
+   "narration": "从性状优良、健康的母株上取材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "选哪个部位做外植体",
+   "scene": "材料先去掉老叶和泥土",
+   "prompt_en": "Diagram: a plant part trimmed of old leaves and soil before washing, waste in a bin. No text.",
+   "narration": "取材后先去掉老叶、泥土和伤损部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "先用肥皂和清水洗净",
+   "prompt_en": "Close-up of gloved hands scrubbing a carrot under running water with soap at a lab sink.",
+   "narration": "外植体先用肥皂和流水洗净。",
+   "overlay": [
+    "外植体表面消毒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "【实拍】超净台内乙醇浸、消毒液泡",
+   "prompt_en": "Close-up inside a clean bench of tweezers moving carrot pieces from a short dip in an alcohol beaker into a jar of disinfectant solution.",
+   "narration": "超净台内，乙醇浸一下，再泡消毒液。",
+   "overlay": [],
+   "labels": [
+    "时间浓度按方案"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "【实拍】无菌水冲洗几遍",
+   "prompt_en": "Close-up inside a clean bench of carrot pieces rinsed in a jar of sterile water, the water poured into a waste beaker, repeated.",
+   "narration": "再用无菌水冲洗几遍，去掉消毒液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "次氯酸钠有腐蚀性，不与酸混",
+   "prompt_en": "Diagram: a bleach bottle with a corrosive icon, mixing it with an acid bottle releasing a toxic gas cloud, crossed out. No text.",
+   "narration": "次氯酸钠有腐蚀性，不能和酸混合。",
+   "overlay": [],
+   "labels": [
+    "次氯酸钠"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "戴手套护目镜，废液按规定收",
+   "prompt_en": "Diagram: goggles and gloves icons, used disinfectant poured into a labeled waste container, a sink crossed out. No text.",
+   "narration": "戴手套护目镜，废液按规定收集。",
+   "overlay": [],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "外植体表面消毒",
+   "scene": "超净台里乙醇别靠近火",
+   "prompt_en": "Diagram: an alcohol beaker inside a clean bench kept far from a burner, an alcohol spray drifting into a flame crossed out. No text.",
+   "narration": "乙醇易燃，台内有火时别喷别倒。",
+   "overlay": [],
+   "labels": [
+    "见第178课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "刀具与器械安全",
+   "scene": "【实拍】打孔器在胡萝卜段中取芯",
+   "prompt_en": "Close-up of gloved hands pressing a metal cork borer straight down into a thick carrot slice on a sterile dish, fingers kept clear.",
+   "narration": "打孔器垂直下压，手指别挡在下面。",
+   "overlay": [
+    "刀具与器械安全"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "刀具与器械安全",
+   "scene": "【实拍】在无菌皿里切薄片，刀口向外",
+   "prompt_en": "Close-up of gloved hands slicing a carrot core into thin discs on a sterile petri dish with a scalpel, cutting away from the body.",
+   "narration": "在无菌皿里切片，刀口朝外不对人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "刀具与器械安全",
+   "scene": "刀片不用手装卸，进锐器盒",
+   "prompt_en": "Diagram: a scalpel blade removed with a blade remover tool and dropped into a sharps container, bare fingers crossed out. No text.",
+   "narration": "刀片用工具装卸，用完进锐器盒。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "刀具与器械安全",
+   "scene": "器械灭菌：热珠灭菌器防烫",
+   "prompt_en": "Diagram: tweezers placed into an electric glass bead sterilizer and set aside to cool, an alcohol jar next to a flame crossed out. No text.",
+   "narration": "器械按规程灭菌，烫的放凉再用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "刀具与器械安全",
+   "scene": "酒精缸远离火源",
+   "prompt_en": "Diagram: an alcohol soaking jar for tools placed far from a burner flame, a flame reaching the jar crossed out. No text.",
+   "narration": "泡器械的酒精缸，远离明火。",
+   "overlay": [],
+   "labels": [
+    "见第046课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "细胞增殖成愈伤组织",
+   "prompt_en": "Diagram: cells on a carrot disc multiplying into an irregular pale cell mass. No text.",
+   "narration": "细胞增殖成一团无序的愈伤组织。",
+   "overlay": [
+    "愈伤组织与分化"
+   ],
+   "labels": [
+    "愈伤组织"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "换含生长素的培养基诱导分化",
+   "prompt_en": "Diagram: the callus moved to a new medium jar with a hormone droplet icon, small roots and shoots appearing. No text.",
+   "narration": "转到含生长素的新培养基，诱导分化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "愈伤组织与分化",
+   "scene": "长出根和芽，成为小植株",
+   "prompt_en": "Diagram: a callus with tiny roots below and tiny shoots above, then a small plantlet. No text.",
+   "narration": "又过几周，长出根和芽，叫小植株。",
+   "overlay": [],
+   "labels": [
+    "小植株"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诱导、生根、成苗",
+   "scene": "第一步：取材，诱导胚状体",
+   "prompt_en": "Diagram: a tissue piece placed on medium inside a clean bench, developing small embryo like clusters. No text.",
+   "narration": "第一步：取材上培养基，诱导胚状体。",
+   "overlay": [
+    "诱导、生根、成苗"
+   ],
+   "labels": [
+    "①诱导"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诱导、生根、成苗",
+   "scene": "第二步：分开，转到生根培养基",
+   "prompt_en": "Diagram: a cluster separated into single embryo like structures, each moved to a new rooting medium jar. No text.",
+   "narration": "第二步：分开胚状体，转到生根培养基。",
+   "overlay": [],
+   "labels": [
+    "②生根"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诱导、生根、成苗",
+   "scene": "第三步：成苗，驯化后移栽",
+   "prompt_en": "Diagram: plantlets growing in jars, then in a controlled growth chamber, then planted in a pot outside. No text.",
+   "narration": "第三步：成苗，先驯化，再移栽。",
+   "overlay": [],
+   "labels": [
+    "③驯化移栽"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "诱导、生根、成苗",
+   "scene": "每次转接都在超净台内",
+   "prompt_en": "Diagram: three arrows from jar to jar, each passing through a clean bench icon. No text.",
+   "narration": "每一次转接，都在超净台内无菌完成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "胡萝卜组培用同一套无菌方法",
+   "prompt_en": "Diagram: a clean bench with sterile tools, a fern culture icon and a carrot icon sharing the same tool set. No text.",
+   "narration": "胡萝卜组培，用同一套无菌方法。",
+   "overlay": [
+    "胡萝卜组培的流程"
+   ],
+   "labels": [
+    "见第178课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "洗净、切段、取芯、切片",
+   "prompt_en": "Diagram: step icons, a washed carrot, cut into segments, a core removed with a borer, the core sliced into thin discs. No text.",
+   "narration": "洗净切段，取芯切成薄片。",
+   "overlay": [],
+   "labels": [
+    "洗净",
+    "切段",
+    "取芯",
+    "切片"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "【实拍】镊子把圆片放到培养基上",
+   "prompt_en": "Close-up inside a clean bench of sterile tweezers placing a thin carrot disc onto gel medium in a jar, the lid replaced quickly.",
+   "narration": "无菌镊子把圆片放上培养基，马上盖好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "瓶上标记，放进培养室",
+   "prompt_en": "Diagram: culture jars with blank labels placed on shelves of a growth room under lamps. No text.",
+   "narration": "标好名称日期，放进培养室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "几周后长出愈伤组织",
+   "prompt_en": "Diagram: a calendar of a few weeks and a carrot disc gradually covered with pale callus. No text.",
+   "narration": "几周后，圆片上长出愈伤组织。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "胡萝卜组培的流程",
+   "scene": "愈伤、生根生芽、长成新株",
+   "prompt_en": "Diagram: a timeline from a carrot disc to callus, to roots and shoots, to a new carrot plantlet. No text.",
+   "narration": "愈伤，生根生芽，长成新植株。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分株与移栽",
+   "scene": "小苗挨得太近，要分株",
+   "prompt_en": "Diagram: a crowded cluster of plantlets in one jar, an arrow to separated single plantlets in several jars. No text.",
+   "narration": "小苗挤成一簇，要无菌分株。",
+   "overlay": [
+    "分株与移栽"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分株与移栽",
+   "scene": "【实拍】分株仍要无菌，工具先消毒",
+   "prompt_en": "Close-up inside a clean bench of sterile tweezers and scalpel gently separating plantlets on a sterile dish.",
+   "narration": "分株也在超净台内，工具先灭菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分株与移栽",
+   "scene": "炼苗后移到无土基质",
+   "prompt_en": "Diagram: plantlets hardened gradually under a cover, then moved into pots of soilless growing medium. No text.",
+   "narration": "炼苗后移到无土基质，需要时再分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "分株与移栽",
+   "scene": "苗长到合适高度再分",
+   "prompt_en": "Diagram: a plantlet next to a height mark, separated when it reaches the mark, a check. No text.",
+   "narration": "苗长到合适高度再分，更容易成活。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养条件与记录",
+   "scene": "调控温度、光照、营养、激素",
+   "prompt_en": "Diagram: a growth chamber with temperature, light, nutrient and hormone icons around culture jars on shelves. No text.",
+   "narration": "温度、光照、营养、激素都要调控。",
+   "overlay": [
+    "培养条件与记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养条件与记录",
+   "scene": "定时查看，记录温度、pH、光照",
+   "prompt_en": "The young male student checks a growth room and writes in a logbook, a thermometer and a light timer icon beside him. The logbook is blank.",
+   "narration": "定时查看，记录温度、pH和光照时长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养条件与记录",
+   "scene": "用灯光，不晒太阳",
+   "prompt_en": "Diagram: culture jars under grow lamps checked, jars in direct sunlight by a window crossed out. No text.",
+   "narration": "阳光直晒会杀死培养物，要用灯光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "培养条件与记录",
+   "scene": "设备异常及时报告",
+   "prompt_en": "Diagram: a growth chamber with a warning light and an overheating icon, a person reporting to a teacher. No text.",
+   "narration": "温控光照异常，及时报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "定期检查污染",
+   "scene": "杂菌也爱这样的环境",
+   "prompt_en": "Diagram: a warm, sweet medium jar attracting bacteria and mold icons from the air. No text.",
+   "narration": "细菌和真菌也爱这样的环境。",
+   "overlay": [
+    "定期检查污染"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "定期检查污染",
+   "scene": "黏滑多是细菌，绒毛多是真菌",
+   "prompt_en": "Diagram: two jars, one with a slimy shiny patch marked bacteria, one with fuzzy growth marked fungi. No text.",
+   "narration": "黏滑的多是细菌，绒毛状的多是真菌。",
+   "overlay": [],
+   "labels": [
+    "细菌",
+    "真菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "定期检查污染",
+   "scene": "定期检查，全程无菌",
+   "prompt_en": "Diagram: a calendar with regular check marks and a magnifier over culture jars on a shelf. No text.",
+   "narration": "定期检查，全程保持无菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "定期检查污染",
+   "scene": "污染了，回头查原因",
+   "prompt_en": "Diagram: a magnifier over a checklist of steps, explant washing, sterile tools, medium sterilization and bench cleaning. No text.",
+   "narration": "出现污染，回头查消毒和操作环节。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "污染物与材料处置",
+   "scene": "污染瓶不开盖，报告后灭菌",
+   "prompt_en": "Diagram: a moldy culture jar kept closed, put into an autoclave bag, then into an autoclave, an opening hand crossed out. No text.",
+   "narration": "污染瓶不开盖，报告后高压灭菌。",
+   "overlay": [
+    "污染物与材料处置"
+   ],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "污染物与材料处置",
+   "scene": "实验室的胡萝卜不能吃",
+   "prompt_en": "Diagram: a carrot in the lab with a mouth icon crossed out, a no food or drink sign beside it. No text.",
+   "narration": "实验室的胡萝卜，再新鲜也不能吃。",
+   "overlay": [],
+   "labels": [
+    "见第009课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "污染物与材料处置",
+   "scene": "转基因植株不带走、不乱扔",
+   "prompt_en": "Diagram: a transgenic plantlet jar kept in a designated growth room, a student carrying it home crossed out, a trash bin crossed out. No text.",
+   "narration": "转基因材料不带出，灭活后按规定处置。",
+   "overlay": [],
+   "labels": [
+    "见第081课",
+    "见第082课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "污染物与材料处置",
+   "scene": "废培养基灭菌后处置",
+   "prompt_en": "Diagram: used medium jars put into an autoclave, then emptied and the jars washed, a sink with solid gel crossed out. No text.",
+   "narration": "废培养基灭菌后处置，不倒进水槽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组培的优点和缺点",
+   "scene": "少量组织，大量繁殖",
+   "prompt_en": "Diagram: one small tissue piece multiplying into rows of many identical plantlets. No text.",
+   "narration": "优点：少量组织就能大量繁殖，更快。",
+   "overlay": [
+    "组培的优点和缺点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组培的优点和缺点",
+   "scene": "稀有难繁殖，也能得无病苗",
+   "prompt_en": "Diagram: a rare plant icon and a healthy virus free plantlet with a check mark. No text.",
+   "narration": "难繁殖的也能用，还能得到无病苗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组培的优点和缺点",
+   "scene": "缺点：费钱费工，可能突变",
+   "prompt_en": "Diagram: an expensive equipment icon, a skilled hands icon and a mutation icon on a plantlet. No text.",
+   "narration": "缺点：设备技能要求高，可能突变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组培的优点和缺点",
+   "scene": "早期脆弱，难适应正常环境",
+   "prompt_en": "Diagram: a fragile young plantlet wilting outside a protected chamber, a shield icon around another one. No text.",
+   "narration": "早期很脆弱，可能适应不了正常环境。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组培的优点和缺点",
+   "scene": "扬长避短，按需选用",
+   "prompt_en": "Diagram: a balance scale with advantages on one side and costs on the other, a thinking icon. No text.",
+   "narration": "权衡优缺点，按需要选用组培。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "培养基灭菌，外植体消毒",
+   "prompt_en": "Diagram: an autoclave icon and a carrot piece in a disinfectant jar, both checked. No text.",
+   "narration": "培养基灭菌，外植体消毒再接种。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "愈伤、分化、分株、驯化",
+   "prompt_en": "Diagram: a callus, roots and shoots, separated plantlets and a potted plant in a row. No text.",
+   "narration": "愈伤、分化、分株、驯化移栽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "刀具小心，污染瓶不开",
+   "prompt_en": "Diagram: a scalpel going into a sharps box and a closed moldy jar going into an autoclave. No text.",
+   "narration": "刀具小心，污染瓶灭菌，材料不外带。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣双手抱着一台显微镜",
+   "prompt_en": "The panda mascot carries a light microscope with one hand on the arm and the other under the base, nodding goodbye.",
+   "narration": "下一课：光学显微镜的使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
