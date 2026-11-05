@@ -1,0 +1,1266 @@
+{
+ "id": "188_三相连接与三相电机",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "三相连接与三相电机",
+ "seconds": 465,
+ "source_doc": "course/高校实验室安全/188_三相连接与三相电机.md",
+ "author_source": "project/高校实验室安全/188_三相连接与三相电机/src.py",
+ "points": {
+  "K1": "实验目的",
+  "K2": "三相实验更危险",
+  "K3": "器材、电源与保护",
+  "K4": "三相调压器从零升",
+  "K5": "星形：尾端接成星点",
+  "K6": "线电压与相电压",
+  "K7": "星形的接线",
+  "K8": "星形：线流等于相流",
+  "K9": "回零接线，缓升读数",
+  "K10": "端子拧紧，明暗不一停",
+  "K11": "三角形：首尾相接",
+  "K12": "三角形：线压等于相压",
+  "K13": "改接前断电回零验电",
+  "K14": "接法与负载额定相配",
+  "K15": "三角形读数与灯亮",
+  "K16": "实验结论：√3关系",
+  "K17": "星形三角形各用在哪",
+  "K18": "三相三线制与四线制",
+  "K19": "中性线也可能带电",
+  "K20": "异步电动机怎样转",
+  "K21": "旋转磁场",
+  "K22": "同步转速",
+  "K23": "转差率与转子频率",
+  "K24": "同步发电机怎样发电",
+  "K25": "换向器：机械整流",
+  "S1": "旋转电机防卷入",
+  "S2": "断电惯转，转动即带电"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在三相实验台前，台上三盏灯和一台三相调压器",
+   "prompt_en": "The panda mascot stands beside a powered off three phase training bench with three lamps and a three phase variable transformer, looking at the camera.",
+   "narration": "第15章第二十六课：三相连接与三相电机。",
+   "overlay": [
+    "三相连接与三相电机"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰想直接把星形改成三角形，不降电压",
+   "prompt_en": "The young male student reaches toward the lamp terminals on a bench whose three phase switch is on, a red warning icon.",
+   "narration": "阿杰：星形改三角形，直接改就行？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拉下三极开关，摇手",
+   "prompt_en": "The safety administrator pulls the three pole switch off and raises a hand, a crossed out live rewiring icon.",
+   "narration": "王老师：先回零断电，还要降电压！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着计算好的电压表",
+   "prompt_en": "The female graduate student holds a blank calculation sheet beside a three phase circuit diagram, nodding.",
+   "narration": "小研：接法不同，灯承受的电压不同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的",
+   "scene": "测两种接法的线量和相量",
+   "prompt_en": "Diagram: a star connection and a delta connection side by side with voltmeter and ammeter icons. No text.",
+   "narration": "实测星形、三角形的线量和相量。",
+   "overlay": [
+    "实验目的"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验目的",
+   "scene": "找出关系，课上验证",
+   "prompt_en": "Diagram: measured values flowing into a comparison icon with a root three symbol. No text.",
+   "narration": "找出线量与相量的关系，动手验证。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三相实验更危险",
+   "scene": "三相线电压比单相高",
+   "prompt_en": "Diagram: a single phase socket and a three phase supply, the three phase voltage bar much taller, an electric shock warning sign. No text.",
+   "narration": "三相线电压380伏，比单相高得多。",
+   "overlay": [
+    "三相实验更危险"
+   ],
+   "labels": [
+    "380 V",
+    "220 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三相实验更危险",
+   "scene": "触电后果更严重",
+   "prompt_en": "Diagram: a current path through a body with a larger danger meter for three phase. No text.",
+   "narration": "一旦触电，后果更严重。",
+   "overlay": [],
+   "labels": [
+    "见第097课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三相实验更危险",
+   "scene": "准入、监护、老师指导",
+   "prompt_en": "Diagram: a training badge, two students at a bench and a teacher icon beside them. No text.",
+   "narration": "按准入要求，两人以上、老师指导。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "三相实验更危险",
+   "scene": "安全措施做足，接头牢固",
+   "prompt_en": "Diagram: a circuit diagram followed exactly, firm terminal joints checked. No text.",
+   "narration": "安全措施做足，按图接线，接头牢固。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "器材、电源与保护",
+   "scene": "两只交流电压表、两只电流表、三灯",
+   "prompt_en": "Diagram: two alternating current voltmeters, two ammeters and three identical lamps on a bench. No text.",
+   "narration": "两只电压表、两只电流表、三盏同规格灯。",
+   "overlay": [
+    "器材、电源与保护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "器材、电源与保护",
+   "scene": "导线通断良好",
+   "prompt_en": "Diagram: plug leads checked with a continuity icon on a powered off bench. No text.",
+   "narration": "导线先查通断，完好才用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "器材、电源与保护",
+   "scene": "三相电源经熔断器和三极开关",
+   "prompt_en": "Diagram: a three phase supply passing through three fuses and a triple pole switch on the wall. No text.",
+   "narration": "三相电源经熔断器和三极开关引出。",
+   "overlay": [],
+   "labels": [
+    "见第186课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "器材、电源与保护",
+   "scene": "调压器上排输入，下排输出",
+   "prompt_en": "Diagram: a three phase variable transformer with an upper row of input terminals and a lower row of output terminals. No text.",
+   "narration": "调压器上排输入、下排输出，从输出接起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "器材、电源与保护",
+   "scene": "电路图标明额定值",
+   "prompt_en": "Diagram: a neat circuit diagram with meter and lamp rating icons beside each component. No text.",
+   "narration": "电路图画清楚，标明仪表和灯的额定值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相调压器从零升",
+   "scene": "【实拍】三相调压器旋钮回到零位",
+   "prompt_en": "Close-up of a hand turning the knob of a three phase variable transformer to the zero position, the bench switched off.",
+   "narration": "电源接调压器输入，旋钮先回零。",
+   "overlay": [
+    "三相调压器从零升"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "三相调压器从零升",
+   "scene": "三相电压从零平滑升高",
+   "prompt_en": "Diagram: three voltage bars rising together smoothly as the knob turns slowly. No text.",
+   "narration": "调压器让三相电压从零慢慢升高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形：尾端接成星点",
+   "scene": "三个线圈尾端接在一起",
+   "prompt_en": "Diagram: three coils with their end terminals joined at one common point, the start terminals left free. No text.",
+   "narration": "星形：三相的尾端接在一起。",
+   "overlay": [
+    "星形：尾端接成星点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形：尾端接成星点",
+   "scene": "公共点叫中性点、星点",
+   "prompt_en": "Diagram: the common point of a star connection highlighted with a star icon. No text.",
+   "narration": "这个公共点叫中性点，也叫星点。",
+   "overlay": [],
+   "labels": [
+    "N"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "星形：尾端接成星点",
+   "scene": "【实拍】三只灯座尾端用导线连成星点",
+   "prompt_en": "Close-up of hands linking the end terminals of three lamp holders together with short plug leads on a powered off bench.",
+   "narration": "三盏同规格灯当负载，尾端连成星点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "线电压与相电压",
+   "scene": "线电压：两根相线之间",
+   "prompt_en": "Diagram: a voltmeter connected between two line conductors marked one and two. No text.",
+   "narration": "任意两根相线之间，是线电压。",
+   "overlay": [
+    "线电压与相电压"
+   ],
+   "labels": [
+    "线电压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "线电压与相电压",
+   "scene": "相电压：相线与中性点之间",
+   "prompt_en": "Diagram: a voltmeter connected between one line conductor and the neutral point. No text.",
+   "narration": "相线和中性点之间，是相电压。",
+   "overlay": [],
+   "labels": [
+    "相电压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "线电压与相电压",
+   "scene": "做前一定分清",
+   "prompt_en": "Diagram: a student confusing two voltmeter positions, a question mark, then a check mark after a teacher icon explains. No text.",
+   "narration": "很多人会混，做实验前一定分清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "星形的接线",
+   "scene": "输出一经电流表接A1",
+   "prompt_en": "Diagram: output one of the variable transformer through an ammeter to the start of phase A, outputs two and three to phases B and C. No text.",
+   "narration": "输出一经电流表接A1，二接B1，三接C1。",
+   "overlay": [
+    "星形的接线"
+   ],
+   "labels": [
+    "L1",
+    "L2",
+    "L3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "星形的接线",
+   "scene": "电压表一测线压一测相压",
+   "prompt_en": "Diagram: one voltmeter between two lines and another between a line and the star point. No text.",
+   "narration": "一只电压表测线电压，一只测相电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "星形：线流等于相流",
+   "scene": "星形线电流就是相电流",
+   "prompt_en": "Diagram: one current arrow passing from the line straight into the phase coil, the same value. No text.",
+   "narration": "星形里，线电流就是相电流。",
+   "overlay": [
+    "星形：线流等于相流"
+   ],
+   "labels": [
+    "I线 = I相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "星形：线流等于相流",
+   "scene": "一只电流表就够",
+   "prompt_en": "Diagram: a single ammeter in one line measuring both line and phase current. No text.",
+   "narration": "所以一只电流表，就能同时测出两者。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "星形：线流等于相流",
+   "scene": "线电压是相电压的√3倍",
+   "prompt_en": "Diagram: a phasor triangle with two phase voltages and the line voltage, a root three ratio. No text.",
+   "narration": "线电压是相电压的根号三倍。",
+   "overlay": [],
+   "labels": [
+    "U线 = √3 U相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回零接线，缓升读数",
+   "scene": "开关断开、调压器最小时接线",
+   "prompt_en": "Diagram: a triple pole switch open and the knob at zero while hands wire the bench. No text.",
+   "narration": "接线时开关断开，调压器在零位。",
+   "overlay": [
+    "回零接线，缓升读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回零接线，缓升读数",
+   "scene": "查过线再合闸，盯着电压表升",
+   "prompt_en": "Diagram: a teacher check icon, the switch closed, then the knob turning slowly while the line voltmeter rises. No text.",
+   "narration": "老师查过再合闸，盯着线电压表慢升。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回零接线，缓升读数",
+   "scene": "按量程读刻度并记录",
+   "prompt_en": "Diagram: an upper and lower meter scale with the matching range highlighted, values written in a table. No text.",
+   "narration": "按所接量程读刻度，记下三个读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回零接线，缓升读数",
+   "scene": "相电压乘√3比线电压",
+   "prompt_en": "Diagram: the phase voltage reading multiplied by root three compared with the line voltage reading, nearly equal. No text.",
+   "narration": "相电压乘根号三，和线电压比一比。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "回零接线，缓升读数",
+   "scene": "读完先回零，再断闸",
+   "prompt_en": "Diagram: the knob returned to zero first, then the switch opened, numbered order. No text.",
+   "narration": "读完先回零，再断开开关。",
+   "overlay": [],
+   "labels": [
+    "①回零",
+    "②断闸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "端子拧紧，明暗不一停",
+   "scene": "【实拍】断电后把灯座接线端子拧紧",
+   "prompt_en": "Close-up of a hand tightening lamp holder terminal screws with an insulated screwdriver on a powered off bench.",
+   "narration": "断电时把接线端子拧紧。",
+   "overlay": [
+    "端子拧紧，明暗不一停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "端子拧紧，明暗不一停",
+   "scene": "中性点一定接牢",
+   "prompt_en": "Diagram: the star point joint firmly connected and checked, a loose star point crossed out. No text.",
+   "narration": "星形的中性点，一定要接牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "端子拧紧，明暗不一停",
+   "scene": "三灯明暗不一，回零断电",
+   "prompt_en": "Diagram: three lamps with uneven brightness, one too bright, a hand returning the knob to zero and opening the switch. No text.",
+   "narration": "三灯明暗不一，马上回零断电查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三角形：首尾相接",
+   "scene": "一相尾接下一相头",
+   "prompt_en": "Diagram: three coils connected end to start in sequence forming a closed triangle. No text.",
+   "narration": "三角形：一相的尾，接下一相的头。",
+   "overlay": [
+    "三角形：首尾相接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三角形：首尾相接",
+   "scene": "闭合回路，没有中性点",
+   "prompt_en": "Diagram: a closed delta loop with no common neutral point. No text.",
+   "narration": "首尾相接成闭环，没有中性点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三角形：首尾相接",
+   "scene": "【实拍】断电时把灯座首尾相接",
+   "prompt_en": "Close-up of hands linking the end of one lamp holder to the start of the next with plug leads on a powered off bench, forming a loop.",
+   "narration": "调压器三路输出接三个首端。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三角形：线压等于相压",
+   "scene": "三角形线电压就是相电压",
+   "prompt_en": "Diagram: a voltmeter across one delta phase showing the same value as between two lines. No text.",
+   "narration": "三角形里，线电压就是相电压。",
+   "overlay": [
+    "三角形：线压等于相压"
+   ],
+   "labels": [
+    "U线 = U相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三角形：线压等于相压",
+   "scene": "一表测线流，一表测相流",
+   "prompt_en": "Diagram: one ammeter in a line conductor and another ammeter inside one phase of the delta. No text.",
+   "narration": "两只电流表，分别测线电流和相电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三角形：线压等于相压",
+   "scene": "线电流是相电流√3倍",
+   "prompt_en": "Diagram: a phasor diagram with two phase currents combining into a line current, a root three ratio. No text.",
+   "narration": "线电流是相电流的根号三倍。",
+   "overlay": [],
+   "labels": [
+    "I线 = √3 I相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "改接前断电回零验电",
+   "scene": "改接前调压器回零、断三极开关",
+   "prompt_en": "Diagram: the knob at zero and the triple pole switch opened before any rewiring. No text.",
+   "narration": "改接前：调压器回零，断开三极开关。",
+   "overlay": [
+    "改接前断电回零验电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "改接前断电回零验电",
+   "scene": "【实拍】三极开关断开并挂禁止合闸牌",
+   "prompt_en": "Close-up of a hand hanging a blank do not switch on tag on an opened triple pole switch handle.",
+   "narration": "开关处挂牌，防止别人误合闸。",
+   "overlay": [],
+   "labels": [
+    "见第144课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "改接前断电回零验电",
+   "scene": "用合格验电器确认无电",
+   "prompt_en": "Diagram: a tested voltage detector confirming no voltage on all three lines, a check mark. No text.",
+   "narration": "用合格的验电器，确认确实无电。",
+   "overlay": [],
+   "labels": [
+    "见第105课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "改接前断电回零验电",
+   "scene": "改完请老师查",
+   "prompt_en": "The safety administrator checks the delta wiring on the powered off bench before allowing power on.",
+   "narration": "改完请老师检查，同意后再合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "接法与负载额定相配",
+   "scene": "三角形每盏灯承受线电压",
+   "prompt_en": "Diagram: a lamp in a delta connection directly across two line conductors, a voltage arrow. No text.",
+   "narration": "三角形时，每盏灯直接承受线电压。",
+   "overlay": [
+    "接法与负载额定相配"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "接法与负载额定相配",
+   "scene": "不降压灯会烧坏炸裂",
+   "prompt_en": "Diagram: a lamp receiving too high a voltage, a burst bulb icon crossed out. No text.",
+   "narration": "改三角形不降压，灯泡会烧坏甚至炸裂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "接法与负载额定相配",
+   "scene": "只升到较低电压",
+   "prompt_en": "Diagram: the knob turning only partway, the line voltage bar stopping at the lamp rated value. No text.",
+   "narration": "所以只把线电压升到灯的额定值以内。",
+   "overlay": [],
+   "labels": [
+    "≤灯额定电压"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "接法与负载额定相配",
+   "scene": "先算好电压，请老师确认",
+   "prompt_en": "Diagram: a calculation sheet with a lamp rating icon, a teacher thumbs up icon. No text.",
+   "narration": "通电前先算好电压，请老师确认。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "三角形读数与灯亮",
+   "scene": "读线流相流，读数不同",
+   "prompt_en": "Diagram: two ammeters with different readings, the line current larger. No text.",
+   "narration": "线电流和相电流，读数不一样。",
+   "overlay": [
+    "三角形读数与灯亮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "三角形读数与灯亮",
+   "scene": "三角形灯更亮",
+   "prompt_en": "Diagram: dim lamps in star at a low voltage beside brighter lamps in delta. No text.",
+   "narration": "电压不高，三角形的灯就明显更亮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "三角形读数与灯亮",
+   "scene": "读完回零断闸，填表",
+   "prompt_en": "Diagram: the knob back at zero, the switch opened and a data table filled. No text.",
+   "narration": "读完回零断闸，把数据填进表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "实验结论：√3关系",
+   "scene": "星形：电流相等，电压√3倍",
+   "prompt_en": "Diagram: a star icon with an equal current sign and a root three voltage sign. No text.",
+   "narration": "星形：电流相等，线电压是相电压√3倍。",
+   "overlay": [
+    "实验结论：√3关系"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "实验结论：√3关系",
+   "scene": "三角形：电压相等，电流√3倍",
+   "prompt_en": "Diagram: a delta icon with an equal voltage sign and a root three current sign. No text.",
+   "narration": "三角形：电压相等，线电流是相电流√3倍。",
+   "overlay": [],
+   "labels": [
+    "≈1.732"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "星形三角形各用在哪",
+   "scene": "常见说法：星形高电压小电流",
+   "prompt_en": "Diagram: a star icon beside a high voltage low current icon. No text.",
+   "narration": "常见说法：星形多用于高电压小电流。",
+   "overlay": [
+    "星形三角形各用在哪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "星形三角形各用在哪",
+   "scene": "三角形大电流低电压",
+   "prompt_en": "Diagram: a delta icon beside a low voltage high current icon. No text.",
+   "narration": "三角形，多用于大电流低电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "星形三角形各用在哪",
+   "scene": "按负载额定电压选接法",
+   "prompt_en": "Diagram: a motor nameplate icon pointing to the matching star or delta connection. No text.",
+   "narration": "实际按负载额定电压，选星形或三角形。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三相三线制与四线制",
+   "scene": "三角形：三相三线制",
+   "prompt_en": "Diagram: a delta connection with three line conductors only. No text.",
+   "narration": "三角形是三相三线制。",
+   "overlay": [
+    "三相三线制与四线制"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三相三线制与四线制",
+   "scene": "星形引出中性线：三相四线制",
+   "prompt_en": "Diagram: a star connection with three line conductors and a neutral conductor from the star point. No text.",
+   "narration": "星形引出中性线，就是三相四线制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性线也可能带电",
+   "scene": "负载不平衡，中性线有电流",
+   "prompt_en": "Diagram: three unequal lamps in star, a current arrow flowing in the neutral conductor. No text.",
+   "narration": "三相负载不平衡，中性线有电流。",
+   "overlay": [
+    "中性线也可能带电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性线也可能带电",
+   "scene": "中性线不能徒手碰",
+   "prompt_en": "Diagram: a hand touching the neutral conductor crossed out, an electric shock warning sign. No text.",
+   "narration": "中性线不是安全线，不能徒手碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "中性线也可能带电",
+   "scene": "拆中性线先断电源",
+   "prompt_en": "Diagram: the supply switched off before the neutral conductor is disconnected. No text.",
+   "narration": "拆中性线，也要先断开电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "异步电动机怎样转",
+   "scene": "三相电进定子产生旋转磁场",
+   "prompt_en": "Diagram: a motor stator with three windings fed by three phases, a rotating magnetic field arrow. No text.",
+   "narration": "三相电通进定子，产生旋转磁场。",
+   "overlay": [
+    "异步电动机怎样转"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "异步电动机怎样转",
+   "scene": "磁场切割转子，感应电流",
+   "prompt_en": "Diagram: field lines sweeping across rotor bars, small induced current arrows in the bars. No text.",
+   "narration": "磁场切割转子，感应出电动势和电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "异步电动机怎样转",
+   "scene": "转子转起来，电能变机械能",
+   "prompt_en": "Diagram: the rotor turning and driving a shaft, an energy arrow from electrical to mechanical. No text.",
+   "narration": "转子转起来，电能变成机械能。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "异步电动机怎样转",
+   "scene": "原理是电磁感应",
+   "prompt_en": "Diagram: a transformer icon with a rotating arrow beside a motor icon. No text.",
+   "narration": "原理是电磁感应，像一台旋转的变压器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "旋转磁场",
+   "scene": "旋转磁场",
+   "prompt_en": "Diagram: three phase sine waves feeding a stator, the combined field vector rotating smoothly. No text.",
+   "narration": "三相电进定子，就有旋转磁场。",
+   "overlay": [
+    "旋转磁场"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "旋转磁场",
+   "scene": "合成磁通约1.5倍",
+   "prompt_en": "Diagram: the combined flux vector length about one and a half times one phase maximum. No text.",
+   "narration": "合成磁通约为每相最大值的1.5倍。",
+   "overlay": [],
+   "labels": [
+    "Φ合 = 1.5Φm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "旋转磁场",
+   "scene": "转子电动势的来源",
+   "prompt_en": "Diagram: the rotating field inducing voltage in the rotor, an arrow from field to rotor. No text.",
+   "narration": "它正是转子电动势的来源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "同步转速",
+   "scene": "同步转速是磁场转速",
+   "prompt_en": "Diagram: a rotating field arrow with a speed dial, the rotor slightly behind it. No text.",
+   "narration": "同步转速，是旋转磁场的转速。",
+   "overlay": [
+    "同步转速"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "同步转速",
+   "scene": "n等于60f除以极对数",
+   "prompt_en": "Diagram: a formula icon with frequency and pole pairs, a two pole and a four pole motor beside it. No text.",
+   "narration": "等于六十乘频率，除以极对数。",
+   "overlay": [],
+   "labels": [
+    "n₁ = 60f/p",
+    "= 120f/极数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "同步转速",
+   "scene": "50赫兹两极3000转",
+   "prompt_en": "Diagram: a two pole field at three thousand revolutions per minute and a four pole field at fifteen hundred. No text.",
+   "narration": "50赫兹：两极3000转，四极1500转。",
+   "overlay": [],
+   "labels": [
+    "r/min"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "同步转速",
+   "scene": "不是转子实际转速",
+   "prompt_en": "Diagram: the rotor speed dial slightly lower than the field speed dial. No text.",
+   "narration": "它不是转子的实际转速。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "转差率与转子频率",
+   "scene": "转差率公式",
+   "prompt_en": "Diagram: the difference between field speed and rotor speed divided by field speed, a percent icon. No text.",
+   "narration": "转差率：同步转速减转子转速，除同步。",
+   "overlay": [
+    "转差率与转子频率"
+   ],
+   "labels": [
+    "s = (n₁−n)/n₁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "转差率与转子频率",
+   "scene": "常用百分数",
+   "prompt_en": "Diagram: a small slip value shown as a percent on a gauge. No text.",
+   "narration": "通常用百分数表示。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "转差率与转子频率",
+   "scene": "转子频率等于s乘f",
+   "prompt_en": "Diagram: rotor frequency equal to slip times stator frequency, a small wave inside the rotor. No text.",
+   "narration": "转子频率，等于转差率乘定子频率。",
+   "overlay": [],
+   "labels": [
+    "f₂ = s·f₁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "同步发电机怎样发电",
+   "scene": "转子通直流励磁",
+   "prompt_en": "Diagram: a generator rotor winding fed with direct current through slip rings, a magnetic field around it. No text.",
+   "narration": "同步发电机：转子绕组通直流励磁。",
+   "overlay": [
+    "同步发电机怎样发电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "同步发电机怎样发电",
+   "scene": "原动机带转子转",
+   "prompt_en": "Diagram: a prime mover turning the rotor, the field rotating with it inside the stator. No text.",
+   "narration": "原动机带着转子转，磁场跟着转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "同步发电机怎样发电",
+   "scene": "定子感应三相电动势",
+   "prompt_en": "Diagram: three stator windings with three phase voltage waves coming out. No text.",
+   "narration": "定子里，就感应出三相电动势。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "同步发电机怎样发电",
+   "scene": "电动势方程",
+   "prompt_en": "Diagram: an equation icon with frequency, flux, turns and two winding factors. No text.",
+   "narration": "电动势与频率、磁通、匝数有关。",
+   "overlay": [],
+   "labels": [
+    "E=4.44fNΦ",
+    "×Kp×Kd"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "换向器：机械整流",
+   "scene": "换向器：机械整流器",
+   "prompt_en": "Diagram: a direct current machine commutator with segments and brushes, an alternating wave turning into a direct line. No text.",
+   "narration": "换向器，又叫机械整流器。",
+   "overlay": [
+    "换向器：机械整流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "换向器：机械整流",
+   "scene": "绕组交流变直流输出",
+   "prompt_en": "Diagram: alternating current in the armature coils converted to direct current at the brushes. No text.",
+   "narration": "把绕组里的交流，变成直流输出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "旋转电机防卷入",
+   "scene": "转轴、联轴器装防护罩",
+   "prompt_en": "Diagram: a motor shaft coupling covered by a guard, an uncovered spinning shaft crossed out. No text.",
+   "narration": "转轴联轴器要有防护罩，不拆不跨。",
+   "overlay": [
+    "旋转电机防卷入"
+   ],
+   "labels": [
+    "见第126课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "旋转电机防卷入",
+   "scene": "束发扎袖，不戴手套碰转动件",
+   "prompt_en": "Diagram: a person with tied hair and fitted sleeves, loose sleeves, a scarf and gloves near a spinning shaft crossed out. No text.",
+   "narration": "束发扎袖，摘围巾，不戴手套碰转件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "旋转电机防卷入",
+   "scene": "绝不用手刹停转轴",
+   "prompt_en": "Diagram: a hand grabbing a spinning shaft to stop it crossed out, an emergency stop button checked. No text.",
+   "narration": "绝不用手去刹停转轴，按急停。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电惯转，转动即带电",
+   "scene": "断电后惯性还在转",
+   "prompt_en": "Diagram: a motor switched off with its shaft still coasting, a timer icon until it stops. No text.",
+   "narration": "断电后电机还会惯性转，停稳再靠近。",
+   "overlay": [
+    "断电惯转，转动即带电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电惯转，转动即带电",
+   "scene": "发电机一转，端子带电",
+   "prompt_en": "Diagram: a generator shaft turning with its output terminals marked by an electric shock warning sign. No text.",
+   "narration": "发电机一转，端子就带电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "断电惯转，转动即带电",
+   "scene": "异响过热缺相，立即停机",
+   "prompt_en": "Diagram: a motor with a noise icon, heat waves and one missing phase, a hand pressing stop. No text.",
+   "narration": "异响、过热、缺相，立即停机报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "回零断电接线，查后升压",
+   "prompt_en": "Diagram: a knob at zero, an opened switch, a teacher check and a slow rising voltage bar. No text.",
+   "narration": "回零断电接线，老师查后缓慢升压。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "星形电压√3倍，三角形电流√3倍",
+   "prompt_en": "Diagram: a star icon with a root three voltage sign and a delta icon with a root three current sign. No text.",
+   "narration": "星形线压√3倍，三角形线流√3倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "接法配额定，旋转件防卷入",
+   "prompt_en": "Diagram: a lamp rating icon matched to a delta connection and a guarded motor shaft. No text.",
+   "narration": "接法配额定电压；旋转电机防卷入。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣抱着一只功率表",
+   "prompt_en": "The panda mascot holds a large wattmeter model and an energy saving lamp, waving goodbye.",
+   "narration": "下一课：单相与三相功率测量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
