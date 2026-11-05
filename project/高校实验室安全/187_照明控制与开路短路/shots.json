@@ -1,0 +1,1076 @@
+{
+ "id": "187_照明控制与开路短路",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "照明控制与开路短路",
+ "seconds": 400,
+ "source_doc": "course/高校实验室安全/187_照明控制与开路短路.md",
+ "author_source": "project/高校实验室安全/187_照明控制与开路短路/src.py",
+ "points": {
+  "K1": "本课实验目标",
+  "K2": "两地控制用在哪",
+  "K3": "双控电路的组成",
+  "K4": "相线经熔断器进开关",
+  "K5": "螺口灯座：相线接中心",
+  "K6": "按图接线",
+  "K7": "先交真值表再做",
+  "K8": "双控真值表",
+  "K9": "三地控制加中间开关",
+  "K10": "中间开关：直通与交叉",
+  "K11": "三地控制的接线",
+  "K12": "三地控制真值表",
+  "K13": "通电只碰开关手柄",
+  "K14": "灯泡烫，换灯先断电",
+  "K15": "家用电器为何并联",
+  "K16": "开路与短路",
+  "K17": "开短路实验器材",
+  "K18": "主回路与短接支路",
+  "K19": "S1先断开，读对量程",
+  "K20": "开路：有电压无电流",
+  "K21": "短路：电流大电压零",
+  "K22": "真正的短路有多危险",
+  "S1": "防意外短路，跳闸查因",
+  "K23": "答辩：灯的亮与暗"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在楼梯口，手边一个开关，楼上一盏灯",
+   "prompt_en": "The panda mascot stands at the bottom of a staircase beside a wall switch, one lamp hanging above the stairs, looking at the camera.",
+   "narration": "第15章第二十五课：照明控制与开路短路。",
+   "overlay": [
+    "照明控制与开路短路"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿起一根导线，想把电源两端碰一下看看短路",
+   "prompt_en": "The young male student holds a loose wire near two supply terminals on a bench with the indicator lamp lit, a red warning icon.",
+   "narration": "阿杰：短路什么样？碰一下看看？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师按下断开，摇手",
+   "prompt_en": "The safety administrator switches the bench off and shakes his head, a crossed out wire across supply terminals icon.",
+   "narration": "王老师：电源绝不能直接短接！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着电路图：实验短接的只是一盏灯",
+   "prompt_en": "The female graduate student shows a blank circuit diagram with two lamps in series and a switch across one lamp.",
+   "narration": "小研：实验短接的只是一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验目标",
+   "scene": "两地、多地控灯，列真值表",
+   "prompt_en": "Diagram: a staircase and a long corridor with several switches controlling one lamp, a blank truth table grid. No text.",
+   "narration": "实验一：两地、三地控灯，列出真值表。",
+   "overlay": [
+    "本课实验目标"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验目标",
+   "scene": "开路与短路时电压电流的变化",
+   "prompt_en": "Diagram: a circuit with an open switch and a closed switch side by side, a voltmeter and an ammeter. No text.",
+   "narration": "实验二：观察开路、短路时电压电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验目标",
+   "scene": "接地电阻由老师用专用仪表测",
+   "prompt_en": "Diagram: an earthing rod and an earth resistance tester operated by a teacher icon, students watching. No text.",
+   "narration": "接地电阻，由老师用专用仪表演示。",
+   "overlay": [],
+   "labels": [
+    "见第099课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两地控制用在哪",
+   "scene": "楼梯上下都能开关同一盏灯",
+   "prompt_en": "Diagram: a staircase with a switch at the bottom and a switch at the top, both controlling the same lamp. No text.",
+   "narration": "两地控制：楼梯上下都能开关一盏灯。",
+   "overlay": [
+    "两地控制用在哪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两地控制用在哪",
+   "scene": "卧室门口和床头",
+   "prompt_en": "Diagram: a bedroom with one switch by the door and one by the bed, controlling the ceiling lamp. No text.",
+   "narration": "卧室门口和床头，也常这样装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控电路的组成",
+   "scene": "电源、一盏灯、两只双控开关",
+   "prompt_en": "Diagram: a single phase supply, one lamp and two single pole double throw switches. No text.",
+   "narration": "单相电源、一盏灯、两只双控开关。",
+   "overlay": [
+    "双控电路的组成"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控电路的组成",
+   "scene": "两根联络线",
+   "prompt_en": "Diagram: two traveler wires running between the two contacts of switch one and switch two. No text.",
+   "narration": "两只开关之间，用两根联络线相连。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控电路的组成",
+   "scene": "【实拍】双控开关的公共端和两个触点",
+   "prompt_en": "Close-up of a finger pointing at the common terminal and the two contact terminals of a two way switch on a powered off wiring board.",
+   "narration": "双控开关是单极双掷，公共端加两触点。",
+   "overlay": [],
+   "labels": [
+    "公共端",
+    "触点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "双控电路的组成",
+   "scene": "额定值相配",
+   "prompt_en": "Diagram: a lamp, switches and wires with matching rating icons, a check mark. No text.",
+   "narration": "灯、开关、导线的额定值要相配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相线经熔断器进开关",
+   "scene": "相线经熔断器到开关一公共端",
+   "prompt_en": "Diagram: the line conductor passing through a fuse into the common terminal of switch one. No text.",
+   "narration": "相线先经熔断器，接开关一公共端。",
+   "overlay": [
+    "相线经熔断器进开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相线经熔断器进开关",
+   "scene": "开关二公共端接灯，灯接中性线",
+   "prompt_en": "Diagram: the common terminal of switch two wired to the lamp, the lamp wired to the neutral conductor. No text.",
+   "narration": "开关二公共端接灯，灯再接中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "相线经熔断器进开关",
+   "scene": "开关接零线，关了灯也带电",
+   "prompt_en": "Diagram: a switch placed on the neutral, the lamp holder still glowing as live when off, crossed out. No text.",
+   "narration": "开关接零线，关了灯，灯座照样带电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "螺口灯座：相线接中心",
+   "scene": "【实拍】螺口灯座的中心触点和螺纹",
+   "prompt_en": "Close-up of a finger pointing at the center contact and then the screw thread of an empty screw lamp holder on a powered off board.",
+   "narration": "螺口灯座：相线经开关接中心触点。",
+   "overlay": [
+    "螺口灯座：相线接中心"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "螺口灯座：相线接中心",
+   "scene": "螺纹接零线",
+   "prompt_en": "Diagram: the screw thread wired to the neutral conductor, a hand touching the thread while changing a bulb with no shock. No text.",
+   "narration": "螺纹接零线，换灯碰到螺纹也不带电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "螺口灯座：相线接中心",
+   "scene": "接反了螺纹带电",
+   "prompt_en": "Diagram: the line conductor on the thread with an electric shock warning sign, crossed out. No text.",
+   "narration": "接反了，螺纹带电，很危险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按图接线",
+   "scene": "【实拍】断电时用带插头导线按图接线",
+   "prompt_en": "Close-up of hands plugging insulated banana plug leads into a powered off wiring board following a blank circuit diagram.",
+   "narration": "断电后备齐器材，按图一根根接。",
+   "overlay": [
+    "按图接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "按图接线",
+   "scene": "先连两开关之间，再接灯",
+   "prompt_en": "Diagram: numbered steps, first the traveler wires between the switches, then the lamp and the neutral. No text.",
+   "narration": "先连两开关之间，再接灯和中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先交真值表再做",
+   "scene": "做前先交真值表",
+   "prompt_en": "Diagram: a student handing a blank truth table sheet to a teacher icon before the bench. No text.",
+   "narration": "做实验前，先画好真值表交老师。",
+   "overlay": [
+    "先交真值表再做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先交真值表再做",
+   "scene": "老师查过才通电",
+   "prompt_en": "The safety administrator checks the wiring board and the truth table, then nods to allow power on.",
+   "narration": "老师查过接线、同意了，才开始做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "双控真值表",
+   "scene": "扳开关一灯亮，扳开关二灯灭",
+   "prompt_en": "Diagram: switch one flipped and the lamp lights, then switch two flipped and the lamp goes dark. No text.",
+   "narration": "扳开关一，灯亮；再扳开关二，灯灭。",
+   "overlay": [
+    "双控真值表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "双控真值表",
+   "scene": "位置对应灯亮，错开灯灭",
+   "prompt_en": "Diagram: a four row truth table drawn with switch position icons and lamp on or off icons. No text.",
+   "narration": "两开关位置对应灯亮，错开灯灭。",
+   "overlay": [],
+   "labels": [
+    "亮 = 1",
+    "灭 = 0"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "双控真值表",
+   "scene": "拨任一个，灯就翻转",
+   "prompt_en": "Diagram: either switch toggled and the lamp state flips each time, a circular arrow. No text.",
+   "narration": "规律：拨动任何一个，灯就翻转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三地控制加中间开关",
+   "scene": "长走廊、大库房多处控灯",
+   "prompt_en": "Diagram: a long corridor and a large storeroom with three switches along the wall controlling one lamp. No text.",
+   "narration": "长走廊、大库房，多处都要能开关灯。",
+   "overlay": [
+    "三地控制加中间开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "三地控制加中间开关",
+   "scene": "两端双控，中间加中间开关",
+   "prompt_en": "Diagram: two way switches at both ends and an intermediate switch in the middle. No text.",
+   "narration": "两端还是双控开关，中间加中间开关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "直通状态",
+   "prompt_en": "Diagram: an intermediate switch with its two inputs connected straight across to its two outputs. No text.",
+   "narration": "中间开关第一种状态：直通。",
+   "overlay": [
+    "中间开关：直通与交叉"
+   ],
+   "labels": [
+    "直通"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "交叉状态",
+   "prompt_en": "Diagram: the intermediate switch with its two inputs connected crosswise to its two outputs. No text.",
+   "narration": "第二种状态：交叉，一按就切换。",
+   "overlay": [],
+   "labels": [
+    "交叉"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "中间开关：直通与交叉",
+   "scene": "同一时刻只有一种",
+   "prompt_en": "Diagram: a straight icon and a cross icon with an either or arrow between them. No text.",
+   "narration": "同一时刻，只能是其中一种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三地控制的接线",
+   "scene": "开关一两根线接中间开关一侧",
+   "prompt_en": "Diagram: two traveler wires from switch one to one side of the intermediate switch, the other side to switch two. No text.",
+   "narration": "开关一的两根线，接到中间开关一侧。",
+   "overlay": [
+    "三地控制的接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三地控制的接线",
+   "scene": "另一侧接开关二，再接灯",
+   "prompt_en": "Diagram: the other side of the intermediate switch to switch two, then the lamp and the neutral. No text.",
+   "narration": "另一侧接开关二，再接灯和中性线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "三地控制的接线",
+   "scene": "直通测一遍，交叉再测",
+   "prompt_en": "Diagram: the intermediate switch set straight while the two end switches are toggled, then set crossed and repeated. No text.",
+   "narration": "先直通扳两开关，再换交叉重复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三地控制真值表",
+   "scene": "三地八种状态",
+   "prompt_en": "Diagram: an eight row truth table with icons for three switches and a lamp. No text.",
+   "narration": "三地控制，一共八种状态。",
+   "overlay": [
+    "三地控制真值表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三地控制真值表",
+   "scene": "直通同双控，交叉正相反",
+   "prompt_en": "Diagram: the top four rows on off off on and the bottom four rows off on on off with lamp icons. No text.",
+   "narration": "直通亮灭灭亮，交叉灭亮亮灭。",
+   "overlay": [],
+   "labels": [
+    "直通 1001",
+    "交叉 0110"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "三地控制真值表",
+   "scene": "拨任一个都翻转",
+   "prompt_en": "Diagram: any of three switches toggled flips the lamp, a circular arrow. No text.",
+   "narration": "拨动任何一个开关，灯就翻转。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "通电只碰开关手柄",
+   "scene": "通电后只碰开关手柄",
+   "prompt_en": "Diagram: a finger pressing only the plastic switch lever on a live wiring board, a check mark. No text.",
+   "narration": "通电后，只碰开关手柄。",
+   "overlay": [
+    "通电只碰开关手柄"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "通电只碰开关手柄",
+   "scene": "插孔、插头金属、灯座不碰",
+   "prompt_en": "Diagram: open sockets, metal plug pins and a lamp holder with an electric shock warning sign, a hand crossed out. No text.",
+   "narration": "插孔、插头金属、灯座，一概不碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "通电只碰开关手柄",
+   "scene": "摘下手表戒指",
+   "prompt_en": "Diagram: a metal watch and a ring removed and placed in a tray before the experiment. No text.",
+   "narration": "摘下手表、戒指等金属饰品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "灯泡烫，换灯先断电",
+   "scene": "白炽灯很烫",
+   "prompt_en": "Diagram: a glowing incandescent bulb with heat waves and a hot surface warning sign. No text.",
+   "narration": "白炽灯亮一会儿，就很烫。",
+   "overlay": [
+    "灯泡烫，换灯先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "灯泡烫，换灯先断电",
+   "scene": "【实拍】断电冷却后换灯泡",
+   "prompt_en": "Close-up of a hand unscrewing a cool bulb from a lamp holder on a wiring board whose main switch is off.",
+   "narration": "换灯泡：先断电，等凉了再拧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "灯泡烫，换灯先断电",
+   "scene": "灯泡旁不放纸",
+   "prompt_en": "Diagram: paper sheets near a hot bulb crossed out, a clear area around the lamp checked. No text.",
+   "narration": "灯泡旁边不放纸张杂物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "家用电器为何并联",
+   "scene": "家里电器都并联",
+   "prompt_en": "Diagram: household appliances connected in parallel across the supply, each with the same voltage. No text.",
+   "narration": "家里的电器都是并联，电压一样。",
+   "overlay": [
+    "家用电器为何并联"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "家用电器为何并联",
+   "scene": "关一个，别的照常",
+   "prompt_en": "Diagram: one appliance switched off while the others keep working. No text.",
+   "narration": "关掉一个电器，别的照常用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "家用电器为何并联",
+   "scene": "串联分压，一断全断",
+   "prompt_en": "Diagram: appliances in series sharing the voltage, one off making all off, crossed out. No text.",
+   "narration": "要是串联，电压被分掉，一断全断。",
+   "overlay": [],
+   "labels": [
+    "见第101课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "开路与短路",
+   "scene": "开路：电路断开，电流为零",
+   "prompt_en": "Diagram: a circuit with a gap in one wire, no current arrow flowing. No text.",
+   "narration": "开路：电路某处断开，电流为零。",
+   "overlay": [
+    "开路与短路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "开路与短路",
+   "scene": "短路：两线直接相碰",
+   "prompt_en": "Diagram: two conductors touching directly with a bypass path around the load, a large current arrow. No text.",
+   "narration": "短路：两线直接相碰，电流非常大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "开路与短路",
+   "scene": "风雨天电线相碰会短路",
+   "prompt_en": "Diagram: overhead wires swinging in a storm and touching with a spark, a person keeping far away. No text.",
+   "narration": "风雨天电线相碰会短路，远离断线。",
+   "overlay": [],
+   "labels": [
+    "见第105课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "开路与短路",
+   "scene": "开路短路，特点相反",
+   "prompt_en": "Diagram: an open circuit icon and a short circuit icon with opposite arrows. No text.",
+   "narration": "开路和短路，特点正好相反。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开短路实验器材",
+   "scene": "交流电流表、电压表、两盏灯、一个开关",
+   "prompt_en": "Diagram: an alternating current ammeter, a voltmeter, two lamps and a switch laid out on a bench. No text.",
+   "narration": "器材：交流电流表、电压表、两灯一开关。",
+   "overlay": [
+    "开短路实验器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开短路实验器材",
+   "scene": "没有电压表用万用表",
+   "prompt_en": "Diagram: a multimeter on the alternating voltage range standing in for a voltmeter. No text.",
+   "narration": "没有电压表，可用万用表交流电压挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开短路实验器材",
+   "scene": "电源经双极开关和熔断器",
+   "prompt_en": "Diagram: a single phase supply passing through a double pole switch and a fuse to the experiment board. No text.",
+   "narration": "单相电源经双极开关和熔断器引出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "开短路实验器材",
+   "scene": "用带插头的导线",
+   "prompt_en": "Diagram: insulated plug leads checked, bare twisted wire ends crossed out. No text.",
+   "narration": "导线带合适插头，不用裸线头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "主回路与短接支路",
+   "scene": "两灯串联成主回路",
+   "prompt_en": "Diagram: the line conductor to lamp one, lamp one to lamp two, lamp two to the neutral, all in series. No text.",
+   "narration": "相线、灯一、灯二、零线，串成主回路。",
+   "overlay": [
+    "主回路与短接支路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "主回路与短接支路",
+   "scene": "电流表和开关跨接灯一",
+   "prompt_en": "Diagram: an ammeter in series with switch one connected across lamp one with a thicker wire. No text.",
+   "narration": "电流表和开关串联，跨接在灯一两端。",
+   "overlay": [],
+   "labels": [
+    "S1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "主回路与短接支路",
+   "scene": "电压表并在灯一两端",
+   "prompt_en": "Diagram: a voltmeter connected across lamp one with thin leads, both meters on suitable ranges. No text.",
+   "narration": "电压表并在灯一两端，量程选合适。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "主回路与短接支路",
+   "scene": "先串联，后并联",
+   "prompt_en": "Diagram: numbered steps, the series main loop wired first, then the parallel branches. No text.",
+   "narration": "接线顺序：先接串联，后接并联。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "S1先断开，读对量程",
+   "scene": "【实拍】通电前开关S1处于断开位置",
+   "prompt_en": "Close-up of a small switch on a powered off experiment board set clearly to the off position.",
+   "narration": "通电时，开关S1必须先断开。",
+   "overlay": [
+    "S1先断开，读对量程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "S1先断开，读对量程",
+   "scene": "先看量程再数格",
+   "prompt_en": "Diagram: a meter terminal range checked, then divisions counted on the matching scale. No text.",
+   "narration": "先看接哪个量程，再数小格算读数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "开路：有电压无电流",
+   "scene": "S1断开：电压表有读数",
+   "prompt_en": "Diagram: switch one open, the voltmeter needle deflected, the ammeter needle at zero, two lamps dim. No text.",
+   "narration": "S1断开是开路：电压表有较大读数。",
+   "overlay": [
+    "开路：有电压无电流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "开路：有电压无电流",
+   "scene": "电流表为零",
+   "prompt_en": "Diagram: the ammeter at zero beside the open gap of switch one. No text.",
+   "narration": "断开处有电压，支路电流为零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "短路：电流大电压零",
+   "scene": "闭合S1：灯一熄灭",
+   "prompt_en": "Diagram: switch one closed, lamp one dark, lamp two brighter, the ammeter now deflected. No text.",
+   "narration": "闭合S1，灯一被短接，熄灭了。",
+   "overlay": [
+    "短路：电流大电压零"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "短路：电流大电压零",
+   "scene": "电流表有读数，电压为零",
+   "prompt_en": "Diagram: the ammeter needle up and the voltmeter needle at zero across lamp one. No text.",
+   "narration": "电流表有读数，灯一两端电压为零。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "短路：电流大电压零",
+   "scene": "把结果填进表",
+   "prompt_en": "Diagram: a results table with switch state, voltage, current and lamp state columns filled with icons. No text.",
+   "narration": "开关状态、电压、电流、灯，填进表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "短路：电流大电压零",
+   "scene": "开路电压大电流零，短路电流大电压零",
+   "prompt_en": "Diagram: two summary icons, open with a voltage arrow and zero current, short with a current arrow and zero voltage. No text.",
+   "narration": "开路有压无流，短路有流无压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "真正的短路有多危险",
+   "scene": "灯二还在限流",
+   "prompt_en": "Diagram: lamp two glowing in series and limiting the current while lamp one is bypassed, a small current arrow. No text.",
+   "narration": "实验只短接灯一，灯二还在限流。",
+   "overlay": [
+    "真正的短路有多危险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "真正的短路有多危险",
+   "scene": "电源直接短路电流惊人",
+   "prompt_en": "Animation: a protected supply with a fuse, a wire across the supply terminals shown only in a diagram, a huge current arrow and the fuse breaking. No text.",
+   "narration": "电源直接短路，电流会大得惊人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "真正的短路有多危险",
+   "scene": "过热、电弧、起火",
+   "prompt_en": "Diagram: an overheated wire, an arc flash icon and a small fire icon, all crossed out. No text.",
+   "narration": "导线过热、电弧、起火，瞬间发生。",
+   "overlay": [],
+   "labels": [
+    "见第107课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "真正的短路有多危险",
+   "scene": "严禁短接电源",
+   "prompt_en": "Diagram: a wire bridging supply terminals with a big red cross, a protective fuse and breaker beside it. No text.",
+   "narration": "严禁拿导线直接短接电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防意外短路，跳闸查因",
+   "scene": "金属物远离端子",
+   "prompt_en": "Diagram: a screwdriver, keys and wire offcuts falling toward live terminals crossed out, a clear bench checked. No text.",
+   "narration": "工具、钥匙、线头，别掉到端子上。",
+   "overlay": [
+    "防意外短路，跳闸查因"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防意外短路，跳闸查因",
+   "scene": "熔断跳闸，先断电查原因",
+   "prompt_en": "Diagram: a blown fuse and a tripped breaker, a hand switching off and a teacher icon checking. No text.",
+   "narration": "熔断、跳闸，先断电，请老师查原因。",
+   "overlay": [],
+   "labels": [
+    "见第100课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "防意外短路，跳闸查因",
+   "scene": "不强合，不换大熔丝",
+   "prompt_en": "Diagram: a hand forcing a breaker back on crossed out and a larger fuse swapped in crossed out. No text.",
+   "narration": "不强行合闸，不换大熔丝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "答辩：灯的亮与暗",
+   "scene": "开路两灯分压都暗",
+   "prompt_en": "Diagram: two lamps in series sharing the voltage, both glowing dimly. No text.",
+   "narration": "答辩：开路时两灯串联分压，都较暗。",
+   "overlay": [
+    "答辩：灯的亮与暗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "答辩：灯的亮与暗",
+   "scene": "短路灯二得全压变亮",
+   "prompt_en": "Diagram: lamp one dark and lamp two glowing at full brightness. No text.",
+   "narration": "短路时灯一熄灭，灯二得全压变亮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "答辩：灯的亮与暗",
+   "scene": "比较动铁式与磁电式",
+   "prompt_en": "Diagram: a moving iron meter and a moving coil meter side by side with wave and battery icons. No text.",
+   "narration": "还要会比较动铁式和磁电式仪表。",
+   "overlay": [],
+   "labels": [
+    "见第185课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双控单极双掷，三地加中间开关",
+   "prompt_en": "Diagram: two two way switches and an intermediate switch controlling one lamp, a truth table icon. No text.",
+   "narration": "双控用单极双掷，三地加中间开关。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "开关熔断器接相线，螺口中心接相线",
+   "prompt_en": "Diagram: a switch and a fuse on the line conductor and the center contact of a screw holder highlighted. No text.",
+   "narration": "开关熔断器接相线，灯座中心接相线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "开路无流，短路大流，绝不短接电源",
+   "prompt_en": "Diagram: an open circuit icon, a short circuit icon and a crossed out wire across supply terminals. No text.",
+   "narration": "开路无流短路大流，绝不短接电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着星形和三角形的三相接线图",
+   "prompt_en": "The panda mascot points at a large diagram of a star connection and a delta connection, waving goodbye.",
+   "narration": "下一课：三相连接与三相电机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
