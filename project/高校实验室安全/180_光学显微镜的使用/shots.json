@@ -1,0 +1,994 @@
+{
+ "id": "180_光学显微镜的使用",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "光学显微镜的使用",
+ "seconds": 360,
+ "source_doc": "course/高校实验室安全/180_光学显微镜的使用.md",
+ "author_source": "project/高校实验室安全/180_光学显微镜的使用/src.py",
+ "points": {
+  "K1": "显微术与显微镜",
+  "K2": "物镜与目镜",
+  "K3": "光源、聚光器与光阑",
+  "K4": "载物台与调焦旋钮",
+  "K5": "成像原理与总倍数",
+  "S1": "搬运与放置",
+  "K6": "灯泡会烫，换灯断电",
+  "S2": "规范调焦步骤",
+  "K7": "玻片易碎，先低后高",
+  "K8": "镜油和清洁溶剂",
+  "S3": "涂片与固定",
+  "K9": "显微镜的类型",
+  "K10": "荧光激光别直视",
+  "K11": "显微镜的应用",
+  "K12": "光学显微镜的局限",
+  "S4": "用后整理与保养"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台显微镜旁，手里拿着一张玻片",
+   "prompt_en": "The panda mascot stands beside a light microscope on a lab bench, holding a glass slide by its edges, looking at the camera.",
+   "narration": "第15章第十八课：光学显微镜的使用。",
+   "overlay": [
+    "光学显微镜的使用"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰单手拎着显微镜镜臂走过来",
+   "prompt_en": "The young male student carries a microscope with one hand by the arm, swinging it while walking, a red warning icon.",
+   "narration": "阿杰单手拎着显微镜就走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他直接用高倍镜往下调，压碎了玻片",
+   "prompt_en": "Diagram: a high power objective lens pressing down onto a glass slide, a crack icon on the slide, crossed out. No text.",
+   "narration": "上来就用高倍，一拧压碎了玻片。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研：双手搬，先低倍，侧面看着调",
+   "prompt_en": "The female graduate student shows how to hold a microscope with one hand on the arm and one under the base.",
+   "narration": "小研：双手搬，先低倍，侧面看着调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "显微术与显微镜",
+   "scene": "肉眼看不见的东西，借显微镜研究",
+   "prompt_en": "Diagram: a tiny dot invisible to an eye icon, then seen as cells through a microscope icon. No text.",
+   "narration": "借显微镜研究看不见的小东西，叫显微术。",
+   "overlay": [
+    "显微术与显微镜"
+   ],
+   "labels": [
+    "显微术"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "显微术与显微镜",
+   "scene": "显微镜把东西放大",
+   "prompt_en": "Diagram: a small cell drawing growing much larger through a lens, hidden details appearing. No text.",
+   "narration": "显微镜把物体放大，细节都能看清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "显微术与显微镜",
+   "scene": "光学显微镜用可见光",
+   "prompt_en": "Diagram: a beam of visible light passing up through a specimen into a lens system. No text.",
+   "narration": "光学显微镜用可见光照亮标本再放大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "显微术与显微镜",
+   "scene": "生物学最常用：细胞、组织、小生物",
+   "prompt_en": "Diagram: three icons, a cell, a tissue section and a tiny organism, under a microscope. No text.",
+   "narration": "生物学里常用它看细胞、组织和小生物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "物镜与目镜",
+   "scene": "物镜：靠近标本，第一次放大",
+   "prompt_en": "Diagram: a microscope with the objective lenses highlighted near the slide, a first enlarged image icon. No text.",
+   "narration": "靠近标本的是物镜，最先放大成像。",
+   "overlay": [
+    "物镜与目镜"
+   ],
+   "labels": [
+    "物镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "物镜与目镜",
+   "scene": "四个倍数，100倍是油镜",
+   "prompt_en": "Diagram: a rotating nosepiece with four objectives of increasing length, the longest one marked with an oil drop icon. No text.",
+   "narration": "常见四个倍数，100倍的是油镜。",
+   "overlay": [],
+   "labels": [
+    "4×",
+    "10×",
+    "40×",
+    "100×油镜"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "物镜与目镜",
+   "scene": "倍数越高，镜头离玻片越近",
+   "prompt_en": "Diagram: a short low power objective far above a slide and a long high power objective very close to it, a small gap highlighted. No text.",
+   "narration": "倍数越高，物镜越长，离玻片越近。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "物镜与目镜",
+   "scene": "目镜：再放大一次，常是10倍",
+   "prompt_en": "Diagram: the eyepiece at the top highlighted, the image enlarged again, an eye looking in. No text.",
+   "narration": "眼睛贴近的是目镜，多是10倍。",
+   "overlay": [],
+   "labels": [
+    "目镜10×"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光源、聚光器与光阑",
+   "scene": "光源亮度可调",
+   "prompt_en": "Diagram: a lamp in the base with a brightness dial turning from dim to bright. No text.",
+   "narration": "光源亮度可调，调到看得舒服为止。",
+   "overlay": [
+    "光源、聚光器与光阑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光源、聚光器与光阑",
+   "scene": "钨丝灯、卤素灯、LED",
+   "prompt_en": "Diagram: three lamp icons, a tungsten bulb, a halogen bulb and an LED chip. No text.",
+   "narration": "光源有钨丝灯、卤素灯和LED。",
+   "overlay": [],
+   "labels": [
+    "钨丝灯",
+    "卤素灯",
+    "LED"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光源、聚光器与光阑",
+   "scene": "聚光器把光聚到标本上",
+   "prompt_en": "Diagram: a condenser under the stage focusing light evenly onto the slide. No text.",
+   "narration": "台下的聚光器，把光聚到标本上。",
+   "overlay": [],
+   "labels": [
+    "聚光器"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "光源、聚光器与光阑",
+   "scene": "光阑控制光量",
+   "prompt_en": "Diagram: an iris diaphragm opening and closing, more light and less light reaching the slide. No text.",
+   "narration": "光阑开合，控制照到标本的光量。",
+   "overlay": [],
+   "labels": [
+    "光阑"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "载物台与调焦旋钮",
+   "scene": "载物台放玻片，前后左右移",
+   "prompt_en": "Diagram: a slide held on the stage by a clip, arrows showing the stage moving forward, back, left and right. No text.",
+   "narration": "载物台放玻片，移动标本到物镜下。",
+   "overlay": [
+    "载物台与调焦旋钮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "载物台与调焦旋钮",
+   "scene": "大旋钮粗调，小旋钮细调",
+   "prompt_en": "Diagram: a big coarse focus knob and a small fine focus knob on the side of a microscope. No text.",
+   "narration": "大旋钮粗调，小旋钮细调。",
+   "overlay": [],
+   "labels": [
+    "粗调",
+    "细调"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "成像原理与总倍数",
+   "scene": "光穿过标本，发生折射",
+   "prompt_en": "Diagram: light rays bending as they pass through a specimen and a curved lens. No text.",
+   "narration": "原理是折射和放大，结构由此显现。",
+   "overlay": [
+    "成像原理与总倍数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "成像原理与总倍数",
+   "scene": "物镜成像，目镜再放大",
+   "prompt_en": "Diagram: an objective forming an enlarged image, the eyepiece enlarging it again for the eye. No text.",
+   "narration": "物镜成放大的像，目镜再放大给你看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "成像原理与总倍数",
+   "scene": "总倍数＝物镜×目镜",
+   "prompt_en": "Diagram: a multiplication of forty by ten equals four hundred, with lens icons. No text.",
+   "narration": "总倍数是两者相乘：40乘10是400倍。",
+   "overlay": [],
+   "labels": [
+    "40×10=400"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "成像原理与总倍数",
+   "scene": "油镜100倍配10倍目镜是1000倍",
+   "prompt_en": "Diagram: a multiplication of one hundred by ten equals one thousand, with an oil objective icon. No text.",
+   "narration": "油镜100乘目镜10，就是1000倍。",
+   "overlay": [],
+   "labels": [
+    "1000倍"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "搬运与放置",
+   "scene": "【实拍】一手握镜臂，一手托镜座",
+   "prompt_en": "Close-up of hands lifting a microscope from a cabinet, one hand gripping the arm and the other supporting the base, held upright close to the body.",
+   "narration": "一手握镜臂，一手托镜座，贴身端稳。",
+   "overlay": [
+    "搬运与放置"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "搬运与放置",
+   "scene": "放在平稳台面，离边缘远些",
+   "prompt_en": "Diagram: a microscope placed on a stable bench a hand width from the edge, the power cord tidy, a microscope near the edge crossed out. No text.",
+   "narration": "放在平稳台面，离桌边远些，线理顺。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "搬运与放置",
+   "scene": "不在台面上拖动",
+   "prompt_en": "Diagram: a microscope being dragged across a bench with a vibration icon, crossed out, and lifted and set down gently, checked. No text.",
+   "narration": "移动时抬起轻放，不在台面上拖。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯泡会烫，换灯断电",
+   "scene": "卤素灯工作时很烫",
+   "prompt_en": "Diagram: a glowing halogen lamp with heat waves and a hot surface warning icon. No text.",
+   "narration": "卤素灯工作时很烫，别用手碰。",
+   "overlay": [
+    "灯泡会烫，换灯断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯泡会烫，换灯断电",
+   "scene": "开关机前亮度调到最低",
+   "prompt_en": "Diagram: a brightness dial turned to minimum, then the power switch pressed. No text.",
+   "narration": "开关机前，先把亮度调到最低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "灯泡会烫，换灯断电",
+   "scene": "换灯泡先断电，等凉了再换",
+   "prompt_en": "Diagram: a plug pulled out of a socket, a clock icon, then a cooled bulb being replaced. No text.",
+   "narration": "换灯泡先拔电源，等它凉透再换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "规范调焦步骤",
+   "scene": "【实拍】转到低倍，玻片放进夹片器",
+   "prompt_en": "Close-up of a hand rotating the lowest power objective into place and clipping a stained teaching slide onto the stage.",
+   "narration": "先转到低倍物镜，玻片夹好。",
+   "overlay": [
+    "规范调焦步骤"
+   ],
+   "labels": [
+    "①低倍"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "规范调焦步骤",
+   "scene": "【实拍】从侧面看着，粗调升台靠近玻片",
+   "prompt_en": "Close-up from the side of a microscope stage being raised slowly with the coarse knob until the objective is just above the slide.",
+   "narration": "从侧面看着，粗调让物镜靠近玻片。",
+   "overlay": [],
+   "labels": [
+    "②侧面看"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "规范调焦步骤",
+   "scene": "边看目镜，边让镜头离开玻片",
+   "prompt_en": "Diagram: an eye at the eyepiece, the stage moving away from the objective while the image becomes clear. No text.",
+   "narration": "看着目镜，往远离玻片方向调到清晰。",
+   "overlay": [],
+   "labels": [
+    "③远离调焦"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "规范调焦步骤",
+   "scene": "调好两眼间距和视度",
+   "prompt_en": "Diagram: two eyepieces sliding closer and apart to match the eye distance, a small dial on one eyepiece. No text.",
+   "narration": "双目镜先调好两眼间距和视度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "规范调焦步骤",
+   "scene": "【实拍】细调到最清楚，调光阑",
+   "prompt_en": "Close-up of fingers gently turning the small fine focus knob, then adjusting the diaphragm lever under the stage.",
+   "narration": "细调到最清楚，再调光阑和亮度。",
+   "overlay": [],
+   "labels": [
+    "④细调"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻片易碎，先低后高",
+   "scene": "玻片很薄，易碎易割手",
+   "prompt_en": "Diagram: a thin glass slide and cover slip with a sharp edge icon and a cut finger icon. No text.",
+   "narration": "玻片很薄，易碎也易割手。",
+   "overlay": [
+    "玻片易碎，先低后高"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻片易碎，先低后高",
+   "scene": "盖玻片朝上放",
+   "prompt_en": "Diagram: a slide placed on the stage with the cover slip facing up toward the objective, an upside down slide crossed out. No text.",
+   "narration": "玻片盖玻片朝上放，夹稳再看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻片易碎，先低后高",
+   "scene": "先低倍找标本，再换高倍",
+   "prompt_en": "Diagram: a target found under low power, centered, then the nosepiece turned to a higher power objective. No text.",
+   "narration": "先用低倍找到标本，移到中央再换高倍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻片易碎，先低后高",
+   "scene": "高倍和油镜只用细调",
+   "prompt_en": "Diagram: the high power objective with the fine knob checked and the coarse knob crossed out. No text.",
+   "narration": "高倍和油镜只用细调，别压碎玻片。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻片易碎，先低后高",
+   "scene": "碎玻片用镊子夹进锐器盒",
+   "prompt_en": "Diagram: tweezers picking up broken slide pieces and dropping them into a sharps container, bare hands crossed out. No text.",
+   "narration": "碎玻片用镊子夹，放进锐器盒。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "镜油和清洁溶剂",
+   "scene": "【实拍】油镜只滴一小滴镜油",
+   "prompt_en": "Close-up of a single small drop of immersion oil placed on a slide, then the oil objective rotated into the drop.",
+   "narration": "油镜只要一小滴镜油。",
+   "overlay": [
+    "镜油和清洁溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "镜油和清洁溶剂",
+   "scene": "【实拍】用完马上用擦镜纸擦净",
+   "prompt_en": "Close-up of the oil objective wiped gently in one direction with lens paper right after use.",
+   "narration": "用完马上用擦镜纸擦干净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "镜油和清洁溶剂",
+   "scene": "沾油后别转回高倍干镜",
+   "prompt_en": "Diagram: a nosepiece rotating the forty times objective back into an oil drop, crossed out, the lens kept clean. No text.",
+   "narration": "加了油，别让40倍镜划过油滴。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "镜油和清洁溶剂",
+   "scene": "清洁溶剂少量、通风、远离火",
+   "prompt_en": "Diagram: a small dropper bottle of lens cleaning solvent with a flame icon crossed out and a ventilation icon checked. No text.",
+   "narration": "清洁溶剂多易燃，少量用，要通风。",
+   "overlay": [],
+   "labels": [
+    "见第046课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "镜油和清洁溶剂",
+   "scene": "废纸废液按化学废物收",
+   "prompt_en": "Diagram: used lens paper and solvent waste going into a labeled chemical waste container, a regular trash bin crossed out. No text.",
+   "narration": "沾油沾溶剂的纸，按化学废物收集。",
+   "overlay": [],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "只用教学菌株，按感染性材料对待",
+   "prompt_en": "Diagram: a teaching strain tube with a check mark, an unknown sample crossed out, a biohazard caution icon. No text.",
+   "narration": "涂片只用教学菌株，按有害材料对待。",
+   "overlay": [
+    "涂片与固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "涂薄、晾干、固定",
+   "prompt_en": "Diagram: step icons, a thin smear spread on a slide, air drying, then the slide passed quickly through a flame. No text.",
+   "narration": "涂薄、自然晾干，再快速过火固定。",
+   "overlay": [],
+   "labels": [
+    "涂片",
+    "晾干",
+    "固定"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "固定用夹子夹，别烤太久",
+   "prompt_en": "Diagram: a slide held with a slide clamp passed briefly over a flame, an overheated cracked slide crossed out, an alcohol bottle far away. No text.",
+   "narration": "用玻片夹夹持过火，别烤裂，酒精远离。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "革兰染色：紫色和红色两类",
+   "prompt_en": "Diagram: two groups of bacteria icons, one purple and one pink, after a staining sequence of four droppers. No text.",
+   "narration": "革兰染色把细菌分成紫色和红色两类。",
+   "overlay": [],
+   "labels": [
+    "阳性：紫",
+    "阴性：红"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "染液戴手套，废液收集",
+   "prompt_en": "Diagram: gloved hands holding a dropper over a staining tray, used stain collected into a waste bottle. No text.",
+   "narration": "染液戴手套操作，废液统一收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "涂片与固定",
+   "scene": "用过的玻片泡消毒液",
+   "prompt_en": "Diagram: used slides dropped into a jar of disinfectant, then into a sharps box. No text.",
+   "narration": "用过的涂片泡消毒液，再进锐器盒。",
+   "overlay": [],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "显微镜的类型",
+   "scene": "明场：亮背景，看染色样本",
+   "prompt_en": "Diagram: a bright field view with a bright background and dark stained cells. No text.",
+   "narration": "明场显微镜最常见，适合看染色样本。",
+   "overlay": [
+    "显微镜的类型"
+   ],
+   "labels": [
+    "明场"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "显微镜的类型",
+   "scene": "相差：透明活细胞不染色",
+   "prompt_en": "Diagram: a phase contrast view of transparent living cells appearing with clear outlines. No text.",
+   "narration": "相差显微镜，透明活细胞不染也看清。",
+   "overlay": [],
+   "labels": [
+    "相差"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "显微镜的类型",
+   "scene": "荧光：看发光标记",
+   "prompt_en": "Diagram: a dark background with brightly glowing labeled structures in green and red. No text.",
+   "narration": "荧光显微镜看荧光染料或荧光蛋白。",
+   "overlay": [],
+   "labels": [
+    "荧光"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "显微镜的类型",
+   "scene": "共聚焦：激光逐层扫描成三维",
+   "prompt_en": "Diagram: a laser beam scanning a sample layer by layer, the layers stacking into a three dimensional image. No text.",
+   "narration": "共聚焦用激光逐层扫描，拼成三维图。",
+   "overlay": [],
+   "labels": [
+    "共聚焦"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "显微镜的类型",
+   "scene": "按样本和目的选类型",
+   "prompt_en": "Diagram: a decision arrow from a stained sample to bright field, a living cell to phase contrast, a labeled sample to fluorescence. No text.",
+   "narration": "按样本和目的，选合适的显微镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "荧光激光别直视",
+   "scene": "激发光很强，有的含紫外",
+   "prompt_en": "Diagram: a strong excitation light beam with an ultraviolet icon and an eye icon crossed out. No text.",
+   "narration": "荧光激发光很强，有的含紫外线。",
+   "overlay": [
+    "荧光激光别直视"
+   ],
+   "labels": [
+    "见第111课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "荧光激光别直视",
+   "scene": "滤片和遮光罩到位再观察",
+   "prompt_en": "Diagram: a filter cube and a light shield in place on a fluorescence microscope, a check mark. No text.",
+   "narration": "滤片和遮光罩到位，才能观察。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "荧光激光别直视",
+   "scene": "共聚焦按激光安全规定使用",
+   "prompt_en": "Diagram: a confocal microscope with a laser warning sign and a closed enclosure, a training card. No text.",
+   "narration": "共聚焦用激光，培训后按规定使用。",
+   "overlay": [],
+   "labels": [
+    "见第113课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "显微镜的应用",
+   "scene": "科研与医学诊断",
+   "prompt_en": "Diagram: a research cell image and a blood cell smear icon with a clinical cross icon. No text.",
+   "narration": "科研看细胞组织，医学查血细胞和病变。",
+   "overlay": [
+    "显微镜的应用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "显微镜的应用",
+   "scene": "材料学与质检",
+   "prompt_en": "Diagram: a crystal structure image and a factory part being inspected under a microscope. No text.",
+   "narration": "材料学看晶体结构，工厂查产品质量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学显微镜的局限",
+   "scene": "分辨率有上限，约200纳米",
+   "prompt_en": "Diagram: two tiny dots closer than a limit line merging into one blurry spot. No text.",
+   "narration": "分辨率有上限，约200纳米以下看不清。",
+   "overlay": [
+    "光学显微镜的局限"
+   ],
+   "labels": [
+    "约200纳米"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学显微镜的局限",
+   "scene": "景深有限，一次清楚一层",
+   "prompt_en": "Diagram: a thick sample with only one thin layer in sharp focus, the rest blurred. No text.",
+   "narration": "景深有限，一张图只清楚一层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学显微镜的局限",
+   "scene": "染色固定会改变标本",
+   "prompt_en": "Diagram: a living cell changing shape after a fixing and staining step, a caution icon. No text.",
+   "narration": "染色和固定，可能改变标本原样。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学显微镜的局限",
+   "scene": "有的标本对比度不足",
+   "prompt_en": "Diagram: a faint, nearly invisible transparent sample on a bright background. No text.",
+   "narration": "有些标本对比度太低，看不清楚。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "光学显微镜的局限",
+   "scene": "更小的结构用电子显微镜",
+   "prompt_en": "Diagram: a light microscope reaching a limit, an arrow to an electron microscope icon revealing smaller structures. No text.",
+   "narration": "更小的结构，要用电子显微镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "用后整理与保养",
+   "scene": "【实拍】取下玻片，转回低倍，降台",
+   "prompt_en": "Close-up of a slide removed from the stage, the lowest power objective rotated back and the stage lowered.",
+   "narration": "用完取下玻片，转回低倍，降下载物台。",
+   "overlay": [
+    "用后整理与保养"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "用后整理与保养",
+   "scene": "亮度调低再关灯，凉了再罩",
+   "prompt_en": "Diagram: the brightness dial turned down, power off, a clock icon, then a dust cover placed over the microscope. No text.",
+   "narration": "调低亮度再关机，凉了罩上防尘罩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "用后整理与保养",
+   "scene": "镜头不用手摸、不用普通纸擦",
+   "prompt_en": "Diagram: a fingertip touching a lens crossed out, a tissue paper crossed out, lens paper checked. No text.",
+   "narration": "镜头不用手摸，只用擦镜纸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "用后整理与保养",
+   "scene": "登记使用，故障报告",
+   "prompt_en": "Diagram: a usage logbook with a pen and a warning icon reporting a fault to a technician. No text.",
+   "narration": "登记使用情况，有故障及时报告。",
+   "overlay": [],
+   "labels": [
+    "见第120课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "双手搬，低倍起，侧面看",
+   "prompt_en": "Diagram: a two hand carry icon, a low power objective icon and a side view eye icon, all checked. No text.",
+   "narration": "双手搬，低倍起，侧面看着调。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "一滴油，马上擦，玻片进锐器盒",
+   "prompt_en": "Diagram: an oil drop, lens paper and a sharps box. No text.",
+   "narration": "镜油一小滴，用完就擦，碎片进锐器盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "荧光激光别直视，涂片按有害材料",
+   "prompt_en": "Diagram: an eye protection icon near a fluorescence light and a smear slide going into disinfectant. No text.",
+   "narration": "强光别直视，涂片消毒后处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一个小小的质粒环模型",
+   "prompt_en": "The panda mascot holds up a small ring shaped model of a plasmid made of colored beads, waving goodbye.",
+   "narration": "下一课：质粒转化与合成生物学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
