@@ -1,0 +1,955 @@
+{
+ "id": "183_实验设计、记录与数据",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "实验设计、记录与数据",
+ "seconds": 350,
+ "source_doc": "course/高校实验室安全/183_实验设计、记录与数据.md",
+ "author_source": "project/高校实验室安全/183_实验设计、记录与数据/src.py",
+ "points": {
+  "K1": "实验设计三要素",
+  "K2": "避免偏倚",
+  "K3": "样本量先算好",
+  "K4": "为什么要记录",
+  "K5": "记录本是正式文件",
+  "K6": "目录与每页五项",
+  "K7": "一个实验记什么",
+  "K8": "书写规范",
+  "K9": "跨页与不留空白",
+  "K10": "安全信息也要记",
+  "S1": "安全台账如实填",
+  "K11": "当场记，如实记",
+  "K12": "共用账号难追溯",
+  "K13": "数据不挑不改不删",
+  "K14": "备份留存可追溯",
+  "K15": "统计概括数据",
+  "K16": "差异是真是碰巧",
+  "K17": "老师反馈与评分"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一本装订好的实验记录本和一支笔",
+   "prompt_en": "The panda mascot holds up a bound hardcover lab notebook and a pen beside a small bar chart icon, looking at the camera.",
+   "narration": "第15章第二十一课：实验设计、记录与数据。",
+   "overlay": [
+    "实验设计、记录与数据"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰用铅笔在纸巾上记了菌落数",
+   "prompt_en": "The young male student scribbles numbers with a pencil on a crumpled paper towel next to two petri dishes, a red warning icon.",
+   "narration": "阿杰把菌落数用铅笔记在纸巾上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "两组只做了一次，阿杰说处理有效",
+   "prompt_en": "The young male student points proudly at two single plates of different colony counts, a question mark floats above.",
+   "narration": "两组各做一次，他就说处理有效。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研递给他一本记录本",
+   "prompt_en": "The female graduate student hands him a bound lab notebook and taps the cover, the safety administrator nodding behind.",
+   "narration": "小研：设计、记录、统计，一样不能少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验设计三要素",
+   "scene": "先提出可检验的假设",
+   "prompt_en": "Diagram: a light bulb turning into a clear question card with a check box for test, no words. No text.",
+   "narration": "先提出一个能检验的假设。",
+   "overlay": [
+    "实验设计三要素"
+   ],
+   "labels": [
+    "假设"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验设计三要素",
+   "scene": "一次只改一个变量",
+   "prompt_en": "Diagram: two identical setups where only one knob differs, other knobs locked with small padlocks. No text.",
+   "narration": "只改一个变量，其他条件保持一致。",
+   "overlay": [],
+   "labels": [
+    "自变量",
+    "因变量",
+    "控制变量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验设计三要素",
+   "scene": "取样要有代表性",
+   "prompt_en": "Diagram: samples picked from all corners of a field rather than one spot, a check mark. No text.",
+   "narration": "取样要有代表性，不能只取一处。",
+   "overlay": [],
+   "labels": [
+    "取样"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验设计三要素",
+   "scene": "同一处理做几个重复",
+   "prompt_en": "Diagram: three identical flasks side by side for one treatment, a replicate badge. No text.",
+   "narration": "同一处理做几个重复。",
+   "overlay": [],
+   "labels": [
+    "重复"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "实验设计三要素",
+   "scene": "设对照作为比较基准",
+   "prompt_en": "Diagram: a treatment group next to a control group with a balance scale between them. No text.",
+   "narration": "还要设对照，才有比较的基准。",
+   "overlay": [],
+   "labels": [
+    "对照"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "避免偏倚",
+   "scene": "只挑好看的样本会偏倚",
+   "prompt_en": "Diagram: a hand picking only the nicest looking plates from a pile, crossed out. No text.",
+   "narration": "只挑好看的样本，结果就有偏倚。",
+   "overlay": [
+    "避免偏倚"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "避免偏倚",
+   "scene": "随机分组",
+   "prompt_en": "Diagram: a dice icon assigning sample tubes into two groups. No text.",
+   "narration": "随机分组，减少人为偏向。",
+   "overlay": [],
+   "labels": [
+    "随机分组"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "避免偏倚",
+   "scene": "计数时不看组别",
+   "prompt_en": "Diagram: plates with covered group labels being counted by a person icon, a blindfold icon. No text.",
+   "narration": "计数时不看组别，结果更客观。",
+   "overlay": [],
+   "labels": [
+    "盲法计数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "样本量先算好",
+   "scene": "动手前估算样本量",
+   "prompt_en": "Diagram: a calculator and a notebook before a row of flasks, a clock showing before start. No text.",
+   "narration": "动手前，先估算需要多少样本。",
+   "overlay": [
+    "样本量先算好"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "样本量先算好",
+   "scene": "多一轮培养多一次接触和废物",
+   "prompt_en": "Diagram: an extra culture round adding a hand exposure icon and an extra waste bag. No text.",
+   "narration": "多一轮培养，就多一次接触和废物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "样本量先算好",
+   "scene": "够用就好，规范操作",
+   "prompt_en": "Diagram: just enough flasks with a check mark, an excess pile crossed out. No text.",
+   "narration": "重复够用就好，每次都规范操作。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "为什么要记录",
+   "scene": "记下来才能重复实验",
+   "prompt_en": "Diagram: a notebook page leading to the same experiment repeated by another person icon. No text.",
+   "narration": "记下来，自己和别人才能重复验证。",
+   "overlay": [
+    "为什么要记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "为什么要记录",
+   "scene": "论文报告的原始数据来自记录本",
+   "prompt_en": "Diagram: an arrow from a notebook to a paper and a report, a patent certificate icon beside. No text.",
+   "narration": "论文数据出自记录本，还能证明发明。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "为什么要记录",
+   "scene": "出了事故从记录找原因",
+   "prompt_en": "Diagram: a magnifier over a notebook page next to a small accident warning icon. No text.",
+   "narration": "出了事故，也能从记录里找原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "为什么要记录",
+   "scene": "独立探究以记录本为核心",
+   "prompt_en": "The female graduate student plans a project with an open notebook at the center of the desk.",
+   "narration": "独立探究，记录本就是核心。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "记录本是正式文件",
+   "scene": "活页夹之外，再用一本记录本",
+   "prompt_en": "Diagram: a ring binder of loose sheets next to a bound notebook with a star. No text.",
+   "narration": "资料夹之外，还要一本实验记录本。",
+   "overlay": [
+    "记录本是正式文件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "记录本是正式文件",
+   "scene": "记录本是正式的科学文件",
+   "prompt_en": "Diagram: a bound notebook with a seal icon, an arrow showing all lab actions going into it. No text.",
+   "narration": "它是正式的科学文件，所做的都要记。",
+   "overlay": [],
+   "labels": [
+    "装订",
+    "编页码"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "目录与每页五项",
+   "scene": "前几页留目录",
+   "prompt_en": "Diagram: the first pages of a notebook marked as a blank index table with rows. No text.",
+   "narration": "前几页留作目录：题目、日期、起始页。",
+   "overlay": [
+    "目录与每页五项"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "目录与每页五项",
+   "scene": "【实拍】页眉写页码、题目、日期",
+   "prompt_en": "Close-up of a hand writing in the top margin of a blank numbered notebook page with a black ink pen.",
+   "narration": "每页要有页码、题目和日期。",
+   "overlay": [],
+   "labels": [
+    "页码",
+    "题目",
+    "日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "目录与每页五项",
+   "scene": "本人签名，核验人签字",
+   "prompt_en": "Diagram: a notebook page bottom with two signature lines, one for the author and one for a witness. No text.",
+   "narration": "本人签名，再请核验人签字。",
+   "overlay": [],
+   "labels": [
+    "签名",
+    "核验"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一个实验记什么",
+   "scene": "目的、材料、用量、步骤",
+   "prompt_en": "Diagram: a notebook page with icons for a target, a reagent bottle, a scale and numbered steps. No text.",
+   "narration": "写清目的、材料、用量和步骤。",
+   "overlay": [
+    "一个实验记什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一个实验记什么",
+   "scene": "现象、条件、环境",
+   "prompt_en": "Diagram: icons of a color change, a thermometer, a clock and a humidity drop beside a notebook. No text.",
+   "narration": "记下现象、条件和温度等环境因素。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "一个实验记什么",
+   "scene": "结果、分析、结论",
+   "prompt_en": "Diagram: a notebook page ending with a table, a chart and a conclusion check mark. No text.",
+   "narration": "最后写结果、分析和结论。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "书写规范",
+   "scene": "用笔写，不用铅笔",
+   "prompt_en": "Diagram: a pen with a check mark and a pencil with an eraser crossed out. No text.",
+   "narration": "一律用不易褪色的笔，不用铅笔。",
+   "overlay": [
+    "书写规范"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "书写规范",
+   "scene": "【实拍】写错划一条线，签名注日期",
+   "prompt_en": "Close-up of a hand drawing a single straight line through one written number in a notebook, the old number still readable, writing the new value beside it.",
+   "narration": "写错划一道，原字看得清，签名注日期。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "书写规范",
+   "scene": "不擦、不涂黑、不撕页",
+   "prompt_en": "Diagram: an eraser, correction fluid and a torn page, all crossed out. No text.",
+   "narration": "不擦、不涂黑、不撕页。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "书写规范",
+   "scene": "图表照片贴在对应页",
+   "prompt_en": "Diagram: a printed chart and a photo glued onto a notebook page, a glue stick. No text.",
+   "narration": "图表照片贴在对应页，可用图表记数据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "书写规范",
+   "scene": "字迹清楚，少用缩写",
+   "prompt_en": "Diagram: neat handwriting lines on a page and a crossed out messy scribble. No text.",
+   "narration": "字迹清楚，除单位外少用缩写。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "跨页与不留空白",
+   "scene": "【实拍】页末写“转第几页”",
+   "prompt_en": "Close-up of a hand writing a small page reference at the bottom right corner of a notebook page.",
+   "narration": "没写完，右下角写转第几页。",
+   "overlay": [
+    "跨页与不留空白"
+   ],
+   "labels": [
+    "转第×页",
+    "接第×页"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "跨页与不留空白",
+   "scene": "续页写“接第几页”",
+   "prompt_en": "Diagram: two notebook pages with arrows linking the bottom of one to the top of a later page, another experiment in between. No text.",
+   "narration": "续页左上角写接第几页，不会乱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "跨页与不留空白",
+   "scene": "空白处画斜线，签名日期",
+   "prompt_en": "Diagram: a half empty notebook page with a diagonal line across the blank area and a signature mark. No text.",
+   "narration": "不跳页；没写满，空白画斜线签名。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "安全信息也要记",
+   "scene": "危险试剂记下来",
+   "prompt_en": "Diagram: a notebook page with hazard pictogram icons next to a reagent list. No text.",
+   "narration": "用了哪些危险试剂，记下来。",
+   "overlay": [
+    "安全信息也要记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "安全信息也要记",
+   "scene": "防护措施和SOP编号",
+   "prompt_en": "Diagram: icons of goggles, gloves, a fume hood and a procedure binder beside a notebook line. No text.",
+   "narration": "防护措施、依据的规程，记下来。",
+   "overlay": [],
+   "labels": [
+    "见第019课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "安全信息也要记",
+   "scene": "风险评估结论、异常和事故",
+   "prompt_en": "Diagram: a risk checklist and a small warning icon pointing into the notebook, then a report arrow. No text.",
+   "narration": "评估结论、异常和事故，如实记并报告。",
+   "overlay": [],
+   "labels": [
+    "见第161课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "安全台账如实填",
+   "scene": "危化品领用台账",
+   "prompt_en": "Diagram: a chemical cabinet with a logbook hanging beside it, a pen writing a row. No text.",
+   "narration": "危化品领用，当场登记台账。",
+   "overlay": [
+    "安全台账如实填"
+   ],
+   "labels": [
+    "见第037课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "安全台账如实填",
+   "scene": "仪器使用记录",
+   "prompt_en": "Diagram: a lab instrument with a usage log sheet on a clipboard next to it. No text.",
+   "narration": "大型仪器用前用后，填使用记录。",
+   "overlay": [],
+   "labels": [
+    "见第120课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "安全台账如实填",
+   "scene": "安全检查记录不补填",
+   "prompt_en": "Diagram: a safety inspection checklist with a date and signature, a backdated entry crossed out. No text.",
+   "narration": "检查记录当场填，不补填、不代签。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "当场记，如实记",
+   "scene": "做一步记一步",
+   "prompt_en": "The female graduate student writes in her notebook right after placing a tube in a rack, wearing goggles.",
+   "narration": "做一步，记一步，当场写下来。",
+   "overlay": [
+    "当场记，如实记"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "当场记，如实记",
+   "scene": "写清时间",
+   "prompt_en": "Diagram: a notebook line with a clock icon next to each entry. No text.",
+   "narration": "每条记录写清时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "当场记，如实记",
+   "scene": "事后补记不行",
+   "prompt_en": "Diagram: a person writing at home at night from memory, crossed out. No text.",
+   "narration": "事后补记、随意改，记录就不真了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "当场记，如实记",
+   "scene": "异常和意外也要记",
+   "prompt_en": "Diagram: an unexpected result icon and a small spill icon both written into the notebook. No text.",
+   "narration": "异常和意外，也要如实记下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "共用账号难追溯",
+   "scene": "共用账号，找不到操作人",
+   "prompt_en": "Diagram: one login card shared by three person icons, an instrument record with a question mark for who. No text.",
+   "narration": "共用账号，记录就找不到人。",
+   "overlay": [
+    "共用账号难追溯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "共用账号难追溯",
+   "scene": "脏手套太笨，字迹看不清",
+   "prompt_en": "Diagram: a thick dirty glove smudging a notebook page, crossed out, a clean pen hand beside it. No text.",
+   "narration": "戴着脏手套写，字看不清还污染本子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "共用账号难追溯",
+   "scene": "嫌麻烦回头补，时间就乱",
+   "prompt_en": "Diagram: a clock with tangled hands next to a notebook, a later note arrow crossed out. No text.",
+   "narration": "嫌防护麻烦回头补，时间就乱了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "共用账号难追溯",
+   "scene": "一人一号，安心操作当场记",
+   "prompt_en": "Diagram: each person icon with their own login card, a calm worker writing in a notebook. No text.",
+   "narration": "一人一号，安心操作，才能当场如实记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "数据不挑不改不删",
+   "scene": "不挑、不改、不删",
+   "prompt_en": "Diagram: three icons crossed out, picking data points, changing a number and deleting a row. No text.",
+   "narration": "数据不挑、不改、不删。",
+   "overlay": [
+    "数据不挑不改不删"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "数据不挑不改不删",
+   "scene": "异常值按事先规则剔除并写明理由",
+   "prompt_en": "Diagram: one outlier dot removed following a rule card written before the experiment, a note explaining why. No text.",
+   "narration": "剔除异常值，按事先规则，写明理由。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "数据不挑不改不删",
+   "scene": "失败结果也如实报告",
+   "prompt_en": "Diagram: a failed result page kept in the notebook with a check mark, not torn out. No text.",
+   "narration": "结果不合预期，也如实记录和报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "数据不挑不改不删",
+   "scene": "编造篡改属科研失信",
+   "prompt_en": "Diagram: a fake data sheet stamped with a red seal, a scale of justice icon. No text.",
+   "narration": "编造、篡改数据，是科研失信。",
+   "overlay": [],
+   "labels": [
+    "见第184课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "备份留存可追溯",
+   "scene": "原始文件不动，副本上分析",
+   "prompt_en": "Diagram: an original data file with a lock icon and a copy file being analyzed on a laptop. No text.",
+   "narration": "原始文件不动，在副本上分析。",
+   "overlay": [
+    "备份留存可追溯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "备份留存可追溯",
+   "scene": "及时备份，按期保存",
+   "prompt_en": "Diagram: data copied to two storage icons, a calendar showing a retention period. No text.",
+   "narration": "电子数据及时备份，按规定期限保存。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "备份留存可追溯",
+   "scene": "样品标清来源、代次、日期",
+   "prompt_en": "Diagram: a rack of culture flasks each with a blank label and a register book beside them. No text.",
+   "narration": "样品菌种标清来源、代次、日期，登记在册。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "备份留存可追溯",
+   "scene": "原始记录归单位，离开交回",
+   "prompt_en": "Diagram: a notebook handed back to a lab supervisor at a desk, a backpack with a notebook crossed out. No text.",
+   "narration": "原始记录归单位，离开时交回，不外传。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "统计概括数据",
+   "scene": "数据又多又杂",
+   "prompt_en": "Diagram: a huge stack of plates and a long sequence strip, a dizzy eye icon. No text.",
+   "narration": "菌落数、序列，光靠眼睛看不过来。",
+   "overlay": [
+    "统计概括数据"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "统计概括数据",
+   "scene": "平均值和标准差",
+   "prompt_en": "Diagram: a set of dots with a center line for the mean and a band showing spread. No text.",
+   "narration": "平均值看集中，标准差看离散程度。",
+   "overlay": [],
+   "labels": [
+    "平均值",
+    "标准差"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "统计概括数据",
+   "scene": "检验假设，找规律",
+   "prompt_en": "Diagram: data points flowing into a test icon and a trend line emerging. No text.",
+   "narration": "统计能概括数据、检验假设、找规律。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "差异是真是碰巧",
+   "scene": "两组不一样，是真是碰巧",
+   "prompt_en": "Diagram: two groups of dots with slightly different averages and a coin flip icon between them. No text.",
+   "narration": "两组结果不同，可能只是碰巧。",
+   "overlay": [
+    "差异是真是碰巧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "差异是真是碰巧",
+   "scene": "靠统计检验判断",
+   "prompt_en": "Diagram: a balance tipping clearly to one side with a significance badge. No text.",
+   "narration": "比处理、比菌株，靠统计判断显著性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "差异是真是碰巧",
+   "scene": "阿杰重新设计，每组做重复",
+   "prompt_en": "The young male student sets up three replicate plates for each group, writing in a bound notebook.",
+   "narration": "阿杰重新设计，每组都做了重复。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "差异是真是碰巧",
+   "scene": "计完数的平板灭菌处置",
+   "prompt_en": "Diagram: counted plates going into an autoclave bag, then an autoclave icon. No text.",
+   "narration": "计完数的平板，灭菌后再处置。",
+   "overlay": [],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "老师反馈与评分",
+   "scene": "老师按评分表反馈",
+   "prompt_en": "The safety administrator reviews a student's notebook with a blank rubric sheet, pointing at page numbers.",
+   "narration": "老师看组织、页码、内容和核验。",
+   "overlay": [
+    "老师反馈与评分"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "老师反馈与评分",
+   "scene": "带着规范和评分表来问",
+   "prompt_en": "The young male student brings his notebook and a blank rubric sheet to ask a question, the teacher smiling.",
+   "narration": "有疑问，带着规范和评分表来问。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "假设、对照、重复、随机",
+   "prompt_en": "Diagram: icons of a light bulb, a balance, three flasks and a dice, all checked. No text.",
+   "narration": "设计：假设、对照、重复、随机。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "装订本、编页码、用笔、划改签名",
+   "prompt_en": "Diagram: a bound notebook, a page number, a pen and a single line correction with a signature, all checked. No text.",
+   "narration": "记录：当场记，用笔写，划改签名。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "不挑不改不删，备份可追溯",
+   "prompt_en": "Diagram: a locked original file, a backup copy and a chain of arrows back to the notebook. No text.",
+   "narration": "数据：如实完整，一人一号，可追溯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着一份装订好的实验报告",
+   "prompt_en": "The panda mascot holds up a neatly stapled lab report with blank pages and a reference list icon, waving goodbye.",
+   "narration": "下一课：实验报告与学术规范。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
