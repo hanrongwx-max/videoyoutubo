@@ -1,0 +1,974 @@
+{
+ "id": "196_焊机部件更换（一）：通用流程与电源部件",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "焊机部件更换（一）：通用流程与电源部件",
+ "seconds": 365,
+ "source_doc": "course/高校实验室安全/196_焊机部件更换（一）：通用流程与电源部件.md",
+ "author_source": "project/高校实验室安全/196_焊机部件更换（一）：通用流程与电源部件/src.py",
+ "points": {
+  "S1": "授权人员换，先隔离能量",
+  "K1": "工具与原厂备件",
+  "K2": "断开全部连接，关气",
+  "K3": "锁住四个脚轮",
+  "K4": "静置放电与冷却",
+  "S2": "防静电：腕带接地",
+  "K5": "开盖：螺钉入盒，扶住",
+  "K6": "拍照标记，再拆线",
+  "K7": "拆旧件：托住、滑出",
+  "K8": "装新件：到位固定",
+  "K9": "接线对照参考图",
+  "K10": "拧紧轻拉，防短路",
+  "K11": "理线：扎带、磁环、走线",
+  "K12": "清灰，装回护罩接地",
+  "K13": "修后首次试机",
+  "K14": "开关电源与电源板",
+  "K15": "激光电源",
+  "K16": "直流电源",
+  "K17": "交流接触器",
+  "K18": "船型开关",
+  "S3": "旧件处置与维修记录"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在打开侧板的焊机旁，手里拿着防静电腕带",
+   "prompt_en": "The panda mascot stands beside a handheld laser welder with its side panel removed, holding an antistatic wrist strap, looking at the camera.",
+   "narration": "第15章第三十四课：焊机部件更换（一）。",
+   "overlay": [
+    "焊机部件更换（一）：通用流程与电源部件"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着螺丝刀要打开机壳",
+   "prompt_en": "The young male student holds a screwdriver and reaches toward the side panel of a welder that is still plugged in, a red warning icon.",
+   "narration": "阿杰：电源坏了？我拆开看看！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李拦住，指着电源插头和高压标志",
+   "prompt_en": "The facility engineer stops him and points at the power plug and a high voltage warning sign on the welder.",
+   "narration": "老李：里面有高压，学生不能开壳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "老李展示一张流程图",
+   "prompt_en": "The facility engineer holds a blank flow chart with icons for power off, wait, photo, replace, check and test.",
+   "narration": "老李：更换要按通用流程来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "授权人员换，先隔离能量",
+   "scene": "设备管理员或厂家售后",
+   "prompt_en": "Diagram: a welder with an open cabinet and badges for an equipment manager and an authorised service engineer, a student icon outside the line. No text.",
+   "narration": "内部更换只由授权维修人员做。",
+   "overlay": [
+    "授权人员换，先隔离能量"
+   ],
+   "labels": [
+    "学生不开壳"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "授权人员换，先隔离能量",
+   "scene": "拔插头、上锁挂牌",
+   "prompt_en": "Diagram: the plug pulled out and a lockout padlock with a tag fitted on the supply. No text.",
+   "narration": "断电拔插头，上锁挂牌。",
+   "overlay": [],
+   "labels": [
+    "见第144课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "授权人员换，先隔离能量",
+   "scene": "关气瓶阀，泄压",
+   "prompt_en": "Diagram: the gas cylinder valve closed and the regulator gauge falling to zero. No text.",
+   "narration": "关闭气瓶阀，泄掉管路压力。",
+   "overlay": [],
+   "labels": [
+    "见第133课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "工具与原厂备件",
+   "scene": "备好螺丝刀、扳手、扎带",
+   "prompt_en": "Diagram: a tool tray with large and small cross head screwdrivers, a flat screwdriver, hex keys, an open wrench, tweezers and cable ties. No text.",
+   "narration": "按要换的部件，备好工具。",
+   "overlay": [
+    "工具与原厂备件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "工具与原厂备件",
+   "scene": "备件规格一致",
+   "prompt_en": "Diagram: a new spare part box compared with the old part by a matching nameplate icon, a different looking part crossed out. No text.",
+   "narration": "备件用规格一致的原厂配件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "工具与原厂备件",
+   "scene": "【实拍】工具放托盘，照亮工位",
+   "prompt_en": "Close-up of tools laid out in a tray beside a parts box on a workbench lit by a lamp, next to an unplugged welder.",
+   "narration": "工具放托盘，工位照明要亮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "断开全部连接，关气",
+   "scene": "电源线、焊枪线全部断开",
+   "prompt_en": "Diagram: power cord, torch cable, wire feeder cable and work clamp cable all disconnected from the welder. No text.",
+   "narration": "电源线、焊枪线等全部断开。",
+   "overlay": [
+    "断开全部连接，关气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "断开全部连接，关气",
+   "scene": "保护气关好",
+   "prompt_en": "Diagram: the shielding gas supply valve closed and the gas hose disconnected. No text.",
+   "narration": "接着的保护气也先关好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "锁住四个脚轮",
+   "scene": "四个脚轮锁住",
+   "prompt_en": "Diagram: all four caster brakes of the welder pressed down, a sliding machine crossed out. No text.",
+   "narration": "四个脚轮全部锁住，机器不滑动。",
+   "overlay": [
+    "锁住四个脚轮"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "静置放电与冷却",
+   "scene": "静置一段时间",
+   "prompt_en": "Diagram: an unplugged welder with a clock, capacitors inside with a discharge arrow and heat fading. No text.",
+   "narration": "静置一段时间，让机器放电冷却。",
+   "overlay": [
+    "静置放电与冷却"
+   ],
+   "labels": [
+    "见第118课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "静置放电与冷却",
+   "scene": "时间按说明书",
+   "prompt_en": "Diagram: a manual icon with a clock symbol and a checkmark. No text.",
+   "narration": "等多久，以说明书规定为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "静置放电与冷却",
+   "scene": "电工验电确认无电",
+   "prompt_en": "The facility engineer with an electrician badge checks terminals with a voltage tester, a zero icon on the tester.",
+   "narration": "开盖后，由电工验电确认无电。",
+   "overlay": [],
+   "labels": [
+    "见第105课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "防静电：腕带接地",
+   "scene": "【实拍】戴防静电腕带，夹到接地点",
+   "prompt_en": "Close-up of a technician fastening an antistatic wrist strap and clipping its lead to the earthing point of an unplugged welder chassis.",
+   "narration": "戴好防静电腕带，夹到接地点。",
+   "overlay": [
+    "防静电：腕带接地"
+   ],
+   "labels": [
+    "见第106课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "防静电：腕带接地",
+   "scene": "拿板边，不摸元件",
+   "prompt_en": "Diagram: a circuit board held by its edges, fingers touching the chips crossed out, an antistatic bag. No text.",
+   "narration": "电路板拿边缘，放进防静电袋。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "开盖：螺钉入盒，扶住",
+   "scene": "打开侧门板",
+   "prompt_en": "Diagram: the side door panel of the welder opened, the internal mounting plate visible. No text.",
+   "narration": "打开侧面门板或盖板。",
+   "overlay": [
+    "开盖：螺钉入盒，扶住"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "开盖：螺钉入盒，扶住",
+   "scene": "螺钉放进零件盒",
+   "prompt_en": "Diagram: screws removed and dropped into a labelled compartment parts box, a screw falling into the machine crossed out. No text.",
+   "narration": "拆下的螺钉放进零件盒，别丢进机内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "开盖：螺钉入盒，扶住",
+   "scene": "拆最后一颗时扶住",
+   "prompt_en": "Diagram: a hand holding a rear handle while the last screw is removed, a falling handle hitting a foot crossed out. No text.",
+   "narration": "拆最后一颗时扶住，免得砸下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "开盖：螺钉入盒，扶住",
+   "scene": "先拆接地线，放平安装板",
+   "prompt_en": "Diagram: the earth wire unscrewed from the mounting plate, then the plate laid down flat exposing the electrical area. No text.",
+   "narration": "拆下接地线，放平安装板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拍照标记，再拆线",
+   "scene": "【实拍】拆线前拍照留底",
+   "prompt_en": "Close-up of a phone camera photographing the wiring on a terminal block of an unplugged welder.",
+   "narration": "拆线之前，先拍照留底。",
+   "overlay": [
+    "拍照标记，再拆线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拍照标记，再拆线",
+   "scene": "每根线贴标签",
+   "prompt_en": "Diagram: small numbered tag icons attached to each wire near its terminal. No text.",
+   "narration": "每根线贴上标签，装回不会接错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拍照标记，再拆线",
+   "scene": "剪扎带别剪到线",
+   "prompt_en": "Diagram: side cutters snipping a cable tie with the blade away from the cable insulation. No text.",
+   "narration": "剪扎带时刀口朝外，别剪到线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "拍照标记，再拆线",
+   "scene": "压弹片拔线，一根一根拆",
+   "prompt_en": "Diagram: a flat screwdriver pressing a terminal spring while one wire is pulled out, wires removed one by one. No text.",
+   "narration": "压住弹片再拔，线一根一根拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆旧件：托住、滑出",
+   "scene": "托住部件再拆最后一颗",
+   "prompt_en": "Diagram: a hand supporting a power supply module while the last screw is removed, a module falling onto parts below crossed out. No text.",
+   "narration": "拆最后一颗螺丝，用手托住部件。",
+   "overlay": [
+    "拆旧件：托住、滑出"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆旧件：托住、滑出",
+   "scene": "撬卡扣、滑出导轨",
+   "prompt_en": "Diagram: a module unclipped from a silver mounting rail with a flat screwdriver and slid off. No text.",
+   "narration": "撬开卡扣，从导轨上滑出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆旧件：托住、滑出",
+   "scene": "整块取出到台面拆",
+   "prompt_en": "Diagram: a whole component plate lifted out and placed on a workbench for further work. No text.",
+   "narration": "组件太紧凑，整块取到台面再拆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "拆旧件：托住、滑出",
+   "scene": "扳手配合不对着手",
+   "prompt_en": "Diagram: a wrench holding a nut while a hex key turns the screw, the force direction away from the other hand. No text.",
+   "narration": "扳手卡稳再用力，方向别对着手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新件：到位固定",
+   "scene": "放回原位，方向别装反",
+   "prompt_en": "Diagram: a new module placed in the original position with a direction arrow, a bracket hook facing outward. No text.",
+   "narration": "新件放回原位，方向别装反。",
+   "overlay": [
+    "装新件：到位固定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新件：到位固定",
+   "scene": "卡进导轨，螺钉拧紧",
+   "prompt_en": "Diagram: the new module clipped onto the rail and its fixing screws tightened. No text.",
+   "narration": "卡进导轨，固定螺钉拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "装新件：到位固定",
+   "scene": "听到咔嗒声",
+   "prompt_en": "Diagram: a part pressed into its mounting hole with a click sound icon. No text.",
+   "narration": "按入安装孔，咔嗒一声才算牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接线对照参考图",
+   "scene": "对照参考图接线",
+   "prompt_en": "Diagram: a wiring reference picture beside the terminals, each wire connected while matching the picture. No text.",
+   "narration": "对照参考图，一根一根接回。",
+   "overlay": [
+    "接线对照参考图"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接线对照参考图",
+   "scene": "位置颜色都一致",
+   "prompt_en": "Diagram: wire colours matched to terminal positions with checkmarks, a swapped pair crossed out. No text.",
+   "narration": "位置、颜色都要和参考图一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接线对照参考图",
+   "scene": "接错通电会烧坏",
+   "prompt_en": "Diagram: a wrong connection producing smoke and a burnt board icon, crossed out. No text.",
+   "narration": "接反接错，通电就可能烧坏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接线对照参考图",
+   "scene": "接完再核对一遍",
+   "prompt_en": "Diagram: the photo from before compared with the finished wiring, a second checkmark. No text.",
+   "narration": "接完对照照片，再核对一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拧紧轻拉，防短路",
+   "scene": "端子拧紧，铜丝不外露",
+   "prompt_en": "Diagram: a terminal screw tightened on bare copper, stray strands and clamped insulation crossed out. No text.",
+   "narration": "端子拧紧，铜丝不外露、不分叉。",
+   "overlay": [
+    "拧紧轻拉，防短路"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拧紧轻拉，防短路",
+   "scene": "【实拍】逐根轻拉导线",
+   "prompt_en": "Close-up of fingers gently tugging each wire on a terminal block of an unplugged welder to check it is secure.",
+   "narration": "每根线轻轻一拉，确认不松。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拧紧轻拉，防短路",
+   "scene": "一次只动一根线",
+   "prompt_en": "Diagram: an insulated screwdriver on one terminal, a tool bridging two terminals with a spark crossed out. No text.",
+   "narration": "用绝缘柄工具，一次只动一根线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "拧紧轻拉，防短路",
+   "scene": "拆下的线头包好",
+   "prompt_en": "Diagram: loose wire ends wrapped with insulating caps and kept apart. No text.",
+   "narration": "拆下的线头包好绝缘，彼此分开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "理线：扎带、磁环、走线",
+   "scene": "【实拍】扎带固定，不要太紧",
+   "prompt_en": "Close-up of a cable tie fastened around a wire bundle inside an unplugged welder, leaving it snug but not cutting the insulation.",
+   "narration": "扎带固定线缆，太紧会勒伤线皮。",
+   "overlay": [
+    "理线：扎带、磁环、走线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "理线：扎带、磁环、走线",
+   "scene": "磁环照原样穿",
+   "prompt_en": "Diagram: wires passing through a black ferrite ring with the same number of turns as before. No text.",
+   "narration": "穿磁环的线照原样，不能省。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "理线：扎带、磁环、走线",
+   "scene": "避开锐边和热源",
+   "prompt_en": "Diagram: cables routed along the original path with a grommet at a hole, cables on a sharp edge and a hot part crossed out. No text.",
+   "narration": "走原来的路，避开锐边和热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "清灰，装回护罩接地",
+   "scene": "刷一刷、吸一吸",
+   "prompt_en": "Diagram: dust in the cabinet cleaned with a soft brush and a vacuum, compressed air blowing crossed out. No text.",
+   "narration": "机柜积灰，刷一刷吸一吸，不直吹。",
+   "overlay": [
+    "清灰，装回护罩接地"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "清灰，装回护罩接地",
+   "scene": "装回透明防护罩",
+   "prompt_en": "Diagram: a clear protective cover refitted over the power terminals, a finger touching terminals blocked. No text.",
+   "narration": "端子前的透明防护罩一定装回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "清灰，装回护罩接地",
+   "scene": "接地线一定装回",
+   "prompt_en": "Diagram: the earth wire screwed back onto the panel with a protective earth symbol and a checkmark. No text.",
+   "narration": "接地线一定装回，螺钉全拧上。",
+   "overlay": [],
+   "labels": [
+    "接地线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "清灰，装回护罩接地",
+   "scene": "装回面板和把手",
+   "prompt_en": "Diagram: motor cable reconnected, panels hooked onto pins, handles refitted, no spare screws left in the parts box. No text.",
+   "narration": "接回电机线，装回面板和把手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "修后首次试机",
+   "scene": "清点工具，不落机内",
+   "prompt_en": "Diagram: tools in the tray counted against outlines, a screwdriver left inside the machine crossed out. No text.",
+   "narration": "合盖前清点工具，不落在机内。",
+   "overlay": [
+    "修后首次试机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "修后首次试机",
+   "scene": "枪口对挡板，戴眼镜",
+   "prompt_en": "Diagram: the torch fixed in its holder aimed at a metal shield, the operator wearing laser safety glasses, others standing back. No text.",
+   "narration": "首次通电，枪口朝挡板，旁人退开。",
+   "overlay": [],
+   "labels": [
+    "见第114课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "修后首次试机",
+   "scene": "先看指示再出光",
+   "prompt_en": "Diagram: indicator lights and a blank screen checked first, then a short test with a checkmark. No text.",
+   "narration": "先看指示和报警，再按规程试焊。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "修后首次试机",
+   "scene": "异常立即急停",
+   "prompt_en": "Diagram: smoke or an alarm icon and a hand pressing the emergency stop button. No text.",
+   "narration": "有异常立即急停，查明再试。",
+   "overlay": [],
+   "labels": [
+    "见第119课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "开关电源与电源板",
+   "scene": "电源部件在电气区",
+   "prompt_en": "Diagram: a cutaway of the welder cabinet with the electrical area highlighted behind the mounting plate. No text.",
+   "narration": "电源类部件，集中在机内电气区。",
+   "overlay": [
+    "开关电源与电源板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "开关电源与电源板",
+   "scene": "开关电源：低压直流给主控",
+   "prompt_en": "Diagram: a switched mode power supply module on a rail turning alternating current into low voltage direct current for the main control board. No text.",
+   "narration": "开关电源把交流变低压直流供主板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "开关电源与电源板",
+   "scene": "交流电源板：分配交流电",
+   "prompt_en": "Diagram: an alternating current power board distributing incoming power to several modules. No text.",
+   "narration": "交流电源板，把交流电分给各部件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "激光电源",
+   "scene": "激光电源：给激光器供电",
+   "prompt_en": "Diagram: a large laser power supply module feeding the laser source, a high voltage warning sign on it. No text.",
+   "narration": "激光电源给激光器供电，功率大。",
+   "overlay": [
+    "激光电源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "激光电源",
+   "scene": "带支架整体装取",
+   "prompt_en": "Diagram: the laser power supply with its bracket and a plug connector, lifted out as one assembly. No text.",
+   "narration": "带支架整体装取，接头要插牢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "激光电源",
+   "scene": "断电后仍可能有电",
+   "prompt_en": "Diagram: capacitors inside the laser power supply holding charge after unplugging, a clock and a voltage tester. No text.",
+   "narration": "断电后电容可能仍带电，等放电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "直流电源",
+   "scene": "直流电源：给直流部件供电",
+   "prompt_en": "Diagram: a direct current power supply module feeding direct current loads inside the welder. No text.",
+   "narration": "直流电源给机内直流部件供电。",
+   "overlay": [
+    "直流电源"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "直流电源",
+   "scene": "端子前有透明罩",
+   "prompt_en": "Diagram: a clear cover in front of the output terminals of the direct current power supply. No text.",
+   "narration": "端子前的透明罩，防手和工具碰电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "直流电源",
+   "scene": "规格必须一致",
+   "prompt_en": "Diagram: the new power supply nameplate compared with the old for output voltage and power, a similar looking unit crossed out. No text.",
+   "narration": "输出电压功率要一致，不能凑合。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "交流接触器",
+   "scene": "接触器：控制主电路通断",
+   "prompt_en": "Diagram: an alternating current contactor on a rail switching the main circuit on and off by a small control signal. No text.",
+   "narration": "交流接触器控制主电路通断。",
+   "overlay": [
+    "交流接触器"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "交流接触器",
+   "scene": "触点粘连关不掉",
+   "prompt_en": "Diagram: welded contacts inside a contactor keeping the main circuit on after switching off, a plug pulled out icon. No text.",
+   "narration": "触点粘住关不掉，就拔插头拉闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "交流接触器",
+   "scene": "嗡嗡响、发烫要停机",
+   "prompt_en": "Diagram: a contactor with a buzzing sound icon, chattering arrows and heat waves, a stop and power off icon. No text.",
+   "narration": "持续嗡嗡响、发烫，停机报修。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "船型开关",
+   "scene": "【实拍】认读开关上的 I 和 O",
+   "prompt_en": "Close-up of a rocker power switch on the welder panel showing the line symbol for on and the circle symbol for off.",
+   "narration": "竖线是通，圆圈是断。",
+   "overlay": [
+    "船型开关"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "船型开关",
+   "scene": "按到圆圈侧，灯灭才算关",
+   "prompt_en": "Diagram: the rocker switch pressed to the circle side and its indicator light going out. No text.",
+   "narration": "按到圆圈一侧，灯灭才算关了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "船型开关",
+   "scene": "装时圆圈统一朝下",
+   "prompt_en": "Diagram: a new rocker switch inserted from outside with the circle side down, wires matched by colour. No text.",
+   "narration": "装时圆圈统一朝下，线色对端子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "旧件处置与维修记录",
+   "scene": "旧件交回，不随手扔",
+   "prompt_en": "Diagram: the old power module bagged and labelled, handed to the equipment manager for asset and electronic waste handling. No text.",
+   "narration": "旧件交设备管理员，按规定处置。",
+   "overlay": [
+    "旧件处置与维修记录"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "旧件处置与维修记录",
+   "scene": "写进维修记录",
+   "prompt_en": "Diagram: a repair log with date, part icon, photo icon, test result and signatures. No text.",
+   "narration": "更换内容和试机结果写进记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "授权、断电、放电、防静电",
+   "prompt_en": "Diagram: an authorised badge, a plug out, a discharge clock and a wrist strap. No text.",
+   "narration": "授权人员换，断电放电防静电。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "拍照、对图、轻拉、接地",
+   "prompt_en": "Diagram: a camera, a reference picture, a tug check and an earth symbol. No text.",
+   "narration": "拍照留底，对图接线，接地装回。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电源部件清单",
+   "prompt_en": "Diagram: icons for switched mode supply, power board, laser supply, direct current supply, contactor and rocker switch. No text.",
+   "narration": "认清六类电源部件的位置和作用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣拿着主控板和气动组件",
+   "prompt_en": "The panda mascot holds a control board and a small pneumatic valve assembly, waving goodbye.",
+   "narration": "下一课：焊机部件更换（二）：控制与气路部件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
