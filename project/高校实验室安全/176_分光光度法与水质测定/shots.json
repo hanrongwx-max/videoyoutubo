@@ -1,0 +1,823 @@
+{
+ "id": "176_分光光度法与水质测定",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "分光光度法与水质测定",
+ "seconds": 295,
+ "source_doc": "course/高校实验室安全/176_分光光度法与水质测定.md",
+ "author_source": "project/高校实验室安全/176_分光光度法与水质测定/src.py",
+ "points": {
+  "K1": "DNA吸收紫外光",
+  "K2": "认识分光光度计",
+  "K3": "先做空白",
+  "K4": "擦净再上样",
+  "K5": "读出浓度",
+  "K6": "看比值判断纯度",
+  "K7": "未纯化样品不可信",
+  "K8": "认清样品的风险",
+  "K9": "什么是化学需氧量",
+  "K10": "COD与BOD的区别",
+  "K11": "COD去除率",
+  "K12": "COD试剂：氧化腐蚀",
+  "K13": "加热消解防爆裂",
+  "S1": "COD废液按危废"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在分光光度计旁，手拿比色皿",
+   "prompt_en": "The panda mascot stands beside a benchtop spectrophotometer, holding a small square cuvette by its frosted sides, looking at the camera.",
+   "narration": "第15章第十四课：分光光度法与水质测定。",
+   "overlay": [
+    "分光光度法与水质测定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰拿着一管PCR反应液直接去测",
+   "prompt_en": "The young male student holds an unpurified reaction tube and walks quickly toward a micro volume spectrophotometer, smiling confidently.",
+   "narration": "阿杰拿着没纯化的反应液就去测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "读数很大，他很高兴；小研皱眉",
+   "prompt_en": "The young male student cheers at a big number on a blank computer screen while the female graduate student wearing safety goggles frowns at a strange spectrum curve.",
+   "narration": "读数好大！小研却皱起了眉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "DNA吸收紫外光",
+   "scene": "光穿过溶液，一部分被吸收",
+   "prompt_en": "Diagram: a light beam passing through a cuvette of solution, part of the beam absorbed and a weaker beam reaching a detector. No text.",
+   "narration": "光穿过溶液，一部分被吸收。",
+   "overlay": [
+    "DNA吸收紫外光"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "DNA吸收紫外光",
+   "scene": "浓度越大、光程越长，吸收越多",
+   "prompt_en": "Diagram: two cuvettes, a pale one absorbing a little light and a deeper one absorbing more, an absorbance bar rising with concentration. No text.",
+   "narration": "浓度越大、光程越长，吸光度越大。",
+   "overlay": [],
+   "labels": [
+    "A=εbc",
+    "朗伯—比尔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "DNA吸收紫外光",
+   "scene": "DNA在260纳米左右有吸收峰",
+   "prompt_en": "Diagram: four nucleotide icons with slightly different absorption curves merging into one peak near two hundred sixty nanometers. No text.",
+   "narration": "四种核苷酸合起来，峰在260纳米。",
+   "overlay": [],
+   "labels": [
+    "260 nm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识分光光度计",
+   "scene": "微量型：一两微升点在检测面上",
+   "prompt_en": "Diagram: a micro volume spectrophotometer with a small sample arm and a tiny droplet on a metal pedestal, a computer showing a curve, no logos. No text.",
+   "narration": "微量型不用比色皿，一两微升就能测。",
+   "overlay": [
+    "认识分光光度计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识分光光度计",
+   "scene": "常规型：样品装进比色皿",
+   "prompt_en": "Diagram: a conventional spectrophotometer with a lid open over a cuvette holder, a cuvette going in, no logos. No text.",
+   "narration": "常规型把样品装进比色皿测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识分光光度计",
+   "scene": "紫外区用石英比色皿",
+   "prompt_en": "Diagram: a quartz cuvette checked for ultraviolet range and a plastic cuvette checked only for visible range, a wavelength scale. No text.",
+   "narration": "测紫外用石英皿，塑料皿只用可见区。",
+   "overlay": [],
+   "labels": [
+    "石英：紫外",
+    "塑料：可见"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识分光光度计",
+   "scene": "紫外光源不直视，不开光源室",
+   "prompt_en": "Diagram: an eye looking at a glowing ultraviolet lamp inside an opened lamp housing crossed out, the lid closed checked. No text.",
+   "narration": "紫外灯伤眼，不开光源室直视。",
+   "overlay": [],
+   "labels": [
+    "见第111课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "认识分光光度计",
+   "scene": "先培训看规程，用后登记",
+   "prompt_en": "The safety administrator shows the female graduate student an operating procedure and a usage log beside the spectrophotometer.",
+   "narration": "第一次用先培训，看规程，用后登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "空白用溶解样品的同一种溶液",
+   "prompt_en": "Diagram: a sample tube and a blank tube filled with the same solvent, an equals sign between the solvent parts. No text.",
+   "narration": "第一步做空白，用同一种溶剂。",
+   "overlay": [
+    "先做空白"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "点上空白液，合上样品臂",
+   "prompt_en": "Diagram: a tiny droplet of water placed on the pedestal, the sample arm lowered gently. No text.",
+   "narration": "点上一点五微升空白，合上样品臂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "先做空白",
+   "scene": "点空白，扣除溶剂吸收",
+   "prompt_en": "Diagram: a blank button pressed and the solvent absorption subtracted to a flat baseline. No text.",
+   "narration": "点击空白，扣除溶剂本身的吸收。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净再上样",
+   "scene": "【实拍】无尘纸擦净上下检测面",
+   "prompt_en": "Close-up: a lint-free tissue wiping the lower pedestal and the upper arm surface of a micro volume spectrophotometer.",
+   "narration": "无尘纸擦净上下两个检测面。",
+   "overlay": [
+    "擦净再上样"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净再上样",
+   "scene": "【实拍】移液器竖直点样，无气泡",
+   "prompt_en": "Close-up: a pipette held vertically placing a small clear droplet onto the pedestal, the droplet round without bubbles.",
+   "narration": "移液器竖直点样，液滴不能有气泡。",
+   "overlay": [],
+   "labels": [
+    "见第165课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净再上样",
+   "scene": "【实拍】比色皿只拿毛面",
+   "prompt_en": "Close-up: gloved fingers holding a cuvette by its two frosted sides and wiping the clear optical faces with lens tissue.",
+   "narration": "比色皿只拿毛面，擦净透光面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净再上样",
+   "scene": "【实拍】装液约四分之三，光面对光路",
+   "prompt_en": "Close-up: a cuvette filled about three quarters with clear liquid, placed in the holder with the clear faces in the light path.",
+   "narration": "装液约四分之三，透光面对准光路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "擦净再上样",
+   "scene": "样品臂轻放，液体远离电脑",
+   "prompt_en": "Diagram: the sample arm lowered gently, a liquid bottle kept away from the keyboard and power outlet, a spill on the keyboard crossed out. No text.",
+   "narration": "样品臂轻抬轻放，液体远离电脑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "260纳米处出现明显吸收峰",
+   "prompt_en": "Diagram: an absorption spectrum with a clear peak at two hundred sixty nanometers. No text.",
+   "narration": "260纳米处，出现一个明显的峰。",
+   "overlay": [
+    "读出浓度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "软件按吸光度换算浓度",
+   "prompt_en": "Diagram: the peak height converted by a calculator icon into a concentration value. No text.",
+   "narration": "软件按260处吸光度换算浓度。",
+   "overlay": [],
+   "labels": [
+    "A260=1",
+    "≈50 ng/μL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "读出浓度",
+   "scene": "这个样品约200纳克每微升",
+   "prompt_en": "Diagram: a result card showing a concentration of about two hundred units with a check mark, no readable text. No text.",
+   "narration": "这个样品约200纳克每微升。",
+   "overlay": [],
+   "labels": [
+    "≈200 ng/μL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "还要看230和280处",
+   "prompt_en": "Diagram: the spectrum with small markers at two hundred thirty and two hundred eighty nanometers where impurities absorb. No text.",
+   "narration": "只看浓度不够，还要看230和280。",
+   "overlay": [
+    "看比值判断纯度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "260/280约1.8",
+   "prompt_en": "Diagram: two absorbance bars at two hundred sixty and two hundred eighty forming a ratio near one point eight, a check mark. No text.",
+   "narration": "纯DNA：260比280约1.8。",
+   "overlay": [],
+   "labels": [
+    "260/280≈1.8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "260/230约2.0–2.2",
+   "prompt_en": "Diagram: two absorbance bars at two hundred sixty and two hundred thirty forming a ratio around two, a check mark. No text.",
+   "narration": "260比230，一般在2.0到2.2。",
+   "overlay": [],
+   "labels": [
+    "260/230",
+    "≈2.0–2.2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "看比值判断纯度",
+   "scene": "又纯又浓，测量成功",
+   "prompt_en": "The female graduate student gives a thumbs up at a clean single peak spectrum on a computer screen.",
+   "narration": "又纯又浓，测量成功！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "未纯化样品不可信",
+   "scene": "未纯化反应液：230处吸收很高",
+   "prompt_en": "Diagram: a distorted spectrum with a very high signal near two hundred thirty and the main peak shifted toward two hundred eighty. No text.",
+   "narration": "未纯化的反应液，230处高得吓人。",
+   "overlay": [
+    "未纯化样品不可信"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "未纯化样品不可信",
+   "scene": "两个比值都明显偏低",
+   "prompt_en": "Diagram: two ratio gauges both pointing far below their normal zones, warning icons. No text.",
+   "narration": "两个纯度比值，都明显偏低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "未纯化样品不可信",
+   "scene": "蛋白、盐、残余核苷酸都在吸收",
+   "prompt_en": "Diagram: a reaction tube containing protein, salt and free nucleotide icons, each adding absorbance at two hundred sixty. No text.",
+   "narration": "蛋白、盐和剩余核苷酸都在捣乱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "未纯化样品不可信",
+   "scene": "数大不等于产物多，先纯化再定量",
+   "prompt_en": "Diagram: a big number crossed out, a purification column icon then a measurement icon with a check mark. No text.",
+   "narration": "数大不等于产物多，先纯化再定量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认清样品的风险",
+   "scene": "先看试剂盒标签和说明书",
+   "prompt_en": "Diagram: a reagent kit box with hazard pictograms and an instruction leaflet, a magnifier over it. No text.",
+   "narration": "用试剂盒前，先看标签和说明书。",
+   "overlay": [
+    "认清样品的风险"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认清样品的风险",
+   "scene": "重组DNA和工程菌按生物安全管理",
+   "prompt_en": "Diagram: a DNA strand and a bacteria icon inside a shield with a biohazard warning sign, a rule book. No text.",
+   "narration": "重组DNA和工程菌，按生物安全管理。",
+   "overlay": [],
+   "labels": [
+    "见第081课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "认清样品的风险",
+   "scene": "吸头、擦拭纸按规定收集",
+   "prompt_en": "Diagram: used pipette tips and wipes dropped into a labeled waste container, a general trash bin crossed out. No text.",
+   "narration": "用过的吸头和擦拭纸，按规定收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是化学需氧量",
+   "scene": "水里有能被氧化的物质",
+   "prompt_en": "Diagram: a water sample with various small pollutant particles that can be oxidized. No text.",
+   "narration": "水里有各种能被氧化的物质。",
+   "overlay": [
+    "什么是化学需氧量"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是化学需氧量",
+   "scene": "化学法氧化，消耗的氧量",
+   "prompt_en": "Diagram: an oxidizer icon breaking down the pollutant particles, an oxygen gauge showing the amount consumed. No text.",
+   "narration": "用化学法氧化，消耗的氧量就是COD。",
+   "overlay": [],
+   "labels": [
+    "COD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是化学需氧量",
+   "scene": "单位毫克每升，越高越脏",
+   "prompt_en": "Diagram: three water bottles from clear to murky with a rising bar beside each. No text.",
+   "narration": "单位毫克每升，越高污染越重。",
+   "overlay": [],
+   "labels": [
+    "mg/L"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是化学需氧量",
+   "scene": "污水和天然水体都能衡量",
+   "prompt_en": "Diagram: a wastewater outlet pipe and a river, each with a small sampling bottle. No text.",
+   "narration": "污水和河湖等天然水体，都能用它衡量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "什么是化学需氧量",
+   "scene": "难降解的也算在内",
+   "prompt_en": "Diagram: easy to degrade and hard to degrade pollutant icons both counted into one total bar. No text.",
+   "narration": "能降解的、难降解的，都算在内。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "COD与BOD的区别",
+   "scene": "BOD：细菌能分解的部分",
+   "prompt_en": "Diagram: bacteria icons eating only some of the pollutant particles, a smaller bar. No text.",
+   "narration": "生化需氧量只算细菌能分解的。",
+   "overlay": [
+    "COD与BOD的区别"
+   ],
+   "labels": [
+    "BOD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "COD与BOD的区别",
+   "scene": "COD范围更全",
+   "prompt_en": "Diagram: a large bar for chemical demand containing a smaller bar for biological demand. No text.",
+   "narration": "COD两类都算，范围更全。",
+   "overlay": [],
+   "labels": [
+    "COD ≥ BOD"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "COD去除率",
+   "scene": "处理后COD降了多少",
+   "prompt_en": "Diagram: dirty inflow water entering a treatment tank and cleaner outflow water leaving, two bars. No text.",
+   "narration": "污水处理后降了多少，就是COD去除。",
+   "overlay": [
+    "COD去除率"
+   ],
+   "labels": [
+    "进水",
+    "出水"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "COD去除率",
+   "scene": "去除率=（进水−出水）/进水×100%",
+   "prompt_en": "Diagram: a simple formula card with an inflow bar minus an outflow bar divided by the inflow bar. No text.",
+   "narration": "进水减出水，除以进水，乘一百。",
+   "overlay": [],
+   "labels": [
+    "(进−出)/进×100%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "COD去除率",
+   "scene": "两个数单位要一致",
+   "prompt_en": "Diagram: two values with matching unit icons checked, mismatched units crossed out. No text.",
+   "narration": "进水出水，单位要一致。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "COD去除率",
+   "scene": "例：500到100，去除率80%",
+   "prompt_en": "Diagram: an inflow bar of five hundred and an outflow bar of one hundred, a pie showing eighty percent removed. No text.",
+   "narration": "进水五百出水一百，去除率百分之八十。",
+   "overlay": [],
+   "labels": [
+    "500→100",
+    "80%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "COD试剂：氧化腐蚀",
+   "scene": "消解试剂：强氧化、浓酸",
+   "prompt_en": "Diagram: a sealed digestion tube with oxidizer, corrosive and health hazard pictograms, no liquid colors shown in detail. No text.",
+   "narration": "常用方法要用强氧化剂和浓酸。",
+   "overlay": [
+    "COD试剂：氧化腐蚀"
+   ],
+   "labels": [
+    "见第047课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "COD试剂：氧化腐蚀",
+   "scene": "六价铬致癌，有的还含汞盐",
+   "prompt_en": "Diagram: a health hazard pictogram over a chromium icon and a toxic pictogram over a mercury icon, a caution triangle. No text.",
+   "narration": "含六价铬会致癌，有的还含汞盐银盐。",
+   "overlay": [],
+   "labels": [
+    "见第042课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "COD试剂：氧化腐蚀",
+   "scene": "在通风柜里操作，戴齐防护",
+   "prompt_en": "The female graduate student in a lab coat, safety goggles, face shield and chemical resistant gloves works at a fume hood with the sash lowered.",
+   "narration": "在通风柜里操作，防护戴齐。",
+   "overlay": [],
+   "labels": [
+    "见第052课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "COD试剂：氧化腐蚀",
+   "scene": "按管控化学品领用登记",
+   "prompt_en": "Diagram: a locked chemical cabinet, a sign-out log book and a check mark. No text.",
+   "narration": "这些试剂按管控化学品领用登记。",
+   "overlay": [],
+   "labels": [
+    "见第045课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "加热消解防爆裂",
+   "scene": "用前检查消解管有无裂纹",
+   "prompt_en": "Diagram: a digestion tube held up to light with a magnifier showing a hairline crack, the cracked tube crossed out. No text.",
+   "narration": "用前查管子，有裂纹会破裂喷溅。",
+   "overlay": [
+    "加热消解防爆裂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "加热消解防爆裂",
+   "scene": "密闭消解管放进专用消解器",
+   "prompt_en": "Diagram: capped tubes placed in a heating block reactor inside a fume hood with the sash lowered and a clear shield in front. No text.",
+   "narration": "盖紧放进消解器，柜门放低加挡板。",
+   "overlay": [],
+   "labels": [
+    "见第124课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "加热消解防爆裂",
+   "scene": "冷却后用夹子取，不用手拿",
+   "prompt_en": "Diagram: a cooling clock icon, then tongs lifting a tube from the block, a bare hand crossed out. No text.",
+   "narration": "冷却后再用夹子取，不用手拿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "加热消解防爆裂",
+   "scene": "溅到皮肤眼睛：立即冲洗报告",
+   "prompt_en": "Diagram: an eyewash station and an emergency shower icon, a phone call icon. No text.",
+   "narration": "溅到皮肤眼睛，立即冲洗并报告。",
+   "overlay": [],
+   "labels": [
+    "见第160课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "COD废液按危废",
+   "scene": "COD废液单独收集",
+   "prompt_en": "Diagram: used digestion tubes emptied into a labeled acid resistant hazardous waste container in a fume hood, a sink crossed out. No text.",
+   "narration": "COD废液含重金属和浓酸，单独收集。",
+   "overlay": [
+    "COD废液按危废"
+   ],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "COD废液按危废",
+   "scene": "不倒水槽，交危废暂存",
+   "prompt_en": "Diagram: the sealed waste container carried to a hazardous waste storage point, a drain crossed out. No text.",
+   "narration": "绝不倒进水槽，交危废暂存点。",
+   "overlay": [],
+   "labels": [
+    "见第054课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "COD废液按危废",
+   "scene": "废管和沾染物也按危废",
+   "prompt_en": "Diagram: empty digestion tubes and contaminated wipes placed into a labeled solid hazardous waste box. No text.",
+   "narration": "废管和沾染物，也按危废处理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "分光：空白、擦净、拿毛面、看比值",
+   "prompt_en": "Diagram: a blank icon, a wiped pedestal, a cuvette held by frosted sides and a ratio icon, all checked. No text.",
+   "narration": "分光：先空白，擦干净，再看纯度比值。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "COD：去除率公式",
+   "prompt_en": "Diagram: an inflow bar and an outflow bar with a percentage pie. No text.",
+   "narration": "COD：进水减出水，除以进水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "COD试剂危险，通风柜、危废",
+   "prompt_en": "Diagram: a digestion tube with hazard pictograms, a fume hood and a hazardous waste container, all checked. No text.",
+   "narration": "COD试剂危险：通风柜、防护、危废。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一瓶白色晶体",
+   "prompt_en": "The panda mascot holds up a small vial of white crystals beside a water bath and a filter funnel, waving goodbye.",
+   "narration": "下一课：综合实验：阿司匹林合成。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
