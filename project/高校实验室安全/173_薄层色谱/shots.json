@@ -1,0 +1,1289 @@
+{
+ "id": "173_薄层色谱",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "薄层色谱",
+ "seconds": 480,
+ "source_doc": "course/高校实验室安全/173_薄层色谱.md",
+ "author_source": "project/高校实验室安全/173_薄层色谱/src.py",
+ "points": {
+  "K1": "TLC：快速分析利器",
+  "K2": "两相分离，按极性跑",
+  "K3": "认识薄层板",
+  "K4": "切玻璃板防割手",
+  "K5": "点样管：拉制防烫防火",
+  "K6": "备齐展开缸和工具",
+  "K7": "通风柜内，远离火源",
+  "K8": "滤纸贴壁，蒸气饱和",
+  "K9": "拿板边缘，铅笔画线",
+  "K10": "点位均匀，不靠边",
+  "K11": "浓度合适，斑点要小",
+  "K12": "液面低于起始线",
+  "K13": "及时取板标前沿",
+  "K14": "紫外灯下圈斑点",
+  "K15": "显色剂染色在通风柜",
+  "K16": "比移值的计算",
+  "K17": "极性与展开剂选择",
+  "K18": "同板比较读结果",
+  "K19": "共点法鉴定",
+  "K20": "监测反应，选柱溶剂",
+  "S1": "废板废液分类收集"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一块点了彩色斑点的薄层板",
+   "prompt_en": "The panda mascot holds up a small white chromatography plate with a few colored spots in a column, standing beside a fume hood, looking at the camera.",
+   "narration": "第15章第十一课：薄层色谱。",
+   "overlay": [
+    "薄层色谱"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在开放台面倒展开剂，旁边亮着加热板",
+   "prompt_en": "The young male student pours a solvent into a glass jar on an open bench next to a glowing hot plate, a red warning icon.",
+   "narration": "阿杰在台面倒溶剂，旁边还开着电热板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他用手指捏着板面，用圆珠笔画线，液面淹过斑点",
+   "prompt_en": "Diagram: fingers pinching the face of a plate, a ballpoint pen line, and solvent in a jar higher than the spots, all crossed out. No text.",
+   "narration": "手捏板面、钢笔画线，液面还淹过点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他凑近直视亮着的紫外灯，小研拦住",
+   "prompt_en": "The female graduate student stops the young male student as he leans in to stare straight at a glowing handheld ultraviolet lamp.",
+   "narration": "小研：别直视紫外灯！一步步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "TLC：快速分析利器",
+   "scene": "薄层色谱：有机实验的常用分析法",
+   "prompt_en": "Diagram: a small chromatography plate in the center with four icons around it, identify, purity, reaction progress and purification. No text.",
+   "narration": "薄层色谱，有机实验最常用的分析法。",
+   "overlay": [
+    "TLC：快速分析利器"
+   ],
+   "labels": [
+    "鉴定",
+    "纯度",
+    "跟踪反应",
+    "纯化"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "TLC：快速分析利器",
+   "scene": "又快又省，适合不易挥发的样品",
+   "prompt_en": "Diagram: a stopwatch, a tiny sample drop and a non volatile solid icon beside the plate, a check mark. No text.",
+   "narration": "又快又省样，适合不易挥发的样品。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "TLC：快速分析利器",
+   "scene": "确认产物",
+   "prompt_en": "Diagram: a product spot on the plate matching a reference spot, a check mark. No text.",
+   "narration": "做完反应，点一块板就能确认产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "TLC：快速分析利器",
+   "scene": "演示只是预习，讲义一定要读",
+   "prompt_en": "The female graduate student hands the young male student a lab manual and points at a principle diagram before the hands on work.",
+   "narration": "先懂原理再动手，讲义一定要读。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两相分离，按极性跑",
+   "scene": "萃取看溶解度，蒸馏看沸点，色谱看极性",
+   "prompt_en": "Diagram: three icons, a separatory funnel, a distillation flask and a chromatography plate, each with a different property symbol. No text.",
+   "narration": "萃取靠溶解度，蒸馏靠沸点，色谱靠极性。",
+   "overlay": [
+    "两相分离，按极性跑"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两相分离，按极性跑",
+   "scene": "固定相是吸附层，流动相是展开剂",
+   "prompt_en": "Diagram: a plate cross section with a fixed white adsorbent layer and a solvent moving upward through it by capillary action. No text.",
+   "narration": "吸附层不动是固定相，展开剂是流动相。",
+   "overlay": [],
+   "labels": [
+    "固定相",
+    "流动相"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "两相分离，按极性跑",
+   "scene": "极性小的跑得快，极性大的被拉住",
+   "prompt_en": "Diagram: two molecules moving up, a nonpolar one running far ahead and a polar one held back by attraction to the adsorbent. No text.",
+   "narration": "极性小跑得快，极性大被吸住跑得慢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识薄层板",
+   "scene": "底板上涂一层极性吸附剂",
+   "prompt_en": "Diagram: a thin layer of white silica adsorbent coated on a backing sheet, with a magnified polar surface. No text.",
+   "narration": "薄层板：底板上涂一层极性吸附剂。",
+   "overlay": [
+    "认识薄层板"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识薄层板",
+   "scene": "多数掺了荧光剂",
+   "prompt_en": "Diagram: the plate glowing green under an ultraviolet icon because of a fluorescent additive. No text.",
+   "narration": "多数还掺了荧光剂，便于紫外显色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识薄层板",
+   "scene": "塑料板便宜，剪刀就能剪",
+   "prompt_en": "Diagram: a plastic backed plate cut to size with scissors, a low price tag icon. No text.",
+   "narration": "塑料背衬板便宜，用剪刀就能剪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识薄层板",
+   "scene": "玻璃板耐热、分得更好",
+   "prompt_en": "Diagram: a glass backed plate beside a heat icon and sharper separated spots, a check mark. No text.",
+   "narration": "玻璃板更耐热，分离也常常更好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "切玻璃板防割手",
+   "scene": "大玻璃板切成几十块小板",
+   "prompt_en": "Diagram: a large square glass plate divided by pencil lines into long strips and then into many small plates. No text.",
+   "narration": "大玻璃板能切出几十块小板。",
+   "overlay": [
+    "切玻璃板防割手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "切玻璃板防割手",
+   "scene": "戴护目镜、防割手套，涂层朝下",
+   "prompt_en": "Diagram: a student in safety goggles and cut resistant gloves placing the plate coated side down on a clean dry bench, marking lines with pencil and ruler. No text.",
+   "narration": "戴护目镜防割手套，涂层面朝下。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "切玻璃板防割手",
+   "scene": "玻璃刀一次划过，借台边掰断",
+   "prompt_en": "Diagram: a glass cutter making one firm stroke along a ruler, then the score line placed on the bench edge and pressed to snap. No text.",
+   "narration": "玻璃刀一次划透，借台边一压就断。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "切玻璃板防割手",
+   "scene": "碎屑用刷子簸箕清进碎玻璃盒",
+   "prompt_en": "Diagram: small glass chips and white coating dust brushed into a dustpan and emptied into a broken glass box, bare hands crossed out. No text.",
+   "narration": "碎屑和粉尘用刷子扫，进碎玻璃盒。",
+   "overlay": [],
+   "labels": [
+    "见第151课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "细玻璃点样管",
+   "prompt_en": "Diagram: a bundle of very thin glass spotting capillaries, ready made, beside a self made thinner one. No text.",
+   "narration": "点样用很细的玻璃点样管。",
+   "overlay": [
+    "点样管：拉制防烫防火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "自拉的更细，斑点更小",
+   "prompt_en": "Diagram: a thinner capillary making a smaller spot and fitting more lanes on one plate, a check mark. No text.",
+   "narration": "自拉的更细，斑点小，一块板点更多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "火焰旁不放易燃溶剂",
+   "prompt_en": "Diagram: a small blue flame in a fume hood with solvent bottles moved far away, the area clear. No text.",
+   "narration": "拉管要用火，周围移走易燃溶剂。",
+   "overlay": [],
+   "labels": [
+    "见第031课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "中部烤软，移出火焰再拉开",
+   "prompt_en": "Diagram: the middle of a capillary softened in a blue flame, moved out of the flame and pulled apart into two thin tips. No text.",
+   "narration": "中部烤软，移出火焰再向两端拉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "热玻璃看不出烫，放耐热垫冷却",
+   "prompt_en": "Diagram: freshly pulled glass looking normal but with heat waves, placed on a heat resistant pad, a bare hand crossed out. No text.",
+   "narration": "热玻璃看不出烫，放耐热垫上冷却。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "点样管：拉制防烫防火",
+   "scene": "滴管拉制跟有经验的人学",
+   "prompt_en": "The older man shows the young male student a safe workspace, a glass dropper on a heat resistant pad, nodding as a teacher.",
+   "narration": "用滴管拉制有风险，跟有经验的人学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "备齐展开缸和工具",
+   "scene": "带盖玻璃展开缸、滤纸、展开剂",
+   "prompt_en": "Diagram: a glass jar with a tight lid, a strip of filter paper and a small bottle of developing solvent. No text.",
+   "narration": "展开缸：带盖玻璃瓶、滤纸、展开剂。",
+   "overlay": [
+    "备齐展开缸和工具"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "备齐展开缸和工具",
+   "scene": "镊子、铅笔、直尺、点样管",
+   "prompt_en": "Diagram: tweezers, a pencil, a ruler and spotting capillaries laid out beside the plate. No text.",
+   "narration": "镊子、铅笔、直尺、点样管也备好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "备齐展开缸和工具",
+   "scene": "样品多就选宽一些的板",
+   "prompt_en": "Diagram: a narrow plate with two lanes and a wider plate with four lanes, more sample vials pointing to the wide one. No text.",
+   "narration": "样品多，就选宽一点的板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "通风柜内，远离火源",
+   "scene": "取溶剂、放板取板、晾干都在通风柜",
+   "prompt_en": "Diagram: pouring solvent, placing and removing the plate and drying it, all inside a fume hood with the sash at the marked height. No text.",
+   "narration": "倒溶剂、放板取板、晾干都在柜内。",
+   "overlay": [
+    "通风柜内，远离火源"
+   ],
+   "labels": [
+    "见第052课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "通风柜内，远离火源",
+   "scene": "头不伸进去，柜内不堆杂物",
+   "prompt_en": "Diagram: a head inside the hood and clutter blocking the baffles, both crossed out. No text.",
+   "narration": "头别伸进柜，柜里不堆杂物挡气流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "通风柜内，远离火源",
+   "scene": "展开剂易燃，远离明火热源",
+   "prompt_en": "Diagram: a solvent bottle with a flammable pictogram, a flame and a glowing hot plate kept far away. No text.",
+   "narration": "展开剂多易燃，远离明火和热源。",
+   "overlay": [],
+   "labels": [
+    "见第046课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "通风柜内，远离火源",
+   "scene": "用多少取多少，随开随盖，戴护目镜",
+   "prompt_en": "Diagram: a small measured amount poured into a cylinder, the bottle capped right away, safety goggles and gloves icons. No text.",
+   "narration": "用多少取多少，随开随盖，戴护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸贴壁，蒸气饱和",
+   "scene": "【实拍】滤纸平贴缸壁",
+   "prompt_en": "Close-up: a strip of filter paper slid into a glass jar and pressed flat against the inside wall.",
+   "narration": "先把滤纸放进缸里，平贴缸壁。",
+   "overlay": [
+    "滤纸贴壁，蒸气饱和"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸贴壁，蒸气饱和",
+   "scene": "【实拍】倒入浅浅一层展开剂",
+   "prompt_en": "Close-up: a shallow layer of clear liquid about half a centimeter deep poured into the jar bottom.",
+   "narration": "倒入浅浅一层，五到八毫米深。",
+   "overlay": [],
+   "labels": [
+    "5–8 mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸贴壁，蒸气饱和",
+   "scene": "倾斜润湿滤纸，盖上盖",
+   "prompt_en": "Diagram: the jar tilted so the liquid wets the filter paper, then the lid closed. No text.",
+   "narration": "倾斜润湿滤纸，盖上盖子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "滤纸贴壁，蒸气饱和",
+   "scene": "缸内蒸气饱和，静置几分钟",
+   "prompt_en": "Diagram: the closed jar filled with vapor dots from the wet paper, a clock showing a few minutes. No text.",
+   "narration": "静置几分钟，缸里充满溶剂蒸气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拿板边缘，铅笔画线",
+   "scene": "只拿边缘，戴手套也不碰板面",
+   "prompt_en": "Diagram: gloved fingers holding a plate only by its edges, a fingertip touching the coated face crossed out with an oily smudge. No text.",
+   "narration": "只拿边缘，手上油污会沾到板上。",
+   "overlay": [
+    "拿板边缘，铅笔画线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拿板边缘，铅笔画线",
+   "scene": "在涂层面操作",
+   "prompt_en": "Diagram: the coated dull side of the plate facing up and highlighted, the shiny backing side facing down. No text.",
+   "narration": "标记点样都在有涂层的那一面。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拿板边缘，铅笔画线",
+   "scene": "只用铅笔，不用钢笔",
+   "prompt_en": "Diagram: a pencil checked, a ballpoint pen crossed out with ink climbing up the plate with the solvent. No text.",
+   "narration": "只用铅笔，墨水会跟着溶剂跑。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拿板边缘，铅笔画线",
+   "scene": "【实拍】距底约一厘米，轻画起始线",
+   "prompt_en": "Close-up: gloved fingers hold a plate by its edges while a pencil lightly draws a straight line about one centimeter above the bottom along a ruler.",
+   "narration": "距底约一厘米轻画起始线，别刮破。",
+   "overlay": [],
+   "labels": [
+    "约 1 cm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "拿板边缘，铅笔画线",
+   "scene": "线太低会被溶剂冲走",
+   "prompt_en": "Diagram: an origin line drawn too close to the bottom with spots washed into the solvent, crossed out. No text.",
+   "narration": "线太低，样品会被溶剂直接冲走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点位均匀，不靠边",
+   "scene": "在线上标出均匀分开的点位",
+   "prompt_en": "Diagram: four small pencil tick marks evenly spaced along the origin line, each lane given an icon. No text.",
+   "narration": "线上标出点位，间距均匀做好记号。",
+   "overlay": [
+    "点位均匀，不靠边"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点位均匀，不靠边",
+   "scene": "别靠边，别太挤",
+   "prompt_en": "Diagram: a spot too close to the plate edge running crooked and two spots too close merging, both crossed out. No text.",
+   "narration": "离边太近会跑偏，太挤斑点会重叠。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "点位均匀，不靠边",
+   "scene": "已知、混合、未知样各占一位",
+   "prompt_en": "Diagram: four sample vials, two references, one mixture and one unknown, each matched to a lane. No text.",
+   "narration": "两个标准品、混合物和未知样。",
+   "overlay": [],
+   "labels": [
+    "标准A",
+    "标准B",
+    "混合",
+    "未知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "浓度合适，斑点要小",
+   "scene": "样品配稀一些",
+   "prompt_en": "Diagram: a dilute sample solution in a small vial, a very faint spot and a heavy streaking spot both crossed out on either side. No text.",
+   "narration": "样品要稀：太稀看不见，太浓会拖尾。",
+   "overlay": [
+    "浓度合适，斑点要小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "浓度合适，斑点要小",
+   "scene": "【实拍】点样管轻触起始线",
+   "prompt_en": "Close-up: a thin capillary dipped into a colored dye solution, then lightly and quickly touched to a tick mark on the origin line, leaving a tiny spot.",
+   "narration": "蘸一点，在点位上轻快一碰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "浓度合适，斑点要小",
+   "scene": "干了再点，一般一到三次",
+   "prompt_en": "Diagram: the spot drying between touches, a small counter showing one to three applications. No text.",
+   "narration": "等溶剂挥发再点，一般一到三次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "浓度合适，斑点要小",
+   "scene": "斑点直径一两毫米，越小越好",
+   "prompt_en": "Diagram: a tiny one to two millimeter spot checked, a large spreading spot from holding the tube too long crossed out. No text.",
+   "narration": "斑点直径一两毫米，越小分得越清。",
+   "overlay": [],
+   "labels": [
+    "1–2 mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "浓度合适，斑点要小",
+   "scene": "一样一管，斑点分开",
+   "prompt_en": "Diagram: a separate capillary for each sample vial, a single shared capillary crossed out, the spots kept apart. No text.",
+   "narration": "换样品就换管，斑点不能连在一起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "液面低于起始线",
+   "scene": "【实拍】镊子夹板放进展开缸",
+   "prompt_en": "Close-up: tweezers hold the dried plate by its top edge and lower it gently into the jar, the shallow liquid below the pencil line.",
+   "narration": "斑点干了，用镊子把板放进缸。",
+   "overlay": [
+    "液面低于起始线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "液面低于起始线",
+   "scene": "液面必须低于起始线",
+   "prompt_en": "Diagram: the solvent level below the origin line checked, a level above the line dissolving the spots into the pool crossed out. No text.",
+   "narration": "液面一定要低于起始线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "液面低于起始线",
+   "scene": "盖好盖，板边不碰滤纸",
+   "prompt_en": "Diagram: the lid closed and the plate standing clear of the filter paper, a plate touching the paper with a crooked front crossed out. No text.",
+   "narration": "马上盖盖，板边别碰滤纸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "液面低于起始线",
+   "scene": "静静等待，不摇不碰",
+   "prompt_en": "Diagram: the solvent climbing the plate in a still closed jar, a hand shaking the jar crossed out. No text.",
+   "narration": "静静等待，别摇别碰展开缸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "及时取板标前沿",
+   "scene": "盯住前沿，离顶端留五到十毫米",
+   "prompt_en": "Diagram: the solvent front rising and stopping about half to one centimeter below the top of the plate. No text.",
+   "narration": "盯住前沿，离顶端留五到十毫米。",
+   "overlay": [
+    "及时取板标前沿"
+   ],
+   "labels": [
+    "5–10 mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "及时取板标前沿",
+   "scene": "跑到顶就算不准",
+   "prompt_en": "Diagram: a front that has reached the very top of the plate, crossed out because the distance can no longer be measured. No text.",
+   "narration": "跑到顶，比移值就没法算准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "及时取板标前沿",
+   "scene": "【实拍】取出，立刻铅笔标前沿",
+   "prompt_en": "Close-up: tweezers lift the plate out of the jar inside a fume hood and a pencil quickly marks the wet solvent front line.",
+   "narration": "取出后，趁湿立刻标出前沿。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "及时取板标前沿",
+   "scene": "在通风柜内彻底晾干",
+   "prompt_en": "Diagram: the plate resting on a clean surface inside the fume hood until fully dry, the jar closed. No text.",
+   "narration": "在通风柜里，让板彻底晾干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "紫外灯下圈斑点",
+   "scene": "有色物质直接看，多数看不见",
+   "prompt_en": "Diagram: a plate with one colored spot visible and other invisible spots shown as dotted outlines. No text.",
+   "narration": "有颜色的直接看，多数却看不见。",
+   "overlay": [
+    "紫外灯下圈斑点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "紫外灯下圈斑点",
+   "scene": "紫外灯下荧光背景上现出暗斑",
+   "prompt_en": "Diagram: inside an enclosed ultraviolet viewing box, the plate glows green and dark spots appear where the compounds are. No text.",
+   "narration": "放到紫外灯下，暗斑就显出来了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "紫外灯下圈斑点",
+   "scene": "用暗箱或戴防紫外护目镜，不直视灯",
+   "prompt_en": "Diagram: an enclosed viewing box checked, ultraviolet protective goggles checked, eyes staring at the lamp crossed out, ordinary glasses crossed out. No text.",
+   "narration": "用暗箱或戴防紫外眼镜，不直视灯。",
+   "overlay": [],
+   "labels": [
+    "见第111课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "紫外灯下圈斑点",
+   "scene": "手少在灯下停留，用完关灯",
+   "prompt_en": "Diagram: a hand under the lamp with a short timer icon, the lamp switched off after use. No text.",
+   "narration": "手别久照，用完马上关灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "紫外灯下圈斑点",
+   "scene": "铅笔圈出每个斑点",
+   "prompt_en": "Diagram: a pencil circling each dark spot on the plate. No text.",
+   "narration": "用铅笔把每个斑点圈下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "紫外看不见，用显色剂",
+   "prompt_en": "Diagram: a plate with nothing visible under ultraviolet, an arrow to a row of stain bottles. No text.",
+   "narration": "紫外下看不见，还可以用显色剂。",
+   "overlay": [
+    "显色剂染色在通风柜"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "染色是破坏性的，先看紫外",
+   "prompt_en": "Diagram: an order arrow, ultraviolet check first, then stain, a reversed order crossed out. No text.",
+   "narration": "染色不可逆，一定先看紫外再染色。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "显色剂多有毒腐蚀，在通风柜内操作",
+   "prompt_en": "Diagram: stain bottles with corrosive and oxidizer pictograms inside a fume hood, goggles and gloves icons, an open bench crossed out. No text.",
+   "narration": "显色剂多有毒腐蚀，在通风柜里做。",
+   "overlay": [],
+   "labels": [
+    "碘",
+    "高锰酸钾",
+    "磷钼酸"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "溶剂挥干后，镊子夹板浸入、沥干",
+   "prompt_en": "Diagram: a dry developed plate held with tweezers dipped briefly into a stain jar, excess dripping back, the back wiped on a paper towel. No text.",
+   "narration": "挥干后，镊子夹板浸一下、沥干。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "热风枪加热，不对人不对瓶",
+   "prompt_en": "Diagram: the plate warmed above a heat gun until spots appear, the nozzle pointed at a person or a solvent bottle crossed out. No text.",
+   "narration": "热风加热显色，风口不对人不对瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "显色剂染色在通风柜",
+   "scene": "别烤黑，多试几种显色剂",
+   "prompt_en": "Diagram: an overheated blackened plate crossed out, then the same compounds tried with several stains, one showing clear spots. No text.",
+   "narration": "加热过头会发黑，不显就换几种试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "比移值的计算",
+   "scene": "同条件下同一化合物比移值相同",
+   "prompt_en": "Diagram: two plates run under the same conditions with the same compound spot at the same height. No text.",
+   "narration": "条件相同，同一化合物比移值一样。",
+   "overlay": [
+    "比移值的计算"
+   ],
+   "labels": [
+    "比移值 Rf"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "比移值的计算",
+   "scene": "A：起始线到斑点中心",
+   "prompt_en": "Diagram: a ruler measuring from the origin line to the center of a spot, the distance labeled with a letter icon. No text.",
+   "narration": "A：起始线到斑点中心的距离。",
+   "overlay": [],
+   "labels": [
+    "A"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "比移值的计算",
+   "scene": "B：起始线到溶剂前沿",
+   "prompt_en": "Diagram: a ruler measuring from the origin line to the solvent front line. No text.",
+   "narration": "B：起始线到溶剂前沿的距离。",
+   "overlay": [],
+   "labels": [
+    "B"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "比移值的计算",
+   "scene": "Rf＝A÷B，在零和一之间",
+   "prompt_en": "Diagram: a simple division icon of the shorter distance over the longer distance giving a value between zero and one. No text.",
+   "narration": "比移值等于A除以B，不会超过一。",
+   "overlay": [],
+   "labels": [
+    "Rf = A / B"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "比移值的计算",
+   "scene": "别从板底量",
+   "prompt_en": "Diagram: a ruler measuring from the bottom edge of the plate crossed out, the correct start at the origin line checked. No text.",
+   "narration": "从起始线量，别从板底量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "极性与展开剂选择",
+   "scene": "极性越大，比移值越小",
+   "prompt_en": "Diagram: a polar compound spot low on the plate and a nonpolar compound spot high on the plate. No text.",
+   "narration": "化合物极性越大，比移值越小。",
+   "overlay": [
+    "极性与展开剂选择"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "极性与展开剂选择",
+   "scene": "展开剂极性加大，斑点都走得更远",
+   "prompt_en": "Diagram: the same samples on two plates, a more polar solvent mixture moving all spots higher. No text.",
+   "narration": "展开剂极性加大，斑点普遍走得更远。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "极性与展开剂选择",
+   "scene": "单一溶剂分不开，按比例混合",
+   "prompt_en": "Diagram: one plate with all spots stuck low, one with all spots at the top, and a mixed solvent plate with two well separated spots. No text.",
+   "narration": "一种太弱一种太强，混合就分开了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "极性与展开剂选择",
+   "scene": "比移值在零点二到零点八最好",
+   "prompt_en": "Diagram: a plate with a highlighted band from two tenths to eight tenths of the way up, spots inside it checked. No text.",
+   "narration": "比移值在零点二到零点八最好。",
+   "overlay": [],
+   "labels": [
+    "0.2–0.8"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "极性与展开剂选择",
+   "scene": "按样品选展开剂，分不开调极性",
+   "prompt_en": "Diagram: a solvent dial adjusting polarity until two close spots move apart. No text.",
+   "narration": "按样品选展开剂，分不开就调极性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "同板比较读结果",
+   "scene": "不同板之间有偏差",
+   "prompt_en": "Diagram: the same compound on two different plates at slightly different heights, a caution icon. No text.",
+   "narration": "不同板之间，比移值会有偏差。",
+   "overlay": [
+    "同板比较读结果"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "同板比较读结果",
+   "scene": "要比较就点在同一块板上",
+   "prompt_en": "Diagram: references and unknown spotted side by side on a single plate, a check mark. No text.",
+   "narration": "要比较，就点在同一块板上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "同板比较读结果",
+   "scene": "混合物两个点，未知样与B齐平",
+   "prompt_en": "Diagram: a developed plate where reference B runs higher than A, the mixture shows two spots and the unknown spot lines up with B. No text.",
+   "narration": "混合物出两个点，未知样和B一样高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "同板比较读结果",
+   "scene": "很可能是B；A走得近，极性更大",
+   "prompt_en": "Diagram: the unknown linked to B with a likely check mark and a confirm with other methods icon, an arrow noting A is more polar. No text.",
+   "narration": "未知样很可能是B，A极性更大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "共点法鉴定",
+   "scene": "每块板三个点位：未知、已知、共点",
+   "prompt_en": "Diagram: two plates with three lanes each, unknown, known reference, and a center lane where both are spotted on top of each other. No text.",
+   "narration": "共点法：未知、已知、两者叠点。",
+   "overlay": [
+    "共点法鉴定"
+   ],
+   "labels": [
+    "未知",
+    "共点",
+    "已知"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "共点法鉴定",
+   "scene": "先点已知并晾干，换样前洗管",
+   "prompt_en": "Diagram: the known spotted in the center and side lanes and dried, the capillary emptied and rinsed with clean solvent before the unknown. No text.",
+   "narration": "先点已知晾干，换样前洗净点样管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "共点法鉴定",
+   "scene": "和A共点出现两个斑点",
+   "prompt_en": "Diagram: the plate with reference A where the co spot lane splits into two spots, a not the same cross. No text.",
+   "narration": "和A叠点出两个斑点，不是A。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "共点法鉴定",
+   "scene": "和B共点只有一个斑点",
+   "prompt_en": "Diagram: the plate with reference B where the co spot lane shows one single spot, a match check. No text.",
+   "narration": "和B叠点只有一个，未知物就是B。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "监测反应，选柱溶剂",
+   "scene": "反应中途取样点板",
+   "prompt_en": "Diagram: a reaction flask sampled at several times, each sample spotted on a plate beside the starting material. No text.",
+   "narration": "反应中途取样点板，追踪进度。",
+   "overlay": [
+    "监测反应，选柱溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "监测反应，选柱溶剂",
+   "scene": "原料斑点消失，反应完成",
+   "prompt_en": "Diagram: a series of plates where the starting material spot fades and disappears while the product spot grows. No text.",
+   "narration": "原料斑点没了，反应就完成了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "监测反应，选柱溶剂",
+   "scene": "挑分得最好的展开剂用于柱色谱",
+   "prompt_en": "Diagram: several plates with different solvent mixtures, the best separated one chosen with an arrow to a glass chromatography column. No text.",
+   "narration": "挑分得最好的展开剂，用到柱色谱。",
+   "overlay": [],
+   "labels": [
+    "见第174课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "废板废液分类收集",
+   "scene": "用过的展开剂进有机废液桶",
+   "prompt_en": "Diagram: used developing solvent poured from the jar into a labeled organic waste container in the fume hood, a sink crossed out. No text.",
+   "narration": "用过的展开剂，倒进有机废液桶。",
+   "overlay": [
+    "废板废液分类收集"
+   ],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "废板废液分类收集",
+   "scene": "用过的板和沾溶剂纸巾进固废",
+   "prompt_en": "Diagram: used plates and stained paper towels placed into a labeled solid chemical waste bin. No text.",
+   "narration": "用过的板和纸巾，进固体化学废物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "废板废液分类收集",
+   "scene": "点样管进碎玻璃盒",
+   "prompt_en": "Diagram: used thin glass capillaries dropped into a broken glass box, a general trash bin crossed out. No text.",
+   "narration": "点样管是玻璃锐器，进碎玻璃盒。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "饱和展开缸、铅笔线、小斑点、液面低于线",
+   "prompt_en": "Diagram: a closed jar with wet paper, a pencil origin line, tiny spots and the solvent level below the line. No text.",
+   "narration": "缸要饱和，铅笔画线，斑点小，液面低。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "标前沿、紫外圈点、算比移值",
+   "prompt_en": "Diagram: a marked front line, circled spots under an ultraviolet icon and a ruler with a division icon. No text.",
+   "narration": "标前沿，圈斑点，从起始线算比移值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "通风柜、远离火源、护眼、废物分类",
+   "prompt_en": "Diagram: a fume hood, a flame crossed out, ultraviolet protective goggles and labeled waste bins. No text.",
+   "narration": "通风柜里操作，远离火源，护好眼睛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 96,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在装好的色谱柱旁",
+   "prompt_en": "The panda mascot stands beside a tall glass chromatography column clamped on a stand with colored bands inside, waving goodbye.",
+   "narration": "下一课：柱色谱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
