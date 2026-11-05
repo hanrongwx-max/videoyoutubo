@@ -1,0 +1,926 @@
+{
+ "id": "172_熔点测定",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "熔点测定",
+ "seconds": 340,
+ "source_doc": "course/高校实验室安全/172_熔点测定.md",
+ "author_source": "project/高校实验室安全/172_熔点测定/src.py",
+ "points": {
+  "K1": "熔点：看纯度、认身份",
+  "K2": "熔化本质与熔程",
+  "K3": "认识熔点仪",
+  "K4": "当它是热的，用完关",
+  "K5": "样品干燥、研细",
+  "K6": "毛细管装样：少而紧",
+  "K7": "先测粗熔点",
+  "K8": "先快后慢，切忌过快",
+  "K9": "记下初熔和全熔",
+  "K10": "平行测定，不重复熔",
+  "K11": "熔点低、熔程宽，不纯",
+  "K12": "查表与混合熔点",
+  "K13": "升华与分解的处理",
+  "K14": "标准物质校准",
+  "S1": "b形管油浴：防烫防火",
+  "S2": "汞温度计破碎别慌"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在熔点仪旁，手拿一根细毛细管",
+   "prompt_en": "The panda mascot stands beside a compact electric melting point apparatus with an eyepiece, holding up a thin glass capillary tube, looking at the camera.",
+   "narration": "第15章第十课：熔点测定。",
+   "overlay": [
+    "熔点测定"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把湿漉漉的大颗晶体塞满半根毛细管",
+   "prompt_en": "The young male student stuffs damp, coarse crystals into a capillary tube until it is half full, a red warning icon.",
+   "narration": "阿杰把湿的大颗晶体塞了半管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "他把旋钮拧到最大，伸手去摸加热块",
+   "prompt_en": "Diagram: a power dial turned all the way to maximum and a bare hand reaching to touch a hot metal heating block, both crossed out. No text.",
+   "narration": "旋钮拧到最大，还伸手摸加热块。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "只记了一个温度，小研摇头",
+   "prompt_en": "The female graduate student looks at a notebook with only one number written and shakes her head at the young male student beside the apparatus.",
+   "narration": "小研：这样测，数据不可信。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "熔点：看纯度、认身份",
+   "scene": "两个问题：纯不纯？是不是它？",
+   "prompt_en": "Diagram: a vial of crystals with two question icons above it, one a purity gauge and one an identity badge. No text.",
+   "narration": "晶体纯不纯？是不是要的化合物？",
+   "overlay": [
+    "熔点：看纯度、认身份"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "熔点：看纯度、认身份",
+   "scene": "测熔点两个问题都能回答",
+   "prompt_en": "Diagram: a capillary in a melting point apparatus with arrows to a purity gauge and an identity badge, both checked. No text.",
+   "narration": "测一测熔点，两个问题都能回答。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "熔点：看纯度、认身份",
+   "scene": "和粗品、文献值比一比",
+   "prompt_en": "Diagram: three temperature bars side by side, crude product, purified product and a reference book value, the purified bar matching the book. No text.",
+   "narration": "重结晶后，和粗品、文献值比一比。",
+   "overlay": [],
+   "labels": [
+    "粗品",
+    "提纯后",
+    "文献值",
+    "见第171课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化本质与熔程",
+   "scene": "分子间引力把分子拉在晶格里",
+   "prompt_en": "Diagram: molecules arranged in a neat crystal lattice held by small spring-like attraction lines. No text.",
+   "narration": "晶体里，分子间引力把分子拉住。",
+   "overlay": [
+    "熔化本质与熔程"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化本质与熔程",
+   "scene": "加热后分子振动越来越剧烈",
+   "prompt_en": "Diagram: the same lattice with heat waves below, molecules vibrating more strongly, motion lines growing. No text.",
+   "narration": "加热后分子动能变大，越振越猛。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化本质与熔程",
+   "scene": "动能胜过引力，晶格瓦解成液体",
+   "prompt_en": "Diagram: the lattice breaking apart into a disordered liquid, a balance tipping from attraction to motion. No text.",
+   "narration": "动能胜过引力，晶格瓦解成液体。",
+   "overlay": [],
+   "labels": [
+    "固液平衡"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "熔化本质与熔程",
+   "scene": "在一段温度内熔化：熔程",
+   "prompt_en": "Diagram: a temperature scale with a short highlighted band from first liquid to fully melted, an example band near one hundred fourteen degrees. No text.",
+   "narration": "固体在一段温度内熔化，叫熔程。",
+   "overlay": [],
+   "labels": [
+    "114.2–114.9 ℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识熔点仪",
+   "scene": "熔点仪部件：开关、样品座、照明、目镜",
+   "prompt_en": "Diagram: a generic electric melting point apparatus with a power switch, a sample block with capillary slots, a light and a magnifying eyepiece highlighted, no logos. No text.",
+   "narration": "熔点仪：开关、样品座、灯和目镜。",
+   "overlay": [
+    "认识熔点仪"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识熔点仪",
+   "scene": "温度显示和升温旋钮",
+   "prompt_en": "Diagram: a digital temperature display and a heating rate dial on the apparatus, both highlighted. No text.",
+   "narration": "还有温度显示和加热旋钮。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "认识熔点仪",
+   "scene": "旋钮只管升温快慢",
+   "prompt_en": "Diagram: the dial at low with a gentle slope line and at high with a steep slope line, a speed icon, not a stop point. No text.",
+   "narration": "旋钮越大升温越快，只管快慢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "当它是热的，用完关",
+   "scene": "加热块随时当它是热的",
+   "prompt_en": "Diagram: the sample block with a hot surface warning sign and heat waves, a bare hand crossed out. No text.",
+   "narration": "熔点仪随时当它是热的，别碰。",
+   "overlay": [
+    "当它是热的，用完关"
+   ],
+   "labels": [
+    "见第158课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "当它是热的，用完关",
+   "scene": "冷下来再用镊子取管",
+   "prompt_en": "Diagram: a cooling clock icon, then tweezers lifting a used capillary out of the block. No text.",
+   "narration": "冷一冷，用镊子取出熔点管。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "当它是热的，用完关",
+   "scene": "用过的熔点管进碎玻璃盒",
+   "prompt_en": "Diagram: used capillary tubes dropped into a labeled broken glass box, a general trash bin crossed out. No text.",
+   "narration": "用过的熔点管，放进碎玻璃盒。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "当它是热的，用完关",
+   "scene": "用完关闭熔点仪",
+   "prompt_en": "Diagram: a finger turning the dial to zero and switching the apparatus off. No text.",
+   "narration": "用完旋钮归零，关掉电源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "样品干燥、研细",
+   "scene": "备好刮勺、表面皿、研钵、毛细管和长玻璃管",
+   "prompt_en": "Diagram: a spatula, a watch glass, a small mortar and pestle, a bundle of capillary tubes and a long glass tube laid out on a bench. No text.",
+   "narration": "备好刮勺、表面皿、研钵和毛细管。",
+   "overlay": [
+    "样品干燥、研细"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "样品干燥、研细",
+   "scene": "湿样用滤纸吸干，不进烘箱",
+   "prompt_en": "Diagram: damp crystals pressed between filter paper, an oven crossed out because the sample may melt or decompose. No text.",
+   "narration": "样品要干，湿的用滤纸吸干。",
+   "overlay": [],
+   "labels": [
+    "见第124课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "样品干燥、研细",
+   "scene": "【实拍】大颗晶体在研钵里研细",
+   "prompt_en": "Close-up: a pestle gently grinding a few large sugar crystals into a fine powder in a small mortar, safety goggles visible.",
+   "narration": "大颗晶体研细，戴好护目镜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "样品干燥、研细",
+   "scene": "颗粒大有空隙，受热不均",
+   "prompt_en": "Diagram: coarse crystals with air gaps heating unevenly beside fine packed powder heating evenly, a check mark. No text.",
+   "narration": "颗粒大有空隙，受热就不均匀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "【实拍】毛细管开口朝下轻戳粉末",
+   "prompt_en": "Close-up: the open end of a thin capillary tube pressed down several times into a small pile of fine white powder on a watch glass.",
+   "narration": "开口朝下，轻戳几下带进样品。",
+   "overlay": [
+    "毛细管装样：少而紧"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "【实拍】正过来轻敲，样品落到管底",
+   "prompt_en": "Close-up: the capillary turned closed end down and tapped gently on the bench so the powder slides to the bottom.",
+   "narration": "正过来轻轻敲，让样品落到底。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "【实拍】从长玻璃管里落下压实",
+   "prompt_en": "Close-up: the capillary dropped closed end down through a long vertical glass tube onto the bench, bouncing to pack the powder, repeated.",
+   "narration": "落不下就从长管里丢下，压实。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "【实拍】比一比装样高度",
+   "prompt_en": "Close-up: a packed capillary held next to a small ruler, a short dense column of powder at the bottom.",
+   "narration": "装样约两三毫米，压紧不留空。",
+   "overlay": [],
+   "labels": [
+    "2–3 mm"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "装多了熔程变宽，打叉",
+   "prompt_en": "Diagram: an overfilled capillary with a tall loose column crossed out, a short packed column checked. No text.",
+   "narration": "装多装松，受热不均就不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "毛细管装样：少而紧",
+   "scene": "一份样品装四支",
+   "prompt_en": "Diagram: four packed capillary tubes in a row, one marked with a quick icon and three marked as repeats. No text.",
+   "narration": "一份样品装四支：一粗测三平行。",
+   "overlay": [],
+   "labels": [
+    "粗测",
+    "平行1",
+    "平行2",
+    "平行3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先测粗熔点",
+   "scene": "不知道大概熔点，先粗测",
+   "prompt_en": "Diagram: a question mark over a temperature scale, a fast forward arrow, a clock showing time saved. No text.",
+   "narration": "不知道大概熔点？先测个粗熔点。",
+   "overlay": [
+    "先测粗熔点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先测粗熔点",
+   "scene": "旋钮归零，等仪器冷到室温",
+   "prompt_en": "Diagram: the dial at zero and the temperature display dropping to room temperature. No text.",
+   "narration": "旋钮归零，等仪器冷到室温。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "先测粗熔点",
+   "scene": "快速升温记个大概",
+   "prompt_en": "Diagram: a steep heating line at ten to twenty degrees per minute and a rough melting mark noted. No text.",
+   "narration": "每分钟升十到二十度，记个大概。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先快后慢，切忌过快",
+   "scene": "【实拍】冷态插入毛细管",
+   "prompt_en": "Close-up: a packed capillary tube inserted gently, closed end down, into a slot of the sample block of a switched off apparatus.",
+   "narration": "装好的管子轻轻插进样品座。",
+   "overlay": [
+    "先快后慢，切忌过快"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先快后慢，切忌过快",
+   "scene": "离预期熔点还远，可快升",
+   "prompt_en": "Diagram: a temperature line rising quickly, far below an expected melting point mark. No text.",
+   "narration": "离预期熔点还远，可以快升。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先快后慢，切忌过快",
+   "scene": "近熔点放慢到每分钟一到二度",
+   "prompt_en": "Diagram: the line flattening about fifteen to twenty degrees below the expected mark, a slow snail icon. No text.",
+   "narration": "近熔点十几二十度，放慢到一两度。",
+   "overlay": [],
+   "labels": [
+    "1–2 ℃/min"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先快后慢，切忌过快",
+   "scene": "升温太快：管跟不上加热块",
+   "prompt_en": "Diagram: the block temperature racing ahead of the sample inside the capillary, a lag gap, crossed out. No text.",
+   "narration": "最常见错误：升温太快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "先快后慢，切忌过快",
+   "scene": "测得熔点偏高、熔程偏窄",
+   "prompt_en": "Diagram: a measured band shifted higher and narrower than the true band, a warning icon. No text.",
+   "narration": "测出来熔点偏高，熔程偏窄。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "记下初熔和全熔",
+   "scene": "从目镜里盯着样品",
+   "prompt_en": "The female graduate student wearing safety goggles looks into the eyepiece of the apparatus from a normal seated distance.",
+   "narration": "从目镜里盯着样品，别凑近加热块。",
+   "overlay": [
+    "记下初熔和全熔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "记下初熔和全熔",
+   "scene": "下沉、变软、收缩还不算熔",
+   "prompt_en": "Diagram: the powder column sagging, softening and shrinking, a not yet icon. No text.",
+   "narration": "样品下沉、变软、收缩，还不算熔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "记下初熔和全熔",
+   "scene": "出现第一滴液体：初熔",
+   "prompt_en": "Diagram: the first tiny drop of clear liquid appearing in the powder, a temperature reading noted. No text.",
+   "narration": "出现第一滴液体，记下初熔。",
+   "overlay": [],
+   "labels": [
+    "初熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "记下初熔和全熔",
+   "scene": "最后一粒晶体消失：全熔",
+   "prompt_en": "Diagram: the last crystal vanishing in clear liquid, a second temperature reading noted, the two forming a range. No text.",
+   "narration": "最后一粒晶体消失，记下全熔。",
+   "overlay": [],
+   "labels": [
+    "全熔"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "平行测定，不重复熔",
+   "scene": "取出丢弃，等降到熔点以下二十度",
+   "prompt_en": "Diagram: the dial turned down, the used tube removed with tweezers into a broken glass box, the display cooling to well below the melting point. No text.",
+   "narration": "取出旧管，等降到熔点下二十度。",
+   "overlay": [
+    "平行测定，不重复熔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "平行测定，不重复熔",
+   "scene": "再测两支，看能否重现",
+   "prompt_en": "Diagram: two more capillaries measured one after another, three similar ranges lined up with a check mark. No text.",
+   "narration": "再测两支，看结果能不能重现。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "平行测定，不重复熔",
+   "scene": "熔过的样品不再熔一次",
+   "prompt_en": "Diagram: a used melted capillary put back into the block crossed out, icons of oxidation and decomposition. No text.",
+   "narration": "熔过的样品可能变质，不再重熔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "熔点低、熔程宽，不纯",
+   "scene": "杂质扰乱晶格，削弱引力",
+   "prompt_en": "Diagram: a crystal lattice with a few odd impurity molecules disrupting the order, weaker attraction lines. No text.",
+   "narration": "杂质扰乱晶格，分子间引力变弱。",
+   "overlay": [
+    "熔点低、熔程宽，不纯"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "熔点低、熔程宽，不纯",
+   "scene": "熔点变低，熔程变宽",
+   "prompt_en": "Diagram: a pure sample with a narrow band and an impure sample with a lower, wider band. No text.",
+   "narration": "不纯：熔点变低，熔程变宽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "熔点低、熔程宽，不纯",
+   "scene": "熔程超过两三度，多半不纯",
+   "prompt_en": "Diagram: a band spanning several degrees with a warning icon, a sharp narrow band with a check mark. No text.",
+   "narration": "熔程超过两三度，多半不纯。",
+   "overlay": [],
+   "labels": [
+    "＞2–3 ℃"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "查表与混合熔点",
+   "scene": "和手册里的熔点比",
+   "prompt_en": "Diagram: a measured range compared with a value in a reference handbook, the handbook showing only the upper value. No text.",
+   "narration": "鉴定未知物，和手册熔点比一比。",
+   "overlay": [
+    "查表与混合熔点"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "查表与混合熔点",
+   "scene": "再结合光谱才可能确定",
+   "prompt_en": "Diagram: a melting point icon plus a spectrum chart leading to an identity check. No text.",
+   "narration": "熔点相同不够，还要结合光谱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "查表与混合熔点",
+   "scene": "未知物和推测物按比例混合",
+   "prompt_en": "Diagram: an unknown powder and a known reference powder mixed in three different ratios in three small piles. No text.",
+   "narration": "未知物和推测物，混合测熔点。",
+   "overlay": [],
+   "labels": [
+    "混合熔点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "查表与混合熔点",
+   "scene": "都一样可能是它，降低变宽就不是",
+   "prompt_en": "Diagram: three identical sharp ranges with a possible check, versus a lowered broad range with a definite cross. No text.",
+   "narration": "熔点不变可能是它，降低就不是。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "升华与分解的处理",
+   "scene": "加热时样品不见了：在升华",
+   "prompt_en": "Diagram: the powder in an open capillary disappearing as vapor rises out of the open end. No text.",
+   "narration": "样品不见了？那是在升华。",
+   "overlay": [
+    "升华与分解的处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "升华与分解的处理",
+   "scene": "开口端熔封后再测",
+   "prompt_en": "Diagram: the open end of the capillary sealed closed under teacher guidance, solvent bottles kept far away, then measured again. No text.",
+   "narration": "可把开口端熔封后再测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "升华与分解的处理",
+   "scene": "封口管会憋压，戴护目镜",
+   "prompt_en": "Diagram: a sealed capillary with pressure arrows inside, a face too close to the block crossed out, safety goggles checked. No text.",
+   "narration": "封口管受热憋压，戴护目镜只看目镜。",
+   "overlay": [],
+   "labels": [
+    "见第022课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "升华与分解的处理",
+   "scene": "变色冒烟是分解，通风处测，注明分解",
+   "prompt_en": "Diagram: the sample darkening and giving off a faint wisp, the apparatus in a well ventilated spot, a notebook with a decomposition mark. No text.",
+   "narration": "变色冒烟是分解，通风处测要注明。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "标准物质校准",
+   "scene": "测得总不对：用标准物质校准",
+   "prompt_en": "Diagram: several vials of reference substances with well known and widely spaced melting points. No text.",
+   "narration": "熔点总不准？用标准物质校准。",
+   "overlay": [
+    "标准物质校准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "标准物质校准",
+   "scene": "逐个测定，作校准曲线",
+   "prompt_en": "Diagram: a chart plotting actual values against observed values with a straight fitted line through several points. No text.",
+   "narration": "逐个测定，画出校准曲线。",
+   "overlay": [],
+   "labels": [
+    "实际值",
+    "测得值"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "标准物质校准",
+   "scene": "按曲线换算真实熔点",
+   "prompt_en": "Diagram: an arrow from an observed sample value up to the line and across to the corrected value. No text.",
+   "narration": "用曲线换算样品的真实熔点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "b形管油浴：防烫防火",
+   "scene": "老式b形管油浴：热油会烫伤",
+   "prompt_en": "Diagram: an old style b-shaped glass tube filled with heating oil clamped on a stand, a hot oil burn icon. No text.",
+   "narration": "老式b形管油浴，热油容易烫伤。",
+   "overlay": [
+    "b形管油浴：防烫防火"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "b形管油浴：防烫防火",
+   "scene": "油温过高冒烟着火，进水飞溅",
+   "prompt_en": "Diagram: overheated oil smoking with a small flame icon and a water drop falling into hot oil spattering, both crossed out. No text.",
+   "narration": "油过热会冒烟着火，进水会飞溅。",
+   "overlay": [],
+   "labels": [
+    "见第046课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "b形管油浴：防烫防火",
+   "scene": "夹牢、小心加热、冷后再拆",
+   "prompt_en": "Diagram: the tube clamped firmly, gentle heating, a cooling clock before taking apart, a dry clean tube. No text.",
+   "narration": "夹牢、慢加热、冷了再拆。",
+   "overlay": [],
+   "labels": [
+    "见第124课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "b形管油浴：防烫防火",
+   "scene": "优先用电加热熔点仪",
+   "prompt_en": "Diagram: an electric melting point apparatus checked beside the oil bath setup with a downward arrow. No text.",
+   "narration": "有条件，优先用电加热熔点仪。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "汞温度计破碎别慌",
+   "scene": "老式汞温度计：轻拿轻放",
+   "prompt_en": "Diagram: an old glass liquid temperature gauge with a silver liquid column handled gently with two hands. No text.",
+   "narration": "老式汞温度计，轻拿轻放防碰断。",
+   "overlay": [
+    "汞温度计破碎别慌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "汞温度计破碎别慌",
+   "scene": "破了不扫不吸，隔离并报告",
+   "prompt_en": "Diagram: tiny silver beads on a bench beside broken glass, a broom and a vacuum cleaner crossed out, the area roped off, a phone call icon. No text.",
+   "narration": "破了别扫别吸，隔离报告老师。",
+   "overlay": [],
+   "labels": [
+    "见第056课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "汞温度计破碎别慌",
+   "scene": "用汞处理工具包收集，按危废处理",
+   "prompt_en": "Diagram: a spill kit with a sealable container and absorbent powder, then a labeled hazardous waste container. No text.",
+   "narration": "按溢洒程序收集，作危废处理。",
+   "overlay": [],
+   "labels": [
+    "见第049课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "样品干、研细、少而紧",
+   "prompt_en": "Diagram: dry fine powder, a short packed capillary and a check mark. No text.",
+   "narration": "样品干燥研细，装得少而紧。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "先快后慢，记初熔和全熔",
+   "prompt_en": "Diagram: a heating curve flattening near the mark, and two readings forming a range. No text.",
+   "narration": "先快后慢，记下初熔和全熔。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "熔程窄而接近文献值才纯；当心烫",
+   "prompt_en": "Diagram: a narrow band matching a book value, a hot surface warning sign and a broken glass box. No text.",
+   "narration": "熔程窄、近文献值才纯，当心烫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣举着一块薄层色谱板",
+   "prompt_en": "The panda mascot holds up a small white chromatography plate with a few colored spots, standing beside a covered glass chamber, waving goodbye.",
+   "narration": "下一课：薄层色谱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
