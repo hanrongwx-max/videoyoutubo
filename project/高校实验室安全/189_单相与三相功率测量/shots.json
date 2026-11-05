@@ -1,0 +1,1324 @@
+{
+ "id": "189_单相与三相功率测量",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "单相与三相功率测量",
+ "seconds": 475,
+ "source_doc": "course/高校实验室安全/189_单相与三相功率测量.md",
+ "author_source": "project/高校实验室安全/189_单相与三相功率测量/src.py",
+ "points": {
+  "K1": "本课三个实验",
+  "K2": "功率与电能",
+  "K3": "有功、无功与视在功率",
+  "K4": "功率因数",
+  "K5": "感性滞后，容性超前",
+  "K6": "测灯具：目的与器材",
+  "K7": "按功率因数选功率表",
+  "K8": "导线测通断、分粗细",
+  "K9": "看懂电路，分清相零",
+  "K10": "功率表线圈与常数",
+  "K11": "交流电压挡，正对读数",
+  "K12": "逐盏测量，读完断电",
+  "K13": "算出功率因数",
+  "K14": "不满偏也可能过载",
+  "K15": "节能灯与LED",
+  "K16": "白炽灯最费电",
+  "K17": "三电压表法测什么",
+  "K18": "三电压表法接线",
+  "K19": "缓升读数，回零断电",
+  "K20": "电感线圈带电不拆",
+  "K21": "阻抗三角形求R和L",
+  "K22": "感抗与电感",
+  "K23": "容抗与阻抗",
+  "K24": "测交流用交流表",
+  "K25": "扼流圈与双向晶闸管",
+  "K26": "两瓦特表法",
+  "K27": "三相功率公式",
+  "K28": "由两表读数求cosφ",
+  "K29": "一表反偏：断电改接",
+  "K30": "三相电源与负载"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在实验台前，台上一只功率表和四种灯",
+   "prompt_en": "The panda mascot stands beside a powered off bench with a large wattmeter and four different lamps, looking at the camera.",
+   "narration": "第15章第二十七课：单相与三相功率测量。",
+   "overlay": [
+    "单相与三相功率测量"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰发现功率表指针反偏，伸手去拔线",
+   "prompt_en": "The young male student sees a wattmeter needle swinging backward and reaches toward its terminals on a live bench, a red warning icon.",
+   "narration": "阿杰：表反偏了，拔下线换一换？",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师先断电，摇手",
+   "prompt_en": "The safety administrator switches the bench off first and raises a hand, a crossed out live rewiring icon.",
+   "narration": "王老师：先断电，再按老师说的改。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研翻开记录本",
+   "prompt_en": "The female graduate student opens a blank lab notebook beside a three phase circuit diagram, nodding.",
+   "narration": "小研：反偏有原因，读数还要记负值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课三个实验",
+   "scene": "测各种灯的电流功率",
+   "prompt_en": "Diagram: four lamp icons, each with a current meter and a power meter icon. No text.",
+   "narration": "实验一：测各种灯的功率和功率因数。",
+   "overlay": [
+    "本课三个实验"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课三个实验",
+   "scene": "三电压表法测线圈，二瓦特表法测三相功率",
+   "prompt_en": "Diagram: three voltmeters around a resistor and a coil in series beside two wattmeters on a three phase load. No text.",
+   "narration": "实验二三电压表法，实验三两瓦特表法。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "功率与电能",
+   "scene": "功率是做功的快慢",
+   "prompt_en": "Diagram: work divided by time, a fast and a slow runner icon, a watt unit icon. No text.",
+   "narration": "功率是单位时间做的功，单位瓦。",
+   "overlay": [
+    "功率与电能"
+   ],
+   "labels": [
+    "P = W/t",
+    "单位 W"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "功率与电能",
+   "scene": "电能等于功率乘时间",
+   "prompt_en": "Diagram: a power icon multiplied by a clock icon giving an energy meter icon. No text.",
+   "narration": "电能等于功率乘时间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "功率与电能",
+   "scene": "一千瓦一小时是一度",
+   "prompt_en": "Diagram: a one kilowatt heater running for one hour, an energy meter adding one unit. No text.",
+   "narration": "一千瓦用一小时，就是一度电。",
+   "overlay": [],
+   "labels": [
+    "1度 = 1 kW·h"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "有功、无功与视在功率",
+   "scene": "有功功率真正被用掉",
+   "prompt_en": "Diagram: a lamp converting power into light and heat, a real power arrow. No text.",
+   "narration": "有功功率是真正被用掉的功率。",
+   "overlay": [
+    "有功、无功与视在功率"
+   ],
+   "labels": [
+    "P = UIcosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "有功、无功与视在功率",
+   "scene": "无功功率来回交换",
+   "prompt_en": "Diagram: energy arrows bouncing back and forth between a coil and the source. No text.",
+   "narration": "无功功率来回交换，不消耗但也必需。",
+   "overlay": [],
+   "labels": [
+    "Q = UIsinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "有功、无功与视在功率",
+   "scene": "视在功率",
+   "prompt_en": "Diagram: a right triangle with real power, reactive power and apparent power as the hypotenuse. No text.",
+   "narration": "视在功率是电压乘电流，三者成三角形。",
+   "overlay": [],
+   "labels": [
+    "S = UI",
+    "S² = P² + Q²"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "功率因数",
+   "scene": "功率因数三种说法",
+   "prompt_en": "Diagram: a voltage arrow and a current arrow with an angle between them, a cosine icon. No text.",
+   "narration": "功率因数：夹角余弦，即有功比视在。",
+   "overlay": [
+    "功率因数"
+   ],
+   "labels": [
+    "cosφ = P/S",
+    "= R/Z"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "功率因数",
+   "scene": "纯电阻功率因数为一",
+   "prompt_en": "Diagram: voltage and current waves exactly in step for a resistor. No text.",
+   "narration": "纯电阻负载，电压电流同相，等于一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "感性滞后，容性超前",
+   "scene": "感性负载滞后",
+   "prompt_en": "Diagram: a motor icon with the current wave lagging behind the voltage wave. No text.",
+   "narration": "电动机这类感性负载，功率因数滞后。",
+   "overlay": [
+    "感性滞后，容性超前"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "感性滞后，容性超前",
+   "scene": "容性负载超前",
+   "prompt_en": "Diagram: a capacitor icon with the current wave leading the voltage wave. No text.",
+   "narration": "容性负载，功率因数超前。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "感性滞后，容性超前",
+   "scene": "并联电容提高功率因数",
+   "prompt_en": "Diagram: a capacitor bank connected in parallel beside an inductive load at a substation, the power factor gauge rising. No text.",
+   "narration": "并联电容能提高功率因数，减少损耗。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测灯具：目的与器材",
+   "scene": "四种灯，测电压电流功率",
+   "prompt_en": "Diagram: an incandescent lamp, a fluorescent tube, a compact fluorescent lamp and a light emitting diode lamp in a row. No text.",
+   "narration": "测四种灯的电压、电流和功率。",
+   "overlay": [
+    "测灯具：目的与器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测灯具：目的与器材",
+   "scene": "电流表、电压表、功率表",
+   "prompt_en": "Diagram: an alternating current ammeter, a voltmeter or a multimeter, and a wattmeter on a bench. No text.",
+   "narration": "备交流电流表、电压表和功率表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "测灯具：目的与器材",
+   "scene": "【实拍】认清台上的四盏灯和三块表",
+   "prompt_en": "Close-up of four unpowered lamps of different types and three meters arranged on a powered off bench.",
+   "narration": "先认清台上的四盏灯和三块表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "按功率因数选功率表",
+   "scene": "两种功率表",
+   "prompt_en": "Diagram: a unity power factor wattmeter and a low power factor wattmeter side by side. No text.",
+   "narration": "功率表分单位功率因数和低功率因数。",
+   "overlay": [
+    "按功率因数选功率表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "按功率因数选功率表",
+   "scene": "按负载功率因数和说明书选",
+   "prompt_en": "Diagram: a lamp with a power factor gauge pointing to the matching wattmeter, a teacher icon with a manual. No text.",
+   "narration": "按灯的功率因数、功率和说明书选表。",
+   "overlay": [],
+   "labels": [
+    "见第185课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "导线测通断、分粗细",
+   "scene": "【实拍】用万用表通断挡测导线",
+   "prompt_en": "Close-up of a multimeter on the continuity position testing a loose plug lead that is not connected to any circuit.",
+   "narration": "导线用前，先用万用表测通断。",
+   "overlay": [
+    "导线测通断、分粗细"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "导线测通断、分粗细",
+   "scene": "断线挑出不用",
+   "prompt_en": "Diagram: a lead with a hidden internal break and no beep icon, put aside into a reject box. No text.",
+   "narration": "内部断了的线，挑出来不用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "导线测通断、分粗细",
+   "scene": "电流回路粗线，电压回路细线",
+   "prompt_en": "Diagram: a thick lead in the current loop and a thin lead in the voltage measurement branch. No text.",
+   "narration": "电流回路用粗线，电压回路可细些。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "看懂电路，分清相零",
+   "scene": "电源经开关，串电流表和功率表",
+   "prompt_en": "Diagram: a supply through a switch, then an ammeter and the wattmeter current coil in series, a voltmeter across the lamp. No text.",
+   "narration": "电源经开关，串电流表和功率表。",
+   "overlay": [
+    "看懂电路，分清相零"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "看懂电路，分清相零",
+   "scene": "电压表并在灯两端",
+   "prompt_en": "Diagram: a voltmeter connected across the lamp terminals. No text.",
+   "narration": "电压表并在灯两端，测灯的电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "看懂电路，分清相零",
+   "scene": "分清相线和零线",
+   "prompt_en": "Diagram: two supply conductors marked line and neutral by icons, a lab marking chart. No text.",
+   "narration": "先按本实验室标识，分清相线零线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "功率表线圈与常数",
+   "scene": "电流线圈串，电压线圈并",
+   "prompt_en": "Diagram: a wattmeter with four terminals, the current coil in series with the load and the voltage coil across it. No text.",
+   "narration": "四个端子：电流线圈串，电压线圈并。",
+   "overlay": [
+    "功率表线圈与常数"
+   ],
+   "labels": [
+    "电流线圈",
+    "电压线圈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "功率表线圈与常数",
+   "scene": "读数乘常数才是功率",
+   "prompt_en": "Diagram: dial divisions multiplied by a constant to give the real power, the range selector changed and the constant recalculated. No text.",
+   "narration": "格数乘常数是功率，换了量程重算。",
+   "overlay": [],
+   "labels": [
+    "P = 格数×K"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "交流电压挡，正对读数",
+   "scene": "【实拍】万用表拨到交流电压挡",
+   "prompt_en": "Close-up of a hand turning a multimeter dial to the alternating voltage position, probes not connected.",
+   "narration": "万用表当电压表，先拨交流电压挡。",
+   "overlay": [
+    "交流电压挡，正对读数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "交流电压挡，正对读数",
+   "scene": "挡位错会损坏",
+   "prompt_en": "Diagram: a multimeter on the current position across a voltage, a spark icon, crossed out. No text.",
+   "narration": "挡位拨错，读数不对还会烧表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "交流电压挡，正对读数",
+   "scene": "正对表盘读数",
+   "prompt_en": "Diagram: an eye looking straight at a meter needle checked, an eye looking from an angle crossed out. No text.",
+   "narration": "读指针表要正对表盘，量程对刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐盏测量，读完断电",
+   "scene": "接好线、查过再合闸",
+   "prompt_en": "The safety administrator checks the lamp circuit on a powered off bench, then the female graduate student switches on.",
+   "narration": "按图接好，老师查过，再合闸。",
+   "overlay": [
+    "逐盏测量，读完断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐盏测量，读完断电",
+   "scene": "依次读电压、功率、电流",
+   "prompt_en": "Diagram: three meter icons read in order and values written into a table. No text.",
+   "narration": "依次读电压、功率、电流，记进表格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐盏测量，读完断电",
+   "scene": "读完断电，再换灯",
+   "prompt_en": "Diagram: the bench switched off, then the next lamp fitted, numbered order. No text.",
+   "narration": "读完就断电，再换下一盏灯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐盏测量，读完断电",
+   "scene": "LED电流小，读数仔细",
+   "prompt_en": "Diagram: a light emitting diode lamp with a tiny current needle deflection and a magnifier. No text.",
+   "narration": "LED电流很小，读数要仔细。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "算出功率因数",
+   "scene": "功率因数等于P除以UI",
+   "prompt_en": "Diagram: power reading divided by voltage times current giving the power factor, a gauge with its maximum at one. No text.",
+   "narration": "功率因数等于P除以UI，最大为一。",
+   "overlay": [
+    "算出功率因数"
+   ],
+   "labels": [
+    "cosφ = P/(UI)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不满偏也可能过载",
+   "scene": "功率因数低，不满偏也可能过载",
+   "prompt_en": "Diagram: a wattmeter needle at low deflection while its current coil glows with overload heat. No text.",
+   "narration": "功率因数低，不满偏也可能过载。",
+   "overlay": [
+    "不满偏也可能过载"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不满偏也可能过载",
+   "scene": "同时用电流表电压表盯着",
+   "prompt_en": "Diagram: an ammeter and a voltmeter watched together with the wattmeter, limit lines on each. No text.",
+   "narration": "同时接电流表、电压表盯着看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "不满偏也可能过载",
+   "scene": "超量程立即断电",
+   "prompt_en": "Diagram: a needle beyond its range, a hand switching off, a larger range meter swapped in. No text.",
+   "narration": "电流电压超量程，立即断电换表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "节能灯与LED",
+   "scene": "节能灯是紧凑型荧光灯",
+   "prompt_en": "Diagram: a compact fluorescent lamp with a discharge glow and a phosphor coated tube giving white light. No text.",
+   "narration": "节能灯是紧凑型荧光灯，荧光粉发光。",
+   "overlay": [
+    "节能灯与LED"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "节能灯与LED",
+   "scene": "LED电直接变成光",
+   "prompt_en": "Diagram: a light emitting diode chip converting electricity directly into light. No text.",
+   "narration": "LED是发光二极管，电直接变成光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "节能灯与LED",
+   "scene": "荧光灯功率因数较低",
+   "prompt_en": "Diagram: a fluorescent tube with an inductive ballast, a lagging power factor gauge and a compensation capacitor. No text.",
+   "narration": "电感镇流器荧光灯，功率因数较低。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "白炽灯最费电",
+   "scene": "白炽灯最费电",
+   "prompt_en": "Diagram: an incandescent lamp with large heat waves and a small light beam, an energy meter spinning fast. No text.",
+   "narration": "白炽灯最费电，电能大多变成了热。",
+   "overlay": [
+    "白炽灯最费电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "白炽灯最费电",
+   "scene": "LED最省电",
+   "prompt_en": "The young male student replaces an old desk lamp bulb with a light emitting diode bulb, the lamp unplugged.",
+   "narration": "LED最省电，阿杰把台灯换成LED。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "白炽灯最费电",
+   "scene": "白炽灯功率因数接近一",
+   "prompt_en": "Diagram: an incandescent lamp with a power factor gauge near one and a light emitting diode lamp with a lagging gauge. No text.",
+   "narration": "白炽灯功率因数近于一，LED常滞后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "白炽灯最费电",
+   "scene": "同电压100瓦更亮",
+   "prompt_en": "Diagram: a one hundred watt bulb glowing brighter than a sixty watt bulb, a thinner resistance icon for the brighter one. No text.",
+   "narration": "同电压下，100瓦灯更亮，灯丝电阻小。",
+   "overlay": [],
+   "labels": [
+    "P = U²/R"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三电压表法测什么",
+   "scene": "测线圈的电阻和电感",
+   "prompt_en": "Diagram: a coil drawn as a resistor and an inductor in series, a question mark on each. No text.",
+   "narration": "三电压表法，测线圈的电阻和电感。",
+   "overlay": [
+    "三电压表法测什么"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "三电压表法测什么",
+   "scene": "已知电阻与线圈串联",
+   "prompt_en": "Diagram: a known resistor in series with an unknown coil, three voltmeters each across one part. No text.",
+   "narration": "已知电阻和线圈串联，三表各测一段。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三电压表法接线",
+   "scene": "线圈、三块电压表、电流表、变阻器",
+   "prompt_en": "Diagram: a choke coil, three alternating current voltmeters, one ammeter and a rheostat as a current limiter. No text.",
+   "narration": "线圈、三块电压表、电流表、变阻器。",
+   "overlay": [
+    "三电压表法接线"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三电压表法接线",
+   "scene": "电源经熔断器接调压器",
+   "prompt_en": "Diagram: the supply through a fuse into a variable transformer, then an ammeter, a resistor and the coil in series. No text.",
+   "narration": "电源经熔断器接调压器，串电阻和线圈。",
+   "overlay": [],
+   "labels": [
+    "见第186课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三电压表法接线",
+   "scene": "V1总电压，V2电阻，V3线圈",
+   "prompt_en": "Diagram: voltmeter one across the whole series circuit, voltmeter two across the resistor, voltmeter three across the coil. No text.",
+   "narration": "V1测总电压，V2测电阻，V3测线圈。",
+   "overlay": [],
+   "labels": [
+    "V1",
+    "V2",
+    "V3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三电压表法接线",
+   "scene": "【实拍】断电时先接串联再并电压表",
+   "prompt_en": "Close-up of hands connecting a voltmeter across a coil after the series loop is complete, on a powered off bench.",
+   "narration": "先接串联那一路，最后并电压表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "三电压表法接线",
+   "scene": "交流表标交流符号",
+   "prompt_en": "Diagram: meter symbols in a circuit diagram each with a small wave mark. No text.",
+   "narration": "交流电路用交流表，图上标交流符号。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "缓升读数，回零断电",
+   "scene": "检查无误再合闸",
+   "prompt_en": "Diagram: a teacher check icon, the variable transformer knob at zero, then the switch closed. No text.",
+   "narration": "检查无误、调压器在零位，再合闸。",
+   "overlay": [
+    "缓升读数，回零断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "缓升读数，回零断电",
+   "scene": "从低往高调一个电压，读一组",
+   "prompt_en": "Diagram: the knob turned to a low setting, then the ammeter and three voltmeters read and recorded. No text.",
+   "narration": "从低往高调，读一组记一组，多测几组。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "缓升读数，回零断电",
+   "scene": "不超额定值",
+   "prompt_en": "Diagram: each meter, the coil and the rheostat with a rating line, all needles below the line. No text.",
+   "narration": "电压别超过线圈、电阻和电表额定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "缓升读数，回零断电",
+   "scene": "做完先回零，再断电",
+   "prompt_en": "Diagram: the knob returned to zero first, then the main switch opened. No text.",
+   "narration": "做完先把调压器回零，再断电。",
+   "overlay": [],
+   "labels": [
+    "①回零",
+    "②断电"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "电感线圈带电不拆",
+   "scene": "断开线圈有感应电压",
+   "prompt_en": "Diagram: a coil with a spark at a suddenly opened connection, an induced voltage spike icon. No text.",
+   "narration": "线圈突然断开，会产生感应电压。",
+   "overlay": [
+    "电感线圈带电不拆"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "电感线圈带电不拆",
+   "scene": "通电时不拔线圈接线",
+   "prompt_en": "Diagram: a hand pulling a lead off a live coil crossed out. No text.",
+   "narration": "通电时，不许拔线圈上的接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "电感线圈带电不拆",
+   "scene": "回零断电再拆",
+   "prompt_en": "Diagram: the knob at zero and the switch off, then the coil leads removed. No text.",
+   "narration": "先回零、断电，再拆线圈接线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "阻抗三角形求R和L",
+   "scene": "求线圈功率因数",
+   "prompt_en": "Diagram: a phasor triangle formed by the three voltmeter readings with the coil angle marked. No text.",
+   "narration": "由三个电压求功率因数，公式会用即可。",
+   "overlay": [
+    "阻抗三角形求R和L"
+   ],
+   "labels": [
+    "由三电压求"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "阻抗三角形求R和L",
+   "scene": "阻抗等于V3除以电流",
+   "prompt_en": "Diagram: an impedance triangle with the hypotenuse equal to the coil voltage divided by current. No text.",
+   "narration": "线圈阻抗等于V3除以电流。",
+   "overlay": [],
+   "labels": [
+    "Z = V3/I"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "阻抗三角形求R和L",
+   "scene": "电阻乘余弦，感抗乘正弦",
+   "prompt_en": "Diagram: the impedance triangle split into a resistance side using cosine and a reactance side using sine. No text.",
+   "narration": "电阻是Z乘余弦，感抗是Z乘正弦。",
+   "overlay": [],
+   "labels": [
+    "r = Zcosφ",
+    "XL = Zsinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "阻抗三角形求R和L",
+   "scene": "电感等于感抗除以角频率",
+   "prompt_en": "Diagram: inductive reactance divided by two pi times frequency giving inductance. No text.",
+   "narration": "电感等于感抗除以角频率。",
+   "overlay": [],
+   "labels": [
+    "L = XL/(2πf)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "感抗与电感",
+   "scene": "感抗：电感对交流的阻碍",
+   "prompt_en": "Diagram: an inductor slowing an alternating current arrow, an ohm unit icon. No text.",
+   "narration": "感抗是电感对交流的阻碍，电感单位亨利。",
+   "overlay": [
+    "感抗与电感"
+   ],
+   "labels": [
+    "XL = ωL",
+    "Ω",
+    "H"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "感抗与电感",
+   "scene": "感抗与频率成正比",
+   "prompt_en": "Diagram: a rising straight line of reactance against frequency. No text.",
+   "narration": "感抗与频率成正比，频率越高越大。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "感抗与电感",
+   "scene": "赫兹与弧度每秒",
+   "prompt_en": "Diagram: a frequency icon in hertz and an angular frequency icon in radians per second. No text.",
+   "narration": "频率单位赫兹，角频率是弧度每秒。",
+   "overlay": [],
+   "labels": [
+    "Hz",
+    "rad/s",
+    "ω = 2πf"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "容抗与阻抗",
+   "scene": "容抗与频率成反比",
+   "prompt_en": "Diagram: a capacitor icon and a falling curve of reactance against frequency. No text.",
+   "narration": "容抗等于一除以ωC，与频率成反比。",
+   "overlay": [
+    "容抗与阻抗"
+   ],
+   "labels": [
+    "XC = 1/(ωC)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "容抗与阻抗",
+   "scene": "阻抗是总阻碍",
+   "prompt_en": "Diagram: a resistor, an inductor and a capacitor combined into one impedance block, a Z symbol. No text.",
+   "narration": "阻抗是交流电路的总阻碍，单位欧姆。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "容抗与阻抗",
+   "scene": "感抗容抗先相减",
+   "prompt_en": "Diagram: an impedance triangle with the reactance side equal to inductive minus capacitive reactance. No text.",
+   "narration": "串联时，感抗容抗先相减再合成。",
+   "overlay": [],
+   "labels": [
+    "Z = √(R²+(XL−XC)²)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "测交流用交流表",
+   "scene": "测交流选动铁式",
+   "prompt_en": "Diagram: a moving iron meter with a wave symbol checked for an alternating circuit. No text.",
+   "narration": "测交流，选动铁式等交流仪表。",
+   "overlay": [
+    "测交流用交流表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K24",
+   "section_title": "测交流用交流表",
+   "scene": "动圈式只测直流",
+   "prompt_en": "Diagram: a moving coil meter on an alternating circuit crossed out. No text.",
+   "narration": "动圈式只能测直流，别接到交流上。",
+   "overlay": [],
+   "labels": [
+    "见第185课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "扼流圈与双向晶闸管",
+   "scene": "扼流线圈是电感器",
+   "prompt_en": "Diagram: an iron cored choke coil drawn as an inductor symbol. No text.",
+   "narration": "扼流线圈，就是一种电感器。",
+   "overlay": [
+    "扼流圈与双向晶闸管"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K25",
+   "section_title": "扼流圈与双向晶闸管",
+   "scene": "双向晶闸管调交流电压",
+   "prompt_en": "Diagram: a three terminal bidirectional thyristor symbol controlling the brightness of a lamp. No text.",
+   "narration": "电子调压用双向晶闸管，双向导通。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "两瓦特表法",
+   "scene": "负载对称不对称都能测",
+   "prompt_en": "Diagram: a balanced and an unbalanced three phase load, both measured with two wattmeters. No text.",
+   "narration": "两瓦特表法，负载对称不对称都能测。",
+   "overlay": [
+    "两瓦特表法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "两瓦特表法",
+   "scene": "两表接在任意两根相线",
+   "prompt_en": "Diagram: current coils of two wattmeters in two line conductors, their voltage coils connected to the third line. No text.",
+   "narration": "电流线圈串两根相线，电压线圈接第三线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K26",
+   "section_title": "两瓦特表法",
+   "scene": "总功率等于两表相加",
+   "prompt_en": "Diagram: two wattmeter readings added together into a total real power icon. No text.",
+   "narration": "总有功功率，等于两表读数相加。",
+   "overlay": [],
+   "labels": [
+    "P = W1 + W2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "三相功率公式",
+   "scene": "用线量写有√3",
+   "prompt_en": "Diagram: a three phase power formula icon with line voltage, line current and a root three factor. No text.",
+   "narration": "用线量写：根号三乘线压线流乘cosφ。",
+   "overlay": [
+    "三相功率公式"
+   ],
+   "labels": [
+    "P=√3U线I线",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "三相功率公式",
+   "scene": "用相量写乘3",
+   "prompt_en": "Diagram: three identical phase power blocks added together. No text.",
+   "narration": "用相量写：三倍相电压乘相电流乘cosφ。",
+   "overlay": [],
+   "labels": [
+    "P=3U相I相",
+    "×cosφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "K27",
+   "section_title": "三相功率公式",
+   "scene": "无功换成正弦",
+   "prompt_en": "Diagram: the same formula with the cosine icon replaced by a sine icon. No text.",
+   "narration": "无功功率：把余弦换成正弦。",
+   "overlay": [],
+   "labels": [
+    "Q=√3U线I线",
+    "×sinφ"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "由两表读数求cosφ",
+   "scene": "由两表读数求正切",
+   "prompt_en": "Diagram: two wattmeter readings combined into a tangent of the phase angle. No text.",
+   "narration": "由两表读数，先算出相角的正切。",
+   "overlay": [
+    "由两表读数求cosφ"
+   ],
+   "labels": [
+    "tanφ=√3",
+    "×(W1−W2)",
+    "÷(W1+W2)"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "由两表读数求cosφ",
+   "scene": "反求角度取余弦",
+   "prompt_en": "Diagram: an angle found from the tangent and then its cosine taken as the power factor. No text.",
+   "narration": "反求角度再取余弦，就是功率因数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 85,
+   "seconds": 5,
+   "section": "K28",
+   "section_title": "由两表读数求cosφ",
+   "scene": "先后约定以指导书为准",
+   "prompt_en": "Diagram: a lab manual icon beside two wattmeter labels. No text.",
+   "narration": "两表谁是W1，以实验指导书为准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 86,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "一表反偏：断电改接",
+   "scene": "功率因数低一表反偏",
+   "prompt_en": "Diagram: one wattmeter needle swinging backward below zero while the power factor gauge is low. No text.",
+   "narration": "功率因数低于0.5，一块表会反偏。",
+   "overlay": [
+    "一表反偏：断电改接"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 87,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "一表反偏：断电改接",
+   "scene": "不能带电拔线换线",
+   "prompt_en": "Diagram: a hand pulling a lead from a live wattmeter crossed out. No text.",
+   "narration": "不能带电拔线、换线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 88,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "一表反偏：断电改接",
+   "scene": "【实拍】断电后调换电压线圈接线",
+   "prompt_en": "Close-up of hands swapping the two voltage coil leads of a wattmeter on a powered off bench while a teacher watches.",
+   "narration": "先断电，在老师指导下调换电压线圈。",
+   "overlay": [],
+   "labels": [
+    "电压线圈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 89,
+   "seconds": 5,
+   "section": "K29",
+   "section_title": "一表反偏：断电改接",
+   "scene": "查过再通电，读数记负值",
+   "prompt_en": "Diagram: a teacher check icon, power on, the reading written with a minus sign, then the algebraic sum. No text.",
+   "narration": "老师查过再通电，读数记为负值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 90,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "三相电源与负载",
+   "scene": "三相电源：交流发电机",
+   "prompt_en": "Diagram: a three phase alternator in a power station supplying three line conductors. No text.",
+   "narration": "三相电源，比如交流发电机。",
+   "overlay": [
+    "三相电源与负载"
+   ],
+   "labels": [
+    "见第188课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 91,
+   "seconds": 5,
+   "section": "K30",
+   "section_title": "三相电源与负载",
+   "scene": "三相负载：异步电动机",
+   "prompt_en": "Diagram: a three phase induction motor with a guard on its shaft. No text.",
+   "narration": "三相负载，最典型的是异步电动机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 92,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "功率因数等于P除以UI，选对功率表",
+   "prompt_en": "Diagram: a power factor formula icon and two kinds of wattmeters, the matching one checked. No text.",
+   "narration": "功率因数P除以UI，按负载选功率表。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 93,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "三电压表法：回零缓升，线圈断电再拆",
+   "prompt_en": "Diagram: a knob at zero, a rising arrow and a coil with a power off icon. No text.",
+   "narration": "三电压表法：回零缓升，断电拆线圈。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 94,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "两表相加，反偏断电改接记负",
+   "prompt_en": "Diagram: two wattmeter readings added, one with a minus sign, a power off icon before rewiring. No text.",
+   "narration": "两表相加；反偏先断电改接，记负值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 95,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一个直流电路板前",
+   "prompt_en": "The panda mascot stands beside a direct current circuit board with several resistors and two loops highlighted, waving goodbye.",
+   "narration": "下一课：基尔霍夫定律与功率传输。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
