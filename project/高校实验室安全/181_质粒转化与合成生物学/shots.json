@@ -1,0 +1,1154 @@
+{
+ "id": "181_质粒转化与合成生物学",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "质粒转化与合成生物学",
+ "seconds": 420,
+ "source_doc": "course/高校实验室安全/181_质粒转化与合成生物学.md",
+ "author_source": "project/高校实验室安全/181_质粒转化与合成生物学/src.py",
+ "points": {
+  "K1": "遗传转化与转基因",
+  "K2": "质粒与转化原理",
+  "S1": "感受态与热激",
+  "K3": "教学质粒与受体菌",
+  "K4": "四个平板看结果",
+  "S2": "实验前审批与记录",
+  "S3": "抗性基因不外流",
+  "S4": "灭活后再处置",
+  "K5": "什么是模型",
+  "K6": "三类模型",
+  "K7": "设计—构建—测试",
+  "K8": "建模的作用与局限",
+  "K9": "中心法则与四元件",
+  "K10": "组成型与受调控",
+  "K11": "用方程描述表达",
+  "K12": "参数从哪里来",
+  "K13": "激活与阻遏曲线",
+  "K14": "荧光报告与校准",
+  "K15": "机理模型与数据模型"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣举着一个彩色珠子串成的质粒环模型",
+   "prompt_en": "The panda mascot holds up a ring shaped plasmid model made of colored beads beside a laptop showing a simple curve, looking at the camera.",
+   "narration": "第15章第十九课：质粒转化与合成生物学。",
+   "overlay": [
+    "质粒转化与合成生物学"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰想把转化的平板带回宿舍给室友看",
+   "prompt_en": "The young male student slips a glowing petri dish into his backpack at the lab door, a red warning icon.",
+   "narration": "阿杰想把发光平板带回宿舍炫一下。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拦住：转基因材料不能带出",
+   "prompt_en": "The safety administrator stops him at the door and points to a biohazard waste bin and a sealed autoclave bag.",
+   "narration": "王老师：转基因材料，一律不出实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研：先懂原理，再按审批和规程做",
+   "prompt_en": "The female graduate student in a lab coat holds a protocol sheet and a plasmid model, nodding. The sheet is blank.",
+   "narration": "小研：懂原理，守审批，规范做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "遗传转化与转基因",
+   "scene": "把基因从一种生物转到另一种",
+   "prompt_en": "Diagram: a gene icon moving from one organism icon to another with the help of a small DNA ring carrier. No text.",
+   "narration": "遗传转化：把基因转到另一种生物里。",
+   "overlay": [
+    "遗传转化与转基因"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "遗传转化与转基因",
+   "scene": "得到外来基因的叫转基因生物",
+   "prompt_en": "Diagram: an organism with a new gene highlighted inside, a badge icon. No text.",
+   "narration": "得到外来基因的生物，叫转基因生物。",
+   "overlay": [],
+   "labels": [
+    "转基因生物"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "遗传转化与转基因",
+   "scene": "转化是遗传修饰的一种方法",
+   "prompt_en": "Diagram: a toolbox of genetic modification methods with the transformation tool highlighted, an engineered DNA carrier icon. No text.",
+   "narration": "借人工改造的DNA运送，是遗传修饰方法之一。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "遗传转化与转基因",
+   "scene": "例：分解溢油、抗虫、产药用蛋白",
+   "prompt_en": "Diagram: three icons, a bacterium eating an oil droplet, a crop leaf resisting a pest, a bacterium producing a medicine protein. No text.",
+   "narration": "例如分解溢油的菌、抗虫作物、产药菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "质粒与转化原理",
+   "scene": "质粒：染色体外的环状DNA",
+   "prompt_en": "Diagram: a bacterial cell with a large chromosome and a few small separate DNA rings. No text.",
+   "narration": "质粒是染色体外的环状DNA。",
+   "overlay": [
+    "质粒与转化原理"
+   ],
+   "labels": [
+    "质粒",
+    "染色体"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "质粒与转化原理",
+   "scene": "能自我复制，不干扰宿主",
+   "prompt_en": "Diagram: one small DNA ring copying itself into two inside a cell, the chromosome untouched. No text.",
+   "narration": "它能自我复制，不干扰宿主染色体。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "质粒与转化原理",
+   "scene": "限制酶剪开，插入新基因",
+   "prompt_en": "Diagram: scissors cutting the DNA ring open, a new gene segment inserted, the ring closing again. No text.",
+   "narration": "用限制性内切酶剪开，插入新基因。",
+   "overlay": [],
+   "labels": [
+    "剪开",
+    "插入",
+    "闭合"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "质粒与转化原理",
+   "scene": "细菌摄取质粒，基因表达",
+   "prompt_en": "Diagram: a bacterium taking up a small DNA ring and then making a new protein. No text.",
+   "narration": "细菌摄取质粒，上面的基因就能表达。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "感受态与热激",
+   "scene": "感受态细胞：更容易接收DNA",
+   "prompt_en": "Diagram: bacteria with slightly opened cell walls ready to take up DNA rings, a snowflake icon beside the tube. No text.",
+   "narration": "感受态细胞更容易接收质粒。",
+   "overlay": [
+    "感受态与热激"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "感受态与热激",
+   "scene": "【实拍】感受态管插在冰上",
+   "prompt_en": "Close-up of gloved hands placing small closed tubes into a box of crushed ice on a bench.",
+   "narration": "感受态细胞全程放冰上，轻拿轻放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "感受态与热激",
+   "scene": "热激：冷热骤变帮DNA进入",
+   "prompt_en": "Diagram: a tube moving from an ice box to a warm bath and back to ice, a DNA ring entering a cell. No text.",
+   "narration": "热激：冷热骤变，帮质粒进入细胞。",
+   "overlay": [],
+   "labels": [
+    "参数按讲义"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "感受态与热激",
+   "scene": "加培养液复苏，再涂平板",
+   "prompt_en": "Diagram: recovery medium added to the tube, a short incubation icon, then cells spread on a plate. No text.",
+   "narration": "加培养液复苏，再涂到选择平板上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "感受态与热激",
+   "scene": "【实拍】无菌涂布棒涂布",
+   "prompt_en": "Close-up of a gloved hand gently spreading with a sterile disposable spreader on an empty sterile agar plate, the lid held close.",
+   "narration": "无菌涂布，按无菌操作要求。",
+   "overlay": [],
+   "labels": [
+    "见第178课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "教学质粒与受体菌",
+   "scene": "教学用发光质粒：两个基因",
+   "prompt_en": "Diagram: a teaching plasmid ring with a green glow gene and an antibiotic resistance gene marked by icons. No text.",
+   "narration": "教学质粒带两个基因：发光和抗氨苄。",
+   "overlay": [
+    "教学质粒与受体菌"
+   ],
+   "labels": [
+    "绿色荧光",
+    "抗氨苄"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "教学质粒与受体菌",
+   "scene": "阿拉伯糖开启发光基因",
+   "prompt_en": "Diagram: a sugar molecule acting like a key turning on the glow gene switch. No text.",
+   "narration": "发光基因要靠阿拉伯糖来开启。",
+   "overlay": [],
+   "labels": [
+    "阿拉伯糖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "教学质粒与受体菌",
+   "scene": "受体菌：无害的实验室菌株",
+   "prompt_en": "Diagram: a lab strain bacterium with a safe check badge next to a disease causing bacterium crossed out. No text.",
+   "narration": "受体菌是无害的实验室大肠杆菌菌株。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "教学质粒与受体菌",
+   "scene": "没被转化的，遇氨苄就死",
+   "prompt_en": "Diagram: an untransformed bacterium fading out on an antibiotic plate. No text.",
+   "narration": "没被转化的菌，遇到氨苄就活不了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "【实拍】给四块平板做标记",
+   "prompt_en": "Close-up of a gloved hand writing small marks on the bottom edges of four sterile petri dishes.",
+   "narration": "四块平板，先写预测再看结果。",
+   "overlay": [
+    "四个平板看结果"
+   ],
+   "labels": [
+    "①普通",
+    "②加氨苄",
+    "③氨苄+质粒",
+    "④再加糖"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "先写预测和理由，再对答案",
+   "prompt_en": "Diagram: a notebook with four blank prediction boxes, a question mark for growth and a question mark for glow. No text.",
+   "narration": "会长吗？会发光吗？写下预测和理由。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "平板1：长满菌，不发光",
+   "prompt_en": "Diagram: plate one covered with many colonies, none glowing. No text.",
+   "narration": "平板1：普通培养基，长满菌不发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "平板2：加氨苄无质粒，不长",
+   "prompt_en": "Diagram: plate two with antibiotic and no colonies at all. No text.",
+   "narration": "平板2：有氨苄没质粒，一个不长。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "平板3：少量菌落，不发光",
+   "prompt_en": "Diagram: plate three with a few colonies, not glowing, a missing key icon. No text.",
+   "narration": "平板3：少数转化菌长出，缺糖不发光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "四个平板看结果",
+   "scene": "平板4：少量菌落发绿光",
+   "prompt_en": "Diagram: plate four with a few colonies glowing green under a blue light. No text.",
+   "narration": "平板4：再加阿拉伯糖，菌落发绿光。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "实验前审批与记录",
+   "scene": "转基因实验先风险评估",
+   "prompt_en": "Diagram: a gene ring and a bacterium under a magnifier with a risk matrix and a checklist. No text.",
+   "narration": "转基因实验，开工前先做风险评估。",
+   "overlay": [
+    "实验前审批与记录"
+   ],
+   "labels": [
+    "见第081课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "实验前审批与记录",
+   "scene": "报生物安全委员会审批或备案",
+   "prompt_en": "Diagram: an application document going up to a committee table, a stamp of approval returned. No text.",
+   "narration": "按规定报学校生物安全委员会审批。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "实验前审批与记录",
+   "scene": "菌株质粒登记，领用归还有记录",
+   "prompt_en": "Diagram: a freezer box of strain and plasmid tubes with blank labels, a logbook with a pen. No text.",
+   "narration": "菌株、质粒登记，领用归还有记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "实验前审批与记录",
+   "scene": "不擅自改方案、换元件",
+   "prompt_en": "Diagram: a protocol with an unauthorized change crossed out, a review arrow back to the committee. No text.",
+   "narration": "改方案、换元件，先重新评估审批。",
+   "overlay": [],
+   "labels": [
+    "见第083课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "抗性基因不外流",
+   "scene": "抗性基因不能扩散到环境",
+   "prompt_en": "Diagram: a resistance gene icon kept inside a lab boundary, an arrow out to a river crossed out. No text.",
+   "narration": "抗性基因不能扩散到环境中。",
+   "overlay": [
+    "抗性基因不外流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "抗性基因不外流",
+   "scene": "在指定区域操作，平板不带出",
+   "prompt_en": "Diagram: a designated work area sign with plates kept inside, a plate in a backpack crossed out. No text.",
+   "narration": "在指定区域操作，平板菌液不带出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "抗性基因不外流",
+   "scene": "实验服手套不出门",
+   "prompt_en": "Diagram: a lab coat hung on a hook and gloves dropped in a waste bin at the lab door, a person leaving with hands washed. No text.",
+   "narration": "实验服手套留在室内，洗手再离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "抗性基因不外流",
+   "scene": "洒了先消毒，再报告",
+   "prompt_en": "Diagram: a small spill covered with paper towels and disinfectant, then a report arrow to the lab supervisor. No text.",
+   "narration": "菌液洒了，先覆盖消毒，再报告。",
+   "overlay": [],
+   "labels": [
+    "见第078课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灭活后再处置",
+   "scene": "【实拍】废平板装进高压灭菌袋",
+   "prompt_en": "Close-up of gloved hands placing used petri dishes into an autoclave bag inside a biohazard bin.",
+   "narration": "用过的平板、吸头，装进灭菌袋。",
+   "overlay": [
+    "灭活后再处置"
+   ],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灭活后再处置",
+   "scene": "高压灭菌灭活后再处置",
+   "prompt_en": "Diagram: an autoclave cycle icon, then the treated bag going into the designated waste stream. No text.",
+   "narration": "高压灭菌灭活后，再按规定处置。",
+   "overlay": [],
+   "labels": [
+    "见第123课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灭活后再处置",
+   "scene": "液体培养物先灭活，不倒水槽",
+   "prompt_en": "Diagram: a flask of liquid culture treated in an autoclave, a sink drain crossed out. No text.",
+   "narration": "菌液先灭活，绝不直接倒水槽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "灭活后再处置",
+   "scene": "记录灭活和处置",
+   "prompt_en": "Diagram: a waste log sheet with a check mark and a date icon. No text.",
+   "narration": "灭活和处置都要记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是模型",
+   "scene": "先建模设计，再进实验室",
+   "prompt_en": "Diagram: a laptop with a model curve and an arrow pointing to a lab bench. No text.",
+   "narration": "合成生物学：先建模设计，再进实验室。",
+   "overlay": [
+    "什么是模型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是模型",
+   "scene": "进不了实验室，正好学建模",
+   "prompt_en": "The female graduate student studies a model curve on a laptop at a desk, a closed lab door in the background.",
+   "narration": "进不了实验室的日子，正好学建模。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是模型",
+   "scene": "楼房模型、模式生物都是模型",
+   "prompt_en": "Diagram: an architect's small building model and a small zebra fish as a model organism. No text.",
+   "narration": "楼房模型、模式生物，都是模型。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "什么是模型",
+   "scene": "模型：代表另一个系统",
+   "prompt_en": "Diagram: a simple icon standing in for a complex system, connected by a dashed arrow. No text.",
+   "narration": "模型，就是代表另一个系统的东西。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三类模型",
+   "scene": "示意图：元件怎么相互作用",
+   "prompt_en": "Diagram: boxes and arrows showing parts activating and repressing each other. No text.",
+   "narration": "第一类：示意图，画出元件关系。",
+   "overlay": [
+    "三类模型"
+   ],
+   "labels": [
+    "示意图"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三类模型",
+   "scene": "反应式：物质怎么转化",
+   "prompt_en": "Diagram: a chemical reaction line with arrows from reactants to products. No text.",
+   "narration": "第二类：生化反应式，讲物质转化。",
+   "overlay": [],
+   "labels": [
+    "反应式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三类模型",
+   "scene": "微分方程：数量随时间变",
+   "prompt_en": "Diagram: a curve rising over time on a graph, a small equation icon beside it. No text.",
+   "narration": "第三类：常微分方程，算数量随时间变。",
+   "overlay": [],
+   "labels": [
+    "常微分方程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "三类模型",
+   "scene": "质量作用定律：反应式写成方程",
+   "prompt_en": "Diagram: a reaction line turning into a rate equation through an arrow with a balance icon. No text.",
+   "narration": "用质量作用定律，把反应式写成方程。",
+   "overlay": [],
+   "labels": [
+    "质量作用定律"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设计—构建—测试",
+   "scene": "先做实验再凑模型，不可取",
+   "prompt_en": "Diagram: a bridge collapsing and being rebuilt again and again, a wasted money icon, crossed out. No text.",
+   "narration": "像造桥塌了再造，太浪费。",
+   "overlay": [
+    "设计—构建—测试"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设计—构建—测试",
+   "scene": "设计、构建、测试，循环",
+   "prompt_en": "Diagram: a circular loop of three stages, a pencil for design, a wrench for build, a gauge for test. No text.",
+   "narration": "工程做法：设计、构建、测试循环。",
+   "overlay": [],
+   "labels": [
+    "设计",
+    "构建",
+    "测试",
+    "学习"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设计—构建—测试",
+   "scene": "设计建模、构建克隆、测试校准",
+   "prompt_en": "Diagram: the loop with a model curve in design, assembling DNA blocks in build, and a calibrated reader in test. No text.",
+   "narration": "设计时模拟，构建时组装，测试时校准测量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "设计—构建—测试",
+   "scene": "结果不理想，回到再设计",
+   "prompt_en": "Diagram: a test result below target with an arrow looping back to the design stage. No text.",
+   "narration": "结果不理想，就回到再设计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "建模的作用与局限",
+   "scene": "预测输出，挑选元件",
+   "prompt_en": "Diagram: a model predicting several circuit outputs, the best part option highlighted. No text.",
+   "narration": "建模能预测输出，指导挑选元件。",
+   "overlay": [
+    "建模的作用与局限"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "建模的作用与局限",
+   "scene": "找出影响最大的变量",
+   "prompt_en": "Diagram: several sliders, one causing a big change in the output curve, highlighted. No text.",
+   "narration": "改一个元件看整体，找出关键变量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "建模的作用与局限",
+   "scene": "省时间、省经费、降风险",
+   "prompt_en": "Diagram: a clock, a coin and a shield icon with check marks. No text.",
+   "narration": "先在模型里排障，省时省钱。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "建模的作用与局限",
+   "scene": "模型不能代替安全评估",
+   "prompt_en": "Diagram: a model screen with an equals sign to a risk assessment form crossed out, both needed. No text.",
+   "narration": "模型再好，也不能代替安全评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中心法则与四元件",
+   "scene": "DNA转录成mRNA，再翻译成蛋白",
+   "prompt_en": "Diagram: a DNA strand making an mRNA strand, then a ribosome making a protein chain. No text.",
+   "narration": "中心法则：转录成mRNA，再翻译成蛋白。",
+   "overlay": [
+    "中心法则与四元件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中心法则与四元件",
+   "scene": "启动子、RBS、编码区、终止子",
+   "prompt_en": "Diagram: a DNA line with four colored blocks in order, an arrow block, a small block, a long block and a stop block. No text.",
+   "narration": "启动子、RBS、编码序列、终止子。",
+   "overlay": [],
+   "labels": [
+    "启动子",
+    "RBS",
+    "编码序列",
+    "终止子"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "中心法则与四元件",
+   "scene": "元件组成器件和系统",
+   "prompt_en": "Diagram: small parts snapping together into a device, devices into a system. No text.",
+   "narration": "元件组成转录单元，再组成系统。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组成型与受调控",
+   "scene": "组成型：一直开着",
+   "prompt_en": "Diagram: a gene switch always in the on position, a steady output line. No text.",
+   "narration": "组成型表达：基因一直开着。",
+   "overlay": [
+    "组成型与受调控"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "组成型与受调控",
+   "scene": "受调控：转录因子开或关",
+   "prompt_en": "Diagram: a transcription factor icon turning a gene switch on and another turning it off. No text.",
+   "narration": "受调控表达：转录因子激活或抑制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "用方程描述表达",
+   "scene": "像水箱：进水是生成，漏水是降解",
+   "prompt_en": "Diagram: a water tank with an inflow tap labeled by an icon and an outflow hole, the level settling. No text.",
+   "narration": "生成像进水，降解像漏水。",
+   "overlay": [
+    "用方程描述表达"
+   ],
+   "labels": [
+    "生成",
+    "降解"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "用方程描述表达",
+   "scene": "进出平衡，数量稳定",
+   "prompt_en": "Diagram: the tank level rising and then becoming flat when inflow equals outflow. No text.",
+   "narration": "生成和降解平衡，数量就稳定了。",
+   "overlay": [],
+   "labels": [
+    "稳态"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "用方程描述表达",
+   "scene": "准稳态：快反应先算平衡",
+   "prompt_en": "Diagram: a fast mRNA step marked at balance, two equations merging into one. No text.",
+   "narration": "转录快，可近似平衡，方程化简成一个。",
+   "overlay": [],
+   "labels": [
+    "准稳态近似"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "用方程描述表达",
+   "scene": "复杂电路化简，要知道丢了什么",
+   "prompt_en": "Diagram: a large set of reactions reduced to a small set, a note icon showing what was left out. No text.",
+   "narration": "复杂电路能化简，但要清楚丢了什么。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "参数从哪里来",
+   "scene": "参数查数据库，记下出处",
+   "prompt_en": "Diagram: a database icon with literature values and a citation note icon. No text.",
+   "narration": "参数可查生物学数据库，记下出处。",
+   "overlay": [
+    "参数从哪里来"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "参数从哪里来",
+   "scene": "mRNA几分钟，荧光蛋白约九十分钟",
+   "prompt_en": "Diagram: two half life bars, a short one for mRNA and a long one for a fluorescent protein. No text.",
+   "narration": "mRNA半衰期几分钟，荧光蛋白约90分钟。",
+   "overlay": [],
+   "labels": [
+    "mRNA：数分钟",
+    "蛋白：约90分钟"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "参数从哪里来",
+   "scene": "换RBS就是改翻译速率",
+   "prompt_en": "Diagram: the same promoter with a strong and a weak ribosome binding site, two output levels. No text.",
+   "narration": "换强弱不同的RBS，就是改翻译速率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "参数从哪里来",
+   "scene": "定时测荧光，拟合参数",
+   "prompt_en": "Diagram: measured fluorescence dots over time fitted by a model curve, a dose response curve beside it. No text.",
+   "narration": "定时测荧光，和模型对比，估出参数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激活与阻遏曲线",
+   "scene": "激活子越多，转录越强",
+   "prompt_en": "Diagram: an S shaped rising curve of output versus activator amount. No text.",
+   "narration": "激活子越多转录越强，呈S形曲线。",
+   "overlay": [
+    "激活与阻遏曲线"
+   ],
+   "labels": [
+    "希尔函数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激活与阻遏曲线",
+   "scene": "半浓度常数与希尔系数",
+   "prompt_en": "Diagram: the S curve with a half way point marked and a steeper curve beside it. No text.",
+   "narration": "希尔系数越大，开关越陡，多在1到4。",
+   "overlay": [],
+   "labels": [
+    "半浓度常数",
+    "希尔系数"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激活与阻遏曲线",
+   "scene": "阻遏子越多，表达越低",
+   "prompt_en": "Diagram: a falling S curve of output versus repressor amount, a small floor level remaining. No text.",
+   "narration": "阻遏子越多表达越低，最低还会漏一点。",
+   "overlay": [],
+   "labels": [
+    "泄漏表达"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "激活与阻遏曲线",
+   "scene": "没有激活子时的表达叫基础表达",
+   "prompt_en": "Diagram: the S curve starting from a small nonzero level at zero activator, that level highlighted. No text.",
+   "narration": "没有激活子时的表达，叫基础表达。",
+   "overlay": [],
+   "labels": [
+    "基础表达"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光报告与校准",
+   "scene": "荧光蛋白做报告",
+   "prompt_en": "Diagram: cells glowing in several colors, excitation and emission spectrum curves beside them. No text.",
+   "narration": "荧光蛋白是好报告，按光谱挑颜色。",
+   "overlay": [
+    "荧光报告与校准"
+   ],
+   "labels": [
+    "见第180课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光报告与校准",
+   "scene": "绿色荧光蛋白来自水母",
+   "prompt_en": "Diagram: a glowing jellyfish and a green fluorescent protein barrel shape, other colored variants beside it. No text.",
+   "narration": "绿色荧光蛋白来自水母，颜色种类很多。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光报告与校准",
+   "scene": "荧光标准品换算分子数",
+   "prompt_en": "Diagram: a calibration curve from a fluorescent standard converting a reading into molecule counts. No text.",
+   "narration": "用荧光标准品，把读数换成分子数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光报告与校准",
+   "scene": "微球校准光密度，算单细胞",
+   "prompt_en": "Diagram: tiny bead particles calibrating an optical density reading into cell counts, a division sign. No text.",
+   "narration": "微球校准光密度，算出每个细胞的量。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "荧光报告与校准",
+   "scene": "校准结果带回设计",
+   "prompt_en": "Diagram: calibrated data flowing back into the design stage of the loop. No text.",
+   "narration": "校准测量把结果带回设计，闭合循环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机理模型与数据模型",
+   "scene": "数据模型像黑箱，要大量数据",
+   "prompt_en": "Diagram: a black box with many data points going in and predictions coming out. No text.",
+   "narration": "机器学习像黑箱，需要大量数据。",
+   "overlay": [
+    "机理模型与数据模型"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机理模型与数据模型",
+   "scene": "机理模型能解释原因",
+   "prompt_en": "Diagram: a transparent box showing gears inside, an explanation light bulb. No text.",
+   "narration": "机理模型从原理出发，能解释原因。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "机理模型与数据模型",
+   "scene": "两种方法各有用处",
+   "prompt_en": "Diagram: a black box and a transparent gear box side by side on a balance, a data stack choosing between them. No text.",
+   "narration": "两种方法各有用处，看手里的数据。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "转化：质粒、选择平板、无菌",
+   "prompt_en": "Diagram: a plasmid ring, four plates and a sterile loop, all checked. No text.",
+   "narration": "质粒转化：选择平板，无菌操作。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "审批、记录、灭活、不带出",
+   "prompt_en": "Diagram: an approval stamp, a logbook, an autoclave and a door with a crossed out plate. No text.",
+   "narration": "先审批，有记录，灭活处置，不带出。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "建模：设计—构建—测试",
+   "prompt_en": "Diagram: the design build test loop with a model curve and calibrated data. No text.",
+   "narration": "建模助设计，但不代替安全评估。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣指着一块被清理干净的土壤和小苗",
+   "prompt_en": "The panda mascot points to a small tray of clean soil with a young green seedling, tiny friendly microbe icons around it, waving goodbye.",
+   "narration": "下一课：生物修复与生物技术应用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
