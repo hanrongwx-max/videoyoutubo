@@ -1,0 +1,816 @@
+{
+ "id": "159_心肺复苏与AED",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "心肺复苏与AED",
+ "seconds": 310,
+ "source_doc": "course/高校实验室安全/159_心肺复苏与AED.md",
+ "author_source": "project/高校实验室安全/159_心肺复苏与AED/src.py",
+ "points": {
+  "K1": "心脏骤停，分秒必争",
+  "S1": "先看现场，触电先断电",
+  "S2": "判断意识和呼吸",
+  "K2": "呼叫120，取来AED",
+  "S3": "胸外按压：位置深度频率",
+  "S4": "开放气道与人工呼吸",
+  "S5": "AED：开机按提示做",
+  "S6": "坚持到专业人员接手",
+  "K3": "心肺复苏要培训"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣跪在训练模型旁，双手交叠",
+   "prompt_en": "The panda mascot kneels beside a training manikin with its paws stacked on the manikin's chest, looking at the camera.",
+   "narration": "第14章第五课：心肺复苏与AED。",
+   "overlay": [
+    "心肺复苏与AED"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣身旁是心形和闪电图标",
+   "prompt_en": "The panda mascot points to a heart icon and a small lightning bolt icon floating beside it.",
+   "narration": "学会这两样，关键时刻能救命。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "走廊里，老周突然倒地",
+   "prompt_en": "In a university building corridor, the older man suddenly collapses to the floor beside a lab door.",
+   "narration": "老周在走廊里突然倒下了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰愣在原地，不知所措",
+   "prompt_en": "The young male student freezes in shock, hands raised, looking around with question marks.",
+   "narration": "阿杰吓呆了，不知道该怎么办。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研跑过来，指向墙上的AED",
+   "prompt_en": "The female graduate student runs over and points to an AED cabinet on the corridor wall.",
+   "narration": "小研跑来：快打120，拿AED！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研跪下准备施救",
+   "prompt_en": "The female graduate student kneels beside the older man, ready to help.",
+   "narration": "抢救，就从这几分钟开始。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "心脏骤停，分秒必争",
+   "scene": "心脏图标停跳，时钟走动",
+   "prompt_en": "Diagram: a heart icon with a flat line and a clock icon with its hand moving fast. No text.",
+   "narration": "心脏骤停，几分钟内就会致命。",
+   "overlay": [
+    "心脏骤停，分秒必争"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "心脏骤停，分秒必争",
+   "scene": "大脑图标缺氧变暗",
+   "prompt_en": "Diagram: a brain icon slowly dimming as an oxygen icon fades away. No text.",
+   "narration": "大脑缺氧几分钟，就会严重损伤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "心脏骤停，分秒必争",
+   "scene": "四个环节连成链条：呼救、按压、除颤、医院",
+   "prompt_en": "Diagram: a chain of four linked icons, a phone, hands pressing a chest, a lightning bolt pad and an ambulance. No text.",
+   "narration": "早呼救、早按压、早除颤、早送医。",
+   "overlay": [],
+   "labels": [
+    "呼救",
+    "按压",
+    "除颤",
+    "送医"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "心脏骤停，分秒必争",
+   "scene": "AED放出电击，心跳恢复",
+   "prompt_en": "Diagram: an AED with two pads and a lightning bolt, a heart icon returning to a normal rhythm line. No text.",
+   "narration": "及时用AED除颤，能提高救活机会。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "心脏骤停，分秒必争",
+   "scene": "等救护车时不做任何事，打叉",
+   "prompt_en": "Diagram: people standing around a collapsed person just waiting for an ambulance, crossed out. No text.",
+   "narration": "光等救护车，会错过最佳时机。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先看现场，触电先断电",
+   "scene": "倒地者旁有漏电的设备和积水",
+   "prompt_en": "Diagram: a person lying near a sparking power cord and a puddle of water, a warning mark. No text.",
+   "narration": "施救前，先看现场安不安全。",
+   "overlay": [
+    "先看现场，触电先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先看现场，触电先断电",
+   "scene": "徒手去拉触电者，打叉",
+   "prompt_en": "Diagram: a bare hand grabbing a person stuck to a sparking cable, crossed out. No text.",
+   "narration": "有人触电，不能直接用手去拉。",
+   "overlay": [],
+   "labels": [
+    "见第098课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先看现场，触电先断电",
+   "scene": "拉下电闸，切断电源",
+   "prompt_en": "Diagram: a hand pulling down a main switch on an electrical panel, the sparks stopping. No text.",
+   "narration": "先切断电源，再靠近施救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "先看现场，触电先断电",
+   "scene": "有火有毒气，先撤到安全处",
+   "prompt_en": "Diagram: helpers moving a person away from a smoking bench to a safe corridor. No text.",
+   "narration": "现场有火、有毒气，先转移到安全处。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "判断意识和呼吸",
+   "scene": "轻拍双肩，大声呼唤",
+   "prompt_en": "Diagram: a helper kneeling beside a lying person, tapping both shoulders and calling loudly. No text.",
+   "narration": "轻拍双肩，大声呼唤：你怎么了？",
+   "overlay": [
+    "判断意识和呼吸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "判断意识和呼吸",
+   "scene": "【实拍】施救者侧头看训练模型胸部起伏",
+   "prompt_en": "Close-up: a trainer kneels beside a training manikin, face turned toward its chest, watching for chest movement.",
+   "narration": "没反应，马上看胸口有没有起伏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "判断意识和呼吸",
+   "scene": "时钟图标，十秒以内",
+   "prompt_en": "Diagram: a helper watching a chest with a small stopwatch icon showing a short time. No text.",
+   "narration": "观察不超过10秒，别耽误时间。",
+   "overlay": [],
+   "labels": [
+    "≤10秒"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "判断意识和呼吸",
+   "scene": "偶尔叹气样呼吸，打问号",
+   "prompt_en": "Diagram: a lying person with an occasional weak gasp icon, a question mark turning into a warning mark. No text.",
+   "narration": "只有叹气样喘息，不算正常呼吸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "S2",
+   "section_title": "判断意识和呼吸",
+   "scene": "无反应、无正常呼吸，立即开始",
+   "prompt_en": "Diagram: an unresponsive person, a no breathing icon and an arrow to hands pressing the chest. No text.",
+   "narration": "没反应、没正常呼吸，马上心肺复苏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "大声喊人帮忙",
+   "prompt_en": "Diagram: the helper shouting for help with sound waves, two people running over. No text.",
+   "narration": "大声呼救，叫周围的人来帮忙。",
+   "overlay": [
+    "呼叫120，取来AED"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "指定一人打120",
+   "prompt_en": "Diagram: the helper pointing at one person who dials a phone with an ambulance icon. No text.",
+   "narration": "指定一个人：你，打120！",
+   "overlay": [],
+   "labels": [
+    "120"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "指定另一人取AED",
+   "prompt_en": "Diagram: the helper pointing at another person who runs to an AED cabinet on the wall. No text.",
+   "narration": "再指定一个人：你，去拿AED！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "电话里说清地点和情况",
+   "prompt_en": "Diagram: a person on the phone, a building icon and a lying person icon beside the phone. No text.",
+   "narration": "说清楼号房间，有人倒地无呼吸。",
+   "overlay": [],
+   "labels": [
+    "见第157课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "通知负责人和学院",
+   "prompt_en": "Diagram: a phone with arrows to a supervisor icon and a school building icon. No text.",
+   "narration": "同时报告实验室负责人和学院。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "呼叫120，取来AED",
+   "scene": "日常就记住AED放在哪",
+   "prompt_en": "Diagram: a floor plan with an AED cabinet icon marked by a star near the stairs. No text.",
+   "narration": "平时就要记住，楼里AED在哪。",
+   "overlay": [],
+   "labels": [
+    "见第155课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "让人仰卧在硬地面上",
+   "prompt_en": "Diagram: a person lying on the back on a hard floor, a soft mattress crossed out. No text.",
+   "narration": "让他仰卧在坚硬平整的地面上。",
+   "overlay": [
+    "胸外按压：位置深度频率"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "【实拍】掌根放在训练模型胸部正中",
+   "prompt_en": "Close-up: a trainer places the heel of one hand on the center of a training manikin's chest, on the lower half of the breastbone.",
+   "narration": "按压位置：胸部正中，胸骨下半部。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "两手掌根重叠，手指翘起",
+   "prompt_en": "Diagram: two hands stacked with fingers interlaced and lifted, only the heel of the hand touching the chest. No text.",
+   "narration": "双手掌根重叠，手指不要贴胸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "【实拍】手臂伸直，垂直向下用力按压",
+   "prompt_en": "Close-up: a trainer kneels with straight arms and shoulders directly above a training manikin, pressing straight down.",
+   "narration": "手臂伸直，用上身力量垂直下压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "深度标尺：五到六厘米",
+   "prompt_en": "Diagram: a side view of a chest being pressed down with a small depth gauge beside it. No text.",
+   "narration": "成人按压深度五到六厘米。",
+   "overlay": [],
+   "labels": [
+    "5–6厘米",
+    "以现行指南为准"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "节拍器图标：每分钟一百到一百二十次",
+   "prompt_en": "Diagram: a metronome icon and a fast heartbeat rhythm next to pressing hands. No text.",
+   "narration": "频率每分钟一百到一百二十次。",
+   "overlay": [],
+   "labels": [
+    "100–120次/分"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "每次放松，胸廓完全回弹",
+   "prompt_en": "Diagram: a chest rising back fully between presses, the hands staying in place. No text.",
+   "narration": "每次放松，让胸廓完全回弹。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "S3",
+   "section_title": "胸外按压：位置深度频率",
+   "scene": "按压不停，尽量少中断",
+   "prompt_en": "Diagram: a continuous rhythm line with only very short pauses. No text.",
+   "narration": "尽量不中断，边按边数数。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "侧头查看口中有无异物",
+   "prompt_en": "Diagram: a helper turning a lying person's head slightly to check the mouth for anything blocking it. No text.",
+   "narration": "口中有异物，先清除。",
+   "overlay": [
+    "开放气道与人工呼吸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "【实拍】仰头提颏，打开训练模型气道",
+   "prompt_en": "Close-up: a trainer places one hand on a training manikin's forehead and lifts the chin with two fingers of the other hand.",
+   "narration": "一手压额头，一手抬下巴，打开气道。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "捏住鼻子，口对口吹气，胸廓起伏",
+   "prompt_en": "Diagram: a helper pinching the nose and giving a breath through a face shield, the chest rising. No text.",
+   "narration": "捏住鼻子吹气，看到胸廓抬起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "三十次按压加两次吹气，循环",
+   "prompt_en": "Diagram: a loop of thirty small pressing hand icons followed by two breath icons. No text.",
+   "narration": "按压30次，吹气2次，循环进行。",
+   "overlay": [],
+   "labels": [
+    "30:2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "用呼吸面罩",
+   "prompt_en": "Diagram: a pocket face shield placed over a training manikin's mouth. No text.",
+   "narration": "有呼吸面罩，就用面罩隔开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "S4",
+   "section_title": "开放气道与人工呼吸",
+   "scene": "不会吹气也不停，只按压",
+   "prompt_en": "Diagram: a helper doing continuous chest compressions only, a breath icon greyed out. No text.",
+   "narration": "不会或不愿吹气，就持续按压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "AED送到，打开盖子",
+   "prompt_en": "Diagram: a person arriving with an AED case and placing it beside the lying person, opening the lid. No text.",
+   "narration": "AED一到，马上打开电源。",
+   "overlay": [
+    "AED：开机按提示做"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "AED发出语音提示",
+   "prompt_en": "Diagram: an AED with a speaker icon giving voice prompts and blinking lights. No text.",
+   "narration": "它会用语音一步一步告诉你。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "【实拍】把电极片贴在训练模型裸露胸部",
+   "prompt_en": "Close-up: a trainer peels two pads from an AED trainer and sticks one below the right collarbone and one on the left side of a manikin's chest below the armpit.",
+   "narration": "露出胸部，照图贴好两片电极片。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "胸部有水先擦干",
+   "prompt_en": "Diagram: a towel wiping a wet chest before attaching pads. No text.",
+   "narration": "胸部有水先擦干，贴紧不留缝。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "分析心律时大家都离开",
+   "prompt_en": "Diagram: an AED analyzing with a heart rhythm icon, everyone's hands lifted away from the person. No text.",
+   "narration": "分析心律时，任何人不要碰他。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "【实拍】施救者张开手臂示意离开，再按电击键",
+   "prompt_en": "Close-up: a trainer sweeps one arm to signal everyone back, then presses the flashing shock button on an AED trainer.",
+   "narration": "提示电击，喊大家离开，再按键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "电击后立即继续按压",
+   "prompt_en": "Diagram: right after the lightning bolt icon, hands return to pressing the chest. No text.",
+   "narration": "电击后，马上接着按压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "S5",
+   "section_title": "AED：开机按提示做",
+   "scene": "AED提示不需电击，继续按压",
+   "prompt_en": "Diagram: an AED with a no shock icon and an arrow back to chest compressions. No text.",
+   "narration": "不需要电击，也继续按压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "坚持到专业人员接手",
+   "scene": "两人轮换按压",
+   "prompt_en": "Diagram: two helpers kneeling side by side, one taking over chest compressions from the other. No text.",
+   "narration": "多人轮流按压，换人要快。",
+   "overlay": [
+    "坚持到专业人员接手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "坚持到专业人员接手",
+   "scene": "AED电极片一直贴着",
+   "prompt_en": "Diagram: AED pads kept on the chest while compressions continue, the AED still switched on. No text.",
+   "narration": "电极片别撕，AED一直开着。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "坚持到专业人员接手",
+   "scene": "急救人员到场接手",
+   "prompt_en": "Diagram: ambulance crew with a stretcher arriving and kneeling to take over. No text.",
+   "narration": "坚持到专业急救人员接手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "坚持到专业人员接手",
+   "scene": "伤者恢复呼吸，侧卧观察",
+   "prompt_en": "Diagram: a person breathing again and turned onto the side in the recovery position, a helper watching. No text.",
+   "narration": "恢复呼吸，侧卧，继续观察。",
+   "overlay": [],
+   "labels": [
+    "见第158课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "S6",
+   "section_title": "坚持到专业人员接手",
+   "scene": "向急救人员说明经过",
+   "prompt_en": "The female graduate student tells the ambulance crew what happened, pointing to the AED.",
+   "narration": "向急救人员说明时间和经过。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "心肺复苏要培训",
+   "scene": "CPR三个字母变成心肺图标",
+   "prompt_en": "Diagram: a heart and a pair of lungs icon with hands pressing in the middle. No text.",
+   "narration": "心肺复苏，在心跳呼吸停止时维持生命。",
+   "overlay": [
+    "心肺复苏要培训"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "心肺复苏要培训",
+   "scene": "学生们在模型上练习",
+   "prompt_en": "Students practice chest compressions on training manikins in a first aid class led by the safety administrator.",
+   "narration": "要参加正规培训，在模型上练熟。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "心肺复苏要培训",
+   "scene": "结业证书图标",
+   "prompt_en": "Diagram: a blank training certificate with a heart icon and a check mark. No text.",
+   "narration": "定期复训，手法才不会忘。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "心肺复苏要培训",
+   "scene": "法律保护见义勇为的施救者",
+   "prompt_en": "Diagram: a shield icon over a helper doing chest compressions, a balance scale icon beside it. No text.",
+   "narration": "自愿救助，法律保护施救的人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "心肺复苏要培训",
+   "scene": "阿杰报名参加培训",
+   "prompt_en": "The young male student signs a blank sign-up sheet for a first aid class, the female graduate student nodding.",
+   "narration": "阿杰说：下次，我也能出手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "盾牌、眼睛和电话图标",
+   "prompt_en": "Diagram: a shield icon, an eye watching a chest and a phone with an ambulance icon. No text.",
+   "narration": "先保安全，判断意识呼吸，呼救。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "按压图标和数字",
+   "prompt_en": "Diagram: hands pressing a chest with a metronome icon and a loop icon. No text.",
+   "narration": "胸部正中，用力快按，30比2。",
+   "overlay": [],
+   "labels": [
+    "5–6厘米",
+    "100–120次/分",
+    "30:2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "AED和急救人员",
+   "prompt_en": "Diagram: an AED with pads next to an ambulance crew arriving. No text.",
+   "narration": "AED到了就用，坚持到专业人员来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在洗眼器旁挥手",
+   "prompt_en": "The panda mascot stands beside an eyewash station and waves goodbye.",
+   "narration": "下一课：化学灼伤与眼部急救。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
