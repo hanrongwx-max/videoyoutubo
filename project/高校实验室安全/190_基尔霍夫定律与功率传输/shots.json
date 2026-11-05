@@ -1,0 +1,1088 @@
+{
+ "id": "190_基尔霍夫定律与功率传输",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "基尔霍夫定律与功率传输",
+ "seconds": 400,
+ "source_doc": "course/高校实验室安全/190_基尔霍夫定律与功率传输.md",
+ "author_source": "project/高校实验室安全/190_基尔霍夫定律与功率传输/src.py",
+ "points": {
+  "K1": "本课实验：算一遍测一遍",
+  "K2": "欧姆定律及其局限",
+  "K3": "串联：电流相同分电压",
+  "K4": "并联：电压相同分电流",
+  "K5": "KCL：流入等于流出",
+  "K6": "KVL：回路电压和为零",
+  "K7": "实验器材",
+  "K8": "看懂电路：一串两并",
+  "K9": "直流表分正负",
+  "K10": "理论计算四步",
+  "K11": "先算后测，偏差就停",
+  "K12": "稳压电源：先归零限流",
+  "K13": "断电接线，查后合闸",
+  "K14": "调压不超额定，拨直流挡",
+  "K15": "实测验证与误差",
+  "K16": "恒流灯亮，先断电查",
+  "K17": "虚拟仿真：先读原理",
+  "K18": "仿真验证KVL",
+  "K19": "仿真验证KCL",
+  "K20": "仿真代替不了实操",
+  "K21": "最大功率传输定理",
+  "K22": "匹配时效率只有一半",
+  "K23": "功率匹配的应用"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在直流电路板前，板上三盏小灯",
+   "prompt_en": "The panda mascot stands beside a powered off direct current circuit board with three small lamps and two loops highlighted, looking at the camera.",
+   "narration": "第15章第二十八课：基尔霍夫定律与功率传输。",
+   "overlay": [
+    "基尔霍夫定律与功率传输"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰接好线，电源开着，正要把电压旋钮拧大",
+   "prompt_en": "The young male student finishes wiring a circuit board while the power supply is already switched on and turns the voltage knob up fast, a red warning icon.",
+   "narration": "阿杰：线接好了，电压直接拧上去！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研按住他的手，指着电源恒流指示灯",
+   "prompt_en": "The female graduate student stops his hand and points at a glowing indicator lamp on the power supply, a crossed out live wiring icon.",
+   "narration": "小研：通着电接线？先断电！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拿着电路图走来",
+   "prompt_en": "The safety administrator walks over holding a blank circuit diagram sheet and a checklist icon.",
+   "narration": "王老师：先算理论值，查过再合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验：算一遍测一遍",
+   "scene": "同一电路，计算本和电表并列",
+   "prompt_en": "Diagram: one direct current circuit in the middle, a calculator notebook on the left and meters on the right, an equal sign between them. No text.",
+   "narration": "同一个直流电路，算一遍，测一遍。",
+   "overlay": [
+    "本课实验：算一遍测一遍"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验：算一遍测一遍",
+   "scene": "实物实验和仿真实验两条路",
+   "prompt_en": "Diagram: a real circuit bench and a computer screen with a simulated circuit, both pointing to two law icons. No text.",
+   "narration": "实物实验和虚拟仿真，都来验证。",
+   "overlay": [],
+   "labels": [
+    "KVL",
+    "KCL"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "本课实验：算一遍测一遍",
+   "scene": "最后一部分：最大功率传输",
+   "prompt_en": "Diagram: a source with an internal resistor feeding a variable load resistor, a power curve with a peak. No text.",
+   "narration": "最后学最大功率传输定理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "欧姆定律及其局限",
+   "scene": "电压电流成正比",
+   "prompt_en": "Diagram: a straight line graph of voltage against current through a resistor, a thermometer icon held constant. No text.",
+   "narration": "温度不变，电压和电流成正比。",
+   "overlay": [
+    "欧姆定律及其局限"
+   ],
+   "labels": [
+    "U = IR"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "欧姆定律及其局限",
+   "scene": "绝缘体半导体不遵守",
+   "prompt_en": "Diagram: an insulator block and a semiconductor diode with a curved graph, a not applicable icon. No text.",
+   "narration": "绝缘体、半导体不遵守欧姆定律。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "串联：电流相同分电压",
+   "scene": "电阻的三种连接",
+   "prompt_en": "Diagram: resistors in series, in parallel and in a series parallel combination, three small panels. No text.",
+   "narration": "电阻有串联、并联和混联三种接法。",
+   "overlay": [
+    "串联：电流相同分电压"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "串联：电流相同分电压",
+   "scene": "串联：尾接头，电流相同",
+   "prompt_en": "Diagram: resistors connected end to start in one chain, the same current arrow through each. No text.",
+   "narration": "串联尾接头，电流处处相同。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "串联：电流相同分电压",
+   "scene": "分压公式",
+   "prompt_en": "Diagram: a voltage split across two series resistors in proportion to their resistance. No text.",
+   "narration": "各段电压不同，用分压公式求。",
+   "overlay": [],
+   "labels": [
+    "分压公式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "并联：电压相同分电流",
+   "scene": "并联：头接头尾接尾，电压相同",
+   "prompt_en": "Diagram: resistors connected start to start and end to end, the same voltage across each branch. No text.",
+   "narration": "并联头接头、尾接尾，电压相同。",
+   "overlay": [
+    "并联：电压相同分电流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "并联：电压相同分电流",
+   "scene": "分流公式",
+   "prompt_en": "Diagram: a total current dividing into two branches, the smaller resistor taking the larger current. No text.",
+   "narration": "支路电流用分流公式求。",
+   "overlay": [],
+   "labels": [
+    "分流公式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "KCL：流入等于流出",
+   "scene": "节点：流进等于流出",
+   "prompt_en": "Diagram: a junction node with three current arrows in and out, the sums balanced. No text.",
+   "narration": "节点上，流进的电流等于流出的。",
+   "overlay": [
+    "KCL：流入等于流出"
+   ],
+   "labels": [
+    "ΣI入 = ΣI出"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "KCL：流入等于流出",
+   "scene": "像水管分岔",
+   "prompt_en": "Diagram: a water pipe splitting into two branches, the water amount the same before and after. No text.",
+   "narration": "像水管分岔，水不会凭空变多变少。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "KCL：流入等于流出",
+   "scene": "干路等于支路之和",
+   "prompt_en": "Diagram: a main current splitting into two branch currents that add up to it. No text.",
+   "narration": "本实验里，干路电流等于两支路之和。",
+   "overlay": [],
+   "labels": [
+    "I1 = I2 + I3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "KVL：回路电压和为零",
+   "scene": "回路电压代数和为零",
+   "prompt_en": "Diagram: a closed loop with a source and two resistors, arrows of voltage rise and drop cancelling. No text.",
+   "narration": "闭合回路里，电压代数和为零。",
+   "overlay": [
+    "KVL：回路电压和为零"
+   ],
+   "labels": [
+    "ΣU = 0"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "KVL：回路电压和为零",
+   "scene": "电动势之和等于电压降之和",
+   "prompt_en": "Diagram: a staircase going up at the source and down across two resistors back to the start level. No text.",
+   "narration": "电动势之和，等于电压降之和。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "KVL：回路电压和为零",
+   "scene": "电源电压等于两段之和",
+   "prompt_en": "Diagram: the source voltage equal to the voltage of the first lamp plus the voltage of the parallel part. No text.",
+   "narration": "本实验里，电源电压等于两段之和。",
+   "overlay": [],
+   "labels": [
+    "U1 = U2 + U3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验器材",
+   "scene": "【实拍】认识稳压电源、三盏灯、电流表和万用表",
+   "prompt_en": "Close-up of a powered off regulated direct current supply, three identical small lamps on a board, three direct current ammeters and a multimeter on a bench.",
+   "narration": "稳压电源、三盏同样的灯，各就位。",
+   "overlay": [
+    "实验器材"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验器材",
+   "scene": "三只电流表，三只电压表",
+   "prompt_en": "Diagram: three direct current ammeters and three direct current voltmeters in a row. No text.",
+   "narration": "三只直流电流表，三只直流电压表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实验器材",
+   "scene": "没有电压表用万用表直流挡",
+   "prompt_en": "Diagram: a multimeter switched to the direct voltage position replacing the voltmeters. No text.",
+   "narration": "电压表不够，用万用表直流电压挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看懂电路：一串两并",
+   "scene": "灯2灯3并联，再与灯1串联",
+   "prompt_en": "Diagram: lamp two and lamp three in parallel, then in series with lamp one across the supply. No text.",
+   "narration": "灯二灯三并联，再和灯一串联。",
+   "overlay": [
+    "看懂电路：一串两并"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看懂电路：一串两并",
+   "scene": "电流表测干路和两支路",
+   "prompt_en": "Diagram: one ammeter in the main line and one ammeter in each parallel branch. No text.",
+   "narration": "三只电流表，测干路和两条支路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "看懂电路：一串两并",
+   "scene": "电压表测电源、灯1和并联部分",
+   "prompt_en": "Diagram: voltmeters across the supply, across lamp one and across the parallel part. No text.",
+   "narration": "电压表测电源、灯一和并联部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "直流表分正负",
+   "scene": "直流电路图标正负",
+   "prompt_en": "Diagram: a circuit diagram with plus and minus marks at every meter, an alternating circuit without marks. No text.",
+   "narration": "直流电路图要标正负，交流不用。",
+   "overlay": [
+    "直流表分正负"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "直流表分正负",
+   "scene": "【实拍】断电状态下指认直流表正负端子",
+   "prompt_en": "Close-up of a finger pointing to the red positive and black negative terminals of a direct current ammeter on a powered off board.",
+   "narration": "直流表正进负出，正端接高电位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "直流表分正负",
+   "scene": "接反指针反打，断电改接",
+   "prompt_en": "Diagram: a meter needle swinging below zero, a power off icon, then the leads swapped. No text.",
+   "narration": "接反指针反打，立即断电再改接。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "理论计算四步",
+   "scene": "先画理论值和实测值两套表",
+   "prompt_en": "Diagram: two blank tables side by side, one marked with a calculator icon and one with a meter icon. No text.",
+   "narration": "先画两套表：理论值和实测值。",
+   "overlay": [
+    "理论计算四步"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "理论计算四步",
+   "scene": "第一步：额定值求灯电阻",
+   "prompt_en": "Diagram: a lamp rating of voltage and power turned into resistance by a formula. No text.",
+   "narration": "第一步，用灯的额定值求电阻。",
+   "overlay": [],
+   "labels": [
+    "R = U²/P"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "理论计算四步",
+   "scene": "第二步：等效电阻",
+   "prompt_en": "Diagram: two parallel resistors merged into one and added to the series resistor. No text.",
+   "narration": "第二步，并联合起来再加串联。",
+   "overlay": [],
+   "labels": [
+    "R等 = R1 + R2∥R3"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "理论计算四步",
+   "scene": "第三步：总电流和分流，验证KCL",
+   "prompt_en": "Diagram: supply voltage divided by the equivalent resistance, then split into two equal branch currents. No text.",
+   "narration": "第三步，求总电流再分流，验KCL。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "理论计算四步",
+   "scene": "第四步：分电压，验证KVL",
+   "prompt_en": "Diagram: the first lamp voltage from current times resistance, the rest across the parallel part, adding up to the supply. No text.",
+   "narration": "第四步，求两段电压，验KVL。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先算后测，偏差就停",
+   "scene": "算出的电流帮助选量程",
+   "prompt_en": "Diagram: a calculated current value pointing to the matching ammeter range on a selector. No text.",
+   "narration": "算出的电流，帮你选好量程。",
+   "overlay": [
+    "先算后测，偏差就停"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "先算后测，偏差就停",
+   "scene": "差太多先断电查",
+   "prompt_en": "Diagram: a measured value far from the calculated one, a power off icon, a magnifier over the wiring and the meters. No text.",
+   "narration": "实测差太多，先断电查线查表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "稳压电源：先归零限流",
+   "scene": "双路电源任用一路",
+   "prompt_en": "Diagram: a dual output regulated supply with one output used, a crossed out icon of the two outputs linked by the student. No text.",
+   "narration": "双路电源用一路，不自行串并联。",
+   "overlay": [
+    "稳压电源：先归零限流"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "稳压电源：先归零限流",
+   "scene": "粗调细调和电流旋钮",
+   "prompt_en": "Diagram: a coarse voltage knob, a fine voltage knob and a current limit knob on a supply panel. No text.",
+   "narration": "粗调大步走，细调微调，另有限流旋钮。",
+   "overlay": [],
+   "labels": [
+    "粗调",
+    "细调",
+    "限流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "稳压电源：先归零限流",
+   "scene": "【实拍】开机前电压旋钮旋到最小",
+   "prompt_en": "Close-up of a hand turning the coarse and fine voltage knobs of a powered off regulated supply fully counterclockwise to minimum.",
+   "narration": "开机前，两个电压旋钮旋到最小。",
+   "overlay": [],
+   "labels": [
+    "见第186课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "稳压电源：先归零限流",
+   "scene": "限流按老师要求设好",
+   "prompt_en": "Diagram: a current limit knob set just above the expected current, a teacher icon nodding, a display switch between volts and amps. No text.",
+   "narration": "限流按预估电流和老师要求设好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "断电接线，查后合闸",
+   "scene": "电源总开关先关",
+   "prompt_en": "Diagram: a supply main switch in the off position, a wiring hand icon beside it. No text.",
+   "narration": "接线时，电源总开关一定是关的。",
+   "overlay": [
+    "断电接线，查后合闸"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "断电接线，查后合闸",
+   "scene": "【实拍】断电后从电源正极出发先串后并接线",
+   "prompt_en": "Close-up of hands connecting leads from the positive output of a powered off supply to an ammeter and lamp one, then the two parallel branches.",
+   "narration": "从正极出发，先串后并，回到负极。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "断电接线，查后合闸",
+   "scene": "电压表最后并上",
+   "prompt_en": "Diagram: the series loop complete first, then a voltmeter clipped across a lamp last. No text.",
+   "narration": "串联回路接好，最后并电压表。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "断电接线，查后合闸",
+   "scene": "老师检查后合闸",
+   "prompt_en": "The safety administrator checks the wiring on the powered off board with a checklist, then the female graduate student switches the supply on.",
+   "narration": "请老师检查，确认无误再合闸。",
+   "overlay": [],
+   "labels": [
+    "见第185课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "调压不超额定，拨直流挡",
+   "scene": "粗调细调到设定电压",
+   "prompt_en": "Diagram: a supply display rising slowly from zero to a set value with the coarse then fine knob. No text.",
+   "narration": "合闸后从零慢慢调到设定电压。",
+   "overlay": [
+    "调压不超额定，拨直流挡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "调压不超额定，拨直流挡",
+   "scene": "不超过灯的额定电压",
+   "prompt_en": "Diagram: a voltage arrow stopping below the lamp rating line, a burnt lamp and a bent needle crossed out above it. No text.",
+   "narration": "电压不超过灯和电表的额定值。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "调压不超额定，拨直流挡",
+   "scene": "【实拍】万用表拨到直流电压挡",
+   "prompt_en": "Close-up of a hand turning a multimeter dial to the direct voltage position, probes not connected.",
+   "narration": "万用表拨直流电压挡，别拨交流挡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实测验证与误差",
+   "scene": "实测V2和V3相加",
+   "prompt_en": "Diagram: a multimeter across lamp one then across the parallel part, the two readings added to match the supply. No text.",
+   "narration": "测灯一和并联部分，相加约等于电源。",
+   "overlay": [
+    "实测验证与误差"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实测验证与误差",
+   "scene": "读三只电流表",
+   "prompt_en": "Diagram: three ammeter needles, the two branch readings adding up to the main reading, the lower scale used on the small range. No text.",
+   "narration": "读三路电流，小量程读对应刻度。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实测验证与误差",
+   "scene": "有误差是正常的",
+   "prompt_en": "Diagram: two nearly equal values with a small difference, meter tolerance and component tolerance icons. No text.",
+   "narration": "元件和电表有误差，差一点正常。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实测验证与误差",
+   "scene": "每人一个电压，各测一组",
+   "prompt_en": "Diagram: several students each choosing a different supply voltage and recording one row in the table. No text.",
+   "narration": "换几个电压，组员各测一组。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "实测验证与误差",
+   "scene": "做完断电拔插头",
+   "prompt_en": "Diagram: the voltage knob back to zero, the supply switched off and unplugged, the lamps left to cool. No text.",
+   "narration": "做完旋钮回零，断电拔插头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "恒流灯亮，先断电查",
+   "scene": "恒压灯和恒流灯",
+   "prompt_en": "Diagram: a supply panel with a constant voltage indicator and a constant current indicator, the second glowing. No text.",
+   "narration": "电源有恒压、恒流两个指示灯。",
+   "overlay": [
+    "恒流灯亮，先断电查"
+   ],
+   "labels": [
+    "恒压",
+    "恒流"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "恒流灯亮，先断电查",
+   "scene": "恒流亮可能短路，断电查",
+   "prompt_en": "Diagram: a short circuit spark icon on the board, a power off icon, a magnifier over the wiring. No text.",
+   "narration": "恒流灯亮可能短路，先断电查清。",
+   "overlay": [],
+   "labels": [
+    "见第187课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "虚拟仿真：先读原理",
+   "scene": "在学校指定平台找到实验",
+   "prompt_en": "Diagram: a computer screen showing a blank simulation platform page with a circuit icon card. No text.",
+   "narration": "在学校指定平台找到基尔霍夫实验。",
+   "overlay": [
+    "虚拟仿真：先读原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "虚拟仿真：先读原理",
+   "scene": "目的、原理、步骤栏目",
+   "prompt_en": "Diagram: a row of blank tabs with icons for aim, theory, pretest and procedure with a wiring diagram. No text.",
+   "narration": "页面有目的、原理和步骤栏目。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "虚拟仿真：先读原理",
+   "scene": "先读原理，做预习测试",
+   "prompt_en": "The young male student reads a theory page on a laptop and answers a short multiple choice pretest, a checkmark icon.",
+   "narration": "先读原理，做预习测试打好基础。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "仿真验证KVL",
+   "scene": "拖动节点连线，电压表并联",
+   "prompt_en": "Diagram: a simulated circuit with a mouse cursor dragging a wire from a voltmeter to both ends of a resistor. No text.",
+   "narration": "鼠标拖节点连线，电压表并在两端。",
+   "overlay": [
+    "仿真验证KVL"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "仿真验证KVL",
+   "scene": "先点检查，再设电阻",
+   "prompt_en": "Diagram: a check button pressed, a green correct icon popping up, then three resistor sliders adjusted. No text.",
+   "narration": "先点检查，接线正确再设电阻。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "仿真验证KVL",
+   "scene": "从零调压，记六组",
+   "prompt_en": "Diagram: a simulated supply rising from zero, an add button putting rows into a table, six rows filled. No text.",
+   "narration": "电压从零调起，每次添加，记六组。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "仿真验证KVL",
+   "scene": "绘图、打印、复位",
+   "prompt_en": "Diagram: a plot of two rising straight lines, a print icon and a reset icon. No text.",
+   "narration": "绘图看曲线，打印存档，复位重做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "仿真验证KCL",
+   "scene": "电流表串联在支路里",
+   "prompt_en": "Diagram: simulated ammeters inserted in series in each branch, a wrongly paralleled ammeter crossed out. No text.",
+   "narration": "电流表必须串在支路里。",
+   "overlay": [
+    "仿真验证KCL"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "仿真验证KCL",
+   "scene": "按教材数值设电阻，记三个电流",
+   "prompt_en": "Diagram: resistor sliders set to textbook values, three branch currents recorded for several voltages. No text.",
+   "narration": "按教材数值设电阻，记三个电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "仿真验证KCL",
+   "scene": "总电流等于支路和，打印交老师",
+   "prompt_en": "Diagram: a total current equal to two branch currents added, a printed report handed to a teacher icon. No text.",
+   "narration": "总电流等于支路和，打印交老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "仿真代替不了实操",
+   "scene": "仿真接错能重来，真电路不行",
+   "prompt_en": "Diagram: a simulation error popup with a retry arrow beside a real board with a burnt meter icon, crossed out. No text.",
+   "narration": "仿真接错能重来，真电路会烧表。",
+   "overlay": [
+    "仿真代替不了实操"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "仿真代替不了实操",
+   "scene": "先仿真预演，估读数",
+   "prompt_en": "Diagram: a laptop simulation predicting meter readings, an arrow to choosing ranges on a real bench. No text.",
+   "narration": "先仿真预演，估读数、选量程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "仿真代替不了实操",
+   "scene": "实物照样检查再通电",
+   "prompt_en": "The safety administrator checks a real powered off board before the young male student switches on, a training certificate icon beside them.",
+   "narration": "上台实操，照样培训、检查再通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "最大功率传输定理",
+   "scene": "电源内阻画成串联",
+   "prompt_en": "Diagram: a battery with a small internal resistor drawn in series inside a dashed box. No text.",
+   "narration": "电源内部有电阻，画成串联。",
+   "overlay": [
+    "最大功率传输定理"
+   ],
+   "labels": [
+    "内阻"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "最大功率传输定理",
+   "scene": "负载等于内阻时功率最大",
+   "prompt_en": "Diagram: a load resistor knob turned, a power curve rising to a peak where the load equals the internal resistance. No text.",
+   "narration": "负载电阻等于内阻，得到功率最大。",
+   "overlay": [],
+   "labels": [
+    "RL = Rth"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "最大功率传输定理",
+   "scene": "太大太小都上不去",
+   "prompt_en": "Diagram: the power curve low at both a very small and a very large load, the peak in the middle. No text.",
+   "narration": "负载太大太小，功率都上不去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "最大功率传输定理",
+   "scene": "最大功率公式",
+   "prompt_en": "Diagram: an equivalent source voltage squared divided by four times the internal resistance. No text.",
+   "narration": "最大功率等于电压平方除以四倍内阻。",
+   "overlay": [],
+   "labels": [
+    "Uth²/4Rth"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "匹配时效率只有一半",
+   "scene": "效率百分之五十",
+   "prompt_en": "Diagram: a power pie split in half, one half heating the internal resistor and one half reaching the load. No text.",
+   "narration": "匹配时，效率只有百分之五十。",
+   "overlay": [
+    "匹配时效率只有一半"
+   ],
+   "labels": [
+    "η = 50%"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K22",
+   "section_title": "匹配时效率只有一半",
+   "scene": "电网不追求匹配",
+   "prompt_en": "Diagram: a power grid transmission line with a high efficiency gauge, a matching icon crossed out beside it. No text.",
+   "narration": "一半耗在电源内部，电网不按匹配用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "功率匹配的应用",
+   "scene": "光伏最大功率点跟踪",
+   "prompt_en": "Diagram: a solar panel under changing sunlight with a tracking controller keeping the output at the peak of its curve. No text.",
+   "narration": "光伏跟踪控制器，随时找功率最高点。",
+   "overlay": [
+    "功率匹配的应用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "功率匹配的应用",
+   "scene": "功放与音箱匹配",
+   "prompt_en": "Diagram: an audio amplifier connected to a loudspeaker with a matching icon. No text.",
+   "narration": "功放带音箱，也讲究阻抗匹配。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K23",
+   "section_title": "功率匹配的应用",
+   "scene": "收音机调谐",
+   "prompt_en": "Diagram: a radio receiver with a tuning dial and an antenna, a matching icon. No text.",
+   "narration": "收音机调谐，也用到匹配的思想。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "KCL节点流入等于流出，KVL回路和为零",
+   "prompt_en": "Diagram: a node with balanced current arrows and a loop with cancelling voltage arrows. No text.",
+   "narration": "节点电流守恒，回路电压和为零。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "归零限流、断电接线、检查后合闸",
+   "prompt_en": "Diagram: a knob at zero, a current limit icon, a power off plug and a teacher check icon in sequence. No text.",
+   "narration": "旋钮归零设限流，断电接线查后合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "匹配功率最大，效率一半",
+   "prompt_en": "Diagram: a power curve peak where the load equals the internal resistance and a half filled efficiency gauge. No text.",
+   "narration": "负载等于内阻功率最大，效率一半。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在一台关着门的桌面激光切割机旁",
+   "prompt_en": "The panda mascot stands beside a closed desktop laser cutter with its lid shut and a fume extraction duct attached, waving goodbye.",
+   "narration": "下一课：激光切割机操作（桌面与工业）。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
