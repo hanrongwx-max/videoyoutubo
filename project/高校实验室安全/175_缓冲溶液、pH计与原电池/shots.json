@@ -1,0 +1,1140 @@
+{
+ "id": "175_缓冲溶液、pH计与原电池",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "缓冲溶液、pH计与原电池",
+ "seconds": 420,
+ "source_doc": "course/高校实验室安全/175_缓冲溶液、pH计与原电池.md",
+ "author_source": "project/高校实验室安全/175_缓冲溶液、pH计与原电池/src.py",
+ "points": {
+  "K1": "缓冲液与缓冲容量",
+  "K2": "按pKa选缓冲体系",
+  "K3": "方法一：公式算配比",
+  "K4": "方法二：边测边调",
+  "K5": "转移、定容、混匀",
+  "K6": "pH计原理与部件",
+  "K7": "玻璃球泡易碎",
+  "K8": "何时校准、选标准液",
+  "K9": "两点校准步骤",
+  "K10": "测样等读数稳定",
+  "K11": "电极保存：别让它干",
+  "K12": "补满内充液",
+  "K13": "原电池：化学能变电能",
+  "K14": "半电池与盐桥",
+  "K15": "搭电池、做盐桥",
+  "K16": "测电压、算理论值",
+  "K17": "浓度与电极组合",
+  "S1": "重金属废液与清场"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在pH计和几杯溶液旁，手拿一支电极",
+   "prompt_en": "The panda mascot stands beside a benchtop pH meter and a few beakers of clear solution, holding a glass pH electrode carefully, looking at the camera.",
+   "narration": "第15章第十三课：缓冲溶液、pH计与原电池。",
+   "overlay": [
+    "缓冲溶液、pH计与原电池"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰把干放了一周的电极直接插进溶液",
+   "prompt_en": "The young male student pulls a dry pH electrode out of a drawer and plunges it straight into a beaker, the meter number jumping around, a red warning icon.",
+   "narration": "阿杰拿起干放一周的电极就测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "电极撞上杯底的搅拌子",
+   "prompt_en": "Diagram: a fragile glass electrode bulb hitting a spinning stir bar at the bottom of a beaker, a crack icon, crossed out. No text.",
+   "narration": "电极还撞上了转动的搅拌子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拦住他：先校准，护好电极",
+   "prompt_en": "The female graduate student wearing safety goggles stops the young male student and points to a small bottle of storage solution and calibration buffers.",
+   "narration": "小研：没校准、没保护，读数不可信。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "清水和缓冲液各滴几滴强酸",
+   "prompt_en": "Diagram: two beakers, plain water and a buffer, each receiving a few drops of acid from a dropper, two pH gauges beside them. No text.",
+   "narration": "同样滴几滴强酸，比一比。",
+   "overlay": [
+    "缓冲液与缓冲容量"
+   ],
+   "labels": [
+    "清水",
+    "缓冲液"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "清水pH大跌，缓冲液几乎不变",
+   "prompt_en": "Diagram: the gauge for water dropping sharply while the gauge for the buffer stays nearly steady, a shield icon on the buffer. No text.",
+   "narration": "清水pH大跌，缓冲液基本不变。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "弱酸和共轭碱一起中和酸碱",
+   "prompt_en": "Diagram: a weak acid molecule and its conjugate base pair catching incoming acid and base particles. No text.",
+   "narration": "靠弱酸和共轭碱，吸收加入的酸碱。",
+   "overlay": [],
+   "labels": [
+    "弱酸",
+    "共轭碱"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "缓冲液与缓冲容量",
+   "scene": "浓度越高，缓冲容量越大",
+   "prompt_en": "Diagram: a small shield and a big shield, the bigger shield labeled by more molecules, a capacity bar rising. No text.",
+   "narration": "能扛多少酸碱叫缓冲容量，浓度越高越大。",
+   "overlay": [],
+   "labels": [
+    "缓冲容量"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按pKa选缓冲体系",
+   "scene": "先定目标pH，再查pKa表",
+   "prompt_en": "Diagram: a target pH mark on a scale and a table of weak acids with their values, a magnifier on the table. No text.",
+   "narration": "先定目标pH，再查弱酸的pKa表。",
+   "overlay": [
+    "按pKa选缓冲体系"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按pKa选缓冲体系",
+   "scene": "pKa在目标pH上下一个单位内",
+   "prompt_en": "Diagram: a pH scale with a highlighted window one unit on each side of the target, a closest candidate checked. No text.",
+   "narration": "pKa在目标上下一个单位内，越近越好。",
+   "overlay": [],
+   "labels": [
+    "目标pH±1"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按pKa选缓冲体系",
+   "scene": "例：目标7.3，选磷酸二氢根",
+   "prompt_en": "Diagram: a target of seven point three, a candidate at six point eight checked, two phosphate salt bottles with blank labels. No text.",
+   "narration": "例：目标7.3，选pKa 6.82的磷酸体系。",
+   "overlay": [],
+   "labels": [
+    "磷酸二氢钠",
+    "磷酸氢二钠"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按pKa选缓冲体系",
+   "scene": "缓冲液也会结合金属、见光生自由基",
+   "prompt_en": "Diagram: a buffer molecule grabbing a metal ion and another giving off a radical under a lamp, a caution icon. No text.",
+   "narration": "有的缓冲液结合金属、见光生自由基。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "按pKa选缓冲体系",
+   "scene": "按实验体系选不干扰的缓冲液",
+   "prompt_en": "Diagram: a checklist with a protein icon, a metal ion icon and a light icon, one compatible buffer bottle checked. No text.",
+   "narration": "按实验选不干扰反应的缓冲液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "方法一：公式算配比",
+   "scene": "亨德森—哈塞尔巴尔赫方程",
+   "prompt_en": "Diagram: a simple balance with a conjugate base on one side and a weak acid on the other, a ratio arrow between them. No text.",
+   "narration": "用亨德森方程，算出碱和酸的比例。",
+   "overlay": [
+    "方法一：公式算配比"
+   ],
+   "labels": [
+    "亨德森方程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "方法一：公式算配比",
+   "scene": "比例约1.6，总量50毫摩尔",
+   "prompt_en": "Diagram: two stacks in a ratio of about one point six to one, adding up to a total concentration bar. No text.",
+   "narration": "碱酸比约1.6，两者加起来50毫摩尔。",
+   "overlay": [],
+   "labels": [
+    "碱:酸≈1.6"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "方法一：公式算配比",
+   "scene": "算出各自质量，分别称量",
+   "prompt_en": "Diagram: two weighing boats on a balance with small piles of white salt, a calculator icon beside. No text.",
+   "narration": "算出各自质量，分别称量。",
+   "overlay": [],
+   "labels": [
+    "2.30 g",
+    "4.37 g",
+    "见第164课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "方法一：公式算配比",
+   "scene": "溶解定容后，用pH计核对",
+   "prompt_en": "Diagram: the dissolved solution in a flask topped up to the mark, then checked with a pH electrode. No text.",
+   "narration": "溶解定容，最后用pH计核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "方法二：先加约八成的水和搅拌子",
+   "prompt_en": "Diagram: a large beaker filled about four fifths with water and a stir bar on a magnetic stirrer. No text.",
+   "narration": "方法二更简单：先加八成水和搅拌子。",
+   "overlay": [
+    "方法二：边测边调"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "称好弱碱倒入，冲洗称量舟",
+   "prompt_en": "Diagram: a weighed portion of white powder poured from a weighing boat into the beaker, the boat rinsed into the beaker with a wash bottle. No text.",
+   "narration": "称好的试剂倒入，称量舟也冲洗进去。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "调节液先看标签：强酸强碱腐蚀",
+   "prompt_en": "Diagram: a small bottle of dilute acid with a corrosive pictogram and a safety data sheet, safety goggles and gloves. No text.",
+   "narration": "调节用的酸碱有腐蚀性，先看标签。",
+   "overlay": [],
+   "labels": [
+    "见第048课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "边搅拌边监测，逐滴加入",
+   "prompt_en": "The female graduate student wearing safety goggles and gloves adds acid drop by drop with a dropper while watching the pH meter, the electrode held away from the stir bar.",
+   "narration": "边搅拌边看读数，少量多次逐滴加。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "调节液太稀太浓都不好",
+   "prompt_en": "Diagram: a very dilute bottle needing a huge volume and a very concentrated bottle overshooting with one drop, both crossed out, a medium bottle checked. No text.",
+   "narration": "太稀冲淡缓冲液，太浓一滴就过头。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "方法二：边测边调",
+   "scene": "调过头再往回调，盐会变多",
+   "prompt_en": "Diagram: a needle overshooting the target and coming back, extra salt crystals accumulating, a warning icon. No text.",
+   "narration": "调过头再调回，溶液里盐就多了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "转移、定容、混匀",
+   "scene": "转入容量瓶，洗烧杯并入",
+   "prompt_en": "Diagram: the solution poured into a volumetric flask through a funnel, the beaker rinsed several times into the flask. No text.",
+   "narration": "转入容量瓶，烧杯洗几次并入。",
+   "overlay": [
+    "转移、定容、混匀"
+   ],
+   "labels": [
+    "见第165课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "转移、定容、混匀",
+   "scene": "定容到刻度，视线平齐",
+   "prompt_en": "Diagram: an eye level with the graduation mark on the flask neck as water is added to the mark. No text.",
+   "narration": "加水到刻度，视线与刻度平齐。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "转移、定容、混匀",
+   "scene": "盖紧瓶塞，反复颠倒混匀",
+   "prompt_en": "Diagram: a stoppered volumetric flask held with a hand on the stopper and turned upside down several times. No text.",
+   "narration": "盖紧瓶塞，反复颠倒混匀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "pH计原理与部件",
+   "scene": "pH计：显示屏、电极、尖端球泡",
+   "prompt_en": "Diagram: a generic benchtop pH meter with a display, a combination electrode on an arm and a thin glass bulb at the tip highlighted, no logos. No text.",
+   "narration": "pH计：显示屏、电极和尖端球泡。",
+   "overlay": [
+    "pH计原理与部件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "pH计原理与部件",
+   "scene": "玻璃电极外套着参比电极",
+   "prompt_en": "Diagram: a cutaway combination electrode showing an inner glass electrode and an outer reference chamber around it. No text.",
+   "narration": "玻璃电极外面，套着参比电极。",
+   "overlay": [],
+   "labels": [
+    "玻璃电极",
+    "参比电极"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "pH计原理与部件",
+   "scene": "内外pH不同产生电位差",
+   "prompt_en": "Diagram: hydrogen ions on both sides of a thin glass membrane, a small voltage arrow across it, a meter reading. No text.",
+   "narration": "膜内外pH不同，产生电位差。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "pH计原理与部件",
+   "scene": "第一次用：先培训、看规程、登记",
+   "prompt_en": "The safety administrator shows the young male student an operating procedure sheet and a usage log beside the pH meter.",
+   "narration": "第一次用先培训，看规程，用后登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃球泡易碎",
+   "scene": "球泡是很薄的玻璃",
+   "prompt_en": "Diagram: a magnified thin glass bulb at the electrode tip with a fragile icon. No text.",
+   "narration": "尖端球泡是很薄的玻璃，易碎。",
+   "overlay": [
+    "玻璃球泡易碎"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃球泡易碎",
+   "scene": "别碰杯壁，远离搅拌子",
+   "prompt_en": "Diagram: an electrode held in the middle of a beaker away from the wall and from the stir bar, touching the wall crossed out. No text.",
+   "narration": "别碰杯壁，离搅拌子远一点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃球泡易碎",
+   "scene": "轻放轻取，不甩不对人",
+   "prompt_en": "Diagram: an electrode lowered gently into a beaker, and a hand flinging an electrode in the air crossed out. No text.",
+   "narration": "轻放轻取，不在空中甩。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "玻璃球泡易碎",
+   "scene": "破了用镊子收进碎玻璃盒",
+   "prompt_en": "Diagram: a broken electrode tip picked up with tweezers into a broken glass box, a bare hand crossed out. No text.",
+   "narration": "破了别徒手捡，放进碎玻璃盒。",
+   "overlay": [],
+   "labels": [
+    "见第029课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "何时校准、选标准液",
+   "scene": "先接好电极，再校准",
+   "prompt_en": "Diagram: an electrode cable connected to the meter, then a calibration icon with a check mark. No text.",
+   "narration": "先确认电极接好，再校准。",
+   "overlay": [
+    "何时校准、选标准液"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "何时校准、选标准液",
+   "scene": "开机要校准，用久了复校",
+   "prompt_en": "Diagram: a power icon followed by calibration, and a clock showing several hours followed by calibration again. No text.",
+   "narration": "每次开机校准，连续用几小时复校。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "何时校准、选标准液",
+   "scene": "三种常用标准缓冲液",
+   "prompt_en": "Diagram: three small bottles of standard buffer solutions with blank labels in different pastel colors. No text.",
+   "narration": "常用标准缓冲液有三种。",
+   "overlay": [],
+   "labels": [
+    "pH 4.00",
+    "pH 6.86",
+    "pH 9.18"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "何时校准、选标准液",
+   "scene": "选和样品最接近的两种",
+   "prompt_en": "Diagram: an acidic sample matched with the neutral and acidic standards, an alkaline sample matched with the neutral and alkaline standards. No text.",
+   "narration": "两点校准：选和样品最接近的两种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "【实拍】蒸馏水冲洗电极，接进废液杯",
+   "prompt_en": "Close-up: a wash bottle rinsing a pH electrode tip with distilled water over a small waste beaker.",
+   "narration": "蒸馏水冲洗电极，冲洗水接进废液杯。",
+   "overlay": [
+    "两点校准步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "【实拍】无尘纸轻轻吸干",
+   "prompt_en": "Close-up: a lint-free tissue gently dabbing the electrode bulb dry without rubbing.",
+   "narration": "无尘纸轻轻吸干，别用力擦。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "【实拍】倒少量标准液到小杯",
+   "prompt_en": "Close-up: a small amount of standard buffer poured from its bottle into a small clean cup, the bottle closed right away.",
+   "narration": "倒一点标准液到小杯，别污染整瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "【实拍】插入第一种标准液，按校准",
+   "prompt_en": "Close-up: the electrode lowered into the small cup of standard buffer so the bulb is fully covered, a finger pressing a calibration key.",
+   "narration": "插入第一种标准液，按校准键。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "读数稳定后确认",
+   "prompt_en": "Diagram: a display reading settling to a steady value, a confirm key pressed. No text.",
+   "narration": "读数稳定后，按确认。",
+   "overlay": [],
+   "labels": [
+    "第1点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "冲洗吸干，测第二种",
+   "prompt_en": "Diagram: rinse, blot and dip into the second standard cup, a steady reading confirmed. No text.",
+   "narration": "冲洗吸干，换第二种，同样确认。",
+   "overlay": [],
+   "labels": [
+    "第2点"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "两点校准步骤",
+   "scene": "用过的标准液不倒回原瓶",
+   "prompt_en": "Diagram: used buffer in the small cup poured back into the stock bottle crossed out, poured into a waste beaker checked. No text.",
+   "narration": "用过的标准液，不倒回原瓶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测样等读数稳定",
+   "scene": "样品温度与校准温度一致",
+   "prompt_en": "Diagram: a thermometer icon on the sample and on the standard showing the same temperature, a check mark. No text.",
+   "narration": "pH随温度变，样品温度要一致。",
+   "overlay": [
+    "测样等读数稳定"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测样等读数稳定",
+   "scene": "冲洗吸干，球泡完全浸没",
+   "prompt_en": "Diagram: a rinsed and blotted electrode lowered so the whole bulb is under the sample surface, the fill hole open. No text.",
+   "narration": "冲洗吸干，球泡完全浸没。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测样等读数稳定",
+   "scene": "搅匀后等读数稳定再记",
+   "prompt_en": "Diagram: the solution stirred gently, the display flickering and then holding steady, a notebook entry. No text.",
+   "narration": "搅匀，等读数稳定再记录。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "测样等读数稳定",
+   "scene": "配得准测得准，样品才稳定",
+   "prompt_en": "Diagram: an accurate buffer bottle and an accurate meter leading to a happy protein icon staying active over time. No text.",
+   "narration": "配得准测得准，蛋白才能长期稳定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电极保存：别让它干",
+   "scene": "电极平时泡在保存液里",
+   "prompt_en": "Diagram: a pH electrode stored upright in a small storage bottle with the bulb fully covered by storage solution. No text.",
+   "narration": "电极平时泡在保存液里。",
+   "overlay": [
+    "电极保存：别让它干"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电极保存：别让它干",
+   "scene": "干放失灵，泡纯水也不行",
+   "prompt_en": "Diagram: a dry electrode in a drawer and an electrode soaking in a beaker of pure water, both crossed out. No text.",
+   "narration": "干放会失灵，长期泡纯水也不行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电极保存：别让它干",
+   "scene": "【实拍】慢慢抽出电极",
+   "prompt_en": "Close-up: a hand loosening the cap of a storage bottle and slowly drawing the electrode out.",
+   "narration": "先拧松瓶盖，慢慢抽出，别形成负压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电极保存：别让它干",
+   "scene": "定期换保存液，没过球泡",
+   "prompt_en": "Diagram: old storage solution poured into a waste beaker, the bottle rinsed, fresh solution filled above the bulb level. No text.",
+   "narration": "定期换保存液，加到没过球泡。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "电极保存：别让它干",
+   "scene": "【实拍】电极滑回保存瓶，拧紧盖",
+   "prompt_en": "Close-up: the cap slipped loosely over the electrode, the electrode slid gently into the storage bottle, then the cap tightened.",
+   "narration": "瓶盖先套上，电极滑进去再拧紧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "换液前穿戴防护，铺吸水垫",
+   "prompt_en": "The female graduate student in a lab coat, safety goggles and gloves lays an absorbent pad on the bench with a waste beaker ready.",
+   "narration": "维护前戴好护目镜手套，铺好吸水垫。",
+   "overlay": [
+    "补满内充液"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "【实拍】从加液孔补满内充液",
+   "prompt_en": "Close-up: the nozzle of a filling solution bottle inserted into the side fill hole of a refillable electrode, filling it up.",
+   "narration": "用规定的内充液，从加液孔补满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "内液面高于样品液面",
+   "prompt_en": "Diagram: a cutaway electrode in a beaker, the inner liquid level clearly higher than the sample level, a small outward flow arrow. No text.",
+   "narration": "内液面高于样品，样品就不倒灌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "快流式每天补，旧液排进废液杯",
+   "prompt_en": "Diagram: old filling solution drained or drawn out with a dropper into a waste beaker, then refilled, a daily calendar icon. No text.",
+   "narration": "旧液排进废液杯，每天用前补满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "测时打开加液孔，存放时盖上",
+   "prompt_en": "Diagram: the fill hole open during measurement and covered during overnight storage, two small panels. No text.",
+   "narration": "测量时打开加液孔，过夜存放盖上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "补满内充液",
+   "scene": "冲净外壁，贴签登记",
+   "prompt_en": "Diagram: the outside of the electrode rinsed with deionized water, bottles labeled with name and date, a maintenance log. No text.",
+   "narration": "冲净外壁，瓶子贴签，维护登记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "原电池：化学能变电能",
+   "scene": "电池把化学能变成电能",
+   "prompt_en": "Diagram: a chemical flask icon turning into a lightning bolt icon through a simple battery. No text.",
+   "narration": "电池把化学能变成电能：电化学。",
+   "overlay": [
+    "原电池：化学能变电能"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "原电池：化学能变电能",
+   "scene": "自发的氧化还原反应",
+   "prompt_en": "Diagram: one atom losing electrons marked as oxidation and another gaining electrons marked as reduction. No text.",
+   "narration": "失电子是氧化，得电子是还原。",
+   "overlay": [],
+   "labels": [
+    "氧化",
+    "还原"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "原电池：化学能变电能",
+   "scene": "电子流动像流水推水车",
+   "prompt_en": "Diagram: flowing water turning a water wheel beside electrons flowing along a wire lighting a small bulb. No text.",
+   "narration": "电子流动像流水，能推动做功。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "原电池：化学能变电能",
+   "scene": "手机电池也是同一原理",
+   "prompt_en": "Diagram: a phone battery and a car battery cutaway each showing two halves, ions inside and current outside. No text.",
+   "narration": "手机电池也一样：内走离子，外走电流。",
+   "overlay": [],
+   "labels": [
+    "见第103课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "半电池与盐桥",
+   "scene": "氧化还原分开：两个半电池",
+   "prompt_en": "Diagram: two beakers side by side, the left labeled with an oxidation icon and the right with a reduction icon. No text.",
+   "narration": "把氧化和还原分开，成两个半电池。",
+   "overlay": [
+    "半电池与盐桥"
+   ],
+   "labels": [
+    "阳极",
+    "阴极"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "半电池与盐桥",
+   "scene": "锌失电子，铜离子得电子",
+   "prompt_en": "Diagram: a zinc strip releasing ions into solution and copper metal depositing on a copper strip, electrons moving through a wire. No text.",
+   "narration": "锌失电子变锌离子，铜离子得电子析出铜。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "半电池与盐桥",
+   "scene": "盐桥传递离子，平衡电荷",
+   "prompt_en": "Diagram: a salt bridge connecting the two beakers with ions moving through it to keep both sides neutral. No text.",
+   "narration": "盐桥传离子，防止两边电荷堆积。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "搭电池、做盐桥",
+   "scene": "先看标签：铜盐镍盐有毒致敏",
+   "prompt_en": "Diagram: bottles of blue and green metal salt solutions with health hazard and exclamation pictograms, gloves and safety goggles. No text.",
+   "narration": "铜盐、镍盐有毒，镍盐还可能致敏。",
+   "overlay": [
+    "搭电池、做盐桥"
+   ],
+   "labels": [
+    "见第040课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "搭电池、做盐桥",
+   "scene": "砂纸打磨电极，当心边缘",
+   "prompt_en": "Diagram: a metal strip polished with fine sandpaper, a sharp edge warning icon, metal dust collected on paper. No text.",
+   "narration": "砂纸打磨电极，边缘锋利当心割手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "搭电池、做盐桥",
+   "scene": "锌片配锌盐，铜片配铜盐",
+   "prompt_en": "Diagram: a zinc strip placed in a zinc salt beaker and a copper strip in a copper salt beaker, a swapped pair crossed out. No text.",
+   "narration": "锌配硫酸锌，铜配硫酸铜，不能放错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "搭电池、做盐桥",
+   "scene": "【实拍】滤纸条浸盐溶液，搭在两杯间",
+   "prompt_en": "Close-up: a folded filter paper strip soaked in clear salt solution draped between two beakers so each end dips into the liquid.",
+   "narration": "滤纸条浸透盐溶液，两头浸入两杯。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "搭电池、做盐桥",
+   "scene": "盐桥用硝酸钾或氯化钾",
+   "prompt_en": "Diagram: a U-tube salt bridge filled with an inert salt checked, and a salt that reacts with copper ions crossed out. No text.",
+   "narration": "也可用U形管，盐选不反应的。",
+   "overlay": [],
+   "labels": [
+    "硝酸钾",
+    "氯化钾",
+    "碘化钾✗"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "测电压、算理论值",
+   "scene": "电表先选直流电压档",
+   "prompt_en": "Diagram: a generic multimeter dial turned to a low direct current voltage range, no logos. No text.",
+   "narration": "电压表先选好直流电压档。",
+   "overlay": [
+    "测电压、算理论值"
+   ],
+   "labels": [
+    "见第102课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "测电压、算理论值",
+   "scene": "夹子夹电极上端，不泡液里",
+   "prompt_en": "Diagram: alligator clips attached to the dry upper ends of the two metal strips, a clip dipped in the liquid crossed out. No text.",
+   "narration": "夹子夹在电极上端，别泡进溶液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "测电压、算理论值",
+   "scene": "读数约一伏",
+   "prompt_en": "Diagram: the meter showing a reading of about one volt, a small bulb icon glowing. No text.",
+   "narration": "马上有读数，约一伏。",
+   "overlay": [],
+   "labels": [
+    "约1 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "测电压、算理论值",
+   "scene": "电动势=阴极电位−阳极电位",
+   "prompt_en": "Diagram: a table of standard potentials, a subtraction of the two values giving a theoretical value compared with the measured value. No text.",
+   "narration": "查标准电位，阴极减阳极算理论值。",
+   "overlay": [],
+   "labels": [
+    "E=E阴−E阳",
+    "理论1.10 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "浓度与电极组合",
+   "scene": "看两边浓度比值",
+   "prompt_en": "Diagram: two beakers with concentration bars, both halved giving the same voltage, only one changed giving a different voltage. No text.",
+   "narration": "浓度也影响电压，关键看两边比值。",
+   "overlay": [
+    "浓度与电极组合"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "浓度与电极组合",
+   "scene": "换镍电极，组成多种电池",
+   "prompt_en": "Diagram: three half cells connected in pairs making three cells, four half cells making six cells, a counting icon. No text.",
+   "narration": "三个半电池组三种，四个组六种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "重金属废液与清场",
+   "scene": "重金属盐溶液进专用废液桶",
+   "prompt_en": "Diagram: blue metal salt solution poured into a labeled heavy metal waste container, a sink crossed out. No text.",
+   "narration": "铜盐、镍盐废液进专用桶，不倒水槽。",
+   "overlay": [
+    "重金属废液与清场"
+   ],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "重金属废液与清场",
+   "scene": "电极洗净回收，废滤纸按危废，洗手",
+   "prompt_en": "Diagram: rinsed metal strips returned to a tray, a used salt bridge paper put into a solid waste bag, then hands washed at a sink. No text.",
+   "narration": "电极洗净，废盐桥按危废，洗手离开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "缓冲液：pKa近目标，测着调",
+   "prompt_en": "Diagram: a buffer bottle, a pH scale window and a dropper with a check mark. No text.",
+   "narration": "缓冲液：选近目标的pKa，边测边调。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "pH计：校准、冲洗吸干、保存液",
+   "prompt_en": "Diagram: a calibration icon, a rinse icon and an electrode in a storage bottle, all checked. No text.",
+   "narration": "pH计：先校准，冲洗吸干，泡保存液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "原电池：盐桥、电表、重金属废液",
+   "prompt_en": "Diagram: two half cells with a salt bridge and a meter, then a heavy metal waste container. No text.",
+   "narration": "原电池：盐桥连通，废液按危废收集。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣手拿一只比色皿",
+   "prompt_en": "The panda mascot holds up a small square cuvette by its frosted sides beside a benchtop spectrophotometer, waving goodbye.",
+   "narration": "下一课：分光光度法与水质测定。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
