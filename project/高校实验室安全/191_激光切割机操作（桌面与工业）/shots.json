@@ -1,0 +1,1034 @@
+{
+ "id": "191_激光切割机操作（桌面与工业）",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "激光切割机操作（桌面与工业）",
+ "seconds": 390,
+ "source_doc": "course/高校实验室安全/191_激光切割机操作（桌面与工业）.md",
+ "author_source": "project/高校实验室安全/191_激光切割机操作（桌面与工业）/src.py",
+ "points": {
+  "K1": "桌面激光切割机",
+  "K2": "切割、雕刻与划线",
+  "K3": "设计软件与公共账号",
+  "K4": "不动别人的设计",
+  "K5": "导入文件与现成设计",
+  "K6": "加工前检查文件",
+  "K7": "实时画面与就绪状态",
+  "K8": "颜色分组与加工模式",
+  "K9": "选对材料和厚度",
+  "K10": "材料测试阵列",
+  "K11": "逐步设置加工方式",
+  "K12": "开机前检查与放料",
+  "K13": "测距对焦要准",
+  "K14": "徽章尺：三种加工",
+  "K15": "排料、预览与用时",
+  "K16": "先开排烟，再按启动",
+  "K17": "冷却取件，清理关机",
+  "K18": "工业激光切割的用途",
+  "K19": "熔化吹渣原理",
+  "K20": "切割头、压力表与格栅台",
+  "K21": "打标追溯与成品核对"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在一台关着盖的桌面激光切割机旁",
+   "prompt_en": "The panda mascot stands beside a closed desktop laser cutter with a fume purifier underneath, looking at the camera.",
+   "narration": "第15章第二十九课：激光切割机操作。",
+   "overlay": [
+    "激光切割机操作（桌面与工业）"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在电脑上点了开始，起身准备走开",
+   "prompt_en": "The young male student clicks start on a laptop beside a desktop laser cutter, then stands up and turns to walk away, a red warning icon.",
+   "narration": "阿杰：点了开始，我去倒杯水。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研指着没开的净化器和机器上的启动键",
+   "prompt_en": "The female graduate student points at a switched off fume purifier and at the start button on the machine, a crossed out walking away icon.",
+   "narration": "小研：净化器没开，人也不能走！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师拿着操作流程卡走来",
+   "prompt_en": "The safety administrator walks over holding a blank procedure card with numbered step icons.",
+   "narration": "王老师：照流程一步步来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "桌面激光切割机",
+   "scene": "二氧化碳激光聚成小光点",
+   "prompt_en": "Diagram: a carbon dioxide laser beam focused by a lens into a tiny spot on a wooden board inside a closed machine. No text.",
+   "narration": "桌面机用二氧化碳激光，聚成小光点。",
+   "overlay": [
+    "桌面激光切割机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "桌面激光切割机",
+   "scene": "能加工木板、亚克力",
+   "prompt_en": "Diagram: a plywood board and an acrylic sheet with checkmarks, a permitted material list icon beside them. No text.",
+   "narration": "木板、亚克力等许可材料能加工。",
+   "overlay": [],
+   "labels": [
+    "见第117课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "桌面激光切割机",
+   "scene": "照片、拼图、小木盒、小尺子",
+   "prompt_en": "Diagram: an engraved photo on wood, a wooden puzzle, a small wooden box and a small ruler. No text.",
+   "narration": "能雕照片，做拼图、木盒和小尺子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "切割、雕刻与划线",
+   "scene": "切割：沿边切下",
+   "prompt_en": "Diagram: a laser cutting fully through a board along the outline of a small badge. No text.",
+   "narration": "切割，沿外框把整片切下来。",
+   "overlay": [
+    "切割、雕刻与划线"
+   ],
+   "labels": [
+    "切割"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "切割、雕刻与划线",
+   "scene": "雕刻：刻得深，填满",
+   "prompt_en": "Diagram: a laser engraving a filled name area, deeper and darker. No text.",
+   "narration": "雕刻把图案填满，刻得较深。",
+   "overlay": [],
+   "labels": [
+    "雕刻"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "切割、雕刻与划线",
+   "scene": "划线：浅浅一层灼痕",
+   "prompt_en": "Diagram: a laser scoring thin shallow ruler marks on the surface. No text.",
+   "narration": "划线只留浅浅一层灼痕。",
+   "overlay": [],
+   "labels": [
+    "划线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "切割、雕刻与划线",
+   "scene": "第一个作品：徽章尺",
+   "prompt_en": "Diagram: a small wooden badge ruler with an engraved name, scored scale marks and a cut outline. No text.",
+   "narration": "第一个作品徽章尺，三种都用上。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "设计软件与公共账号",
+   "scene": "设计都在软件里完成",
+   "prompt_en": "Diagram: a laptop with a blank design canvas connected to a desktop laser cutter icon. No text.",
+   "narration": "设计都在设计软件里完成。",
+   "overlay": [
+    "设计软件与公共账号"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "设计软件与公共账号",
+   "scene": "在家用个人账号提前设计",
+   "prompt_en": "Diagram: a home desk with a laptop and a personal account icon, a design being prepared. No text.",
+   "narration": "可以在自己电脑上用个人账号设计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "设计软件与公共账号",
+   "scene": "公共电脑只用公共账号和免费设计",
+   "prompt_en": "Diagram: a lab computer with a shared account icon, a free design checked and a paid design crossed out. No text.",
+   "narration": "公共电脑用公共账号，只用免费设计。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "设计软件与公共账号",
+   "scene": "用完退出，遵守许可",
+   "prompt_en": "Diagram: a logout icon, a personal data icon crossed out on the shared computer, a license icon on a shared design. No text.",
+   "narration": "用完退出登录，遵守设计的许可。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "不动别人的设计",
+   "scene": "最近文件里有别人的设计",
+   "prompt_en": "Diagram: a recent files list with designs of several users, a hand icon stopped before opening someone else's file. No text.",
+   "narration": "最近文件里有别人的设计，别打开改。",
+   "overlay": [
+    "不动别人的设计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "不动别人的设计",
+   "scene": "我的空间人人可见",
+   "prompt_en": "Diagram: a shared folder visible to many user icons, a delete menu icon after finishing. No text.",
+   "narration": "公共空间人人可见，不想公开就删除。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "导入文件与现成设计",
+   "scene": "下载文件带过来",
+   "prompt_en": "Diagram: a design file saved from a home laptop onto a USB drive icon and a cloud icon. No text.",
+   "narration": "在家做好，下载保存，带来上传。",
+   "overlay": [
+    "导入文件与现成设计"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "导入文件与现成设计",
+   "scene": "上传导入带原设置",
+   "prompt_en": "Diagram: an upload button importing a file onto the canvas, its process settings attached. No text.",
+   "narration": "上传的文件会带着原来的加工设置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "导入文件与现成设计",
+   "scene": "探索页搜索现成设计",
+   "prompt_en": "Diagram: a gallery of shared designs with a search box icon and a detail card with material, preview and author icons. No text.",
+   "narration": "现成设计可搜索，看材料预览作者。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "导入文件与现成设计",
+   "scene": "机型不同要转换",
+   "prompt_en": "Diagram: a design made for an ultraviolet laser with a question mark beside a carbon dioxide machine, a resize arrow. No text.",
+   "narration": "别的机型设计，可能要改尺寸改文件。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "导入文件与现成设计",
+   "scene": "打开到画布，移动调整",
+   "prompt_en": "Diagram: a design opened on the canvas, moved as a whole and one element adjusted separately. No text.",
+   "narration": "打开到画布，可整体移也可单独调。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "加工前检查文件",
+   "scene": "查尺寸和板材范围",
+   "prompt_en": "Diagram: a design outline checked against the board size, a ruler icon and a checkmark. No text.",
+   "narration": "加工前查文件：尺寸、在不在板内。",
+   "overlay": [
+    "加工前检查文件"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "加工前检查文件",
+   "scene": "查切雕划设置，删重复线",
+   "prompt_en": "Diagram: three process type icons checked, and two overlapping duplicate lines with a flame icon crossed out. No text.",
+   "narration": "切雕划设对没有，重复线要删掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实时画面与就绪状态",
+   "scene": "软件里能看到机内画面",
+   "prompt_en": "Diagram: a laptop showing a live camera view of the machine bed with the design overlaid on the board. No text.",
+   "narration": "软件里有机内实时画面，方便对位。",
+   "overlay": [
+    "实时画面与就绪状态"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实时画面与就绪状态",
+   "scene": "两个绿点：设备和净化器",
+   "prompt_en": "Diagram: two green status dots, one for the laser cutter and one for the fume purifier. No text.",
+   "narration": "切割机、净化器两个绿点都亮才行。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "实时画面与就绪状态",
+   "scene": "缺绿点请管理员",
+   "prompt_en": "Diagram: one grey status dot, a stop icon and a safety administrator icon being called. No text.",
+   "narration": "缺一个机器不运行，请管理员检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "颜色分组与加工模式",
+   "scene": "颜色只用来分组",
+   "prompt_en": "Diagram: shapes in two colours, all shapes of one colour selected at once, a process icon unchanged. No text.",
+   "narration": "颜色只用来分组选择，不影响加工。",
+   "overlay": [
+    "颜色分组与加工模式"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "颜色分组与加工模式",
+   "scene": "默认蜂窝板模式",
+   "prompt_en": "Diagram: a honeycomb panel mode icon checked, a slats removed mode icon for engraving on a thick object. No text.",
+   "narration": "模式默认蜂窝板，厚物件雕刻拆板条。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "颜色分组与加工模式",
+   "scene": "批量加工",
+   "prompt_en": "Diagram: the same design repeated many times on a board, and a variant with small differences. No text.",
+   "narration": "做很多份，可以用批量加工。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "颜色分组与加工模式",
+   "scene": "没有的附件不要选",
+   "prompt_en": "Diagram: an accessory icon in the software that the lab does not own, crossed out, an error icon. No text.",
+   "narration": "场所没有的附件不要选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "选对材料和厚度",
+   "scene": "材料列表选材料和厚度",
+   "prompt_en": "Diagram: a material list with wood boards of two thicknesses, the matching thickness selected. No text.",
+   "narration": "在列表选材料，厚度一定选对。",
+   "overlay": [
+    "选对材料和厚度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "选对材料和厚度",
+   "scene": "厚度错参数全错",
+   "prompt_en": "Diagram: a thick board with settings for a thin board, an incomplete cut and a scorched edge. No text.",
+   "narration": "厚度选错，功率速度就都不对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "选对材料和厚度",
+   "scene": "应用预设，不擅自加大",
+   "prompt_en": "Diagram: an apply button filling power and speed for each step, a hand raising the power crossed out. No text.",
+   "narration": "应用预设，不自行加大功率放慢速度。",
+   "overlay": [],
+   "labels": [
+    "见第117课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "材料测试阵列",
+   "scene": "没有预设先做测试阵列",
+   "prompt_en": "Diagram: a grid of small squares with power increasing along one side and speed along the other. No text.",
+   "narration": "没有预设，用材料测试阵列找参数。",
+   "overlay": [
+    "材料测试阵列"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "材料测试阵列",
+   "scene": "切割测试：挑切透又干净的",
+   "prompt_en": "Diagram: a cut test grid on scrap wood, the cleanly cut through square circled. No text.",
+   "narration": "切割测试，挑切透、边缘干净那格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "材料测试阵列",
+   "scene": "雕刻测试：挑深浅",
+   "prompt_en": "Diagram: an engraving test row from light to dark, the preferred square circled. No text.",
+   "narration": "雕刻测试，按深浅挑最合适那格。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "材料测试阵列",
+   "scene": "新设计新材料先试切",
+   "prompt_en": "Diagram: a test piece on a scrap corner of the board before the full job, a checkmark. No text.",
+   "narration": "新设计新材料，先在边角料试。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "逐步设置加工方式",
+   "scene": "图片只能雕刻",
+   "prompt_en": "Diagram: a photo image with only the engrave icon allowed, lines with score, engrave or cut options. No text.",
+   "narration": "图片只能雕刻，线条可划可雕可切。",
+   "overlay": [
+    "逐步设置加工方式"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "逐步设置加工方式",
+   "scene": "单独调一个步骤",
+   "prompt_en": "Diagram: one engrave step adjusted deeper while the cut step keeps its default. No text.",
+   "narration": "也可只调一个步骤，其他照旧。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "逐步设置加工方式",
+   "scene": "同设置合并，自动排序",
+   "prompt_en": "Diagram: objects with the same settings merged into one step, the step order arranged automatically. No text.",
+   "narration": "设置相同并成一步，顺序自动排。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开机前检查与放料",
+   "scene": "蜂窝板放平、清碎屑",
+   "prompt_en": "Diagram: a honeycomb panel seated flat on its rail holders, old debris removed, a clean lens icon. No text.",
+   "narration": "蜂窝板放平放稳，清掉上次碎屑。",
+   "overlay": [
+    "开机前检查与放料"
+   ],
+   "labels": [
+    "见第116课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开机前检查与放料",
+   "scene": "排风、急停、盖板正常",
+   "prompt_en": "Diagram: a fume purifier icon, an emergency stop button and a closed lid, each with a checkmark. No text.",
+   "narration": "排风正常，急停好用，盖板关得严。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开机前检查与放料",
+   "scene": "【实拍】打开机盖，木板放平，固定针压稳",
+   "prompt_en": "Close-up of hands placing a plywood board flat on a honeycomb panel of a powered off desktop laser cutter and pressing in hold down pins.",
+   "narration": "木板平放，固定针插进蜂窝孔压稳。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "开机前检查与放料",
+   "scene": "关盖后点刷新",
+   "prompt_en": "Diagram: the lid closed, a refresh button pressed and the live view updated to show the board. No text.",
+   "narration": "关好机盖，点刷新才看到木板。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "测距对焦要准",
+   "scene": "自动测距",
+   "prompt_en": "Diagram: the laser head moving above the board and a camera icon measuring the distance automatically. No text.",
+   "narration": "放好设计先测距，机器自动测距离。",
+   "overlay": [
+    "测距对焦要准"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "测距对焦要准",
+   "scene": "【实拍】用卡尺量准材料厚度",
+   "prompt_en": "Close-up of a hand measuring the thickness of a plywood board with a caliper beside a powered off laser cutter.",
+   "narration": "测不到就输入厚度，一定要量准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "测距对焦要准",
+   "scene": "焦点不准切不透",
+   "prompt_en": "Diagram: an out of focus beam leaving an incomplete scorched cut, a warped board touching the head crossed out. No text.",
+   "narration": "焦点不准会烧焦，翘起的材料要压平。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "徽章尺：三种加工",
+   "scene": "导入刻度尺，加名字",
+   "prompt_en": "Diagram: a ruler design imported on the canvas, a text tool adding a name above the scale. No text.",
+   "narration": "导入刻度尺，用文字工具加名字。",
+   "overlay": [
+    "徽章尺：三种加工"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "徽章尺：三种加工",
+   "scene": "名字设为雕刻",
+   "prompt_en": "Diagram: the name changed from an outline score to a filled engrave. No text.",
+   "narration": "名字从划线改成雕刻，把字填满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "徽章尺：三种加工",
+   "scene": "外偏移生成外框设为切割",
+   "prompt_en": "Diagram: an outer offset line drawn around the ruler and set to cut, selected from the object list. No text.",
+   "narration": "向外偏移生成外框，设为切割。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "徽章尺：三种加工",
+   "scene": "三个步骤，重选材料",
+   "prompt_en": "Diagram: three steps listed, score, engrave and cut, and a material selection reopened. No text.",
+   "narration": "三个步骤齐了，新文件要重选材料。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "排料、预览与用时",
+   "scene": "从边角排起",
+   "prompt_en": "Diagram: designs placed row by row from the corner of a board instead of the centre. No text.",
+   "narration": "从边角一行行排，省材料。",
+   "overlay": [
+    "排料、预览与用时"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "排料、预览与用时",
+   "scene": "三维预览",
+   "prompt_en": "Diagram: a three dimensional preview of the badge ruler with engraved name, scored marks and cut outline. No text.",
+   "narration": "先看三维预览，确认效果。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "排料、预览与用时",
+   "scene": "预计用时与路径",
+   "prompt_en": "Diagram: an estimated time clock and a processing path, engraving first and cutting last. No text.",
+   "narration": "看预计用时和路径，切割放最后。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "先开排烟，再按启动",
+   "scene": "【实拍】先开净化器，风量指示到位",
+   "prompt_en": "Close-up of a hand switching on a fume purifier and pressing its airflow button until the indicator lights reach the required level, laser not running.",
+   "narration": "启动前先开净化器，风量调到要求。",
+   "overlay": [
+    "先开排烟，再按启动"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "先开排烟，再按启动",
+   "scene": "点开始只是发送",
+   "prompt_en": "Diagram: a send arrow from a laptop to the machine, the machine waiting, a start button on the machine glowing. No text.",
+   "narration": "软件点开始只是发送，按机器键才启动。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "先开排烟，再按启动",
+   "scene": "关盖启动，坐旁看守",
+   "prompt_en": "The female graduate student sits next to a closed desktop laser cutter watching through its viewing window, a fire extinguisher nearby.",
+   "narration": "关好盖按启动，坐在旁边看着。",
+   "overlay": [],
+   "labels": [
+    "见第119课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "先开排烟，再按启动",
+   "scene": "有火苗立即暂停",
+   "prompt_en": "Diagram: a small flame inside the closed machine, a hand pressing the pause button, the lid kept closed. No text.",
+   "narration": "有火苗立即暂停，不开盖，报告老师。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "冷却取件，清理关机",
+   "scene": "冷却后再取件",
+   "prompt_en": "Diagram: a just finished badge and honeycomb panel with heat waves, a clock, then tweezers lifting the cooled piece. No text.",
+   "narration": "作品和蜂窝板很烫，冷却后再取。",
+   "overlay": [
+    "冷却取件，清理关机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "冷却取件，清理关机",
+   "scene": "查切边有无火星",
+   "prompt_en": "Diagram: a magnifier over the cut edge checking for embers, small fallen pieces picked out with tweezers. No text.",
+   "narration": "看切边有没有火星，碎片夹出来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "冷却取件，清理关机",
+   "scene": "【实拍】冷却后清出碎屑倒入金属桶",
+   "prompt_en": "Close-up of hands brushing cooled scraps from a honeycomb panel of a powered off laser cutter into a metal bin.",
+   "narration": "碎屑残渣倒进指定金属桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "冷却取件，清理关机",
+   "scene": "关净化器，工具归位",
+   "prompt_en": "Diagram: the fume purifier switched off after the job, tools returned, the bench tidy, a power off icon. No text.",
+   "narration": "按规程关净化器，工具归位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "冷却取件，清理关机",
+   "scene": "看完演示亲手做一次",
+   "prompt_en": "The young male student completes the procedure himself while the safety administrator watches and ticks a checklist.",
+   "narration": "看完演示，还要亲手做一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "工业激光切割的用途",
+   "scene": "按图纸切出金属件",
+   "prompt_en": "Diagram: an industrial fiber laser cutter with a closed protective enclosure cutting identical metal parts from a sheet. No text.",
+   "narration": "工业机按图纸切出各种金属件。",
+   "overlay": [
+    "工业激光切割的用途"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "工业激光切割的用途",
+   "scene": "成批一致，小批定制",
+   "prompt_en": "Diagram: a stack of identical metal parts with matching holes, a small custom batch icon. No text.",
+   "narration": "成批一致，也适合小批量定制。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "熔化吹渣原理",
+   "scene": "光聚一点熔化金属",
+   "prompt_en": "Diagram: a laser beam focused under a cutting head melting a narrow line in a steel sheet. No text.",
+   "narration": "激光在切割头下聚成一点，熔化金属。",
+   "overlay": [
+    "熔化吹渣原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "熔化吹渣原理",
+   "scene": "气流吹走熔渣",
+   "prompt_en": "Diagram: an assist gas jet blowing molten metal out of the kerf downward with sparks. No text.",
+   "narration": "辅助气体把熔渣从切口吹走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "熔化吹渣原理",
+   "scene": "火花高温，隔窗观察",
+   "prompt_en": "Diagram: sparks and a bright glow behind the protective window of the enclosure, an operator watching from outside. No text.",
+   "narration": "火花四溅温度极高，只隔防护窗看。",
+   "overlay": [],
+   "labels": [
+    "见第116课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "切割头、压力表与格栅台",
+   "scene": "【实拍】停机状态认识切割头和气压表",
+   "prompt_en": "Close-up of the cutting head and the assist gas pressure gauge of an industrial laser cutter that is stopped and locked out.",
+   "narration": "停机时认识切割头和辅助气压力表。",
+   "overlay": [
+    "切割头、压力表与格栅台"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "切割头、压力表与格栅台",
+   "scene": "格栅台下留排渣空间",
+   "prompt_en": "Diagram: a metal sheet on a slatted grid table, slag falling into the space below. No text.",
+   "narration": "板材放格栅台，下面留排渣空间。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "切割头、压力表与格栅台",
+   "scene": "风琴罩护导轨",
+   "prompt_en": "Diagram: bellows covers protecting the guide rails from sparks and debris. No text.",
+   "narration": "风琴罩护着导轨，挡火花和碎渣。",
+   "overlay": [],
+   "labels": [
+    "见第119课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "打标追溯与成品核对",
+   "scene": "打标编号便于追溯",
+   "prompt_en": "Diagram: a laser marking a code onto a metal part, a traceability chain icon. No text.",
+   "narration": "零件上打标编号，以后好追溯。",
+   "overlay": [
+    "打标追溯与成品核对"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "打标追溯与成品核对",
+   "scene": "按批码放，对图核对",
+   "prompt_en": "Diagram: finished parts stacked by batch beside a drawing, a checklist being ticked. No text.",
+   "narration": "成品按批码放，对照图纸检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "查文件、选材料厚度、先试切",
+   "prompt_en": "Diagram: a file check icon, a material and thickness icon and a small test grid, in sequence. No text.",
+   "narration": "查文件，选对材料厚度，先试切。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "放平测准、先开排烟、关盖看守",
+   "prompt_en": "Diagram: a flat board with pins, a purifier icon, a closed lid and a watching eye icon. No text.",
+   "narration": "放平测准，先开排烟，关盖看守。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "冷却取件清理；工业机隔窗看",
+   "prompt_en": "Diagram: a cooled badge lifted by tweezers, and an industrial cutter seen through a protective window. No text.",
+   "narration": "冷却取件清理；工业机隔防护窗看。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在未拆封的焊机包装箱和机架旁",
+   "prompt_en": "The panda mascot stands beside an unopened shipping crate of a handheld laser welder and a flat packed machine stand, waving goodbye.",
+   "narration": "下一课：激光焊机与切割机架的安装。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
