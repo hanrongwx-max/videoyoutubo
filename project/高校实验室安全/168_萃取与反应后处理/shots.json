@@ -1,0 +1,1064 @@
+{
+ "id": "168_萃取与反应后处理",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "萃取与反应后处理",
+ "seconds": 400,
+ "source_doc": "course/高校实验室安全/168_萃取与反应后处理.md",
+ "author_source": "project/高校实验室安全/168_萃取与反应后处理/src.py",
+ "points": {
+  "K1": "粗产物与后处理",
+  "K2": "互不相溶，各归其层",
+  "K3": "萃取留，洗涤弃",
+  "K4": "分液漏斗：认部件试漏",
+  "K5": "铁圈托稳，下放接收瓶",
+  "K6": "关活塞，装液不过3/4",
+  "K7": "易燃溶剂进通风柜",
+  "K8": "振摇升压，倒置放气",
+  "K9": "预防与处理乳化",
+  "K10": "哪层在上看密度",
+  "K11": "下层下放，上层上倒",
+  "K12": "多次萃取，合并萃取液",
+  "K13": "按杂质设计洗涤",
+  "K14": "酸碱洗涤，勤放气",
+  "K15": "盐水与干燥剂除水",
+  "K16": "滤去干燥剂再除溶剂",
+  "K17": "水层酸化回收产物",
+  "S1": "萃取废液分类收集"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在通风柜里的分液漏斗旁",
+   "prompt_en": "The panda mascot stands beside a separatory funnel held in a ring inside a fume hood, two liquid layers visible, looking at the camera.",
+   "narration": "第15章第六课：萃取与反应后处理。",
+   "overlay": [
+    "萃取与反应后处理"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣戴着护目镜做放气手势",
+   "prompt_en": "The panda mascot wearing safety goggles mimes holding an upside-down funnel and pointing its tip away toward the back of the hood.",
+   "narration": "分液漏斗会憋气，放气有讲究。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰在开放台面装满分液漏斗猛摇，塞子被顶起",
+   "prompt_en": "The young male student shakes a completely full separatory funnel hard on an open bench, the stopper popping up with a spray, a red warning icon.",
+   "narration": "阿杰装得满满，猛摇不放气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰放气时尖嘴对着同学",
+   "prompt_en": "The young male student opens the stopcock with the tip pointing at a classmate, crossed out.",
+   "narration": "放气时，尖嘴还对着同学。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研叫停，指向通风柜",
+   "prompt_en": "The female graduate student stops him and points to the fume hood and her goggles.",
+   "narration": "小研：停！进通风柜，从头来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "粗产物与后处理",
+   "scene": "反应瓶里是产物、副产物、原料混在一起",
+   "prompt_en": "Diagram: a reaction flask with mixed icons of product, side product, leftover starting material and reagent. No text.",
+   "narration": "反应得到的，是一锅粗混合物。",
+   "overlay": [
+    "粗产物与后处理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "粗产物与后处理",
+   "scene": "都溶在溶液里，过滤没用",
+   "prompt_en": "Diagram: a funnel with filter paper and a fully dissolved solution passing straight through, a question mark. No text.",
+   "narration": "都溶在溶液里，过滤分不开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "粗产物与后处理",
+   "scene": "反应结束先加水淬灭",
+   "prompt_en": "Diagram: water added slowly to a cooled reaction flask in an ice bath, a stop icon over the reaction arrow. No text.",
+   "narration": "反应结束，常先加水慢慢淬灭。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "粗产物与后处理",
+   "scene": "萃取和洗涤的顺序，叫后处理",
+   "prompt_en": "Diagram: a flow of steps, extraction, washing, drying, filtering and solvent removal, arrows between icons. No text.",
+   "narration": "萃取洗涤排好顺序，就是后处理。",
+   "overlay": [],
+   "labels": [
+    "萃取",
+    "洗涤",
+    "干燥",
+    "除溶剂"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "粗产物与后处理",
+   "scene": "实验室、工业都用萃取",
+   "prompt_en": "Diagram: a plant leaf and a metal ion icon each with an arrow into a separatory funnel. No text.",
+   "narration": "提取天然产物、金属，都用萃取。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "互不相溶，各归其层",
+   "scene": "两种互不相溶的溶剂分两层",
+   "prompt_en": "Diagram: a separatory funnel with an organic layer on top and a water layer below, a sharp boundary line. No text.",
+   "narration": "两种互不相溶的溶剂，分成两层。",
+   "overlay": [
+    "互不相溶，各归其层"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "互不相溶，各归其层",
+   "scene": "能混成一层就分不开",
+   "prompt_en": "Diagram: two solvents mixing into one single layer with a question mark, crossed out. No text.",
+   "narration": "能互溶成一层，就分不开了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "互不相溶，各归其层",
+   "scene": "中性分子去有机相，离子去水相",
+   "prompt_en": "Diagram: neutral molecule icons moving into the top organic layer, charged ion icons moving into the water layer. No text.",
+   "narration": "中性分子爱有机相，离子盐爱水相。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "互不相溶，各归其层",
+   "scene": "加碱水，有机酸变盐进水层",
+   "prompt_en": "Diagram: base solution added to the funnel, an acid molecule turning into a charged salt and dropping into the water layer, a neutral molecule staying above. No text.",
+   "narration": "加碱水，有机酸变成盐，进水层。",
+   "overlay": [],
+   "labels": [
+    "酸碱萃取"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "萃取留，洗涤弃",
+   "scene": "萃取拉出产物，洗涤洗走杂质",
+   "prompt_en": "Diagram: on one side product icons pulled into a kept flask, on the other side impurity icons washed into a discard beaker. No text.",
+   "narration": "萃取把产物拉出来，洗涤洗走杂质。",
+   "overlay": [
+    "萃取留，洗涤弃"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "萃取留，洗涤弃",
+   "scene": "确认前哪层都不丢",
+   "prompt_en": "Diagram: two labeled beakers holding both layers kept side by side, a trash bin crossed out, a question mark over the product. No text.",
+   "narration": "没确认产物到手，哪层都别丢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分液漏斗：认部件试漏",
+   "scene": "上有塞子，下有活塞",
+   "prompt_en": "Diagram: a pear-shaped separatory funnel with a stopper at the top and a stopcock at the bottom, arrows pointing to each. No text.",
+   "narration": "上口塞子，下面活塞，中间分层。",
+   "overlay": [
+    "分液漏斗：认部件试漏"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分液漏斗：认部件试漏",
+   "scene": "玻璃活塞薄涂润滑脂；四氟活塞不涂",
+   "prompt_en": "Diagram: a thin film of grease on a glass stopcock away from the hole, a white plastic stopcock with no grease and a check mark. No text.",
+   "narration": "玻璃活塞薄涂一点脂，四氟的不涂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分液漏斗：认部件试漏",
+   "scene": "【实拍】装清水，看活塞和塞子漏不漏",
+   "prompt_en": "Close-up: a separatory funnel partly filled with water, the stopcock closed, a dry tissue under the tip, then inverted to check the stopper.",
+   "narration": "先装清水，看活塞塞子漏不漏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "分液漏斗：认部件试漏",
+   "scene": "打开活塞看流得顺，漏就换",
+   "prompt_en": "Diagram: water flowing smoothly through the open stopcock, a leaking funnel set aside with a replace arrow. No text.",
+   "narration": "流得顺才用，漏液就换一个。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "铁圈托稳，下放接收瓶",
+   "scene": "【实拍】铁圈加软垫圈，托稳漏斗",
+   "prompt_en": "Close-up: a separatory funnel set into an iron ring fitted with a soft cork or rubber ring on a stand, checked for stability.",
+   "narration": "铁圈加软垫圈，稳稳托住漏斗。",
+   "overlay": [
+    "铁圈托稳，下放接收瓶"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "铁圈托稳，下放接收瓶",
+   "scene": "下面放干净的接收瓶",
+   "prompt_en": "Diagram: a clean flask placed under the funnel tip to catch any leak. No text.",
+   "narration": "下面放好接收瓶，漏了也能接住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "关活塞，装液不过3/4",
+   "scene": "【实拍】关好活塞，经小漏斗装液",
+   "prompt_en": "Close-up: a hand checks the stopcock is closed, then pours liquid through a small funnel into the separatory funnel, the beaker rinsed after.",
+   "narration": "先关活塞，经小漏斗倒入，冲洗原瓶。",
+   "overlay": [
+    "关活塞，装液不过3/4"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "关活塞，装液不过3/4",
+   "scene": "装好液体，塞紧上口塞子",
+   "prompt_en": "Diagram: the matching stopper pressed into the top of the filled separatory funnel, a check mark. No text.",
+   "narration": "装好后，塞紧配套的塞子。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "关活塞，装液不过3/4",
+   "scene": "装液不超过四分之三",
+   "prompt_en": "Diagram: a separatory funnel with a fill line at about three quarters, an overfilled funnel crossed out. No text.",
+   "narration": "装液不超过四分之三，太满混不开。",
+   "overlay": [],
+   "labels": [
+    "≤3/4"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "易燃溶剂进通风柜",
+   "scene": "易燃溶剂在通风柜里萃取",
+   "prompt_en": "Diagram: a student in goggles doing an extraction inside a fume hood, solvent bottles with flammable pictograms. No text.",
+   "narration": "易燃溶剂萃取，放在通风柜里做。",
+   "overlay": [
+    "易燃溶剂进通风柜"
+   ],
+   "labels": [
+    "见第052课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "易燃溶剂进通风柜",
+   "scene": "蒸气贴着台面跑，远离火源",
+   "prompt_en": "Diagram: heavy vapor creeping along the bench toward a hot plate and a spark icon, both crossed out. No text.",
+   "narration": "蒸气贴着台面跑，远离火和热源。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "易燃溶剂进通风柜",
+   "scene": "用完盖紧，久放乙醚查过氧化物",
+   "prompt_en": "Diagram: a capped solvent bottle going back into a flammable storage cabinet, an old bottle with a date icon and a warning mark. No text.",
+   "narration": "用完盖紧放回，久放乙醚按规定查。",
+   "overlay": [],
+   "labels": [
+    "见第047课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "易燃溶剂进通风柜",
+   "scene": "沾上溶剂立即换手套",
+   "prompt_en": "Diagram: a gloved hand splashed with solvent, the glove removed and a new one put on. No text.",
+   "narration": "溶剂易透过手套，沾上就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "充分混合，分配更快",
+   "prompt_en": "Diagram: two layers mixing into fine droplets with a large contact surface, arrows of molecules crossing. No text.",
+   "narration": "充分混合，接触面大，分配更快。",
+   "overlay": [
+    "振摇升压，倒置放气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "混合使压力升高",
+   "prompt_en": "Diagram: a closed funnel with pressure arrows pushing on the stopper, a volatile solvent icon and a gas bubble icon. No text.",
+   "narration": "一混合压力就升高，挥发产气更明显。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "【实拍】一手按住塞子倒置，一手握活塞",
+   "prompt_en": "Close-up: one hand presses the stopper firmly while turning the separatory funnel upside down, the other hand holding the stopcock, the liquid away from the stopcock.",
+   "narration": "按住塞子倒过来，一手握住活塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "【实拍】尖嘴朝通风柜内侧，慢开活塞放气",
+   "prompt_en": "Close-up: the inverted funnel tip pointing up toward the back of the fume hood, away from people, the stopcock opened slowly to release vapor.",
+   "narration": "尖嘴朝柜内、不对人，慢开放气。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "先轻摇，勤放气",
+   "prompt_en": "Diagram: a gentle swirl icon followed by a vent icon repeated several times, small shakes first then stronger ones. No text.",
+   "narration": "先轻轻旋摇，放气要勤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "摇几秒放一次，直到没有嘶声",
+   "prompt_en": "Diagram: a cycle of shake a few seconds and vent, a sound wave icon getting smaller until silent. No text.",
+   "narration": "摇几秒放一次，直到听不到出气声。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "不放气，塞子会冲出",
+   "prompt_en": "Diagram: a stopper shooting out of a funnel with spray, crossed out. No text.",
+   "narration": "不放气，塞子冲出、液体喷溅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "振摇升压，倒置放气",
+   "scene": "振摇放气全程戴护目镜",
+   "prompt_en": "Diagram: a student wearing safety goggles and gloves shaking a funnel inside a fume hood with the sash lowered. No text.",
+   "narration": "振摇放气会喷溅，全程戴护目镜。",
+   "overlay": [],
+   "labels": [
+    "见第022课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "预防与处理乳化",
+   "scene": "两层中间糊一层：乳化",
+   "prompt_en": "Diagram: a funnel with a cloudy foggy band between two layers, a magnifier showing fine particles. No text.",
+   "narration": "两层中间糊一层，这叫乳化。",
+   "overlay": [
+    "预防与处理乳化"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "预防与处理乳化",
+   "scene": "轻摇颠倒很少乳化",
+   "prompt_en": "Diagram: a gentle rocking motion of a funnel with a check mark, a violent shake with a cross. No text.",
+   "narration": "轻轻旋摇颠倒，就很少乳化。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "预防与处理乳化",
+   "scene": "静置等待，玻璃棒轻搅",
+   "prompt_en": "Diagram: a funnel standing with a clock icon, a glass rod gently stirring the cloudy band. No text.",
+   "narration": "乳化了：静置等，或玻璃棒轻搅。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "预防与处理乳化",
+   "scene": "加饱和食盐水破乳",
+   "prompt_en": "Diagram: a few milliliters of saturated salt water added, the cloudy band shrinking into a clear boundary. No text.",
+   "narration": "加少量饱和食盐水，帮助分层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "预防与处理乳化",
+   "scene": "最后一招：硅藻土抽滤",
+   "prompt_en": "Diagram: the whole emulsion filtered under vacuum through a pad of diatomaceous earth, two clear layers collected. No text.",
+   "narration": "最后一招，整体用硅藻土抽滤。",
+   "overlay": [],
+   "labels": [
+    "见第167课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪层在上看密度",
+   "scene": "随时清楚哪层在上",
+   "prompt_en": "Diagram: a funnel with two layers and a thinking bubble asking which layer holds which molecules. No text.",
+   "narration": "随时问：哪层在上，产物在哪层？",
+   "overlay": [
+    "哪层在上看密度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪层在上看密度",
+   "scene": "密度小在上：己烷、乙醚",
+   "prompt_en": "Diagram: a light solvent floating above water in one funnel, a heavy solvent sinking below water in another funnel. No text.",
+   "narration": "己烷乙醚比水轻在上，二氯甲烷在下。",
+   "overlay": [],
+   "labels": [
+    "己烷",
+    "乙醚",
+    "二氯甲烷"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪层在上看密度",
+   "scene": "溶质很浓时密度会变",
+   "prompt_en": "Diagram: a water layer loaded with dissolved salt icons getting heavier, an arrow showing the layers can swap. No text.",
+   "narration": "溶质很浓，密度也会变，别只靠记。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪层在上看密度",
+   "scene": "拿不准就加点水，变多的是水层",
+   "prompt_en": "Diagram: a little water added to the funnel, the lower layer growing taller with an up arrow. No text.",
+   "narration": "拿不准就加点水，变多的是水层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "哪层在上看密度",
+   "scene": "【实拍】取几滴滴进水里试",
+   "prompt_en": "Close-up: a dropper adds a few drops of the lower layer into a small tube of water, the drops dissolving clearly, then oil drops floating in another tube.",
+   "narration": "取几滴进水：溶了是水层，分层是油层。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "下层下放，上层上倒",
+   "scene": "下面放贴标签的烧杯",
+   "prompt_en": "Diagram: two beakers with blank labels placed ready under the funnel. No text.",
+   "narration": "下面放好贴标签的烧杯。",
+   "overlay": [
+    "下层下放，上层上倒"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "下层下放，上层上倒",
+   "scene": "【实拍】先取下上口塞子",
+   "prompt_en": "Close-up: a hand removes the stopper from the top of the separatory funnel before opening the stopcock.",
+   "narration": "先取下塞子，不然放不下来。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "下层下放，上层上倒",
+   "scene": "【实拍】放出下层，近界面放慢，到活塞即关",
+   "prompt_en": "Close-up: the lower colored water layer drains slowly into a beaker, the boundary reaching the stopcock and the stopcock closed right there.",
+   "narration": "放下层，快到界面放慢，到了就关。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "下层下放，上层上倒",
+   "scene": "【实拍】上层从上口倒出",
+   "prompt_en": "Close-up: the separatory funnel lifted and the upper oil layer poured out from the top opening into a second labeled beaker.",
+   "narration": "上层从上口倒，不沾下层残液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "下层下放，上层上倒",
+   "scene": "要再洗的上层留在漏斗",
+   "prompt_en": "Diagram: the upper layer kept in the funnel with a wash solution arrow coming in, a done layer poured into a labeled beaker. No text.",
+   "narration": "上层还要洗，就留在漏斗里。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "多次萃取，合并萃取液",
+   "scene": "一次萃不净，再萃一两次",
+   "prompt_en": "Diagram: the water layer returned to the funnel with fresh solvent, the shake and vent cycle repeated. No text.",
+   "narration": "一次萃不干净，换新溶剂再萃。",
+   "overlay": [
+    "多次萃取，合并萃取液"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "多次萃取，合并萃取液",
+   "scene": "少量多次，合并萃取液",
+   "prompt_en": "Diagram: two small portions of extract combined into one flask, a higher yield icon. No text.",
+   "narration": "少量多次，萃取液合并，收率更高。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "按杂质设计洗涤",
+   "scene": "看杂质性质选洗液",
+   "prompt_en": "Diagram: impurity icons of an acid, a base and water matched by arrows to three wash bottles. No text.",
+   "narration": "根据杂质的性质，选洗液。",
+   "overlay": [
+    "按杂质设计洗涤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "按杂质设计洗涤",
+   "scene": "每次少量，每种洗两三次",
+   "prompt_en": "Diagram: small wash portions repeated two or three times for each wash solution. No text.",
+   "narration": "每次用量少，每种洗两三次。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "酸碱洗涤，勤放气",
+   "scene": "饱和碳酸氢钠洗去酸",
+   "prompt_en": "Diagram: saturated sodium bicarbonate solution added to the funnel, acid icons reacting and many gas bubbles forming. No text.",
+   "narration": "碳酸氢钠洗去酸，会放出二氧化碳。",
+   "overlay": [
+    "酸碱洗涤，勤放气"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "酸碱洗涤，勤放气",
+   "scene": "产气多：先敞口轻旋，再勤放气",
+   "prompt_en": "Diagram: the funnel swirled gently with the stopper off until fizzing slows, then stoppered and vented very often. No text.",
+   "narration": "先不加塞轻轻旋，冒泡少了再塞。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "酸碱洗涤，勤放气",
+   "scene": "稀盐酸洗去胺类",
+   "prompt_en": "Diagram: dilute hydrochloric acid added to wash out amine icons into the water layer, goggles and gloves icons. No text.",
+   "narration": "稀盐酸洗去胺，戴好护目镜手套。",
+   "overlay": [],
+   "labels": [
+    "见第048课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盐水与干燥剂除水",
+   "scene": "饱和食盐水洗，带走部分水",
+   "prompt_en": "Diagram: a saturated salt water wash pulling water droplets out of the organic layer. No text.",
+   "narration": "饱和食盐水洗一次，带走部分水。",
+   "overlay": [
+    "盐水与干燥剂除水"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盐水与干燥剂除水",
+   "scene": "加干燥剂，把水吸进固体",
+   "prompt_en": "Diagram: the organic layer in a flask with a spatula adding drying agent, water droplets captured into the solid. No text.",
+   "narration": "有机层还有水，加干燥剂吸掉。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盐水与干燥剂除水",
+   "scene": "【实拍】少量多次加，摇成雪花球",
+   "prompt_en": "Close-up: a spatula adds anhydrous drying agent to a flask a little at a time while swirling, some fine powder swirling freely like a snow globe.",
+   "narration": "少量多次，摇起来像雪花球就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盐水与干燥剂除水",
+   "scene": "硫酸镁快但细且偏酸",
+   "prompt_en": "Diagram: a fast clock icon by a fine white powder, a small acid icon and product molecules sticking to the powder. No text.",
+   "narration": "硫酸镁快，但粉细会吸附，略偏酸。",
+   "overlay": [],
+   "labels": [
+    "硫酸镁"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "盐水与干燥剂除水",
+   "scene": "硫酸钠慢些但中性",
+   "prompt_en": "Diagram: coarse white granules with a slower clock icon of five to ten minutes and a neutral icon. No text.",
+   "narration": "硫酸钠慢些，中性，等五到十分钟。",
+   "overlay": [],
+   "labels": [
+    "硫酸钠"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤去干燥剂再除溶剂",
+   "scene": "【实拍】折叠滤纸滤掉干燥剂",
+   "prompt_en": "Close-up: the dried solution poured through a fan-folded filter paper in a funnel into a round-bottom flask, the drying agent left behind.",
+   "narration": "折叠滤纸滤掉干燥剂。",
+   "overlay": [
+    "滤去干燥剂再除溶剂"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤去干燥剂再除溶剂",
+   "scene": "干溶剂冲洗三次",
+   "prompt_en": "Diagram: a little dry solvent rinsing the flask and the drying agent three times into the receiver. No text.",
+   "narration": "用干溶剂冲洗三次，别留下产物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤去干燥剂再除溶剂",
+   "scene": "加热板敞口蒸溶剂，打叉",
+   "prompt_en": "Diagram: an open beaker of solvent on a hot plate with vapor and a flame icon, crossed out. No text.",
+   "narration": "易燃溶剂，别在加热板上敞口蒸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤去干燥剂再除溶剂",
+   "scene": "转入圆底烧瓶，旋转蒸发除溶剂",
+   "prompt_en": "Diagram: the filtrate in a round-bottom flask attached to a rotary evaporator inside a ventilated area, a do not dry out icon. No text.",
+   "narration": "转入圆底瓶，用旋转蒸发，不蒸干。",
+   "overlay": [],
+   "labels": [
+    "见第170课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "滤去干燥剂再除溶剂",
+   "scene": "演示只是预习，讲义要读",
+   "prompt_en": "Diagram: a lab manual book open beside a separatory funnel, a check mark. No text.",
+   "narration": "先读实验讲义，按步骤做。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "水层酸化回收产物",
+   "scene": "水层里的盐，酸化变回有机酸",
+   "prompt_en": "Diagram: the water layer with salt icons, acid added slowly while swirling, molecules changing back to neutral acid. No text.",
+   "narration": "水层里的盐，慢慢加酸变回来。",
+   "overlay": [
+    "水层酸化回收产物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "水层酸化回收产物",
+   "scene": "在通风柜里慢慢加酸，会放热",
+   "prompt_en": "Diagram: acid added drop by drop to the water layer inside a fume hood, a small heat icon and a goggles icon. No text.",
+   "narration": "在通风柜里慢加，会放热，别急。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "水层酸化回收产物",
+   "scene": "试纸显酸性就够了",
+   "prompt_en": "Diagram: a glass rod touching a drop onto a pH test strip turning to the acid color. No text.",
+   "narration": "边加边摇，试纸显酸性就够了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "水层酸化回收产物",
+   "scene": "冰水浴促析出，抽滤收集",
+   "prompt_en": "Diagram: white solid forming in a beaker set in an ice bath, then collected by vacuum filtration and dried in an oven. No text.",
+   "narration": "冰水浴促析出，抽滤收集再干燥。",
+   "overlay": [],
+   "labels": [
+    "见第124课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "萃取废液分类收集",
+   "scene": "含卤与不含卤有机废液分开",
+   "prompt_en": "Diagram: two labeled organic waste containers, one with a halogen icon and one without, a solvent poured into the right one. No text.",
+   "narration": "含卤和不含卤的有机废液分开收。",
+   "overlay": [
+    "萃取废液分类收集"
+   ],
+   "labels": [
+    "见第053课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "萃取废液分类收集",
+   "scene": "洗涤水层按规定收集",
+   "prompt_en": "Diagram: aqueous washings poured into a labeled aqueous waste container, a sink crossed out. No text.",
+   "narration": "洗涤水层按本校规定收集，不倒水槽。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "萃取废液分类收集",
+   "scene": "用过的干燥剂进固体废物",
+   "prompt_en": "Diagram: used drying agent and filter paper placed into a labeled solid chemical waste bin. No text.",
+   "narration": "用过的干燥剂、滤纸进固废桶。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "试漏、托稳、不过四分之三",
+   "prompt_en": "Diagram: a separatory funnel with check icons for leak test, ring support and a three quarter fill line. No text.",
+   "narration": "试漏托稳，装液不过四分之三。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "倒置放气，尖嘴不对人",
+   "prompt_en": "Diagram: an inverted funnel venting toward the back of a fume hood, a person icon out of the line of the tip. No text.",
+   "narration": "通风柜里倒置放气，尖嘴不对人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "下放上倒，确认前不丢层，干燥过滤",
+   "prompt_en": "Diagram: lower layer draining down, upper layer poured from the top, two labeled beakers kept, a drying agent flask. No text.",
+   "narration": "下放上倒，哪层都先留，干燥过滤。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣站在蒸馏装置旁",
+   "prompt_en": "The panda mascot stands beside a simple distillation setup with a round-bottom flask, a condenser and a receiving flask, waving goodbye.",
+   "narration": "下一课：常压蒸馏。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
