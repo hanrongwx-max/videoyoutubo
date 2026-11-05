@@ -1,0 +1,1149 @@
+{
+ "id": "185_电工实验规则与仪表",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "电工实验规则与仪表",
+ "seconds": 420,
+ "source_doc": "course/高校实验室安全/185_电工实验规则与仪表.md",
+ "author_source": "project/高校实验室安全/185_电工实验规则与仪表/src.py",
+ "points": {
+  "K1": "课程目标与顺序",
+  "K2": "先学用电安全",
+  "K3": "断电接线，查后通电",
+  "K4": "通电前查线清台",
+  "K5": "强电实验有人监护",
+  "K6": "断电顺序与停电",
+  "S1": "冒烟触电先断电",
+  "K7": "电流表：串联内阻小",
+  "K8": "电流表导线要够粗",
+  "K9": "电压表：并联内阻大",
+  "K10": "交流表与直流表",
+  "K11": "双量程读对刻度",
+  "K12": "量程宁大勿小",
+  "K13": "接错表用错挡",
+  "K14": "功率表测有功",
+  "K15": "功率表接线与常数",
+  "K16": "选对功率因数表",
+  "K17": "万用表一表多用",
+  "K18": "万用表挡位插孔",
+  "K19": "有效值与峰值",
+  "K20": "表笔检查与握法",
+  "K21": "换挡移笔，用完关机"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在断电的电工实验台前，手里拿着电流表模型",
+   "prompt_en": "The panda mascot stands beside a powered off electrical training bench holding a large analog meter model, the main switch off, looking at the camera.",
+   "narration": "第15章第二十三课：电工实验规则与仪表。",
+   "overlay": [
+    "电工实验规则与仪表"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰想在通电时直接改一根线",
+   "prompt_en": "The young male student reaches toward a wire terminal on a bench whose indicator lamp is lit, a red warning icon.",
+   "narration": "阿杰想趁通电，顺手改一根线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "王老师按下断开，摇手",
+   "prompt_en": "The safety administrator switches the bench off and raises a hand to stop him, a crossed out hand on a live terminal icon.",
+   "narration": "王老师：通着电，绝不能改线！",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研拿着电路图和仪表",
+   "prompt_en": "The female graduate student holds a blank circuit diagram and an analog meter, nodding.",
+   "narration": "小研：先懂规则和仪表，再动手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "课程目标与顺序",
+   "scene": "家里和工厂常用的电气设备",
+   "prompt_en": "Diagram: icons of household and factory electrical equipment, a lamp, a fan, a motor and a switchboard. No text.",
+   "narration": "电工实验，认识家里和工厂的电气设备。",
+   "overlay": [
+    "课程目标与顺序"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "课程目标与顺序",
+   "scene": "动手做，理论更好懂",
+   "prompt_en": "Diagram: a textbook with a lightbulb connected by an arrow to a hands on bench icon. No text.",
+   "narration": "动手做一做，理论课也更好懂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "课程目标与顺序",
+   "scene": "先认设备，再做实验",
+   "prompt_en": "Diagram: a path of steps from four meter icons to a numbered list of experiments. No text.",
+   "narration": "先认识仪表设备，再一个个做实验。",
+   "overlay": [],
+   "labels": [
+    "电流表",
+    "电压表",
+    "功率表",
+    "万用表"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先学用电安全",
+   "scene": "先学用电安全再动手",
+   "prompt_en": "Diagram: a safety training badge before a bench icon, a lightning warning sign. No text.",
+   "narration": "做实验前，先学用电安全，通过准入。",
+   "overlay": [
+    "先学用电安全"
+   ],
+   "labels": [
+    "见第097课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先学用电安全",
+   "scene": "220伏、380伏都能致命",
+   "prompt_en": "Diagram: a single phase socket and a three phase supply icon with an electric shock warning sign. No text.",
+   "narration": "单相220伏、三相380伏，都能致命。",
+   "overlay": [],
+   "labels": [
+    "220 V",
+    "380 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "先学用电安全",
+   "scene": "学会了，也讲给别人听",
+   "prompt_en": "The young male student explains a shock warning sign to a friend, both smiling.",
+   "narration": "学会了，也给身边的人讲一讲。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "【实拍】实验台总开关处于断开位置",
+   "prompt_en": "Close-up of a bench main switch in the off position and the indicator lamp dark.",
+   "narration": "接线、改线、拆线，一律先断电。",
+   "overlay": [
+    "断电接线，查后通电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "对照电路图逐根查",
+   "prompt_en": "Diagram: a finger tracing each wire on a bench against a matching circuit diagram, check marks. No text.",
+   "narration": "接完对照电路图，逐根检查一遍。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "老师查接线、量程、滑块、极性",
+   "prompt_en": "The safety administrator checks the wiring on a powered off bench with a blank circuit diagram, the students waiting.",
+   "narration": "请老师查接线、量程、滑块和极性。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "老师同意才合闸",
+   "prompt_en": "Diagram: a teacher thumbs up icon unlocking a main switch handle. No text.",
+   "narration": "老师同意了，才能合闸通电。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "要改线先断电，改完再查",
+   "prompt_en": "Diagram: a loop of power off, rewire, teacher check, power on, a live rewiring hand crossed out. No text.",
+   "narration": "要改线：先断电，改完再请老师查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "断电接线，查后通电",
+   "scene": "配电箱不自行打开",
+   "prompt_en": "Diagram: a distribution box with a padlock and a tag, a student hand crossed out. No text.",
+   "narration": "配电箱不自己开，检修上锁挂牌。",
+   "overlay": [],
+   "labels": [
+    "见第144课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "通电前查线清台",
+   "scene": "合闸前提醒同组",
+   "prompt_en": "The female graduate student calls out to her partners before switching on, both partners stepping back with hands away.",
+   "narration": "合闸前提醒同组：要通电了！",
+   "overlay": [
+    "通电前查线清台"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "通电前查线清台",
+   "scene": "确认没人碰电路",
+   "prompt_en": "Diagram: a bench with all hands lifted away from the circuit, a check mark above the switch. No text.",
+   "narration": "确认没人碰电路，再合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "通电前查线清台",
+   "scene": "台面收干净，金属物远离端子",
+   "prompt_en": "Diagram: spare wires, keys, coins and tools moved off a bench into a tray, terminals left clear. No text.",
+   "narration": "多余导线、工具、钥匙硬币，全收走。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "通电前查线清台",
+   "scene": "导线整齐，不绷不悬空",
+   "prompt_en": "Diagram: wires laid neatly along the bench, a taut hanging wire and a sleeve catching a wire crossed out. No text.",
+   "narration": "导线顺台面摆整齐，不绷紧不悬空。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "强电实验有人监护",
+   "scene": "至少两人，老师在场",
+   "prompt_en": "Diagram: two student icons at a bench and a teacher icon nearby, a single lone student crossed out. No text.",
+   "narration": "强电实验至少两人，老师在场。",
+   "overlay": [
+    "强电实验有人监护"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "强电实验有人监护",
+   "scene": "一人操作，一人守在总开关旁",
+   "prompt_en": "The young male student watches a meter while the female graduate student stands with her hand near the main switch.",
+   "narration": "一人操作，一人守在总开关旁监护。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "强电实验有人监护",
+   "scene": "通电时单手操作",
+   "prompt_en": "Diagram: a person reading a meter with one hand, the other hand kept behind the back, a check mark. No text.",
+   "narration": "通电读数尽量单手，另一手离开台面。",
+   "overlay": [],
+   "labels": [
+    "单手原则"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断电顺序与停电",
+   "scene": "先断实验开关，再断总电源",
+   "prompt_en": "Diagram: two switches turned off in order, a small experiment switch first and then the bench main switch. No text.",
+   "narration": "做完：先断实验开关，再断总电源。",
+   "overlay": [
+    "断电顺序与停电"
+   ],
+   "labels": [
+    "①实验开关",
+    "②总电源",
+    "③拆线"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断电顺序与停电",
+   "scene": "最后拆线，器材归位",
+   "prompt_en": "Diagram: wires coiled and meters returned to a shelf, a clean bench. No text.",
+   "narration": "最后拆线，器材归位。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断电顺序与停电",
+   "scene": "突然停电，先断开实验台开关",
+   "prompt_en": "Diagram: the room lights out, a hand switching the bench switch off, a timer showing power coming back. No text.",
+   "narration": "突然停电，先断开实验台开关。",
+   "overlay": [],
+   "labels": [
+    "见第156课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "断电顺序与停电",
+   "scene": "来电后检查无误再合闸",
+   "prompt_en": "Diagram: lights back on, a checklist completed, then the bench switch turned on. No text.",
+   "narration": "来电后，检查无误再重新合闸。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "冒烟触电先断电",
+   "scene": "冒烟、异味、发烫，立即断电",
+   "prompt_en": "Diagram: a meter with a small smoke wisp and a heat icon, a hand switching the bench off immediately. No text.",
+   "narration": "冒烟、异味、发烫，立即断电。",
+   "overlay": [
+    "冒烟触电先断电"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "冒烟触电先断电",
+   "scene": "报告老师，不自行拆修",
+   "prompt_en": "Diagram: a student reporting to a teacher icon, a screwdriver opening a meter crossed out. No text.",
+   "narration": "报告老师，不自己拆表修理。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "冒烟触电先断电",
+   "scene": "有人触电，先断电再施救",
+   "prompt_en": "Diagram: a hand hitting the emergency stop, a bare hand pulling a person crossed out, a phone showing 120. No text.",
+   "narration": "有人触电先断电，不徒手拉，打120。",
+   "overlay": [],
+   "labels": [
+    "见第098课",
+    "见第159课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "冒烟触电先断电",
+   "scene": "电气起火：断电，用合适灭火器",
+   "prompt_en": "Diagram: a small electrical fire, the power switched off first, a carbon dioxide extinguisher, water crossed out. No text.",
+   "narration": "电气起火先断电，不用水，报告。",
+   "overlay": [],
+   "labels": [
+    "见第107课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流表：串联内阻小",
+   "scene": "电流表测电流，单位安培",
+   "prompt_en": "Diagram: an analog meter with a needle and a small current arrow flowing through a wire. No text.",
+   "narration": "电流表测电流，单位安培，也叫安培表。",
+   "overlay": [
+    "电流表：串联内阻小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流表：串联内阻小",
+   "scene": "【实拍】在断电电路板上串入电流表",
+   "prompt_en": "Close-up of hands connecting an ammeter in series into a powered off training circuit board, the wire passing through the meter.",
+   "narration": "电流表要串联，电流全部从表里过。",
+   "overlay": [],
+   "labels": [
+    "串联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "电流表：串联内阻小",
+   "scene": "内阻很小，不影响电路",
+   "prompt_en": "Diagram: a meter symbol with a very small resistor icon inside, the circuit current almost unchanged. No text.",
+   "narration": "内阻做得很小，压降小，不影响电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流表导线要够粗",
+   "scene": "导线要能通过回路电流",
+   "prompt_en": "Diagram: a thick wire to the ammeter in the main loop and a thin wire overheating crossed out. No text.",
+   "narration": "电流表在主回路，导线要通得过电流。",
+   "overlay": [
+    "电流表导线要够粗"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "电流表导线要够粗",
+   "scene": "按电流和规定选线",
+   "prompt_en": "Diagram: wires of several thicknesses with a current rating chart icon, the right one checked. No text.",
+   "narration": "粗细按回路电流和实验室规定选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表：并联内阻大",
+   "scene": "电压表测两点间电压",
+   "prompt_en": "Diagram: a voltmeter with two leads touching both ends of a resistor. No text.",
+   "narration": "电压表测两点间的电压。",
+   "overlay": [
+    "电压表：并联内阻大"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表：并联内阻大",
+   "scene": "【实拍】断电板上把电压表并在元件两端",
+   "prompt_en": "Close-up of hands connecting a voltmeter across both ends of a resistor on a powered off training board.",
+   "narration": "并联在被测元件两端，测电压降。",
+   "overlay": [],
+   "labels": [
+    "并联"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表：并联内阻大",
+   "scene": "内阻很大，几乎不分电流",
+   "prompt_en": "Diagram: a voltmeter with a very large resistor icon inside, only a tiny current trickling through it. No text.",
+   "narration": "内阻很大，几乎不分走电流。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "电压表：并联内阻大",
+   "scene": "电流表串，电压表并",
+   "prompt_en": "Diagram: a simple circuit with an ammeter in series and a voltmeter in parallel, both checked. No text.",
+   "narration": "记住：电流表串，电压表并。",
+   "overlay": [],
+   "labels": [
+    "电流表串",
+    "电压表并"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "交流表与直流表",
+   "scene": "直线直流，波浪交流",
+   "prompt_en": "Diagram: two meter dials, one with a straight line symbol and one with a wave symbol. No text.",
+   "narration": "表盘直线是直流，波浪是交流。",
+   "overlay": [
+    "交流表与直流表"
+   ],
+   "labels": [
+    "直流 —",
+    "交流 ~"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "交流表与直流表",
+   "scene": "磁电式只测直流",
+   "prompt_en": "Diagram: a moving coil meter between magnet poles, a direct current battery icon checked. No text.",
+   "narration": "磁电式也叫动圈式，只测直流。",
+   "overlay": [],
+   "labels": [
+    "磁电式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "交流表与直流表",
+   "scene": "动铁式多用于交流",
+   "prompt_en": "Diagram: a moving iron meter with a wave symbol highlighted and a small battery icon beside it. No text.",
+   "narration": "动铁式交直流都能测，多用于交流。",
+   "overlay": [],
+   "labels": [
+    "动铁式"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "交流表与直流表",
+   "scene": "模拟式与数字式",
+   "prompt_en": "Diagram: an analog needle meter next to a digital meter with a blank display. No text.",
+   "narration": "按显示，分模拟式和数字式。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "双量程读对刻度",
+   "scene": "【实拍】双量程表的公共端和量程端",
+   "prompt_en": "Close-up of a finger pointing at the common terminal and then at one of two range terminals on a dual range analog meter.",
+   "narration": "双量程表：公共端固定，另一端选量程。",
+   "overlay": [
+    "双量程读对刻度"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "双量程读对刻度",
+   "scene": "大量程看上刻度，小量程看下刻度",
+   "prompt_en": "Diagram: a meter dial with an upper scale and a lower scale, arrows from the two range terminals to each scale. No text.",
+   "narration": "接哪个量程，就读对应的刻度。",
+   "overlay": [],
+   "labels": [
+    "大量程",
+    "小量程"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "双量程读对刻度",
+   "scene": "读错刻度很常见",
+   "prompt_en": "Diagram: a student reading the wrong scale with a confused face, crossed out. No text.",
+   "narration": "很多人读错刻度，现在就要分清。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "量程宁大勿小",
+   "scene": "【实拍】万用表旋钮拨到最大量程",
+   "prompt_en": "Close-up of a hand turning the rotary dial of a digital multimeter to the highest range position, probes not connected.",
+   "narration": "不知道大小，先用最大量程。",
+   "overlay": [
+    "量程宁大勿小"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "量程宁大勿小",
+   "scene": "断电换挡，逐步调小",
+   "prompt_en": "Diagram: a power off icon, then the range dial stepping down one position at a time. No text.",
+   "narration": "断开后换挡，再逐步换到合适量程。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "量程宁大勿小",
+   "scene": "打满或反偏，立即断电",
+   "prompt_en": "Diagram: a needle hitting the end stop and a needle swinging backward, both with a power off hand. No text.",
+   "narration": "指针打满或反偏，立即断电检查。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "接错表用错挡",
+   "scene": "电流表并到电源上等于短路",
+   "prompt_en": "Diagram: an ammeter placed directly across a power source, a spark and burn icon, crossed out. No text.",
+   "narration": "电流表绝不能并在电源两端，等于短路。",
+   "overlay": [
+    "接错表用错挡"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "接错表用错挡",
+   "scene": "电流挡电阻挡不能测电压",
+   "prompt_en": "Diagram: a multimeter dial on the current and resistance positions touching a voltage source, crossed out. No text.",
+   "narration": "电流挡、电阻挡，不能去测电压。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "接错表用错挡",
+   "scene": "测电阻一定先断电",
+   "prompt_en": "Diagram: a resistance measurement on a circuit with the power switch clearly off, a live circuit version crossed out. No text.",
+   "narration": "测电阻一定先断电，绝不带电测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "功率表测有功",
+   "scene": "功率表测有功功率",
+   "prompt_en": "Diagram: a wattmeter dial, a real power icon checked and a reactive power icon not measured. No text.",
+   "narration": "功率表测有功功率，不测无功。",
+   "overlay": [
+    "功率表测有功"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "功率表测有功",
+   "scene": "电流线圈串，电压线圈并",
+   "prompt_en": "Diagram: inside a wattmeter, a thick current coil in series with the load and a thin voltage coil across the supply. No text.",
+   "narration": "电流线圈串联，电压线圈并联。",
+   "overlay": [],
+   "labels": [
+    "电流线圈",
+    "电压线圈"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "功率表测有功",
+   "scene": "电流乘电压得功率",
+   "prompt_en": "Diagram: a current arrow and a voltage arrow combining into a power icon on the dial. No text.",
+   "narration": "两个线圈共同作用，读出功率。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表接线与常数",
+   "scene": "四个接线端",
+   "prompt_en": "Diagram: a wattmeter with four terminals, two for the current coil and two for the voltage coil, two marked with a star. No text.",
+   "narration": "功率表四个端子：电流两个，电压两个。",
+   "overlay": [
+    "功率表接线与常数"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表接线与常数",
+   "scene": "【实拍】同名端用短接片连接",
+   "prompt_en": "Close-up of a hand fitting a short metal link between the two star marked terminals of a wattmeter on a powered off bench.",
+   "narration": "标星号的同名端，按说明书短接。",
+   "overlay": [],
+   "labels": [
+    "*同名端"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表接线与常数",
+   "scene": "按需要选电压电流量程",
+   "prompt_en": "Diagram: a wattmeter with a voltage range selector and a current range selector, both set by a hand. No text.",
+   "narration": "电压、电流量程，按实验需要选。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "功率表接线与常数",
+   "scene": "读数格数乘常数",
+   "prompt_en": "Diagram: a dial reading in divisions multiplied by a constant to give the real power. No text.",
+   "narration": "先算功率表常数，格数乘常数是功率。",
+   "overlay": [],
+   "labels": [
+    "P = 格数×K"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "选对功率因数表",
+   "scene": "单位功率因数与低功率因数表",
+   "prompt_en": "Diagram: two wattmeters side by side, one marked with a full circle icon and one with a small arc icon. No text.",
+   "narration": "功率表分单位功率因数和低功率因数。",
+   "overlay": [
+    "选对功率因数表"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "选对功率因数表",
+   "scene": "按负载功率因数选，选错不准",
+   "prompt_en": "Diagram: a load icon with a power factor gauge pointing to the matching wattmeter, a wrong pairing crossed out. No text.",
+   "narration": "按负载功率因数和说明书选，错了不准。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "选对功率因数表",
+   "scene": "串电流表监视电流线圈",
+   "prompt_en": "Diagram: an ammeter in series with the wattmeter current coil, a needle below the limit line. No text.",
+   "narration": "再串一只电流表，防电流线圈过载。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "万用表一表多用",
+   "scene": "一只表测电压、电流、电阻",
+   "prompt_en": "Diagram: a multimeter in the center with icons for voltage, current and resistance around it. No text.",
+   "narration": "万用表一表多用：电压、电流、电阻。",
+   "overlay": [
+    "万用表一表多用"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "万用表一表多用",
+   "scene": "指针式和数字式",
+   "prompt_en": "Diagram: an analog multimeter and a digital multimeter side by side. No text.",
+   "narration": "分指针式和数字式两种。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "万用表一表多用",
+   "scene": "两根表笔接入电路",
+   "prompt_en": "Diagram: a red probe and a black probe leading from a multimeter to two points of a circuit. No text.",
+   "narration": "通过两根表笔接入电路。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "万用表挡位插孔",
+   "scene": "显示屏、保持键、电源键",
+   "prompt_en": "Diagram: the top of a digital multimeter with a blank display, a hold button and a power button highlighted. No text.",
+   "narration": "上面是显示屏、保持键和电源键。",
+   "overlay": [
+    "万用表挡位插孔"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "万用表挡位插孔",
+   "scene": "旋钮选挡",
+   "prompt_en": "Diagram: a rotary dial with icons for voltage, current, resistance and continuity positions. No text.",
+   "narration": "旋钮选挡：电压、电流、电阻、通断。",
+   "overlay": [],
+   "labels": [
+    "V",
+    "A",
+    "Ω",
+    "通断"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "万用表挡位插孔",
+   "scene": "通断挡查导线",
+   "prompt_en": "Diagram: the continuity position testing a disconnected wire on an unpowered bench, a beep icon. No text.",
+   "narration": "通断挡能查导线通不通，要断电测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "万用表挡位插孔",
+   "scene": "大电流有单独插孔",
+   "prompt_en": "Diagram: the jacks of a multimeter with a separate high current jack highlighted, a wrong plug crossed out. No text.",
+   "narration": "大电流有单独的插孔，别插错。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "有效值与峰值",
+   "scene": "仪表读的是有效值",
+   "prompt_en": "Diagram: a sine wave with a flat dashed line marking its effective value and a meter reading. No text.",
+   "narration": "仪表读到的是有效值。",
+   "overlay": [
+    "有效值与峰值"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "有效值与峰值",
+   "scene": "峰值是有效值乘根号二",
+   "prompt_en": "Diagram: the sine wave peak marked above the effective value line, a multiply by root two icon. No text.",
+   "narration": "正弦峰值是有效值乘根号二，约1.414倍。",
+   "overlay": [],
+   "labels": [
+    "峰值=有效值×√2"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K19",
+   "section_title": "有效值与峰值",
+   "scene": "220伏的峰值约311伏",
+   "prompt_en": "Diagram: a sine wave labeled by icons with a peak far above the meter reading. No text.",
+   "narration": "220伏交流，峰值约311伏。",
+   "overlay": [],
+   "labels": [
+    "峰值约311 V"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "表笔检查与握法",
+   "scene": "【实拍】检查表笔绝缘有无破损",
+   "prompt_en": "Close-up of a hand bending and inspecting the insulation of multimeter test leads, the probes not connected to anything.",
+   "narration": "用表前，查表笔导线有没有破损。",
+   "overlay": [
+    "表笔检查与握法"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "表笔检查与握法",
+   "scene": "破了就换，表壳破停用",
+   "prompt_en": "Diagram: a cracked probe and a broken meter case crossed out, a new probe set checked. No text.",
+   "narration": "破了裂了就换；表壳破了，停止使用。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "表笔检查与握法",
+   "scene": "手指在护指环后面",
+   "prompt_en": "Diagram: a hand holding a probe with fingers behind the finger guard ring, a finger on the metal tip crossed out. No text.",
+   "narration": "手指放在护指环后面，别碰金属部分。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K20",
+   "section_title": "表笔检查与握法",
+   "scene": "测前核对插孔和挡位",
+   "prompt_en": "Diagram: probes plugged into the current jack while measuring voltage, a spark icon, crossed out. No text.",
+   "narration": "插电流孔去测电压会短路，先核对。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "换挡移笔，用完关机",
+   "scene": "换挡前表笔先离开电路",
+   "prompt_en": "Diagram: the probes lifted off the circuit before the dial is turned, a check mark. No text.",
+   "narration": "换挡前，表笔先离开电路。",
+   "overlay": [
+    "换挡移笔，用完关机"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "换挡移笔，用完关机",
+   "scene": "换好核对再测",
+   "prompt_en": "Diagram: the dial set, jacks checked with a magnifier, then the probes back on the circuit. No text.",
+   "narration": "换好挡、核对好，再去测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "K21",
+   "section_title": "换挡移笔，用完关机",
+   "scene": "【实拍】用完拨到关机挡",
+   "prompt_en": "Close-up of a hand turning a digital multimeter dial to the off position and coiling the test leads.",
+   "narration": "用完拨到关机挡，防止下次误测。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "断电接线，查后通电，不带电改线",
+   "prompt_en": "Diagram: a power off switch, a teacher check icon and a crossed out live rewiring hand. No text.",
+   "narration": "断电接线，老师查后通电，不带电改。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "电流表串，电压表并，量程从大到小",
+   "prompt_en": "Diagram: an ammeter in series, a voltmeter in parallel and a range dial at maximum, all checked. No text.",
+   "narration": "电流表串，电压表并，量程先大后小。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "测电阻断电，冒烟立即断电报告",
+   "prompt_en": "Diagram: an ohm symbol with a power off icon and a smoke wisp with a report arrow. No text.",
+   "narration": "测电阻先断电；冒烟发烫，断电报告。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣抱着一台调压器和一把剥线钳",
+   "prompt_en": "The panda mascot holds a variable autotransformer with a round knob and a pair of wire strippers, waving goodbye.",
+   "narration": "下一课：调压器、常用器件与电工工具。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
