@@ -1,0 +1,1135 @@
+{
+ "id": "178_无菌操作与细胞培养",
+ "edition": "课程",
+ "series": "高校实验室安全",
+ "title": "无菌操作与细胞培养",
+ "seconds": 420,
+ "source_doc": "course/高校实验室安全/178_无菌操作与细胞培养.md",
+ "author_source": "project/高校实验室安全/178_无菌操作与细胞培养/src.py",
+ "points": {
+  "K1": "无菌操作是什么",
+  "K2": "准入与风险评估",
+  "K3": "个人卫生与防护",
+  "K4": "开工前清洁台面",
+  "K5": "在柜内或台内操作",
+  "K6": "物品布置与手的动作",
+  "K7": "本生灯的点燃与关闭",
+  "K8": "酒精遇明火会燃烧",
+  "K9": "接种环灼烧与冷却",
+  "K10": "先给平板做标记",
+  "K11": "四区划线的原理",
+  "K12": "逐区划线的步骤",
+  "K13": "从肉汤无菌取菌",
+  "K14": "倒置培养与送培",
+  "K15": "无菌物只碰无菌物",
+  "K16": "加液、转移与传代",
+  "K17": "收尾：消毒与洗手",
+  "K18": "发现污染怎么办",
+  "S1": "菌液溅洒与报告"
+ },
+ "shots": [
+  {
+   "shot": 1,
+   "seconds": 5,
+   "section": "开场",
+   "section_title": "开场",
+   "scene": "欣欣站在生物安全柜旁，手拿一只空白培养皿",
+   "prompt_en": "The panda mascot stands beside a biological safety cabinet in a clean microbiology teaching lab, holding up an empty petri dish, looking at the camera.",
+   "narration": "第15章第十六课：无菌操作与细胞培养。",
+   "overlay": [
+    "无菌操作与细胞培养"
+   ],
+   "labels": [],
+   "mode": "speaker"
+  },
+  {
+   "shot": 2,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "阿杰对着敞开的平板边说边划，旁边的酒精瓶靠着火焰",
+   "prompt_en": "The young male student talks loudly while streaking an open petri dish next to a burner flame, a spray bottle of alcohol sitting right beside the flame, a red warning icon.",
+   "narration": "阿杰边聊边划线，酒精瓶就挨着火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 3,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "三天后，他的平板长满了杂菌",
+   "prompt_en": "Diagram: a petri dish covered with fuzzy mixed colonies of many colors instead of neat separate dots, a sad face icon. No text.",
+   "narration": "三天后，平板长满了杂菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 4,
+   "seconds": 5,
+   "section": "情景",
+   "section_title": "情景",
+   "scene": "小研：污染挡在外面，火也要管住",
+   "prompt_en": "The female graduate student in a lab coat and gloves points to a tidy bench with a burner and a capped alcohol bottle kept far away.",
+   "narration": "小研：无菌靠规范，明火要管住。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 5,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "无菌操作是什么",
+   "scene": "空气、台面、手上都有微生物",
+   "prompt_en": "Diagram: tiny microbe icons floating in the air, sitting on a bench surface, on hands and on a plant leaf. No text.",
+   "narration": "空气、台面、手上，到处是微生物。",
+   "overlay": [
+    "无菌操作是什么"
+   ],
+   "labels": [
+    "空气",
+    "台面",
+    "手"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 6,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "无菌操作是什么",
+   "scene": "无菌操作：不让杂菌混进来",
+   "prompt_en": "Diagram: a shield around an open culture dish blocking microbe icons from the air, only the target microbe inside. No text.",
+   "narration": "无菌操作：营造无菌环境，只留目标菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 7,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "无菌操作是什么",
+   "scene": "培养基营养好，杂菌也爱长",
+   "prompt_en": "Diagram: a nutrient medium plate feeding both a young plant tissue and unwanted bacteria and mold, the unwanted ones growing faster. No text.",
+   "narration": "培养基营养好，杂菌长得更快。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 8,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "无菌操作是什么",
+   "scene": "杂菌吃掉细胞，整瓶报废",
+   "prompt_en": "Diagram: a culture flask with healthy cells being overrun by contaminating microbes, then the flask crossed out. No text.",
+   "narration": "污染会毁掉细胞，整批报废。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 9,
+   "seconds": 5,
+   "section": "K1",
+   "section_title": "无菌操作是什么",
+   "scene": "灭菌消毒只能尽量降低风险",
+   "prompt_en": "Diagram: a risk bar going down step by step with cleaning, disinfection and careful handling icons, never quite reaching zero. No text.",
+   "narration": "做不到绝对无菌，只能步步降风险。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 10,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "准入与风险评估",
+   "scene": "进实验室前先参加准入培训",
+   "prompt_en": "The safety administrator hands a training certificate card to the young male student at a microbiology lab door. The card is blank.",
+   "narration": "进微生物室、细胞室，先过准入培训。",
+   "overlay": [
+    "准入与风险评估"
+   ],
+   "labels": [
+    "见第007课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 11,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "准入与风险评估",
+   "scene": "评估菌株和细胞的危害，定防护",
+   "prompt_en": "Diagram: a strain tube and a cell flask under a magnifier, a risk matrix and a protection level ladder beside them. No text.",
+   "narration": "评估菌株、细胞的风险，定防护级别。",
+   "overlay": [],
+   "labels": [
+    "见第060课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 12,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "准入与风险评估",
+   "scene": "教学用菌株，领用归还登记",
+   "prompt_en": "Diagram: a labeled teaching strain tube on a tray, a logbook with a check mark, an unknown soil sample crossed out. No text.",
+   "narration": "只用批准的教学菌株，领还要登记。",
+   "overlay": [],
+   "labels": [
+    "教学用大肠杆菌"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 13,
+   "seconds": 5,
+   "section": "K2",
+   "section_title": "准入与风险评估",
+   "scene": "细胞可能带病毒，先查SDS",
+   "prompt_en": "Diagram: a cell flask with a small virus warning icon, and a safety data sheet document with a magnifier. No text.",
+   "narration": "细胞可能带病毒，试剂先查SDS。",
+   "overlay": [],
+   "labels": [
+    "见第040课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 14,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "个人卫生与防护",
+   "scene": "扎发、穿实验服、戴护目镜手套",
+   "prompt_en": "The female graduate student ties back long hair, buttons a lab coat, puts on safety goggles and gloves that cover the wrists.",
+   "narration": "扎好头发，穿实验服，戴手套护目镜。",
+   "overlay": [
+    "个人卫生与防护"
+   ],
+   "labels": [
+    "见第074课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 15,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "个人卫生与防护",
+   "scene": "【实拍】七步洗手，洗掉细菌和皮屑",
+   "prompt_en": "Close-up of hands being washed thoroughly with soap at a lab sink, rubbing palms, backs of hands and between fingers.",
+   "narration": "接触细胞前，先认真洗手。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 16,
+   "seconds": 5,
+   "section": "K3",
+   "section_title": "个人卫生与防护",
+   "scene": "不用嘴吸液，用移液器",
+   "prompt_en": "Diagram: a mouth pipetting icon crossed out, a hand holding a pipette controller checked. No text.",
+   "narration": "绝不用嘴吸液，一律用移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 17,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "开工前清洁台面",
+   "scene": "开工前擦台面、扫地、关窗",
+   "prompt_en": "The young male student wipes a lab bench, a closed window and a blocked air vent icon in the background, a broom leaning by the wall.",
+   "narration": "开工前擦台面，关好门窗避开风口。",
+   "overlay": [
+    "开工前清洁台面"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 18,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "开工前清洁台面",
+   "scene": "喷消毒剂，用纸巾擦拭",
+   "prompt_en": "Close-up of gloved hands spraying disinfectant on a bench and wiping with a paper towel, the towel then dropped into a waste bag.",
+   "narration": "台面喷消毒剂，纸巾擦净按规定丢。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 19,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "开工前清洁台面",
+   "scene": "柜内台面用前用后各擦一遍",
+   "prompt_en": "Diagram: a safety cabinet work surface being wiped with a spray bottle, a before icon and an after icon both checked. No text.",
+   "narration": "用乙醇擦柜内台面，用前用后各一遍。",
+   "overlay": [],
+   "labels": [
+    "70%～75%乙醇"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 20,
+   "seconds": 5,
+   "section": "K4",
+   "section_title": "开工前清洁台面",
+   "scene": "活组织不能高压，靠消毒剂",
+   "prompt_en": "Diagram: a plant tissue piece next to an autoclave crossed out, and a disinfectant spray bottle checked. No text.",
+   "narration": "活组织不能高压灭菌，只能靠消毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 21,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "在柜内或台内操作",
+   "scene": "超净台护样品，生物安全柜护人",
+   "prompt_en": "Diagram: a clean bench with airflow blowing toward the user marked for non-hazardous work, and a biological safety cabinet protecting user and sample. No text.",
+   "narration": "超净台只做无害材料，有风险进安全柜。",
+   "overlay": [
+    "在柜内或台内操作"
+   ],
+   "labels": [
+    "见第071课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 22,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "在柜内或台内操作",
+   "scene": "前窗放在规定的低位",
+   "prompt_en": "Close-up of the front sash of a biological safety cabinet lowered to its marked working height, a green check beside it.",
+   "narration": "安全柜前窗放到规定高度。",
+   "overlay": [],
+   "labels": [
+    "见第072课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 23,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "在柜内或台内操作",
+   "scene": "共用操作台：带走自己的东西",
+   "prompt_en": "Diagram: a shared transfer hood with two students taking turns, one carrying away their own dishes, tools soaking in a disinfectant jar. No text.",
+   "narration": "共用操作台，用完带走自己的培养物。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 24,
+   "seconds": 5,
+   "section": "K5",
+   "section_title": "在柜内或台内操作",
+   "scene": "再进柜，先消毒手套和台面",
+   "prompt_en": "Close-up of gloved hands being sprayed with disinfectant before reentering a cabinet, the surface lightly sprayed again.",
+   "narration": "再进柜，先给手套和台面消毒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 25,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "物品布置与手的动作",
+   "scene": "物品擦拭后再放进柜",
+   "prompt_en": "Close-up of gloved hands wiping the outside of a medium bottle with disinfectant before placing it inside a safety cabinet.",
+   "narration": "进柜的每样东西，先擦一遍。",
+   "overlay": [
+    "物品布置与手的动作"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 26,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "物品布置与手的动作",
+   "scene": "一次放齐，定位摆放，不堆满",
+   "prompt_en": "Diagram: a top view of a cabinet work surface with only a few items in fixed places, a crowded surface beside it crossed out. No text.",
+   "narration": "一次放齐，定位摆放，台面别堆满。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 27,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "物品布置与手的动作",
+   "scene": "移液器放右边，试剂放中后",
+   "prompt_en": "Diagram: a top view layout with a pipette controller on the right and reagent bottles in the middle back, arrows showing no reaching over. No text.",
+   "narration": "顺手布局，手不从敞口瓶上方跨。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 28,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "物品布置与手的动作",
+   "scene": "【实拍】双手直进直出",
+   "prompt_en": "Close-up of gloved arms moving straight into and out of a safety cabinet front opening, slowly, without sweeping sideways.",
+   "narration": "双手直进直出，不在柜口横扫。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 29,
+   "seconds": 5,
+   "section": "K6",
+   "section_title": "物品布置与手的动作",
+   "scene": "动作慢、少说话",
+   "prompt_en": "Diagram: a slow motion icon, a closed mouth icon and a calm hand over a dish, a talking mouth icon crossed out. No text.",
+   "narration": "动作慢而稳，操作时少说话。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 30,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本生灯的点燃与关闭",
+   "scene": "火焰周围落菌少",
+   "prompt_en": "Diagram: a burner flame with rising warm air pushing microbe icons away from a small working zone around it. No text.",
+   "narration": "火焰周围的空气，落菌少得多。",
+   "overlay": [
+    "本生灯的点燃与关闭"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 31,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本生灯的点燃与关闭",
+   "scene": "先划火柴，再开燃气点火",
+   "prompt_en": "Diagram: step icons, a lit match, a closed air hole on the burner barrel, the gas valve opening, then a flame. No text.",
+   "narration": "先划火柴，关进气孔，再开气点火。",
+   "overlay": [],
+   "labels": [
+    "①火柴",
+    "②关进气孔",
+    "③开燃气"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 32,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本生灯的点燃与关闭",
+   "scene": "暂不用火，调成黄色火焰",
+   "prompt_en": "Diagram: a burner with a visible yellow flame and an arm moving around it carefully, a hidden blue flame icon with a caution mark. No text.",
+   "narration": "暂时不用，调成看得见的黄焰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 33,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本生灯的点燃与关闭",
+   "scene": "关灯：先关进气孔，再关燃气",
+   "prompt_en": "Diagram: step icons, the air hole closing to a yellow flame, then the gas valve turned off, the flame gone, a check mark. No text.",
+   "narration": "关灯：先关进气孔，再关燃气阀。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 34,
+   "seconds": 5,
+   "section": "K7",
+   "section_title": "本生灯的点燃与关闭",
+   "scene": "酒精灯：火柴点，灯帽盖灭",
+   "prompt_en": "Diagram: an alcohol lamp lit with a match and put out with its cap, lighting one lamp from another crossed out, blowing it out crossed out. No text.",
+   "narration": "酒精灯用火柴点、灯帽盖，不能对点。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 35,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酒精遇明火会燃烧",
+   "scene": "明火旁喷酒精，雾气着火",
+   "prompt_en": "Diagram: an alcohol spray mist drifting into a burner flame and catching fire, crossed out. No text.",
+   "narration": "有明火时，绝不能喷酒精。",
+   "overlay": [
+    "酒精遇明火会燃烧"
+   ],
+   "labels": [
+    "见第046课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 36,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酒精遇明火会燃烧",
+   "scene": "等酒精挥发干再点火",
+   "prompt_en": "Diagram: a wet bench surface drying with evaporation icons, a clock, then a burner being lit, checked. No text.",
+   "narration": "擦过酒精，等它挥发干再点火。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 37,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酒精遇明火会燃烧",
+   "scene": "酒精瓶远离火焰，少量存放",
+   "prompt_en": "Diagram: a small capped alcohol bottle placed far from a burner flame, a big bottle next to the flame crossed out. No text.",
+   "narration": "酒精瓶少量、盖好、远离火焰。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 38,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酒精遇明火会燃烧",
+   "scene": "安全柜里不用明火",
+   "prompt_en": "Diagram: a biological safety cabinet with a flame icon crossed out inside, an electric loop sterilizer and disposable loops checked. No text.",
+   "narration": "安全柜里不用明火，用电热灭菌器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 39,
+   "seconds": 5,
+   "section": "K8",
+   "section_title": "酒精遇明火会燃烧",
+   "scene": "小火用灭火毯盖，报告老师",
+   "prompt_en": "Diagram: a small bench fire covered with a fire blanket, then a person reporting to a teacher, a gas valve closed icon. No text.",
+   "narration": "小火用灭火毯盖，关气，报告老师。",
+   "overlay": [],
+   "labels": [
+    "见第034课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 40,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接种环灼烧与冷却",
+   "scene": "火焰调蓝，环和环杆都烧红",
+   "prompt_en": "Diagram: a wire inoculating loop held in a blue burner flame, the loop and wire glowing red along the whole length. No text.",
+   "narration": "调成蓝焰，环和环杆都烧到发红。",
+   "overlay": [
+    "接种环灼烧与冷却"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 41,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接种环灼烧与冷却",
+   "scene": "【实拍】先烤环杆，环由内向外加热",
+   "prompt_en": "Close-up of a clean wire loop slowly drawn through a blue flame from the handle end toward the loop tip until it glows.",
+   "narration": "先烤环杆，再由内向外慢慢加热。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 42,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接种环灼烧与冷却",
+   "scene": "带菌环直接进火会溅",
+   "prompt_en": "Diagram: a loop with liquid plunged straight into the hottest part of a flame, tiny droplets spattering out, crossed out. No text.",
+   "narration": "带菌环直接插进火心，会溅出菌液。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 43,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接种环灼烧与冷却",
+   "scene": "【实拍】火焰旁停几秒，轻触琼脂检验",
+   "prompt_en": "Close-up of a hot wire loop held near the flame for a few seconds, then gently touching the edge of a sterile agar plate.",
+   "narration": "停几秒冷却，触琼脂没嗞嗞声再取菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 44,
+   "seconds": 5,
+   "section": "K9",
+   "section_title": "接种环灼烧与冷却",
+   "scene": "用完再烧，放灯座旁冷却",
+   "prompt_en": "Diagram: a used loop flamed again and rested on a holder beside the burner, away from paper and people. No text.",
+   "narration": "用完再烧一遍，放稳冷却别碰人。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 45,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "先给平板做标记",
+   "scene": "写培养基、姓名、菌名、日期",
+   "prompt_en": "Diagram: the bottom of a petri dish with four blank label lines around its edge, a marker pen beside it. No text.",
+   "narration": "划线前先标记：培养基、姓名、菌名、日期。",
+   "overlay": [
+    "先给平板做标记"
+   ],
+   "labels": [
+    "培养基",
+    "姓名缩写",
+    "菌名",
+    "日期"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 46,
+   "seconds": 5,
+   "section": "K10",
+   "section_title": "先给平板做标记",
+   "scene": "【实拍】写在皿底边缘",
+   "prompt_en": "Close-up of a gloved hand writing small blank marks along the rim of the bottom of an upside down petri dish with a marker.",
+   "narration": "写在皿底，沿边环写，不挡菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 47,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "四区划线的原理",
+   "scene": "平板划线：转接和分离菌",
+   "prompt_en": "Diagram: a tube and a broth flask pointing to a fresh agar plate, single separate dots appearing on it. No text.",
+   "narration": "平板划线法，用来转接和分离菌。",
+   "overlay": [
+    "四区划线的原理"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 48,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "四区划线的原理",
+   "scene": "分四区，越划越稀",
+   "prompt_en": "Diagram: a plate divided into four zones, dense lines in zone one, fewer in two and three, a few single dots in zone four. No text.",
+   "narration": "分四个区，一区接一区，越划越稀。",
+   "overlay": [],
+   "labels": [
+    "一区",
+    "二区",
+    "三区",
+    "四区"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 49,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "四区划线的原理",
+   "scene": "一个细胞长成一个菌落",
+   "prompt_en": "Diagram: one single cell icon growing into one round colony, a zoom circle on zone four. No text.",
+   "narration": "一个活细胞长成一个菌落，就是单菌落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 50,
+   "seconds": 5,
+   "section": "K11",
+   "section_title": "四区划线的原理",
+   "scene": "第四区：平行线或竖线加蛇形",
+   "prompt_en": "Diagram: two options for the last zone, parallel lines not touching zone three, or one straight line followed by a snake line to the center. No text.",
+   "narration": "第四区可划平行线，或竖线加蛇形线。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 51,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "挑一个单菌落，平板翻正",
+   "prompt_en": "Diagram: a sterile loop picking one small colony from a source plate, a new plate turned face up. No text.",
+   "narration": "挑一个单菌落，平板翻正再划。",
+   "overlay": [
+    "逐区划线的步骤"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 52,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "【实拍】第一区轻轻来回划",
+   "prompt_en": "Close-up of a gloved hand lifting a petri dish lid slightly and lightly zigzagging a loop across the first zone of a sterile agar plate.",
+   "narration": "第一区来回轻划，别划破琼脂。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 53,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "盖回皿盖，再灼烧接种环",
+   "prompt_en": "Diagram: the lid placed back on the plate immediately, then the loop going back into the flame. No text.",
+   "narration": "马上盖盖，再灼烧接种环。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 54,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "【实拍】转动平板，与上一区相交划",
+   "prompt_en": "Close-up of the plate rotated a quarter turn and the cooled loop drawing separate strokes that cross into the first zone.",
+   "narration": "转动平板，与上一区相交，每道抬起。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 55,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "每区：烧、冷、触、交",
+   "prompt_en": "Diagram: a repeating cycle of four icons, flame, cooling, touching agar, crossing lines, around a plate with zones three and four. No text.",
+   "narration": "每区都：灼烧、冷却、检验、相交。",
+   "overlay": [],
+   "labels": [
+    "灼烧",
+    "冷却",
+    "检验",
+    "相交"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 56,
+   "seconds": 5,
+   "section": "K12",
+   "section_title": "逐区划线的步骤",
+   "scene": "对光看划痕",
+   "prompt_en": "Diagram: a finished plate held up against a lamp, faint streak lines visible on the agar surface, a check mark. No text.",
+   "narration": "对光能看到划痕，说明划到了。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 57,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "从肉汤无菌取菌",
+   "scene": "肉汤轻摇匀，新平板标记",
+   "prompt_en": "Diagram: a capped broth culture tube being gently swirled, a new labeled plate beside it. No text.",
+   "narration": "肉汤先轻摇匀，新平板同样标记。",
+   "overlay": [
+    "从肉汤无菌取菌"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 58,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "从肉汤无菌取菌",
+   "scene": "【实拍】小指夹瓶盖，瓶口过火",
+   "prompt_en": "Close-up of a hand loosening a tube cap with the little finger and holding it, the tube mouth passed briefly through a flame.",
+   "narration": "小指夹住瓶盖，瓶口过一下火。",
+   "overlay": [],
+   "labels": [
+    "练习用无菌肉汤"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 59,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "从肉汤无菌取菌",
+   "scene": "伸环取液，瓶口再过火盖好",
+   "prompt_en": "Diagram: a sterile loop dipped into the broth showing a thin liquid film, the tube mouth flamed again and capped. No text.",
+   "narration": "伸环取液见液膜，瓶口再过火盖好。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 60,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "从肉汤无菌取菌",
+   "scene": "环杆伸进瓶里，也要烧",
+   "prompt_en": "Diagram: a long loop wire reaching deep into a bottle, the whole wire highlighted for flaming. No text.",
+   "narration": "环杆伸进瓶里，所以也要烧到。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 61,
+   "seconds": 5,
+   "section": "K13",
+   "section_title": "从肉汤无菌取菌",
+   "scene": "只在第一区加一次菌",
+   "prompt_en": "Diagram: inoculum added only to zone one, a second dip back into the broth crossed out. No text.",
+   "narration": "只在第一区加一次菌，不回瓶补菌。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 62,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "倒置培养与送培",
+   "scene": "平板倒置培养",
+   "prompt_en": "Diagram: a plate turned upside down in an incubator, condensation drops on the lid kept away from the agar. No text.",
+   "narration": "平板倒过来放，冷凝水不滴下。",
+   "overlay": [
+    "倒置培养与送培"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 63,
+   "seconds": 5,
+   "section": "K14",
+   "section_title": "倒置培养与送培",
+   "scene": "捆好放进指定培养盒",
+   "prompt_en": "Diagram: two inverted plates held together with a rubber band, placed into a designated incubator box. No text.",
+   "narration": "两块平板捆好，放进指定培养盒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 64,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "无菌物只碰无菌物",
+   "scene": "核心：只用无菌物接触无菌物",
+   "prompt_en": "Diagram: a sterile pipette touching sterile medium checked, a pipette touching a bottle outside crossed out. No text.",
+   "narration": "核心原则：只用无菌的东西碰它们。",
+   "overlay": [
+    "无菌物只碰无菌物"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 65,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "无菌物只碰无菌物",
+   "scene": "【实拍】拆移液管，只握上端",
+   "prompt_en": "Close-up of gloved hands peeling open a sterile pipette wrapper, touching only the top end and inserting it into a pipette controller.",
+   "narration": "拆移液管，只握上端插进移液器。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 66,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "无菌物只碰无菌物",
+   "scene": "培养基只在柜里开盖",
+   "prompt_en": "Diagram: a medium bottle opened inside a cabinet checked, the same bottle opened on an open bench crossed out. No text.",
+   "narration": "培养基和试剂，只在柜内打开。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 67,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "无菌物只碰无菌物",
+   "scene": "【实拍】瓶盖口朝下放，尽快盖回",
+   "prompt_en": "Close-up of a gloved hand placing a bottle cap opening side down on the cabinet surface, without touching the inner rim.",
+   "narration": "手不碰盖内沿，盖口朝下放。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 68,
+   "seconds": 5,
+   "section": "K15",
+   "section_title": "无菌物只碰无菌物",
+   "scene": "一支移液管只用一次",
+   "prompt_en": "Diagram: one pipette used once and discarded, the same pipette dipped into a second bottle crossed out, a pipette left standing in a bottle crossed out. No text.",
+   "narration": "一支移液管只用一次，碰脏就换。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 69,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加液、转移与传代",
+   "scene": "加完添加剂，摇匀标记",
+   "prompt_en": "Diagram: a supplement added to a medium bottle, the bottle gently swirled, a blank label with a pen icon. No text.",
+   "narration": "加完添加剂摇匀，标明加了什么和时间。",
+   "overlay": [
+    "加液、转移与传代"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 70,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加液、转移与传代",
+   "scene": "大体积首选移液管",
+   "prompt_en": "Diagram: a large pipette transferring medium checked, pouring from bottle to bottle shown faded with a biohazard caution icon. No text.",
+   "narration": "大量转移首选移液管，有生物危害不倾倒。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 71,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加液、转移与传代",
+   "scene": "洒出立即擦净",
+   "prompt_en": "Diagram: a small spill on the cabinet surface wiped immediately with a disinfectant soaked towel. No text.",
+   "narration": "洒出来的液体，立刻用消毒剂擦净。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 72,
+   "seconds": 5,
+   "section": "K16",
+   "section_title": "加液、转移与传代",
+   "scene": "传代换液，原则相同",
+   "prompt_en": "Diagram: a cell flask being passaged and fed inside the cabinet, the same rule icons repeated, no reaching over open flasks. No text.",
+   "narration": "传代换液原则一样，干脆利落。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 73,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "收尾：消毒与洗手",
+   "scene": "瓶子拧紧再拿出",
+   "prompt_en": "Diagram: bottles capped tightly before leaving the cabinet, a bottle opened outside the cabinet marked not for culture. No text.",
+   "narration": "瓶子拧紧再拿出，柜外开过的不再用。",
+   "overlay": [
+    "收尾：消毒与洗手"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 74,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "收尾：消毒与洗手",
+   "scene": "台面再消毒，纸巾按感染性废物",
+   "prompt_en": "Diagram: the work surface sprayed and wiped again, used towels dropped into a biohazard waste bag. No text.",
+   "narration": "台面再消毒，纸巾进感染性废物袋。",
+   "overlay": [],
+   "labels": [
+    "见第077课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 75,
+   "seconds": 5,
+   "section": "K17",
+   "section_title": "收尾：消毒与洗手",
+   "scene": "摘手套、洗手，实验服不出门",
+   "prompt_en": "The young male student removes gloves into a waste bag, washes hands, and hangs his lab coat on a hook before leaving.",
+   "narration": "摘手套洗手，实验服留在实验室。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 76,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "发现污染怎么办",
+   "scene": "发现污染：不开盖，不闻",
+   "prompt_en": "Diagram: a contaminated dish with a fuzzy growth, an opening hand icon and a nose icon both crossed out. No text.",
+   "narration": "发现污染皿：不开盖、不闻、不细看。",
+   "overlay": [
+    "发现污染怎么办"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 77,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "发现污染怎么办",
+   "scene": "立即报告老师，取出高压灭菌",
+   "prompt_en": "The female graduate student reports to the safety administrator, then the sealed contaminated dish goes into an autoclave bag.",
+   "narration": "立即报告，取出后高压灭菌。",
+   "overlay": [],
+   "labels": [
+    "见第123课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 78,
+   "seconds": 5,
+   "section": "K18",
+   "section_title": "发现污染怎么办",
+   "scene": "噬菌体实验专区专用",
+   "prompt_en": "Diagram: a separated work zone with its own tools for phage work, an arrow to a neighbor's bacterial plates crossed out. No text.",
+   "narration": "噬菌体极易串染，专区专用器材。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 79,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "菌液溅洒与报告",
+   "scene": "菌液洒了：盖纸巾、倒消毒剂",
+   "prompt_en": "Diagram: a small culture spill covered with paper towels and disinfectant poured from the edge inward, a timer icon. No text.",
+   "narration": "菌液洒了：盖上纸巾，从外向内倒消毒剂。",
+   "overlay": [
+    "菌液溅洒与报告"
+   ],
+   "labels": [
+    "见第078课"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 80,
+   "seconds": 5,
+   "section": "S1",
+   "section_title": "菌液溅洒与报告",
+   "scene": "溅到皮肤眼睛：冲洗并报告",
+   "prompt_en": "Diagram: a hand rinsed at a sink and an eye at an eyewash station, then a report arrow to the lab supervisor. No text.",
+   "narration": "溅到皮肤眼睛，立即冲洗并报告。",
+   "overlay": [],
+   "labels": [
+    "实验室负责人"
+   ],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 81,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "准入、防护、清洁、柜内操作",
+   "prompt_en": "Diagram: a training card, goggles and gloves, a spray bottle and a safety cabinet, all checked. No text.",
+   "narration": "准入防护、清洁台面、规范进柜。",
+   "overlay": [
+    "小结"
+   ],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 82,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "灼烧冷却、四区划线、倒置",
+   "prompt_en": "Diagram: a glowing loop, a four zone streak plate and an inverted plate in an incubator. No text.",
+   "narration": "灼烧冷却，四区划线，倒置培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 83,
+   "seconds": 5,
+   "section": "小结",
+   "section_title": "小结",
+   "scene": "酒精远离火，污染不开盖",
+   "prompt_en": "Diagram: an alcohol bottle away from a flame, a sealed contaminated dish going to an autoclave. No text.",
+   "narration": "酒精远离明火，污染皿灭菌处置。",
+   "overlay": [],
+   "labels": [],
+   "mode": "voiceover"
+  },
+  {
+   "shot": 84,
+   "seconds": 5,
+   "section": "结尾",
+   "section_title": "结尾",
+   "scene": "欣欣捧着一瓶小小的植物组培苗",
+   "prompt_en": "The panda mascot holds a small glass culture jar with a tiny green plantlet growing on medium, waving goodbye.",
+   "narration": "下一课：植物组织培养。",
+   "overlay": [],
+   "labels": [],
+   "mode": "speaker"
+  }
+ ]
+}
